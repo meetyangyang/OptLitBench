@@ -1,0 +1,6 @@
+Convergence Properties of Policy Iteration
+Manuel S.  Santos and John  Rust;
+Abstract
+This paper analyzes asymptotic convergence properties of policy iteration in a class of stationary, infinite-horizon Markovian decision problems that arise in optimal growth theory. These problems have continuous state and control variables and must therefore be discretized in order to compute an approximate solution. The discretization may render inapplicable known convergence results for policy iteration such as those of Puterman and Brumelle [Math. Oper. Res., 4 (1979), pp. 60--69]. Under certain regularity conditions, we prove that for piecewise linear interpolation, policy iteration converges quadratically. Also, under more general conditions we establish that convergence is superlinear. We show how the constants involved in these convergence orders depend on the grid size of the discretization. These theoretical results are illustrated with numerical experiments that compare the performance of policy iteration and the method of successive approximations.
+Keywords
+policy iteration, method of successive approximations, quadratic and superlinear convergence, complexity, computational cost, 49M15, 65K05, 90C30, 93B40, 

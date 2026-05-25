@@ -1,0 +1,6 @@
+Automatic differentiation of quadrature
+ Marina   Menshikova ; Shaun   A.   Forth ;
+Abstract
+ We analyse the application of automatic differentiation (AD) to the quadrature (numerical integration) of a function integrand to determine the sensitivities of the integral to variations in the limits of integration. We derive an expression for the truncation errors of such AD-derived sensitivities and relate them to the truncation error of the original, and a closely related, function quadrature. Our results hold provided the integrand is one degree higher continuously differentiable than that sufficient for convergence of its quadrature. Numerical results validate our analysis. However, utilization of algebraic expressions for such sensitivities, instead of directly applying AD, results in an approach that proves more efficient for the tetrachoric correlation estimation example we considered using our Matlab AD framework. 
+Keywords
+automatic differentiation, quadrature, Matlab, mesh sensitivities, tetrachoric correlation AMS Subject Classification : 65D25, 65D30, 65D32 

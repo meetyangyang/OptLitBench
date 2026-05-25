@@ -1,0 +1,8 @@
+Convergence rates for direct transcription of optimal control problems using collocation at Radau points
+Shivakumar Kameswaran;Lorenz T. Biegler;
+Abstract
+
+We present convergence rates for the error between the direct transcription solution and the true solution of an unconstrained optimal control problem. The problem is discretized using collocation at Radau points (aka Gauss-Radau or Legendre-Gauss-Radau quadrature). The precision of Radau quadrature is the highest after Gauss (aka Legendre-Gauss) quadrature, and it has the added advantage that the end point is one of the abscissas where the function, to be integrated, is evaluated. We analyze convergence from a Nonlinear Programming (NLP)/matrix algebra perspective. This enables us to predict the norms of various constituents of a matrix that is “close” to the KKT matrix of the discretized problem. We present the convergence rates for the various components, for a sufficiently small discretization size, as functions of the discretization size and the number of collocation points. We illustrate this using several test examples. This also leads to an adjoint estimation procedure, given the Lagrange multipliers for the large scale NLP.
+
+Keywords
+Optimal control  Direct transcription  Collocation  Radau  Adjoint estimation  Convergence rates  

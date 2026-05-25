@@ -1,0 +1,6 @@
+Polynomial algorithms for LP over a subring of the algebraic integers with applications to LP with circulant matrices
+Ilan Adler;Peter A. Beling;
+Abstract
+We show that a modified variant of the interior point method can solve linear programs (LPs) whose coefficients are real numbers from a subring of the algebraic integers. By defining the encoding size of such numbers to be the bit size of the integers that represent them in the subring, we prove the modified algorithm runs in time polynomial in the encoding size of the input coefficients, the dimension of the problem, and the order of the subring. We then extend the Tardos scheme to our case, obtaining a running time which is independent of the objective and right-hand side data. As a consequence of these results, we are able to show that LPs with real circulant coefficient matrices can be solved in strongly polynomial time. Finally, we show how the algorithm can be applied to LPs whose coefficients belong to the extension of the integers by a fixed set of square roots.
+Keywords
+Linear programming  polynomial-time algorithms  strongly polynomial-time algorithms  circulant matrices  algebraic numbers  

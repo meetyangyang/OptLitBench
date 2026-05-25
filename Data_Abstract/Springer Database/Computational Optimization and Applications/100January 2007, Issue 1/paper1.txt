@@ -1,0 +1,7 @@
+Newton-KKT interior-point methods for indefinite quadratic programming
+P.-A. Absil;André L. Tits;
+Abstract
+Two interior-point algorithms are proposed and analyzed, for the (local) solution of (possibly) indefinite quadratic programming problems. They are of the Newton-KKT variety in that (much like in the case of primal-dual algorithms for linear programming) search directions for the “primal” variables and the Karush-Kuhn-Tucker (KKT) multiplier estimates are components of the Newton (or quasi-Newton) direction for the solution of the equalities in the first-order KKT conditions of optimality or a perturbed version of these conditions. Our algorithms are adapted from previously proposed algorithms for convex quadratic programming and general nonlinear programming. First, inspired by recent work by P. Tseng based on a “primal” affine-scaling algorithm (à la Dikin) [J. of Global Optimization, 30 (2004), no. 2, 285–300], we consider a simple Newton-KKT affine-scaling algorithm. Then, a “barrier” version of the same algorithm is considered, which reduces to the affine-scaling version when the barrier parameter is set to zero at every iteration, rather than to the prescribed value. Global and local quadratic convergence are proved under nondegeneracy assumptions for both algorithms. Numerical results on randomly generated problems suggest that the proposed algorithms may be of great practical interest.
+Keywords
+Interior-point algorithms  Primal-dual algorithms  Indefinite quadratic programming
+  Newton-KKT  

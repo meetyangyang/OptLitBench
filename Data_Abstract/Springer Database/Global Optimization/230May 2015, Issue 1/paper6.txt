@@ -1,0 +1,6 @@
+An information guided framework for simulated annealing
+Chao Yang;Mrinal Kumar;
+Abstract
+This paper presents an information guided framework for stochastic optimization with simulated annealing. Information gathered during randomized exploration of the search domain is used as feedback with progressively increasing gain to drive the optimization procedure, potentially causing the annealing temperature to rise during the algorithm’s execution. The benefits of reheating during the annealing process are shown in terms of significant improvement in the algorithm’s performance, while also staying within bounds for its convergence. A guided-annealing temperature is defined that incorporates information into the annealing schedule. The resulting algorithm has two phases: phase I performs nearly unrestricted exploration as a reconnaissance of the optimization domain and phase II “re-heats” the annealing procedure and exploits information gathered during phase I. Phase I flows seamlessly into phase II via an information effectiveness parameter without need for user input. Conditions are derived to prevent excessive reheating that may jeopardize convergence characteristics. Several examples are presented to test the new algorithm.
+Keywords
+Stochastic optimization  Simulated annealing  Randomization  

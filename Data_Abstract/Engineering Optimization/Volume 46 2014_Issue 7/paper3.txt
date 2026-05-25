@@ -1,0 +1,6 @@
+Efficient PCA-driven EAs and metamodel-assisted EAs, with applications in turbomachinery
+Stylianos A. Kyriacou;Varvara G. Asouti;Kyriakos C. Giannakoglou;
+Abstract
+This article presents methods to enhance the efficiency of Evolutionary Algorithms (EAs), particularly those assisted by surrogate evaluation models or metamodels. The gain in efficiency becomes important in applications related to industrial optimization problems with a great number of design variables. The development is based on the principal components analysis of the elite members of the evolving EA population, the outcome of which is used to guide the application of evolution operators and/or train dependable metamodels/artificial neural networks by reducing the number of sensory units. Regarding the latter, the metamodels are trained with less computing cost and yield more relevant objective function predictions. The proposed methods are applied to constrained, single- and two-objective optimization of thermal and hydraulic turbomachines.
+Keywords
+evolutionary algorithms, metamodels, principal component analysis, design-optimization of turbomachines 

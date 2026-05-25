@@ -1,0 +1,6 @@
+Structured second-and higher-order derivatives through univariate Taylor series
+   C.   Bischof ;   G.   Corliss ;   A.   Griewank ;
+Abstract
+ Second- and higher-order derivatives are required by applications in scientific computation, especially for optimization algorithms. The two complementary ideas of interpolating partial derivatives from univariate Taylor series and preaccumulating of “local” derivatives form the mathematical foundations for accurate, efficient computation of second-and higher-order partial derivatives for large codes. We compute derivatives in a fashion that parallelizes well, exploits sparsity or other structure frequently found in Hessian matrices, can compute only selected elements of a Hessian matrix, and computes Hessian × vector products. 
+Keywords
+Automatic differentiation, second-order partial derivatives, Hessian matrices, Taylor series, computational complexity 

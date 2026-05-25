@@ -1,0 +1,6 @@
+A semi-Lagrangian level set method for structural optimization
+Mingdong Zhou;Michael Yu Wang;
+Abstract
+In level set based structural optimization, semi-Lagrange method has an advantage to allow for a large time step without the limitation of Courant–Friedrichs–Lewy (CFL) condition for numerical stability. In this paper, a line search algorithm and a sensitivity modulation scheme are introduced for the semi-Lagrange method. The line search attempts to adaptively determine an appropriate time step in each iteration of optimization. With consideration of some practical characteristics of the topology optimization process, incorporating the line search into semi-Lagrange optimization method can yield fewer design iterations and thus improve the overall computational efficiency. The sensitivity modulation is inspired from the conjugate gradient method in finite-dimensions, and provides an alternative to the standard steepest descent search in level set based optimization. Two benchmark examples are presented to compare the sensitivity modulation and the steepest descent techniques with and without the line search respectively.
+Keywords
+Structural optimization  Level set method  Line search  Sensitivity modulation  Semi-Lagrange method  

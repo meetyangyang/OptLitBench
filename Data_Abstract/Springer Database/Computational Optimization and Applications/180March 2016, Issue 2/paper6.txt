@@ -1,0 +1,6 @@
+Copositivity tests based on the linear complementarity problem
+Carmo Brás;Gabriele Eichfelder;Joaquim Júdice;
+Abstract
+We present copositivity tests based on new necessary and sufficient conditions which require the solution of linear complementarity problems (LCP). We propose methodologies involving Lemke’s method, an enumerative algorithm and a linear mixed-integer programming formulation to solve the required LCPs. Moreover, we discuss a new necessary condition for (strict) copositivity based on solving a linear program, which can be used as a preprocessing step. The algorithms with these three different variants are thoroughly applied to test matrices from the literature and to max-clique instances with matrices of order up to \(496\times 496\). We compare our procedures with three other copositivity tests from the literature as well as with a general global optimization solver. The numerical results are very promising and equally good and in many cases better than the results reported elsewhere.
+Keywords
+Conic optimization  Copositivity  Complementarity problems   Linear programming  15A48  90C33  65F30  65K99  90C26  

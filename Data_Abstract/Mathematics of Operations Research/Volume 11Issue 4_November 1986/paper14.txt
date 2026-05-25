@@ -1,0 +1,6 @@
+A 98%-Effective Lot-Sizing Rule for a Multi-Product, Multi-Stage Production / Inventory System
+Robin Roundy;
+Abstract
+We study a multi-product, multi-stage production inventory system in continuous time. In-process and finished goods are referred to as products and inventories of a single item held at different locations are treated as different products. External demand can occur for any or all of the products at a constant, product-dependent rate.When an order is placed for a product it is instantly delivered. The set-up cost is a function of the set of products being ordered at that point in time. The goal is to schedule orders for each of the products over an infinite horizon so as to minimize the long-run average cost.We define a new class of policies in which each product uses a stationary interval of time between successive orders, and the ratio of the order intervals of any two products is an integer power of two. We show that there is always a policy in this class that is within 2% of optimal. This extends a similar result for the one-warehouse, multi-retailer system. For assembly systems we show how to compute such a policy in 0(N log N) time. For general systems a sequence of max-flow, min-cut computations is required. The algorithm is efficient for very large systems.
+Keywords
+inventory lot sizing heuristic 

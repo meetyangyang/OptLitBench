@@ -1,0 +1,6 @@
+Kernel Methods for the Approximation of Nonlinear Systems
+Jake  Bouvrie and Boumediene  Hamzi;
+Abstract
+We introduce a data-driven model approximation method for nonlinear control systems, drawing on recent progress in machine learning and statistical-dimensionality reduction. The method is based on embedding the nonlinear system in a high- (or infinite-) dimensional reproducing kernel Hilbert space (RKHS) where linear balanced truncation may be carried out implicitly. This leads to a nonlinear reduction map which can be combined with a representation of the system belonging to an RKHS to give a closed, reduced order dynamical system which captures the essential input-output characteristics of the original model. Working in RKHS provides a convenient, general functional-analytical framework for theoretical understanding. Empirical simulations illustrating the approach are also provided.
+Keywords
+nonlinear systems, approximation, balancing, machine learning, kernel methods, Gramians, controllability energy, observability energy, 

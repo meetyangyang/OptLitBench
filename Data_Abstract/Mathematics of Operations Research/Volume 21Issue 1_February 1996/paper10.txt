@@ -1,0 +1,6 @@
+Geometric Convergence Rates for Stochastically Ordered Markov Chains
+Robert B. Lund;Richard L. Tweedie;
+Abstract
+Let {Φn} be a Markov chain on the state space [0, ∞) that is stochastically ordered in its initial state; that is, a stochastically larger initial state produces a stochastically larger chain at all other times. Examples of such chains include random walks, the number of customers in various queueing systems, and a plethora of storage processes. A large body of recent literature concentrates on establishing geometric ergodicity of {Φn} in total variation; that is, proving the existence of a limiting probability measure π and a number r > 1 such that $$ \lim_{n\to \infty} r^n \sup_{A\in {\cal B}[0, \infty)} \vert P_x [\Phi_n\in A] - \pi(A)\vert = 0 $$ for every deterministic initial state Φ0 ≡ x. We seek to identity the largest r that satisfies this relationship. A dependent sample path coupling and a Foster-Lyapunov drift inequality are used to derive convergence rate bounds; we then show that the bounds obtained are frequently the best possible. Application of the methods to queues and random walks are included.
+Keywords
+total variation convergence rate geometric ergodicity coupling random walks queues storage processes 

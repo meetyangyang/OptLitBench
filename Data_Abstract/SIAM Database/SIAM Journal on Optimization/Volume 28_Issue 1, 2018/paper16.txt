@@ -1,0 +1,6 @@
+A First-Order Primal-Dual Algorithm with Linesearch
+Yura  Malitsky and Thomas  Pock;
+Abstract
+The paper proposes a linesearch for a primal-dual method. Each iteration of the linesearch requires an update of only the dual (or primal) variable. For many problems, in particular for regularized least squares, the linesearch does not require any additional matrix-vector multiplications. We prove convergence of the proposed method under standard assumptions. We also show an ergodic $O(1/N)$ rate of convergence for our method.  In the case when one or both of the prox-functions are strongly convex, we modify our basic method to get a  better convergence rate. Finally, we propose a linesearch for a saddle-point problem with an additional smooth term. Several numerical experiments confirm the efficiency of our proposed methods.
+Keywords
+saddle-point problems, first-order algorithms, primal-dual algorithms, linesearch, convergence rates, backtracking, 49M29, 65K10, 65Y20, 90C25, 

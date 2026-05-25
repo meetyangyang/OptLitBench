@@ -1,0 +1,6 @@
+On complexity of maximizatin of submodular functions *  
+   E.   Girlich ;   M.   Kovalev ;   A.   Moushchensky ;
+Abstract
+ We investigate the oracle complexity of the following two problems. The first problem is to find all local maxima of a submodular function defined on lattice 2 N  The function is given by a procedure s g f-oracle which says: the function increases or decreases on an edge of lattice 2 N  The objective is to minimize the number of s g f-oracle calls. We derive an optimal algorithm for case of lattice 2 N  and for case of lattice . The second problem is to find the global maximum of a submodular function defined on lattice 2 N  The function is given by f-oracle which computes the function value. The objective is to minimize the number of f-oracle calls. We present a hybrid algorithm using s g f and f-oracles. The [ILM0002]-complexity of the hybrid algorithm equals the fcomplexity of finding the global maximun of a submodular function, but the s g f-oracle is cheaper for some applications than the,f-oracle.  
+Keywords
+Submodular Function, Local Maximum, Shannon-optimal Algorithm 

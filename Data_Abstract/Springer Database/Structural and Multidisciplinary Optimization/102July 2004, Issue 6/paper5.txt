@@ -1,0 +1,6 @@
+Robust optimization using a gradient index: MEMS applications
+J.S. Han;B.M. Kwak;
+Abstract
+This paper discusses a simple and effective robust optimization formulation and illustrates its application to MicroElectroMechanical Systems (MEMS) devices. The proposed formulation improves robustness of the objective function by minimizing a gradient index (GI), defined as a function of gradients of performance functions with respect to uncertain variables. The level of constraint feasibility is also enhanced by adding a term determined by a constraint value and the gradient index. In the robust optimal design procedure, a deterministic optimization for performance improvement is followed by a sensitivity analysis with respect to uncertainties such as MEMS fabrication errors and changes of material properties. During the process of the deterministic optimization and sensitivity analysis, dominant performances and critical uncertain variables are identified to define the GI. Our approach for robust design requires no statistical information on the uncertainties and yet achieves robustness effectively. Two MEMS application examples including a micro accelerometer and a resonant-type micro probe are presented.   
+Keywords
+robust optimization  gradient index  MEMS  micro accelerometer  resonant-type micro probe  fabrication errors   

@@ -1,0 +1,6 @@
+A new, globally convergent Riemannian conjugate gradient method
+Hiroyuki Sato;Toshihiro Iwai;
+Abstract
+This article deals with the conjugate gradient method on a Riemannian manifold with interest in global convergence analysis. The existing conjugate gradient algorithms on a manifold endowed with a vector transport need the assumption that the vector transport does not increase the norm of tangent vectors, in order to confirm that generated sequences have a global convergence property. In this article, the notion of a scaled vector transport is introduced to improve the algorithm so that the generated sequences may have a global convergence property under a relaxed assumption. In the proposed algorithm, the transported vector is rescaled in case its norm has increased during the transport. The global convergence is theoretically proved and numerically observed with examples. In fact, numerical experiments show that there exist minimization problems for which the existing algorithm generates divergent sequences, but the proposed algorithm generates convergent sequences.
+Keywords
+conjugate gradient method, Riemannian optimization, global convergence, ‘scaled’ vector transport, Wolfe conditionsAMS Subject Classifications: 65K05, 49M37, 90C30 

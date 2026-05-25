@@ -1,0 +1,6 @@
+A Fast Algorithm for the Decomposition of Graphs and Posets
+Hermann Buer;Rolf H. Möhring;
+Abstract
+Many combinatorial (optimization) problems of graphs (e.g., finding maximal independent sets or maximum matchings) and acyclic networks (e.g., finding shortest paths or maximum flows) can be solved by means of decomposition of the graph (network) into autonomous subsets. (Given a relation R on A, a subset B of A is called autonomous, if for each α ∈ A\B the following holds: if (α, β0) ∈ R for some β0 ∈ B, then (α, β) ∈ R for all β ∈ B;if (β0, α) ∈ R for some β0 ∈ B, then (β, α) ∈ R for all β ∈ B). We present an algorithm which finds all autonomous subsets of graphs and posets with p points in O(p3) time and O(p2) space. The ideas behind this algorithm reveal rather strong connections between graph decomposition, homomorphisms of graphs and posets, and comparability graph recognition. Furthermore, the well-known series-parallel decomposition for graphs and posets is contained as a special case.
+Keywords
+decomposition modular decomposition series-parallel decomposition fast algorithm graph poset combinatorial optimization 

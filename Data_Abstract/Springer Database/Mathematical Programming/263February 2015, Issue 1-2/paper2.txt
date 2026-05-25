@@ -1,0 +1,6 @@
+Phase recovery, MaxCut and complex semidefinite programming
+Irène Waldspurger;Alexandre d’Aspremont;Stéphane Mallat;
+Abstract
+Phase retrieval seeks to recover a signal \(x \in {\mathbb {C}}^p\) from the amplitude \(|A x|\) of linear measurements \(Ax \in {\mathbb {C}}^n\). We cast the phase retrieval problem as a non-convex quadratic program over a complex phase vector and formulate a tractable relaxation (called PhaseCut) similar to the classical MaxCut semidefinite program. We solve this problem using a provably convergent block coordinate descent algorithm whose structure is similar to that of the original greedy algorithm in Gerchberg and Saxton (Optik 35:237–246, 1972), where each iteration is a matrix vector product. Numerical results show the performance of this approach over three different phase retrieval problems, in comparison with greedy phase retrieval algorithms and matrix completion formulations.
+Keywords
+94A12  90C22  90C27  

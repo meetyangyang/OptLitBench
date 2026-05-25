@@ -1,0 +1,6 @@
+LQ-Optimal Sampled-Data Control under Stochastic Delays: Gridding Approach for Stabilizability and Detectability
+Masashi  Wakaiki , Masaki  Ogura, and Joa͂o P.  Hespanha;
+Abstract
+We solve a linear quadratic optimal control problem for sampled-data systems with stochastic delays. The delays are stochastically determined by the last few delays. The proposed optimal controller can be efficiently computed by iteratively solving a Riccati difference equation, provided that a discrete-time Markov jump system equivalent to the sampled-data system is stochastically stabilizable and detectable. Sufficient conditions for these notions are provided in the form of linear matrix inequalities, from which stabilizing controllers and state observers can be constructed.
+Keywords
+time delay, optimal control, Markov process, stochastic stabilizability, stochastic detectability, 49J15, 93C57, 93E15, 

@@ -1,0 +1,6 @@
+Optimization of Queues Using an Infinitesimal Perturbation Analysis-Based Stochastic Algorithm with General Update Times
+Edwin K. P.  Chong and Peter J.  Ramadge;
+Abstract
+Convergence (with probability one) of a stochastic optimization algorithm for a single server queue is proved. The parameter to be optimized is updated using an infinitesimal perturbation analysis estimate of the gradient of the performance measure, and the updates are performed at general times. First, an algorithm in which the parameter is updated before each customer begins service is considered. Then it is shown how this analysis can be extended to an algorithm that updates at certain stopping times. The analysis suggests that the sample path behavior of the algorithm is similar to that of an algorithm that updates at the start of every busy period.
+Keywords
+perturbation analysis, stochastic approximation, queueing, 93, 60, 

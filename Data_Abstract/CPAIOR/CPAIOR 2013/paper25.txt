@@ -1,0 +1,4 @@
+Improving Strong Branching by Propagation
+Gerald Gamrath;
+Abstract
+ Strong branching is an important component of most variable selection rules in branch-and-bound based mixed-integer linear programming solvers. It predicts the dual bounds of potential child nodes by solving auxiliary LPs and thereby helps to keep the branch-and-bound tree small. In this paper, we describe how these dual bound predictions can be improved by including domain propagation into strong branching. Computational experiments on standard MIP instances indicate that this is beneficial in three aspects: It helps to reduce the average number of LP iterations per strong branching call, the number of branch-and-bound nodes, and the overall solving time.

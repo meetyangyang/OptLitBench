@@ -1,0 +1,6 @@
+Superlinearly Convergent Exact Penalty Methods with Projected Structured Secant Updates for Constrained Nonlinear Least Squares
+Narges Bidabadi;Nezam Mahdavi-Amiri;
+Abstract
+We present a superlinearly convergent exact penalty method for solving constrained nonlinear least squares problems, in which the projected exact penalty Hessian is approximated by using a structured secant updating scheme. We give general conditions for the two-step superlinear convergence of the algorithm and prove that the projected structured Broyden–Fletcher–Goldfarb–Shanno (BFGS), Powell-symmetric-Broyden (PSB), and Davidon–Fletcher–Powell (DFP) update formulas satisfy these conditions. Then we extend the results to the projected structured convex Broyden family update formulas. Extensive testing results obtained by an implementation of our algorithms, as compared to the results obtained by several other competent algorithms, demonstrate the efficiency and robustness of the proposed approach.
+Keywords
+Projected structured secant updates  Constrained nonlinear least squares  Exact penalty methods  Projected Hessian updates  

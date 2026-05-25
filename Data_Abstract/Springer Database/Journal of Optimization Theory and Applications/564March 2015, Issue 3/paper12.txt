@@ -1,0 +1,6 @@
+Lagrangian Transformation and Interior Ellipsoid Methods in Convex Optimization
+Roman Polyak;
+Abstract
+The rediscovery of the affine scaling method in the late 1980s was one of the turning points which led to a new chapter in Modern Optimization—the interior point methods (IPMs). Simultaneously and independently, the theory of exterior point methods for convex optimization arose. The two seemingly unconnected fields turned out to be intrinsically connected. The purpose of this paper is to show the connections between primal exterior and dual IPMs. Our main tool is the Lagrangian transformation (LT), which for inequality constrained has the best features of the classical augmented Lagrangian. We show that the primal exterior LT method is equivalent to the dual interior ellipsoid method (IEM). Using the equivalence we prove convergence, estimate the convergence rate, and establish the complexity bound for the IEM assuming boundedness of both the primal and the dual optimal sets. We show that application of the LT method with modified barrier transformation for linear programming (LP) leads to Dikin’s affine scaling method for the dual LP.
+Keywords
+Lagrangian transformation  Interior point methods   Duality  Bregman distance  Augmented lagrangian  Interior ellipsoid method  90C25  90C26  

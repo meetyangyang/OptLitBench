@@ -1,0 +1,6 @@
+A robust optimization approach to dispatching technicians under stochastic service times
+Sebastián Souyris;Cristián E. Cortés;Fernando Ordóñez;Andres Weintraub;
+Abstract
+We consider the problem of dispatching technicians to service/repair geographically distributed equipment. This problem can be cast as a vehicle routing problem with time windows, where customers expect fast response and small delays. Estimates of the service time, however, can be subject to a significant amount of uncertainty due to misdiagnosis of the reason for failure or surprises during repair. It is therefore crucial to develop routes for the technicians that would be less sensitive to substantial deviations from estimated service times. In this paper we propose a robust optimization model for the vehicle routing problem with soft time windows and service time uncertainty and solve real-world instances with a branch and price method. We evaluate the efficiency of the approach through computational experiments on real industry routing data.
+Keywords
+VRP with time windows  k-repairmen problem  Service time uncertainty  Robust optimization  

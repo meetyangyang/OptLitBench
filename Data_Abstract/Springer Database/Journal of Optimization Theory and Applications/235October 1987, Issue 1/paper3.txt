@@ -1,0 +1,6 @@
+Dual techniques for constrained optimization
+W. W. Hager;
+Abstract
+Algorithms to solve constrained optimization problems are derived. These schemes combine an unconstrained minimization scheme like the conjugate gradient method, an augmented Lagrangian, and multiplier updates to obtain global quadratic convergence. Since an augmented Lagrangian can be ill conditioned, a preconditioning strategy is developed to eliminate the instabilities associated with the penalty term. A criterion for deciding when to increase the penalty is presented.
+Keywords
+Constrained optimization  duality  augmented Lagrangians  multiplier methods  preconditioning  null space methods  

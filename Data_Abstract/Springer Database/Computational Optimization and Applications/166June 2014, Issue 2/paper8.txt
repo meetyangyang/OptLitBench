@@ -1,0 +1,6 @@
+CVaR-constrained stochastic programming reformulation for stochastic nonlinear complementarity problems
+Liyan Xu;Bo Yu;
+Abstract
+We reformulate a stochastic nonlinear complementarity problem as a stochastic programming problem which minimizes an expected residual defined by a restricted NCP function with nonnegative constraints and CVaR constraints which guarantee the stochastic nonlinear function being nonnegative with a high probability. By applying smoothing technique and penalty method, we propose a penalized smoothing sample average approximation algorithm to solve the CVaR-constrained stochastic programming. We show that the optimal solution of the penalized smoothing sample average approximation problem converges to the solution of the corresponding nonsmooth CVaR-constrained stochastic programming problem almost surely. Finally, we report some preliminary numerical test results.
+Keywords
+Stochastic complementarity problems  Sample average approximation  CVaR  Penalized smoothing method  R0 function  

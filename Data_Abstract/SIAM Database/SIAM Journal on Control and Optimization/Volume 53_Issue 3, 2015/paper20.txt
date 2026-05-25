@@ -1,0 +1,6 @@
+Switching Rules for Stabilization of Linear Systems of Conservation Laws
+Pierre-Olivier  Lamare, Antoine  Girard, and Christophe  Prieur;
+Abstract
+In this paper, the exponential convergence in $L^2$-norm is analyzed for a class of switched linear systems of conservation laws. The boundary conditions are subject to switches. We investigate the problem of synthesizing stabilizing switching controllers. By means of Lyapunov techniques, three control strategies are developed based on steepest descent selection, possibly combined with a hysteresis and a low-pass filter. For the first strategy we show the global exponential stabilizability, but no result for the existence and uniqueness of trajectories can be stated. For the other ones, the problem is shown to be well-posed and global exponential convergence can be obtained. Moreover, we consider the robustness issues for these switching rules in presence of measurement noise. Some numerical examples illustrate our approach and show the merits of the proposed strategies. Particularly, we have developed a model for a network of open channels, with switching controllers in the gate operations.
+Keywords
+switched systems, hyperbolic systems, Lyapunov function, stabilizability, 93D15, 93D30, 35L02, 35L65, 93C30, 

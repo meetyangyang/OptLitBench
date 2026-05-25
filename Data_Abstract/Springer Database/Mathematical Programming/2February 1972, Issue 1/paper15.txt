@@ -1,0 +1,6 @@
+Updated triangular factors of the basis to maintain sparsity in the product form simplex method
+J. J. H. Forrest;J. A. Tomlin;
+Abstract
+In recent years triangular factorization of the basis has greatly enhanced the efficiency of linear programming inversion routines, leading to greater speed, accuracy and a sparser representation. This paper describes a new product form method for updating the triangular factors at each iteration of the simplex method which has proved extremely effective in reducing the rate of growth of the transformation (eta) files, thus reducing the amount of work per iteration and the frequency of re-inversion. We indicate some of the programming measures required to implement the method and give computational experience on real problems of up to 3500 rows.
+Keywords
+Mathematical Method  Product Form  Computational Experience  Form Method  Real Problem  

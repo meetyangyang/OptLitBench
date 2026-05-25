@@ -1,0 +1,6 @@
+On implementing a primal-dual interior-point method for conic quadratic optimization
+E.D. Andersen;C. Roos;T. Terlaky;
+Abstract
+ Based on the work of the Nesterov and Todd on self-scaled cones an implementation of a primal-dual interior-point method for solving large-scale sparse conic quadratic optimization problems is presented. The main features of the implementation are it is based on a homogeneous and self-dual model, it handles rotated quadratic cones directly, it employs a Mehrotra type predictor-corrector extension and sparse linear algebra to improve the computational efficiency. Finally, the implementation exploits fixed variables which naturally occurs in many conic quadratic optimization problems. This is a novel feature for our implementation. Computational results are also presented to document that the implementation can solve very large problems robustly and efficiently.
+Keywords
+Computational Result  Linear Algebra  Computational Efficiency  Large Problem  Fixed Variable  

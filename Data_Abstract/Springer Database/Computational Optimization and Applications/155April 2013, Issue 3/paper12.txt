@@ -1,0 +1,6 @@
+A penalty function-based differential evolution algorithm for constrained global optimization
+M. M. Ali;W. X. Zhu;
+Abstract
+We propose a differential evolution-based algorithm for constrained global optimization. Although differential evolution has been used as the underlying global solver, central to our approach is the penalty function that we introduce. The adaptive nature of the penalty function makes the results of the algorithm mostly insensitive to low values of the penalty parameter. We have also demonstrated both empirically and theoretically that the high value of the penalty parameter is detrimental to convergence, specially for functions with multiple local minimizers. Hence, the penalty function can dispense with the penalty parameter. We have extensively tested our penalty function-based DE algorithm on a set of 24 benchmark test problems. Results obtained are compared with those of some recent algorithms.
+Keywords
+Constrained global optimization  Differential evolution  Penalty function  

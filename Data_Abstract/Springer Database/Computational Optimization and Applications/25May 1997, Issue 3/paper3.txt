@@ -1,0 +1,6 @@
+The Two-Period Travelling Salesman Problem Applied to Milk Collection in Ireland
+Martin Butler;H. Paul Williams;Leslie-Ann Yarrow;
+Abstract
+We describe a new extension to the Symmetric Travelling Salesman Problem (STSP) in which some nodes are visited inboth of 2 periods and the remaining nodes are visited in either 1 ofthe periods. A number of possible Integer Programming Formulationsare given. Valid cutting plane inequalities are defined for thisproblem which result in an, otherwise prohibitively difficult, modelof 42 nodes becoming easily solvable by a combination of cuts andBranch-and-Bound. Some of the cuts are entered in a “pool” andonly used when it is automatically verified that they are violated.Other constraints which are generalisations of the subtour and combinequalities for the single period STSP, are identified manuallywhen needed. Full computational details of solution process aregiven. 
+Keywords
+travelling salesman problem  inequalities  cutting planes  Branch-and-Bound  

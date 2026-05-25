@@ -1,0 +1,6 @@
+On the implementation and effectiveness of morphological close-open and open-close filters for topology optimization
+Mattias Schevenels;Ole Sigmund;
+Abstract
+This note reconsiders the morphological close-open and open-close filters for topology optimization introduced in an earlier paper (Sigmund Struct Multidiscip Optim 33(4–5):401–424 (2007)). Close-open and open-close filters are defined as the sequential application of four dilation or erosion filters. In the original paper, these filters were proposed in order to provide length scale control in both the solid and the void phase. However, it was concluded that the filters were not useful in practice due to the computational cost of the sensitivity analysis. In this note, it is shown that the computational cost is much lower if the sensitivity analysis for each erosion or dilation step is performed sequentially. Unfortunately, it is also found that the close-open and open-close filters do not have the expected effect in terms of length scale control: each close or open operation ruins the effect of the preceding filters, resulting in a design with a minimum length scale in either the solid phase or the void phase, but not both.
+Keywords
+Topology optimization  Morphological filters  Length scale control  Sensitivity analysis  

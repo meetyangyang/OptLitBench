@@ -1,0 +1,6 @@
+A feasible point adaptation of the Blankenship and Falk algorithm for semi-infinite programming
+Angelos Tsoukalas;Berç Rustem;
+Abstract
+Discretization methods for semi-infinite programming do not provide a feasible point in a finite number of iterations. We propose a method that computes a feasible point with an objective value better than or equal to a target value f 0 or proves that such a point does not exist. Then a binary search on the space of objective values can be performed to obtain a feasible, \({\epsilon}\)-optimal solution. The algorithm is based on the algorithm proposed in (Blankenship JW, Falk JE in J Optim Theory Appl 19(2):261–281, 1976). Under mild assumptions it terminates in a finite number of iterations.
+Keywords
+Semi-infinite programming  Feasible point method  Global optimization  

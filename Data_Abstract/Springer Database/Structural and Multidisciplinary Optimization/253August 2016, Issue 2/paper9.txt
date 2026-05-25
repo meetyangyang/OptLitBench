@@ -1,0 +1,6 @@
+Mixed-integer second-order cone programming for global optimization of compliance of frame structure with discrete design variables
+Yoshihiro Kanno;
+Abstract
+Frame structures are extensively used in mechanical, civil, and aerospace engineering. Besides generating reasonable designs of frame structures themselves, frame topology optimization may serve as a tool providing us with conceptual designs of diverse engineering structures. Due to its nonconvexity, however, most of existing approaches to frame topology optimization are local optimization methods based on nonlinear programming with continuous design variables or (meta)heuristics allowing some discrete design variables. Presented in this paper is a new global optimization approach to the frame topology optimization with discrete design variables. It is shown that the compliance minimization problem with predetermined candidate cross-sections can be formulated as a mixed-integer second-order cone programming problem. The global optimal solution is then computed with an existing solver based on a branch-and-cut algorithm. Numerical experiments are performed to examine computational efficiency of the proposed approach.
+Keywords
+Frame topology optimization  Global optimization  Discrete optimization  Mixed-integer programming  Second-order cone programming  

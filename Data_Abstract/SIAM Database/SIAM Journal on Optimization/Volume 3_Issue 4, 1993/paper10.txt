@@ -1,0 +1,6 @@
+A Quadratically Convergent Polynomial Algorithm for Solving Entropy Optimization Problems
+Florian  Potra and Yinyu  Ye;
+Abstract
+A potential reduction algorithm is developed for solving entropy optimization problems. It is shown that the algorithm generates an $\epsilon $-optimal solution within at most $O( \sqrt{n} |\log \epsilon | )$ iterations, where, as usual, n is the number of nonnegative variables, and each iteration solves a system of linear equations. Under a computable criterion, the algorithm is tuned to the pure Newton method in a manner that leads to quadratic convergence while maintaining primal feasibility at each step. A stopping criterion is derived which ensures that the objective function approaches its optimal value within any prescribed tolerance. This applies for all entropy optimization problems having interior optimal solutions.
+Keywords
+entropy function, potential reduction algorithm, polynomiality, quadratic convergence, 65K05, 90C25, 

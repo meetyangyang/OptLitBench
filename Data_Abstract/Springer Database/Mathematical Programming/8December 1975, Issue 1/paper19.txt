@@ -1,0 +1,6 @@
+An alternate implementation of Goldfarb's minimization algorithm
+A. Buckley;
+Abstract
+Goldfarb's algorithm, which is one of the most successful methods for minimizing a function of several variables subject to linear constraints, uses a single matrix to keep second derivative information and to ensure that search directions satisfy any active constraints. In the original version of the algorithm this matrix is full, but by making a change of variables so that the active constraints become bounds on vector components, this matrix is transformed so that the dimension of its non-zero part is only the number of variablesless the number of active constraints. It is shown how this transformation may be used to give a version of the algorithm that usually provides a good saving in the amount of computation over the original version. Also it allows the use of sparse matrix techniques to take advantage of zeros in the matrix of linear constraints. Thus the method described can be regarded as an extension of linear programming to allow a non-linear objective function.
+Keywords
+Objective Function  Mathematical Method  Search Direction  Original Version  Linear Constraint  

@@ -1,0 +1,6 @@
+Surrogate modeling approximation using a mixture of experts based on EM joint estimation
+Dimitri Bettebghor;Nathalie Bartoli;Stéphane Grihon;Joseph Morlier;Manuel Samuelides;
+Abstract
+An automatic method to combine several local surrogate models is presented. This method is intended to build accurate and smooth approximation of discontinuous functions that are to be used in structural optimization problems. It strongly relies on the Expectation−Maximization (EM) algorithm for Gaussian mixture models (GMM). To the end of regression, the inputs are clustered together with their output values by means of parameter estimation of the joint distribution. A local expert is then built (linear, quadratic, artificial neural network, moving least squares) on each cluster. Lastly, the local experts are combined using the Gaussian mixture model parameters found by the EM algorithm to obtain a global model. This method is tested over both mathematical test cases and an engineering optimization problem from aeronautics and is found to improve the accuracy of the approximation.
+Keywords
+EM clustering  Gaussian mixture models  Mixture of experts  Surrogate models  

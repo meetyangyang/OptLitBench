@@ -1,0 +1,6 @@
+Syntactic expressions to express NP-hard optimization problems and problems with zero duality gap
+ Prabhu   Manyem ;
+Abstract
+ We show that simple syntactic expressions such as existential second-order (ESO) universal Horn formulae can express NP-hard optimization problems. There is a significant difference between the expressibilities of decision problems and optimization problems. This is similar to the difference in computation times for the two classes of problems; for example, a 2SAT Horn formula can be satisfied in polynomial time, whereas the optimization version in NP-hard. It is known that all polynomially solvable decision problems can be expressed as ESO universal (Π1) Horn sentences in the presence of a successor relation. We show here that, on the other hand, if P ≠ NP, optimization problems defy such a characterisation, by demonstrating that even a Π0 (quantifier free) Horn formula is unable to guarantee polynomial time solvability. Finally, by connecting concepts in optimization duality with those in descriptive complexity, we will show a method by which optimization problems can be solved by a single call to a ‘decision’ Turing machine, as opposed to multiple calls using a classical binary search setting. 
+Keywords
+optimization, duality, computational complexity, descriptive complexity, decision problem, MaxHorn2Sat 

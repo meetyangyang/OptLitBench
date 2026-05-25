@@ -1,0 +1,6 @@
+Queue-and-Idleness-Ratio Controls in Many-Server Service Systems
+Itay Gurvich;Ward Whitt;
+Abstract
+Motivated by call centers, we study large-scale service systems with multiple customer classes and multiple agent pools, each with many agents. We propose a family of routing rules called queue-and-idleness-ratio (QIR) rules. A newly available agent next serves the customer from the head of the queue of the class (from among those he is eligible to serve) whose queue length most exceeds a specified state-dependent proportion of the total queue length. An arriving customer is routed to the agent pool whose idleness most exceeds a specified state-dependent proportion of the total idleness. We identify regularity conditions on the network structure and system parameters under which QIR produces an important state-space collapse (SSC) result in the quality-and-efficiency-driven (QED) many-server heavy-traffic limiting regime. The SSC result is applied here to prove stochastic-process limits and in subsequent papers to solve important staffing and control problems for large-scale service systems.
+Keywords
+heavy-traffic Halfin-Whitt regime QED regime state-space collapse diffusion limits control of queueing systems 

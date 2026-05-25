@@ -1,0 +1,6 @@
+Parallel Uzawa Method for Large-Scale Minimization of Partially Separable Functions
+J. Koko;
+Abstract
+A parallel Uzawa-type algorithm, for solving unconstrained minimization of large-scale partially separable functions, is presented. Using auxiliary unknowns, the unconstrained minimization problem is transformed into a (linearly) constrained minimization of a separable function.The augmented Lagrangian of this problem decomposes into a sum of partially separable augmented Lagrangian functions. To take advantage of this property, a Uzawa block relaxation is applied. In every iteration, unconstrained minimization subproblems are solved in parallel before updating Lagrange multipliers. Numerical experiments show that the speed-up factor gained using our algorithm is significant.
+Keywords
+Unconstrained minimization  Partially separable functions  Augmented Lagrangian  

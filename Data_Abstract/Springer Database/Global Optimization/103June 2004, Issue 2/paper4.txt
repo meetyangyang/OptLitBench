@@ -1,0 +1,6 @@
+A New Successive Partition Algorithm for Concave Minimization Based on Cone Decomposition and Decomposition Cuts
+Marcus Porembski;
+Abstract
+In this paper we propose a new partition algorithm for concave minimization. The basic structure of the algorithm resembles that of conical algorithms. However, we make extensive use of the cone decomposition concept and derive decomposition cuts instead of concavity cuts to perform the bounding operation. Decomposition cuts were introduced in the context of pure cutting plane algorithms for concave minimization and has been shown to be superior to concavity cuts in numerical experiments. Thus by using decomposition cuts instead of concavity cuts to perform the bounding operation, unpromising parts of the feasible region can be excluded from further explorations at an earlier stage. The proposed successive partition algorithm finds an ε-global optimal solution in a finite number of iterations.
+Keywords
+concave minimization  cone decomposition  decomposition cut  successive partition  

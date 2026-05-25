@@ -1,0 +1,6 @@
+A polynomial cycle canceling algorithm for submodular flows
+C. Wallacher;Uwe T. Zimmermann;
+Abstract
+Submodular flow problems, introduced by Edmonds and Giles [2], generalize network flow problems. Many algorithms for solving network flow problems have been generalized to submodular flow problems (cf. references in Fujishige [4]), e.g. the cycle canceling method of Klein [9]. For network flow problems, the choice of minimum-mean cycles in Goldberg and Tarjan [6], and the choice of minimum-ratio cycles in Wallacher [12] lead to polynomial cycle canceling methods. For submodular flow problems, Cui and Fujishige [1] show finiteness for the minimum-mean cycle method while Zimmermann [16] develops a pseudo-polynomial minimum ratio cycle method. Here, we prove pseudo-polynomiality of a larger class of the minimum-ratio variants and, by combining both methods, we develop a polynomial cycle canceling algorithm for submodular flow problems.
+Keywords
+Key words: submodular flow problem – cycle canceling method – polynomial algorithms  

@@ -1,0 +1,6 @@
+Solving a class of stochastic mixed-integer programs with branch and price
+Eduardo F. Silva;R. Kevin Wood;
+Abstract
+We begin this paper by identifying a class of stochastic mixed-integer programs that have column-oriented formulations suitable for solution by a branch-and-price algorithm (B&P). We then survey a number of examples, and use a stochastic facility-location problem (SFLP) for a detailed demonstration of the relevant modeling and solution techniques. Computational results with a scenario representation of uncertain costs, demands and capacities show that B&P can be orders of magnitude faster than solving the standard formulation by branch and bound. We also demonstrate how B&P can solve SFLP exactly – as exactly as a deterministic mixed-integer program – when demands and other parameters can be represented as certain types of independent, random variables, e.g., independent, normal random variables with integer means and variances.
+Keywords
+Stochastic mixed-integer program  Column generation  Branch and price  90C11  90C15  47N10  

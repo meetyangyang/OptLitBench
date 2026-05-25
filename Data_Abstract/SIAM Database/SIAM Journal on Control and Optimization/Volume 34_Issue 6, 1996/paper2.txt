@@ -1,0 +1,6 @@
+Value Iteration in a Class of Communicating Markov Decision Chains with the Average Cost Criterion
+Rolando  Cavazos-Cadena;
+Abstract
+Markov decision processes with denumerable state space and discrete time parameter are considered. The performance index of a control policy is the (lim sup expected) average cost criterion, and the the main structural restrictions on the model are the following: (i) under the action of any stationary policy, the state space is a communicating class; (ii) the cost function has an almost monotone—or penalized—structure [V S. Borkar, SIAM J. Control Optim., 21(1983), pp. 652–666; 22 (1984), pp. 965–978]; and (iii) some stationary policy induces an ergodic chain with finite average cost. In this context it is shown that the value iteration scheme can be used to construct convergent approximations of a solution to the optimality equation, as well as a sequence of stationary policies whose limit points are optimal.
+Keywords
+Markov decision chains, average cost criterion, almost monotone cost function, value iteration scheme, pointwise convergence, 90C40, 93E20, 60J05, 

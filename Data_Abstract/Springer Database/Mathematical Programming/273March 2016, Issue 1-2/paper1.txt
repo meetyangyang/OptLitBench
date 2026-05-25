@@ -1,0 +1,6 @@
+Continuous knapsack sets with divisible capacities
+Laurence A. Wolsey;Hande Yaman;
+Abstract
+We study two continuous knapsack sets \(\mathcal {Y}_\ge \) and \(\mathcal {Y}_\le \) with \(n\) integer, one unbounded continuous and \(m\) bounded continuous variables in either \(\ge \) or \(\le \) form. When the coefficients of the integer variables are integer and divisible, we show in both cases that the convex hull is the intersection of the bound constraints and \(2^m\) polyhedra arising as the convex hulls of continuous knapsack sets with a single unbounded continuous variable. The latter convex hulls are completely described by an exponential family of partition inequalities and a polynomial size extended formulation is known in the \(\ge \) case. We also provide an extended formulation for the \(\le \) case. It follows that, given a specific objective function, optimization over both \(\mathcal {Y}_\ge \) and \(\mathcal {Y}_\le \) can be carried out by solving \(m\) polynomial size linear programs. A further consequence of these results is that the coefficients of the continuous variables all take the values 0 or 1 (after scaling) in any non-trivial facet-defining inequality of the convex hull of such sets.
+Keywords
+Continuous knapsack set  Splittable flow arc set  Divisible capacities  Partition inequalities  Convex hull  90C11  90C27  

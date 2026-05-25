@@ -1,0 +1,6 @@
+Computing the Local-Nonglobal Minimizer of a Large Scale Trust-Region Subproblem
+Charles  Fortin;
+Abstract
+We propose two algorithms for computing the local-nonglobal minimizer of a quadratic function subject to a constraint set that is a Euclidean sphere. We also discuss the case where the constraint set is a Euclidean ball. At each iteration of the algorithms, we compute the two smallest eigenvalues of a parametric matrix using an ARPACK subroutine. Only matrix-vector multiplications are required. Hence, we are able to exploit the possible sparsity of the Hessian matrix of the quadratic objective, making the algorithms suitable for large problems. This improves previous approaches based on matrix factorizations. We also give a geometric relationship, based on extremal ellipsoids, between the global and the local-nonglobal minimizers of the quadratic function under the given sphere constraint.
+Keywords
+trust-region subproblem, local minimizers, extremal ellipsoids, 90C06, 90C26, 93B60, 

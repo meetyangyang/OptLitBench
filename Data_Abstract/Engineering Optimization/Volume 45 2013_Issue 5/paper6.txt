@@ -1,0 +1,6 @@
+Matheuristic approaches for Q-coverage problem versions in wireless sensor networks
+ Alok   Singh ; André   Rossi ; Marc   Sevaux ;
+Abstract
+ This article deals with sensor coverage scheduling in wireless sensor networks subject to Q-coverage constraints. The main concern is to maximize the network lifetime, while ensuring that each target is covered by a given number of sensors. Three different variations of this problem are considered. Column generation based exact approaches are developed for those problems where the auxiliary problem is solved by a two-level approach comprising a genetic algorithm and an integer linear programming formulation. The genetic algorithm takes advantage of the auxiliary problem structure and appears to be very efficient at providing the master problem with attractive columns. The auxiliary problem integer linear programming (ILP) formulation is then mostly used for proving the optimality status of the current master problem solution. The proposed approaches are shown to be significantly faster than column generation approaches relying only on the auxiliary problem ILP formulation. 
+Keywords
+column generation, genetic algorithms, matheuristics, wireless sensor networks,  Q-coverage 

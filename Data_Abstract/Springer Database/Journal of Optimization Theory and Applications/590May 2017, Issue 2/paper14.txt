@@ -1,0 +1,6 @@
+Differentiability Conditions for Stochastic Hybrid Systems with Application to the Optimal Design of Microgrids
+Alphonse Hakizimana;Joseph K. Scott;
+Abstract
+This article considers the regularity of expected value minimization problems subject to discrete-time stochastic hybrid systems. A primary motivation is the optimal design of microgrids subject to detailed operational simulations with renewable resources and discrete dispatching. For such problems, hybrid behavior can make the cost function discontinuous for any fixed realization of uncertainty, which has led to the widespread use of derivative-free optimizers with well-known limitations. In contrast, we provide sufficient conditions under which the expected value of the cost is continuously differentiable. We verify these conditions for a simple example and show promising preliminary optimization results using a stochastic gradient-descent method.
+Keywords
+Hybrid systems  Sensitivity analysis  Stochastic optimization  Decision rules  Microgrids  Unit commitment  Renewable energy  37H10  37N40  60H07  90C15  93E20  

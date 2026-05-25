@@ -1,0 +1,8 @@
+Spent potliner treatment process optimization using a MADS algorithm
+Charles Audet;Vincent Béchard;Jamal Chaouki;
+Abstract
+
+In this paper, the general problem of chemical process optimization defined by a computer simulation is formulated. It is generally a nonlinear, non-convex, non-differentiable optimization problem over a disconnected set. A brief overview of popular optimization methods from the chemical engineering literature is presented. The recent mesh adaptive direct search (MADS) algorithm is detailed. It is a direct search algorithm, so it uses only function values and does not compute or approximate derivatives. This is useful when the functions are noisy, costly or undefined at some points, or when derivatives are unavailable or unusable. In this work, the MADS algorithm is used to optimize a spent potliners (toxic wastes from aluminum production) treatment process. In comparison with the best previously known objective function value, a 37% reduction is obtained even if the model failed to return a value 43% of the time.
+
+Keywords
+Simulation optimization  Mesh adaptive direct search (MADS) algorithm  Non-smooth optimization  Spent potliners treatment  

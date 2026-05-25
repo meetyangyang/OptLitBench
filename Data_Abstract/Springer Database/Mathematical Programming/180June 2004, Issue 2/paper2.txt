@@ -1,0 +1,6 @@
+The integration of an interior-point cutting plane method 	within a branch-and-price algorithm
+Samir Elhedhli;Jean-Louis Goffin;
+Abstract
+This paper presents a novel integration of interior point cutting plane methods within branch-and-price algorithms. Unlike the classical method, columns are generated at a ‘‘central’’ dual solution by applying the analytic centre cutting plane method (ACCPM) on the dual of the full master problem. First, we introduce some modifications to ACCPM. We propose a new procedure to recover primal feasibility after adding cuts and use, for the first time, a dual Newton’s method to calculate the new analytic centre after branching. Second, we discuss the integration of ACCPM within the branch-and-price algorithm. We detail the use of ACCPM as the search goes deep in the branch and bound tree, making full utilization of past information as a warm start. We exploit dual information from ACCPM to generate incumbent feasible solutions and to guide branching. Finally, the overall approach is implemented and tested for the bin-packing problem and the capacitated facility location problem with single sourcing. We compare against Cplex-MIP 7.5 as well as a classical branch-and-price algorithm.
+Keywords
+branch-and-price  Column generation  Lagrangean relaxation  interior-point methods  ACCPM  

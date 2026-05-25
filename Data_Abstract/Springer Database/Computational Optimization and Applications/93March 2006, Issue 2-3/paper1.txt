@@ -1,0 +1,6 @@
+Double-Regularization Proximal Methods, with Complementarity Applications
+Paulo J. S. Silva;Jonathan Eckstein;
+Abstract
+We consider the variational inequality problem formed by a general set-valued maximal monotone operator and a possibly unbounded “box” in \({{\mathbb R}^n}\), and study its solution by proximal methods whose distance regularizations are coercive over the box. We prove convergence for a class of double regularizations generalizing a previously-proposed class of Auslender et al. Using these results, we derive a broadened class of augmented Lagrangian methods. We point out some connections between these methods and earlier work on “pure penalty” smoothing methods for complementarity; this connection leads to a new form of augmented Lagrangian based on the “neural” smoothing function. Finally, we computationally compare this new kind of augmented Lagrangian to three previously-known varieties on the MCPLIB problem library, and show that the neural approach offers some advantages. In these tests, we also consider primal-dual approaches that include a primal proximal term. Such a stabilizing term tends to slow down the algorithms, but makes them more robust.
+Keywords
+proximal algorithms  variational inequalities  complementarity  

@@ -1,0 +1,20 @@
+Modeling Very Oscillating Signals. Application to Image Processing
+Gilles Aubert;Jean-Francois Aujol;
+Abstract
+
+This article is a companion paper of a previous work  where we have
+developed the numerical analysis of a variational model first introduced by Rudin et al. and revisited by Meyer for
+removing the noise and capturing textures in an image. The basic idea in this model is
+to decompose an image f into two components (u + v) and then to search for (u,v) as
+a minimizer of an energy functional. The first component u belongs to BV and
+contains geometrical information, while the second one v is sought in a space G
+which contains signals with large oscillations, i.e. noise and textures. In Meyer carried out his study in the whole ℝ2 and his approach is rather built on harmonic analysis tools. We place ourselves in the case of a bounded set
+Ω of ℝ2 which is the proper setting for image processing and our approach is
+based upon functional analysis arguments. We define in this context the space G, give
+some of its properties, and then study in this continuous setting the energy functional
+which allows us to recover the components u and v. We present some numerical
+experiments to show the relevance of the model for image decomposition and for image
+denoising.
+
+Keywords
+Sobolev spaces  Functions of bounded variations  PDEs  Oscillating patterns  Image decomposition  Convex analysis  Optimization  Calculus of variations  

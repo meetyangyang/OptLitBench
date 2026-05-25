@@ -1,0 +1,6 @@
+Cumulative weighting optimization
+Kun Lin;Steven I. Marcus;
+Abstract
+Global optimization problems with limited structure (e.g., convexity or differentiability of the objective function) can arise in many fields. One approach to solving these problems is by modeling the evolution of a probability density function over the solution space, similar to the Fokker–Planck equation for diffusions, such that at each time instant, additional weight is given to better solutions. We propose an addition to the class of model-based methods, cumulative weighting optimization (CWO), whose general version can be proven convergent to an optimal solution and stable under disturbances (e.g., floating point inaccuracy). These properties encourage us to design a class of CWO algorithms for solving global optimization problems. Beyond the general convergence and stability analysis, we prove that with some additional assumptions the Monte Carlo version of the CWO algorithm is also convergent and stable. Interestingly, the well known cross-entropy method is a CWO algorithm.
+Keywords
+Stochastic optimization  Cumulative weighting  Convergence  

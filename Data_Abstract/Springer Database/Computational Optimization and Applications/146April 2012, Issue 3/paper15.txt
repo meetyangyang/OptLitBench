@@ -1,0 +1,6 @@
+New dominance rules and exploration strategies for the 1|r  i |∑U  i  scheduling problem
+Gio K. Kao;Edward C. Sewell;Sheldon H. Jacobson;Shane N. Hall;
+Abstract
+The paper proposes a new exact approach, based on a Branch, Bound, and Remember (BB&R) algorithm that uses the Cyclic Best First Search (CBFS) strategy, for the 1|r  i |∑U  i  scheduling problem, a single machine scheduling problem, where the objective is to find a schedule with the minimum number of tardy jobs. The search space is reduced using new and improved dominance properties and tighter upper bounds, based on a new dynamic programming algorithm. Computational results establish the effectiveness of the BB&R algorithm with CBFS for a broad spectrum of problem instances. In particular, this algorithm was able to solve all problems instances, up to 300 jobs, while existing best known algorithms only solve problems instances up to 200 jobs. Furthermore, the BB&R algorithm with CBFS runs one to two orders of magnitude faster than the current best known algorithm on comparable instances.
+Keywords
+Branch and bound algorithms  Scheduling theory and algorithms  Dynamic programming  

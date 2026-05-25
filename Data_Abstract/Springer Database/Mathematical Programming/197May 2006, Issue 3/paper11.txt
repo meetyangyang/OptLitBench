@@ -1,0 +1,6 @@
+A convex-analysis perspective on disjunctive cuts
+G. Cornuéjols;C. Lemaréchal;
+Abstract
+We treat with tools from convex analysis the general problem of cutting planes, separating a point from a (closed convex) set P. Crucial for this is the computation of extreme points in the so-called reverse polar set, introduced by E. Balas in 1979. In the polyhedral case, this enables the computation of cuts that define facets of P. We exhibit three (equivalent) optimization problems to compute such extreme points; one of them corresponds to selecting a specific normalization to generate cuts. We apply the above development to the case where P is (the closed convex hull of) a union, and more particularly a union of polyhedra (case of disjunctive cuts). We conclude with some considerations on the design of efficient cut generators. The paper also contains an appendix, reviewing some fundamental concepts of convex analysis.
+Keywords
+Integer programming  Cutting planes  Separation  Disjunctive cut  Lift and project  Convex analysis  52A41  90C11  

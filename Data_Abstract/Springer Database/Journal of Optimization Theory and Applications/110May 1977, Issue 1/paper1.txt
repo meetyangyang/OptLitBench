@@ -1,0 +1,6 @@
+Conjugate-gradient method for computing the Moore-Penrose inverse and rank of a matrix
+K. Tanabe;
+Abstract
+A conjugate-gradient method is developed for computing the Moore-Penrose generalized inverseA† of a matrix and the associated projectors, by using the least-square characteristics of both the method and the inverseA†. Two dual algorithms are introduced for computing the least-square and the minimum-norm generalized inverses, as well asA†. It is shown that (i) these algorithms converge for any starting approximation; (ii) if they are started from the zero matrix, they converge toA†; and (iii) the trace of a sequence of approximations multiplied byA is a monotone increasing function converging to the rank ofA. A practical way of compensating the self-correcting feature in the computation ofA† is devised by using the duality of the algorithms. Comparison with Ben-Israel's method is made through numerical examples. The conjugate-gradient method has an advantage over Ben-Israel's method.
+Keywords
+Conjugate-gradient method  generalized inverses  least squares  Moore-Penrose inverse  matrix equations  orthogonal projections  rank of a matrix  

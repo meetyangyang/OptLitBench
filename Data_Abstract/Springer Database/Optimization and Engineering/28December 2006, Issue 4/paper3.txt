@@ -1,0 +1,6 @@
+A two-phase computational scheme for solving bang-bang control problems
+Chih-Hung Huang;Ching-Huan Tseng;
+Abstract
+This paper focuses on numerical methods for solving time-optimal control problems using discrete-valued controls. A numerical Two-Phase Scheme, which combines admissible optimal control problem formulation with enhanced branch-and-bound algorithms, is introduced to efficiently solve bang-bang control problems in the field of engineering. In Phase I, the discrete restrictions are relaxed, and the resulting continuous problem is solved by an existing optimal control solver. The information on switching times obtained in Phase I is then used in Phase II wherein the discrete-valued control problem is solved using the proposed algorithm. Two numerical examples, including a third-order system and the F-8 fighter aircraft control problem, are presented to demonstrate the use of this proposed scheme. Comparing to STC and CPET methods proposed in the literature, the proposed scheme provides a novel method to find a different switching structure with a better minimum time for the F-8 fighter jet control problem.
+Keywords
+Two-Phase Scheme  Time-optimal control problem  Bang-bang control  Enhanced branch-and-bound method  Admissible optimal control problem formulation  

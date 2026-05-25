@@ -1,0 +1,6 @@
+An all-linear programming relaxation algorithm for optimizing over the efficient set
+Harold P. Benson;
+Abstract
+The problem (P) of optimizing a linear function over the efficient set of a multiple objective linear program has many important applications in multiple criteria decision making. Since the efficient set is in general a nonconvex set, problem (P) can be classified as a global optimization problem. Perhaps due to its inherent difficulty, it appears that no precisely-delineated implementable algorithm exists for solving problem (P) globally. In this paper a relaxation algorithm is presented for finding a globally optimal solution for problem (P). The algorithm finds an exact optimal solution to the problem after a finite number of iterations. A detailed discussion is included of how to implement the algorithm using only linear programming methods. Convergence of the algorithm is proven, and a sample problem is solved.
+Keywords
+Global optimization  multiple criteria decision making  relaxation algorithms  efficient set  multiple objective linear programming  

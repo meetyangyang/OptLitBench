@@ -1,0 +1,6 @@
+A LAGRANGEAN RELAXATION BASED PROCEDURE FOR MINIMIZING OIL AND GAS FIELD INVESTMENT
+ JUAN C.   GARCIA-DIAZ ; GARY L.   HOGG ;
+Abstract
+ The problem of minimizing offshore oil, and gas investment is defined here as the problem of locating a number of offshore facilities and wells, and then allocating these wells to the facilities, at minimum cost. Some side constraints include restrictions on the total number of facilities of every type and design to use. The concept of Lagrangean relaxation combined with dual ascent procedures and heuristics is applied to this problem, A methodology based on a two-level tree search procedure, which uses this concept to find efficient lower and upper bounds, is implemented and tested on some real problems. Execution times and duality gaps associated with the initial lower bounds appear to be remarkably small for the size and complexity of the examples. This methodology is compared with a code specially designed for 0-1 integer programming. Computational results indicate that the proposed methodology outperforms the other one, not only in execution time, but also in computer memory required. 
+Keywords
+ Lagrangean relaxation, dual ascent, integer programming, offshore location/allocation, heuristics, branch and bound 

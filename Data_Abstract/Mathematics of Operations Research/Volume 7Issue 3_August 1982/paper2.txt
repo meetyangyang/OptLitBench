@@ -1,0 +1,6 @@
+Computing Maximal “Polymatroidal” Network Flows
+E. L. Lawler;C. U. Martel;
+Abstract
+In the “classical” network flow model, flows are constrained by the capacities of individual arcs. In the “polymatroidal” network flow model introduced in this paper, flows are constrained by the capacities of sets of arcs. Yet the essential features of the classical model are retained: the augmenting path theorem, the integral flow theorem and the max-flow min-cut theorem arc all shown to yield to straightforward generalization. We describe a maximal flow algorithm which finds augmenting paths by labeling arcs instead of nodes, as in the case of the classical model. As a counterpart of a known result for the classical model, we prove that the number of augmentations required to achieve a maximal value flow is bounded by the cube of the number of arcs in the network, provided each successive augmentation is made along a shortest augmenting path, with ties between shortest paths broken by lexicography.
+Keywords
+matroid polymatroid flow network algorithm optimization max-flow min-cut theorem 

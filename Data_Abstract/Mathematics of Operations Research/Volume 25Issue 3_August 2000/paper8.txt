@@ -1,0 +1,6 @@
+A Fast Computational Procedure to Solve the Multi-Item Single Machine Lot Scheduling Optimization Problem: The Average Cost Case
+L. S. Aragone;R. L. V. González;
+Abstract
+In this paper we present some special procedures for the numerical solution of the optimal scheduling problem of a multi-item single machine. We study the in6nite horizon case when the optimization criterion is the average cost. We establish the solution of the problem in terms of viscosity solutions of the Quasi-Variational Inequality (QVI) system associated to the problem. The existence of solution of the QVI and the uniqueness of the optimal average cost are proved. A method of discretization and a computational procedure are described. They allow us to compute the solution in a short time and with precision of order k. We obtain an estimate for the discretization error and develop an algorithm that converges in a finite number of steps. In our method the nodes of the triangulation mesh are joined by segments of trajectories of the original system. This feature allows us to obtain the k-order precision which, in general, is impossible to obtain by usual methods.
+Keywords
+Scheduling problems quasi-variational inequalities Bellman equation viscosity solution average cost numerical solution 

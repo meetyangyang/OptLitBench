@@ -1,0 +1,6 @@
+Active Disturbance Rejection Control for Rejecting Boundary Disturbance  from Multidimensional Kirchhoff Plate via Boundary Control
+Bao-Zhu  Guo and Hua-Cheng  Zhou;
+Abstract
+In this paper, an algorithm  is developed to reject time and spatially varying boundary disturbances  from  a  multidimensional  Kirchhoff plate via  boundary  control.  The disturbance  and  control  input are assumed  to  be  matched.  The  active  disturbance rejection control approach  is  adopted  for  developing  the algorithm.  A  state feedback scheme  is designed to estimate the disturbance based on an  infinite number of ordinary differential equations obtained  from  the original multidimensional  system using  infinitely many time-dependent  test  functions. The proposed control  law cancels the disturbance using  its estimated value. All subsystems  in the closed loop are shown to be asymptotically stable. Simulation results are presented to validate the theoretical conclusions and to exhibit the reduction in the peaking phenomenon due to the use of time varying gains instead of constant high gains.
+Keywords
+Kirchhoff plate, boundary control, disturbance rejection, stabilization, 74K20, 93C20, 93C25, 

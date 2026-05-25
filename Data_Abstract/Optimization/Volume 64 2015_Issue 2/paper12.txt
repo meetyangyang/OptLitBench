@@ -1,0 +1,6 @@
+Deepest point of a polyhedron and linear programming
+ Ján   Plesník ;
+Abstract
+ The problem of finding a deepest point (a ball centre) of a polyhedron is studied. A finite combinatorial interior point method is presented for this problem which yields an algorithm for linear programming. We conjecture that this is a strongly polynomial algorithm. Meanwhile developing the algorithm, several auxiliary results were found; among others, Gorokh and Werner’s algorithm for linear inequalities is slightly extended. Our numerical experiments with the problem detected bugs in a linear interior point solver used in MATLAB 6 Optimization Toolbox. 
+Keywords
+linear inequalities, deepest point of polyhedron, ball centre, linear programming, interior point method, bad examplesAMS Subject Classifications: 90C05, 90C08, 90C46, 90C51 

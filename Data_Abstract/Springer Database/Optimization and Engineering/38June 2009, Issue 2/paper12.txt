@@ -1,0 +1,6 @@
+Beamspace blind signal separation for speech enhancement
+Siow Yong Low;Ka-Fai Cedric Yiu;Sven Nordholm;
+Abstract
+Signal processing methods for speech enhancement are of vital interest for communications equipments. In particular, multichannel algorithms, which perform spatial filtering to separate signals that have overlapping frequency content but different spatial origins, are important for a wide range of applications. Two of the most popular multichannel methods are blind signal separation (BSS) and beamforming. Briefly, (BSS) separates mixed sources by optimizing the statistical independence among the outputs whilst beamforming optimizes the look direction of the desired source(s). However, both methods have separation limitations, in that BSS succumbs to reverberant environments and beamforming is very sensitive to array model mismatch. In this paper, we propose a novel hybrid scheme, called beamspace BSS, which is intended to compensate the aforementioned separation weaknesses by jointly optimizing the spatial selectivity and statistical independence of the sources. We show that beamspace BSS outperforms the separation performance of the conventional sensor space BSS significantly, particularly in reverberant room environments.
+Keywords
+Blind signal separation  Beamspace  Speech enhancement  Microphone arrays  

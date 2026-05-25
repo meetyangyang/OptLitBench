@@ -1,0 +1,6 @@
+Identification for Parabolic Distributed Parameter Systems with Constraints on the Parameters and the State
+Wenhuan  Yu;
+Abstract
+We consider the problems for identifying the parameters $a_{11} (x,t), \ldots ,a_{mm} (x,t)$ and $c(x,t)$ involved in a second-order, linear, uniformly parabolic equation \[\left\{ {\begin{array}{*{20}c}   {\partial _t u - \partial _i (a_{ij} (x,t)\partial _j u) + b_i (x,t)\partial _i u + c(x,t)u = f(x,t)\quad {\text{in }}\Omega  \times (0,T),}  \\   {u|_{\partial \Omega }  = g,\quad u|_{t = 0}  = u_0 (x),\quad x \in \Omega }  \\ \end{array} } \right.\] on the basis of noisy measurement data \[z(x) = u(x,T) + w(x),\quad x \in \Omega \] with equality and inequality constraints on the parameters and the state variable. The cost functionals are (one-sided) Gateaux-differentiable with respect to the state variables and the parameters. Using the Duboviskii–Miljutin lemma we get the two maximum principles for the two identification problems, respectively, i.e., the necessary conditions for the existence of optimal parameters.
+Keywords
+system identification, constraints on the parameters and state, Gâteaux-differentiable functional, distributed parameter systems, maximum principle, 35R30, 49K20, 93E12, 49K35, 

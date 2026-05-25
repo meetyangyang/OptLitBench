@@ -1,0 +1,6 @@
+A Finite Algorithm for Global Minimization of Separable Concave Programs
+J. Parker Shectman;Nikolaos V. Sahinidis;
+Abstract
+Researchers first examined the problem of separable concave programming more than thirty years ago, making it one of the earliest branches of nonlinear programming to be explored. This paper proposes a new algorithm that finds the exact global minimum of this problem in a finite number of iterations. In addition to proving that our algorithm terminates finitely, the paper extends a guarantee of finiteness to all branch-and-bound algorithms for concave programming that (1) partition exhaustively using rectangular subdivisions and (2) branch on the incumbent solution when possible. The algorithm uses domain reduction techniques to accelerate convergence; it solves problems with as many as 100 nonlinear variables, 400 linear variables and 50 constraints in about five minutes on an IBM RS/6000 Power PC. An industrial application with 152 nonlinear variables, 593 linear variables, and 417 constraints is also solved in about ten minutes.
+Keywords
+Global optimization  concave programming  branch-and-bound  domainreduction  

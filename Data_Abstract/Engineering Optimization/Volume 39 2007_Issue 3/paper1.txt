@@ -1,0 +1,6 @@
+Global optimization of NURBs-based metamodels
+ C.   J.   Turner ; R.   H.   Crawford ; M.   I.   Campbell ;
+Abstract
+ The emergence of metamodels as approximate objective function representations offers the ability to ‘design’ metamodels with favourable optimization characteristics without compromising the accurate representational capabilities of arbitrary function topologies and modalities. With non-uniform rational B-splines (NURBs) as a metamodel basis, favourable optimization properties can be obtained which allow the intelligent selection of starting points for multistart optimization algorithms and which constrain optimization searches to metamodel regions containing the global metamodel optimum. In this article NURBs-based metamodels are used to define an optimization algorithm (HyPerOp) which guarantees the discovery of the global metamodel optimum with known computational effort. Emphasis is placed on demonstrating how NURBs’ properties contribute to a favourable objective function approximation. Through a large non-linear optimization trial problem set, the claim that HyPerOp is guaranteed to find the global metamodel optimum is demonstrated and the performance of HyPerOp with respect to random multistart approaches is evaluated. 
+Keywords
+NURBs, Metamodels, Multistart optimization, Global optimization, Optimization confidence 

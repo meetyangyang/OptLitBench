@@ -1,0 +1,6 @@
+Topographical global optimization using pre-sampled points
+Aimo Törn;Sami Viitanen;
+Abstract
+A method for global minimization of a functionf(x), x εA ⊂R n  by using presampled global points inA is presented. The global points are obtained by uniform sampling, discarding points too near an already accepted point to obtain a very uniform covering. The accepted points and their nearest-neighbours matrix are stored on a file. When optimzing a given function these pre-sampled points and the matrix are read from file. Then the function value of each point is computed and itsk nearest neighbours that have larger function values are marked. The points for which all its neighbours are marked are extracted as promising starting points for local minimizations. Results from a parallel implementation are presented. The working of a sequential version in Fortran is illustrated.
+Keywords
+Global optimization  topography graph  parallel algorithms  

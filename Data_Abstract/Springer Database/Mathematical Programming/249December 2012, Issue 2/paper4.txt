@@ -1,0 +1,6 @@
+Solving \(k\)-cluster problems to optimality with semidefinite programming
+Jérôme Malick;Frédéric Roupin;
+Abstract
+This paper deals with the computation of exact solutions of a classical NP-hard problem in combinatorial optimization, the \(k\)-cluster problem. This problem consists in finding a heaviest subgraph with \(k\) nodes in an edge weighted graph. We present a branch-and-bound algorithm that applies a novel bounding procedure, based on recent semidefinite programming techniques. We use new semidefinite bounds that are less tight than the standard semidefinite bounds, but cheaper to get. The experiments show that this approach is competitive with the best existing ones.
+Keywords
+Combinatorial optimization  \(k\)-cluster  Exact resolution  Semidefinite programming  Lagrangian relaxation   Branch-and-bound  90C22  90C27  90C57  

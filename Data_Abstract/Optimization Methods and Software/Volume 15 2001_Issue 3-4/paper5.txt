@@ -1,0 +1,6 @@
+A curvilinear search algorithm for unconstrained optimization by automatic differentiation
+ D.   Conforti ; M.   Mancini ;
+Abstract
+ Solving in an efficient and robust way an unconstrained optimization problem may prove quite hard in certain difficult situations. Typical examples are highly nonlinear problems, ill-conditioned and badly scaled problems. Particularly in these situations, it may be useful to compute a curvilinear trajectory and follow it by curvilinear searches with the aim to reach the solution in few long steps. In this paper, we proposed an approach for computing a suitable curvilinear trajectory, based on the knowledge of the third order derivatives of the objective function. The numerical implementation of this approach was made possible by Automatic Differentiation techniques. Some preliminary numerical results are very encouraging, especially in the case of very ill-conditioned and badly scaled problems. 
+Keywords
+Unconstrained optimization, Ill-conditioned and badly scaled problems, Curvilinear trajectory, Automatic differentiation 

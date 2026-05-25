@@ -1,0 +1,6 @@
+Modification of DIRECT for high-dimensional design problems
+Arash Tavassoli;Kambiz Haji Hajikolaei;Soheil Sadeqi;G. Gary Wang;Erik Kjeang;
+Abstract
+DIviding RECTangles (DIRECT), as a well-known derivative-free global optimization method, has been found to be effective and efficient for low-dimensional problems. When facing high-dimensional black-box problems, however, DIRECT's performance deteriorates. This work proposes a series of modifications to DIRECT for high-dimensional problems (dimensionality d>10). The principal idea is to increase the convergence speed by breaking its single initialization-to-convergence approach into several more intricate steps. Specifically, starting with the entire feasible area, the search domain will shrink gradually and adaptively to the region enclosing the potential optimum. Several stopping criteria have been introduced to avoid premature convergence. A diversification subroutine has also been developed to prevent the algorithm from being trapped in local minima. The proposed approach is benchmarked using nine standard high-dimensional test functions and one black-box engineering problem. All these tests show a significant efficiency improvement over the original DIRECT for high-dimensional design problems.
+Keywords
+global optimization, DIRECT method, high dimensional problems 

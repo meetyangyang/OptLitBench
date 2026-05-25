@@ -1,0 +1,6 @@
+A global optimization approach for solving three-dimensional open dimension rectangular packing problems
+Jung-Fa Tsai;Pei-Chun Wang;Ming-Hua Lin;
+Abstract
+The three-dimensional open dimension rectangular packing problem (3D-ODRPP) aims to pack a set of given rectangular boxes into a large rectangular container of minimal volume. This problem is an important issue in the shipping and moving industries. All the boxes can be any rectangular stackable objects with different sizes and may be freely rotated. The 3D-ODRPP is usually formulated as a mixed-integer non-linear programming problem. Most existing packing optimization methods cannot guarantee to find a globally optimal solution or are computationally inefficient. Therefore, this paper proposes an efficient global optimization method that transforms a 3D-ODRPP as a mixed-integer linear program using fewer extra 0–1 variables and constraints compared to existing deterministic approaches. The reformulated model can be solved to obtain a global optimum. Experimental results demonstrate the computational efficiency of the proposed approach in globally solving 3D-ODRPPs drawn from the literature and the practical applications.
+Keywords
+global optimization, three-dimensional rectangular packing, open dimension problems, piecewise linearizationAMS Subject Classifications: 49M37, 65K05, 90C26, 90C90 

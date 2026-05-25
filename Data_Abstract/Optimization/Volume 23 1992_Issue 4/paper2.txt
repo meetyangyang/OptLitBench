@@ -1,0 +1,6 @@
+A second order affine scaling algorithm for the geometric programming dual with logarithmic barrier
+   K.O.   Kortanek ; Hoon.   No ;
+Abstract
+ We present an interior point algorithm for solving the dual geometric programming problem, which avoids nondifferentiability at the boundary, yet uses singular Hessian information. The algorithm generates three sequences which converge, respectively, to optimal solutions for the primal and dual geometric programs, and to a Lagrangian dual solution of the dual geometric program. The sequences are connected by a robust procedure for converting duai GP solutions to primai GP solutions, and error bounds are given.  Extensive computational experience is reported including solutions to GP problems having largest known degree of difficulty.  
+Keywords
+Geometric Programming, Interior Point Methods, Logarithmic Barrier, Singular Hessians, Computational Experiments 

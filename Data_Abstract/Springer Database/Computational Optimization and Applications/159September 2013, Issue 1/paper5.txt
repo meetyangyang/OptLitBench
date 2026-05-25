@@ -1,0 +1,6 @@
+Algorithmic improvements on dynamic programming for the bi-objective {0,1} knapsack problem
+José Rui Figueira;Luís Paquete;Marco Simões;Daniel Vanderpooten;
+Abstract
+This paper presents several methodological and algorithmic improvements over a state-of-the-art dynamic programming algorithm for solving the bi-objective {0,1} knapsack problem. The variants proposed make use of new definitions of lower and upper bounds, which allow a large number of states to be discarded. The computation of these bounds are based on the application of dichotomic search, definition of new bound sets, and bi-objective simplex algorithms to solve the relaxed problem. Although these new techniques are not of a common application for dynamic programming, we show that the best variants tested in this work can lead to an average improvement of 10 to 30 % in CPU-time and significant less memory usage than the original approach in a wide benchmark set of instances, even for the most difficult ones in the literature.
+Keywords
+Bi-objective 0-1 knapsack problems  Multi-objective combinatorial optimization  Bounds sets  Dichotomic search  Bi-objective simplex algorithm  

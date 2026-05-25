@@ -1,0 +1,5 @@
+Stochastic Approximation Algorithms of the Multiplier Type for the Sequential Monte Carlo Optimization of Stochastic Systems
+Harold J.  Kushner and Milton L.  Kelmanson;
+Abstract
+Many stochastic control (or parametrized) systems have (expected value) objective functions of largely unknown form, but where noise corrupted observations can be taken at any selected value of a finite-dimensional parameter x. The parameter x must satisfy equality and inequality constraints. The usual numerical techniques of nonlinear programming on control theory are not usually helpful here. The paper discusses a number of algorithms (with convergence proofs) for selecting a sequence of parameter values $\{ X_n \} $, where $X_n $ depends on $X_{n - 1} $ and observations taken at $X_{n - 1} $, and the limit points are both feasible and satisfy the Kuhn–Tucker necessary condition (w.p. 1 (with probability 1)). The algorithms are stochastic “small step” versions of the deterministic combined penalty function-multiplier methods.
+Keywords

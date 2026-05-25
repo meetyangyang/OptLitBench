@@ -1,0 +1,6 @@
+Error estimates for the approximation of the velocity tracking problem with Bang-Bang controls
+Eduardo Casas1 and Konstantinos Chrysafinos2;
+Abstract
+The velocity tracking problem for the evolutionary Navier–Stokes equations in 2d is studied. The controls are of distributed type but the cost functional does not involve the usual quadratic term for the control. As a consequence the resulting controls can be of bang-bang type. First and second order necessary and sufficient conditions are proved. A fully-discrete scheme based on discontinuous (in time) Galerkin approach combined with conforming finite element subspaces in space, is proposed and analyzed. Provided that the time and space discretization parameters, τ and h respectively, satisfy τ ≤ Ch2, then L2 error estimates are proved for the difference between the states corresponding to locally optimal controls and their discrete approximations.
+Keywords
+Evolution Navier–Stokes equations, optimal control, bang-bang controls

@@ -1,0 +1,4 @@
+Traveling Tournament Scheduling: A Systematic Evaluation of Simulated Annealling
+Pascal Van Hentenryck;Yannis Vergados;
+Abstract
+This paper considers all the variants of the traveling tournament problem (TTP) proposed in [17, 7] to abstract the salient features of major league baseball (MLB) in the United States. The variants include different distance metrics and both mirrored and non-mirrored schedules. The paper shows that, with appropriate enhancements, simulated annealing is robust across the distance metrics and mirroring. In particular, the algorithm matches or improves most best-known solutions and produces numerous new best solutions spread over all classes of problems. The main technical contribution underlying these results is a number of compositive neighborhood moves that aggregate sequences of existing moves; these novel moves preserve the mirroring or distance structure of the candidate schedule, while performing interesting transformations.

@@ -1,0 +1,6 @@
+The central path visits all the vertices of the Klee–Minty cube
+ Antoine   Deza ; Eissa   Nematollahi ; Reza   Peyghami ; Tamás   Terlaky ;
+Abstract
+ The Klee–Minty cube is a well-known worst-case example for which the simplex method takes an exponential number of iterations as the algorithm visits all the 2 n  vertices of the n-dimensional cube. While such behaviour is excluded by polynomial interior point methods, we show that, by adding an exponential number of redundant inequalities, the central path can be bent along the edges of the Klee–Minty cube. More precisely, for an arbitrarily small δ, the central path takes 2 n −2 turns as it passes through the δ-neighbourhood of all the vertices of the Klee–Minty cube in the same order as the simplex method does. 
+Keywords
+Linear programming, Central path, Klee–Minty cube 

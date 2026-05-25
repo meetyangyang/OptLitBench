@@ -1,0 +1,6 @@
+Model Predictive Control for Dynamic Resource Allocation
+Dragos Florin Ciocan;Vivek Farias;
+Abstract
+The present paper develops a simple, easy to interpret algorithm for a large class of dynamic allocation problems with unknown, volatile demand. Potential applications include ad display problems and network revenue management problems. The algorithm operates in an online fashion and relies on reoptimization and forecast updates. The algorithm is robust (as witnessed by uniform worst-case guarantees for arbitrarily volatile demand) and in the event that demand volatility (or equivalently deviations in realized demand from forecasts) is not large, the method is simultaneously optimal. Computational experiments, including experiments with data from real-world problem instances, demonstrate the practicality and value of the approach. From a theoretical perspective, we introduce a new device—a balancing property—that allows us to understand the impact of changing bases in our scheme.
+Keywords
+model predictive control stochastic control approximation algorithms online advertising 

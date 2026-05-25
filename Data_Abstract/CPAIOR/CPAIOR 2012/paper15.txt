@@ -1,0 +1,4 @@
+Activity-Based Search for Black-Box Constraint Programming Solvers
+Laurent Michel;Pascal Van Hentenryck;
+Abstract
+Robust search procedures are a central component in the design of black-box constraint-programming solvers. This paper proposes activity-based search which uses the activity of variables during propagation to guide the search. Activity-based search was compared experimentally to impact-based search and the wdeg heuristics but not to solution counting heuristics. Experimental results on a variety of benchmarks show that activity-based search is more robust than other heuristics and may produce significant improvements in performance.

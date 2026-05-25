@@ -1,0 +1,6 @@
+The minimization of lower subdifferentiable functions under nonlinear constraints: An all feasible cutting plane algorithm
+F. Plastria;
+Abstract
+Nonlinear, possibly nonsmooth, minimization problems are considered with boundedly lower subdifferentiable objective and constraints. An algorithm of the cutting plane type is developed, which has the property that the objective needs to be considered at feasible points only. It generates automatically a nondecreasing sequence of lower bounds converging to the optimal function value, thus admitting a rational rule for stopping the calculations when sufficient precision in the objective value has been obtained. Details are given concerning the efficient implementation of the algorithm. Computational results are reported concerning the algorithm as applied to continuous location problems with distance constraints.
+Keywords
+Nonsmooth optimization  boundedly lower subifferentiable functions  cutting plane algorithms  continuous location problems  distance constraints  

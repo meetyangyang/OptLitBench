@@ -1,0 +1,6 @@
+Graph partitions for the multidimensional assignment problem
+Chrysafis Vogiatzis;Eduardo L. Pasiliao;Panos M. Pardalos;
+Abstract
+In this paper, we consider two decomposition schemes for the graph theoretical description of the axial Multidimensional Assignment Problem (MAP). The problem is defined as finding n disjoint cliques of size m with minimum total cost in K  m×n , which is an m-partite graph with n elements per dimension. Even though the 2-dimensional assignment problem is solvable in polynomial time, extending the problem to include n≥3 dimensions renders it \(\mathcal{NP}\)-hard. We propose two novel decomposition schemes for partitioning a MAP into disjoint subproblems, that can then be recombined to provide both upper and lower bounds to the original problem. For each of the partitioning schemes, we investigate and compare the efficiency of distinct exact and heuristic methodologies, namely augmentation and partitioning. Computational results for the methods, along with a hybrid one that consists of both partitioning schemes, are presented to depict the success of our approaches on large-scale instances.
+Keywords
+Multidimensional assignment problem  Multi-sensor multi-target tracking problem  Graph decomposition  Parallel computing  

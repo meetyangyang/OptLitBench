@@ -1,0 +1,6 @@
+Parallel Decomposition: Results for Staircase Linear Programs
+Robert  Entriken;
+Abstract
+This paper documents the results of an experimental computer code that implements a parallel decomposition algorithm for staircase linear programs. The tests were conducted on an IBM 3090/600E computer; which has 6 processors. This type of linear program represents a worst case example for measuring the performance of parallel decomposition. Indeed, one may find it interesting that there is any opportunity for speedup under these conditions, but experiments on 13 small to medium sized “real world” test problems show that in addition to speedups of from 2 to 10 provided by decomposition alone, there are speedups of up to 3.3 provided by using 4 processors, On average; the speedup provided by 4 processors over the faster of the 2 single processor algorithms is about 2. These results can be extrapolated to situations with larger problems and/or more processors with a fair degree of confidence.
+Keywords
+parallel algorithms and results, large-scale linear programming, parallel computers, 65K05, 90C06, 

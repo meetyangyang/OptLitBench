@@ -1,0 +1,6 @@
+On estimating workload in interval branch-and-bound global optimization algorithms
+José L. Berenguel;L. G. Casado;I. García;Eligius M. T. Hendrix;
+Abstract
+In general, solving Global Optimization (GO) problems by Branch-and-Bound (B&B) requires a huge computational capacity. Parallel execution is used to speed up the computing time. As in this type of algorithms, the foreseen computational workload (number of nodes in the B&B tree) changes dynamically during the execution, the load balancing and the decision on additional processors is complicated. We use the term left-over to represent the number of nodes that still have to be evaluated at a certain moment during execution. In this work, we study new methods to estimate the left-over value based on the observed amount of pruning. This provides information about the remaining running time of the algorithm and the required computational resources. We focus on their use for interval B&B GO algorithms.
+Keywords
+Global optimization  Interval Arithmetic  Branch-and-Bound  Workload prediction  Parallel algorithms  

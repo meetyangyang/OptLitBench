@@ -1,0 +1,6 @@
+A contamination source identification model for water distribution system security
+ A.   Preis ; A.   Ostfeld ;
+Abstract
+ This article presents and demonstrates a simple, straightforward genetic algorithm (GA) scheme for contamination source identification to enhance the security of water distribution systems. Related previous work on this subject has concentrated on developing analytical water quality inverse models with two major restrictions: the ability to disclose unique solutions and to handle water distribution systems of large size. These two limitations are addressed in this study by coupling a GA with EPANET. The objective function is minimization of the least-squares of the differences between simulated and measured contaminant concentrations, with the decision variables being the contaminant event characteristics of intrusion location, starting time, duration and mass rate. The developed methodology is demonstrated through base runs and sensitivity analysis of three water distribution system example applications of increasing complexity. 
+Keywords
+Water distribution system, Water security, EPANET, Contamination, Genetic algorithm, Inverse modeling, Optimization 

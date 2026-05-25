@@ -1,0 +1,6 @@
+Popular edges and dominant matchings
+Ágnes Cseh;Telikepalli Kavitha;
+Abstract
+Given a bipartite graph \(G = (A \cup B,E)\) with strict preference lists and given an edge \(e^* \in E\), we ask if there exists a popular matching in G that contains \(e^*\). We call this the popular edge problem. A matching M is popular if there is no matching \(M'\) such that the vertices that prefer \(M'\) to M outnumber those that prefer M to \(M'\). It is known that every stable matching is popular; however G may have no stable matching with the edge \(e^*\). In this paper we identify another natural subclass of popular matchings called “dominant matchings” and show that if there is a popular matching that contains the edge \(e^*\), then there is either a stable matching that contains \(e^*\) or a dominant matching that contains \(e^*\). This allows us to design a linear time algorithm for identifying the set of popular edges. When preference lists are complete, we show an \(O(n^3)\) algorithm to find a popular matching containing a given set of edges or report that none exists, where \(n = |A| + |B|\).
+Keywords
+Popular matching  Matching under preferences  Dominant matching  05C70  68W40  05C85  

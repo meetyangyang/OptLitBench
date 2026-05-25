@@ -1,0 +1,6 @@
+PolyTop++: an efficient alternative for serial and parallel topology optimization on CPUs & GPUs
+Leonardo S. Duarte;Waldemar Celes;Anderson Pereira;Ivan F. M. Menezes;Glaucio H. Paulino;
+Abstract
+This paper presents the PolyTop++, an efficient and modular framework for parallel structural topology optimization using polygonal meshes. It consists of a C++ and CUDA (a parallel computing model for GPUs) alternative implementations of the PolyTop code by Talischi et al. (Struct Multidiscip Optim 45(3):329–357 2012b). PolyTop++ was designed to support both CPU and GPU parallel solutions. The software takes advantage of the C++ programming language and the CUDA model to design algorithms with efficient memory management, capable of solving large-scale problems, and uses its object-oriented flexibility in order to provide a modular scheme. We describe our implementation of different solvers for the finite element analysis, including both direct and iterative solvers, and an iterative ‘matrix-free’ solver; these were all implemented in serial and parallel modes, including a GPU version. Finally, we present numerical results for problems with about 40 million degrees of freedom both in 2D and 3D.
+Keywords
+Topology optimization  Polygonal elements  Direct solver  Iterative solver  Parallel solver  

@@ -1,0 +1,6 @@
+Acceleration and Parallelization of the Path-Following Interior Point Method for a Linearly Constrained Convex Quadratic Problem
+Y.  Nesterov and A.  Nemirovsky;
+Abstract
+In this paper, the strategies for acceleration of the path-following polynomial time interior point method for linear and linearly constrained quadratic programming problems are studied. These strategies are based on (i) exploiting the results of computations done at the previous iterations (Karmarkar’s acceleration scheme and a scheme based on the preconditioned conjugate gradient method); (ii) implementation of “fast” linear algebra routines; (iii) parallel computations.
+Keywords
+interior point methods, polynomial time algorithms, parallel computations, 90C05, 90C20, 

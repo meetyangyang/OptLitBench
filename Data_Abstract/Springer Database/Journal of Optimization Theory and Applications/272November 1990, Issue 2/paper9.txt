@@ -1,0 +1,6 @@
+Projected quasi-Newton algorithm with trust region for constrained optimization
+J. Z. Zhang;D. T. Zhu;
+Abstract
+In Ref. 1, Nocedal and Overton proposed a two-sided projected Hessian updating technique for equality constrained optimization problems. Although local two-step Q-superlinear rate was proved, its global convergence is not assured. In this paper, we suggest a trust-region-type, two-sided, projected quasi-Newton method, which preserves the local two-step superlinear convergence of the original algorithm and also ensures global convergence. The subproblem that we propose is as simple as the one often used when solving unconstrained optimization problems by trust-region strategies and therefore is easy to implement.
+Keywords
+Two-sided projected Hessians  trust regions  differentiable penalty functions  global convergence  two-step Q-superlinear rate  constrained optimization  

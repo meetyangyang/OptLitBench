@@ -1,0 +1,6 @@
+A one-parametric class of smoothing functions and an improved regularization Newton method for the NCP
+Jingyong Tang;Jinchuan Zhou;Liang Fang;
+Abstract
+In this paper, we introduce a one-parametric class of smoothing functions, which enjoys some favourable properties and includes two famous smoothing functions as special cases. Based on this class of smoothing functions, we propose a regularization Newton method for solving the non-linear complementarity problem. The main feature of the proposed method is that it uses a perturbed Newton equation to obtain the direction. This not only allows our method to have global and local quadratic convergences without strict complementarity conditions, but also makes the regularization parameter converge to zero globally Q-linearly. In addition, we use a new non-monotone line search scheme to obtain the step size. Some numerical results are reported which confirm the good theoretical properties of the proposed method.
+Keywords
+non-linear complementarity problem, smoothing function, regularization Newton method, non-monotone line searchAMS Subject Classifications: 90C33, 65K05 

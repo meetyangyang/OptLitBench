@@ -1,0 +1,6 @@
+Second-Order Behavior of Pattern Search
+Mark A.  Abramson;
+Abstract
+Previous analyses of pattern search algorithms for unconstrained and linearly constrained minimization have focused on proving convergence of a subsequence of iterates to a limit point satisfying either directional or first-order necessary conditions for optimality, depending on the smoothness of the objective function in a neighborhood of the limit point. Even though pattern search methods require no derivative information, we are able to prove some limited directional second-order results. Although not as strong as classical second-order necessary conditions, these results are stronger than the first-order conditions that many gradient-based methods satisfy. Under fairly mild conditions, we can eliminate from consideration all strict local maximizers and an entire class of saddle points.
+Keywords
+nonlinear programming, pattern search algorithm, derivative-free optimization, convergence analysis, second-order optimality conditions, 90C30, 90C56, 65K05, 

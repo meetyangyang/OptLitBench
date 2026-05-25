@@ -1,0 +1,4 @@
+An MDD Approach to Multidimensional Bin Packing
+Brian Kell;Willem-Jan van Hoeve;
+Abstract
+We investigate the application of multivalued decision diagrams (MDDs) to multidimensional bin packing problems. In these problems, each bin has a multidimensional capacity and each item has an associated multidimensional size. We develop several MDD representations for this problem, and explore different MDD construction methods including a new heuristic-driven depth-first compilation scheme. We also derive MDD restrictions and relaxations, using a novel application of a clustering algorithm to identify approximate equivalence classes among MDD nodes. Our experimental results show that these techniques can significantly outperform current CP and MIP solvers.

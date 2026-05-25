@@ -1,0 +1,4 @@
+Efficient Haplotype Inference with Combined CP and OR Techniques
+Ana Graça;João Marques-Silva;Inês Lynce;Arlindo L. Oliveira;
+Abstract
+Haplotype inference has relevant biological applications, and represents a challenging computational problem. Among others, pure parsimony provides a viable modeling approach for haplotype inference and provides a simple optimization criterion. Alternative approaches have been proposed for haplotype inference by pure parsimony (HIPP), including branch and bound, integer programming and, more recently, propositional satisfiability and pseudo-Boolean optimization (PBO). Among these, the currently best performing HIPP approach is based on PBO. This paper proposes a number of effective improvements to PBO-based HIPP, including the use of lower bounding and pruning techniques effective with other approaches. The new PBO-based HIPP approach reduces by 50% the number of instances that remain unsolvable by HIPP based approaches.

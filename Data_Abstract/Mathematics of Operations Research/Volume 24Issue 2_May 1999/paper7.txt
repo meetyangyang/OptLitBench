@@ -1,0 +1,6 @@
+Transience Bounds for Long Walks
+Mark Hartmann;Cristina Arguelles;
+Abstract
+Let G = (V, E) be a directed graph with rewards re for e ∈ E. We show that if there exists an s, t-walk in G of length k > |V|2 then there exists a maximum reward s, t-walk of length k with at least k − |V|2 arcs from a cycle with maximal mean reward. If A is the reward-incidence matrix of G, then the maximum rewards of s, t-walks of length k can be determined by computing the k-fold matrix product A⊗k, where the operations “plus” and “times” are replaced by “max” and “plus” (denoted by ⊕ and ⊗). Max-algebra dynamic systems y(k) = y(k − 1) ⊗ A have been used to model certain transportation and automated manufacturing systems, and can be interpreted as deterministic dynamic programming recursions. If G is strongly connected, then y(k + dA) = y(k) + dAλ*1 for all k ≥ KA, where λ* is the maximum cycle mean in G, and KA and dA are the max-algebra transient and period (cyclicity) of A. For given y(0), the transient τ and period γ of the system may satisfy τ < KA and γ < dA. We derive a tight bound on KA and give polynomial algorithms for computing KA, τ and γ, and for solving deterministic dynamic programming problems. We also give analogous results for walks of maximum β-discounted reward.
+Keywords
+Max-algebra transient dynamic programming 

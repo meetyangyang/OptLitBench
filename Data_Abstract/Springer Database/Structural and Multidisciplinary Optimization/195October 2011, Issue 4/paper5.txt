@@ -1,0 +1,6 @@
+Piecewise constant level set method for structural topology optimization with MBO type of projection
+Saeed Shojaee;Mojtaba Mohammadian;
+Abstract
+In this paper, we combine a Piecewise Constant Level Set (PCLS) method with a MBO scheme to solve a structural shape and topology optimization problem. The geometrical boundary of structure is represented implicitly by the discontinuities of PCLS functions. Compared with the classical level set method (LSM) for solving Hamilton–Jacobi partial differential equation (H-J PDE) we don’t need to solve H-J PDE, thus it is free of the CFL condition and the reinitialization scheme. For solving optimization problem under some constraints, Additive Operator Splitting (AOS) and Multiplicative Operator Splitting (MOS) schemes will be used. To increase the convergency speed and the efficiency of PCLS method we combine this approach with MBO scheme. Advantages and disadvantages are discussed by solving some examples of 2D structural topology optimization problems.
+Keywords
+Topology optimization  Level set method  MBO projection  Piecewise constant  Shape optimization  

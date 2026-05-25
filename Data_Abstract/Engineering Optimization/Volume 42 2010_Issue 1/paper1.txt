@@ -1,0 +1,6 @@
+An improved approach for quay crane scheduling with non-crossing constraints
+ Der-Horng   Lee ; Jiang   Hang   Chen ;
+Abstract
+ Common deficiencies found in previous studies that modelled quay crane scheduling with non-crossing constraints (QCSNC) in port container terminals are identified. Remedies for the problems are proposed to prevent the occurrence of unrealistic optimal solutions for QCSNC. Additionally, two approximation schemes for QCSNC are studied. The first one is called the best partition (BP) method, which can be solved by dynamic programming (DP) with time complexity of 𝒪(mn 2). A more efficient algorithm is designed to improve the original DP by adopting binary search. Next, based on BP and an exact algorithm for QCSNC (with pseudo-polynomial computational time), the second approximation scheme, called the enhanced best partition (EBP) method, is proposed to achieve a better estimation of the optimal makespan for QCSNC. The results of numerical experiments show that EBP is an effective approximation scheme for the problem of QCSNC. 
+Keywords
+quay crane scheduling, non-crossing constraints, approximation algorithms 

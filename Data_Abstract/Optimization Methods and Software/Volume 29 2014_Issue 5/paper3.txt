@@ -1,0 +1,6 @@
+Damped techniques for enforcing convergence of quasi-Newton methods
+Mehiddin Al-Baali;
+Abstract
+This paper extends the technique used in the damped BFGS method of Powell [Algorithms for nonlinear constraints that use Lagrange functions, Math. Program. 14 (1978), 224–248] to the Broyden family of quasi-Newton methods with applications to unconstrained optimization problems. Appropriate conditions on the damped technique are proposed to enforce safely the positive definiteness property for all Broyden's updates. It is shown that this technique maintains the q-superlinear convergence property of the restricted Broyden family of methods for uniformly convex functions. It also extends the global convergence property to all members of the family. Preliminary numerical results are described which show that appropriate ways for employing the proposed technique improve the performance of all members of the Broyden family of methods substantially and significantly in certain cases. They also enforce convergence of divergent quasi-Newton methods.
+Keywords
+unconstrained optimization, quasi-Newton methods, damped techniques, line search frameworkAMS Subject Classification: 90C53, 90C30, 90C46, 65K05 

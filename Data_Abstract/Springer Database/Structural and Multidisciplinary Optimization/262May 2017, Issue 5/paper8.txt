@@ -1,0 +1,6 @@
+On curvature approximation in 2D and 3D parameter–free shape optimization
+Oliver Schmitt;Paul Steinmann;
+Abstract
+Manufacturing constraints considered in shape optimization often need to be expressed in terms of curvature. Within the scope of a sensitivity–based parameter–free shape optimization approach, curvature constraints have to be formulated in terms of the FE node coordinates in order to derive the required first order gradients with respect to the design node coordinates. In this contribution we introduce approaches to approximate the curvature of a FE model using the coordinates of the FE nodes at the boundary of the geometry, as a smooth representation of the design boundary is not available. Therefore, in the 2D case we present two different smooth curves which represent the design boundary and for which the curvature can be computed analytically. In a third 2D, as well as in our 3D approach, we use geometric information of the discretization such as the distance to neighboring boundary nodes and edge normals to approximate the curvature at the respective boundary node under consideration.
+Keywords
+Shape optimization  Manufacturing constraints  Parameter–free  Curvature approximation  Sensitivity analysis  

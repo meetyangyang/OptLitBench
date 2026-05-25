@@ -1,0 +1,6 @@
+A New Algorithm for Solving Strictly Convex Quadratic Programs
+Wu  Li and John  Swetits;
+Abstract
+We reformulate convex quadratic programs with simple bound constraints and strictly convex quadratic programs as problems of unconstrained minimization of convex quadratic splines. Therefore, any algorithm for finding a minimizer of a convex quadratic spline can be used to solve these quadratic programming problems. In this paper, we propose a Newton method to find a minimizer of a convex quadratic spline derived from the unconstrained reformulation of a strictly convex quadratic programming problem. The Newton method is a "natural mixture" of a descent method and an active-set method. Moreover, it is an iterative method, yet it terminates in finite operations (in exact arithmetic).
+Keywords
+convex quadratic programs, convex quadratic splines, active-set methods, Newton methods, exact penalty functions, 90C20, 49M40, 

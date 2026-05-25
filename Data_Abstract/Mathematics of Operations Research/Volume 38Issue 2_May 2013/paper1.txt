@@ -1,0 +1,6 @@
+On Boundedness of Q-Learning Iterates for Stochastic Shortest Path Problems
+Huizhen Yu;Dimitri P. Bertsekas;
+Abstract
+We consider a totally asynchronous stochastic approximation algorithm, Q-learning, for solving finite space stochastic shortest path (SSP) problems, which are undiscounted, total cost Markov decision processes with an absorbing and cost-free state. For the most commonly used SSP models, existing convergence proofs assume that the sequence of Q-learning iterates is bounded with probability one, or some other condition that guarantees boundedness. We prove that the sequence of iterates is naturally bounded with probability one, thus furnishing the boundedness condition in the convergence proof by Tsitsiklis [Tsitsiklis JN (1994) Asynchronous stochastic approximation and Q-learning. Machine Learn. 16:185–202] and establishing completely the convergence of Q-learning for these SSP models.
+Keywords
+Markov decision processes Q-learning stochastic approximation dynamic programming reinforcement learning 

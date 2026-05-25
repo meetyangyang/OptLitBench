@@ -1,0 +1,6 @@
+An Adaptive Multipoint Formulation for Robust Parametric Optimization
+François Gallard;Bijan Mohammadi;Marc Montagnac;Matthieu Meaux;
+Abstract
+The performance of a system designed for given functioning conditions often seriously degrades, when operated at other conditions. Therefore, a system operating over a continuous range of conditions should be designed over this range. The aerodynamic shape optimization of an aircraft at multiple altitudes, angles of attack and Mach numbers is a typical case in aerospace. This paper links parametric and multipoint optimizations by the sampling of the operating condition ranges. It is demonstrated that this discrete set of operating conditions, used to formulate a composite objective function, must adequately be chosen. An algorithm is proposed to select these conditions, which ensures a minimal computational cost to the robust optimization. Wing aerodynamic multipoint optimizations using a lifting line model and Reynolds-averaged Navier–Stokes equations, derived with a discrete adjoint formulation, are given as examples.
+Keywords
+Parametric optimization  Multipoint optimization  Gradient-based optimization  Robust optimization  Aerodynamics  Adjoint method  93B51  35Q93  49M37  49Q10  90C31  

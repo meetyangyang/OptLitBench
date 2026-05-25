@@ -1,0 +1,6 @@
+Dynamic allocation of surplus by-product gas in a steel plant by dynamic programming with a reduced state space algorithm
+Wenqiang Sun;Yanhui Wang;Fengyuan Zhang;Yueqiang Zhao;
+Abstract
+Surplus by-product gas (SBPG) in a steel plant is the difference between gas production and consumption. Dynamic programming (DP) has been observed to be a useful method for SBPG dynamic allocation. However, in the SBPG allocation problem, standard dynamic programming (SDP) usually suffers from dimensionality. In this study, a novel dynamic programming method with a reduced state space algorithm (RSS-DP) is proposed. By decomposing the amount of SBPG into the reference and subsequent allocation, RSS-DP reduces the state space of the SDP model significantly such that the computation time is significantly reduced. An example of a five-boiler allocation of SBPG and a real-world online allocation of SBPG in these five boilers of a steel plant are implemented to exhibit the effectiveness of the proposed algorithm. In both cases, the solutions obtained using the proposed method are better than those obtained by traditional methods, in both computation time and energy benefit.
+Keywords
+Surplus by-product gas, dynamic allocation, dynamic programming, reduced state space algorithm, optimization 

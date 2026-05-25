@@ -1,0 +1,6 @@
+Robust Parameter Estimation in Dynamic Systems
+Ekaterina Kostina;
+Abstract
+In this paper we present a practical method for robust parameter estimation in dynamic systems. In our study we follow the very successful approach for solving optimization problems in dynamic systems, namely the boundary value problem (BVP) approach. The suggested method combines multiple shooting for parameterizing dynamics, a flexible realization of the BVP principle, with a fast Gauss-Newton algorithm for solving the resulting constrained l1 problem. We give an overview of the theoretical background as well as the details of a numerical implementation. We discuss why the Gauss-Newton algorithm, which is known to perform well mainly on well-conditioned problems, is appropriate for parameter estimation problems, while quasi-Newton methods have only limited use for parameter estimation. The method is implemented on the basis of the direct multiple shooting method as implemented in PARFIT, thus inheriting all basic properties of PARFIT such as numerical stability, reliability and efficiency. The new code has been successfully applied to real-life parameter estimation problems in enzyme and chemical kinetics.
+Keywords
+parameter estimation  DAE  l1 optimization  Gauss-Newton method  applications in chemistry  

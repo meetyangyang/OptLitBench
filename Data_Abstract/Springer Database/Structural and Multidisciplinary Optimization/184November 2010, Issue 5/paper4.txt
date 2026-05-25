@@ -1,0 +1,6 @@
+A multifidelity approach for the construction of explicit decision boundaries: application to aeroelasticity
+Christoph Dribusch;Samy Missoum;Philip Beran;
+Abstract
+This paper presents a multifidelity approach for the construction of explicit decision boundaries (constraints or limit-state functions) using support vector machines. A lower fidelity model is used to select specific samples to construct the decision boundary corresponding to a higher fidelity model. This selection is based on two schemes. The first scheme selects samples within an envelope constructed from the lower fidelity model. The second technique is based on the detection of regions of inconsistencies between the lower and the higher fidelity decision boundaries. The approach is applied to analytical examples as well as an aeroelasticity problem for the construction of a nonlinear flutter boundary.
+Keywords
+Support vector machines  Multifidelity  Flutter boundary  

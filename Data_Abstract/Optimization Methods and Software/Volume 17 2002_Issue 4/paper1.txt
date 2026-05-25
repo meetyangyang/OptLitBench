@@ -1,0 +1,6 @@
+An Infeasible Interior-Point Method with Nonmonotonic Complementarity Gaps
+ Maria   Grazia   Gasparo ; Sandra   Pieraccini ; Alessandro   Armellini ;
+Abstract
+ This article describes an infeasible interior-point (IP) method for solving monotone variational inequality problems with polyhedral constraints and, as a particular case, monotone nonlinear complementarity problems. The method determines a search direction by solving, possibly in an inexact way, the Newton equation for the central path. Then, a curvilinear search is used to meet classical centering conditions and an Armijo rule. The novelty with respect to classical IP methods consists in relaxing the requirement of monotonic decrease in the complementarity gaps. Global convergence results are proved and numerical experiments are presented. The experiments confirm the effectiveness of nonmonotonicity in a number of test problems. 
+Keywords
+Complementarity Problems, Variational Inequalities, Infeasible Interior-point Algorithms, Complementarity Gap, Nonmonotonic Algorithms 

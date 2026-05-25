@@ -1,0 +1,6 @@
+An exterior-point method for linear programming problems
+J. F. Andrus;M. R. Schaferkotter;
+Abstract
+This paper proves the convergence of an algorithm for solving linear programming problems inO(mn2) arithmetic operations. The method is called an exterior-point procedure, because it obtains a sequence of approximations falling outside the setU of feasible solutions. Each iteration consists of a single step within some constraining hyperplane, followed by one or more projections which force the new approximation to fall within some envelope aboutU. The paper also discusses several numerical applications. In some types of problems, the method is considerably faster than a standard simplex method program when the size of the problem is sufficiently large.
+Keywords
+Linear programming  polynomial time algorithms  

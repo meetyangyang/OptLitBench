@@ -1,0 +1,6 @@
+Minimizing Polynomials via Sum of Squares over the Gradient Ideal
+Jiawang Nie;James Demmel;Bernd Sturmfels;
+Abstract
+A method is proposed for finding the global minimum of a multivariate polynomial via sum of squares (SOS) relaxation over its gradient variety. That variety consists of all points where the gradient is zero and it need not be finite. A polynomial which is nonnegative on its gradient variety is shown to be SOS modulo its gradient ideal, provided the gradient ideal is radical or the polynomial is strictly positive on the real gradient variety. This opens up the possibility of solving previously intractable polynomial optimization problems. The related problem of constrained minimization is also considered, and numerical examples are discussed. Experiments show that our method using the gradient variety outperforms prior SOS methods.
+Keywords
+Polynomials  Global Optimization  Sum of Squares (SOS)  Semidefinite Programming (SDP)  Radical Ideal  Variety  Gradient Ideal  Algebraic Geometry  

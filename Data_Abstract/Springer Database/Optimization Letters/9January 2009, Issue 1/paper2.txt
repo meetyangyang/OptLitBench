@@ -1,0 +1,6 @@
+Mesh adaptive direct search algorithms for mixed variable optimization
+Mark A. Abramson;Charles Audet;James W. Chrissis;Jennifer G. Walston;
+Abstract
+This paper introduces a new derivative-free class of mesh adaptive direct search (MADS) algorithms for solving constrained mixed variable optimization problems, in which the variables may be continuous or categorical. This new class of algorithms, called mixed variable MADS (MV-MADS), generalizes both mixed variable pattern search (MVPS) algorithms for linearly constrained mixed variable problems and MADS algorithms for general constrained problems with only continuous variables. The convergence analysis, which makes use of the Clarke nonsmooth calculus, similarly generalizes the existing theory for both MVPS and MADS algorithms, and reasonable conditions are established for ensuring convergence of a subsequence of iterates to a suitably defined stationary point in the nonsmooth and mixed variable sense.
+Keywords
+Nonlinear programming  Mesh adaptive direct search  Mixed variables  Derivative-free optimization  Convergence analysis  

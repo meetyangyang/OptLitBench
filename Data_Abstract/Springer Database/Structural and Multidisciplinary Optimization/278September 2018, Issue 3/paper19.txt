@@ -1,0 +1,6 @@
+Sequential optimization using multi-level cokriging and extended expected improvement criterion
+Yixin Liu;Shishi Chen;Fenggang Wang;Fenfen Xiong;
+Abstract
+To reduce the computational cost of metamodel based design optimization that directly relies on the computationally expensive simulation, the multi-fidelity cokriging method has gained increasing attention by fusing data from two or more models with different levels of fidelity. In this paper, an enhanced cokriging based sequential optimization method is proposed. Firstly, the impact of considering full correlation of data among all models on the hyper-parameter estimation during cokriging modeling is investigated by setting up a unified maximum likelihood function. Then, to reduce the computational cost, an extended expected improvement function is established to more reasonably identify the location and fidelity level of the next response evaluation based on the original expected improvement criterion. The results from comparative studies and one airfoil aerodynamic optimization application show that the proposed cokriging based sequential optimization method is more accurate in modeling and efficient in model evaluation than some existing popular approaches, demonstrating its effectiveness and relative merits.
+Keywords
+Cokriging  Gaussian process  Hyper-parameter estimation  Sequential sampling  

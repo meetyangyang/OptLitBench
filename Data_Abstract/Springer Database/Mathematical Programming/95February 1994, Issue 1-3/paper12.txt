@@ -1,0 +1,6 @@
+The least prior deviation quasi-Newton update
+R. B. Mifflin;J. L. Nazareth;
+Abstract
+We propose a new choice for the parameter in the Broyden class and derive and discuss properties of the resulting self-complementary quasi-Newton update. Our derivation uses a variational principle that minimizes the extent to which the quasi-Newton relation is violated on a prior step. We discuss the merits of the variational principle used here vis-a-vis the other principle in common use, which minimizes deviation from the current Hessian or Hessian inverse approximation in an appropriate Frobenius matrix norm. One notable advantage of our principle is an inherent symmetry that results in the same update being obtained regardless of whether the Hessian matrix or the inverse Hessian matrix is updated.
+Keywords
+Least Prior Deviation Update  LPD Update  Quasi-Newton method  Unconstrained minimization  Variational principle  Self-complementary  

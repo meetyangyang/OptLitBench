@@ -1,0 +1,6 @@
+Scheduling jobs with equal processing times on a single machine: minimizing maximum lateness and makespan
+Alexander A. Lazarev;Dmitry I. Arkhipov;Frank Werner;
+Abstract
+The following special case of the classical NP-hard scheduling problem \(1|r_j|L_{\max }\) is considered. There is a set of jobs \(N= \{ 1, 2, \ldots , n \}\) with identical processing times \(p_j=p\) for all jobs \(j \in N\). All jobs have to be processed on a single machine. The optimization criterion is the minimization of maximum lateness \(L_{\max }\). We analyze algorithms for the makespan problem \(1|r_j|C_{\max }\), presented by Garey et al. (SIAM J Comput 10(2):256–269, 1981), Simons (A fast algorithm for single processor scheduling. In: 19th Annual symposium on foundations of computer science (Ann Arbor, Mich., 1978, 1978) and Benson’s algorithm (J Glob Optim 13(1):1–24, 1998) and give two polynomial algorithms to solve the problem under consideration and to construct the Pareto set with respect to the criteria \(L_{\max }\) and \(C_{\max }\). The complexity of the presented algorithms is \(O(Q \cdot n \log n )\) and \(O(n^3 \log n)\), respectively, where \(10^{-Q}\) is the accuracy of the input-output parameters.
+Keywords
+Scheduling  Single machine  Equal processing times   Polynomial algorithms  Bi-criteria problem  

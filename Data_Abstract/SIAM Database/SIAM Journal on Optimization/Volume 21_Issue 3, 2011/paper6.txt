@@ -1,0 +1,6 @@
+Global Convergence of Radial Basis Function Trust Region Derivative-Free Algorithms
+Stefan M.  Wild and Christine  Shoemaker;
+Abstract
+We analyze globally convergent derivative-free trust region algorithms relying on radial basis function interpolation models. Our results extend the recent work of Conn, Scheinberg, and Vicente [SIAM J. Optim., 20 (2009), pp. 387–415] to fully linear models that have a nonlinear term. We characterize the types of radial basis functions that fit in our analysis and thus show global convergence to first-order critical points for the ORBIT algorithm of Wild, Regis, and Shoemaker [SIAM J. Sci. Comput., 30 (2008), pp. 3197–3219]. Using ORBIT, we present numerical results for different types of radial basis functions on a series of test problems. We also demonstrate the use of ORBIT in finding local minima on a computationally expensive environmental engineering problem.
+Keywords
+derivative-free optimization, radial basis functions, trust region methods, nonlinear optimization, 65D05, 90C30, 90C56, 

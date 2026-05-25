@@ -1,0 +1,6 @@
+Optimal Prioritized Infeasibility Handling in Model Predictive Control: Parametric Preemptive Multiobjective Linear Programming Approach
+J. VADA;O. SLUPPHAUG;T. A. JOHANSEN;
+Abstract
+All practical implementations of model-based predictive control (MPC) require a means to recover from infeasibility. We propose a strategy designed for linear state-space MPC with prioritized constraints. It relaxes optimally an infeasible MPC optimization problem into a feasible one by solving a single-objective linear program (LP) online in addition to the standard online MPC optimization problem at each sample. By optimal, it is meant that the violation of a lower prioritized constraint cannot be made less without increasing the violation of a higher prioritized constraint. The problem of computing optimal constraint violations is naturally formulated as a parametric preemptive multiobjective LP. By extending well-known results from parametric LP, the preemptive multiobjective LP is reformulated into an equivalent standard single-objective LP. An efficient algorithm for offline design of this LP is given, and the algorithm is illustrated on an example.
+Keywords
+parametric programming  preemptive programming  infeasibility  linear model predictive control  

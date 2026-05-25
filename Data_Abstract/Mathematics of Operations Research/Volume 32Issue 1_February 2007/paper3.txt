@@ -1,0 +1,6 @@
+Solution and Forecast Horizons for Infinite-Horizon Nonhomogeneous Markov Decision Processes
+Torpong Cheevaprawatdomrong;Irwin E. Schochetman;Robert L. Smith;Alfredo Garcia;
+Abstract
+We consider a nonhomogeneous infinite-horizon Markov Decision Process (MDP) problem with multiple optimal first-period policies. We seek an algorithm that, given finite data, delivers an optimal first-period policy. Such an algorithm can thus recursively generate, within a rolling-horizon procedure, an infinite-horizon optimal solution to the original problem. However, it can happen that no such algorithm exists, i.e., the MDP is not well posed. Equivalently, it is impossible to solve the problem with a finite amount of data. Assuming increasing marginal returns in actions (with respect to states) and stochastically increasing state transitions (with respect to actions), we provide an algorithm that is guaranteed to solve the given MDP whenever it is well posed. This algorithm determines, in finite time, a forecast horizon for which an optimal solution delivers an optimal first-period policy. As an application, we solve all well-posed instances of the time-varying version of the classic asset-selling problem.
+Keywords
+planning horizon monotone policy well-posed problem 

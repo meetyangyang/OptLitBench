@@ -1,0 +1,8 @@
+New efficient shortest path simplex algorithm: pseudo permanent labels instead of permanent labels
+A. Sedeño-Noda;C. González-Martín;
+Abstract
+
+We introduce a new network simplex pivot rule for the shortest path simplex algorithm. This new pivot rule chooses a subset of non-basic arcs to simultaneously enter into the basis. We call this operation a multiple pivot. We show that a shortest path simplex algorithm with this pivot rule performs O(n) multiple pivots and runs in O(nm) time. Our pivot rule is based on the new concept of a pseudo permanently labeled node, and it can be adapted to design a new label-correcting algorithm that runs in O(nm). Moreover, this concept lets us introduce new rules to identify negative cycles. Finally, we compare the network simplex algorithm with multiple pivots with other previously proposed efficient network simplex algorithm in a computational experiment.
+
+Keywords
+Shortest path problem  Shortest path simplex algorithm  Pseudo permanent labels  

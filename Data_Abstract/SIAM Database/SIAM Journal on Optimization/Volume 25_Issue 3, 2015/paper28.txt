@@ -1,0 +1,6 @@
+A Nonmonotone Filter SQP Method: Local Convergence and Numerical Results
+Nicholas I. M.  Gould, Yueling  Loh, and Daniel P.  Robinson;
+Abstract
+The work by Gould, Loh, and Robinson [SIAM  J. Optim., 24 (2014), pp. 175--209] established global convergence of a new filter line search method for finding local first-order solutions to nonlinear and nonconvex constrained optimization problems.  A key contribution of that work was that the search direction was computed using the same procedure during every iteration from subproblems that were always feasible and computationally tractable.  This contrasts previous filter methods that require a separate restoration phase based on subproblems solely designed to reduce infeasibility.  In this paper, we present a nonmonotone variant of our previous algorithm that inherits the previously established global convergence property.  In addition, we establish local superlinear convergence of the iterates and provide the results of numerical experiments. The numerical tests validate our method and highlight an interesting numerical trade-off between accepting more (on average lower quality) steps versus fewer (on average higher quality) steps.
+Keywords
+filter, restoration, penalty function, sequential quadratic programming, nonlinear programming, nonconvex, 49M05, 49M15, 65K05, 65K10, 65K15, 

@@ -1,0 +1,6 @@
+Globally-biased Disimpl algorithm for expensive global optimization
+Remigijus Paulavičius;Yaroslav D. Sergeyev;Dmitri E. Kvasov;Julius Žilinskas;
+Abstract
+ Direct-type global optimization algorithms often spend an excessive number of function evaluations on problems with many local optima exploring suboptimal local minima, thereby delaying discovery of the global minimum. In this paper, a globally-biased simplicial partition Disimpl algorithm for global optimization of expensive Lipschitz continuous functions with an unknown Lipschitz constant is proposed. A scheme for an adaptive balancing of local and global information during the search is introduced, implemented, experimentally investigated, and compared with the well-known Direct and Direct l methods. Extensive numerical experiments executed on 800 multidimensional multiextremal test functions show a promising performance of the new acceleration technique with respect to competitors.
+Keywords
+Global optimization  Lipschitz condition  Direct algorithm   Two-phase approach  Globally-biased Disimpl algorithm  

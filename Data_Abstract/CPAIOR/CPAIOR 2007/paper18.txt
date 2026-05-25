@@ -1,0 +1,4 @@
+Preprocessing Expression-Based Constraint Satisfaction Problems for Stochastic Local Search
+Sivan Sabato;Yehuda Naveh;
+Abstract
+This work presents methods for processing a constraint satisfaction problem (CSP) formulated by an expression-based language, before the CSP is presented to a stochastic local search solver. The architecture we use to implement the methods allows the extension of the expression language by user-defined operators, while still benefiting from the processing methods. Results from various domains, including industrial processor verification problems, show the strength of the methods. As one of our test cases, we introduce the concept of random-expression CSPs as a new form of random CSPs. We believe this form emulates many real-world CSPs more closely than other forms of random CSPs. We also observe a satisfiability phase transition in this type of problem ensemble.

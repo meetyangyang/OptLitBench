@@ -1,0 +1,6 @@
+ \(L^1\) penalization of volumetric dose objectives in optimal control of PDEs
+Richard C. Barnard;Christian Clason;
+Abstract
+This work is concerned with a class of PDE-constrained optimization problems that are motivated by an application in radiotherapy treatment planning. Here the primary design objective is to minimize the volume where a functional of the state violates a prescribed level, but prescribing these levels in the form of pointwise state constraints leads to infeasible problems. We therefore propose an alternative approach based on \(L^1\) penalization of the violation that is also applicable when state constraints are infeasible. We establish well-posedness of the corresponding optimal control problem, derive first-order optimality conditions, discuss convergence of minimizers as the penalty parameter tends to infinity, and present a semismooth Newton method for their efficient numerical solution. The performance of this method for a model problem is illustrated and contrasted with an alternative approach based on (regularized) state constraints.
+Keywords
+Optimal control  \(L^1\) penalization  Dose volume constraints  Semi-smooth Newton method  49J52  49J20  49M15  

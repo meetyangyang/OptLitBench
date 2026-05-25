@@ -1,0 +1,6 @@
+Bundle Trust-Region Algorithm for Bilinear Bilevel Programming
+S. Dempe;J. F. Bard;
+Abstract
+The bilevel programming problem (BLPP) is equivalent to a two-person Stackelberg game in which the leader and follower pursue individual objectives. Play is sequential and the choices of one affect the choices and attainable payoffs of the other. The purpose of this paper is to investigate an extension of the linear BLPP where the objective functions of both players are bilinear. To overcome certain discontinuities in the master problem, a regularized term is added to the follower objective function. Using ideas from parametric programming, the generalized Jacobian and the pseudodifferential of the regularized follower solution function are computed. This allows us to develop a bundle trust-region algorithm. Convergence analysis of the proposed methodology is given.
+Keywords
+Bilevel programming  bundle algorithm  Lipschitz continuity  generalized gradients  nondifferentiable optimization  

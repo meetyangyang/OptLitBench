@@ -1,0 +1,6 @@
+Efficient Routing in Heavy Traffic Under Partial Sampling of Service Times
+Rami Atar;Adam Shwartz;
+Abstract
+We consider a queue with renewal arrivals and n exponential servers in the Halfin-Whitt heavy traffic regime, where n and the arrival rate increase without bound, so that a critical loading condition holds. Server k serves at rate μk, and the empirical distribution of {μk}k = 1,…,n is assumed to converge weakly. We show that very little information on the service rates is required for a routing mechanism to perform well. More precisely, we construct a routing mechanism that has access to a single sample from the service time distribution of each of n1/2 + ε randomly selected servers (ε > 0), but not to the actual values of the service rates, the performance of which is asymptotically as good as the best among mechanisms that have the complete information {μk}k = 1,…,n.
+Keywords
+Halfin-Whitt regime routing policies service time sampling 

@@ -1,0 +1,6 @@
+Accelerating the Benders Decomposition Method: Application to Stochastic Network Design Problems
+Ragheb  Rahmaniani, Teodor Gabriel  Crainic, Michel  Gendreau, and Walter  Rei;
+Abstract
+This paper describes a Benders decomposition algorithm capable of efficiently solving large-scale instances of the well-known multicommodity capacitated network design problem with demand uncertainty. The problem is important because it models many  applications, including telecommunications, transportation, and logistics. This problem has been tackled in the literature with meta-heuristics and exact methods, but many benchmark instances, even though of moderate size, remain unsolved. To successfully apply the Benders method to these instances, we propose various acceleration techniques, including the use of cutting planes, partial decomposition, heuristics, stronger cuts,  reduction and warm-start strategies. Extensive computational experiments on  benchmark instances were conducted to evaluate the efficiency and robustness of the algorithm as well as of the proposed strategies. The numerical results confirm the superiority of the proposed algorithm over existing ones.
+Keywords
+network design, stochastic programming, Benders decomposition , 68Q25, 68R10, 68U05, 

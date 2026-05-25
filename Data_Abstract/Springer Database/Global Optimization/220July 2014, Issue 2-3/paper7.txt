@@ -1,0 +1,6 @@
+On the computation of all eigenvalues for the eigenvalue complementarity problem
+Luís M. Fernandes;Joaquim J. Júdice;Hanif D. Sherali;Masao Fukushima;
+Abstract
+In this paper, a parametric algorithm is introduced for computing all eigenvalues for two Eigenvalue Complementarity Problems discussed in the literature. The algorithm searches a finite number of nested intervals \([\bar{l}, \bar{u}]\) in such a way that, in each iteration, either an eigenvalue is computed in \([\bar{l}, \bar{u}]\) or a certificate of nonexistence of an eigenvalue in \([\bar{l}, \bar{u}]\) is provided. A hybrid method that combines an enumerative method [1] and a semi-smooth algorithm [2] is discussed for dealing with the Eigenvalue Complementarity Problem over an interval \([\bar{l}, \bar{u}]\). Computational experience is presented to illustrate the efficacy and efficiency of the proposed techniques.
+Keywords
+Eigenvalue problems  Complementarity problems  Nonlinear programming  Global optimization  90B60  90C33  90C30  90C26  

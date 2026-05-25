@@ -1,0 +1,6 @@
+Properties of a class of multilevel optimization algorithms for equality-constrained problems
+Stephen G. Nash;
+Abstract
+A multilevel optimization approach (termed MG/Opt) is presented for the solution of equality-constrained optimization problems. The approach assumes that one has a hierarchy of models, ordered from fine to coarse, of an underlying optimization problem and that one is interested in finding solutions at the finest level of detail. In this hierarchy of models, calculations on coarser levels are less expensive, but also are of less fidelity, than calculations on finer levels. The intent of MG/Opt is to use calculations on coarser levels to accelerate the progress of the optimization on the finest level. Global convergence is ensured by requiring a single step of a convergent method on the finest level, plus a line search for incorporating the coarse-level corrections. The convergence results apply to a broad class of algorithms with minimal assumptions about the properties of the coarse models. Under additional assumptions, the coarse-level correction is guaranteed to result in improvement of the fine-level solution. Computational results demonstrate that the multilevel algorithm can dramatically accelerate convergence to the solution.
+Keywords
+multilevel optimization, optimization-based multigrid methods 

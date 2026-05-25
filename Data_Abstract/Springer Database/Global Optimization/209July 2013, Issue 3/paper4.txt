@@ -1,0 +1,6 @@
+Bound reduction using pairs of linear inequalities
+Pietro Belotti;
+Abstract
+We describe a procedure to reduce variable bounds in mixed integer nonlinear programming (MINLP) as well as mixed integer linear programming (MILP) problems. The procedure works by combining pairs of inequalities of a linear programming (LP) relaxation of the problem. This bound reduction procedure extends the feasibility based bound reduction technique on linear functions, used in MINLP and MILP. However, it can also be seen as a special case of optimality based bound reduction, a method to infer variable bounds from an LP relaxation of the problem. For an LP relaxation with m constraints and n variables, there are O(m 2) pairs of constraints, and a naïve implementation of our bound reduction scheme has complexity O(n 3) for each pair. Therefore, its overall complexity O(m 2 n 3) can be prohibitive for relatively large problems. We have developed a more efficient procedure that has complexity O(m 2 n 2), and embedded it in two Open-Source solvers: one for MINLP and one for MILP. We provide computational results which substantiate the usefulness of this bound reduction technique for several instances.
+Keywords
+MINLP  MILP  Bound reduction  Implied bounds  

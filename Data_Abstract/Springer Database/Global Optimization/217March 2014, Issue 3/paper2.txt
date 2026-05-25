@@ -1,0 +1,6 @@
+The cluster problem revisited
+Achim Wechsung;Spencer D. Schaber;Paul I. Barton;
+Abstract
+In continuous branch-and-bound algorithms, a very large number of boxes near global minima may be visited prior to termination. This so-called cluster problem (J Glob Optim 5(3):253–265, 1994) is revisited and a new analysis is presented. Previous results are confirmed, which state that at least second-order convergence of the relaxations is required to overcome the exponential dependence on the termination tolerance. Additionally, it is found that there exists a threshold on the convergence order pre-factor which can eliminate the cluster problem completely for second-order relaxations. This result indicates that, even among relaxations with second-order convergence, behavior in branch-and-bound algorithms may be fundamentally different depending on the pre-factor. A conservative estimate of the pre-factor is given for \(\alpha \)BB relaxations.
+Keywords
+Cluster problem  Global optimization  Convergence order  Convex relaxations  49M20  49M37  65K05  68Q25  90C26  

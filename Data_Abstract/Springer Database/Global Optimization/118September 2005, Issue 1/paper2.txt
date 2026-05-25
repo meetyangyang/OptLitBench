@@ -1,0 +1,6 @@
+Exact Algorithm for Concave Knapsack Problems: Linear Underestimation and Partition Method
+X. L. Sun;F. L. Wang;D. Li;
+Abstract
+Integer programming problems with a concave cost function are often encountered in optimization models involving economics of scale. In this paper, we propose an efficient exact algorithm for solving concave knapsack problems. The algorithm consists of an iterative process between finding lower and upper bounds by linearly underestimating the objective function and performing domain cut and partition by exploring the special structure of the problem. The lower bound is improved iteratively via cutting and partitioning the domain. This iteration process converges to the optimality in a finite number of steps. Promising computational results are reported for large-scale concave knapsack problems with up to 1200 integer variables. Comparison results with other existing methods in the literature are also presented.
+Keywords
+concave knapsack problem  domain cut  domain partition  linear underestimation  nonlinear integer programming  

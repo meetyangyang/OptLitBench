@@ -1,0 +1,6 @@
+Branching and bounds tighteningtechniques for non-convex MINLP
+ Pietro   Belotti ; Jon   Lee ; Leo   Liberti ; François   Margot ; Andreas   Wächter ;
+Abstract
+ Many industrial problems can be naturally formulated using mixed integer non-linear programming (MINLP) models and can be solved by spatial Branch&Bound (sBB) techniques. We study the impact of two important parts of sBB methods: bounds tightening (BT) and branching strategies. We extend a branching technique originally developed for MILP, reliability branching, to the MINLP case. Motivated by the demand for open-source solvers for real-world MINLP problems, we have developed an sBB software package named couenne (Convex Over- and Under-ENvelopes for Non-linear Estimation) and used it for extensive tests on several combinations of BT and branching techniques on a set of publicly available and real-world MINLP instances. We also compare the performance of couenne with a state-of-the-art MINLP solver. 
+Keywords
+mixed-integer non-linear programming, Couenne, branching rules, bounds tightening AMS Subject Classification : 90C11, 90C26, 90C57 

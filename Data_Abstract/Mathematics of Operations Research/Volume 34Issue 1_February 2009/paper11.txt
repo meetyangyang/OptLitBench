@@ -1,0 +1,6 @@
+Unconstrained Convex Minimization in Relative Scale
+Yurii Nesterov;
+Abstract
+In this paper, we present a new approach to constructing schemes for unconstrained convex minimization, which computes approximate solutions with a certain relative accuracy. This approach is based on a special conic model of the unconstrained minimization problem. Using a structural model of the objective function, we can employ the efficient smoothing technique. The fastest of our algorithms solves a linear programming problem with relative accuracy δ in at most e · m1/2 (2 + ln m) · (1 + 1/δ) iterations of a gradient-type scheme, where m is the largest dimension of the problem and e is the Euler number.
+Keywords
+nonlinear optimization convex optimization complexity bounds relative accuracy fully polynomial approximation schemes gradient methods optimal methods 

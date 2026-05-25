@@ -1,0 +1,6 @@
+A basic variable neighborhood search heuristic for the uncapacitated multiple allocation p-hub center problem
+Jack Brimberg;Nenad Mladenović;Raca Todosijević;Dragan Urošević;
+Abstract
+The uncapacitated multiple allocation p-hub center problem (UMApHCP) consists of choosing p hub locations from a set of nodes with pairwise traffic demands in order to route the traffic between the origin-destination pairs such that the maximum cost between origin-destination pairs is minimum. It is assumed that transportation between non-hub nodes is possible only via chosen hub nodes. In this paper we propose a basic variable neighborhood search (VNS) heuristic for solving this NP hard problem. In addition we apply two mathematical formulations of the UMApHCP in order to detect limitations of the current state-of-the-art solver used for this problem. The heuristics are tested on benchmark instances for p-hub problems. The obtained results reveal the superiority of the proposed basic VNS over the state-of-the-art as well as over a multi-start local search heuristic developed by us in this paper.
+Keywords
+p-hub  Hub center  Heuristics  Multiple allocation  Variable neighborhood search  

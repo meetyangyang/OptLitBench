@@ -1,0 +1,6 @@
+Exact Algorithm for the Surrogate Dual of an Integer Programming Problem: Subgradient Method Approach
+S.-L. Kim;S. Kim;
+Abstract
+One of the critical issues in the effective use of surrogate relaxation for an integer programming problem is how to solve the surrogate dual within a reasonable amount of computational time. In this paper, we present an exact and efficient algorithm for solving the surrogate dual of an integer programming problem. Our algorithm follows the approach which Sarin et al. (Ref. 8) introduced in their surrogate dual multiplier search algorithms. The algorithms of Sarin et al. adopt an ad-hoc stopping rule in solving subproblems and cannot guarantee the optimality of the solutions obtained. Our work shows that this heuristic nature can actually be eliminated. Convergence proof for our algorithm is provided. Computational results show the practical applicability of our algorithm.
+Keywords
+Integer programming  surrogate dual  nondifferentiable optimization  subgradient method  

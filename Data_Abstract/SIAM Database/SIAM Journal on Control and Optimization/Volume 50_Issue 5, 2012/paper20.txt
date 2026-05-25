@@ -1,0 +1,6 @@
+Recognizing Weakly Stable Matrices
+Peter  Butkovič, Hans  Schneider, and Sergeĭ  Sergeev;
+Abstract
+A max-plus matrix $A$ is called weakly stable if the sequence (orbit) $x,A\otimes x,A^{2}\otimes x,\ldots$ does not reach an eigenvector of $A$ for any $x$ unless $x$ is an eigenvector. This is in contrast to previously studied strongly stable (robust) matrices for which the orbit reaches an eigenvector with any nontrivial starting vector. Max-plus matrices are used to describe multiprocessor interactive systems for which reachability of a steady regime is equivalent to reachability of an eigenvector by a matrix orbit. We prove that an irreducible matrix is weakly stable if and only if its critical graph is a Hamiltonian cycle in the associated graph. We extend this condition to reducible matrices. These criteria can be checked in polynomial time.
+Keywords
+matrix, steady regime, reachability, eigenspace, stability, 15A18, 15A80, 93C55, 

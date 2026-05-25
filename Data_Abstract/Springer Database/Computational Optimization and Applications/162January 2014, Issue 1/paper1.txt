@@ -1,0 +1,6 @@
+A superlinearly convergent R-regularized Newton scheme for variational models with concave sparsity-promoting priors
+Michael Hintermüller;Tao Wu;
+Abstract
+A general class of variational models with concave priors is considered for obtaining certain sparse solutions, for which nonsmoothness and non-Lipschitz continuity of the objective functions pose significant challenges from an analytical as well as numerical point of view. For computing a stationary point of the underlying variational problem, a Newton-type scheme with provable convergence properties is proposed. The possible non-positive definiteness of the generalized Hessian is handled by a tailored regularization technique, which is motivated by reweighting as well as the classical trust-region method. Our numerical experiments demonstrate selected applications in image processing, support vector machines, and optimal control of partial differential equations.
+Keywords
+Sparsity  Concave priors  Nonconvex minimization  Semismooth Newton method  Superlinear convergence  

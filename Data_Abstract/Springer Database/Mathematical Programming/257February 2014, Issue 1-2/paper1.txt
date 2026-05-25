@@ -1,0 +1,6 @@
+Hidden conic quadratic representation of some nonconvex quadratic optimization problems
+Aharon Ben-Tal;Dick den Hertog;
+Abstract
+The problem of minimizing a quadratic objective function subject to one or two quadratic constraints is known to have a hidden convexity property, even when the quadratic forms are indefinite. The equivalent convex problem is a semidefinite one, and the equivalence is based on the celebrated S-lemma. In this paper, we show that when the quadratic forms are simultaneously diagonalizable (SD), it is possible to derive an equivalent convex problem, which is a conic quadratic (CQ) one, and as such is significantly more tractable than a semidefinite problem. The SD condition holds for free for many problems arising in applications, in particular, when deriving robust counterparts of quadratic, or conic quadratic, constraints affected by implementation error. The proof of the hidden CQ property is constructive and does not rely on the S-lemma. This fact may be significant in discovering hidden convexity in some nonquadratic problems.
+Keywords
+Conic Quadratic Program  Hidden convexity  Implementation error  Robust optimization  Simultaneous diagonalizability  S-lemma  90C20  90C26  

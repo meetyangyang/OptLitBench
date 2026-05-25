@@ -1,0 +1,6 @@
+Approximate Solutions to the Time-Invariant Hamilton–Jacobi–Bellman Equation
+R. W. Beard;G. N. Saridis;J. T. Wen;
+Abstract
+In this paper, we develop a new method to approximate the solution to the Hamilton–Jacobi–Bellman (HJB) equation which arises in optimal control when the plant is modeled by nonlinear dynamics. The approximation is comprised of two steps. First, successive approximation is used to reduce the HJB equation to a sequence of linear partial differential equations. These equations are then approximated via the Galerkin spectral method. The resulting algorithm has several important advantages over previously reported methods. Namely, the resulting control is in feedback form and its associated region of attraction is well defined. In addition, all computations are performed off-line and the control can be made arbitrarily close to optimal. Accordingly, this paper presents a new tool for designing nonlinear control systems that adhere to a prescribed integral performance criterion.
+Keywords
+Nonlinear control  optimal control  Hamilton–Jacobi–Bellman equation  feedback synthesis  successive approximation  Galerkin approximation  

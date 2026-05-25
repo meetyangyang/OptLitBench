@@ -1,0 +1,6 @@
+Metaheuristics for High School Timetabling
+Alberto Colorni;Marco Dorigo;Vittorio Maniezzo;
+Abstract
+In this paper we present the results of an investigation of the possibilities offered by three well-known metaheuristic algorithms to solve the timetable problem, a multi-constrained, NP-hard, combinatorial optimization problem with real-world applications. First, we present our model of the problem, including the definition of a hierarchical structure for the objective function, and of the neighborhood search operators which we apply to matrices representing timetables. Then we report about the outcomes of the utilization of the implemented systems to the specific case of the generation of a school timetable. We compare the results obtained by simu lated annealing, tabu search and two versions, with and without local search, of the genetic algorithm. Our results show that GA with local search and tabu search based on temporary problem relaxations both outperform simulated annealing and handmade timetables.
+Keywords
+timetable problem  tabu search  simulated annealing  genetic algorithms  

@@ -1,0 +1,6 @@
+Approximation Algorithms for Certain Scheduling Problems
+Oscar H. Ibarra;Chul E. Kim;
+Abstract
+A subset of a set of tasks ℱ is to be scheduled on a single processor. Associated with each task J time μ(J) and profit p(J). The tasks have precedence constraints in that a task cannot be scheduled until all of its predecessors have been scheduled. Approximation algorithms of polynomial time complexity are presented for the following problems:MAXPROFIT problem. Given T, the available processor time, find a subset L of ℱ such that ∑L∈Lμ(J) ≤ T and ∑J∈LP(J) is maximal.MINTIME problem. Given P, the minimum profit desired, find a subset L of ℱ such that ∑J∈LP(J) ≥ p and ∑J∈Lμ(J) is minimal.
+Keywords
+schedule MAXPROFIT problem MINTIME problem precedence graph tree forest 0/1-knapsack problem NP-complete problem polynomial time algorithm approximation algorithm 

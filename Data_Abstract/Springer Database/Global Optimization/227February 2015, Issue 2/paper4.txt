@@ -1,0 +1,6 @@
+Rigorous verification of feasibility
+Ferenc Domes;Arnold Neumaier;
+Abstract
+This paper considers the problem of finding and verifying feasible points for constraint satisfaction problems (CSPs), including those with uncertain coefficients. The main part is devoted to the problem of finding a narrow box around an approximately feasible solution for which it can be rigorously and automatically proved that it contains a feasible solution. Some examples demonstrate difficulties when attempting verification. We review some existing methods and present a new method for verifying the existence of feasible points of CSPs in an automatically determined narrow box. Numerical tests within GloptLab, a solver developed by the authors, show how the different methods perform. Also discussed are the search for approximately feasible points and the use of approximately feasible points within a branch and bound scheme for constraint satisfaction.
+Keywords
+Rigorous feasibility verification  Constraint satisfaction  Global optimization  Verified computing  Interval analysis  

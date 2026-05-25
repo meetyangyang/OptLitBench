@@ -1,0 +1,6 @@
+Evolutionary annealing: global optimization in measure spaces
+Alan J. Lockett;Risto Miikkulainen;
+Abstract
+Stochastic optimization methods such as evolutionary algorithms and Markov Chain Monte Carlo methods usually involve a Markov search of the optimization domain. Evolutionary annealing is an evolutionary algorithm that leverages all the information gathered by previous queries to the cost function. Evolutionary annealing can be viewed either as simulated annealing with improved sampling or as a non-Markovian selection mechanism for evolutionary algorithms. This article develops the basic algorithm and presents implementation details. Evolutionary annealing is a martingale-driven optimizer, where evaluation yields a source of increasingly refined information about the fitness function. A set of experiments with twelve standard global optimization benchmarks is performed to compare evolutionary annealing with six other stochastic optimization methods. Evolutionary annealing outperforms other methods on asymmetric, multimodal, non-separable benchmarks and exhibits strong performance on others. It is therefore a promising new approach to global optimization.
+Keywords
+Annealed selection  Real-space evolutionary annealing   Non-Markovian selection  Evolutionary computation  Martingale-driven optimization  

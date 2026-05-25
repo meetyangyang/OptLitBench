@@ -1,0 +1,6 @@
+The Effect of Time-Varying Jamming Interference on Networked Stabilization
+Ahmet  Cetinkaya, Hideaki  Ishii, and Tomohisa  Hayakawa;
+Abstract
+The effect of jamming attacks on the networked control of a linear discrete-time dynamical system is investigated. In this networked control system, a wireless communication channel is used for the transmission of the control input packets from the controller to the plant. The probability of transmission failures on this channel depends on the power of the interference signals emitted by the jamming attacker. We explore the case where the attacker's interference power is time-varying but bounded in average. We obtain almost sure asymptotic stability conditions for the networked control system. In our stability analysis, we utilize nondecreasing and concave functions of the attacker's interference power that upper-bound the transmission failure probability. We also obtain upper and lower bounds on the probability of the state being outside a given level set at a given time. Finally, we present numerical examples to demonstrate the efficacy of our results under various scenarios.
+Keywords
+networked control, cyber-security, wireless networks, stochastic stability, 90B18, 93D15, 93C30, 93E15, 

@@ -1,0 +1,6 @@
+The semismooth approach for semi-infinite programming under the Reduction Ansatz
+Oliver Stein;Aysun Tezel;
+Abstract
+We study convergence of a semismooth Newton method for generalized semi-infinite programming problems with convex lower level problems where, using NCP functions, the upper and lower level Karush-Kuhn-Tucker conditions of the optimization problem are reformulated as a semismooth system of equations. Nonsmoothness is caused by a possible violation of strict complementarity slackness. We show that the standard regularity condition for convergence of the semismooth Newton method is satisfied under natural assumptions for semi-infinite programs. In fact, under the Reduction Ansatz in the lower level and strong stability in the reduced upper level problem this regularity condition is satisfied. In particular, we do not have to assume strict complementary slackness in the upper level. Numerical examples from, among others, design centering and robust optimization illustrate the performance of the method.
+Keywords
+Generalized semi-infinite optimization  Semismooth Newton method  NCP function  CD-regularity  Reduction Ansatz  90C34  90C33  90C46  49M05  49M15  

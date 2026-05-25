@@ -1,0 +1,6 @@
+The optimal statistical median of a convex set of arrays
+Stefano Benati;Romeo Rizzi;
+Abstract
+We consider the following problem. A set \({r^1, r^2,\ldots , r^K \,{\in} \mathbf{R}^T}\) of vectors is given. We want to find the convex combination \({z = \sum \lambda_j r^j}\) such that the statistical median of z is maximum. In the application that we have in mind, \({r^j, j=1,\ldots,K}\) are the historical return arrays of asset j and \({\lambda_j, j=1,\ldots,K}\) are the portfolio weights. Maximizing the median on a convex set of arrays is a continuous non-differentiable, non-concave optimization problem and it can be shown that the problem belongs to the APX-hard difficulty class. As a consequence, we are sure that no polynomial time algorithm can ever solve the model, unless P = NP. We propose an implicit enumeration algorithm, in which bounds on the objective function are calculated using continuous geometric properties of the median. Computational results are reported.
+Keywords
+Global optimization  Median optimization  Statistical median and quantile optimization  Robust statistics  Branch&bound algorithms  

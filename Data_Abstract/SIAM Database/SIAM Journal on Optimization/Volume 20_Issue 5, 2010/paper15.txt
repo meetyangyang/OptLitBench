@@ -1,0 +1,6 @@
+A Redistributed Proximal Bundle Method for Nonconvex Optimization
+Warren  Hare and Claudia  Sagastizábal;
+Abstract
+Proximal bundle methods have been shown to be highly successful optimization methods for unconstrained convex problems with discontinuous first derivatives. This naturally leads to the question of whether proximal variants of bundle methods can be extended to a nonconvex setting. This work proposes an approach based on generating cutting-planes models, not of the objective function as most bundle methods do but of a local convexification of the objective function. The corresponding convexification parameter is calculated “on the fly” in such a way that the algorithm can inform the user as to what proximal parameters are sufficiently large that the objective function is likely to have well-defined proximal points. This novel approach, shown to be sound from both the objective function and subdifferential modelling perspectives, opens the way to create workable nonconvex algorithms based on nonconvex $\mathcal{VU}$ theory. Both theoretical convergence analysis and some encouraging preliminary numerical experience are provided.
+Keywords
+nonconvex optimization, nonsmooth optimization, proximal point, prox-regular, bundle method, lower-$\mathcal{C}^2$, 90C26, 49J52, 65K10, 49J53, 49M05, 

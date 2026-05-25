@@ -1,0 +1,6 @@
+A Simple Primal-Dual Feasible Interior-Point Method for Nonlinear Programming with Monotone Descent
+Sasan Bakhtiari;André L. Tits;
+Abstract
+We propose and analyze a primal-dual interior point method of the “feasible” type, with the additional property that the objective function decreases at each iteration. A distinctive feature of the method is the use of different barrier parameter values for each constraint, with the purpose of better steering the constructed sequence away from non-KKT stationary points. Assets of the proposed scheme include relative simplicity of the algorithm and of the convergence analysis, strong global and local convergence properties, and good performance in preliminary tests. In addition, the initial point is allowed to lie on the boundary of the feasible set.
+Keywords
+constrained optimization  nonlinear programming  primal-dual interior-point methods  feasibility  monotone descent  

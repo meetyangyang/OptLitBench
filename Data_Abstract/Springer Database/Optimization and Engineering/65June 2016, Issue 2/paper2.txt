@@ -1,0 +1,6 @@
+Data-driven construction of Convex Region Surrogate models
+Qi Zhang;Ignacio E. Grossmann;Arul Sundaramoorthy;Jose M. Pinto;
+Abstract
+With the increasing trend of solving more complex and integrated optimization problems, there is a need for developing process models that are sufficiently accurate as well as computationally efficient. In this work, we develop an algorithm for the data-driven construction of a type of surrogate model that can be formulated as a set of mixed-integer linear constraints, yet still provide good approximations of nonlinearities and nonconvexities. In such a surrogate model, which we refer to as Convex Region Surrogate (CRS), the feasible region is given by the union of convex regions in the form of polytopes, and for each region, the corresponding cost function can be approximated by a linear function. The general problem is as follows: given a set of data points in the parameter space and a scalar cost value associated with each data point, find a CRS model that approximates the feasible region and cost function indicated by the given data points. We present a two-phase algorithm to solve this problem and demonstrate its effectiveness with an extensive computational study as well as a real-world case study.
+Keywords
+Surrogate modeling  Data-driven modeling  Mixed-integer programming  Polyhedral theory  Multiscale optimization  

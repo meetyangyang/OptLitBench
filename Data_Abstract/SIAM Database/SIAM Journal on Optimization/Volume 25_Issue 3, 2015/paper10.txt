@@ -1,0 +1,6 @@
+An Active-Set Method for Second-Order Conic-Constrained Quadratic Programming
+Noam  Goldberg and Sven  Leyffer;
+Abstract
+We consider the minimization of a convex quadratic objective subject to second-order cone constraints. This problem generalizes the well-studied bound-constrained quadratic programming (QP) problem. We propose a new two-phase method: in the first phase a projected-gradient method is used to quickly identify the active set of cones, and in the second-phase Newton's method is applied to rapidly converge given the subsystem of active cones. Computational experiments confirm that the conically constrained QP is solved more efficiently by our method than by a specialized conic optimization solver and more robustly than by general nonlinear programming solvers.
+Keywords
+conically constrained quadratic program, projected gradient method, 90C20, 90C25, 90C52, 

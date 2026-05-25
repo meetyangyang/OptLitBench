@@ -1,0 +1,6 @@
+Semismooth Newton Methods for Optimal Control of the Wave Equation with Control Constraints
+Axel  Kröner, Karl  Kunisch, and Boris  Vexler;
+Abstract
+In this paper optimal control problems governed by the wave equation with control constraints are analyzed. Three types of control action are considered: distributed control, Neumann boundary control, and Dirichlet control, and proper functional analytic settings for them are discussed. For treating inequality constraints, semismooth Newton methods are discussed and their convergence properties are investigated. In the case of distributed and Neumann control, superlinear convergence is shown. For Dirichlet boundary control, superlinear convergence is proved for a strongly damped wave equation. For numerical realization, a space-time finite element discretization is discussed. Numerical examples illustrate the results.
+Keywords
+semismooth Newton methods, wave equation, optimal control, control constraints, superlinear convergence, space-time finite elements, 49J20, 35L05, 45M37, 65N30, 

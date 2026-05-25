@@ -1,0 +1,6 @@
+Privacy-preserving linear programming
+O. L. Mangasarian;
+Abstract
+We propose a privacy-preserving formulation of a linear program whose constraint matrix is partitioned into groups of columns where each group of columns and its corresponding cost coefficient vector are owned by a distinct entity. Each entity is unwilling to share or make public its column group or cost coefficient vector. By employing a random matrix transformation we construct a linear program based on the privately held data without revealing that data or making it public. The privacy-preserving transformed linear program has the same minimum value as the original linear program. Component groups of the solution of the transformed problem can be decoded and made public only by the original group that owns the corresponding columns of the constraint matrix and can be combined to give an exact solution vector of the original linear program.
+Keywords
+Security  Privacy-preserving  Linear programming  Vertically partitioned data  

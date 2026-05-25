@@ -1,0 +1,6 @@
+A distributed approximation algorithm for the bottleneck connected dominating set problem
+Anurag Verma;Sergiy Butenko;
+Abstract
+Some of the most popular routing protocols for wireless sensor networks require a virtual backbone for efficient communication between the sensors. Connected dominating sets (CDS) have been studied as a method of choosing nodes to be in the backbone. The traditional approach is to assume that the transmission range of each node is given and to minimize the number of nodes in the CDS representing the backbone. A recently introduced alternative strategy is based on the concept of k-bottleneck connected dominating set (k-BCDS), which, given a positive integer k, minimizes the transmission range of the nodes that ensures a CDS of size k exists in the network. This paper provides a 6-approximate distributed algorithm for the k-BCDS problem. The results of empirical evaluation of the proposed algorithm are also included.
+Keywords
+Bottleneck connected dominating set  Wireless networks  Distributed algorithm  

@@ -1,0 +1,6 @@
+Stepsize analysis for descent methods
+A. I. Cohen;
+Abstract
+The convergence rates of descent methods with different stepsize rules are compared. Among the stepsize rules considered are: constant stepsize, exact minimization along a line, Goldstein-Armijo rules, and stepsize equal to that which yields the minimum of certain interpolatory polynomials. One of the major results shown is that the rate of convergence of descent methods with the Goldstein-Armijo stepsize rules can be made as close as desired to the rate of convergence of methods that require exact minimization along a line. Also, a descent algorithm that combines a Goldstein-Armijo stepsize rule with a secant-type step is presented. It is shown that this algorithm has a convergence rate equal to the convergence of descent methods that require exact minimization along a line and that, eventually (i.e., near the minimum), it does not require a search to determine an acceptable stepsize.
+Keywords
+Descent methods  rates of convergence  stepsize rules  

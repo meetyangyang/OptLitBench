@@ -1,0 +1,6 @@
+Modifications and implementation of the ellipsoid algorithm for linear programming
+Donald Goldfarb;Michael J. Todd;
+Abstract
+We give some modifications of the ellipsoid algorithm for linear programming and describe a numerically stable implementation. We are concerned with practical problems where user-supplied bounds can usually be provided. Our implementation allows constraint dropping and updates bounds on the optimal value, and should be able to terminate with an indication of infeasibility or with a provably good feasible solution in a moderate number of iterations.
+Keywords
+Ellipsoid Algorithm  Linear Programming  Polynomial Boundedness  Khachian's Method  Linear Inequalities  

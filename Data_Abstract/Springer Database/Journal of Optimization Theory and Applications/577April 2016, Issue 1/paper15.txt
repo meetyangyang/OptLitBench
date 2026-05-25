@@ -1,0 +1,6 @@
+Conic Relaxations for Semi-supervised Support Vector Machines
+Yanqin Bai;Xin Yan;
+Abstract
+Semi-supervised support vector machines arise in machine learning as a model of mixed integer programming problem for classification. In this paper, we propose two convex conic relaxations for the original mixed integer programming problem. The first one is a new semi-definite relaxation, and its possibly maximal ratio of the optimal value is estimated approximately. The second one is a doubly nonnegative relaxation, which is relaxed from a well-known conic programming problem called completely positive programming problem that is equivalent to the original problem. Furthermore, we prove that the doubly nonnegative relaxation is tighter than the semi-definite relaxation. Finally, the numerical results show that two proposed relaxations not only generate proper classifiers but also outperform some existing methods in classification accuracy.
+Keywords
+Semi-supervised support vector machines  Convex conic relaxation  Semi-definite relaxation  Completely positive programming  Doubly nonnegative relaxation  62H30  90C11  90C22  

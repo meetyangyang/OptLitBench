@@ -1,0 +1,6 @@
+An inexact interior point method for monotone NCP
+ Stefania   Bellavia ; Maria   Macconi ;
+Abstract
+ In this paper we present an inexact Interior Point method for solving monotone nonlinear complementarity problems. We show that the theory presented by Kojima, Noma and Yoshise for an exact version of this method can be used to establish global convergence for the inexact form. Then we prove that local superlinear convergence can be achieved under some stronger hypotheses. The complexity of the algorithm is also studied under the assumption that the problem satisfies a scaled Lipschitz condition. It is proved that the feasible version of the algorithm is polynomial, while the infeasible one is globally convergent at a linear rate. 
+Keywords
+inexact interior point, nonlinear complementarity problems, polynomial complexity, rate of convergence 

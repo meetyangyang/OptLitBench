@@ -1,0 +1,6 @@
+A class of superlinearly convergent projection algorithms with relaxed stepsizes
+Berc Rustem;
+Abstract
+A quasi-Newton extension of the Goldstein-Levitin-Polyak (GLP) projected gradient algorithm for constrained optimization is considered. Essentially, this extension projects an unconstrained descent step on to the feasible region. The determination of the stepsize is divided into two stages. The first is a stepsize sequence, chosen from the range [1,2], converging to unity. This determines the size of the unconstrained step. The second is a stepsize chosen from the range [0,1] according to a stepsize strategy and determines the length of the projected step. Two such strategies are considered. The first bounds the objective function decrease by a conventional linear functional, whereas the second uses a quadratic functional as a bound.
+Keywords
+Objective Function  Convergence Rate  Mathematical Method  Feasible Region  Gradient Algorithm  

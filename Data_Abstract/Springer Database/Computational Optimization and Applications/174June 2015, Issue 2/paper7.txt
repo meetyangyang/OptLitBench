@@ -1,0 +1,6 @@
+Estimation-based metaheuristics for the single vehicle routing problem with stochastic demands and customers
+Prasanna Balaprakash;Mauro Birattari;Thomas Stützle;Marco Dorigo;
+Abstract
+The vehicle routing problem with stochastic demands and customers (VRPSDC) requires finding the optimal route for a capacitated vehicle that delivers goods to a set of customers, where each customer has a fixed probability of requiring being visited and a stochastic demand. For large instances, the evaluation of the cost function is a primary bottleneck when searching for high quality solutions within a limited computation time. We tackle this issue by using an empirical estimation approach. Moreover, we adopt a recently developed state-of-the-art iterative improvement algorithm for the closely related probabilistic traveling salesman problem. We integrate these two components into several metaheuristics and we show that they outperform substantially the current best algorithm for this problem.
+Keywords
+Metaheuristics  Empirical estimation  Vehicle routing with stochastic demands and customers  

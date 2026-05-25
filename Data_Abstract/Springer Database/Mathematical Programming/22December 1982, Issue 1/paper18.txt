@@ -1,0 +1,6 @@
+A polynomial algorithm for integer programming covering problems satisfying the integer round-up property
+James B. Orlin;
+Abstract
+LetA be a non-negative matrix with integer entries and no zero column. The integer round-up property holds forA if for every integral vectorw the optimum objective value of the generalized covering problem min{1y: yA ≥ w, y ≥ 0 integer} is obtained by rounding up to the nearest integer the optimum objective value of the corresponding linear program. A polynomial time algorithm is presented that does the following: given any generalized covering problem with constraint matrixA and right hand side vectorw, the algorithm either finds an optimum solution vector for the covering problem or else it reveals that matrixA does not have the integer round-up property.
+Keywords
+Integer Programming  Covering  

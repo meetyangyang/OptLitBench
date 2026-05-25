@@ -1,0 +1,6 @@
+Approximate global optimization with convexity estimation of response surface using Kriging method
+Sei-ichiro Sakata;Fumihiro Ashida;
+Abstract
+This paper describes a new method for approximate global optimization using convexity estimation of a multi-peaked or partially non-convex response surface. This method is based on convexity estimation of a response surface and a cell-based clustering technique. Convexity of an approximated function is estimated from the Hessian matrix and its eigenvalue. For this purpose, a Kriging-based convexity estimation method is also introduced in this paper. At first, a formulation for the convexity estimation with the Kriging method is provided. The convexity of an objective function at each location is estimated without using a finite difference based technique. With using this convexity estimation and a cell-based clustering technique, convex clusters are constructed in a solution space. The global optimization is performed with iterative local optimization to the convex clusters. From the numerical results, validity and effectiveness of the proposed method are confirmed.
+Keywords
+Approximate global optimization  Cell-based clustering  Kriging method  Convexity estimation  Hessian estimation  

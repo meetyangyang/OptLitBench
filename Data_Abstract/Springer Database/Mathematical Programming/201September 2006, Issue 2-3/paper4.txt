@@ -1,0 +1,6 @@
+Two-stage integer programs with stochastic right-hand sides: a superadditive dual approach
+Nan Kong;Andrew J. Schaefer;Brady Hunsaker;
+Abstract
+We consider two-stage pure integer programs with discretely distributed stochastic right-hand sides. We present an equivalent superadditive dual formulation that uses the value functions in both stages. We give two algorithms for finding the value functions. To solve the reformulation after obtaining the value functions, we develop a global branch-and-bound approach and a level-set approach to find an optimal tender. We show that our method can solve randomly generated instances whose extensive forms are several orders of magnitude larger than the extensive forms of those instances found in the literature.
+Keywords
+Stochastic Programming  Integer Programming  Superadditive Duality  Global Branch and Bound  Level Sets  90C15  90C10  90C06  

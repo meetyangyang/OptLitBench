@@ -1,0 +1,6 @@
+Active thermography setup updating for NDE: a comparative study of regression techniques and optimisation routines with high contrast parameter influences for thermal problems
+J. Peeters;E. Louarroudi;B. Bogaerts;S. Sels;J. J. J. Dirckx;G. Steenackers;
+Abstract
+An implementation of updating techniques similar to finite element updating in structural dynamics is developed for thermal material inspection using adaptive response surfaces to approximate experimental parameters. In general, thermal models contain high nonlinearities in their parameters, which influences updating accuracies. This is further investigated in this work. Several adaptive response surface regression methods are compared: interpolation, piecewise spline and polynomial regression functions. Next, the influence of the choice of optimisation parameters is discussed and compared with several global and local optimisation routines. Finally, a well-suited regression technique is investigated which transforms the dataset to a smaller, focused response model in each optimisation loop and delivers a proper regression accuracy. This results in data-reduction for the model to be optimised.
+Keywords
+Pulsed thermography  FE model updating (FEMU)  Gradient based optimisation  Genetic optimisation  Inverse problem  Simplex method  Evolutionary strategy  Nondestructive evaluation  

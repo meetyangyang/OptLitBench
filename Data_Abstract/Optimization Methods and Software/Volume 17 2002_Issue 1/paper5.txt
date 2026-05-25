@@ -1,0 +1,6 @@
+A Complexity Analysis of Local Search Algorithms in Global Optimization
+ M.   Gaviano ; D.   Lera ;
+Abstract
+ In this paper, a complexity analysis is performed for an algorithm which solves the global optimization problem (P): min f ( x ), x ] S ; $ f:\ S \longrightarrow {\shadR}, \ S \subset {\shadR}^n$ . The algorithm yields local minimizations of (P) starting from points chosen at random in S , and then the global minimum is selected among the local ones found. The local search algorithm is based on the steepest-descent method combined either with an exact line search or with the Armijo procedure. In the first case it is found that the number of line searches required to solve (P) within a fixed accuracy depends linearly on the problem dimension; in the second case a similar result involving the number of function evaluations is established. 
+Keywords
+Random Search, Global Optimization, Complexity 

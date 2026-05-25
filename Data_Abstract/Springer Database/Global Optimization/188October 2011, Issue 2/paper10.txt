@@ -1,0 +1,6 @@
+Constructing composite search directions with parameters in quadratic interpolation models
+Qinghua Zhou;Yan Li;Minghu Ha;
+Abstract
+In this paper, we introduce the weighted composite search directions to develop the quadratic approximation methods. The purpose is to make fully use of the information disclosed by the former steps to construct possibly more promising directions. Firstly, we obtain these composite directions based on the properties of simplex methods and use them to construct trust region subproblems. Then, these subproblems are solved in the algorithm to find solutions of some benchmark optimization problems. The computation results show that for most tested problems, the improved quadratic approximation methods can obviously reduce the number of function evaluations compared with the existing ones. Finally, we conclude that the algorithm will perform better if the composite directions approach the previous steepest descent direction of the sub-simplex so far. We also point out the potential applications of this improved quadratic interpolation method in business intelligence systems.
+Keywords
+Unconstrained optimization  Trust region method  Quadratic model  Simplex methods  Business intelligence systems  

@@ -1,0 +1,6 @@
+A comprehensive study of optimization algorithm for wireless coverage in indoor area
+Ahmed Wasif Reza;Kaharudin Dimyati;Kamarul Ariffin Noordin;A. S. M. Zahid Kausar;Md. Sumon Sarker;
+Abstract
+Coverage optimization using minimum number of transmitters is critical to service providers and vendors that need to control the coverage as well as the huge costs involved. In this regards, an existing coverage algorithm for determining the minimum number of transmitting antennas as well as their appropriate locations to provide the optimized wireless coverage for indoor environment is studied in this paper. The algorithm uses ray-tracing to predict the signal distribution from the transmitter to the sampling points (receivers) and genetic algorithm to determine the minimum number of transmitters and their corresponding locations to achieve the optimum wireless coverage. The complexity and performance of the algorithm are also analyzed and it is found that it has exponentially increasing complexity of \(2^{n}\) and the change of computation time is greater with small change of the number of receiving points. Moreover, under the multi-transmitter scenario (real case), the accuracy achieved by fading, coverage ability, and signal to noise ratio is in the range of 96–99 %.
+Keywords
+Optimization  Wireless coverage  Ray-tracing  Genetic algorithm  

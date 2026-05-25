@@ -1,0 +1,6 @@
+Optimization algorithm with probabilistic estimation
+D. Yan;H. Mukai;
+Abstract
+In this paper, we present a stochastic optimization algorithm based on the idea of the gradient method which incorporates a new adaptive-precision technique. Because of this new technique, unlike recent methods, the proposed algorithm adaptively selects the precision without any need for prior knowledge on the speed of convergence of the generated sequence. With this new technique, the algorithm can avoid increasing the estimation precision unnecessarily, yet it retains its favorable convergence properties. In fact, it tries to maintain a nice balance between the requirements for computational accuracy and those for computational expediency. Furthermore, we present two types of convergence results delineating under what assumptions what kinds of convergence can be obtained for the proposed algorithm.
+Keywords
+Stochastic optimization  Monte Carlo simulation  

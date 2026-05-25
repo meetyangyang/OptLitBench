@@ -1,0 +1,6 @@
+A family of second-order methods for convex \(\ell _1\)-regularized optimization
+Richard H. Byrd;Gillian M. Chin;Jorge Nocedal;Figen Oztoprak;
+Abstract
+This paper is concerned with the minimization of an objective that is the sum of a convex function f and an \(\ell _1\) regularization term. Our interest is in active-set methods that incorporate second-order information about the function f to accelerate convergence. We describe a semismooth Newton framework that can be used to generate a variety of second-order methods, including block active set methods, orthant-based methods and a second-order iterative soft-thresholding method. The paper proposes a new active set method that performs multiple changes in the active manifold estimate at every iteration, and employs a mechanism for correcting these estimates, when needed. This corrective mechanism is also evaluated in an orthant-based method. Numerical tests comparing the performance of three active set methods are presented.
+Keywords
+49M37  90C30  65K05  

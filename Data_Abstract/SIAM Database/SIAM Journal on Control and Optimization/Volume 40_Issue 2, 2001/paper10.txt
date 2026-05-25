@@ -1,0 +1,6 @@
+A Dynamic Programming Algorithm for the Optimal Control of Piecewise Deterministic Markov Processes
+Anthony  Almudevar;
+Abstract
+A piecewise deterministic Markov process (PDP) is a continuous time Markov process consisting of continuous, deterministic trajectories interrupted by random jumps. The trajectories may be controlled with the object of minimizing the expected costs associated with the process. A method of representing this controlled PDP as a discrete time decision process is presented, allowing the value function for the problem to be expressed as the fixed point of a dynamic programming operator. Decisions take the form of trajectory segments. The expected costs may then be minimized through a dynamic programming algorithm, rather than through the solution of the Bellman--Hamilton--Jacobi equation, assuming the trajectory segments are numerically tractable. The technique is applied to the optimal capacity expansion problem, that is, the problem of planning the construction of new production facilities to meet rising demand.
+Keywords
+piecewise deterministic Markov process, dynamic programming, capacity expansion, 93E20, 60J75, 

@@ -1,0 +1,6 @@
+Automatic differentiation as a tool in engineering design
+J. -F. M. Barthelemy;L. E. Hall;
+Abstract
+Automatic Differentiation (AD) is a tool that systematically implements the chain rule of differentiation to obtain the derivatives of functions calculated by computer programs. In this paper, it is assessed as a tool for engineering design. The paper discusses the forward and reverse modes of AD, their computing requirements, as well as approaches to implementing AD. It continues with the application of two different tools to two medium-size structural analysis problems to generate sensitivity information typically necessary in an optimization or design situation. The paper concludes with the observation that AD is to be preferred to finite differencing in most cases, as long as sufficient computer storage is available; in some instances, AD may be the alternative to consider in lieu of analytical sensitivity analysis.
+Keywords
+Analytical Sensitivity  Civil Engineer  Structural Analysis  Computer Program  Finite Difference  

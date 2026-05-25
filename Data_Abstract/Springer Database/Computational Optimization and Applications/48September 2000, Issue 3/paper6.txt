@@ -1,0 +1,6 @@
+Globally Convergent Algorithms for Unconstrained Optimization
+Yixun Shi;
+Abstract
+A new globalization strategy for solving an unconstrained minimization problem is proposed based on the idea of combining Newton's direction and the steepest descent direction WITHIN each iteration. Global convergence is guaranteed with an arbitrary initial point. The search direction in each iteration is chosen to be as close to the Newton's direction as possible and could be the Newton's direction itself. Asymptotically the Newton step will be taken in each iteration and thus the local convergence is quadratic. Numerical experiments are also reported. Possible combination of a Quasi-Newton direction with the steepest descent direction is also considered in our numerical experiments. The differences between the proposed strategy and a few other strategies are also discussed.
+Keywords
+unconstrained optimization  global convergence  Newton's method  Quasi-Newton method  steepest descent method  line search  

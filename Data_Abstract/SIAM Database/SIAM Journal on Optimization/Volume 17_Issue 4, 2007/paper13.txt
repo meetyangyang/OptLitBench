@@ -1,0 +1,6 @@
+Quadratic Matrix Programming
+Amir   Beck;
+Abstract
+We introduce and study a special class of nonconvex quadratic problems in which the objective and constraint functions have the form $f(\boldmath X)={Tr}(\boldmath X^T \boldmath A \boldmath X) + 2 Tr(\boldmath B^T \boldmath X) +c, \boldmath X \in {\real R}^{n \times r}$. The latter formulation is termed quadratic matrix programming (QMP) of order r. We construct a specially devised semidefinite relaxation (SDR) and dual for the QMP problem and show that under some mild conditions strong duality holds for QMP problems with at most r constraints. Using a result on the equivalence of two characterizations of the nonnegativity property of quadratic functions of the above form, we are able to compare the constructed SDR and dual problems to other known SDRs and dual formulations of the problem. An application to robust least squares problems is discussed.
+Keywords
+quadratic matrix programming, semidefinite relaxation, strong duality, nonconvex quadratic problems, 90C20, 90C26, 90C46, 

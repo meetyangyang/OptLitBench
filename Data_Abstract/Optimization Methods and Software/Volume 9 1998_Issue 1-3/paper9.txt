@@ -1,0 +1,6 @@
+On homogeneous interrior-point algorithms for semidefinite programming
+ Florian A.   Potra ; Rongqin   Sheng ;
+Abstract
+ A simple homogeneous primal-dual feasibility model is proposed for semidefinite programming (SDP) problems. Two infeasible-interior-point algorithms are applied to the homogeneous formulation. The algorithms do not need a big M initialization. If the original SDP problem has a solution (X * y * S *), then both algorithms find an ϵ-approximate solution (i.e., a solution with residual error less than or equal to ϵ) in at most  steps, where ρ* = Tr(X * +  *), and ϵ0 is the residual error at the (normalized) starting point. A simple way of monitoring possible infeasibility of the original SDP problem is provided such that in at most  steps either an 6-approximate solution is obtained, or it is determined that there is no solution (X * y * S *) with Tr(X * + S *) less than or equal to a given number ρ > 0. Numerical results on Mehrotra type primal-dual predictor-corrector algorithms show that the homogeneous algorithms outperform their non-homogeneous counterparts, with improvement of ore than 20% in many cases, in terms of total CPU time.  
+Keywords
+Semidefinite Programming, Homogeneous Interior-Point algorithm, Polynomial Complexity 

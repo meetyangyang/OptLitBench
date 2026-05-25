@@ -1,0 +1,6 @@
+Searching approximate global optimal Heilbronn configurations of nine points in the unit square via GPGPU computing
+Liangyu Chen;Yaochen Xu;Zhenbing Zeng;
+Abstract
+In this paper we present a method of applying the GPGPU technology to compute the approximate optimal solution to the Heilbronn problem for nine points in the unit square, namely, points \(P_1,P_2,\ldots ,P_9\) in \([0,1]\times [0,1]\) so that the minimal area of triangles \(P_iP_jP_k\,(1\le i<j<k\le 9)\) gets the maximal value \(h_9(\Box )\). We construct nine rectangles with edge length 1 / 80 in the unit square which contain all optimal Heilbronn configurations up to possible rotation and reflection, and prove that \(\frac{9\sqrt{65}-55}{320}=0.054875999\cdots<h_9(\Box )<0.054878314\), the lower bound here comes from Comellas and Yebra’s paper.
+Keywords
+Heilbronn problem  Rectangle partition  Branch-and-bound method  Combinatorial geometry  GPGPU technology  

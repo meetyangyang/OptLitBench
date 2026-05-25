@@ -1,0 +1,6 @@
+Routing of Railway Carriages
+Peter Brucker;Johann Hurink;Thomas Rolfes;
+Abstract
+In the context of organizing timetables for railway companies the following railway carriage routing problem occurs. Given a timetable containing rail links with departure and destination times/stations and the composition of the trains, find a routing of railway carriages such that the required carriages are always available when a train departs. The problem is formulated as an integer multi-commodity network flow problem with nonlinear objective function. We will present a local search approach for this NP-hard problem. The approach uses structural properties of the integer multi-commodity network flow formulation of the problem. Computational results for a real world instance are given.
+Keywords
+Railway scheduling  local search  multi-commodity flow  

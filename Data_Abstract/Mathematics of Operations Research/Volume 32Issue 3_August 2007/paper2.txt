@@ -1,0 +1,6 @@
+Adaptive Control Variates for Finite-Horizon Simulation
+Sujin Kim;Shane G. Henderson;
+Abstract
+Adaptive Monte Carlo methods are simulation efficiency improvement techniques designed to adaptively tune simulation estimators. Most of the work on adaptive Monte Carlo methods has been devoted to adaptively tuning importance sampling schemes. We instead focus on adaptive methods based on control variate schemes. We introduce two adaptive control variate methods, and develop their asymptotic properties. The first method uses stochastic approximation to adaptively tune control variate estimators. It is easy to implement, but it requires some nontrivial tuning of parameters. The second method is based on sample average approximation. Tuning is no longer required, but it can be computationally expensive. Numerical results for the pricing of barrier options are presented to demonstrate the methods.
+Keywords
+variance reduction adaptive Monte Carlo control variates 

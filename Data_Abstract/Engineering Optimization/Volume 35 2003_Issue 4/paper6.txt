@@ -1,0 +1,6 @@
+Parameter robust control design using bimatrix co-evolution algorithms
+ Jong   Hur ; Hungu   Lee ; Min-Jea   Tahk ;
+Abstract
+ The parameter robust controller design problem is often expressed as a game between the controller and uncertain parameters. The game is expressed as a constrained minimax problem if design requirements are treated as the constraints, but the saddle-point solution of the constrained minimax problem is difficult to obtain by using conventional methods. This paper proposes a new method of designing parameter robust controllers by introducing a bimatrix co-evolution algorithm which solves the constrained minimax problem. The proposed algorithm approximates the problem as a bimatrix game between two groups having independent fitness measures and finds the saddle-point solution through successive bimatrix games. The resulting controller guarantees robustness against bounded parameter uncertainties and satisfies the design requirements. The performance of the proposed algorithm is verified by its application to a satellite attitude control problem. 
+Keywords
+Robust Control, Minimax Problems, Co-evolution, Evolutionary Algorithms 

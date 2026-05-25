@@ -1,0 +1,6 @@
+Strict L∞ Isotonic Regression
+Quentin F. Stout;
+Abstract
+Given a function f and weights w on the vertices of a directed acyclic graph G, an isotonic regression of (f,w) is an order-preserving real-valued function that minimizes the weighted distance to f among all order-preserving functions. When the distance is given via the supremum norm there may be many isotonic regressions. One of special interest is the strict isotonic regression, which is the limit of p-norm isotonic regression as p approaches infinity. Algorithms for determining it are given. We also examine previous isotonic regression algorithms in terms of their behavior as mappings from weighted functions over G to isotonic functions over G, showing that the fastest algorithms are not monotonic mappings. In contrast, the strict isotonic regression is monotonic.
+Keywords
+Isotonic regression  Shape-constrained optimization  Nonparametric  Supremum norm  Mini-max  

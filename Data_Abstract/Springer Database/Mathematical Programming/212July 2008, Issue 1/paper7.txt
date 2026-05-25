@@ -1,0 +1,6 @@
+Approximation algorithms for general packing problems and their application to the multicast congestion problem
+Klaus Jansen;Hu Zhang;
+Abstract
+In this paper we present approximation algorithms based on a Lagrangian decomposition via a logarithmic potential reduction to solve a general packing or min–max resource sharing problem with M non-negative convex constraints on a convex set B. We generalize a method by Grigoriadis et al. to the case with weak approximate block solvers (i.e., with only constant, logarithmic or even worse approximation ratios). Given an accuracy \(\varepsilon \in (0,1)\), we show that our algorithm needs \(O(M(ln M+ \varepsilon^{-2} ln \varepsilon^{-1}))\) calls to the block solver, a bound independent of the data and the approximation ratio of the block solver. For small approximation ratios the algorithm needs \(O(M(ln M + \varepsilon^{-2}))\) calls to the block solver. As an application we study the problem of minimizing the maximum edge congestion in a multicast communication network. Interestingly the block problem here is the classical Steiner tree problem that can be solved only approximately. We show how to use approximation algorithms for the Steiner tree problem to solve the multicast congestion problem approximately.
+Keywords
+68W25  68W40  90C05  90C25  68M10  

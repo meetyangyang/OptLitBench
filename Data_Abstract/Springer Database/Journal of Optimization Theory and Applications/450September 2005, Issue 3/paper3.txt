@@ -1,0 +1,6 @@
+Gradient Estimation Schemes for Noisy Functions
+R. C. M. Brekelmans;L. T. Driessen;H. J. M. Hamers;D. den. Hertog;
+Abstract
+In this paper, we analyze different schemes for obtaining gradient estimates when the underlying functions are noisy. Good gradient estimation is important e.g. for nonlinear programming solvers. As error criterion, we take the norm of the difference between the real and estimated gradients. The total error can be split into a deterministic error and a stochastic error. For three finite-difference schemes and two design of experiments (DoE) schemes, we analyze both the deterministic errors and stochastic errors. We derive also optimal stepsizes for each scheme, such that the total error is minimized. Some of the schemes have the nice property that this stepsize minimizes also the variance of the error. Based on these results, we show that, to obtain good gradient estimates for noisy functions, it is worthwhile to use DoE schemes. We recommend to implement such schemes in NLP solvers.
+Keywords
+Design of experiments  finite differences  gradient estimatation  noisy functions  

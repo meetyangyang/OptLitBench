@@ -1,0 +1,6 @@
+A Globally Convergent Stochastic Approximation
+Sid  Yakowitz;
+Abstract
+By combining a constrained Kiefer–Wolfowitz search with an automatic learning algorithm, it is shown that asymptotically normal convergence of an estimator to a global optimum under reasonably lenient assumptions can be attained. It is enough that the objective function be smooth and locally strictly convex at its minima. The central conclusion is that if $\theta _n $ is the estimate produced by the method shown at the nth decision epoch, then for some global minimizer $\theta ^ *  $, $n^{{1 / 3}} (\theta _n  - \theta ^ *  )$ is asymptotically normally distributed. This coincides with the conventional Kiefer–Wolfowitz convergence rate to a local optimum.Whereas this study was motivated by needs of machine learning, the basic plan would seem applicable to root-finding tasks, and to other types of stochastic approximation algorithms.
+Keywords
+stochastic approximation, random search, automatic learning, 62G05, 62G99, 

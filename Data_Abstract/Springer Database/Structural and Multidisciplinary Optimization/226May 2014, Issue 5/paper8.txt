@@ -1,0 +1,6 @@
+On multigrid-CG for efficient topology optimization
+Oded Amir;Niels Aage;Boyan S. Lazarov;
+Abstract
+This article presents a computational approach that facilitates the efficient solution of 3-D structural topology optimization problems on a standard PC. Computing time associated with solving the nested analysis problem is reduced significantly in comparison to other existing approaches. The cost reduction is obtained by exploiting specific characteristics of a multigrid preconditioned conjugate gradients (MGCG) solver. In particular, the number of MGCG iterations is reduced by relating it to the geometric parameters of the problem. At the same time, accurate outcome of the optimization process is ensured by linking the required accuracy of the design sensitivities to the progress of optimization. The applicability of the proposed procedure is demonstrated on several 2-D and 3-D examples involving up to hundreds of thousands of degrees of freedom. Implemented in MATLAB, the MGCG-based program solves 3-D topology optimization problems in a matter of minutes. This paves the way for efficient implementations in computational environments that do not enjoy the benefits of high performance computing, such as applications on mobile devices and plug-ins for modeling software.
+Keywords
+Topology optimization  Preconditioned conjugate gradients  Multigrid  

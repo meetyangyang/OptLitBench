@@ -1,0 +1,6 @@
+A column generation method for the multiple-choice multi-dimensional knapsack problem
+N. Cherfi;M. Hifi;
+Abstract
+In this paper, we propose to solve large-scale multiple-choice multi-dimensional knapsack problems. We investigate the use of the column generation and effective solution procedures. The method is in the spirit of well-known local search metaheuristics, in which the search process is composed of two complementary stages: (i) a rounding solution stage and (ii) a restricted exact solution procedure. The method is analyzed computationally on a set of problem instances of the literature and compared to the results reached by both Cplex solver and a recent reactive local search. For these instances, most of which cannot be solved to proven optimality in a reasonable runtime, the proposed method improves 21 out of 27.
+Keywords
+Branch-and-bound  Column generation  Heuristics  Knapsack  Optimization  

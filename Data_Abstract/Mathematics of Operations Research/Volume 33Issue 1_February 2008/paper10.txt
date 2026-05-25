@@ -1,0 +1,6 @@
+Packing d-Dimensional Bins in d Stages
+Alberto Caprara;
+Abstract
+We consider the d-dimensional bin-packing problem, the most relevant generalization of classical bin packing, and show a general result about the asymptotic worst-case ratio of a wide class of approximation algorithms that construct solutions in d stages, containing many heuristics previously considered in the literature. Moreover, we give the exact value of the asymptotic worst-case ratio between the optimal solution and the best solution obtainable by packing the items in d stages, showing how to achieve such a ratio efficiently. The key property behind our result is the asymptotic optimality of the fractional relaxation of (one-dimensional) bin packing, an important by-product of the approximation schemes for the problem from the 1980s, which, to the best of our knowledge, is used here for the first time only for the sake of the analysis. For the two-dimensional case, we push the approximablity threshold below 2 after more than 20 years (reaching 1.691…), but also improve and widely simplify the analysis of the previous best method from the 1980s. Moreover, for d ≥ 3 we improve the previous approximability threshold by a factor of 1.691…, a notable improvement when d is small.
+Keywords
+d-dimensional bin packing d-stage packing approximation algorithm worst-case analysis 

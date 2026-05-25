@@ -1,0 +1,5 @@
+A Stochastic Maximum Principle
+Virginia M.  Warfield;
+Abstract
+The major theorem of this paper is very closely parallel to the classical Pontryagin maximum principle. The classical case, very roughly stated, says that if $u(t)$ is a control function which has an associated trajectory $x(t)$, then there is a function $H(v,x,t)$ such that $u(t)$ is optimal only if for each t and for all v in the control set, \[H(u(t),x(t),t) \leqq H(v,x(t),t).\] Our stochastic case of the open loop problem, stated even more roughly, says that there is a function $H(v,x,t,\omega )$ such that a control function $u(t)$ with associated trajectory $x(t,\omega )$ is optimal only if for all t and for all v in the control set, \[E\{ H(u(t),x(t,\omega ),t,\omega )\}  \leqq E\{ H(v,x(t,\omega ),t,\omega )\} .\]Using this result, we then proceed to define a process whereby a control can be tested for optimality in the closed loop case, where information is acquired at a finite number of times.Throughout the paper, the trajectories are determined by a stochastic integral equation. The stochastic integrals used are McShane’s first and second order belated integrals.
+Keywords

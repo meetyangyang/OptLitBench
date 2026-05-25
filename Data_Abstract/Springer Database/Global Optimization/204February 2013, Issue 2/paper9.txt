@@ -1,0 +1,6 @@
+A new dynamic programming procedure for three-staged cutting patterns
+Yaodong Cui;
+Abstract
+Three-staged patterns are often used to solve the 2D cutting stock problem of rectangular items. They can be divided into items in three stages: Vertical cuts divide the plate into segments; then horizontal cuts divide the segments into strips, and finally vertical cuts divide the strips into items. An algorithm for unconstrained three-staged patterns is presented, where a set of rectangular item types are packed into the plate so as to maximize the pattern value, and there is no constraint on the frequencies of each item type. It can be used jointly with the linear programming approach to solve the cutting stock problem. The algorithm solves three large knapsack problems to obtain the optimal pattern: One for the item layout on the widest strip, one for the strip layout on the longest segment, and the third for the segment layout on the plate. The computational results indicate that the algorithm is efficient.
+Keywords
+Cutting stock  Two-dimensional cutting  Three-staged patterns  Knapsack problems  

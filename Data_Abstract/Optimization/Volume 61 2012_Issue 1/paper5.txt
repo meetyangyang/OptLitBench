@@ -1,0 +1,6 @@
+A self-adaptive differential evolution algorithm based on ant system with application to estimate kinetic parameters
+ Chunping   Hu ; Cuifang   Wang ; Xuefeng   Yan ;
+Abstract
+ A self-adaptive differential evolution (DE) algorithm, in which an ant system is used to implement the self-adaptation of mutation and crossover control parameters, called ant system self-adaptive differential evolution (ASSDE), is proposed. First, the spaces of the mutation and crossover control parameters are divided into several regions and all regions are given the same initial intensity of pheromone trails. The probability of selecting parameter regions for each individual is influenced by the intensity of the region pheromone trails and its visibility. An individual will reinforce the trail of the selected regions with its own pheromone, when the offspring is better than its parent. The experiment results show that the ASSDE clearly outperforms the original DE algorithm and other existing self-adaptive DE algorithms for 16 benchmark functions. Furthermore, ASSDE is applied to develop the global kinetic model for hydropurification of terephthalic acid (HPTA), and satisfactory results are obtained. 
+Keywords
+differential evolution, ant system, evolutionary computation, parameter estimationAMS Subject Classifications:: 90C31, 90C90, 65K05 

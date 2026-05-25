@@ -1,0 +1,6 @@
+Dynamic programming approximation algorithms for the capacitated lot-sizing problem
+İ. Esra Büyüktahtakın;Ning Liu;
+Abstract
+This paper provides a new idea for approximating the inventory cost function to be used in a truncated dynamic program for solving the capacitated lot-sizing problem. The proposed method combines dynamic programming with regression, data fitting, and approximation techniques to estimate the inventory cost function at each stage of the dynamic program. The effectiveness of the proposed method is analyzed on various types of the capacitated lot-sizing problem instances with different cost and capacity characteristics. Computational results show that approximation approaches could significantly decrease the computational time required by the dynamic program and the integer program for solving different types of the capacitated lot-sizing problem instances. Furthermore, in most cases, the proposed approximate dynamic programming approaches can accurately capture the optimal solution of the problem with consistent computational performance over different instances.
+Keywords
+Approximate dynamic programming  Approximation algorithms   Data fitting  Production and inventory control   Mixed-integer programming   Capacitated lot-sizing  

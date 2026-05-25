@@ -1,0 +1,40 @@
+Symmetry-Breaking Phenomena in an Optimization 
+Problem  for some Nonlinear Elliptic Equation
+Kazuhiro Kurata;Masataka Shibata;Shigeru Sakamoto;
+Abstract
+
+Let $\Omega$ be a bounded domain in ${\bf R^n}$ with Lipschitz 
+boundary, 
+$\lambda >0,$ and $1\le p \le (n+2)/(n-2)$ if $n\ge 3$ and $1\le p< +\infty$
+if $n=1,2$. Let  $D$ be  a measurable subset of $\Omega$ which belongs 
+to the class
+$
+{\cal C}_{\beta}=\{D\subset \Omega \quad | \quad |D|=\beta\}
+$
+for the prescribed $\beta\in (0, |\Omega|).$ 
+For any $D\in{\cal C}_{\beta}$, it is well known that 
+ there exists a unique 
+global minimizer $u\in H^1_0(\Omega)$, which we denote by
+$u_D$,   of the functional
+\[\quad
+J_{\Omega,D}(v)=\frac12\int_{\Omega}|\nabla v|^2\, 
+dx+\frac{\lambda}{p+1}\int_{\Omega}|v|^{p+1}\, dx
+-\int_{\Omega}\chi_Dv\,dx 
+\]
+on $H^1_0(\Omega)$.
+We consider the optimization problem
+$
+E_{\beta,\Omega}=\inf_{D\in {\cal C}_{\beta}} J_D(u_D)
+$
+and say that  
+a subset  $D^*\in {\cal C}_{\beta}$ which attains 
+$E_{\beta,\Omega}$ 
+is an optimal configuration to this  problem. 
+In this paper we show the existence, uniqueness 
+and non-uniqueness, and 
+symmetry-preserving and symmetry-breaking phenomena of the
+optimal  configuration $D^*$ to this 
+optimization problem in various settings.
+
+Keywords
+Symmetry-breaking phenomena  Optimization  Nonlinear elliptic problem  

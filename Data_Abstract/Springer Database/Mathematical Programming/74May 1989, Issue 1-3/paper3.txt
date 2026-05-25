@@ -1,0 +1,6 @@
+Interior path following primal-dual algorithms. part II: Convex quadratic programming
+Renato D. C. Monteiro;Ilan Adler;
+Abstract
+We describe a primal-dual interior point algorithm for convex quadratic programming problems which requires a total of\(O\left( {\sqrt n L} \right)\) number of iterations, whereL is the input size. Each iteration updates a penalty parameter and finds an approximate Newton direction associated with the Karush-Kuhn-Tucker system of equations which characterizes a solution of the logarithmic barrier function problem. The algorithm is based on the path following idea. The total number of arithmetic operations is shown to be of the order of O(n3L).
+Keywords
+Interior-point methods  convex quadratic programming  Karmarkar's algorithm  polynomial-time algorithms  logarithmic barrier function  path following  

@@ -1,0 +1,6 @@
+Sparse portfolio rebalancing model based on inverse optimization
+Meihua Wang;Fengmin Xu;Guan Wang;
+Abstract
+This paper considers a sparse portfolio rebalancing problem in which rebalancing portfolios with minimum number of assets are sought. This problem is motivated by the need to understand whether the initial portfolio is worthwhile to adjust or not, inducing sparsity on the selected rebalancing portfolio to reduce transaction costs (TCs), out-of-sample performance and small changes in portfolio. We propose a sparse portfolio rebalancing model by adding an l1 penalty item into the objective function of a general portfolio rebalancing model. In this way, the model is sparse with low TCs and can decide whether and which assets to adjust based on inverse optimization. Numerical tests on four typical data sets show that the optimal adjustment given by the proposed sparse portfolio rebalancing model has the advantage of sparsity and better out-of-sample performance than the general portfolio rebalancing model.
+Keywords
+portfolio rebalancing, sparse, inverse optimization, second-order cone program 

@@ -1,0 +1,6 @@
+A subgradient-type method for the equilibrium problem over the fixed point set and its applications
+ Hideaki   Iiduka ; Isao   Yamada ;
+Abstract
+ In this article, we consider an equilibrium problem: find a point u∈C such that f(u, y) ≥ 0 for all y∈C, where a continuous function  satisfies f(x, x) = 0 for all  and  is a closed convex set. The existing computational methods for this problem require repetitive use of the metric projection onto C, which is often hard to compute. To relax the computational difficulty caused by the metric projection, we present a way to use any firmly nonexpansive mapping T satisfying  in place of the metric projection onto C. The proposed method can be applied soundly to the Nash equilibrium problem in noncooperative games. 
+Keywords
+equilibrium problem, variational inequality problem, saddle point problem, Nash equilibrium problem, firmly nonexpansive mapping, metric projection, subgradient-type methodMathematics Subject Classifications 2000: Primary 47H06, 47J20, 47J25 

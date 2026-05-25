@@ -1,0 +1,6 @@
+An inexact NE/SQP method for solving the nonlinear complementarity problem
+Steven A. Gabriel;Jong-Shi Pang;
+Abstract
+In this paper, we present an extension to the NE/SQP method; the latter is a robust algorithm that we proposed for solving the nonlinear complementarity problem in an earlier article. In this extended version of NE/SQP, instead of exactly solving the quadratic program subproblems, approximate solutions are generated via an inexact rule.Under a proper choice for this rule, this inexact method is shown to inherit the same convergence properties of the original NE/SQP method. In addition to developing the convergence theory for the inexact method, we also present numerical results of the algorithm tested on two problems of varying size.
+Keywords
+Nonlinear complementarity problem  nonsmooth equations  sequential quadratic programming  equilibrium programming  matrix splitting  linear complementarity problem  

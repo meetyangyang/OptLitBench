@@ -1,0 +1,6 @@
+Nonlinear programming and nonsmooth optimization by successive linear programming
+R. Fletcher;E. Sainz de la Maza;
+Abstract
+Methods are considered for solving nonlinear programming problems using an exactl1 penalty function. LP-like subproblems incorporating a trust region constraint are solved successively both to estimate the active set and to provide a foundation for proving global convergence. In one particular method, second order information is represented by approximating the reduced Hessian matrix, and Coleman-Conn steps are taken. A criterion for accepting these steps is given which enables the superlinear convergence properties of the Coleman-Conn method to be retained whilst preserving global convergence and avoiding the Maratos effect. The methods generalize to solve a wide range of composite nonsmooth optimization problems and the theory is presented in this general setting. A range of numerical experiments on small test problems is described.
+Keywords
+Nonlinear programming  nonsmooth optimization  global convergence  superlinear convergence  trust region method  Coleman-Conn method  

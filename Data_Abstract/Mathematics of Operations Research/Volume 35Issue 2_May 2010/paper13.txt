@@ -1,0 +1,6 @@
+Smoothing Techniques for Computing Nash Equilibria of Sequential Games
+Samid Hoda;Andrew Gilpin;Javier Peña;Tuomas Sandholm;
+Abstract
+We develop first-order smoothing techniques for saddle-point problems that arise in finding a Nash equilibrium of sequential games. The crux of our work is a construction of suitable prox-functions for a certain class of polytopes that encode the sequential nature of the game. We also introduce heuristics that significantly speed up the algorithm, and decomposed game representations that reduce the memory requirements, enabling the application of the techniques to drastically larger games. An implementation based on our smoothing techniques computes approximate Nash equilibria for games that are more than four orders of magnitude larger than what prior approaches can handle. Finally, we show near-linear further speedups from parallelization.
+Keywords
+smoothing techniques Nash equilibrium sequential games 

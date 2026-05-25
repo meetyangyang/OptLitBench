@@ -1,0 +1,6 @@
+Optimal Sequential Sampling Policy of Partitioned Random Search and Its Approximation
+Z. B. Tang;
+Abstract
+The paper studies the optimal sequential sampling policy of the partitioned random search (PRS) and its approximation. The PRS is a recently proposed approach for function optimization. It takes explicitly into consideration computation time or cost, assuming that there exist both a cost for each function evaluation and a finite total computation time constraint. It is also motivated at improving efficiency of the widely used crude random search. In particular, the PRS considers partitioning the search region of an objective function into K subregions and employing an independent and identically distributed random sampling scheme for each of K subregions. A sampling policy decides when to terminate the sampling process or which subregion to be sampled next.
+Keywords
+Global optimization  partitioned random search  sequential sampling  dynamic programming  

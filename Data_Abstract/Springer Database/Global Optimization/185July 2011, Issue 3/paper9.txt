@@ -1,0 +1,6 @@
+A biased random-key genetic algorithm for routing and wavelength assignment
+Thiago F. Noronha;Mauricio G. C. Resende;Celso C. Ribeiro;
+Abstract
+The problem of routing and wavelength assignment in wavelength division multiplexing optical networks consists in routing a set of lightpaths and assigning a wavelength to each of them, such that lightpaths whose routes share a common fiber are assigned different wavelengths. This problem was shown to be NP-hard when the objective is to minimize the total number of wavelengths used. We propose a genetic algorithm with random keys for routing and wavelength assignment with the goal of minimizing the number of different wavelengths used in the assignment. This algorithm extends the best heuristic in the literature by embedding it into an evolutionary framework. Computational results show that the new heuristic improves the state-of-the-art algorithms in the literature.
+Keywords
+Genetic algorithm  Routing  Wavelength assignment  Optical networks  Random keys  

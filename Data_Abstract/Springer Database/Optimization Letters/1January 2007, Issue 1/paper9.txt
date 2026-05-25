@@ -1,0 +1,6 @@
+A one-dimensional local tuning algorithm for solving GO problems with partially defined constraints
+Yaroslav D. Sergeyev;Dmitri E. Kvasov;Falah M. H. Khalaf;
+Abstract
+Lipschitz one-dimensional constrained global optimization (GO) problems where both the objective function and constraints can be multiextremal and non-differentiable are considered in this paper. Problems, where the constraints are verified in a priori given order fixed by the nature of the problem are studied. Moreover, if a constraint is not satisfied at a point, then the remaining constraints and the objective function can be undefined at this point. The constrained problem is reduced to a discontinuous unconstrained problem by the index scheme without introducing additional parameters or variables. A new geometric method using adaptive estimates of local Lipschitz constants is introduced. The estimates are calculated by using the local tuning technique proposed recently. Numerical experiments show quite a satisfactory performance of the new method in comparison with the penalty approach and a method using a priori given Lipschitz constants.
+Keywords
+Global optimization  Multiextremal constraints  Geometric algorithms  Index scheme  Local tuning  

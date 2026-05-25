@@ -1,0 +1,6 @@
+Efficient Genetic Algorithms Using Simple Genes Exchange Local Search Policy for the Quadratic Assignment Problem
+M.H. Lim;Y. Yuan;S. Omatu;
+Abstract
+In this paper, we describe an approach for solving the quadratic assignment problem (QAP) that is based on genetic algorithms (GA). It will be shown that a standard canonical GA (SGA), which involves genetic operators of selection, reproduction, crossover, and mutation, tends to fall short of the desired performance expected of a search algorithm. The performance deteriorates significantly as the size of the problem increases. To address this syndrome, it is common for GA-based techniques to be embedded with deterministic local search procedures. It is proposed that the local search should involve simple procedure of genome reordering that should not be too complex. More importantly, from a computational point of view, the local search should not carry with it the full cost of evaluating a chromosome after each move in the localized landscape. Results of simulation on several difficult QAP benchmarks showed the effectiveness of our approaches.
+Keywords
+quadratic assignment  combinatorial optimization  genetic algorithm  local search  k-gene exchange  

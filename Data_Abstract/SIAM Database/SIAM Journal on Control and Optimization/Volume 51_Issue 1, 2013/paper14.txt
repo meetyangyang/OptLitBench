@@ -1,0 +1,6 @@
+Quantized Data--Based Distributed Consensus under Directed Time-Varying Communication Topology
+Qiang  Zhang and Ji-Feng  Zhang;
+Abstract
+Distributed average consensus (DAC) is investigated for multiagent systems (MASs) with directed time-varying communication topology and quantized communication data. We propose a communication feedback--based distributed consensus protocol suitable for directed time-varying topologies to deal with the inconsistency between the internal state of each agent's encoder and the output of its neighbors' decoder, and give rigorous analysis for the consensus of the MAS. The consensus protocols are designed based on uniform quantizers with scaling. A finite lower bound of the communication data rate between each pair of adjacent agents is obtained to ensure the exponential consensus by properly choosing system parameters. In addition, the lower bound is proved to be merely 1-bit for the directed fixed topology case, no matter how large the agent number is. A numerical example is presented to demonstrate the results obtained.
+Keywords
+multiagent system, consensus, distributed estimation, quantization, sensor network, 68W15, 93C55, 93A14, 

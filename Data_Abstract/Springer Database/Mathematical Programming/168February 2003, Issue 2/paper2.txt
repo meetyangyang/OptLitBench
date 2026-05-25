@@ -1,0 +1,6 @@
+Solving semidefinite-quadratic-linear programs using SDPT3
+R. H. Tütüncü;K. C. Toh;M. J. Todd;
+Abstract
+ This paper discusses computational experiments with linear optimization problems involving semidefinite, quadratic, and linear cone constraints (SQLPs). Many test problems of this type are solved using a new release of SDPT3, a Matlab implementation of infeasible primal-dual path-following algorithms. The software developed by the authors uses Mehrotra-type predictor-corrector variants of interior-point methods and two types of search directions: the HKM and NT directions. A discussion of implementation details is provided and computational results on problems from the SDPLIB and DIMACS Challenge collections are reported.
+Keywords
+Computational Result  Test Problem  Computational Experiment  Search Direction  Implementation Detail  

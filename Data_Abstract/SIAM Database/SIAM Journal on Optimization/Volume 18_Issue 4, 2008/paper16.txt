@@ -1,0 +1,6 @@
+A Method of Centers with Approximate Subgradient Linearizations for Nonsmooth Convex Optimization
+Krzysztof C.  Kiwiel;
+Abstract
+We give a proximal bundle method for constrained convex optimization. It requires only evaluating the problem functions and their subgradients with an unknown accuracy $\epsilon$. Employing a combination of the classic method of centers' improvement function with an exact penalty function, it does not need a feasible starting point. It asymptotically finds points with at least $\epsilon$-optimal objective values that are $\epsilon$-feasible. When applied to the solution of linear programming problems via column generation, it allows for $\epsilon$-accurate solutions of column generation subproblems.
+Keywords
+nondifferentiable optimization, convex programming, proximal bundle methods, approximate subgradients, column generation, 65K05, 90C25, 

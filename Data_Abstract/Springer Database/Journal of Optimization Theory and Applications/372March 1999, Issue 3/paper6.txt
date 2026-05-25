@@ -1,0 +1,6 @@
+Time-Varying Linear-Quadratic Control
+A. E. Bryson;
+Abstract
+This paper discusses the performance of controlled linear dynamic systems that use time-varying feedforward signals and time-varying linear-quadratic (LQ) feedback gains. Such a time-varying LQ controller can bring a dynamic system to a desired final state in roughly half the time required by a time-invariant LQ controller, since it pushes at both ends, i.e., it uses significant control effort near the end of the maneuver, as well as at the beginning, to meet the specified end conditions; there is no overshoot and no settling time. This requires a more complex controller and some care with the high gains near the final time. A MATLAB3 code is listed that synthesizes and simulates zero-order-hold time-varying LQ controllers. The precision landing of a helicopter using four controls is treated as an example.
+Keywords
+Optimal control  linear-quadratic control  time-varying feedback  

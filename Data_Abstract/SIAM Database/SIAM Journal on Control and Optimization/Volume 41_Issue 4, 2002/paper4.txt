@@ -1,0 +1,6 @@
+Continuous-Time Dynkin Games with Mixed Strategies
+Nizar  Touzi and Nicolas  Vieille;
+Abstract
+Let (X,Y,Z) be a triple of payoff processes defining a Dynkin game  \tilde R(\sigma,\tau) &=& E\left[ X_\sigma\1_{\{\tau > \sigma\}} +Y_\tau \1_{\{\tau < \sigma\}} +Z_\tau \1_{\{\tau=\sigma\}}\right] ,  where $\sigma$ and $\tau$ are stopping times valued in [0,T]. In the case Z=Y, it is well known that the condition X $\leq$ Y is needed in order to establish the existence of value for the game, i.e., $\inf_{\tau}\sup_{\sigma}\tilde R(\sigma,\tau)$ $=$ $\sup_{\sigma}\inf_{\tau}\tilde R(\sigma,\tau)$.In order to remove the condition X $\leq$ Y, we introduce an extension of the Dynkin game by allowing for an extended set of strategies, namely, the set of mixed strategies. The main result of the paper is that the extended Dynkin game has a value when $Z\leq Y$, and the processes X and Y are restricted to be semimartingales continuous at the terminal time T. 
+Keywords
+optimal stopping, Dynkin games, stochastic analysis, minimax theorem, 60G40, 90D15, 60H30, 46N10, 

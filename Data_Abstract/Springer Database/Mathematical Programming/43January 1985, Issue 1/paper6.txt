@@ -1,0 +1,6 @@
+A decomposition algorithm for linear relaxation of the weightedr-covering problem
+S. Agarwal;A. K. Mittal;P. Sharma;
+Abstract
+In this paper the linear relaxation of the weightedr-covering problem (r-LCP) is considered. The dual problem (c-LMP) is the linear relaxation of the well-knownc-matching problem and hence can be solved in polynomial time. However, we describe a simple, but nonpolynomial algorithm in which ther-LCP is decomposed into a sequence of 1-LCP’s and its optimal solution is obtained by adding the optimal solutions of these 1-LCP’s. An 1-LCP can be solved in polynomial time by solving its dual as a max-flow problem on a bipartite graph. An accelerated algorithm based on this decomposition scheme to solve ar-LCP is also developed and its average case behaviour is studied.
+Keywords
+Linear Relaxation  Weightedr-Covering  c-Matching  Max-Flow Problem  Decomposition  

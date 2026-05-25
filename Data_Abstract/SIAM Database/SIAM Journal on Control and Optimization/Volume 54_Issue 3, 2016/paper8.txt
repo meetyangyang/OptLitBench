@@ -1,0 +1,6 @@
+A Space-Time Fractional Optimal Control Problem: Analysis and Discretization
+Harbir  Antil, Enrique  Otárola, and Abner J.  Salgado;
+Abstract
+We study a linear-quadratic optimal control problem involving a parabolic equation with fractional diffusion and Caputo fractional time derivative of orders $s \in (0,1)$ and $\gamma \in (0,1]$, respectively. The spatial fractional diffusion is realized as the Dirichlet-to-Neumann map for a nonuniformly elliptic operator. Thus, we consider an equivalent formulation with a quasi-stationary elliptic problem with a dynamic boundary condition as state equation. The rapid decay of the solution to this problem suggests a truncation that is suitable for numerical approximation. We consider a fully discrete scheme: piecewise constant functions for the control and, for the state, first-degree tensor product finite elements in space and a finite difference discretization in time. We show convergence of this scheme and, under additional data regularity, derive a priori error estimates for the case $s \in (0,1)$ and $\gamma = 1$.
+Keywords
+linear-quadratic optimal control problem, fractional derivatives and integrals, fractional diffusion, weighted Sobolev spaces, finite elements, stability, fully discrete methods, 26A33, 35J70, 49J20, 49M25, 65M12, 65M15, 65M60, 65R10, 

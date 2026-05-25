@@ -1,0 +1,6 @@
+Relaxing the Assumptions of the Multilevel Single Linkage Algorithm
+Marco Locatelli;
+Abstract
+In this paper we relax the assumptions of a well known algorithm for continuous global optimization, Multilevel Single Linkage (MLSL). It is shown that the good theoretical properties of MLSL are shared by a slightly different algorithm, Non-monotonic MLSL (NM MLSL), but under weaker assumptions. The main difference with MLSL is the fact that in NM MLSL some non-monotonic sequences of sampled points are also considered in order to decide whether to start or not a local search, while MLSL only considers monotonic decreasing sequences. The modification is inspired by non-monotonic methods for local searches.
+Keywords
+Multilevel single linkage  Multistart algorithms  Non-monotonic sequences  

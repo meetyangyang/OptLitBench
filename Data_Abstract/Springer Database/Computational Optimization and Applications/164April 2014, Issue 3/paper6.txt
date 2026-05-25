@@ -1,0 +1,6 @@
+A numerical method for nonconvex multi-objective optimal control problems
+C. Yalçın Kaya;Helmut Maurer;
+Abstract
+A numerical method is proposed for constructing an approximation of the Pareto front of nonconvex multi-objective optimal control problems. First, a suitable scalarization technique is employed for the multi-objective optimal control problem. Then by using a grid of scalarization parameter values, i.e., a grid of weights, a sequence of single-objective optimal control problems are solved to obtain points which are spread over the Pareto front. The technique is illustrated on problems involving tumor anti-angiogenesis and a fed-batch bioreactor, which exhibit bang–bang, singular and boundary types of optimal control. We illustrate that the Bolza form, the traditional scalarization in optimal control, fails to represent all the compromise, i.e., Pareto optimal, solutions.
+Keywords
+Multi-objective optimization  Optimal control  Pareto front  Numerical methods  Tumor anti-angiogenesis  Fed-batch bioreactor  

@@ -1,0 +1,6 @@
+The Role of Sampling for Stability and Performance in Unconstrained Nonlinear Model Predictive Control
+Karl  Worthmann, Marcus  Reble, Lars  Grüne, and Frank  Allgöwer;
+Abstract
+We investigate the impact of sampling on stability and performance estimates in nonlinear model predictive control without stabilizing terminal constraints or costs. Interpreting the sampling period as a discretization parameter, the relation between continuous and discrete time estimates depending on this parameter is analyzed. The technique presented in this paper allows us to determine the sampling rate required in order to approximate the continuous time suboptimality bound arbitrarily well and, thus, gives insight into the trade-off between sampling time and guaranteed performance.
+Keywords
+nonlinear model predictive control, performance guarantee, suboptimality estimate, sampling rate, multistep feedback laws, discretization, receding horizon control, relaxed Lyapunov inequality, 93C10, 93C20, 93C57, 93B05, 93D15, 93D20, 93D05, 

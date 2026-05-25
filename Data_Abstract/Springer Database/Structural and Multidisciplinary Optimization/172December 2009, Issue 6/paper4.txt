@@ -1,0 +1,6 @@
+An optimization approach for unconfined seepage problem with semipermeable conditions
+O. Piermatei Filho;A. Leontiev;
+Abstract
+In this paper we study the unconfined potential steady flow through a porous media with semipermeable bottom. We propose a model that leads to a free boundary-value-problem with complementarities conditions on the bottom. The shape of a part of the domain boundary, called free boundary, is one of the unknown of the problem. The pressure of the flow as well as the flow velocity on the another part of the boundary, that is a one way permeable bottom, are also unknowns and satisfy a complementarity condition. We present the numerical implementation of the model based on an optimization approach. Performing a boundary-element discretization we get a nonlinear mathematical programming problem with complementarities conditions. To solve it we use Herskovits’s interior point algorithm. Numerical examples are presented.
+Keywords
+Free boundary problem  Shape optimization  Boundary elements method  Mathematical programming  Complementarity condition  Dam problem  

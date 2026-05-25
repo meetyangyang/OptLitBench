@@ -1,0 +1,6 @@
+A note on the sufficient initial condition ensuring the convergence of directly extended 3-block ADMM for special semidefinite programming
+Xiaokai Chang;Sanyang Liu;Pengjun Zhao;
+Abstract
+In this note, we consider three types of problems, H-weighted nearest correlation matrix problem and two types of important doubly non-negative semidefinite programming, derived from the binary integer quadratic programming and maximum cut problem. The dual of these three types of problems is a 3-block separable convex optimization problem with a coupling linear equation constraint. It is known that, the directly extended 3-block alternating direction method of multipliers (ADMM3d) is more efficient than many of its variants for solving these convex optimization, but its convergence is not guaranteed. By choosing initial points properly, we obtain the convergence of ADMM3d for solving the dual of these three types of problems. Furthermore, we simplify the iterative scheme of ADMM3d and show the equivalence of ADMM3d to the 2-block semi-proximal ADMM for solving the dual's reformulation, under these initial conditions.
+Keywords
+Alternating direction method of multipliers, semidefinite programming, H-weighted nearest correlation matrix problem, convergence analysis 

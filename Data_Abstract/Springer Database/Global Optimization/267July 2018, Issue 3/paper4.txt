@@ -1,0 +1,6 @@
+ lsmear: a variable selection strategy for interval branch and bound solvers
+Ignacio Araya;Bertrand Neveu;
+Abstract
+Smear-based variable selection strategies are well-known and commonly used by branch-and-prune interval-based solvers. They estimate the impact of the variables on each constraint of the system by using the partial derivatives and the sizes of the variable domains. Then they aggregate these values, in some way, to estimate the impact of each variable on the whole system. The variable with the greatest impact is then selected. A problem of these strategies is that they, generally, consider all constraints equally important. In this work, we propose a new variable selection strategy which first weights the constraints by using the optimal Lagrangian multipliers of a linearization of the original problem. Then, the impact of the variables is computed with a typical smear-based function but taking into account the weights of the constraints. The strategy isg tested on a set of well-known benchmark instances outperforming significantly the classical variable selection strategies.
+Keywords
+Branch and bound  Interval-based solver  Variable selection  Lagrangian multipliers  

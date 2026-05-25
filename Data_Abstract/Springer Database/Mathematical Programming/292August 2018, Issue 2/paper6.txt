@@ -1,0 +1,6 @@
+Quadratic programs with hollows
+Boshi Yang;Kurt Anstreicher;Samuel Burer;
+Abstract
+Let \(\mathcal {F}\) be a quadratically constrained, possibly nonconvex, bounded set, and let \(\mathcal {E}_1, \ldots , \mathcal {E}_l\) denote ellipsoids contained in \(\mathcal {F}\) with non-intersecting interiors. We prove that minimizing an arbitrary quadratic \(q(\cdot )\) over \(\mathcal {G}:= \mathcal {F}{\setminus } \cup _{k=1}^\ell {{\mathrm{int}}}(\mathcal {E}_k)\) is no more difficult than minimizing \(q(\cdot )\) over \(\mathcal {F}\) in the following sense: if a given semidefinite-programming (SDP) relaxation for \(\min \{ q(x) : x \in \mathcal {F}\}\) is tight, then the addition of l linear constraints derived from \(\mathcal {E}_1, \ldots , \mathcal {E}_l\) yields a tight SDP relaxation for \(\min \{ q(x) : x \in \mathcal {G}\}\). We also prove that the convex hull of \(\{ (x,xx^T) : x \in \mathcal {G}\}\) equals the intersection of the convex hull of \(\{ (x,xx^T) : x \in \mathcal {F}\}\) with the same l linear constraints. Inspired by these results, we resolve a related question in a seemingly unrelated area, mixed-integer nonconvex quadratic programming.
+Keywords
+Nonconvex quadratic programming  Semidefinite programming  Convex hull  90C20  90C22  90C25  90C26  90C30  

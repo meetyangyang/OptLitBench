@@ -1,0 +1,6 @@
+The Minimum Time Function for the Controlled Moreau's Sweeping Process
+Giovanni  Colombo and Michele  Palladino;
+Abstract
+Let $C(t)$, $t\geq0$ be a Lipschitz set-valued map with closed and (mildly non-)convex values and $f(t, x,u)$ be a map, Lipschitz continuous w.r.t. $x$. We consider the problem of reaching a target $S$ within the graph of $C$ subject to the differential inclusion $ \dot{x} \in -N_{C(t)}(x) + G(t,x)$ starting from $x_{0}\in C(t_{0})$ in the minimum time $T(t_{0},x_{0})$. The dynamics is called a perturbed sweeping (or Moreau) process. We give sufficient conditions for $T$ to be finite and continuous and characterize $T$ through Hamilton--Jacobi inequalities. Crucial tools for our approach are characterizations of weak and strong flow invariance of a set $S$ subject to the inclusion. Due to the presence of the normal cone $N_{C(t)}(x)$, the right-hand side of the inclusion contains implicitly the state constraint $x(t)\in C(t)$ and is not Lipschitz continuous with respect to $x$.
+Keywords
+weak and strong invariance, dynamic programming, Hamilton--Jacobi inequalities, one-sided Lipschitz dynamics, 49N60, 49N05, 49J52, 

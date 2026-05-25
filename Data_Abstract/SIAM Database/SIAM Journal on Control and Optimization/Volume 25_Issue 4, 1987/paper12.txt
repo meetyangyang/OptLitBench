@@ -1,0 +1,6 @@
+Self-Tuning Trackers
+P. R.  Kumar and L.  Praly;
+Abstract
+ne the problem of obtaining adaptive control laws which tune themselves to control laws minimizing the variance of the tracking error between the output of the linear ARMAX system and a specified reference trajectory. If the reference trajectory is sufficiently rich of order greater than or equal to the sum of the degrees of the control and noise polynomials in the ARMAX system, then an adaptive controller is exhibited for which the parameter estimates are strongly consistent. For the linear model following problem where the trajectory to be tracked is generated as the output of a linear system, it is enough for the order of sufficient richness to be greater than the degree of the noise polynomial alone. Further, if the order of sufficient richness is even smaller, as is often the case, then a lower dimensional adaptive controller which does not attempt to estimate all the coefficients of the noise polynomial is self-tuning.
+Keywords
+adaptive control, self-tuning tracker, 93C40, 93E12, 93E20, 93C55, 

@@ -1,0 +1,6 @@
+Projected gradient algorithms for optimization over order simplices
+Yi-Qing Hu;Chun-Lin Hao;Yu-Hong Dai;
+Abstract
+A primal–dual algorithm is proposed for computing the distance from a point to an order simplex. An advantage of the algorithm is that, for any initial active set, it can adjust the active set to improve both primal and dual feasibility until the optimal active set is found. We verify that the algorithm takes only O(n) elementary arithmetic operations, where n is the problem dimension. Numerical results demonstrate the efficiency of the primal–dual algorithm compared with the primal feasible algorithm and the dual feasible algorithm. The primal–dual algorithm proves very useful in projected gradient algorithms applied to general order simplex constrained problems since a series of projection subproblems are requested there and the primal–dual algorithm makes warm starts possible.
+Keywords
+constrained optimization, order simplex, primal and dual feasibility, projected gradientAMS Subject Classifications: 49M37, 90C30 

@@ -1,0 +1,6 @@
+On inexact ADMMs with relative error criteria
+Jiaxin Xie;
+Abstract
+In this paper, we develop two inexact alternating direction methods of multipliers (ADMMs) with relative error criteria for which only a few parameters are needed to control the error tolerance. In many practical applications, the numerical performance is often improved if a larger step-length is used. Hence in this paper we also consider to seek a larger step-length to update the Lagrangian multiplier for better numerical efficiency. Specifically, if we only allow one subproblem in the classic ADMM to be solved inexactly by a certain relative error criterion, then a larger step-length can be used to update the Lagrangian multiplier. Related convergence analysis of those proposed algorithms is also established under the assumption that the solution set to the KKT system of the problem is not empty. Numerical experiments on solving total variation (TV)-based image denosing and analysis sparse recovery problems are provided to demonstrate the effectiveness of the proposed methods and the advantage of taking a larger step-length.
+Keywords
+Alternating direction method of multipliers (ADMM)  Inexactness  Relative error criteria  Large step-length  65K05  90C25  90C46  

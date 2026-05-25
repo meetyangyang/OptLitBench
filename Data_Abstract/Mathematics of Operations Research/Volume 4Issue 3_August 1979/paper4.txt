@@ -1,0 +1,6 @@
+A Greedy Heuristic for the Set-Covering Problem
+V. Chvatal;
+Abstract
+Let A be a binary matrix of size m × n, let cT be a positive row vector of length n and let e be the column vector, all of whose m components are ones. The set-covering problem is to minimize cTx subject to Ax ≥ e and x binary. We compare the value of the objective function at a feasible solution found by a simple greedy heuristic to the true optimum. It turns out that the ratio between the two grows at most logarithmically in the largest column sum of A. When all the components of cT are the same, our result reduces to a theorem established previously by Johnson and Lovasz.
+Keywords
+set covering integer programming evaluation of greedy heuristic 

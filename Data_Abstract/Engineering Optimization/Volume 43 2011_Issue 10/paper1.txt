@@ -1,0 +1,6 @@
+Monotony analysis and sparse-grid integration for nonlinear chance constrained process optimization
+ Abebe   Geletu ; Armin   Hoffmann ; Michael   Klöppel ; Pu   Li ;
+Abstract
+ The numerical solution of a nonlinear chance constrained optimization problem poses a major challenge. The idea of back-mapping as introduced by M. Wendt, P. Li and G. Wozny in 2002 is a viable approach for transforming chance constraints on output variables (of unknown distribution) into chance constraints on uncertain input variables (of known distribution) based on a monotony relation. Once transformation of chance constraints has been accomplished, the resulting optimization problem can be solved by using a gradient-based algorithm. However, the computation of values and gradients of chance constraints and the objective function involves the evaluation of multi-dimensional integrals, which is computationally very expensive. This study proposes an easy-to-use method for analysing monotonic relations between constrained outputs and uncertain inputs. In addition, sparse-grid integration techniques are used to reduce the computational time decisively. Two examples from process optimization under uncertainty demonstrate the performance of the proposed approach. 
+Keywords
+chance constraints, nonlinear optimization, monotonicity, sparse-grid techniques, chemical process optimization 

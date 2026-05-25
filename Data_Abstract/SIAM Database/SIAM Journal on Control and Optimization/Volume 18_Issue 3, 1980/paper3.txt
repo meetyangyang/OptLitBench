@@ -1,0 +1,5 @@
+Efficient Algorithms for a Selection Problem with Nested Constraints and Its Application to a Production-Sales Planning Model
+Arie  Tamir;
+Abstract
+The following problem is considered. Given positive integers $(n_1 , \cdots ,n_m )$ and an $n_m  \times m$ matrix D with the property that the $n_m $ elements in each column form a monotone sequence, find a set A of $n_m $ elements of D whose sum is maximum, and such that for any j, $j = 1, \cdots ,m$, not more than $n_j $ elements are chosen from columns $1,2, \cdots ,j$. An algorithm, solving the above problem in time $O(m^2 \log ^2 n_m )$ is presented. The algorithm is applicable to a production-sales planning model with concave utilities. It is also demonstrated that the special case of equal columns is solvable in $O(m^2 )$ time.
+Keywords

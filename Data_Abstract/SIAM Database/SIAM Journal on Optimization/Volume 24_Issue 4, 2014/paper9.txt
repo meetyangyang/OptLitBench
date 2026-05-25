@@ -1,0 +1,6 @@
+Nonsmooth Algorithms and Nesterov's Smoothing Technique for Generalized Fermat--Torricelli Problems
+Nguyen Mau  Nam, Nguyen Thai  An, R. Blake  Rector, and Jie  Sun;
+Abstract
+We present algorithms for solving a number of new models of facility location which generalize the classical Fermat--Torricelli problem. Our first approach involves using Nesterov's smoothing technique and the minimization majorization principle to build smooth approximations that are convenient for applying smooth optimization schemes. Another approach uses subgradient-type algorithms to cope directly with the nondifferentiability of the cost functions. Convergence results of the algorithms are proved and numerical tests are presented to show the effectiveness of the proposed algorithms.
+Keywords
+MM principle, Nesterov's smoothing technique, Nesterov's accelerated gradient method, generalized Fermat--Torricelli problem, subgradient-type algorithms, 49J52, 49K40, 58C20, 

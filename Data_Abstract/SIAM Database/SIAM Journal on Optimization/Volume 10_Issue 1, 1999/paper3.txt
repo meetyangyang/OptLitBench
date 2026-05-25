@@ -1,0 +1,6 @@
+Detection and Remediation of Stagnation in the Nelder--Mead Algorithm Using a Sufficient Decrease Condition
+C. T.  Kelley;
+Abstract
+The Nelder--Mead algorithm can stagnate and converge to a nonoptimal point, even for very simple problems. In this note we propose a test for sufficient decrease which, if passed for all iterations, will guarantee convergence of the Nelder--Mead iteration to a stationary point if the objective function is smooth and the diameters of the Nelder--Mead simplices converge to zero. Failure of this condition is an indicator of potential stagnation. As a remedy we propose a new step, which we call an oriented restart, that reinitializes the simplex to a smaller one with orthogonal edges whose orientation is determined by an approximate descent direction from the current best point. We also give results that apply when the objective function is a low-amplitude perturbation of a smooth function. We illustrate our results with some numerical examples.
+Keywords
+Nelder--Mead algorithm, sufficient decrease, stagnation, 65K05, 65K10, 90C30, 

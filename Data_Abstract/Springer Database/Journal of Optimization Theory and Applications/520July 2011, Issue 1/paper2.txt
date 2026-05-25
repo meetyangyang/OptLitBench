@@ -1,0 +1,6 @@
+Outer Trust-Region Method for Constrained Optimization
+Ernesto G. Birgin;Emerson V. Castelani;André L. M. Martinez;J. M. Martínez;
+Abstract
+Given an algorithm A for solving some mathematical problem based on the iterative solution of simpler subproblems, an outer trust-region (OTR) modification of A is the result of adding a trust-region constraint to each subproblem. The trust-region size is adaptively updated according to the behavior of crucial variables. The new subproblems should not be more complex than the original ones, and the convergence properties of the OTR algorithm should be the same as those of Algorithm A. In the present work, the OTR approach is exploited in connection with the “greediness phenomenon” of nonlinear programming. Convergence results for an OTR version of an augmented Lagrangian method for nonconvex constrained optimization are proved, and numerical experiments are presented.
+Keywords
+Nonlinear programming  Augmented Lagrangian method  Trust regions  

@@ -1,0 +1,6 @@
+Approximating Binary Images from Discrete X-Rays
+Peter  Gritzmann, Sven  de Vries, and Markus  Wiegelmann;
+Abstract
+We study the problem of approximating binary images that are accessible only through few evaluations of their discrete X-ray transform, i.e., through their projections counted with multiplicity along some lines. This inverse discrete problem belongs to a class of generalized set partitioning problems and allows natural packing and covering relaxations. For these ($\mathbb{NP}$-hard) optimization problems we present various approximation algorithms and provide estimates for their worst-case performance. Further, we report on computational results for various variants of these algorithms. In particular, the corresponding integer programs are solved with only small absolute error for instances up to $250,000$ binary variables.
+Keywords
+discrete tomography, set packing, set covering, set partitioning, greedy algorithm, matching, approximation algorithm, worst-case performance, polynomial time, 05B40, 05C35, 05C70, 68R05, 68U10, 82D25, 90C27, 92C55, 

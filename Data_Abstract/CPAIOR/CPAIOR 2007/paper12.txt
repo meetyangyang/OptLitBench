@@ -1,0 +1,4 @@
+A Constraint Programming Approach to the Hospitals / Residents Problem
+David F. Manlove;Gregg O’Malley;Patrick Prosser;Chris Unsworth;
+Abstract
+An instance I of the Hospitals / Residents problem (HR) involves a set of residents (graduating medical students) and a set of hospitals, where each hospital has a given capacity. The residents have preferences for the hospitals, as do hospitals for residents. A solution of I is a stable matching, which is an assignment of residents to hospitals that respects the capacity conditions and preference lists in a precise way. In this paper we present constraint encodings for HR that give rise to important structural properties. We also present a computational study using both randomly-generated and real-world instances. We provide additional motivation for our models by indicating how side constraints can be added easily in order to solve hard variants of HR.

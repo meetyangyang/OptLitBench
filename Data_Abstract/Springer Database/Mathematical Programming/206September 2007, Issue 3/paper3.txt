@@ -1,0 +1,6 @@
+On the domino-parity inequalities for the STSP
+Sylvia Boyd;Sally Cockburn;Danielle Vella;
+Abstract
+One method which has been used very successfully for finding optimal and provably good solutions for large instances of the symmetric travelling salesman problem (STSP) is the branch and cut method. This method requires knowledge of classes of useful valid inequalities for the polytope associated with the STSP, as well as efficient separation routines for these classes of inequalities. Recently a new class of valid inequalities called the domino-parity inequalites were introduced for the STSP. An efficient separation routine is known for these constraints if certain conditions are satisfied by the point to be separated. This separation routine has never been implemented or tested. We present several performance enhancements for this separation routine, and discuss our implementation of this improved algorithm. We test our implementation and provide results which we believe demonstrate the practical usefulness of these constraints and the separation routine for the STSP within a branch and cut framework.
+Keywords
+Travelling salesman problem  Branch and cut method  Cutting planes  Valid inequalities  

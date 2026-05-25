@@ -1,0 +1,6 @@
+Simplex pivots on the set packing polytope
+Yoshiro Ikura;George L. Nemhauser;
+Abstract
+This paper considers the set packing problem max{wx: Ax ⩽ b, x ⩾ 0 and integral}, whereA is anm × n 0–1 matrix,w is a 1 ×n weight vector of real numbers andb is anm × 1 vector of ones. In equality form, its linear programming relaxation is max{wx: (x, y) ∈P(A)} whereP(A) = {(x, y):Ax +I m y =b, x⩾0,y⩾0}. Letx1 be any feasible solution to the set packing problem that is not optimal and lety1 =b − Ax1; then (x1,y1) is an integral extreme point ofP(A). We show that there exists a sequence of simplex pivots from (x1,y1) to (x*,y*), wherex* is an optimal solution to the set packing problem andy* =b − Ax*, that satisfies the following properties. Each pivot column has positive reduced weight and each pivot element equals plus one. The number of pivots equals the number of components ofx* that are nonbasic in (x1,y1).
+Keywords
+Set Packing  Integer Programming  Linear Programming  Simplex Method  

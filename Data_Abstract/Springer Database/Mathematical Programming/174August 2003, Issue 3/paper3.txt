@@ -1,0 +1,7 @@
+Primal-dual algorithms and infinite-dimensional Jordan algebras of finite rank
+Leonid Faybusovich;Takashi Tsuchiya;
+Abstract
+We consider primal-dual algorithms for certain types of infinite-dimensional optimization problems. Our approach is based on the generalization of the technique of finite-dimensional Euclidean Jordan algebras to the case of infinite-dimensional JB-algebras of finite rank. This generalization enables us to develop polynomial-time primal-dual algorithms for ``infinite-dimensional second-order cone programs.'' We consider as an example a long-step primal-dual algorithm based on the Nesterov-Todd direction. It is shown that this algorithm can be generalized along with complexity estimates to the infinite-dimensional situation under consideration. An application is given to an important problem of control theory: multi-criteria analytic design of the linear regulator. The calculation of the Nesterov-Todd direction requires in this case solving one matrix differential Riccati equation plus solving a finite-dimensional system of linear algebraic equations on each iteration. The number of equations and unknown variables of this algebraic system is m+1, where m is a number of quadratic performance criteria.
+
+Keywords
+Riccati Equation  Algebraic System  Linear Algebraic Equation  Unknown Variable  Jordan Algebra  

@@ -1,0 +1,6 @@
+Robust topology optimization of frame structures under geometric or material properties uncertainties
+Navid Changizi;Mehdi Jalalpour;
+Abstract
+A robust topology optimization algorithm is proposed for frame structures in the presence of geometric or material properties uncertainties. While geometric uncertainties were modeled with uncorrelated random variables expressing the node locations of the structure, material properties uncertainties were modeled with a correlated random field of the material Young’s modulus with an exponentially decaying correlation structure throughout the domain. The proposed algorithm uses stochastic perturbation method for propagating these uncertainties to the structural response level, measured in terms of compliance, and optimizes the expected value plus multiple factors of the standard deviation of the response. A comparison between the resulting robust designs and deterministic designs is made, and changes to the final topologies are discussed. Moreover, using Monte Carlo simulation, it was shown that the robust designs outperform the deterministic designs under real-world situations that are accompanied with uncertainties.
+Keywords
+Topology optimization  Uncertainties in stiffness  Stochastic perturbation  Frame structures  Robust design  

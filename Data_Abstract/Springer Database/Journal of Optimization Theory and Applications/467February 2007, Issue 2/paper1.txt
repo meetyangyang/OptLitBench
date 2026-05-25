@@ -1,0 +1,6 @@
+Inexact Operator Splitting Methods with Selfadaptive Strategy for Variational Inequality Problems
+D. Han;
+Abstract
+The Peaceman-Rachford and Douglas-Rachford operator splitting methods are advantageous for solving variational inequality problems, since they attack the original problems via solving a sequence of systems of smooth equations, which are much easier to solve than the variational inequalities. However, solving the subproblems exactly may be prohibitively difficult or even impossible. In this paper, we propose an inexact operator splitting method, where the subproblems are solved approximately with some relative error tolerance. Another contribution is that we adjust the scalar parameter automatically at each iteration and the adjustment parameter can be a positive constant, which makes the methods more practical and efficient. We prove the convergence of the method and present some preliminary computational results, showing that the proposed method is promising.
+Keywords
+Variational inequality problems  operator splitting methods  inexact methods  self-adaptive algorithms  strongly monotone mappings  

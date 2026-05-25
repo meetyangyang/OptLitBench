@@ -1,0 +1,6 @@
+Decomposition Methods for Differentiable Optimization Problems over Cartesian Product Sets
+Michael Patriksson;
+Abstract
+This paper presents a unified analysis of decomposition algorithms for continuously differentiable optimization problems defined on Cartesian products of convex feasible sets. The decomposition algorithms are analyzed using the framework of cost approx imation algorithms. A convergence analysis is made for three decomposition algorithms: a sequential algorithm which extends the classical Gauss-Seidel scheme, a synchronized parallel algorithm which extends the Jacobi method, and a partially asynchronous parallel algorithm. The analysis validates inexact computations in both the subproblem and line search phases, and includes convergence rate results. The range of feasible step lengths within each algorithm is shown to have a direct correspondence to the increasing degree of parallelism and asynchronism, and the resulting usage of more outdated information in the algorithms.
+Keywords
+Cartesian product sets  decomposition  cost approximation  sequential algorithm  parallel processing  partially asynchronous algorithms  

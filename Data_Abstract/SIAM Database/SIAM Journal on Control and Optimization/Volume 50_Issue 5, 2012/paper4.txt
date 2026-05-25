@@ -1,0 +1,6 @@
+Recursive Identification of Wiener--Hammerstein Systems
+Bi-Qiang  Mu and Han-Fu  Chen;
+Abstract
+Identification of the Wiener--Hammerstein system consisting of a linear subsystem in a cascade with a static nonlinearity $f(\cdot)$ followed by another linear subsystem with internal noises is considered. On the basis of input and noisy output the impulse responses of the two linear subsystems are estimated by stochastic approximation (SA) algorithms, and the nonlinear function is also estimated by SA algorithms but with kernel functions. The system input is taken to be a sequence of independent and identically distributed (iid) Gaussian random variables $u_{k}\in$ $\mathcal{N}(0,\vartheta^2)$ with $\vartheta>0$. For convergence of the proposed algorithms, the properties of martingale difference sequences (mds) and $\alpha$-mixings play an important role. The estimates for coefficients of the linear subsystems as well as for values of the nonlinear function are proved to converge to the true values with probability one. Three numerical examples with nonlinearities possessing different properties are given, justifying the theoretical analysis.
+Keywords
+Wiener--Hammerstein system, stochastic approximation, recursive estimates, $\alpha$-mixing, nonparametric method, strong consistency, 93E12, 

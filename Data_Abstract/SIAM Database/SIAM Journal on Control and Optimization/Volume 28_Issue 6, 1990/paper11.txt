@@ -1,0 +1,6 @@
+Computable Bounds for the Sensitivity of the Algebraic Riccati Equation
+P.  Gahinet and A. J.  Laub;
+Abstract
+In control or estimation theory, linear-quadratic optimization problems give rise to the so-called matrix algebraic Riccati equation (ARE). For such problems, a crucial issue is the existence and uniqueness of a symmetric nonnegative definite stabilizing solution to the ARE, and conditions on the equation parameters are known which guarantee both. However, in the context of computations in finite precision arithmetic, and with imperfect parameter identification, it is of concern whether the ARE retains such a solution in the proximity of a given set of parameters, and how sensitive this solution is to parameter variation.In this paper, topological properties, such as openness of the domain of existence and continuity with respect to parameters, are established for the symmetric nonnegative definite stabilizing solution. Computable sensitivity estimates are also derived, which quantitatively define a region of safe computation, in terms of the parameters of the equation.
+Keywords
+Riccati equation, sensitivity, stabilizability, computable bounds, 49E30, 93B35, 93B40, 

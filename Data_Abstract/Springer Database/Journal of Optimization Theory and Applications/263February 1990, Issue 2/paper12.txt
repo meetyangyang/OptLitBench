@@ -1,0 +1,6 @@
+The smallest point of a polytope
+A. Dax;
+Abstract
+This note suggests new ways for calculating the point of smallest Euclidean norm in the convex hull of a given set of points inR n . It is shown that the problem can be formulated as a linear least-square problem with nonnegative variables or as a least-distance problem. Numerical experiments illustrate that the least-square problem is solved efficiently by the active set method. The advantage of the new approach lies in the solution of large sparse problems. In this case, the new formulation permits the use of row relaxation methods. In particular, the least-distance problem can be solved by Hildreth's method.
+Keywords
+Least-distance problems  least-square problems with nonnegative variables  active set methods  row relaxation methods  

@@ -1,0 +1,6 @@
+A dual method for minimizing a nonsmooth objective over one smooth inequality constraint
+Ron Shefi;Marc Teboulle;
+Abstract
+We consider the class of nondifferentiable convex problems which minimizes a nonsmooth convex objective over a single smooth constraint. Exploiting the smoothness of the feasible set and using duality, we introduce a simple first order algorithm proven to globally converge to an optimal solution with a \(\mathcal {O}(1/\varepsilon )\) efficiency estimate. The performance of the algorithm is demonstrated by solving large instances of the convex sparse recovery problem.
+Keywords
+Nonsmooth convex minimization  First order methods   Duality  Complexity/rate of convergence analysis  l1-norm minimization  Sparse recovery  

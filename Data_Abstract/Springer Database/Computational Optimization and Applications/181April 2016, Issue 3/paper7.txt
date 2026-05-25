@@ -1,0 +1,6 @@
+Finite element error estimates for an optimal control problem governed by the Burgers equation
+Pedro Merino;
+Abstract
+We derive a-priori error estimates for the finite-element approximation of a distributed optimal control problem governed by the steady one-dimensional Burgers equation with pointwise box constraints on the control. Here the approximation of the state and the control is done by using piecewise linear functions. With this choice, a superlinear order of convergence for the control is obtained in the \(L^2\)-norm; moreover, under a further assumption on the regularity structure of the optimal control this error estimate can be improved to \(h^{3/2}\), extending the results in Rösch (Optim. Methods Softw. 21(1): 121–134, 2006). The theoretical findings are tested experimentally by means of numerical examples.
+Keywords
+Optimal control  Burgers equation  Finite element approximation  Piecewise linear  Error estimates  35Q53  49K20  49J20  80M10  49N05  65N12  41A25  

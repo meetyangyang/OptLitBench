@@ -1,0 +1,6 @@
+A comparative analysis of contact algorithms in contact shape optimization problems
+Yintao Wei;Ali Rezgui;Zhenhan Yao;Pengbo Wang;
+Abstract
+This paper presents a comparative analysis of contact algorithms used for solving contact shape optimization problems. Specifically, a nonlinear, feasible direction interior point method (FDIPM) for the frictional contact analysis of hyperelastic materials has been implemented in which the friction is introduced using the return mapping approach. This comparative investigation aims to find the cause of instability in sensitivity of the contact pressure nonuniformity (CPN). The results obtained by the FDIPM are found to be comparable with those by the penalty methods (PM) and the augmented Lagrange multiplier methods (ALMM); however, the FDIPM possesses advantages, including good convergence and convenience in modeling. Furthermore, the basic cause of the unstable sensitivity is revealed to be the discretization of the finite element method, which causes the discontinuous increase of contact area with respect to the continuous increase of contact load. To improve the stability of the CPN, an adaptive post-processing technique is proposed.
+Keywords
+Frictional contact  Interior point methods  Feasible direction algorithms  Variational inequalities  Hyperelastic materials  Contact pressure nonuniformity  

@@ -1,0 +1,6 @@
+Adjoint-Based Predictor-Corrector Sequential Convex Programming for Parametric Nonlinear Optimization
+Quoc Tran  Dinh, Carlo  Savorgnan, and Moritz  Diehl;
+Abstract
+This paper proposes an algorithmic framework for solving parametric optimization problems which we call adjoint-based predictor-corrector sequential convex programming. After presenting the algorithm, we prove a contraction estimate that guarantees the tracking performance of the algorithm. Two variants of this algorithm are investigated. The first can be used to treat online parametric nonlinear programming problems when the exact Jacobian matrix is available, while the second variant is used to solve nonlinear programming problems. The local convergence of these variants is proved. An application to a large-scale benchmark problem that originates from nonlinear model predictive control of a hydro power plant is implemented to examine the performance of the algorithms.
+Keywords
+predictor-corrector path-following, sequential convex programming, adjoint-based optimization, parametric nonlinear programming, online optimization, 49M37, 65K05, 90C31, 

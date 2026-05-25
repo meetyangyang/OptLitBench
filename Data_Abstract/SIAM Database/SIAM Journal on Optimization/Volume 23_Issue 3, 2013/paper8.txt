@@ -1,0 +1,6 @@
+On the Evaluation Complexity of Cubic Regularization Methods for Potentially Rank-Deficient Nonlinear Least-Squares Problems and Its Relevance to Constrained Nonlinear Optimization
+Coralia  Cartis, Nicholas I. M.  Gould, and Philippe L.  Toint;
+Abstract
+We propose a new termination criterion suitable for potentially singular, zero or nonzero residual, least-squares problems, with which cubic regularization variants take at most $\mathcal{O}(\epsilon^{-3/2})$ residual- and Jacobian-evaluations to drive either the Euclidean norm of the residual or its gradient below $\epsilon$; this is the best known bound for potentially rank-deficient nonlinear least-squares problems. We then apply the new optimality measure and cubic regularization steps to a family of least-squares merit functions  in the context of a target-following algorithm for  nonlinear equality-constrained problems; this approach yields the first evaluation complexity bound of order $\epsilon^{-3/2}$ for nonconvexly constrained problems when higher accuracy is required for primal feasibility than for dual first-order criticality.
+Keywords
+evaluation complexity, worst-case analysis, least-squares problems, constrained nonlinear optimization, cubic regularization methods, 68Q25, 90C60, 90C30, 90C26, 65K05, 

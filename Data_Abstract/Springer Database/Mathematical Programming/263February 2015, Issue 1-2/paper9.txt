@@ -1,0 +1,6 @@
+The trust region subproblem with non-intersecting linear constraints
+Samuel Burer;Boshi Yang;
+Abstract
+This paper studies an extended trust region subproblem (eTRS) in which the trust region intersects the unit ball with \(m\) linear inequality constraints. When \(m=0,\,m = 1\), or \(m = 2\) and the linear constraints are parallel, it is known that the eTRS optimal value equals the optimal value of a particular convex relaxation, which is solvable in polynomial time. However, it is also known that, when \(m \ge 2\) and at least two of the linear constraints intersect within the ball, i.e., some feasible point of the eTRS satisfies both linear constraints at equality, then the same convex relaxation may admit a gap with eTRS. This paper shows that the convex relaxation has no gap for arbitrary \(m\) as long as the linear constraints are non-intersecting.
+Keywords
+Trust-region subproblem  Second-order cone programming   Semidefinite programming  Nonconvex quadratic programming  90C20  90C22  90C25  90C26  90C30  

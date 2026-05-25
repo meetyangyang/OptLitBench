@@ -1,0 +1,6 @@
+Interior-point algorithms for monotone affine variational inequalities
+M. Cao;M. C. Ferris;
+Abstract
+Given ann×n matrixM, a vectorq in ℝ n , a polyhedral convex setX={x|Ax≤b, Bx=d}, whereA is anm×n matrix andB is ap×n matrix, the affinne variational inequality problem is to findx∈X such that (Mx+q) T (y−x)≥0 for ally∈X. IfM is positive semidefinite (not necessarily symmetric), the affine variational inequality can be transformeo to a generalized complementarity problem, which can be solved in polynomial time using interior-point algorithms due to Kojima et al. We develop interior-point algorithms that exploit the particular structure of the problem, rather than direictly reducing the problem to a standard linear complemntarity problem.
+Keywords
+Interior-point algorithms  affine variational inequalities  complementary problems  

@@ -1,0 +1,6 @@
+Randomized heuristics for the Max-Cut problem
+ P.   Festa ; P.M.   Pardalos ; M.G.C.   Resende ; C.C.   Ribeiro ;
+Abstract
+ Given an undirected graph with edge weights, the MAX-CUT problem consists in finding a partition of the nodes into two subsets, such that the sum of the weights of the edges having endpoints in different subsets is maximized. It is a well-known NP-hard problem with applications in several fields, including VLSI design and statistical physics. In this article, a greedy randomized adaptive search procedure (GRASP), a variable neighborhood search (VNS), and a path-relinking (PR) intensification heuristic for MAX-CUT are proposed and tested. New hybrid heuristics that combine GRASP, VNS, and PR are also proposed and tested. Computational results indicate that these randomized heuristics find near-optimal solutions. On a set of standard test problems, new best known solutions were produced for many of the instances. 
+Keywords
+Max-Cut, Grasp, Variable Neighborhood Search, Path-relinkings, Metaheuristics 

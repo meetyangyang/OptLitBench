@@ -1,0 +1,6 @@
+On the generation of updates for quasi-Newton methods
+J. Flachs;
+Abstract
+We present a unified technique for updating approximations to Jacobian or Hessian matrices when any linear structure can be imposed. The updates are derived by variational means, where an operator-weighted Frobenius norm is used, and are finally expressed as solutions of linear equations and/or unconstrained extrema. A certain behavior of the solutions is discussed for certain perturbations of the operator and the constraints. Multiple secant relations are then considered. For the nonsparse case, an explicit family of updates is obtained including Broyden, DFP, and BFGS. For the case where some of the matrix elements are prescribed, explicit solutions are obtained if certain conditions are satisfied. When symmetry is assumed, we show, in addition, the connection with the DFP and BFGS updates.
+Keywords
+Quasi-Newton methods  updating formulas  Jacobian matrix  Hessian matrix  weighted Frobenius norm  sparsity  system of equations  

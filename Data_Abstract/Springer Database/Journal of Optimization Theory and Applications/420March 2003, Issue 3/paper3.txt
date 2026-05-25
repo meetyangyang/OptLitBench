@@ -1,0 +1,6 @@
+Implementing Pure Adaptive Search with Grover's Quantum Algorithm
+D. Bulger;W. P. Baritompa;G. R. Wood;
+Abstract
+Pure adaptive search (PAS) is an idealized stochastic algorithm for unconstrained global optimization. The number of PAS iterations required to solve a problem increases only linearly in the domain dimension. However, each iteration requires the generation of a random domain point uniformly distributed in the current improving region. If no regularity conditions are known to hold for the objective function, then this task requires a number of classical function evaluations varying inversely with the proportion of the domain constituted by the improving region, entirely counteracting the PAS apparent speedup. The Grover quantum computational search algorithm provides a way to generate the PAS iterates. We show that the resulting implementation, which we call the Grover adaptive search (GAS), realizes PAS for functions satisfying certain conditions, and we believe that, when quantum computers will be available, GAS will be a practical algorithm.
+Keywords
+Discrete optimization  global optimization  Grover iterations  Markov chains  quantum computers  random search.  

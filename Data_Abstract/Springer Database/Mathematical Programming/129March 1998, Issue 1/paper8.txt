@@ -1,0 +1,6 @@
+Global one-dimensional optimization using smooth auxiliary functions
+Yaroslav D. Sergeyev;
+Abstract
+In this paper new global optimization algorithms are proposed for solving problems where the objective function is univariate and has Lipschitzean first derivatives. To solve this problem, smooth auxiliary functions, which are adaptively improved during the course of the search, are constructed. Three new algorithms are introduced: the first used the exact a priori known Lipschitz constant for derivatives; the second, when this constant is unknown, estimates it during the course of the search and finally, the last method uses neither the exact global Lipschitz constant nor its estimate but instead adaptively estimates the local Lipschitz constants in different sectors of the search region during the course of optimization. Convergence conditions of the methods are investigated from a general viewpoint and some numerical results are also given. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Global optimization  Lipschitzean first derivatives  Numerical algorithms  Convergence  

@@ -1,0 +1,6 @@
+Rigorous global optimization of impulsive planet-to-planet transfers in the patched-conics approximation
+ R.   Armellin ; P.   Di Lizia ; K.   Makino ; M.   Berz ;
+Abstract
+ The rigorous solution of a generic impulsive planet-to-planet transfer by means of a Taylor-model-based global optimizer is presented. Although a planet-to-planet transfer represents the simplest case of interplanetary transfer, its formulation and solution is a challenging task when the rigorous global optimum is sought. A customized ephemeris function is derived from JPL DE405 to allow the Taylor-model evaluation of planets’ positions and velocities. Furthermore, the validated solution of Lambert's problem is addressed for the rigorous computation of transfer fuel consumption. The optimization problem, which consists in finding the optimal launch and transfer time to minimize the required fuel mass, is complex due to the abundance of local minima and relatively high search-space dimension. Its rigorous solution by means of the Taylor-model-based global optimizer COSY-GO is presented considering Earth–Mars and Earth–Venus transfers as test cases. 
+Keywords
+trajectory optimization, impulsive transfers, Taylor models, rigorous global optimization 

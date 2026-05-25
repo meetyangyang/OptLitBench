@@ -1,0 +1,6 @@
+Switching Time and Parameter Optimization in Nonlinear Switched Systems with Multiple Time-Delays
+Chongyang Liu;Ryan Loxton;Kok Lay Teo;
+Abstract
+In this paper, we consider a dynamic optimization problem involving a general switched system that evolves by switching between several subsystems of nonlinear delay-differential equations. The optimization variables in this system consist of: (1) the times at which the subsystem switches occur; and (2) a set of system parameters that influence the subsystem dynamics. We first establish the existence of the partial derivatives of the system state with respect to both the switching times and the system parameters. Then, on the basis of this result, we show that the gradient of the cost function can be computed by solving the state system forward in time followed by a costate system backward in time. This gradient computation procedure can be combined with any gradient-based optimization method to determine the optimal switching times and parameters. We propose an effective optimization algorithm based on this idea. Finally, we consider three numerical examples, one involving the 1,3-propanediol fed-batch production process, to illustrate the effectiveness and applicability of the proposed algorithm.
+Keywords
+Switched system  Time-delay system  Switching times   Nonlinear optimization  49M07  49M37  65K10  

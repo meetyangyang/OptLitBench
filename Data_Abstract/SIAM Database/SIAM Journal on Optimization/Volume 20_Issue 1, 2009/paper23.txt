@@ -1,0 +1,6 @@
+A Polynomial-Time Interior-Point Method for Conic Optimization, With Inexact Barrier Evaluations
+Simon P.  Schurr, Dianne P.  O'Leary, and André L.  Tits;
+Abstract
+We consider a primal-dual short-step interior-point method for conic convex optimization problems for which exact evaluation of the gradient and Hessian of the primal and dual barrier functions is either impossible or prohibitively expensive. As our main contribution, we show that if approximate gradients and Hessians of the primal barrier function can be computed, and the relative errors in such quantities are not too large, then the method has polynomial worst-case iteration complexity. (In particular, polynomial iteration complexity ensues when the gradient and Hessian are evaluated exactly.) In addition, the algorithm requires no evaluation—or even approximate evaluation—of quantities related to the barrier function for the dual cone, even for problems in which the underlying cone is not self-dual.
+Keywords
+convex cone, conic optimization, self-concordant barrier function, interior-point method, inexact algorithm, polynomial complexity, 90C51, 90C25, 

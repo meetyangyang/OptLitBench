@@ -1,0 +1,6 @@
+An\(O(\sqrt n L)\) iteration bound primal-dual cone affine scaling algorithm for linear programmingiteration bound primal-dual cone affine scaling algorithm for linear programming
+Jos F. Sturm;Shuzhong Zhang;
+Abstract
+In this paper we introduce a primal-dual affine scaling method. The method uses a search-direction obtained by minimizing the duality gap over a linearly transformed conic section. This direction neither coincides with known primal-dual affine scaling directions (Jansen et al., 1993; Monteiro et al., 1990), nor does it fit in the generic primal-dual method (Kojima et al., 1989). The new method requires\(O(\sqrt n L)\) main iterations. It is shown that the iterates follow the primal-dual central path in a neighbourhood larger than the conventional\(\mathcal{N}_2 \) neighbourhood. The proximity to the primal-dual central path is measured by trigonometric functions.
+Keywords
+Linear programming  Primal-dual interior point algorithm  Affine scaling  Polynomiality  

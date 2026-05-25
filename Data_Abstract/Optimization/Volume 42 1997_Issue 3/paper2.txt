@@ -1,0 +1,6 @@
+Single machine scheduling with deadlines, release and due dates
+ Valery   Gordon ; Elena   Potapneva ; Frank   Werner ;
+Abstract
+ In this paper we consider a single machine preemptive scheduling problem to minimize the weighted number of late jobs. There are given n jobs and for each job we have a release date, a processing time and a due date. It is assumed that certain specified jobs have to be completed on time. The due dates for these jobs are considered as deadlines. while for the other jobs due dates may be violated. For the case of similarly ordered release and due dates (when there is no advantage to preemption) as well as for the case of embedded release and due date intervals and preemption allowed, we transform the initial problem into a reduced problem, where all jobs with deadlines are eliminated. It gives an opportunity to propose O(n log n) algorithms for some special cases of the considered problems.  
+Keywords
+Single Machine Scheduling, Deadlines, Release and Due Dates 

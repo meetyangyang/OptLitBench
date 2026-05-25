@@ -1,0 +1,6 @@
+Reverse propagation of McCormick relaxations
+Achim Wechsung;Joseph K. Scott;Harry A. J. Watson;Paul I. Barton;
+Abstract
+Constraint propagation techniques have heavily utilized interval arithmetic while the application of convex and concave relaxations has been mostly restricted to the domain of global optimization. Here, reverse McCormick propagation, a method to construct and improve McCormick relaxations using a directed acyclic graph representation of the constraints, is proposed. In particular, this allows the interpretation of constraints as implicitly defining set-valued mappings between variables, and allows the construction and improvement of relaxations of these mappings. Reverse McCormick propagation yields potentially tighter enclosures of the solutions of constraint satisfaction problems than reverse interval propagation. Ultimately, the relaxations of the objective of a non-convex program can be improved by incorporating information about the constraints.
+Keywords
+Constraint propagation  Global optimization  Convex relaxations   McCormick relaxations  49M20  49M37  65K05  90C26  

@@ -1,0 +1,6 @@
+Dynamic Programming for Optimal Control of Stochastic McKean--Vlasov Dynamics
+Huyên  Pham and Xiaoli  Wei;
+Abstract
+We study optimal control of the general stochastic McKean--Vlasov equation. Such a problem is motivated originally from the asymptotic formulation of cooperative equilibrium for a large population of particles (players) in mean-field interaction under common noise. Our first main result is to state a dynamic programming principle for the value function in the Wasserstein space of probability measures, which is proved from a flow property of the conditional law of the controlled state process. Next, by relying on the notion of differentiability with respect to  probability measures due to [P. L. Lions, Cours au Collège de France: Théorie des jeux à champ moyens, (2012), pp. 2006--2012] and Itô's formula along a flow of conditional measures, we derive the dynamic programming Hamilton--Jacobi--Bellman equation and prove the viscosity  property together with a uniqueness result for the value function. Finally, we solve explicitly the linear-quadratic stochastic McKean--Vlasov control problem and give an application to an interbank systemic risk model with common noise.
+Keywords
+stochastic McKean--Vlasov SDEs, dynamic programming principle, Bellman equation, Wasserstein space, viscosity solutions, 93E20, 60H30, 60K35, 

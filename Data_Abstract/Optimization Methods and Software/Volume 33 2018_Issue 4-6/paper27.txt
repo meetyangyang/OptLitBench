@@ -1,0 +1,6 @@
+Enumeration of subdifferentials of piecewise linear functions with abs-normal form
+K. Kubota;
+Abstract
+The directional derivatives of a piecewise smooth function at a given point can be computed with Griewank's absolute normal form (ANF). When the given point is a non-differentiable point, the resulting derivative by ordinary algorithmic differentiation is included in the subdifferential. In this paper, with ANF, a method for computing and enumerating the elements of the limiting subdifferential at a given non-differential point is described with branch and bound search. Using such an enumeration, we can compute the values of limiting derivatives and, if required, we can check the first-order optimality of the piecewise linear function derived by the piecewise smooth function given by the form of the evaluation procedure, when the sophisticated algorithm for checking the optimalities is known. The worst-case complexity of the proposed algorithm is exponential in general, but we show that there may be some cases in which computational work may be reduced using the branch and bound search with numerical examples.
+Keywords
+algorithmic differentiation, piecewise smooth function, absolute normal form, B-subdifferentialAMS Subject Classification: 26A24, 26A27, 65K99 

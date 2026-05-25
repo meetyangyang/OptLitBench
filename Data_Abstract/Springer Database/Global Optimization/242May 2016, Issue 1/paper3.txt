@@ -1,0 +1,6 @@
+A preconditioned block Arnoldi method for large scale Lyapunov and algebraic Riccati equations
+A. Bouhamidi;M. Hached;K. Jbilou;
+Abstract
+In the present paper, we propose a preconditioned Newton–Block Arnoldi method for solving large continuous time algebraic Riccati equations. Such equations appear in control theory, model reduction, circuit simulation amongst other problems. At each step of the Newton process, we solve a large Lyapunov matrix equation with a low rank right hand side. These equations are solved by using the block Arnoldi process associated with a preconditioner based on the alternating direction implicit iteration method. We give some theoretical results and report numerical tests to show the effectiveness of the proposed approach.
+Keywords
+ADI  Block Arnoldi  Block Krylov subspaces  Low-rank approximations  Lyapunov equation  Newton  Riccati  Stein equation  

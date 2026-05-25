@@ -1,0 +1,6 @@
+Tabu search for the linear ordering problem with cumulative costs
+Abraham Duarte;Manuel Laguna;Rafael Martí;
+Abstract
+Given a matrix of weights, the Linear Ordering Problem (LOP) consists of finding a permutation of the columns and rows in order to maximize the sum of the weights in the upper triangle. This well known NP-complete problem can also be formulated on a complete weighted graph, where the objective is to find an acyclic tournament that maximizes the sum of arc weights. The variant of the LOP that we target here was recently introduced and adds a cumulative non-linear propagation of the costs to the sum of the arc weights. We first review the previous methods for the LOP and for this variant with cumulative costs (LOPCC) and then propose a heuristic algorithm for the LOPCC, which is based on the Tabu Search (TS) methodology. Our method achieves search intensification and diversification through the implementation of both short and long term memory structures. Our extensive experimentation with 224 instances shows that the proposed procedure outperforms existing methods in terms of solution quality and has reasonable computing-time requirements.
+Keywords
+Combinatorial optimization  Metaheuristics  Linear ordering problem  

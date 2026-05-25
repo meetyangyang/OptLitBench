@@ -1,0 +1,4 @@
+Using Local Search to Speed Up Filtering Algorithms for Some NP-Hard Constraints
+Philippe Galinier;Alain Hertz;Sandrine Paroz;Gilles Pesant;
+Abstract
+Constraint programming relies heavily on identifying key substructures of a problem, writing down a model for it using the corresponding constraints, and solving it through powerful inference achieved by the efficient filtering algorithms behind each constraint. But sometimes these individual substructures are still too difficult to handle because we do not have any efficient filtering algorithm for them. In other words, deciding satisfiability for some substructures is NP-hard.

@@ -1,0 +1,6 @@
+Convergence of an annealing algorithm
+M. Lundy;A. Mees;
+Abstract
+The annealing algorithm is a stochastic optimization method which has attracted attention because of its success with certain difficult problems, including NP-hard combinatorial problems such as the travelling salesman, Steiner trees and others. There is an appealing physical analogy for its operation, but a more formal model seems desirable. In this paper we present such a model and prove that the algorithm converges with probability arbitrarily close to 1. We also show that there are cases where convergence takes exponentially long—that is, it is no better than a deterministic method. We study how the convergence rate is affected by the form of the problem. Finally we describe a version of the algorithm that terminates in polynomial time and allows a good deal of ‘practical’ confidence in the solution.
+Keywords
+Global Optimization  Stochastic Optimization  Annealing  Metropolis Method  NP  Hill Climbing  Local Improvement  

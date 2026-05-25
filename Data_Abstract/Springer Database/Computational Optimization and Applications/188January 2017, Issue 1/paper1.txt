@@ -1,0 +1,6 @@
+On the solution of nonconvex cardinality Boolean quadratic programming problems: a computational study
+Ricardo M. Lima;Ignacio E. Grossmann;
+Abstract
+This paper addresses the solution of a cardinality Boolean quadratic programming problem using three different approaches. The first transforms the original problem into six mixed-integer linear programming (MILP) formulations. The second approach takes one of the MILP formulations and relies on the specific features of an MILP solver, namely using starting incumbents, polishing, and callbacks. The last involves the direct solution of the original problem by solvers that can accomodate the nonlinear combinatorial problem. Particular emphasis is placed on the definition of the MILP reformulations and their comparison with the other approaches. The results indicate that the data of the problem has a strong influence on the performance of the different approaches, and that there are clear-cut approaches that are better for some instances of the data. A detailed analysis of the results is made to identify the most effective approaches for specific instances of the data.
+Keywords
+Integer programming  Quadratic programming  Computing science  

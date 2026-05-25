@@ -1,0 +1,6 @@
+Exploration of Metamodeling Sampling Criteria for Constrained Global Optimization
+ Michael J.   Sasena ; Panos   Papalambros ; Pierre   Goovaerts ;
+Abstract
+ The use of surrogate models or metamodeling has lead to new areas of research in simulation-based design optimization. Metamodeling approaches have advantages over traditional techniques when dealing with the noisy responses and/or high computational cost characteristic of many computer simulations. This paper focuses on a particular algorithm, Efficient Global Optimization (EGO) that uses kriging metamodels. Several infill sampling criteria are reviewed, namely criteria for selecting design points at which the true functions are evaluated. The infill sampling criterion has a strong influence on how efficiently and accurately EGO locates the optimum. Variance-reducing criteria substantially reduce the RMS error of the resulting metamodels, while other criteria influence how locally or globally EGO searches. Criteria that place more emphasis on global searching require more iterations to locate optima and do so less accurately than criteria emphasizing local search. 
+Keywords
+Approximation, Computer Simulation, Global Optimization, Kriging 

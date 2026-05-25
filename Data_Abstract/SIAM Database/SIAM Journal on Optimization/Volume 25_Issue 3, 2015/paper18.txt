@@ -1,0 +1,6 @@
+A Broyden Class of Quasi-Newton Methods for Riemannian Optimization
+Wen  Huang, K. A.  Gallivan, and P.-A.  Absil;
+Abstract
+This paper develops and analyzes a generalization of the Broyden class of quasi-Newton methods to the problem of minimizing a smooth objective function $f$ on a Riemannian manifold. A condition on vector transport and retraction that guarantees convergence and facilitates efficient computation is derived. Experimental evidence is presented demonstrating the value of the extension to the Riemannian Broyden class through superior performance for some problems compared to existing Riemannian BFGS methods, in particular those that depend on differentiated retraction.
+Keywords
+Riemannian optimization, manifold optimization, quasi-Newton methods, Broyden methods, Stiefel manifold, 65K05, 90C48, 90C53, 

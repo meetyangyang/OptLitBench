@@ -1,0 +1,6 @@
+A globally convergent primal-dual active-set framework for large-scale convex quadratic optimization
+Frank E. Curtis;Zheng Han;Daniel P. Robinson;
+Abstract
+We present a primal-dual active-set framework for solving large-scale convex quadratic optimization problems (QPs). In contrast to classical active-set methods, our framework allows for multiple simultaneous changes in the active-set estimate, which often leads to rapid identification of the optimal active-set regardless of the initial estimate. The iterates of our framework are the active-set estimates themselves, where for each a primal-dual solution is uniquely defined via a reduced subproblem. Through the introduction of an index set auxiliary to the active-set estimate, our approach is globally convergent for strictly convex QPs. Moreover, the computational cost of each iteration typically is only modestly more than the cost of solving a reduced linear system. Numerical results are provided, illustrating that two proposed instances of our framework are efficient in practice, even on poorly conditioned problems. We attribute these latter benefits to the relationship between our framework and semi-smooth Newton techniques.
+Keywords
+Convex quadratic optimization  Active-set methods  Large-scale optimization  Semi-smooth Newton methods  49M05  49M15  65K05  65K10  65K15  

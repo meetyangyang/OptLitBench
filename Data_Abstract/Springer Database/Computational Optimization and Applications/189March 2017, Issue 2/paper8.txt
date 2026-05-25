@@ -1,0 +1,6 @@
+Modeling max–min fair bandwidth allocation in BitTorrent communities
+Elvira Antal;Tamás Vinkó;
+Abstract
+This paper gives an exact mathematical programming model and algorithm of the max–min fairness bandwidth allocation problem in multi-swarm peer-to-peer content sharing community. The proposed iterative method involves solution of LP and MILP problems of large scale. Based on real-world data traces, numerical experiments demonstrate that the new algorithm is computationally faster than an earlier developed one for larger problem sizes, and it provides better numerical stability. Moreover, even if its execution is stopped after some initial steps it still grants feasible solution with good approximation to max–min fairness.
+Keywords
+BitTorrent communities  Resource allocation  Max–min fairness  MILP  

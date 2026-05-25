@@ -1,0 +1,6 @@
+On the Solution of the Tikhonov Regularization of the Total Least Squares Problem
+Amir  Beck and Aharon  Ben-Tal;
+Abstract
+Total least squares (TLS) is a method for treating an overdetermined system of linear equations ${\bf A} {\bf x} \approx {\bf b}$, where both the matrix ${\bf A}$ and the vector ${\bf b}$ are contaminated by noise. Tikhonov regularization of the TLS (TRTLS) leads to an optimization problem of minimizing the sum of fractional quadratic and quadratic functions. As such, the problem is nonconvex. We show how to reduce the problem to a single variable minimization of a function ${\mathcal{G}}$ over a closed interval. Computing a value and a derivative of ${\mathcal{G}}$ consists of solving a single trust region subproblem. For the special case of regularization with a squared Euclidean norm we show that ${\mathcal{G}}$ is unimodal and provide an alternative algorithm, which requires only one spectral decomposition. A numerical example is given to illustrate the effectiveness of our method.
+Keywords
+total least squares, Tikhonov regularization, fractional programming, nonconvex optimization, trust region subproblem, 65F20, 90C20, 90C32, 

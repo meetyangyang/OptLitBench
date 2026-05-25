@@ -1,0 +1,6 @@
+The Adaptive Convexification Algorithm: A Feasible Point Method for Semi-Infinite Programming
+Christodoulos A.  Floudas and Oliver  Stein;
+Abstract
+We present a new numerical solution method for semi-infinite optimization problems. Its main idea is to adaptively construct convex relaxations of the lower level problem, replace the relaxed lower level problems equivalently by their Karush–Kuhn–Tucker conditions, and solve the resulting mathematical programs with complementarity constraints. This approximation produces feasible iterates for the original problem. The convex relaxations are constructed with ideas from the $\alpha$BB method of global optimization. The necessary upper bounds for second derivatives of functions on box domains can be determined using the techniques of interval arithmetic, where our algorithm already works if only one such bound is available for the problem. We show convergence of stationary points of the approximating problems to a stationary point of the original semi-infinite problem within arbitrarily given tolerances. Numerical examples from Chebyshev approximation and design centering illustrate the performance of the method.
+Keywords
+semi-infinite programming, $\alpha$BB, global optimization, convex optimization, mathematical program with complementarity constraints, bilevel optimization, 90C34, 90C33, 90C26, 65K05, 

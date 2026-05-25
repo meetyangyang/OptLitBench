@@ -1,0 +1,6 @@
+A nonmonotone trust-region method for generalized Nash equilibrium and related problems with strong convergence properties
+Leonardo Galli;Christian Kanzow;Marco Sciandrone;
+Abstract
+The generalized Nash equilibrium problem (GNEP) is often difficult to solve by Newton-type methods since the problem tends to have locally nonunique solutions. Here we take an existing trust-region method which is known to be locally fast convergent under a relatively mild error bound condition, and modify this method by a nonmonotone strategy in order to obtain a more reliable and efficient solver. The nonmonotone trust-region method inherits the nice local convergence properties of its monotone counterpart and is also shown to have the same global convergence properties. Numerical results indicate that the nonmonotone trust-region method is significantly better than the monotone version, and is at least competitive to an existing software applied to the same reformulation used within our trust-region framework. Additional tests on quasi-variational inequalities (QVI) are also presented to validate efficiency of the proposed extension.
+Keywords
+Generalized Nash equilibrium problem  Trust-region algorithm  Nonmonotone strategy  Global convergence  Local superlinear convergence  Quasi-variational inequalities  

@@ -1,0 +1,6 @@
+A SEQUENTIAL QUADRATIC PROGRAMMING ALGORITHM UTILIZING QR MATRIX FACTORIZATION
+ CHIANG   KAO ; SHIH   PEN   CHEN ;
+Abstract
+ Some recent studies indicate that the sequential quadratic programming (SQP) approach has a sound theoretical basis and promising empirical results for solving general constrained optimization problems. This paper presents a variant of the SQP method which utilizes QR matrix factorization to solve the quadratic programming subproblem which result from taking a quadratic approximation of the original problem. Theoretically, the QR factorization method is more robust and computationally efficient in solving quadratic programs. To demonstrate the validity of this variant, a computer program named SQR is coded in Fortran to solve twenty-eight test problems. By comparing with three other algorithms: one multiplier method, one GRG-type method, and another SQP-type method, the numerical results show that, in general, SQR as devised in this paper is the best method as far as robustness and speed of convergence are concerned in solving general constrained optimization problems. 
+Keywords
+ Constrained optimization, sequential quadratic programming, QR factorization. 

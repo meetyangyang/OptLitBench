@@ -1,0 +1,6 @@
+An algorithm for the separation of two-row cuts
+Quentin Louveaux;Laurent Poirrier;
+Abstract
+We consider the question of finding deep cuts from a model with two rows of the type \(P_I=\{(x,s)\in \mathbb{Z }^2\times \mathbb{R }^n_+ : x=f+Rs\}\). To do that, we show how to reduce the complexity of setting up the polar of \(\mathop {\mathrm{conv}}(P_I)\) from a quadratic number of integer hull computations to a linear number of integer hull computations. Furthermore, we present an algorithm that avoids computing all integer hulls. A polynomial running time is not guaranteed but computational results show that the algorithm runs quickly in practice.
+Keywords
+Integer programming  Cutting planes  Multi-row cuts  90C11  

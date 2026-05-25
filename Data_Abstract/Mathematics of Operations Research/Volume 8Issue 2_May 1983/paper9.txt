@@ -1,0 +1,6 @@
+Jointly Constrained Biconvex Programming
+Faiz A. Al-Khayyal;James E. Falk;
+Abstract
+This paper presents a branch-and-bound algorithm for minimizing the sum of a convex function in x, a convex function in y and a bilinear term in x and y over a closed set. Such an objective function is called biconvex with biconcave functions similarly defined. The feasible region of this model permits joint constraints in x and y to be expressed. The bilinear programming problem becomes a special case of the problem addressed in this paper. We prove that the minimum of a biconcave function over a nonempty compact set occurs at a boundary point of the set and not necessarily an extreme point. The algorithm is proven to converge to a global solution of the nonconvex program. We discuss extensions of the general model and computational experience in solving jointly constrained bilinear programs, for which the algorithm has been implemented.
+Keywords
+bilinear programming nonconvex programming global convergence branch and bound algorithm biconvex functions 

@@ -1,0 +1,6 @@
+A Fourier-Coefficient Based Solution of an Optimal Control Problem in Quantum Chemistry
+Katharina Kormann;Sverker Holmgren;Hans O. Karlsson;
+Abstract
+We consider an optimal control problem for the time-dependent Schrödinger equation modeling molecular dynamics. The dynamics can be steered by interactions with a tuned laser field. The problem of designing an optimal field can be posed as an optimal control problem. We reformulate the optimization problem by using a Fourier transform of the electric field, and narrow the frequency band. The resulting problem is less memory intense, and can be solved with a superlinearly convergent quasi-Newton method. We show computational results for a Raman-transition example and give numerical evidence that our method can outperform the standard monotonically convergent algorithm.
+Keywords
+Quantum optimal control  Schrödinger equation  BFGS  

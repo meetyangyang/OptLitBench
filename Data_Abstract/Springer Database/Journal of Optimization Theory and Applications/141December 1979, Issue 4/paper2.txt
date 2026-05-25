@@ -1,0 +1,6 @@
+An algorithm for minimizing a differentiable function subject to box constraints and errors
+R. K. Brayton;J. Cullum;
+Abstract
+We consider the problem of minimizing a differentiable function ofn parameters, with upper and lower bounds on the parameters. The motivation for this work comes from the optimization of the design of transient electrical circuits. In such optimization, the parameters are circuit elements, the bound constraints keep these parameters physically meaningful, and both the function and gradient evaluations contain errors. We describe a quasi-Newton algorithm for such problems. This algorithm handles the box constraints directly and approximates the given function locally by nonsingular quadratic functions. Numerical tests indicate that the algorithm can tolerate the errors, if the errors in the function and gradient are of the same relative size.
+Keywords
+Quasi-Newton algorithm  constrained minimization  symmetric rank-one update  nonlinear programming  

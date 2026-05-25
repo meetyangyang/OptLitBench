@@ -1,0 +1,6 @@
+A Nonmonotone Proximal Bundle Method with (Potentially) Continuous Step Decisions
+A.  Astorino, A.  Frangioni, A.  Fuduli, and E.  Gorgone;
+Abstract
+We present a convex nondifferentiable minimization algorithm of proximal bundle type that does not rely on measuring descent of the objective function to declare the so-called serious steps; rather, a merit function is defined which is decreased at each iteration, leading to a (potentially) continuous choice of the stepsize between zero (the null step) and one (the serious step). By avoiding the discrete choice the convergence analysis is simplified, and we can more easily obtain efficiency estimates for the method. Some choices for the step selection actually reproduce the dichotomic behavior of standard proximal bundle methods but shed new light on the rationale behind the process, and ultimately with different rules; furthermore, using nonlinear upper models of the function in the step selection process can lead to actual fractional steps.
+Keywords
+nonsmooth optimization, bundle methods, nonmonotone algorithm, 90C26, 65K05, 

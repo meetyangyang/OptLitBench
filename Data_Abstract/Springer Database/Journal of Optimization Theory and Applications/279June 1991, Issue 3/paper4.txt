@@ -1,0 +1,6 @@
+Exact algorithm for solving a special fixed-charge linear programming problem
+J. Haberl;
+Abstract
+A branch-and-bound algorithm (A) for solving a fixed-charge linear programming problem (P) involving identical fixed charges, one equality constraint, and explicit bounds on the variables is presented. Problem (P) can serve as a mathematical model for profit optimization in sawn timber production. Some theoretical considerations upon a fixed-charge problem (P′), arising from (P) by permitting the fixed charges to be different for each variable, are carried out. A basic algorithm (A0) is stated, and it is proved that Algorithm (A0) finds an optimal solution of Problem (P) [resp., (P′)] within a finite number of steps. Algorithm (A0), combined with bounds developed with regard to Problem (P), yields Algorithm (A), which operates on a subset of all vertices of the feasible region. Finally, computational results concerning the numerical solution of Problem (P) by Algorithm (A) are stated.
+Keywords
+Fixed-charge problem  fixed-charge continuous knapsack problem  branch-and-bound algorithm  

@@ -1,0 +1,19 @@
+{
+  "run_at_utc": "2026-05-25T05:21:50.298002+00:00",
+  "visualization_recommendation": {
+    "primary": "Year x Topic heatmap for temporal evolution",
+    "secondary": "Smoothed line plot for topic trajectories",
+    "monthly": "Year-Month heatmap when month metadata exists (Springer journals)",
+    "cross_journal": "Cosine/JSD clustermap + specialization index + distinctive topic z-scores"
+  },
+  "metrics_used": [
+    "Normalized topic prevalence by year/month",
+    "Cosine similarity between journal topic profiles",
+    "Jensen-Shannon divergence (JSD)",
+    "KL specialization index relative to global profile",
+    "Distinctive topic z-score",
+    "Temporal JSD between early and late periods"
+  ],
+  "journal_count": 18,
+  "documents_with_year": 36993
+}

@@ -1,0 +1,6 @@
+Solution Methodologies for the Smallest Enclosing Circle Problem
+Sheng Xu;Robert M. Freund;Jie Sun;
+Abstract
+Given a set of circles C = {c1, ..., cn} on the Euclidean plane with centers {(a1, b1), ..., (an, bn)} and radii {r1, ..., rn}, the smallest enclosing circle (of fixed circles) problem is to find the circle of minimum radius that encloses all circles in C. We survey four known approaches for this problem, including a second order cone reformulation, a subgradient approach, a quadratic programming scheme, and a randomized incremental algorithm. For the last algorithm we also give some implementation details. It turns out the quadratic programming scheme outperforms the other three in our computational experiment.
+Keywords
+computational geometry  optimization  

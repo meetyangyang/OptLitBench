@@ -1,0 +1,6 @@
+On the Convergence of Gradient-Like Flows with Noisy Gradient Input
+Panayotis  Mertikopoulos and Mathias  Staudigl;
+Abstract
+In view of solving convex optimization problems with noisy gradient input, we analyze the asymptotic behavior of gradient-like flows under stochastic disturbances. Specifically, we focus on the widely studied class of mirror descent schemes for convex programs with compact feasible regions, and we examine the dynamics' convergence and concentration properties in the presence of noise. In the vanishing noise limit, we show that the dynamics converge to the solution set of the underlying problem (a.s.). Otherwise, when the noise is persistent, we show that the dynamics are concentrated around interior solutions in the long run, and they converge to boundary solutions that are sufficiently “sharp.” Finally, we show that a suitably rectified variant of the method converges irrespective of the magnitude of the noise (or the structure of the underlying convex program), and we derive an explicit estimate for its rate of convergence.
+Keywords
+convex programming, dynamical systems, mirror descent, noisy feedback, stochastic differential equations, Primary, 90C25, 60H10; Secondary, 90C15, 

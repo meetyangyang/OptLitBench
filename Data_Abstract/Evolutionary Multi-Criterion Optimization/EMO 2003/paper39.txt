@@ -1,0 +1,4 @@
+Multiobjective Capacitated Arc Routing Problem
+P. Lacomme;C. Prins;M. Sevaux;
+Abstract
+The Capacitated Arc Routing Problem (CARP) is a very hard vehicle routing problem raised for instance by urban waste collection. In addition to the total route length (the only criterion minimized in the academic problem), waste management companies seek to minimize also the length of the longest trip. In this paper, a bi-objective genetic algorithm is presented for this more realistic CARP, never studied before in literature. Based on the NSGA-II template, it includes two-key features: use of good constructive heuristics to seed the initial population and hybridization with a powerful local search procedure. This genetic algorithm is appraised on 23 classical CARP instances, with excellent results. For instance, for a majority of instances, its efficient solutions include an optimal solution to the academic CARP (minimization of the total route length).

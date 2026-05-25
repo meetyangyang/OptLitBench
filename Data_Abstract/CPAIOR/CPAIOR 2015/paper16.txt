@@ -1,0 +1,4 @@
+Combining Constraint Propagation and Discrete Ellipsoid-Based Search to Solve the Exact Quadratic Knapsack Problem
+Wen-Yang Ku;J. Christopher Beck;
+Abstract
+We propose an extension to the discrete ellipsoid-based search (DEBS) to solve the exact quadratic knapsack problem (EQKP), an important class of optimization problem with a number of practical applications. For the first time, our extension enables DEBS to solve convex quadratically constrained problems with linear constraints. We show that adding linear constraint propagation to DEBS results in an algorithm that is able to outperform both the state-of-the-art MIP solver CPLEX and a semi-definite programming approach by about one order of magnitude on two variations of the EQKP.

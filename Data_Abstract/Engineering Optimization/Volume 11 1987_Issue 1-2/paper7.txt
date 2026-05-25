@@ -1,0 +1,6 @@
+SEARCH FOR THE GLOBAL OPTIMUM OF LEAST VOLUME TRUSSES
+ L. M. C.   SIMOES ;
+Abstract
+ This paper describes two types of strategies that find the global optimum of structures designed for minimum volume consumption. This bilinearly constrained problem may present multiple optima and some examples of this nonconvex behaviour are given. In the first method two branch and bound ( B & B) based approaches are presented associated with suitable convex underestimating functions. The second is a cutting plane method and is derived as a generalization of Bender's algorithm; although the relaxed problems yielded are still nonconvex, they are amenable by standard codes for 0-1 mixed LP. Frequently structural engineers are confronted with only a limited set of discrete alternatives; both solution techniques presented here are combinatorial in nature and suitable to be cast into a discrete variable model, for which the algorithms converge to the global optimum in a much smaller number of steps. 
+Keywords
+Trusses, global optimum, branch and bound, Bender's decomposition 

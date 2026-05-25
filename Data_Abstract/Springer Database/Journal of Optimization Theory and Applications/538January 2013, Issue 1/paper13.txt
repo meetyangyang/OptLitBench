@@ -1,0 +1,6 @@
+Auto-Tuning and Fractional Order Controller Implementation on Hardware in the Loop System
+R. Caponetto;G. Dongola;F. Pappalardo;V. Tomasello;
+Abstract
+The paper deals with the design of an auto-tuning fractional order proportional-integrative-derivative controllers and its implementation on hardware in the loop simulator for the real-time control of unknown plants. The proposed procedure can be applied to systems with delay and order greater than one, once specifications on cross-over frequency and phase margin are given. The auto-tuning procedure consists of two phases: the first one dedicated to the identification of the process at the desired cross-over frequency and the second one to determine all the parameters of the fractional order proportional-integrative-derivative controllers. The obtained controller ensures an iso-damping response of the plant. Experimental results are given to confirm the effectiveness of the proposed approach and show that the requirements are totally met for the system to be controlled.
+Keywords
+Fractional order systems  Auto tuning  Robust control  Iso-damping control  Hardware in the loop  

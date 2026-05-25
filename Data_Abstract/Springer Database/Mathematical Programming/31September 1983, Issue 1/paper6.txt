@@ -1,0 +1,6 @@
+Distributed asynchronous computation of fixed points
+Dimitri P. Bertsekas;
+Abstract
+We present an algorithmic model for distributed computation of fixed points whereby several processors participate simultaneously in the calculations while exchanging information via communication links. We place essentially no assumptions on the ordering of computation and communication between processors thereby allowing for completely uncoordinated execution. We provide a general convergence theorem for algorithms of this type, and demonstrate its applicability to several classes of problems including the calculation of fixed points of contraction and monotone mappings arising in linear and nonlinear systems of equations, optimization problems, shortest path problems, and dynamic programming.
+Keywords
+Fixed Points  Distributed Algorithm  Optimization  Shortest Path  Dynamic Programming  

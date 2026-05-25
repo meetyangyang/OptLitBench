@@ -1,0 +1,6 @@
+Assessing the performance of an optimization-based multilevel method
+ Stephen   G.   Nash ; Robert   Michael   Lewis ;
+Abstract
+ Many large nonlinear optimization problems are based upon a hierarchy of models, corresponding to levels of discretization or detail in the problem. Optimization-based multilevel methods – that is, multilevel methods based on solving coarser versions of an optimization problem – are designed to solve such multilevel problems efficiently by taking explicit advantage of the hierarchy of models. The methods are generalizations of multigrid methods for solving partial differential equations. These multilevel methods are a powerful tool, but they will not lead to improved performance over traditional algorithms for all optimization problems. We develop techniques whereby a particular multilevel method can assess the properties of the optimization problem, with the goal of automatically determining whether it is well suited for the multilevel algorithm. We also show that our diagnostic tests are sufficient to measure the properties of the optimization problem relevant to the performance of the multilevel method. 
+Keywords
+multilevel methods, multigrid methods, PDE-constrained optimization AMS Subject Classification : 65K05, 65M55, 65N55, 90C06, 90C30 

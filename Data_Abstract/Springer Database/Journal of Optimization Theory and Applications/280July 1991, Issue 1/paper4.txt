@@ -1,0 +1,6 @@
+Periodically preconditioned conjugate gradient-restoration algorithm
+J. R. Cloutier;R. F. Wilson;
+Abstract
+In this paper, the problem of minimizing a nonlinear functionf(x) subject to a nonlinear constraint φ(x)=0 is considered, wheref is a scalar,x is ann-vector, and φ is aq-vector, withq<n. A conjugate gradient-restoration algorithm similar to those developed by Mieleet al. (Refs. 1 and 2) is employed. This particular algorithm consists of a sequence of conjugate gradient-restoration cycles. The conjugate gradient portion of each cycle is based upon a conjugate gradient algorithm that is derived for the special case of a quadratic function subject to linear constraints. This portion of the cycle involves a single step and is designed to decrease the value of the function while satisfying the constraints to first order. The restoration portion of each cycle involves one or more iterations and is designed to restore the norm of the constraint function to within a predetermined tolerance about zero.
+Keywords
+Conjugate gradient-restoration algorithm  nonlinear mathematical programming  periodic preconditioning  optimal (complete) preconditioning  positive-definite reflection of Hessian  

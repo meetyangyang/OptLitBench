@@ -1,0 +1,6 @@
+Semismooth Newton method for the lifted reformulation of mathematical programs with complementarity constraints
+A. F. Izmailov;A. L. Pogosyan;M. V. Solodov;
+Abstract
+We consider a reformulation of mathematical programs with complementarity constraints, where by introducing an artificial variable the constraints are converted into equalities which are once but not twice differentiable. We show that the Lagrange optimality system of such a reformulation is semismooth and BD-regular at the solution under reasonable assumptions. Thus, fast local convergence can be obtained by applying the semismooth Newton method. Moreover, it turns out that the squared residual of the Lagrange system is continuously differentiable (even though the system itself is not), which opens the way for a natural globalization of the local algorithm. Preliminary numerical results are also reported.
+Keywords
+Mathematical program with complementarity constraints  Semismooth Newton method  BD-regularity  Second-order sufficiency  Merit function  

@@ -1,0 +1,6 @@
+Rates of convergence of a one-dimensional search based on interpolating polynomials
+A. Tamir;
+Abstract
+In this study, we derive the order of convergence of line search techniques based on fitting polynomials, using function values as well as information on the smoothness of the function. Specifically, it is shown that, if the interpolating polynomial is based on the values of the function and its firsts−1 derivatives atn+1 approximating points, the rate of convergence is equal to the unique positive rootrn+1 of the polynomial$$D_{n + 1} (z) = z^{n + 1}  - (s - 1)z^n  - s\sum\limits_{j = 1}^n {z^{n - j} } .$$ For alln, rn is bounded betweens ands+1, which in turn implies that the rate can be increased by as much as one wishes, provided sufficient information on the smoothness is incorporated.
+Keywords
+Mathematical programming  line search procedures  interpolating polynomials  convergence rates  

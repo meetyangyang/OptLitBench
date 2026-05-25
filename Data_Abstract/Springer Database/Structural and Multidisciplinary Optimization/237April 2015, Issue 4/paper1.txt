@@ -1,0 +1,6 @@
+On Chebyshev’s method for topology optimization of Stokes flows
+Anton Evgrafov;
+Abstract
+We present a locally cubically convergent algorithm for topology optimization of Stokes flows based on a Chebyshev’s iteration globalized with Armijo linesearch. The characteristic features of the method include the low computational complexity of the search direction calculation, evaluation of the objective function and constraints needed in the linesearch procedure as well as their high order derivatives utilized for obtaining higher order rate of convergence. Both finite element and finite volumes discretizations of the algorithm are tested on the standard two-dimensional benchmark problems, in the case of finite elements both on structured and quasi-uniform unstructured meshes of quadrilaterals. The algorithm outperforms Newton’s method in nearly all test cases. Finally, the finite element discretization of the algorithm is tested within a continuation/adaptive mesh refinement framework.
+Keywords
+Topology optimization  Stokes flows  Chebyshev’s algorithm  

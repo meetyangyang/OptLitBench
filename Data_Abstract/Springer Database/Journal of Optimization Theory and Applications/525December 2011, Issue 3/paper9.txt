@@ -1,0 +1,6 @@
+Nonconvex Generalized Benders Decomposition for Stochastic Separable Mixed-Integer Nonlinear Programs
+Xiang Li;Asgeir Tomasgard;Paul I. Barton;
+Abstract
+This paper considers deterministic global optimization of scenario-based, two-stage stochastic mixed-integer nonlinear programs (MINLPs) in which the participating functions are nonconvex and separable in integer and continuous variables. A novel decomposition method based on generalized Benders decomposition, named nonconvex generalized Benders decomposition (NGBD), is developed to obtain ε-optimal solutions of the stochastic MINLPs of interest in finite time. The dramatic computational advantage of NGBD over state-of-the-art global optimizers is demonstrated through the computational study of several engineering problems, where a problem with almost 150,000 variables is solved by NGBD within 80 minutes of solver time.
+Keywords
+Stochastic programming  Mixed-integer nonlinear programming  Decomposition algorithm  Global optimization  

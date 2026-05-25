@@ -1,0 +1,6 @@
+A feasible direction interior point algorithm for nonlinear semidefinite programming
+Miguel Aroztegui;José Herskovits;Jean Rodolphe Roche;Elmer Bazán;
+Abstract
+We present a new algorithm for nonlinear semidefinite programming, based on the iterative solution in the primal and dual variables of Karush-Kuhn-Tucker optimality conditions, which generates a feasible decreasing sequence. At each iteration, two linear systems with the same matrix are solved to compute a feasible descent direction and then an inexact line search is performed in order to determinate the new iterate. Feasible iterates are essential in applications where feasibility is required to compute some of the involved functions. A proof of global convergence to a stationary point is given. Several numerical tests involving nonlinear programming problems with linear or nonlinear matrix inequality constraints are described. We also solve structural topology optimization problems employing a mathematical model based on semidefinite programming. The results suggest efficiency and high robustness of the proposed method.
+Keywords
+Nonlinear optimization  Semidefinite programming  Feasible directions  Interior-point methods  

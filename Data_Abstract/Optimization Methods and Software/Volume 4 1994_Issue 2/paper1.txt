@@ -1,0 +1,6 @@
+Analysis of an approximate gradient projection method with applications to the backpropagation algorithm
+ Luo   Zhi-Quan ; Tseng   Paul ;
+Abstract
+ We analyze the convergence of an approximate gradient projection method for minimizing the sum of continuously differentiable functions over a nonempty closed convex set. In this method, the functions are aggregated and, at each iteration, a succession of gradient steps, one for each of the aggregate functions, is applied and the result is projected onto the convex set. We show that if the gradients of the functions are bounded and Lipschitz continuous over a certain level set and the stepsizes are chosen to be proportional to a certain residual squared or to be square summable, then every cluster point of the iterates is a stationary point. We apply these results to the backpropagation algorithm to obtain new deterministic convergence results for this algorithm. We also discuss the issues of parallel implementation and give a simple criterion for choosing the aggregation. 
+Keywords
+Neural networks, Backpropagation, Gradient projection 

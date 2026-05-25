@@ -1,0 +1,6 @@
+On Long Step Path Following and SUMT for Linear and Quadratic Programming
+Kurt M.  Anstreicher;
+Abstract
+We consider a long step barrier algorithm for the minimization of a convex quadratic objective subject to linear inequality constraints. The algorithm is a dual version of a method developed by Anstreicher et al. [Algorithmica, 10 (1993), pp. 365–382], and requires $O ( nL )$ or $O( \sqrt{n} L )$ iterations to solve a problem with n constraints, depending on how the barrier parameter is reduced. As a corollary of our analysis we demonstrate that the classical SUMT algorithm, exactly as implemented in 1968, solves linear and quadratic programs in $O( \sqrt{n} L\log L )$ iterations, with proper initialization and choice of parameters.
+Keywords
+linear programming, quadratic programming, barrier function, long step path following, sequential unconstrained minimization technique, 90C05, 

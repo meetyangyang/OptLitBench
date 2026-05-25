@@ -1,0 +1,6 @@
+Classification and Characterization of Gene Expression Data with Generalized Eigenvalues
+M. R. Guarracino;S. Cuciniello;P. M. Pardalos;
+Abstract
+In this study, we present Incremental Learning and Decremented Characterization of Regularized Generalized Eigenvalue Classification (ILDC-ReGEC), a novel algorithm to train a generalized eigenvalue classifier with a substantially smaller subset of points and features of the original data. The proposed method provides a constructive way to understand the influence of new training data on an existing classification model and the grouping of features that determine the class of samples. We show through numerical experiments that this technique has comparable accuracy with respect to other methods. Furthermore, experiments show that it is possible to obtain a classification model with about 30% of the training samples and less then 5% of the initial features. Matlab implementation of the ILDC-ReGEC algorithm is freely available from the authors.
+Keywords
+Binary classification  Incremental learning  Feature selection  

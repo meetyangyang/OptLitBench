@@ -1,0 +1,6 @@
+Bi-objective scheduling on uniform parallel machines considering electricity cost
+YiZeng Zeng;Ada Che;Xueqi Wu;
+Abstract
+This article investigates a bi-objective scheduling problem on uniform parallel machines considering electricity cost under time-dependent or time-of-use electricity tariffs, where electricity price changes with the hours within a day. The aim is to minimize simultaneously the total electricity cost and the number of machines actually used. A bi-objective mixed-integer linear programming model is first formulated for the problem. An insertion algorithm is then proposed for the single-objective scheduling problem of minimizing the total electricity cost for a given number of machines. To obtain the whole Pareto front of the problem, an iterative search framework is developed based on the proposed insertion algorithm. Computational results on real-life and randomly generated instances demonstrate that the proposed approach is quite efficient and can find high-quality Pareto fronts for large-size problems with up to 5000 jobs.
+Keywords
+Bi-objective scheduling, uniform parallel machines, energy-efficient scheduling, insertion algorithm, time-of-use (TOU) electricity prices 

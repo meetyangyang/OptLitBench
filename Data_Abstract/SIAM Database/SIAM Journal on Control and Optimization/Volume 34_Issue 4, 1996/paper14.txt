@@ -1,0 +1,6 @@
+Inverse Optimality in Robust Stabilization
+R. A.  Freeman and P. V.  Kokotovic;
+Abstract
+The concept of a robust control Lyapunov function (rclf) is introduced, and it is shown that the existence of an rclf for a control-affine system is equivalent to robust stabilizability via continuous state feedback. This extends Artstein’s theorem on nonlinear stabilizability to systems with disturbances. It is then shown that every rclf satisfies the steady-state Hamilton–Jacobi–Isaacs (HJI) equation associated with a meaningful game and that every member of a class of pointwise min-norm control laws is optimal for such a game. These control laws have desirable properties of optimality and can be computed directly from the rclf without solving the HJI equation for the upper value function.
+Keywords
+nonlinear systems, robust stabilization, control Lyapunov functions, input-to-state stability, differential games, 93D09, 93D22, 49N50, 

@@ -1,0 +1,6 @@
+New Inexact Line Search Method for Unconstrained Optimization
+Z. J. Shi;J. Shen;
+Abstract
+We propose a new inexact line search rule and analyze the global convergence and convergence rate of related descent methods. The new line search rule is similar to the Armijo line-search rule and contains it as a special case. We can choose a larger stepsize in each line-search procedure and maintain the global convergence of related line-search methods. This idea can make us design new line-search methods in some wider sense. In some special cases, the new descent method can reduce to the Barzilai and Borewein method. Numerical results show that the new line-search methods are efficient for solving unconstrained optimization problems.
+Keywords
+Unconstrained optimization  inexact line search  global convergence  convergence rate  

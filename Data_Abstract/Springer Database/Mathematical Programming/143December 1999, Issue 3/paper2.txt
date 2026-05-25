@@ -1,0 +1,6 @@
+ On maximization of quadratic form over intersection of ellipsoids with common center
+A. Nemirovski;C. Roos;T. Terlaky;
+Abstract
+We demonstrate that if A1,...,A m  are symmetric positive semidefinite n×n matrices with positive definite sum and A is an arbitrary symmetric n×n matrix, then the relative accuracy, in terms of the optimal value, of the semidefinite relaxation \(\max_X\{\Tr(AX)\mid\, \Tr(A_iX)\le1,\,\,i=1,...,m;\,X\succeq0\} \eqno{\hbox{(SDP)}}\) of the optimization program \(x^TAx\to\max\mid\, x^TA_ix\le 1,\,\,i=1,...,m \eqno{\hbox{(P)}}\) is not worse than \(1-\frac{1}{{2\ln(2m^2)}}\). It is shown that this bound is sharp in order, as far as the dependence on m is concerned, and that a~feasible solution x to (P) with \(x^TAx\ge \frac{{\Opt(\hbox{{\rm SDP}})}}{{2\ln(2m^2)}} \eqno{(*)}\) can be found efficiently. This somehow improves one of the results of Nesterov [4] where bound similar to (*) is established for the case when all Ai are of rank 1.
+Keywords
+Key words: semidefinite relaxations – quadratic programming Mathematics Subject Classification (1991): 20E28, 20G40, 20C20  

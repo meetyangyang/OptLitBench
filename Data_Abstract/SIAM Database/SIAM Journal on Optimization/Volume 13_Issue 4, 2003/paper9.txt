@@ -1,0 +1,6 @@
+A Sequential Quadratically Constrained Quadratic Programming Method for Differentiable Convex Minimization
+Masao  Fukushima, Zhi-Quan  Luo, and Paul  Tseng;
+Abstract
+This paper presents a sequential quadratically constrained quadratic programming (SQCQP) method for solving smooth convex programs. The SQCQP method solves at each iteration a subproblem that involves convex quadratic inequality constraints as well as a convex quadratic objective function. Such a quadratically constrained quadratic programming problem can be formulated as a second-order cone program, which can be solved efficiently by using interior point methods. We consider the following three fundamental issues on the SQCQP method: the feasibility of subproblems, the global convergence, and the quadratic rate of convergence. In particular, we show that the Maratos effect is avoided without any modification to the search direction, even though we use an ordinary $\ell_1$ exact penalty function as the line search merit function.
+Keywords
+convex programming, quadratically constrained quadratic programming, Maratos effect, quadratic convergence, global convergence, 90C25, 90C55, 65K05, 

@@ -1,0 +1,6 @@
+Best interpolation in a strip II: Reduction to unconstrained convex optimization
+Asen L. Dontchev;Ilya Kolmanovsky;
+Abstract
+In this paper, we study the problem of finding a real-valued function f on the interval [0, 1] with minimal L2 norm of the second derivative that interpolates the points (ti, yi) and satisfies e(t) ≤ f(t) ≤ d(t) for t ∈ [0, 1]. The functions e and d are continuous in each interval (ti, ti+1) and at t1 and tnbut may be discontinuous at ti. Based on an earlier paper by the first author [7] we characterize the solution in the case when e and d are linear in each interval (ti, ti+1). We present a method for the reduction of the problem to a convex finite-dimensional unconstrained minimization problem. When e and d are arbitrary continuous functions we approximate the problem by a sequence of finite-dimensional minimization problems and prove that the sequence of solutions to the approximating problems converges in the norm of W2,2 to the solution of the original problem. Numerical examples are reported.
+Keywords
+constrained best approximation  splines  interpolation  convex programming  

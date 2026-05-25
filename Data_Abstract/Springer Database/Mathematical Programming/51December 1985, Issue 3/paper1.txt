@@ -1,0 +1,6 @@
+Solving matching problems with linear programming
+M. Grötschel;O. Holland;
+Abstract
+In this paper we describe an implementation of a cutting plane algorithm for the perfect matching problem which is based on the simplex method. The algorithm has the following features: -It works on very sparse subgraphs ofK n  which are determined heuristically, global optimality is checked using the reduced cost criterion.  -Cutting plane recognition is usually accomplished by heuristics. Only if these fail, the Padberg-Rao procedure is invoked to guarantee finite convergence. 
+Keywords
+Matching  Linear Programming  Cutting Plane Algorithms  Computational Study  

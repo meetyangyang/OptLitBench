@@ -1,0 +1,6 @@
+Convexification and decomposition of separable nonconvex optimization problems
+   B.   Engelmann ;
+Abstract
+ A new approach is presented for decomposition of additive separable, nonconvex optimization problems. The overall problem is splitted into independent subproblems of small dimension, and by coordination of the subproblem minimizers an optimal solution of the overall problem is obtained. The method is based on an augmented Lagrangian to convexify the subproblems and on parameter fixing to make the Lagrangian separable  The coordination is achieved by a suitable choice of the fixed primal parameters and of the Lagrange multipliers with respect to the coupling constraints. In difference to previous methods each subproblem is influenced by its own multiplier which differs from the usual multiplier by a certain multiplier shift. For different algorithms local convergence within a neighbourhood of a strict local minimizer can be shown. In comparison with known methods the new approach has accelerated convergence properties and more transparent rules for the choice of the penalty parameters and the stepsize parameters at the upper level  
+Keywords
+Additive Separable Optimization, Decomposition and Coordination, Augmented Lagrangian, Convexification, Multiplier Shift, Second Order Sufficient Optimality Conditions 

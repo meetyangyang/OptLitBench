@@ -1,0 +1,11 @@
+Efficient Simulation of High Dimensional Gaussian Vectors
+Nabil Kahalé;
+Abstract
+We describe a Markov chain Monte Carlo method to approximately simulate a centered d-dimensional Gaussian vector X with given covariance matrix. The standard Monte Carlo method is based on the Cholesky decomposition, which takes cubic time and has quadratic storage cost in d. By contrast, the additional storage cost of our algorithm is linear in d. We give a bound on the quadratic Wasserstein distance between the distribution of our sample and the target distribution. Our method can be used to estimate the expectation of h(X), where h is a real-valued function of d variables. Under certain conditions, we show that the mean square error of our method is inversely proportional to its running time. We also prove that, under suitable conditions, the total time needed by our method to obtain a given standardized mean square error is quadratic or nearly quadratic in d. A numerical example is given.
+Keywords
+Cholesky factorization Gaussian vectors high dimension Markov chain Monte Carlo simulation Efficient Simulation of High Dimensional Gaussian Vectors
+Nabil Kahalé;
+Abstract
+We describe a Markov chain Monte Carlo method to approximately simulate a centered d-dimensional Gaussian vector X with given covariance matrix. The standard Monte Carlo method is based on the Cholesky decomposition, which takes cubic time and has quadratic storage cost in d. By contrast, the additional storage cost of our algorithm is linear in d. We give a bound on the quadratic Wasserstein distance between the distribution of our sample and the target distribution. Our method can be used to estimate the expectation of h(X), where h is a real-valued function of d variables. Under certain conditions, we show that the mean square error of our method is inversely proportional to its running time. We also prove that, under suitable conditions, the total time needed by our method to obtain a given standardized mean square error is quadratic or nearly quadratic in d. A numerical example is given.
+Keywords
+Cholesky factorization Gaussian vectors high dimension Markov chain Monte Carlo simulation 

@@ -1,0 +1,6 @@
+A Decomposition Method and Its Application to Convex Programming
+Shih-Ping Han;
+Abstract
+A method is proposed for minimizing a function of the form q(x − d) + f1(x) + ⋯ + fm(x) where q is definite quadratic and fi are proper closed convex. The key feature of the method is its capability of reducing the problem to a sequence of subproblems of the form: min q(x − z) + fi(x). The method is an extension of the successive projection method given in [Han, S.-P. 1988. A successive projection method. Math. Programming40 1–14.] and has some similar features as the partial inverse method of Spingarn [Spingarn, J. E. 1983. Partial inverse of a monotone operator. Appl. Math. Optim.10 247–265.]. In combination with the proximal point algorithm [Martinet, B. 1970. Regularisation d'inéquations variationelles par approximations successives. Rev. Francaise Inform. Rech. Oper. 154–159; Martinet, B. 1972. Determination approchée d'un point fixe d'une application pseudo-contractante. C.R. Acad. Sci. Paris274 163–165; Rockafellar, R. T. 1976. Monotone operators and the proximal point algorithm. SIAM J. Control Optim.14(5) 877–898.], it can decompose a general convex program. It has attractive convergence properties and is useful for solving large-scale sparse problems.
+Keywords
+convex programs decomposition proximal point 

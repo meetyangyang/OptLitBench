@@ -1,0 +1,6 @@
+On Tractable Approximations of Uncertain Linear Matrix 	Inequalities Affected by Interval Uncertainty
+Aharon  Ben-Tal and Arkadi  Nemirovski;
+Abstract
+We present efficiently verifiable sufficient conditions for the validity of specific NP-hard semi-infinite systems of linear matrix inequalities (LMIs) arising from LMIs with uncertain data and demonstrate that these conditions are "tight" up to an absolute constant factor. In particular, we prove that given an $n\times n$ interval matrix ${\cal U}_\rho=\{A\mid\, |A_{ij}-A^*_{ij}|\leq\rho C_{ij}\}$, one can build a computable lower bound, accurate within the factor ${\pi\over 2}$, on the supremum of those $\rho$ for which all instances of ${\cal U}_\rho$ share a common quadratic Lyapunov function. We then obtain a similar result for the problem of quadratic Lyapunov stability synthesis. Finally, we apply our techniques to the problem of maximizing a homogeneous polynomial of degree 3 over the unit cube.
+Keywords
+robust semidefinite optimization, data uncertainty, Lyapunov stability synthesis, relaxations of combinatorial problems, 90C05, 90C25, 90C30, 

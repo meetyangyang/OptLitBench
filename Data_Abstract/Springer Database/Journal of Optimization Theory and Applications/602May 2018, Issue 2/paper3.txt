@@ -1,0 +1,6 @@
+A Shape Optimization Algorithm for Interface Identification Allowing Topological Changes
+Martin Siebenborn;
+Abstract
+In this work, we investigate a combination of classical optimization techniques from optimal control and a rounding strategy based on shape optimization for interface identification for problems constrained by partial differential equations. The goal is to identify the location of pollution sources in a fluid flow represented by a control that is either active or inactive. We use a relaxation of the binary problem on a coarse grid as initial guess for the shape optimization with higher resolution. The result is a computationally cheap method, where large shape deformations do not have to be performed. We demonstrate that our algorithm is, moreover, able to change the topology of the initial guess.
+Keywords
+Shape optimization  Interface identification  Multigrid methods  49Q10  35Q93  57N25  65M55  

@@ -1,0 +1,6 @@
+Characterization and Identification of Matrix Fraction Descriptions for LTI Systems
+Bi-Qiang  Mu, Han-Fu  Chen, Le Yi  Wang, and George  Yin;
+Abstract
+This paper shows that the matrix fraction description, given by a pair $\{A(z)~B(z)\}$ of matrix polynomials of $z$, for a linear time-invariant system may not be unique even if $A(z)$ is monic, $A(z)$ and $B(z)$ have no common left factor, and the matrix coefficients corresponding to the highest-order terms of $A(z)$ and $B(z)$ are full row rank. The orders of all possible matrix fraction descriptions (MFDs) of a given system are completely characterized. Testing criteria for determining  whether a matrix pair is an MFD of the system are derived, which involve rank tests of certain Toeplitz matrices derived from either the impulse response or output correlation functions of the system. A  decision procedure is devised that generates sequentially  all MFDs for a given system. Identification algorithms are introduced that estimate all MFDs of a given system from its input-output data or output data only. The results are then extended to cover ARMAX systems.
+Keywords
+matrix fraction description, impulse response, correlation function, order characterization, Toeplitz matrix, 93E12, 93E03, 93E10, 

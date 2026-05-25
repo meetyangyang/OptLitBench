@@ -1,0 +1,6 @@
+Coordination Complexity of Parallel Price-Directive Decomposition
+Michael D. Grigoriadis;Leonid G. Khachiyan;
+Abstract
+The general block-angular convex resource sharing problem in K blocks and M nonnegative block-separable coupling constraints is considered. Applications of this model are in combinatorial optimization, network flows, scheduling, communication networks, engineering design, and finance. This paper studies the coordination complexity of approximate price-directive decomposition (PDD) for this problem, i.e., the number of iterations required to solve the problem to a fixed relative accuracy as a function of K and M.First a simple PDD method based on the classical logarithmic potential is shown to be optimal up to a logarithmic factor in M in the class of all PDD methods that work with the original (unrestricted) blocks. It is then shown that logarithmic and exponential potentials generate a polylogarithmically-optimal algorithm for a wider class of PDD methods which can restrict the blocks by the coupling constraints.As an application, the fastest currently-known deterministic approximation algorithm for minimum-cost multicommodity flows is obtained.
+Keywords
+approximation algorithm coordination complexity exponential potential Lagrangian decomposition logarithmic potential parallel computation structured optimization 

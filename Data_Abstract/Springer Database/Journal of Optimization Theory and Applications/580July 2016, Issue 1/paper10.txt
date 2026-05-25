@@ -1,0 +1,6 @@
+Inexact Coordinate Descent: Complexity and Preconditioning
+Rachael Tappenden;Peter Richtárik;Jacek Gondzio;
+Abstract
+One of the key steps at each iteration of a randomized block coordinate descent method consists in determining the update to a block of variables. Existing algorithms assume that in order to compute the update, a particular subproblem is solved exactly. In this work, we relax this requirement and allow for the subproblem to be solved inexactly, leading to an inexact block coordinate descent method. Our approach incorporates the best known results for exact updates as a special case. Moreover, these theoretical guarantees are complemented by practical considerations: the use of iterative techniques to determine the update and the use of preconditioning for further acceleration.
+Keywords
+Inexact methods  Block coordinate descent  Convex optimization  Iteration complexity  Preconditioning  Conjugate gradients  65F08  65F10  65F15  65Y20  68Q25  90C25  

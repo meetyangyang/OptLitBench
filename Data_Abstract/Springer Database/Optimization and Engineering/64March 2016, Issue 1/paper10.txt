@@ -1,0 +1,6 @@
+A batch, derivative-free algorithm for finding multiple local minima
+Jeffrey Larson;Stefan M. Wild;
+Abstract
+We propose a derivative-free algorithm for finding high-quality local minima for functions that require significant computational resources to evaluate. Our algorithm efficiently utilizes the computational resources allocated to it and also has strong theoretical results, almost surely starting a finite number of local optimization runs and identifying all local minima. We propose metrics for measuring how efficiently an algorithm finds local minima, and we benchmark our algorithm on synthetic problems (with known local minima) and two real-world applications.
+Keywords
+Derivative-free optimization  Multistart  Parallel algorithms  Global optimization  90C56  90C30  90C26  

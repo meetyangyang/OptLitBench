@@ -1,0 +1,6 @@
+A-revolve: an adaptive memory-reduced procedure for calculating adjoints; with an application to computing adjoints of the instationary Navier–Stokes system
+ Michael   Hinze ; Julia   Sternberg ;
+Abstract
+ This article presents a low-storage and low-run-time approach for calculating numerical approximations of adjoint equations for the instationary Navier–Stokes equations with adaptive evaluation of the discretization step. It utilizes adaptive checkpointing. The amounts of memory reduction due to checkpointing and of the increase in run-time caused by repeated forward integration of the Navier–Stokes equations are reported. It is one result that memory reduction of two orders of magnitude only causes a slow down factor of 2–3 in run-time. It is a further result that the adaptive checkpointing for the instationary Navier–Stokes equations causes only a slight increase of the run-time compared to the static optimal checkpointing. The amounts of run-time increase caused by the adaptive checkpoint allocations compared with the static optimal checkpointing are reported as well. 
+Keywords
+Optimal control, Navier–Stokes system, Adaptive checkpointing 

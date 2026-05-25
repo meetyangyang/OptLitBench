@@ -1,0 +1,6 @@
+Gradient based hyper-parameter optimisation for well conditioned kriging metamodels
+Jonathan Ollar;Charles Mortished;Royston Jones;Johann Sienz;Vassili Toropov;
+Abstract
+In this work a two step approach to efficiently carrying out hyper parameter optimisation, required for building kriging and gradient enhanced kriging metamodels, is presented. The suggested approach makes use of an initial line search along the hyper-diagonal of the design space in order to find a suitable starting point for a subsequent gradient based optimisation algorithm. During the optimisation an upper bound constraint is imposed on the condition number of the correlation matrix in order to keep it from being ill conditioned. Partial derivatives of both the condensed log likelihood function and the condition number are obtained using the adjoint method, the latter has been derived in this work. The approach is tested on a number of analytical examples and comparisons are made to other optimisation approaches. Finally the approach is used to construct metamodels for a finite element model of an aircraft wing box comprising of 126 thickness design variables and is then compared with a sub-set of the other optimisation approaches.
+Keywords
+Hyper-parameter optimisation  SQP  Adjoint method  Condition number  Kriging  Gradient-enhanced kriging  Gaussian processes  

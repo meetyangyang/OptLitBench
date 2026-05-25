@@ -1,0 +1,6 @@
+Time series analysis and prediction by neural networks
+ Xiru   Zhang ;
+Abstract
+ Neural network algorithms have been shown to provide good solutions for a variety of non-linear optimization problems, ranging from classification to function approximation in high dimension space. These algorithms are capable of “learning” a target function from a set of “training examples”without strong assumption about the function. In this paper we show an example of applying neural networks to time series analysis and prediction. Backpropagation algorithm is used to train layered, feed-forward networks to model a complex, non-linear time series. A general state space formulation is adopted to analyze the problem and a Cascaded Method is used to predict multiple steps into the future. A fast parallel implementation of Backpropagation on the Connection Machine allowed us to do extensive exploratory data analysis to search for good neural net predictive models on large data sets. 
+Keywords
+Neural network, time series, connection machine, exploratory data analysis, cascaded method 

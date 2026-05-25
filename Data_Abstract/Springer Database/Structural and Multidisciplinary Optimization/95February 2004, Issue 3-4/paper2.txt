@@ -1,0 +1,6 @@
+Order-(n+m) direct differentiation determination of design sensitivity for constrained multibody dynamic systems
+K.S. Anderson;Y. Hsu;
+Abstract
+With the complexity and large dimensionality of many modern multibody dynamic applications, the efficiency of the sensitivity evaluation methods used can greatly impact the overall computation cost and as such can greatly limit the usefulness of the sensitivity information. Most current direct differentiation approaches suffer from prohibitive computational cost, which may be as great as O(n4+n2m2+nm3) (for systems with n generalized coordinates and m algebraic constraints). This paper presents a concise and computationally efficient sensitivity analysis scheme to facilitate such sensitivity calculations. A unique feature of this scheme is its use of recursive procedures to directly embed the algebraic constraint relations in forming and simultaneously solving a minimal set of equations. This results in far fewer operations than more traditional, or so-called O(n), counterparts. The algorithm determines the derivatives of generalized accelerations in O(n+m) operations overall. The resulting equations are “exact” to integration accuracy and enforce constraints exactly at both the velocity and acceleration levels. 
+Keywords
+multibody dynamics  design optimization  sensitivity analysis  recursive formulation  

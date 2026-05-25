@@ -1,0 +1,6 @@
+A primal-dual interior point method whose running time depends only on the constraint matrix
+Stephen A. Vavasis;Yinyu Ye;
+Abstract
+We propose a primal-dual “layered-step” interior point (LIP) algorithm for linear programming with data given by real numbers. This algorithm follows the central path, either with short steps or with a new type of step called a “layered least squares” (LLS) step. The algorithm returns an exact optimum after a finite number of steps—in particular, after O(n 3.5 c(A)) iterations, wherec(A) is a function of the coefficient matrix. The LLS steps can be thought of as accelerating a classical path-following interior point method. One consequence of the new method is a new characterization of the central path: we show that it composed of at mostn 2 alternating straight and curved segments. If the LIP algorithm is applied to integer data, we get as another corollary a new proof of a well-known theorem by Tardos that linear programming can be solved in strongly polynomial time provided thatA contains small-integer entries.
+Keywords
+Interior point method  Linear programming  Complexity  Strongly polynomial time  Layered least squares  Central path  

@@ -1,0 +1,6 @@
+Two approaches to nonlinear decomposition
+ Carl-Louis   Sandblom ;
+Abstract
+ Unlike the situation for the linear case, nonlinear programming problems rapidly become numerically very difficult to solve, as the number of variables grows. For this reason, the solution of large-scale nonlinear problems requires some form of decomposition or partitioning. This involves breaking the problem down into a master problem and one or more subproblems, which are all solved iteratively, exchanging information between the subproblems on one hand and the master on the other hand, yielding approximate solutions nearer and nearer to the true optimum. In this paper, we consider two basically different approaches to nonlinear decomposition, which we shall call the relaxedmaster problem approach and the directmaster problem approach. After transforming the problem into two-stage form, and considering some related properties, we briefly review the Kbonsjo (1969) relaxed master decomposition algorithm. A direct master problem decomposition algorithm is then presented. Some material on subdifferentiable optimization, necessary for the direct master problem approach, concludes the paper.  
+Keywords
+ 

@@ -1,0 +1,6 @@
+Exploiting run time distributions to compare sequential and parallel stochastic local search algorithms
+Celso C. Ribeiro;Isabel Rosseti;Reinaldo Vallejos;
+Abstract
+Run time distributions or time-to-target plots are very useful tools to characterize the running times of stochastic algorithms for combinatorial optimization. We further explore run time distributions and describe a new tool to compare two algorithms based on stochastic local search. For the case where the running times of both algorithms fit exponential distributions, we derive a closed form index that gives the probability that one of them finds a solution at least as good as a given target value in a smaller computation time than the other. This result is extended to the case of general run time distributions and a numerical iterative procedure is described for the computation of the above probability value. Numerical examples illustrate the application of this tool in the comparison of different sequential and parallel algorithms for a number of distinct problems.
+Keywords
+GRASP  Metaheuristics  Stochastic local search  Run time distributions  Time-to-target plots  Path-relinking  

@@ -1,0 +1,6 @@
+On the efficient Gerschgorin inclusion usage in the global optimization \(\alpha \hbox {BB}\) method
+Milan Hladík;
+Abstract
+In this paper, we revisit the \(\alpha \)BB method for solving global optimization problems. We investigate optimality of the scaling vector used in Gerschgorin’s inclusion theorem to calculate bounds on the eigenvalues of the Hessian matrix. We propose two heuristics to compute a good scaling vector \(d\), and state three necessary optimality conditions for an optimal scaling vector. Since the scaling vectors calculated by the presented methods satisfy all three optimality conditions, they serve as cheap but efficient solutions. A small numerical study shows that they are practically always optimal.
+Keywords
+Global optimization  Eigenvalues  Hessian matrix   Convex relaxation  

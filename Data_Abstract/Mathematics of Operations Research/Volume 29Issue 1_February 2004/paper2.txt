@@ -1,0 +1,6 @@
+An Analysis of the EM Algorithm and Entropy-Like Proximal Point Methods
+Paul Tseng;
+Abstract
+The EM algorithm is a popular method for maximum likelihood estimation from incomplete data. This method may be viewed as a proximal point method for maximizing the log-likelihood function using an integral form of the Kullback-Leibler distance function. Motivated by this interpretation, we consider a proximal point method using an integral form of entropy-like distance function. We give a convergence analysis of the resulting proximal point method in the case where the cluster points lie in the interior of the objective function domain. This result is applied to a normal/independent example and a Gaussian mixture example to establish convergence of the EM algorithm on these examples. Further convergence analysis of the method for maximization over an orthant is given in low dimensions. Sublinear convergence and schemes for accelerating convergence are also discussed.
+Keywords
+EM algorithm proximal point method Kullback-Leibler distance ϕ-divergence convergence analysis 

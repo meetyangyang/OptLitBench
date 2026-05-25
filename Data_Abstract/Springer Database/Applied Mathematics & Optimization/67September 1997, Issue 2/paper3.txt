@@ -1,0 +1,6 @@
+Constrained LQR problems in elliptic distributed control systems with point observations—convergence results
+Z. Ding;J. Zhou;
+Abstract
+In this paper constrained LQR problems in distributed control systems governed by the elliptic equation with point observations are studied. A variational inequality approach coupled with potential theory in a Banach space setting is adopted. First the admissible control set is extended to be bounded by two functions, and feedback characterization of the optimal control in terms of the optimal state is derived; then two numerical algorithms proposed in [5] are modified, and the strong convergence and uniform convergence in Banach space are proved. This verifies that the numerical algorithm is insensitive to the partition number of the boundary. Since our control variables are truncated below and above by two functions inL p and in our numerical computation only the layer density not the control variable is assumed to be piecewise smooth, uniform convergence guarantees a better convergence. Finally numerical computation for an example is carried out and confirms the analysis.
+Keywords
+LQR  Distributed boundary control  Point observation  Potential theory  Singularity decomposition  BEM  Variational inequality  Strong convergence  Uniform convergence  49N10  49J20  93C20  31A10  65N38  49J40  49J22  49M07  49M20  

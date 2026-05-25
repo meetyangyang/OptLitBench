@@ -1,0 +1,6 @@
+A modified predictor-corrector method for linear programming
+Zhi-Quan Luo;Shiquan Wu;
+Abstract
+In the predictor-corrector method of Mizuno, Todd and Ye [1], the duality gap is reduced only at the predictor step and is kept unchanged during the corrector step. In this paper, we modify the corrector step so that the duality gap is reduced by a constant fraction, while the predictor step remains unchanged. It is shown that this modified predictor-corrector method retains the\(O(\sqrt n L)\) iteration complexity as well as the local quadratic convergence property.
+Keywords
+linear programming  interior point algorithms  quadratic convergence  

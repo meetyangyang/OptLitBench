@@ -1,0 +1,6 @@
+A bump triangular dynamic factorization algorithm for the simplex method
+Richard D. McBride;
+Abstract
+A dynamic factorization algorithm is developed which algebraically partitions the basis inverse in such a manner so that the simplex method can be executed from a series of small inverses and the basis itself. This partition is maintained dynamically so that the additional memory required to represent the basis inverse reduces to this series of small inverses for in-core implementations.
+Keywords
+Linear Programming  Simplex Method  Large-scale Programming  Sparse Matrices  Triangular Factorization of the Basis  Partitioning Methods  

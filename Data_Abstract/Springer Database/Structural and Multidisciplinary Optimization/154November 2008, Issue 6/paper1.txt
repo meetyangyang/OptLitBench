@@ -1,0 +1,6 @@
+Sequential approximate optimization using dual subproblems based on incomplete series expansions
+Albert A. Groenwold;L. F. P. Etman;
+Abstract
+In this paper, dual formulations for nonlinear multipoint approximations with diagonal approximate Hessian matrices are proposed; these approximations for example derive from the incomplete series expansion (ISE) proposed previously. A salient feature of the ISE is that it may be used to formulate strictly convex and separable (recast) primal approximate subproblems for use in sequential approximate optimization (SAO). In turn, this allows for the formulation of highly efficient dual formulations, and different combinations of direct, reciprocal, and exponential intervening variables for the objective and the constraint functions may be used. Two frequently encountered problems in structural optimization, namely the weight minimization problem with sizing design variables and the minimum compliance topology optimization problem, are degenerate cases of the formulations we present. Computational experiments confirm the efficiency of our proposed methodology; to this end, comparative results for the method of moving asymptotes (MMA) are presented.
+Keywords
+Sequential approximate optimization (SAO)  Incomplete series expansion (ISE)  Structural optimization  Duality  

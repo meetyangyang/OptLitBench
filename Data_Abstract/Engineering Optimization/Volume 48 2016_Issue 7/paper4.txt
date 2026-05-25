@@ -1,0 +1,6 @@
+A sensitivity-based coordination method for optimization of product families
+Jun Zou;Wei-Xing Yao;Tian-Xiang Xia;
+Abstract
+This article provides an introduction to a decomposition-based method for the optimization of product families with predefined platforms. To improve the efficiency of the system coordinator, a new sensitivity-based coordination method (SCM) is proposed. The key idea in SCM is that the system level coordinates share variables by using sensitivity information to make trade-offs between the product subsystems. The coordinated shared variables are determined by minimizing the performance deviation with respect to the optimal design of subproblems and constraint violation incurred by sharing. Each subproblem has a significant degree of independence and can be solved in a simultaneous way. The numerical performance of SCM is investigated, and the results suggest that the new approach is robust and leads to a substantial reduction in computational effort compared with the analytical target cascading method. Then, the proposed methodology is applied to the structural optimization of a family of automotive body side-frames.
+Keywords
+product family optimization, decomposition-based method, sensitivity, system coordination, structural optimization 

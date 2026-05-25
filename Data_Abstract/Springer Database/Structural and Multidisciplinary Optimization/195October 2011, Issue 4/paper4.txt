@@ -1,0 +1,6 @@
+Eliminating beta-continuation from Heaviside projection and density filter algorithms
+James K. Guest;Alireza Asadpoure;Seung-Hyun Ha;
+Abstract
+Projection methods and density filters based on the Heaviside step function are an effective means for producing discrete (0–1) solutions in continuum topology optimization. They naturally impose a minimum length scale on designed features and thereby prevent numerical instabilities of checkerboards and mesh dependence, as well as provide the designer a tool to influence solution manufacturability. A drawback of the Heaviside approach is that a continuation method must be applied to the continuous approximation so as not to approach the step function too quickly. This is achieved by gradually increasing a curvature parameter known as β as the optimization progresses. This is not only inefficient, but also causes slight, artificial perturbations to the topology. This note offers simple modifications to optimizer algorithms and/or Heaviside formulation that allow this continuation method to be eliminated. The modifications are tested on minimum compliance and compliant inverter benchmark problems and are shown to be effective and efficient.
+Keywords
+Topology optimization  Projection methods  Filters  SIMP  Volume preservation  Continuation methods  

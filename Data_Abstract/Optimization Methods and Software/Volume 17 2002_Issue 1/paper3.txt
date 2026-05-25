@@ -1,0 +1,6 @@
+An Oracle Strongly Polynomial Algorithm for Bottleneck Expansion Problems
+ Jianzhong   Zhang ; Zhenhong   Liu ;
+Abstract
+ Let E = { e 1 , e 2 , , e n } be a finite set and $\cal F $ be a family of subsets of E . For each element e i in E , c i is a given capacity and w i is the cost of increasing capacity c i by one unit. The problem is how to expand the capacities of elements in E so that the capacity of $\cal F $ is as large as possible, subject to a given budget restriction. This problem was introduced in [1] where an algorithm was proposed which is polynomial under some conditions. However, that method is not strongly polynomial. In this paper this problem is solved by solving a combinatorial equation. It is shown that if the problem $ \min _{F\in {\cal F}}w(F) $ is solvable in strongly polynomial time, then the bottleneck expansion problem is also solvable in strongly polynomial time. This result is stronger than what the method in [1] gives. In addition, some interesting variations of this problem are also discussed. 
+Keywords
+Bottleneck Capacity, Capacity Expansion, Polynomially Solvable 

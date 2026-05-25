@@ -1,0 +1,6 @@
+Two hybrid nonlinear conjugate gradient methods based on a modified secant equation
+ Saman   Babaie-Kafaki ; Reza   Ghanbari ;
+Abstract
+ In order to take advantage of the attractive features of the Hestenes–Stiefel and Dai–Yuan conjugate gradient (CG) methods, we suggest two hybridizations of these methods based on Andrei's approach of hybridizing the CG parameters convexly and Powell's approach of nonnegative restriction of the CG parameters. The hybridization parameter in our methods is computed from a modified secant equation obtained based on the search direction of the Hager–Zhang nonlinear CG method. We show that if the line search fulfils the Wolfe conditions, then one of our methods is globally convergent for uniformly convex functions and the other is globally convergent for general functions. We report some numerical results demonstrating the efficiency of our methods in the sense of the performance profile introduced by Dolan and Moré. 
+Keywords
+unconstrained optimization, large-scale optimization, secant equation, conjugate gradient algorithm, global convergenceAMS Subject Classifications: 65K05, 90C53, 49M37 

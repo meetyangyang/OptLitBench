@@ -1,0 +1,6 @@
+Receding Horizon Control with Incomplete Observations
+Kazufumi  Ito and Karl  Kunisch;
+Abstract
+To overcome the difficulties related to the computational requirements for solving the optimality systems for optimal control problems on long time horizons, receding horizon techniques provide an important alternative. Rather than finding the optimal solution, a suboptimal control is obtained which achieves the design objective with significantly less computational effort. Moreover, the obtained control can be interpreted as a state feedback control. In this work we continue our analysis of receding horizon strategies, considering the situation when only partial state observations are available. The receding horizon strategy is combined with a state estimator framework. A linearquadratic Gaussian design based on a linearization procedure is proposed and its asymptotic performance is analyzed for systems with nonlinear dynamics. Numerical examples validate the proposed methodology.
+Keywords
+receding horizon control, incomplete observations, dynamic compensator, 49N35, 93C41, 

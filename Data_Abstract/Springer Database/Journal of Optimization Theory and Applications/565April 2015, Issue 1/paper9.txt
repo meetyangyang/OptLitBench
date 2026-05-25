@@ -1,0 +1,6 @@
+A Flexible Inexact-Restoration Method for Constrained Optimization
+L. F. Bueno;G. Haeser;J. M. Martínez;
+Abstract
+We introduce a new flexible inexact-restoration algorithm for constrained optimization problems. In inexact-restoration methods, each iteration has two phases. The first phase aims at improving feasibility and the second phase aims to minimize a suitable objective function. In the second phase, we also impose bounded deterioration of the feasibility, obtained in the first phase. Here, we combine the basic ideas of the Fischer-Friedlander approach for inexact-restoration with the use of approximations of the Lagrange multipliers. We present a new option to obtain a range of search directions in the optimization phase, and we employ the sharp Lagrangian as merit function. Furthermore, we introduce a flexible way to handle sufficient decrease requirements and an efficient way to deal with the penalty parameter. Global convergence of the new inexact-restoration method to KKT points is proved under weak constraint qualifications.
+Keywords
+Nonlinear programming  Inexact-restoration  Global convergence  Lagrange multipliers  90C30  49K99  65K05  

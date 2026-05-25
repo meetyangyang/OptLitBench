@@ -1,0 +1,8 @@
+A recursive algorithm for nonlinear least-squares problems
+A. Alessandri;M. Cuneo;S. Pagnan;M. Sanguineti;
+Abstract
+
+The solution of nonlinear least-squares problems is investigated. The asymptotic behavior is studied and conditions for convergence are derived. To deal with such problems in a recursive and efficient way, it is proposed an algorithm that is based on a modified extended Kalman filter (MEKF). The error of the MEKF algorithm is proved to be exponentially bounded. Batch and iterated versions of the algorithm are given, too. As an application, the algorithm is used to optimize the parameters in certain nonlinear input–output mappings. Simulation results on interpolation of real data and prediction of chaotic time series are shown.
+
+Keywords
+Nonlinear programming  Nonlinear least squares  Extended Kalman filter  Recursive optimization  Batch algorithms  

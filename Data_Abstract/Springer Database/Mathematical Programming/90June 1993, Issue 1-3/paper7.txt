@@ -1,0 +1,6 @@
+A polynomial-time simplex method for the maximumk-flow problem
+Donald K. Wagner;Hong Wan;
+Abstract
+A generalization of the maximum-flow problem is considered in which every unit of flow sent from the source to the sink yields a payoff of $k. In addition, the capacity of any arce can be increased at a per-unit cost of $c e . The problem is to determine how much arc capacity to purchase for each arc and how much flow to send so as to maximize the net profit. This problem can be modeled as a circulation problem. The main result of this paper is that this circulation problem can be solved by the network simplex method in at mostkmn pivots. Whenc e  = 1 for each arce, this yields a strongly polynomial-time simplex method. This result uses and extends a result of Goldfarb and Hao which states that the standard maximum-flow problem can be solved by the network simplex method in at mostmn pivots.
+Keywords
+Polynomial time  simplex method  maximum flow problem  

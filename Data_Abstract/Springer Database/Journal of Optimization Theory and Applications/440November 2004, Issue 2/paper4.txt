@@ -1,0 +1,6 @@
+Analytic Center Cutting-Plane Method with Deep Cuts for Semidefinite Feasibility Problems
+S. K. Chua;K. C. Toh;G. Y. Zhao;
+Abstract
+An analytic center cutting-plane method with deep cuts for semidefinite feasibility problems is presented. Our objective in these problems is to find a point in a nonempty bounded convex set Γ in the cone of symmetric positive-semidefinite matrices. The cutting plane method achieves this by the following iterative scheme. At each iteration, a query point Ŷ that is an approximate analytic center of the current working set is chosen. We assume that there exists an oracle which either confirms that Ŷ ∈Γ or returns a cut A ∈S m  {Y∈S m  : A●Y≤ A●YŶ - ξ} ⊃ Γ, where ξ ≥ 0. If Ŷ ∈Γ, an approximate analytic center of the new working set, defined by adding the new cut to the preceding working set, is then computed via a primal Newton procedure. Assuming that Γ contains a ball with radius ∈ > 0, the algorithm obtains eventually a point in Γ, with a worst-case complexity of O*(m3/∈2) on the total number of cuts generated.
+Keywords
+Analytic centers  cutting-plane methods  semidefinite feasibility problems  deep cuts  

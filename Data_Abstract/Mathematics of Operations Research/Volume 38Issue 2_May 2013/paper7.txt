@@ -1,0 +1,6 @@
+Zero-Variance Importance Sampling Estimators for Markov Process Expectations
+Hernan P. Awad;Peter W. Glynn;Reuven Y. Rubinstein;
+Abstract
+We consider the use of importance sampling to compute expectations of functionals of Markov processes. For a class of expectations that can be characterized as positive solutions to a linear system, we show there exists an importance measure that preserves the Markovian nature of the underlying process, and for which a zero-variance estimator can be constructed. The class of expectations considered includes expected infinite horizon discounted rewards as a particular case. In this setting, the zero-variance estimator and associated importance measure can exhibit behavior that is not observed when estimating simpler path functionals (like exit probabilities). The zero-variance estimators are not implementable in practice, but their characterization can guide the design of a good importance measure and associated estimator by trying to approximate the zero-variance ones. We present bounds on the mean-square error of such an approximate zero-variance estimator, based on Lyapunov inequalities.
+Keywords
+importance sampling Markov process simulation 

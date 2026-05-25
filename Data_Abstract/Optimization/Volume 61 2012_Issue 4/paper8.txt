@@ -1,0 +1,6 @@
+Optimum smoothing parameter selection for penalized least squares in form of linear mixed effect models
+ Dursun   Aydın ; Memmedağa   Memmedli ;
+Abstract
+ In this article, we discuss the penalized least squares problem which has many advantageous computational properties. This method based on penalized spline (P-spline) smoothing can be formulated to fit into a linear mixed effects model framework. The most important issue in the implementation of this method is to specify the amount of smoothing. In an attempt to address the strategy of optimum amount of smoothing, this article provides a comparative study for different methods (or criteria) of choosing the optimum smoothing parameter: an improved version of the Akaike information criterion (AICc); generalized cross-validation (GCV); cross-validation (CV); Mallows’ C p criterion; risk estimation using classical pilots (RECP) and restricted maximum likelihood (REML). In order to explore and compare the performance of these methods, a simulation study is performed for data sets with different sample sizes. As a result of simulation, the appropriate selection criteria are provided for a suitable smoothing parameter selection. 
+Keywords
+mixed effect model, penalized spline, smoothing parameter, cross-validation, generalized cross-validation 

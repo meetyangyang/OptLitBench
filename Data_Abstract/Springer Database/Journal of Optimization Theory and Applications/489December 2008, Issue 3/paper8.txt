@@ -1,0 +1,6 @@
+A Fast MPC Algorithm Using Nonfeasible Active Set Methods
+R. Milman;E. J. Davison;
+Abstract
+Model predictive control (MPC) is an optimization-based control framework which is attractive to industry both because it can be practically implemented and it can deal with constraints directly. One of the main drawbacks of MPC is that large MPC horizon times can cause requirements of excessive computational time to solve the quadratic programming (QP) minimization which occurs in the calculation of the controller at each sampling interval. This motivates the study of finding faster ways for computing the QP problem associated with MPC. In this paper, a new nonfeasible active set method is proposed for solving the QP optimization problem that occurs in MPC. This method has the feature that it is typically an order of magnitude faster than traditional methods.
+Keywords
+Model predictive control  Quadratic programming  Active set methods  Nonfeasible methods  

@@ -1,0 +1,6 @@
+Least Squares Temporal Difference Methods: An Analysis under General Conditions
+Huizhen  Yu;
+Abstract
+We consider approximate policy evaluation for finite state and action Markov decision processes (MDP) with the least squares temporal difference (LSTD) algorithm, LSTD($\lambda$), in an exploration-enhanced learning context, where policy costs are computed from observations of a Markov chain different from the one corresponding to the policy under evaluation. We establish for the discounted cost criterion that LSTD($\lambda$) converges almost surely under mild, minimal conditions. We also analyze other properties of the iterates involved in the algorithm, including convergence in mean and boundedness. Our analysis draws on theories of both finite space Markov chains and weak Feller Markov chains on a topological space. Our results can be applied to other temporal difference algorithms and MDP models. As examples, we give a convergence analysis of a TD($\lambda$) algorithm and extensions to MDP with compact state and action spaces, as well as a convergence proof of a new LSTD algorithm with state-dependent $\lambda$-parameters.
+Keywords
+Markov decision processes, approximate dynamic programming, temporal difference methods, importance sampling, Markov chains, 90C40, 90C39, 65C05, 

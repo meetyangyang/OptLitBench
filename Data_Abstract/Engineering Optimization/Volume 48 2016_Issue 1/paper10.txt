@@ -1,0 +1,6 @@
+Minimizing the makespan for the two-machine scheduling problem with a single server: Two algorithms for very large instances
+Keramat Hasani;Svetlana A. Kravchenko;Frank Werner;
+Abstract
+This article considers the problem of scheduling a given set of n jobs on two identical parallel machines with a single server. Each job must be processed on one of the machines. Before processing, the server has to set up the relevant machine. The objective is to minimize the makespan. For this unary NP-hard problem, two fast constructive algorithms with a complexity of O(n2) are presented. The performance of these algorithms is evaluated for instances with up to 10,000 jobs. Computational results indicate that the algorithms have an excellent performance for very large instances so that the obtained objective function values are very close to a lower bound, and in many cases even an optimal solution is achieved. Superiority over all existing algorithms is obtained by sequencing the jobs on the two machines so that the machine idle time and the server waiting time are minimized. In doing so, the characteristics of an optimal solution resulting from its relevant lower bound are taken into account.
+Keywords
+scheduling, parallel machines, single server, lower bound, machine idle time, server waiting time 

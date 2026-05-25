@@ -1,0 +1,6 @@
+On the Performance of Karmarkar’s Algorithm over a Sequence of Iterations
+Kurt M.  Anstreicher;
+Abstract
+Karmarkar’s projective algorithm for linear programming is considered with real arithmetic and exact linesearch of the potential function. It is shown that for every $n\geqq  3$ there is a linear program, with n variables, such that the algorithm obtains a potential reduction of about 1.3 on each iteration. For the same problems the algorithm requires $\Theta (\ln (n/\varepsilon ))$ iterations to reduce the objective gap to a factor $\varepsilon $ of its initial value. It is thus proved that in the worst case the convergence of Karmarkar’s algorithm, with exact linesearch, cannot be independent of n, and moreover, potential reduction may be a poor indicator of algorithm performance.
+Keywords
+linear programming, Karmarkar’s algorithm, potential function, 90C05, 

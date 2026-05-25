@@ -1,0 +1,6 @@
+Worst case complexity of direct search under convexity
+M. Dodangeh;L. N. Vicente;
+Abstract
+In this paper we prove that the broad class of direct-search methods of directional type, based on imposing sufficient decrease to accept new iterates, exhibits the same worst case complexity bound and global rate of the gradient method for the unconstrained minimization of a convex and smooth function. More precisely, it will be shown that the number of iterations needed to reduce the norm of the gradient of the objective function below a certain threshold is at most proportional to the inverse of the threshold. It will be also shown that the absolute error in the function values decay at a sublinear rate proportional to the inverse of the iteration counter. In addition, we prove that the sequence of absolute errors of function values and iterates converges r-linearly in the strongly convex case.
+Keywords
+Derivative-free optimization  Direct search  Worst case complexity  Global rate  Sufficient decrease  Convexity  90C56  90C25  90C30  

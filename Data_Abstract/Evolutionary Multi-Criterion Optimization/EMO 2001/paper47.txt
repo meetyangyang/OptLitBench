@@ -1,0 +1,4 @@
+Multi-objective Evolutionary Design of Fuzzy Autopilot Controller
+Anna L. Blumel;Evan J. Hughes;Brian A. White;
+Abstract
+A multi-objective evolutionary algorithm is used to determine the membership function distribution within the outer loop control system of a non-linear missile autopilot using lateral acceleration control. This produces a design that meets objectives related to closed loop performance such as: steady state error, overshoot, settling and rising time. The evolutionary algorithm uses non-dominated sorting for forming a Pareto front of possible solutions. This paper shows that fuzzy controllers can be produced for engineering problems, with the multi-objective algorithm allowing the designer the freedom to choose solutions and investigate the properties of very complex systems.

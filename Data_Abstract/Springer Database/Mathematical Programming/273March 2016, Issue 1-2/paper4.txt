@@ -1,0 +1,6 @@
+Error bounds for mixed integer linear optimization problems
+Oliver Stein;
+Abstract
+We introduce computable a priori and a posteriori error bounds for optimality and feasibility of a point generated as the rounding of an optimal point of the LP relaxation of a mixed integer linear optimization problem. Treating the mesh size of integer vectors as a parameter allows us to study the effect of different “granularities” in the discrete variables on the error bounds. Our analysis mainly bases on a global error bound for mixed integer linear problems constructed via a so-called grid relaxation retract. Relations to proximity results, the integer rounding property, and binary analytic problems are highlighted.
+Keywords
+Global error bound  Rounding  Grid relaxation retract  Granularity  Hoffman constant  90C11  90C10  90C31  90C05  

@@ -1,0 +1,6 @@
+Implementation of interior point methods for mixed semidefinite and second order cone optimization problems
+ Jos F.   Sturm ;
+Abstract
+ There is a large number of design choices to be made in the implementation of the primal-dual interior point method for mixed semidefinite and second order cone optimization. This article presents such issues in a unified framework whenever possible. However, semidefinite and second order cone components are sometimes treated separately to highlight the differences that are necessary for efficient implementations. While this article provides a comparison of choices made by different research groups, it is also the first article to provide an elaborate discussion of the implementation in SeDuMi. 
+Keywords
+Semidefinite Programming, Second Order Cone Programming, Linear Programming, Interior Point Method, Optimization 

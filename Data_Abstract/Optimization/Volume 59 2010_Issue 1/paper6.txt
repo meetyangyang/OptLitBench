@@ -1,0 +1,6 @@
+Methods for optimizing over the efficient and weakly efficient sets of an affine fractional vector optimization program
+ Le Thi Hoai   An ; Pham Dinh   Tao ; Nguyen Canh   Nam ; Le Dung   Muu ;
+Abstract
+ Both the efficient and weakly efficient sets of an affine fractional vector optimization problem, in general, are neither convex nor given explicitly. Optimization problems over one of these sets are thus nonconvex. We propose two methods for optimizing a real-valued function over the efficient and weakly efficient sets of an affine fractional vector optimization problem. The first method is a local one. By using a regularization function, we reformulate the problem into a standard smooth mathematical programming problem that allows applying available methods for smooth programming. In case the objective function is linear, we have investigated a global algorithm based upon a branch-and-bound procedure. The algorithm uses Lagrangian bound coupling with a simplicial bisection in the criteria space. Preliminary computational results show that the global algorithm is promising. 
+Keywords
+affine fractional, pareto efficiency, optimization over the efficient set, branch-and-bound, Lagrange bound, simplicial bisectionAMS Subject Classifications: 65K10, 90C25 

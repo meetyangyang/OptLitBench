@@ -1,0 +1,6 @@
+Differentiating through conjugate gradient
+Bruce Christianson;
+Abstract
+We show that, although the conjugate gradient (CG) algorithm has a singularity at the solution, it is possible to differentiate forward through the algorithm automatically by re-declaring all the variables as truncated Taylor series, the type of active variable widely used in automatic differentiation (AD) tools such as ADOL-C. If exact arithmetic is used, this approach gives a complete sequence of correct directional derivatives of the solution, to arbitrary order, in a single cycle of at most n iterations, where n is the number of dimensions. In the inexact case, the approach emphasizes the need for a means by which the programmer can communicate certain conditions involving derivative values directly to an AD tool.
+Keywords
+Automatic differentiation, Taylor series, conjugate gradient 

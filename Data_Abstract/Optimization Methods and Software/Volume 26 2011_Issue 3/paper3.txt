@@ -1,0 +1,6 @@
+Cases of ineffectiveness of geometric cuts in sequential projection methods
+ Paweł   Białoń ;
+Abstract
+ We show cases where geometric cuts, even cumulated, can be ineffective in accelerating sequential projection methods for feasibility problems in finite-dimensional spaces. Such cases are well-known in infinite- (or very-many-) dimensional spaces. There we can construct counterexamples in which the convergence of a sequential projection algorithm is very slow, merely laying at the bound induced by the Fejér contraction property, and introducing geometric cuts does not help. These counterexamples are very simple: the algorithm starts at the zero point, each step consist in moving by a new axis versor. In this paper, we construct a corresponding counterexample in a (essentially) finite-dimensional space, showing that the the possibility of ineffectiveness of geometric cuts is not connected with the space dimensionality but rather is a property of geometric cuts themselves. Our counterexample is rather complex, the constructed algorithm trajectory has a fractal nature. 
+Keywords
+projection methods, geometric cuts, zigzagging AMS Subject Classification : 49M99, 90C25 

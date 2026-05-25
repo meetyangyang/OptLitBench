@@ -1,0 +1,6 @@
+A globally convergent LP-Newton method for piecewise smooth constrained equations: escaping nonstationary accumulation points
+A. Fischer;M. Herrich;A. F. Izmailov;W. Scheck;M. V. Solodov;
+Abstract
+The LP-Newton method for constrained equations, introduced some years ago, has powerful properties of local superlinear convergence, covering both possibly nonisolated solutions and possibly nonsmooth equation mappings. A related globally convergent algorithm, based on the LP-Newton subproblems and linesearch for the equation’s infinity norm residual, has recently been developed. In the case of smooth equations, global convergence of this algorithm to B-stationary points of the residual over the constraint set has been shown, which is a natural result: nothing better should generally be expected in variational settings. However, for the piecewise smooth case only a property weaker than B-stationarity could be guaranteed. In this paper, we develop a procedure for piecewise smooth equations that avoids undesirable accumulation points, thus achieving the intended property of B-stationarity.
+Keywords
+Constrained equation  Piecewise smooth equation  LP-Newton method  Global convergence  Quadratic convergence  90C33  91A10  49M05  49M15  

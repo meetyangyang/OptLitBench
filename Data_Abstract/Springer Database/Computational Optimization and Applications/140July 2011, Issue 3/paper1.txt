@@ -1,0 +1,6 @@
+A framework for analyzing sub-optimal performance of local search algorithms
+Alexander G. Nikolaev;Sheldon H. Jacobson;Shane N. Hall;Darrall Henderson;
+Abstract
+This paper presents a framework for analyzing and comparing sub-optimal performance of local search algorithms for hard discrete optimization problems. The β-acceptable solution probability is introduced that captures how effectively an algorithm has performed to date and how effectively an algorithm can be expected to perform in the future. Using this probability, the necessary conditions for a local search algorithm to converge in probability to β-acceptable solutions are derived. To evaluate and compare the effectiveness of local search algorithms, two estimators for the expected number of iterations to visit a β-acceptable solution are obtained. Computational experiments are reported with simulated annealing and tabu search applied to four small traveling salesman problem instances, and the Lin-Kernighan-Helsgaun algorithm applied to eight medium to large traveling salesman problem instances (all with known optimal solutions), to illustrate the application of these estimators.
+Keywords
+Discrete optimization  Convergence  Heuristics  Local search  Finite-time performance  Simulated annealing  Tabu search  Lin-Kernighan-Helsgaun algorithm  Traveling salesman problem  

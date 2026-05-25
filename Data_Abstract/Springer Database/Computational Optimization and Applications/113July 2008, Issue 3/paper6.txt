@@ -1,0 +1,8 @@
+Outdoor WLAN planning via non-monotone derivative-free optimization: algorithm adaptation and case study
+Francisco J. González-Castaño;Enrique Costa-Montenegro;Juan C. Burguillo-Rial;Ubaldo García-Palomares;
+Abstract
+
+In this paper, we study the application of non-monotone derivative-free optimization algorithms to wireless local area networks (WLAN) planning, which can be modeled as an unconstrained minimization problem. We wish to determine the access point (AP) positions that maximize coverage in order to provide connectivity to static and mobile users. As the objective function of the optimization model is not everywhere differentiable, previous research has discarded gradient methods and employed heuristics such as neighborhood search (NS) and simulated annealing (SA). In this paper, we show that the model fulfills the conditions required by recently proposed non-monotone derivative-free (DF) algorithms. Unlike SA, DF has guaranteed convergence. The numerical tests reveal that a tailored DF implementation (termed “zone search”) outperforms NS and SA.
+
+Keywords
+Derivative-free optimization  Network planning  

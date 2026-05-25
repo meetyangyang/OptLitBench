@@ -1,0 +1,6 @@
+Maximizing Classes of Two-Parameter Objectives Over Matroids
+R. Hassin;A. Tamir;
+Abstract
+Let M = (N, ℱ) be a matroid. Suppose that each element i in N is associated with an ordered pair of rational numbers (ai, bi). For each subset S in ℱ define A(S) = ∑i∈Sai and B(S) = ∑i∈Sbi. Let g be a real convex function defined on R2. Consider the problem of maximizing g(A(S), B(S)) over all bases S of M. We present a polynomial algorithm for this problem when g is a general polynomial. This algorithm is strongly polynomial when the degree of g is at most cubic. Using the latter result we apply appropriate transformations to obtain strongly polynomial algorithms for some cases when g is not polynomial. In particular, we find in strongly polynomial time the minimal cost reliability ratio spanning tree of an undirected graph.
+Keywords
+matroids strongly polynomial algorithms 

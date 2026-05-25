@@ -1,0 +1,6 @@
+Direct training method for a continuous-time nonlinear optimal feedback controller
+N. J. Edwards;C. J. Goh;
+Abstract
+The solutions of most nonlinear optimal control problems are given in the form of open-loop optimal control which is computed from a given fixed initial condition. Optimal feedback control can in principle be obtained by solving the corresponding Hamilton-Jacobi-Bellman dynamic programming equation, though in general this is a difficult task. We propose a practical and effective alternative for constructing an approximate optimal feedback controller in the form of a feedforward neural network, and we justify this choice by several reasons. The controller is capable of approximately minimizing an arbitrary performance index for a nonlinear dynamical system for initial conditions arising from a nontrivial bounded subset of the state space. A direct training algorithm is proposed and several illustrative examples are given.
+Keywords
+Optimal control  nonlinear feedback control  feedforward neural networks  

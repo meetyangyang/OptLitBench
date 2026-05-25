@@ -1,0 +1,6 @@
+An interior-point method for fractional programs with convex constraints
+Roland W. Freund;Florian Jarre;
+Abstract
+We present an interior-point method for a class of fractional programs with convex constraints. The proposed algorithm converges at a polynomial rate, similarly as in the case of a convex problem, even though fractional programs are only pseudo-convex. Here, the rate of convergence is measured in terms of the area of two-dimensional convex setsCk containing the origin and certain projections of the optimal points, and the area ofCk is reduced by a constant factorc < 1 at each iteration. The factorc depends only on the self-concordance parameter of a barrier function associated with the feasible set. We present an outline of a practical implementation of the proposed method, and we report results of some preliminary numerical experiments.
+Keywords
+Interior-point method  Fractional programs  Convex constraints  Polynomial-rate convergence  

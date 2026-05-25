@@ -1,0 +1,6 @@
+A multicast problem with shared risk cost
+Zhe Liang;Wanpracha Art Chaovalitwongse;
+Abstract
+In this paper, we study a minimum cost multicast problem on a network with shared risk link groups (SRLGs). Each SRLG contains a set of arcs with a common risk, and there is a cost associated with it. The objective of the problem is to find a multicast tree from the source to a set of destinations with minimum transmission cost and risk cost. We present a basic model for the multicast problem with shared risk cost (MCSR) based on the well-known multicommodity flow formulation for the Steiner tree problem (Goemans and Myung in Networks 1:19–28, 1993; Polzin and Daneshmand in Discrete Applied Mathematics 112(1–3): 241–261, 2001). We propose a set of strong valid inequalities to tighten the linear relaxation of the basic model. We also present a mathematical model for undirected MCSR. The computational results of real life test instances demonstrate that the new valid inequalities significantly improve the linear relaxation bounds of the basic model, and reduce the total computation time by half in average.
+Keywords
+Telecommunication  Routing  Multicast  Mixed integer program  Valid inequalities  

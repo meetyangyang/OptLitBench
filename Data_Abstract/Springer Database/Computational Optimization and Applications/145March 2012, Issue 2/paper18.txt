@@ -1,0 +1,6 @@
+Boundary concentrated finite elements for optimal boundary control problems of elliptic PDEs
+Sven Beuchler;Clemens Pechstein;Daniel Wachsmuth;
+Abstract
+We investigate the discretization of optimal boundary control problems for elliptic equations on two-dimensional polygonal domains by the boundary concentrated finite element method. We prove that the discretization error \(\|u^{*}-u_{h}^{*}\|_{L^{2}(\Gamma)}\) decreases like N −1, where N is the total number of unknowns. This makes the proposed method favorable in comparison to the h-version of the finite element method, where the discretization error behaves like N −3/4 for uniform meshes. Moreover, we present an algorithm that solves the discretized problem in almost optimal complexity. The paper is complemented with numerical results.
+Keywords
+Optimal boundary control  Boundary concentrated finite element method  Discretization error estimates  

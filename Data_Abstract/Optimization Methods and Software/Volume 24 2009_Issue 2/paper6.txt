@@ -1,0 +1,6 @@
+A minima tracking variant of semi-infinite programming for the treatment of path constraints within direct solution of optimal control problems
+ Andreas   Potschka ; Hans   Georg   Bock ; Johannes   P.   Schlöder ;
+Abstract
+ We present an extension of the direct multiple shooting method for the solution of optimal control problems with path constraints. The extension allows for fully automatic and accurate treatment of path constraints in case of relatively coarse discretizations of the control while maintaining a prescribed resolution of the system dynamics. It is based on a reduction principle from classical theory of semi-infinite programming. On the basis of these theoretical foundations the minima tracking algorithm is designed. We theoretically and numerically compare this method with a sampling technique. The numerical test case is a well-known, difficult space shuttle reentry benchmark problem. 
+Keywords
+optimal control, path constraints, semi-infinite, local reduction, direct multiple shooting AMS Subject Classification : 49J15, 65K05, 78M50, 90C34 

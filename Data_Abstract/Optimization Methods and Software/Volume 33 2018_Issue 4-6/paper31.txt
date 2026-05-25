@@ -1,0 +1,6 @@
+SIMPLE adjoint message passing
+M. Towara;U. Naumann;
+Abstract
+In the context of numerical simulation a system of partial differential equations is typically solved by discretizing it into a set of linear equations. The non-linear effects in the solution are then approximated by repeatedly discretizing, solving and correcting the equations using some outer iteration scheme. One example for such a scheme is the SIMPLE algorithm. In this paper, we show how we obtained an algorithmic adjoint version of the SIMPLE algorithm in OpenFOAM with particular focus on the adjoint message passing interface communication inside the linear solvers. Due to the sparse matrix storage and specifics of the implementation of the linear solvers, this method requires special attention to the inner workings of said structures and algorithms. We show the feasibility of the chosen method by presenting two case studies. In addition to the SIMPLE algorithm, the presented ideas are applicable to a wide range of algorithms whenever linear systems are embedded into an overlying non-linear context.
+Keywords
+adjoints, algorithmic differentiation, CFD, MPIAMS Subject Classification: 65K, 65N, 76G 

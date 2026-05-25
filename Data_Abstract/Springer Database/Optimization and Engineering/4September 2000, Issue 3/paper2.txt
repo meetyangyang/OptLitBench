@@ -1,0 +1,6 @@
+Numerical Methods for Accurate Computation of Design Sensitivities for Two-Dimensional Navier-Stokes Problems
+Dawn L. Stewart;
+Abstract
+Gradient computations can be a limiting factor in algorithm efficiency and accuracy for optimization based design. In this paper, we present three parameterized flow problems and consider the evaluation of state sensitivities both theoretically and numerically. Existence and uniqueness results are given for the sensitivities of a specific group of two-dimensional Navier-Stokes problems. We then turn our attention to obtaining numerical approximations to state sensitivities. We show convergence of our numerical sensitivities using a problem having an exact solution. Next, two problems, flow around a cylinder and flow over a bump, are used to evaluate several computational schemes. In particular, a local projection scheme for improved state derivative approximations and the use of an adaptive finite element scheme are shown to be important techniques for obtaining accurate sensitivity approximations. Lastly, we evaluate the impact of these computational techniques on cost function and gradient calculation.
+Keywords
+fluid flow  finite element method  Navier-Stokes  partial differential equations  projections  design sensitivity analysis  

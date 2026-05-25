@@ -1,0 +1,6 @@
+The Instability of Optimal Control Problems to Time Delay
+Alexey S.  Matveev;
+Abstract
+This paper considers a general optimal control problem with a small time delay $\Delta$ in both the state and control. The objective is to find a correct way to neglect the delay or, in other words, to construct a well-posed instantaneous approximation of the delayed problem. The natural way to do so is by merely ignoring the delay in the model. It is shown that this way is almost always incorrect: it gives rise to an error that does not vanish as $\Delta \to +0$, and so results in an ill-posed model. A proper approximation of the delayed problem is offered.
+Keywords
+optimal control, time delay, stability, well-posedness, 49K40, 49K45, 49K25, 

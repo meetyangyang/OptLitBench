@@ -1,0 +1,6 @@
+An active index algorithm for the nearest point problem in a polyhedral cone
+Zhe Liu;Yahya Fathi;
+Abstract
+We consider the problem of finding the nearest point in a polyhedral cone C={x∈R  n :D x≤0} to a given point b∈R  n , where D∈R m×n. This problem can be formulated as a convex quadratic programming problem with special structure. We study the structure of this problem and its relationship with the nearest point problem in a pos cone through the concept of polar cones. We then use this relationship to design an efficient algorithm for solving the problem, and carry out computational experiments to evaluate its effectiveness. Our computational results show that our proposed algorithm is more efficient than other existing algorithms for solving this problem.
+Keywords
+Quadratic programming  Pos cone  Projection face  Active constraint  

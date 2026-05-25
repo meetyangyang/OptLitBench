@@ -1,0 +1,6 @@
+Large scale portfolio optimization with piecewise linear transaction costs
+ Marina   Potaptchik ; Levent   Tunçel ; Henry   Wolkowicz ;
+Abstract
+ We consider the fundamental problem of computing an optimal portfolio based on a quadratic mean-variance model for the objective function and a given polyhedral representation of the constraints. The main departure from the classical quadratic programming formulation is the inclusion in the objective function of piecewise linear, separable functions representing the transaction costs. We handle the non-smoothness in the objective function by using spline approximations. The problem is first solved approximately using a primal-dual interior-point method applied to the smoothed problem. Then, we crossover to an active set method applied to the original non-smooth problem to attain a high accuracy solution. Our numerical tests show that we can solve large scale problems efficiently and accurately. 
+Keywords
+portfolio optimization, quadratic programming, piecewise differentiable functions, separable problems AMS Subject Classifications : 91B28, 62P05, 90C31, 90C20, 90C51 

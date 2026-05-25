@@ -1,0 +1,6 @@
+On the consistency of adjoint sensitivity analysis for structural optimization of linear dynamic problems
+Jakob S. Jensen;Praveen B. Nakshatrala;Daniel A. Tortorelli;
+Abstract
+Gradient-based topology optimization typically involves thousands or millions of design variables. This makes efficient sensitivity analysis essential and for this the adjoint variable method (AVM) is indispensable. For transient problems it has been observed that the traditional AVM, based on a differentiate-then-discretize approach, may lead to inconsistent sensitivities. Herein this effect is explicitly demonstrated for a single dof system and the source of inconsistency is identified. Additionally, we outline an alternative discretize-then-differentiate AVM that inherently produces consistent sensitivities.
+Keywords
+Topology optimization  Numerical time integration  Adjoint sensitivity analysis  

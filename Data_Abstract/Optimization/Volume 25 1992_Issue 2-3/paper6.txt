@@ -1,0 +1,6 @@
+Solving nonlinear programming problems with very many constraints
+   K.   Schittkowski ;
+Abstract
+ For solving the smooth constrained nonlinear programming problem, sequential quadratic programming (SQP) methods are considered to be the standard tool, as long as they are applicable. However one possible situation preventing the successful solution by a standard SQP-technique, arises if problems with a very large number of constraints are to be solved. Typical applications are semi-infinite or min-max optimization, optimal control or mechanical structural optimization. The proposed technique proceeds from a user defined number of linearized constraints, that is to be used internally to determine the size of the quadratic programming subproblem. Significant constraints are then selected automatically by the algorithm. Details of the numerical implementation and some experimental results are presented  
+Keywords
+SQP-Techniques, Semi-Infinite Optimization, Min-Max Optimization, Optimal Control, Mechanical Structural Optimization 

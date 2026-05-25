@@ -1,0 +1,6 @@
+The Multiple Subset Sum Problem
+Alberto  Caprara, Hans  Kellerer, and Ulrich  Pferschy;
+Abstract
+In the {\em multiple subset sum problem} (MSSP) items from a given ground set are selected and packed into a given number of identical bins such that the sum of the item weights in every bin does not exceed the bin capacity and the total sum of the weights of the items packed is as large as possible.This problem is a relevant special case of the multiple knapsack problem, for which the existence of a  polynomial-time approximation scheme (PTAS) is an important open question in the field of knapsack problems. One main result of the present paper is the construction of a PTAS for MSSP.For the bottleneck case of the problem, where the minimum total weight contained in any bin is to be maximized, we describe a 2/3-approximation algorithm and show that this is the best possible approximation ratio. Moreover, PTASs are derived for the special cases in which either the number of bins or the number of different item weights is constant.We finally show that, even for the case of only two bins, no fully PTAS exists for both versions of the problem.
+Keywords
+multiple subset sum problem, approximation scheme, knapsack problem, 90C27, 90C10, 90C59, 

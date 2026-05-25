@@ -1,0 +1,6 @@
+Multifidelity surrogate modeling based on radial basis functions
+Cédric Durantin;Justin Rouxel;Jean-Antoine Désidéri;Alain Glière;
+Abstract
+Multiple models of a physical phenomenon are sometimes available with different levels of approximation. The high fidelity model is more computationally demanding than the coarse approximation. In this context, including information from the lower fidelity model to build a surrogate model is desirable. Here, the study focuses on the design of a miniaturized photoacoustic gas sensor which involves two numerical models. First, a multifidelity metamodeling method based on Radial Basis Function, the co-RBF, is proposed. This surrogate model is compared with the classical co-kriging method on two analytical benchmarks and on the photoacoustic gas sensor. Then an extension to the multifidelity framework of an already existing RBF-based optimization algorithm is applied to optimize the sensor efficiency. The co-RBF method does not bring better results than co-kriging but can be considered as an alternative for multifidelity metamodeling.
+Keywords
+Metamodel  RBF  Multifidelity codes  Co-RBF  Optimization  

@@ -1,0 +1,6 @@
+A class of unconstrained minimization methods for neural network training
+   L.   Grippo ;
+Abstract
+ In this paper the problem of neural network training is formulated as the unconstrained minimization of a sum of differentiate error terms on the output space. For problems of this form we consider solution algorithms of the backpropagation-type, where the gradient evaluation is split into different steps, and we state sufficient convergence conditions that exploit the special structure of the objective function. Then we define a globally convergent algorithm that uses the knowledge of the overall error function for the computation of the learning rates. Potential advantages and possible shortcomings of this approach, in comparison with alternative approaches are discussed. 
+Keywords
+Neural networks, training algorithms, unconstrained minimization 

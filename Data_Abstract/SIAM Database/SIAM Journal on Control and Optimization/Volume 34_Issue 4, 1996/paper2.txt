@@ -1,0 +1,6 @@
+Copositivity and the Minimization of Quadratic Functions with Nonnegativity and Quadratic Equality Constraints
+J. C.  Preisig;
+Abstract
+The problem of finding the minimum value of a quadratic function on a set defined by nonnegativity and quadratic equality constraints is analyzed. The difficulty in finding the solution to this problem is primarily due to the fact that the feasible region is nonconvex. An algorithm that requires the Hessian of the quadratic constraint function be strictly copositive is developed for finding the minimal value of the quadratic objective function. The problem of finding this global minima can be mapped into the problem of determining whether or not a particular matrix is copositive. This result is equivalent to earlier results characterizing the solutions to a large class of fractional programming problems. A more efficient algorithm for finding solutions that satisfy the Kuhn–Tucker necessary conditions is developed, and its convergence behavior is analyzed. This algorithm requires that the Hessians of the quadratic constraint and objective functions be both positive semidefinite and strictly copositive.
+Keywords
+copositivity, fractional programming, nonlinear programming, 90C30, 90C32, 90C90, 

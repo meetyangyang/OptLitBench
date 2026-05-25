@@ -1,0 +1,6 @@
+Efficient use of parallelism in algorithmic parameter optimization applications
+C. Audet;C.-K. Dang;D. Orban;
+Abstract
+In the context of algorithmic parameter optimization, there is much room for efficient usage of computational resources. We consider the Opal framework in which a nonsmooth optimization problem models the parameter identification task, and is solved by a mesh adaptive direct search solver. Each evaluation of trial parameters requires the processing of a potentially large number of independent tasks. We describe and evaluate several strategies for using parallelism in this setting. Our test scenario consists in optimizing five parameters of a trust-region method for smooth unconstrained minimization.
+Keywords
+Algorithmic parameter optimization  Direct search  Parallelism  

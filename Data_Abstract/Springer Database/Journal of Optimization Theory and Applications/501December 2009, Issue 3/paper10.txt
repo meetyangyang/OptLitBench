@@ -1,0 +1,8 @@
+Uniformly Controllable Schemes for the Wave Equation on the Unit Square
+M. Asch;A. Münch;
+Abstract
+The paper deals with the numerical approximation of the HUM control of the 2D wave equation. Most of the discrete models obtained with classical finite difference or finite element methods do not produce convergent sequences of discrete controls, as the mesh size h and the time step Δt go to zero. We introduce a family of fully-discrete schemes, nondispersive, stable under the condition 
+\(\Delta t\leq h\slash\sqrt{2}\) 
+and uniformly controllable with respect to h and Δt. These implicit schemes differ from the usual explicit one (obtained with leapfrog time approximation and five point spatial approximations) by the addition of terms proportional to h 2 and Δt 2. Numerical experiments for nonsmooth initial conditions on the unit square using a conjugate gradient algorithm indicate the excellent performance of the schemes.
+Keywords
+Uniformly exact controllability  2D wave equation  Numerical approximation  

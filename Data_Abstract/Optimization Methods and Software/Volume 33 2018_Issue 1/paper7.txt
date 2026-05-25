@@ -1,0 +1,6 @@
+Proximal extrapolated gradient methods for variational inequalities
+Yu Malitsky;
+Abstract
+The paper concerns with novel first-order methods for monotone variational inequalities. They use a very simple linesearch procedure that takes into account a local information of the operator. Also, the methods do not require Lipschitz continuity of the operator and the linesearch procedure uses only values of the operator. Moreover, when the operator is affine our linesearch becomes very simple, namely, it needs only simple vector–vector operations. For all our methods, we establish the ergodic convergence rate. In addition, we modify one of the proposed methods for the case of a composite minimization. Preliminary results from numerical experiments are quite promising.
+Keywords
+variational inequality, monotone operator, linesearch, nonmonotone stepsizes, proximal methods, convex optimization, ergodic convergenceAMS Subject Classification: 47J20, 65K10, 65K15, 65Y20, 90C33 

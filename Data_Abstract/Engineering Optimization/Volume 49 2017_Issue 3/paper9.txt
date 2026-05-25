@@ -1,0 +1,6 @@
+Single-machine earliness–tardiness scheduling with two competing agents and idle time
+Fardin Ahmadizar;Jafar Eteghadipour;
+Abstract
+Two-agent scheduling has gained a lot of research attention recently. Two competing agents who have their own objective functions have to perform their respective set of jobs on one or more shared machines. This study considers a two-agent single-machine earliness and tardiness scheduling problem where jobs have distinct due dates and unforced idleness in between any two consecutive jobs is allowed. The objective is to minimize the total earliness and tardiness of jobs from one agent given that the maximum earliness–tardiness of jobs from the other agent cannot exceed an upper bound. In other words, each job from the second agent has a hard due window, whereas each job from the first agent will incur a penalty if completed either before or after its due date. Two mathematical models of the problem are presented, and several necessary optimality conditions are derived. By exploiting the established dominance properties, heuristic algorithms are developed for the problem. Finally, computational experiments are conducted to assess the models and heuristic procedures.
+Keywords
+Single-machine, two-agent, earliness–tardiness, dominance properties, heuristics 

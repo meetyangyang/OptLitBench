@@ -1,0 +1,6 @@
+An Optimal Control Theory for Discrete Event Systems
+Raja  Sengupta and Stéphane  Lafortune;
+Abstract
+In certain discrete event applications it may be desirable to find a particular controller, within the set of acceptable controllers, which optimizes some quantitative performance measure. In this paper we propose a theory of optimal control to meet such design requirements for deterministic systems. The discrete event system (DES) is modeled by a formal language. Event and cost functions are defined which induce costs on controlled system behavior. The event costs associated with the system behavior can be reduced, in general, only by increasing the control costs. Thus it is nontrivial to find the optimal amount of control to use, and the formulation captures the fundamental tradeoff motivating classical optimal control. Results on the existence of minimally restrictive optimal solutions are presented. Communication protocols are analyzed to motivate the formulation and demonstrate optimal controller synthesis. Algorithms for the computation of optimal controllers are developed for the special case of DES modeled by regular languages. It is shown that this framework generalizes some of the existing literature.
+Keywords
+discrete event systems, optimal control, regular languages, dynamic programming, 93A99, 49-XX, 90C27, 

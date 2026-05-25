@@ -1,0 +1,6 @@
+Nonlinear Optimization, Quadrature, and Interpolation
+H.  Cheng, V.  Rokhlin, and N.  Yarvin;
+Abstract
+We present a nonlinear optimization procedure for the design of generalized Gaussian quadratures for a fairly broad class of functions. While some of the components of the algorithm have been published previously, we introduce an improved procedure for the determination of an acceptable initial point for the continuation scheme that stabilizes the Newton-type process used to find the quadratures. The resulting procedure never failed when applied to Chebyshev systems (for which the existence and uniqueness of generalized Gaussian quadratures are well known); it also worked for many non-Chebyshev systems, for which the generalized Gaussian quadratures are not guaranteed to exist. The performance of the algorithm is illustrated with several numerical examples; some of the presented quadratures integrate efficiently large classes of singular functions.
+Keywords
+nonlinear optimization, quadratures, singular integrands, interpolation, 49N99, 65D30, 65D32, 65D05, 

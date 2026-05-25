@@ -1,0 +1,6 @@
+Scheduling Equal-Length Tasks Under Treelike Precedence Constraints to Minimize Maximum Lateness
+Peter Brucker;M. R. Garey;D. S. Johnson;
+Abstract
+A basic problem of deterministic scheduling theory is that of scheduling n equal length tasks on m identical processors subject to precedence constraints. Although the general problem of finding a schedule which minimizes makespan is NP-complete, the important special case with “treelike” precedence constraints can be solved by a well-known algorithm of T. C. Hu. We consider an extension of this special case model to include the possibility of individual task deadlines, in which case the goal is to minimize maximum lateness. Our results show that it makes a considerable difference whether the precedence is of “in-tree” or “out-tree” form. In the former case the problem can be solved in lime O(n log n); in the latter it is NP-complete. We also discuss applications of our results to related scheduling problems.
+Keywords
+scheduling identical processors treelike precedence minimum makespan 

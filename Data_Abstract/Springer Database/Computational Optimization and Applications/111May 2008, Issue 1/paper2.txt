@@ -1,0 +1,10 @@
+The prize collecting Steiner tree problem: models and Lagrangian dual optimization approaches
+Mohamed Haouari;Safa Bhar Layeb;Hanif D. Sherali;
+Abstract
+
+We propose a generalized version of the Prize Collecting Steiner Tree Problem (PCSTP), which offers a fundamental unifying model for several well-known 
+\(\mathcal{NP}\)
+-hard tree optimization problems. The PCSTP also arises naturally in a variety of network design applications including cable television and local access networks. We reformulate the PCSTP as a minimum spanning tree problem with additional packing and knapsack constraints and we explore various nondifferentiable optimization algorithms for solving its Lagrangian dual. We report computational results for nine variants of deflected subgradient strategies, the volume algorithm (VA), and the variable target value method used in conjunction with the VA and with a generalized Polyak–Kelley cutting plane technique. The performance of these approaches is also compared with an exact stabilized constraint generation procedure.
+
+Keywords
+Steiner tree  Lagrangian decomposition  Nondifferentiable optimization  

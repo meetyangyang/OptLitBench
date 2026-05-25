@@ -1,0 +1,8 @@
+Gradient Estimation Using Lagrange Interpolation Polynomials
+R. C. M. Brekelmans;L. T. Driessen;H. J. M. Hamers;D. den Hertog;
+Abstract
+We use Lagrange interpolation polynomials to obtain good gradient estimations. This is e.g. important for nonlinear programming solvers. As an error criterion, we take the mean squared error, which can be split up into a deterministic error and a stochastic error. We analyze these errors using N-times replicated Lagrange interpolation polynomials. We show that the mean squared error is of order 
+\(N^{-1+\frac{1}{2d}}\) 
+if we replicate the Lagrange estimation procedure N times and use 2d evaluations in each replicate. As a result, the order of the mean squared error converges to N −1 if the number of evaluation points increases to infinity. Moreover, we show that our approach is also useful for deterministic functions in which numerical errors are involved. We provide also an optimal division between the number of gridpoints and replicates in case the number of evaluations is fixed. Further, it is shown that the estimation of the derivatives is more robust when the number of evaluation points is increased. Finally, test results show the practical use of the proposed method.
+Keywords
+Gradient estimation  Lagrange interpolation  Mean squared error  

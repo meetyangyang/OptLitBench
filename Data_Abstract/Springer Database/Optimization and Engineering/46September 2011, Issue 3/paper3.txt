@@ -1,0 +1,6 @@
+Airfoil design for compressible inviscid flow based on shape calculus
+Stephan Schmidt;Caslav Ilic;Volker Schulz;Nicolas R. Gauger;
+Abstract
+Aerodynamic design based on the Hadamard representation of shape gradients is considered. Using this approach, the gradient of an objective function with respect to a deformation of the shape can be computed as a boundary integral without any additional “mesh sensitivities” or volume quantities. The resulting very fast gradient evaluation procedure greatly supports a one-shot optimization strategy and coupled with an appropriate shape Hessian approximation, a very efficient shape optimization procedure is created that does not deteriorate with an increase in the number of design parameters. As such, all surface mesh nodes are used as shape design parameters for optimizing a variety of lifting and non-lifting airfoil shapes using the compressible Euler equations to model the fluid.
+Keywords
+Shape derivative  Preconditioning  One-shot  Drag reduction  Euler flow  

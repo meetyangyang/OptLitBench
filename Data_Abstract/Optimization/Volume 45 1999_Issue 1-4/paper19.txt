@@ -1,0 +1,6 @@
+Stable parametric programming *  
+   S.   Zlobec ;
+Abstract
+ Stable parametric programs (abbreviation: SPP) are parametric programs with a  particular continuity (stability) requirement. Optimal solutions of SPP are paths in the space of “parameters” (inputs, data) that preserve continuity of the feasible set point-to set mapping in the space of “decision variables”. The end points of these paths optimize the optimal value function on a region of stability  In this paper we study only convex SPP. First we study optimality conditions. If the constraints enjoy the locally-flat-surface (“LFS”) property in the decision variable component, then the usual separation arguments apply and we can characterize local and global optimal solutions. Then we consider a well-known marginal value formula for the optimal value function. We prove the formula under new assumptions and then use it to modify a class of quasi-Newton methods in order to solve convex SPP. Finally, several solved case are reported  
+Keywords
+Parametric Program, Optimality, Stability, Optimal Pricing Policy, LFS Function 

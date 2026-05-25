@@ -1,0 +1,6 @@
+Solving a vehicle routing problem with resource conflicts and makespan objective with an application in car body manufacturing
+Jörg Rambau;Cornelius Schwarz;
+Abstract
+We investigate the problem of dispatching arc welding robots in car body manufacturing. Such arc welding robots receive their energy from expensive laser sources. Laser sources can be shared among the robots. However, this requires that the robots be scheduled because each laser source can only be used by one robot at a time. We want to compute the minimal number of laser sources necessary to perform all welding tasks in a given processing time. To this end, we introduce the laser-sharing problem (LSP): for a given number of laser sources, find collision-free scheduled tours for all robots through all welding jobs so that the makespan is minimized. We propose a branch-and-bound algorithm for the LSP using bounds that stem from optimal solutions to carefully selected NP-hard combinatorial subproblems. This is the first algorithm for the LSP that is able to solve industrially relevant problem scales.
+Keywords
+robot dispatching, collision-free, resource sharing, makespan, branch and boundAMS Subject Classifications: 90C57, 90C9 

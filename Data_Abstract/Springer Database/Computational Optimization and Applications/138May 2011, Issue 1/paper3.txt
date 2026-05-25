@@ -1,0 +1,6 @@
+A reduced Hessian SQP method for inequality constrained optimization
+Tao-Wen Liu;
+Abstract
+This paper develops a reduced Hessian method for solving inequality constrained optimization problems. At each iteration, the proposed method solves a quadratic subproblem which is always feasible by introducing a slack variable to generate a search direction and then computes the steplength by adopting a standard line search along the direction through employing the l ∞ penalty function. And a new update criterion is proposed to generate the quasi-Newton matrices, whose dimensions may be variable, approximating the reduced Hessian of the Lagrangian. The global convergence is established under mild conditions. Moreover, local R-linear and superlinear convergence are shown under certain conditions.
+Keywords
+Inequality constrained optimization  Quasi-Newton method  Reduced Hessian method  Sequential quadratic programming  Global and superlinear convergence  

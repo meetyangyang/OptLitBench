@@ -1,0 +1,6 @@
+Increasing Internet Capacity Using Local Search
+Bernard Fortz;Mikkel Thorup;
+Abstract
+Open Shortest Path First (OSPF) is one of the most commonly used intra-domain internet routing protocol. Traffic flow is routed along shortest paths, splitting flow evenly at nodes where several outgoing links are on shortest paths to the destination. The weights of the links, and thereby the shortest path routes, can be changed by the network operator. The weights could be set proportional to the physical lengths of the links, but often the main goal is to avoid congestion, i.e. overloading of links, and the standard heuristic recommended by Cisco (a major router vendor) is to make the weight of a link inversely proportional to its capacity.
+Keywords
+traffic engineering  shortest path routing  local search  

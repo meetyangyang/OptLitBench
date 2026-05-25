@@ -1,0 +1,6 @@
+MDTri: robust and efficient global mixed integer search of spaces of multiple ternary alloys
+Peter A. Graf;Stephen Billups;
+Abstract
+Computational materials design has suffered from a lack of algorithms formulated in terms of experimentally accessible variables. Here we formulate the problem of (ternary) alloy optimization at the level of choice of atoms and their composition that is normal for synthesists. Mathematically, this is a mixed integer problem where a candidate solution consists of a choice of three elements, and how much of each of them to use. This space has the natural structure of a set of equilateral triangles. We solve this problem by introducing a novel version of the DIRECT algorithm that (1) operates on equilateral triangles instead of rectangles and (2) works across multiple triangles. We demonstrate on a test case that the algorithm is both robust and efficient. Finally, we offer an explanation of the efficacy of DIRECT—specifically, its balance of global and local search—by showing that “potentially optimal rectangles” of the original algorithm are akin to the Pareto front of the “multi-component optimization” of global and local search.
+Keywords
+Mixed integer optimization  DIRECT optimization  Pareto front  Sierpinski triangle  Computational material design  

@@ -1,0 +1,6 @@
+Multigrid preconditioning of linear systems for semi-smooth Newton methods applied to optimization problems constrained by smoothing operators
+Andrei Drăgănescu;
+Abstract
+This article is concerned with the question of constructing efficient multigrid preconditioners for the linear systems arising when applying semi-smooth Newton methods to large-scale linear-quadratic optimization problems constrained by smoothing operators with box-constraints on the controls. It is shown that, for certain discretizations of the optimization problem, the linear systems to be solved at each semi-smooth Newton iteration reduce to inverting principal minors of the Hessian of the associated unconstrained problem. As in the case when box-constraints on the controls are absent, the multigrid preconditioner introduced here is shown to increase in quality as the mesh-size decreases, resulting in a number of iterations that decreases with mesh-size. However, unlike the unconstrained case, the spectral distance between the preconditioners and the Hessian is shown to be of suboptimal order in general.
+Keywords
+multigrid, semi-smooth Newton methods, optimization with PDE constraints, large-scale optimizationAMS Subject Classification:: 65K10, 65M55, 65M32, 90C06 

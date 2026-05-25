@@ -1,0 +1,6 @@
+A framework for optimization under limited information
+Tansu Alpcan;
+Abstract
+In many real world problems, optimisation decisions have to be made with limited information. The decision maker may have no a priori or posteriori data about the often nonconvex objective function except from on a limited number of data points. The scarcity of data may be due to high cost of observation or fast-changing nature of the underlying system. This paper presents a “black-box” optimisation framework that takes into account the information collection, estimation, and optimisation aspects in a holistic and structured manner. Explicitly quantifying the observations at each optimisation step using the entropy measure from information theory, the often nonconvex-objective function to be optimised is modelled and estimated by adopting a Bayesian approach and using Gaussian processes as a state-of-the-art regression method. The resulting iterative scheme allows the decision maker to address the problem by expressing preferences for each aspect quantitatively and concurrently.
+Keywords
+Limited information  Active learning  Multi-objective optimization  

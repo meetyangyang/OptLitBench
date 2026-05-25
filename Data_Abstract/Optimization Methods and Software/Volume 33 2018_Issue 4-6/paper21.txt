@@ -1,0 +1,6 @@
+On efficient Hessian computation using the edge pushing algorithm in Julia
+C. G. Petra;F. Qiang;M. Lubin;J. Huchette;
+Abstract
+Evaluating the Hessian matrix of second-order derivatives at a sequence of points can be costly when applying second-order methods for nonlinear optimization. In this work, we discuss our experiences implementing the recently proposed Edge Pushing (EP) method in Julia as an experimental replacement for the current colouring-based methods used by JuMP, an open-source algebraic modelling language. We propose an alternative data structure for sparse Hessians to avoid the use of hash tables and analyse the space and time complexity of EP method. In our benchmarks, we find that EP is very competitive in terms of both preprocessing time and Hessian evaluation time. We identify cases where EP closes the performance gap between JuMP's previous implementation and the implementation in AMPL, a commercial software package with similar functionality.
+Keywords
+Automatic differentiation, sparse Hessian computation, edge pushing, algebraic modelling language, Julia, JuMPAMS SUBJECT CLASSIFICATIONS: 90C04, 90C05, 90C06, 90C30, 65D25 

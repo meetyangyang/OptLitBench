@@ -1,0 +1,6 @@
+Serial and Parallel Multicategory Discrimination
+Kristin P.  Bennett and O. L.  Mangasarian;
+Abstract
+A parallel algorithm is proposed for a fundamental problem of machine learning, that of multicategory discrimination. The algorithm is based on minimizing an error function associated with a set of highly structured linear inequalities. These inequalities characterize piecewise-linear separation of k sets by the maximum of k affine functions. The error function has a Lipschitz continuous gradient that allows the use of fast serial and parallel unconstrained minimization algorithms. A serial quasi-Newton algorithm is considerably faster than previous linear programming (LP) formulations. A parallel gradient distribution algorithm is used to parallelize the error-minimization problem. Preliminary computational results are given for both a DECstation 5000/125 and a Thinking Machines Corporation CM-5 multiprocessor.
+Keywords
+multicategory classification, parallel optimization, machine learning , 90B50, 90C20, 

@@ -1,0 +1,6 @@
+Convex Euclidean distance embedding for collaborative position localization with NLOS mitigation
+Chao Ding;Hou-Duo Qi;
+Abstract
+One of the challenging problems in collaborative position localization arises when the distance measurements contain non-line-of-sight (NLOS) biases. Convex optimization has played a major role in modelling such problems and numerical algorithm developments. One of the successful examples is the semi-definite programming (SDP), which translates Euclidean distances into the constraints of positive semidefinite matrices, leading to a large number of constraints in the case of NLOS biases. In this paper, we propose a new convex optimization model that is built upon the concept of Euclidean distance matrix (EDM). The resulting EDM optimization has an advantage that its Lagrangian dual problem is well structured and hence is conducive to algorithm developments. We apply a recently proposed 3-block alternating direction method of multipliers to the dual problem and tested the algorithm on some real as well as simulated data of large scale. In particular, the EDM model significantly outperforms the existing SDP model and several others.
+Keywords
+Euclidean distance matrix  Collaborative localization  Non-line of sight (NLOS)  Augmented Lagrangian  Alternating direction method of multipliers (ADMM)  

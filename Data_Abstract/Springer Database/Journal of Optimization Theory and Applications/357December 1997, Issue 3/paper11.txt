@@ -1,0 +1,6 @@
+Adaptive Inverse Control Using a Gradient-Projection Optimization Technique
+G. Tao;
+Abstract
+As an application of an optimization technique, a gradient-projection method is employed to derive an adaptive algorithm for updating the parameters of an inverse which is designed to cancel the effects of actuator uncertainties in a control system. The actuator uncertainty is parametrized by a set of unknown parameters which belong to a parameter region. A desirable inverse is implemented with adaptive estimates of the actuator parameters. Minimizing an estimation error, a gradient algorithm is used to update such parameter estimates. To ensure that the parameter estimates also belong to the parameter region, the adaptive update law is designed with parameter projection. With such an adaptive inverse, desired control system performance can be achieved despite the presence of the actuator uncertainties.
+Keywords
+Actuator uncertainty  adaptive inverse  gradient method  parameter projection  

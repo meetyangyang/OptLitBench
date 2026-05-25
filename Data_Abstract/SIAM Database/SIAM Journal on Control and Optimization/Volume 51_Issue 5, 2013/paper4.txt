@@ -1,0 +1,6 @@
+The Interface Control Domain Decomposition (ICDD) Method for Elliptic Problems
+Marco  Discacciati, Paola  Gervasio, and Alfio  Quarteroni;
+Abstract
+Interface controls are unknown functions used as Dirichlet or Robin boundary data on the interfaces of an overlapping decomposition designed for solving second order elliptic boundary value problems. The controls are computed through an optimal control problem with either distributed or interface observation. Numerical results show that, when interface observation is considered, the resulting interface control domain decomposition  method is robust with respect to coefficients variations; it can exploit nonconforming meshes and provides optimal convergence with respect to the discretization parameters; finally it can be easily used to face heterogeneous advection--advection-diffusion couplings.
+Keywords
+domain decomposition, optimal control, elliptic boundary value problems, nonconforming discretizations, heterogeneous coupling, ICDD, 65N55, 49J20, 49K20, 65N30, 65N35, 

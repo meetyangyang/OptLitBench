@@ -1,0 +1,6 @@
+Tropical optimization problems in time-constrained project scheduling
+N. Krivulin;
+Abstract
+We consider a project that consists of activities to be performed in parallel under various temporal constraints, which include start-start, start-finish and finish-start precedence relationships, release times, deadlines and due dates. Scheduling problems are formulated to find optimal schedules for the project with respect to different objective functions to be minimized, such as the project makespan, the maximum deviation from the due dates, the maximum flow-time and the maximum deviation of finish times. We represent these problems as optimization problems in terms of tropical mathematics, and then solve them by applying direct solution methods of tropical optimization. As a result, new direct solutions of the scheduling problems are obtained in a compact vector form, which is ready for further analysis and practical implementation. The solutions are illustrated by simple numerical examples.
+Keywords
+Idempotent semifield, optimization problem, project scheduling, precedence relationship, scheduling objectiveAMS Subject Classifications: 65K10, 15A80, 65K05, 90C48, 90B35 

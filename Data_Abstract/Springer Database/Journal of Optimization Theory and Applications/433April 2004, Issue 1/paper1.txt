@@ -1,0 +1,6 @@
+A Newton Method for Linear Programming
+O. L. Mangasarian;
+Abstract
+A fast Newton method is proposed for solving linear programs with a very large (≈106) number of constraints and a moderate (≈102) number of variables. Such linear programs occur in data mining and machine learning. The proposed method is based on the apparently overlooked fact that the dual of an asymptotic exterior penalty formulation of a linear program provides an exact least 2-norm solution to the dual of the linear program for finite values of the penalty parameter but not for the primal linear program. Solving the dual problem for a finite value of the penalty parameter yields an exact least 2-norm solution to the dual, but not a primal solution unless the parameter approaches zero. However, the exact least 2-norm solution to the dual problem can be used to generate an accurate primal solution if m≥n and the primal solution is unique. Utilizing these facts, a fast globally convergent finitely terminating Newton method is proposed. A simple prototype of the method is given in eleven lines of MATLAB code. Encouraging computational results are presented such as the solution of a linear program with two million constraints that could not be solved by CPLEX 6.5 on the same machine.
+Keywords
+Linear programming  Newton method  least norm solution  exterior penalty  

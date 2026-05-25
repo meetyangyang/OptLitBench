@@ -1,0 +1,6 @@
+Efficient branch-and-bound algorithms for weighted MAX-2-SAT
+Toshihide Ibaraki;Takashi Imamichi;Yuichi Koga;Hiroshi Nagamochi;Koji Nonobe;Mutsunori Yagiura;
+Abstract
+MAX-2-SAT is one of the representative combinatorial problems and is known to be NP-hard. Given a set of m clauses on n propositional variables, where each clause contains at most two literals and is weighted by a positive real, MAX-2-SAT asks to find a truth assignment that maximizes the total weight of satisfied clauses. In this paper, we propose branch-and-bound exact algorithms for MAX-2-SAT utilizing three kinds of lower bounds. All lower bounds are based on a directed graph that represents conflicts among clauses, and two of them use a set covering representation of MAX-2-SAT. Computational comparisons on benchmark instances disclose that these algorithms are highly effective in reducing the number of search tree nodes as well as the computation time.
+Keywords
+90C27  90C57  

@@ -1,0 +1,6 @@
+Checkerboard and minimum member size control in topology optimization
+M. Zhou;Y.K. Shyy,;H.L. Thomas;
+Abstract
+Checkerboard-like material distributions are frequently encountered in topology optimization of continuum structures, especially when first order finite elements are used. It has been shown that this phenomenon is caused by errors in the finite element formulation. Minimum member size control is closely related to the problem of mesh dependency of solutions in topology optimization. With increasing mesh density, the solution of a broad class of problems tends to form an increasing number of members with decreasing size. Different approaches have been developed in recent years to overcome these numerical difficulties. However, limitations exist for those methods, either in generality or in efficiency. In this paper, a new algorithm for checkerboard and direct minimum member size control has been developed that is applicable to the general problem formulation involving multiple constraints. This method is implemented in the commercial software Altair OptiStruct.
+Keywords
+Key words: topology optimization, checkerboard, mesh dependency, member size control, manufacturability  

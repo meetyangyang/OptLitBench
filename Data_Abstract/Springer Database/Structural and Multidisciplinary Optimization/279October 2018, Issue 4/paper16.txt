@@ -1,0 +1,6 @@
+Failure resistant topology optimization of structures using nonlocal elastoplastic-damage model
+Lei Li;Guodong Zhang;Kapil Khandelwal;
+Abstract
+For energy absorbing structures made up of ductile materials, the plastic strain accumulation often leads to early material damage and failure, which can deteriorate the overall structural performance. The goal of this work is to limit this damage in elastoplastic designs using the density-based topology optimization framework such that the optimized structures can absorb energy in a more controllable manner. To this end, an implicit nonlocal coupled elastoplastic damage model is considered for simulating the material damage and softening behavior. The nonlocal effect from the void elements is removed by introducing a scaling scheme for the nonlocal parameters. Path-dependent sensitivity is derived analytically using an adjoint method whose accuracy is further verified by the central difference method. The effectiveness of the proposed method is demonstrated through several numerical examples. It is shown that the load-carrying capacity, ductility, as well as ultimate plastic work dissipation capacity of the optimized design, can be considerably improved by the proposed method.
+Keywords
+Topology optimization  Nonlocal elastoplastic damage  Adjoint sensitivity analysis  Plastic work  Damage constraints  

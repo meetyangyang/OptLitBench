@@ -1,0 +1,6 @@
+Projected gradient methods for linearly constrained problems
+Paul H. Calamai;Jorge J. Moré;
+Abstract
+The aim of this paper is to study the convergence properties of the gradient projection method and to apply these results to algorithms for linearly constrained problems. The main convergence result is obtained by defining a projected gradient, and proving that the gradient projection method forces the sequence of projected gradients to zero. A consequence of this result is that if the gradient projection method converges to a nondegenerate point of a linearly constrained problem, then the active and binding constraints are identified in a finite number of iterations. As an application of our theory, we develop quadratic programming algorithms that iteratively explore a subspace defined by the active constraints. These algorithms are able to drop and add many constraints from the active set, and can either compute an accurate minimizer by a direct method, or an approximate minimizer by an iterative method of the conjugate gradient type. Thus, these algorithms are attractive for large scale problems. We show that it is possible to develop a finite terminating quadratic programming algorithm without non-degeneracy assumptions.
+Keywords
+Linearly constrained problems  projected gradients  bound constrained problems  large scale problems  convergence theory  

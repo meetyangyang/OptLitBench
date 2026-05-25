@@ -1,0 +1,6 @@
+On approximation algorithms for concave mixed-integer quadratic programming
+Alberto Del Pia;
+Abstract
+Concave mixed-integer quadratic programming is the problem of minimizing a concave quadratic polynomial over the mixed-integer points in a polyhedral region. In this work we describe an algorithm that finds an \(\epsilon \)-approximate solution to a concave mixed-integer quadratic programming problem. The running time of the proposed algorithm is polynomial in the size of the problem and in \(1/\epsilon \), provided that the number of integer variables and the number of negative eigenvalues of the objective function are fixed. The running time of the proposed algorithm is expected unless \(\mathcal {P}=\mathcal {NP}\).
+Keywords
+Mixed-integer quadratic programming  Approximation algorithms  90C10  90C11  90C20  90C59  

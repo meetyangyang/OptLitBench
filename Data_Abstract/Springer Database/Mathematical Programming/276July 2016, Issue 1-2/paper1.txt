@@ -1,0 +1,6 @@
+OSGA: a fast subgradient algorithm with optimal complexity
+Arnold Neumaier;
+Abstract
+This paper presents an algorithm for approximately minimizing a convex function in simple, not necessarily bounded convex, finite-dimensional domains, assuming only that function values and subgradients are available. No global information about the objective function is needed apart from a strong convexity parameter (which can be put to zero if only convexity is known). The worst case number of iterations needed to achieve a given accuracy is independent of the dimension and—apart from a constant factor—best possible under a variety of smoothness assumptions on the objective function.
+Keywords
+Complexity bound  Convex optimization  Optimal subgradient method  Large-scale optimization  Nesterov’s optimal method  Nonsmooth optimization  Optimal first-order method  Smooth optimization  Strongly convex  Primary 90C25  Secondary 90C60  49M37  65K05  68Q25  

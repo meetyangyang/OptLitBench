@@ -1,0 +1,6 @@
+A New Infinity-Norm Path Following Algorithm for Linear Programming
+Kurt M.  Anstreicher and Robert A.  Bosch;
+Abstract
+We devise a new primal-dual path following algorithm for linear programming that is based entirely on an infinity-norm centering measure. The algorithm makes reductions in a path parameter $\mu $, each of which is followed by a sequence of centering steps. The algorithm has similarities with both long step path following and predictor-corrector methods. We also consider a “modified” version of the algorithm that uses partial updating of the projection equations. The analysis of the modified algorithm has some interesting differences compared with previously devised partial updating methods. In particular, partial updating obtains a factor-of-$\sqrt{n}$ complexity reduction even though the permissible relative error in the approximate scaling factors is extremely small — only $O( 1/ \sqrt{n})$.
+Keywords
+interior point method, primal-dual algorithm, partial updating, rank-one updates, modified method, 90C05, 

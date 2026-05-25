@@ -1,0 +1,6 @@
+A smoothing-regularization approach to mathematical programs with vanishing constraints
+Wolfgang Achtziger;Tim Hoheisel;Christian Kanzow;
+Abstract
+We consider a numerical approach for the solution of a difficult class of optimization problems called mathematical programs with vanishing constraints. The basic idea is to reformulate the characteristic constraints of the program via a nonsmooth function and to eventually smooth it and regularize the feasible set with the aid of a certain smoothing- and regularization parameter t>0 such that the resulting problem is more tractable and coincides with the original program for t=0. We investigate the convergence behavior of a sequence of stationary points of the smooth and regularized problems by letting t tend to zero. Numerical results illustrating the performance of the approach are given. In particular, a large-scale example from topology optimization of mechanical structures with local stress constraints is investigated.
+Keywords
+Mathematical programs with vanishing constraints  Mathematical programs with equilibrium constraints  Smoothing method  Regularization method  Global convergence  

@@ -1,0 +1,6 @@
+A Gradient Formula for Linear Chance Constraints Under Gaussian Distribution
+René Henrion;Andris Möller;
+Abstract
+We provide an explicit gradient formula for linear chance constraints under a (possibly singular) multivariate Gaussian distribution. This formula allows one to reduce the calculus of gradients to the calculus of values of the same type of chance constraints (in smaller dimension and with different distribution parameters). This is an important aspect for the numerical solution of stochastic optimization problems because existing efficient codes for, e.g., calculating singular Gaussian distributions or regular Gaussian probabilities of polyhedra can be employed to calculate gradients at the same time. Moreover, the precision of gradients can be controlled by that of function values, which is a great advantage over using finite difference approximations. Finally, higher order derivatives are easily derived explicitly. The use of the obtained formula is illustrated for an example of a transportation network with stochastic demands.
+Keywords
+chance constraints probabilistic constraints derivative of singular normal distribution derivative of Gaussian probability for polyhedra 

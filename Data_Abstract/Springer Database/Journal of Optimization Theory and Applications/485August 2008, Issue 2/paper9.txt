@@ -1,0 +1,6 @@
+Minimum-Time Travel for a Vehicle with Acceleration Limits: Theoretical Analysis and Receding-Horizon Implementation
+E. Velenis;P. Tsiotras;
+Abstract
+A methodology is proposed to generate minimum-time optimal velocity profiles for a vehicle with prescribed acceleration limits along a specified path. The necessary optimality conditions are explicitly derived, allowing the construction of the optimal solution semianalytically. A receding horizon implementation is also proposed for the on-line implementation of the velocity optimizer. Robustness of the receding horizon algorithm is guaranteed by the use of an adaptive scheme that determines the planning and execution horizons. Application to a real-life scenario with a comparison between the infinite and finite receding horizon schemes provides a validation of the proposed methodology.
+Keywords
+Minimum time velocity profile  Acceleration limits  Receding horizon  

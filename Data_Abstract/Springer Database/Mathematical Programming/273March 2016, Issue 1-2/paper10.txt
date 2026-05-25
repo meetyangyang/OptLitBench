@@ -1,0 +1,6 @@
+Generalized Gauss inequalities via semidefinite programming
+Bart P. G. Van Parys;Paul J. Goulart;Daniel Kuhn;
+Abstract
+A sharp upper bound on the probability of a random vector falling outside a polytope, based solely on the first and second moments of its distribution, can be computed efficiently using semidefinite programming. However, this Chebyshev-type bound tends to be overly conservative since it is determined by a discrete worst-case distribution. In this paper we obtain a less pessimistic Gauss-type bound by imposing the additional requirement that the random vector’s distribution must be unimodal. We prove that this generalized Gauss bound still admits an exact and tractable semidefinite representation. Moreover, we demonstrate that both the Chebyshev and Gauss bounds can be obtained within a unified framework using a generalized notion of unimodality. We also offer new perspectives on the computational solution of generalized moment problems, since we use concepts from Choquet theory instead of traditional duality arguments to derive semidefinite representations for worst-case probability bounds.
+Keywords
+90C15 Stochastic programming  90C22 Semidefinite programming  

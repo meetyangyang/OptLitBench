@@ -1,0 +1,6 @@
+Global Convergence Analysis of Line Search Interior-Point Methods for Nonlinear Programming without Regularity Assumptions
+X. W. Liu;J. Sun;
+Abstract
+As noted by Wächter and Biegler (Ref. 1), a number of interior-point methods for nonlinear programming based on line-search strategy may generate a sequence converging to an infeasible point. We show that, by adopting a suitable merit function, a modified primal-dual equation, and a proper line-search procedure, a class of interior-point methods of line-search type will generate a sequence such that either all the limit points of the sequence are KKT points, or one of the limit points is a Fritz John point, or one of the limit points is an infeasible point that is a stationary point minimizing a function measuring the extent of violation to the constraint system. The analysis does not depend on the regularity assumptions on the problem. Instead, it uses a set of satisfiable conditions on the algorithm implementation to derive the desired convergence property.
+Keywords
+Nonlinear programming  interior-point methods  convergence  

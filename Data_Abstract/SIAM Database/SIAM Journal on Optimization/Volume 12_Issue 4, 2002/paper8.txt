@@ -1,0 +1,6 @@
+Lagrangian Dual Interior-Point Methods for Semidefinite Programs
+Mituhiro  Fukuda, Masakazu  Kojima, and Masayuki  Shida;
+Abstract
+This paper proposes a new predictor-corrector interior-point method for a class of semidefinite programs, which numerically traces the central trajectory in a space of Lagrange multipliers. The distinguishing features of the method are full use of the BFGS quasi-Newton method in the corrector procedure and an application of the conjugate gradient method with an effective preconditioning matrix induced from the BFGS quasi-Newton method in the predictor procedure. Some preliminary numerical results are reported.
+Keywords
+semidefinite program, %linear program over convex cones, primal-dual interior-point method, predictor-corrector method, Lagrangian dual, BFGS quasi-Newton method, conjugate gradient method, 90C22, 90C25, 90C51, 90C53, 65F10, 49N15, 49M29, 

@@ -1,0 +1,6 @@
+Iteration-complexity of first-order penalty methods for convex programming
+Guanghui Lan;Renato D. C. Monteiro;
+Abstract
+This paper considers a special but broad class of convex programming problems whose feasible region is a simple compact convex set intersected with the inverse image of a closed convex cone under an affine transformation. It studies the computational complexity of quadratic penalty based methods for solving the above class of problems. An iteration of these methods, which is simply an iteration of Nesterov’s optimal method (or one of its variants) for approximately solving a smooth penalization subproblem, consists of one or two projections onto the simple convex set. Iteration-complexity bounds expressed in terms of the latter type of iterations are derived for two quadratic penalty based variants, namely: one which applies the quadratic penalty method directly to the original problem and another one which applies the latter method to a perturbation of the original problem obtained by adding a small quadratic term to its objective function.
+Keywords
+Convex programming  Quadratic penalty method  Lagrange multiplier  90C25  90C30  90C20  90C22  

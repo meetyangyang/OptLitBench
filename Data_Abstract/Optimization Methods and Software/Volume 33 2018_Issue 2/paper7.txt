@@ -1,0 +1,6 @@
+A modified Hestense–Stiefel conjugate gradient method close to the memoryless BFGS quasi-Newton method
+Min Li;
+Abstract
+In this paper, we propose a new nonlinear conjugate gradient method, which generates search direction close to that of the memoryless BFGS quasi-Newton method. With exact line search, our method will reduce to the standard Hestense-Stiefel nonlinear conjugate gradient method. Moreover, for any line search and constant , the direction of our method satisfies the descent condition . We establish the global convergence for strongly convex objective function with Wolfe line search, and modify this new scheme slightly to guarantee the global convergence for general nonconvex problem. Numerical results show that the proposed method is efficient for the unconstrained problems in the CUTEr library.
+Keywords
+Nonlinear conjugate gradient method, memoryless BFGS method, Hestense–Stiefel method, sufficient descent, global convergenceAMS Subject Classification: 90C30, 65K05 

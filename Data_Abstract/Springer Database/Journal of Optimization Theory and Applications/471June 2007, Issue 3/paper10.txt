@@ -1,0 +1,8 @@
+On the Surrogate Gradient Algorithm for Lagrangian Relaxation
+T. Sun;Q. C. Zhao;P. B. Luh;
+Abstract
+
+When applied to large-scale separable optimization problems, the recently developed surrogate subgradient method for Lagrangian relaxation (Zhao et al.: J. Optim. Theory Appl. 100, 699–712, 1999) does not need to solve optimally all the subproblems to update the multipliers, as the traditional subgradient method requires. Based on it, the penalty surrogate subgradient algorithm was further developed to address the homogenous solution issue (Guan et al.: J. Optim. Theory Appl. 113, 65–82, 2002; Zhai et al.: IEEE Trans. Power Syst. 17, 1250–1257, 2002). There were flaws in the proofs of Zhao et al., Guan et al., and Zhai et al.: for problems with inequality constraints, projection is necessary to keep the multipliers nonnegative; however, the effects of projection were not properly considered. This note corrects the flaw, completes the proofs, and asserts the correctness of the methods.
+
+Keywords
+Lagrangian relaxation  Surrogate subgradient  Inequality constraints  

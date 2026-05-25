@@ -1,0 +1,6 @@
+Efficient hybrid evolutionary algorithm for optimization of a strip coiling process
+Nantiwat Pholdee;Won-Woong Park;Dong-Kyu Kim;Yong-Taek Im;Sujin Bureerat;Hyuck-Cheol Kwon;Myung-Sik Chun;
+Abstract
+This article proposes an efficient metaheuristic based on hybridization of teaching–learning-based optimization and differential evolution for optimization to improve the flatness of a strip during a strip coiling process. Differential evolution operators were integrated into the teaching–learning-based optimization with a Latin hypercube sampling technique for generation of an initial population. The objective function was introduced to reduce axial inhomogeneity of the stress distribution and the maximum compressive stress calculated by Love's elastic solution within the thin strip, which may cause an irregular surface profile of the strip during the strip coiling process. The hybrid optimizer and several well-established evolutionary algorithms (EAs) were used to solve the optimization problem. The comparative studies show that the proposed hybrid algorithm outperformed other EAs in terms of convergence rate and consistency. It was found that the proposed hybrid approach was powerful for process optimization, especially with a large-scale design problem.
+Keywords
+strip coiling, evolutionary optimizers, hybrid algorithm, flatness defects, spool crown 

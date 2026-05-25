@@ -1,0 +1,6 @@
+Additive Bounding, Worst-Case Analysis, and the Breakpoint Median Problem
+Alberto  Caprara;
+Abstract
+We analyze the worst-case performance of a simple algorithm for the breakpoint median problem (BMP), a well-known problem in computational biology. BMP is the special case of the min-cost traveling salesman problem on a complete graph G=(V,E), in which the edge cost vector $c\in \RR^E$ has the form 1-x* , with x*  a convex combination of the incidence vectors of the Hamiltonian circuits of G. The performance guarantee shown is 5/3, which improves on the previously known guarantee of 2. We also consider the  signed variant of BMP and prove that a similar approach yields a performance guarantee of 3/2 (again improving over the previously known 2). Our proofs are based on formulating the problem as a suitable integer linear program and then defining a feasible dual solution for the associated linear programming relaxation in two phases, in a so-called  additive bounding fashion.
+Keywords
+breakpoint median problem, approximation algorithm, linear programming, additive bounding, traveling salesman problem, perfect matching, 68Q25, 68R10, 05C45, 

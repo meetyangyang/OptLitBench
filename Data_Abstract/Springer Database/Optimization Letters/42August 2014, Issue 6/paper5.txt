@@ -1,0 +1,6 @@
+A modified nonmonotone BFGS algorithm for solving smooth nonlinear equations
+Zhong Wan;Yu Chen;Shuai Huang;Dongdong Feng;
+Abstract
+In this paper, a modified nonmonotone BFGS algorithm is developed for solving a smooth system of nonlinear equations. Different from the existent techniques of nonmonotone line search, the value of an algorithmic parameter controlling the magnitude of nonmonotonicity is updated at each iteration by the known information of the system of nonlinear equations such that the numerical performance of the developed algorithm is improved. Under some suitable assumptions, the global convergence of the algorithm is established for solving a generic nonlinear system of equations. Implementing the algorithm to solve some benchmark test problems, the obtained numerical results demonstrate that it is more effective than some similar algorithms available in the literature.
+Keywords
+Smooth nonlinear equations  Nonmonotone technique  Modified BFGS algorithm  Global convergence  

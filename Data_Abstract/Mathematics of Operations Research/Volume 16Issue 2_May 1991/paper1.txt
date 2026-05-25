@@ -1,0 +1,6 @@
+Stochastic Analysis of the Quadratic Assignment Problem
+Wansoo T. Rhee;
+Abstract
+Let A and B be m × m matrices. The aim is to maximize Q(σ) = ∑i, jaijbσ(i)σ(j) over all permutations σ of 1, 2, …, m. We define a simple “greedy” algorithm that constructs a permutation σ* that gives a large Q(σ*). Assuming that the entries of A are i.i.d. with a symmetric distribution, and that the entries of B are independent of A, we show under some weak moment conditions EQ(σ*) ≥ K−1m3/2(log m)1/2, where the constant k does not depend on m. This contrasts with the fact that maxσ ≤ Km3/2(log m)1/2 with overwhelming probability.
+Keywords
+subgaussian process Gaussian randomization quadratic assignment problem 

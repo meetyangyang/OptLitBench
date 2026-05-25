@@ -1,0 +1,8 @@
+Adaptive dynamic cost updating procedure for solving fixed charge network flow problems
+Artyom Nahapetyan;Panos Pardalos;
+Abstract
+
+We approximate the objective function of the fixed charge network flow problem (FCNF) by a piecewise linear one, and construct a concave piecewise linear network flow problem (CPLNF). A proper choice of parameters in the CPLNF problem guarantees the equivalence between those two problems. We propose a heuristic algorithm for solving the FCNF problem, which requires solving a sequence of CPLNF problems. The algorithm employs the dynamic cost updating procedure (DCUP) to find a solution to the CPLNF problems. Preliminary numerical experiments show the effectiveness of the proposed algorithm. In particular, it provides a better solution than the dynamic slope scaling procedure in less CPU time.
+
+Keywords
+Fixed charge network flow problem  Concave piecewise linear network flow problem  Supply chain  Logistics  

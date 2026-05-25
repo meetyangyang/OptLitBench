@@ -1,0 +1,6 @@
+A feasible direction method for image restoration
+G. Landi;E. Loli Piccolomini;
+Abstract
+In this work, a feasible direction method is proposed for computing the regularized solution of image restoration problems by simply using an estimate of the noise present on the data. The problem is formulated as an optimization problem with one quadratic constraint. The proposed method computes a feasible search direction by inexactly solving a trust region subproblem with the truncated Conjugate Gradient method of Steihaug. The trust region radius is adjusted to maintain feasibility and a line-search globalization strategy is employed. The global convergence of the method is proved. The results of image denoising and deblurring are presented in order to illustrate the effectiveness and efficiency of the proposed method.
+Keywords
+Image restoration  Constrained minimization  Feasible direction method  Truncated Conjugate Gradient method  

@@ -1,0 +1,6 @@
+Massive Data Classification via Unconstrained Support Vector Machines
+O. L. Mangasarian;M. E. Thompson;
+Abstract
+A highly accurate algorithm, based on support vector machines formulated as linear programs (Refs. 1–2), is proposed here as a completely unconstrained minimization problem (Ref. 3). Combined with a chunking procedure (Ref. 4), this approach, which requires nothing more complex than a linear equation solver, leads to a simple and accurate method for classifying million-point datasets. Because a 1-norm support vector machine underlies the proposed approach, the method suppresses input space features as well. A state-of-the-art linear programming package (CPLEX, Ref. 5) fails to solve problems handled by the proposed algorithm.
+Keywords
+Data classification  support vector machines  linear programming  unconstrained minimization  Newton method  

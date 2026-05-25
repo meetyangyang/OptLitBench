@@ -1,0 +1,6 @@
+Mixed-integer linear programming approach for global discrete sizing optimization of frame structures
+R. Van Mellaert;K. Mela;T. Tiainen;M. Heinisuo;G. Lombaert;M. Schevenels;
+Abstract
+This paper focuses on discrete sizing optimization of frame structures using commercial profile catalogs. The optimization problem is formulated as a mixed-integer linear programming (MILP) problem by including the equations of structural analysis as constraints. The internal forces of the members are taken as continuous state variables. Binary variables are used for choosing the member profiles from a catalog. Both the displacement and stress constraints are formulated such that for each member limit values can be imposed at predefined locations along the member. A valuable feature of the formulation, lacking in most contemporary approaches, is that global optimality of the solution is guaranteed by solving the MILP using branch-and-bound techniques. The method is applied to three design problems: a portal frame, a two-story frame with three load cases and a multiple-bay multiple-story frame. Performance profiles are determined to compare the MILP reformulation method with a genetic algorithm.
+Keywords
+Global optimization  Discrete optimization  Sizing optimization  Frame structures  Mixed-integer linear programming  

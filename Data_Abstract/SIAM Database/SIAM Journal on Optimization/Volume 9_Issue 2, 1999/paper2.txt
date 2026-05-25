@@ -1,0 +1,6 @@
+Optimal Signal Sets for Non-Gaussian Detectors
+Mark S.  Gockenbach and Anthony J.  Kearsley;
+Abstract
+Identifying a maximally separated setof signals is important in the design of modems. The notion of optimality is dependent on the model chosen to describe noise in the measurements; while some analytic results can be derived under the assumption of Gaussian noise, no such techniques are known for choosing signal sets in the non-Gaussian case. To obtain numerical solutions for non-Gaussian detectors, minimax problems are transformed into nonlinear programs, resulting in a novel formulation yielding problems with relatively few variables and many inequality constraints. Using sequential quadratic programming, optimal signal sets are obtained for a variety of noise distributions.
+Keywords
+optimal design, inequality constraints, sequential quadratic programming, 90C90, 94A12, 94A13, 

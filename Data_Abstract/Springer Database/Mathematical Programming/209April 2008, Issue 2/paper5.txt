@@ -1,0 +1,14 @@
+On the complexity of general matrix scaling and entropy minimization via the RAS algorithm
+B. Kalantari;I. Lari;F. Ricca;B. Simeone;
+Abstract
+Given an n  ×  m nonnegative matrix A = (a  ij ) and positive integral vectors
+\(r \in \mathfrak{R}^{n}\) and
+\(c \in \mathfrak{R}^{m}\) having a common one-norm h, the (r,c)-scaling problem is to obtain positive diagonal matrices X and Y, if they exist, such that XAY has row and column sums equal to r and c, respectively. The entropy minimization problem corresponding to A is to find an n  ×  m matrix z = (z  ij ) having the same zero pattern as A, the sum of whose entries is a given number h, its row and column sums are within given integral vectors of lower and upper bounds, and such that the entropy function consisting of the sum of the terms z  ij  ln (z  ij /a  ij ) is minimized. When the lower and upper bounds coincide, matrix scaling and entropy minimization are closely related. In this paper we present several complexity bounds for the
+\(\epsilon\)-approximate (r,c)-scaling problem, polynomial in n,m,h,
+\(1/\epsilon\), and ln
+\({V} \over {v}\), where V and v are the largest and the smallest positive entries of A, respectively. These bounds, although not polynomial in
+\(\ln (1/\epsilon)\), not only provide alternative complexities for the polynomial time algorithms, but could result in better overall complexities. In particular, our theoretical analysis supports the practicality of the well-known RAS algorithm. In our analysis we obtain bounds on the norm of scaling vectors which will be used in deriving not only some of the above complexities, but also a complexity for square nonnegative matrices having positive permanent. In particular, our results extend, nontrivially, many bounds for the doubly stochastic scaling of square nonnegative matrices previously given by Kalantari and Khachiyan to the case of general (r,c)-scaling. Finally, we study a more general entropy minimization problem where row and column sums are constrained to lie in prescribed intervals, and the sum of all entries is also prescribed. Balinski and Demange described an RAS type algorithm for its continuous version, but did not analyze its complexity. We show that this algorithm produces an
+\(\epsilon\)-approximate solution within complexity polynomial in n, m, h, \({V} \over {v}\) and
+\(1/\epsilon\).
+Keywords
+Bipartite Graph  Polynomial Time Algorithm  Nonnegative Matrix  Entropy Minimization  Nonnegative Matrice  

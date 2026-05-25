@@ -1,0 +1,6 @@
+Polynomial Approximations for Continuous Linear Programs
+Dimitra  Bampou and Daniel  Kuhn;
+Abstract
+Continuous linear programs have attracted considerable interest due to their potential for modeling manufacturing, scheduling, and routing problems. While efficient simplex-type algorithms have been developed for separated continuous linear programs, crude time discretization remains the method of choice for solving general (nonseparated) problem instances. In this paper we propose a more generic approximation scheme for nonseparated continuous linear programs, where we approximate the functional decision variables (policies) by polynomial and piecewise polynomial decision rules. This restriction results in an upper bound on the original problem,  which can be computed efficiently by solving a tractable semidefinite program. To estimate the approximation error, we also compute a lower bound by solving a dual continuous linear program in (piecewise) polynomial decision rules. We establish the convergence of the primal and dual approximations under Slater-type constraint qualifications. We also highlight the potential of our method for optimizing large-scale multiclass queueing systems and dynamic Leontief models.
+Keywords
+continuous linear programming, polynomial decision rules, conic programming, 93C05, 49M29, 90C22, 

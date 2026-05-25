@@ -1,0 +1,6 @@
+A one-phase algorithm for semi-infinite linear programming
+Hui Hu;
+Abstract
+We present an algorithm for solving a large class of semi-infinite linear programming problems. This algorithm has several advantages: it handles feasibility and optimality together; it has very weak restrictions on the constraints; it allows cuts that are not near the most violated cut; and it solves the primal and the dual problems simultaneously. We prove the convergence of this algorithm in two steps. First, we show that the algorithm can find anε-optimal solution after finitely many iterations. Then, we use this result to show that it can find an optimal solution in the limit. We also estimate how good anε-optimal solution is compared to an optimal solution and give an upper bound on the total number of iterations needed for finding anε-optimal solution under some assumptions. This algorithm is generalized to solve a class of nonlinear semi-infinite programming problems. Applications to convex programming are discussed.
+Keywords
+Semi-infinite linear programming  generalized linear programming  convex programming  linear programming  duality  

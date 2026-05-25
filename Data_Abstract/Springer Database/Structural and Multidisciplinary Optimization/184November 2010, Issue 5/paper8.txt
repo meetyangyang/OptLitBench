@@ -1,0 +1,6 @@
+Aircraft wing box optimization considering uncertainty in surrogate models
+Daniel Neufeld;Kamran Behdinan;Joon Chung;
+Abstract
+Aerospace design often involves computationally expensive physics based analysis methods such as Computational Fluid Dynamics (CFD) or the Finite Element Method (FEM). Since conceptual design optimization can require many function evaluations, simplified analysis methods are typically used. Designs optimized with simplified analysis methods may be found to violate design goals when subjected to the high fidelity approaches later in the design process. This paper presents how the uncertainty introduced by an approximation model in the conceptual design of the wing box of a generic light jet can be assessed and managed by applying Reliability Based Design Optimization (RBDO) in order to ensure that a feasible solution is obtained. Additionally, the performance of several alternative RBDO approaches are benchmarked using the wing box conceptual design problem.
+Keywords
+RBDO  MDO  Aircraft conceptual design  

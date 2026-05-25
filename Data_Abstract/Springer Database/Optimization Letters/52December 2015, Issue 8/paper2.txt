@@ -1,0 +1,6 @@
+Prioritized interdiction of nuclear smuggling via tabu search
+Dennis P. Michalopoulos;J. Wesley Barnes;David P. Morton;
+Abstract
+We describe an optimization model for interdicting smuggling of illicit nuclear material. Modeled on a directed network, the interdictor’s goal is to select radiation detector installation locations, subject to a budget constraint, to minimize a smuggler’s evasion probability. A smuggler, characterized by a random origin–destination pair, traverses the network knowing the detector locations. An additional layer of uncertainty is captured when considering a set of budget scenarios in place of a fixed budget value. An optimal solution to this model yields a priority list of detector installation locations. After the budget is revealed, detectors are installed from highest to lowest priority until the budget is exhausted. This notion captures time-phased securing of a transportation network as resources become available. Modeled as bilevel stochastic mixed-integer programs, both the fixed and random budget models are computationally challenging. Hence, we develop a tabu search heuristic to approximately solve both problem types, and we present computational results to assess the performance of our algorithm.
+Keywords
+Tabu search  Prioritization  Stochastic integer program   Network interdiction  

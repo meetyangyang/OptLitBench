@@ -1,0 +1,6 @@
+Solving Stochastic Linear Programs with Restricted Recourse Using Interior Point Methods
+Patrizia Beraldi;Roberto Musmanno;Chefi Triki;
+Abstract
+In this paper we present a specialized matrix factorization procedure for computing the dual step in a primal-dual path-following interior point algorithm for solving two-stage stochastic linear programs with restricted recourse. The algorithm, based on the Birge-Qi factorization technique, takes advantage of both the dual block-angular structure of the constraint matrix and of the special structure of the second-stage matrices involved in the model. Extensive computational experiments on a set of test problems have been conducted in order to evaluate the performance of the developed code. The results are very promising, showing that the code is competitive with state-of-the-art optimizers.
+Keywords
+stochastic linear programs  restricted recourse  interior point methods  structured matrix factorization  

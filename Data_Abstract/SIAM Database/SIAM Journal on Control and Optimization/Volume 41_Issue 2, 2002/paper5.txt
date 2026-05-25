@@ -1,0 +1,6 @@
+Stochastic Target Problems, Dynamic Programming, and Viscosity Solutions
+H. Mete  Soner and Nizar  Touzi;
+Abstract
+In this paper, we define and study a new class of optimal stochastic control problems which is closely related to the theory of backward SDEs and forward-backward SDEs. The controlled process $(X^\nu,Y^\nu)$ takes values in ${\mathbb R}^d \times {\mathbb R}$ and a given initial data for $X^{\nu}(0)$. Then the control problem is to find the minimal initial data for $Y^{\nu}$ so that it reaches a stochastic target at a specified terminal time T. The main application is from financial mathematics, in which the process $X^{\nu}$ is related to stock price, $Y^{\nu}$ is the wealth process, and $\nu$ is the portfolio.We introduce a new dynamic programming principle and prove that the value function of the stochastic target problem is a discontinuous viscosity solution of the associated dynamic programming equation. The boundary conditions are also shown to solve a first order variational inequality in the discontinuous viscosity sense. This provides a unique characterization of the value function which is the minimal initial data for $Y^{\nu}$.
+Keywords
+stochastic control, dynamic programming, discontinuous viscosity solutions, forward-backward SDEs, 49J20, 60J60, 49L20, 35K55, 

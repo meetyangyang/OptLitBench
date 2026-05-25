@@ -1,0 +1,6 @@
+Large Step Path-Following Methods for Linear Programming, Part I: Barrier Function Method
+Clovis C.  Gonzaga;
+Abstract
+The algorithm proposed in this paper is the classical logarithmic barrier function method with Newton–Raphson steps for the internal minimization of the penalized function. Polynomial behavior is obtained by stopping each internal cycle when the iterates approach the central trajectory. Each master iteration updates the penalty parameter by a constant factor, and the overall complexity bound depends on this factor: $O(nL)$ Newton iterations for an arbitrary constant, and $O(\sqrt{n} L)$ iterations for a constant dependent on $\sqrt{n} $.
+Keywords
+interior point methods, linear programming, barrier function methods, path following methods, 49D, 

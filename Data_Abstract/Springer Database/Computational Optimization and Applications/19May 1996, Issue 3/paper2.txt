@@ -1,0 +1,6 @@
+Tensor-Krylov methods for large nonlinear equations
+Ali Bouaricha;
+Abstract
+In this paper, we describe tensor methods for large systems of nonlinear equations based on Krylov subspace techniques for approximately solving the linear systems that are required in each tensor iteration. We refer to a method in this class as a tensor-Krylov algorithm. We describe comparative testing for a tensor-Krylov implementation versus an analogous implementation based on a Newton-Krylov method. The test results show that tensor-Krylov methods are much more efficient and robust than Newton-Krylov methods on hard nonlinear equations problems.
+Keywords
+tensor-Krylov methods  Newton-Krylov methods  nonlinear equations  sparse problems  ill-conditioned and singular problems  

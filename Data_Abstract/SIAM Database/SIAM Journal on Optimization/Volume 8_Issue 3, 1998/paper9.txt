@@ -1,0 +1,6 @@
+Polynomial Convergence of Primal-Dual Algorithms for Semidefinite Programming Based on the Monteiro and Zhang Family of Directions
+Renato D. C.  Monteiro;
+Abstract
+This paper establishes the polynomial convergence of the class of primal-dual feasible interior-point algorithms for semidefinite programming (SDP) based on the Monteiro and Zhang family of search directions. In contrast to Monteiro and Zhang's work [Math. Programming, 81 (1998), pp. 281--299], here no condition is imposed on the scaling matrix that determines the search direction. We show that the polynomial iteration-complexity bounds of two well-known algorithms for linear programming, namely the short-step path-following algorithm of Kojima, Mizuno, and Yoshise [Math. Programming, 44 (1989), pp. 1--26] and Monteiro and Adler [Math. Programming, 44 (1989), pp. 27--41 and pp. 43--66] and the predictor-corrector algorithm of Mizuno, Todd, and Ye [Math. Oper. Res., 18 (1993), pp. 945--981] carry over into the context of SDP. Since the Monteiro and Zhang family of directions includes the Alizadeh, Haeberly, and Overton direction, we establish for the first time the polynomial convergence of algorithms based on this search direction.
+Keywords
+semidefinite programming, interior-point methods, polynomial complexity, path-following methods, primal-dual methods, 65K05, 90C25, 90C30, 

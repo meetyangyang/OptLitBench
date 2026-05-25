@@ -1,0 +1,6 @@
+An Effective Method for Parameter Estimation with PDE Constraints with Multiple Right-Hand Sides
+Eldad  Haber, Matthias  Chung, and Felix  Herrmann;
+Abstract
+Often, parameter estimation problems of parameter-dependent PDEs involve multiple right-hand sides. The computational cost and memory requirements of such problems increase linearly with the number of right-hand sides. For many applications this is the main bottleneck of the computation. In this paper we show that problems with multiple right-hand sides can be reformulated as stochastic programming problems by combining the right-hand sides into a few „simultaneous” sources. This effectively reduces the cost of the forward problem and results in problems that are much cheaper to solve. We discuss two solution methodologies: namely sample average approximation and stochastic approximation. To illustrate the effectiveness of our approach we present two model problems, direct current resistivity and seismic tomography.
+Keywords
+PDE constrained optimization, stochastic optimization, stochastic approximation, sample average approximation, inverse problems, parameter estimation, large scale problems, DC resistivity, seismic tomography, multiple right hand sides, 35Q93, 35R30, 62L20, 65M32, 65N21, 90C15, 

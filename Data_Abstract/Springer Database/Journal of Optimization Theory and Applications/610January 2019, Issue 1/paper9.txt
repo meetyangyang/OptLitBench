@@ -1,0 +1,6 @@
+Local Attractors of Newton-Type Methods for Constrained Equations and Complementarity Problems with Nonisolated Solutions
+Andreas Fischer;Alexey F. Izmailov;Mikhail V. Solodov;
+Abstract
+For constrained equations with nonisolated solutions, we show that if the equation mapping is 2-regular at a given solution with respect to a direction in the null space of the Jacobian, and this direction is interior feasible, then there is an associated domain of starting points from which a family of Newton-type methods is well defined and necessarily converges to this specific solution (despite degeneracy, and despite that there are other solutions nearby). We note that unlike the common settings of convergence analyses, our assumptions subsume that a local Lipschitzian error bound does not hold for the solution in question. Our results apply to constrained and projected variants of the Gauss–Newton, Levenberg–Marquardt, and LP-Newton methods. Applications to smooth and piecewise smooth reformulations of complementarity problems are also discussed.
+Keywords
+Constrained equation  Complementarity problem  Nonisolated solution  2-Regularity  Newton-type method  Levenberg–Marquardt method  LP-Newton method  Piecewise Newton method  47J05  90C33  65K15  

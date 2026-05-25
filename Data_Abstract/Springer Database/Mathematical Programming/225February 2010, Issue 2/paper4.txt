@@ -1,0 +1,6 @@
+On the local convergence of adjoint Broyden methods
+Sebastian Schlenkrich;Andreas Griewank;Andrea Walther;
+Abstract
+The numerical solution of nonlinear equation systems is often achieved by so-called quasi-Newton methods. They preserve the rapid local convergence of Newton’s method at a significantly reduced cost per step by successively approximating the system Jacobian though low-rank updates. We analyze two variants of the recently proposed adjoint Broyden update, which for the first time combines the classical least change property with heredity on affine systems. However, the new update does require, the evaluation of so-called adjoint vectors, namely products of the transposed Jacobian with certain dual direction vectors. The resulting quasi-Newton method is linear contravariant in the sense of Deuflhard (Newton methods for nonlinear equations. Springer, Heidelberg, 2006) and it is shown here to be locally and q-superlinearly convergent. Our numerical results on a range of test problems demonstrate that the new method usually outperforms Newton’s and Broyden’s method in terms of runtime and iterations count, respectively.
+Keywords
+Nonlinear equations  Quasi-Newton methods  Adjoint based update  Automatic differentiation  65H10  65K05  90C53  

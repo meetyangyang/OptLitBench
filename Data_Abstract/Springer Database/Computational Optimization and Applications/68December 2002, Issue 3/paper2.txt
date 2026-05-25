@@ -1,0 +1,6 @@
+The Maximum Box Problem and its Application to Data Analysis
+Jonathan Eckstein;Peter L. Hammer;Ying Liu;Mikhail Nediak;Bruno Simeone;
+Abstract
+Given two finite sets of points X+ and X− in \(\mathbb{R}^n\) n , the maximum box problem consists of finding an interval (“box”) B = {x : l ≤ x ≤ u} such that B ∩ X− = ∅, and the cardinality of B ∩ X+ is maximized. A simple generalization can be obtained by instead maximizing a weighted sum of the elements of B ∩ X+. While polynomial for any fixed n, the maximum box problem is \( {\mathcal{N}}{\mathcal{P}}\)-hard in general. We construct an efficient branch-and-bound algorithm for this problem and apply it to a standard problem in data analysis. We test this method on nine data sets, seven of which are drawn from the UCI standard machine learning repository.
+Keywords
+discrete optimization  branch and bound  data analysis  patterns  

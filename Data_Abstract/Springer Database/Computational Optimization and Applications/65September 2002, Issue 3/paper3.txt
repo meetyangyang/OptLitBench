@@ -1,0 +1,6 @@
+An Integral Simplex Algorithm for Solving Combinatorial Optimization Problems
+Gerald L. Thompson;
+Abstract
+In this paper a local integral simplex algorithm will be described which, starting with the initial tableau of a set partitioning problem, makes pivots using the pivot on one rule until no more such pivots are possible because a local optimum has been found. If the local optimum is also a global optimum the process stops. Otherwise, a global integral simplex algorithm creates and solves the problems in a search tree consisting of a polynomial number of subproblems, subproblems of subproblems, etc. The solution to at least one of these subproblems is guaranteed to be an optimal solution to the original problem. If that solution has a bounded objective then it is an optimal set partitioning solution of the original problem, but if it has an unbounded objective then the original problem has no feasible solution. It will be shown that the total number of pivots required for the global integral simplex method to solve a set partitioning problem having m rows, where m is an arbitrary but fixed positive integer, is bounded by a polynomial function of n.
+Keywords
+Feasible Solution  Global Optimum  Local Optimum  Combinatorial Optimization  Operation Research  

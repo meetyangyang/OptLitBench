@@ -1,0 +1,6 @@
+A primal—dual affine-scaling potential-reduction algorithm for linear programming
+Shinji Mizuno;Atsushi Nagasawa;
+Abstract
+We propose a potential-reduction algorithm which always uses the primal—dual affine-scaling direction as a search direction. We choose a step size at each iteration of the algorithm such that the potential function does not increase, so that we can take a longer step size than the minimizing point of the potential function. We show that the algorithm is polynomial-time bounded. We also propose a low-complexity algorithm, in which the centering direction is used whenever an iterate is far from the path of centers.
+Keywords
+Linear programming  interior point algorithm  complexity  potential function  

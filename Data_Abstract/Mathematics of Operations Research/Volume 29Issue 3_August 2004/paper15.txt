@@ -1,0 +1,6 @@
+Hard Equality Constrained Integer Knapsacks
+Karen Aardal;Arjen K. Lenstra;
+Abstract
+We consider the following integer feasibility problem: Given positive integer numbers a0, a1,…,an, with gcd(a1,…,an) = 1 and a = (a1,…,an), does there exist a vector x ∈ ℤn≥0 satisfying a x = a0? We prove that if the coefficients a1,…,an have a certain decomposable structure, then the Frobenius number associated with a1,…,an, i.e., the largest value of a0 for which a x = a0 does not have a nonnegative integer solution, is close to a known upper bound. In the instances we consider, we take a0 to be the Frobenius number. Furthermore, we show that the decomposable structure of a1,…,an makes the solution of a lattice reformulation of our problem almost trivial, since the number of lattice hyperplanes that intersect the polytope resulting from the reformulation in the direction of the last coordinate is going to be very small. For branch-and-bound such instances are difficult to solve, since they are infeasible and have large values of a0/ai, 1 ≤ i ≤ n. We illustrate our results by some computational examples.
+Keywords
+lattice basis reduction branching on hyperplanes Frobenius number 

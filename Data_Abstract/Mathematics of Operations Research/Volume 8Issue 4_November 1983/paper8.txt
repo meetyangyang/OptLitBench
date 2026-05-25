@@ -1,0 +1,6 @@
+A Homotopy for Solving Large, Sparse and Structured Fixed Point Problems
+R. Saigal;
+Abstract
+We consider here the problem of solving a system of n nonlinear equations in n variables, when n is large, but the underlying mapping has a sparse Jacobian, and is also structured. We present a homotopy, having a variable dimension feature, whose implementation in a PL algorithm effectively exploits the sparsity of the Jacobian and separability of the mapping. The implementation given here uses the Cholesky factorization and is thus stable. An application to a large system is also discussed.
+Keywords
+homotopy methods variable dimension algorithms nonlinear equations 

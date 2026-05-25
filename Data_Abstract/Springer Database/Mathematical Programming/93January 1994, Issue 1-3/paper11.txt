@@ -1,0 +1,6 @@
+Global minimization by reducing the duality gap
+Aharon Ben-Tal;Gideon Eiger;Vladimir Gershovitz;
+Abstract
+We derive a general principle demonstrating that by partitioning the feasible set, the duality gap, existing between a nonconvex program and its lagrangian dual, can be reduced, and in important special cases, even eliminated. The principle can be implemented in a Branch and Bound algorithm which computes an approximate global solution and a corresponding lower bound on the global optimal value. The algorithm involves decomposition and a nonsmooth local search. Numerical results for applying the algorithm to the pooling problem in oil refineries are given.
+Keywords
+Global optimization  nonconvex programming  duality gap  branch and bound method  decomposition  nonsmooth optimization  pooling problem  

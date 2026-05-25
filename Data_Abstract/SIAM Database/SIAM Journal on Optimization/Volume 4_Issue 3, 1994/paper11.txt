@@ -1,0 +1,6 @@
+The Iterated Kalman Smoother as a Gauss–Newton Method
+Bradley M.  Bell;
+Abstract
+The Kalman smoother is known to be the maximum likelihood estimator when the measurement and transition functions are affine; i.e., a linear function plus a constant. A new proof of this result is presented that shows that the Kalman smoother decomposes a large least squares problem into a sequence of much smaller problems. The iterated Kalman smoother is then presented and shown to be a Gauss–Newton method for maximizing the likelihood function in the nonaffine case. This method takes advantage of the decomposition obtained with the Kalman smoother.
+Keywords
+nonlinear Kalman smoothing, maximum likelihood, nonlinear least squares, Gauss–Newton, nonlinear recursive least squares, 93E11, 

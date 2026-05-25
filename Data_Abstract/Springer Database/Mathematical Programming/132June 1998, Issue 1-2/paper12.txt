@@ -1,0 +1,6 @@
+Scheduling uniform machines on-line requires nondecreasing speed ratios
+Arjen P. A. Vestjens;
+Abstract
+We consider the following on-line scheduling problem. We have to schedulen independent jobs, wheren is unknown, onm uniform parallel machines so as to minimize the makespan; preemption is allowed. Each job becomes available at its release date, and this release date is not known beforehand; its processing requirement becomes known at its arrival. We show that if only a finite number of preemptions is allowed, there exists an algorithm that solves the problem if and only ifsi−1/si ⩽ si/si+1 for alli = 2,⋯,m − 1, wheresi denotes theith largest machine speed. We also show that if this condition is satisfied, then O(mn) preemptions are necessary, and we provide an example to show that this bound is tight. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+On-line algorithms  Preemptive scheduling  Uniform machines  

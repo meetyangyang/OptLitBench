@@ -1,0 +1,6 @@
+The hybrid-adjoint method: a semi-analytic gradient evaluation technique applied to composite cure cycle optimization
+Graeme J. Kennedy;Jorn S. Hansen;
+Abstract
+A method is presented for determining the optimal autoclave temperature history for pre-impregnated thermoset composites based on their failure performance. A coupled finite-element model that incorporates a thermochemical and incremental elastic analysis is used to predict the residual stress distribution at the edge of a thick composite beam. The optimal autoclave temperature is sought using a gradient-based optimization algorithm. The objective is designed to maximize the minimum failure load of the manufactured beam amongst a set of load cases, while the constraints are imposed to ensure that the composite is uniformly cured and does not sustain temperature damage during the manufacturing process. The hybrid-adjoint, a novel semi-analytic gradient evaluation technique is developed, that incorporates elements of both the adjoint and direct sensitivity methods. Results demonstrate that the method is highly accurate and competitive with a full adjoint approach for a moderate number of design variables.
+Keywords
+Sensitivity analysis  Composite processing  Semi-analytic gradient  Complex-step method  

@@ -1,0 +1,6 @@
+Convergence of the Gradient Projection Method for Generalized Convex Minimization
+Changyu Wang;Naihua Xiu;
+Abstract
+This paper develops convergence theory of the gradient projection method by Calamai and Moré (Math. Programming, vol. 39, 93–116, 1987) which, for minimizing a continuously differentiable optimization problem min{f(x) : x ε Ω} where Ω is a nonempty closed convex set, generates a sequence xk+1 = P(xk − αk ∇ f(xk)) where the stepsize αk > 0 is chosen suitably. It is shown that, when f(x) is a pseudo-convex (quasi-convex) function, this method has strong convergence results: either xk → x* and x* is a minimizer (stationary point); or ‖xk‖ → ∞ arg min{f(x) : x ε Ω} = ∅, and f(xk) ↓ inf{f(x) : x ε Ω}.
+Keywords
+generalized convex minimization  gradient projection method  global convergence  

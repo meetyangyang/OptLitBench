@@ -1,0 +1,6 @@
+A New Efficient Large-Update Primal-Dual Interior-Point Method Based on a Finite Barrier
+Y. Q.  Bai, M.  El Ghami, and C.  Roos;
+Abstract
+We introduce a new barrier-type function which is not a barrier function in the usual sense: it has finite value at the boundary of the feasible region. Despite this, the iteration bound of a large-update interior-point method based on this function is shown to be $O({\sqrt{n}\,({\rm log}\,n)\,{\rm log}\,\frac{n}{\varepsilon}})$, which is as good as the currently best known bound for large-update methods. The recently introduced property of \emph{exponential convexity} for the kernel function underlying the barrier function, as well as the strong convexity of the kernel function, are crucial in the analysis.
+Keywords
+linear optimization, interior-point method, primal-dual method, large-update method, polynomial complexity, 90C05, 

@@ -1,0 +1,6 @@
+A hybrid heuristic for the diameter constrained minimum spanning tree problem
+Abilio Lucena;Celso C. Ribeiro;Andréa C. Santos;
+Abstract
+We propose a hybrid GRASP and ILS based heuristic for the diameter constrained minimum spanning tree problem. The latter typically models network design applications where, under a given quality requirement, all vertices must be connected at minimum cost. An adaptation of the one time tree heuristic is used to build feasible diameter constrained spanning trees. Solutions thus obtained are then attempted to be improved through local search. Four different neighborhoods are investigated, in a scheme similar to VND. Upper bounds within 2% of optimality were obtained for problems in two test sets from the literature. Additionally, upper bounds stronger than those previously obtained in the literature are reported for OR-Library instances.
+Keywords
+Spanning trees  Diameter constrained spanning trees  Heuristics  GRASP  Iterated local search  

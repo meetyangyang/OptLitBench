@@ -1,0 +1,6 @@
+Why a Pure Primal Newton Barrier Step May be Infeasible
+Margaret H.  Wright;
+Abstract
+Modern barrier methods for constrained optimization are sometimes portrayed conceptually as a sequence of inexact minimizations, with only a very few Newton iterations (perhaps just one) for each value of the barrier parameter. Unfortunately, this rosy image does not accurately reflect reality when the barrier parameter is reduced at a reasonable rate, as in a practical (long-step) method. Local analysis is presented indicating why a pure Newton step in a typical long-step barrier method for nonlinearly constrained optimization may be seriously infeasible, even when taken from an apparently favorable point; hence accurate calculation of the Newton direction does not guarantee an effective algorithm. The features described are illustrated numerically and connected to known theoretical results for well-behaved convex problems satisfying common assumptions such as self-concordancy. The contrasting nature of an approximate step to the desired minimizes of the barrier function is also discussed.
+Keywords
+interior method, logarithmic barrier function, primal method, primal Newton step, 65K05, 90C30, 

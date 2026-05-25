@@ -1,0 +1,6 @@
+Bearing parameter identification of rotor–bearing system using clustering-based hybrid evolutionary algorithm
+Yong-Han Kim;Bo-Suk Yang;Andy C. C. Tan;
+Abstract
+A new bearing parameter identification methodology based on global optimization scheme using measured unbalance response of rotor–bearing system is proposed. A new hybrid evolutionary algorithm which is a clustering-based hybrid evolutionary algorithm (CHEA), is proposed for global optimization scheme to improve the convergence speed and global search ability. Clustering of individuals by using a neural network is introduced to evaluate the degree of mature of genetic evolution. After clustering-based genetic algorithm (GA), local search is carried out for each cluster to judge the convexity of each cluster. Finally, random search is adapted for extrasearching to find a potential global candidate, which could be missed in GA and local search. The proposed methodology can identify not only unknown bearing parameters but also unbalance information of disk by simply setting them as unknown parameters. Numerical example and experimental results were used to verify the effectiveness of the proposed methodology.
+Keywords
+Clustering-based hybrid evolutionary algorithm  Optimization  Identification  Rotor-bearing system  Bearing parameter  

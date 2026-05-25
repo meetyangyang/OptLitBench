@@ -1,0 +1,6 @@
+A relaxed projection method for finite-dimensional equilibrium problems
+ S.   Scheimberg ; P.S.M.   Santos ;
+Abstract
+ In this article we consider an equilibrium problem for a differentiable bifunction which is not necessarily monotone. We present an implementable projection method. At each iteration, only one inexact projection onto a simple approximation of the constraint set is performed, such as a polyhedron, which renders it numerically attractive. The algorithm can identify, in practice, a subsequence that converges to a solution under reasonable assumptions. Some numerical results are reported showing the performance of our algorithm. 
+Keywords
+projection method, equilibrium problem, weak cocoercivity 

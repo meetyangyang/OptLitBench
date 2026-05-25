@@ -1,0 +1,6 @@
+On-line k-Truck Problem and Its Competitive Algorithms
+Weimin Ma;Yinfeng Xu;Kanliang Wang;
+Abstract
+In this paper, based on the Position Maintaining Strategy (PMS for short), on-line scheduling of k-truck problem, which is a generalization of the famous k-server problem, is originally presented by our team. We proposed several competitive algorithms applicable under different conditions for solving the on-line k-truck problem. First, a competitive algorithm with competitive ratio 2k+1/θ is given for any θ≥1. Following that, if θ≥(c+1)/(c-1) holds, then there must exist a (2k-1)-competitive algorithm for k-truck problem, where c is the competitive ratio of the on-line algorithm about the relevant k-server problem. And then a greedy algorithm with competitive ratio 1+λ/θ, where lambda is a parameter related to the structure property of a given graph, is given. Finally, competitive algorithms with ratios 1+1/θ are given for two special families of graphs.
+Keywords
+PMS  On-line k-truck problem  Competitive algorithm  Competitive ratio  

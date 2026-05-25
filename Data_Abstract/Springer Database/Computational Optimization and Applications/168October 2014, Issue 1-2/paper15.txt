@@ -1,0 +1,6 @@
+Optimal parameter selection for nonlinear multistage systems with time-delays
+Chongyang Liu;Ryan Loxton;Kok Lay Teo;
+Abstract
+In this paper, we consider a novel dynamic optimization problem for nonlinear multistage systems with time-delays. Such systems evolve over multiple stages, with the dynamics in each stage depending on both the current state of the system and the state at delayed times. The optimization problem involves choosing the values of the time-delays, as well as the values of additional parameters that influence the system dynamics, to minimize a given cost functional. We first show that the partial derivatives of the system state with respect to the time-delays and system parameters can be computed by solving a set of auxiliary dynamic systems in conjunction with the governing multistage system. On this basis, a gradient-based optimization algorithm is proposed to determine the optimal values of the delays and system parameters. Finally, two example problems, one of which involves parameter identification for a realistic fed-batch fermentation process, are solved to demonstrate the algorithm’s effectiveness.
+Keywords
+Multistage system  Time-delay system  Nonlinear optimization  Parameter identification  

@@ -1,0 +1,6 @@
+Privacy-preserving horizontally partitioned linear programs
+Olvi L. Mangasarian;
+Abstract
+We propose a simple privacy-preserving reformulation of a linear program whose equality constraint matrix is partitioned into groups of rows. Each group of matrix rows and its corresponding right hand side vector are owned by a distinct private entity that is unwilling to share or make public its row group or right hand side vector. By multiplying each privately held constraint group by an appropriately generated and privately held random matrix, the original linear program is transformed into an equivalent one that does not reveal any of the privately held data or make it public. The solution vector of the transformed secure linear program is publicly generated and is available to all entities.
+Keywords
+Security  Privacy-preserving  Linear programming  Horizontally partitioned data  

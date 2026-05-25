@@ -1,0 +1,6 @@
+Solving a Huff-like Stackelberg location problem on networks
+Boglárka G.-Tóth;Kristóf Kovács;
+Abstract
+This work deals with a Huff-like Stackelberg problem where the leader wants to locate a facility so that its profit is maximal after the competitor (the follower) has built its facility. We assume that the follower makes a rational decision, maximizing its own profit. The inelastic demand is aggregated into the vertices of a graph, and facilities can be located along the edges. For this computationally hard problem we give a Branch and Bound algorithm using interval analysis and DC bounds. Our computational experience shows that the problem can be solved on medium sized networks in reasonable time.
+Keywords
+Stackelberg problem  Bilevel optimization  Branch and Bound   Interval analysis  DC decomposition  

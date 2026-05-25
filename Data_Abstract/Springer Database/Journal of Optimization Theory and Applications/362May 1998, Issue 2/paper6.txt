@@ -1,0 +1,6 @@
+Convergence Analysis of Some Methods for Minimizing a Nonsmooth Convex Function
+J. R. Birge;L. Qi;Z. Wei;
+Abstract
+In this paper, we analyze a class of methods for minimizing a proper lower semicontinuous extended-valued convex function \(f:\Re^{\mathfrak{n}} \to \Re \cup {\infty}\). Instead of the original objective function f, we employ a convex approximation fk+ 1 at the kth iteration. Some global convergence rate estimates are obtained. We illustrate our approach by proposing (i) a new family of proximal point algorithms which possesses the global convergence rate estimate \(f\left( {x_k } \right) - \min _{x \in \Re ^n } f\left( x \right) = O\left( {1/\left( {\Sigma _{j = 0}^{k - 1} \sqrt {\lambda _j } } \right)^2 } \right)\) even it the iteration points are calculated approximately, where \({\lambda_k}_{k = 0}^\infty\) are the proximal parameters, and (ii) a variant proximal bundle method. Applications to stochastic programs are discussed.
+Keywords
+Nonsmooth convex optimization  proximal point method  bundle algorithm  stochastic programming  

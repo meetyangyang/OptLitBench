@@ -1,0 +1,6 @@
+An Efficient Interior-Point Method for Convex Multicriteria Optimization Problems
+Jörg Fliege;
+Abstract
+In multicriteria optimization, several objective functions have to be minimized simultaneously. We propose a new efficient method for approximating the solution set of a multicriteria optimization problem, where the objective functions involved are arbitrary convex functions and the set of feasible points is convex. The method is based on generating warm-start points for an efficient interior-point algorithm, while the approximation computed consists of a finite set of discrete points. Polynomial-time complexity results for the method proposed are derived. In these estimates, the number of operations per point decreases when the number of points generated for the approximation increases. This reduced theoretical complexity estimate is a novel feature and is not observed in standard solution techniques for multicriteria optimization problems.
+Keywords
+convex multicriteria optimization interior point polynomial time 

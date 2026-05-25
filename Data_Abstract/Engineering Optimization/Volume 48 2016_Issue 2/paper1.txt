@@ -1,0 +1,6 @@
+A novel surrogate-based approach for optimal design of electromagnetic-based circuits
+Abdel-Karim S.O. Hassan;Ahmed S.A. Mohamed;Azza A. Rabie;Ahmed S. Etman;
+Abstract
+A new geometric design centring approach for optimal design of central processing unit-intensive electromagnetic (EM)-based circuits is introduced. The approach uses norms related to the probability distribution of the circuit parameters to find distances from a point to the feasible region boundaries by solving nonlinear optimization problems. Based on these normed distances, the design centring problem is formulated as a max–min optimization problem. A convergent iterative boundary search technique is exploited to find the normed distances. To alleviate the computation cost associated with the EM-based circuits design cycle, space-mapping (SM) surrogates are used to create a sequence of iteratively updated feasible region approximations. In each SM feasible region approximation, the centring process using normed distances is implemented, leading to a better centre point. The process is repeated until a final design centre is attained. Practical examples are given to show the effectiveness of the new design centring method for EM-based circuits.
+Keywords
+EM-based circuit design, design centring, normed distances, optimal design, space-mapping surrogates, yield optimization 

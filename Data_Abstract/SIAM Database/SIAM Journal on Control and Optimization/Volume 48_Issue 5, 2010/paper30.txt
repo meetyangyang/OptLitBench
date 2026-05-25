@@ -1,0 +1,6 @@
+Regression Methods for Stochastic Control Problems and Their Convergence Analysis
+Denis  Belomestny, Anastasia  Kolodko, and John  Schoenmakers;
+Abstract
+In this paper we develop several regression algorithms for solving general stochastic optimal control problems via Monte Carlo. This type of algorithm is particularly useful for problems with a high-dimensional state space and complex dependence structure of the underlying Markov process with respect to some control. The main idea behind the algorithms is to simulate a set of trajectories under some reference measure and to use the Bellman principle combined with fast methods for approximating conditional expectations and functional optimization. Theoretical properties of the presented algorithms are investigated, and the convergence to the optimal solution is proved under some assumptions. Finally, the presented methods are applied in a numerical example of a high-dimensional controlled Bermudan basket option in a financial market with a large investor.
+Keywords
+optimal stochastic control, regression methods, convergence analysis, 60G40, 65C05, 

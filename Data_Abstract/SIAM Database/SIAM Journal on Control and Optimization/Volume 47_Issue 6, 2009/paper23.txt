@@ -1,0 +1,6 @@
+Stability and Asymptotic Optimality of Generalized MaxWeight Policies
+Sean  Meyn;
+Abstract
+It is shown that stability of the celebrated MaxWeight or back pressure policies is a consequence of the following interpretation: either policy is myopic with respect to a surrogate value function of a very special form, in which the “marginal disutility” at a buffer vanishes for a vanishingly small buffer population. This observation motivates the h-MaxWeight policy, defined for a wide class of functions h. These policies share many of the attractive properties of the MaxWeight policy as follows: (i) Arrival rate data is not required in the policy. (ii) Under a variety of general conditions, the policy is stabilizing when h is a perturbation of a monotone linear function, a monotone quadratic, or a monotone Lyapunov function for the fluid model. (iii) A perturbation of the relative value function for a workload relaxation gives rise to a myopic policy that is approximately average-cost optimal in heavy traffic, with logarithmic regret. The first results are obtained for a general Markovian network model. Asymptotic optimality is established for a general Markovian scheduling model with a single bottleneck, and with homogeneous servers.
+Keywords
+queueing networks, routing, scheduling, optimal control, 90B35, 68M20, 90B15, 93E20, 60J20, 

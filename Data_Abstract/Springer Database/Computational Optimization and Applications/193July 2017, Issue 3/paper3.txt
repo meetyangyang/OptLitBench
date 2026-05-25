@@ -1,0 +1,6 @@
+Total variation image deblurring with space-varying kernel
+Daniel O’Connor;Lieven Vandenberghe;
+Abstract
+Image deblurring techniques based on convex optimization formulations, such as total-variation deblurring, often use specialized first-order methods for large-scale nondifferentiable optimization. A key property exploited in these methods is spatial invariance of the blurring operator, which makes it possible to use the fast Fourier transform (FFT) when solving linear equations involving the operator. In this paper we extend this approach to two popular models for space-varying blurring operators, the Nagy–O’Leary model and the efficient filter flow model. We show how splitting methods derived from the Douglas–Rachford algorithm can be implemented with a low complexity per iteration, dominated by a small number of FFTs.
+Keywords
+Image deblurring  Total variation  Convex optimization  Monotone operators  Douglas–Rachford algorithm  65K05  90C25  49M27  68U10  

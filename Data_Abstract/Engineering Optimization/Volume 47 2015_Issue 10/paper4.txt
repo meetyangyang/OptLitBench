@@ -1,0 +1,6 @@
+Sequential interactive evolution for finding high-quality topologies
+Gideon Avigad;Shaul Salomon;George Knopf;
+Abstract
+Finding a diverse set of high-quality (HQ) topologies for a single-objective optimization problem using an evolutionary computation algorithm can be difficult without a reliable measure that adequately describes the dissimilarity between competing topologies. In this article, a new approach for enhancing diversity among HQ topologies for engineering design applications is proposed. The technique initially selects one HQ solution and then searches for alternative HQ solutions by performing an optimization of the original objective and its dissimilarity with respect to the previously found solution. The proposed multi-objective optimization approach interactively amalgamates user articulated preferences with an evolutionary search so as sequentially to produce a set of diverse HQ solutions to a single-objective problem. For enhancing diversity, a new measure is suggested and an approach to reducing its computational time is studied and implemented. To illustrate the technique, a series of studies involving different topologies represented as bitmaps is presented.
+Keywords
+topology optimization, genetic algorithms, diversity, multi-objective optimization, interactivity 

@@ -1,0 +1,6 @@
+Algorithms for the longest common subsequence problem for multiple strings based on geometric maxima
+ Koji   Hakata ; Hiroshi   Imai ;
+Abstract
+ Given two or more strings (for example, DNA and amino acid sequences), the longest common subsequence (LCS for short) problem is to determine the longest common subsequence obtained by deleting zero or more symbols from each string. The algorithms for computing an LCS between two strings were given by many papers, but there are few efficient algorithms for computing an LCS between more than two strings. This paper proposes a method for computing efficiently the LCS between three and more strings of small alphabet size, evaluates its theoretical time complexity, and estimates the computing time by computational experiments. Using this method, the LCS problem for eight strings of more than 120 length can be solved in about 40min on a slow workstation. 
+Keywords
+Longest common subsequence, Dynamic programming, Geometric maxima, Computational geometry 

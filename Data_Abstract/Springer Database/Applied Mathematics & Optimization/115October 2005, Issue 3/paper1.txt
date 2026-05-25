@@ -1,0 +1,14 @@
+The Limits of Porous Materials in the Topology Optimization of Stokes Flows
+Anton Evgrafov;
+Abstract
+We consider a problem concerning the distribution of a solid material
+in a given bounded control volume with the goal to minimize the potential power
+of the Stokes flow with given velocities at the boundary through the material-free
+part of the domain.We also study the relaxed problem of the optimal distribution of
+the porous material with a spatially varying Darcy permeability tensor, where the
+governing equations are known as the Darcy–Stokes, or Brinkman, equations. We
+show that the introduction of the requirement of zero power dissipation due to the
+flow through the porous material into the relaxed problem results in it becoming a
+well-posed mathematical problem, which admits optimal solutions that have extreme permeability properties (i.e., assume only zero or infinite permeability); thus, they are also optimal in the original (non-relaxed) problem. Two numerical techniques are presented for the solution of the constrained problem. One is based on a sequence of optimal Brinkman flows with increasing viscosities, from the mathematical point of view nothing but the exterior penalty approach applied to the problem. Another technique is more special, and is based on the “sizing” approximation of the problem using a mix of two different porous materials with high and low permeabilities, respectively. This paper thus complements the study of Borrvall and Petersson (Internat. J. Numer. Methods Fluids, vol. 41, no. 1, pp. 77–107, 2003), where only sizing optimization problems are treated.
+Keywords
+Topology optimization  Fluid mechanics  Stokes flow  

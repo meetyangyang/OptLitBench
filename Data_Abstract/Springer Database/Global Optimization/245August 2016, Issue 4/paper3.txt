@@ -1,0 +1,6 @@
+A stabilized filter SQP algorithm for nonlinear programming
+Chungen Shen;Lei-Hong Zhang;Wei Liu;
+Abstract
+This paper presents a stabilized filter sequential quadratic programming (SQP) method for the general nonlinear optimization problems. The technique of stabilizing the inner quadratic programmings is an efficient strategy for the degenerate problem and brings the local superlinear convergence, while the integrated filter technique works effectively and guarantees the global convergence. The new algorithm works on both the primal and dual variables and solves the problem within the computational complexity comparable to the classical SQP algorithm. For the convergence, we show that (1) it converges either to a Karush–Kuhn–Tucker point at which the cone-continuity property holds, or to a stationary point in the sense of minimizing the constraint violation, and (2) under some second-order sufficient conditions, it converges locally superlinearly without any constraint qualifications. Our preliminary numerical results on a set of CUTEr test problems as well as on degenerate problems demonstrate the efficiency of the new algorithm.
+Keywords
+Stabilized SQP  Filter  Cone-continuity property   Global convergence  Local convergence  90C30  

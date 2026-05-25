@@ -1,0 +1,4 @@
+Shorter Path Constraints for the Resource Constrained Shortest Path Problem
+Thorsten Gellermann;Meinolf Sellmann;Robert Wright;
+Abstract
+Recently, new cost-based filtering algorithms for shorter-path constraints have been developed. However, so far only the theoretical properties of shorter-path constraint filtering have been studied. We provide the first extensive experimental evaluation of the new algorithms in the context of the resource constrained shortest path problem. We show how reasoning about path-substructures in combination with CP-based Lagrangian relaxation can help to improve significantly over previously developed problem-tailored filtering algorithms and investigate the impact of required-edge detection, undirected versus directed filtering, and the choice of the algorithm optimizing the Lagrangian dual.

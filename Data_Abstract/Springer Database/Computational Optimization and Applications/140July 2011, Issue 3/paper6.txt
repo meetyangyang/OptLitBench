@@ -1,0 +1,6 @@
+Elliptic control problems with gradient constraints—variational discrete versus piecewise constant controls
+Andreas Günther;Michael Hinze;
+Abstract
+We consider an elliptic optimal control problem with pointwise bounds on the gradient of the state. To guarantee the required regularity of the state we include the L  r -norm of the control in our cost functional with r>d (d=2,3). We investigate variational discretization of the control problem (Hinze in Comput. Optim. Appl. 30:45–63, 2005) as well as piecewise constant approximations of the control. In both cases we use standard piecewise linear and continuous finite elements for the discretization of the state. Pointwise bounds on the gradient of the discrete state are enforced element-wise. Error bounds for control and state are obtained in two and three space dimensions depending on the value of r.
+Keywords
+Elliptic optimal control problem  Gradient constraints  Error estimates  

@@ -1,0 +1,6 @@
+Inexact SQP Interior Point Methods and Large Scale Optimal Control Problems
+F.  Leibfritz and E. W.  Sachs;
+Abstract
+Optimal control problems with partial differential equations lead to large scale nonlinear optimization problems with constraints. An efficient solver which takes into account the structure and also the size of the problem is an inexact sequential quadratic programming method where the quadratic problems are solved iteratively. Based on a reformulation as a mixed nonlinear complementarity problem we give a measure of when to terminate the iterative quadratic program solver. For the latter we use an interior point algorithm. Under standard assumptions, local linear, superlinear, and quadratic convergence can be proved. The numerical application is an optimal control problem from nonlinear heat conduction.
+Keywords
+inexact SQP method, interior point method, optimal control, partial differential equations, 35K55, 65M99, 49N99, 90C06, 90C30, 93A15, 65K05, 

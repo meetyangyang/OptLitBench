@@ -1,0 +1,6 @@
+Adaptive Large-Neighborhood Self-Regular Predictor-Corrector Interior-Point Methods for Linear Optimization
+M. Salahi;T. Terlaky;
+Abstract
+It is known that predictor-corrector methods in a large neighborhood of the central path are among the most efficient interior-point methods (IPMs) for linear optimization (LO) problems. The best iteration bound based on the classical logarithmic barrier function is O(nlog (n/∊)). In this paper, we propose a family of self-regular proximity-based predictor-corrector (SRPC) IPMs for LO in a large neighborhood of the central path. In the predictor step, we use either an affine scaling or a self-regular direction; in the corrector step, we use always a self-regular direction. Our new algorithms use a special proximity function with different search directions and thus allows us to improve the so far best theoretical iteration complexity for a family of SRPC IPMs. An O \((\sqrt{n}{\exp} ((1 - q + {\log} n)/2) {\log} n {\log} (n/\epsilon))\) worst-case iteration bound with quadratic convergence is established, where q is the barrier degree of the SR proximity function.
+Keywords
+Linear optimization  predictor-corrector methods  quadratic convergence  self-regular proximity functions  polynomial complexity  

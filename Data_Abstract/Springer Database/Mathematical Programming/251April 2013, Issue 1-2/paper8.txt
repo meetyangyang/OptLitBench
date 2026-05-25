@@ -1,0 +1,6 @@
+Stochastic binary problems with simple penalties for capacity constraints violations
+B. Fortz;M. Labbé;F. Louveaux;M. Poss;
+Abstract
+This paper studies stochastic programs with first-stage binary variables and capacity constraints, using simple penalties for capacities violations. In particular, we take a closer look at the knapsack problem with weights and capacity following independent random variables and prove that the problem is weakly \({\mathcal{N}\mathcal{P}}\)-hard in general. We provide pseudo-polynomial algorithms for three special cases of the problem: constant weights and capacity uniformly distributed, subset sum with Gaussian weights and strictly positively distributed random capacity, and subset sum with constant weights and arbitrary random capacity. We then turn to a branch-and-cut algorithm based on the outer approximation of the objective function. We provide computational results for the stochastic knapsack problem (i) with Gaussian weights and constant capacity and (ii) with constant weights and capacity uniformly distributed, on randomly generated instances inspired by computational results for the knapsack problem.
+Keywords
+Stochastic programming  Knapsack problem  Pseudo-polynomial algorithm  Mixed-integer non-linear programming  Branch-and-cut algorithm  90C11  90C09  90C15  

@@ -1,0 +1,6 @@
+Lattice basis reduction: Improved practical algorithms and solving subset sum problems
+C. P. Schnorr;M. Euchner;
+Abstract
+We report on improved practical algorithms for lattice basis reduction. We propose a practical floating point version of theL3-algorithm of Lenstra, Lenstra, Lovász (1982). We present a variant of theL3-algorithm with “deep insertions” and a practical algorithm for block Korkin—Zolotarev reduction, a concept introduced by Schnorr (1987). Empirical tests show that the strongest of these algorithms solves almost all subset sum problems with up to 66 random weights of arbitrary bit length within at most a few hours on a UNISYS 6000/70 or within a couple of minutes on a SPARC1 + computer.
+Keywords
+Lattice basis reduction  LLL-reduction  Korkin—Zolotarev reduction  Block Korkin—Zolotarev reduction  Shortest lattice vector problem  Subset sum problem  Low density subset sum algorithm  Knapsack problem  Stable reduction algorithm  

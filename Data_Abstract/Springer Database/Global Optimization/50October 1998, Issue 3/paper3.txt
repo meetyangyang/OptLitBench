@@ -1,0 +1,6 @@
+A Crystal Growth Approach for Topographical Global Optimization
+Chyi-Yeu Lin;I-Ming Huang;
+Abstract
+A new approach for topographical global minimization of a function f(x), x ∈ A ⊂ Rn by using sampled points in A is presented. The globally sampled points are firstly obtained by uniform random sampling or uniform sampling with threshold distances. The point with the lowest function value is used as the nucleus atom to start a crystal growth process. A first triangular nucleus includes the nucleus atom and two nearest points. Sequential crystal growth is continued for which a point next closest to the nucleus atom is bonded to the crystal by attaching to two nearest solidified points. A solidified point will be marked during the crystal growth process if any of two connected points has a lower function value. Upon completion of entire crystal growth process, all unmarked points are then used as starting points for subsequent local minimizations. Extension of the topographical algorithms to constrained problems is exercised by using penalty functions. Formulas for estimation on the number of sampled points for problems with an assumed number of local minima are provided. Results on three global minimization problems by two topographical algorithms are discussed.
+Keywords
+Global optimization  Topography graph  Crystal growth  

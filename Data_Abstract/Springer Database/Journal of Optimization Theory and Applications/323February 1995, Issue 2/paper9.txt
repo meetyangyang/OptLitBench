@@ -1,0 +1,6 @@
+Optimization of a linear fractional function on a hypersphere of an affine space
+G. Pacelli;
+Abstract
+In this paper, we consider the following nonlinear programming problem:$$max[min]\{ f(x) = (c^T  \cdot x + c_0 )/(d^T  \cdot x + d_0 )|x \in L\} ,$$ in the feasible region$$L = \{ x \in R^n |A \cdot x = b,l(x) \leqslant 0\} ;$$ here,c andd are vectors ofR n ;c0,d0 are real constants;A is anm×n matrix of rankm; b is a vector ofR m ;l(x)=0 is the equation of a bounded hypersurface inR n . We assume thatd T·x+d 0≠0 in L. We study the case where$$l(x) = |x - e|^2  - r^2 ,$$ wherer≠0 ande is the vector with all the components equal to 1. We obtain a simple explicit solution, and we illustrate the resulting algorithm.
+Keywords
+Nonlinear programming problems  pseudomonotonic functions  Kuhn-Tucker conditions  

@@ -1,0 +1,6 @@
+The Lagrangian Globalization Method for Nonsmooth Constrained Equations
+Xiaojiao Tong;Liqun Qi;Yu-Fei Yang;
+Abstract
+The difficulty suffered in optimization-based algorithms for the solution of nonlinear equations lies in that the traditional methods for solving the optimization problem have been mainly concerned with finding a stationary point or a local minimizer of the underlying optimization problem, which is not necessarily a solution of the equations. One method to overcome this difficulty is the Lagrangian globalization (LG for simplicity) method. This paper extends the LG method to nonsmooth equations with bound constraints. The absolute system of equations is introduced. A so-called Projected Generalized-Gradient Direction (PGGD) is constructed and proved to be a descent direction of the reformulated nonsmooth optimization problem. This projected approach keeps the feasibility of the iterates. The convergence of the new algorithm is established by specializing the PGGD. Numerical tests are given.
+Keywords
+constrained nonsmooth equations  lagrangian globalization method  stationary point  global convergence  

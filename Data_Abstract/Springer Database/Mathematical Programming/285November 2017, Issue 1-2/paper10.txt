@@ -1,0 +1,6 @@
+On imposing connectivity constraints in integer programs
+Yiming Wang;Austin Buchanan;Sergiy Butenko;
+Abstract
+In many network applications, one searches for a connected subset of vertices that exhibits other desirable properties. To this end, this paper studies the connected subgraph polytope of a graph, which is the convex hull of subsets of vertices that induce a connected subgraph. Much of our work is devoted to the study of two nontrivial classes of valid inequalities. The first are the a, b-separator inequalities, which have been successfully used to enforce connectivity in previous computational studies. The second are the indegree inequalities, which have previously been shown to induce all nontrivial facets for trees. We determine the precise conditions under which these inequalities induce facets and when each class fully describes the connected subgraph polytope. Both classes of inequalities can be separated in polynomial time and admit compact extended formulations. However, while the a, b-separator inequalities can be lifted in linear time, it is NP-hard to lift the indegree inequalities.
+Keywords
+Connected subgraph polytope  Maximum-weight connected subgraph  Connectivity constraints  Prize-collecting Steiner tree  Contiguity  90B10  90B18  90C10  90C27  90C35  90C57  68R10  

@@ -1,0 +1,6 @@
+Generalized intersection cuts and a new cut generating paradigm
+Egon Balas;François Margot;
+Abstract
+Intersection cuts are generated from a polyhedral cone and a convex set S whose interior contains no feasible integer point. We generalize these cuts by replacing the cone with a more general polyhedron C. The resulting generalized intersection cuts dominate the original ones. This leads to a new cutting plane paradigm under which one generates and stores the intersection points of the extreme rays of C with the boundary of S rather than the cuts themselves. These intersection points can then be used to generate in a non-recursive fashion cuts that would require several recursive applications of some standard cut generating routine. A procedure is also given for strengthening the coefficients of the integer-constrained variables of a generalized intersection cut. The new cutting plane paradigm yields a new characterization of the closure of intersection cuts and their strengthened variants. This characterization is minimal in the sense that every one of the inequalities it uses defines a facet of the closure.
+Keywords
+90C10  90C11  90C57  

@@ -1,0 +1,6 @@
+An Information Global Optimization Algorithm with Local Tuning
+Yaroslav D.  Sergeyev;
+Abstract
+We propose an algorithm using only the values of the objective function for solving unconstrained global optimization problems. This algorithm belongs to the class of the information methods introduced by Strongin [Numerical Methods in Multiextremal Problems, Nauka, Moskow,1978] and differs from the other algorithms of this class by the presence of local tuning which spies on the changes of the Lipschitz constant of the objective function over different sectors of the search region. We describe two versions of the method: for solving one-dimensional problems and for solving multidimensional problems (using Peano-type space-filling curves for reduction of imensionality). In both cases we establish sufficient conditions of convergence to the global minimum. We also report results of some numerical experiments.
+Keywords
+global optimization, Lipschitz functions, numerical methods, convergence, 90C30, 

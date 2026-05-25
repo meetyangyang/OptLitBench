@@ -1,0 +1,4 @@
+GACO: A Parallel Evolutionary Approach to Multi-objective Scheduling
+Jarosław Rudy;Dominik Żelazny;
+Abstract
+In this paper the job shop scheduling problem with two criteria of minimizing makespan and the sum of tardiness of jobs is considered. This multi-objective problem is strongly NP-hard, as single criterion version is strongly NP-hard as well. A permutation-based representation for the job shop problem is used and a new hybrid parallel multi-agent method, called GACO (Genetic Algorithm Ant Colony Optimization), is proposed. The computation is done in parallel and additional threads concurrently compute certain parts of both algorithms. The researched speed-up is considerable, albeit limited by the need to combine solutions. Approximation of the Pareto front obtained by GACO is superior to the approximations obtained by GA and ACO separately.

@@ -1,0 +1,6 @@
+An exterior point algorithm for some linear complementarity problems with applications
+ A.S.O.   Hassan ; H.L.   Abdel-Malek ; I.M.   Sharaf ;
+Abstract
+ An exterior point algorithm for positive definite (PD) and positive semidefinite (PSD) linear complementarity problems (LCPs) is introduced. The algorithm exploits the ellipsoid method to find a starting point in the case of positive definite linear complementarity problems (PDLCPs) and to check for the problem feasibility in case of positive semidefinite linear complementarity problems (PSDLCPs). The algorithm starts from a point on the boundary on which the complementarity condition is satisfied and generates a sequence of points on that same boundary. These points converge to the solution. The algorithm is modified to speed up the convergence for some PDLCPs and PSDLCPs that arise in certain mechanical models. A numerical example and a practical example in robotics are solved to test the algorithm. 
+Keywords
+Linear complementarity problem, Convex quadratic programming, Linear programming, Exterior point algorithms 

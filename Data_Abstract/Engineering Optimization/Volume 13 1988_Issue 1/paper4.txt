@@ -1,0 +1,6 @@
+ON METHODS FOR DISCRETE STRUCTURAL OPTIMIZATION
+ ULF TORBJÖRN   RINGERTZ ;
+Abstract
+ Three algorithms for discrete structural optimization are considered. The original discrete structural optimization problem is replaced by a sequence of approximate discrete subproblems. For small size problems a Branch and Bound method is used to find a global minimum for each subproblem. The use of a generalized Lagrangean function and nonconvex duality is compared to the use of the Branch and Bound method. The generalized Langrangean function is minimized over the discrete set using a neighbourhood search technique. The dual function is maximized using a subgradient method. A method for rounding off the continuous solution is also used. The performance of the algorithms is investigated on several numerical examples. Global discrete minima are found for two convex test problems by using Branch and Bound on the original discrete structural optimization problem. 
+Keywords
+Structural optimization, discrete variables, trusses 

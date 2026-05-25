@@ -1,0 +1,6 @@
+An outcome space algorithm for optimization over the weakly efficient set of a multiple objective nonlinear programming problem
+Harold P. Benson;
+Abstract
+This article presents for the first time an algorithm specifically designed for globally minimizing a finite, convex function over the weakly efficient set of a multiple objective nonlinear programming problem (V1) that has both nonlinear objective functions and a convex, nonpolyhedral feasible region. The algorithm uses a branch and bound search in the outcome space of problem (V1), rather than in the decision space of the problem, to find a global optimal solution. Since the dimension of the outcome space is usually much smaller than the dimension of the decision space, often by one or more orders of magnitude, this approach can be expected to considerably shorten the search. In addition, the algorithm can be easily modified to obtain an approximate global optimal weakly efficient solution after a finite number of iterations. Furthermore, all of the subproblems that the algorithm must solve can be easily solved, since they are all convex programming problems. The key, and sometimes quite interesting, convergence properties of the algorithm are proven, and an example problem is solved.
+Keywords
+Multiple objective nonlinear programming  Global optimization  Weakly efficient set  Branch and bound  

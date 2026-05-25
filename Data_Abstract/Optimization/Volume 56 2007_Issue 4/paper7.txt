@@ -1,0 +1,6 @@
+Identifying superfluous constraints within an interior-point algorithm for convex quadratic programming
+ P.   Recht ; P.H.   Schade ;
+Abstract
+ In this article, quadratic programming problems with strict convex objective functions f and linear constraints are considered. Based on a nonlinear separation Theorem, a complete characterization of constraints that are superfluous in an optimal point is given. It allows to derive sufficient conditions for deletion of restrictions. The corresponding conditions can easily be checked if upper bounds on the objective are available. The criteria are implemented within Mehrotra's primal-dual interior-point algorithm. Results with regards to how the identification of superfluous constraints works within that QP-solver are reported for a various number of randomly generated problem instances. Although the effect on the running time of the solution procedure was not yet examined, the article shows that the identification is highly efficient in early stages of of the algorithm. In such a way, the problem size could substantially be reduced. Such a reduction might potentially speed up interior-point solvers for large-scaled QP-problems.   
+Keywords
+Quadratic programming, Superfluous restrictions, Interior-point method, Object-oriented software 

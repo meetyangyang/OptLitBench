@@ -1,0 +1,6 @@
+On the Nonmonotone Line Search
+Y. H. Dai;
+Abstract
+The technique of nonmonotone line search has received many successful applications and extensions in nonlinear optimization. This paper provides some basic analyses of the nonmonotone line search. Specifically, we analyze the nonmonotone line search methods for general nonconvex functions along different lines. The analyses are helpful in establishing the global convergence of a nonmonotone line search method under weaker conditions on the search direction. We explore also the relations between nonmonotone line search and R-linear convergence assuming that the objective function is uniformly convex. In addition, by taking the inexact Newton method as an example, we observe a numerical drawback of the original nonmonotone line search and suggest a standard Armijo line search when the nonmonotone line search condition is not satisfied by the prior trial steplength. The numerical results show the usefulness of such suggestion for the inexact Newton method.
+Keywords
+Unconstrained optimization  uniform convexity  Armijo line search  nonmonotone line search  R-linear convergence  

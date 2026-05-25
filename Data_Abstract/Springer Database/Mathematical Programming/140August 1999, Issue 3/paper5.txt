@@ -1,0 +1,6 @@
+A polyhedral approach to single-machine scheduling problems
+J.M. van den Akker;C.P.M. van Hoesel;M.W.P. Savelsbergh;
+Abstract
+We report new results for a time-indexed formulation of nonpreemptive single-machine scheduling problems. We give complete characterizations of all facet inducing inequalities with integral coefficients and right-hand side 1 or 2 for the convex hull of the set of feasible partial schedules, i.e., schedules in which not all jobs have to be started. Furthermore, we identify conditions under which these facet inducing inequalities are also facet inducing for the original polytope, which is the convex hull of the set of feasible complete schedules, i.e., schedules in which all jobs have to be started. To obtain insight in the effectiveness of these classes of facet-inducing inequalities, we develop a branch-and-cut algorithm based on them. We evaluate its performance on the strongly NP-hard single machine scheduling problem of minimizing the weighted sum of the job completion times subject to release dates.
+Keywords
+Key words: scheduling – polyhedral methods – facet inducing inequalities – separation – branch-and-cut  

@@ -1,0 +1,6 @@
+Modifying the BFGS update by a new column scaling technique
+Dirk Siegel;
+Abstract
+LetB be a positive definite symmetric approximation to the second derivative matrix of the objective function of a minimization calculation. We study modifications of the BFGS method that apply a scaling technique to the columns of a conjugate direction matrixZ satisfyingZ T BZ = I. For a simple scaling technique similar to the ones considered by Powell (1987) and (1989) we show that, due to a two iteration cycle, linear convergence can occur when the method is applied to a quadratic function and Wolfe's line search is employed, although for exact line searches quadratic termination can be proved. We then suggest a different scaling technique that prevents certain columns thought to contain important curvature information from being scaled. For this algorithm we prove global and superlinear convergence and demonstrate the superiority of our method over the BFGS formula on a range of illconditioned optimization problems. Moreover, we present an implementation of our algorithm that requires only 3n2 +O(n) multiplications per iteration.
+Keywords
+65K05  90C30  Conjugate directions  Matrix factorizations  Nonlinear optimization  Updating  Variable metric algorithms  

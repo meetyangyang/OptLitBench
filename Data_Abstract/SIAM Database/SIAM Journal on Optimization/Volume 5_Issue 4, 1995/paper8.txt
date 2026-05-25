@@ -1,0 +1,6 @@
+Potential Transformation Methods for Large-Scale Global Optimization
+Jack W.  Rogers, Jr. and Robert	 A.  Donnelly;
+Abstract
+Several techniques for global optimization treat the objective function f as a force field potential. In the simplest case, trajectories of the differential equation $m\mathbf{\ddot x} =  - \nabla f$ sample regions of low potential while retaining the energy to surmount passes that might block the way to regions of even lower local minima. A potential transformation is an increasing function $V:\mathbf{R} \to \mathbf{R}$. It determines a new potential $g = V ( f )$, with the same minimizers as f, and new trajectories satisfying $m\mathbf{\ddot x} =  - \nabla g =  - \frac{dV}{df}\nabla f$. We discuss a class of potential transformations that greatly increase the attractiveness of low local minima and that provide, as a special case, a new approach to an equation proposed by Griewank for global optimization. Practical methods for implementing these ideas are discussed.
+Keywords
+generalized descent, global optimization, Newtonian dynamics, potential transformation methods, PT methods, SNIFR, 49D10, 90C30, 70D05, 

@@ -1,0 +1,6 @@
+A nonmonotone smoothing Newton algorithm for solving nonlinear complementarity problems
+ Sheng-Long   Hu ; Zheng-Hai   Huang ; Ping   Wang ;
+Abstract
+ The smoothing-type algorithm has been a powerful tool for solving various optimization problems. In order to improve the numerical results of the algorithm, the nonmonotone line search technique has been used when the algorithm is implemented. However, the theoretical analysis is based on the algorithm with some monotone line search. In this paper, based on the smoothed Kanzow–Kleinmichel NCP function, we propose a smoothing Newton algorithm for solving the nonlinear complementarity problem with a new nonmonotone line search. We show that the nonmonotone algorithm is globally and locally superlinearly convergent under suitable assumptions. The preliminary numerical results are also reported. 
+Keywords
+nonlinear complementarity problem, smoothing-type algorithm, line search, global convergence, local superlinear convergence AMS Subject Classification : 90C33, 65K10 

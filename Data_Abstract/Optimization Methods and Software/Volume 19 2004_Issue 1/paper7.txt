@@ -1,0 +1,6 @@
+Very large scale optimization by sequential convex programming 
+ Ch.   Zillober ; K.   Schittkowski ; K.   Moritzen ;
+Abstract
+ We introduce a method for constrained nonlinear programming that is widely used in mechanical engineering and that is known under the name SCP for sequential convex programming. The algorithm consists of solving a sequence of convex and separable subproblems, where an augmented Lagrangian merit function is used for guaranteeing convergence. Originally, SCP methods were developed in structural mechanical optimization, and are particularly applied to solve topology optimization problems. These problems are extremely large and possess dense Hessians of the objective function. The purpose of the article is to show that constrained dense nonlinear programs with 105–106 variables can be solved successfully and that SCP methods can be applied also to optimal control problems based on semilinear elliptic partial differential equations after a full discretization. 
+Keywords
+Large scale nonlinear programming, Sequential convex programming, Topology optimization, Optimal control of partial differential equations, Semilinear elliptic equations 

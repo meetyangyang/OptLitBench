@@ -1,0 +1,6 @@
+Updating of conjugate direction matrices using members of Broyden's family
+Dirk Siegel;
+Abstract
+Many iterative algorithms for optimization calculations use a second derivative approximation,B say, in order to calculate the search directiond = −B−1∇f(x). In order to avoid invertingB we work with matricesZ, whose columns satisfy the conjugacy relationsZTBZ = I. We present an update ofZ that is compatible with members of the Broyden family that generate positive definite second derivative approximations. The algorithm requires only 3n2+O(n) flops for the update ofZ and the calculation ofd. The columns of the resultantZ matrices have interesting conjugacy and orthogonality properties with respect to previous second derivative approximations and function gradients, respectively. The update also provides a simple proof of Dixon's theorem. For the BFGS method we adapt the algorithm in order to obtain a null space method for linearly constrained calculations.
+Keywords
+Conjugate directions  linear constraints  matrix factorizations  nonlinear optimization  updating  variable metric algorithms  

@@ -1,0 +1,6 @@
+Warm start of the primal-dual method applied in the cutting-plane scheme
+Jacek Gondzio;
+Abstract
+A practical warm-start procedure is described for the infeasible primal-dual interior-point method (IPM) employed to solve the restricted master problem within the cutting-plane method. In contrast to the theoretical developments in this field, the approach presented in this paper does not make the unrealistic assumption that the new cuts are shallow. Moreover, it treats systematically the case when a large number of cuts are added at one time. The technique proposed in this paper has been implemented in the context of HOPDM, the state of the art, yet public domain, interior-point code. Numerical results confirm a high degree of efficiency of this approach: regardless of the number of cuts added at one time (can be thousands in the largest examples) and regardless of the depth of the new cuts, reoptimizations are usually done with a few additional iterations.
+Keywords
+Warm start  Primal-dual algorithm  Cutting-plane methods  

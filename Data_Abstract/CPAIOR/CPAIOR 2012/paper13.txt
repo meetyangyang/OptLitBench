@@ -1,0 +1,4 @@
+Explaining Propagators for s-DNNF Circuits
+Graeme Gange;Peter J. Stuckey;
+Abstract
+Smooth decomposable negation normal form (s-DNNF) circuits are a compact form of representing many Boolean functions, that permit linear time satisfiability checking. Given a constraint defined by an s-DNNF circuit, we can create a propagator for the constraint by decomposing the circuit using a Tseitin transformation. But this introduces many additional Boolean variables, and hides the structure of the original s-DNNF. In this paper we show how we can build a propagator that works on the s-DNNF circuit directly, and can be integrated into a lazy-clause generation-based constraint solver. We show that the resulting propagator can efficiently solve problems where s-DNNF circuits are the natural representation of the constraints of the problem, outperforming the decomposition based approach.

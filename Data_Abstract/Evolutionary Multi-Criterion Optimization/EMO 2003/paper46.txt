@@ -1,0 +1,4 @@
+Intensity Modulated Beam Radiation Therapy Dose Optimization with Multiobjective Evolutionary Algorithms
+Michael Lahanas;Eduard Schreibmann;Natasa Milickovic;Dimos Baltas;
+Abstract
+We apply the NSGA-II algorithm and its controlled elitist version NSGA-IIc for the intensity modulated beam radiotherapy dose optimization problem. We compare the performance of the algorithms with objectives for which deterministic optimization methods provide global optimal solutions. The number of parameters to be optimized can be up to a few thousands and the number of objectives varies from 3 to 6. We compare the results with and without supporting solutions. Optimization with constraints for the target dose variance value provides clinical acceptable solutions.

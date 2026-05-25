@@ -1,0 +1,6 @@
+A method for approximating pairwise comparison matrices by consistent matrices
+János Fülöp;
+Abstract
+In several methods of multiattribute decision making, pairwise comparison matrices are applied to derive implicit weights for a given set of decision alternatives. A class of the approaches is based on the approximation of the pairwise comparison matrix by a consistent matrix. In the paper this approximation problem is considered in the least-squares sense. In general, the problem is nonconvex and difficult to solve, since it may have several local optima. In the paper the classic logarithmic transformation is applied and the problem is transcribed into the form of a separable programming problem based on a univariate function with special properties. We give sufficient conditions of the convexity of the objective function over the feasible set. If such a sufficient condition holds, the global optimum of the original problem can be obtained by local search, as well. For the general case, we propose a branch-and-bound method. Computational experiments are also presented.
+Keywords
+Pairwise comparison matrix  Consistent matrix  Nonconvex programming  Branch-and-bound  

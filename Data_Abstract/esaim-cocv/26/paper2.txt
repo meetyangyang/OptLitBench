@@ -1,0 +1,11 @@
+Shape and topology optimization of the robust compliance via the level set method
+Frédéric de Gournay, Grégoire Allaire and François Jouve;
+Abstract
+ The goal of this paper is to study the so-called worst-case or robustoptimal design problem for minimal compliance. In the context of linear elasticity we seek an optimal shape which minimizes the largest, or worst,compliance when the loads are subject to some unknown perturbations.We first prove that, for a fixed shape, there exists indeed a worst perturbation (possibly non unique) that we characterize as the maximizer of a nonlinear energy. We also propose a stable algorithm tocompute it. Then, in the framework of Hadamard method, wecompute the directional shape derivative of this criterion which isused in a numerical algorithm, based on the level set method,to find optimal shapes that minimize the worst-case compliance.Since this criterion is usually merely directionally differentiable,we introduce a semidefinite programming approach toselect the best descent direction at each step of agradient method. Numerical examples are given in 2-d and 3-d.
+Keywords
+Robust design, 
+worst-case design, 
+shape optimization, 
+topology optimization, 
+level set method, 
+semidefinite programmin

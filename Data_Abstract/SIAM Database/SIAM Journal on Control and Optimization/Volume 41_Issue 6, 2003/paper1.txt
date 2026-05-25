@@ -1,0 +1,6 @@
+Robust Dissipativity of Interval Uncertain Linear Systems
+Florin Dan  Barb, Aharon  Ben-Tal, and Arkadi  Nemirovski;
+Abstract
+In this paper we are concerned with the problem of robust dissipativity of linear systems with parameters affected by box uncertainty; our major goal is to evaluate the largest uncertainty level for which all perturbed instances share a common dissipativity certificate. While it is NP-hard to compute this quantity exactly, we demonstrate that under favorable circumstances one can build an O(1)-tight lower bound of this "intractable" quantity by solving an explicit semidefinite program of the size polynomial in the size of the system. We consider a number of applications, including the robust versions of the problems of extracting nearly optimal available storage, providing nearly optimal required supply, Lyapunov stability analysis, and linear-quadratic control.
+Keywords
+interval matrices, dissipative linear systems, interval uncertain LMIs, positive-real systems, contractive systems, Riccati equation, semidefinite programming, 15A15, 15A09, 15A23, 

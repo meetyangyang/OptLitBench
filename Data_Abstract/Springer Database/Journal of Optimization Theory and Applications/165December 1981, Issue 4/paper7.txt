@@ -1,0 +1,6 @@
+Optimal stationary linear control of the Wiener process
+V. E. Beneš;I. Karatzas;
+Abstract
+In the present paper, we consider the following stochastic control problem: to minimize the average expected total cost$$J(x,u) = \mathop {\lim  \inf }\limits_{T \to \infty } (1/T)E_x^u \int_0^T {\left[ {\phi (\xi _t ) + |u_t (\xi )|} \right]} dt,$$〈subject to$$d\xi _t  = u_1 (\xi )dt + dw_t ,  \xi _0  = x,  |u| \leqslant 1,$$ (wt) a Wiener process, with all measurable functions on the past of the state process {ξ s ;s≤t} and bounded by unity, admissible as controls. It is proved that, under very mild conditions on the running cost function φ(·), the optimal law is of the form$$\begin{gathered}  u_t^* (\xi ) =  - sign\xi _t ,   |\xi _t | > b, \hfill \\  u_t^* (\xi ) = 0,            |\xi _t | > b. \hfill \\ \end{gathered} $$ The cutoff pointb and the performance rate of the optimal lawu* are simultaneously determined in terms of the function φ(·) through a simple system of integrotranscendental equations.
+Keywords
+Stationary stochastic control  Bellman equation  invariant measures  nonanticipative laws  dead-zone controllers  

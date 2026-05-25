@@ -1,0 +1,6 @@
+Pivot selection methods of the Devex LP code
+Paula M. J. Harris;
+Abstract
+Pivot column and row selection methods used by the Devex code since 1965 are published here for the first time. After a fresh look at the iteration process, the author introduces dynamic column weighting factors as a means of estimating gradients for the purpose of selecting a maximum gradient column. The consequent effect of this column selection on rounding error is observed. By allowing that a constraint may not be positioned so exactly as its precise representation in the computer would imply, a wider choice of pivot row is made available, so making room for a further selection criterion based on pivot size. Three examples are given of problems having between 2500 and 5000 rows, illustrating the overall time and iteration advantages over the standard simplex methods used today. The final illustration highlights why these standard methods take so many iterations. These algorithms were originally coded for the Atlas computer and were re-coded in 1969 for the Univac 1108.
+Keywords
+Selection Method  Iteration Process  Simplex Method  Precise Representation  Maximum Gradient  

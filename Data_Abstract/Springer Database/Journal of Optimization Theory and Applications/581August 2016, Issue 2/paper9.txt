@@ -1,0 +1,6 @@
+Dual Averaging with Adaptive Random Projection for Solving Evolving Distributed Optimization Problems
+Shreyas Vathul Subramanian;Daniel A. DeLaurentis;Dengfeng Sun;
+Abstract
+We study a sequential form of the distributed dual averaging algorithm that minimizes the sum of convex functions in a special case where the number of functions increases gradually. This is done by introducing an intermediate ‘pivot’ stage posed as a convex feasibility problem that minimizes average constraint violation with respect to a family of convex sets. Under this approach, we introduce a version of the minimum sum optimization problem that incorporates an evolving design space. Proof of mathematical convergence of the algorithm is complemented by an application problem that involves finding the location of a noisy, mobile source using an evolving wireless sensor network. Results obtained confirm that the new designs in the evolved design space are superior to the ones found in the original design space due to the unique path followed to reach the optimum.
+Keywords
+Convex optimization  Dual averaging  Maximum feasibility problem  Distributed  Sensor management  Topology optimization  90C25  90C30  90C46  

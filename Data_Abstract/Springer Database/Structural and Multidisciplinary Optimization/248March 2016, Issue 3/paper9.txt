@@ -1,0 +1,6 @@
+An incremental shifting vector approach for reliability-based design optimization
+Z. L. Huang;C. Jiang;Y. S. Zhou;Z. Luo;Z. Zhang;
+Abstract
+This paper proposes a decoupling algorithm for reliability-based design optimization (RBDO) with high performance in terms of efficiency and convergence, which provides an effective tool for reliability design of many complex structures. The algorithm proceeds by performing a shifting vector calculation and then solving a deterministic design optimization in each step, and eventually converges to the optimal solution. An incremental shifting strategy is proposed to ensure stable convergence in the iteration process. In each step, the shifting vector preserves the information from the previous step, and only an adjustment is made for it through a shifting vector increment. A computation method is given for the shifting vector increment, avoiding solving an optimization problem during the reliability analysis and thus greatly reducing the computational cost of the iteration process. Six numerical examples and two engineering applications are presented to validate the effectiveness of the method proposed in this paper.
+Keywords
+Reliability-based design optimization (RBDO)  Incremental shifting vector  Decoupling approach  

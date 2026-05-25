@@ -1,0 +1,6 @@
+An algorithm for solving global optimization problems with nonlinear constraints
+Yaroslav D. Sergeyev;Dmitri L. Markin;
+Abstract
+In this paper we propose an algorithm using only the values of the objective function and constraints for solving one-dimensional global optimization problems where both the objective function and constraints are Lipschitzean and nonlinear. The constrained problem is reduced to an unconstrained one by the index scheme. To solve the reduced problem a new method with local tuning on the behavior of the objective function and constraints over different sectors of the search region is proposed. Sufficient conditions of global convergence are established. We also present results of some numerical experiments.
+Keywords
+Global optimization  nonlinear constraints  local tuning  index scheme  global convergence  

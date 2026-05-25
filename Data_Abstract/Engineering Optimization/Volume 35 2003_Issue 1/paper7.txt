@@ -1,0 +1,6 @@
+Acceleration of the convergence speed of evolutionary algorithms using multi-layer neural networks
+ Young-Seok   Hong ; Hungu   Lee ; Min-Jea   Tahk ;
+Abstract
+ Despite the global optimization capability and low sensitivity to initial parameter estimates, evolutionary algorithms suffer from heavy computational loads especially when the fitness evaluation is time-consuming. The proposed acceleration method implements an online multi-layer neural network approximating the fitness calculation, which greatly decreases the computation time because the time-consuming fitness calculation can be replaced by the simple network output. The acceleration is achieved as the number of individuals used for the network training gradually decreases according to an adaptive scheme. A convergence theorem guarantees convergence to the optimal solution as well as ensuring the network stability. The proposed method is verified by a numerical example. 
+Keywords
+Evolutionary Algorithm, Multi-layer Neural Network, Convergence 

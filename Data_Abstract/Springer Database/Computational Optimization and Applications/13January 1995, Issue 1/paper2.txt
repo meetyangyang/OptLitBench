@@ -1,0 +1,6 @@
+A comparison of two algorithms for the assignment problem
+Hossam A. Zaki;
+Abstract
+State-of-the-art computational results have shown that the shortest augmenting path (SAP) methods are more efficient than other primal-dual and primal-simplex based methods for solving the linear assignment problem on uniprocessor computers. There is, however, some controversy concerning their merits when compared with Bertsekas' auction algorithm on multiprocessor computers. In this study we investigate the performance of these competing methods on the Alliant FX/8. For each method, theoretical motivation, sources of parallelism and computational results are presented.
+Keywords
+auction algorithm  shortest augmenting path method  parallel computing  

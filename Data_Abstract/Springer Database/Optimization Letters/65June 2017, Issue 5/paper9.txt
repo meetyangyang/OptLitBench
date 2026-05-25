@@ -1,0 +1,6 @@
+Stochastic subgradient descent method for large-scale robust chance-constrained support vector machines
+Ximing Wang;Neng Fan;Panos M. Pardalos;
+Abstract
+Robust chance-constrained Support Vector Machines (SVM) with second-order moment information can be reformulated into equivalent and tractable Semidefinite Programming (SDP) and Second Order Cone Programming (SOCP) models. However, practical applications involve processing large-scale data sets. For the reformulated SDP and SOCP models, existed solvers by primal-dual interior method do not have enough computational efficiency. This paper studies the stochastic subgradient descent method and algorithms to solve robust chance-constrained SVM on large-scale data sets. Numerical experiments are performed to show the efficiency of the proposed approaches. The result of this paper breaks the computational limitation and expands the application of robust chance-constrained SVM.
+Keywords
+Support vector machines  Robust chance constraints  Primal-dual interior method  Stochastic subgradient descent method  Large-scale data  

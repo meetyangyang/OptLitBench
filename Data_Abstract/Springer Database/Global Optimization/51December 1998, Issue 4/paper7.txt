@@ -1,0 +1,6 @@
+A Simplicial Branch-and-Bound Method for Solving Nonconvex All-Quadratic Programs
+Ulrich Raber;
+Abstract
+In this paper we present an algorithm for solving nonconvex quadratically constrained quadratic programs (all-quadratic programs). The method is based on a simplicial branch-and-bound scheme involving mainly linear programming subproblems. Under the assumption that a feasible point of the all-quadratic program is known, the algorithm guarantees an ε-approximate optimal solution in a finite number of iterations. Computational experiments with an implementation of the procedure are reported on randomly generated test problems. The presented algorithm often outperforms a comparable rectangular branch-and-bound method.
+Keywords
+Branch-and-bound  Global optimization  Indefinite quadratic optimization under indefinite quadratic constraints  

@@ -1,0 +1,4 @@
+Soft-Regular with a Prefix-Size Violation Measure
+Minh Thanh Khong;Christophe Lecoutre;Pierre Schaus;Yves Deville;
+Abstract
+In this paper, we propose a variant of the global constraint soft-regular by introducing a new violation measure that relates a cost variable to the size of the longest prefix of the assigned variables, which is consistent with the constraint automaton. This measure allows us to guarantee that first decisions (assigned variables) respect the rules imposed by the automaton. We present a simple algorithm, based on a Multi-valued Decision Diagram (MDD), that enforces Generalized Arc Consistency (GAC). We provide an illustrative case study on nurse rostering, which shows the practical interest of our approach.

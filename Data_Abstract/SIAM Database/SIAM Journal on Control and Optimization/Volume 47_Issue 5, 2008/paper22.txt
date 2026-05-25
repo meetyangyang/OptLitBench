@@ -1,0 +1,6 @@
+Robustness of $\lambda$-Tracking in the Gap Metric
+Achim  Ilchmann and Markus  Mueller;
+Abstract
+For m-input, m-output, finite-dimensional, linear systems satisfying the classical assumptions of adaptive control (i.e., (i) minimum phase, (ii) relative degree one, and (iii) “positive” high-frequency gain), it is well known that the adaptive $\lambda$-tracker “$u=-k\,e$, $\dot k=\max\{0,|e|-\lambda\}|e|$” achieves $\lambda$-tracking of the tracking error e if applied to such a system: all states of the closed-loop system are bounded, and $|e|$ is ultimately bounded by $\lambda$, where $\lambda>0$ is prespecified and may be arbitrarily small. Invoking the conceptual framework of the nonlinear gap metric, we show that the $\lambda$-tracker is robust. In the present setup this means in particular that the $\lambda$-tracker copes with bounded input and output disturbances, and, more importantly, it may even be applied to a system not satisfying any of the classical conditions (i)–(iii) as long as the initial conditions and the disturbances are “small” and the system is “close” (in terms of “small” gap) to a system satisfying (i)–(iii).
+Keywords
+adaptive control, $\lambda$-tracking, gap metric, robust stability, 93D21, 93D09, 93C40, 93D25, 

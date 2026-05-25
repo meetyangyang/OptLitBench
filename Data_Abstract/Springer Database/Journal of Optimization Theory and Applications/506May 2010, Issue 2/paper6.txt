@@ -1,0 +1,6 @@
+New Parallel Descent-like Method for Solving a Class of Variational Inequalities
+Z. K. Jiang;X. M. Yuan;
+Abstract
+To solve a class of variational inequalities with separable structures, some classical methods such as the augmented Lagrangian method and the alternating direction methods require solving two subvariational inequalities at each iteration. The most recent work (B.S. He in Comput. Optim. Appl. 42(2):195–212, 2009) improved these classical methods by allowing the subvariational inequalities arising at each iteration to be solved in parallel, at the price of executing an additional descent step. This paper aims at developing this strategy further by refining the descent directions in the descent steps, while preserving the practical characteristics suitable for parallel computing. Convergence of the new parallel descent-like method is proved under the same mild assumptions on the problem data.
+Keywords
+Variational inequalities  Parallel computing  Descent-like methods  Alternating direction methods  Augmented Lagrangian method  

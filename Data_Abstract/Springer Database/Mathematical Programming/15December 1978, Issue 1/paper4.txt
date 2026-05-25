@@ -1,0 +1,6 @@
+A new arc algorithm for unconstrained optimization
+Israel Zang;
+Abstract
+The gradient path of a real valued differentiable function is given by the solution of a system of differential equations. For a quadratic function the above equations are linear, resulting in a closed form solution. A quasi-Newton type algorithm for minimizing ann-dimensional differentiable function is presented. Each stage of the algorithm consists of a search along an arc corresponding to some local quadratic approximation of the function being minimized. The algorithm uses a matrix approximating the Hessian in order to represent the arc. This matrix is updated each stage and is stored in its Cholesky product form. This simplifies the representation of the arc and the updating process. Quadratic termination properties of the algorithm are discussed as well as its global convergence for a general continuously differentiable function. Numerical experiments indicating the efficiency of the algorithm are presented.
+Keywords
+Optimization  Non-linear Programming  Unconstrained Optimization  Gradientpath Algorithms  Quasi-Newton Methods  Arc Algorithms  

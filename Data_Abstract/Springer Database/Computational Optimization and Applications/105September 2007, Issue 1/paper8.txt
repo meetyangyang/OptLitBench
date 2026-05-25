@@ -1,0 +1,8 @@
+Algorithms with high order convergence speed for blind source extraction
+Pando Georgiev;Panos Pardalos;Andrzej Cichocki;
+Abstract
+
+A rigorous convergence analysis for the fixed point ICA algorithm of Hyvärinen and Oja is provided and a generalization of it involving cumulants of an arbitrary order is presented. We consider a specific optimization problem OP(p), p>3, integer, arising from a Blind Source Extraction problem (BSE) and prove that every local maximum of OP(p) is a solution of (BSE) in sense that it extracts one source signal from a linear mixture of unknown statistically independent signals. An algorithm for solving OP(p) is constructed, which has a rate of convergence p−1.
+
+Keywords
+Independent component analysis  Cumulants  Fixed point algorithm  

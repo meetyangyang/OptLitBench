@@ -1,0 +1,6 @@
+Solving the quadratic trust-region subproblem in a low-memory BFGS framework
+ M.   S.   Apostolopoulou ; D.   G.   Sotiropoulos ; P.   Pintelas ;
+Abstract
+ We present a new matrix-free method for the large-scale trust-region subproblem, assuming that the approximate Hessian is updated by the L-BFGS formula with m=1 or 2. We determine via simple formulas the eigenvalues of these matrices and, at each iteration, we construct a positive definite matrix whose inverse can be expressed analytically, without using factorization. Consequently, a direction of negative curvature can be computed immediately by applying the inverse power method. The computation of the trial step is obtained by performing a sequence of inner products and vector summations. Furthermore, it immediately follows that the strong convergence properties of trust region methods are preserved. Numerical results are also presented. 
+Keywords
+trust region, nearly exact method, L-BFGS method, eigenvalues, negative curvature direction, large scale optimization AMS Subject Classification : 90C06, 90C30, 65F15, 65F05 

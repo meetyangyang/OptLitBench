@@ -1,0 +1,4 @@
+A Global Constraint for Graph Isomorphism Problems
+Sébastien Sorlin;Christine Solnon;
+Abstract
+The graph isomorphism problem consists in deciding if two given graphs have an identical structure. This problem can be modeled as a constraint satisfaction problem in a very straightforward way, so that one can use constraint programming to solve it. However, constraint programming is a generic tool that may be less efficient than dedicated algorithms which can take advantage of the global semantic of the original problem.

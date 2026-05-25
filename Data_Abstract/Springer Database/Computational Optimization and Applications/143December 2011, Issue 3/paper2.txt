@@ -1,0 +1,6 @@
+Multi-product lot-sizing and sequencing on a single imperfect machine
+A. Dolgui;M. Y. Kovalyov;K. Shchamialiova;
+Abstract
+A problem of lot-sizing and sequencing several products on a single machine is studied. The machine is imperfect in two senses: it can produce defective items and it can breakdown. The number of defective items for each product is given as an integer valued non-decreasing function of the manufactured quantity. The total machine breakdown time is given as a real valued non-decreasing function of the manufactured quantities of all the products. A sequence-dependent setup time is required to switch the machine from manufacturing one product to another. Two problem settings are considered. In the first, the objective is to minimize the completion time of the last item, provided that all the product demands for the good quality items are satisfied. In the second, the goal is to minimize the total cost of demand dissatisfaction, subject to an assumption that the completion time of the last item does not exceed a given upper bound. Computational complexity and algorithmic results are presented, including an FPTAS for a special case of the cost minimization problem, and computer experiments with the FPTAS.
+Keywords
+Lot-sizing  Sequencing  Imperfect production  FPTAS  

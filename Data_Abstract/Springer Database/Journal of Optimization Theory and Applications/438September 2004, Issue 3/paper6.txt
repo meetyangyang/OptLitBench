@@ -1,0 +1,6 @@
+Optimal Control via Asynchronous Communication Channels
+A. S. Matveev;A. V. Savkin;
+Abstract
+The paper is directed toward the development of a new chapter of control theory that deals with networked systems in which control and communication issues are combined together and in which the delays and limitations of the communication channels between sensors, actuators, and controllers are taken into account. We consider a situation where a single decision maker receives the sensor data and at the same time controls many linear discrete-time partially-observed subsystems perturbed by white noises via randomly delayed communication channels with finite capacities. Neither these delays nor their statistics are known in advance, but each message transmitted is equipped with a time stamp indicating the beginning time of the transfer. Under certain assumptions, a finite-horizon linear-quadratic optimal control problem is solved.
+Keywords
+Optimal control  networked systems  communication channels  

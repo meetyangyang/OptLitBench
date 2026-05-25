@@ -1,0 +1,6 @@
+Forward Stabilized Spline Interpolation
+David L.   Russell;
+Abstract
+Forward interpolation, as discussed here, refers to the problem of interpolating data points revealed, one at a time, in a sequential manner. As such, forward spline interpolation is an inherently unstable process. In this paper we study forward interpolation using a class of “generalized splines”: piecewise polynomials of odd degree $2m-1$, continuous to order $m-1$, where $m\ge 2$ is an integer. We show that the problem can be interpreted as a state estimation problem for a discrete linear system and show how successful, stable procedures can be obtained by applying optimal state estimation techniques of “LQG” type long familiar in the theory of such systems. A number of examples are presented.
+Keywords
+spline interpolation, linear recursion equation, linear difference equation, linear discrete control, linear discrete state estimation, discrete system stabilization, 41A05, 41A15, 65D07, 93B07, 

@@ -1,0 +1,6 @@
+Improving kriging surrogates of high-dimensional design models by Partial Least Squares dimension reduction
+Mohamed Amine Bouhlel;Nathalie Bartoli;Abdelkader Otsmane;Joseph Morlier;
+Abstract
+Engineering computer codes are often computationally expensive. To lighten this load, we exploit new covariance kernels to replace computationally expensive codes with surrogate models. For input spaces with large dimensions, using the kriging model in the standard way is computationally expensive because a large covariance matrix must be inverted several times to estimate the parameters of the model. We address this issue herein by constructing a covariance kernel that depends on only a few parameters. The new kernel is constructed based on information obtained from the Partial Least Squares method. Promising results are obtained for numerical examples with up to 100 dimensions, and significant computational gain is obtained while maintaining sufficient accuracy.
+Keywords
+Kriging  Partial Least Squares  Experiment design  Metamodels  

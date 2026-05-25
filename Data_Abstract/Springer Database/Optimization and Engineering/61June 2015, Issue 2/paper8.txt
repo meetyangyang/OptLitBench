@@ -1,0 +1,6 @@
+Adjoint-based surrogate optimization of oil reservoir water flooding
+Eka Suwartadi;Stein Krogstad;Bjarne Foss;
+Abstract
+Maximizing economical asset of oil reservoirs is a simulation-based optimization involving large-scale simulation models. In this work we propose the use of reduced-order models for solving optimization problems in oil reservoir simulation using a Lagrangian barrier method for the treatment of nonlinear inequality constraints. The optimization with reduced-order models is done by employing a trust-region proper orthogonal decomposition (TRPOD) algorithm. In addition to the POD method, we also build a reduced-order model based on a discrete empirical interpolation method. In the algorithm, the first-order gradient of the objective function is computed by using the adjoint method, while the inverse of the second-order gradient is approximated using the BFGS method. The reduced-order models involve both the forward (state) and backward (adjoint) equations. Three optimization case examples in production optimization of oil reservoirs are used to study the method. They show that the TRPOD method works efficiently while simultaneously honoring the nonlinear constraints.
+Keywords
+Model order reduction  Adjoint method  Nonlinear constraints  Production optimization  Oil reservoirs  MSC 90C30  MSC 49M37  MSC 49J20  

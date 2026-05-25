@@ -1,0 +1,6 @@
+Computing Equilibria in Finance Economies
+P. Jean-Jacques Herings;Felix Kubler;
+Abstract
+The general equilibrium model with incomplete asset markets is ideally suited for the study of problems in cross-sectional asset pricing and portfolio theory. In this paper, we develop a homotopy algorithm to approximate equilibria in these models. Since the algorithm is tailor made for so-called finance economies, the number of nonlinear equations that has to be solved for, and therefore the computing time, is an order of magnitude smaller than that of existing general-purpose algorithms. The algorithm is shown to be generically convergent. We implement the algorithm using HOMPACK. To illustrate its performance, we present various numerical examples and report running times.
+Keywords
+Computational methods asset pricing general equilibrium incomplete markets 

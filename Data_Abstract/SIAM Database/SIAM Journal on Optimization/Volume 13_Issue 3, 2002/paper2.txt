@@ -1,0 +1,6 @@
+Cheaper Jacobians by Simulated Annealing
+Uwe  Naumann;
+Abstract
+Jacobian matrices can be accumulated by applying the chain rule to vector functions given as computer programs in different orders resulting in varying operations counts while yielding identical results, up to round-off. The minimization of the number of operations performed leads to a computationally hard combinatorial optimization problem based on vertex elimination in computational graphs. This paper discusses simulated annealing as a method for generating nearly optimal Jacobian code.
+Keywords
+automatic differentiation, vertex elimination, simulated annealing, 90C27, 26B10, 

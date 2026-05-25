@@ -1,0 +1,6 @@
+Newton's Method for Multiobjective Optimization
+J.  Fliege, L. M. Graña  Drummond, and B. F.  Svaiter;
+Abstract
+We propose an extension of Newton's method for unconstrained multiobjective optimization (multicriteria optimization). This method does not use a priori chosen weighting factors or any other form of a priori ranking or ordering information for the different objective functions. Newton's direction at each iterate is obtained by minimizing the max-ordering scalarization of the variations on the quadratic approximations of the objective functions. The objective functions are assumed to be twice continuously differentiable and locally strongly convex. Under these hypotheses, the method, as in the classical case, is locally superlinear convergent to optimal points. Again as in the scalar case, if the second derivatives are Lipschitz continuous, the rate of convergence is quadratic. Our convergence analysis uses a Kantorovich-like technique. As a byproduct, existence of optima is obtained under semilocal assumptions.
+Keywords
+multicriteria optimization, multiobjective programming, Pareto points, Newton's method, 90C29, 90C30, 

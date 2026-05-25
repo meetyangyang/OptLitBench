@@ -1,0 +1,6 @@
+Feasible and Noninterior Path‐Following in Constrained Minimization with Low Multiplier Regularity
+M.   Hintermüller and K.   Kunisch;
+Abstract
+Primal‐dual path‐following methods for constrained minimization problems in function space with low multiplier regularity are introduced and analyzed. Regularity properties of the path are proved. The path structure allows us to define approximating models, which are used for controlling the path parameter in an iterative process for computing a solution of the original problem. The Moreau–Yosida regularized subproblems of the new path‐following technique are solved efficiently by semismooth Newton methods. The overall algorithmic concept is provided, and numerical tests (including a comparison with primal‐dual path‐following interior point methods) for state constrained optimal control problems show the efficiency of the new concept.
+Keywords
+active set strategy, Moreau–Yosida regularization, path‐following methods, primal‐dual methods, semismooth Newton methods, 49M15, 49M37, 65K05, 90C33, 

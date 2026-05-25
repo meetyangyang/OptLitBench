@@ -1,0 +1,6 @@
+Branch-and-Price Algorithms for the One-Dimensional Cutting Stock Problem
+Pamela H. Vance;
+Abstract
+We compare two branch-and-price approaches for the cutting stock problem. Each algorithm is based on a different integer programming formulation of the column generation master problem. One formulation results in a master problem with 0–1 integer variables while the other has general integer variables. Both algorithms employ column generation for solving LP relaxations at each node of a branch-and-bound tree to obtain optimal integer solutions. These different formulations yield the same column generation subproblem, but require different branch-and-bound approaches. Computational results for both real and randomly generated test problems are presented.
+Keywords
+column generation  cutting stock problem  branch-and-bound  

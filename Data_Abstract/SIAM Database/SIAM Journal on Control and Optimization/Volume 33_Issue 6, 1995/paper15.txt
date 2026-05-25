@@ -1,0 +1,6 @@
+Parallel Gradient Distribution in Unconstrained Optimization
+L. O.  Mangasarian;
+Abstract
+A parallel version is proposed for a fundamental theorem of serial unconstrained optimization. The parallel theorem allows each of k parallel processors to use simultaneously a different algorithm, such as a descent, Newton, quasi-Newton, or conjugate gradient algorithm. Each processor can perform one or many steps of a serial algorithm on a portion of the gradient of the objective function assigned to it, independently of the other processors. Eventually a synchronization step is performed which, for differentiable convex functions, consists of taking a strong convex combination of the k points found by the k processors. A more general synchronization step, applicable to convex as well as nonconvex functions, consists of taking the best point found by the k processors or any point that is better. The fundamental result that we establish is that any accumulation point of the parallel algorithm is stationary for the nonconvex case and is a global solution for the convex case. Computational testing on the Thinking Machines CM-5 multiprocessor indicates a speedup of the order of the number of processors employed.
+Keywords
+parallel optimization, gradient methods, unconstrained optimization, 90C30, 

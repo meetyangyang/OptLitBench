@@ -1,0 +1,6 @@
+Parallel particle swarm optimization on a graphics processing unit with application to trajectory optimization
+Q. Wu;F. Xiong;F. Wang;Y. Xiong;
+Abstract
+In order to reduce the computational time, a fully parallel implementation of the particle swarm optimization (PSO) algorithm on a graphics processing unit (GPU) is presented. Instead of being executed on the central processing unit (CPU) sequentially, PSO is executed in parallel via the GPU on the compute unified device architecture (CUDA) platform. The processes of fitness evaluation, updating of velocity and position of all particles are all parallelized and introduced in detail. Comparative studies on the optimization of four benchmark functions and a trajectory optimization problem are conducted by running PSO on the GPU (GPU-PSO) and CPU (CPU-PSO). The impact of design dimension, number of particles and size of the thread-block in the GPU and their interactions on the computational time is investigated. The results show that the computational time of the developed GPU-PSO is much shorter than that of CPU-PSO, with comparable accuracy, which demonstrates the remarkable speed-up capability of GPU-PSO.
+Keywords
+PSO, GPU, CUDA, trajectory optimization 

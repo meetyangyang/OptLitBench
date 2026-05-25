@@ -1,0 +1,6 @@
+Using concave envelopes to globally solve the nonlinear sum of ratios problem
+Harold P. Benson;
+Abstract
+This article presents a branch and bound algorithm for globally solving the nonlinear sum of ratios problem (P). The algorithm works by globally solving a sum of ratios problem that is equivalent to problem (P). In the algorithm, upper bounds are computed by maximizing concave envelopes of a sum of ratios function over intersections of the feasible region of the equivalent problem with rectangular sets. The rectangular sets are systematically subdivided as the branch and bound search proceeds. Two versions of the algorithm, with convergence results, are presented. Computational advantages of these algorithms are indicated, and some computational results are given that were obtained by globally solving some sample problems with one of these algorithms.
+Keywords
+Computational Result  Real Function  Convergence Result  Feasible Region  Sample Problem  

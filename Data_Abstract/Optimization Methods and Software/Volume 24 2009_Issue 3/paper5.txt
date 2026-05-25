@@ -1,0 +1,6 @@
+Cutting-set methods for robust convex optimization with pessimizing oracles
+ Almir   Mutapcic ; Stephen   Boyd ;
+Abstract
+ We consider a general worst-case robust convex optimization problem, with arbitrary dependence on the uncertain parameters, which are assumed to lie in some given set of possible values. We describe a general method for solving such a problem, which alternates between optimization and worst-case analysis. With exact worst-case analysis, the method is shown to converge to a robust optimal point. With approximate worst-case analysis, which is the best we can do in many practical cases, the method seems to work very well in practice, subject to the errors in our worst-case analysis. We give variations on the basic method that can give enhanced convergence, reduce data storage, or improve other algorithm properties. Numerical simulations suggest that the method finds a quite robust solution within a few tens of steps; using warm-start techniques in the optimization steps reduces the overall effort to a modest multiple of solving a nominal problem, ignoring the parameter variation. The method is illustrated with several application examples. 
+Keywords
+robust optimization, cutting-set methods, semi-infinite programming, minimax optimization, games AMS Subject Classification : 90C25, 90C47, 90C34, 90C31 

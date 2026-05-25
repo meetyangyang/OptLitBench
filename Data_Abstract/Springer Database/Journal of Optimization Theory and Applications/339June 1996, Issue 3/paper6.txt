@@ -1,0 +1,6 @@
+Measurement scheduling for recursive team estimation
+M. S. Andersland;D. Teneketzis;
+Abstract
+We consider a decentralized LQG measurement scheduling problem in which every measurement is costly, no communication between observers is permitted, and the observers' estimation errors are coupled quadratically. This setup, motivated by considerations from organization theory, models measurement scheduling problems in which cost, bandwidth, or security constraints necessitate that estimates be decentralized, although their errors are coupled. We show that, unlike the centralized case, in the decentralized case the problem of optimizing the time integral of the measurement cost and the quadratic estimation error is fundamentally stochastic, and we characterize the ε-optimal open-loop schedules as chattering solutions of a deterministic Lagrange optimal control problem. Using a numerical example, we describe also how this deterministic optimal control problem can be solved by nonlinear programming.
+Keywords
+Measurement scheduling  decentralized estimation  team theory  chattering controls  

@@ -1,0 +1,6 @@
+An Outcome Space Branch and Bound-Outer Approximation Algorithm for Convex Multiplicative Programming
+Harold P. Benson;
+Abstract
+This article presents a new global solution algorithm for Convex Multiplicative Programming called the Outcome Space Algorithm. To solve a given convex multiplicative program (PD), the algorithm solves instead an equivalent quasiconcave minimization problem in the outcome space of the original problem. To help accomplish this, the algorithm uses branching, bounding and outer approximation by polytopes, all in the outcome space of problem (PD). The algorithm economizes the computations that it requires by working in the outcome space, by avoiding the need to compute new vertices in the outer approximation process, and, except for one convex program per iteration, by requiring for its execution only linear programming techniques and simple algebra.
+Keywords
+Multiplicative programming  Convex multiplicative programming  Global optimization  Outer approximation  Branch and bound  Nonconvex programming  

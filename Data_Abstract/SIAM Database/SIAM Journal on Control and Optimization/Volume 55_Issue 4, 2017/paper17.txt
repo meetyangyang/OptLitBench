@@ -1,0 +1,6 @@
+The Quasi-Neutral Limit in Optimal Semiconductor Design
+René  Pinnau, Claudia  Totzeck, and Oliver  Tse;
+Abstract
+We study the quasi-neutral limit in an optimal semiconductor design problem constrained by a nonlinear, nonlocal Poisson equation modeling the drift-diffusion equations in thermal equilibrium. While a broad knowledge of the asymptotic links between the different models in the semiconductor model hierarchy exists, there are so far no results on the corresponding optimization problems available. Using a variational approach we end up with a bilevel optimization problem, which is thoroughly analyzed. Further, we exploit the concept of $\Gamma$-convergence to perform the quasi-neutral limit for the minima and minimizers. This justifies the construction of fast optimization algorithms based on the zero space charge approximation of the drift diffusion model. The analytical results are underlined by numerical experiments confirming the feasibility of our approach.
+Keywords
+optimal semiconductor design, drift-diffusion model, nonlinear nonlocal Poisson equation, optimal control, first-order necessary condition, $\Gamma$-convergence, 35B40, 35J50, 35Q40, 49J20, 49K20, 

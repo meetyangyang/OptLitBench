@@ -1,0 +1,6 @@
+The Gradient Projection Method with Exact Line Search
+William W. Hager;Soonchul Park;
+Abstract
+The gradient projection algorithm for function minimization is often implemented using an approximate local minimization along the projected negative gradient. On the other hand, for some difficult combinational optimization problems, where a starting guess may be far from a solution, it may be advantageous to perform a nonlocal (exact) line search. In this paper we show how to evaluate the piece-wise smooth projection associated with a constraint set described by bounds on the variables and a single linear equation. When the NP hard graph partitioning problem is formulated as a continuous quadratic programming problem, the constraints have this structure.
+Keywords
+bound constraints  gradient projection  graph partitioning  line search  

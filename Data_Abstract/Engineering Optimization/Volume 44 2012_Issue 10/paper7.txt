@@ -1,0 +1,6 @@
+A pegging algorithm for separable continuous nonlinear knapsack problems with box constraints
+ Gitae   Kim ; Chih-Hang   Wu ;
+Abstract
+ This article proposes an efficient pegging algorithm for solving separable continuous nonlinear knapsack problems with box constraints. A well-known pegging algorithm for solving this problem is the Bitran–Hax algorithm, a preferred choice for large-scale problems. However, at each iteration, it must calculate an optimal dual variable and update all free primal variables, which is time consuming. The proposed algorithm checks the box constraints implicitly using the bounds on the Lagrange multiplier without explicitly calculating primal variables at each iteration as well as updating the dual solution in a more efficient manner. Results of computational experiments have shown that the proposed algorithm consistently outperforms the Bitran–Hax in all baseline testing and two real-time application models. The proposed algorithm shows significant potential for many other mathematical models in real-world applications with straightforward extensions. 
+Keywords
+optimization, convex programming, nonlinear programming, nonlinear knapsack problem, pegging algorithm 

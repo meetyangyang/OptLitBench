@@ -1,0 +1,6 @@
+Short Steps with Karmarkar’s Projective Algorithm for Linear Programming
+J.-L.  Goffin and J.-PH.  Vial;
+Abstract
+A path-following, or short-step, version of Karmarkar’s algorithm is proposed. When the first term of Karmarkar’s potential function is given the weight $( n + n^\delta )$, with $\delta \geq 0$, the algorithm converges in $O ( n^{\max \{ \delta /2,1 - \delta /2 \}} L )$ iterations. The best convergence result $O( \sqrt{n} L)$ is achieved for $\delta  = 1$. Two proofs of convergence are given: one based on duality gap reductions and the other on potential reductions. The weighted version of the standard projective algorithm is also analyzed. It is interpreted as a max-step algorithm. It is known to converge in at most $O( ( n + n^\delta )L )$ iterations. The reduction of the duality gap when an updating of the lower bound is performed is studied. It is shown to be of a multiplicative factor at most equal to $1 - n^\delta /( n + n^\delta ) ( 1 - \theta )$, where $0 < \theta  < 1$ is a fixed parameter in the algorithm. It is deduced from it that the total number of updates of the lower bound in the weighted projective algorithm is at most $O( n^{1 - \delta } L )$ for $0 \leq \delta  \leq 1$.
+Keywords
+linear programming, interior point method, projective algorithm, path following, 90C05, 

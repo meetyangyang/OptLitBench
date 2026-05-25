@@ -1,0 +1,6 @@
+A semidefinite programming approach to robust truss topology optimization under uncertainty in locations of nodes
+Daiki Hashimoto;Yoshihiro Kanno;
+Abstract
+This paper addresses truss topology optimization taking into account robustness to uncertainty in the truss geometry. Specifically, the locations of nodes are assumed not to be known precisely and the compliance in the worst case is attempted to be minimized. We formulate a semidefinite programming problem that serves as a safe approximation of this robust optimization problem. That is, any feasible solution of the presented semidefinite programming problem satisfies the constraints of the original robust optimization problem. Since a semidefinite programming problem can be solved efficiently with a primal-dual interior-point method, we can find a robust truss design efficiently with the proposed semidefinite programming approach. A notable property of the proposed approach is that the obtained truss is guaranteed to be stable. Numerical experiments are performed to illustrate that the optimal truss topology depends on the magnitude of uncertainty.
+Keywords
+Robustness  Uncertainty  Robust optimization  Topology optimization  Semidefinite programming  

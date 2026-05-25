@@ -1,0 +1,6 @@
+Identification For Control: Optimal Input Design With Respect To A Worst-Case $\nu$-gap Cost Function
+Roland  Hildebrand and Michel  Gevers;
+Abstract
+Parameter identification experiments deliver an identified model together with an ellipsoidal uncertainty region in parameter space. The objective of robust controller design is thus to stabilize all plants in the identified uncertainty region. The subject of the present contribution is to design an identification experiment such that the worst-case $\nu$-gap over all plants in the resulting uncertainty region between the identified plant and plants in this region is as small as possible. The experiment design is performed via input power spectrum optimization. Two cost functions are investigated, which represent different levels of trade-off between accuracy and computational complexity. It is shown that the input optimization problem with respect to these cost functions is amenable to standard numerical algorithms used in convex analysis.
+Keywords
+identification for control, worst-case $\nu$-gap, parametric uncertainty region, 93E12, 93D21, 49M05, 

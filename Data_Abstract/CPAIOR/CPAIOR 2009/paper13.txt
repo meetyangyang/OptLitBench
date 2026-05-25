@@ -1,0 +1,4 @@
+Open Constraints in a Boundable World
+Michael J. Maher;
+Abstract
+Open forms of global constraints allow the addition of new variables to an argument during the execution of a constraint program. Such forms are needed for difficult constraint programming problems where problem construction and problem solving are interleaved. We introduce a new model of open global constraint where the length of the sequence of variables can be constrained but there is no a priori restriction on the variables that might be added. In general, propagation that is sound for a global constraint can be unsound when the constraint is open. We identify properties of constraints that simplify the design of algorithms for propagation by identifying when no propagation can be done, and use them to design propagation algorithms for several open global constraints.

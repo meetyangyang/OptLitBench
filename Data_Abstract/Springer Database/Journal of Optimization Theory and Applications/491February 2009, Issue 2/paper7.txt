@@ -1,0 +1,6 @@
+Combining Trust-Region Techniques and Rosenbrock Methods to Compute Stationary Points
+X.-L. Luo;C. T. Kelley;L.-Z. Liao;H. W. Tam;
+Abstract
+Rosenbrock methods are popular for solving a stiff initial-value problem of ordinary differential equations. One advantage is that there is no need to solve a nonlinear equation at every iteration, as compared with other implicit methods such as backward difference formulas or implicit Runge–Kutta methods. In this article, we introduce a trust-region technique to select the time steps of a second-order Rosenbrock method for a special initial-value problem, namely, a gradient system obtained from an unconstrained optimization problem. The technique is different from the local error approach. Both local and global convergence properties of the new method for solving an equilibrium point of the gradient system are addressed. Finally, some promising numerical results are also presented.
+Keywords
+Trust-region methods  Unconstrained optimization  Rosenbrock method  Gradient system  Ordinary differential equations  

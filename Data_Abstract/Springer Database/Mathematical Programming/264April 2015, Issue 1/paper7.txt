@@ -1,0 +1,6 @@
+Modified orbital branching for structured symmetry with an application to unit commitment
+James Ostrowski;Miguel F. Anjos;Anthony Vannelli;
+Abstract
+The past decade has seen advances in general methods for symmetry breaking in mixed-integer linear programming. These methods are advantageous for general problems with general symmetry groups. Some important classes of mixed integer linear programming problems, such as bin packing and graph coloring, contain highly structured symmetry groups. This observation has motivated the development of problem-specific techniques. In this paper we show how to strengthen orbital branching in order to exploit special structures in a problem’s symmetry group. The proposed technique, to which we refer as modified orbital branching, is able to solve problems with structured symmetry groups more efficiently. One class of problems for which this technique is effective is when the solution variables can be expressed as 0/1 matrices where the problem’s symmetry group contains all permutations of the columns. We use the unit commitment problem, an important problem in power systems, to demonstrate the strength of modified orbital branching.
+Keywords
+Symmetry  Integer programming  Orbital branching   Orbitopes   Unit commitment  90C10  90C57  90C90  

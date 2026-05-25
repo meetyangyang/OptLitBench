@@ -1,0 +1,6 @@
+Parallel surrogate-assisted global optimization with expensive functions – a survey
+Raphael T. Haftka;Diane Villanueva;Anirban Chaudhuri;
+Abstract
+Surrogate assisted global optimization is gaining popularity. Similarly, modern advances in computing power increasingly rely on parallelization rather than faster processors. This paper examines some of the methods used to take advantage of parallelization in surrogate based global optimization. A key issue focused on in this review is how different algorithms balance exploration and exploitation. Most of the papers surveyed are adaptive samplers that employ Gaussian Process or Kriging surrogates. These allow sophisticated approaches for balancing exploration and exploitation and even allow to develop algorithms with calculable rate of convergence as function of the number of parallel processors. In addition to optimization based on adaptive sampling, surrogate assisted parallel evolutionary algorithms are also surveyed. Beyond a review of the present state of the art, the paper also argues that methods that provide easy parallelization, like multiple parallel runs, or methods that rely on population of designs for diversity deserve more attention.
+Keywords
+Surrogates  Parallel computing  Global optimization  

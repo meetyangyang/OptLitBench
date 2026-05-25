@@ -1,0 +1,6 @@
+A Probability-One Homotopy Algorithm for Nonsmooth Equations and Mixed Complementarity Problems
+Stephen C.  Billups and Layne T.  Watson;
+Abstract
+Convergence theory for a new probability-one homotopy algorithm for solving non-smooth equations is given. This algorithm is able to solve problems involving highly nonlinear equations, where the norm of the residual has nonglobal local minima. The algorithm is based on constructing homotopy mappings that are smooth in the interior of their domains. The algorithm is specialized to solve mixed complementarity problems (MCP) through the use of MCP functions and associated smoothers. This specialized algorithm includes an option to ensure that all iterates remain feasible. Easily satisfiable sufficient conditions are given to ensure that the homotopy zero curve remains feasible, and global convergence properties for the MCP algorithm are proved. Computational results on the MCPLIB test library demonstrate the effectiveness of the algorithm.
+Keywords
+non\-smooth equations, complementarity problems, homotopy methods, smoothing, path following, 65F10, 65F50, 65H10, 65K10, 

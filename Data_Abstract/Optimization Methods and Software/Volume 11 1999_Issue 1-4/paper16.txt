@@ -1,0 +1,6 @@
+LOQO user's manual — version 3.10
+ Robert J.   Vanderbei ;
+Abstract
+ LOQO is a system for solving smooth constrained optimization problems. The problems can be linear or nonlinear, convex or nonconvex, constrained or unconstrained. The only real restriction is that the functions defining the problem be smooth (at the points evaluated by the algorithm). If the problem is convex, LOQO finds a globally optimal solution. Otherwise, it finds a locally optimal solution near to a given starting point. This manual describes 1. how to install LOQO on your hardware. 2. how to use AMPL together with LOQO to solve general optimization problems, 3. how to use the subroutine library to formulate and solve optimization problems, and 4. how to formulate and solve linear and quadratic programs in MPS format. 
+Keywords
+ 

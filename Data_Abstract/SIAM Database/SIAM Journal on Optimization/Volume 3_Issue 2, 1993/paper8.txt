@@ -1,0 +1,6 @@
+Partial-Update Newton Methods for Unary, Factorable, and Partially Separable Optimization
+Donald  Goldfarb and Siyun  Wang;
+Abstract
+A modified Newton method for solving unary optimization problems that is based upon only partially updating an approximation to the Hessian matrix at each iteration is developed using rank-one updates. Two partial updating criteria are presented: the first enables the method to retain the quadratic convergence property of the classical Newton method, while the second enables it to achieve the superlinear convergence property of quasi-ewton methods. Globally convergent modifications of the partial-update Newton method are also given. Finally, the methods and proofs of their convergence are extended to partially separable and factorable optimization problems.
+Keywords
+unary function, partially separable function, factorable function, inexact Newton method, partial-update Newton method, rank-one update, 65K05, 65K10, 

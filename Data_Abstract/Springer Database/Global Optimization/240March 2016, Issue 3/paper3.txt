@@ -1,0 +1,6 @@
+A new semi-smooth Newton multigrid method for control-constrained semi-linear elliptic PDE problems
+Jun Liu;Mingqing Xiao;
+Abstract
+In this paper a new multigrid algorithm is proposed to accelerate the convergence of the semi-smooth Newton method that is applied to the first order necessary optimality systems arising from a class of semi-linear control-constrained elliptic optimal control problems. Under admissible assumptions on the nonlinearity, the discretized Jacobian matrix is proved to have an uniformly bounded inverse with respect to mesh size. Different from current available approaches, a new numerical implementation that leads to a robust multigrid solver is employed to coarsen the grid operator. Numerical simulations are provided to illustrate the efficiency of the proposed method, which shows to be computationally more efficient than the full-approximation-storage multigrid in current literature. In particular, our proposed approach achieves a mesh-independent convergence and its performance is highly robust with respect to the regularization parameter.
+Keywords
+Semi-smooth Newton method  Linear multigrid  Collective Jacobi smoother  Semi-linear elliptic equation  Full-approximation storage multigrid  

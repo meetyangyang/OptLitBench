@@ -1,0 +1,6 @@
+Regularization Methods for SDP Relaxations in Large-Scale Polynomial Optimization
+Jiawang  Nie and Li  Wang;
+Abstract
+We study how to solve semidefinite programming (SDP) relaxations for large-scale polynomial optimization. When interior-point methods are used, typically only small or moderately large problems could be solved. This paper studies regularization methods for solving polynomial optimization problems. We describe these methods for semidefinite optimization with block structures and then apply them to solve large-scale polynomial optimization problems. The performance is tested on various numerical examples. With regularization methods, significantly bigger problems could be solved on a regular computer, which is almost impossible with interior point methods.
+Keywords
+polynomial optimization, Lasserre's relaxation, regularization methods, semidefinite programming, sum of squares, 65K05, 90C22, 

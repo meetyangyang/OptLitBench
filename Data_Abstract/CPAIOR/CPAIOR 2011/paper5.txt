@@ -1,0 +1,4 @@
+Manipulating MDD Relaxations for Combinatorial Optimization
+David Bergman;Willem-Jan van Hoeve;John N. Hooker;
+Abstract
+We study the application of limited-width MDDs (multi-valued decision diagrams) as discrete relaxations for combinatorial optimization problems. These relaxations are used for the purpose of generating lower bounds. We introduce a new compilation method for constructing such MDDs, as well as algorithms that manipulate the MDDs to obtain stronger relaxations and hence provide stronger lower bounds. We apply our methodology to set covering problems, and evaluate the strength of MDD relaxations to relaxations based on linear programming. Our experimental results indicate that the MDD relaxation is particularly effective on structured problems, being able to outperform state-of-the-art integer programming technology by several orders of magnitude.

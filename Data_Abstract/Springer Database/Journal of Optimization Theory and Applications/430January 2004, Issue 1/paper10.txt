@@ -1,0 +1,6 @@
+Global Convergence of the Newton Interior-Point Method for Nonlinear Programming
+C. Durazzi;V. Ruggiero;
+Abstract
+The aim of this paper is to show that the theorem on the global convergence of the Newton interior–point (IP) method presented in Ref. 1 can be proved under weaker assumptions. Indeed, we assume the boundedness of the sequences of multipliers related to nontrivial constraints, instead of the hypothesis that the gradients of the inequality constraints corresponding to slack variables not bounded away from zero are linearly independent. By numerical examples, we show that, in the implementation of the Newton IP method, loss of boundedness in the iteration sequence of the multipliers detects when the algorithm does not converge from the chosen starting point.
+Keywords
+Nonlinear programming  Newton interior–point methods  global convergence  

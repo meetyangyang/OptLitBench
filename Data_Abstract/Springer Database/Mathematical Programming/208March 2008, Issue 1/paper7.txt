@@ -1,0 +1,6 @@
+Accelerating the cubic regularization of Newton’s method on convex problems
+Yu. Nesterov;
+Abstract
+In this paper we propose an accelerated version of the cubic regularization of Newton’s method (Nesterov and Polyak, in Math Program 108(1): 177–205, 2006). The original version, used for minimizing a convex function with Lipschitz-continuous Hessian, guarantees a global rate of convergence of order \(O\big({1 \over k^2}\big)\), where k is the iteration counter. Our modified version converges for the same problem class with order \(O\big({1 \over k^3}\big)\), keeping the complexity of each iteration unchanged. We study the complexity of both schemes on different classes of convex problems. In particular, we argue that for the second-order schemes, the class of non-degenerate problems is different from the standard class.
+Keywords
+Convex optimization  Unconstrained minimization  Newton’s method  Cubic regularization  Worst-case complexity  Global complexity bounds  Non-degenerate problems  Condition number  49M15  49M37  58C15  90C25  90C30  

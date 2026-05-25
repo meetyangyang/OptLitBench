@@ -1,0 +1,6 @@
+On the Design of Optimization Strategies Based on Global Response Surface Approximation Models
+András Sóbester;Stephen J. Leary;Andy J. Keane;
+Abstract
+Striking the correct balance between global exploration of search spaces and local exploitation of promising basins of attraction is one of the principal concerns in the design of global optimization algorithms. This is true in the case of techniques based on global response surface approximation models as well. After constructing such a model using some initial database of designs it is far from obvious how to select further points to examine so that the appropriate mix of exploration and exploitation is achieved. In this paper we propose a selection criterion based on the expected improvement measure, which allows relatively precise control of the scope of the search. We investigate its behavior through a set of artificial test functions and two structural optimization problems. We also look at another aspect of setting up search heuristics of this type: the choice of the size of the database that the initial approximation is built upon.
+Keywords
+expected improvement  Gaussian kernels  Radial basis functions  

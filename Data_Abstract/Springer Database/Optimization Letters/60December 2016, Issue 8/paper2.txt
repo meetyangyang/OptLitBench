@@ -1,0 +1,6 @@
+Policy iteration for robust nonstationary Markov decision processes
+Saumya Sinha;Archis Ghate;
+Abstract
+Policy iteration is a well-studied algorithm for solving stationary Markov decision processes (MDPs). It has also been extended to robust stationary MDPs. For robust nonstationary MDPs, however, an “as is” execution of this algorithm is not possible because it would call for an infinite amount of computation in each iteration. We therefore present a policy iteration algorithm for robust nonstationary MDPs, which performs finitely implementable approximate variants of policy evaluation and policy improvement in each iteration. We prove that the sequence of cost-to-go functions produced by this algorithm monotonically converges pointwise to the optimal cost-to-go function; the policies generated converge subsequentially to an optimal policy.
+Keywords
+Bellman’s equations  Infinite-dimensional optimization  

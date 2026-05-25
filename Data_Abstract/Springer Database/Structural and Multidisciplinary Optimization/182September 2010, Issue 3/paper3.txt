@@ -1,0 +1,6 @@
+Minimum weight design for toroidal pressure vessels using Differential Evolution and Particle Swarm Optimization
+Vu Truong Vu;
+Abstract
+In this paper, Differential Evolution and Particle Swarm Optimization methods have been applied to the design of minimum weight toroidal shells subject to internal pressure. Constraints are first yield pressure, plastic pressures, plastic instability pressure and volume contained by the toroid. Optimality includes geometry and wall thickness, which is constant or variable. The optimization process is performed by FORTRAN routines coupled with finite element analysis code ABAQUS. Depending on geometry parameters of the toroid, the material saving can be as high as 72%. The results also show that Differential Evolution outperforms the Particle Swarm Optimization in most of cases.
+Keywords
+Minimum weight design  Toroidal pressure vessel  Differential evolution  Particle swarm optimization  

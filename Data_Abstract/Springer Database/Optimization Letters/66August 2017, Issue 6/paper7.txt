@@ -1,0 +1,6 @@
+A general variable neighborhood search for solving the uncapacitated \(r\)-allocation \(p\)-hub median problem
+Raca Todosijević;Dragan Urošević;Nenad Mladenović;Saïd Hanafi;
+Abstract
+The \(p\)-hub median problem consists of choosing \(p\) hub locations from a set of nodes with pairwise traffic demands in order to route the traffic between the origin-destination pairs at minimum cost. We accept general assumption that transportation between non-hub nodes is possible only via \(r\)-hub nodes, to which non-hub nodes are assigned. In this paper we propose a general variable neighborhood search heuristic to solve the problem in an efficient and effective way. Moreover, for the first time full nested variable neighborhood descent is applied as a local search within Variable neighborhood search. Computational results outperform the current state-of-the-art results obtained by GRASP based heuristic.
+Keywords
+\(p\)-hub  Heuristics  Nested variable neighborhood descent   Variable neighborhood search  

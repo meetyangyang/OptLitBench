@@ -1,0 +1,6 @@
+Convergence Properties of the Inexact Levenberg-Marquardt Method under Local Error Bound Conditions
+ Hiroshige   Dan ; Nobuo   Yamashita ; Masao   Fukushima ;
+Abstract
+ In this paper, we consider convergence properties of the Levenberg-Marquardt method for solving nonlinear equations. It is well-known that the nonsingularity of Jacobian at a solution guarantees that the Levenberg-Marquardt method has a quadratic rate of convergence. Recently, Yamashita and Fukushima showed that the Levenberg-Marquardt method has a quadratic rate of convergence under the local error bound assumption, which is milder than the nonsingularity of Jacobian. In this paper, we show that the inexact Levenberg-Marquardt method (ILMM), which does not require computing exact search directions, has a superlinear rate of convergence under the same local error bound assumption. Moreover, we propose the ILMM with Armijo's stepsize rule that has global convergence under mild conditions. 
+Keywords
+The Levenberg-Marquardt Method, Local Error Bound, Inexact Method, Superlinear Convergence 

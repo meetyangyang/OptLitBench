@@ -1,0 +1,6 @@
+Solving Lift-and-Project Relaxations of Binary Integer Programs
+Samuel  Burer and Dieter  Vandenbussche;
+Abstract
+We propose a method for optimizing the lift-and-project relaxations of binary integer programs introduced by Lovász and Schrijver. In particular, we study both linear and semidefinite relaxations. The key idea is a restructuring of the relaxations, which isolates the complicating constraints and allows for a Lagrangian approach. We detail an enhanced subgradient method and discuss its efficient implementation. Computational results illustrate that our algorithm produces tight bounds more quickly than state-of-the-art linear and semidefinite solvers.
+Keywords
+integer programming, lift-and-project relaxations, semidefinite programming, augmented Lagrangian, 90C10, 90C22, 90C27, 90C30, 

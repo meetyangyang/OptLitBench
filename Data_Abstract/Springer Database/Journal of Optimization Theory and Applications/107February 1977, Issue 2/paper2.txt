@@ -1,0 +1,6 @@
+An accelerated multiplier method for nonlinear programming
+J. T. Betts;
+Abstract
+This paper describes an accelerated multiplier method for solving the general nonlinear programming problem. The algorithm poses a sequence of unconstrained optimization problems. The unconstrained problems are solved using a rank-one recursive algorithm described in an earlier paper. Multiplier estimates are obtained by minimizing the error in the Kuhn-Tucker conditions using a quadratic programming algorithm. The convergence of the sequence of unconstrained problems is accelerated by using a Newton-Raphson extrapolation process. The numerical effectiveness of the algorithm is demonstrated on a relatively large set of test problems.
+Keywords
+Augmented penalty function  method of multipliers  penalty function methods  nonlinear programming  mathematical programming  

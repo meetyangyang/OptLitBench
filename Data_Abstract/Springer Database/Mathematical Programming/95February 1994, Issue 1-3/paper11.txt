@@ -1,0 +1,6 @@
+Interior-point algorithms for semi-infinite programming
+Michael J. Todd;
+Abstract
+In order to study the behavior of interior-point methods on very large-scale linear programming problems, we consider the application of such methods to continuous semi-infinite linear programming problems in both primal and dual form. By considering different discretizations of such problems we are led to a certain invariance property for (finite-dimensional) interior-point methods. We find that while many methods are invariant, several, including all those with the currently best complexity bound, are not. We then devise natural extensions of invariant methods to the semi-infinite case. Our motivation comes from our belief that for a method to work well on large-scale linear programming problems, it should be effective on fine discretizations of a semi-infinite problem and it should have a natural extension to the limiting semi-infinite case.
+Keywords
+Linear programming  Semi-infinite programming  Interior-point methods  

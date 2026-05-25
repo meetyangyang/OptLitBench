@@ -1,0 +1,6 @@
+On convex relaxations for quadratically constrained quadratic programming
+Kurt M. Anstreicher;
+Abstract
+We consider convex relaxations for the problem of minimizing a (possibly nonconvex) quadratic objective subject to linear and (possibly nonconvex) quadratic constraints. Let \(\mathcal{F }\) denote the feasible region for the linear constraints. We first show that replacing the quadratic objective and constraint functions with their convex lower envelopes on \(\mathcal{F }\) is dominated by an alternative methodology based on convexifying the range of the quadratic form \(\genfrac(){0.0pt}{}{1}{x}\genfrac(){0.0pt}{}{1}{x}^T\) for \(x\in \mathcal{F }\). We next show that the use of “\(\alpha \)BB” underestimators as computable estimates of convex lower envelopes is dominated by a relaxation of the convex hull of the quadratic form that imposes semidefiniteness and linear constraints on diagonal terms. Finally, we show that the use of a large class of D.C. (“difference of convex”) underestimators is dominated by a relaxation that combines semidefiniteness with RLT constraints.
+Keywords
+Quadratically constrained quadratic programming  Convex envelope  Semidefinite programming  Reformulation-linearization technique  90C26  90C22  

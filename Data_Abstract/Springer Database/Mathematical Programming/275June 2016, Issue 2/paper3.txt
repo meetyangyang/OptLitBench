@@ -1,0 +1,6 @@
+An inexact successive quadratic approximation method for L-1 regularized optimization
+Richard H. Byrd;Jorge Nocedal;Figen Oztoprak;
+Abstract
+We study a Newton-like method for the minimization of an objective function \(\phi \) that is the sum of a smooth function and an \(\ell _1\) regularization term. This method, which is sometimes referred to in the literature as a proximal Newton method, computes a step by minimizing a piecewise quadratic model \(q_k\) of the objective function \(\phi \). In order to make this approach efficient in practice, it is imperative to perform this inner minimization inexactly. In this paper, we give inexactness conditions that guarantee global convergence and that can be used to control the local rate of convergence of the iteration. Our inexactness conditions are based on a semi-smooth function that represents a (continuous) measure of the optimality conditions of the problem, and that embodies the soft-thresholding iteration. We give careful consideration to the algorithm employed for the inner minimization, and report numerical results on two test sets originating in machine learning.
+Keywords
+Sparse optimization  Inexact proximal Newton  Orthant-based quasi-Newton  49M15  90C55  

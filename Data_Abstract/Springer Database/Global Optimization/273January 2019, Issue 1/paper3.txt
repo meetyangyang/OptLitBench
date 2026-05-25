@@ -1,0 +1,6 @@
+Spectral projected gradient method for stochastic optimization
+Nataša Krejić;Nataša Krklec Jerinkić;
+Abstract
+We consider the Spectral Projected Gradient method for solving constrained optimization problems with the objective function in the form of mathematical expectation. It is assumed that the feasible set is convex, closed and easy to project on. The objective function is approximated by a sequence of different Sample Average Approximation functions with different sample sizes. The sample size update is based on two error estimates—SAA error and approximate solution error. The Spectral Projected Gradient method combined with a nonmonotone line search is used. The almost sure convergence results are achieved without imposing explicit sample growth condition. Preliminary numerical results show the efficiency of the proposed method.
+Keywords
+Spectral projected gradient  Constrained stochastic problems  Sample average approximation  Variable sample size  

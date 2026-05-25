@@ -1,0 +1,6 @@
+Auction Algorithms for Market Equilibrium
+Rahul Garg;Sanjiv Kapoor;
+Abstract
+In this paper we study algorithms for computing market equilibrium in markets with linear utility functions. The buyers in the market have an initial endowment given by a portfolio of goods. The market equilibrium problem is to compute a price vector that ensures market clearing, i.e., the demand of a positively priced good equals its supply, and given the prices, each buyer maximizes its utility. The problem is of considerable interest in economics. This paper presents a formulation of the market equilibrium problem as a parameterized linear program. We construct a family of duals corrresponding to these parameterized linear programs and show that finding the market equilibrium is the same as finding a linear program from this family of linear programs. The market-clearing conditions arise naturally from complementary slackness conditions. We then define an auction mechanism that computes prices such that approximate market clearing is achieved. The algorithm we obtain outperforms previously known methods.
+Keywords
+market equilibrium auction algorithm Walrasian model 

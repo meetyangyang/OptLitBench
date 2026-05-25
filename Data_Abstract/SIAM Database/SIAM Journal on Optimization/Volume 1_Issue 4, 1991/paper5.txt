@@ -1,0 +1,6 @@
+Parallel Solution of Large-Scale, Block-Diagonal Concave Maximization Problems
+J. H.  Glick, R. S.  Maier, and J. B.  Rosen;
+Abstract
+A feasible-point algorithm for structured, large-scale, constrained optimization problems which may have many nonlinear constraints is described. The constraint structure is characterized by a block-diagonal coefficient matrix corresponding to linear variables, coupled by nonlinear variables. Problems of this structure arise in many applications, including structural design optimization and certain multiperiod or multiplant applications. Maximization problems with a concave objective and concave inequality constraints which define a convex region are considered. For such problems a KKT point is a global maximum. A basic version of the algorithm is presented and justified by showing that it will find an optimal solution in a finite number of iterations. The algorithm has been implemented on a CRAY-2 and a 64-processor NCUBE hypercube. It has been tested on a series of randomly generated test problems, and its performance has been compared with that of MINOS 5.3.
+Keywords
+nonlinear programming, large-scale problems, constrained optimization, 90C30, 90C06, 

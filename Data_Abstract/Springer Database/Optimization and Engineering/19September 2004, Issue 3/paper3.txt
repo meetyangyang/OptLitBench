@@ -1,0 +1,6 @@
+Compact Mathematical Formulation for Graph Partitioning
+Marc Boulle;
+Abstract
+The graph partitioning problem consists of dividing the vertices of a graph into clusters, such that the weight of the edges crossing between clusters is minimized. We present a new compact mathematical formulation of this problem, based on the use of binary representation for the index of clusters assigned to vertices. This new formulation is almost minimal in terms of the number of variables and constraints and of the density of the constraint matrix. Its linear relaxation brings a very fast computational resolution, compared with the standard one.
+Keywords
+linear programming  graph partitioning  bisection  

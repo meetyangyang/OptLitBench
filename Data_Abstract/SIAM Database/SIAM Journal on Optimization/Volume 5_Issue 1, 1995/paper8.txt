@@ -1,0 +1,6 @@
+A Practical Interior-Point Method for Convex Programming
+Florian  Jarre and Michael A.  Saunders;
+Abstract
+The authors present a primal interior-point algorithm for solving convex programs with nonlinear constraints. The algorithm uses a predictor-corrector strategy to follow a smooth path that leads from a given starting point to an optimal solution. A convergence analysis is given showing that under mild assumptions the algorithm simultaneously iterates towards feasibility and optimality. The matrices involved can be kept sparse if the nonlinear functions are separable or depend on only a few variables.A preliminary implementation has been developed. Some promising numerical results indicate that the algorithm may be efficient in practice, and that it can deal in a single phase with infeasible starting points without relying on some “big M” parameter.
+Keywords
+convex program, interior-point method, implementation, sparsity, 65F05, 65F10, 65F50, 65K05, 90C05, 

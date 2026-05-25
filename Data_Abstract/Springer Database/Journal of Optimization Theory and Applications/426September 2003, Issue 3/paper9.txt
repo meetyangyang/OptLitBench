@@ -1,0 +1,6 @@
+Sequential Penalty Algorithm for Nonlinear Constrained Optimization
+J.L. Zhang;X.S. Zhang;
+Abstract
+In this paper, a new sequential penalty algorithm, based on the Linfin exact penalty function, is proposed for a general nonlinear constrained optimization problem. The algorithm has the following characteristics: it can start from an arbitrary initial point; the feasibility of the subproblem is guaranteed; the penalty parameter is adjusted automatically; global convergence without any regularity assumption is proved. The update formula of the penalty parameter is new. It is proved that the algorithm proposed in this paper behaves equivalently to the standard SQP method after sufficiently many iterations. Hence, the local convergence results of the standard SQP method can be applied to this algorithm. Preliminary numerical experiments show the efficiency and stability of the algorithm.
+Keywords
+Nonlinear optimization  SQP method  sequential penalty algorithm  global convergence  superlinear convergence  

@@ -1,0 +1,6 @@
+A sparse proximal implementation of the LP dual active set algorithm
+Timothy A. Davis;William W. Hager;
+Abstract
+We present an implementation of the LP Dual Active Set Algorithm (LP DASA) based on a quadratic proximal approximation, a strategy for dropping inactive equations from the constraints, and recently developed algorithms for updating a sparse Cholesky factorization after a low-rank change. Although our main focus is linear programming, the first and second-order proximal techniques that we develop are applicable to general concave–convex Lagrangians and to linear equality and inequality constraints. We use Netlib LP test problems to compare our proximal implementation of LP DASA to Simplex and Barrier algorithms as implemented in CPLEX.
+Keywords
+Dual active set algorithm  Linear programming  Simplex method  Barrier method  Interior point method  Equation dropping  90C05  90C06  65Y20  

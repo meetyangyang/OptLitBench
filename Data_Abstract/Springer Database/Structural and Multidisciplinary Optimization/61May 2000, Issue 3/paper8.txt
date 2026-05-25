@@ -1,0 +1,6 @@
+A gradient based heuristic algorithm and its application to discrete optimization of bar structures
+G. Jivotovski;
+Abstract
+In this paper a nonlinear constrained integer optimization problem with a monotonic objective function is considered. Customarily, the optimum is located near the feasible region boundary for this category of problems. A two-stage heuristic algorithm is developed which utilizes this peculiarity. Within the algorithm coordinate descents are computed to move within the feasible region towards the region boundary. Motions along the boundary are performed using discrete antigradients based on linear approximations of the objective function and constraints at the last feasible point. Auxiliary relative vectors are established to find a better point within a polyhedron formed by hyperplanes tangent to the objective function as well as the violated constraint surfaces. In particular, a model for the optimum design of bar structures is presented. It is demonstrated that both the algorithm and the model have been successfully applied to discrete optimization of ten-bar and two hundred-bar trusses and a single-span two-storey frame.
+Keywords
+Key words: Discrete value optimization, trusses, rigid frames, heuristic algorithms, sequential quadratic programming (SQP)  

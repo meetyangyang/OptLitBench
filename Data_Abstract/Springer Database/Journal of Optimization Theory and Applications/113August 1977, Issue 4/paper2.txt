@@ -1,0 +1,6 @@
+On the convergence of a class of derivative-free minimization algorithms
+A. C. Ting;
+Abstract
+A convergence analysis is presented for a general class of derivative-free algorithms for minimizing a functionf(x) for which the analytic form of the gradient and the Hessian is impractical to obtain. The class of algorithms accepts finite-difference approximation to the gradient, with stepsizes chosen in such a way that the length of the stepsize must meet two conditions involving the previous stepsize and the distance from the last estimate of the solution to the current estimate. The algorithms also maintain an approximation to the second-derivative matrix and require that the change inx made at each iteration be subject to a bound that is also revised automatically. The convergence theorems have the features that the starting pointx1 need not be close to the true solution andf(x) need not be convex. Furthermore, despite the fact that the second-derivative approximation may not converge to the true Hessian at the solution, the rate of convergence is still Q-superlinear. The theorry is also shown to be applicable to a modification of Powell's dog-leg algorithm.
+Keywords
+Derivative-free algorithms  Q-superlinear convergence  function minimization  mathematical programming  numerical methods  

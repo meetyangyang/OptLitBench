@@ -1,0 +1,6 @@
+Algorithms for separable nonlinear least squares with application to modelling time-resolved spectra
+Katharine M. Mullen;Mikas Vengris;Ivo H. M. van Stokkum;
+Abstract
+The multiexponential analysis problem of fitting kinetic models to time-resolved spectra is often solved using gradient-based algorithms that treat the spectral parameters as conditionally linear. We make a comparison of the two most-applied such algorithms, alternating least squares and variable projection. A numerical study examines computational efficiency and linear approximation standard error estimates. A new derivation of the Fisher information matrix under the full Golub-Pereyra gradient allows a numerical comparison of parameter precision under variable projection variants. Under the criteria of efficiency, quality of standard error estimates and parameter precision, we conclude that the Kaufman variable projection technique performs well, while techniques based on alternating least squares have significant disadvantages for application in the problem domain.
+Keywords
+Separable nonlinear models  Time-resolved spectra  Variable projection  Alternating least squares  Fisher information  

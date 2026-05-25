@@ -1,0 +1,4 @@
+On Matrices, Automata, and Double Counting 
+Nicolas Beldiceanu;Mats Carlsson;Pierre Flener;Justin Pearson;
+Abstract
+Matrix models are ubiquitous for constraint problems. Many such problems have a matrix of variables \(\mathcal{M}\), with the same constraint defined by a finite-state automaton \(\mathcal{A}\) on each row of \(\mathcal{M}\) and a global cardinality constraint \({\mathit{gcc}}\) on each column of \(\mathcal{M}\). We give two methods for deriving, by double counting, necessary conditions on the cardinality variables of the \({\mathit{gcc}}\) constraints from the automaton \(\mathcal{A}\). The first method yields linear necessary conditions and simple arithmetic constraints. The second method introduces the cardinality automaton, which abstracts the overall behaviour of all the row automata and can be encoded by a set of linear constraints. We evaluate the impact of our methods on a large set of nurse rostering problem instances.

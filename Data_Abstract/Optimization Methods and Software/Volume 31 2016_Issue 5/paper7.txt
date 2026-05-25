@@ -1,0 +1,6 @@
+On the differentiability check in gradient sampling methods
+Elias Salomão Helou;Sandra A. Santos;Lucas E. A. Simões;
+Abstract
+The present study aims to carefully discuss the importance of differentiability checks during the execution of methods based on gradient sampling. We stress the significance of this procedure not only from the theoretical perspective, but also in the practical implementation. We support our claims exhibiting illustrative examples where the absence of the differentiability check in the method prevents the achievement of the minimization problem solution. As possible alternatives, this manuscript presents two procedures that suppress the differentiability check without affecting the convergence of the method (both in theory and in practice). Lastly, by solving a difficult control problem, we show that besides the theoretical appeal our changes may also be useful to address real problems.
+Keywords
+nonsmooth optimization, nonconvex optimization, gradient sampling, differentiability check, nonmonotone line searchAMS Subject Classification: 65K10, 90C26 

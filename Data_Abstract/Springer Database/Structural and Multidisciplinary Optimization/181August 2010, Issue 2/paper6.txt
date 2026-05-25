@@ -1,0 +1,6 @@
+Identification of material parameters for McGinty’s model using adaptive RBFs and optimization
+Peter M. Hassing;Hongbing Fang;Qian Wang;
+Abstract
+In this paper, an optimization approach is adopted to obtain the 12 material parameters used in McGinty’s Model for AL6022 by minimizing the differences between simulation and experimental stress–strain curves. Since the differences between the two stress–strain curves are implicitly related to the change of material parameters, the metamodeling technique is utilized to create explicit, approximate functions of these relationships. Radial basis functions (RBFs), which are shown from previous studies to be effective for both low- and high-order nonlinear responses, are used for the metamodels that are adaptively updated in the optimization work. Two optimization formulation schemes are studied to address the issue of using inaccurate RBF models in optimization. The sampling, metamodeling, and optimization works are performed using the integrated optimization framework HiPPO.
+Keywords
+Material identification  Material characterization  Metamodeling  Radial basis functions  Adaptive RBF  Optimization  

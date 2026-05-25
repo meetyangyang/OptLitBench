@@ -1,0 +1,6 @@
+Scaled Optimal Path Trust-Region Algorithm
+C. X. Xu;J. Z. Zhang;
+Abstract
+Trust-region algorithms solve a trust-region subproblem at each iteration. Among the methods solving the subproblem, the optimal path algorithm obtains the solution to the subproblem in full-dimensional space by using the eigenvalues and eigenvectors of the system. Although the idea is attractive, the existing optimal path method seems impractical because, in addition to factorization, it requires either the calculation of the full eigensystem of a matrix or repeated factorizations of matrices at each iteration. In this paper, we propose a scaled optimal path trust-region algorithm. The algorithm finds a solution of the subproblem in full-dimensional space by just one Bunch–Parlett factorization for symmetric matrices at each iteration and by using the resulting unit lower triangular factor to scale the variables in the problem. A scaled optimal path can then be formed easily. The algorithm has good convergence properties under commonly used conditions. Computational results for small-scale and large-scale optimization problems are presented which show that the algorithm is robust and effective.
+Keywords
+Trust-region methods  unconstrained optimization  Bunch–Parlett factorization  optimal paths  global convergence  local convergence rates  

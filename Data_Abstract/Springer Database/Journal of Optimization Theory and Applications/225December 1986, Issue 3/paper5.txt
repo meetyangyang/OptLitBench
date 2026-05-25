@@ -1,0 +1,6 @@
+Algorithms for optimization problems with exclusion constraints
+D. Q. Mayne;E. Polak;
+Abstract
+This paper proposes algorithms for minimizing a continuously differentiable functionf(x):ℝ n →ℝ subject to the constraint thatx does not lie in specified bounded subsets of ℝ n . Such problems arise in a variety of applications, such as tolerance design of electronic circuits and obstacle avoidance in the selection of trajectories for robot arms. Such constraints have the form\(\psi (x) \triangleq \min \{ g^j (x)|j \in J\}  \leqslant 0\). The function ψ is not continuously differentiable. Algorithms based on the use of generalized gradients have considerable disadvantages because of the local concavity of ψ at points where the set {j|g j (x)=ψ(x)} has more than one element. Algorithms which avoid these disadvantrages are presented, and their convergence is established.
+Keywords
+Optimization  exclusion constraints  constrained optimization  locally concave constraints  

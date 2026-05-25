@@ -1,0 +1,6 @@
+Robust Dynamic Programming
+Garud N. Iyengar;
+Abstract
+In this paper we propose a robust formulation for discrete time dynamic programming (DP). The objective of the robust formulation is to systematically mitigate the sensitivity of the DP optimal policy to ambiguity in the underlying transition probabilities. The ambiguity is modeled by associating a set of conditional measures with each state-action pair. Consequently, in the robust formulation each policy has a set of measures associated with it. We prove that when this set of measures has a certain “rectangularity” property, all of the main results for finite and infinite horizon DP extend to natural robust counterparts. We discuss techniques from Nilim and El Ghaoui [17] for constructing suitable sets of conditional measures that allow one to efficiently solve for the optimal robust policy. We also show that robust DP is equivalent to stochastic zero-sum games with perfect information.
+Keywords
+dynamic programming robust optimization Markov decision processes ambiguity 

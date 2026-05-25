@@ -1,0 +1,6 @@
+Comparison of probabilistic and deterministic optimizations using genetic algorithms
+E. Ponslet;G. Maglaras;R. T. Haftka;E. Nikolaidis;H. H. Cudney;
+Abstract
+This paper describes an application of genetic algorithms to deterministic and probabilistic (reliability-based) optimization of damping augmentation for a truss structure. The probabilistic formulation minimizes the probability of exceeding upper limits on the magnitude of the dynamic response of the structure due to uncertainties in the properties of the damping devices. The corresponding deterministic formulation maximizes a safety margin with respect to these limits. Because this work was done in the context of an experimental comparison of the reliabilities of the resulting designs, antioptimization was used to maximize the contrast between the probabilities of failure of the two designs. This contrast maximization was also performed with a genetic algorithm. The paper describes the genetic algorithm used for the optimization and antioptimization, and a number of modifications to the antioptimization formulation intended to reduce the computational expense to an acceptable level. Optimal designs are obtained for both formulations. The probabilistic design shows a very significant improvement in reliability.
+Keywords
+Genetic Algorithm  Expense  Civil Engineer  Optimal Design  Dynamic Response  

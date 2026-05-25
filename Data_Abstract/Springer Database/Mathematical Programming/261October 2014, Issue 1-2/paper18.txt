@@ -1,0 +1,6 @@
+On matching cover of graphs
+Xiumei Wang;Xiaoxin Song;Jinjiang Yuan;
+Abstract
+A k-matching cover of a graph \(G\) is a union of \(k\) matchings of \(G\) which covers \(V(G)\). The matching cover number of \(G\), denoted by \(mc(G)\), is the minimum number \(k\) such that \(G\) has a \(k\)-matching cover. A matching cover of \(G\) is optimal if it consists of \(mc(G)\) matchings of \(G\). In this paper, we present an algorithm for finding an optimal matching cover of a graph on \(n\) vertices in \(O(n^3)\) time (if use a faster maximum matching algorithm, the time complexity can be reduced to \(O(nm)\), where \(m=|E(G)|\)), and give an upper bound on matching cover number of graphs. In particular, for trees, a linear-time algorithm is given, and as a by-product, the matching cover number of trees is determined.
+Keywords
+Edge cover  Matching  Matching cover  Matching cover number  90C27  

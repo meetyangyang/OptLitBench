@@ -1,0 +1,6 @@
+On the implementation of interior point methods for dual-core platforms
+ Csaba   Mészáros ;
+Abstract
+ Computers with CPUs of multiple computing cores are now widely available. In the paper, we investigate how these modern architectures perform in the practice of interior point methods. In our study, we shall focus on the implementation of the Cholesky factorization of large-scale and sparse symmetric positive semidefinite matrices. Our numerical experiments will demonstrate that capabilities of modern processors can be efficiently utilized by special implementation techniques. 
+Keywords
+parallel Cholesky factorization, interior point methods, linear programming AMS Subject Classification : 65Y10, 65Y05, 90C51 

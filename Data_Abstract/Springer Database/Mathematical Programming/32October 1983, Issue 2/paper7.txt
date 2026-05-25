@@ -1,0 +1,6 @@
+Formal optimization of some reduced linear programming problems
+J. A. Tomlin;J. S. Welch;
+Abstract
+It is often possible (and profitable) to reduce or ‘Presolve’ linear programs. In particular, there are frequently constraints which force many of the variables to be at bound. Unfortunately, the solution found by the simplex method for such reduced models is not usually ‘formally’ optimal, in the sense that nonoptimal dual values may be present when the original problem is restored. Furthermore, the restored (full) problem is now totally degenerate, and may require many iterations to achieved formal optimality.
+Keywords
+Linear Programming  Reduction  Sparsity  Degeneracy  

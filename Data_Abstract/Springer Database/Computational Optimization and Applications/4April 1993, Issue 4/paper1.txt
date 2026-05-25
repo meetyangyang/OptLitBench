@@ -1,0 +1,6 @@
+Application of the dual active set algorithm to quadratic network optimization
+William W. Hager;Donald W. Hearn;
+Abstract
+A new algorithm, the dual active set algorithm, is presented for solving a minimization problem with equality constraints and bounds on the variables. The algorithm identifies the active bound constraints by maximizing an unconstrained dual function in a finite number of iterations. Convergence of the method is established, and it is applied to convex quadratic programming. In its implementable form, the algorithm is combined with the proximal point method. A computational study of large-scale quadratic network problems compares the algorithm to a coordinate ascent method and to conjugate gradient methods for the dual problem. This study shows that combining the new algorithm with the nonlinear conjugate gradient method is particularly effective on difficult network problems from the literature.
+Keywords
+dual algorithm  active set algorithm  conjugate gradients  quadratic networks  proximal point method  

@@ -1,0 +1,6 @@
+On integer programming with bounded determinants
+D. V. Gribanov;S. I. Veselov;
+Abstract
+Let A be an \((m \times n)\) integral matrix, and let \(P=\{ x :A x \le b\}\) be an n-dimensional polytope. The width of P is defined as \( w(P)=min\{ x\in \mathbb {Z}^n{\setminus }\{0\} :max_{x \in P} x^\top u - min_{x \in P} x^\top v \}\). Let \(\varDelta (A)\) and \(\delta (A)\) denote the greatest and the smallest absolute values of a determinant among all \(r(A) \times r(A)\) sub-matrices of A, where r(A) is the rank of the matrix A. We prove that if every \(r(A) \times r(A)\) sub-matrix of A has a determinant equal to \(\pm \varDelta (A)\) or 0 and \(w(P)\ge (\varDelta (A)-1)(n+1)\), then P contains n affine independent integer points. Additionally, we present similar results for the case of k-modular matrices. The matrix A is called totally k-modular if every square sub-matrix of A has a determinant in the set \(\{0,\, \pm k^r :r \in \mathbb {N} \}\). When P is a simplex and \(w(P)\ge \delta (A)-1\), we describe a polynomial time algorithm for finding an integer point in P.
+Keywords
+Empty lattice  Simplex  Polytope  Integer programming  Feasibility problem  Flatness theorem  Group minimization  

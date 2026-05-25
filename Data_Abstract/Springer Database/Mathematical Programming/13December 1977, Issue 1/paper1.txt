@@ -1,0 +1,6 @@
+The alternating basis algorithm for assignment problems
+R. S. Barr;F. Glover;D. Klingman;
+Abstract
+The purpose of this paper is to present a new primal extreme point algorithm for solving assignment problems which both circumvents and exploits degeneracy. The algorithm is based on the observation that the degeneracy difficulties of the simplex method result from the unnecessary inspection of alternative basis representations of the extreme points. This paper characterizes a subsetQ of all bases that are capable of leading to an optimal solution to the problem if one exists. Using this characterization, an extreme point algorithm is developed which considers only those bases inQ. Computational results disclose that the new algorithm is substantially more efficient than previously developed primal and primal-dual extreme point (“simplex”) methods for assignment problems.
+Keywords
+Assignment problems  Linear programming  Manpower planning  Networks  Personnel assignment  Transportation problems  

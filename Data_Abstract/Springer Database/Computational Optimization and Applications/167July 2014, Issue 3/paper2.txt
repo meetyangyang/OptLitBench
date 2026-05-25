@@ -1,0 +1,6 @@
+Robust registration of point sets using iteratively reweighted least squares
+Per Bergström;Ove Edlund;
+Abstract
+Registration of point sets is done by finding a rotation and translation that produces a best fit between a set of data points and a set of model points. We use robust M-estimation techniques to limit the influence of outliers, more specifically a modified version of the iterative closest point algorithm where we use iteratively re-weighed least squares to incorporate the robustness. We prove convergence with respect to the value of the objective function for this algorithm. A comparison is also done of different criterion functions to figure out their abilities to do appropriate point set fits, when the sets of data points contains outliers. The robust methods prove to be superior to least squares minimization in this setting.
+Keywords
+Convergence  ICP  IRLS  M-estimation  Registration  Robust  

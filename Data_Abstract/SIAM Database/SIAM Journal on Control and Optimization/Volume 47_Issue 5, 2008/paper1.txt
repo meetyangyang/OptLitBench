@@ -1,0 +1,6 @@
+Optimal Dividend Payments and Reinvestments of Diffusion Processes with Both Fixed and Proportional Costs
+Jostein  Paulsen;
+Abstract
+Assets are assumed to follow a diffusion process subject to some conditions. The owners can pay dividends at their discretion, but whenever assets reach zero, they have to reinvest money so that assets never go negative. With each dividend payment there is a fixed and a proportional cost, and so with reinvestments. The goal is to maximize the expected value of discounted net cash flow, i.e., dividends paid minus reinvestments. It is shown that there can be two different solutions depending on the model parameters and the costs as follows. (1) Whenever assets reach a barrier $y^*$ they are reduced to $y^*-\delta^*$ through a dividend payment, and whenever they reach 0 they are increased to $\gamma^*\leq y^*-\delta^*$ by a reinvestment. (2) There is no optimal policy, but the value function is approximated by policies of the form described in (1) for increasing barriers. We provide criteria to decide whether an optimal solution exists, and when it does not, we show how to calculate the value function. We discuss how the problem can be solved numerically and give numerical examples.
+Keywords
+optimal dividends, diffusion models, impulse control, barrier strategy, 49N25, 93E20, 91B28, 60J70, 

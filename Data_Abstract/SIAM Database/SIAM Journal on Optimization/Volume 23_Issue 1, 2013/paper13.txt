@@ -1,0 +1,6 @@
+Global Optimization of Nonlinear Network Design
+Arvind U.  Raghunathan;
+Abstract
+A novel approach for obtaining globally optimal solutions to design of networks with nonlinear resistances and potential driven flows is proposed. The approach is applicable to networks where the potential loss on an edge in the network is governed by a convex and strictly monotonically increasing function of flow rate. We introduce a relaxation of the potential loss constraint and formulate the design problem as a mixed-integer nonlinear program. A linearization-based approach with tailored cuts is proposed that improves the computational efficiency over a standard implementation. We have also implemented a simple heuristic approach for finding feasible solutions at the root node and during the search process. The algorithm has been implemented with IBM-ILOG CPLEX and is shown to be computationally effective on a number of examples from the literature.
+Keywords
+nonlinear resistance networks, mixed-integer nonlinear program, linearization-based branch-and-cut, 90C11, 90C26, 90C27, 90C57, 

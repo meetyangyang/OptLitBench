@@ -1,0 +1,6 @@
+A projection method forl p  norm location-allocation problems
+Ingrid Bongartz;Paul H. Calamai;Andrew R. Conn;
+Abstract
+We present a solution method for location-allocation problems involving thel p  norm, where 1 <p < ∞. The method relaxes the {0, 1} constraints on the allocations, and solves for both the locations and allocations simultaneously. Necessary and sufficient conditions for local minima of the relaxed problem are stated and used to develop an iterative algorithm. This algorithm finds a stationary point on a series of subspaces defined by the current set of activities. The descent direction is a projection onto the current subspace of a direction incorporating second-order information for the locations, and first-order information for the allocations. Under mild conditions, the algorithm finds local minima with {0, 1} allocations and exhibits quadratic convergence. An implementation that exploits the special structure of these problems to dramatically reduce the computational cost of the required numerical linear algebra is described. Numerical results for thirty-six test problems are included.
+Keywords
+Location-allocation problem  Generalized Weber problem  Projection methods  Active set methods  Relaxation methods  Nonsmooth optimization  

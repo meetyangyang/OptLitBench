@@ -1,0 +1,6 @@
+High dimensional model representation for hybrid reliability analysis with dependent interval variables constrained within ellipsoids
+Shaojun Xie;Baisong Pan;Xiaoping Du;
+Abstract
+Random variables could be dependent, and so could interval variables. To accommodate dependent interval variables, this work develops an efficient hybrid reliability analysis method to handle both random and dependent interval input variables. Due to the dependent interval variables, the reliability analysis needs to perform the probability analysis for every combination of dependent interval variables. This involves a nested double-loop procedure and dramatically decreases the efficiency. The proposed method decomposes the nested double loops into sequential probability analysis (PA) loop and interval analysis (IA) loop. An efficient IA algorithm based on the cut-HDMR (High Dimensional Model Representation) expansion is developed and a sampling strategy with the leave-one-out technique without extra calls of the limit-state function is proposed. The proposed method has good accuracy and efficiency as demonstrated by two engineering examples.
+Keywords
+Reliability analysis  Dependent interval variable  High dimensional model representation  

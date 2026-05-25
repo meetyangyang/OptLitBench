@@ -1,0 +1,6 @@
+The Cyclic Block Conditional Gradient Method for Convex Optimization Problems
+Amir  Beck, Edouard  Pauwels, and Shoham  Sabach;
+Abstract
+In this paper we study the convex problem of optimizing the sum of a smooth function and a compactly supported nonsmooth term with a specific separable form. We analyze the block version of the generalized conditional gradient method when the blocks are chosen in a cyclic order. A global sublinear rate of convergence is established for two different stepsize strategies commonly used in this class of methods. Numerical comparisons of the proposed method to both the classical conditional gradient algorithm and its random block version demonstrate the effectiveness of the cyclic block update rule.
+Keywords
+conditional gradient, cyclic block decomposition, iteration complexity, linear oracle, nonsmooth convex minimization, support vector machine, 90C25, 65K05, 

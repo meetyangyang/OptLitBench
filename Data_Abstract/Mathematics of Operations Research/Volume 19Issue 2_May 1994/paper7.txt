@@ -1,0 +1,6 @@
+Lower and Upper Bounds for the Allocation Problem and Other Nonlinear Optimization Problems
+Dorit S. Hochbaum;
+Abstract
+We demonstrate the impossibility of strongly polynomial algorithms for the allocation problem, in the comparison model and in the algebraic tree computation model, that follow from lower bound results. Consequently, there are no strongly polynomial algorithms for nonlinear (concave) separable optimization over a totally unimodular constraint matrix. This is in contrast to the case when the objective is linear.We present scaling-based algorithms that use a greedy algorithm as a subroutine. The algorithms are polynomial for the allocation problem and its extensions and are also optimal for the sample allocation problem and the generalized upper bounds allocation problem, in that the complexity meets the lower bound derived from the comparison model. For other extensions of the allocation problem the scaling-based algorithms presented here are the fastest known.These algorithms are also polynomial time algorithms for solving with ε accuracy the allocation problem and its extension in continuous variables.
+Keywords
+submodular lower bounds strong polynomiality nonlinear optimization 

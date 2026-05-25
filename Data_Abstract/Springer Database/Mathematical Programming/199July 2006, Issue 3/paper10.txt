@@ -1,0 +1,6 @@
+A constraint generation algorithm for large scale linear programs using multiple-points separation
+Walid Ben-Ameur;José Neto;
+Abstract
+In order to solve linear programs with a large number of constraints, constraint generation techniques are often used. In these algorithms, a relaxation of the formulation containing only a subset of the constraints is first solved. Then a separation procedure is called which adds to the relaxation any inequality of the formulation that is violated by the current solution. The process is iterated until no violated inequality can be found. In this paper, we present a separation procedure that uses several points to generate violated constraints. The complexity of this separation procedure and of some related problems is studied. Also, preliminary computational results about the advantages of using multiple-points separation procedures over traditional separation procedures are given for random linear programs and survivable network design. They illustrate that, for some specific families of linear programs, multiple-points separation can be computationally effective.
+Keywords
+Constraint generation  Linear programming  20E28  20G40  20C20  

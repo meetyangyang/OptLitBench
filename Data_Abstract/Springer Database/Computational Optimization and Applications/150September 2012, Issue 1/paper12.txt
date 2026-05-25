@@ -1,0 +1,6 @@
+A multi-swarm PSO using charged particles in a partitioned search space for continuous optimization
+Abbas El Dor;Maurice Clerc;Patrick Siarry;
+Abstract
+Particle swarm optimization (PSO) is characterized by a fast convergence, which can lead the algorithms of this class to stagnate in local optima. In this paper, a variant of the standard PSO algorithm is presented, called PSO-2S, based on several initializations in different zones of the search space, using charged particles. This algorithm uses two kinds of swarms, a main one that gathers the best particles of auxiliary ones, initialized several times. The auxiliary swarms are initialized in different areas, then an electrostatic repulsion heuristic is applied in each area to increase its diversity. We analyse the performance of the proposed approach on a testbed made of unimodal and multimodal test functions with and without coordinate rotation and shift. The Lennard-Jones potential problem is also used. The proposed algorithm is compared to several other PSO algorithms on this benchmark. The obtained results show the efficiency of the proposed algorithm.
+Keywords
+Particle swarm optimization  Tribes-PSO  Global optimization  Multi-swarm  Repulsion heuristic  Partitioned search space  

@@ -1,0 +1,6 @@
+Strategyproof Approximation of the Minimax on Networks
+Noga Alon;Michal Feldman;Ariel D. Procaccia;Moshe Tennenholtz;
+Abstract
+We consider the problem of locating a facility on a network represented by a graph. A set of strategic agents have different ideal locations for the facility; the cost of an agent is the distance between its ideal location and the facility. A mechanism maps the locations reported by the agents to the location of the facility. We wish to design mechanisms that are strategyproof (SP) in the sense that agents can never benefit by lying and, at the same time, provide a small approximation ratio with respect to the minimax measure. We design a novel “hybrid” strategyproof randomized mechanism that provides a tight approximation ratio of 3/2 when the network is a circle (known as a ring in the case of computer networks). Furthermore, we show that no randomized SP mechanism can provide an approximation ratio better than 2 - o(1), even when the network is a tree, thereby matching a trivial upper bound of two.
+Keywords
+mechanism design approximation minimax facility location 

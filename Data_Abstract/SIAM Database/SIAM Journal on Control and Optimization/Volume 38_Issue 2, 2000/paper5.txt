@@ -1,0 +1,6 @@
+The O.D.E. Method for Convergence of Stochastic Approximation and Reinforcement Learning
+V. S.  Borkar and S. P.  Meyn;
+Abstract
+It is shown here that stability of the stochastic approximation algorithm is implied by the asymptotic stability of the origin for an associated ODE. This in turn implies convergence of the algorithm. Several specific classes of algorithms are considered as applications. It is found that the results provide (i) a simpler derivation of known results for reinforcement learning algorithms; (ii) a proof for the first time that a class of asynchronous stochastic approximation algorithms are convergent without using any a priori assumption of stability; (iii) a proof for the first time that asynchronous adaptive critic and Q-learning algorithms are convergent for the average cost optimal control problem.
+Keywords
+stochastic approximation, ODE method, stability, asynchronous algorithms, reinforcement learning, 62L20, 93E25, 93E15, 

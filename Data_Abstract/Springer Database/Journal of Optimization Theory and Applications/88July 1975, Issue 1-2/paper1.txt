@@ -1,0 +1,6 @@
+An improved penalty function method for solving constrained parameter optimization problems
+J. T. Betts;
+Abstract
+An effective algorithm is described for solving the general constrained parameter optimization problem. The method is quasi-second-order and requires only function and gradient information. An exterior point penalty function method is used to transform the constrained problem into a sequence of unconstrained problems. The penalty weightr is chosen as a function of the pointx such that the sequence of optimization problems is computationally easy. A rank-one optimization algorithm is developed that takes advantage of the special properties of the augmented performance index. The optimization algorithm accounts for the usual difficulties associated with discontinuous second derivatives of the augmented index. Finite convergence is exhibited for a quadratic performance index with linear constraints; accelerated convergence is demonstrated for nonquadratic indices and nonlinear constraints. A computer program has been written to implement the algorithm and its performance is illustrated in fourteen test problems.
+Keywords
+Penalty-function methods  mathematical programming  nonlinear programming  pseudo Newton-Raphson methods  parameter optimization  

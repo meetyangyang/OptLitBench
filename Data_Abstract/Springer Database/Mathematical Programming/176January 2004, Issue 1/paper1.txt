@@ -1,0 +1,6 @@
+A product-form Cholesky factorization method for handling dense columns in interior point methods for linear programming
+D. Goldfarb;K. Scheinberg;
+Abstract
+Cholesky factorization has become the method of choice for solving the symmetric system of linear equations arising in interior point methods (IPMs) for linear programming (LP), its main advantages being numerical stability and efficiency for sparse systems. However in the presence of dense columns there is dramatic loss of efficiency. A typical approach to remedy this problem is to apply the Sherman-Morrison-Woodbury (SMW) update formula to the dense part. This approach while being very efficient, is not numerically stable. Here we propose using product-form Cholesky factorization to handle dense columns. The proposed approach is essentially as stable as the original Cholesky factorization and nearly as efficient as the SMW approach. We demonstrate these properties both theoretically and computationally. A key part of our theoretical analysis is the proof that the elements of the Cholesky factors of the matrices that arise in IPMs for LP are uniformly bounded as the duality gap converges to zero.
+Keywords
+Linear Equation  Theoretical Analysis  Interior Point  Point Method  Numerical Stability  

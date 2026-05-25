@@ -1,0 +1,6 @@
+Global Optimization of 0-1 Hyperbolic Programs
+Mohit Tawarmalani;Shabbir Ahmed;Nikolaos V. Sahinidis*;
+Abstract
+We develop eight different mixed-integer convex programming reformulations of 0-1 hyperbolic programs. We obtain analytical results on the relative tightness of these formulations and propose a branch and bound algorithm for 0-1 hyperbolic programs. The main feature of the algorithm is that it reformulates the problem at every node of the search tree. We demonstrate that this algorithm has a superior convergence behavior than directly solving the relaxation derived at the root node. The algorithm is used to solve a discrete p-choice facility location problem for locating ten restaurants in the city of Edmonton.
+Keywords
+Fractional programming  Convex extensions  Facility location  

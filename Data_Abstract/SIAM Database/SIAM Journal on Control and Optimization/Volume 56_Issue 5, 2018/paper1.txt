@@ -1,0 +1,6 @@
+A Majorization Condition for Multi-Input Networked Stabilization via Coding/Control Codesign
+Wei  Chen, Songbai  Wang, and Li  Qiu;
+Abstract
+In this paper, we investigate the stabilization of a multi-input continuous-time linear system over a communication network modeled as the cascade of an encoder, a set of parallel channels, and a decoder. The channel capacities or signal-to-noise ratios are assumed to be fixed a priori. The encoder/decoder pair can be designed, leading to a stabilization problem via coding/control codesign. From a demand/supply balance point of view, the design of the encoder/decoder pair has the effect of reshaping the demands for communication resources from different control inputs to match the given supplies. We study the problem for the case of additive white Gaussian noise channels and fading channels, respectively. In both cases, we arrive at a unified necessary and sufficient condition under which the coding/control codesign problem is solvable. The condition is given by a majorization type relation. As we go along, a systematic procedure is also put forward to carry out the coding/control codesign. A numerical example is presented to illustrate our results.
+Keywords
+networked control systems, networked stabilization, majorization, coding/control codesign, topological entropy, 93B52, 93C35, 93D15, 

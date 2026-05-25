@@ -1,0 +1,6 @@
+Quantum Bilinear Optimization
+Mario  Berta, Omar  Fawzi, and Volkher B.  Scholz;
+Abstract
+We study optimization programs given by a bilinear form over noncommutative variables subject to linear inequalities. Problems of this form include the entangled value of two-prover games, entanglement-assisted coding for classical channels, and quantum-proof randomness extractors. We introduce an asymptotically converging hierarchy of efficiently computable semidefinite programming (SDP) relaxations for this quantum optimization. This allows us to give upper bounds on the quantum advantage for all of these problems. Compared to previous work of Pironio, Navascués, and Acín [SIAM J. Optim., 20 (2010), pp. 2157--2180], our hierarchy has additional constraints. By means of examples, we illustrate the importance of these new constraints both in practice and for analytical properties. Moreover, this allows us to give a hierarchy of SDP outer approximations for the completely positive semidefinite cone introduced by Laurent and Piovesan.
+Keywords
+noncommutative optimization, bilinear optimization, semidefinite hierarchies, completely positive semidefinite cone, randomness extractor, noisy channel coding, 81R15, 94A15, 81P45, 81P94, 90C22, 47N10, 

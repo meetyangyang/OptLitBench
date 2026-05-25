@@ -1,0 +1,6 @@
+Multi-fidelity POD surrogate-assisted optimization: Concept and aero-design study
+Tariq Benamara;Piotr Breitkopf;Ingrid Lepot;Caroline Sainvitu;Pierre Villon;
+Abstract
+We combine multiple sets of variable-precision full-field simulations within a single surrogate model. The approach is based on an original formulation of the “Constrained Proper Orthogonal Decomposition” (C-POD), interpolating precise, albeit costly, high-fidelity data and approximating abondant, yet less accurate, lower-fidelity data. We compute the optimal high-dimensional subspace spanning the sparse high-fidelity full-field solutions and refine the output subspace definition thanks to the orthogonal information contained in abondant low-fidelity full-field solutions. We then build “hierarchised” multi-fidelity surrogate models based on the previously refined subspace and giving a fast estimation of the high-fidelity full-field solution of any new location in the design space. The proposed model is illustrated by exploring the prediction of an analytical 2D functional space on the one hand, and demonstrated by studying the efficiency of a 1.5-stage low-pressure compressor on the other.
+Keywords
+Multi-fidelity modeling  Surrogate models  Proper orthogonal decomposition  Reduced order modeling  

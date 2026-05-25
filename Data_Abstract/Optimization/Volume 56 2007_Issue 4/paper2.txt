@@ -1,0 +1,6 @@
+A note on the parity assignment problem
+ Peter   Butkovič ;
+Abstract
+ Although the basic version of the linear assignment problem (AP) can be solved very efficiently, there are variants of this problem which are much harder, some being NP-complete or with undecided computational complexity. One of them is the parity AP, in which an optimal permutation of a prescribed parity is sought. A related variant is the weak parity AP, in which we only need to know whether the set of optimal permutations to the AP contains permutations of both parities. In this short note, we prove that both these problems are efficiently solvable for Monge matrices, as well as for diagonally dominant symmetric matrices. We also note that the parity bottleneck AP is polynomially solvable for any matrix. 
+Keywords
+Assignment problem, Even and odd permutations, Optimal solution, Monge matrix 

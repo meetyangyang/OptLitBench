@@ -1,0 +1,6 @@
+An inexact Newton method for nonlinear two-point boundary-value problems
+E. J. Dean;
+Abstract
+The method of quasilinearization for nonlinear two-point boundary-value problems is an application of Newton's method to a nonlinear differential operator equation. Since the linear boundary-value problem to be solved at each iteration must be discretized, it is natural to consider quasilinearization in the framework of an inexact Newton method. More importantly, each linear problem is only a local model of the nonlinear problem, and so it is inefficient to try to solve the linear problems to full accuracy. Conditions on size of the relative residual of the linear differential equation can then be specified to guarantee rapid local convergence to the solution of the nonlinear continuous problem. If initial-value techniques are used to solve the linear boundary-value problems, then an integration step selection scheme is proposed so that the residual criteria are satisfied by the approximate solutions. Numerical results are presented that demonstrate substantial computational savings by this type of economizing on the intermediate problems.
+Keywords
+Newton's method  inexact Newton methods  two-point boundary-value problems  quasilinearization  

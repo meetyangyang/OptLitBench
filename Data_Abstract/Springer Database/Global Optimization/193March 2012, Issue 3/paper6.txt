@@ -1,0 +1,6 @@
+Reduced RLT representations for nonconvex polynomial programming problems
+Hanif D. Sherali;Evrim Dalkiran;Leo Liberti;
+Abstract
+This paper explores equivalent, reduced size Reformulation-Linearization Technique (RLT)-based formulations for polynomial programming problems. Utilizing a basis partitioning scheme for an embedded linear equality subsystem, we show that a strict subset of RLT defining equalities imply the remaining ones. Applying this result, we derive significantly reduced RLT representations and develop certain coherent associated branching rules that assure convergence to a global optimum, along with static as well as dynamic basis selection strategies to implement the proposed procedure. In addition, we enhance the RLT relaxations with v-semidefinite cuts, which are empirically shown to further improve the relative performance of the reduced RLT method over the usual RLT approach. We present computational results for randomly generated instances to test the different proposed reduction strategies and to demonstrate the improvement in overall computational effort when such reduced RLT mechanisms are employed.
+Keywords
+Reformulation-Linearization Technique (RLT)  Reduced basis techniques  Polynomial programs  Global optimization  Semidefinite cuts  BARON  

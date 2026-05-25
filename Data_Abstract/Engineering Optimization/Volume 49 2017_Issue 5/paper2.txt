@@ -1,0 +1,6 @@
+A superior linearization method for signomial discrete functions in solving three-dimensional open-dimension rectangular packing problems
+Ming-Hua Lin;Jung-Fa Tsai;Shu-Chuan Chang;
+Abstract
+This article studies the three-dimensional open-dimension rectangular packing problem (3D-ODRPP) in which a set of given rectangular boxes is packed into a large container of minimal volume. This problem is usually formulated as a mixed-integer nonlinear programming problem with a signomial term in the objective. Existing exact methods experience difficulty in solving large-scale problems within a reasonable amount of time. This study reformulates the original problem as a mixed-integer linear programming problem by a novel method that reduces the number of constraints in linearizing the signomial term with discrete variables. In addition, the range reduction method is used to tighten variable bounds for further reducing the number of variables and constraints in problem transformation. Numerical experiments are presented to demonstrate that the computational efficiency of the proposed method is superior to existing methods in obtaining the global optimal solution of the 3D-ODRPP.
+Keywords
+Three-dimensional open-dimension rectangular packing problem, global optimization, nonlinear integer programming, linearization, signomial term 

@@ -1,0 +1,6 @@
+Strong Convergence of Block-Iterative Outer Approximation Methods for Convex Optimization
+Patrick L.  Combettes;
+Abstract
+The strong convergence of a broad class of outer approximation methods for minimizing a convex function over the intersection of an arbitrary number of convex sets in a reflexive Banach space is studied in a unified framework. The generic outer approximation algorithm under investigation proceeds by successive minimizations over the intersection of convex supersets of the feasibility set determined in terms of the current iterate and variable blocks of constraints. The convergence analysis involves flexible constraint approximation and aggregation techniques as well as relatively mild assumptions on the constituents of the problem. Various well-known schemes are recovered as special realizations of the generic algorithm and parallel block-iterative extensions of these schemes are devised within the proposed framework. The case of inconsistent constraints is also considered.
+Keywords
+block-iterative, reflexive Banach space, surrogate cut, uniformly convex function, convex feasibility problem, convex programming, constrained minimization, cutting plane, fixed point, inconsistent constraints, outer approximation, projection onto an intersection of convex sets, 49M27, 65J05, 65K05, 90C25, 

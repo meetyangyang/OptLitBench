@@ -1,0 +1,6 @@
+Calibration of estimator-weights via semismooth Newton method
+Ralf T. Münnich;Ekkehard W. Sachs;Matthias Wagner;
+Abstract
+Weighting is a common methodology in survey statistics to increase accuracy of estimates or to compensate for non-response. One standard approach for weighting is calibration estimation which represents a common numerical problem. There are various approaches in the literature available, but quite a number of distance-based approaches lack a mathematical justification or are numerically unstable. In this paper we reformulate the calibration problem as a system of nonlinear equations. Although the equations are lacking differentiability properties, one can show that they are semismooth and the corresponding extension of Newton’s method is applicable. This is a mathematically rigorous approach and the numerical results show the applicability of this method.
+Keywords
+Semismooth Newton method  Calibration  Convex objective function  General regression estimator  Sample weights  

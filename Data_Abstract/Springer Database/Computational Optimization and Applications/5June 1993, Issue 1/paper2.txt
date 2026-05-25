@@ -1,0 +1,6 @@
+A weighted least squaes study of robustness in interior point linear programming
+Alexander L. Hipolito;
+Abstract
+This paper studies the robustness of interior point linear programming algorthims with respect to initial iterates that are too close to the boundary. Weighted least squares analysis is used in studying the near-boundary behavior of the affine scaling and Newton centering directions, which are often combined by interior point methods. This analysis leads to the develoment of a modified Newton centering direction exhibiting better near-boundary behavior than the two directions. Theoretical and computational results from the NETLIB test set are presented indicating that an approach which uses the modified newton direction is more robust than both the pure affine scaling approach and one which uses the Newton direction as the centering direction.
+Keywords
+Interior point methods  linear programming  rosutness  modified Newton method  affinescaling  analytic centers  

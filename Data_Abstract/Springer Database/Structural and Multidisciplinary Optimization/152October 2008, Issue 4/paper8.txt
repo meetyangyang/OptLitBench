@@ -1,0 +1,6 @@
+A comparison of several reanalysis methods for structural layout modifications with added degrees of freedom
+Z. G. Li;C. W. Lim;B. S. Wu;
+Abstract
+The goal of this paper is to compare several reanalysis methods for structural layout modifications with added degrees of freedom. These methods include the modified initial analysis methods, the modified initial analyses method with a scalar multiplier, and the preconditioned conjugate gradient method. These reanalysis methods are compared in terms of condition numbers of the preconditioned system and their computational accuracy. It is concluded in this paper that the preconditioner of the first method is not positive definite in general, while for the second method a positive definite preconditioner for a small scalar multiplier can be obtained, but the condition number of the preconditioned system is still large. For the third method, the condition numbers of the preconditioned system are significantly reduced, and highly accurate approximate solutions can be obtained in a few iterations.
+Keywords
+Layout modification  Addition of degrees of freedom  Static reanalysis  Preconditioner  Comparison  

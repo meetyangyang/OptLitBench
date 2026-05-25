@@ -1,0 +1,6 @@
+Bounding a Probability Measure Over a Polymatroid with an Application to Transportation Problems
+Michael O. Ball;J. George Shanthikumar;
+Abstract
+For M = {1, …, m} and a supermodular set function f: 2M → ℛ, define the polymatroid P(M, f) = {x: ∑j∈Axj ≥ f(A), A ⊆ M; x ∈ ℛm}. We develop a bound for the probability P{X ∈ P(M, f)}, where X is a random m-vector. In particular we show that if X, X1, …, Xm, are independent and identically distributed nonnegative random variables with new better than used (NBU) distribution function, then P{X ∈ P(M, f)} ≥ P{X ≥ f(M̂)}, where M̂ = arg max {f(A): A ⊆ M}. We apply this result to transportation problems with random supply and/or demand. Suppose we have a set K = {1, …, k} of k supply nodes with a random supply Si, i ∈ K and a set N = {1, …, n} of n demand nodes with a random demand Dj, j ∈ N. Let β be the probability that the random demand can be met by the random supply. If the demand and supply are mutually independent, D1, …, Dn, are independent, and S1, …, Sk, are independent and have NBU distribution function, then β ≤ ∏j=1nP{Zj ≥ Dj}, where Zj = ∑i∈KSirij, j∈N and rij takes the value one if node i can supply the demand node j and zero otherwise (i ∈ K and j ∈ N).
+Keywords
+chance constraint polymatroid bounds transportation problem NBU distribution supermodularity 

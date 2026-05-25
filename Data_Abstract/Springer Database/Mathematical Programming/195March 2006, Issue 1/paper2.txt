@@ -1,0 +1,6 @@
+Optimal 3-terminal cuts and linear programming
+Kevin K. H. Cheung;William H. Cunningham;Lawrence Tang;
+Abstract
+Given an undirected graph G=(V,E) and three specified terminal nodes t 1,t 2,t 3, a 3-cut is a subset A of E such that no two terminals are in the same component of G\A. If a non-negative edge weight c  e  is specified for each e∈E, the optimal 3-cut problem is to find a 3-cut of minimum total weight. This problem is  Open image in new window -hard, and in fact, is max- Open image in new window -hard. An approximation algorithm having performance guarantee  Open image in new window  has recently been given by Călinescu, Karloff, and Rabani. It is based on a certain linear-programming relaxation, for which it is shown that the optimal 3-cut has weight at most  Open image in new window  times the optimal LP value. It is proved here that  Open image in new window  can be improved to  Open image in new window , and that this is best possible. As a consequence, we obtain an approximation algorithm for the optimal 3-cut problem having performance guarantee  Open image in new window . In addition, we show that  Open image in new window  is best possible for this algorithm.
+Keywords
+Feasible Solution  Approximation Algorithm  Minimum Weight  Steiner Tree  Weighted Graph  

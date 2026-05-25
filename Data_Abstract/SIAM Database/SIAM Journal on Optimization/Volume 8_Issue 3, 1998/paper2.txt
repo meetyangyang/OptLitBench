@@ -1,0 +1,6 @@
+Parallel Variable Transformation in Unconstrained Optimization
+Masao  Fukushima;
+Abstract
+A general framework for unconstrained minimization of a nonlinear function using parallel processors is presented. The basic idea underlying the proposed parallel variable transformation algorithm is to transform the variables into more than one space of smaller dimension simultaneously and compute candidate solutions on the latter spaces in parallel. The candidate solutions obtained are then used to generate an improved solution to the original problem. Global convergence and the linear rate of convergence of the algorithm are established under suitable conditions. Two recentlyproposed parallel optimization algorithms, the parallel gradient distribution (PGD) algorithm and the unconstrained parallel variable distribution (PVD) algorithm, are shown to belong to the class of parallel variable transformation (PVT) algorithms. An earlier parallel algorithm called the updated conjugate subspaces (UCS) method is also shown to be a particular case of the PVT algorithm. Specific algorithmic schemes are also suggested.
+Keywords
+parallel algorithm, unconstrained optimization, nonlinear programming, descent method, 90C30, 49M37, 68Q22, 65Y05, 

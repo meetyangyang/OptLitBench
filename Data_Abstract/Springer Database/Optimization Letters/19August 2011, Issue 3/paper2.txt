@@ -1,0 +1,6 @@
+A sliding time window heuristic for open pit mine block sequencing
+Christopher Cullenbine;R. Kevin Wood;Alexandra Newman;
+Abstract
+The open pit mine block sequencing problem (OPBS) seeks a discretetime production schedule that maximizes the net present value of the orebody extracted from an open-pit mine. This integer program (IP) discretizes the mine’s volume into blocks, imposes precedence constraints between blocks, and limits resource consumption in each time period. We develop a “sliding time window heuristic” to solve this IP approximately. The heuristic recursively defines, solves and partially fixes an approximating model having: (i) fixed variables in early time periods, (ii) an exact submodel defined over a “window” of middle time periods, and (iii) a relaxed submodel in later time periods. The heuristic produces near-optimal solutions (typically within 2% of optimality) for model instances that standard optimization software fails to solve. Furthermore, it produces these solutions quickly, even though our OPBS model enforces standard upper-bounding constraints on resource consumption along with less standard, but important, lower-bounding constraints.
+Keywords
+Mine scheduling  Mine planning  Open pit mining  Surface mining  Integer programming applications  

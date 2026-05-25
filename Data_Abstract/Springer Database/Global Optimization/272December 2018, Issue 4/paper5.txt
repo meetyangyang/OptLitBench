@@ -1,0 +1,6 @@
+A DC programming approach for solving multicast network design problems via the Nesterov smoothing technique
+W. Geremew;N. M. Nam;A. Semenov;V. Boginski;E. Pasiliao;
+Abstract
+This paper continues our recent effort in applying continuous optimization techniques to study optimal multicast communication networks modeled as bilevel hierarchical clustering problems. Given a finite number of nodes, we consider two different models of multicast networks by identifying a certain number of nodes as cluster centers, and at the same time, locating a particular node that serves as a total center so as to minimize the total transportation cost throughout the network. The fact that the cluster centers and the total center have to be among the given nodes makes these problems discrete optimization problems. Our approach is to reformulate the discrete problems as continuous ones and to apply Nesterov’s smoothing approximation techniques on the Minkowski gauges that are used as distance measures. This approach enables us to propose two implementable DCA-based algorithms for solving the problems. Numerical results and practical applications are provided to illustrate our approach.
+Keywords
+DC programming  Nesterov’s smoothing techniques  Hierarchical clustering  Subgradient  Fenchel conjugate  49J52  49J53  90C31  

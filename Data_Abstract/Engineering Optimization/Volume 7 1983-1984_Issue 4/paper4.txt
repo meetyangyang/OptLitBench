@@ -1,0 +1,6 @@
+OPTIMIZATION OF AN INDUSTRIAL CONTINUOUS FURNACE
+ J.-P.   BULTEAU ; M.   DUPONT ;
+Abstract
+ A nonlinearly constrained problem is formulated to minimize the energy consumption of an industrial furnace. Although it is small in size, the model reveals itself to be very costly in computing time, especially in evaluations of the constraints. To reduce the number of these, a Han-Powell-Wilson type method is used with an implementation from the Harwell library (VF02AD). The first derivatives being estimated numerically, a few safeguards are introduced to the original method, so that a satisfactory procedure is obtained. For all the tests, the optimum obtained by a particular heuristic method has been confirmed. 
+Keywords
+ 

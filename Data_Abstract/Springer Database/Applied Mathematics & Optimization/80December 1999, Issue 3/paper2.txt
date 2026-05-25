@@ -1,0 +1,6 @@
+A Note on Mascarenhas' Counterexample about Global Convergence of the Affine Scaling Algorithm
+T. Terlaky;T. Tsuchiya;
+Abstract
+ Mascarenhas gave an instance of linear programming problems to show that the long-step affine scaling algorithm can fail to converge to an optimal solution with the step-size λ=0.999 . In this note, we give a simple and clear geometrical explanation for this phenomenon in terms of the Newton barrier flow induced by projecting the homogeneous affine scaling vector field conically onto a hyperplane where the objective function is constant. Based on this interpretation, we show that the algorithm can fail for "any" λ  greater than about 0.91 (a more precise value is 0.91071), which is considerably shorter than λ = 0.95  and 0.99  recommended for efficient implementations.
+Keywords
+Key words. Affine scaling algorithm, Counterexample, Global convergence, Linear programming, Interior-point methods. AMS Classification. 90C05,65K05.  

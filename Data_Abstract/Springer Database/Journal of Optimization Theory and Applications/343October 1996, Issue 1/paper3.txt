@@ -1,0 +1,6 @@
+Design of adaptive LQ regulators for MIMO systems based on multirate sampling of the plant output
+K. G. Arvanitis;
+Abstract
+In this paper, the certainty equivalence principle is used to combine a discrete-time adaptive law with a control structure derived from the linear-quadratic regulation problem. The proposed control structure is mainly based on multirate sampling of the output of the continuous-time plant under control and allows us to regulate the sampled closed-loop system, subject to a quadratic performance criterion, without making assumptions on the plant other than controllability and observability and the knowledge of two sets of structural indices. Using the proposed algorithm, the adaptive regulation problem is reduced to the determination of a fictitious static state feedback controller. Known techniques usually resort to the computation of fullorder adaptive state observers, thus introducing high-order exogenous dynamics in the control loop. Moreover, persistence of excitation and parameter convergence of the plant are provided without making any additional assumption on the system, as compared to known adaptive linear-quadratic regulation schemes.
+Keywords
+Sampled-data controllers  multirate sampling  optimal adaptive control  adaptive LQ regulation  

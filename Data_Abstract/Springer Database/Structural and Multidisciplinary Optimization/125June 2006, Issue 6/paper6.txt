@@ -1,0 +1,6 @@
+A topology optimization approach using VOF method
+K. Abe;K. Koro;
+Abstract
+Topology optimization methods with continuous design variables obtained by the homogenization formula or the solid isotropic microstructure with penalty (SIMP) model are widely used in the layout of structures. In the implementation of these approaches, one must take into account several issues, e.g., irregularity of the problem, occurrence of the checkerboard pattern, and intermediate density. To suppress these phenomena, the employment of additional strategies such as the perimeter control or the filtering method will be required. In this paper, a topology optimization method which can eliminate these difficulties is developed based on the volume of fluid (VOF) method. In the method, shape design is described in terms of the VOF function. Since this function is defined by a volume fraction of material occupying each element, it can be recognized as a continuous material density in the SIMP model. Within the framework of the VOF analysis, the topology optimization procedure is reduced to a convection motion of the material density governed by a Hamilton–Jacobi equation as in the level set method. Through numerical examples, the validity of the proposed method is investigated.
+Keywords
+Topology optimization  VOF method  Material density  FEM  

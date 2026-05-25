@@ -1,0 +1,6 @@
+An Interior Point Algorithm for Mixed Complementarity Nonlinear Problems
+Angel E. R. Gutierrez;Sandro R. Mazorche;José Herskovits;Grigori Chapiro;
+Abstract
+Nonlinear complementarity and mixed complementarity problems arise in mathematical models describing several applications in Engineering, Economics and different branches of physics. Previously, robust and efficient feasible directions interior point algorithm was presented for nonlinear complementarity problems. In this paper, it is extended to mixed nonlinear complementarity problems. At each iteration, the algorithm finds a feasible direction with respect to the region defined by the inequality conditions, which is also monotonic descent direction for the potential function. Then, an approximate line search along this direction is performed in order to define the next iteration. Global and asymptotic convergence for the algorithm is investigated. The proposed algorithm is tested on several benchmark problems. The results are in good agreement with the asymptotic analysis. Finally, the algorithm is applied to the elastic–plastic torsion problem encountered in the field of Solid Mechanics.
+Keywords
+Feasible direction algorithm  Mixed nonlinear complementarity problems  Interior point algorithm  Elastic–plastic torsion  74C05  90C33  90C51  

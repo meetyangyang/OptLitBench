@@ -1,0 +1,6 @@
+Robustness of perturbation analysis estimators for queueing systems with unknown distributions
+C. G. Cassandras;W. B. Gong;J. I. Lee;
+Abstract
+Sample-path-based stochastic gradient estimators for performance measures of queueing systems rely on the assumption that a probability distribution of the random vector of interest (e.g., a service or interarrival time sequence) is given. In this paper, we address the issue of dealing with unknown probability distributions and investigate the robustness of such estimators with respect to possibly erroneous distribution choices. We show that infinitesimal perturbation analysis (IPA) can be robust in this sense and, in some cases, provides distribution-independent estimates. Comparisons with other gradient estimators are provided, including experimental results. We also show that finite perturbation analysis (FPA), though only providing gradient approximations, possesses some attractive robustness properties with respect to unknown distribution parameters. An application of FPA estimation is included for a queueing system performance optimization problem involving customers with real-time constraints.
+Keywords
+Queueing systems  perturbation analysis  robustness  performance optimization  

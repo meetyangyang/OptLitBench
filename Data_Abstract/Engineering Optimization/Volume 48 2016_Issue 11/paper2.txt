@@ -1,0 +1,6 @@
+Parallel simple cell mapping for multi-objective optimization
+Jesús Fernández;Oliver Schütze;Carlos Hernández;Jian-Qiao Sun;Fu-Rui Xiong;
+Abstract
+In this article the Parallel Simple Cell Mapping (pSCM) is presented, a novel method for the numerical treatment of multi-objective optimization problems. The method is a parallel version of the simple cell mapping (SCM) method which also integrates elements from subdivision techniques. The classical SCM method exhibits nice properties for parallelization, which is used to speed up computations significantly. These statements are underlined on some classical benchmark problems with up to 10 decision variables and up to 5 objectives and provide comparisons to sequential SCM. Further, the method is applied on illustrative examples for which the method is also able to find the set of local optimal solutions efficiently, which is interesting in multi-objective multi-modal optimization, as well as the set of approximate solutions. The latter is of potential interest for the decision maker since it comprises an extended set of possible realizations of the given problem.
+Keywords
+multi-objective optimization, cell mapping techniques, global optimization, parallel computing 

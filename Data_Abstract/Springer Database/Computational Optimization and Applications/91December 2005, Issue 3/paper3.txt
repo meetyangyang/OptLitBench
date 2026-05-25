@@ -1,0 +1,6 @@
+Hyper-Sparsity in the Revised Simplex Method and How to Exploit it
+J. A. J. Hall;K. I. M. McKinnon;
+Abstract
+The revised simplex method is often the method of choice when solving large scale sparse linear programming problems, particularly when a family of closely-related problems is to be solved. Each iteration of the revised simplex method requires the solution of two linear systems and a matrix vector product. For a significant number of practical problems the result of one or more of these operations is usually sparse, a property we call hyper-sparsity. Analysis of the commonly-used techniques for implementing each step of the revised simplex method shows them to be inefficient when hyper-sparsity is present. Techniques to exploit hyper-sparsity are developed and their performance is compared with the standard techniques. For the subset of our test problems that exhibits hyper-sparsity, the average speedup in solution time is 5.2 when these techniques are used. For this problem set our implementation of the revised simplex method which exploits hyper-sparsity is shown to be competitive with the leading commercial solver and significantly faster than the leading public-domain solver.
+Keywords
+linear programming  revised simplex method  sparsity  

@@ -1,0 +1,6 @@
+The Sign-Based Methods for Solving a Class of Nonlinear Complementarity Problems
+Hua Zheng;Ling Liu;
+Abstract
+In this paper, using the sign patterns of the solution of the equivalent modulus equation, the resolution of the nonlinear complementarity problem shrinks to find the zero of a differentiable nonlinear function. Then, a sign-based Newton’s method is established by applying the Newton’s iteration. The theoretical analysis for the sign patterns of the solution of the equivalent modulus equation is given under the assumption of strictly complementarity. Moreover, by using the known modulus-based matrix splitting iteration method to detect the sign patterns of the solution of the equivalent modulus equation, a practical sign-detection Newton’s method is proposed. Numerical examples show that the new methods are efficient and accelerate the convergence performance with higher precision and less CPU time than the existing modulus-based matrix splitting iteration method and the projection-based matrix splitting iteration method, especially for the large sparse problems.
+Keywords
+Nonlinear complementarity problem  Modulus-based method  Sign pattern  Newton’s Method  65F10  90C33  

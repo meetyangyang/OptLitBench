@@ -1,0 +1,6 @@
+Detecting the Maximum of a Scalar Diffusion with Negative Drift
+Gilles-Edouard  Espinosa and Nizar  Touzi;
+Abstract
+Let $X$ be a scalar diffusion process with drift coefficient pointing towards the origin, i.e. $X$ is mean-reverting. We denote by $X^*$ the corresponding running maximum, $T_0$ the first time $X$ hits the level zero. Given an increasing and convex loss function $\ell$, we consider the following optimal stopping problem: $\inf_{0\leq\theta\leq T_0}\mathbb{E}[\ell(X^*_{T_0}-X_\theta)],$ over all stopping times $\theta$ with values in $[0,T_0]$. For the quadratic loss function and under mild conditions, we prove that an optimal stopping time exists and is defined by: $\theta^*=T_0\wedge\inf\{t\geq 0;~X^*_t\geq \gamma(X_t)\},$ where the boundary $\gamma$ is explicitly characterized as the concatenation of the solutions of two equations. We investigate some examples such as the Ornstein-Uhlenbeck process, the CIR--Feller process, as well as the standard and drifted Brownian motions.
+Keywords
+maximum process, optimal stopping, free-boundary problem, smooth fit, verification argument, Markov process, ordinary differential equation, Primary, 60J60, 60G40; Secondary, 35R35, 34B05, 

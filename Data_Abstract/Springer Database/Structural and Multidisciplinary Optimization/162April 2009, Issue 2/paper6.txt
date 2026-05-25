@@ -1,0 +1,6 @@
+A shape optimization study for tool design in resistance welding
+M. Bogomolny;M. P. Bendsøe;J. H. Hattel;
+Abstract
+The purpose of this study is to apply shape optimization tools for design of resistance welding electrodes. The numerical simulation of the welding process has been performed by a simplified FEM model implemented in COMSOL. The design process is formulated as an optimization problem where the objective is to prolong the life-time of the electrodes. Welding parameters like current, time and electrode shape parameters are selected to be the design variables while constraints are chosen to ensure a high quality of the welding. Surrogate models based on a Kriging approximation has been used in order to simplify the calculation of shape sensitivities and to generate a generic tool that can be interfaced with other simulation tools. An example numerical study shows the potential of applying optimal design techniques in this area.
+Keywords
+Shape optimization  Resistance welding  Spot welding  Electrode design  Shape design  Kriging approximation  

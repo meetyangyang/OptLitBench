@@ -1,0 +1,6 @@
+Faster Simulated Annealing
+Bennett L.  Fox;
+Abstract
+By cooling slightly more slowly than the canonical schedule and simulating direct self-loop sequences implicitly, the computer time to execute simulated annealing given the number of accepted moves becomes proportional to that number in expectation and, in a certain sense, almost surely. This is generally orders of magnitude faster than naive schemes, while (in contrast to previous work) not implicitly altering the cooling schedule. Running simulated annealing on m independent parallel processors gives, in a certain sense, a further computer-time speedup asymptotically linear in m, under an attractive way of constructing (not entirely local) neighborhoods, given that the computer time is large. Roughly speaking, this happens as the set of optimal states gets hard enough to reach. A pathology of purely local neighborhoods is pointed out.
+Keywords
+simulated annealing, combinatorial optimization, Markov chains, parallel computing, 60J10, 60J27, 90C10, 

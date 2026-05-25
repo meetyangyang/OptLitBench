@@ -1,0 +1,6 @@
+Guaranteed Collision Avoidance for Autonomous Systems with Acceleration Constraints and Sensing Uncertainties
+Erick J. Rodríguez-Seda;Dušan M. Stipanović;Mark W. Spong;
+Abstract
+A set of cooperative and noncooperative collision avoidance strategies for a pair of interacting agents with acceleration constraints, bounded sensing uncertainties, and limited sensing ranges is presented. We explicitly consider the case in which position information from the other agent is unreliable, and develop bounded control inputs using Lyapunov-based analysis, that guarantee collision-free trajectories for both agents. The proposed avoidance control strategies can be appended to any other stable control law (i.e., main control objective) and are active only when the agents are close to each other. As an application, we study in detail the synthesis of the avoidance strategies with a set-point stabilization control law and prove that the agents converge to the desired configurations while avoiding collisions and deadlocks (i.e., unwanted local minima). Simulation results are presented to validate the proposed control formulation.
+Keywords
+Avoidance control  Two-agent systems  Bounded control  49N75  91A05  93C85  

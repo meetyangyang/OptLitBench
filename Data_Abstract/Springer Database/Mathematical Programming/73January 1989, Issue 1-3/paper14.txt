@@ -1,0 +1,6 @@
+Pairwise reactive sor algorithm for quadratic programming of net import spatial equilibrium models
+F. Güder;
+Abstract
+An iterative method based on the successive overrelaxation (SOR) is proposed to solve quadratic programming of net important spatial equilibrium models. The algorithm solves the problem by updating the variables pairwise at each iteration. The principal feature of the algorithm is that the lagrange multipliers corresponding to the constraints do not have to be calculated at each iteration as is the case in SOR based algorithms. Yet the Lagrange multipliers can easily be extracted from the solution values.
+Keywords
+Quadratic programming  successive overrelaxation  spatial price equilibrium  

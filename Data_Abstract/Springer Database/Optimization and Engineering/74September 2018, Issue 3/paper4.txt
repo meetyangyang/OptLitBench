@@ -1,0 +1,6 @@
+Optimal sensor placement for joint parameter and state estimation problems in large-scale dynamical systems with applications to thermo-mechanics
+Roland Herzog;Ilka Riedel;Dariusz Uciński;
+Abstract
+We consider large-scale dynamical systems in which both the initial state and some parameters are unknown. These unknown quantities must be estimated from partial state observations over a time window. A data assimilation framework is applied for this purpose. Specifically, we focus on large-scale linear systems with multiplicative parameter-state coupling as they arise in the discretization of parametric linear time-dependent partial differential equations. Another feature of our work is the presence of a quantity of interest different from the unknown parameters, which is to be estimated based on the available data. In this setting, we employ a simplicial decomposition algorithm for an optimal sensor placement and set forth formulae for the efficient evaluation of all required quantities. As a guiding example, we consider a thermo-mechanical PDE system with the temperature constituting the system state and the induced displacement at a certain reference point as the quantity of interest.
+Keywords
+Data assimilation  Optimal sensor placement  Simplicial decomposition  Thermo-elastic model  

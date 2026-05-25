@@ -1,0 +1,6 @@
+Superlinearly Convergent Infeasible-Interior-Point Algorithm for Degenerate LCP
+F. A. Potra;R. Sheng;
+Abstract
+A large-step infeasible path-following method is proposed for solving general linear complementarity problems with sufficient matrices. If the problem has a solution, the algorithm is superlinearly convergent from any positive starting points, even for degenerate problems. The algorithm generates points in a large neighborhood of the central path. Each iteration requires only one matrix factorization and at most three (asymptotically only two) backsolves. It has been recently proved that any sufficient matrix is a P*(κ)-matrix for some κ≥0. The computational complexity of the algorithm depends on κ as well as on a feasibility measure of the starting point. If the starting point is feasible or close to being feasible, then the iteration complexity is \(O((1 + {\kappa)}\sqrt {nL})\). Otherwise, for arbitrary positive and large enough starting points, the iteration complexity is O((1 + κ)2nL). We note that, while computational complexity depends on κ, the algorithm itself does not.
+Keywords
+Linear complementarity problems  sufficient matrices  P*-matrices  path-following algorithm  infeasible-interior-point algorithm  polynomiality  superlinear convergence  

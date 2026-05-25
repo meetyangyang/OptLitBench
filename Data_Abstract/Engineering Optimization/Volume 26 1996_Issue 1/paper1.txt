@@ -1,0 +1,6 @@
+INCORPORATING MANUFACTURING TOLERANCES IN NEAR-OPTIMAL DESIGN OF COMPOSITE STRUCTURES
+ BIRNA P.   KRISTINSDOTTIR ; ZELDA B.   ZABINSKY ; MARK E.   TUTTLE ; TIBOR   CSENDES ;
+Abstract
+ When a composite structure is manufactured the design variables in the produced structure may vary from the intended design. These variations are called manufacturing tolerances. When optimization is used, the optimal design is often on an active constraint. This may cause the produced structure to fail, even though the variations from the intended design are within tolerances. In this paper a methodology is introduced for finding a near-optimal design that remains feasible for specified manufacturing tolerances. A random search global optimization algorithm, Improving Hit-and-Run, is used to check if a design with specified manufacturing tolerances remains feasible and an algorithm is presented to determine the size of the tolerances for a feasible design. Finally, by changing the right hand side of the constraints and reoptimizing, it is possible to explore near-optimal designs with different tolerances. The methodology is applied to a composites structural design problem. 
+Keywords
+ global optimization, manufacturing tolerances, composite materials, structural optimization 

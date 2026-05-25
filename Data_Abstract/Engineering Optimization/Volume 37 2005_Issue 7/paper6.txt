@@ -1,0 +1,6 @@
+Flight path optimization passing through waypoints for autonomous flight control systems
+ Gwanyoung   Moon ; Youdan   Kim ;
+Abstract
+ Trajectory optimization is performed to generate a flight path passing specified waypoints. To deal with the unspecified time of passing through a waypoint, an auxiliary variable is introduced. Normalization of the time variable by the auxiliary variable transforms the waypoint optimization problem into the conventional optimization problem. The condition for passing through the waypoints can be relaxed, so that the vehicle passes specified waypoints within a certain acceptable range. Sequential quadratic programming is used to solve the optimization problem. As a numerical example, six degree-of-freedom vehicle dynamics is considered. Two-dimensional and three-dimensional trajectory optimization problems with several waypoints are solved to verify the effectiveness of the proposed algorithm. 
+Keywords
+Trajectory optimization, Flight path design, Waypoint guidance, Sequential quadratic programming, Autonomous flight 

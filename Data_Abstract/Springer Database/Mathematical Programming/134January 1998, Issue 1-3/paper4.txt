@@ -1,0 +1,6 @@
+On proving existence of feasible points in equality constrained optimization problems
+R. Baker Kearfott;
+Abstract
+Various algorithms can compute approximate feasible points or approximate solutions to equality and bound constrained optimization problems. In exhaustive search algorithms for global optimizers and other contexts, it is of interest to construct bounds around such approximate feasible points, then to verify (computationally but rigorously) that an actual feasible point exists within these bounds. Hansen and others have proposed techniques for proving the existence of feasible points within given bounds, but practical implementations have not, to our knowledge, previously been described. Various alternatives are possible in such an implementation, and details must be carefully considered. Also, in addition to Hansen’s technique for handling the underdetermined case, it is important to handle the overdetermined case, when the approximate feasible point corresponds to a point with many active bound constraints. The basic ideas, along with experimental results from an actual implementation, are summarized here.
+Keywords
+Constrained global optimization  Verified computations  Interval computations  Bound constraints  

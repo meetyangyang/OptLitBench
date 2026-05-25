@@ -1,0 +1,6 @@
+Circular Cuts in a Network
+T. C. Hu;F. Ruskey;
+Abstract
+A network consists of a set of nodes Vi (i = 1,…, n) with weights wi and a set of arcs connecting nodes Vi and Vj with arc capacity bij. The circular cut problem is to pick a subset of nodes containing V1 such that the total weight of the subset is less than a prescribed constant and the total arc capacity needed to separate the subset from the rest of the network is minimum.As special cases this problem reduces to the MAX-FLOW-MIN-CUT problem and to a 0-1 knapsack problem. In this paper we present techniques for reducing the size of the problem. This is done by reducing the number of cuts that need to be considered and by condensing certain nodes.
+Keywords
+networks circular cuts max-flow min-cut knapsack problem 

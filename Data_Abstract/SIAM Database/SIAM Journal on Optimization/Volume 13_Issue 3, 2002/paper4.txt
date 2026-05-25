@@ -1,0 +1,6 @@
+Convergence Properties of the BFGS Algoritm
+Yu-Hong  Dai;
+Abstract
+The BFGS method is one of the most famous quasi-Newton algorithms for unconstrained optimization. In 1984, Powell presented an example of a function of two variables that shows that the Polak--Ribière--Polyak (PRP) conjugate gradient method and the BFGS quasi-Newton method may cycle around eight nonstationary points if each line search picks a local minimum that provides a reduction in the objective function. In this paper, a new technique of choosing parameters is introduced, and an example with only six cyclic points is provided. It is also noted through the examples that the BFGS method with Wolfe line searches need not converge for nonconvex objective functions.
+Keywords
+unconstrained optimization, conjugate gradient method, quasi-Newton method, Wolfe line search, nonconvex, global convergence, 65K05, 65K10, 

@@ -1,0 +1,6 @@
+Numerical Approximations for Nonzero-Sum Stochastic Differential Games
+Harold J.  Kushner;
+Abstract
+The Markov chain approximation method is a widely used and efficient family of methods for the numerical solution of many types of stochastic control problems in continuous time for reflected-jump-diffusion–type models. It converges under broad conditions, and it has been extended to zero-sum stochastic differential games. We apply the method to a class of nonzero stochastic differential games with a diffusion system model where the controls for the two players are separated in the dynamics and cost function. There have been successful applications of the algorithms, but convergence proofs have been lacking. It is shown that equilibrium values for the approximating chain converge to equilibrium values for the original process and that any equilibrium value for the original process can be approximated by an $\epsilon$-equilibrium for the chain for arbitrarily small $\epsilon > 0$. The numerical method solves a stochastic game for a finite-state Markov chain.
+Keywords
+stochastic differential games, nonzero-sum games, numerical methods, Markov chain approximations, 60F17, 65C30, 65C40, 91A15, 91A23, 93E25, 

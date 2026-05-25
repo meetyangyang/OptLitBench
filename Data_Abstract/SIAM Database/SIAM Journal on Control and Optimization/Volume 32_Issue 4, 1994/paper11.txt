@@ -1,0 +1,6 @@
+Control of Infinite Behavior of Finite Automata
+J. G.  Thistle and W. M.  Wonham;
+Abstract
+A problem in the control of automata on infinite strings is defined and analyzed. The key to the investigation is the development of a fixpoint characterization of the “controllability subset” of a deterministic Rabin automaton, the set of states from which the automaton can be controlled to the satisfaction of its own acceptance condition. The fixpoint representation allows straightforward computation of the controllability subset and the construction of a suitable state-feedback control for the automaton. The results have applications to control synthesis, automaton synthesis, and decision procedures for logical satisfiability; in particular, they represent a direct, efficient and natural solution to Church’s problem, the construction of winning strategies for two-player zero-sum $\omega $-regular games of perfect information, and the emptiness problem for automata on infinite trees.
+Keywords
+discrete-event systems, synthesis problems, Church’s problem, tree automaton emptiness, $\omega $-languages, $\omega $-automata, $\omega $-regular games, 93B50, 03D05, 68Q68, 03B70, 03B25, 03B45, 90D05, 68Q60, 03C30, 03C50, 03B35, 

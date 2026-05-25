@@ -1,0 +1,6 @@
+An affine covariant composite step method for optimization with PDEs as equality constraints
+Lars Lubkoll;Anton Schiela;Martin Weiser;
+Abstract
+We propose a composite step method, designed for equality constrained optimization with partial differential equations. Focus is laid on the construction of a globalization scheme, which is based on cubic regularization of the objective and an affine covariant damped Newton method for feasibility. We show finite termination of the inner loop and fast local convergence of the algorithm. Numerical results are shown for optimal control problems subject to a nonlinear heat equation.
+Keywords
+composite step methods, cubic regularization, affine covariant, optimization with PDEsAMS MSC 2000: 49M37, 90C55, 90C06 

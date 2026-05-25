@@ -1,0 +1,6 @@
+On the Core and f-Nucleolus of Flow Games
+Walter Kern;Daniël Paulusma;
+Abstract
+Using the ellipsoid method, both Deng et al. [Deng, X., Q. Fang, X. Sun. 2006. Finding nucleolus of flow game. Proc. 17th ACM-SIAM Sympos. Discrete Algorithms. ACM Press, New York, 124–131] and Potters et al. [Potters, J., H. Reijnierse, A. Biswas. 2006. The nucleolus of balanced simple flow networks. Games Econom. Behav.54 205–225] show that the nucleolus of simple flow games (where all edge capacities are equal to one) can be computed in polynomial time. Our main result is a combinatorial method based on eliminating redundant s–t path constraints such that only a polynomial number of constraints remains. This leads to efficient algorithms for computing the core, nucleolus, and nucleon of simple flow games. Deng et al. also prove that computing the nucleolus for (general) flow games is NP-hard. We generalize this by proving that computing the f-nucleolus of flow games is NP-hard for all priority functions f that satisfy f(A) > 0 for all coalitions A with worth v(A) > 0 (so, including the priority functions corresponding to the nucleolus, nucleon, and per-capita nucleolus).
+Keywords
+flow game computational complexity solution concept 

@@ -1,0 +1,6 @@
+Minimizing Total Completion Time in a Two-Machine Flowshop: Analysis of Special Cases
+J. A. Hoogeveen;T. Kawaguchi;
+Abstract
+We consider the problem of minimizing total completion time in a two-machine flowshop. We present a heuristic with worst-case bound 2β/(α + β), where α and β denote the minimum and maximum processing time of all operations. Furthermore, we analyze four special cases: equal processing times on the first machine, equal processing times on the second machine, processing a job on the first machine takes time no less than its processing on the second machine, and processing a job on the first machine takes time no more than its processing on the second machine. We prove that the first special case is NP-hard in the strong sense and present an O(n log n) approximation algorithm for it with worst-case bound 4/3. We repeat the easy polynomial algorithms for the cases two and three, and show that problem four is solvable in polynomial time as well.
+Keywords
+Flowshop total completion time NP-hardness heuristics worst-case analysis special case polynomial algorithms 

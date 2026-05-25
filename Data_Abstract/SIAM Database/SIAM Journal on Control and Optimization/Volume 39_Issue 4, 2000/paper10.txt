@@ -1,0 +1,6 @@
+Optimizability and Estimatability for Infinite-Dimensional Linear Systems
+George  Weiss and Richard  Rebarber;
+Abstract
+An infinite-dimensional linear system described by $\dot{x}(t)=Ax(t)+Bu(t)$ $(t\geq 0)$ is said to be optimizable if for every initial state x(0), an input $u\in L^2$ can be found such that $x\in L^2$. Here, A is the generator of a strongly continuous semigroup on a Hilbert space and B is an admissible control operator for this semigroup. In this paper we investigate optimizability (also known as the finite cost condition) and its dual, estimatability. We explore the connections with stabilizability and detectability. We give a very general theorem about the equivalence of input-output stability and exponential stability of well-posed linear systems: the two are equivalent if the system is optimizable and estimatable. We conclude that a well-posed system is exponentially stable if and only if it is dynamically stabilizable and input-output stable. We illustrate the theory by two examples based on PDEs in two or more space dimensions: the wave equation and a structural acoustics model.
+Keywords
+strongly continuous semigroup, well-posed linear system, regular linear system, stabilizability, optimizability, detectability, input-output stability, dynamic stabilization, 93B05, 93B52, 93D25, 93D22, 

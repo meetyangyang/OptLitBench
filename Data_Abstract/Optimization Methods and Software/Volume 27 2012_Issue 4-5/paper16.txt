@@ -1,0 +1,6 @@
+Towards non-symmetric conic optimization
+ Yurii   Nesterov ;
+Abstract
+ In this paper, we propose a new interior-point method, which is based on an extension of the ideas of self-scaled optimization to the general cases. We suggest using the primal correction process to find a scaling point. This point is used to compute a strictly feasible primal–dual pair by simple projection. Then, we define an affine-scaling direction and perform a prediction step. This is the only moment when the dual barrier is used. Thus, we need only to compute its value, which can even be done approximately. In the second part of the paper, we develop a 4n-self-concordant barrier for an n-dimensional p-cone, which can be used for numerical testing of the proposed technique. 
+Keywords
+convex optimization, conic problems, interior-point methods, long-step path-following methods, self-concordant barriers, self-scaled barriers, affine-scaling direction,  p-norm minimization 

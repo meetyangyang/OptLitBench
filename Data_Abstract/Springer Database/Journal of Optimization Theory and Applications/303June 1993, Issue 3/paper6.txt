@@ -1,0 +1,6 @@
+Single-machine scheduling to minimize earliness and number of tardy jobs
+T. C. E. Cheng;H. G. Kahlbacher;
+Abstract
+This paper considers the problem of assigning a common due-date to a set of simultaneously available jobs and sequencing them on a single machine. The objective is to determine the optimal combination of the common due-date and job sequence that minimizes a cost function based on the assigned due-date, job earliness values, and number of tardy jobs. It is shown that the optimal due-date coincides with one of the job completion times. Conditions are derived to determine the optimal number of nontardy jobs. It is also shown that the optimal job sequence is one in which the nontardy jobs are arranged in nonincreasing order of processing times. An efficient algorithm of O(n logn) time complexity to find the optimal solution is presented and an illustrative example is provided. Finally, several extensions of the model are discussed.
+Keywords
+Scheduling  sequencing  early jobs  tardy jobs  single-machine systems  

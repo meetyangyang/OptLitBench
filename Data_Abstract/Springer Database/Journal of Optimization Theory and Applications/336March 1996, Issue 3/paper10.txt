@@ -1,0 +1,6 @@
+Stochastic penalty function methods for nonsmooth constrained minimization
+H. Xu;
+Abstract
+This paper presents a stochastic algorithm with proper stopping rules for nonsmooth inequality-constrained minimization problems. The algorithm is based on an augmented Lagrangian dual problem transformed from a primal one, and it consists of two loops: an outer loop, which is the iteration for the approximate Lagrange multipliers, and an inner loop, which is a nonsmooth unconstrained minimization subroutine. Under mild assumptions, the algorithm is proved to be almost surely convergent.
+Keywords
+Multipliers  penalty functions  duality  nonsmooth optimization  stochastic subgradients  convergence  

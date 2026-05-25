@@ -1,0 +1,6 @@
+An Auction Algorithm for Shortest Paths
+Dimitri P.  Bertsekas;
+Abstract
+A new and simple algorithm for finding shortest paths in a directed graph is proposed. In the single origin-single destination case, the algorithm maintains a single path starting at the origin, which is extended or contracted by a single node at each iteration. Simultaneously, at most one dual variable is adjusted at each iteration so as to either improve or maintain the value of a dual function. For the case of multiple origins, the algorithm is well suited for parallel computation. It maintains multiple paths that can be extended or contracted in parallel by several processors that share the results of their computations. Based on experiments with randomly generated problems on a serial machine, the algorithm substantially outperforms its closest competitors for problems with few origins and a single destination. It also seems better suited for parallel computation than other shortest path algorithms.
+Keywords
+shortest path, network optimization, auction, parallel algorithms, 90C47, 90C05, 

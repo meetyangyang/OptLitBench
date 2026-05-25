@@ -1,0 +1,6 @@
+An asynchronous metamodel-assisted memetic algorithm for CFD-based shape optimization
+ Evgenia   A.   Kontoleontos ; Varvara   G.   Asouti ; Kyriakos   C.   Giannakoglou ;
+Abstract
+ This article presents an asynchronous metamodel-assisted memetic algorithm for the solution of CFD-based optimization problems. This algorithm is appropriate for use on multiprocessor platforms and may solve computationally expensive optimization problems in reduced wall-clock time, compared to conventional evolutionary or memetic algorithms. It is, in fact, a hybridization of non-generation-based (asynchronous) evolutionary algorithms, assisted by surrogate evaluation models, a local search method and the Lamarckian learning process. For the objective function gradient computation, in CFD applications, the adjoint method is used. Issues concerning the ‘smart’ implementation of local search in multi-objective problems are discussed. In this respect, an algorithmic scheme for reducing the number of calls to the adjoint equations to just one, irrespective of the number of objectives, is proposed. The algorithm is applied to the CFD-based shape optimization of the tubes of a heat exchanger and of a turbomachinery cascade. 
+Keywords
+shape optimization, computational fluid dynamics, memetic algorithm, adjoint method, asynchronous metamodel-assisted evolutionary algorithm 

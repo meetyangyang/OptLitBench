@@ -1,0 +1,20 @@
+On the Optimal Value Function of a Linearly Perturbed Quadratic Program
+G. M. Lee;N. N. Tam;N. D. Yen;
+Abstract
+The optimal value function
+\((c, b)\mapsto \varphi (c, b)\) of the quadratic program
+\(\min \{ {1\over 2} x^{T}Dx + c^{T}x : Ax \geq b\}\), where
+\(D \in R_{S}^{n \times n}\) is a given symmetric matrix,
+\(A \in R^{m \times n}\) a given matrix,
+\(c \in R^{n}\) and
+\(b \in R^{m}\) are the linear perturbations, is considered. It is proved that
+\(\varphi\) is directionally differentiable at any point
+\(\bar{w} = (\bar{c}, \bar{b} )\) in its effective domain
+\(W : =\{w = (c, b) \in R^{n} \times R^{m} :-\infty < \varphi (c, b) < + \infty\}\). Formulae for computing the directional derivative
+\(\varphi' (\bar{w}; z)\) of
+\(\varphi\) at
+\(\bar{w}\) in a direction
+\(z = (u, v) \in R^{n} \times R^{m}\) are obtained. We also present an example showing that, in general,
+\(\varphi\) is not piecewise linear-quadratic on W. The preceding (unpublished) example of Klatte is also discussed.
+Keywords
+Directional differentiability  Linear perturbation  Nonconvex quadratic programming problem  Optimal value function  Piecewise linear-quadratic property  

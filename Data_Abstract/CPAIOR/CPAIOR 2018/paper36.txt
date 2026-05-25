@@ -1,0 +1,4 @@
+A Local Search Framework for Compiling Relaxed Decision Diagrams
+Michael Römer;Andre A. Cire;Louis-Martin Rousseau;
+Abstract
+This paper presents a local search framework for constructing and improving relaxed decision diagrams (DDs). The framework consists of a set of elementary DD manipulation operations including a redirect operation introduced in this paper and a general algorithmic scheme. We show that the framework can be used to reproduce several standard DD compilation schemes and to create new compilation and improvement strategies. In computational experiments for the 0–1 knapsack problem, the multidimensional knapsack problem and the set covering problem we compare different compilation methods. It turns out that a new strategy based on the local search framework consistently yields better bounds, in many cases far better bounds, for limited-width DDs than previously published heuristic strategies.

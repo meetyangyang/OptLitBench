@@ -1,0 +1,6 @@
+THE USE OF NESTED HULLS IN THE SYMMETRIC TRAVELLER PROBLEM
+ R. F.   LOVE ; P. D.   DOWLING ; J.   BRIMBERG ;
+Abstract
+ Many heuristic algorithms for solving geometric traveller problems utilize the extreme points of the convex hull of the given points to provide an initial partial tour. These heuristics are supported by the property that an optimal lour visits the extreme points of the convex hull in the order that they appear on the hull boundary. We show that when all the given points in the problem are assigned to a set of nested hulls, a similar property usually holds for each of these hulls. An algorithm which exploits this nested hull technique significantly improves upon computational efficiency without sacrificing solution quality as compared with other convex hull heuristics. Computational results are given. 
+Keywords
+Heuristics, traveller problem, nested hulls 

@@ -1,0 +1,6 @@
+A linearly convergent derivative-free descent method for the second-order cone complementarity problem
+ Shaohua   Pan ; Jein-Shan   Chen ;
+Abstract
+ We consider a class of derivative-free descent methods for solving the second-order cone complementarity problem (SOCCP). The algorithm is based on the Fischer–Burmeister (FB) unconstrained minimization reformulation of the SOCCP, and utilizes a convex combination of the negative partial gradients of the FB merit function ψFB as the search direction. We establish the global convergence results of the algorithm under monotonicity and the uniform Jordan P-property, and show that under strong monotonicity the merit function value sequence generated converges at a linear rate to zero. Particularly, the rate of convergence is dependent on the structure of second-order cones. Numerical comparisons are also made with the limited BFGS method used by Chen and Tseng (An unconstrained smooth minimization reformulation of the second-order cone complementarity problem, Math. Program. 104(2005), pp. 293–327), which confirm the theoretical results and the effectiveness of the algorithm. 
+Keywords
+second-order cone complementarity problem, Fischer–Burmeister function, descent algorithms, derivative-free methods, linear convergence 

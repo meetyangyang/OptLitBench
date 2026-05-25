@@ -1,0 +1,8 @@
+Double-stepped adaptive control for hybrid systems with unknown Markov jumps and stochastic noises
+Shuping Tan1 and Ji-Feng Zhang2;
+Abstract
+This paper is concerned with the sampled-data based adaptivelinear quadratic (LQ) control of hybrid systems with bothunmeasurable Markov jump processes and stochastic noises.  By the least matching error estimation algorithm, parameter estimatesare presented. By a double-step (DS) sampling approach and the certaintyequivalence principle, a sampled-data based adaptive LQ control isdesigned. The DS-approach is characterized by a comparatively largeestimation step for parameter estimation and a sufficient small controlstep for control updating. Under mild conditions, the closed-loop systemis shown to be stable. It is found that the key factor determining theperformance index is the estimation step rather than the control step.When the estimation step becomes too small, the system performance willbecome worse. When the estimation step is fixed, the system performancecan indeed be improved by reducing the control step, but cannot reachthe optimal value. The index difference between the sampled-data basedadaptive LQ control and the conventional LQ optimal control is asymptoticallybounded by a constant depending on the estimation step and the prioriinformation of the parameter set.
+Keywords
+Sampling control system, Markov jump parameter, adaptive control, 
+double-step approach, stochastic noise, least matching error
+estimatio

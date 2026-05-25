@@ -1,0 +1,6 @@
+Direct Search Methods on Reductive Homogeneous Spaces
+David W. Dreisigmeyer;
+Abstract
+Direct search methods are mainly designed for use in problems with no equality constraints. However, there are many instances where the feasible set is of measure zero in the ambient space and no mesh point lies within it. There are methods for working with feasible sets that are (Riemannian) manifolds, but not all manifolds are created equal. In particular, reductive homogeneous spaces seem to be the most general space that can be conveniently optimized over. The reason is that a ‘law of motion’ over the feasible region is also given. Examples include \(\mathbb {R}^{n}\) and its linear subspaces, Lie groups, and coset manifolds such as Grassmannians and Stiefel manifolds. These are important arenas for optimization, for example, in the areas of image processing and data mining. We demonstrate optimization procedures over general reductive homogeneous spaces utilizing maps from the tangent space to the manifold. A concrete implementation of the probabilistic descent direct search method is shown. This is then extended to a procedure that works solely with the manifold elements, eliminating the need for the use of the tangent space.
+Keywords
+Direct search method  Manifold  Nonlinear optimization  65K10  90C56  

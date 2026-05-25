@@ -1,0 +1,6 @@
+Partitioning mathematical programs for parallel solution
+Michael C. Ferris;Jeffrey D. Horn;
+Abstract
+This paper describes heuristics for partitioning a generalM × N matrix into arrowhead form. Such heuristics are useful for decomposing large, constrained, optimization problems into forms that are amenable to parallel processing. The heuristics presented can be easily implemented using publicly available graph partitioning algorithms. The application of such techniques for solving large linear programs is described. Extensive computational results on the effectiveness of our partitioning procedures and their usefulness for parallel optimization are presented. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Graph partitioning  Linear programming  Bundle method  Parallel optimization  

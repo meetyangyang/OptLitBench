@@ -1,0 +1,6 @@
+The clustering matroid and the optimal clustering tree
+Ephraim Korach;Michal Stern;
+Abstract
+We consider the following problem: Given a complete graph G=(V,E) with a cost on every edge and a given collection of subsets of V, we have to find a minimum cost spanning tree T such that each subset of the vertices in the collection induces a subtree in T. One motivation for this problem is to construct a minimum cost communication tree network for a collection of non-disjoint groups of customers such that the network will provide ``group fault tolerance'' and ``group privacy''. We model this problem as a matroid. We extend it to general matroids and call the new matroids ``clustering matroids''. We define three variations of the clustering tree problem and show that from an algorithmic point of view they are polynomially equivalent. We present a polynomial algorithm for one of the three variations, which implies that all of them can be solved polynomially. For the case where the cardinality of the subsets in the collection does not exceed three, we provide a greedy algorithm, a linear algorithm and also a polyhedron description of the convex hull of all the feasible solutions.
+Keywords
+combinatorial optimization  clustering spanning trees  matroids  hypergraphs  polynomial graph algorithms  primal-dual algorithms  polyhedra  

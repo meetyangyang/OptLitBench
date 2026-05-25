@@ -1,0 +1,6 @@
+Individual confidence intervals for solutions to expected value formulations of stochastic variational inequalities
+Michael Lamm;Shu Lu;Amarjit Budhiraja;
+Abstract
+Stochastic variational inequalities (SVIs) provide a means for modeling various optimization and equilibrium problems where data are subject to uncertainty. Often the SVI cannot be solved directly and requires a numerical approximation. This paper considers the use of a sample average approximation and proposes three methods for computing confidence intervals for components of the true solution. The first two methods use an “indirect approach” that requires initially computing asymptotically exact confidence intervals for the solution to the normal map formulation of the SVI. The third method directly constructs confidence intervals for the true SVI solution; intervals produced with this method meet a minimum specified level of confidence in the same situations for which the first two methods are applicable. We justify the three methods theoretically with weak convergence results, discuss how to implement these methods, and test their performance using three numerical examples.
+Keywords
+Confidence interval  Stochastic variational inequality  Sample average approximation  Stochastic optimization  90C33  90C15  65K10  62F25  

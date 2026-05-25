@@ -1,0 +1,6 @@
+A method for topology optimization of structures under harmonic excitations
+Xuqi Zhao;Baisheng Wu;Zhengguang Li;Huixiang Zhong;
+Abstract
+This paper deals with topology optimization of large-scale structures with proportional damping subjected to harmonic excitations. A combined method (CM) of modal superposition with model order reduction (MOR) for harmonic response analysis is introduced. In the method, only the modes corresponding to a frequency range which is a little bigger than that of interest are used for modal superposition, the contribution of unknown higher modes is complemented by a MOR technique. Objective functions are the integral of dynamic compliance of a structure, and that of displacement amplitude of a certain user-defined degree of freedom in the structure, over a range of interested frequencies. The adjoint variable method is applied to analyze sensitivities of objective functions and the accuracy of the sensitivity analyses can also be ensured by CM. Topology optimization procedure is illustrated by three examples. It is shown that the topology optimization based on CM not only remarkably reduce CPU time, but also ensure accuracy of results.
+Keywords
+Topology optimization  Harmonic response  Modal superposition  Model order reduction  

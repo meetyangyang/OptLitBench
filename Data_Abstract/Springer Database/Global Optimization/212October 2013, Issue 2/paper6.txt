@@ -1,0 +1,6 @@
+Finding all nondominated points of multi-objective integer programs
+Banu Lokman;Murat Köksalan;
+Abstract
+We develop exact algorithms for multi-objective integer programming (MIP) problems. The algorithms iteratively generate nondominated points and exclude the regions that are dominated by the previously-generated nondominated points. One algorithm generates new points by solving models with additional binary variables and constraints. The other algorithm employs a search procedure and solves a number of models to find the next point avoiding any additional binary variables. Both algorithms guarantee to find all nondominated points for any MIP problem. We test the performance of the algorithms on randomly-generated instances of the multi-objective knapsack, multi-objective shortest path and multi-objective spanning tree problems. The computational results show that the algorithms work well.
+Keywords
+Multiple criteria  Combinatorial optimization  Nondominated point  

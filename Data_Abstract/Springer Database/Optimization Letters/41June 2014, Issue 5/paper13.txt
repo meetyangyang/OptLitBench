@@ -1,0 +1,6 @@
+Smoothing Newton algorithm for the second-order cone programming with a nonmonotone line search
+Jingyong Tang;Li Dong;Liang Fang;Jinchuan Zhou;
+Abstract
+The smoothing-type algorithms, which are in general designed based on some monotone line search, have been successfully applied to solve the second-order cone programming (denoted by SOCP). In this paper, we propose a nonmonotone smoothing Newton algorithm for solving the SOCP. Under suitable assumptions, we show that the proposed algorithm is globally and locally quadratically convergent. To compare with the existing smoothing-type algorithms for the SOCP, our algorithm has the following special properties: (i) it is based on a new smoothing function of the vector-valued natural residual function; (ii) it uses a nonmonotone line search scheme which contains the usual monotone line search as a special case. Preliminary numerical results demonstrate that the smoothing-type algorithm using the nonmonotone line search is promising for solving the SOCP.
+Keywords
+Second-order cone programming  Smoothing Newton algorithm  Nonmonotone line search  Convergence  

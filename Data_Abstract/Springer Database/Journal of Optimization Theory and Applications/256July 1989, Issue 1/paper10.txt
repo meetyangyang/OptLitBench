@@ -1,0 +1,6 @@
+An algorithm for the linear complementarity problem with upper and lower bounds
+G. Van Der Laan;A. J. J. Talman;
+Abstract
+In this paper, we adapt the octahedral simplicial algorithm for solving systems of nonlinear equations to solve the linear complementarity problem with upper and lower bounds. The proposed algorithm generates a piecewise linear path from an arbitrarily chosen pointz0 to a solution point. This path is followed by linear programming pivot steps in a system ofn linear equations, wheren is the size of the problem. The starting pointz0 is left in the direction of one of the 2 n  vertices of the feasible region. The ray along whichz0 is left depends on the sign pattern of the function value atz0. The sign pattern of the linear function and the location of the points in comparison withz0 completely govern the path of the algorithm.
+Keywords
+Linear complementarity problem  pivoting algorithm  arbitrary starting point  

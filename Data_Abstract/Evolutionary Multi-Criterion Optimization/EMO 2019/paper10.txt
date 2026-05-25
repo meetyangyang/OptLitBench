@@ -1,0 +1,4 @@
+Multi-objective Techniques for Single-Objective Local Search: A Case Study on Traveling Salesman Problem
+Jialong Shi;Jianyong Sun;Qingfu Zhang;
+Abstract
+In this paper, we show that the techniques widely used in multi-objective optimization can help a single-objective local search procedure escape from local optima and find better solutions. The Traveling Salesman Problem (TSP) is selected as a case study. Firstly the original TSP \(f_0\) is decomposed into two TSPs \(f_1\) and \(f_2\) such that \(f_0 = f_1\,+\,f_2\). Then we propose the Non-Dominance Search (NDS) method which applies the non-domination concept on \((f_1,f_2)\) to guide a local search out of the local optima of \(f_0\). In the experimental study, NDS is combined with Iterated Local Search (ILS), a well-known metaheuristic for the TSP. Experimental results on some selected TSPLIB instances show that the proposed NDS can significantly improve the performance of ILS.

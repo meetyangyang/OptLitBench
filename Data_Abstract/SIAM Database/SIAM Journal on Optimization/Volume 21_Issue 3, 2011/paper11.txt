@@ -1,0 +1,6 @@
+A New Look at Nonnegativity on Closed Sets and Polynomial Optimization
+Jean B.  Lasserre;
+Abstract
+We first show that a continuous function f is nonnegative on a closed set K⊆ℝn if and only if (countably many) moment matrices of some signed measure dν=fdμ with suppμ=K are all positive semidefinite (if K is compact, μ is an arbitrary finite Borel measure with suppμ=K). In particular, we obtain a convergent explicit hierarchy of semidefinite (outer) approximations with no lifting of the cone of nonnegative polynomials of degree at most d. When used in polynomial optimization on certain simple closed sets K (e.g., the whole space ℝn, the positive orthant, a box, a simplex, or the vertices of the hypercube), it provides a nonincreasing sequence of upper bounds which converges to the global minimum by solving a hierarchy of semidefinite programs with only one variable (in fact, a generalized eigenvalue problem). In the compact case, this convergent sequence of upper bounds complements the convergent sequence of lower bounds obtained by solving a hierarchy of semidefinite relaxations as in, e.g., [J. B. Lasserre, SIAM J. Optim., 11 (2001), pp. 796–817].
+Keywords
+closed sets, nonnegative functions, nonnegative polynomials, semidefinite approximations, moments, 90C25, 28C15, 

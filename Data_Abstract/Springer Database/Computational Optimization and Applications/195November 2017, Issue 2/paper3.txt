@@ -1,0 +1,6 @@
+On the control of time discretized dynamic contact problems
+Georg Müller;Anton Schiela;
+Abstract
+We consider optimal control problems with distributed control that involve a time-stepping formulation of dynamic one body contact problems as constraints. We link the continuous and the time-stepping formulation by a nonconforming finite element discretization and derive existence of optimal solutions and strong stationarity conditions. We use this information for a steepest descent type optimization scheme based on the resulting adjoint scheme and implement its numerical application.
+Keywords
+Dynamic contact  Optimal control  Strong stationarity  Time discretization  49J20  49K20  65K15  74H15  

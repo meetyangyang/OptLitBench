@@ -1,0 +1,6 @@
+A one-shot optimization framework with additional equality constraints applied to multi-objective aerodynamic shape optimization
+L. Kusch;T. Albring;A. Walther;N.R. Gauger;
+Abstract
+This paper concerns the implementation and application of the extended one-shot approach including additional equality constraints to achieve a direct transition from simulation to optimization. The approach can be applied for different areas of scientific computing where partial differential equations are treated by using a fixed-point solver. The solver is extended in a semi-automated fashion. In a first step it is augmented with a consistent adjoint solver using algorithmic differentiation. Then the obtained reduced derivative information is directly employed to simultaneously achieve optimality and primal as well as adjoint feasibility. The methodology is implemented in the multi-physics package SU2 and applied for multi-objective aerodynamic shape optimization.
+Keywords
+one-shot optimization, automated optimal design, equality constraints, descent approach, algorithmic differentiationAMS Subject Classification: 90C30, 65F08 

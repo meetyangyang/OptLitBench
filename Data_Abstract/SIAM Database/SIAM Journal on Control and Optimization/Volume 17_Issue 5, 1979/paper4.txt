@@ -1,0 +1,5 @@
+Rates of Convergence for Stochastic Approximation Type Algorithms
+Harold J.  Kushner and Hai  Huang;
+Abstract
+We consider the general form of the stochastic approximation algorithm$X_{n + 1}  = X_n + a_n h(X_n ,\xi _n )$, where h is not necessarily additive in $\xi _n $. Such algorithms occur frequently in applications to adaptive control and identification problems, where $\{ \xi _n \} $ is usually obtained from measurements of the input and output, and is almost always complicated enough that the more classical assumptions on the noise fail to hold. Let $a_n  = {A / {(n + 1)^\alpha  }}$, $0 < \alpha  \leqq 1$, and let $X_n  \to \theta $ w.p. 1. Define $U_n  = (n + 1)^{{\alpha  / 2}} (X_n  - \theta )$. Then, loosely speaking, it is shown that the sequence of suitable continuous parameter interpolations of the sequence of “tails” of $\{ U _n \} $ converges weakly to a Gaussian diffusion. From this we can get the asymptotic variance of $U _n $ as well as other information. The assumptions on $\{ \xi _n \} $ and $h( \cdot , \cdot )$ are quite reasonable from the point of view of applications.
+Keywords

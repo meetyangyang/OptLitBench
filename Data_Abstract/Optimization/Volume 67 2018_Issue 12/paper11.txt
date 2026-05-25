@@ -1,0 +1,6 @@
+Simplified versions of the conditional gradient method
+I. V. Konnov;
+Abstract
+We suggest simple modifications of the conditional gradient method for smooth optimization problems, which maintain the basic convergence properties, but reduce the implementation cost of each iteration essentially. Namely, we propose an adaptive step-size procedure without any line-search and inexact solution of the direction finding subproblem. Preliminary results of computational tests confirm efficiency of the proposed modifications.
+Keywords
+Optimization problems, pseudo-convex function, conditional gradient method, simple adaptive step-size, inexact direction finding subproblem, convergence properties2010 MATHEMATICS SUBJECT CLASSIFICATIONS: 90C25, 90C30 

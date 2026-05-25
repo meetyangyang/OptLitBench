@@ -1,0 +1,6 @@
+RDS-NSGA-II: a memetic algorithm for reference point based multi-objective optimization
+Jesus Alejandro Hernández Mejía;Oliver Schütze;Oliver Cuate;Adriana Lara;Kalyanmoy Deb;
+Abstract
+Reference point based optimization offers tools for the effective treatment of preference based multi-objective optimization problems, e.g. when the decision-maker has a rough idea about the target objective values. For the numerical solution of such problems, specialized evolutionary strategies have become popular, despite their possible slow convergence rates. Hybridizing such evolutionary algorithms with local search techniques have been shown to produce faster and more reliable algorithms. In this article, the directed search (DS) method is adapted to the context of reference point optimization problems, making this variant, called RDS, a well-suited option for integration into evolutionary algorithms. Numerical results on academic test problems with up to five objectives demonstrate the benefit of the novel hybrid (i.e. the same approximation quality can be obtained more efficiently by the new algorithm), using the state-of-the-art algorithm R-NSGA-II for this coupling. This represents an advantage when treating costly-to-evaluate real-world engineering design problems.
+Keywords
+Multi-objective optimization, reference point problem, memetic strategy 

@@ -1,0 +1,6 @@
+Bundle-based descent method for nonsmooth multiobjective DC optimization with inequality constraints
+Outi Montonen;Kaisa Joki;
+Abstract
+Multiobjective DC optimization problems arise naturally, for example, in data classification and cluster analysis playing a crucial role in data mining. In this paper, we propose a new multiobjective double bundle method designed for nonsmooth multiobjective optimization problems having objective and constraint functions which can be presented as a difference of two convex (DC) functions. The method is of the descent type and it generalizes the ideas of the double bundle method for multiobjective and constrained problems. We utilize the special cutting plane model angled for the DC improvement function such that the convex and the concave behaviour of the function is captured. The method is proved to be finitely convergent to a weakly Pareto stationary point under mild assumptions. Finally, we consider some numerical experiments and compare the solutions produced by our method with the method designed for general nonconvex multiobjective problems. This is done in order to validate the usage of the method aimed specially for DC objectives instead of a general nonconvex method.
+Keywords
+Multiobjective optimization  Nonsmooth optimization  Nonconvex optimization  DC programming  Bundle methods  90C29  90C26  65K05  

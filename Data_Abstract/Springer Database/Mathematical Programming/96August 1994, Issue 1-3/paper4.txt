@@ -1,0 +1,6 @@
+Bundle-based decomposition for large-scale convex optimization: Error estimate and application to block-angular linear programs
+Deepankar Medhi;
+Abstract
+Robinson has proposed the bundle-based decomposition algorithm to solve a class of structured large-scale convex optimization problems. In this method, the original problem is transformed (by dualization) to an unconstrained nonsmooth concave optimization problem which is in turn solved by using a modified bundle method. In this paper, we give a posteriori error estimates on the approximate primal optimal solution and on the duality gap. We describe implementation and present computational experience with a special case of this class of problems, namely, block-angular linear programming problems. We observe that the method is efficient in obtaining the approximate optimal solution and compares favorably with MINOS and an advanced implementation of the Dantzig—Wolfe decomposition method.
+Keywords
+Large-scale optimization  Nonsmooth optimization  Bundle method  Decomposition  Block-angular linear programming  

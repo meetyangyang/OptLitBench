@@ -1,0 +1,6 @@
+Rank-two update algorithms for the minimum volume enclosing ellipsoid problem
+Wei-jie Cong;Hong-wei Liu;Feng Ye;Shui-sheng Zhou;
+Abstract
+We consider the problem of computing a (1+ε)-approximation to the minimum volume enclosing ellipsoid (MVEE) of a given set of m points in R  n . Based on the idea of sequential minimal optimization (SMO) method, we develop a rank-two update algorithm. This algorithm computes an approximate solution to the dual optimization formulation of the MVEE problem, which updates only two weights of the dual variable at each iteration. We establish that this algorithm computes a (1+ε)-approximation to MVEE in O(mn 3/ε) operations and returns a core set of size O(n 2/ε) for ε∈(0,1). In addition, we give an extension of this rank-two update algorithm. Computational experiments show the proposed algorithms are very efficient for solving large-scale problem with a high accuracy.
+Keywords
+Minimum volume ellipsoids  Rank-two update algorithms  Sequential minimal optimization  Core sets  Approximation algorithms  Complexity analysis  

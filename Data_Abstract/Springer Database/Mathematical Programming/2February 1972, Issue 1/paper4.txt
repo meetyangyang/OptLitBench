@@ -1,0 +1,6 @@
+An efficient algorithm for minimizing barrier and penalty functions
+Leon S. Lasdon;
+Abstract
+Constrained minimization is often done via interior penalty functions. Such functions can be very difficult to minimize using existing algorithms. In this paper, a new algorithm is described which is specially constructed to deal with such functions. It generates search directions by linearizing the objective and constraints about the current (interior) point, substituting these linearizations into the penalty function, and minimizing the result. Properties of the algorithm are derived, an efficient method for solving the direction finding problem is suggested, and computational results are presented. Preliminary results are also given on an extension to quasibarrier and exterior penalty functions.
+Keywords
+Mathematical Method  Computational Result  Efficient Method  Penalty Function  Search Direction  

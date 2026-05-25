@@ -1,0 +1,6 @@
+Iterative linear programming solution of convex programs
+M. C. Ferris;
+Abstract
+An iterative linear programming algorithm for the solution of the convex programming problem is proposed. The algorithm partially solves a sequence of linear programming subproblems whose solution is shown to converge quadratically, superlinearly, or linearly to the solution of the convex program, depending on the accuracy to which the subproblems are solved. The given algorithm is related to inexact Newton methods for the nonlinear complementarity problem. Preliminary results for an implementation of the algorithm are given.
+Keywords
+Iterative linear programming  complementarity problems  inexact Newton methods  finite termination  

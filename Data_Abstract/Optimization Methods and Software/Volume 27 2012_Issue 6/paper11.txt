@@ -1,0 +1,6 @@
+On the convergence of an active-set method for ℓ1 minimization
+ Zaiwen   Wen ; Wotao   Yin ; Hongchao   Zhang ; Donald   Goldfarb ;
+Abstract
+ We analyse an abridged version of the active-set algorithm FPC_AS proposed in Wen et al. [A fast algorithm for sparse reconstruction based on shrinkage, subspace optimisation and continuation, SIAM J. Sci. Comput. 32 (2010), pp. 1832–1857] for solving the l 1-regularized problem, i.e. a weighted sum of the l 1-norm |x|1 and a smooth function f(x). The active-set algorithm alternatively iterates between two stages. In the first ‘non-monotone line search (NMLS)’ stage, an iterative first-order method based on ‘shrinkage’ is used to estimate the support at the solution. In the second ‘subspace optimization’ stage, a smaller smooth problem is solved to recover the magnitudes of the non-zero components of x. We show that NMLS itself is globally convergent and the convergence rate is at least R-linearly. In particular, NMLS is able to identify the zero components of a stationary point after a finite number of steps under some mild conditions. The global convergence of FPC_AS is established based on the properties of NMLS. 
+Keywords
+ l 1-minimization, basis pursuit, compressed sensing, subspace optimization, active set, continuation AMS Subject Classification : 49M29, 65K05, 90C25, 90C06 

@@ -1,0 +1,6 @@
+Computing the generalized eigenvalues of weakly symmetric tensors
+Na Zhao;Qingzhi Yang;Yajun Liu;
+Abstract
+Tensor is a hot topic in the past decade and eigenvalue problems of higher order tensors become more and more important in the numerical multilinear algebra. Several methods for finding the Z-eigenvalues and generalized eigenvalues of symmetric tensors have been given. However, the convergence of these methods when the tensor is not symmetric but weakly symmetric is not assured. In this paper, we give two convergent gradient projection methods for computing some generalized eigenvalues of weakly symmetric tensors. The gradient projection method with Armijo step-size rule (AGP) can be viewed as a modification of the GEAP method. The spectral gradient projection method which is born from the combination of the BB method with the gradient projection method is superior to the GEAP, AG and AGP methods. We also make comparisons among the four methods. Some competitive numerical results are reported at the end of this paper.
+Keywords
+Weakly symmetric  Generalized tensor eigenpair  Gradient projection method  Armijo rule  BB iteration  

@@ -1,0 +1,6 @@
+A branch-and-cut algorithm for scheduling of projects with variable-intensity activities
+Tamás Kis;
+Abstract
+In this paper we study a resource constrained project scheduling problem in which the resource usage of each activity may vary over time proportionally to its varying intensity. We formalize the problem by means of a mixed integer-linear program, prove that feasible solution existence is NP-complete in the strong sense and propose a branch-and-cut algorithm for finding optimal solutions. To this end, we provide a complete description of the polytope of feasible intensity assignments to two variable-intensity activities connected by a precedence constraint along with a fast separation algorithm. A computational evaluation confirms the effectiveness of our method on various benchmark instances.
+Keywords
+Project scheduling  Network flows, Polyhedral combinatorics  Branch-and-cut  

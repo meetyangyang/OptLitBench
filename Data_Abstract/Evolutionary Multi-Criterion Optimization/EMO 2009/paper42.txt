@@ -1,0 +1,4 @@
+An Evolutionary Algorithm to Estimate the Nadir Point in MOLP
+Maria João Alves;João Paulo Costa;
+Abstract
+In this paper we propose an evolutionary algorithm to estimate the minimum (nadir) objective values over the efficient set in multiple objective linear programming problems (MOLP). Nadir values provide valuable information for characterizing the ranges of the objective function values over the efficient set. However, they are very hard to compute in the general case. The proposed algorithm uses a population of weight vectors with particular characteristics, which are then used as parameters in the optimization of weighted-sums of the objective functions. The population evolves through a process of selection, recombination and mutation. The algorithm has been tested on a number of random MOLP problems for which the nadir point is known. A result comparison with an exact method is shown and discussed.

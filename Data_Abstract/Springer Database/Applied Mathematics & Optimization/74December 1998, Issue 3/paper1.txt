@@ -1,0 +1,6 @@
+Relaxation Methods for Strictly Convex Regularizations of Piecewise Linear Programs 
+K. C. Kiwiel;
+Abstract
+ We give an algorithm for minimizing the sum of a strictly convex function and a convex piecewise linear function. It extends several dual coordinate ascent methods for large-scale linearly constrained problems that occur in entropy maximization, quadratic programming, and network flows. In particular, it may solve exact penalty versions of such (possibly inconsistent) problems, and subproblems of bundle methods for nondifferentiable optimization. It is simple, can exploit sparsity, and in certain cases is highly parallelizable. Its global convergence is established in the recent framework of B -functions (generalized Bregman functions).
+Keywords
+Key words. Convex programming, Entropy maximization, Nondifferentiable optimization, Relaxation methods, Dual coordinate ascent, B -functions. AMS Classification. Primary 65K05, Secondary 90C25.  

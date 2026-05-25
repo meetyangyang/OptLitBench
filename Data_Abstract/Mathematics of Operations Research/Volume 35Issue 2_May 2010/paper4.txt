@@ -1,0 +1,6 @@
+Error Bounds for Approximations from Projected Linear Equations
+Huizhen Yu;Dimitri P. Bertsekas;
+Abstract
+We consider linear fixed point equations and their approximations by projection on a low dimensional subspace. We derive new bounds on the approximation error of the solution, which are expressed in terms of low dimensional matrices and can be computed by simulation. When the fixed point mapping is a contraction, as is typically the case in Markov decision processes (MDP), one of our bounds is always sharper than the standard contraction-based bounds, and another one is often sharper. The former bound is also tight in a worst-case sense. Our bounds also apply to the noncontraction case, including policy evaluation in MDP with nonstandard projections that enhance exploration. There are no error bounds currently available for this case to our knowledge.
+Keywords
+projected linear equations function approximation error bounds dynamic programming temporal difference methods Galerkin methods 

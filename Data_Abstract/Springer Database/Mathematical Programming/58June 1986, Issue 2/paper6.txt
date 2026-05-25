@@ -1,0 +1,6 @@
+On projected newton barrier methods for linear programming and an equivalence to Karmarkar’s projective method
+Philip E. Gill;Walter Murray;Michael A. Saunders;J. A. Tomlin;Margaret H. Wright;
+Abstract
+Interest in linear programming has been intensified recently by Karmarkar’s publication in 1984 of an algorithm that is claimed to be much faster than the simplex method for practical problems. We review classical barrier-function methods for nonlinear programming based on applying a logarithmic transformation to inequality constraints. For the special case of linear programming, the transformed problem can be solved by a “projected Newton barrier” method. This method is shown to be equivalent to Karmarkar’s projective method for a particular choice of the barrier parameter. We then present details of a specific barrier algorithm and its practical implementation. Numerical results are given for several non-trivial test problems, and the implications for future developments in linear programming are discussed.
+Keywords
+Linear programming  Karmarkar’s method  barrier methods  

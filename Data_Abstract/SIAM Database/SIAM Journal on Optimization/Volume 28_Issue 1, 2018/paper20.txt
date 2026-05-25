@@ -1,0 +1,6 @@
+Proximal Mapping for Symmetric Penalty and Sparsity
+Amir  Beck and Nadav  Hallak;
+Abstract
+This paper studies a class of problems consisting of minimizing a continuously differentiable function penalized with the  so-called $\ell_0$-norm over a symmetric set. These problems are hard to solve, yet prominent in many fields and applications. We first study the proximal mapping with respect to the $\ell_0$-norm over symmetric sets, and provide an efficient method to attain it. The method is then improved for symmetric sets satisfying a sub-modularity-like property, which we call second order monotonicity (SOM). It is shown that many important symmetric sets, such as the $\ell_1,\ell_2, \ell_{\infty}$-balls, the simplex and the full-simplex, satisfy  this SOM property. We then develop, under the validity of the SOM property,  necessary optimality conditions, and corresponding algorithms that are guaranteed to converge to points satisfying the aforementioned optimality conditions. We prove the existence of a hierarchy between the optimality conditions, and consequently between the corresponding algorithms.
+Keywords
+sparse regularizer, nonconvex proximal operator, optimality conditions, proximal gradient, symmetric sets, 90C26, 90C30, 90C46, 

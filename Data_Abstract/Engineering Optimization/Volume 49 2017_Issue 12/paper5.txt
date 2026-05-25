@@ -1,0 +1,6 @@
+Genetic particle swarm parallel algorithm analysis of optimization arrangement on mistuned blades
+Tianyu Zhao;Huiqun Yuan;Wenjun Yang;Huagang Sun;
+Abstract
+This article introduces a method of mistuned parameter identification which consists of static frequency testing of blades, dichotomy and finite element analysis. A lumped parameter model of an engine bladed-disc system is then set up. A bladed arrangement optimization method, namely the genetic particle swarm optimization algorithm, is presented. It consists of a discrete particle swarm optimization and a genetic algorithm. From this, the local and global search ability is introduced. CUDA-based co-evolution particle swarm optimization, using a graphics processing unit, is presented and its performance is analysed. The results show that using optimization results can reduce the amplitude and localization of the forced vibration response of a bladed-disc system, while optimization based on the CUDA framework can improve the computing speed. This method could provide support for engineering applications in terms of effectiveness and efficiency.
+Keywords
+Mistuning blade arrangement, mistuned parameter identification, genetic particle swarm optimization algorithm, GPU, CUDA 

@@ -1,0 +1,5 @@
+On Finding the Maximal Range of Validity of a Constrained System
+Shmuel  Gal, Boris  Bachelis, and Aharon  Ben-Tal;
+Abstract
+For a given set of k constraints which depend on a real parameter x, $x \in [0,1]$ (or any other interval) it is desired to find the maximal subinterval $[0,\lambda ]$ where all these constraints are satisfied. In order to find $\lambda $ one can make n sequential observations where each of them can be made on any one of the constraints at a chosen point.If $k = 1$ then the minimax procedure (bisection) guarantees an accuracy of $(\frac{1}{2})^n $ in locating $\lambda $. The methods considered in this paper are applicable for $k > 1$. The surprising property of some of these methods is the fact that for any k, they guarantee an accuracy of $(\frac{1}{2} + \varepsilon _k )^n $ where $\varepsilon _k $ rapidly decreases to zero as n tends to infinity. Thus, for large n the asymptotic behavior is “almost” like the bisection procedure for one constraint. Numerical experiments show that these methods are efficient even for relatively small n and that they can handle effectively any number of constraints.
+Keywords

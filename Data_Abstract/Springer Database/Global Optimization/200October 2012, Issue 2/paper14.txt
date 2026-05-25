@@ -1,0 +1,6 @@
+Scheduling linear deteriorating jobs to minimize the number of tardy jobs
+Abbasali Jafari;Ghasem Moslehi;
+Abstract
+In this paper a problem of scheduling a single machine under linear deterioration which aims at minimizing the number of tardy jobs is considered. According to our assumption, processing time of each job is dependent on its starting time based on a linear function where all the jobs have the same deterioration rate. It is proved that the problem is NP-hard; hence a branch and bound procedure and a heuristic algorithm with O(n 2) is proposed where the heuristic one is utilized for obtaining the upper bound of the B&B procedure. Computational results for 1,800 sample problems demonstrate that the B&B method can solve problems with 28 jobs quickly and in some other groups larger problems are also solved. Generally, B&B method can optimally solve 85% of the samples which shows high performance of the proposed method. Also it is shown that the average value of the ratio of optimal solution to the heuristic algorithm result with the objective ∑(1 − Ui) is at most 1.11 which is more efficient in comparison to other proposed algorithms in related studies in the literature.
+Keywords
+Scheduling  Linear deteriorating jobs  Branch and bound  Number of tardy jobs  

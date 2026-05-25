@@ -1,0 +1,6 @@
+Nonlinear AIMD Congestion Control and Contraction Mappings
+Uriel G.  Rothblum and Robert  Shorten;
+Abstract
+This papers analyzes a class of nonlinear additive-increase multiplicative-decrease (AIMD) protocols that are widely deployed in communication networks. It is demonstrated that the use of these protocols guarantees that the system has a unique stable outcome to which it converges geometrically under all starting points. The development is based on a contraction argument and the derivation of explicit bounds on the contraction coefficient of corresponding operators in terms of the network parameters. In particular, bounds on the corresponding rate of convergence are obtained, improving upon known bounds for standard (linear) AIMD networks.
+Keywords
+AIMD congestion control, high-speed networking, contraction mappings, 90B18, 68M12, 68M10, 47H10, 

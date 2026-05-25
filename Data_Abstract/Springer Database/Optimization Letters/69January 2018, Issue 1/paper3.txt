@@ -1,0 +1,6 @@
+Gradient-type penalty method with inertial effects for solving constrained convex optimization problems with smooth data
+Radu Ioan Boţ;Ernö Robert Csetnek;Nimit Nimana;
+Abstract
+We consider the problem of minimizing a smooth convex objective function subject to the set of minima of another differentiable convex function. In order to solve this problem, we propose an algorithm which combines the gradient method with a penalization technique. Moreover, we insert in our algorithm an inertial term, which is able to take advantage of the history of the iterates. We show weak convergence of the generated sequence of iterates to an optimal solution of the optimization problem, provided a condition expressed via the Fenchel conjugate of the constraint function is fulfilled. We also prove convergence for the objective function values to the optimal objective value. The convergence analysis carried out in this paper relies on the celebrated Opial Lemma and generalized Fejér monotonicity techniques. We illustrate the functionality of the method via a numerical experiment addressing image classification via support vector machines.
+Keywords
+Gradient method  Penalization  Fenchel conjugate  Inertial algorithm  

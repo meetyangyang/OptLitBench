@@ -1,0 +1,8 @@
+A stable primal–dual approach for linear programming under nondegeneracy assumptions
+Maria Gonzalez-Lima;Hua Wei;Henry Wolkowicz;
+Abstract
+
+This paper studies a primal–dual interior/exterior-point path-following approach for linear programming that is motivated on using an iterative solver rather than a direct solver for the search direction. We begin with the usual perturbed primal–dual optimality equations. Under nondegeneracy assumptions, this nonlinear system is well-posed, i.e. it has a nonsingular Jacobian at optimality and is not necessarily ill-conditioned as the iterates approach optimality. Assuming that a basis matrix (easily factorizable and well-conditioned) can be found, we apply a simple preprocessing step to eliminate both the primal and dual feasibility equations. This results in a single bilinear equation that maintains the well-posedness property. Sparsity is maintained. We then apply either a direct solution method or an iterative solver (within an inexact Newton framework) to solve this equation. Since the linearization is well posed, we use affine scaling and do not maintain nonnegativity once we are close enough to the optimum, i.e. we apply a change to a pure Newton step technique. In addition, we correctly identify some of the primal and dual variables that converge to 0 and delete them (purify step).
+
+Keywords
+Linear programming  Large sparse problems  Preconditioned conjugate gradients  Stability  

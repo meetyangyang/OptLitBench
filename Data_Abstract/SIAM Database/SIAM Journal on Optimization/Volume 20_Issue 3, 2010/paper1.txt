@@ -1,0 +1,6 @@
+PDE-Constrained Optimization Subject to Pointwise Constraints on the Control, the State, and Its Derivative
+Michael  Hintermüller and Karl  Kunisch;
+Abstract
+A general Moreau–Yosida-based framework for minimization problems subject to partial differential equations and pointwise constraints on the control, the state, and its derivative is considered. A range space constraint qualification is used to argue existence of Lagrange multipliers and to derive a KKT-type system for characterizing first-order optimality of the unregularized problem. The theoretical framework is then used to develop a semismooth Newton algorithm in function space and to prove its locally superlinear convergence when solving the regularized problems. Further, for maintaining the local superlinear convergence in function space it is demonstrated that in some cases it might be necessary to add a lifting step to the Newton framework in order to bridge an $L^2$-$L^r$-norm gap, with $r>2$. The paper ends by a report on numerical tests.
+Keywords
+constraint qualification, gradient constraints, first-order optimality system, lifting, Moreau–Yosida regularization, PDE-constrained optimization, pointwise state constraints, semi-smooth Newton method, 49M15, 49M37, 65K05, 90C33, 

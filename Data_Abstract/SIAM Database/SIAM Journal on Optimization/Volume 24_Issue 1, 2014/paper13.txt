@@ -1,0 +1,6 @@
+A Semismooth Newton Method with Multidimensional Filter Globalization for $l_1$-Optimization
+Andre  Milzarek and Michael  Ulbrich;
+Abstract
+Due to their property of enhancing the sparsity of solutions, $l_1$-regularized optimization problems have developed into a highly dynamic research area with a wide range of applications. We present a class of methods for $l_1$-regularized optimization problems that are based on a combination of semismooth Newton steps, a filter globalization, and shrinkage/thresholding steps. A multidimensional filter framework is used to control the acceptance and to evaluate the quality of the semismooth Newton steps. If the current Newton iterate is rejected a shrinkage/thresholding-based step with quasi-Armijo stepsize rule is used instead. Global convergence and transition to local q-superlinear convergence for both convex and nonconvex objective functions are established. We present numerical results and comparisons with several state-of-the-art methods that show the efficiency and competitiveness of the proposed method.
+Keywords
+$l_1$-optimization, fixed point method, semismooth Newton method, multidimensional filter, global convergence, 49M15, 65K05, 90C06, 90C90, 

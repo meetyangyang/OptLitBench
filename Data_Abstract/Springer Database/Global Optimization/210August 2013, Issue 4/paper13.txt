@@ -1,0 +1,6 @@
+A note on a selfish bin packing problem
+Ruixin Ma;György Dósa;Xin Han;Hing-Fung Ting;Deshi Ye;Yong Zhang;
+Abstract
+In this paper, we consider a selfish bin packing problem, where each item is a selfish player and wants to minimize its cost. In our new model, if there are k items packed in the same bin, then each item pays a cost 1/k, where k ≥ 1. First we find a Nash Equilibrium (NE) in time O(n log n) within a social cost at most 1.69103OPT + 3, where OPT is the social cost of an optimal packing; where n is the number of items or players; then we give tight bounds for the worst NE on the social cost; finally we show that any feasible packing can be converged to a Nash Equilibrium in O(n 2) steps without increasing the social cost.
+Keywords
+Nash Equilibrium  Bin packing  Approximation ratio  

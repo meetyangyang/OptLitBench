@@ -1,0 +1,6 @@
+Shifted L-BFGS systems
+Jennifer B. Erway;Vibhor Jain;Roummel F. Marcia;
+Abstract
+We investigate fast direct methods for solving systems of the form (B+G)x=y, where B is a limited-memory Broyden-Fletcher-Goldfarb-Shanno matrix and G is a symmetric positive-definite matrix. These systems, which we refer to as shifted L-BFGS systems, arise in several settings, including trust-region methods and preconditioning techniques for interior-point methods. We show that under mild assumptions, the system (B+G)x=y can be solved in an efficient manner that mitigates instability via a recursion that requires only vector inner products. We consider various shift matrices G and demonstrate the effectiveness and accuracy of the recursion method in numerical experiments.
+Keywords
+numerical linear algebra, quasi-Newton methods, Sherman–Morrison–Woodbury formula, limited-memory BFGSAMS Subject Classiffication: 90C53, 15A06, 90C06, 65K05, 65K10, 49M15 

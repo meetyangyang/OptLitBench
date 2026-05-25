@@ -1,0 +1,6 @@
+An improved rounding method and semidefinite programming relaxation for graph partition
+Qiaoming Han;Yinyu Ye;Jiawei Zhang;
+Abstract
+Given an undirected graph G=(V,E) with |V|=n and an integer k between 0 and n, the maximization graph partition (MAX-GP) problem is to determine a subset S⊂V of k nodes such that an objective function w(S) is maximized. The MAX-GP problem can be formulated as a binary quadratic program and it is NP-hard. Semidefinite programming (SDP) relaxations of such quadratic programs have been used to design approximation algorithms with guaranteed performance ratios for various MAX-GP problems. Based on several earlier results, we present an improved rounding method using an SDP relaxation, and establish improved approximation ratios for several MAX-GP problems, including Dense-Subgraph, Max-Cut, Max-Not-Cut, and Max-Vertex-Cover.
+Keywords
+Key words: Dense-k-Subgraph – Max-Cut – Max-Not-Cut – Max-Vertex-Cover – polynomial approximation algorithm – performance ratio – semidefinite programming  Mathematics Subject Classification (2000): 49M25, 90C22, 90C27  

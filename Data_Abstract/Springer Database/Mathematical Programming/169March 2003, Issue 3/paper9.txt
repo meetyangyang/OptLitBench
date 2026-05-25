@@ -1,0 +1,6 @@
+Karush-Kuhn-Tucker systems: regularity conditions, error bounds and a class of Newton-type methods
+A.F. Izmailov;M.V. Solodov;
+Abstract
+ We consider optimality systems of Karush-Kuhn-Tucker (KKT) type, which arise, for example, as primal-dual conditions characterizing solutions of optimization problems or variational inequalities. In particular, we discuss error bounds and Newton-type methods for such systems. An exhaustive comparison of various regularity conditions which arise in this context is given. We obtain a new error bound under an assumption which we show to be strictly weaker than assumptions previously used for KKT systems, such as quasi-regularity or semistability (equivalently, the R0-property). Error bounds are useful, among other things, for identifying active constraints and developing efficient local algorithms. We propose a family of local Newton-type algorithms. This family contains some known active-set Newton methods, as well as some new methods. Regularity conditions required for local superlinear convergence compare favorably with convergence conditions of nonsmooth Newton methods and sequential quadratic programming methods.
+Keywords
+Variational Inequality  Quadratic Programming  Newton Method  Regularity Condition  Error Bound  

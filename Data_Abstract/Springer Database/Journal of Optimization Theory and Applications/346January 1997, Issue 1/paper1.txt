@@ -1,0 +1,6 @@
+Family of Projected Descent Methods for Optimization Problems with Simple Bounds
+A. Schwartz;E. Polak;
+Abstract
+This paper presents a family of projected descent direction algorithms with inexact line search for solving large-scale minimization problems subject to simple bounds on the decision variables. The global convergence of algorithms in this family is ensured by conditions on the descent directions and line search. Whenever a sequence constructed by an algorithm in this family enters a sufficiently small neighborhood of a local minimizer ○ satisfying standard second-order sufficiency conditions, it gets trapped and converges to this local minimizer. Furthermore, in this case, the active constraint set at ○ is identified in a finite number of iterations. This fact is used to ensure that the rate of convergence to a local minimizer, satisfying standard second-order sufficiency conditions, depends only on the behavior of the algorithm in the unconstrained subspace. As a particular example, we present projected versions of the modified Polak–Ribière conjugate gradient method and the limited-memory BFGS quasi-Newton method that retain the convergence properties associated with those algorithms applied to unconstrained problems.
+Keywords
+Optimization  conjugate gradient methods  limited-memory BFGS methods  projections  simple bounds  

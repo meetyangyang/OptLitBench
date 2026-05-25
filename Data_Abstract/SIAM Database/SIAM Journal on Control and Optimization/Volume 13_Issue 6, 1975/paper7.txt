@@ -1,0 +1,5 @@
+An Arc Method for Nonlinear Programming
+Garth P.  McCormick;
+Abstract
+An algorithm using second derivatives for solving the optimization problem : minimize $f(x)$ subject to $g_i (x) \geqq 0$, $i = 1, \cdots ,m$, where the $g_i $ are not necessarily linear is presented. The basic idea is to generate a sequence of feasible points with decreasing objective value by movement along piecewise, smooth, quadratic arcs. Cluster points of the sequence generated are shown to be second order Kuhn–Tucker points. If the strict second order sufficiency conditions hold, the rate of convergence is shown to be at least quadratic.
+Keywords

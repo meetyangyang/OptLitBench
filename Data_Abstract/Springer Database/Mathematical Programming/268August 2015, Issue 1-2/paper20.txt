@@ -1,0 +1,6 @@
+A nonlinear semidefinite optimization relaxation for the worst-case linear optimization under uncertainties
+Jiming Peng;Tao Zhu;
+Abstract
+In this paper, we consider the so-called worst-case linear optimization (WCLO) with uncertainties in the right-hand-side of the constraints. Such a problem arises from numerous applications such as systemic risk estimate in finance and stochastic optimization. We first show the problem is NP-hard and present a coarse semidefinite relaxation (SDR) for WCLO. An iterative procedure is introduced to sequentially refine the relaxation model based on the solution of the current relaxation model by simply changing some parameters in the coarse SDR. We show that the sequence of the proposed SDRs will converge to some nonlinear semidefinite optimization problem (SDO). A bi-section search algorithm is proposed to solve the resulting nonlinear SDO. Our preliminary experimental results illustrate that the nonlinear SDR can provide very tight bounds for the original WCLO and is able to locate the exact global solution in most cases within a few iterations on average.
+Keywords
+Worst-case linear optimization  Adjustable robust optimization  Semidefinite optimization  Systemic risk  Affine decision rules  90C05  90C22  90C26  90C47  

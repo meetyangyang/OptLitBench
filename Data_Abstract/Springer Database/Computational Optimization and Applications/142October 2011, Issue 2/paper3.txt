@@ -1,0 +1,6 @@
+An interior-point path-following algorithm for computing a Leontief economy equilibrium
+Chuangyin Dang;Yinyu Ye;Zhisu Zhu;
+Abstract
+In this paper, we present an interior-point path-following algorithm for computing a Leontief economy equilibrium, that is, an exchange market equilibrium with Leontief utility functions, which is known to be in the complexity class of PPAD-complete. It is known that an equilibrium corresponds to a solution of a system of complementarities, so we construct a smooth homotopy interior-point path to tackle this system. We prove that there always exists a continuously differentiable path leading to a complementary solution of the nonlinear system and at the same time to a Leontief economy equilibrium associated with the solution. We also report preliminary computational results to show effectiveness of the path-following Newton method.
+Keywords
+Linear complementarity problem  Homotopy  Arrow-Debreu-Leontief  

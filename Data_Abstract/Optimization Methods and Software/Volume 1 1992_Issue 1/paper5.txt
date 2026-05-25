@@ -1,0 +1,6 @@
+Large–scale minimization on the CM-200
+ Robert S.   Maier ;
+Abstract
+ A finite-element formulation of the minimal-surface problem is described and solved with I the limited-memory BFGS (LM-BFGS) minimization algorithm on a 32K-processor Connection Machine (CM-200). Implementation of the problem is described with an emphasis on the data structures necessary for matching the finite-element code with the LM-BFGS minimization code. Performance of the complete code is evaluated and compared with a vectorized implementation on the CRAY-2, for problems ranging in size from n= 104 to n> 106> knowns. The results of the comparison indicate the effectiveness of the CM-200 for very large-scale problems. The implementation is representative of a large class of variational problems and suggests useful techniques for the software interface between minimization codes and nonlinear finite-element problems. 
+Keywords
+Large-scale, Parallel computation, Finite element method, Fortran 90 

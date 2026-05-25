@@ -1,0 +1,6 @@
+Comments on “Enhancements on the Hyperplanes Arrangements in Mixed-Integer Programming Techniques”
+Rubens J. M. Afonso;Roberto K. H. Galvão;
+Abstract
+In a recent paper by Prodan et al. (J. Optim. Theory Appl. 154:549–572, 2012), a technique was presented to reduce the number of binary variables needed to represent not convex constraints in a mixed-integer programming (MIP) problem. The proposed technique employs tuples of binary variables, which are associated with feasible regions of the feature space. However, since the number of all possible tuples with a given number of bits is a power of two, there may be several unallocated tuples that must be rendered infeasible by imposing suitable constraints. We show in this paper that it is always possible to partition the tuples so that only one inequality is necessary to render all the unallocated tuples and only them infeasible. Moreover, we develop a systematic procedure to perform this partition and write the referred inequality.
+Keywords
+Mixed integer programming (MIP)  Not convex constraints  Hyperplane arrangements  Unallocated tuples  

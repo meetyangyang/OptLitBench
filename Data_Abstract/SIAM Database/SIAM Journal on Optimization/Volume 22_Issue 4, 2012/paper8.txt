@@ -1,0 +1,6 @@
+A Stable and Efficient Method for Solving a Convex Quadratic Program with  Application to Optimal Control
+Amir  Shahzad, Eric C.  Kerrigan, and George A.  Constantinides;
+Abstract
+A method is proposed for reducing the cost of computing search directions in an interior point method for a quadratic program. The KKT system is partitioned and modified, based on the ratios of the slack variables and dual variables associated with the inequality constraints, to produce a smaller, approximate linear system. Analytical and numerical results are included that suggest  the distribution of eigenvalues of the new, approximate system matrix is improved, which makes it more amenable to being solved with an iterative linear solver. For this purpose, new preconditioners are also presented  to allow  iterative methods, such as MINRES, to be used. Numerical results indicate that the computational complexity of the proposed method scales well when applied to a finite horizon discrete-time optimal control problem with linear dynamics, quadratic cost, and linear inequality constraints, which arises in  model predictive control applications.
+Keywords
+interior point methods, quadratic programming, ill-conditioning, large-scale problems, inexact methods, iterative methods, predictive control, 90C51, 90C20, 90C06, 15A12, 49M15, 49N05, 

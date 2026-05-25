@@ -1,0 +1,6 @@
+Stress concentration minimization of 2D filets using X-FEM and level set description
+Laurent Van Miegroet;Pierre Duysinx;
+Abstract
+This paper presents and applies a novel shape optimization approach based on the level set description of the geometry and the extended finite element method (X-FEM). The method benefits from the fixed mesh work using X-FEM and from the curves smoothness of the level set description. Design variables are shape parameters of basic geometric features that are described with a level set representation. The number of design variables of this formulation remains small, whereas global (i.e. compliance) and local constraints (i.e. stresses) can be considered. To illustrate the capability of the method to handle stress constraints, numerical applications revisit the minimization of stress concentration in a 2D filet in tension, which has been previously studied in Pedersen (2003). Our results illustrate the great interest of using X-FEM and level set description together. A special attention is also paid to stress computation and accuracy with the X-FEM.
+Keywords
+Shape optimization  Topology optimization  X-FEM  Level set  

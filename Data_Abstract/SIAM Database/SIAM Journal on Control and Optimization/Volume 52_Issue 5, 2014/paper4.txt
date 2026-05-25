@@ -1,0 +1,6 @@
+Achieving Pareto Optimality Through Distributed Learning
+Jason R.  Marden, H. Peyton  Young, and Lucy Y.  Pao;
+Abstract
+We propose a simple payoff-based learning rule that is completely decentralized and that leads to an efficient configuration of actions in any $n$-person finite strategic-form game with generic payoffs.  The algorithm follows the theme of exploration versus exploitation and is hence stochastic in nature.  We prove that if all agents adhere to this algorithm, then the agents will select the action profile that maximizes the sum of the agents' payoffs a high percentage of time. The algorithm requires no communication. Agents respond solely to changes in their own realized payoffs, which are affected by the actions of other agents in the system in ways that they do not necessarily understand.  The method can be applied to the optimization of complex systems with many distributed components, such as the routing of information in networks and the design and control of wind farms. The proof of the proposed learning algorithm relies on the theory of large deviations for perturbed Markov chains.
+Keywords
+game theory, cooperative control, learning in games, 91A10, 91A80, 68W15, 

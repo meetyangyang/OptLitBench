@@ -1,0 +1,6 @@
+Branch-and-Lift Algorithm for Deterministic Global Optimization in Nonlinear Optimal Control
+Boris Houska;Benoît Chachuat;
+Abstract
+This paper presents a branch-and-lift algorithm for solving optimal control problems with smooth nonlinear dynamics and potentially nonconvex objective and constraint functionals to guaranteed global optimality. This algorithm features a direct sequential method and builds upon a generic, spatial branch-and-bound algorithm. A new operation, called lifting, is introduced, which refines the control parameterization via a Gram–Schmidt orthogonalization process, while simultaneously eliminating control subregions that are either infeasible or that provably cannot contain any global optima. Conditions are given under which the image of the control parameterization error in the state space contracts exponentially as the parameterization order is increased, thereby making the lifting operation efficient. A computational technique based on ellipsoidal calculus is also developed that satisfies these conditions. The practical applicability of branch-and-lift is illustrated in a numerical example.
+Keywords
+Optimal control  Deterministic global optimization  Spatial branch-and-bound  

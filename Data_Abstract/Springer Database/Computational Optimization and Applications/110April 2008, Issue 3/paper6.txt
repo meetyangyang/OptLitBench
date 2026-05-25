@@ -1,0 +1,8 @@
+Superlinear convergence of the control reduced interior point method for PDE constrained optimization
+Anton Schiela;Martin Weiser;
+Abstract
+
+A thorough convergence analysis of the Control Reduced Interior Point Method in function space is performed. This recently proposed method is a primal interior point pathfollowing scheme with the special feature that the control variable is eliminated from the optimality system. Apart from global linear convergence we show that this method converges locally superlinearly, if the optimal solution satisfies a certain non-degeneracy condition. In numerical experiments we observe that a prototype implementation of our method behaves as predicted by our theoretical results.
+
+Keywords
+Interior point methods in function space  Optimal control  

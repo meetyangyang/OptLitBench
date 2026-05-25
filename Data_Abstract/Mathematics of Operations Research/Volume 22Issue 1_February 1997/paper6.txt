@@ -1,0 +1,6 @@
+Complexity of the Minimum Base Game on Matroids
+Hiroshi Nagamochi;Dao-Zhi Zeng;Naohiśa Kabutoya;Toshihide Ibaraki;
+Abstract
+This paper studies the complexity of computing solution concepts for a cooperative game, called the minimum base game (MBG) (E, c), where its characteristic function c : 2E ↦ ℜ is defined as c(S) = (the weight w(B) of a minimum weighted base B ⊆ S), for a given matroid M = (E, ℐ) and a weight function w : E ↦ ℜ. The minimum base game contains, as a special case, the minimum spanning tree game (MSTG) in an edge-weighted graph in which players are located on the edges. By interpreting solution concepts of games (such as core, τ-value and Shapley value) in terms of matroid theory, we obtain: The core of MBG is nonempty if and only if the matroid M has no circuit consisting only of edges with negative weights; checking the concavity and subadditivity of an MBG can be done in oracle-polynomial time; the τ-value of an MBG exists if and only if the core is not empty, the τ-value of MSTG can be computed in polynomial time while there is no oracle-polynomial algorithm for a general MBG; computing the Shapley value of an MSTG is #P-complete, and there is no oracle-polynomial algorithm for computing the Shapley-value of an MBG.
+Keywords
+cooperative game matroid graph computational complexity core Shapley value τ-value 

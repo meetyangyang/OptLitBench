@@ -1,0 +1,6 @@
+Large-scale linear programming techniques for the design of protein folding potentials
+Michael Wagner;Jarosław Meller;Ron Elber;
+Abstract
+We present large-scale optimization techniques to model the energy function that underlies the folding process of proteins. Linear Programming is used to identify parameters in the energy function model, the objective being that the model predict the structure of known proteins correctly. Such trained functions can then be used either for ab-initio prediction or for recognition of unknown structures. In order to obtain good energy models we need to be able to solve dense Linear Programming Problems with tens (possibly hundreds) of millions of constraints in a few hundred parameters, which we achieve by tailoring and parallelizing the interior-point code PCx.
+Keywords
+Protein folding  Interior-point algorithm  PCx  Linear programming  Linear feasibility  Parallel processing  

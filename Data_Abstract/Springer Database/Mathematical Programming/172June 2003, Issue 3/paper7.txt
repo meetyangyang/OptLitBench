@@ -1,0 +1,6 @@
+Parallel interior-point solver for structured linear programs
+Jacek Gondzio;Robert Sarkissian;
+Abstract
+ Issues of implementation of an object-oriented library for parallel interior-point methods are addressed. The solver can easily exploit any special structure of the underlying optimization problem. In particular, it allows a nested embedding of structures and by this means very complicated real-life optimization problems can be modelled. The efficiency of the solver is illustrated on several problems arising in the optimization of networks. The sequential implementation outperforms the state-of-the-art commercial optimization software. The parallel implementation achieves speed-ups of about 3.1-3.9 on 4-processors parallel systems and speed-ups of about 10-12 on 16-processors parallel systems.
+Keywords
+Special Structure  Parallel Implementation  Parallel System  Optimization Software  Sequential Implementation  

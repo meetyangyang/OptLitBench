@@ -1,0 +1,6 @@
+A Constrained Least Squares Regularization Method for Nonlinear III-Posed Problems
+Curtis R.  Vogel;
+Abstract
+This paper deals with a method for solving ill-posed, nonlinear Hilbert space operator equations $F(x) = y$. Regularization is obtained by solving a constrained least squares regularization problem \[\min \| {F(x) - y} \|^2 \quad {\text{subject to }}J(x) \leqq \beta ^2 .\]$\beta $ serves as a regularization parameter, and $J(x)$ is a quadratic penalty functional. To robustly and efficiently solve this regularization problem, we apply a trust region method. At each iteration, the quadratic penalty constraint is retained, a Gauss–Newton approximation to the objective functional is taken, and we add a quadratic trust region constraint. The resulting quadratic subproblem is then reformulated as a nonlinear complementarily problem and solved using Newton’s method.This paper applies methods to find approximate solutions to a severely ill-posed nonlinear first kind integral equation arising in geophysics. The method of Generalized Cross Validation (GCV) is used to pick the regularization parameter when random error is present in the discrete data.
+Keywords
+inverse problems, ill-posed problems, regularization, constrained optimization, 45G, 49, 65, 

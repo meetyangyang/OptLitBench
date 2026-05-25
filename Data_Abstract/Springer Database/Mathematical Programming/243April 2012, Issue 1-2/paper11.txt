@@ -1,0 +1,6 @@
+Demand allocation with latency cost functions
+Alessandro Agnetis;Enrico Grande;Andrea Pacifici;
+Abstract
+We address the exact resolution of a Mixed Integer Non Linear Programming model where resources can be activated in order to satisfy a demand (a covering constraint) while minimizing total cost. For each resource, there is a fixed activation cost and a variable cost, expressed by means of latency functions. We prove that this problem is \({\mathcal {N} \mathcal {P}}\)-hard even for linear latency functions. A branch and bound algorithm is devised, having two important features. First, a dual bound (equal to that obtained by continuous relaxation) can be computed very efficiently at each node of the enumeration tree. Second, to break symmetries resulting in improved efficiency, the branching scheme is n-ary (instead of binary). These features lead to a successful comparison against two popular commercial and open-source solvers, CPLEX and Bonmin.
+Keywords
+M.I.N.L.P  Latency functions  Convex functions  Branch and bound  Resource allocation  90C11  90C25  90C27  90C30  90C57  49M37  65K05  65K10  

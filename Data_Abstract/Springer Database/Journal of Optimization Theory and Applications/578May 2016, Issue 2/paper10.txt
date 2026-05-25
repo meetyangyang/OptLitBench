@@ -1,0 +1,6 @@
+Search-Trajectory Optimization: Part II, Algorithms and Computations
+Joseph Foraker;Johannes O. Royset;Isaac Kaminer;
+Abstract
+We implement and solve a search-trajectory optimization problem originally formulated in our companion paper, with multiple searchers looking for multiple targets in continuous time and space. The problem minimizes the probability that all of the searchers fail to detect any of the targets during a planning horizon. We develop an implementable algorithm that converges to stationary points of the original infinite-dimensional problem. Numerical tests illustrate the approach in a naval scenario with up to three searchers protecting a capital ship from ten attackers in go-fast boats.
+Keywords
+Search theory  Continuous time and space search  Consistent approximations  Parameter-distributed optimal control   Force protection  49K15  49M15  49M25  

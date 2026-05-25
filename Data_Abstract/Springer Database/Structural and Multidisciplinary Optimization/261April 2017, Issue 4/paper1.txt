@@ -1,0 +1,6 @@
+Adaptive efficient global optimization of systems with independent components
+Samee Ur Rehman;Matthijs Langelaar;
+Abstract
+We present a novel approach for efficient optimization of systems consisting of expensive to simulate components and relatively inexpensive system-level simulations. We consider the types of problem in which the components of the system problem are independent in the sense that they do not exchange coupling variables, however, design variables can be shared across components. Component metamodels are constructed using Kriging. The metamodels are adaptively sampled based on a system level infill sampling criterion using Efficient Global Optimization. The effectiveness of the technique is demonstrated by applying it on numerical examples and an engineering case study. Results show steady and fast converge to the global deterministic optimum of the problems.
+Keywords
+System optimization  Kriging  Expected improvement  Efficient global optimization  Infill sampling  Gaussian processes  

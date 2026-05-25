@@ -1,0 +1,6 @@
+The Million-Variable “March” for Stochastic Combinatorial Optimization
+Lewis Ntaimo;Suvrajeet Sen;
+Abstract
+Combinatorial optimization problems have applications in a variety of sciences and engineering. In the presence of data uncertainty, these problems lead to stochastic combinatorial optimization problems which result in very large scale combinatorial optimization problems. In this paper, we report on the solution of some of the largest stochastic combinatorial optimization problems consisting of over a million binary variables. While the methodology is quite general, the specific application with which we conduct our experiments arises in stochastic server location problems. The main observation is that stochastic combinatorial optimization problems are comprised of loosely coupled subsystems. By taking advantage of the loosely coupled structure, we show that decomposition-coordination methods provide highly effective algorithms, and surpass the scalability of even the most efficiently implemented backtracking search algorithms.
+Keywords
+Combinatorial optimization  Stochastic mixed integer programming  Stochastic server location  

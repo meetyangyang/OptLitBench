@@ -1,0 +1,6 @@
+Primal–dual exterior point method for convex optimization
+ Roman   A.   Polyak ;
+Abstract
+ We introduce and study the primal–dual exterior point (PDEP) method for convex optimization problems. The PDEP is based on the non-linear rescaling (NR) multipliers method with dynamic scaling parameters update. The NR method at each step alternates finding the unconstrained minimizer of the Lagrangian for the equivalent problem with both Lagrange multipliers and scaling parameters vectors update. The NR step is replaced by solving the primal–dual (PD) system of equations. The application of the Newton method to the PD system leads to the PDEP method. We show that under the standard second-order optimality condition, the PDEP method generates a PD sequence, which globally converges to the PD solution with asymptotic quadratic rate. 
+Keywords
+nonlinear rescaling, duality, interior quadratic prox, primal–dual exterior point method, quadratic convergence rate 

@@ -1,0 +1,6 @@
+A k, k-ε optimality selection based multi objective genetic algorithm with applications to vehicle engineering
+Massimiliano Gobbi;
+Abstract
+In the paper, a multi objective genetic algorithm based on the concept of k-optimality and k-ε-optimality (KEMOGA) is introduced and applied. Pareto optimality alone is not always adequate for selecting a final solution because the Pareto optimal set can be very large. The k-optimality approach and the more general k-ε-optimality method, can be used to rank the Pareto-optimal solutions. The two methods have been included into a genetic algorithm selection procedure. The k-optimality method searches for points which remain Pareto-optimal when all of the subsets of n-k objectives (n is the number of objective functions) are optimised. The k-ε approach considers not only if an objective is worse than the others but also the entity of this variation through the introduction of a vector of indifference thresholds.
+Keywords
+Multi objective  Genetic algorithm  Vehicle design  Suspension tuning  

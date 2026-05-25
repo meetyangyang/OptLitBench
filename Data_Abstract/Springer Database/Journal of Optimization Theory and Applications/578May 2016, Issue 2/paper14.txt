@@ -1,0 +1,6 @@
+Parameter-Free Sampled Fictitious Play for Solving Deterministic Dynamic Programming Problems
+Irina S. Dolinskaya;Marina A. Epelman;Esra Şişikoğlu Sir;Robert L. Smith;
+Abstract
+In this paper, we present a parameter-free variation of the Sampled Fictitious Play algorithm that facilitates fast solution of deterministic dynamic programming problems. Its random tie-breaking procedure imparts a natural randomness to the algorithm which prevents it from “getting stuck” at a local optimal solution and allows the discovery of an optimal path in a finite number of iterations. Furthermore, we illustrate through an application to maritime navigation that, in practice, a parameter-free Sampled Fictitious Play algorithm finds a high-quality solution after only a few iterations, in contrast with traditional methods.
+Keywords
+Sampled fictitious play  Dynamic programming  Maritime navigation  90C39  91A80  68W10  

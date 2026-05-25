@@ -1,0 +1,6 @@
+Adaptive Algorithm for Constrained Least-Squares Problems
+Z.F. Li;M.R. Osborne;T. Prvan;
+Abstract
+This paper is concerned with the implementation and testing of an algorithm for solving constrained least-squares problems. The algorithm is an adaptation to the least-squares case of sequential quadratic programming (SQP) trust-region methods for solving general constrained optimization problems. At each iteration, our local quadratic subproblem includes the use of the Gauss–Newton approximation but also encompasses a structured secant approximation along with tests of when to use this approximation. This method has been tested on a selection of standard problems. The results indicate that, for least-squares problems, the approach taken here is a viable alternative to standard general optimization methods such as the Byrd–Omojokun trust-region method and the Powell damped BFGS line search method.
+Keywords
+constrained optimization  nonlinear least squares  SQP methods  Gauss–Newton approximation  quasi-Newton method  

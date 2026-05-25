@@ -1,0 +1,6 @@
+Linear Time Average Consensus and Distributed Optimization on Fixed Graphs
+Alex  Olshevsky;
+Abstract
+We describe a protocol for the average consensus problem on any fixed undirected graph whose convergence time scales linearly in the total number nodes $n$.  The protocol relies only on nearest-neighbor interactions but requires all the nodes to know the same upper bound $U$ on the total number of nodes which is correct within a constant multiplicative factor. As an application, we develop a distributed protocol for minimizing an average of (possibly nondifferentiable) convex functions $(1/n) \sum_{i=1}^n f_i(\theta)$ in the setting where only node $i$ in an undirected, connected graph knows the function $f_i(\theta)$. Under the same assumption about all nodes knowing $U$, and additionally assuming that the subgradients of each $f_i(\theta)$ have absolute  values bounded by some constant $L$ known to the nodes, we show that after $T$ iterations our protocol has error which is $O(L \sqrt{n/T})$. As a consequence, the time to solve this distributed optimization problem to any fixed accuracy is also linear in the number of nodes $n$.
+Keywords
+consensus, distributed optimization, distributed algorithms, 93A14, 68W15, 90C25, 

@@ -1,0 +1,8 @@
+Solving the Cahn-Hilliard variational inequality with a semi-smooth Newton method
+Luise Blank, Martin Butz and Harald Garcke;
+Abstract
+The Cahn-Hilliard variational inequality is a non-standard parabolic variational inequality of fourth order for which straightforward numerical approaches cannot be applied. We propose a primal-dual active set method which can be interpreted as a semi-smooth Newton method as solution technique for the discretized Cahn-Hilliard variational inequality. A (semi-)implicit Euler discretization is used in time and a piecewise linear finite element discretization of splitting type is used in space leading to a discrete variational inequality of saddle point type in each time step. In each iteration of the primal-dual active set method a linearized system resulting from the discretization of two coupled elliptic equations which are defined on different sets has to be solved. We show local convergence of the primal-dual active set method and demonstrate its efficiency with several numerical simulations.
+Keywords
+Cahn-Hilliard equation, active-set methods, 
+semi-smooth Newton methods, gradient flows, PDE-constraint
+optimization, saddle point structur

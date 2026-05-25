@@ -1,0 +1,6 @@
+Nonpositive Curvature and Pareto Optimal Coordination of Robots
+Robert   Ghrist and Steven M.   Lavalle;
+Abstract
+Given a collection of robots sharing a common environment, assume that each possesses a graph (a one‐dimensional complex also known as a roadmap) approximating its configuration space and, furthermore, that each robot wishes to travel to a goal while optimizing elapsed time. We consider vector‐valued (or Pareto) optima for collision‐free coordination on the product of these roadmaps with collision‐type obstacles. Such optima are by no means unique: in fact, continua of Pareto optimal coordinations are possible. We prove a finite bound on the number of optimal coordinations in the physically relevant case where all obstacles are cylindrical (i.e., defined by pairwise collisions). The proofs rely crucially on perspectives from geometric group theory and CAT(0) geometry. In particular, the finiteness bound depends on the fact that the associated coordination space is devoid of positive curvature. We also demonstrate that the finiteness bound holds for systems with moving obstacles following known trajectories.
+Keywords
+CAT(0) geometry, Pareto optimality, configuration space, nonpositive curvature, 58E17, 49J27, 49K27, 

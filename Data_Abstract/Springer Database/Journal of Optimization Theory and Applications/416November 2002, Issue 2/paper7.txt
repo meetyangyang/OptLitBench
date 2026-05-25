@@ -1,0 +1,6 @@
+Online IPA Gradient Estimators in Stochastic Continuous Fluid Models
+Y. Wardi;B. Melamed;C.G. Cassandras;C.G. Panayiòtou;
+Abstract
+This paper applies infinitesimal perturbation analysis (IPA) to loss-related and workload-related metrics in a class of stochastic flow models (SFM). It derives closed-form formulas for the gradient estimators of these metrics with respect to various parameters of interest, such as buffer size, service rate, and inflow rate. The IPA estimators derived are simple and fast to compute, and are further shown to be unbiased and nonparametric, in the sense that they can be computed directly from the observed data without any knowledge of the underlying probability law. These properties hold out the promise of utilizing IPA gradient estimates as ingredients of online management and control of telecommunications networks. While this paper considers single-node SFMs, the analysis method developed is amenable to extensions to networks of SFM nodes with more general topologies.
+Keywords
+Stochastic fluid models  infinitesimal perturbation analysis  network management and control  

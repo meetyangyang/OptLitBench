@@ -1,0 +1,6 @@
+A Truncated Newton Algorithm for Large Scale Box Constrained Optimization
+Francisco  Facchinei, Stefano  Lucidi, and Laura  Palagi;
+Abstract
+A method for the solution of minimization problems with simple bounds is presented. Global convergence of a general scheme requiring the approximate solution of a single linear system at each iteration is proved and a superlinear convergence rate is established without requiring the strict complementarity assumption. The algorithm proposed is based on a simple, smooth unconstrained reformulation of the bound constrained problem and may produce a sequence of points that are not feasible. Numerical results and comparison with existing codes are reported.
+Keywords
+bound constrained problem, penalty function, Newton method, conjugate gradient, nonmonotone line search, 90C30, 90C06, 65K05, 65F10, 

@@ -1,0 +1,6 @@
+Random tunneling by means of acceptance-rejection sampling for global optimization
+S. Lucidl;M. Piccioni;
+Abstract
+Any global minimization algorithm is made by several local searches performed sequentially. In the classical multistart algorithm, the starting point for each new local search is selected at random uniformly in the region of interest. In the tunneling algorithm, such a starting point is required to have the same function value obtained by the last local minimization. We introduce the class of acceptance-rejection based algorithms in order to investigate intermediate procedures. A particular instance is to choose at random the new point approximately according to a Boltzmann distribution, whose temperatureT is updated during the algorithm. AsT → 0, such distribution peaks around the global minima of the cost function, producing a kind of random tunneling effect. The motivation for such an approach comes from recent works on the simulated annealing approach in global optimization. The resulting algorithm has been tested on several examples proposed in the literature.
+Keywords
+Global optimization  acceptance-rejection sampling  Boltzmann distribution  random tunneling  

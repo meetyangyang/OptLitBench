@@ -1,0 +1,6 @@
+Iterative regularization algorithms for constrained image deblurring on graphics processors
+Valeria Ruggiero;Thomas Serafini;Riccardo Zanella;Luca Zanni;
+Abstract
+The ability of the modern graphics processors to operate on large matrices in parallel can be exploited for solving constrained image deblurring problems in a short time. In particular, in this paper we propose the parallel implementation of two iterative regularization methods: the well known expectation maximization algorithm and a recent scaled gradient projection method. The main differences between the considered approaches and their impact on the parallel implementations are discussed. The effectiveness of the parallel schemes and the speedups over standard CPU implementations are evaluated on test problems arising from astronomical images.
+Keywords
+Image deblurring  Scaled gradient projection method  Graphics processing units  

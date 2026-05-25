@@ -1,0 +1,6 @@
+A Unifying Polyhedral Approximation Framework for Convex Optimization
+Dimitri P.  Bertsekas and Huizhen  Yu;
+Abstract
+We propose a unifying framework for polyhedral approximation in convex optimization. It subsumes classical methods, such as cutting plane and simplicial decomposition, but also includes new methods and new versions/extensions of old methods, such as a simplicial decomposition method for nondifferentiable optimization and a new piecewise linear approximation method for convex single commodity network flow problems. Our framework is based on an extended form of monotropic programming, a broadly applicable model, which includes as special cases Fenchel duality and Rockafellar's monotropic programming, and is characterized by an elegant and symmetric duality theory. Our algorithm combines flexibly outer and inner linearization of the cost function. The linearization is progressively refined by using primal and dual differentiation, and the roles of outer and inner linearization are reversed in a mathematically equivalent dual algorithm. We provide convergence results for the general case where outer and inner linearization are combined in the same algorithm.
+Keywords
+cutting plane, simplicial decomposition, polyhedral approximation, convex optimization, monotropic programming, 90C25, 90C59, 65K05, 

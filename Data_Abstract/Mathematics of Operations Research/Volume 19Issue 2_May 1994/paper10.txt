@@ -1,0 +1,6 @@
+Monotone Optimal Control of Permutable GSMPs
+Paul Glasserman;David D. Yao;
+Abstract
+We consider Markovian GSMPs (generalized semi-Markov processes) in which the rates of events are subject to control. A control is monotone if the rate of one event is increasing or decreasing in the number of occurrences of other events. We give general conditions for the existence of monotone optimal controls. The conditions are functional properties for the one-step cost functions and, more importantly, structural properties for the GSMP. The main conditions on costs are submodularity or supermodularity with respect to pairs of events. The key structural condition is strong permutability, requiring that the state at any time be determined by the number of events of each type that have occurred, regardless of their order. This permits a reformulation of the original control problem into one based only on event counting processes. This reformulation leads to a unified treatment of a broad class of models and to meaningful generality beyond existing results.
+Keywords
+dynamic programming Markov decision processes generalized semi-Markov processes submodularity antimatroids monotone controls switching-curve policies 

@@ -1,0 +1,6 @@
+Active Set Identification in Nonlinear Programming
+Christina   Oberlin and Stephen J.   Wright;
+Abstract
+Techniques that identify the active constraints at a solution of a nonlinear programming problem from a point near the solution can be a useful adjunct to nonlinear programming algorithms. They have the potential to improve the local convergence behavior of these algorithms and in the best case can reduce an inequality constrained problem to an equality constrained problem with the same solution. This paper describes several techniques that do not require good Lagrange multiplier estimates for the constraints to be available a priori, but depend only on function and first derivative information. Computational tests comparing the effectiveness of these techniques on a variety of test problems are described. Many tests involve degenerate cases, in which the constraint gradients are not linearly independent and/or strict complementarity does not hold.
+Keywords
+nonlinear programming, active constraint identification, degeneracy, 90C30, 90C46, 

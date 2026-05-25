@@ -1,0 +1,6 @@
+An Algorithm for the Inequality-Constrained Discrete Min--Max Problem
+Berc  Rustem and Quoc  Nguyen;
+Abstract
+In this paper we discuss an approach using an augmented Lagrangian formulation to directly solve the inequality constrained min--max problem. The algorithm involves a sequential quadratic programming subproblem, an adaptive penalty parameter selection rule, and a stepsize strategy, convergent to unit steps, that ensures progress toward optimality and feasibility of the inequality constraints. It is shown that the penalty parameter does not grow indefinitely. The convergence of the algorithm is established, and its numerical effectiveness is demonstrated with test examples.
+Keywords
+rival scenarios, min--max, quasi-Newton algorithm, augmented Lagrangian, adaptive penalty, convergent stepsizes, 90C30, 62C20, 90B50, 65K05, 

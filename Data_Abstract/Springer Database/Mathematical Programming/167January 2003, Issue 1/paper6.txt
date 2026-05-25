@@ -1,0 +1,6 @@
+Non-monotone trust region methods for nonlinear equality constrained optimization without a penalty function
+M. Ulbrich;S. Ulbrich;
+Abstract
+ We propose and analyze a class of penalty-function-free nonmonotone trust-region methods for nonlinear equality constrained optimization problems. The algorithmic framework yields global convergence without using a merit function and allows nonmonotonicity independently for both, the constraint violation and the value of the Lagrangian function. Similar to the Byrd–Omojokun class of algorithms, each step is composed of a quasi-normal and a tangential step. Both steps are required to satisfy a decrease condition for their respective trust-region subproblems. The proposed mechanism for accepting steps combines nonmonotone decrease conditions on the constraint violation and/or the Lagrangian function, which leads to a flexibility and acceptance behavior comparable to filter-based methods. We establish the global convergence of the method. Furthermore, transition to quadratic local convergence is proved. Numerical tests are presented that confirm the robustness and efficiency of the approach.
+Keywords
+Penalty Function  Global Convergence  Trust Region  Lagrangian Function  Constrain Optimization Problem  

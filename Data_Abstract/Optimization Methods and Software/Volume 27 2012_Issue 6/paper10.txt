@@ -1,0 +1,6 @@
+Branch and bound solution of the multidimensional assignment problem formulation of data association
+ Morten   Larsen ;
+Abstract
+ The well-known index-based tree branch and bound algorithm for solution of the multidimensional assignment problem (MAP) is extended to handle multiple assignable 0-value indices, such as found in MAPs arising from the data association problem. Three different lower bounds for partial solutions are proposed and their effectiveness examined. Computational experiments are performed on instances of different size, different feasibility structure and sparseness, and different cost structure. It is shown how the use of a small range of integer weights commonly used in computational experiments on the solution of the MAP gives misleading results. The effects of different improvements of the basic algorithm are examined, including caching of feasibility tests, sorting of branches on each level of the tree, pruning of high cost branches, promotion of branches in the best known solution, and local search. Conclusions are that all of the proposed improvements reduce running times, especially sorting and pruning. 
+Keywords
+multidimensional assignment problem, data association problem, branch and bound AMS Subject Classification: : 65K05, 90C08, 90C57, 90C90 

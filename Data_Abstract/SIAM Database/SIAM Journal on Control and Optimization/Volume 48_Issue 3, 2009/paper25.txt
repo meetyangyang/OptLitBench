@@ -1,0 +1,6 @@
+$L^\infty$-Error Estimates on Graded Meshes with Application to Optimal Control
+Thomas  Apel, Arnd  Rösch, and Dieter  Sirch;
+Abstract
+An $L^\infty$-error estimate of the finite element approximation of an elliptic boundary value problem with Dirichlet boundary conditions in domains with corners is given. To achieve an approximation rate of $h^2|\ln h|$ the mesh has to be appropriately graded near corners with an interior angle larger than $\omega_0$, with $\omega_0=\frac{\pi}{2}$ for the Poisson problem. In contrast to previous publications, the norm of the function that has to be approximated is separated from the constants in this estimate. This result is applied to a linear-quadratic optimal control problem with constraints on the control. Two approaches are considered, one where the control is approximated by piecewise constant functions and improved by a postprocessing step, and the other where the control is not discretized. For both approaches a convergence rate of $h^2|\ln h|$ in the maximum norm is shown.
+Keywords
+linear-quadratic optimal control problems, control constraints, corner singularities, finite element method, error estimates, superconvergence, 49M25, 65N30, 

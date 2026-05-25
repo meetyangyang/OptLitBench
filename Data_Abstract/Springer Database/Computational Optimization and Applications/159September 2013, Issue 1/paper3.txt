@@ -1,0 +1,6 @@
+A Shamanskii-like Levenberg-Marquardt method for nonlinear equations
+Jinyan Fan;
+Abstract
+In this paper, we propose a Shamanskii-like Levenberg-Marquardt method for nonlinear equations. At every iteration, not only a LM step but also m−1 approximate LM steps are computed, where m is a positive integer. Under the local error bound condition which is weaker than nonsingularity, we show the Shamanskii-like LM method converges with Q-order m+1. The trust region technique is also introduced to guarantee the global convergence of the method. Since the Jacobian evaluation and matrix factorization are done after every m computations of the step, the overall cost of the Shamanskii-like LM method is usually much less than that of the general LM method (the m=1 case).
+Keywords
+Nonlinear equations  Levenberg-Marquardt method  Local error bound condition  

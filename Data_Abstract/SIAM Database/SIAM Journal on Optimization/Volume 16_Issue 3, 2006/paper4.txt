@@ -1,0 +1,6 @@
+Interior Gradient and Proximal Methods for Convex and Conic Optimization
+Alfred  Auslender and Marc  Teboulle;
+Abstract
+Interior gradient (subgradient) and proximal methods for convex constrained minimization have been much studied, in particular for optimization problems over the nonnegative octant. These methods are using non-Euclidean projections and proximal distance functions to exploit the geometry of the constraints. In this paper, we identify a simple mechanism that allows us to derive global convergence results of the produced iterates as well as improved global rates of convergence estimates for a wide class of such methods, and with more general convex constraints. Our results are illustrated with many applications and examples, including some new explicit and simple algorithms for conic optimization problems. In particular, we derive a class of interior gradient algorithms which exhibits an $O(k^{-2})$ global convergence rate estimate.
+Keywords
+convex optimization, interior gradient/subgradient algorithms, proximal distances, conic optimization, convergence and efficiency, 90C25, 90C30, 90C22, 

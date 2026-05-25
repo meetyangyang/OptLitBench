@@ -1,0 +1,6 @@
+Globally convergent Jacobian-free nonlinear equation solvers based on non-monotone norm descent conditions and a modified line search technique
+ Shigeru   Hanba ;
+Abstract
+ A Jacobian-free nonlinear equation solver based on a search technique called a ‘spiral search’, which is a modification of the line search, is proposed in this paper. Under mild conditions, the solver is proved to be globally convergent. The method is then extended to an overdetermined system of nonlinear equations. Numerical results show that for some problems, the solver outperforms existing solvers based on the line search or the trust-region method. 
+Keywords
+derivative-free methods, modified line search, methods of quasi-Newton type, global convergence, nonlinear equations AMS Subject Classification : 90C30, 90C53, 90C56 

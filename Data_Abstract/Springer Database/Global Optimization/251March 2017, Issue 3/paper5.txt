@@ -1,0 +1,6 @@
+Branch and bound algorithm with applications to robust stability
+Laleh Ravanbod;Dominikus Noll;Pierre Apkarian;
+Abstract
+We discuss a branch and bound algorithm for global optimization of NP-hard problems related to robust stability. This includes computing the distance to instability of a system with uncertain parameters, computing the minimum stability degree of a system over a given set of uncertain parameters, and computing the worst case \(H_\infty \) norm over a given parameter range. The success of our method hinges (1) on the use of an efficient local optimization technique to compute lower bounds fast and reliably, (2) a method with reduced conservatism to compute upper bounds, and (3) the way these elements are favorably combined in the algorithm.
+Keywords
+Branch and bound  Dynamical system  Parametric robustness  Stability margin  Minimum stability degree  Nonsmooth optimization  Frequency decomposition  

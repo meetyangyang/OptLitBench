@@ -1,0 +1,6 @@
+A First-Order Convergence Analysis of Trust-Region Methods with Inexact Jacobians
+Andrea  Walther;
+Abstract
+A class of trust-region sequential quadratic programming algorithms for the solution of minimization problems with nonlinear equality constraints is analyzed. The considered class of optimization methods does not require the exact evaluation of the constraint Jacobian in each optimization step but uses only an approximation of this first-order derivative information. Hence, the presented approach is especially well suited for equality constrained optimization problems where the Jacobian of the constraints is dense. The accuracy requirements for the presented first-order global convergence result are based on the feasibility and the optimality of the iterates. The corresponding criteria can be verified easily during the optimization process to adjust the approximation quality of the constraint Jacobian.
+Keywords
+trust-region algorithms, inexact Jacobians, global convergence, 90C30, 90C55, 49M05, 49M37, 

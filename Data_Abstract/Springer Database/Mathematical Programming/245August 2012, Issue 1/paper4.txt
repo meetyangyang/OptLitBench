@@ -1,0 +1,6 @@
+Smoothing methods for nonsmooth, nonconvex minimization
+Xiaojun Chen;
+Abstract
+We consider a class of smoothing methods for minimization problems where the feasible set is convex but the objective function is not convex, not differentiable and perhaps not even locally Lipschitz at the solutions. Such optimization problems arise from wide applications including image restoration, signal reconstruction, variable selection, optimal control, stochastic equilibrium and spherical approximations. In this paper, we focus on smoothing methods for solving such optimization problems, which use the structure of the minimization problems and composition of smoothing functions for the plus function (x)+. Many existing optimization algorithms and codes can be used in the inner iteration of the smoothing methods. We present properties of the smoothing functions and the gradient consistency of subdifferential associated with a smoothing function. Moreover, we describe how to update the smoothing parameter in the outer iteration of the smoothing methods to guarantee convergence of the smoothing methods to a stationary point of the original minimization problem.
+Keywords
+Nonsmooth  Nonconvex minimization  Smoothing methods  Regularized minimization problems  Eigenvalue optimization  Stochastic variational inequality problems  90C30  49M37  65K10  90C26  

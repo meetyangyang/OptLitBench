@@ -1,0 +1,6 @@
+Multiperiod Portfolio Optimization with Terminal Liability: Bounds for the Convex Case
+N. C. P. Edirisinghe;
+Abstract
+This paper is concerned with an investor trading in multiple securities over many time periods in order to meet an outstanding liability at some future date. The investor is concerned with maximizing the expected profits from portfolio rebalancing under an initial wealth restriction to meet the future liabilities. We formulate the problem as a discrete-time stochastic optimization model and allow asset prices to have continuous probability distributions on compact domains. For the case of Markovian price uncertainty and convex terminal liability, we develop a simplicial approximation, under which bounds on the problem can be computed efficiently. Computations only require evaluating a dynamic programming recursion, which thus, allows its application to problems with a large number of trading periods. The bounds are tight in that they are exact in certain cases. Numerical results are given to demonstrate the computational efficiency of the procedure.
+Keywords
+portfolio optimization  stochastic multi-stage programming  generalized moment problems  stochastic dynamic programming  option pricing  

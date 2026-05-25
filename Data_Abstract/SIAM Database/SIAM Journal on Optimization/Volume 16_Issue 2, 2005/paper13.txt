@@ -1,0 +1,6 @@
+Convergence of the Iterates of Descent Methods for Analytic Cost Functions
+P. A.  Absil, R.  Mahony, and B.  Andrews;
+Abstract
+In the early eighties Lojasiewicz [in Seminari di Geometria 1982-1983, Università di Bologna, Istituto di Geometria, Dipartimento di Matematica, 1984, pp. 115--117] proved that a bounded solution of a gradient flow for an analytic cost function converges to a well-defined limit point. In this paper, we show that the iterates of numerical descent algorithms, for an analytic cost function, share this convergence property if they satisfy certain natural descent conditions. The results obtained are applicable to a broad class of optimization schemes and strengthen classical "weak convergence" results for descent methods to "strong limit-point convergence" for a large class of cost functions of practical interest. The result does not require that the cost has isolated critical points and requires no assumptions on the convexity of the cost nor any nondegeneracy conditions on the Hessian of the cost at critical points.
+Keywords
+gradient flows, descent methods, real analytic functions, Lojasiewicz gradient inequality, single limit-point convergence, line search, trust region, Mexican hat, 65K05, 90C26, 37N40, 26E05, 40A05, 

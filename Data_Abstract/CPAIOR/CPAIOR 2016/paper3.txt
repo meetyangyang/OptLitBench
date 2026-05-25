@@ -1,0 +1,4 @@
+Finding a Collection of MUSes Incrementally
+Fahiem Bacchus;George Katsirelos;
+Abstract
+Minimal Unsatisfiable Sets (MUSes) are useful in a number of applications. However, in general there are many different MUSes, and each application might have different preferences over these MUSes. Typical Muser systems produce a single MUS without much control over which MUS is generated. In this paper we describe an algorithm that can efficiently compute a collection of MUSes, thus presenting an application with a range of choices. Our algorithm improves over previous methods for finding multiple MUSes by computing its MUSes incrementally. This allows it to generate multiple MUSes more efficiently; making it more feasible to supply applications with a collection of MUSes rather than just one.

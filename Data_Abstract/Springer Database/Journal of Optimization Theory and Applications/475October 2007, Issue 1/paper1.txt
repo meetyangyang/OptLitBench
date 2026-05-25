@@ -1,0 +1,8 @@
+Solving Sum of Ratios Fractional Programs via Concave Minimization
+H. P. Benson;
+Abstract
+
+This article presents an algorithm for globally solving a sum of ratios fractional programming problem. To solve this problem, the algorithm globally solves an equivalent concave minimization problem via a branch-and-bound search. The main work of the algorithm involves solving a sequence of convex programming problems that differ only in their objective function coefficients. Therefore, to solve efficiently these convex programming problems, an optimal solution to one problem can potentially be used to good advantage as a starting solution to the next problem.
+
+Keywords
+Global optimization  Sum of ratios  Fractional programming  Concave minimization  Branch-and-bound algorithms  

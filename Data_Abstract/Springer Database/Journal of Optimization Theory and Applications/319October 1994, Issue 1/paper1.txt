@@ -1,0 +1,6 @@
+Primal-dual algorithms for linear programming based on the logarithmic barrier method
+B. Jansen;C. Roos;T. Terlaky;J. P. Vial;
+Abstract
+In this paper, we deal with primal-dual interior point methods for solving the linear programming problem. We present a short-step and a long-step path-following primal-dual method and derive polynomial-time bounds for both methods. The iteration bounds are as usual in the existing literature, namely\(O(\sqrt n L)\) iterations for the short-step variant andO(nL) for the long-step variant. In the analysis of both variants, we use a new proximity measure, which is closely related to the Euclidean norm of the scaled search direction vectors. The analysis of the long-step method depends strongly on the fact that the usual search directions form a descent direction for the so-called primal-dual logarithmic barrier function.
+Keywords
+Linear programming  primal-dual interior point methods  logarithmic barrier function  polynomial algorithms  

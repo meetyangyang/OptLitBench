@@ -1,0 +1,6 @@
+The pivot and probe algorithm for solving a linear program
+Awanti P. Sethi;Gerald L. Thompson;
+Abstract
+In [7] we defined acandidate constraint as one which, for at least one pivot step, contains a potential pivot, discovered that most constraints are never candidate, and devised a modification of the simplex method in which only constraints which are currently candidates are updated. In this paper we present another way to take advantage of this fact. We begin by solving a relaxed linear program consisting of the constraints of the original problem which are initially candidates. Its solution gives an upper bound to the value of the original problem. We also introduce the idea of a probe, that is, a line segment joining two vectors for the primal problem, one of which is primal feasible, and use it to identify a most violated constraint; at the same time this gives a lower bound to the objective value of the original problem. This violated constraint is added to the relaxed problem which is solved again, which gives a new upper bound etc. We present computational experience indicating that time savings of 50–80% over the simplex method can be obtained by this method, which we call PAPA, the Pivot and Probe Algorithm.
+Keywords
+Linear Programming  Probe  Candidate Constraint  Pivot and Probe Algorithm  

@@ -1,0 +1,6 @@
+A New Approach to Control Design for Constraint-following for Fuzzy Mechanical Systems
+Jinquan Xu;Ye-Hwa Chen;Hong Guo;
+Abstract
+A new approach to the control design for the constraint-following of fuzzy mechanical system is proposed in this paper. We consider the mechanical system containing uncertainty, which may be nonlinear and fast time varying. The uncertainty is assumed to be bounded, and the bound of the uncertainty lies within a prescribed fuzzy set. A class of robust controls is proposed, and the corresponding adaptive law is constructed to emulate a constant parameter related to the bound of the uncertainty. The control scheme is deterministic and is not if-then rule based. Furthermore, we formulate the gain design of the adaptive law as a constrained optimization problem, which minimizes both the average fuzzy performance and the control effort. It is proved that the global solution to this optimization problem exists and is unique. The closed-form solution and the closed-form minimum cost are presented. The resulting adaptive robust control is able to guarantee the uniform boundedness and uniform ultimate boundedness of the uncertain system regardless of the uncertainty, while minimizing the average fuzzy performance and control effort.
+Keywords
+Mechanical system  Constraint  Fuzzy  Adaptive robust control  Optimization  93C40  93C42  49J20  

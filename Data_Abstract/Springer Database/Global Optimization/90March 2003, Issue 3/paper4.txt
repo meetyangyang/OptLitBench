@@ -1,0 +1,6 @@
+An Adaptive Algorithm for Vector Partitioning
+Komei Fukuda;Shmuel Onn;Vera Rosta;
+Abstract
+The vector partition problem concerns the partitioning of a set A of n vectors in d-space into p parts so as to maximize an objective function c which is convex on the sum of vectors in each part. Here all parameters d, p, n are considered variables. In this paper, we study the adjacency of vertices in the associated partition polytopes. Using our adjacency characterization for these polytopes, we are able to develop an adaptive algorithm for the vector partition problem that runs in time O(q(L)ċv) and in space O(L), where q is a polynomial function, L is the input size and v is the number of vertices of the associated partition polytope. It is based on an output-sensitive algorithm for enumerating all vertices of the partition polytope. Our adjacency characterization also implies a polynomial upper bound on the combinatorial diameter of partition polytopes. We also establish a partition polytope analogue of the lower bound theorem, indicating that the output-sensitive enumeration algorithm can be far superior to previously known algorithms that run in time polynomial in the size of the worst-case output.
+Keywords
+partition polytope  vertex enumeration  output-sensitive  polytope diameter  combinatorial optimization  

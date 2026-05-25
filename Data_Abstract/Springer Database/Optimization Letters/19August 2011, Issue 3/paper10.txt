@@ -1,0 +1,6 @@
+Identifying algorithmic vulnerabilities through simulated annealing
+S. Andrew Johnson;Dinesh P. Mehta;Ramakrishna Thurimella;
+Abstract
+Real-time software systems with tight performance requirements are abundant. These systems frequently use many different algorithms and if any one of these algorithms was to experience behavior that is atypical because of the input, the entire system may not be able to meet its performance requirements. Unfortunately, it is algorithmically intractable, if not unsolvable, to find the inputs which would cause worst-case behavior. If inputs can be identified that make the system take, say, ten times longer compared to the time it usually takes, that information is valuable for some systems. In this paper, we present a method for finding inputs that perform much worse than the average input to different algorithms. We use the simulated annealing heuristic search method and show that this method is successful in finding worst-case inputs to several sorting algorithms, using several measures of an algorithm’s runtime.
+Keywords
+Simulated annealing  Worst-case execution time  Algorithm  Sorting  

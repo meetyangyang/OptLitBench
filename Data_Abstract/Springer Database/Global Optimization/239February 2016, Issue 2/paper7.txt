@@ -1,0 +1,6 @@
+Node selection strategies in interval Branch and Bound algorithms
+Bertrand Neveu;Gilles Trombettoni;Ignacio Araya;
+Abstract
+We present in this article new strategies for selecting nodes in interval Branch and Bound algorithms for constrained global optimization. For a minimization problem the standard best-first strategy selects a node with the smallest lower bound of the objective function estimate. We first propose new node selection policies where an upper bound of each node/box is also taken into account. The good accuracy of this upper bound achieved by several contracting operators leads to a good performance of the node selection rule based on this criterion. We propose another strategy that also makes a tradeoff between diversification and intensification by greedily diving into potential feasible regions at each node of the best-first search. These new strategies obtain better experimental results than classical best-first search on difficult constrained global optimization instances.
+Keywords
+Intervals  Global optimization  Node selection   Branch and Bound  

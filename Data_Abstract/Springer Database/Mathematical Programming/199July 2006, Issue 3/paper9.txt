@@ -1,0 +1,6 @@
+On the gap between the quadratic integer programming problem and its semidefinite relaxation
+U. Malik;I.M. Jaimoukha;G.D. Halikias;S.K. Gungah;
+Abstract
+Consider the semidefinite relaxation (SDR) of the quadratic integer program (QIP):  Open image in new window  where Q is a given symmetric matrix and D is diagonal. We consider the SDR gap  Open image in new window  We establish the uniqueness of the SDR solution and prove that  Open image in new window  if and only if γ  r :=n −1max{x  T  VV  T  x:x ∈ {-1, 1} n }=1 where V is an orthogonal matrix whose columns span the (r–dimensional) null space of D−Q and where D is the unique SDR solution. We also give a test for establishing whether  Open image in new window  that involves 2 r  −1 function evaluations. In the case that γ  r <1 we derive an upper bound on γ which is tighter than  Open image in new window  Thus we show that `breaching' the SDR gap for the QIP problem is as difficult as the solution of a QIP with the rank of the cost function matrix equal to the dimension of the null space of D−Q. This reduced rank QIP problem has been recently shown to be solvable in polynomial time for fixed r.
+Keywords
+Quadratic integer programming  Semidefinite relaxation  Linear matrix inequalities  Zonotopes  Hyperplane arrangements  

@@ -1,0 +1,6 @@
+Revisiting approximate reanalysis in topology optimization: on the advantages of recycled preconditioning in a minimum weight procedure
+Oded Amir;
+Abstract
+An efficient procedure for three-dimensional continuum structural topology optimization is proposed. The approach is based on recycled preconditioning, where multigrid preconditioners are generated only at selected design cycles and re-used in subsequent cycles. Building upon knowledge regarding approximate reanalysis, it is shown that integrating recycled preconditioning into a minimum weight problem formulation can lead to a more efficient procedure than the common minimum compliance approach. Implemented in MATLAB, the run time is roughly twice faster than that of standard minimum compliance procedures. Computational savings are achieved without any compromise on the quality of the results in terms of the compliance-to-weight trade-off achieved. This provides a step towards integrating interactive 3-D topology optimization procedures into CAD software and mobile applications. MATLAB codes complementing the article can be downloaded from the author’s personal webpage.
+Keywords
+Topology optimization  Recycled preconditioning  Reanalysis of structures  Combined approximations  

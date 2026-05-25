@@ -1,0 +1,6 @@
+A Direct Search Algorithm for Optimization with Noisy Function Evaluations
+Edward J.  Anderson and Michael C.  Ferris;
+Abstract
+We consider the unconstrained optimization of a function when each function evaluation is subject to a random noise. We assume that there is some control over the variance of the noise term, in the sense that additional computational effort will reduce the amount of noise. This situation may occur when function evaluations involve simulation or the approximate solution of a numerical problem. It also occurs in an experimental setting when averaging repeated observations at the same point can lead to a better estimate of the underlying function value. We describe a new direct search algorithm for this type of problem. We prove convergence of the new algorithm when the noise is controlled so that the standard deviation of the noise approaches zero faster than the step size. We also report some numerical results on the performance of the new algorithm.
+Keywords
+optimization, direct search, noisy functions, 49M30, 90C56, 

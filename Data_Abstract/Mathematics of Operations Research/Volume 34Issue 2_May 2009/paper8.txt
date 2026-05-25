@@ -1,0 +1,6 @@
+A Weighted kt, t-Free t-Factor Algorithm for Bipartite Graphs
+Kenjiro Takazawa;
+Abstract
+For a simple bipartite graph and an integer t ≥ 2, we consider the problem of finding a minimum-weight kt, t-free t-factor, which is a t-factor containing no complete bipartite graph kt, t as a subgraph. When t = 2, this problem amounts to the square-free 2-factor problem in a bipartite graph. For the unweighted square-free 2-factor problem, a combinatorial algorithm is given by Hartvigsen, and the weighted version of the problem is NP-hard. For general t, Pap designed a combinatorial algorithm for the unweighted version, and Makai gave a dual integral description of kt, t-free t-matchings for a certain case where the weight vector is vertex-induced on any subgraph isomorphic to kt, t. For this class of weight vectors, we propose a strongly polynomial algorithm to find a minimum-weight kt, t-free t-factor. The algorithm adapts the unweighted algorithms of Hartvigsen and Pap and a primal-dual approach to the minimum-cost flow problem. The algorithm is fully combinatorial and thus provides a dual integrality theorem, which is tantamount to Makai's one.
+Keywords
+square-free 2-factor kt, t-free t-factor combinatorial primal-dual algorithm dual integrality 

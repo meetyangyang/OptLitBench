@@ -1,0 +1,4 @@
+Niche Distributions on the Pareto Optimal Front
+Jeffrey Horn;
+Abstract
+This paper examines the use of fitness sharing in evolutionary multiobjective optimization (EMO) algorithms to form a uniform distribution of niches along the non-dominated frontier. A long-standing, implicit assumption is that fitness sharing within an equivalence class, such as the Pareto optimal set, can form dynamically stable (under selection) subpopulations evenly spaced along the front. We show that this behavior can occur, but that it is highly unlikely. Rather, it is much more likely that a steady-state will be reached in which stable niches are maintained, but at inter-niche distances much less than the specified niche radius, with several times more niches than previously predicted, and with non-uniform sub-population sizes. These results might have implications for EMO population sizing, and perhaps even for EMO algorithm design itself.

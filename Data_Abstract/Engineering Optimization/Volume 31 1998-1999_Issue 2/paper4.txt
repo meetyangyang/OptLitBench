@@ -1,0 +1,6 @@
+CLUSTER ANALYSIS AFTER A PARTIAL GENETIC ALGORITHM SEARCH
+ NICK A.   THORP ; BION L.   PIERSON ;
+Abstract
+ After a few generations of a genetic algorithm minimization, the resulting population of design vectors will typically cluster around a small number of prospective global or relative minima. If these clusters can be identified, sequential search methods can often be used to more efficiently locate the isolated minima as part of a broad-based design process. Two such “cluster analysis” algorithms are proposed here: a frequency distribution technique and a community technique. The first sorts the genetic algorithm population into intervals for each design variable, while the second identifies those individuals with many close neigbors which are also distant from other such population centers. Numerical results from two small test problems are presented to demonstrate the use of these techniques. 
+Keywords
+Genetic algorithms, multiple relative minima, design optimization, cluster analysis 

@@ -1,0 +1,6 @@
+An Algorithm Based on Active Sets and Smoothing for Discretized Semi-Infinite Minimax Problems
+E. Polak;R. S. Womersley;H. X. Yin;
+Abstract
+We present a new active-set strategy which can be used in conjunction with exponential (entropic) smoothing for solving large-scale minimax problems arising from the discretization of semi-infinite minimax problems. The main effect of the active-set strategy is to dramatically reduce the number of gradient calculations needed in the optimization. Discretization of multidimensional domains gives rise to minimax problems with thousands of component functions. We present an application to minimizing the sum of squares of the Lagrange polynomials to find good points for polynomial interpolation on the unit sphere in ℝ3. Our numerical results show that the active-set strategy results in a modified Armijo gradient or Gauss-Newton like methods requiring less than a quarter of the gradients, as compared to the use of these methods without our active-set strategy. Finally, we show how this strategy can be incorporated in an algorithm for solving semi-infinite minimax problems.
+Keywords
+Minimax problems  Log-sum-exponential smoothing  Active set strategies  

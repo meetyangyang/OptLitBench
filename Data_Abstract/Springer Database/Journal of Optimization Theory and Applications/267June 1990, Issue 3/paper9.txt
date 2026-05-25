@@ -1,0 +1,6 @@
+Hybrid method for nonlinear least-square problems without calculating derivatives
+C. X. Xu;
+Abstract
+This paper presents a no-derivative modification of the hybrid Gauss-Newton-BFGS method for nonlinear least-square problems suggested initially by Al-Baali and Fletcher and modified later by Fletcher and Xu. The modification is made in such a way that, in a Gauss-Newton step, the Broyden's rank-one updating formula is used to obtain an approximate Jacobian and, in a BFGS step, the Jacobian is estimated using difference formulas. A set of numerical comparisons among the new hybrid method, the Gauss-Newton-Broyden method, and the finite-difference BFGS method is made and shows that the new hybrid method combines the better features of the Gauss-Newton-Broyden method and the finite-difference BFGS method. This paper also extends to the least-square problem the finite-termination property of the Broyden method, proved for a nonsingular system of equations by Gay and for the full-rank rectangular system of equations by Gerber and Luk.
+Keywords
+Nonlinear least squares  hybrid method  Gauss-Newton method  BFGS method  finite-termination property  

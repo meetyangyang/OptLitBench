@@ -1,0 +1,6 @@
+Improved lower bounds and exact algorithm for the capacitated arc routing problem
+Enrico Bartolini;Jean-François Cordeau;Gilbert Laporte;
+Abstract
+In the capacitated arc routing problem (CARP), a subset of the edges of an undirected graph has to be serviced at least cost by a fleet of identical vehicles in such a way that the total demand of the edges serviced by each vehicle does not exceed its capacity. This paper describes a new lower bounding method for the CARP based on a set partitioning-like formulation of the problem with additional cuts. This method uses cut-and-column generation to solve different relaxations of the problem, and a new dynamic programming method for generating routes. An exact algorithm based on the new lower bounds was also implemented to assess their effectiveness. Computational results over a large set of classical benchmark instances show that the proposed method improves most of the best known lower bounds for the open instances, and can solve several of these for the first time.
+Keywords
+Arc routing  Set partitioning  Valid inequalities  Column generation  Dynamic programming  90C10  90C39  90C57  

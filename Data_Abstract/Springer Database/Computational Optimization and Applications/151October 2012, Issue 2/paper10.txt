@@ -1,0 +1,6 @@
+Derivative-free methods for bound constrained mixed-integer optimization
+G. Liuzzi;S. Lucidi;F. Rinaldi;
+Abstract
+We consider the problem of minimizing a continuously differentiable function of several variables subject to simple bound constraints where some of the variables are restricted to take integer values. We assume that the first order derivatives of the objective function can be neither calculated nor approximated explicitly. This class of mixed integer nonlinear optimization problems arises frequently in many industrial and scientific applications and this motivates the increasing interest in the study of derivative-free methods for their solution. The continuous variables are handled by a linesearch strategy whereas to tackle the discrete ones we employ a local search-type approach. We propose different algorithms which are characterized by the way the current iterate is updated and by the stationarity conditions satisfied by the limit points of the sequences they produce.
+Keywords
+Derivative-free optimization  Bound constrained optimization  Mixed-integer nonlinear programming  

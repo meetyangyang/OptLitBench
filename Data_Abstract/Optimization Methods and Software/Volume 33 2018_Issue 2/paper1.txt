@@ -1,0 +1,6 @@
+Branch and price for covering shipments in a logistic distribution network with a fleet of aircraft
+George Kozanidis;
+Abstract
+We consider the problem of covering a set of shipments in a logistic distribution network with a fleet of aircraft. The aim is to cover as many shipments as possible, while also minimizing the number of aircraft utilized for that purpose. We develop an integer programming model and a branch and price solution algorithm for this problem. The proposed methodology utilizes a master problem that covers the maximum possible number of shipments using a given set of aircraft-routes, and a column generation subproblem that generates cost-effective aircraft-routes which are fed into the master problem. We describe the proposed methodology, illustrating how it can be modified in order to accommodate several problem extensions. We also investigate how its efficiency is affected by various key design parameters. We conclude with extensive experimental results demonstrating its computational performance.
+Keywords
+logistic shipments, distribution network, aircraft routing, integer programming, column generation, branch and price 

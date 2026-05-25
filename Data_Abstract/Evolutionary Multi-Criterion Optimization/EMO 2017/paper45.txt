@@ -1,0 +1,4 @@
+Toward Step-Size Adaptation in Evolutionary Multiobjective Optimization
+Simon Wessing;Rosa Pink;Kai Brandenbusch;Günter Rudolph;
+Abstract
+We give a definition for step size optimality in multiobjective optimization and visualize the optimal step sizes for a few two-dimensional example constellations. After that, we try to engineer a step size adaptation mechanism that also works in the real world. For this mechanism, we employ the self-adaptation of mutation strength, which is simple and well-known from single-objective optimization. The resulting approach obtains better results than simulated binary crossover and polynomial mutation on the bi-objective BBOB testbed.

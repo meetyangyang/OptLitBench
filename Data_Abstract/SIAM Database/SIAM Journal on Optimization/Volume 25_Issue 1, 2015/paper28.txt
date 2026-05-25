@@ -1,0 +1,6 @@
+Semidefinite Programming Based Preconditioning for More Robust Near-Separable Nonnegative Matrix Factorization
+Nicolas  Gillis and Stephen A.  Vavasis;
+Abstract
+Nonnegative matrix factorization (NMF) under the separability assumption can provably be solved efficiently, even in the presence of noise, and has been shown to be a powerful technique in document classification and hyperspectral unmixing. This problem is referred to as near-separable NMF and requires that there exists a cone spanned by a small subset of the columns of the input nonnegative matrix approximately containing all columns. In this paper, we propose a preconditioning based on the minimum volume ellipsoid and semidefinite programming making the input matrix well-conditioned. This in turn can improve significantly the performance of near-separable NMF algorithms which is illustrated on the popular successive projection algorithm (SPA). The new preconditioned SPA is provably more robust to noise, and outperforms SPA on several synthetic data sets. We also show how an active-set method allows us to apply the preconditioning on large-scale real-world hyperspectral images.
+Keywords
+nonnegative matrix factorization, semidefinite programming, preconditioning, separability, robustness to noise, minimum volume ellipsoid, 15A23, 90C22, 65F30, 

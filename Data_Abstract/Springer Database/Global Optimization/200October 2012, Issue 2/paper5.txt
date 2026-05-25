@@ -1,0 +1,6 @@
+Parallel branch and bound for multidimensional scaling with city-block distances
+Julius Žilinskas;
+Abstract
+Multidimensional scaling is a technique for exploratory analysis of multidimensional data. The essential part of the technique is minimization of a multimodal function with unfavorable properties like invariants and non-differentiability. Recently a branch and bound algorithm for multidimensional scaling with city-block distances has been proposed for solution of medium-size problems exactly. The algorithm exploits piecewise quadratic structure of the objective function. In this paper a parallel version of the branch and bound algorithm for multidimensional scaling with city-block distances has been proposed and investigated. Parallel computing enabled solution of larger problems what was not feasible with the sequential version.
+Keywords
+Multidimensional scaling  City-block distances  Multilevel optimization  Global optimization  Branch and bound  Parallel computing  

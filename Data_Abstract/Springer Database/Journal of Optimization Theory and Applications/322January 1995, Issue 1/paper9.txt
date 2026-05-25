@@ -1,0 +1,6 @@
+On controlling the parameter in the logarithmic barrier term for convex programming problems
+K. O. Kortanek;J. Zhu;
+Abstract
+We present a log-barrier based algorithm for linearly constrained convex differentiable programming problems in nonnegative variables, but where the objective function may not be differentiable at points having a zero coordinate. We use an approximate centering condition as a basis for decreasing the positive parameter of the log-barrier term and show that the total number of iterations to achieve an ε-tolerance optimal solution isO(|log(ε)|)×(number of inner-loop iterations). When applied to then-variable dual geometric programming problem, this bound becomesO(n2U/ε), whereU is an upper bound on the maximum magnitude of the iterates generated during the computation.
+Keywords
+Convex programming  geometric programming  barrier methods  interior-point methods  linear constraints  

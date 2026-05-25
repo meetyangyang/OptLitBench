@@ -1,0 +1,4 @@
+A Continuous Multi-resources cumulative Constraint with Positive-Negative Resource Consumption-Production
+Nicolas Beldiceanu;Emmanuel Poder;
+Abstract
+This article first introduces an extension of the classical cumulative constraint: each task is no more a rectangle but rather a sequence of contiguous trapezoid sub-tasks with variable duration and heights. The resource function is no more constant but is a positive or negative piecewise linear function of time. Finally, a task is no more pre-assigned to one resource, but to a task corresponds a set of possible resource assignments. In this context, this article provides an O(p ·(logp + q)) for computing all the cumulated resource profiles where q is the number of resources and p is the total number of trapezoid sub-tasks of all the tasks.

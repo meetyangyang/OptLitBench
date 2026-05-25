@@ -1,0 +1,6 @@
+A biased random-key genetic algorithm for road congestion minimization
+Luciana S. Buriol;Michael J. Hirsch;Panos M. Pardalos;Tania Querido;Mauricio G. C. Resende;Marcus Ritt;
+Abstract
+One of the main goals in transportation planning is to achieve solutions for two classical problems, the traffic assignment and toll pricing problems. The traffic assignment problem aims to minimize total travel delay among all travelers. Based on data derived from the first problem, the toll pricing problem determines the set of tolls and corresponding tariffs that would collectively benefit all travelers and would lead to a user equilibrium solution. Obtaining high-quality solutions for this framework is a challenge for large networks. In this paper, we propose an approach to solve the two problems jointly, making use of a biased random-key genetic algorithm for the optimization of transportation network performance by strategically allocating tolls on some of the links of the road network. Since a transportation network may have thousands of intersections and hundreds of road segments, our algorithm takes advantage of mechanisms for speeding up shortest-path algorithms.
+Keywords
+Transportation networks  System optimal  User equilibrium  Genetic algorithms  Dynamic shortest paths  

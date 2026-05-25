@@ -1,0 +1,8 @@
+Local models—an approach to distributed multi-objective optimization
+Lam T. Bui;Hussein A. Abbass;Daryl Essam;
+Abstract
+
+When solving real-world optimization problems, evolutionary algorithms often require a large number of fitness evaluations in order to converge to the global optima. Attempts have been made to find techniques to reduce the number of fitness function evaluations. We propose a novel framework in the context of multi-objective optimization where fitness evaluations are distributed by creating a limited number of adaptive spheres spanning the search space. These spheres move towards the global Pareto front as components of a swarm optimization system. We call this process localization. The contribution of the paper is a general framework for distributed evolutionary multi-objective optimization, in which the individuals in each sphere can be controlled by any existing evolutionary multi-objective optimization algorithm in the literature.
+
+Keywords
+Evolutionary algorithms  Multi-objective optimization  Parallelization  Local models  Particle swarm optimization  

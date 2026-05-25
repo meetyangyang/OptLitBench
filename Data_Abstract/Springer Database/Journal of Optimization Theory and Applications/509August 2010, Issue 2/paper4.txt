@@ -1,0 +1,6 @@
+Spectral Scaling BFGS Method
+W. Y. Cheng;D. H. Li;
+Abstract
+In this paper, we scale the quasiNewton equation and propose a spectral scaling BFGS method. The method has a good selfcorrecting property and can improve the behavior of the BFGS method. Compared with the standard BFGS method, the single-step convergence rate of the spectral scaling BFGS method will not be inferior to that of the steepest descent method when minimizing an n-dimensional quadratic function. In addition, when the method with exact line search is applied to minimize an n-dimensional strictly convex function, it terminates within n steps. Under appropriate conditions, we show that the spectral scaling BFGS method with Wolfe line search is globally and R-linear convergent for uniformly convex optimization problems. The reported numerical results show that the spectral scaling BFGS method outperforms the standard BFGS method.
+Keywords
+Unconstrained optimization  BFGS method  Global convergence  

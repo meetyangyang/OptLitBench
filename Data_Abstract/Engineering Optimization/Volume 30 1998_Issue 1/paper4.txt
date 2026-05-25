@@ -1,0 +1,6 @@
+STRUCTURAL DESIGN OPTIMIZATION WITH RELIABILITY CONSTRAINTS USING TABU SEARCH
+ J. A.   BLAND ;
+Abstract
+ Tabu search is a discrete-variable optimization algorithm with the ability to avoid entrapment by local optima and hence continue searching for global optima, in this paper tabu search is applied to optimal structural design, in terms of weight minimization, of a space truss. The design variables are the cross-sectional areas of members, which take discrete values. An implementation of tabu search in a structural design context is presented which features λ-depth neighbourhoods and a search backtrack facility. Furthermore, through the use of reliability constraints, the presented formulation shows how the effects of variations in material strength (in tension and compression) and applied loading may be analysed. Numerical investigations show that tabu search may readily cope with problems that include stochastic variables and, additionally, reveal the effects of displacement constraints and (Euler) buckling on minimum weight designs. 
+Keywords
+Structural optimization, tabu search, reliability 

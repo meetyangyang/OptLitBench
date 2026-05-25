@@ -1,0 +1,6 @@
+Solving large-scale real-world telecommunication problems using a grid-based genetic algorithm
+ Francisco   Luna ; Antonio   J.   Nebro ; Enrique   Alba ; Juan   J.   Durillo ;
+Abstract
+ This article analyses the use of a grid-based genetic algorithm (GrEA) to solve a real-world instance of a problem from the telecommunication domain. The problem, known as automatic frequency planning (AFP), is used in a global system for mobile communications (GSM) networks to assign a number of fixed frequencies to a set of GSM transceivers located in the antennae of a cellular phone network. Real data instances of the AFP are very difficult to solve owing to the NP-hard nature of the problem, so combining grid computing and metaheuristics turns out to be a way to provide satisfactory solutions in a reasonable amount of time. GrEA has been deployed on a grid with up to 300 processors to solve an AFP instance of 2612 transceivers. The results not only show that significant running time reductions are achieved, but that the search capability of GrEA clearly outperforms that of the equivalent non-grid algorithm. 
+Keywords
+frequency assignment problem, real-world problem solving, grid computing, genetic algorithms 

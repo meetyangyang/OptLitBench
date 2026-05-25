@@ -1,0 +1,6 @@
+A hybrid multi-objective evolutionary algorithm for wind-turbine blade optimization
+M. Sessarego;K.R. Dixon;D.E. Rival;D.H. Wood;
+Abstract
+A concurrent-hybrid non-dominated sorting genetic algorithm (hybrid NSGA-II) has been developed and applied to the simultaneous optimization of the annual energy production, flapwise root-bending moment and mass of the NREL 5 MW wind-turbine blade. By hybridizing a multi-objective evolutionary algorithm (MOEA) with gradient-based local search, it is believed that the optimal set of blade designs could be achieved in lower computational cost than for a conventional MOEA. To measure the convergence between the hybrid and non-hybrid NSGA-II on a wind-turbine blade optimization problem, a computationally intensive case was performed using the non-hybrid NSGA-II. From this particular case, a three-dimensional surface representing the optimal trade-off between the annual energy production, flapwise root-bending moment and blade mass was achieved. The inclusion of local gradients in the blade optimization, however, shows no improvement in the convergence for this three-objective problem.
+Keywords
+hybrid multi-objective evolutionary algorithm, multi-objective optimization, blade element momentum theory, beam theory 

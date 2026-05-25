@@ -1,0 +1,6 @@
+An interior-point QP algorithm for structural optimization
+X. Li;Z. Xuan;
+Abstract
+In this paper, a new algorithm for convex quadratic programming (QP) is presented. Firstly, the surrogate problem for QP is developed, and the Karush-Kuhn-Tucker conditions of the surrogate problem hold if the unconstrained minimum of the objective function does not satisfy any constraints. Then, Karmarkar's algorithm for linear programming (LP) is introduced to solve the surrogate dual problem. In addition, the case of general constraints is also discussed, and some examples of optimum truss sizing problems show that the proposed algorithm is robust and efficient.
+Keywords
+Quadratic Programming  Feasible Region  Sequential Quadratic Programming  Quadratic Programming Problem  Unconstrained Minimum  

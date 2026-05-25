@@ -1,0 +1,6 @@
+Global optimization numerical strategies for rate-independent processes
+Barbora Benešová;
+Abstract
+This paper presents an approach to numerical solution of problems posed in the framework of quasi-static rate-independent processes. As soon as a problem allows for an energetic formulation there are known methods of its time discretization by time incremental minimization problems, which demand for global optimization of a non-convex functional. Moreover the two-sided energy inequality, a necessary condition for optimization, can be formulated. Here we present an algorithm for finding solutions of rate-independent processes that verifies this condition and uses the strategy of backtracking if it is violated. We present the selectivity of the mentioned necessary condition in general and give numerical examples of the efficiency of such an algorithm, but also of situations that are beyond its limits. For those we propose a second strategy relying on wisely chosen combinations of spatial discretizations.
+Keywords
+Rate-independent processes  Numerical global optimization  Energy estimates based algorithm  Backtracking and multigrid algorithms  

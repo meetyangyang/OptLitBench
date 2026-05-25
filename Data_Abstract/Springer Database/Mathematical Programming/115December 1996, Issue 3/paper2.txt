@@ -1,0 +1,6 @@
+Superlinear and quadratic convergence of some primal-dual interior point methods for constrained optimization
+Hiroshi Yamashita;Hiroshi Yabe;
+Abstract
+This paper proves local convergence rates of primal-dual interior point methods for general nonlinearly constrained optimization problems. Conditions to be satisfied at a solution are those given by the usual Jacobian uniqueness conditions. Proofs about convergence rates are given for three kinds of step size rules. They are: (i) the step size rule adopted by Zhang et al. in their convergence analysis of a primal-dual interior point method for linear programs, in which they used single step size for primal and dual variables; (ii) the step size rule used in the software package OB1, which uses different step sizes for primal and dual variables; and (iii) the step size rule used by Yamashita for his globally convergent primal-dual interior point method for general constrained optimization problems, which also uses different step sizes for primal and dual variables. Conditions to the barrier parameter and parameters in step size rules are given for each case. For these step size rules, local and quadratic convergence of the Newton method and local and superlinear convergence of the quasi-Newton method are proved.
+Keywords
+Nonlinear programming  Interior point method  Local convergence  

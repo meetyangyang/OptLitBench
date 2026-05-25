@@ -1,0 +1,6 @@
+Sparsity in higher order methods for unconstrained optimization
+ Geir   Gundersen ; Trond   Steihaug ;
+Abstract
+ In this paper, we introduce data structures for storing the third derivative (tensor) of a multivariate scalar function when the second and third derivatives of the function are sparse. We consider solving unconstrained optimization problems using methods of the Halley class. The gradient, Hessian matrix and the tensor of the objective function are required for the methods and they have a third-order rate of convergence. However, these methods require the solution of two linear systems of equations at each iteration. Solving the linear systems using a factorization will cause fill-ins. The impact of these fill-ins will be discussed and we give the number of arithmetic operations of the methods of the Halley class compared to Newton's method. Finally, we will give some preliminary numerical results showing that including the time to compute the derivatives, the ratios of elapsed time of methods in the Halley class and Newton's method are close to the ratios of arithmetic operations. 
+Keywords
+Halley's method, Newton's methods, Chebyshev's method, sparse factorization, tensors 

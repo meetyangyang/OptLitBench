@@ -1,0 +1,6 @@
+Improved utilization for joint HCCA–EDCA access in IEEE 802.11e WLANs
+Bryan Ng;Y. F. Tan;Yong Roger;
+Abstract
+This paper presents a model for improving utilization in IEEE 802.11e wireless LAN via a Markov decision process (MDP) approach. A Markov chain tracking the utilized transmission window for two separate access mechanisms is devised. Subsequently, the action space and the rewards of the MDP are judiciously selected with the aim of improving overall utilization without explicit blocking. The proposed MDP model for 802.11e reveals that proportional allocation of access opportunities improve overall utilization compared to completely randomized access. Simulation results go on to show that a policy that limits HCCA access as a function of channel load improves utilization by an average 8 %. The optimization framework proposed in this paper is promising as a practical decision support tool for resource planning in 802.11e.
+Keywords
+802.11e  MDP  HCCA  60J20  60J10  65C40  

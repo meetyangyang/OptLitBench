@@ -1,0 +1,6 @@
+Facial Reduction Algorithms for Conic Optimization Problems
+Hayato Waki;Masakazu Muramatsu;
+Abstract
+In the conic optimization problems, it is well-known that a positive duality gap may occur, and that solving such a problem is numerically difficult or unstable. For such a case, we propose a facial reduction algorithm to find a primal–dual pair of conic optimization problems having the zero duality gap and the optimal value equal to one of the original primal or dual problems. The conic expansion approach is also known as a method to find such a primal–dual pair, and in this paper we clarify the relationship between our facial reduction algorithm and the conic expansion approach. Our analysis shows that, although they can be regarded as dual to each other, our facial reduction algorithm has ability to produce a finer sequence of faces of the cone including the feasible region. A simple proof of the convergence of our facial reduction algorithm for the conic optimization is presented. We also observe that our facial reduction algorithm has a practical impact by showing numerical experiments for graph partition problems; our facial reduction algorithm in fact enhances the numerical stability in those problems.
+Keywords
+Facial reduction  Conic optimization  Semidefinite programming  

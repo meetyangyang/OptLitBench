@@ -1,0 +1,6 @@
+Polynomial time algorithms for some classes of constrained nonconvex quadratic problems
+   P.M.   Pardalos ;
+Abstract
+ In this paper we consider different classes of noneonvex quadratic problems that can be solved in polynomial time. We present an algorithm for the problem of minimizing the product of two linear functions over a polyhedron P in  R n The complexity of the algorithm depends on the number of vertices of the projection of P onto the  R 2  space. In the worst-case this algorithm requires an exponential number of steps but its expected computational time complexity is polynomial. In addition, we give a characterization for the number of isolated local minimum areas for problems on this form.  Furthermore, we consider indefinite quadratic problems with variables restricted to be nonnegative. These problems can be solved in polynomial time if the number of negative eigenvalues of the associated symmetric matrix is fixed.  
+Keywords
+Polynomial time algorithm, global optimization, indefinite quadratic programming, isolated local minimum area, extreme pointsAMS 1980 Subject Classification: Primary:90 C 30, Secondary:68 C 25 

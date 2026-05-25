@@ -1,0 +1,6 @@
+Polynomiality of primal-dual affine scaling algorithms for nonlinear complementarity problems
+Benjamin Jansen;Kees Roos;Tamás Terlaky;Akiko Yoshise;
+Abstract
+This paper provides an analysis of the polynomiality of primal-dual interior point algorithms for nonlinear complementarity problems using a wide neighborhood. A condition for the smoothness of the mapping is used, which is related to Zhu’s scaled Lipschitz condition, but is also applicable to mappings that are not monotone. We show that a family of primal-dual affine scaling algorithms generates an approximate solution (given a precision ε) of the nonlinear complementarity problem in a finite number of iterations whose order is a polynomial ofn, ln(1/ε) and a condition number. If the mapping is linear then the results in this paper coincide with the ones in Jansen et al., SIAM Journal on Optimization 7 (1997) 126–140.
+Keywords
+Complementarity problems  Interior point methods  Primal-dual affine scaling methods  Smoothness conditions  Polynomial-time convergence  Global convergence  

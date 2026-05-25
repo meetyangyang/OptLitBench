@@ -1,0 +1,6 @@
+Numerical Methods for Stochastic Singular Control Problems with State-Dependent Control
+Harold J.  Kushner;
+Abstract
+The Markov chain approximation method is a widely used numerical approach to computing optimal controls and value functions for general nonlinear jump diffusions, with a possible reflecting boundary. We extend the method to models with singular controls, where the control increment has the form $g(x(t-))dH(t),$ which we call state dependent owing to the multiplier $g(x)$. For the most part, past work concerned the case where $g(\cdot)$ is constant. There are major differences in the properties and treatments of the two cases. Owing to the possibility of “multiple simultaneous impulses,” $H(\cdot)$ must be interpreted in a generalized sense, and the analysis must be done in a “stretched-out” time scale, analogously to the approach previously used by the author and colleagues.
+Keywords
+Markov chain approximation methods, numerical methods, singular stochastic control, reflected diffusions, 93B40, 93E20, 93E25, 65C30, 60J60, 60H35, 60F17, 

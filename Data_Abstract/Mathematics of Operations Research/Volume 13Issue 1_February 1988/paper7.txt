@@ -1,0 +1,6 @@
+Optimality of Stationary Halting Policies and Finite Termination of Successive Approximations
+Ranel E. Erickson;
+Abstract
+The existence of an optimal stopping policy that is stationary and halting in a discrete-time-parameter finite-state finite-action branching Markov decision chain is here characterized by the finite termination of successive approximations. We call a policy stopping if the expected population size at time N converges to zero as N approaches infinity, and halting if the expected population at time N is zero for some N. We show that when the rewards are real valued, the Nth iterate of successive approximations is a fixed point of the optimal return operator for some N when initiated with the value of a stationary halting policy if and only if there exists a halting stationary optimal stopping policy. Similar results are shown for a Gauss-Seidel improvement of successive approximations.
+Keywords
+Markov decision process optimal stopping successive approximations 

@@ -1,0 +1,8 @@
+Two-level parallelization for finite-element based design optimization via case studies
+S. D. Rajan;A. D. Belegundu;A. S. Damle;D. Lau;
+Abstract
+
+Computing clusters created with commodity chips are gaining popularity owing to relative ease of assembly and maintenance compared to a supercomputer. Such clusters are able to solve much larger problems owing to increased memory and reduced compute time. The challenge, however, is to develop new algorithms and software that can exploit multiple processors. In this paper we discuss the parallel processing options and their implementations in a gradient-based design optimization software system. The main objectives are as follows—(a) implement a design optimization methodology for sizing, shape and topology optimization using two-level parallelism and (b) provide a benchmark in the area of FEA-based design optimization for studying speedups with increasing number of processors to speed development of effective parallel algorithms. The two-level parallelism is implemented using nested parallel gradient calculations in conjunction with parallel FEA, and parallel line search with parallel FEA. Two case studies involving topology and shape optimization are studied in detail and they include three-dimensional finite element meshes with about 160 000 hexahedral elements and about 175 000 nodes. Furthermore, the case studies have been implemented using a workbench where the topology and shape optimization have an interface with a commercial CAD package, permitting a solid model representation of both the initial and the final optimized part.
+
+Keywords
+Design optimization  Parallel processing  Topology optimization  Shape optimization  MPI  Finite element analysis  Cluster computing  

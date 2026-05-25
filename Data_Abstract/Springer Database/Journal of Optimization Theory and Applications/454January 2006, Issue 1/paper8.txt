@@ -1,0 +1,6 @@
+Approximate Subgradient Methods for Nonlinearly Constrained Network Flow Problems
+E. Mijangos;
+Abstract
+The minimization of nonlinearly constrained network flow problems can be performed by using approximate subgradient methods. The idea is to solve this kind of problem by means of primal-dual methods, given that the minimization of nonlinear network flow problems can be done efficiently exploiting the network structure. In this work, it is proposed to solve the dual problem by using ε-subgradient methods, as the dual function is estimated by minimizing approximately a Lagrangian function, which includes the side constraints (nonnetwork constraints) and is subject only to the network constraints. Some well-known subgradient methods are modified in order to be used as ε-subgradient methods and the convergence properties of these new methods are analyzed. Numerical results appear very promising and effective for this kind of problems
+Keywords
+Network flows  side constraints  ε-subgradient methods  diminishing stepsizes  

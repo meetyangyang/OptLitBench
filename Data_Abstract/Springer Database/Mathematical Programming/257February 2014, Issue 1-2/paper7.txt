@@ -1,0 +1,6 @@
+A class of Dantzig–Wolfe type decomposition methods for variational inequality problems
+Juan Pablo Luna;Claudia Sagastizábal;Mikhail Solodov;
+Abstract
+We consider a class of decomposition methods for variational inequalities, which is related to the classical Dantzig–Wolfe decomposition of linear programs. Our approach is rather general, in that it can be used with certain types of set-valued or nonmonotone operators, as well as with various kinds of approximations in the subproblems of the functions and derivatives in the single-valued case. Also, subproblems may be solved approximately. Convergence is established under reasonable assumptions. We also report numerical experiments for computing variational equilibria of the game-theoretic models of electricity markets. Our numerical results illustrate that the decomposition approach allows to solve large-scale problem instances otherwise intractable if the widely used PATH solver is applied directly, without decomposition.
+Keywords
+Variational inequality  Decomposition  Dantzig–Wolfe decomposition  Josephy–Newton approximation  Jacobi approximation  Variational equilibrium  90C25  90C30  65K05  

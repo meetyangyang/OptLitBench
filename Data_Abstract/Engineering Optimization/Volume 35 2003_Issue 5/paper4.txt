@@ -1,0 +1,6 @@
+Optimal layout design of a satellite module 
+ Zhi-Guo   Sun ; Hong-Fei   Teng ;
+Abstract
+ Layout design of a satellite module directly concerns its structure, performance, service life, and cost of assembly and maintenance. It is an important and NP-complete problem. The main difficulties consist of combinatorial optimizations in mathematics and system complexity in engineering practice, and relevant researches are far from enough. This paper proposes a basic solution strategy for the optimal layout design of a satellite module, which consists of two stages, global (or loose) layout design and detailed layout design. Corresponding algorithms are then developed while taking the layout design of an international commercial communication satellite as an example. They are the centripetal balancing method for global layout design and a quasi Traveling Salesman Problem (TSP) model-based Ant Colony Optimization (ACO) algorithm for layout optimization. The proposed method demonstrates its feasibility and validity on an application instance. Existing problems and further research directions are finally discussed. 
+Keywords
+Layout optimization, Satellite, Packing problem, Heuristics, Ant colony optimization 

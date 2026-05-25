@@ -1,0 +1,6 @@
+Using the KKT matrix in an augmented Lagrangian SQP method for sparse constrained optimization
+M. C. Bartholomew-Biggs;M. De F. G. Hernandez;
+Abstract
+The augmented Lagrangian SQP subroutine OPALQP was originally designed for small-to-medium sized constrained optimization problems in which the main calculation on each iteration, the solution of a quadratic program, involves dense, rather than sparse, matrices. In this paper, we consider some reformulations of OPALQP which are better able to take advantage of sparsity in the objective function and constraints.
+Keywords
+Constrained optimization  sequential quadratic programming  sparsity  

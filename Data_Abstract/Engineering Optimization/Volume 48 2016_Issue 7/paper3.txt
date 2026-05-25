@@ -1,0 +1,6 @@
+Speed limit and ramp meter control for traffic flow networks
+Paola Goatin;Simone Göttlich;Oliver Kolb;
+Abstract
+The control of traffic flow can be related to different applications. In this work, a method to manage variable speed limits combined with coordinated ramp metering within the framework of the Lighthill–Whitham–Richards (LWR) network model is introduced. Following a ‘first-discretize-then-optimize’ approach, the first order optimality system is derived and the switch of speeds at certain fixed points in time is explained, together with the boundary control for the ramp metering. Sequential quadratic programming methods are used to solve the control problem numerically. For application purposes, experimental setups are presented wherein variable speed limits are used as a traffic guidance system to avoid traffic jams on highway interchanges and on-ramps.
+Keywords
+traffic flow network, control of discretized PDEs, adjoint based optimization 

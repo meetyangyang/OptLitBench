@@ -1,0 +1,6 @@
+A trust region method based on a new affine scaling technique for simple bounded optimization
+ Xiao   Wang ; Ya-Xiang   Yuan ;
+Abstract
+ In this paper, we propose a new trust region affine scaling method for nonlinear programming with simple bounds. Our new method is an interior-point trust region method with a new scaling technique. The scaling matrix depends on the distances of the current iterate to the boundaries, the gradient of the objective function and the trust region radius. This scaling technique is different from the existing ones. It is motivated by our analysis of the linear programming case. The trial step is obtained by minimizing the quadratic approximation to the objective function in the scaled trust region. It is proved that our algorithm guarantees that at least one accumulation point of the iterates is a stationary point. Preliminary numerical experience on problems with simple bounds from the CUTEr collection is also reported. The numerical performance reveals that our method is effective and competitive with the famous algorithm LANCELOT. It also indicates that the new scaling technique is very effective and might be a good alternative to that used in the subroutine fmincon from Matlab optimization toolbox. 
+Keywords
+bound constrained optimization, trust region, interior point, affine scaling 

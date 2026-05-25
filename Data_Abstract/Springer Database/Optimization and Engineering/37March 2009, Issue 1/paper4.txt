@@ -1,0 +1,6 @@
+A parameter optimization heuristic for a temperature estimation model
+J. Cole Smith;Dale L. Henderson;Alfonso Ortega;Jason DeVoe;
+Abstract
+We present a heuristic technique for solving a parameter estimation problem that arises in modeling the thermal behavior of electronic chip packages. Compact Thermal Models (CTMs) are network models of steady state thermal behavior, which show promise in augmenting the use of more detailed and computationally expensive models. The CTM parameter optimization problem that we examine is a nonconvex optimization problem in which we seek a set of CTM parameters that best predicts, under general conditions, the thermal response of a particular chip package geometry that has been tested under a small number of conditions. We begin by developing a nonlinear programming formulation for this parameter optimization problem, and then develop an algorithm that uses special characteristics of the optimization problem to quickly generate heuristic solutions. Our algorithm descends along a series of solutions to one-dimensional nonconvex optimization problems, obtaining a locally optimal set of model parameters at modest computational cost. Finally, we provide some experimental results and recommendations for extending this research.
+Keywords
+Heuristic  Nonconvex optimization  Parameter estimation  Compact thermal models  

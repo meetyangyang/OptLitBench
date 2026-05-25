@@ -1,0 +1,6 @@
+An Efficient Monte Carlo Method for Optimal Control Problems with Uncertainty
+Yanzhao Cao;M.Y. Hussaini;T.A. Zang;
+Abstract
+A general framework is proposed for what we call the sensitivity derivative Monte Carlo (SDMC) solution of optimal control problems with a stochastic parameter. This method employs the residual in the first-order Taylor series expansion of the cost functional in terms of the stochastic parameter rather than the cost functional itself. A rigorous estimate is derived for the variance of the residual, and it is verified by numerical experiments involving the generalized steady-state Burgers equation with a stochastic coefficient of viscosity. Specifically, the numerical results show that for a given number of samples, the present method yields an order of magnitude higher accuracy than a conventional Monte Carlo method. In other words, the proposed variance reduction method based on sensitivity derivatives is shown to accelerate convergence of the Monte Carlo method. As the sensitivity derivatives are computed only at the mean values of the relevant parameters, the related extra cost of the proposed method is a fraction of the total time of the Monte Carlo method.
+Keywords
+Monte Carlo method  optimal control  Burger's equation  uncertainty quantification  sensitivity derivatives  

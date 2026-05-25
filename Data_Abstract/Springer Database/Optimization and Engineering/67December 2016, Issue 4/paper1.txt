@@ -1,0 +1,6 @@
+On the importance of viscoelastic response consideration in structural design optimization
+Kai A. James;Haim Waisman;
+Abstract
+In this paper we present a series of mathematical proofs that demonstrate the importance of accounting for viscoelastic effects in structural optimization algorithms. Focusing specifically on mass minimization problems with stiffness and deflection constraints, we show that standard techniques based on linear elastic analysis overestimate the long-term stiffness of the structure, leading to designs that become infeasible after sustained loading due to viscoelastic creep. Conversely, assuming maximum creep deflection, which also allows for linear analysis, leads to an overly conservative design that is unnecessarily heavy and therefore suboptimal. We prove both propositions for both constant and time-varying load histories. We also present proofs for generalized continuum mechanics problems as well as for a finite element formulation, which can be applied to any arbitrary geometry. Lastly, we present two numerical examples in which the conclusions derived in the proofs are verified empirically.
+Keywords
+Structural optimization  Viscoelasticity  Creep deformation  Finite element analysis  

@@ -1,0 +1,6 @@
+The Surgical Separation of Sets
+James E. Falk;Emma Lopez-Cardona;
+Abstract
+Given a pair of finite disjoint setsA andB inRn, a fundamental problem with many important applications isto efficiently determine a hyperplaneH(w,λ) which separates these sets when they are separable, or ‘nearly’ separates themwhen they are not. We seek a hyperplane which minimizes a natural errormeasure in the latter case, and so will ‘surgically’ separate the sets. Whenthe sets are separable in a strong sense, we show that the problem is aconvex program with a unique solution, which has been investigated byothers. Using the KKT conditions, we improve on an existing algorithm. Whenthe sets are not separable, the problem is nonconvex, generally with properlocal solutions, and we solve an equivalent problem by Branch and Bound.Numerical results are presented.
+Keywords
+Pattern recognition  non-convex optimization  set separation  

@@ -1,0 +1,6 @@
+Approximation of low rank solutions for linear quadratic control of partial differential equations
+Kirsten Morris;Carmeliza Navasca;
+Abstract
+Algebraic Riccati equations (ARE) of large dimension arise when using approximations to design controllers for systems modeled by partial differential equations. We use a modified Newton method to solve the ARE that takes advantage of several special features of these problems. The modified Newton method leads to a right-hand side of rank equal to the number of inputs regardless of the weights. Thus, the resulting Lyapunov equation can be more efficiently solved. The Cholesky-ADI algorithm is used to solve the Lyapunov equation resulting at each step. The algorithm is straightforward to code. Performance is illustrated with a number of standard examples. An example on controlling the deflection of the Euler-Bernoulli beam indicates that for weakly damped problems a low rank solution to the ARE may not exist. Further analysis supports this point.
+Keywords
+Algebraic Riccati equations  Partial differential equations  Approximation  

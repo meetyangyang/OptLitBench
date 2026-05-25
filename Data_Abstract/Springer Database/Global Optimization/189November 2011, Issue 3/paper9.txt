@@ -1,0 +1,6 @@
+Seeking global edges for traveling salesman problem in multi-start search
+Weiqi Li;
+Abstract
+This study investigates the properties of the edges in a set of locally optimal tours found by multi-start search algorithm for the traveling salesman problem (TSP). A matrix data structure is used to collect global information about edges from the set of locally optimal tours and to identify globally superior edges for the problem. The properties of these edges are analyzed. Based on these globally superior edges, a solution attractor is formed in the data matrix. The solution attractor is a small region of the solution space, which contains the most promising solutions. Then an exhausted enumeration process searches the solution attractor and outputs all solutions in the attractor, including the globally optimal solution. Using this strategy, this study develops a procedure to tackler a multi-objective TSP. This procedure not only generates a set of Pareto-optimal solutions, but also be able to provide the structural information about each of the solutions that will allow a decision-maker to choose the best compromise solution.
+Keywords
+Multi-start search  Traveling salesman problem  Convergence  Solution attractor  Multiobjective optimization problem  Pareto optimal solution  

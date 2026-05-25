@@ -1,0 +1,6 @@
+A Modified Hestenes and Stiefel Conjugate Gradient Algorithm for Large-Scale Nonsmooth Minimizations and Nonlinear Equations
+Gonglin Yuan;Zehong Meng;Yong Li;
+Abstract
+It is well known that nonlinear conjugate gradient methods are very effective for large-scale smooth optimization problems. However, their efficiency has not been widely investigated for large-scale nonsmooth problems, which are often found in practice. This paper proposes a modified Hestenes–Stiefel conjugate gradient algorithm for nonsmooth convex optimization problems. The search direction of the proposed method not only possesses the sufficient descent property but also belongs to a trust region. Under suitable conditions, the global convergence of the presented algorithm is established. The numerical results show that this method can successfully be used to solve large-scale nonsmooth problems with convex and nonconvex properties (with a maximum dimension of 60,000). Furthermore, we study the modified Hestenes–Stiefel method as a solution method for large-scale nonlinear equations and establish its global convergence. Finally, the numerical results for nonlinear equations are verified, with a maximum dimension of 100,000.
+Keywords
+Nonsmooth  Nonlinear equations  Conjugate gradient  Large scale  Global convergence  65K05  90C26  

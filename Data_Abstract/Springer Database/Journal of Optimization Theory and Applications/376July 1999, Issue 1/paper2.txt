@@ -1,0 +1,6 @@
+Domain Decomposition, Optimal Control of Systems Governed by Partial Differential Equations, and Synthesis of Feedback Laws
+J. D. Benamou;
+Abstract
+We present an iterative domain decomposition method for the optimal control of systems governed by linear partial differential equations. The equations can be of elliptic, parabolic, or hyperbolic type. The space region supporting the partial differential equations is decomposed and the original global optimal control problem is reduced to a sequence of similar local optimal control problems set on the subdomains. The local problems communicate through transmission conditions, which take the form of carefully chosen boundary conditions on the interfaces between the subdomains. This domain decomposition method can be combined with any suitable numerical procedure to solve the local optimal control problems. We remark that it offers a good potential for using feedback laws (synthesis) in the case of time-dependent partial differential equations. A test problem for the wave equation is solved using this combination of synthesis and domain decomposition methods. Numerical results are presented and discussed. Details on discretization and implementation can be found in Ref. 1.
+Keywords
+Domain decomposition  partial differential equations  Riccati equation  optimal control  feedback law  synthesis  wave equation  

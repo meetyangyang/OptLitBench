@@ -1,0 +1,6 @@
+A Piecewise Deterministic Markov Toy Model for Traffic/Maintenance and Associated Hamilton–Jacobi Integrodifferential Systems on Networks
+Dan Goreac;Magdalena Kobylanski;Miguel Martinez;
+Abstract
+We study optimal control problems in infinite horizon whxen the dynamics belong to a specific class of piecewise deterministic Markov processes constrained to star-shaped networks (corresponding to a toy traffic model). We adapt the results in Soner (SIAM J Control Optim 24(6):1110–1122, 1986) to prove the regularity of the value function and the dynamic programming principle. Extending the networks and Krylov’s “shaking the coefficients” method, we prove that the value function can be seen as the solution to a linearized optimization problem set on a convenient set of probability measures. The approach relies entirely on viscosity arguments. As a by-product, the dual formulation guarantees that the value function is the pointwise supremum over regular subsolutions of the associated Hamilton–Jacobi integrodifferential system. This ensures that the value function satisfies Perron’s preconization for the (unique) candidate to viscosity solution.
+Keywords
+Piecewise deterministic Markov process  Viscosity solutions  Network constraints  Linear programming  Traffic and maintenance  49L25  93E20  60J25  49L20  

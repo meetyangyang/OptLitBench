@@ -1,0 +1,6 @@
+Generalized Descent Methods for Asymmetric Systems of Equations
+Janice H. Hammond;Thomas L. Magnanti;
+Abstract
+We consider generalizations of the steepest descent algorithm for solving asymmetric systems of equations. We first show that if the system is linear and is defined by the matrix M, then the method converges if M2 is positive definite. We also establish easy to verify conditions on the matrix M that ensure that M2 is positive definite, and develop a scaling procedure that extends the class of matrices that satisfy the convergence conditions. In addition, we establish a local convergence result for nonlinear systems defined by uniformly monotone maps, and discuss a class of general descent methods.All of the methods that we consider reduce to standard nonlinear programming algorithms for equivalent optimization problems when the Jacobian of the underlying problem map is symmetric. We interpret the convergence conditions for the generalized steepest descent algorithms as restricting the degree of asymmetry of the problem map.
+Keywords
+variational inequalities linear and nonlinear systems steepest descent positive definite matrices asymmetric maps 

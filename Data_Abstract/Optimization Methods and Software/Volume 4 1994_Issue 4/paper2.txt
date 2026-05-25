@@ -1,0 +1,6 @@
+Parallel multiple shooting for optimal control problems under NX
+ Martin   Kiehl ; Rainer   Mehlhorn ; Matthias   Schumann ;
+Abstract
+ The optimal control of aircrafts, roboters or other mechanical systems under constraints of the control and the state variables leads to multi point boundary value problems. They can be solved with high accuracy by the multiple shooting method. The parallel structure of the multiple shooting method is straight forward. However, a priori it is not clear if the speedup obtained from parallel computation justifies the efforts. The user must be able to easily migrate to the parallel computer as soon as it is available and return back to his local workstation. Here we introduce an implementation under NX, which was tested on an iPSC/860 and shows essential speedups in practical applications.  
+Keywords
+Multiple shooting, Optimal control, Parallel computation, Hypercub 

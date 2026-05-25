@@ -1,0 +1,6 @@
+An Error Analysis for Polynomial Optimization over the Simplex Based on the Multivariate Hypergeometric Distribution
+Etienne  de Klerk, Monique  Laurent, and Zhao  Sun;
+Abstract
+We study the minimization of fixed-degree polynomials over the simplex. This problem is well-known to be NP-hard, as it contains the maximum stable set problem in graph theory as a special case. In this paper, we consider a rational approximation by taking the minimum over the regular grid, which consists of rational points with denominator $r$ (for given $r$). We show that the associated convergence rate is  $O(1/r^2)$ for quadratic polynomials. For general polynomials, if there exists a rational global minimizer over the simplex, we show that the convergence rate is also of the order $O(1/r^2)$. Our results answer a question posed by De Klerk, Laurent, and Sun [Math. Program., 151 (2015), pp. 433--457]. and improves on previously known $O(1/r)$ bounds in the quadratic case.
+Keywords
+polynomial optimization over the simplex, global optimization, nonlinear optimization, 90C26, 90C30, 

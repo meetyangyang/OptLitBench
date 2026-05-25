@@ -1,0 +1,6 @@
+Superlinear Convergence and Implicit Filtering
+T. D.  Choi and C. T.  Kelley;
+Abstract
+In this paper we show how the implicit filtering algorithm can be coupled with the BFGS quasi-Newton update to obtain a superlinearly convergent iteration if the noise in the objective function decays sufficiently rapidly as the optimal point is approached. In this way we give insight into the observations of good performance in practice of quasi-Newton methods when they are coupled with implicit filtering. We also report on numerical experiments that show how an implementation of implicit filtering that exploits these new results can improve the performance of the algorithm.
+Keywords
+noisy optimization, implicit filtering, BFGS algorithm, superlinear convergence, 65K05, 65K10, 90C30, 

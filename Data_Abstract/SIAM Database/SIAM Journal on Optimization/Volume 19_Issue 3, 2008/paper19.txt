@@ -1,0 +1,6 @@
+Identification and Elimination of Interior Points for the Minimum Enclosing Ball Problem
+S. Damla  Ahipaşaoğlu and E. Alper  Yildirim;
+Abstract
+Given ${\cal A} := \{a^1,\dots,a^m\} \subset \mathbb{R}^n$, we consider the problem of reducing the input set for the computation of the minimum enclosing ball of ${\cal A}$. In this note, given an approximate solution to the minimum enclosing ball problem, we propose a simple procedure to identify and eliminate points in ${\cal A}$ that are guaranteed to lie in the interior of the minimum-radius ball enclosing ${\cal A}$. Our computational results reveal that incorporating this procedure into two recent algorithms proposed by Yıldırım lead to significant speed-ups in running times especially for randomly generated large-scale problems. We also illustrate that the extra overhead due to the elimination procedure remains at an acceptable level for spherical or almost spherical input sets.
+Keywords
+minimum enclosing balls, input set reduction, approximation algorithms, 90C25, 90C46, 65K05, 

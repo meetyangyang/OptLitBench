@@ -1,0 +1,6 @@
+On Polyhedral Approximations of the Second-Order Cone
+Aharon Ben-Tal;Arkadi Nemirovski;
+Abstract
+We demonstrate that a conic quadratic problem, (CQP)minx{eTx|Ax≥b, |Aℓx−bℓ|2≤cℓTx−dℓ, ℓ=1,…,m}, |y|2=yTy. is “polynomially reducible” to Linear Programming. We demonstrate this by constructing, for every ϵ ∈ (0, ½], an LP program (explicitly given in terms of ϵ and the data of (CQP)) (LP)minx,u{eTx|P(xu)+p≥0} with the following properties: the number dim x + dim u of variables and the number dim p of constraints in (LP) do not exceed O(1)[dimx+dimb+∑ℓ=1mdimbℓ]ln1ϵ;every feasible solution x to (CQP) can be extended to a feasible solution (x, u) to (LP);if (x, u) is feasible for (LP), then x satisfies the “ϵ-relaxed” constraints of (CQP), namely, Ax≥b,‖Aℓx−bℓ‖2≤(1+ϵ)[cℓTx−dℓ],ℓ=1,…,m.
+Keywords
+Second-order cone programming linear programming polynomial-time reducibility 

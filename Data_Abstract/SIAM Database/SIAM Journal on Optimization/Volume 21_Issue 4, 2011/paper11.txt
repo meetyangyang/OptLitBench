@@ -1,0 +1,6 @@
+Piecewise-quadratic Approximations in Convex Numerical Optimization
+A.  Astorino, A.  Frangioni, M.  Gaudioso, and E.  Gorgone;
+Abstract
+We present a bundle method for convex nondifferentiable minimization where the model is a piecewise-quadratic convex approximation of the objective function. Unlike standard bundle approaches, the model only needs to support the objective function from below at a properly chosen (small) subset of points, as opposed to everywhere. We provide the convergence analysis for the algorithm, with a general form of master problem which combines features of trust region stabilization and proximal stabilization, taking care of all the important practical aspects such as proper handling of the proximity parameters and the bundle of information. Numerical results are also reported.
+Keywords
+nondifferentiable optimization, bundle methods, quadratic model, 90C26, 65K05, 

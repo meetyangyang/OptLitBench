@@ -1,0 +1,6 @@
+A Two-Dimensional Search Used with a Nonlinear Least-Squares Solver
+M. C. Bartholomew-Biggs;A. B. Forbes;
+Abstract
+This note describes a modified search strategy for use with a Gauss-Newton method for nonlinear least-squares problems. If a standard line search along the Gauss-Newton vector p is unable to make much progress, a new search direction is constructed which lies in the plane of p and the steepest-descent vector. Numerical experiments show that a quadratic model of the objective function in this plane can yield effective corrections when the basic Gauss-Newton technique experiences difficulty.
+Keywords
+Least squares  Gauss–Newton method  line searches  

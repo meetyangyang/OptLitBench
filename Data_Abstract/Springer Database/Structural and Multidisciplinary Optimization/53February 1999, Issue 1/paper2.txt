@@ -1,0 +1,6 @@
+Topology optimization using a dual method with discrete variables
+M. Beckers;
+Abstract
+This paper deals with topology optimization of continuous structures in static linear elasticity. The problem consists in distributing a given amount of material in a specified domain modelled by a fixed finite element mesh in order to minimize the compliance. As the design variables can only take two values indicating the presence or absence of material (1 and 0), this problem is intrinsicallydiscrete. Here, it is solved by a mathematical programming method working in the dual space and specially designed to handle discrete variables. This method is very wellsuited to topology optimization, because it is particularly efficient for problems with a large number of variables and a small number of constraints. To ensure the existence of a solution, the perimeter of the solid parts is bounded. A computer program including analysis and optimization has been developed. As it is specialized for regular meshes, the computational time is drastically reduced. Some classical 2-D and new 3-D problems are solved, with up to 30,000 design variables. Extensions to multiple load cases and to gravity loads are also examined.
+Keywords
+Design Variable  Topology Optimization  Dual Space  Load Case  Discrete Variable  

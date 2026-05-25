@@ -1,0 +1,4 @@
+Multiobjective Optimization in Linguistic Rule Extraction from Numerical Data
+Hisao Ishibuchi;Tomoharu Nakashima;Tadahiko Murata;
+Abstract
+We formulate linguistic rule extraction as a three-objective combinatorial optimization problem. Three objectives are to maximize the performance of an extracted rule set, to minimize the number of extracted rules, and to minimize the total length of extracted rules. The second and third objectives are related to comprehensibility of the extracted rule set. We describe and compare two genetic-algorithm-based approaches for finding nondominated rule sets with respect to the three objectives of our linguistic rule extraction problem. One approach is rule selection where a small number of linguistic rules are selected from prespecified candidate rules. The other is genetics-based machine learning where rule sets are evolved by generating new rules from existing ones using genetic operations.

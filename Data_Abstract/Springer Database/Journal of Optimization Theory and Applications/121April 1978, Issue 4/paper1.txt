@@ -1,0 +1,6 @@
+A gradient projection-multiplier method for nonlinear programming
+J. T. Betts;
+Abstract
+This paper describes a gradient projection-multiplier method for solving the general nonlinear programming problem. The algorithm poses a sequence of unconstrained optimization problems which are solved using a new projection-like formula to define the search directions. The unconstrained minimization of the augmented objective function determines points where the gradient of the Lagrangian function is zero. Points satisfying the constraints are located by applying an unconstrained algorithm to a penalty function. New estimates of the Lagrange multipliers and basis constraints are made at points satisfying either a Lagrangian condition or a constraint satisfaction condition. The penalty weight is increased only to prevent cycling. The numerical effectiveness of the algorithm is demonstrated on a set of test problems.
+Keywords
+Multiplier method  gradient projection method  penalty function methods  nonlinear programming  parameter optimization  

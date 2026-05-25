@@ -1,0 +1,6 @@
+A genetic algorithm for dynamic inbound ordering and outbound dispatching problem with delivery time windows
+ Byung   Soo   Kim ; Woon-Seek   Lee ; Shiegheun   Koh ;
+Abstract
+ This article considers an inbound ordering and outbound dispatching problem for a single product in a third-party warehouse, where the demands are dynamic over a discrete and finite time horizon, and moreover, each demand has a time window in which it must be satisfied. Replenishing orders are shipped in containers and the freight cost is proportional to the number of containers used. The problem is classified into two cases, i.e. non-split demand case and split demand case, and a mathematical model for each case is presented. An in-depth analysis of the models shows that they are very complicated and difficult to find optimal solutions as the problem size becomes large. Therefore, genetic algorithm (GA) based heuristic approaches are designed to solve the problems in a reasonable time. To validate and evaluate the algorithms, finally, some computational experiments are conducted. 
+Keywords
+dynamic demand, delivery time windows, genetic algorithm 

@@ -1,0 +1,6 @@
+A comparison of numerical methods for optimal shape design problems
+ Manfred   Laumen ;
+Abstract
+ Several optimal shape design problems are defined as a minimization problem with an equality constraint that is given by a boundary value problem. The mapping method transforms this to a specific control problem on a fixed domain. Discretizing this optimal control problem normally leads to a large scale optimization formulation where the corresponding solution methods are characterized by the requirement of solving many boundary value problems. In spite of this interesting numerical challenge, until now less research has been done on comparing different numerical optimization approaches including second order methods for optimal shape design problems. In this paper, Newton's and several variants of quasi-Newton methods are derived for a class of optimal shape design problems and compared to the commonly used gradient method. The pros and cons of these methods plus their nested iteration versions are discussed in detail. Various numerical experiences underline the importance of choosing the right optimization algorithm in order to achieve the most efficient method for these rather complicated problems. 
+Keywords
+Optimal shape design, Newton's method, quasi-Newton's method, gradient method, nested iteration 

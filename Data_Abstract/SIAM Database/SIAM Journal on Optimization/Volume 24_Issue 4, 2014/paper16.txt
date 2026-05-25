@@ -1,0 +1,6 @@
+A Merit Function Approach for Direct Search
+S.  Gratton and L. N.  Vicente;
+Abstract
+In this paper it is proposed to equip direct-search methods with a general procedure to minimize an objective function, possibly nonsmooth, without using derivatives and subject to constraints on the variables. One aims at considering constraints, most likely nonlinear or nonsmooth, for which the derivatives of the corresponding functions are also unavailable. The novelty of this contribution relies mostly on how relaxable constraints are handled. Such constraints, which can be relaxed during the course of the optimization, are taken care of by a merit function and, if necessary, by a restoration procedure. Constraints that are unrelaxable, when present, are treated by an extreme barrier approach. One is able to show that the resulting merit function direct-search algorithm exhibits global convergence properties for first-order stationary constraints. As in the progressive barrier method [C. Audet and J. E. Dennis Jr., SIAM J. Optim., 20 (2009), pp. 445--472], we provide a mechanism to indicate the transfer of constraints from the relaxable set to the unrelaxable one.
+Keywords
+derivative-free optimization, direct-search methods, constraints, merit function, penalty parameter, random directions, nonsmooth optimization, 90C65, 90C30, 

@@ -1,0 +1,6 @@
+Relaxations and exact solution of the variable sized bin packing problem
+Mohamed Haouari;Mehdi Serairi;
+Abstract
+We address a generalization of the classical one-dimensional bin packing problem with unequal bin sizes and costs. We investigate lower bounds for this problem as well as exact algorithms. The main contribution of this paper is to show that embedding a tight network flow-based lower bound, dominance rules, as well as an effective knapsack-based heuristic in a branch-and-bound algorithm yields very good performance. In addition, we show that the particular case with all weight items larger than a third the largest bin capacity can be restated and solved in polynomial-time as a maximum-weight matching problem in a nonbipartite graph. We report the results of extensive computational experiments that provide evidence that large randomly generated instances are optimally solved within moderate CPU times.
+Keywords
+Bin packing problem  Lower bounds  Branch-and-bound  

@@ -1,0 +1,6 @@
+A Full Nesterov–Todd Step Infeasible Interior-Point Method for Second-Order Cone Optimization
+M. Zangiabadi;G. Gu;C. Roos;
+Abstract
+After a brief introduction to Jordan algebras, we present a primal–dual interior-point algorithm for second-order conic optimization that uses full Nesterov–Todd steps; no line searches are required. The number of iterations of the algorithm coincides with the currently best iteration bound for second-order conic optimization. We also generalize an infeasible interior-point method for linear optimization to second-order conic optimization. As usual for infeasible interior-point methods, the starting point depends on a positive number. The algorithm either finds a solution in a finite number of iterations or determines that the primal–dual problem pair has no optimal solution with vanishing duality gap.
+Keywords
+Feasible interior-point method  Infeasible interior-point method  Second-order conic optimization  Jordan algebra  Polynomial complexity  

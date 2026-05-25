@@ -1,0 +1,6 @@
+A Support Function Based Algorithm for Optimization with Eigenvalue Constraints
+Emre  Mengi;
+Abstract
+Optimization of convex functions subject to eigenvalue constraints is intriguing because of peculiar analytical properties of eigenvalue functions and is of practical interest because of a wide range of applications in fields such as structural design and control theory. Here we focus on the optimization of a linear objective subject to a constraint on the smallest eigenvalue of an analytic and Hermitian matrix-valued function. We propose a numerical approach based on quadratic support functions that overestimate the smallest eigenvalue function globally. The quadratic support functions are derived by employing variational properties of the smallest eigenvalue function over a set of Hermitian matrices. We establish the local convergence of the algorithm under mild assumptions and deduce a precise rate of convergence result by viewing the algorithm as a fixed point iteration. The convergence analysis reveals that the algorithm is immune to the nonsmooth nature of the smallest eigenvalue. We illustrate the practical applicability of the algorithm on the pseudospectral functions.
+Keywords
+nonsmooth optimization, analytical properties of eigenvalues, support functions, Karush--Kuhn--Tucker conditions, fixed point theory, pseudospectra, 65F15, 90C26, 49J52, 

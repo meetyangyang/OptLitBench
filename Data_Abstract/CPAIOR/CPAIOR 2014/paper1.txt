@@ -1,0 +1,4 @@
+Call-Based Dynamic Programming for the Precedence Constrained Line Traveling Salesman
+Thierry Benoist;Antoine Jeanjean;Vincent Jost;
+Abstract
+The Precedence Constrained Line Traveling Salesman is a variant of the Traveling Salesman Problem, where the cities to be visited lie on a line, the distance between two cities is the absolute difference between their abscissae and a partial ordering is given on the set of cities. Such a problem is encountered on linear construction schemes for instance. Using key dominance properties and lower bounds, we design a call-based dynamic program able to solve instances with up to 450 cities.

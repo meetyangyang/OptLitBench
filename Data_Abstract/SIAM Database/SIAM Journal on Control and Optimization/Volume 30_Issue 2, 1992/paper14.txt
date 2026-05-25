@@ -1,0 +1,6 @@
+Mesh Independence of the Gradient Projection Method for Optimal Control Problems
+C. T.  Kelley and E. W.  Sachs;
+Abstract
+The gradient projection method and its application to optimal control have been analyzed with regard to the rate of convergence quite extensively. Here another aspect of this method is considered. In finite dimension the set of active indices is identified after finitely many iterations under mild nondegeneracy assumptions. However, it is clear that this property is restricted to the finite-dimensional case. In this paper, for example, a sequence of discretized optimal control problems is considered, and it is observed that the number of steps to identify all active indices increases with the refinement of the discretization. A. result analogous to the finite-dimensional result is valid in this situation if identification of active indices is understood in the correct light. This paper shows that if a different termination criterion is imposed, then the number of necessary steps for termination is indeed mesh-independent. Numerical observations illustrating this result are reported for various examples from optimal control.
+Keywords
+gradient projection method, finite identification of active indices, mesh independence, optimal control problems, 49D05, 49D07, 65K10, 

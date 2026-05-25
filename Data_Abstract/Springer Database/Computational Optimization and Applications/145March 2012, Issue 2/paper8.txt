@@ -1,0 +1,6 @@
+Neural networks for solving second-order cone constrained variational inequality problem
+Juhe Sun;Jein-Shan Chen;Chun-Hsu Ko;
+Abstract
+In this paper, we consider using the neural networks to efficiently solve the second-order cone constrained variational inequality (SOCCVI) problem. More specifically, two kinds of neural networks are proposed to deal with the Karush-Kuhn-Tucker (KKT) conditions of the SOCCVI problem. The first neural network uses the Fischer-Burmeister (FB) function to achieve an unconstrained minimization which is a merit function of the Karush-Kuhn-Tucker equation. We show that the merit function is a Lyapunov function and this neural network is asymptotically stable. The second neural network is introduced for solving a projection formulation whose solutions coincide with the KKT triples of SOCCVI problem. Its Lyapunov stability and global convergence are proved under some conditions. Simulations are provided to show effectiveness of the proposed neural networks.
+Keywords
+Second-order cone  Variational inequality  Fischer-Burmeister function  Neural network  Lyapunov stable  Projection function  

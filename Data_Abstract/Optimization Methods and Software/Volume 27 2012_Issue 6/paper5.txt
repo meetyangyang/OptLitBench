@@ -1,0 +1,6 @@
+The boundedness of penalty parameters in an augmented Lagrangian method with constrained subproblems
+ Ernesto   G.   Birgin ; Damián   Fernández ; J.   M.   Martínez ;
+Abstract
+ Augmented Lagrangian methods are effective tools for solving large-scale nonlinear programming problems. At each outer iteration, a minimization subproblem with simple constraints, whose objective function depends on updated Lagrange multipliers and penalty parameters, is approximately solved. When the penalty parameter becomes very large, solving the subproblem becomes difficult; therefore, the effectiveness of this approach is associated with the boundedness of the penalty parameters. In this paper, it is proved that under more natural assumptions than the ones employed until now, penalty parameters are bounded. For proving the new boundedness result, the original algorithm has been slightly modified. Numerical consequences of the modifications are discussed and computational experiments are presented. 
+Keywords
+nonlinear programming, augmented Lagrangian methods, penalty parameters, numerical experiments AMS Subject Classifications : 90C30, 49K99, 65K05 

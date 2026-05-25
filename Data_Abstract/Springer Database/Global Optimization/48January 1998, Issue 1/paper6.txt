@@ -1,0 +1,6 @@
+Two Heuristics for the Euclidean Steiner Tree Problem
+Derek R. Dreyer;Michael L. Overton;
+Abstract
+The Euclidean Steiner tree problem is to find the tree with minimal Euclidean length spanning a set of fixed points in the plane, allowing the addition of auxiliary points to the set (Steiner points). The problem is NP-hard, so polynomial-time heuristics are desired. We present two such heuristics, both of which utilize an efficient method for computing a locally optimal tree with a given topology. The first systematically inserts Steiner points between edges of the minimal spanning tree meeting at angles less than 120 degrees, performing a local optimization at the end. The second begins by finding the Steiner tree for three of the fixed points. Then, at each iteration, it introduces a new fixed point to the tree, connecting it to each possible edge by inserting a Steiner point, and minimizes over all connections, performing a local optimization for each. We present a variety of test cases that demonstrate the strengths and weaknesses of both algorithms.
+Keywords
+Euclidean Steiner tree  Interior-point algorithm  

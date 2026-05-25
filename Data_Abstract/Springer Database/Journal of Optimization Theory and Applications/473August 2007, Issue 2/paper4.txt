@@ -1,0 +1,8 @@
+Euler Discretization and Inexact Restoration for Optimal Control
+C. Y. Kaya;J. M. Martínez;
+Abstract
+
+A computational technique for unconstrained optimal control problems is presented. First, an Euler discretization is carried out to obtain a finite-dimensional approximation of the continuous-time (infinite-dimensional) problem. Then, an inexact restoration (IR) method due to Birgin and Martínez is applied to the discretized problem to find an approximate solution. Convergence of the technique to a solution of the continuous-time problem is facilitated by the convergence of the IR method and the convergence of the discrete (approximate) solution as finer subdivisions are taken. The technique is numerically demonstrated by means of a problem involving the van der Pol system; comprehensive comparisons are made with the Newton and projected Newton methods.
+
+Keywords
+Optimal control  Inexact restoration  Euler discretization  Projected Newton method  Lagrange multiplier update  

@@ -1,0 +1,6 @@
+Kernel Search: a new heuristic framework for portfolio selection
+Enrico Angelelli;Renata Mansini;M. Grazia Speranza;
+Abstract
+In this paper we propose a new heuristic framework, called Kernel Search, to solve the complex problem of portfolio selection with real features. The method is based on the identification of a restricted set of promising securities (kernel) and on the exact solution of the MILP problem on this set. The continuous relaxation of the problem solved on the complete set of available securities is used to identify the initial kernel and a sequence of integer problems are then solved to identify further securities to insert into the kernel. We analyze the behavior of several heuristic algorithms as implementations of the Kernel Search framework for the solution of the analyzed problem. The proposed heuristics are very effective and quite efficient. The Kernel Search has the advantage of being general and thus easily applicable to a variety of combinatorial problems.
+Keywords
+Kernel Search  Portfolio optimization with real features  Mixed Integer Linear Programming  

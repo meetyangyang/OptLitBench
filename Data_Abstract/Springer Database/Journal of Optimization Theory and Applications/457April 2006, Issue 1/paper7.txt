@@ -1,0 +1,6 @@
+On Robust, Multi-Input Sliding-Mode Based Control with a State-Dependent Boundary Layer
+G. Herrmann;S. K. Spurgeon;C. Edwards;
+Abstract
+This paper proposes a nonlinear multi-input control law using sliding mode concepts for continuous-time, uncertain, linear systems. The control law introduces a state-dependent layer around the sliding mode plane to remove chattering. This layer combines two types of boundary layers: a constant layer and a sector-shaped layer. The states will always enter the state-dependent boundary layer and the choice of the sliding mode will be seen to determine the ultimate system performance. A proof of stability shows ultimate boundedness. The controller is applied to a nonlinear simulation model of a cart-pendulum and exhibits a high degree of robustness. The new boundary layer in connection with a novel dynamically changing, state-dependent gain can be used to obtain a narrow boundary-layer shape in the operating region of interest. This permits rejection of disturbances without chattering of the control and improves on the performance expected of a sliding-mode control with constant boundary layer.
+Keywords
+Sliding-mode control  boundary layers  robust control  Lyapunov analysis  

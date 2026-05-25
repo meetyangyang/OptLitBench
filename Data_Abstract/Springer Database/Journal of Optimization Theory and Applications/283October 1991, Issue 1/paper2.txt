@@ -1,0 +1,6 @@
+Local convergence analysis for the REQP algorithm using conjugate basis matrices
+M. C. Bartholomew-Biggs;T. T. Nguyen;
+Abstract
+The REQP algorithm solves constrained minimization problems using a sequential quadratic programming technique based on the properties of penalty functions. The convergence of REQP has been studied elsewhere (Refs. 1, 2). This paper uses a novel approach to the analysis of the method near to the solution, based on the use of conjugate subspaces. The stepp taken by a constrained minimization algorithm can be thought of as having two components,h in the subspace tangential to the constraints andv in the subspace spanned by the constraint normals. It is usual forh andv to be orthogonal components. Recently, Dixon (Ref. 3) has suggested constructingp from components which are not orthogonal. That is, we writep=h′ + v′, whereh′ is in the subspace tangential to the constraints and wherev′ andh′ are conjugate with respect to the Hessian of the Lagrangian function. By looking at the conjugate components of the REQP search directions, it is possible to simplify the analysis of the behavior near the solution and to obtain new results about the local rate of convergence of the method.
+Keywords
+Constrained optimization  conjugate bases  sequential quadratic programming  local convergence  

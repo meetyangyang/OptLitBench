@@ -1,0 +1,6 @@
+Optimal Consecutive-2-Out-of-n Systems
+D. Z. Du;F. K. Hwang;
+Abstract
+A consecutive-2-out-of-n cycle (line) is a system of n items ordered into a cycle (line) such that the system fails if and only if two consecutive items both fail. A double-loop ring network for computers is such a cyclic system when the computers are also connected by a second loop which skips every other computer in the cycle (if n is even, there are two half loops). Suppose that item Ii works with probability Pi and that the items have been indexed so that P1 ≤ P2 ≤ ⋯ ≤ Pn. Suppose further that any permutation of the n items constitutes a system. It has been conjectured that the cyclic system $$C_n^{\ast} = (I_nI_1I_{n-1}I_3I_{n-3} \ldots I_{n-4}I_4I_{n-2}I_2I_n)$$ minimizes the probability of failure over all such arrangements and that the line system Ln* = I1InI3In−2 … In−3I4In−1I2 minimizes the probability of failure over all arrangements of the items into a line (the line conjecture follows from the cycle conjecture by setting Pn = 1). In this paper we prove the cycle conjecture.
+Keywords
+2-out-of-n systems reliability computer networks 

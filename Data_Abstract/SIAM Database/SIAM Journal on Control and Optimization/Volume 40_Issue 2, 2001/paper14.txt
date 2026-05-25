@@ -1,0 +1,6 @@
+A Robust Control Framework for Linear, Time-Invariant, Spatially Distributed Systems
+J.  Reinschke, M. W.  Cantoni, and M. C.  Smith;
+Abstract
+A robust control framework for linear, time-invariant (LTI), spatially distributed systems is outlined in this paper. We adopt an input-output approach which takes account of the spatially distributed nature of the input and output signals for such systems. The approach is a generalization of $H^\infty$\xspace control in the sense that the 2-norm (in both time and space) is used to quantify the size of signals. It is shown that a frequency-domain representation, in the form of a graph symbol, exists for every LTI, spatially distributed system under very mild assumptions. The graph symbol gives rise to left and right coprime representations if the system is also stabilizable. We investigate fundamental issues of feedback control such as feedback stability and robust stability to plant and/or controller uncertainty quantified in the gap-metric. This includes a generalization of the Sefton--Ober gap formula to the infinite-dimensional operator case. A design example in which an electrostatically destabilized membrane is feedback-stabilized concludes the paper.
+Keywords
+spatially distributed systems, distributed-parameter systems, robust stability, gap-metric, $H^\infty$-control, 93C20, 93C30, 93D09, 93D15, 93D25, 

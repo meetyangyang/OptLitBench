@@ -1,0 +1,6 @@
+Parallel decomposition methods for linearly constrained problems subject to simple bound with application to the SVMs training
+Andrea Manno;Laura Palagi;Simone Sagratella;
+Abstract
+We consider the convex quadratic linearly constrained problem with bounded variables and with huge and dense Hessian matrix that arises in many applications such as the training problem of bias support vector machines. We propose a decomposition algorithmic scheme suitable to parallel implementations and we prove global convergence under suitable conditions. Focusing on support vector machines training, we outline how these assumptions can be satisfied in practice and we suggest various specific implementations. Extensions of the theoretical results to general linearly constrained problem are provided. We included numerical results on support vector machines with the aim of showing the viability and the effectiveness of the proposed scheme.
+Keywords
+Decomposition algorithm  Big data  Support vector machines  Parallel computing  

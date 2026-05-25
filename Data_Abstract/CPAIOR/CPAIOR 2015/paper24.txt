@@ -1,0 +1,4 @@
+MaxSAT-Based Cutting Planes for Learning Graphical Models
+Paul Saikko;Brandon Malone;Matti Järvisalo;
+Abstract
+A way of implementing domain-specific cutting planes in branch-and-cut based Mixed-Integer Programming (MIP) solvers is through solving so-called sub-IPs, solutions of which correspond to the actual cuts. We consider the suitability of using Maximum satisfiability solvers instead of MIP for solving sub-IPs. As a case study, we focus on the problem of learning optimal graphical models, namely, Bayesian and chordal Markov network structures.

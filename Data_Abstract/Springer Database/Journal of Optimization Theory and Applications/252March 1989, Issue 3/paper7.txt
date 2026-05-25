@@ -1,0 +1,6 @@
+A sparse sequential quadratic programming algorithm
+R. H. Nickel;J. W. Tolle;
+Abstract
+Described here is the structure and theory for a sequential quadratic programming algorithm for solving sparse nonlinear optimization problems. Also provided are the details of a computer implementation of the algorithm along with test results. The algorithm maintains a sparse approximation to the Cholesky factor of the Hessian of the Lagrangian. The solution to the quadratic program generated at each step is obtained by solving a dual quadratic program using a projected conjugate gradient algorithm. An updating procedure is employed that does not destroy sparsity.
+Keywords
+Sequential quadratic programming  large-scale programming  nonlinear programming  incomplete Cholesky factorization  quadratic programming  dual methods  

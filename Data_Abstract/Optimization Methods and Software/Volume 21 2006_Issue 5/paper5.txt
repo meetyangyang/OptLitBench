@@ -1,0 +1,6 @@
+Sparsity in convex quadratic programming with interior point methods
+ Csaba   Mészáros ;
+Abstract
+ In this paper, we investigate how the sparsity of non-separable quadratic programming (QP) problems behaves in interior point methods. The target of our investigation is to compare the separable equivalent of QPs with the normal equation (NOR) and augmented system (AUG) approach on the non-separable form. We show that one can easily attribute the sparsity issues of non-separable QP problems to that of linear programming for which well-developed techniques are available. We describe how the structural properties of non-separable QP problems can be represented by a single matrix whose sparsity pattern can serve to determine a fill-reducing row permutation. We show that the heuristics developed for linear programming can be used for determining which of the AUG and NOR approaches is more advantageous. Numerical results are given on publicly available non-separable convex QP problems. 
+Keywords
+Quadratic programming, Interior point methods, Large-scale optimization 

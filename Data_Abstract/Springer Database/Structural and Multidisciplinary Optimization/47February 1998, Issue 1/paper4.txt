@@ -1,0 +1,6 @@
+Sequential quadratic programming and the ASTROS structural optimization system
+M. A. Abramson;J. W. Chrissis;
+Abstract
+The NLPQL sequential quadratic programming algorithm of Schittkowski is integrated with the Automated Structural Optimization System (ASTROS) and tested on three largescale optimization problems, including one with constraints from multiple disciplines. Furthermore, the traditional solution approach, which involves the formulation and solution of an explicitly defined approximate problem during each iteration, is replaced by a simpler approach, in which the approximate problem is eliminated, and each finite element analysis is followed by one iteration of the optimizer. To compensate for the cost of additional analyses, a much more restrictive active set strategy is used. Although not much computational efficiency is gained, the alternative approach gives accurate solutions. The largest test problem, which had 1527 design variables and 6124 constraints was solved with ASTROS for the first time using a direct method. The resulting design represents the lowest weight feasible design recorded to date.
+Keywords
+Finite Element Analysis  Design Variable  Quadratic Programming  Solution Approach  Programming Algorithm  

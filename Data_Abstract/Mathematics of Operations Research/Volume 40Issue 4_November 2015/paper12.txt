@@ -1,0 +1,6 @@
+The Complexity of Computing the Random Priority Allocation Matrix
+Daniela Saban;Jay Sethuraman;
+Abstract
+The random priority (RP) mechanism is a popular way to allocate n objects to n agents with strict ordinal preferences over the objects. In the RP mechanism, an ordering over the agents is selected uniformly at random; the first agent is then allocated his most-preferred object, the second agent is allocated his most-preferred object among the remaining ones, and so on. The outcome of the mechanism is a bi-stochastic matrix in which entry (i, a) represents the probability that agent i is given object a. It is shown that the problem of computing the RP allocation matrix is #P-complete. Furthermore, it is NP-complete to decide if a given agent i receives a given object a with positive probability under the RP mechanism, whereas it is possible to decide in polynomial time whether or not agent i receives object a with probability 1. The implications of these results for approximating the RP allocation matrix as well as on finding constrained Pareto optimal matchings are discussed.
+Keywords
+networks graphs randomized algorithms random priority assignment matching complexity 

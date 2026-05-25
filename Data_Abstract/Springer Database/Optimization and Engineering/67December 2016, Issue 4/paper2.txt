@@ -1,0 +1,6 @@
+Fast projected gradient method for support vector machines
+Veronica Bloom;Igor Griva;Fabio Quijada;
+Abstract
+We present an algorithm for training dual soft margin support vector machines (SVMs) based on an augmented Lagrangian (AL) that uses a modification of the fast projected gradient method (FPGM) with a projection on a box set. The FPGM requires only first derivatives, which for the dual soft margin SVM means computing mainly a matrix-vector product. Therefore, AL-FPGM being computationally inexpensive may complement existing quadratic programming solvers for training large SVMs. We report numerical results for training the SVM with the AL-FPGM on data up to tens of thousands of data points from the UC Irvine Machine Learning Repository.
+Keywords
+Machine learning  Optimization  Support vector machines  Fast gradient  

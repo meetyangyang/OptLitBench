@@ -1,0 +1,6 @@
+Finding maximum likelihood estimators for the three-parameter Weibull distribution
+Éric Gourdin;Pierre Hansen;Brigitte Jaumard;
+Abstract
+Much work has been devoted to the problem of finding maximum likelihood estimators for the three-parameter Weibull distribution. This problem has not been clearly recognized as a global optimization one and most methods from the literature occasionally fail to find a global optimum. We develop a global optimization algorithm which uses first order conditions and projection to reduce the problem to a univariate optimization one. Bounds on the resulting function and its first order derivative are obtained and used in a branch-and-bound scheme. Computational experience is reported. It is also shown that the solution method we propose can be extended to the case of right censored samples.
+Keywords
+Global optimization  decomposition  maximum likelihood estimation  Weibull distribution  

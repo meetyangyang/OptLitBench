@@ -1,0 +1,4 @@
+Learning General Constraints in CSP
+Michael Veksler;Ofer Strichman;
+Abstract
+We present a new learning scheme for CSP solvers, which is based on learning (general) constraints rather than generalized no-goods or signed-clauses that were used in the past. The new scheme is integrated in a conflict-analysis algorithm reminiscent of a modern systematic SAT solver: it traverses backwards the conflict graph and gradually builds an asserting conflict constraint. This construction is based on new inference rules that are tailored for various pairs of constraints types, e.g., \(x \le y_1 + k_1\) and \(x \ge y_2+ k_2\), or \(y_{1}\le x\) and \([x,y_{2}]\not \subseteq [a,b]\). The learned constraint is stronger than what can be learned via signed resolution. Our experiments show that our solver HCSP backtracks orders of magnitude less than other state-of-the-art solvers, and is overall on par with the winner of this year’s MiniZinc challenge.

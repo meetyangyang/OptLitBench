@@ -1,0 +1,4 @@
+Orbital Shrinking: A New Tool for Hybrid MIP/CP Methods
+Domenico Salvagnin;
+Abstract
+Orbital shrinking is a newly developed technique in the MIP community to deal with symmetry issues, which is based on aggregation rather than on symmetry breaking. In a recent work, a hybrid MIP/CP scheme based on orbital shrinking was developed for the multi-activity shift scheduling problem, showing significant improvements over previous pure MIP approaches. In the present paper we show that the scheme above can be extended to a general framework for solving arbitrary symmetric MIP instances. This framework naturally provides a new way for devising hybrid MIP/CP decompositions. Finally, we specialize the above framework to the multiple knapsack problem. Computational results show that the resulting method can be orders of magnitude faster than pure MIP approaches on hard symmetric instances.

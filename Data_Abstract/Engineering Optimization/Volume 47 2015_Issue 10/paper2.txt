@@ -1,0 +1,6 @@
+Bi-directional evolutionary structural optimization for design-dependent fluid pressure loading problems
+R. Picelli;W.M. Vicente;R. Pavanello;
+Abstract
+This article presents an evolutionary topology optimization method for compliance minimization of structures under design-dependent pressure loads. In traditional density based topology optimization methods, intermediate values of densities for the solid elements arise along the iterations. Extra boundary parametrization schemes are demanded when these methods are applied to pressure loading problems. An alternative methodology is suggested in this article for handling this type of load. With an extended bi-directional evolutionary structural optimization method associated with a partially coupled fluid–structure formulation, pressure loads are modelled with hydrostatic fluid finite elements. Due to the discrete nature of the method, the problem is solved without any need of pressure load surfaces parametrization. Furthermore, the introduction of a separate fluid domain allows the algorithm to model non-constant pressure fields with Laplace's equation. Three benchmark examples are explored in order to show the achievements of the proposed method.
+Keywords
+structural topology optimization, design-dependent loads, pressure loading problems, evolutionary structural optimization, BESO method 

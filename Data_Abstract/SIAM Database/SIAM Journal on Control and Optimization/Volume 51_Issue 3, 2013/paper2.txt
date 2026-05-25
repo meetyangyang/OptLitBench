@@ -1,0 +1,6 @@
+An Euler--Newton Continuation Method for Tracking Solution Trajectories of Parametric Variational Inequalities
+A. L.  Dontchev, M. I.  Krastanov, R. T.  Rockafellar, and V. M.  Veliov;
+Abstract
+A finite-dimensional variational inequality parameterized by $t\in [0,1]$ is studied under the assumption that each point of the graph of its generally set-valued solution mapping is a point of strongly regularity.  It is shown that there are  finitely many Lipschitz continuous functions on $[0,1]$ whose graphs do not intersect each other such that for each value of the parameter the set of values of the solution mapping is  the union of the values of these functions. Moreover, the property of strong regularity  is uniform with respect to the parameter along any such function graph. An Euler--Newton continuation method for tracking a solution trajectory is introduced and demonstrated to have $l^\infty$ accuracy  of order $O(h^4)$, thus generalizing a known error estimate for  equations. Two examples of tracking economic equilibrium parametrically illustrate the theoretical results. (A correction is attached.)
+Keywords
+variational inequality, strong  regularity, Euler--Newton continuation, error estimate, economic equilibrium, Primary, 49J53; Secondary, 49K40, 65H20, 90C30, 

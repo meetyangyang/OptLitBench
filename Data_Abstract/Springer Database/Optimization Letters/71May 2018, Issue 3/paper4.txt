@@ -1,0 +1,6 @@
+Multi-criteria approximation schemes for the resource constrained shortest path problem
+Markó Horváth;Tamás Kis;
+Abstract
+In the resource constrained shortest path problem we are given a directed graph along with a source node and a destination node, and each arc has a cost and a vector of weights specifying its requirements from a set of resources with finite budget limits. A minimum cost source-destination path is sought such that the total consumption of the arcs from each resource does not exceed its budget limit. In the case of constant number of weight functions we give a fully polynomial time multi-criteria approximation scheme for the problem which returns a source-destination path of cost at most the optimum, however, the path may slightly violate the budget limits. On the negative side, we show that there does not exist a polynomial time multi-criteria approximation scheme for the problem if the number of weight functions is not a constant. The latter result applies to a broad class of problems as well, including the multi-dimensional knapsack, the multi-budgeted spanning tree, the multi-budgeted matroid basis and the multi-budgeted bipartite perfect matching problems.
+Keywords
+Multi-criteria approximation algorithms  Resource constrained shortest path  Multi-budgeted combinatorial optimization  

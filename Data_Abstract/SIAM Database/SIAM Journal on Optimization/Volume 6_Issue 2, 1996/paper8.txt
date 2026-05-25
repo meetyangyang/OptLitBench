@@ -1,0 +1,6 @@
+Projected Sequential Quadratic Programming Methods
+Matthias  Heinkenschloss;
+Abstract
+In this paper we introduce and analyze a class of optimization methods, called projected sequential quadratic programming (SQP) methods, for the solution of optimization problems with nonlinear equality constraints and simple bound constraints on parts of the variables. Such problems frequently arise in the numerical solution of optimal control problems. Projected SQP methods combine the ideas of projected Newton methods and SQP methods. They use the simple projection onto the set defined by the bound constraints and maintain feasibility with respect to these constraints. The iterates are computed using an extension of SQP methods and require only the solution of the linearized equality constraint. Global convergence of these methods is enforced using a constrained merit function and an Armijo-like line search. We discuss global and local convergence properties of these methods, the identification of active indices, and we present numerical examples for an optimal control problem governed by a nonlinear heat equation.
+Keywords
+sequential quadratic programming methods, projected Newton methods, merit function, bound constraints, optimal control, 49M37, 90C30, 

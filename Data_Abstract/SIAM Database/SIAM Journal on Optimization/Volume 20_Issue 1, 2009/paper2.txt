@@ -1,0 +1,6 @@
+An Adaptive Linear Approximation Algorithm for Copositive Programs
+Stefan  Bundfuss and Mirjam  Dür;
+Abstract
+We study linear optimization problems over the cone of copositive matrices. These problems appear in nonconvex quadratic and binary optimization; for instance, the maximum clique problem and other combinatorial problems can be reformulated as such problems. We present new polyhedral inner and outer approximations of the copositive cone which we show to be exact in the limit. In contrast to previous approximation schemes, our approximation is not necessarily uniform for the whole cone but can be guided adaptively through the objective function, yielding a good approximation in those parts of the cone that are relevant for the optimization and only a coarse approximation in those parts that are not. Using these approximations, we derive an adaptive linear approximation algorithm for copositive programs. Numerical experiments show that our algorithm gives very good results for certain nonconvex quadratic problems.
+Keywords
+copositive cone, copositive programming, quadratic programming, approximation algorithms, 90C05, 90C20, 15A48, 15A63, 05C69, 

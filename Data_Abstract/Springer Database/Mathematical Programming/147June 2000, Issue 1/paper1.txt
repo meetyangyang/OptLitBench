@@ -1,0 +1,6 @@
+A trust region and affine scaling interior point method for nonconvex minimization with linear inequality constraints
+Thomas F. Coleman;Yuying Li;
+Abstract
+A trust region and affine scaling interior point method (TRAM) is proposed for a general nonlinear minimization with linear inequality constraints [8]. In the proposed approach, a Newton step is derived from the complementarity conditions. Based on this Newton step, a trust region subproblem is formed, and the original objective function is monotonically decreased. Explicit sufficient decrease conditions are proposed for satisfying the first order and second order necessary conditions.¶The objective of this paper is to establish global and local convergence properties of the proposed trust region and affine scaling interior point method. It is shown that the proposed explicit decrease conditions are sufficient for satisfy complementarity, dual feasibility and second order necessary conditions respectively. It is also established that a trust region solution is asymptotically in the interior of the proposed trust region subproblem and a properly damped trust region step can achieve quadratic convergence.
+Keywords
+Key words: trust region – interior point method – Dikin-affine scaling – Newton step  

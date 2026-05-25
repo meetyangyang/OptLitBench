@@ -1,0 +1,6 @@
+Partially Observed Markov Decision Process Multiarmed Bandits—Structural Results
+Vikram Krishnamurthy;Bo Wahlberg;
+Abstract
+This paper considers multiarmed bandit problems involving partially observed Markov decision processes (POMDPs). We show how the Gittins index for the optimal scheduling policy can be computed by a value iteration algorithm on each process, thereby considerably simplifying the computational cost. A suboptimal value iteration algorithm based on Lovejoy's approximation is presented. We then show that for the case of totally positive of order 2 (TP2) transition probability matrices and monotone likelihood ratio (MLR) ordered observation probabilities, the Gittins index is MLR increasing in the information state. Algorithms that exploit this structure are then presented.
+Keywords
+multiarmed bandits partially observed Markov decision process monotone policies likelihood ratio ordering opportunistic scheduling stochastic approximation algorithm 

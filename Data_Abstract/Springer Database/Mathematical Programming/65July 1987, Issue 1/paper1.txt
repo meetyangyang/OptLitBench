@@ -1,0 +1,6 @@
+Updating conjugate directions by the BFGS formula
+M. J. D. Powell;
+Abstract
+Many iterative algorithms for optimization calculations form positive definite second derivative approximations,B say, automatically, butB is not stored explicitly because of the need to solve equations of the formBd--g. We consider working with matricesZ, whose columns satisfy the conjugacy conditionsZ 1 BZ=1. Particular attention is given to updatingZ in a way that corresponds to revisingB by the BFGS formula. A procedure is proposed that seems to be much more stable than the direct use of a product formula [1]. An extension to this procedure provides some automatic rescaling of the columns ofZ, which avoids some inefficiencies due to a poor choice of the initial second derivative approximation. Our work is also relevant to active set methods for linear inequality constraints, to updating the Cholesky factorization ofB, and to explaining some properties of the BFGS algorithm.
+Keywords
+Nonlinear programming  conjugate directions  updating  variable metric algorithms  

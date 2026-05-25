@@ -1,0 +1,6 @@
+A parallel version of a quasigradient methoid In stochastic control theory ∗  
+ Holger.   Blaar ;
+Abstract
+ We solve an optimal control problem for controlled parabolic Ito equations by a stochastic quasigradient method. Because of high amounts of computation time required by numerical solution of such problems we investigate the parallelization of the algorithm. We distribute the computations of space stages over several processor nodes of a parallel computer. We obtain an efficient algorithm with low communication cost by using a ring topology  
+Keywords
+Stochastic optimization, Control, Parallel algorithms 

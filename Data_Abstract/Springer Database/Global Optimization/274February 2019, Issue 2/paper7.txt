@@ -1,0 +1,6 @@
+Robot path planning in a dynamic environment with stochastic measurements
+Adriano Zanin Zambom;Brian Seguin;Feifei Zhao;
+Abstract
+We study the problem of trajectory planning for autonomous vehicles designed to minimize the travel distance while avoiding moving obstacles whose position and speed are not known. Because, in practice, observations from sensors have measurement errors, the stochasticity of the data is modeled using maximum likelihood estimators, which are shown to be consistent as the sample size increases. To comply with the kinematic constraints of the vehicle, we consider smooth trajectories that can be represented by a linear combination of B-spline basis functions, transforming the infinite-dimensional problem into a finite-dimensional one. Moreover, a smooth penalty function is added to the travel distance, transforming the constrained optimization problem into an unconstrained one. The planned stochastic trajectory, obtained from the minimization problem with stochastic confidence regions, is shown to converge almost surely to the deterministic one as the number of sensor observations increases. Finally, we present two simulation studies to demonstrate the proposed method.
+Keywords
+Autonomous vehicle  B-splines  Kinematics  Constrained optimization  Moving obstacle avoidance  

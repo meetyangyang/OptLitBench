@@ -1,0 +1,6 @@
+On the Fine-Grain Decomposition of Multicommodity Transportation Problems
+Stavros A.  Zenios;
+Abstract
+A simple algorithm for nonlinear optimization problems with multicommodity transportation constraints is developed. The algorithm is of the row-action type and, when properly applied, decomposes the underlying graph alternatingly by nodes and arcs. Hence, a fine-grain decomposition scheme is developed that is suitable for massively parallel computer architectures of the SIMD (i.e., single instruction stream, multiple data stream) class.Data structures are developed for the implementation of both dense and sparse problems, and details of an implementation on a Connection Machine CM-2 with 32K processing elements are given. The dense implementation achieves computing rate of up to three GFLOPS. Several aspects of the algorithm are investigated empirically. Computational results are reported for the solution of quadratic programs with approximately 10 million columns and 100 thousand rows.
+Keywords
+multicommodity networks, nonlinear programming, massively parallel computing , 90C08, 90C30, 65K05, 

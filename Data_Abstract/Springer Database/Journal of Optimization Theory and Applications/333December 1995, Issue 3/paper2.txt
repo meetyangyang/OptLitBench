@@ -1,0 +1,6 @@
+Stable observer-based trajectory controller for asymptotic model matching of a rigid robot
+A. Ailon;R. Segev;
+Abstract
+This paper considers a control problem that requires the design of an observed-based compensator in order to guarantee the asymptotic convergence of the output (namely, the joint generalized coordinates of ann-degree of freedom robot) to a corresponding output produced by a linear reference model. It is shown that, for a model having a relative degree vector {r1, ...,rn}, withr i ≥2, it is possible to determine a controller-observer yielding a robot output that converges exponentially to the desired model output. Moreover, the combined system comprising the plant and the controller is internally stable in the semiglobal sense. The solution to the standard trajectory-following problem in robotics is obtained as a simplified case of the underlying model matching problem. While the controller-observer is nonlinear, its dynamic part is linear time-varying; in addition, the construction does not assume a priori the knowledge or even the existence of an upper bound to the model state vector.
+Keywords
+Robot control  observers  model matching  trajectoryfollowing problem  internal stability  

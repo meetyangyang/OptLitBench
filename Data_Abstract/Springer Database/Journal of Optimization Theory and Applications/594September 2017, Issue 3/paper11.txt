@@ -1,0 +1,6 @@
+Optimal Control of a Constrained Bilinear Dynamic System
+Ido Halperin;Grigory Agranovich;Yuri Ribakov;
+Abstract
+In this paper, an optimal feedback, for a free vibrating semi-active controlled plant, is derived. The problem is represented as a constrained optimal control problem of a single input, free vibrating bilinear system, and a quadratic performance index. It is solved by using Krotov’s method and to this end, a novel sequence of Krotov functions that suits the addressed problem, is derived. The solution is arranged as an algorithm, which requires solving the states equation and a differential Lyapunov equation in each iteration. An outline of the proof for the algorithm convergence is provided. Emphasis is given on semi-active control design for stable free vibrating plants with a single control input. It is shown that a control force, derived by the proposed technique, obeys the physical constraint related with semi-active actuator force without the need of any arbitrary signal clipping. The control efficiency is demonstrated with a numerical example.
+Keywords
+Optimal control  Feedback  Semi-active structural control  Krotov’s method  Bilinear quadratic regulator  49K21  49J15  93C95  34H05  

@@ -1,0 +1,6 @@
+Stabilization of Navier--Stokes Equations by Oblique Boundary Feedback Controllers
+Viorel  Barbu;
+Abstract
+One designs a linear stabilizing boundary feedback controller $u$ for the equilibrium solutions to  Navier--Stokes system on a bounded and open domain $\mathcal{O}\subset\mathbb{R}^d, d=2$, $u=\eta\mbox{$1\!\!\!\;\mathrml$}_\Gamma\displaystyle\sum\nolimits^N_{j=1}\mu_j\left<y,\varphi^*_j\right> (\phi_j (x)+\alpha(x)\vec n(x))$, where $\Gamma$ is a connected component of the boundary $\partial\mathcal{O}$ and   $\mbox{$1\!\!\!\;\mathrml$}_\Gamma$ is the characteristic function of  $\Gamma$. Here, $\phi_j$ are related to the eigenfunction system $\{\varphi^*_j\}$ for the adjoint Stokes--Oseen system, $\vec n$ is the normal to $\partial\mathcal{O}$, $\left<\cdot,\cdot\right>$ is the scalar product in$(L^2(\mathcal{O}))^d$, and $\alpha$  is an arbitrary $C^2$-function  with circulation zero on $\partial\mathcal{O}$. For $d=2,3$ this  controller stabilizes the corresponding linearized (Oseen--Stokes) system.
+Keywords
+Navier--Stokes system, Stokes--Oseen operator, feedback controller, eigenvalue, Primary, 93B52, 93C20, 93D15; Secondary, 35Q30, 76D55, 76D15, 

@@ -1,0 +1,6 @@
+Ill-Posedness and the Complexity of Deciding Existence of Solutions to Linear Programs
+Jorge R.  Vera;
+Abstract
+We discuss efficient algorithms for deciding existence of solutions to linear programs specified with approximate data. This is important in applications where only an approximation to the real data of the problem is available for computation, or where rounding errors prevent the use of exact numbers. The algorithms are efficient from the point of view of computation and needed data, requiring excessive computation and an excessively precise approximation only for nearly ill-posed instances. We illustrate how the proximity to ill-posedness measures the “conditioning” of the problem and plays an important role in the complexity analysis. This work is one step toward the understanding of ill-posedness in optimization problems and the development of a general complexity theory of problem solving with approximate data.
+Keywords
+theory of linear programming, complexity of linear programming, conditioning, 90C, 90C05,  90C60, 

@@ -1,0 +1,6 @@
+Speeding up Karmarkar's algorithm for multicommodity flows
+Sanjiv Kapoor;Pravin M. Vaidya;
+Abstract
+We show how to speed up Karmarkar's linear programming algorithm for the case of multicommodity flows. The special structure of the constraint matrix is exploited to obtain an algorithm for the multicommodity flow problem which requires O(s 3.5 v 2.5 eL) arithmetic operations, each operation being performed to a precision of O (L) bits. Herev is the number of vertices ande is the number of edges in the given network,s is the number of commodities, andL is bounded by the number of bits in the input. We obtain a speed up of the order of (e 0.5/v 0.5)+(e 2.5/v 2.5s2) over Karmarkar's modified algorithm which is substantial for dense networks. The techniques in the paper can also be used to speed up any interior point algorithm for any linear programming problem whose constraint matrix is structurally similar to the one in the multicommodity flow problem.
+Keywords
+Multicommodity flows  Interior point methods  Linear programming  

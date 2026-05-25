@@ -1,0 +1,7 @@
+Parallel branch, cut, and price for large-scale discrete optimization
+T.K. Ralphs;L. Ladányi;M.J. Saltzman;
+Abstract
+In discrete optimization, most exact solution approaches are based on branch and bound, which is conceptually easy to parallelize in its simplest forms. More sophisticated variants, such as the so-called branch, cut, and price algorithms, are more difficult to parallelize because of the need to share large amounts of knowledge discovered during the search process. In the first part of the paper, we survey the issues involved in parallelizing such algorithms. We then review the implementation of SYMPHONY and COIN/BCP, two existing frameworks for implementing parallel branch, cut, and price. These frameworks have limited scalability, but are effective on small numbers of processors. Finally, we briefly describe our next-generation framework, which improves scalability and further abstracts many of the notions inherent in parallel BCP, making it possible to implement and parallelize more general classes of algorithms.
+
+Keywords
+integer programming  discrete optimization  parallel algorithm  branch and bound  branch and cut  branch and price  branch, cut, and price  

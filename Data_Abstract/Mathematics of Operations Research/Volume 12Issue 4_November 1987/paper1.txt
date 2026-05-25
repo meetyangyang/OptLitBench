@@ -1,0 +1,6 @@
+Relaxation Methods for Linear Programs
+Paul Tseng;Dimitri P. Bertsekas;
+Abstract
+In this paper we propose a new method for solving linear programs. This method may be viewed as a generalized coordinate descent method whereby the descent directions are chosen from a finite set. The generation of the descent directions are based on results from monotropic programming theory. The method may be alternatively viewed as an extension of the relaxation method for network flow problems (Bertsekas, D. P. 1982. A unified framework for minimum cost network flow problems. LIDS Report P-1245-A, Mass. Institute of Technology, October; also 1985. Math. Programming32 125–145; Bertsekas, D. P., Tseng, P. 1985. Relaxation methods for minimum cost ordinary and generalized network flow problems. LIDS Report P-1462, Massachusetts Institute of Technology, May.). Node labeling, cuts, and flow augmentation paths in the network case correspond to, respectively, tableau pivoting, rows of tableaus, and columns of tableaus possessing special sign patterns in the linear programming case.
+Keywords
+elementary vectors Tucker representations painted index algorithm epsilon-complementary slackness 

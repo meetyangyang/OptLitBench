@@ -1,0 +1,6 @@
+Shades of grey: A critical review of grey-number optimization
+ David   E.   Rosenberg ;
+Abstract
+ A grey number is an uncertain number with fixed lower and upper bounds but unknown distribution. Grey numbers find use in optimization to systematically and proactively incorporate uncertainties expressed as intervals plus communicate resulting stable, feasible ranges for the objective function and decision variables. This article critically reviews their use in linear and stochastic programs with recourse. It summarizes grey model formulation and solution algorithms. It advances multiple counter-examples that yield risk-prone grey solutions that perform worse than a worst-case analysis and do not span the stable feasible range of the decision space. The article suggests reasons for the poor performance and identifies conditions for which it typically occurs. It also identifies a fundamental shortcoming of grey stochastic programming with recourse and suggests new solution algorithms that give more risk-adverse solutions. The review also helps clarify the important advantages, disadvantages, and distinctions between risk-prone and risk-adverse grey-programming and best/worst case analysis. 
+Keywords
+interval number, linear program, stochastic program with recourse, optimization with uncertainty 

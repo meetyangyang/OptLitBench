@@ -1,0 +1,6 @@
+Strategy for Quickest Second Meeting of Two Agents in Two Locations
+Richard Weber;
+Abstract
+Howard [Howard, J. V. 2006. Unsolved symmetric rendezvous search problems: Some old and some new. Presentation, Sixth International Workshop in Search Games and Rendezvous, July 26, London School of Economics, London] has described a simply but nontrivial symmetric rendezvous search game in which two players are initially placed in two distinct locations. The game is played in discrete steps, at each of which each player can either stay where she is or move to the other location. When the players are in the same location for the first time they do not see one another, but when they are in the same location for a second time, then they meet. We wish to find a strategy such that, if both players follow it independently, then the expected number of steps at which this second meeting occurs is minimized. Howard conjectured that the optimal strategy is 3-Markovian, such that in each successive block of three steps the players should, with equal probability, do SSS, SMS, MSM, MMM, where “M” means move and “S” means stay. We prove that this strategy is optimal.
+Keywords
+rendezvous search search games semidefinite programming 

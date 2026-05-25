@@ -1,0 +1,6 @@
+A stochastic algorithm for optimization problems with continua of inequalities
+Y. Wardi;
+Abstract
+Optimization algorithms for solving mathematical programming problems involving continua of inequalities are presented. The algorithms use an outer-approximation method, by which they attempt to approximate, at each point, the maxima of sets of inequality constraints. They do so by performing random experiments, resulting in a finite number of points, over which the maximum is taken. They use constraint-dropping schemes, by which they eliminate points from the constraint set at hand, which are felt to be irrelevant. At each point that the algorithms construct, they evaluate a measure of optimality, which indicates the distance of the point from the set of solutions of the optimization problem. They use this measure to determine the number of random experiments performed. Thus, the number of such experiments tends to be small initially, when the points at hand are far from optimal, and they tend to increase when an optimal point is approached.
+Keywords
+Constraint-dropping schemes  outer-approximation methods  stochastic algorithms  optimality functions  continua of constraints  

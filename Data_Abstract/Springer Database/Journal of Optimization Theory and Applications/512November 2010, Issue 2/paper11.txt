@@ -1,0 +1,6 @@
+Annealing a Genetic Algorithm for Constrained Optimization
+F. Mendivil;R. Shonkwiler;
+Abstract
+In this paper, we adapt a genetic algorithm for constrained optimization problems. We use a dynamic penalty approach along with some form of annealing, thus forcing the search to concentrate on feasible solutions as the algorithm progresses. We suggest two different general-purpose methods for guaranteeing convergence to a globally optimal (feasible) solution, neither of which makes any assumptions on the structure of the optimization problem. The former involves modifying the GA evolution operators to yield a Boltzmann-type distribution on populations. The latter incorporates a dynamic penalty along with a slow annealing of acceptance probabilities. We prove that, with probability one, both of these methods will converge to a globally optimal feasible state.
+Keywords
+Genetic algorithms  Constrained optimization  Simulated annealing  Markov chain  Convergence proofs  

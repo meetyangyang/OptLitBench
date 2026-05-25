@@ -1,0 +1,6 @@
+A Heuristic Algorithm for the Mixed Chinese Postman Problem
+Kriangchai Yaoyuenyong;Peerayuth Charnsethikul;Vira Chankong;
+Abstract
+The Chinese Postman Problem (CPP) is to find a minimum-cost Eulerian tour in a given graph. CPP is efficiently solvable when the original graph is either undirected or directed. For a mixed graph consisting of both edges and arcs, the Mixed Chinese Postman Problem (MCPP) is known to be NP-complete. Many heuristics and optimal algorithms have been devised for solving MCPPs. A new heuristic is proposed. The heuristic finds the initial solution by using a Minimum Cost Flow algorithm; then it repeatedly uses the shortest path algorithm with slightly modified costs of the edges/arcs. The heuristic improves the solution by trying to find the correct direction of unoriented edges and simultaneously it deletes some of the additional edges/arcs. A number of previous heuristics are tested, analyzed, and compared with the proposed approach. Based upon computational results, the proposed heuristic on average outperforms all previous heuristics.
+Keywords
+combinatorial optimization  network flows  Chinese Postman Problem  heuristic procedure  

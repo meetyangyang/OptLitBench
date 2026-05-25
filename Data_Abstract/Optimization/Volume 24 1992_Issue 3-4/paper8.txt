@@ -1,0 +1,6 @@
+Splitting dense columns of constraint matrix in interior point methods for large scale linear programming 1  1The results discussed in the paper have been obtained when the author was staying at LAMSADE, University of Paris Dauphine, Place du Marechal de Lattre de Tassigny, 75775 Paris Cedex 16, France$ef: 2  2A preliminary version of the paper has been presented at the Applied Mathematical Programming and Modelling Symposium APMOD’91 in London, January 14-16, 1991$ef:
+   J.   Gondzio ;
+Abstract
+ A method is proposed for handling dense columns of the constraint matrix of large scale linear programming problems. Such columns are known to create dense windows in the matrices AAT which are inverted at every iteration of the interior point method. Consequently, Cholesky factor of AAT becomes dense, which degrades the efficiency of the LP code. In the method considered, all dense columns are then split into shorter ones. One dense AAT window of large size is thus replaced with p windows each of size p times smaller, leading to a remarkable reduction of the number of nonzeros in the matrix to be inverted and in its Cholesky factor  
+Keywords
+Karmarkar’s Projections, Linear Programming, Dense Columns 

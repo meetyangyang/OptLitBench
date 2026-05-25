@@ -1,0 +1,6 @@
+On Scheduling Fees to Prevent Merging, Splitting, and Transferring of Jobs
+Hervé Moulin;
+Abstract
+A deterministic server is shared by users with identical linear waiting costs, requesting jobs of arbitrary lengths. Shortest jobs are served first for efficiency. The server can monitor the length of a job but not the identity of the job’s user, thus merging, splitting, or partially transferring jobs offer cooperative strategic opportunities. Can we design cash transfers to neutralize such manipulations? We prove that mergeproofness and splitproofness are not compatible, and that it is similarly impossible to prevent all transfers of jobs involving three or more agents. On the other hand, robustness against pairwise transfers is feasible and essentially characterizes a one-dimensional set of scheduling methods. This line is borne by two outstanding methods: the merge-proof S+ and the split-proof S−. Splitproofness, unlike mergeproofness, is not compatible with several simple tests of equity. Thus, the two properties are far from equally demanding.
+Keywords
+scheduling queuing merging splitting transferring linear waiting cost 

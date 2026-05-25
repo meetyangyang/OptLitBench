@@ -1,0 +1,6 @@
+Sequential value correction heuristic for the two-dimensional cutting stock problem with three-staged homogenous patterns
+Qiulian Chen;Yaodong Cui;Yan Chen;
+Abstract
+A sequential value correction heuristic is presented for the two-dimensional cutting stock problem with three-staged homogenous patterns, considering both input-minimization and simplicity of the cutting process. The heuristic constructs many cutting plans iteratively and selects the best one as the solution. The patterns in each cutting plan are generated sequentially using simple recursive techniques. The values of the item types are corrected after the generation of each pattern to diversify the cutting plans. Computational results indicate that the proposed heuristic is more effective in input minimization than published algorithms and commercial stock cutting software packages that use three-staged general or exact patterns.
+Keywords
+two-dimensional cutting stock, homogenous three-staged patterns, sequential value correction 

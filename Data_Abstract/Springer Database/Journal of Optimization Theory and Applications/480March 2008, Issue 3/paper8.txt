@@ -1,0 +1,8 @@
+A Hybrid Genetic Algorithm with Boltzmann Convergence Properties
+W. C. Jackson;J. D. Norgard;
+Abstract
+
+Stochastic global search algorithms such as genetic algorithms are used to attack difficult combinatorial optimization problems. However, genetic algorithms suffer from the lack of a convergence proof. This means that it is difficult to establish reliable algorithm braking criteria without extensive a priori knowledge of the solution space. The hybrid genetic algorithm presented here combines a genetic algorithm with simulated annealing in order to overcome the algorithm convergence problem. The genetic algorithm runs inside the simulated annealing algorithm and provides convergence via a Boltzmann cooling process. The hybrid algorithm was used successfully to solve a classical 30-city traveling salesman problem; it consistently outperformed both a conventional genetic algorithm and a conventional simulated annealing algorithm.
+
+Keywords
+Combinatorial optimization  Genetic algorithms  Hybrid algorithms  Simulated annealing  

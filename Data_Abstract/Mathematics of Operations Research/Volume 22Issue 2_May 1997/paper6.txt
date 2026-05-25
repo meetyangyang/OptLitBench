@@ -1,0 +1,6 @@
+Free-Steering Relaxation Methods for Problems with Strictly Convex Costs and Linear Constraints
+Krzysztof C. Kiwiel;
+Abstract
+We consider dual coordinate ascent methods for minimizing a strictly convex (possibly nondifferentiable) function subject to linear constraints. Such methods are useful in large-scale applications (e.g., entropy maximization, quadratic programming, network flow), because they are simply, can exploit sparsity and in certain cases are highly parallelizable. We establish their global convergence under weak conditions and a free-steering order of relaxation. Previous comparable results were restricted to special problems with separable costs and equality constraints. Our convergence framework unifies to a certain extent the approaches of Bregman, Censor and Lent, De Pierro and Iusem, and Luo and Tseng, and complements that of Bertsekas and Tseng.
+Keywords
+convex programming entropy maximization nondifferentiable optimization relaxation methods dual coordinate ascent B-functions 

@@ -1,0 +1,6 @@
+A study of the difference-of-convex approach for solving linear programs with complementarity constraints
+Francisco Jara-Moroni;Jong-Shi Pang;Andreas Wächter;
+Abstract
+This paper studies the difference-of-convex (DC) penalty formulations and the associated difference-of-convex algorithm (DCA) for computing stationary solutions of linear programs with complementarity constraints (LPCCs). We focus on three such formulations and establish connections between their stationary solutions and those of the LPCC. Improvements of the DCA are proposed to remedy some drawbacks in a straightforward adaptation of the DCA to these formulations. Extensive numerical results, including comparisons with an existing nonlinear programming solver and the mixed-integer formulation, are presented to elucidate the effectiveness of the overall DC approach.
+Keywords
+Difference-of-convex  Complementarity constraints  Penalty functions  Bilevel programming  90C05 Linear programming  90C30 Nonlinear programming  90C33 Complementarity and equilibrium problems and variational inequalities (finite dimensions)  

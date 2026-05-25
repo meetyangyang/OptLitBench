@@ -1,0 +1,6 @@
+Epsilon-ritz method for solving optimal control problems: Useful parallel solution method
+P. A. Frick;D. J. Stech;
+Abstract
+Using Balakrishnan's epsilon problem formulation (Ref. 1) and the Rayleigh-Ritz method with an orthogonal polynomial function basis, optimal control problems are transformed from the standard two-point boundary-value problem to a nonlinear programming problem. The resulting matrix-vector equations describing the optimal solution have standard parallel solution methods for implementation on parallel processor arrays. The method is modified to handle inequality constraints, and some results are presented under which specialized nonlinear functions, such as sines and cosines, can be handled directly. Some computational results performed on an Intel Sugarcube are presented to illustrate that considerable computational savings can be realized by using the proposed solution method.
+Keywords
+Epsilon method  parallel computing  Walsh functions  hypercubes  Legendre polynomials  Chebyshev polynomials  Ritz method  

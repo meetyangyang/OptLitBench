@@ -1,0 +1,6 @@
+A hybrid conjugate gradient method based on a quadratic relaxation of the Dai–Yuan hybrid conjugate gradient parameter
+ Saman   Babaie-Kafaki ;
+Abstract
+ To take advantage of the attractive features of the Hestenes–Stiefel and Dai–Yuan conjugate gradient (CG) methods, we suggest a hybridization of these methods using a quadratic relaxation of a hybrid CG parameter proposed by Dai and Yuan. In the proposed method, the hybridization parameter is computed based on a conjugacy condition. Under proper conditions, we show that our method is globally convergent for uniformly convex functions. We give a numerical comparison of the implementations of our method and two efficient hybrid CG methods proposed by Dai and Yuan using a set of unconstrained optimization test problems from the CUTEr collection. Numerical results show the efficiency of the proposed hybrid CG method in the sense of the performance profile introduced by Dolan and Moré. 
+Keywords
+unconstrained optimization, hybrid conjugate gradient method, conjugacy condition, global convergenceAMS Subject Classifications: 65K05, 90C30, 49M37 

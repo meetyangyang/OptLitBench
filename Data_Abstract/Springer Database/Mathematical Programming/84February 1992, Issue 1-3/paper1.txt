@@ -1,0 +1,6 @@
+On the computational behavior of a polynomial-time network flow algorithm
+Robert G. Bland;David L. Jensen;
+Abstract
+A variation on the Edmonds-Karp scaling approach to the minimum cost network flow problem is examined. This algorithm, which scales costs rather than right-hand sides, also runs in polynomial time. Large-scale computational experiments indicate that the computational behavior of such scaling algorithms may be much better than had been presumed. Within several distributions of square, dense, capacitated transportation problems, a cost scaling code, SCALE, exhibits linear growth in average execution time with the number of edges, while two network simplex codes, RNET and GNET, exhibit greater than linear growth.
+Keywords
+Network flow  scaling  polynomial algorithm  computation  

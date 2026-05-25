@@ -1,0 +1,6 @@
+Computational experience with a modified potential reduction algorithm for linear programming
+ Sanjay   Mehrotra ; Kuo-Ling   Huang ;
+Abstract
+ We study the performance of a homogeneous and self-dual interior point solver for linear programming (LP) that is equipped with a continuously differentiable potential function. Our work is motivated by the apparent gap between the theoretical complexity results and long-step practical implementations in interior point algorithms. The potential function described here ensures a global linear polynomial-time convergence while providing the flexibility to integrate heuristics for generating the search directions and step length computations. Computational results on standard test problems show that LP problems are solved as efficiently (in terms of the number of iterations) as Mosek6 . 
+Keywords
+linear programming, homogeneous and self-dual model, interior point methods 

@@ -1,0 +1,6 @@
+Two-Stage Multisplitting Iteration Methods Using Modulus-Based Matrix Splitting as Inner Iteration for Linear Complementarity Problems
+Li-Li Zhang;
+Abstract
+The matrix multisplitting iteration method is an effective tool for solving large sparse linear complementarity problems. However, at each iteration step we have to solve a sequence of linear complementarity sub-problems exactly. In this paper, we present a two-stage multisplitting iteration method, in which the modulus-based matrix splitting iteration and its relaxed variants are employed as inner iterations to solve the linear complementarity sub-problems approximately. The convergence theorems of these two-stage multisplitting iteration methods are established. Numerical experiments show that the two-stage multisplitting relaxation methods are superior to the matrix multisplitting iteration methods in computing time, and can achieve a satisfactory parallel efficiency.
+Keywords
+Linear complementarity problem  Matrix multisplitting  Modulus method  Two-stage iteration  Convergence  

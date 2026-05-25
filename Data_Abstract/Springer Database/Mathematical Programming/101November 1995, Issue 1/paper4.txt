@@ -1,0 +1,6 @@
+Smoothing methods for convex inequalities and linear complementarity problems
+Chunhui Chen;O. L. Mangasarian;
+Abstract
+A smooth approximationp (x, α) to the plus function max{x, 0} is obtained by integrating the sigmoid function 1/(1 + e−αx), commonly used in neural networks. By means of this approximation, linear and convex inequalities are converted into smooth, convex unconstrained minimization problems, the solution of which approximates the solution of the original problem to a high degree of accuracy forα sufficiently large. In the special case when a Slater constraint qualification is satisfied, an exact solution can be obtained for finiteα. Speedup over MINOS 5.4 was as high as 1142 times for linear inequalities of size 2000 × 1000, and 580 times for convex inequalities with 400 variables. Linear complementarity problems are converted into a system of smooth nonlinear equations and are solved by a quadratically convergent Newton method. For monotone LCPs with as many as 10 000 variables, the proposed approach was as much as 63 times faster than Lemke's method.
+Keywords
+Smoothing  Convex inequalities  Linear complementarity  

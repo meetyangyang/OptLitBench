@@ -1,0 +1,6 @@
+A variable-metric variant of the Karmarkar algorithm for linear programming
+J. E. DennisJr.;A. M. Morshedi;Kathryn Turner;
+Abstract
+The most time-consuming part of the Karmarkar algorithm for linear programming is the projection of a vector onto the nullspace of a matrix that changes at each iteration. We present a variant of the Karmarkar algorithm that uses standard variable-metric techniques in an innovative way to approximate this projection. In limited tests, this modification greatly reduces the number of matrix factorizations needed for the solution of linear programming problems.
+Keywords
+Linear programming  Karmarkar algorithm  projective algorithm  variable-metric Karmarkar  

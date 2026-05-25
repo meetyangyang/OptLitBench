@@ -1,0 +1,6 @@
+On the complexity of rainbow spanning forest problem
+Francesco Carrabs;Carmine Cerrone;Raffaele Cerulli;Selene Silvestri;
+Abstract
+Given a graph \(G=(V,E,L)\) and a coloring function \(\ell : E \rightarrow L\), that assigns a color to each edge of G from a finite color set L, the rainbow spanning forest problem (RSFP) consists of finding a rainbow spanning forest of G such that the number of components is minimum. A spanning forest is rainbow if all its components (trees) are rainbow. A component whose edges have all different colors is called rainbow component. The RSFP on general graphs is known to be NP-complete. In this paper we use the 3-SAT Problem to prove that the RSFP is NP-complete on trees and we prove that the problem is solvable in polynomial time on paths, cycles and if the optimal solution value is equal to 1. Moreover, we provide an approximation algorithm for the RSFP on trees and we show that it approximates the optimal solution within 2.
+Keywords
+Graph theory  Edge-colored graph  Rainbow components  Approximation algorithm  

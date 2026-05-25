@@ -1,0 +1,6 @@
+Heterogeneous Selection Genetic Algorithms For Traveling Salesman Problems
+ Huai-Kuang   Tsai ; Jinn-Moon   Yang ; Yuan-Fang   Tsai ; Cheng-Yan   Kao ;
+Abstract
+ This paper proposes a genetic algorithm, called the heterogeneous selection genetic algorithm (HSGA), integrating local and global strategies via family competition and edge similarity, for the traveling salesman problem (TSP). Local strategies include neighbor-join mutation and family competition, and global strategies consist of heterogeneous pairing selection and edge assembly crossover. Based on the mechanisms of preserving and adding edges, the search behaviors of neighbor-join mutation and edge assembly crossover are studied. The proposed method has been implemented and applied to 17 well-lmown TSPs whose numbers of cities range from 101 to 13,509. Experimental results indicate that this approach, although somewhat slower, performs very robustly and is very competitive with other approaches in the best surveys. This approach is able to find the optimum, and the average solution quality is within 0.00048 above the optima of each test problem. 
+Keywords
+Edge assembly crossover, Heterogeneous pairing selection, Family competition, Genetic algorithm, Neighbor-join mutation, Traveling salesman problem 

@@ -1,0 +1,6 @@
+The equivalent static loads method for structural optimization does not in general generate optimal designs
+Mathias Stolpe;Alexander Verbart;Susana Rojas-Labanda;
+Abstract
+The Equivalent Static Loads Method (ESLM) is an algorithm intended for dynamic response structural optimization. The algorithm attempts to solve a sequence of static response structural optimization problems approximating the original problem. It is argued in several published articles that if the ESLM converges, then it finds a KKT point of the considered dynamic structural response optimization problem. The theoretical convergence properties of the ESLM are however not as strong as previously reported. We propose and analyze easily reproducible counter examples based on a two-bar truss illustrating that the ESLM in general fails in finding optimal designs to the considered dynamic response problem.
+Keywords
+Structural optimization  Equivalent static loads method  Convergence properties  Sensitivity analysis  

@@ -1,0 +1,6 @@
+A Decision Criterion for the Optimal Number of Clusters in Hierarchical Clustering
+Yunjae Jung;Haesun Park;Ding-Zhu Du;Barry L. Drake;
+Abstract
+Clustering has been widely used to partition data into groups so that the degree of association is high among members of the same group and low among members of different groups. Though many effective and efficient clustering algorithms have been developed and deployed, most of them still suffer from the lack of automatic or online decision for optimal number of clusters. In this paper, we define clustering gain as a measure for clustering optimality, which is based on the squared error sum as a clustering algorithm proceeds. When the measure is applied to a hierarchical clustering algorithm, an optimal number of clusters can be found. Our clustering measure shows good performance producing intuitively reasonable clustering configurations in Euclidean space according to the evidence from experimental results. Furthermore, the measure can be utilized to estimate the desired number of clusters for partitional clustering methods as well. Therefore, the clustering gain measure provides a promising technique for achieving a higher level of quality for a wide range of clustering methods.
+Keywords
+Cluster Algorithm  Hierarchical Cluster  Cluster Method  Optimal Number  Decision Criterion  

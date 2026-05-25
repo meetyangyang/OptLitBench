@@ -1,0 +1,6 @@
+Surface fitting and parameter estimation with nonlinear least squares
+ Mårten   Gulliksson ; Inge   Söderkvist ;
+Abstract
+ Algorithms for fitting a surface, explicitly or implicitly defined, to some measured points are developed, analyzed and tested. The problem class treated, includes orthogonal regression and errors-in-variables. As a parameter estimation problem only the optimization part of the estimation is treated. Methods using only first order derivatives as well as second order methods are developed and the rich inherent structure of the problem is fully utilized. The main features of the algorithms, that distinguish them from earlier works, are that arbitrary nonnegative weights can be handled and that infinite weights can be used to define nonlinear equality constraints. The local convergence for the first order algorithms is linear for nonzero residual problems and quadratic otherwise. The local convergence for the second order methods is quadratic. A mixed algorithm where only a part of the second derivatives are included is also developed and tested  
+Keywords
+Errors-in-Variables, Least Squares, Orthogonal Regression, Parameter Estimation, Surface Fitting, Weights 

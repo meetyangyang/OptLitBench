@@ -1,0 +1,6 @@
+A State-Space Algorithm for the Solution of the 2-Block Superoptimal Distance Problem
+I. M.  Jaimoukha and D. J. N.  Limebeer;
+Abstract
+A state-space algorithm for computing the solution of the 2-block superoptimal distance problem (SODP) is presented. Given a rational and antistable matrix function $R(s) = [R_{11} (s)R_{12} (s)]$, find all stable approximations $Q(s)$ that lexicographically minimize the singular values of the error function $E(s) = [R_{11} (s)R_{12} (s) + Q(s)]$. Conditions are given for which the superoptimal approximation is unique. In addition, an a priori upper bound on the MacMillan degree of the approximation is given. The algorithm may be stopped after minimizing a given number of singular values. This premature termination of the algorithm carries with it an expected saving in the computational effort and a predictable reduction in the MacMillan degree of the approximation. The algorithm only requires standard linear algebraic computations and is, therefore, easily implemented.
+Keywords
+superoptimal general distance problem, 2-block general distance problem, ${\bf H}_\infty  $-optimal control, 93C35, 

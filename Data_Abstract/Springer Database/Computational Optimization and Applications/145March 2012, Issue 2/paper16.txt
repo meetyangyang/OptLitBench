@@ -1,0 +1,6 @@
+Multigrid second-order accurate solution of parabolic control-constrained problems
+S. González Andrade;A. Borzì;
+Abstract
+A mesh-independent and second-order accurate multigrid strategy to solve control-constrained parabolic optimal control problems is presented. The resulting algorithms appear to be robust with respect to change of values of the control parameters and have the ability to accommodate constraints on the control also in the limit case of bang-bang control. Central to the development of these multigrid schemes is the design of iterative smoothers which can be formulated as local semismooth Newton methods. The design of distributed controls is considered to drive nonlinear parabolic models to follow optimally a given trajectory or attain a final configuration. In both cases, results of numerical experiments and theoretical twogrid local Fourier analysis estimates demonstrate that the proposed schemes are able to solve parabolic optimality systems with textbook multigrid efficiency. Further results are presented to validate second-order accuracy and the possibility to track a trajectory over long time intervals by means of a receding-horizon approach.
+Keywords
+Multigrid methods  Semismooth Newton method  Parabolic partial differential equations  Optimal control theory  

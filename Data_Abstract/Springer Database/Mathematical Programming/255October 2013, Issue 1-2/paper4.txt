@@ -1,0 +1,6 @@
+An FPTAS for optimizing a class of low-rank functions over a polytope
+Shashi Mittal;Andreas S. Schulz;
+Abstract
+We present a fully polynomial time approximation scheme (FPTAS) for optimizing a very general class of non-linear functions of low rank over a polytope. Our approximation scheme relies on constructing an approximate Pareto-optimal front of the linear functions which constitute the given low-rank function. In contrast to existing results in the literature, our approximation scheme does not require the assumption of quasi-concavity on the objective function. For the special case of quasi-concave function minimization, we give an alternative FPTAS, which always returns a solution which is an extreme point of the polytope. Our technique can also be used to obtain an FPTAS for combinatorial optimization problems with non-linear objective functions, for example when the objective is a product of a fixed number of linear functions. We also show that it is not possible to approximate the minimum of a general concave function over the unit hypercube to within any factor, unless P = NP. We prove this by showing a similar hardness of approximation result for supermodular function minimization, a result that may be of independent interest.
+Keywords
+Non-convex optimization  Combinatorial optimization  Approximation schemes  90C20  90C26  90C27  90C29  

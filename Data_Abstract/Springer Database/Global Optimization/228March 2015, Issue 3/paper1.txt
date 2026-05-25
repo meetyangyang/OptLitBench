@@ -1,0 +1,6 @@
+A new mathematical approach for handling DVH criteria in IMRT planning
+Alexander Scherrer;Filka Yaneva;Tabea Grebe;Karl-Heinz Küfer;
+Abstract
+The appropriate handling of planning criteria on the cumulative dose-volume histogram (DVH) is a highly problematic issue in intensity-modulated radiation therapy (IMRT) plan optimization. The nonconvexity of DVH criteria and globality of the resulting optimization problems complicate the design of suitable optimization methods, which feature numerical efficiency, reliable convergence and optimality of the results. This work examines the mathematical structure of DVH criteria and proves the valuable properties of isotonicity/antitonicity, connectedness, invexity and sufficiency of the Karush–Kuhn–Tucker condition. These properties facilitate the use of efficient and goal-oriented optimization methods. An exemplary algorithmic realization with feasible direction methods gives rise to a functional framework for interactive IMRT planning on DVH criteria. Numerical examples on real world planning cases prove its practical capability.
+Keywords
+Intensity-modulated radiation therapy (IMRT)  Cumulative dose-volume histogram (DVH)  Antitone/isotone, connected and invex functions  Sufficient KKT condition  Feasible direction methods  Reduced gradient method of Wolfe  26B35  49M37  65K05  90C26  

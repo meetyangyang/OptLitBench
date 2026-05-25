@@ -1,0 +1,6 @@
+Recursive sensitivity analysis for constrained multi-rigid-body dynamic systems design optimization
+Y. Hsu;K.S. Anderson;
+Abstract
+ With the large dimensionality and complexity of many modern multibody dynamic applications, the efficiency of the sensitivity evaluation method used greatly impacts the overall computation costs, and as such can signficantly limit the usefulness of the sensitivity information. This paper presents a concise and computationally efficient sensitivity analysis scheme to facilitate such calculations. A unique feature of this scheme is its fully-recursive procedures which results in far fewer computational operation requirements than more traditional counterparts. The algorithm permits the key derivatives of generalized accelerations to be obtained without the explicit forming and then solution of the sensitivity governing equations. The resulting equations are “exact” to integration accuracy, and thus do not suffer from many of the difficulties associated with approximate methods. The solution accuracy is demonstrated by two numerical examples.
+Keywords
+Key words: multibody dynamics, design optimization, sensitivity analysis, recursive formulation  

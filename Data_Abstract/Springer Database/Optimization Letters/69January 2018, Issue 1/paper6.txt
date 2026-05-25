@@ -1,0 +1,6 @@
+Learning a hidden uniform hypergraph
+Huilan Chang;Hung-Lin Fu;Chih-Huai Shih;
+Abstract
+Motivated by applications in genome sequencing, Grebinski and Kucherov (Discret Appl Math 88:147–165, 1998) studied the graph learning problem which is to identify a hidden graph drawn from a given class of graphs with vertex set \(\{1,2,\ldots ,n\}\) by edge-detecting queries. Each query tells whether a set of vertices induces any edge of the hidden graph or not. For the class of all hypergraphs whose edges have size at most r, Chodoriwsky and Moura (Theor Comput Sci 592:1–8, 2015) provided an adaptive algorithm that learns the class in \(O(m^r\log n)\) queries if the hidden graph has m edges. In this paper, we provide an adaptive algorithm that learns the class of all r-uniform hypergraphs in \(mr\log n+(6e)^rm^{\frac{r+1}{2}}\) queries if the hidden graph has m edges.
+Keywords
+Graph learning  Group testing  Complex model  Adaptive algorithm  

@@ -1,0 +1,6 @@
+Local search methods for ℓ1-minimization in frame based signal compression
+Dag Haugland;Sverre Storøy;
+Abstract
+We consider the problem of finding a linear combination of at most t out of K column vectors in a matrix, such that a target vector is approximated as closely as possible. The motivation of the model is to find a lower-dimensional representation of a given signal vector (target) while minimizing loss of accuracy. We point out the computational intractability of this problem, and suggest some local search heuristics for the unit norm case. The heuristics, all of which are based on pivoting schemes in a related linear program, are compared experimentally with respect to speed and accuracy.
+Keywords
+Signal compression  Linear approximation  Sparsity constraint  Local search  Pivoting  

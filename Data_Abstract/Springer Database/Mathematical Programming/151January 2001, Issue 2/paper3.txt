@@ -1,0 +1,6 @@
+Portfolio optimization problem under concave transaction costs and minimal transaction unit constraints
+Hiroshi Konno;Annista Wijayanayake;
+Abstract
+We will propose a branch and bound algorithm for calculating a globally optimal solution of a portfolio construction/rebalancing problem under concave transaction costs and minimal transaction unit constraints. We will employ the absolute deviation of the rate of return of the portfolio as the measure of risk and solve linear programming subproblems by introducing (piecewise) linear underestimating function for concave transaction cost functions. It will be shown by a series of numerical experiments that the algorithm can solve the problem of practical size in an efficient manner.
+Keywords
+Key words: portfolio optimization – concave transaction cost – rebalancing – minimal transaction unit – branch and bound algorithm – global optimization  Mathematics Subject Classification (1991): 91B28  

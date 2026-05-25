@@ -1,0 +1,6 @@
+Parallel Constraint Distribution
+M. C.  Ferris and O. L.  Mangasarian;
+Abstract
+Constraints of a mathematical program are distributed among parallel processors together with an appropriately constructed augmented Lagrangian for each processor, which contains Lagrangian information on the constraints handled by the other processors. Lagrange multiplier information is then exchanged between processors. Convergence is established under suitable conditions for strongly convex quadratic programs and for general convex programs.
+Keywords
+parallel optimization, augmented Lagrangians, quadratic programs, convex programs, 90C25, 

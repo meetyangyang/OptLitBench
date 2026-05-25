@@ -1,0 +1,6 @@
+A Digital PI-Controller for Distributed Parameter Systems
+Toshihiro  Kobayashi;
+Abstract
+In this paper a discrete-time multivariable tuning P1-controller ((proportional controller plus integral controller) is designed for a stable distributed parameter system with an unbounded input and output operator. First, the systems with discrete-time controls and observations are analyzed. Next, it is shown that the integral feedback matrix has the same form as that in the case of continuous-time controls, and it can be determined by steady-state information only. Moreover, it is shown that continuous-time set-point tracking is realized as the result of discrete-time set-point tracking. The theory is applied to the system governed by a second-order evolution equation with a first-order damping term. It is shown that the integral feedback matrix is independent of the damping operator. Last, the theory is applied to a heat equation and an Euler-Bernoulli beam equation.
+Keywords
+distributed parameter system, flexible structure, digital P1-controller, unbounded control and observation, 35B37, 35L15, 73K05, 93C20, 93C55, 93D15, 

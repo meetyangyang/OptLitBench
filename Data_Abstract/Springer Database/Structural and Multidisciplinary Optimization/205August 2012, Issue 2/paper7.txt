@@ -1,0 +1,6 @@
+A hybrid Fox and Kirsch’s reduced basis method for structural static reanalysis
+Wenjie Zuo;Zhenglei Yu;Shijia Zhao;Wei Zhang;
+Abstract
+Fox and Kirsch’s static reanalysis methods are reviewed firstly, and then a new hybrid Fox and Kirsch’s reduced basis method is presented for structural static reanalysis in this paper. Reduced basis vectors are derived from Neumann series expansion about multiple initial structures, which is a universal format of reduced basis. The hybrid method combines the merits of Fox’s polynomial fitting reanalysis and Kirsch’s combined approximations reanalysis and has the advantage of global-local approximation. Error evaluation of the approximations is given and the number of algebraic operations is also discussed. The reanalysis accuracy and efficiency are tested by four numerical examples. For the large modification, the hybrid method generally has higher accuracy than Kirsch’s method at the same computational cost. Moreover, the hybrid method does accelerate the process of structural optimization using genetic algorithm and slightly affect the accuracy of the optimal solutions.
+Keywords
+Hybrid Fox and Kirsch’s method  Reduced basis method  Structural static reanalysis  

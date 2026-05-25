@@ -1,0 +1,6 @@
+Determination of Clock Synchronization Errors in Distributed Networks
+Weiguo  Xia and Ming  Cao;
+Abstract
+It has been shown by Freris, Graham, and Kumar that clocks in distributed networks cannot be synchronized precisely in the presence of asymmetric time delays  even in idealized situations. Motivated by that impossibility result, we test under similar settings the performance of some existing clock synchronization protocols and show that the synchronization errors between neighboring nodes can be bounded within an acceptable level of accuracy that is determined by the degree of asymmetry in time delays. After studying the basic case of synchronizing two clocks in the two-way message passing process, we first analyze the directed ring networks, in which neighboring clocks are likely to experience severe asymmetric time delays. We then discuss connected undirected networks with two-way message passing between each pair of adjacent nodes. In the end, we expand the discussions to networks with directed topologies that are strongly connected.
+Keywords
+clock synchronization, time delay, distributed networks, stochastic matrices, 93C05, 93A14, 

@@ -1,0 +1,6 @@
+Computational Method for Solving a Stochastic Linear-Quadratic Control Problem Given an Unsolvable Stochastic Algebraic Riccati Equation
+Hideaki  Iiduka and Isao  Yamada;
+Abstract
+We discuss a stochastic linear-quadratic control problem in which a stochastic algebraic Riccati equation derived from the problem is unsolvable. The Riccati equation has no solution when the state and control weighting matrices in the objective function of the problem are indefinite, and the conventional methods cannot solve the problem when the Riccati equation itself is unsolvable. We first show that the optimal value of the problem is finite. Next, we formulate a compromise solution to the stochastic algebraic Riccati equation and show that the problem can be solved via this compromise solution under certain assumptions. Moreover, we propose a novel computational method for finding the compromise solution based on iterative techniques for a convex optimization problem over the fixed point set of a certain nonexpansive mapping. Numerical examples demonstrate the effectiveness of this method.
+Keywords
+stochastic algebraic Riccati equation, linear matrix inequality, stochastic linear-quadratic control problem, generalized convex feasible set, fixed point set, nonexpansive mapping, fixed point optimization algorithm, 49J15, 65K15, 90C25, 

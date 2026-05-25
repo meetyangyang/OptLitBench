@@ -1,0 +1,6 @@
+Dynamic Control of Infeasibility in Equality Constrained Optimization
+Roberto H.  Bielschowsky and Francisco A. M.  Gomes;
+Abstract
+This paper describes a new algorithm for solving nonlinear programming problems with equality constraints. The method introduces the idea of using trust cylinders to keep the infeasibility under control. Each time the trust cylinder is violated, a restoration step is called and the infeasibility level is reduced. The radius of the trust cylinder has a nonincreasing update scheme, so eventually a feasible (and optimal) point is obtained. Global and local convergence of the algorithm are analyzed, as well as its numerical performance. The results suggest that the algorithm is promising.
+Keywords
+nonlinear programming, constrained optimization, large-scale optimization, 65K05, 90C30, 

@@ -1,0 +1,6 @@
+A cover partitioning method for bound constrained global optimization
+ C.   J.   Price ; M.   Reale ; B.   L.   Robertson ;
+Abstract
+ A stochastic algorithm for global optimization subject to simple bounds is described. The method is applicable to black-box functions which may be non-smooth or discontinuous. The algorithm is in the spirit of the deterministic algorithm direct of Jones, Perttunen, and Stuckman. Like direct, it generates successively finer covers of the feasible region, where each cover consists of a finite number of boxes, and each box is defined by simple bounds. Its principal difference is that it calculates the objective at a randomly selected point in each unpopulated box, rather than at the centre of the box. A limited storage version of the algorithm is also presented. The sequence of best-known function values is shown to converge to the essential minimum with probability 1 for both versions of the algorithm. A worst case expected rate theorem is established. Numerical results are presented which show the methods are effective in practice. 
+Keywords
+direct search, dividing rectangles, stochastic global optimization, tilecutter 

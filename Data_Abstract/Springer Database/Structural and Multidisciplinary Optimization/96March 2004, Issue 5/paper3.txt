@@ -1,0 +1,6 @@
+Handling variable string lengths in GA-based structural topology optimization
+J. Ryoo;P. Hajela ;
+Abstract
+Binary coded genetic algorithms (GA’s) have been used effectively in topological design of discrete structural systems. In a majority of such applications, the structural topology is extracted from a pre-defined ‘structural universe’, a set of all permissible joints and elements that can be used in the development of the optimal design. In the presence of a dense ‘structural universe’, the GA search process must contend with very long string lengths, with the attendant degradation in the effectiveness of the search process. The present paper presents a novel approach for handling variable string lengths in GA-based topological design. Varying string lengths in a population requires a redefinition of the crossover process, and both inter- and intra-species crossover mechanisms are explored in the present paper. The use of micro-GA’s is proposed as an approach to increasing the search efficiency in problems involving a large number of candidate topologies. The proposed strategies are implemented in representative algebraic problems, truss topology design, and the layout of a stiffened composite panel. 
+Keywords
+topology optimization  stuructural optimization  genetic algorithm  crossover mechanism   

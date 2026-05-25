@@ -1,0 +1,6 @@
+A linear integer programming bound for maximum-entropy sampling
+Jon Lee;Joy Williams;
+Abstract
+ We introduce a new upper bound for the maximum-entropy sampling problem. Our bound is described as the solution of a linear integer program. The bound depends on a partition of the underlying set of random variables. For the case in which each block of the partition has bounded cardinality, we describe an efficient dynamic-programming algorithm to calculate the bound. For the very special case in which the blocks have no more than two elements, we describe an efficient algorithm for calculating the bound based on maximum-weight matching. This latter formulation has particular value for local-search procedures that seek to find a good partition. We relate our bound to recent bounds of Hoffman, Lee and Williams. Finally, we report on the results of some computational experiments.
+Keywords
+Integer Program  Computational Experiment  Efficient Algorithm  Linear Integer Program  Sampling Problem  

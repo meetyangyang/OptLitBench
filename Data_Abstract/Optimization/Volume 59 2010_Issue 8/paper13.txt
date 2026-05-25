@@ -1,0 +1,6 @@
+Some fundamental issues of basic line search algorithm for linear programming problems
+ Shushang   Zhu ; Guozhen   Ruan ; Xuexiang   Huang ;
+Abstract
+ In this article we present the fundamental idea, concepts and theorems of a basic line search algorithm for solving linear programming problems which can be regarded as an extension of the simplex method. However, unlike the iteration of the simplex method from a basic point to an improved adjacent basic point via pivot operation, the basic line search algorithm, also by pivot operation, moves from a basic line which contains two basic feasible points to an improved basic line which also contains two basic feasible points whose objective values are no worse than that of the two basic feasible points on the previous basic line. The basic line search algorithm may skip some adjacent vertices so that it converges to an optimal solution faster than the simplex method. For example, for a 2-dimensional problem, the basic line search algorithm can find an optimal solution with only one iteration. 
+Keywords
+linear programming, simplex method, basic line, pivot operationMathematics Subject Classification:: 90C05 

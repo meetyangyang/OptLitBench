@@ -1,0 +1,6 @@
+Successive Approximations of Linear Control Models
+John R.  Birge and Samer  Takriti;
+Abstract
+We present a technique for approximating sequences of linear programs with varying right-hand sides and study the geometric properties of this approximation. Our approximation has an efficiency advantage over optimal solutions. When applied to deterministic control problems, the suggested technique outperforms the linear feedback model and provides accurate results (error of 5.8% in our numerical example). Numerical experience with stochastic models indicates that this approach may outperform the limited lookahead policies while maintaining low computational requirements.
+Keywords
+stochastic programming, linear programming, optimal control, linear feedback control, certainty equivalent control, limited lookahead policies, 90C15, 90C05, 93E20, 90C90, 

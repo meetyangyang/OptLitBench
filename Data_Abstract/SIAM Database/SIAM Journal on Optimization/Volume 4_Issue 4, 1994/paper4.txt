@@ -1,0 +1,6 @@
+An Extension of the DQA Algorithm to Convex Stochastic Programs
+Adam J.  Berger, John M.  Mulvey, and Andrzej  Ruszczyński;
+Abstract
+The diagonal quadratic approximation (DQA) algorithm is extended for the case of risk-averse utility and other nonlinear functions associated with stochastic programs. The method breaks the stochastic program into a sequence of smaller quadratic programming subproblems that can be executed in parallel. Each subproblem is solved approximately by means of a convex version of a primal-dual interior-point code (LOQO). Convergence of the distributed DQA method is discussed.All communication takes place among neighboring processors rather than via a master routine leading to an efficient distributed implementation. Results with a realworld airline planning model possessing a convex objective, 155,320 linear constraints and 303,600 variables, show the DQA algorithm’s efficiency. The interior point direct solver (convex-LOQO) is shown to solve moderate-size stochastic programs in a small number of iterations (under 50).
+Keywords
+stochastic programming, decomposition, parallel computation, interior point methods., 90C15, 90C30, 90C25, 68Q22, 

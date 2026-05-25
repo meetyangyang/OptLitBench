@@ -1,0 +1,6 @@
+An exact global optimization method for deriving weights from pairwise comparison matrices
+Emilio Carrizosa;Frédéric Messine;
+Abstract
+Some multiple-criteria decision making methods rank actions by associating weights to the different criteria or actions, which are pairwise compared via a positive reciprocal matrix A. There is a vast literature on proposals of different mathematical-programming methods to infer weights from such matrix A. However, it is seldom observed that such optimization problems may be multimodal, thus the standard local-search resolution techniques suggested may be trapped in local optima, yielding a wrong ranking of alternatives. In this note we show that standard tools of global optimization based on interval analysis, lead to globally optimal weights in reasonable time.
+Keywords
+Branch and bound  Interval analysis  Multiple-criteria decision making  Pairwise comparison matrices  

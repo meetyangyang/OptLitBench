@@ -1,0 +1,6 @@
+Accelerating convergence of cutting plane algorithms for disjoint bilinear programming
+Xiaosong Ding;Faiz Al-Khayyal;
+Abstract
+This paper presents two linear cutting plane algorithms that refine existing methods for solving disjoint bilinear programs. The main idea is to avoid constructing (expensive) disjunctive facial cuts and to accelerate convergence through a tighter bounding scheme. These linear programming based cutting plane methods search the extreme points and cut off each one found until an exhaustive process concludes that the global minimizer is in hand. In this paper, a lower bounding step is proposed that serves to effectively fathom the remaining feasible region as not containing a global solution, thereby accelerating convergence. This is accomplished by minimizing the convex envelope of the bilinear objective over the feasible region remaining after introduction of cuts. Computational experiments demonstrate that augmenting existing methods by this simple linear programming step is surprisingly effective at identifying global solutions early by recognizing that the remaining region cannot contain an optimal solution. Numerical results for test problems from both the literature and an application area are reported.
+Keywords
+Linear programming  Bilinear programming  Cutting plane  Polar cuts  Lower bounding  

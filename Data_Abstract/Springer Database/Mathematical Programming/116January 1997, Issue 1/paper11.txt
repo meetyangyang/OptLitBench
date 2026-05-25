@@ -1,0 +1,6 @@
+Volumetric path following algorithms for linear programming
+Kurt M. Anstreicher;
+Abstract
+We consider the construction of small step path following algorithms using volumetric, and mixed volumetric-logarithmic, barriers. We establish quadratic convergence of a volumetric centering measure using pure Newton steps, enabling us to use relatively standard proof techniques for several subsequently needed results. Using a mixed volumetric-logarithmic barrier we obtain an O(n 1/4 m 1/4 L) iteration algorithm for linear programs withn variables andm inequality constraints, providing an alternative derivation for results first obtained by Vaidya and Atkinson. In addition, we show that the same iteration complexity can be attained while holding the work per iteration to O(n 2 m), as opposed to O(nm 2), operations, by avoiding use of the true Hessian of the volumetric barrier. Our analysis also provides a simplified proof of self-concordancy of the volumetric and mixed volumetric-logarithmic barriers, originally due to Nesterov and Nemirovskii.
+Keywords
+Linear programming  Path following  Volumetric barrier  Self-concordancy  

@@ -1,0 +1,6 @@
+Analysis and Optimization of Feedback Control Algorithms for Data Transfers in High-Speed Networks
+Rauf  Izmailov;
+Abstract
+Two linear feedback control algorithms for handling and preventing congestion in high-speed networks are proposed and analyzed. The fluid approximation model is described with a continuous-time system of delay-differential equations. The algorithms are asymptotically stable, and the transient processes are nonoscillatory. The control parameters are locally optimal (optimality is based on the asymptotic rate of convergence). The results of numerical experiments suggest that these parameters are globally optimal as well. The dependence of the quality of service on the duration of the control intervals is analyzed, and the performance of algorithms in a nonstationary environment is addressed.
+Keywords
+delay-differential equations, stability, feedback, transient process, 93C30, 93D20, 

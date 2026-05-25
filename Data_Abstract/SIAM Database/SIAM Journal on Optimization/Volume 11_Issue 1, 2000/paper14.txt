@@ -1,0 +1,6 @@
+A Note on the Augmented Hessian When the Reduced Hessian is Semidefinite
+Kurt M.  Anstreicher and Margaret H.  Wright;
+Abstract
+Certain matrix relationships play an important role in optimality conditions and algorithms for nonlinear and semidefinite programming. Let H be an n × n symmetric matrix, A an m × n matrix, and Z a basis for the null space of A. (In a typical optimization context, H is the Hessian of a smooth function and A is the Jacobian of a set of constraints.) When the reduced Hessian ZTHZ is positive definite, augmented Lagrangian methods rely on the known existence of a finite $\bar\rho\ge 0$ such that, for all $\rho > \bar\rho$, the augmented Hessian $H + \rho \ATA $ is positive definite. In this note we analyze the case when ZTHZ is positive semidefinite, i.e., singularity is allowed, and show that the situation is more complicated. In particular, we give a simple necessary and sufficient condition for the existence of a finite $\bar\rho$ so that $H + \rho \ATA$ is positive semidefinite for $\rho \ge \bar\rho$. A corollary of our result is that if H is nonsingular and indefinite while ZTHZ is positive semidefinite and singular, no such $\bar\rho$ exists.
+Keywords
+augmented Hessian, reduced Hessian, inertia, augmented Lagrangian methods, 49D30, 65K05, 

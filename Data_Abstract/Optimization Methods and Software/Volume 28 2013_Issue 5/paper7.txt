@@ -1,0 +1,6 @@
+COAL: a generic modelling and prototyping framework for convex optimization problems of variational image analysis
+ Dirk   Breitenreicher ; Jan   Lellmann ; Christoph   Schnörr ;
+Abstract
+ We present the Convex Optimization Algorithms Library (COAL), a flexible C++framework for modelling and solving convex optimization problems in connection with variational problems of image analysis. COAL connects solver implementations with specific models via an extensible set of properties, without enforcing a specific standard form. This allows to exploit the problem structure and to handle large-scale problems while supporting rapid prototyping and modifications of the model. Based on predefined building blocks, a broad range of functionals encountered in image analysis can be implemented and be reliably optimized using state-of-the-art algorithms, without the need to know algorithmic details. We demonstrate the use of COAL on four representative variational problems of image analysis. 
+Keywords
+image processing, variational modelling, convex optimization, sparse large-scale programmingAMS Subject Classification: 90C25, 68U10, 62M40, 68T45 

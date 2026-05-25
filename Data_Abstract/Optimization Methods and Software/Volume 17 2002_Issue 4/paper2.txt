@@ -1,0 +1,6 @@
+A Modified Trust Region Algorithm
+ Zong-wu   Zhu ;
+Abstract
+ In this article, we propose an algorithm which solves unconstrained optimization problems by combining the trust region method with the quasi-Newton line search method. During consecutive trust region steps, when the quasi-Newton matrix B k approximates the Hessian matrix of the objective function at x k well, the algorithm tries a full quasi-Newton step and, if this step is successful, continues trying quasi-Newton steps. On the other hand, when employing the line search method, if the quasi-Newton direction is nearly orthogonal to the gradient of the objective function or the step size becomes too small, the algorithm switches back to trust region steps. Convergence properties of the algorithm are proved, and numerical results are presented. 
+Keywords
+Trust Region Method, Quasi-Newton Method, Unconstrained Optimization, Nonlinear Optimization 

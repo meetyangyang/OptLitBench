@@ -1,0 +1,6 @@
+A Subtree-Partitioning Algorithm for Inducing Parallelism in Network Simplex Dual Updates
+Betty L. Hickman;Dan Scott;
+Abstract
+This paper reports on thedevelopment of a very efficient method for partitioning the networksimplex basis subtree in which dual values must be updated duringa pivot. The partitioning procedure may be concurrently executedby multiple processes. The resulting rapid decomposition of thesubtree allows an arbitrary number of processes to be utilized inthe actual dual update. This approach alleviates a primary limitationof the most efficient parallel network simplex implementationpublished to date. The new code performs at least as well as theprevious implementation on medium-scale problems and reduces averagesolution time by over 34% on large-scale problems.
+Keywords
+parallel computing  network simplexalgorithm  large-scale network optimization  

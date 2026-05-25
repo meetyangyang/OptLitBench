@@ -1,0 +1,6 @@
+Finding Robust Global Optimal Values of Bilevel Polynomial Programs with Uncertain Linear Constraints
+T. D. Chuong;V. Jeyakumar;
+Abstract
+This paper studies a bilevel polynomial program involving box data uncertainties in both its linear constraint set and its lower-level optimization problem. We show that the robust global optimal value of the uncertain bilevel polynomial program is the limit of a sequence of values of Lasserre-type hierarchy of semidefinite linear programming relaxations. This is done by first transforming the uncertain bilevel polynomial program into a single-level non-convex polynomial program using a dual characterization of the solution of the lower-level program and then employing the powerful Putinar’s Positivstellensatz of semi-algebraic geometry. We provide a numerical example to show how the robust global optimal value of the uncertain bilevel polynomial program can be calculated by solving a semidefinite programming problem using the MATLAB toolbox YALMIP.
+Keywords
+Bilevel programming  Robust optimization  Uncertain linear constraints  Global polynomial optimization  Semidefinite program  49K99  65K10  90C29  90C46  

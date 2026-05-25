@@ -1,0 +1,6 @@
+DC formulations and algorithms for sparse optimization problems
+Jun-ya Gotoh;Akiko Takeda;Katsuya Tono;
+Abstract
+We propose a DC (Difference of two Convex functions) formulation approach for sparse optimization problems having a cardinality or rank constraint. With the largest-k norm, an exact DC representation of the cardinality constraint is provided. We then transform the cardinality-constrained problem into a penalty function form and derive exact penalty parameter values for some optimization problems, especially for quadratic minimization problems which often appear in practice. A DC Algorithm (DCA) is presented, where the dual step at each iteration can be efficiently carried out due to the accessible subgradient of the largest-k norm. Furthermore, we can solve each DCA subproblem in linear time via a soft thresholding operation if there are no additional constraints. The framework is extended to the rank-constrained problem as well as the cardinality- and the rank-minimization problems. Numerical experiments demonstrate the efficiency of the proposed DCA in comparison with existing methods which have other penalty terms.
+Keywords
+Sparse optimization  Cardinality constraint  Rank constraint  DCA  Largest-k norm  Ky Fan k norm  Proximal operation  47A30  90C20  90C26  90C90  

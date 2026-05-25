@@ -1,0 +1,6 @@
+Variable-Number Sample-Path Optimization
+Geng Deng;Michael C. Ferris;
+Abstract
+The sample-path method is one of the most important tools in simulation-based optimization. The basic idea of the method is to approximate the expected simulation output by the average of sample observations with a common random number sequence. In this paper, we describe a new variant of Powell’s unconstrained optimization by quadratic approximation (UOBYQA) method, which integrates a Bayesian variable-number sample-path (VNSP) scheme to choose appropriate number of samples at each iteration. The statistically accurate scheme determines the number of simulation runs, and guarantees the global convergence of the algorithm. The VNSP scheme saves a significant amount of simulation operations compared to general purpose ‘fixed-number’ sample-path methods. We present numerical results based on the new algorithm.
+Keywords
+Sample-path method  Simulation-based optimization  Bayesian analysis  Trust region method  90C15  65C05  

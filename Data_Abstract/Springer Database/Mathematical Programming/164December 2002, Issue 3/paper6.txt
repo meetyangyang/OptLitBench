@@ -1,0 +1,6 @@
+A decomposition procedure based on approximate Newton directions
+A. J. Conejo;F. J. Nogales;F. J. Prieto;
+Abstract
+ The efficient solution of large-scale linear and nonlinear optimization problems may require exploiting any special structure in them in an efficient manner. We describe and analyze some cases in which this special structure can be used with very little cost to obtain search directions from decomposed subproblems. We also study how to correct these directions using (decomposable) preconditioned conjugate gradient methods to ensure local convergence in all cases. The choice of appropriate preconditioners results in a natural manner from the structure in the problem. Finally, we conduct computational experiments to compare the resulting procedures with direct methods.
+Keywords
+Conjugate Gradient  Gradient Method  Nonlinear Optimization  Special Structure  Computational Experiment  

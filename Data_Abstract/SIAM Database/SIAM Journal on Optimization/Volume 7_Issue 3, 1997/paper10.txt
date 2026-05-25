@@ -1,0 +1,6 @@
+Tensor-GMRES Method for Large Systems of Nonlinear Equations
+Dan  Feng and Thomas H.  Pulliam;
+Abstract
+This paper introduces a tensor-Krylov method, the tensor-GMRES method, for large systems of nonlinear equations. Krylov subspace projection techniques for asymmetric systems of linear equations are coupled with a tensor model formation and solution technique for nonlinear equations. Similar to traditional tensor methods, the new tensor method is shown to have significant computational advantages over the analogous Newton counterpart on a set of nonsingular and singular problems. For example, an application to the Euler equations for the flow through a nozzle with a given area ratio shows that the tensor-GMRES method can be much more efficient than the analogous Newton-GMRES method. The new tensor method is also consistent with preconditioning and matrix-free implementation.
+Keywords
+nonlinear systems, Krylov subspaces, inexact Newton methods, tensor methods, generalized minimal residual methods, singularity, 65H10, 

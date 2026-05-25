@@ -1,0 +1,4 @@
+Parallel Composition of Scheduling Solvers
+Daniel Fontaine;Laurent Michel;Pascal Van Hentenryck;
+Abstract
+Recent work in model combinators, as well as projects like G12 and SIMPL, achieved significant progress in automating the generation of complex and hybrid solvers from high-level model specifications. This paper extends model combinators into the scheduling domain. This is of particular interest as, today, both Constraint Programming (CP) and Mixed-Integer Programming (MIP) perform well on scheduling problems providing different capabilities and trade-offs. The ability to construct hybrid scheduling solvers to leverage the strengths of both technologies as well as multiple problem encodings through high-level model combinators provides new opportunities. Complex parallel hybrids can be synthesized with minimal effort on the part of the user and provide substantial performance benefits over standalone solvers.

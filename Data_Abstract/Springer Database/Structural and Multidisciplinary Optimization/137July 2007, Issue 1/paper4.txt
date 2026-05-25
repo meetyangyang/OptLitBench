@@ -1,0 +1,6 @@
+An adaptive approach to constraint aggregation using adjoint sensitivity analysis
+Nicholas M. K. Poon;Joaquim R. R. A. Martins;
+Abstract
+Constraint aggregation is the key for efficient structural optimization when using a gradient-based optimizer and an adjoint method for sensitivity analysis. We explore different methods of constraint aggregation for numerical optimization. We analyze existing approaches, such as considering all constraints individually, taking the maximum of the constraints and using the Kreisselmeier–Steinhauser (KS) function. A new adaptive approach based on the KS function is proposed that updates the aggregation parameter by taking into account the constraint sensitivity. This adaptive approach is shown to significantly increase the accuracy of the results without additional computational cost especially when a large number of constraints are active at the optimum. The characteristics of each aggregation method and the performance of the proposed adaptive approach are shown by solving a wing structure weight minimization problem.
+Keywords
+Constraint aggregation  Constraint handling  Adjoint sensitivity analysis  Kreisselmeier–Steinhauser function  Adaptive constraint aggregation  

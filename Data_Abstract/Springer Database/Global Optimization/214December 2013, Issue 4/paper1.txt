@@ -1,0 +1,6 @@
+Global optimization of bilinear programs with a multiparametric disaggregation technique
+Scott Kolodziej;Pedro M. Castro;Ignacio E. Grossmann;
+Abstract
+In this paper, we present the derivation of the multiparametric disaggregation technique (MDT) by Teles et al. (J. Glob. Optim., 2011) for solving nonconvex bilinear programs. Both upper and lower bounding formulations corresponding to mixed-integer linear programs are derived using disjunctive programming and exact linearizations, and incorporated into two global optimization algorithms that are used to solve bilinear programming problems. The relaxation derived using the MDT is shown to scale much more favorably than the relaxation that relies on piecewise McCormick envelopes, yielding smaller mixed-integer problems and faster solution times for similar optimality gaps. The proposed relaxation also compares well with general global optimization solvers on large problems.
+Keywords
+Global optimization  Mixed integer linear programming   Mixed integer nonlinear programming  Quadratic optimization   Disjunctive programming  

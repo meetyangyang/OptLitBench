@@ -1,0 +1,6 @@
+Probabilistically Constrained Linear Programs and Risk-Adjusted Controller Design
+Constantino M.  Lagoa, Xiang  Li, and Mario  Sznaier;
+Abstract
+The focal point of this paper is the probabilistically constrained linear program (PCLP) and how it can be applied to control system design under risk constraints. The PCLP is the counterpart of the classical linear program, where it is assumed that there is random uncertainty in the constraints and, therefore, the deterministic constraints are replaced by probabilistic ones. It is shown that for a wide class of probability density functions, called log-concave symmetric densities, the PCLP is a convex program. An equivalent formulation of the PCLP is also presented which provides insight into numerical implementation. This concept is applied to control system design. It is shown how the results in this paper can be applied to the design of controllers for discrete-time systems to obtain a closed loop system with a well-defined risk of violating the so-called property of superstability. Furthermore, we address the problem of risk-adjusted pole placement.
+Keywords
+probabilistic constraints, linear program, convexity, risk-adjusted controller, 90C15, 90C25, 90C05, 93C99, 

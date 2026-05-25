@@ -1,0 +1,6 @@
+Impulse Response Approximations of Discrete Shape Hessians with Application in CFD
+Stephan  Schmidt and Volker  Schulz;
+Abstract
+This paper discusses the symbol of the Hessian of a shape optimization problem in a viscid, incompressible flow. The symbol of the Hessian for the Stokes shape optimization problem is analytically approximated by tracking a Fourier mode through the operators involved. We propose a discrete method for finding the symbol and confirm the correctness by comparison with the analytical data. A preconditioner is constructed for both the Stokes and Navier–Stokes equation, which greatly accelerates the optimization.
+Keywords
+shape Hessian, operator symbol, preconditioning, Fourier mode, shape optimization, approximative Newton method, Stokes, Navier–Stokes, 65K10, 93C80, 35S99, 49M25, 76D55, 49Q10, 

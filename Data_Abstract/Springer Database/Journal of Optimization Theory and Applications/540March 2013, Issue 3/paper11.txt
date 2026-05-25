@@ -1,0 +1,6 @@
+Inexact Restoration for Euler Discretization of Box-Constrained Optimal Control Problems
+Nahid Banihashemi;C. Yalçın Kaya;
+Abstract
+The Inexact Restoration method for Euler discretization of state and control constrained optimal control problems is studied. Convergence of the discretized (finite-dimensional optimization) problem to an approximate solution using the Inexact Restoration method and convergence of the approximate solution to a continuous-time solution of the original problem are established. It is proved that a sufficient condition for convergence of the Inexact Restoration method is guaranteed to hold for the constrained optimal control problem. Numerical experiments employing the modelling language AMPL and optimization software Ipopt are carried out to illustrate the robustness of the Inexact Restoration method by means of two computationally challenging optimal control problems, one involving a container crane and the other a free-flying robot. The experiments interestingly demonstrate that one might be better-off using Ipopt as part of the Inexact Restoration method (in its subproblems) rather than using Ipopt directly on its own.
+Keywords
+Optimal control  Inexact restoration  Euler discretization  Container crane  Free-flying robot  

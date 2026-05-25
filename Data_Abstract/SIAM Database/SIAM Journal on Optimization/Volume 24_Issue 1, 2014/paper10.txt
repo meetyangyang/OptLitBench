@@ -1,0 +1,6 @@
+A Dynamical Approach to an Inertial Forward-Backward Algorithm for Convex Minimization
+Hédy  Attouch, Juan  Peypouquet, and Patrick  Redont;
+Abstract
+We introduce  a new class of forward-backward  algorithms for structured convex minimization problems in Hilbert spaces. Our approach relies on the time discretization of a second-order differential system with two potentials and Hessian-driven damping, recently introduced in [H. Attouch, P.-E. Maingé, and P. Redont, Differ. Equ. Appl., 4 (2012), pp. 27--65]. This system can be equivalently written as a first-order system in time and space, each of the two constitutive equations involving  one (and only one) of the two potentials. Its time dicretization naturally leads to the introduction of forward-backward splitting algorithms with inertial features. Using a Liapunov analysis, we show the convergence of the algorithm under conditions enlarging the classical step size limitation. Then, we specialize our results to gradient-projection algorithms and give some illustrations of sparse signal recovery and feasibility problems.
+Keywords
+inertial forward-backward algorithm, dynamical approach, convex minimization, 90C25, 49M37, 65K05, 47N10, 

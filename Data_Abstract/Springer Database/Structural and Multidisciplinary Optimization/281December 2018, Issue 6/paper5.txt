@@ -1,0 +1,6 @@
+Semi-analytical sensitivity analysis for nonlinear transient problems
+Felipe Fernandez;Daniel A. Tortorelli;
+Abstract
+Efficient analytical sensitivity computations are essential elements of gradient-based optimization schemes; unfortunately, they can be difficult to implement. This implementation issue is often resolved by adopting the semi-analytical method which exhibits the efficiency of the analytical methods and the ease of implementation of the finite difference method. However, care must be taken as semi-analytical sensitivities may exhibit errors due to truncation and round-off. Additional errors are introduced if the convergence tolerance of the primal analysis is not sufficiently small. This paper gives a general overview and some new developments of the analytical and semi-analytical sensitivity analyses for nonlinear steady-state, transient, and dynamic problems. We discuss the restrictive assumptions, accuracy, and consistency of these methods. Both adjoint and direct differentiation methods are studied. Numerical examples are provided.
+Keywords
+Non-linear  Semi-analytical  Sensitivity analysis  Dynamic  Adjoint  Direct  

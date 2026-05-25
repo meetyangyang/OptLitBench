@@ -1,0 +1,6 @@
+GLOPTLAB: a configurable framework for the rigorous global solution of quadratic constraint satisfaction problems
+ Ferenc   Domes ;
+Abstract
+ GloptLab is an easy-to-use testing and development platform for solving quadratic constraint satisfaction problems, written in Matlab. The algorithms implemented in GloptLab are used to reduce the search space: scaling, constraint propagation, linear relaxations, strictly convex enclosures, conic methods, and branch and bound. All these methods are rigorous; hence, it is guaranteed that no feasible point is lost. Finding and verifying feasible points complement the reduction methods. From the method repertoire custom-made strategies can be built, with a user-friendly graphical interface. GloptLab was tested on a large test set of constraint satisfaction problems, and the results show the importance of composing a clever strategy. 
+Keywords
+optimization software, verified computing, constraint satisfaction problems, interval analysis, rounding error control 

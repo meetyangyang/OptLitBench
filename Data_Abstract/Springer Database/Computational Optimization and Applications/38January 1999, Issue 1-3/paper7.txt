@@ -1,0 +1,6 @@
+A Partitioned ∈-Relaxation Algorithm for Separable Convex Network Flow Problems
+Renato De Leone;Robert R. Meyer;Armand Zakarian;
+Abstract
+A relaxation method for separable convex network flow problems is developed that is well-suited for problems with large variations in the magnitude of the nonlinear cost terms. The arcs are partitioned into two sets, one of which contains only arcs corresponding to strictly convex costs. The algorithm adjusts flows on the other arcs whenever possible, and terminates with primal-dual pairs that satisfy complementary slackness on the strictly convex arc set and ∈-complementary slackness on the remaining arcs. An asynchronous parallel variant of the method is also developed. Computational results demonstrate that the method is significantly more efficient on ill-conditioned networks than existing methods, solving problems with several thousand nonlinear arcs in one second or less.
+Keywords
+network flows  relaxation methods  asynchronous  

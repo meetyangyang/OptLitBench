@@ -1,0 +1,6 @@
+A non-overlapping DDM combined with the characteristic method for optimal control problems governed by convection–diffusion equations
+Tongjun Sun;Keying Ma;
+Abstract
+In this paper, we consider a non-overlapping domain decomposition method combined with the characteristic method for solving optimal control problems governed by linear convection–diffusion equations. The whole domain is divided into non-overlapping subdomains, and the global optimal control problem is decomposed into the local problems in these subdomains. The integral mean method is utilized for the diffusion term to present an explicit flux calculation on the inter-domain boundary in order to communicate the local problems on the interfaces between subdomains. The convection term is discretized along the characteristic direction. We establish the fully parallel and discrete schemes for solving these local problems. A priori error estimates in \(L^2\)-norm are derived for the state, co-state and control variables. Finally, we present numerical experiments to show the validity of the schemes and verify the derived theoretical results.
+Keywords
+Convection–diffusion equations  Optimal control problems  Non-overlapping DDM  Integral mean method  Error estimates  

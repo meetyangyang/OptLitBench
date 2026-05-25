@@ -1,0 +1,6 @@
+Maintaining factorized KKT systems subject to rank-one updates of Hessians and Jacobians
+ Andreas   Griewank ; Andrea   Walther ; Maciek   Korzec ;
+Abstract
+ For use in a total quasi-Newton NLP code [Griewank, A. and Walther, A., 2002, On constrained optimization by adjoint based quasi-Newton methods. Optimization Methods and Software, 17, 869–889.], we describe a QR-based nullspace factorization of KKT matrices. We illustrate the linear algebra in detail and present a theory for maintaining factorized matrices after low-rank updates. Each update of the whole system is incorporated with a computational effort that grows only quadratically with respect to the number of variables and active constraints. Furthermore, our method is special in making use of quasi-Newton updates for the constraint Jacobian approximation, instead of the usual way of using the exact derivative or divided differences. To avoid singularity or blow-up of the KKT matrix, we limit the variations of its determinant to a certain factor and dampen or augment the updates if necessary. We maintain the reduced Hessian positive definite, so that the resulting quasi-Newton steps in the primal and dual variables are downhill for suitably weighted merit functions. 
+Keywords
+KKT Matrix, Nullspace method, QR factorization, Low-rank update, Reduced Hessian, Total quasi-Newton 

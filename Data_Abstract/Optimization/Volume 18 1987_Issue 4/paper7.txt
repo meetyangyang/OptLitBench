@@ -1,0 +1,6 @@
+The primal algorithm using conjugate directions for quadratic programming problems with simple upper bounds
+ Grazyna   Kryńska ;
+Abstract
+ An algorithm that solves quadratic programming problems with a convex objective function and a feasible region defined by constraints Ax=b, β ≦ x ≦ α is presented. The algorithm uses the SUB method [3] to establish a starting feasible point and to construct the starting basis matrix. A feasible direction for the kiteration is chosen from a set of row-vectors of the inverse of the current basis matrix. After a finite number of iterations an optimal solution is found. A conjugacy property of feasible directions, convergence of the algorithm, the question of cycling and a comparison with other algorithms from the same class of methods of feasible directions are discussed.  
+Keywords
+ubject Classifications: Primary: 65 K 05, Secondary: 90 C 20, Secondary: 90 C 25Keywords: Quadratic programming, feasible directions, conjugate directions, the sub algorithm 

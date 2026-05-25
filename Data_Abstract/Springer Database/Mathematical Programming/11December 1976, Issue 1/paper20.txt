@@ -1,0 +1,6 @@
+A dual decomposition algorithm
+John A. LawrenceJr.;
+Abstract
+Suppose that a large-scale block-diagonal linear programming problem has been solved by the Dantzig—Wolfe decomposition algorithm and that an optimal solution has been attained. Suppose further that it is desired to perform a post-optimality analysis or a complete parametric analysis on the cost-coefficients or the RHS of the linking constraints. Efficient techniques for performing these analyses for the ordinary simplex case have not been easily applied to this case as one operation involves doing a minimizing ratio between all columns of two rows of the tableau. As the columns are not readily known in Dantzig—Wolfe decomposition, other techniques must be used. To date, suggested methods involve solving small linear programs to find these minimizing ratios. In this paper a method is presented which requires solving no linear programs (except possibly in the case of degeneracy of a subproblem) using and utilizing only the information typically stored for Dantzig—Wolfe decomposition.
+Keywords
+Mathematical Method  Programming Problem  Parametric Analysis  Efficient Technique  Linear Programming Problem  

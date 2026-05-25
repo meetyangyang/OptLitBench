@@ -1,0 +1,6 @@
+On swarm-level resource allocation in BitTorrent communities
+Tamás Vinkó;Flávio Santos;Nazareno Andrade;Mihai Capotă;
+Abstract
+BitTorrent is a peer-to-peer computer network protocol for sharing content in an efficient and scalable way. Modeling and analysis of the popular private BitTorrent communities has become an active area of research. In these communities users are strongly incentivized to contribute their resources, i.e., to share their files. In BitTorrent terminology, users who have finished downloading files and stay online to share these files with others in the network are called seeders. The combination of seeders and downloaders of a file is called a swarm. In this paper we examine and evaluate the efficiency of the resource allocation of seeders in multiple swarms. This is formulated as an integer linear fractional programming problem. The evaluation is done on traces representing two existing BitTorrent communities. We find that in communities, particularly with low users-to-files ratio (which is typically the case), there is room for improvement.
+Keywords
+BitTorrent  File sharing system  Resource allocation  Integer optimization  

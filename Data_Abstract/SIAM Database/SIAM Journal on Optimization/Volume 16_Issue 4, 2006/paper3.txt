@@ -1,0 +1,6 @@
+Fast Algorithms for Projection on an Ellipsoid
+Yu-Hong  Dai;
+Abstract
+Several fast algorithms are proposed for the problem of projecting a point onto a general ellipsoid. To avoid the direct estimation of the spectral radius in the Lin--Han algorithm, we provide the maximal 2-dimensional inside ball algorithm and the sequential 2-dimensional projection algorithm. However, we find that the solution procedure of the former algorithm may tend to generate some 2-dimensional reduced ellipsoids, and the latter algorithm may produce zigzags. Therefore we investigate the hybrid use of the two algorithms. Our numerical experiments show that all the algorithms, even the hybrid algorithms, are suitable for large-scale problems and much faster than the Lin--Han algorithm. Linear convergence of the algorithms is established. Possible extensions of the algorithms are also discussed.
+Keywords
+projection, ellipsoid, large-scale, hybrid algorithm, linear convergence, 65K05, 90C06, 

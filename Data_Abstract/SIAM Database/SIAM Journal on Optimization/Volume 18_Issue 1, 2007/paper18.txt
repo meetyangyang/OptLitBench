@@ -1,0 +1,6 @@
+Efficient Line Search Methods for Convex Functions
+Edgar   den Boef and Dick   den Hertog;
+Abstract
+In this paper we propose two new line search methods for convex functions. These new methods exploit the convexity property of the function, contrary to existing methods. The first method is an improved version of the golden section method. For the second method it is proven that after two evaluations the objective gap is at least halved. The practical efficiency of the methods is shown by applying our methods to a real‐life bus and buffer size optimization problem and to several classes of convex functions.
+Keywords
+convex optimization, golden section, line search, 65K05, 90C25, 90C56, 

@@ -1,0 +1,8 @@
+Solution approaches for the capacitated single allocation hub location problem using ant colony optimisation
+Marcus Randall;
+Abstract
+
+Hub and spoke type networks are often designed to solve problems that require the transfer of large quantities of commodities. This can be an extremely difficult problem to solve for constructive approaches such as ant colony optimisation due to the multiple optimisation components and the fact that the quadratic nature of the objective function makes it difficult to determine the effect of adding a particular solution component. Additionally, the amount of traffic that can be routed through each hub is constrained and the number of hubs is not known a-priori. Four variations of the ant colony optimisation meta-heuristic that explore different construction modelling choices are developed. The effects of solution component assignment order and the form of local search heuristics are also investigated. The results reveal that each of the approaches can return optimal solution costs in a reasonable amount of computational time. This may be largely attributed to the combination of integer linear preprocessing, powerful multiple neighbourhood local search heuristic and the good starting solutions provided by the ant colonies.
+
+Keywords
+Capacitated hub location problems  Meta-heuristic search  Ant colony optimisation  

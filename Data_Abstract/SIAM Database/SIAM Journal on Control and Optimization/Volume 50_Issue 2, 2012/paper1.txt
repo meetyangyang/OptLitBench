@@ -1,0 +1,6 @@
+An Approach to the Optimal Time for a Time Optimal Control Problem of an Internally Controlled Heat Equation
+Gengsheng  Wang and Guojie  Zheng;
+Abstract
+In this paper, we study the optimal time for a time optimal control problem $(\mathcal{P})$, where the state system is an internally controlled heat equation. By projecting the original problem via the finite element method, we obtain another time optimal control problem $(\mathcal{P}_{hl})$ governed by a linear system of ordinary differential equations. Here, h and l are the mesh sizes of the finite element spaces of the state space and the control space, respectively. The purpose of this study is to approach the optimal time for the problem $(\mathcal{P})$ through the optimal time for the problem $(\mathcal{P}_{hl})$. We prove that the optimal time for the problem $(\mathcal{P}_{hl})$ converges to the optimal time for the problem $(\mathcal{P})$ when h and l are approaching zero. More significantly, we obtain error estimates between the optimal times in terms of h and l for certain cases.
+Keywords
+time optimal control problem, optimal time, the heat equation, finite element approximation, observability inequality, 49K20, 35J65, 

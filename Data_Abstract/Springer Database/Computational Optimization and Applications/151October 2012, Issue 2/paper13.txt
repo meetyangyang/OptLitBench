@@ -1,0 +1,6 @@
+Reduced order solution of structured linear systems arising in certain PDE-constrained optimization problems
+V. Simoncini;
+Abstract
+The solution of PDE-constrained optimal control problems is a computationally challenging task, and it involves the solution of structured algebraic linear systems whose blocks stem from the discretized first-order optimality conditions. In this paper we analyze the numerical solution of this large-scale system: we first perform a natural order reduction, and then we solve the reduced system iteratively by exploiting specifically designed preconditioning techniques. The analysis is accompanied by numerical experiments on two application problems.
+Keywords
+Structured linear systems  Iterative methods  PDE-constraints  Optimization  Preconditioning  

@@ -1,0 +1,6 @@
+Stochastic Dominance-Constrained Markov Decision Processes
+William B.  Haskell and Rahul  Jain;
+Abstract
+We are interested in risk constraints for infinite horizon discrete time Markov decision processes (MDPs). Starting with average reward MDPs, we show that increasing concave stochastic dominance constraints on the empirical distribution of reward lead to linear constraints on occupation measures. An optimal policy for the resulting class of dominance-constrained MDPs is obtained by solving a linear program. We compute the dual of this linear program to obtain average dynamic programming optimality equations that reflect the dominance constraint. In particular, a new pricing term appears in the optimality equations corresponding to the dominance constraint. We show that many types of stochastic orders can be used in place of the increasing concave stochastic order. We also carry out a parallel development for discounted reward MDPs with stochastic dominance constraints. A portfolio optimization example is used to motivate the paper.
+Keywords
+Markov decision processes, stochastic dominance constraints, infinite-dimensional linear programs, strong duality, 90C40, 91B30, 90C34, 49N15, 

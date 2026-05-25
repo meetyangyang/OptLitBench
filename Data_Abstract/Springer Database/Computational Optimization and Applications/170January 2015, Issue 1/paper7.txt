@@ -1,0 +1,6 @@
+A convergent and efficient decomposition method for the traffic assignment problem
+David Di Lorenzo;Alessandro Galligari;Marco Sciandrone;
+Abstract
+In this work we consider the network equilibrium problem formulated as convex minimization problem whose variables are the path flows. In order to take into account the difficulties related to the large dimension of real network problems we adopt a decomposition-based approach suitably combined with a column generation strategy. We present an inexact block-coordinate descent method and we prove the global convergence of the algorithm. The results of computational experiments performed on medium-large dimensional problems show that the proposed algorithm is at least competitive with state of the art algorithms.
+Keywords
+Decomposition methods  Network equilibrium  Column generation  Cyclic block-coordinate methods  

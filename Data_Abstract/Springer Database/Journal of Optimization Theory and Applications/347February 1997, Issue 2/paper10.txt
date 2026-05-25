@@ -1,0 +1,6 @@
+Nonmonotone Levenberg–Marquardt Algorithms and Their Convergence Analysis
+J. Z. Zhang;L. H. Chen;
+Abstract
+In this paper, two nonmonotone Levenberg–Marquardt algorithms for unconstrained nonlinear least-square problems with zero or small residual are presented. These algorithms allow the sequence of objective function values to be nonmonotone, which accelerates the iteration progress, especially in the case where the objective function is ill-conditioned. Some global convergence properties of the proposed algorithms are proved under mild conditions which exclude the requirement for the positive definiteness of the approximate Hessian T(x). Some stronger global convergence properties and the local superlinear convergence of the first algorithm are also proved. Finally, a set of numerical results is reported which shows that the proposed algorithms are promising and superior to the monotone Levenberg–Marquardt algorithm according to the numbers of gradient and function evaluations.
+Keywords
+Nonlinear least-square problems  Levenberg–Marquardt algorithm  nonmonotone techniques  

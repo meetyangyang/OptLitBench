@@ -1,0 +1,8 @@
+An efficient sampling method for stochastic inverse problems
+Pierre Ngnepieba;M. Y. Hussaini;
+Abstract
+
+A general framework is developed to treat inverse problems with parameters that are random fields. It involves a sampling method that exploits the sensitivity derivatives of the control variable with respect to the random parameters. As the sensitivity derivatives are computed only at the mean values of the relevant parameters, the related extra cost of the present method is a fraction of the total cost of the Monte Carlo method. The effectiveness of the method is demonstrated on an example problem governed by the Burgers equation with random viscosity. It is specifically shown that this method is two orders of magnitude more efficient compared to the conventional Monte Carlo method. In other words, for a given number of samples, the present method yields two orders of magnitude higher accuracy than its conventional counterpart.
+
+Keywords
+Monte Carlo method  Data assimilation  Error covariance matrix  Sensitivity derivatives  Burgers equation  

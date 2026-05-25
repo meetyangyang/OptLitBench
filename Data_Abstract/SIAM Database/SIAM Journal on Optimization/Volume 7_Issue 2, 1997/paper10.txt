@@ -1,0 +1,6 @@
+Convergence of Newton's Method for Singular Smooth and Nonsmooth Equations Using Adaptive Outer Inverses
+Xiaojun  Chen, Zuhair  Nashed, and Liqun  Qi;
+Abstract
+We present a local convergence analysis of generalized Newton methods for singular smooth and nonsmooth operator equations using adaptive constructs of outer inverses. We prove that for a solution $x^*$ of $F(x)=0$, there exists a ball $S=S(x^*,r)$, $r>0$ such that for any starting point $x_0\in S$ the method converges to a solution $\bar{x}^*\in S$ of $\Gamma F(x)=0$, where $\Gamma$ is a bounded linear operator that depends on the Fréchet derivative of F at $x_0$ or on a generalized Jacobian of F at $x_0$. Point $\bar{x}^*$ may be different from $x^*$ when $x^*$ is not an isolated solution. Moreover, we prove that the convergence is quadratic if the operator is smooth and superlinear if the operator is locally Lipschitz. These results are sharp in the sense that they reduce in the case of an invertible derivative or generalized derivative to earlier theorems with no additional assumptions. The results are illustrated by a system of smooth equations and a system of nonsmooth equations, each of which is equivalent to a nonlinear complementarity problem.
+Keywords
+Newton's method, convergence theory, nonsmooth analysis, outer inverses, nonlinear complementarity problems, 65J15, 65H10, 65K10, 49M15, 

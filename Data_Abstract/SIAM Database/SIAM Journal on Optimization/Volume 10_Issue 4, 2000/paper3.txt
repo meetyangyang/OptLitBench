@@ -1,0 +1,6 @@
+An Optimization Problem for Predicting the Maximal Effect of Degradation of Mechanical Structures
+W.  Achtziger, M. P.  BendsOe, and J. E.  Taylor;
+Abstract
+This paper deals with a nonlinear nonconvex optimization problem that models prediction of degradation in discrete or discretized mechanical structures. The mathematical difficulty lies in equality constraints of the form $\sum^{m}_{i=1} \frac{1}{y_i} A_i x=b$, where Ai are symmetric and positive semidefinite matrices, b is a vector, and x,y are the vectors of unknowns. The linear objective function to be maximized is $(x,y)\mapsto b^Tx$.In a first step we investigate the problem properties such as existence of solutions and the differentiability of related marginalfunctions. As a by-product, this gives insight in terms of a mechanical interpretation of the optimization problem. We derive an equivalent convex problem formulation and a convex dual problem, and for dyadic matrices Ai a quadratic programming problem formulation is developed. A nontrivial numerical example is included, based on the latter formulation.
+Keywords
+nonlinear optimization, structural optimization, variational methods, 49A55, 65K10, 73C60, 73K40, 

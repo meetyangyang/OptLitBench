@@ -1,0 +1,6 @@
+SDP reformulation for robust optimization problems based on nonconvex QP duality
+Ryoichi Nishimura;Shunsuke Hayashi;Masao Fukushima;
+Abstract
+In a real situation, optimization problems often involve uncertain parameters. Robust optimization is one of distribution-free methodologies based on worst-case analyses for handling such problems. In this paper, we first focus on a special class of uncertain linear programs (LPs). Applying the duality theory for nonconvex quadratic programs (QPs), we reformulate the robust counterpart as a semidefinite program (SDP) and show the equivalence property under mild assumptions. We also apply the same technique to the uncertain second-order cone programs (SOCPs) with “single” (not side-wise) ellipsoidal uncertainty. Then we derive similar results on the reformulation and the equivalence property. In the numerical experiments, we solve some test problems to demonstrate the efficiency of our reformulation approach. Especially, we compare our approach with another recent method based on Hildebrand’s Lorentz positivity.
+Keywords
+Robust optimization  Second-order cone programming  Semidefinite programming  Nonconvex quadratic programming  

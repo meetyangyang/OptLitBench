@@ -1,0 +1,6 @@
+Optimal Information Blending with Measurements in the L2 Sphere
+Boris Defourny;Ilya O. Ryzhov;Warren B. Powell;
+Abstract
+A sequential information collection problem, where a risk-averse decision maker updates a Bayesian belief about the unknown objective function of a linear program, is used to investigate the informational value of measurements performed to refine a robust optimization model. The information is collected in the form of a linear combination of the objective coefficients, subject to random noise. We have the ability to choose the weights in the linear combination, creating a new, nonconvex continuous-optimization problem, which we refer to as information blending. We develop two optimal blending strategies: (1) an active learning method that maximizes uncertainty reduction and (2) an economic approach that maximizes an expected improvement criterion. Semidefinite programming relaxations are used to create efficient convex approximations to the nonconvex blending problem.
+Keywords
+stochastic programming semidefinite programming value of information risk optimal learning 

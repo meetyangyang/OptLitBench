@@ -1,0 +1,6 @@
+Postponing the Choice of Penalty Parameter and Step Length
+Fernando R. Villas-Bôas;Clovis Perin;
+Abstract
+We study, in the context of interior-point methods for linear programming, some possible advantages of postponing the choice of the penalty parameter and the steplength, which happens both when we apply Newton's method to the Karush-Kuhn-Tucker system and when we apply a predictor-corrector scheme. We show that for a Newton or a strictly predictor step the next iterate can be expressed as a linear function of the penalty parameter μ, and, in the case of a predictor-corrector step, as a quadratic function of μ. We also show that this parameterization is useful to guarantee either the non-negativity of the next iterate or the proximity to the central path. Initial computational results of these strategies are shown and compared with PCx, an implementation of Mehotra's predictor-corrector method.
+Keywords
+interior-point methods  linear programming  path-following methods  

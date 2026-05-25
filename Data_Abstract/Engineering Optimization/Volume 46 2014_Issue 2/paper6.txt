@@ -1,0 +1,6 @@
+Topology optimization of continuum structures with bi-modulus materials
+Kun Cai;Zhaoliang Gao;Jiao Shi;
+Abstract
+Since the elasticity of bi-modulus materials is stress dependent, it is difficult to apply most conventional topology optimization methods to such bi-modulus structures owing to great computational expense. Therefore, this study employs the material-replacement method to improve the computational efficiency for topology optimization of bi-modulus structures. In this method, first, the bi-modulus material is replaced by two isotropic materials which have the same tensile or compressive modulus. Secondly, the isotropic materials for finite elements are determined by the local stress/strain states. The local elemental stiffness can be modified according to the current modulus and stress state of the element. Thirdly, the relative densities of elements, acting as the design variables, are updated using the optimality criterion method. Finally, the distributions of elemental densities and moduli are obtained for further applications. Several typical numerical examples are used to demonstrate the effectiveness of the proposed method.
+Keywords
+topology optimization, continuum structures, bi-modulus, material replacement 

@@ -1,0 +1,6 @@
+Computing the Moore–Penrose Inverse for the Covariance Matrix in Constrained Nonlinear Estimation
+Wolfgang M.  Hartmann and Robert E.  Hartwig;
+Abstract
+A new algorithm is developed to compute the Moore–Penrose inverse of the Lagrangian matrix which is used to compute the covariance matrix of parameter estimates in constrained nonlinear optimization. The algorithm takes into account the bordered structure of the Lagrangian matrix and that the projected Hessian is available at no cost at the end of the optimization process. For many applications and especially for an increasing number of active constraints at the optimum, the new algorithm will be considerably more efficient than the traditional one.
+Keywords
+covariance matrix, constrained nonlinear estimation, MP inverse of Lagrangian matrix, 62G15, 

@@ -1,0 +1,6 @@
+Optimal Timing to Initiate Medical Treatment for a Disease Evolving as a Semi-Markov Process
+Mabel C. Chou;Mahmut Parlar;Yun Zhou;
+Abstract
+In this paper, we consider the problem of the optimal timing to initiate a medical treatment. In the absence of treatment, we model the disease evolution as a semi-Markov process. The optimal time to initiate the treatment is a stopping time, which maximizes the total expected reward for the patient. We propose a stochastic dynamic programming formulation to find this stopping time. Under some plausible conditions, we show that the maximum total expected reward at the start of a health state will be smaller when the patient is in a more severe state. We then prove that the optimal policy for initializing the treatment is determined by a time threshold for each given health state. That is, in each health state, the treatment should be planned to start, when the patient’s duration time in the health state reaches (or exceeds, in the case of a late observation of the patient’s health status) a certain threshold level. We also present numerical examples to illustrate our model and to provide managerial insights.
+Keywords
+Healthcare modeling  Semi-Markov process  Optimal policy  90B50  

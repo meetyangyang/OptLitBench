@@ -1,0 +1,6 @@
+Parallel branch and bound for global optimization with combination of Lipschitz bounds
+ Remigijus   Paulavičius ; Julius   Žilinskas ; Andreas   Grothey ;
+Abstract
+ The solution of multidimensional Lipschitz optimization problem requires a lot of computing time and memory resources. Parallel OpenMP and MPI versions of branch and bound algorithm with simplicial partitions and Lipschitz bounds were created, investigated and compared in this paper. The efficiency of the developed parallel algorithms is investigated by solving multidimensional test problems for global optimization. 
+Keywords
+parallel optimization, global optimization, Lipschitz optimization, branch and bound 

@@ -1,0 +1,6 @@
+On strongly polynomial dual simplex algorithms for the maximum flow problem
+Donald Goldfarb;Wei Chen;
+Abstract
+Several pivot rules for the dual network simplex algorithm that enable it to solve a maximum flow problem on ann-node,m-arc network in at most 2nm pivots and O(n 2 m) time are presented. These rules are based on the concept of apreflow and depend upon the use of node labels which are either the lengths of a shortestpseudoaugmenting path from those nodes to the sink node orvalid underestimates of those lengths. Extended versions of our algorithms are shown to solve an important class of parametric maximum flow problems with no increase in the worst-case pivot and time bounds of these algorithms.
+Keywords
+Dual simplex method  Maximum flow  Parametric maximum flow  Preflow  Pseudoaugmenting path  Strongly polynomial  Valid distance labels  

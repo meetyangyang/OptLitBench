@@ -1,0 +1,6 @@
+Stable algorithm for updating dense LU factorization after row or column exchange and row and column addition or deletion  
+   J   Gondzio ;
+Abstract
+ An algorithm for updating the LU factors of a dense square matrix is presented. The method allows a fast and stable maintaining triangular factors L and U for any of the following matrix modifications: row and column addition, column exchange, row exchange and row and column deletion. The method is particularly suitable for updating SCHUR complements of LP bases. Numerical results confirmed its accuracy  
+Keywords
+Dense LU Factorization, Updating SCHUR Complements 

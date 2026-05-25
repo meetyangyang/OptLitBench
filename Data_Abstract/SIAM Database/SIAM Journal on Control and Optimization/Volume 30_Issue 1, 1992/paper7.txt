@@ -1,0 +1,6 @@
+Properties of Energy-Minimizing Segmentations
+Jayant  Shah;
+Abstract
+In Computer Vision, one approach to segmenting an image consists in minimizing an energy functional that is defined over a set of all possible segmentations in terms of penalties for deviations from ideal properties. Studied here are the smoothing properties of such a formulation defined with two parameters, which are the weights associated with the penalty measures. This paper deals with only the one-dimensional case. It is shown that the erect of these parameters is to set two local thresholds, one for the intensity gradient and one for the difference between the maximum and the minimum values of image intensity in a region. If one of the thresholds is not exceeded in a region, the region is regarded as uniform and will not be broken up. Thus, low intensity noise and low gradients are filtered out. Conversely, if the image intensity changes rapidly in a region so that both the thresholds are exceeded, the region will be broken up.
+Keywords
+nonconvex minimization, free boundary problem, image segmentation, piecewise smooth approximations, 35R35, 

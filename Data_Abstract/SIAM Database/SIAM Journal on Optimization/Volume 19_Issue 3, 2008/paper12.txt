@@ -1,0 +1,6 @@
+Global Convergence of Filter Methods for Nonlinear Programming
+Ademir A.  Ribeiro, Elizabeth W.  Karas, and Clóvis C.  Gonzaga;
+Abstract
+We present a general filter algorithm that allows a great deal of freedom in the step computation. Each iteration of the algorithm consists basically in computing a point which is not forbidden by the filter, from the current point. We prove its global convergence, assuming that the step must be efficient, in the sense that, near a feasible nonstationary point, the reduction of the objective function is “large.” We show that this condition is reasonable, by presenting two classical ways of performing the step which satisfy it. In the first one, the step is obtained by the inexact restoration method of Martínez and Pilotta. In the second, the step is computed by sequential quadratic programming.
+Keywords
+filter methods, nonlinear programming, global convergence, 49M37, 65K05, 90C30, 

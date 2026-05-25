@@ -1,0 +1,6 @@
+A modified layered-step interior-point algorithm for linear programming
+Nimrod Megiddo;Shinji Mizuno;Takashi Tsuchiya;
+Abstract
+The layered-step interior-point algorithm was introduced by Vavasis and Ye. The algorithm accelerates the path following interior-point algorithm and its arithmetic complexity depends only on the coefficient matrixA. The main drawback of the algorithm is the use of an unknown big constant\(\bar \chi _A \) in computing the search direction and to initiate the algorithm. We propose a modified layered-step interior-point algorithm which does not use the big constant in computing the search direction. The constant is required only for initialization when a well-centered feasible solution is not available, and it is not required if an upper bound on the norm of a primal—dual optimal solution is known in advance. The complexity of the simplified algorithm is the same as that of Vavasis and Ye. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Linear programming  Layered-step interior-point method  Path of centers  Crossover events  

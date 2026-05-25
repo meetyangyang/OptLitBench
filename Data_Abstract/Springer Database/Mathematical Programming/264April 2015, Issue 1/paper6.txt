@@ -1,0 +1,6 @@
+Minimum concave cost flow over a grid network
+Qie He;Shabbir Ahmed;George L. Nemhauser;
+Abstract
+The minimum concave cost network flow problem (MCCNFP) is NP-hard, but efficient polynomial-time algorithms exist for some special cases such as the uncapacitated lot-sizing problem and many of its variants. We study the MCCNFP over a grid network with a general nonnegative separable concave cost function. We show that this problem is polynomially solvable when all sources are in the first echelon and all sinks are in two echelons, and when there is a single source but many sinks in multiple echelons. The polynomiality argument relies on a combination of a particular dynamic programming formulation and an investigation of the extreme points of the underlying flow polyhedron. We derive an analytical formula for the inflow into any node in an extreme point solution, which generalizes a result of Zangwill (Manag Sci 14(7):429–450, 1968) for the multi-echelon lot-sizing problem.
+Keywords
+Min concave cost flow  Grid network  Lot-sizing model  90B05  90B10  90B30  90C11  90C35  

@@ -1,0 +1,6 @@
+Least squares timestamp synchronization for local broadcast networks
+Florian Jarre;Wolfgang Kiess;Martin Mauve;Magnus Roos;Björn Scheuermann;
+Abstract
+The analysis of computer network experiments strongly relies on event log files recorded by the participating network nodes during the experiment. Timing related issues play an important role here for a number of central parameters like, e.g., end-to-end delay. As each node uses its local clock to timestamp the events in the log files, the large deviation of standard crystal oscillator based clocks imposes some big problems. We look at this issue in the case of networks with local broadcast media, where occurring transmissions can often be observed by multiple network nodes. We have developed a method to correct the timestamps in such an environment in a previous paper. Here, we present a second solution. For this new solution, we give bounds on the synchronization quality and compare the two approaches by means of simulation.
+Keywords
+Timestamps  Offline time synchronization  Least squares  Optimization  Maximum likelihood  Linear programming  

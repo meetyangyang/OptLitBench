@@ -1,0 +1,6 @@
+Polyominoes tiling by a genetic algorithm
+B. H. Gwee;M. H. Lim;
+Abstract
+Most existing placement algorithms were designed to handle blocks that are rectangular in shape. In this paper, we show how a genetic algorithm (GA) is used to construct an optimal arrangement of two-dimensional rectilinear blocks. Our approach does not require the orientation of each block to be fixed. To transform the placement problem to a GA problem, we devised a decoding technique known as circular placement. The novelty of the circular placement technique is that it configures the rectilinear blocks by building up potentially good groupings of blocks starting from the corners of the placement area. To complement the circular placement approach, we present a methodology for deriving a suitable objective function. We confirm the performance of our GA-based placement algorithm by presenting simulation results of some problems on tiling with up to 128 polyominoes. The algorithm described in this paper has great potential for applications in packing, compacting and general component placement in the various disciplines of engineering.
+Keywords
+Genetic Algorithm  Operation Research  Mathematical Program  Discrete Geometry  Optimal Arrangement  

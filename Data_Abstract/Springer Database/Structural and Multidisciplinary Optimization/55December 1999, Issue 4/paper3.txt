@@ -1,0 +1,6 @@
+Local stability of trusses in the context of topology optimization Part II: A numerical approach
+W. Achtziger;
+Abstract
+The paper considers the problem of optimal truss topology design with respect to stress, slenderness, and local buckling constraints. An exact problem formulation is used dealing with the inherent difficulty that the local buckling constraints are discontinuous functions in the bar areas due to the topology aspect. This exact problem formulation has been derived in Part I. In this paper, a numerical approach to this nonconvex and largescale problem is proposed. First, discontinuity of constraints is erased by providing an equivalent formulation in standard form of nonlinear programming. Then a linearization concept is proposed partly preserving the given problem structure. It is proved that the resulting sequential linear programming algorithm is a descent method generating truss designs feasible for the original problem. A numerical test on a nontrivial example shows that the exact treatment of the problem leads to different designs than the usual local buckling constraints neglecting the difficulties induced by the topology aspect.
+Keywords
+Topology Optimization  Nonlinear Programming  Discontinuous Function  Local Buckling  Topology Design  

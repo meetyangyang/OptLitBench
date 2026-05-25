@@ -1,0 +1,6 @@
+Optimization of nonlinear trusses using a displacement-based approach
+S. Missoum;Z. Gürdal;W. Gu;
+Abstract
+A displacement-based optimization strategy is extended to the design of truss structures with geometric and material nonlinear responses. Unlike the traditional optimization approach that uses iterative finite element analyses to determine the structural response as the sizing variables are varied by the optimizer, the proposed method searches for an optimal solution by using the displacement degrees of freedom as design variables. Hence, the method is composed of two levels: an outer level problem where the optimal displacement field is searched using general nonlinear programming algorithms, and an inner problem where a set of optimal cross-sectional dimensions are computed for a given displacement field. For truss structures, the inner problem is a linear programming problem in terms of the sizing variables regardless of the nature of the governing equilibrium equations, which can be linear or nonlinear in displacements. The method has been applied to three test examples, which include material and geometric nonlinearities, for which it appears to be efficient and robust.
+Keywords
+Key words: geometric and material nonlinearities, two-level optimization, linear programming, dual variables, truss design  

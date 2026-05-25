@@ -1,0 +1,6 @@
+A fast steady-state ε-dominance multi-objective evolutionary algorithm
+Minqiang Li;Liu Liu;Dan Lin;
+Abstract
+Multi-objective evolutionary algorithms (MOEAs) have become an increasingly popular tool for design and optimization tasks in real-world applications. Most of the popular baseline algorithms are pivoted on the use of Pareto-ranking (that is empirically inefficient) to improve the convergence to the Pareto front of a multi-objective optimization problem. This paper proposes a new ε-dominance MOEA (EDMOEA) which adopts pair-comparison selection and steady-state replacement instead of the Pareto-ranking. The proposed algorithm is an elitist algorithm with a new preservation technique of population diversity based on the ε-dominance relation. It is demonstrated that superior results could be obtained by the EDMOEA compared with other algorithms: NSGA-II, SPEA2, IBEA, ε-MOEA, PESA and PESA-II on test problems. The EDMOEA is able to converge to the Pareto optimal set much faster especially on the ZDT test functions with a large number of decision variables.
+Keywords
+Multi-objective optimization  ε-dominance  Steady-state EAs  Diversity preservation  

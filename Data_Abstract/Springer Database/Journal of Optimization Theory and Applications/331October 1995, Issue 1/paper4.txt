@@ -1,0 +1,6 @@
+An auction algorithm for the max-flow problem
+D. P. Bertsekas;
+Abstract
+We propose a new algorithm for the max-flow problem. It consists of a sequence of augmentations along paths constructed by an auction-like algorithm. These paths are not necessarily shortest, that is, they need not contain a minimum number of arcs. However, they can be found typically with much less computation than the shortest augmenting paths used by competing methods. Our algorithm outperforms these latter methods as well as state-of-the-art preflow-push algorithms by a very large margin in tests with standard randomly generated problems.
+Keywords
+Network optimization  max-flow problems  auction algorithms  preflow-push algorithms  

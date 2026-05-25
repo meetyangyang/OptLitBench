@@ -1,0 +1,6 @@
+Parallel block coordinate minimization with application to group regularized regression
+Giuseppe C. Calafiore;
+Abstract
+This paper proposes a method for parallel block coordinate-wise minimization of convex functions. Each iteration involves a first phase where n independent minimizations are performed over the n variable blocks, followed by a phase where the results of the first phase are coordinated to obtain the whole variable update. Convergence of the method to the global optimum is proved for functions composed of a smooth part plus a possibly non-smooth but separable term. The method is also proved to have a linear rate of convergence, for functions that are smooth and strongly convex. The proposed algorithm can give computational advantage over the more standard serial block coordinate-wise minimization methods, when run over a parallel, multi-worker, computing architecture. The method is suitable for regularized regression problems, such as the group Lasso, group Ridge regression, and group Elastic Net. Numerical tests are run on such types of regression problems to exemplify the performance of the proposed method.
+Keywords
+Block coordinate minimization  Nondifferentiable minimization  Parallel methods  Group Lasso  Ridge regression  Elastic Net  Regularized regression  

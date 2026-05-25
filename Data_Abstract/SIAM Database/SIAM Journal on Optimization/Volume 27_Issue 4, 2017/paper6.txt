@@ -1,0 +1,6 @@
+Fast and Reliable Parameter Estimation from Nonlinear Observations
+Samet  Oymak and Mahdi  Soltanolkotabi;
+Abstract
+In this paper we study the problem of recovering a structured but unknown parameter $\bm{\theta}^*$ from $n$ nonlinear observations of the form $y_i=f(\langle\bm{x}_i,\bm{\theta}^*\rangle)$ for $i=1,2,\ldots,n$. We develop a framework for characterizing time-data trade-offs for a variety of parameter estimation algorithms when the nonlinear function $f$ is unknown. This framework includes many popular heuristics such as projected/proximal gradient descent and stochastic schemes. For example, we show that a projected gradient descent scheme converges at a linear rate to a reliable solution with a near minimal number of samples. We provide a sharp characterization of the convergence rate of such algorithms as a function of sample size, amount of a priori knowledge available about the parameter, and a measure of the nonlinearity of the function $f$. These results provide a precise understanding of the various trade-offs involved between statistical and computational resources as well as a priori side information available for such nonlinear parameter estimation problems.
+Keywords
+sparsity, nonlinear estimation, quantization, projected gradient descent, 90C26, 34A34, 68Q25, 68W20, 65F10, 

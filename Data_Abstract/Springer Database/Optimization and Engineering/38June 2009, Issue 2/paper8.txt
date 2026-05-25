@@ -1,0 +1,6 @@
+A novel pattern extraction method for time series classification
+Xiaohang Zhang;Jun Wu;Xuecheng Yang;Haiying Ou;Tingjie Lv;
+Abstract
+Multivariate time series classification is of significance in machine learning area. In this paper, we present a novel time series classification algorithm, which adopts triangle distance function as similarity measure, extracts some meaningful patterns from original data and uses traditional machine learning algorithm to create classifier based on the extracted patterns. During the stage of pattern extraction, Gini function is used to determine the starting position in the original data and the length of each pattern. In order to improve computing efficiency, we also apply sampling method to reduce the searching space of patterns. The common datasets are used to check our algorithm and compare with the naive algorithms. Experimental results are shown to reveal that much improvement can be gained in terms of interpretability, simplicity and accuracy.
+Keywords
+Time series classification  Patterns extraction  Triangle distance  Gini function  

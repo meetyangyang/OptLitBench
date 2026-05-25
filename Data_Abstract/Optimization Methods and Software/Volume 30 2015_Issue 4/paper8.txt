@@ -1,0 +1,6 @@
+Solving the time varying postman problems with timed automata
+Jinghao Sun;Yakun Meng;GuoZhen Tan;Jingchang Sun;
+Abstract
+In this work, we present timed automata as a natural tool for posing and solving time varying postman problems. We show that these problems can be reduced to the problem of finding the shortest runs in our Timed Automata System (TAS) model. The problem can then be solved by incorporating the reachability analysis (RA) algorithm into a binary search framework. However, the scale of the TAS model is too large to adapt the RA algorithm embedded in the UppAal. Thus, we propose a composition strategy to transform the current TAS model into a Generalized Timed Automaton (GTA) model, such that the number of timed automata in our model decreases from  to . Computational results show that the GTA model can solve small-sized instances optimally and that it can obtain a better optimality gap than those obtained by the cutting plane algorithm.
+Keywords
+time varying, time window, time dependent, postman problem, timed automata 

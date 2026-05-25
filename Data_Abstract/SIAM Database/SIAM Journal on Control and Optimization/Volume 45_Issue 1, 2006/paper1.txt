@@ -1,0 +1,6 @@
+Retrieving Lévy Processes from Option Prices: Regularization of an Ill-posed Inverse Problem
+Rama  Cont and Peter  Tankov;
+Abstract
+We propose a stable nonparametric method for constructing an option pricing model of exponential Lévy type, consistent with a given data set of option prices. After demonstrating the ill-posedness of the usual and least squares version of this inverse problem, we suggest to regularize the calibration problem by reformulating it as the problem of finding an exponential Lévy model that minimizes the sum of the pricing error and the relative entropy with respect to a prior exponential Lévy model. We prove the existence of solutions for the regularized problem and show that it yields solutions which are continuous with respect to the data, stable with respect to the choice of prior, and which converge to the minimum entropy least squares solution of the initial problem when the noise level in the data vanishes.
+Keywords
+inverse problem, entropy, Lévy process, jump process, model calibration, option pricing, regularization, ill-posed problem, 49N45, 60G51, 60J75, 91B70, 

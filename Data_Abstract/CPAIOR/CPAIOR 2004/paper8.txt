@@ -1,0 +1,4 @@
+Solving the Petri Nets Reachability Problem Using the Logical Abstraction Technique and Mathematical Programming
+Thomas Bourdeaud’huy;Said Hanafi;Pascal Yim;
+Abstract
+This paper focuses on the resolution of the reachability problem in Petri nets, using the logical abstraction technique and the mathematical programming paradigm. The proposed approach is based on an implicit exploration of the Petri net reachability graph. This is done by constructing a unique sequence of partial steps. This sequence represents exactly the total behavior of the net. The logical abstraction technique leads us to solve a constraint satisfaction problem. We also propose different new formulations based on integer and/or binary linear programming. Our models are validated and compared on large data sets, using Prolog IV and Cplex solvers.

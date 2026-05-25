@@ -1,0 +1,6 @@
+Optimality functions in stochastic programming
+J. O. Royset;
+Abstract
+Optimality functions define stationarity in nonlinear programming, semi-infinite optimization, and optimal control in some sense. In this paper, we consider optimality functions for stochastic programs with nonlinear, possibly nonconvex, expected value objective and constraint functions. We show that an optimality function directly relates to the difference in function values at a candidate point and a local minimizer. We construct confidence intervals for the value of the optimality function at a candidate point and, hence, provide a quantitative measure of solution quality. Based on sample average approximations, we develop an algorithm for classes of stochastic programs that include CVaR-problems and utilize optimality functions to select sample sizes.
+Keywords
+Stochastic programming  Optimality conditions  Validation analysis  Algorithms  90C15  90C46  90C26  

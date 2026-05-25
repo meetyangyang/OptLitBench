@@ -1,0 +1,6 @@
+Computational experience with a bundle approach for semidefinite cutting plane relaxations of Max-Cut and Equipartition
+Ilse Fischer;Gerald Gruber;Franz Rendl;Renata Sotirov;
+Abstract
+We propose a dynamic version of the bundle method to get approximate solutions to semidefinite programs with a nearly arbitrary number of linear inequalities. Our approach is based on Lagrangian duality, where the inequalities are dualized, and only a basic set of constraints is maintained explicitly. This leads to function evaluations requiring to solve a relatively simple semidefinite program. Our approach provides accurate solutions to semidefinite relaxations of the Max-Cut and the Equipartition problem, which are not achievable by direct approaches based only on interior-point methods.
+Keywords
+Bundle method  Semidefinite Programming  max-cut  Equipartition  90C22  90C27  

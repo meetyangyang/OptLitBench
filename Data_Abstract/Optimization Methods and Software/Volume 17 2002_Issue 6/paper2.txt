@@ -1,0 +1,6 @@
+Slice models in general purpose modeling systems: An application to DEA
+ Michael C.   Ferris ; Meta M.   Voelker ;
+Abstract
+ Slice models are collections of mathematical programs with the same structure but different data. Because they involve multiple problems, slice models tend to be data-intensive and time consuming to solve. However, by incorporating additional information in the solution process, such as the common structure and shared data, we are able to solve these models much more efficiently. In addition because of the efficiency we achieve, we are able to process much larger real-world problems and extend slice model results through the application of more computationally-intensive procedures. In this article, we focus on slice models arising from Data Envelopment Analysis (DEA). In DEA problems, slice models are used to evaluate the efficiency of production units. Using a smoothed bootstrap technique, confidence intervals can be obtained for the resulting efficiency measurements, however at such a high computational cost that often this analysis cannot be done. Under the techniques that we describe for improving the solution efficiency, not only are we able to solve DEA problems with large numbers of units, but we are also able to evaluate the confidence intervals. 
+Keywords
+DEA, Slice Modeling, Modeling Systems, Optimization 

@@ -1,0 +1,6 @@
+A globalization strategy for the multigrid solution of elliptic optimal control problems
+ A.   Borzì ; K.   Kunisch ;
+Abstract
+ A globalization strategy for multigrid schemes solving optimal control problems is presented. This approach searches for possible negative eigenvalues of the reduced Hessian considered at the coarsest grid of the multigrid process. If negative eigenvalues are detected, a globalization step in the direction of negative curvature is performed to escape undesired maxima or saddle points. It is shown that the multigrid solution step provides a descent update. Examples are given to illustrate and validate the present approach. 
+Keywords
+Optimal control problems, Globalization strategy, Multigrid methods 

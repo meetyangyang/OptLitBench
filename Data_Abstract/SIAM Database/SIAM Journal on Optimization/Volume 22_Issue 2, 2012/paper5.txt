@@ -1,0 +1,6 @@
+Constrained Polynomial Optimization Problems with Noncommuting Variables
+Kristijan  Cafuta, Igor  Klep, and Janez  Povh;
+Abstract
+In this paper we study constrained eigenvalue optimization of noncommutative (nc) polynomials, focusing on the polydisc and the ball. Our three main results are as follows: (1) an nc polynomial is nonnegative if and only if it admits a weighted sum of hermitian squares decomposition; (2) (eigenvalue) optima for nc polynomials can be computed using a single semidefinite program (SDP)—this sharply contrasts with the commutative case where sequences of SDPs are needed; (3) the dual solution to this “single” SDP can be exploited to extract eigenvalue optimizers with an algorithm based on two ingredients: solution to a truncated nc moment problem via flat extensions, and Gelfand–Naimark–Segal construction. The implementation of these procedures in our computer algebra system NCSOStools is presented, and several examples pertaining to matrix inequalities are given to illustrate our results.
+Keywords
+noncommutative polynomial, optimization, sum of squares, semidefinite programming, moment problem, Hankel matrix, flat extension, MATLAB toolbox, real algebraic geometry, free positivity, 90C22, 14P10, 13J30, 47A57, 

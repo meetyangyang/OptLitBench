@@ -1,0 +1,6 @@
+An algorithm for eradicating the effects of void elements on structural topology optimization for nonlinear compliance
+Quantian Luo;Liyong Tong;
+Abstract
+This paper presents an efficient algorithm for structural topology optimization with material and/or geometric nonlinearities using the moving iso-surface threshold (MIST) method. In this algorithm, all finite element analyses (FEA) are conducted for sub-domains with solid and grey elements via removing all void elements, whereas the response function is constructed in the full design domain. This algorithm allows the removed void elements to be involved in design variable update and to reappear in subsequent iterations. As there are solid materials only in the final optimal topology, problems such as ‘layering’ and ‘islanding’ caused by void elements in topology optimization for structures considering large deformations are completely eradicated. Challenges such as ‘material reappearance’ and ‘discontinuity’ owing to the removal of void elements are resolved. Numerical results for three typical structures and their comparison with those in the literature are presented to validate the present algorithm.
+Keywords
+Topology optimization  Nonlinear analysis  Void element  Stability  

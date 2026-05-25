@@ -1,0 +1,4 @@
+Formulations and Reformulations in Integer Programming
+Michael Trick;
+Abstract
+Creating good integer programming formulations had, as a basic axiom, the rule “Find formulations with tighter linear relaxations”. This rule, while useful when using unsophisticated branch-and-bound codes,is insufficient when using state-of-the-art codes that understand and embed many of the obvious formulation improvements. As these optimization codes become more sophisticated it is important to have finer control over their operation. Modelers need to be even more creative in reformulating their integer programs in order to improve on the automatic reformulations of the optimization codes.

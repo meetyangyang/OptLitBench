@@ -1,0 +1,6 @@
+Knapsack problem with probability constraints
+Alexei A. Gaivoronski;Abdel Lisser;Rafael Lopez;Hu Xu;
+Abstract
+This paper is dedicated to a study of different extensions of the classical knapsack problem to the case when different elements of the problem formulation are subject to a degree of uncertainty described by random variables. This brings the knapsack problem into the realm of stochastic programming. Two different model formulations are proposed, based on the introduction of probability constraints. The first one is a static quadratic knapsack with a probability constraint on the capacity of the knapsack. The second one is a two-stage quadratic knapsack model, with recourse, where we introduce a probability constraint on the capacity of the knapsack in the second stage. As far as we know, this is the first time such a constraint has been used in a two-stage model. The solution techniques are based on the semidefinite relaxations. This allows for solving large instances, for which exact methods cannot be used. Numerical experiments on a set of randomly generated instances are discussed below.
+Keywords
+Semidefinite programming  Knapsack problem  Stochastic optimization  Recourse  

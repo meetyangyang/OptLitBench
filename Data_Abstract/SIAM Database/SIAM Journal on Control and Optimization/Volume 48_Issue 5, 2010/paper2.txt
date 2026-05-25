@@ -1,0 +1,6 @@
+Tracking Neumann Data for Stationary Free Boundary Problems
+Karsten  Eppler and Helmut  Harbrecht;
+Abstract
+The present paper is dedicated to the verification of sufficient second order conditions for shape optimization problems that arise from stationary free boundary problems. We assume that the state satisfies the Dirichlet problem for the Poisson equation and track the Neumann data at the free boundary. The gradient and Hessian of the shape functional under consideration are computed. By analyzing the shape Hessian in case of matching data a sufficient criterion for its strict coercivity is derived. Strict coercivity implies stable minimizers and, in case of a Ritz–Galerkin method, existence and convergence of approximate shapes. By a fast boundary element method we realize an efficient numerical algorithm to solve the free boundary problem. Numerical experiments are carried out in three spatial dimensions.
+Keywords
+free boundary problems, shape optimization, shape calculus, sufficient second order conditions, 49Q10, 49K20, 49M15, 65K10, 

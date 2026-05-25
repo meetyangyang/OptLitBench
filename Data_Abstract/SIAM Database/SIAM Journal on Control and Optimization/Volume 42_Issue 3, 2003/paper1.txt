@@ -1,0 +1,6 @@
+Solving Semi-Infinite Optimization Problems with Interior Point Techniques
+Oliver  Stein and Georg  Still;
+Abstract
+We introduce a new numerical solution method for semi-infinite optimization problems with convex lower level problems. The method is based on a reformulation of the semi-infinite problem as a Stackelberg game and the use of regularized nonlinear complementarity problem functions. This approach leads to central path conditions for the lower level problems, where for a given path parameter a smooth nonlinear finite optimization problem has to be solved. The solution of the semi-infinite optimization problem then amounts to driving the path parameter to zero.We show convergence properties of the method and give a number of numerical examples from design centering and from robust optimization, where actually so-called generalized semi-infinite optimization problems are solved. The presented method is easy to implement, and in our examples it works well for dimensions of the semi-infinite index set at least up to 150.
+Keywords
+generalized semi-infinite optimization, convexity, Stackelberg game, nonlinear complementarity problem function, smoothing, optimality condition, 90C34, 90C25, 49M37, 65K05, 

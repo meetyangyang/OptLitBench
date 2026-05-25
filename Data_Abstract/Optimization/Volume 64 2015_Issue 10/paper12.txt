@@ -1,0 +1,6 @@
+A method for weighted projections to the positive definite cone
+Tuomo Valkonen;
+Abstract
+We study the numerical solution of the problem , where  is a symmetric square matrix, and  is a linear operator, such that  is invertible. With  the desired fractional duality gap, and  the condition number of , we prove  iteration complexity for a simple primal-dual interior point method directly based on those for linear programs with semi-definite constraints. We do not, however, require the numerically expensive scalings inherent in these methods to force fast convergence. For low-dimensional problems (), our numerical experiments indicate excellent performance and only a very slowly growing dependence of the convergence rate on . While our algorithm requires somewhat more iterations than existing interior point methods, the iterations are cheaper. This gives better computational times.
+Keywords
+semi-definite, interior point, projection, quadratic programming diffusion tensor imagingAMS Subject Classifications: 90C22, 90C51, 92C55 

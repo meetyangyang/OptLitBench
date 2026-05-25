@@ -1,0 +1,6 @@
+An Algorithm for Degenerate Nonlinear Programming with Rapid Local Convergence
+Stephen J.  Wright;
+Abstract
+This paper describes and analyzes an algorithmic framework for solving nonlinear programming problems in which strict complementarity conditions and constraint qualifications are not necessarily satisfied at a solution. The framework is constructed from three main algorithmic ingredients. The first is any conventional method for nonlinear programming that produces estimates of the Lagrange multipliers at each iteration; the second is a technique for estimating the set of active constraint indices; the third is a stabilized Lagrange--Newton algorithm with rapid local convergence properties. Results concerning rapid local convergence and global convergence of the proposed framework are proved. The approach improves on existing approaches in that less restrictive assumptions are needed for convergence and/or the computational workload at each iteration is lower.
+Keywords
+nonlinear programming, degeneracy, superlinear convergence, 90C30, 90C55, 65K05, 49M05, 

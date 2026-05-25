@@ -1,0 +1,6 @@
+A predictor-corrector infeasible-interior-point method for the Cartesian -LCP over symmetric cones with  iteration complexity
+M. Sayadi Shahraki;H. Mansouri;M. Zangiabadi;
+Abstract
+In this paper, we present a predictor-corrector infeasible-interior-point method for symmetric cone linear complementarity problem (SCLCP) with the Cartesian -property (-SCLCP). This method is based on a wide neighbourhood, which is an even wider neighbourhood than the negative infinity neighbourhood. We show that the iteration-complexity bound of the proposed algorithm for a commutative class of search directions is , where  is the condition number of matrix G,  is the handicap of the problem, r is the rank of the associated Euclidean Jordan algebra and  is a given tolerance. To our knowledge, this is the best complexity result obtained so far for the wide neighbourhood infeasible-interior-point methods for the Cartesian -SCLCPs.
+Keywords
+Infeasible-interior-point method, wide neighborhood, linear complementarity problem, symmetric cone programming, -property 

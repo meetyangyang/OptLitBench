@@ -1,0 +1,6 @@
+A perfect example for the BFGS method
+Yu-Hong Dai;
+Abstract
+Consider the BFGS quasi-Newton method applied to a general non-convex function that has continuous second derivatives. This paper aims to construct a four-dimensional example such that the BFGS method need not converge. The example is perfect in the following sense: (a) All the stepsizes are exactly equal to one; the unit stepsize can also be accepted by various line searches including the Wolfe line search and the Arjimo line search; (b) The objective function is strongly convex along each search direction although it is not in itself. The unit stepsize is the unique minimizer of each line search function. Hence the example also applies to the global line search and the line search that always picks the first local minimizer; (c) The objective function is polynomial and hence is infinitely continuously differentiable. If relaxing the convexity requirement of the line search function; namely, (b) we are able to construct a relatively simple polynomial example.
+Keywords
+Unconstrained optimization  Quasi-Newton method  Non-convex function  Global convergence  49M37  90C30  

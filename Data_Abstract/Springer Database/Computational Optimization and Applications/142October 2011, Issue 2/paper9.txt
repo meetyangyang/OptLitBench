@@ -1,0 +1,6 @@
+A smoothing sample average approximation method for stochastic optimization problems with CVaR risk measure
+Fanwen Meng;Jie Sun;Mark Goh;
+Abstract
+This paper is concerned with solving single CVaR and mixed CVaR minimization problems. A CHKS-type smoothing sample average approximation (SAA) method is proposed for solving these two problems, which retains the convexity and smoothness of the original problem and is easy to implement. For any fixed smoothing constant ε, this method produces a sequence whose cluster points are weak stationary points of the CVaR optimization problems with probability one. This framework of combining smoothing technique and SAA scheme can be extended to other smoothing functions as well. Practical numerical examples arising from logistics management are presented to show the usefulness of this method.
+Keywords
+Conditional value-at-risk  Sample average approximation  Smoothing method  Stochastic optimization  

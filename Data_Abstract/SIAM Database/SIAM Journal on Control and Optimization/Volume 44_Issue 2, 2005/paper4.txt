@@ -1,0 +1,6 @@
+A Primal-Dual Active Set Strategy for Optimal Boundary Control of a Nonlinear Reaction-Diffusion System
+R.  Griesse and S.  Volkwein;
+Abstract
+This paper is concerned with optimal boundary control of an instationary reaction-diffusion system in three spatial dimensions. This problem involves a coupled nonlinear system of parabolic differential equations with bilateral as well as integral control constraints. We include the integral constraint in the cost by a penalty term whereas the bilateral control constraints are handled explicitly. First- and second-order conditions for the optimization problem are analyzed. A primal-dual active set strategy is utilized to compute optimal solutions numerically. The algorithm is compared to a semismooth Newton method.
+Keywords
+reaction-diffusion equations, optimal boundary control, bilateral and integral control constraints, primal-dual active set strategy, semismooth Newton methods, 35Kxx, 49Lxx, 65Kxx, 

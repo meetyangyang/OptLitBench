@@ -1,0 +1,6 @@
+Counterexample to a Conjecture on an Infeasible Interior-Point Method
+G.  Gu and C.  Roos;
+Abstract
+In [SIAM J. Optim., 16 (2006), pp. 1110–1136], Roos proved that the devised full-step infeasible algorithm has $O(n)$ worst-case iteration complexity. This complexity bound depends linearly on a parameter $\bar{\kappa}(\zeta)$, which is proved to be less than $\sqrt{2n}$. Based on extensive computational evidence (hundreds of thousands of randomly generated problems), Roos conjectured that $\bar{\kappa}(\zeta)=1$ (Conjecture 5.1 in the above-mentioned paper), which would yield an $O(\sqrt{n})$ iteration full-Newton step infeasible interior-point algorithm. In this paper we present an example showing that $\bar{\kappa}(\zeta)$ is in the order of $\sqrt{n}$, the same order as that proved in Roos's original paper. In other words, the conjecture is false.
+Keywords
+linear optimization, full-step infeasible interior-point algorithm, conjecture, 90C05, 90C51, 

@@ -1,0 +1,6 @@
+Jacobian Smoothing Methods for Nonlinear Complementarity Problems
+Christian  Kanzow and Heiko  Pieper;
+Abstract
+We present a new algorithm for the solution of general (not necessarily monotone) complementarity problems. The algorithm is based on a reformulation of the complementarity problem as a nonsmooth system of equations by using the Fischer--Burmeister function. We use an idea by Chen, Qi, and Sun and apply a Jacobian smoothing method (which combines nonsmooth Newton and smoothing methods) to solve this system. In contrast to that of Chen, Qi, and Sun, however, our method is at least well defined for general complementarity problems. Extensive numerical results indicate that the new algorithm works very well. In particular, it can solve all nonlinear complementarity problems from the MCPLIB and GAMSLIB libraries.
+Keywords
+nonlinear complementarity problem, nonsmooth Newton method, smoothing method, global convergence, quadratic convergence, 90C33, 

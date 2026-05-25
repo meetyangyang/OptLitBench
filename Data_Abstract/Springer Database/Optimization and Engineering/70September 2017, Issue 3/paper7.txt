@@ -1,0 +1,6 @@
+Expected improvement based infill sampling for global robust optimization of constrained problems
+Samee ur Rehman;Matthijs Langelaar;
+Abstract
+A novel adaptive sampling scheme for efficient global robust optimization of constrained problems is proposed. The method addresses expensive to simulate black-box constrained problems affected by uncertainties for which only the bounds are known, while the probability distribution is not available. An iterative strategy for global robust optimization that adaptively samples the Kriging metamodel of the computationally expensive problem is proposed. The presented approach is tested on several benchmark problems and the average performance based on 100 runs is evaluated. The applicability of the method to engineering problems is also illustrated by applying robust optimization on an integrated photonic device affected by manufacturing uncertainties. The numerical results show consistent convergence to the global robust optimum using a limited number of expensive simulations.
+Keywords
+Robust optimization  Kriging  Expected improvement  Efficient global optimization  

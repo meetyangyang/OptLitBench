@@ -1,0 +1,6 @@
+Techniques of linear programming based on the theory of convex cones
+   P.   D'Alessandbo ; Manuela   Dalla Moba ; Elena   De Santis ;
+Abstract
+ The convex cones approach to linear programming is illustrated. Two methods are introduced. The first, called primal, is based on a tangency condition for nonnegative orthant and an affine set. The second, called dual, uses the extreme rays of a pointed polyhedral cone, given by the intersection of the nonnegative orthant with a subspace, to compute the maximum and than proceeds in the same way as the primal to derive the solution. A complete theory for the extreme rays of any cone of this form is given.  Another highlight of the paper is the theory of the strictly tangent relaxation, which is independent of the particular method used, and allows the reduction of the problem to a minimal form, A numerical example is included to give a practical feeling of the dual method. Finally features of the methods, like the possibility of highly parallel implementations, open problems and perspectives are discussed.  
+Keywords
+Polyhedral cones, solution of linear programming problems, extreme rays, reduction of dimension of linear programming problems, parallel implementationsAMS 1980 Subject Classifications: Primary: 49 D 35, Secondary: 65 K 10 

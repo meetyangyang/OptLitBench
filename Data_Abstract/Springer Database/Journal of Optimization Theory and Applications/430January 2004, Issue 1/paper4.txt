@@ -1,0 +1,6 @@
+An Algorithm for Approximate Multiparametric Linear Programming
+C. Filippi;
+Abstract
+Multiparametric programming considers optimization problems where the data are functions of a parameter vector and describes the optimal value and an optimizer as explicit functions of the parameters. In this paper, we consider a linear program where the right-hand side is an affine function of a parameter vector; we propose an algorithm for approximating its solution. Given a full-dimensional simplex in the parameter space and an optimizer for each simplex vertex, the algorithm formulates the linear interpolation of the given solutions as an explicit function of the parameters, giving a primal feasible approximation of an optimizer inside the simplex. If the resulting absolute error in the objective exceeds a prescribed tolerance, then the algorithm subdivides the simplex into smaller simplices where it applies recursively. We propose both a basic version and a refined version of the algorithm. The basic version is polynomial in the output size, provided a polynomial LP solver is used; the refined version may give a smaller output. A global error bound for the optimizer is derived and some computational tests are discussed.
+Keywords
+Multiparametric programming  linear programming  approximation methods  error bounds  complexity analysis  model predictive control  

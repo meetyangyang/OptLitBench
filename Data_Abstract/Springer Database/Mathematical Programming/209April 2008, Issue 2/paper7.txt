@@ -1,0 +1,6 @@
+Optimal Jacobian accumulation is NP-complete
+Uwe Naumann;
+Abstract
+We show that the problem of accumulating Jacobian matrices by using a minimal number of floating-point operations is NP-complete by reduction from Ensemble Computation. The proof makes use of the fact that, deviating from the state-of-the-art assumption, algebraic dependences can exist between the local partial derivatives. It follows immediately that the same problem for directional derivatives, adjoints, and higher derivatives is NP-complete, too.
+Keywords
+Automatic differentiation  Complexity  NP-completeness  26B10  68Q17  

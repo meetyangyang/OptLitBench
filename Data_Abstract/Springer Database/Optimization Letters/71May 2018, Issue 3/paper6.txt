@@ -1,0 +1,6 @@
+A semidefinite programming method for integer convex quadratic minimization
+Jaehyun Park;Stephen Boyd;
+Abstract
+We consider the NP-hard problem of minimizing a convex quadratic function over the integer lattice \({\mathbf{Z}}^n\). We present a simple semidefinite programming (SDP) relaxation for obtaining a nontrivial lower bound on the optimal value of the problem. By interpreting the solution to the SDP relaxation probabilistically, we obtain a randomized algorithm for finding good suboptimal solutions, and thus an upper bound on the optimal value. The effectiveness of the method is shown for numerical problem instances of various sizes.
+Keywords
+Convex optimization  Integer quadratic programming  Mixed-integer programming  Semidefinite relaxation  Branch-and-bound  

@@ -1,0 +1,6 @@
+Rotor pole design of IPM motors for a sinusoidal air-gap flux density distribution
+Jae Seok Choi;Kazuhiro Izui;Shinji Nishiwaki;Atsushi Kawamoto;Tsuyoshi Nomura;
+Abstract
+This study presents optimization methods for the design of rotor poles in interior permanent magnet machines, which aim to effectively obtain a sinusoidal distribution of the air-gap flux density. A sinusoidal field in the air-gap offers several advantages, such as reduction of torque ripple when using sinusoidal phase currents, and reduction in cogging torque and higher harmonic components of back electromotive force. In this study, the optimization process is achieved based on a phase field method using an Allen-Cahn equation. For the optimization problem we address, regions with meaningful design sensitivity values may exist outside the interfacial layer, which makes design variable updating impossible. To resolve this problem, the design sensitivities are diffused in the radial direction, using a diffusion equation. The time evolution of the design variables is based on the implicit finite element method, and the augmented Lagrangian method is used to deal with the volume constraint.
+Keywords
+IPM motor  Phase field  Allen-Cahn equation  Shape optimization  

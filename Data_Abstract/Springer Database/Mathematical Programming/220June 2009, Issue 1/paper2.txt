@@ -1,0 +1,6 @@
+A robust APTAS for the classical bin packing problem
+Leah Epstein;Asaf Levin;
+Abstract
+Bin packing is a well studied problem which has many applications. In this paper we design a robust APTAS for the problem. The robust APTAS receives a single input item to be added to the packing at each step. It maintains an approximate solution throughout this process, by slightly adjusting the solution for each new item. At each step, the total size of items which may migrate between bins must be bounded by a constant factor times the size of the new item. We show that such a property cannot be maintained with respect to optimal solutions.
+Keywords
+Integer Program  Polynomial Time Approximation Scheme  Large Item  Small Item  Migration Factor  

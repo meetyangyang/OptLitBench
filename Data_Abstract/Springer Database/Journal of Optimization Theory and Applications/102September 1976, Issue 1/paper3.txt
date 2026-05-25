@@ -1,0 +1,6 @@
+On Warner's algorithm for the solution of boundary-value problems for ordinary differential equations
+M. R. Mataušek;
+Abstract
+The paper discusses the solution of boundary-value problems for ordinary differential equations by Warner's algorithm. This shooting algorithm requires that only the original system of differential equations is solved once in each iteration, while the initial conditions for a new iteration are evaluated from a matrix equation. Numerical analysis performed shows that the algorithm converges even for very bad starting values of the unknown initial conditions and that the number of iterations is small and weakly dependent on the starting point. Based on this algorithm, a general subroutine can be realized for the solution of a large class of boundary-value problems.
+Keywords
+Boundary-value problems  initial-value methods  differential equations  numerical methods  computing methods  

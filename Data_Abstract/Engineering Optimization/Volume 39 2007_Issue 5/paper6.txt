@@ -1,0 +1,6 @@
+Multiple trial vectors in differential evolution for engineering design
+ E.   Mezura-Montes ; C.   A.   Coello Coello ; J.   Velázquez-Reyes ; L.   Muñoz-Dávila ;
+Abstract
+ This article presents a modified version of the differential evolution algorithm to solve engineering design problems. The aim is to allow each parent vector in the population to generate more than one trial (child) vector at each generation and therefore to increase its probability of generating a better one. To deal with constraints, some criteria based on feasibility and a diversity mechanism to maintain infeasible solutions in the population are used. The approach is tested on a set of well-known benchmark problems. After that, it is used to solve engineering design problems and its performance is compared with those provided by typical penalty function approaches and also against state-of-the-art techniques. 
+Keywords
+Evolutionary algorithms, Differential evolution, Constrained optimization, Engineering design 

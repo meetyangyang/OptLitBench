@@ -1,0 +1,6 @@
+Convergence properties of trust region methods for linear and convex constraints
+James V. Burke;Jorge J. Moré;Gerardo Toraldo;
+Abstract
+We develop a convergence theory for convex and linearly constrained trust region methods which only requires that the step between iterates produce a sufficient reduction in the trust region subproblem. Global convergence is established for general convex constraints while the local analysis is for linearly constrained problems. The main local result establishes that if the sequence converges to a nondegenerate stationary point then the active constraints at the solution are identified in a finite number of iterations. As a consequence of the identification properties, we develop rate of convergence results by assuming that the step is a truncated Newton method. Our development is mainly geometrical; this approach allows the development of a convergence theory without any linear independence assumptions.
+Keywords
+Trust region  linear constraints  convex constraints  global convergence  local convergence  degeneracy  rate of convergence  identification of active constraints  Newton's method  sequential quadratic programming  gradient projection  

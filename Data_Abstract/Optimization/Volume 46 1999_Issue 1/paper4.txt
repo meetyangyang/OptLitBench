@@ -1,0 +1,6 @@
+Trust Region Methods With Nonmonotonic Back Tracking Technique for
+ Detong.   Zhu ;
+Abstract
+ In this paper we propose an easy-to-implement algorithm for solving general  nonlinear optimization problems with nonlinear equality constraints. A mixed strategy using both trust region and line search techniques is adopted which switches to back tracking steps when a trial step produced by the trust region subproblem is unacceptable. A non- monotonic criterion is suggested which does not require the merit function to reduce its value after every iteration. In order to deal with large problems, a reduced Hessian is used to replace full Hessian matrix. To avoid solving quadratic trust region subproblems exactly which usually takes most computing time, we only require an approximate solution with less computation. The calculation of correction steps brings to overcome Maratos effect. Global convergence and local superlinear rates are then proved under some reasonable conditions  
+Keywords
+Line Search, Trust Region, Nonmonotonic Technique, Dogleg Paths, Con-Strained Optimization 

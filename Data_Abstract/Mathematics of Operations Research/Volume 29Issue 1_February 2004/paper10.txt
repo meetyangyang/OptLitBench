@@ -1,0 +1,6 @@
+Index Policies for Stochastic Search in a Forest with an Application to R&D Project Management
+Eric V. Denardo;Uriel G. Rothblum;Ludo Van der Heyden;
+Abstract
+This paper concerns a stochastic search problem in a forest. As motivation, consider the issue of investing in a research-and-development project. Each activity that could be undertaken in the project is represented as an edge in a forest. Each edge has a cost of being attempted and a probability of success. An edge can be attempted if each of its predecessors has been attempted, and if each of those attempts has succeeded. The overall project succeeds if a path is found from a stem to a leaf of the forest all of whose edges are successful. Overall success yields an economic benefit. The problem is to find an investment strategy that maximizes expected utility, either with a linear or an exponential utility function. This problem will be shown to have a simple solution. Each edge will be assigned an index such that expected utility is maximized by attempting, at each opportunity, an edge whose index is most positive, terminating the search when no edges remain whose indices are positive. These indices are nested in a way that makes them quick to compute.
+Keywords
+stochastic search forest multi-armed bandit exponential utility project management 

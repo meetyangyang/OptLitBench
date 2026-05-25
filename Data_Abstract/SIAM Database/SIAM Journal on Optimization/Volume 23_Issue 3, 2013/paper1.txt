@@ -1,0 +1,6 @@
+Subspace Accelerated Matrix Splitting Algorithms for Asymmetric and Symmetric Linear Complementarity Problems
+Daniel P.  Robinson, Liming  Feng, Jorge M.  Nocedal, and Jong-Shi  Pang;
+Abstract
+This paper studies the solution of both asymmetric and symmetric linear complementarity problems by two-phase methods that consist of an active set prediction phase and an acceleration phase. The prediction phase employs matrix splitting iterations that are tailored to the structure of the linear complementarity problems studied in this paper. In the asymmetric case, the task of pairing an acceleration phase with matrix splitting iterations is achieved by exploiting a contraction property associated with certain matrix splittings. For symmetric problems, a similar task is achieved by utilizing decent properties of specific matrix splitting iterations and projected searches. The superior optimal active set identification property of matrix splitting iterations is illustrated with numerical experiments, which also demonstrate the general efficiency of the proposed methods.
+Keywords
+quadratic programming, linear complementarity, iterative methods, Jacobi iteration, Gauss--Seidel iteration, splitting methods, two-phase methods, American options pricing, 49M05, 49M15, 65K05, 65K10, 65K15, 91G60, 

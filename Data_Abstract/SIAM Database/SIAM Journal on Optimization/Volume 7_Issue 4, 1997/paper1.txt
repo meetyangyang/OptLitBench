@@ -1,0 +1,6 @@
+A Study of General Dynamic Network Programs with Arc Time-Delays
+Malcolm C.  Pullan;
+Abstract
+Dynamic network flow problems in which there is a delay on the flows in the arcs have been in existence since the early days of modern optimization. However, most previous work in this area has only considered models which are discrete in the time variable. In this paper we present a continuous-time model for a very broad class of dynamic network problems with arc time-delays. The model is a direct extension of the separated continuous linear program (SCLP) to include time-delays and is called the separated continuous linear program with time-delays (SCLPTD). By suitable transformations we are able to rewrite SCLPTD in a manner which is very close to SCLP itself. This then allows us to use all the recent theory and algorithms for SCLP to derive similar results for SCLPTD. In particular, the theory we present includes a characterization of the extreme-point solutions, an existence theorem for piecewise analytic optimal extreme-point solutions, and a strong duality theorem. We also present a class of convergent algorithms for the solution of SCLPTD in certain instances.
+Keywords
+dynamic network flows, duality, continuous linear programming, linear optimal control, 90C35, 49J30, 49N15, 49K30, 49M99, 49N05, 90C45, 

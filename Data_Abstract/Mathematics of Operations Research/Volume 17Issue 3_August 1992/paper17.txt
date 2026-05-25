@@ -1,0 +1,6 @@
+The Generalized Basis Reduction Algorithm
+László Lovász;Herbert E. Scarf;
+Abstract
+Let F(x) be a convex function defined in Rn, which is symmetric about the origin and homogeneous of degree 1, and let L be the lattice of integers Zn. A definition of a reduced basis, b1, …, bn, of the lattice with respect to the distance function F is presented, and we describe an algorithm which yields a reduced basis in polynomial time, for fixed n. In the special case in which the bodies {x: F(x) ≤ t} are ellipsoids, the definition of a reduced basis is identical with that given by Lenstra, Lenstra and Lovász (1982) and the algorithm is the well-known basis reduction algorithm.We show that the basis vector b1, in a reduced basis, is an approximation to a shortest nonzero lattice point with respect to F and relate the basis vectors bi to Minkowski's successive minima. The results lead to an algorithm for integer programming which executes in polynomial time for fixed n, but which avoids the ellipsoidal approximations required by Lenstra's algorithm. We also discuss the properties of a Korkine-Zolotarev basis for the lattice.
+Keywords
+geometry of numbers reduced basis Lenstra's algorithm integer programming 

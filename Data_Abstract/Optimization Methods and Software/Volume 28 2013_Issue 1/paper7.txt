@@ -1,0 +1,6 @@
+Global non-smooth optimization in robust multivariate regression
+ Gleb   Beliakov ; Andrei   Kelarev ;
+Abstract
+ Robust regression in statistics leads to challenging optimization problems. Here, we study one such problem, in which the objective is non-smooth, non-convex and expensive to calculate. We study the numerical performance of several derivative-free optimization algorithms with the aim of computing robust multivariate estimators. Our experiences demonstrate that the existing algorithms often fail to deliver optimal solutions. We introduce three new methods that use Powell's derivative-free algorithm. The proposed methods are reliable and can be used when processing very large data sets containing outliers. 
+Keywords
+global optimization, non-smooth optimization, robust regression, high-breakdown regression, least trimmed squares 

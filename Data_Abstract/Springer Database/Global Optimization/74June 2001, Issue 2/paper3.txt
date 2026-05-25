@@ -1,0 +1,6 @@
+Progress in the Solving of a Circuit Design Problem
+Laurent Granvilliers;Frédéric Benhamou;
+Abstract
+This paper describes a new global branch-and-prune algorithm dedicated to the solving of nonlinear systems. The pruning technique combines a multidimensional interval Newton method with HC4, a state of the art constraint satisfaction algorithm recently proposed by the authors. From an algorithmic point of view, the main contributions of this paper are the design of a fine-grained interaction between both algorithms which avoids some unnecessary computation and the description of HC4 in terms of a chain rule for constraint projections. Our algorithm is experimentally compared, on a particular circuit design problem proposed by Ebers and Moll in 1954, with two global methods proposed in the last ten years by Ratschek and Rokne and by Puget and Van Hentenryck. This comparison shows an improvement factor of five with respect to the fastest of these previous implementations on the same machine.
+Keywords
+Constraint satisfaction  Interval analysis  Newton method  Automatic differentiation  Circuit design  

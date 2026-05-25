@@ -1,0 +1,6 @@
+On the use of iterative methods in cubic regularization for unconstrained optimization
+Tommaso Bianconcini;Giampaolo Liuzzi;Benedetta Morini;Marco Sciandrone;
+Abstract
+In this paper we consider the problem of minimizing a smooth function by using the adaptive cubic regularized (ARC) framework. We focus on the computation of the trial step as a suitable approximate minimizer of the cubic model and discuss the use of matrix-free iterative methods. Our approach is alternative to the implementation proposed in the original version of ARC, involving a linear algebra phase, but preserves the same worst-case complexity count. Further we introduce a new stopping criterion in order to properly manage the “over-solving” issue arising whenever the cubic model is not an adequate model of the true objective function. Numerical experiments conducted by using a nonmonotone gradient method as inexact solver are presented. The obtained results clearly show the effectiveness of the new variant of ARC algorithm.
+Keywords
+Unconstrained optimization  Cubic regularization  Worst-case complexity  Matrix-free subproblem solvers  

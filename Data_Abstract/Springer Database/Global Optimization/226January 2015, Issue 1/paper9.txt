@@ -1,0 +1,6 @@
+Matrix-power energy-landscape transformation for finding NP-hard spin-glass ground states
+Markus Manssen;Alexander K. Hartmann;
+Abstract
+A method for solving binary optimization problems was proposed by Karandashev and Kryzhanovsky that can be used for finding ground states of spin glass models. By taking a power of the bond matrix the energy landscape of the system is transformed in such a way, that the global minimum should become easier to find. In this paper we test the combination of the new approach with various algorithms, namely simple random search, a cluster algorithm by Houdayer and Martin, and the common approach of parallel tempering. We apply these approaches to find ground states of the three-dimensional Edwards–Anderson model, which is an NP-hard problem, hence computationally challenging. To investigate whether the power-matrix approach is useful for such hard problems, we use previously computed ground states of this model for systems of size \(10^3\) spins. In particular we try to estimate the difference in needed computation time compared to plain parallel tempering.
+Keywords
+Spin glass model  Binary minimization  Energy landscape transformation  Monte Carlo method  NP-hardness  

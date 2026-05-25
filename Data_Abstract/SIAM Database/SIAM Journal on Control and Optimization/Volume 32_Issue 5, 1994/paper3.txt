@@ -1,0 +1,6 @@
+The Asymptotic Behavior of Simulated Annealing Processes with Absorption
+Tzuu-Shuh  Chiang and Yunshyong  Chow;
+Abstract
+For a large class (satisfying a Perron–Frobenius property) of simulated annealing processes with an absorbing state a and arbitrary cost function, it is shown that there exist constants $h(i) \geq 0$, $\beta _{ij}  > 0$ and $\delta  > 0$, $N \geq 0$, independent of the starting points such that, for nonabsorbing states i and j, \[\begin{gathered}  \mathop {\lim }\limits_{t \to \infty } {{\left\{ {P\left( {X_t  = i} \right)\lambda ^{h(j)} (t)} \right\}} / {\left\{ {P\left(X_t  = j\right)\lambda ^{h(i)} (t)} \right\}}} = \beta _{ij} \qquad {\text{and}} \hfill \\  P\left(X_t  \ne a\right) = \exp \left[ { - \int_0^t {\delta \lambda ^N (s) + O\left(\lambda ^{N + 1} (s)\right)ds} } \right]\quad {\text{for }}t{\text{ large}}. \hfill \\ \end{gathered} \]Here, $\lambda (t) = \exp ( - {1 / {T(t)}})$, $T(t) \to 0$, is the temperature function. As an application, the asymptotic behavior of the expected time of hitting a state (in particular, a global minimum) of a simulated annealing process without absorbing states can be determined.
+Keywords
+simulated annealing process, forward equations, cycle method, Perron–Frobenius theorem, 60J27, 60J99, 15A18, 15A51, 90B40, 

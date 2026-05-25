@@ -1,0 +1,6 @@
+Asymptotic Behavior of Internet Congestion Controllers in a Many-Flows Regime
+Supratim Deb;Sanjay Shakkottai;R. Srikant;
+Abstract
+Congestion controllers for the Internet are typically designed based on deterministic delay differential equation models. In this paper, we consider the case of a single link accessed by many TCP-like congestion-controlled flows and uncontrolled flows that are modeled as stochastic disturbances. We show that if the number of flows is large and the link capacity is scaled in proportion to the number of users, then under appropriate conditions, the trajectory of the stochastic system is eventually well approximated by the trajectory of a delay-differential equation. Our analysis also throws light on the choice of various parameters that ensure global asymptotic stability of the limiting deterministic system in the presence of feedback delay. Numerical examples with some popular congestion feedback mechanisms validate the parameter choices from the analysis. The results indicate that a system with multiple TCP-like flows is globally stable (and thus, that a deterministic model is reasonable if the number of flows is large) as long as the product of the throughput and feedback delay per flow is not very small.
+Keywords
+congestion controller delay-differential equations mean-flow behavior 

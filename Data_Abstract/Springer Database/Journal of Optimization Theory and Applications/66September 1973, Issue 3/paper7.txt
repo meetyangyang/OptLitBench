@@ -1,0 +1,6 @@
+A note on optimization using the augmented penalty function
+V. Raghavendra;K. S. P. Rao;
+Abstract
+The augmented penalty function is used to solve optimization problems with constraints and for faster convergence while adopting gradient techniques. In this note, an attempt is made to show that, ifx* ∈S maximizes the function$$W(x,\lambda ,{\rm K}) = f(x) - \sum\limits_{j = 1}^n {\lambda _j C_j (x)}  - K\sum\limits_{j = 1}^n {C_j ^2 (x)} ,$$ thenx* maximizesf(x) over all thosex ∈S such that$$C_j (x) \leqslant C_j ,j = 1,2, \ldots ,n,$$ under the assumptions that the λ j 's andk are nonnegative, real numbers. Here,W(x, λ,K),f(x), andC  j (x),j=1, 2,...,n, are real-valued functions andC  j (x) ≥ 0 forj=1, 2,...,n and for allx. The above result is generalized considering a more general form of the augmented penalty function.
+Keywords
+Indian Institute  Optimization Theory  Payoff Function  Fast Convergence  Optimum Allocation  

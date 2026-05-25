@@ -1,0 +1,6 @@
+Newton-type interior-point methods for solving generalized complementarity problems in polyhedral cones
+ R.   Andreani ; S.A.   Santos ; W.V.I.   Shirabayashi ;
+Abstract
+ In this work the solution of the generalized nonlinear complementarity problem (GNCP) in polyhedral cones is addressed by two interior-point strategies: a perturbed Newton method and a predictor–corrector method. The latter may be considered as a member of the so-called Chebyshev–Halley family of methods for nonlinear systems, adapted to conform with the interior-point approach. Applied to a linear complementarity problem, the proposed method becomes the well-known Mehrotra's predictor–corrector method. Quadratic local convergence results are proved under the assumptions usually made for the GNCP. Numerical experiments validate the usage of both ideas for solving the GNCP in polyhedral cones. The proposed predictor–corrector method is implementable and competitive with Newton's method for some problems. 
+Keywords
+generalized nonlinear complementarity problem, interior-point methods, Newton's method, predictor–corrector methods, tensorial methods 

@@ -1,0 +1,6 @@
+Robust truss topology optimization via semidefinite programming with complementarity constraints: a difference-of-convex programming approach
+Yoshihiro Kanno;
+Abstract
+The robust truss topology optimization against the uncertain static external load can be formulated as mixed-integer semidefinite programming. Although a global optimal solution can be computed with a branch-and-bound method, it is very time-consuming. This paper presents an alternative formulation, semidefinite programming with complementarity constraints, and proposes an efficient heuristic. The proposed method is based upon the concave–convex procedure for difference-of-convex programming. It is shown that the method can often find a practically reasonable truss design within the computational cost of solving some dozen of convex optimization subproblems.
+Keywords
+Robust optimization  Design-dependent load  Complementarity constraint  Semidefinite programming  Difference-of-convex programming  Concave–convex procedure  

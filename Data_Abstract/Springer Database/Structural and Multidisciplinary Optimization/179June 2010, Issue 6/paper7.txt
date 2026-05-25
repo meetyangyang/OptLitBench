@@ -1,0 +1,6 @@
+A pseudo-sensitivity based discrete-variable approach to structural topology optimization with multiple materials
+Anand Ramani;
+Abstract
+An algorithm has been developed which uses material as a discrete variable in multi-material topology optimization and thus provides an alternative to traditional methods using material interpolation and level-set approaches. The algorithm computes ‘pseudo-sensitivities’ of the objective and constraint functions to discrete material changes. These are used to rank elements, based on which a fraction of elements are selected for material ID modification during the optimization iteration. The algorithm is of general applicability and avoids frequent matrix factorizations so that it is applicable to large structural problems. In addition to the conventionally used evolutionary and morphogenesis approaches for iteration, a new iteration scheme of ‘resubstitution’ which combines the two approaches is presented. The application and functioning of the algorithm is demonstrated through case studies and comparisons with a few benchmark problems, showing its capability in providing mass-optimal topologies under stiffness constraints for various structural problems where multiple materials are considered.
+Keywords
+Topology optimization  Multi-material structures  Materials  

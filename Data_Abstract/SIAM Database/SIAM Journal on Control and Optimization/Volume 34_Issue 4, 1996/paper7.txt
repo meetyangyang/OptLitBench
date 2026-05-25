@@ -1,0 +1,6 @@
+Consistent Approximations for Optimal Control Problems Based on Runge–Kutta Integration
+A.  Schwartz and E.  Polak;
+Abstract
+This paper explores the use of Runge–Kutta integration methods in the construction of families of finite-dimensional, consistent approximations to nonsmooth, control and state constrained optimal control problems. Consistency is defined in terms of epiconvergence of the approximating problems and hypoconvergence of their optimality functions. A significant consequence of this concept of consistency is that stationary points and global solutions of the approximating discrete-time optimal control problems can only converge to stationary points and global solutions of the original optimal control problem. The construction of consistent approximations requires the introduction of appropriate finite-dimensional subspaces of the space of controls and the extension of the standard Runge–Kutta methods to piecewise-continuous functions.It is shown that in solving discrete-time optimal control problems that result from Runge–Kutta integration, a non-Euclidean inner product and norm must be used on the control space to avoid potentially serious ill-conditioning effects.
+Keywords
+optimal control, discretization theory, consistent approximations, Runge–Kutta integration, 49J15, 49M25, 49J45, 65L06, 

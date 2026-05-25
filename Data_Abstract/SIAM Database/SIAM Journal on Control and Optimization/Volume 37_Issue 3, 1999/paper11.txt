@@ -1,0 +1,6 @@
+An Augmented Lagrangian Method for Identifying Discontinuous Parameters in Elliptic Systems
+Zhiming  Chen and Jun  Zou;
+Abstract
+The identification of discontinuous parameters in elliptic systems is formulated as a constrained minimization problem combining the output least squares and the equation error method. The minimization problem is then proved to be equivalent to the saddle-point problem of an augmented Lagrangian. The finite element method is used to discretize the saddle-point problem, and the convergence of the discretization is also proved. Finally, an Uzawa algorithm is suggested for solving the discrete saddle-point problem and is shown to be globally convergent.
+Keywords
+parameter identification, elliptic system, augmented Lagrangian, finite element method, 65N30, 35R30, 

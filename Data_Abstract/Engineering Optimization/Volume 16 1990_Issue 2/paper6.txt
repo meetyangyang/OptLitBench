@@ -1,0 +1,6 @@
+SAFE-FAIL LINE METHOD—AN ALGORITHM TO REDUCE THE CALCULATION OF COMPLEX CONSTRAINTS IN DESIGN OPTIMIZATION
+ Z.   WU ; J. N.   SIDDALL ;
+Abstract
+ A rather simple but quite effective algorithm is proposed for reducing the number of calculations of complex constraint functions in optimization problems. A type of monotonicity is used to set up a direct relationship between the design variables and the critical constraints. It can frequently be predicted whether or not the constraints are satisfied at a design point just by checking the variation in the design variables. It can be established in advance that a given constraint function varies with respect to a design variable in one of four ways, and rules can be defined, based on the previous history of function values, whether or not a constraint function need be evaluated. Trial calculations of a sample of problems suggest typical savings of 40-50%. The procedure is illustrated by stress constraints; but the same method can be used in other types. 
+Keywords
+ Structures, monotonicity, structural optimization, constraint evaluation 

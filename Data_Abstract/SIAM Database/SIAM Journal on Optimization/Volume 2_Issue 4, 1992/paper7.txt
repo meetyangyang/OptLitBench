@@ -1,0 +1,6 @@
+New Proximal Point Algorithms for Convex Minimization
+Osman  Güler;
+Abstract
+This paper introduces two new proximal point algorithms for minimizing a proper, lower-semicontinuous convex function $f: \mathbf{R}^n  \to R \cup \{ \infty  \}$. Under this minimal assumption on f, the first algorithm possesses the global convergence rate estimate $f(x_k ) - \min_{x \in \mathbf{R}^n } f(x) = O(1/(\sum_{j = 0}^{k - 1} {\sqrt \lambda_j  } )^2 )$, where $\{ \lambda_k \}_{k = 0}^\infty  $ are the proximal parameters. It is shown that this algorithm converges, and global convergence rate estimates for it are provided, even if minimizations are performed inexactly at each iteration. Both algorithms converge even if f has no minimizers or is unbounded from below. These algorithms and results are valid in infinite-dimensional Hilbert spaces.
+Keywords
+proximal point algorithms, global convergence rates, augmented Lagrangian algorithms, convex programming, 90C25, 49D45, 49D37, 

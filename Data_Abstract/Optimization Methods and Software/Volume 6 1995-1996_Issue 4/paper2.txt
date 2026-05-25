@@ -1,0 +1,6 @@
+Nonlinear equality constraints in feasible sequential quadratic programming ∗  
+ Craig T.   Lawrence ; André L.   Tits ;
+Abstract
+ A simple scheme is proposed for handling nonlinear equality constraints in the context of a previously introduced sequential quadratic programming (SQP) algorithm for inequality constrained problems, generating iterates satisfying the constraints. The key is an idea due to Mayne and Polak (Math. Progr., vol. 11, pp. 67-80, 1976) by which nonlinear equality constraints are treated as “≥”-type constraints to be satisfied by all iterates, thus precluding any positive value, and an exact penalty term is added to the objective function, thus penalizing negative values. Mayne and Polak obtained a suitable value of the penalty parameter by iterative adjustments based on a test involving estimates of the KKT multipliers. We argue that the SQP framework allows for a more effective estimation of these multipliers, and we provide convergence analysis of the resulting algorithm. Numerical results, obtained with the CFSQP code, are reported  
+Keywords
+Constrained Optimization, Nonlinear Equality Constraints, Sequential Quadratic Programming, Feasibilitynonlinear Equality Constraints, Sequential Quadratic Programming, Feasibility 

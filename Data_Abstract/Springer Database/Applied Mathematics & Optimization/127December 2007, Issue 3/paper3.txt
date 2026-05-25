@@ -1,0 +1,8 @@
+A Sequential Quadratically Constrained Quadratic Programming Method of Feasible Directions
+Jin-bao Jian;Qing-jie Hu;Chun-ming Tang;Hai-yan Zheng;
+Abstract
+
+In this paper, a sequential quadratically constrained quadratic programming method of feasible directions is proposed for the optimization problems with nonlinear inequality constraints. At each iteration of the proposed algorithm, a feasible direction of descent is obtained by solving only one subproblem which consist of a convex quadratic objective function and simple quadratic inequality constraints without the second derivatives of the functions of the discussed problems, and such a subproblem can be formulated as a second-order cone programming which can be solved by interior point methods. To overcome the Maratos effect, an efficient higher-order correction direction is obtained by only one explicit computation formula. The algorithm is proved to be globally convergent and superlinearly convergent under some mild conditions without the strict complementarity. Finally, some preliminary numerical results are reported.
+
+Keywords
+Inequality constrained optimization  Quadratic constraints quadratic programming  Method of feasible directions  Global convergence  Convergence rate  

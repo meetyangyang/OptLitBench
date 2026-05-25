@@ -1,0 +1,6 @@
+Sublinear time algorithms for approximate semidefinite programming
+Dan Garber;Elad Hazan;
+Abstract
+We consider semidefinite optimization in a saddle point formulation where the primal solution is in the spectrahedron and the dual solution is a distribution over affine functions. We present an approximation algorithm for this problem that runs in sublinear time in the size of the data. To the best of our knowledge, this is the first algorithm to achieve this. Our algorithm is also guaranteed to produce low-rank solutions. We further prove lower bounds on the running time of any algorithm for this problem, showing that certain terms in the running time of our algorithm cannot be further improved. Finally, we consider a non-affine version of the saddle point problem and give an algorithm that under certain assumptions runs in sublinear time.
+Keywords
+Semidefinite programming  Sublinear algorithms  Online algorithms  Large scale optimization  90C22  90C06  68W27  68W20  

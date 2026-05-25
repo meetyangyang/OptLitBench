@@ -1,0 +1,6 @@
+Convex Optimization Via Feedbacks
+Arkadii V.  Kryazhimskii;
+Abstract
+Three dynamical systems are associated with a problem of convex optimization in a finite-dimensional space. For system trajectories $ x(t) $, the ratios $ x(t)/t $ are, respectively, (i) solution tracking (staying within the solution set $ X^0 $), (ii) solution abandoning (reaching $ X^0 $ as time $ t $ goes back to the initial instant), and (iii) solution approaching (approaching $ X^0 $ as time $ t $ goes to infinity). The systems represent a closed control system with appropriate feedbacks. In typical cases, the structure of the trajectories is simple enough. For instance, for a problem of quadratic programming with linear and box constraints, solution-approaching dynamics are described by a piecewise-linear ODE with a finite number of polyhedral domains of linearity. Finding the order of visiting these domains yields an analytic resolution of the original problem; a detailed analysis is given for a particular example. A discrete-time approach is outlined.
+Keywords
+feedback control, differential inclusions, convex programming, linear equality constraints, 90C25, 93B52, 49M30, 34A60, 

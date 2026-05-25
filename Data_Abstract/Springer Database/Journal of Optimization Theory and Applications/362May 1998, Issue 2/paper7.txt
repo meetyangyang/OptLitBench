@@ -1,0 +1,6 @@
+Modified Partial-Update Newton-Type Algorithms for Unary Optimization
+L. H. Chen;N. Y. Deng;J. Z. Zhang;
+Abstract
+In this paper, we propose two modified partial-update algorithms for solving unconstrained unary optimization problems based on trust-region stabilization via indefinite dogleg curves. The two algorithms partially update an approximation to the Hessian matrix in each iteration by utilizing a number of times the rank-one updating of the Bunch–Parlett factorization. In contrast with the original algorithms in Ref. 1, the two algorithms not only converge globally, but possess also a locally quadratic or superlinear convergence rate. Furthermore, our numerical experiments show that the new algorithms outperform the trust-region method which uses the partial update criteria suggested in Ref. 1.
+Keywords
+Unary optimization  trust-region methods  indefinite dogleg curve  Bunch–Parlett factorization  rank-one update  

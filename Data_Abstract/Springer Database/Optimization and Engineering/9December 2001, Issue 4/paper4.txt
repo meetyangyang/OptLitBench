@@ -1,0 +1,6 @@
+Exploiting Band Structure in Unconstrained Optimization Without Derivatives
+Benoît Colson;Philippe L. Toint;
+Abstract
+This paper is concerned with derivative-free unconstrained optimization. We first discuss a method combining the use of interpolation polynomials and trust-region techniques to minimize a function whose derivatives are not available. We then show how the resulting algorithm may be adapted in a suitable way to consider problems for which the Hessian matrix is known to be sparse. Numerical experiments confirm the favourable behaviour of the method and in particular the advantages in terms of storage, function evaluations and speed.
+Keywords
+derivative-free optimization  interpolation models  trust-region methods  sparsity  

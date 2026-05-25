@@ -1,0 +1,6 @@
+Optimization algorithm for learning consistent belief rule-base from examples
+Jun Liu;Luis Martinez;Da Ruan;Rosa Rodriguez;Alberto Calzada;
+Abstract
+A belief rule-based inference approach and its corresponding optimization algorithm deal with a rule-base with a belief structure called a belief rule base (BRB) that forms a basis in the inference mechanism. In this paper, a new learning method is proposed based on the given sample data for optimally generating a consistent BRB. The focus is given on the consistency of BRB knowing that the consistency conditions are often violated if the system is generated from real world data. The measurement of BRB inconsistency is incorporated in the objective function of the optimization algorithm. This process is formulated as a non-linear constraint optimization problem and solved using the optimization tool provided in MATLAB. A numerical example is demonstrated the effectiveness of the proposed algorithm.
+Keywords
+Belief rule base  Optimization  Consistency  Learning  

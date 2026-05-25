@@ -1,0 +1,6 @@
+Certified Descent Algorithm for shape optimization driven by fully-computable a posteriori error estimators
+Matteo Giacomini1,2, Olivier Pantz3 and Karim Trabelsi2;
+Abstract
+In this paper we introduce a novel certified shape optimization strategy – named Certified Descent Algorithm (CDA) – to account for the numerical error introduced by the Finite Element approximation of the shape gradient. We present a goal-oriented procedure to derive a certified upper bound of the error in the shape gradient and we construct a fully-computable, constant-free a posteriori error estimator inspired by the complementary energy principle. The resulting CDA is able to identify a genuine descent direction at each iteration and features a reliable stopping criterion. After validating the error estimator, some numerical simulations of the resulting certified shape optimization strategy are presented for the well-known inverse identification problem of Electrical Impedance Tomography.
+Keywords
+Shape optimization

@@ -1,0 +1,6 @@
+Partitioned Dynamic Programming for Optimal Control
+Stephen J.  Wright;
+Abstract
+Parallel algorithms for the solution of linear-quadratic optimal control problems are described. The algorithms are based on a straightforward decomposition of the domain of the problem, and are related to multiple shooting methods for two-point boundary value problems. Their arithmetic cost is approximately twice that of the serial dynamic programming approach; however, they have the advantage that they can be efficiently implemented on a wide variety of parallel architectures. Extension to the case in which there are box constraints on the controls is simple. The algorithms can be used to solve linear-quadratic subproblems arising from the application of Newton’s method or two-metric gradient projection methods to nonlinear problems.
+Keywords
+discrete-time optimal control, parallel algorithms, dynamic programming, multiple shooting, 49M40, 65Y05, 90C39, 

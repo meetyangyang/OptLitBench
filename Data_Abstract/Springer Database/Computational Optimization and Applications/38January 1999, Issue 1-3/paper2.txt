@@ -1,0 +1,6 @@
+Solving Euclidean Distance Matrix Completion Problems Via Semidefinite Programming
+Abdo Y. Alfakih;Amir Khandani;Henry Wolkowicz;
+Abstract
+Given a partial symmetric matrix A with only certain elements specified, the Euclidean distance matrix completion problem (EDMCP) is to find the unspecified elements of A that make A a Euclidean distance matrix (EDM). In this paper, we follow the successful approach in [20] and solve the EDMCP by generalizing the completion problem to allow for approximate completions. In particular, we introduce a primal-dual interior-point algorithm that solves an equivalent (quadratic objective function) semidefinite programming problem (SDP). Numerical results are included which illustrate the efficiency and robustness of our approach. Our randomly generated problems consistently resulted in low dimensional solutions when no completion existed.
+Keywords
+Euclidean distance matrices  semidefinite programming  completion problems  primal-dual interior-point method  

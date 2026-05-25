@@ -1,0 +1,6 @@
+Primal-Dual Relationship Between Levenberg–Marquardt and Central Trajectories for Linearly Constrained Convex Optimization
+Roger Behling;Clovis Gonzaga;Gabriel Haeser;
+Abstract
+We consider the minimization of a convex function on a bounded polyhedron (polytope) represented by linear equality constraints and non-negative variables. We define the Levenberg–Marquardt and central trajectories starting at the analytic center using the same parameter, and show that they satisfy a primal-dual relationship, being close to each other for large values of the parameter. Based on this, we develop an algorithm that starts computing primal-dual feasible points on the Levenberg–Marquardt trajectory and eventually moves to the central path. Our main theorem is particularly relevant in quadratic programming, where points on the primal-dual Levenberg–Marquardt trajectory can be calculated by means of a system of linear equations. We present some computational tests related to box constrained trust region subproblems.
+Keywords
+Central path  Levenberg–Marquardt  Primal-dual  Interior points  Convex quadratic programming  Trust region  Initial point  

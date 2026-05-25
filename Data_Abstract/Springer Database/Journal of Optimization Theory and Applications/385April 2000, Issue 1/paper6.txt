@@ -1,0 +1,6 @@
+Theoretical Efficiency of an Inexact Newton Method
+N. Y. Deng;Z. Z. Wang;
+Abstract
+We propose a local algorithm for smooth unconstrained optimization problems with n variables. The algorithm is the optimal combination of an exact Newton step with Choleski factorization and several inexact Newton steps with preconditioned conjugate gradient subiterations. The preconditioner is taken as the inverse of the Choleski factorization in the previous exact Newton step. While the Newton method is converging precisely with Q-order 2, this algorithm is also precisely converging with Q-order 2. Theoretically, its average number of arithmetic operations per step is much less than the corresponding number of the Newton method for middle-scale and large-scale problems. For instance, when n=200, the ratio of these two numbers is less than 0.53. Furthermore, the ratio tends to zero approximately at a rate of log 2/logn when n approaches infinity.
+Keywords
+unconstrained optimization  Newton method  Choleski factorization  preconditioned conjugate gradient iteration  

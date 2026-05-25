@@ -1,0 +1,6 @@
+Unifying semidefinite and set-copositive relaxations of binary problems and randomization techniques
+Felix Lieder;Fatemeh Bani Asadi Rad;Florian Jarre;
+Abstract
+A reformulation of quadratically constrained binary programs as duals of set-copositive linear optimization problems is derived using either \(\{0,1\}\)-formulations or \(\{-1,1\}\)-formulations. The latter representation allows an extension of the randomization technique by Goemans and Williamson. An application to the max-clique problem shows that the max-clique problem is equivalent to a linear program over the max-cut polytope with one additional linear constraint. This transformation allows the solution of a semidefinite relaxation of the max-clique problem with about the same computational effort as the semidefinite relaxation of the max-cut problem—independent of the number of edges in the underlying graph. A numerical comparison of this approach to the standard Lovasz number concludes the paper.
+Keywords
+Max-cut relaxation  Max-clique problem  Semidefinite program  Completely positive program  

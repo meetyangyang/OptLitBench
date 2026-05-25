@@ -1,0 +1,6 @@
+A finite hyperplane traversal Algorithm for 1-dimensional \(L^1pTV\) minimization, for \(0<p\le 1\) 
+Heather A. Moon;Thomas J. Asaki;
+Abstract
+In this paper, we consider a discrete formulation of the one-dimensional \(L^1pTV\) functional and introduce a finite algorithm that finds exact minimizers of this functional for \(0<p\le 1\). Our algorithm for the special case for \(L^1TV\) returns globally optimal solutions for all regularization parameters \(\lambda \ge 0\) at the same computational cost of determining a single optimal solution associated with a particular value of \(\lambda \). This finite set of minimizers contains the scale signature of the known initial data. A variation on this algorithm returns locally optimal solutions for all \(\lambda \ge 0\) for the case when \(0<p<1\). The algorithm utilizes the geometric structure of the set of hyperplanes defined by the nonsmooth points of the \(L^1pTV\) functional. We discuss efficient implementations of the algorithm for both general and binary data.
+Keywords
+Signal processing  Nonsmooth optimization  Scales  

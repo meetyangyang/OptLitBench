@@ -1,0 +1,6 @@
+Penalty functions, Newton's method, and quadratic programming
+C. G. Broyden;N. F. Attia;
+Abstract
+In this paper, the search directions computed by two versions of the sequential quadratic programming (SQP) algorithm are compared with that computed by attempting to minimize a quadratic penalty function by Newton's method, and it is shown that the differences are attributable to ignoring certain terms in the equation for the Newton correction. Since the effect of ignoring these terms may be to make the resultant direction a poor descent direction for the quadratic penalty function, it is argued that the latter is an inappropriate merit function for use with SQP. A method is then suggested by which these terms may be included without losing the benefits gained from the use of the orthogonal transformations derived from the constraints Jacobian.
+Keywords
+Constrained optimization  sequential quadratic programming  penalty functions  Newton's method  

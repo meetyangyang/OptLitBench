@@ -1,0 +1,6 @@
+An exact algorithm for the vehicle routing problem based on the set partitioning formulation with additional cuts
+Roberto Baldacci;Nicos Christofides;Aristide Mingozzi;
+Abstract
+This paper presents a new exact algorithm for the Capacitated Vehicle Routing Problem (CVRP) based on the set partitioning formulation with additional cuts that correspond to capacity and clique inequalities. The exact algorithm uses a bounding procedure that finds a near optimal dual solution of the LP-relaxation of the resulting mathematical formulation by combining three dual ascent heuristics. The first dual heuristic is based on the q-route relaxation of the set partitioning formulation of the CVRP. The second one combines Lagrangean relaxation, pricing and cut generation. The third attempts to close the duality gap left by the first two procedures using a classical pricing and cut generation technique. The final dual solution is used to generate a reduced problem containing only the routes whose reduced costs are smaller than the gap between an upper bound and the lower bound achieved. The resulting problem is solved by an integer programming solver. Computational results over the main instances from the literature show the effectiveness of the proposed algorithm.
+Keywords
+Vehicle routing  Set partitioning  Dual ascent  Valid inequalities  90C27  49M29  90C39  

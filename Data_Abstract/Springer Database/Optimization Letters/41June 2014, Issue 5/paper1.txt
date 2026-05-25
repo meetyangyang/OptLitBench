@@ -1,0 +1,6 @@
+A variance-based method to rank input variables of the Mesh Adaptive Direct Search algorithm
+Luc Adjengue;Charles Audet;Imen Ben Yahia;
+Abstract
+The Mesh Adaptive Direct Search algorithm (Mads) algorithm is designed for nonsmooth blackbox optimization problems in which the evaluation of the functions defining the problems are expensive to compute. The Mads algorithm is not designed for problems with a large number of variables. The present paper uses a statistical tool based on variance decomposition to rank the relative importance of the variables. This statistical method is then coupled with the Mads algorithm so that the optimization is performed either in the entire space of variables or in subspaces associated with statistically important variables. The resulting algorithm is called Stats-Mads and is tested on bound constrained test problems having up to 500 variables. The numerical results show a significant improvement in the objective function value after a fixed budget of function evaluations.
+Keywords
+Direct search  Ranking of variables  Blackbox optimization  

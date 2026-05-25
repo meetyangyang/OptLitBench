@@ -1,0 +1,6 @@
+An outer approximate subdifferential method for piecewise affine optimization
+Philip Neame;Natashia Boland;Daniel Ralph;
+Abstract
+Piecewise affine functions arise from Lagrangian duals of integer programming problems, and optimizing them provides good bounds for use in a branch and bound method. Methods such as the subgradient method and bundle methods assume only one subgradient is available at each point, but in many situations there is more information available. We present a new method for optimizing such functions, which is related to steepest descent, but uses an outer approximation to the subdifferential to avoid some of the numerical problems with the steepest descent approach. We provide convergence results for a class of outer approximations, and then develop a practical algorithm using such an approximation for the compact dual to the linear programming relaxation of the uncapacitated facility location problem. We make a numerical comparison of our outer approximation method with the projection method of Conn and Cornuéjols, and the bundle method of Schramm and Zowe.
+Keywords
+Key words: uncapacitated facility location – approximate subdifferential – bundle method – Lagrangian dual – piecewise affine functions  

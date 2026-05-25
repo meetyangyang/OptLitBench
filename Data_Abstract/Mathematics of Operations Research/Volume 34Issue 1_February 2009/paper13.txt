@@ -1,0 +1,6 @@
+An Optimal Approximate Dynamic Programming Algorithm for the Lagged Asset Acquisition Problem
+Juliana M. Nascimento;Warren B. Powell;
+Abstract
+We consider a multistage asset acquisition problem where assets are purchased now, at a price that varies randomly over time, to be used to satisfy a random demand at a particular point in time in the future. We provide a rare proof of convergence for an approximate dynamic programming algorithm using pure exploitation, where the states we visit depend on the decisions produced by solving the approximate problem. The resulting algorithm does not require knowing the probability distribution of prices or demands, nor does it require any assumptions about its functional form. The algorithm and its proof rely on the fact that the true value function is a family of piecewise linear concave functions.
+Keywords
+stochastic learning and adaptive control stochastic approximation approximate dynamic programming 

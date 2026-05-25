@@ -1,0 +1,6 @@
+Probabilistic collocation for simulation-based robust concept exploration
+ Markus   Rippel ; Seung-Kyum   Choi ; Janet   K.   Allen ; Farrokh   Mistree ;
+Abstract
+ In the early stages of an engineering design process it is necessary to explore the design space to find a feasible range that satisfies design requirements. When robustness of the system is among the requirements, the robust concept exploration method can be used. In this method, a global metamodel, such as a global response surface of the design space, is used to evaluate robustness. However, for large design spaces, this is computationally expensive and may be relatively inaccurate for some local regions. In this article, a method is developed for successively generating local response models at points of interest as the design space is explored. This approach is based on the probabilistic collocation method. Although the focus of this article is on the method, it is demonstrated using an artificial performance function and a linear cellular alloy heat exchanger. For these problems, this approach substantially reduces computation time while maintaining accuracy. 
+Keywords
+Probabilistic collocation, robust concept exploration, robust design, polynomial chaos expansion, compromise decision support problem 

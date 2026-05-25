@@ -1,0 +1,6 @@
+On an Analysis of the Strength of Mixed-Integer Cutting Planes from Multiple Simplex Tableau Rows
+Kent  Andersen, Christian  Wagner, and Robert  Weismantel;
+Abstract
+In this paper we derive valid inequalities for general mixed-integer linear programs (MILPs) by considering several simplex tableau rows simultaneously. We explore links between these cutting planes and lattice-free convex sets which have a representation as the sum of a polytope and a linear space. The codimension of the linear space of such a set is called split-dimension. We show that in terms of a strength-measure introduced by Goemans [Math. Programming, 69 (1995), pp. 335–349], only lattice-free convex sets with full split-dimension give rise to a good approximation of the mixed-integer hull, whereas lattice-free convex sets with low split-dimension might approximate the mixed-integer hull arbitrarily badly, in general. However, we also show that ordinary split cuts approximate the mixed-integer hull to within a constant factor when the size of the input data is given.
+Keywords
+mixed-integer, cutting plane, lattice-free polyhedra, 90C11, 90C10, 

@@ -1,0 +1,6 @@
+Convergence of an Infeasible Interior-Point Algorithm from Arbitrary Positive Starting Points
+Stephen C.  Billups and Michael C.  Ferris;
+Abstract
+An important advantage of infeasible interior-point methods over feasible interior-point methods is their ability to be warm-started from approximate solutions. It is therefore important for the convergence theory of these algorithms not to depend on the ability to alter the starting point. In a recent paper [SIAM J. Optim., 4 (1994), pp. 208–227], Zhang proves a global linear convergence rate for an infeasible interior-point method for the horizontal linear complementarily problem, which unfortunately places a restriction on the starting point. It is easy to meet the restriction by altering the starting point, but this may take the point farther away from the solution, thus removing the advantage of warm-starting the algorithm. In this paper we extend Zhang’s results to apply to arbitrary strictly positive starting points. We also show how the extended results can be used to prove convergence for an algorithm for box-constrained linear complementarily problems.
+Keywords
+infeasible interior-point methods, linear complementarily, global convergence, 90C33, 

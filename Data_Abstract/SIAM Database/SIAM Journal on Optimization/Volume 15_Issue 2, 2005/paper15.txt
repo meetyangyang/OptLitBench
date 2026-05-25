@@ -1,0 +1,6 @@
+A Fast Automatic Algorithm for Image Denoising by a Regularization Method
+P.  Barone and M.  Caramia;
+Abstract
+A new fast iterative algorithm is proposed to denoise images affected by Gaussian additive noise, by solving a constrained optimization problem. A family of functionals parameterized by a few hyperparameters already proposed in the literature to solve denoising problems is considered. The algorithm estimates jointly the image and the hyperparameters, therefore providing an automatic method. Each member of the family is made up of a coherence with the data term and a term enforcing a roughness penalty and preserving jump discontinuities. Assuming we know the noise variance, an adequacy constraint is also considered. The algorithm computes a member of the family and a minimizer of it which satisfies the constraint. A convergence proof is provided. We then consider a heuristic version of the algorithm which gives restorations of comparable quality whose computational complexity is a linear function of the pixels number. Experimental results on synthetic and real data are presented. Moreover, numerical comparisons with several fast denoising methods are provided.
+Keywords
+image processing, constrained optimization, adaptive regularization, 47A52, 64K05, 90C25, 90C26, 

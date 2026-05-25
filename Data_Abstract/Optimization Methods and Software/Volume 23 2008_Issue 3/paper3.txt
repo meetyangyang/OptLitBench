@@ -1,0 +1,6 @@
+Preconditioning indefinite systems in interior point methods for large scale linear optimisation
+ Ghussoun   Al-Jeiroudi ; Jacek   Gondzio ; Julian   Hall ;
+Abstract
+ We discuss the use of preconditioned conjugate gradients (CG) method for solving the reduced KKT systems arising in interior point algorithms for linear programming. The (indefinite) augmented system form of this linear system has a number of advantages, notably a higher degree of sparsity than the (positive definite) normal equations form. Therefore, we use the CG method to solve the augmented system and look for a suitable preconditioner. An explicit null space representation of linear constraints is constructed by using a nonsingular basis matrix identified from an estimate of the optimal partition in the linear program. This is achieved by means of recently developed efficient basis matrix factorisation techniques which exploit hyper-sparsity and are used in implementations of the revised simplex method. The approach has been implemented within the HOPDM interior point solver and applied to medium and large-scale problems from public domain test collections. Computational experience is encouraging. 
+Keywords
+linear programming, interior-point methods, sparse matricesAMS Subject Classifications: 90C05, 90C51, 65F50 

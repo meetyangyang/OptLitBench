@@ -1,0 +1,6 @@
+Perturbed path following predictor-corrector interior point algorithms
+ J. Frédéric    Bonnans ; Cecilia   Pola ; Raja   Rébai ;
+Abstract
+ The path following algorithms of predictor corrector type have proved to be very effective for solving linear optimization problems. However, the assumption that the Newton direction (corresponding to a centering or affine step) is computed exactly is unrealistic. Indeed, for large scale problems, one may need to use iterative algorithms for computing the Newton step. In this paper, we study algorithms in which the computed direction is the solution of the usual linear system with an error in the right-hand-side. We give precise and explicit estimates of the error under which the computational complexity is the same as for the standard case. We also give explicit estimates that guarantee an asymptotic linear convergence at an arbitrary rate. Finally, we present some encouraging numerical results. Because our results are in the framework of monotone linear complementarity problems, our results apply to convex quadratic optimization as well. 
+Keywords
+Linear programming, linear complementarity problems, perturbation, large scale problems, interior point methods, polynomial complexity, predictor corrector algorithm, infeasibility 

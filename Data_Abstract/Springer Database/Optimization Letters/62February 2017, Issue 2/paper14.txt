@@ -1,0 +1,6 @@
+On positive-influence target-domination
+Guangmo Tong;Weili Wu;Panos M. Pardalos;Ding-Zhu Du;
+Abstract
+Consider a graph \(G=(V,E)\) and a vertex subset \(A \subseteq V\). A vertex v is positive-influence dominated by A if either v is in A or at least half the number of neighbors of v belong to A. For a target vertex subset \(S \subseteq V\), a vertex subset A is a positive-influence target-dominating set for target set S if every vertex in S is positive-influence dominated by A. Given a graph G and a target vertex subset S, the positive-influence target-dominating set (PITD) problem is to find the minimum positive-influence dominating set for target S. In this paper, we show two results: (1) The PITD problem has a polynomial-time \((1 + \log \lceil \frac{3}{2} \Delta \rceil )\)-approximation in general graphs where \(\Delta \) is the maximum vertex-degree of the input graph. (2) For target set S with \(|S|=\Omega (|V|)\), the PITD problem has a polynomial-time O(1)-approximation in power-law graphs.
+Keywords
+Positive-influence  Target-dominating  Social networks  

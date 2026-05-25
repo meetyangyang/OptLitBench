@@ -1,0 +1,6 @@
+An improved branch and bound algorithm for minimum concave cost network flow problems
+Bruce W. Lamar;
+Abstract
+This paper formulates the minimum concave cost network flow (MCCNF) problem as a mixed integer program and solves this program using a new branch and bound algorithm. The algorithm combines Driebeek's “up and down” penalties with a new technique referred to as the simple bound improvement (SBI) procedure. An efficient numerical method for the SBI procedure is described and computational results are presented which show that the SBI procedure reduces both the in-core storage and the CPU time required to solve the MCCNF problem. In fact, for problems with over 200 binary decision variables, the SBI procedure reduced the in-core storage by more than one-third and the CPU time by more than 40 percent.
+Keywords
+Concave costs  network flows  simple bound improvement  

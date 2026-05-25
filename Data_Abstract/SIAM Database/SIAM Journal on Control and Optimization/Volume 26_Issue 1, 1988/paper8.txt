@@ -1,0 +1,6 @@
+An Exact Penalty Function and Relaxation Approach for Solving Decomposable Nonlinear Programs
+Rafael  Lazimy;
+Abstract
+An effective approach to solving decomposable nonlinear programs P (large-scale programs or, e.g., programs that are nonconvex in $(x,y)$ jointly, but convex in x for each y where, e.g., y is a vector of integer variables) is based on the principles of projection and dual representation, which transform P into an equivalent master problem in y-space. The master problem may then be solved by either relaxation or implicit enumeration. However, a serious difficulty arises when solving the master problem in y-space. For a given trial solution y, the dual subproblem $D'(y)$ may be unbounded from above on its domain, in which case y is inadmissible, and a new constraint designed to eliminate y needs to be generated and added to the current relaxed master problem. The problem is that under certain conditions the constraints for eliminating inadmissible trial solutions are not producible using existing procedures. In this paper, we overcome this difficulty by employing an exact penalty function approach to derive a relaxation algorithm for solving P.
+Keywords
+nonlinear programming, duality, relaxation, penalty functions, optimization, 90C30, 90C25, 90C10, 

@@ -1,0 +1,6 @@
+Stabilization of LPV Systems: State Feedback, State Estimation, and Duality
+Franco  Blanchini and Stefano  Miani;
+Abstract
+In this paper we consider the problem of stabilizing linear parameter varying (LPV) systems by means of gain scheduling control. This technique amounts to designing a controller which is able to update its parameters on-line according to the variations of the plant parameters. We first consider the state feedback case and show a design procedure based on the construction of a Lyapunov function for discrete-time LPV systems in which the parameter variations are affine and occur in the state matrix only. This procedure produces a nonlinear static controller. We show that, different from the robust stabilization case, we can always derive a linear controller, that is, nonlinear controllers cannot outperform linear ones for the gain scheduling problem. Then we show that this procedure has a dual version which leads to the construction of a linear gain scheduling observer. The two procedures may be combined to derive an observer-based linear gain scheduling compensator.
+Keywords
+LPV systems, gain scheduling, nonquadratic Lyapunov functions, robust stabilization, 93D15, 93C55, 93D05, 

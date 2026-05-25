@@ -1,0 +1,6 @@
+On solving three-dimensional open-dimension rectangular packing problems
+Leonardo Junqueira;Reinaldo Morabito;
+Abstract
+In this article, a recently proposed three-dimensional open-dimension rectangular packing problem is considered, in which the objective is to find a minimal volume rectangular container that packs a set of rectangular boxes. The literature has tackled small-sized instances of this problem by means of optimization solvers, position-free mixed-integer programming (MIP) formulations and piecewise linearization approaches. In this study, the problem is alternatively addressed by means of grid-based position MIP formulations, whereas still considering optimization solvers and the same piecewise linearization techniques. A comparison of the computational performance of both models is then presented, when tested with benchmark problem instances and with new instances, and it is shown that the grid-based position MIP formulation can be competitive, depending on the characteristics of the instances. The grid-based position MIP formulation is also embedded with real-world practical constraints, such as cargo stability, and results are additionally presented.
+Keywords
+Global optimization, three-dimensional rectangular packing, grid-based position MIP formulation, open-dimension problems, piecewise linearization 

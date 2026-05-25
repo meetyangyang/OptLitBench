@@ -1,0 +1,6 @@
+How good are interior point methods? Klee–Minty cubes tighten iteration-complexity bounds
+Antoine Deza;Eissa Nematollahi;Tamás Terlaky;
+Abstract
+By refining a variant of the Klee–Minty example that forces the central path to visit all the vertices of the Klee–Minty n-cube, we exhibit a nearly worst-case example for path-following interior point methods. Namely, while the theoretical iteration-complexity upper bound is \(O(2^{n}n^{\frac{5}{2}})\), we prove that solving this n-dimensional linear optimization problem requires at least 2 n −1 iterations.
+Keywords
+Linear programming  Interior point method  Worst-case iteration-complexity  Primary 90C05  Secondary 90C51  Secondary 90C27  Secondary 52B12  

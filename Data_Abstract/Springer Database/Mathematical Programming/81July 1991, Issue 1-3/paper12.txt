@@ -1,0 +1,6 @@
+A class of methods for solving large, convex quadratic programs subject to box constraints
+Eugene K. Yang;Jon W. Tolle;
+Abstract
+In this paper we analyze conjugate gradient-type algorithms for solving convex quadratic programs subject only to box constraints (i.e., lower and upper bounds on the variables). Programs of this type, which we denote by BQP, play an important role in many optimization models and algorithms. We propose a new class of finite algorithms based on a nonfinite heuristic for solving a large, sparse BQP. The numerical results suggest that these algorithms are competitive with Dembo and Tulowitzski's (1983) CRGP algorithm in general, and perform better than CRGP for problems that have a low percentage of free variables at optimality, and for problems with only nonnegativity constraints.
+Keywords
+Quadratic programming  algorithms  conjugate gradient methods  sparse large-scale programming  

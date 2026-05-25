@@ -1,0 +1,6 @@
+An $\ell_1$ Elastic Interior-Point Method for Mathematical Programs with Complementarity Constraints
+Z.  Coulibaly and D.  Orban;
+Abstract
+We propose an interior-point algorithm based on an elastic formulation of the $\ell_1$-penalty merit function for mathematical programs with complementarity constraints. The salient feature of our method is that it requires no prior knowledge of which constraints, if any, are complementarity constraints. Remarkably, the method allows for a unified treatment of both general, unstructured, degenerate problems and structured degenerate problems, such as problems with complementarity constraints, with no changes to accommodate one class or the other. Our results refine those of gould-orban-toint-2003 by isolating the degeneracy due to the complementarity constraints. The method naturally converges to a strongly stationary point or delivers a relevant certificate of degeneracy without recourse to second-order intermediate solutions. Preliminary numerical results on a standard test set illustrate the flexibility of the approach.
+Keywords
+$\ell_1$-penalty function, complementarity constraints, MFCQ, elastic variables, interior-point method, symmetric indefinite factorization, 90C06, 90C20, 90C30, 90C51, 90C53, 90C55, 65F10, 65F50, 

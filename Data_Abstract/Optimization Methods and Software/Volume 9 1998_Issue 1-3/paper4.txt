@@ -1,0 +1,6 @@
+Computation of exact gradients in distributed dynamic systems
+ Yuri   Evtushenko ;
+Abstract
+ A new and unified methodology for computing first order derivatives of functions obtained in complex multistep processes is developed on the basis of general expressions for differentiating a composite function. From these results, we derive the formulas for fap automatic differentiation of elementary functions, for gradients arising in optimal control problems, nonlinear programming and gradients arising in discretizations of processes governed by partial differential equations. In the proposed approach we start with a chosqn discretization scheme for the state equation and derive the exact gradient expression. Thus a unique discretization scheme is automatically generated for the adjoint equation For optimal control problems, the proposed computational formulas correspond to the integration of the adjoint system of equations that appears in Pontryagin's maximum principle. This technique appears to be very efficient, universal, and applicable to a wide variety of distributed controlled dynamic systems and to sensitivity analysis  
+Keywords
+Fast Automatic Differentiation, Optimal Control Problem, Differentiation of Elementary Functions, Rounding Error Estimation, Parabolic System, Hyperbolic System, Adjoint Equation, Sensitivity Analysis 

@@ -1,0 +1,6 @@
+Pursuit-evasion problems of two cars in an ellipsoid under gravity
+ F.   Imado ;
+Abstract
+ The pursuit-evasion problems of two cars in an ellipsoid under gravity are studied. Recently, almost all numerical calculations of differential games employed nonlinear programming (NLP), and assumed that old gradient methods were obsolete. On the other hand, in this article the problems were solved by the steepest ascent method, and the results show that old gradient algorithms can be a potent solver for these kinds of problems. In this article, the formulation of the minimum time optimal control problem of a car is at first derived by introducing intermediate variables. Next, both players’ sets of reachable terminal surfaces were calculated, where both players take their one-sided optimal controls and the tangent point of their terminal surfaces was found. As this point is the farthest reachable point for both vehicles in a given final time, therefore the trajectories and controls of both vehicles to the point become the solution of the combined problems of these two cars’ pursuit-evasion game. The derivations are explained and some example results are shown and discussed. 
+Keywords
+optimal controls, differential games, pursuit-evasion 

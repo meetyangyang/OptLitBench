@@ -1,0 +1,6 @@
+An algorithm for the estimation of a regression function by continuous piecewise linear functions
+Adil Bagirov;Conny Clausen;Michael Kohler;
+Abstract
+The problem of the estimation of a regression function by continuous piecewise linear functions is formulated as a nonconvex, nonsmooth optimization problem. Estimates are defined by minimization of the empirical L 2 risk over a class of functions, which are defined as maxima of minima of linear functions. An algorithm for finding continuous piecewise linear functions is presented. We observe that the objective function in the optimization problem is semismooth, quasidifferentiable and piecewise partially separable. The use of these properties allow us to design an efficient algorithm for approximation of subgradients of the objective function and to apply the discrete gradient method for its minimization. We present computational results with some simulated data and compare the new estimator with a number of existing ones.
+Keywords
+Nonsmooth optimization  Nonparametric regression  Subdifferential  Semismooth functions  

@@ -1,0 +1,6 @@
+A Proximal‐Projection Bundle Method for Lagrangian Relaxation, Including Semidefinite Programming
+Krzysztof C.   Kiwiel;
+Abstract
+We give a proximal bundle method for minimizing a convex function f over a convex set C. It requires evaluating f and its subgradients with a fixed but possibly unknown accuracy $\epsilon>0$. Each iteration involves solving an unconstrained proximal subproblem and projecting a certain point onto C. The method asymptotically finds points that are $\epsilon$‐optimal. In Lagrangian relaxation of convex programs, it allows for ε‐accurate solutions of Lagrangian subproblems and finds ε‐optimal primal solutions. For semidefinite programming problems, it extends the highly successful spectral bundle method to the case of inexact eigenvalue computations.
+Keywords
+nondifferentiable optimization, convex programming, proximal bundle methods, Lagrangian relaxation, semidefinite programming, 65K05, 90C25, 

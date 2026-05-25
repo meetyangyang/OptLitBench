@@ -1,0 +1,6 @@
+Global optimization of robust truss topology via mixed integer semidefinite programming
+Kazuo Yonekura;Yoshihiro Kanno;
+Abstract
+This paper discusses a global optimization method of robust truss topology under the load uncertainties and slenderness constraints of the member cross-sectional areas. We consider a non-stochastic uncertainty of the external load, and attempt to minimize the maximum compliance corresponding to the most critical load. A design-dependent uncertainty model in the external load is proposed in order to consider the variation of truss topology rigorously. It is shown that this optimization problem can be formulated as a 0–1 mixed integer semidefinite programming (0–1MISDP) problem. We propose a branch-and-bound method for computing the global optimal solution of the 0–1MISDP. Numerical examples illustrate that the topology of robust optimal truss depends on the magnitude of uncertainty. The presented method can provide global optimal solutions for benchmark examples, which can be used for evaluating the performance of any other local optimization method for robust structural optimization.
+Keywords
+Topology optimization  Robust optimization  Semidefinite program  Global optimization  Branch-and-bound method  

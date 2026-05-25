@@ -1,0 +1,4 @@
+Continuously Degrading Resource and Interval Dependent Activity Durations in Nuclear Medicine Patient Scheduling
+Cyrille Dejemeppe;Yves Deville;
+Abstract
+Nuclear Medicine (NM) is a medical imaging technique in which patients are administered radioactive tracers. As the tracers decay in the human body, they emit photons, which are then captured to generate an image used for diagnostic purposes. The schedule of daily patients in an NM center is a hard and interesting problem due to the continuous decay of these radioactive tracers. This scheduling problem allows us to define two new scheduling concepts: continuously degrading resources and interval dependent activity durations. In this paper, we model the NM scheduling problem as a COP; we propose a resolution strategy using Constraint Programming with LNS, and we introduce a new propagator to deal with continuously degrading resources and interval dependent activity durations.

@@ -1,0 +1,6 @@
+Application of techniques of computational differentiation to a cooling system
+ Wolfram   Klein ; Andrea   Walther ;
+Abstract
+ Mathematical functions are often evaluated by computer programs. Using the technique of computational differentiation (CD), one can determine in addition exact gradients of these functions. This article considers two software tools implementing the forward and the reverse mode of CD, namely ADOL-C and FADBAD. Then the model of a cooling system within steel manufacturing is described. The gradient of the corresponding function is calculated by CD applying both software tools separately and alternatively, by divided differences. After a short account of our experience installing and running the software tools the results obtained are presented. A comparison of the run-time needed by CD to the run-time needed by the divided difference method is given  
+Keywords
+Computational Differentiation, Gradient, Operator Overloading 

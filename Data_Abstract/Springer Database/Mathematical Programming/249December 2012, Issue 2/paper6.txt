@@ -1,0 +1,6 @@
+Some results on the strength of relaxations of multilinear functions
+James Luedtke;Mahdi Namazifar;Jeff Linderoth;
+Abstract
+We study approaches for obtaining convex relaxations of global optimization problems containing multilinear functions. Specifically, we compare the concave and convex envelopes of these functions with the relaxations that are obtained with a standard relaxation approach, due to McCormick. The standard approach reformulates the problem to contain only bilinear terms and then relaxes each term independently. We show that for a multilinear function having a single product term, this approach yields the convex and concave envelopes if the bounds on all variables are symmetric around zero. We then review and extend some results on conditions when the concave envelope of a multilinear function can be written as a sum of concave envelopes of its individual terms. Finally, for bilinear functions we prove that the difference between the concave upper bounding and convex lower bounding functions obtained from the McCormick relaxation approach is always within a constant of the difference between the concave and convex envelopes. These results, along with numerical examples we provide, give insight into how to construct strong relaxations of multilinear functions.
+Keywords
+Global optimization  Bilinear function  Multilinear function  90C26  

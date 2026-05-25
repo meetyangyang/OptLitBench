@@ -1,0 +1,6 @@
+MOEA/D-SQA: a multi-objective memetic algorithm based on decomposition
+ Yan-Yan   Tan ; Yong-Chang   Jiao ; Hong   Li ; Xin-Kuan   Wang ;
+Abstract
+ A multi-objective memetic algorithm based on decomposition is proposed in this article, in which a simplified quadratic approximation (SQA) is employed as a local search operator for enhancing the performance of a multi-objective evolutionary algorithm based on decomposition (MOEA/D). The SQA is used for a fast local search and the MOEA/D is used as the global optimizer. The multi-objective memetic algorithm based on decomposition, i.e. a hybrid of the MOEA/D with the SQA (MOEA/D-SQA), is designed to balance local versus global search strategies so as to obtain a set of diverse non-dominated solutions as quickly as possible. The emphasis of this article is placed on demonstrating how this local search scheme can improve the performance of MOEA/D for multi-objective optimization. MOEA/D-SQA has been tested on a wide set of benchmark problems with complicated Pareto set shapes. Experimental results indicate that the proposed approach performs better than MOEA/D. In addition, the results obtained are very competitive when comparing MOEA/D-SQA with other state-of-the-art techniques. 
+Keywords
+multi-objective memetic algorithm, multi-objective optimization, quadratic approximation, decomposition 

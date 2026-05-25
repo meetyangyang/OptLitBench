@@ -1,0 +1,8 @@
+Conditional minimum volume ellipsoid with application to multiclass discrimination
+Jun-ya Gotoh;Akiko Takeda;
+Abstract
+
+In this paper, we present a new formulation for constructing an n-dimensional ellipsoid by generalizing the computation of the minimum volume covering ellipsoid. The proposed ellipsoid construction is associated with a user-defined parameter β∈[0,1), and formulated as a convex optimization based on the CVaR minimization technique proposed by Rockafellar and Uryasev (J. Bank. Finance 26: 1443–1471, 2002). An interior point algorithm for the solution is developed by modifying the DRN algorithm of Sun and Freund (Oper. Res. 52(5):690–706, 2004) for the minimum volume covering ellipsoid. By exploiting the solution structure, the associated parametric computation can be performed in an efficient manner. Also, the maximization of the normal likelihood function can be characterized in the context of the proposed ellipsoid construction, and the likelihood maximization can be generalized with parameter β. Motivated by this fact, the new ellipsoid construction is examined through a multiclass discrimination problem. Numerical results are given, showing the nice computational efficiency of the interior point algorithm and the capability of the proposed generalization.
+
+Keywords
+Conditional value-at-risk (CVaR) optimization  Minimum volume ellipsoid (MVE) estimator  Minimum volume covering ellipsoid  Multiclass discrimination  Interior point algorithm  

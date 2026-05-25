@@ -1,0 +1,6 @@
+Concave Programming in Control Theory
+Pierre Apkarian;Hoang Duong Tuan;
+Abstract
+We show in the present paper that many open and challenging problems in control theory belong the the class of concave minimization programs. More precisely, these problems can be recast as the minimization of a concave objective function over convex LMI (Linear Matrix Inequality) constraints. As concave programming is the best studied class of problems in global optimization, several concave programs such as simplicial and conical partitioning algorithms can be used for the resolution. Moreover, these global techniques can be combined with a local Frank and Wolfe feasible direction algorithm and improved by the use of specialized stopping criteria, hence reducing the overall computational overhead. In this respect, the proposed hybrid optimization scheme can be considered as a new line of attack for solving hard control problems.
+Keywords
+Fixed-order control  H∞ synthesis  Robust control  Parametric uncertainty  Linear matrix inequalities  Global concave minimization  Frank and Wolfe algorithms  

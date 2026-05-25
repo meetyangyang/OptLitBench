@@ -1,0 +1,6 @@
+Augmented lagrangian nonlinear programming algorithm that uses SQP and trust region techniques
+M. L. Psiaki;K. Park;
+Abstract
+An augmented Lagrangian nonlinear programming algorithm has been developed. Its goals are to achieve robust global convergence and fast local convergence. Several unique strategies help the algorithm achieve these dual goals. The algorithm consists of three nested loops. The outer loop estimates the Kuhn-Tucker multipliers at a rapid linear rate of convergence. The middle loop minimizes the augmented Lagrangian functions for fixed multipliers. This loop uses the sequential quadratic programming technique with a box trust region stepsize restriction. The inner loop solves a single quadratic program. Slack variables and a constrained form of the fixed-multiplier middleloop problem work together with curved line searches in the inner-loop problem to allow large penalty wieghts for rapid outer-loop convergence. The inner-loop quadratic programs include quadratic onstraint terms, which complicate the inner loop, but speed the middle-loop progress when the constraint curvature is large.
+Keywords
+Line Search  Trust Region  Outer Loop  Sequential Quadratic Programming  Local Convergence  

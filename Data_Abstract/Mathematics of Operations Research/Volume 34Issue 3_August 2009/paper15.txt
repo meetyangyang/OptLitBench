@@ -1,0 +1,6 @@
+Markov Decision Processes with Arbitrary Reward Processes
+Jia Yuan Yu;Shie Mannor;Nahum Shimkin;
+Abstract
+We consider a learning problem where the decision maker interacts with a standard Markov decision process, with the exception that the reward functions vary arbitrarily over time. We show that, against every possible realization of the reward process, the agent can perform as well—in hindsight—as every stationary policy. This generalizes the classical no-regret result for repeated games. Specifically, we present an efficient online algorithm—in the spirit of reinforcement learning—that ensures that the agent's average performance loss vanishes over time, provided that the environment is oblivious to the agent's actions. Moreover, it is possible to modify the basic algorithm to cope with instances where reward observations are limited to the agent's trajectory. We present further modifications that reduce the computational cost by using function approximation and that track the optimal policy through infrequent changes.
+Keywords
+Markov decision processes online learning no-regret algorithms 

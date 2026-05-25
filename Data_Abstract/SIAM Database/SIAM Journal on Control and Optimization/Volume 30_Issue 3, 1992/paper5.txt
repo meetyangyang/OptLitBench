@@ -1,0 +1,6 @@
+Stochastic Discrete Optimization
+Di  Yan and H.  Mukai;
+Abstract
+In this paper a stochastic search method is proposed for finding a global solution to the stochastic discrete optimization problem in which the objective function must be estimated by Monte Carlo simulation. Although there are many practical problems of this type in the fields of manufacturing engineering, operations research, and management science, there have not been any nonheuristic methods proposed for such discrete problems with stochastic infrastructure. The proposed method is very simple, yet it finds a global optimum solution. The method exploits the randomness of Monte Carlo simulation and generates a sequence of solution estimates. This generated sequence turns out to be a nonstationary Markov chain, and it is shown under mild conditions that the Markov chain is strongly ergodic and that the probability that the current solution estimate is global optimum converges to one. Furthermore, the speed of convergence is also analyzed.
+Keywords
+stochastic optimization, discrete parameters, Monte Carlo simulation, global optimization, Markov chain, 62L99, 90B22, 90C99, 

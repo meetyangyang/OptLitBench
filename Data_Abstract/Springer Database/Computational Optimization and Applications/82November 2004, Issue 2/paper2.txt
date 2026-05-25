@@ -1,0 +1,6 @@
+Telecommunication Network Capacity Design for Uncertain Demand
+R. Andrade;A. Lisser;N. Maculan;G. Plateau;
+Abstract
+The expansion of telecommunication services has increased the number of users sharing network resources. When a given service is highly demanded, some demands may be unmet due to the limited capacity of the network links. Moreover, for such demands, telecommunication operators should pay penalty costs. To avoid rejecting demands, we can install more capacities in the existing network. In this paper we report experiments on the network capacity design for uncertain demand in telecommunication networks with integer link capacities. We use Poisson demands with bandwidths given by normal or log-normal distribution functions. The expectation function is evaluated using a predetermined set of realizations of the random parameter. We model this problem as a two-stage mixed integer program, which is solved using a stochastic subgradient procedure, the Barahona's volume approach and the Benders decomposition.
+Keywords
+Benders decomposition  stochastic subgradient procedures  network design  

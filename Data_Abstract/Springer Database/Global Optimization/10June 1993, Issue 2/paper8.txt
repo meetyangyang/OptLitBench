@@ -1,0 +1,6 @@
+Consistency of a myopic Bayesian algorithm for one-dimensional global optimization
+James M. Calvin;
+Abstract
+A sequential Bayesian method for finding the maximum of a function based on myopically minimizing the expected dispersion of conditional probabilities is described. It is shown by example that an algorithm that generates a dense set of observations need not converge to the correct answer for some priors on continuous functions on the unit interval. For the Brownian motion prior the myopic algorithm is consistent; for any continuous function, the conditional probabilities converge weakly to a point mass at the true maximum.
+Keywords
+Bayesian optimization  consistency  

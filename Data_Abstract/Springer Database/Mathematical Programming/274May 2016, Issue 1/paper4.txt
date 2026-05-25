@@ -1,0 +1,6 @@
+Minimum cardinality non-anticipativity constraint sets for multistage stochastic programming
+Natashia Boland;Irina Dumitrescu;Gary Froyland;Thomas Kalinowski;
+Abstract
+We consider multistage stochastic programs, in which decisions can adapt over time, (i.e., at each stage), in response to observation of one or more random variables (uncertain parameters). The case that the time at which each observation occurs is decision-dependent, known as stochastic programming with endogeneous observation of uncertainty, presents particular challenges in handling non-anticipativity. Although such stochastic programs can be tackled by using binary variables to model the time at which each endogenous uncertain parameter is observed, the consequent conditional non-anticipativity constraints form a very large class, with cardinality in the order of the square of the number of scenarios. However, depending on the properties of the set of scenarios considered, only very few of these constraints may be required for validity of the model. Here we characterize minimal sufficient sets of non-anticipativity constraints, and prove that their matroid structure enables sets of minimum cardinality to be found efficiently, under general conditions on the structure of the scenario set.
+Keywords
+Stochastic programming  Endogeneous uncertainty  Multistage stochastic programming  

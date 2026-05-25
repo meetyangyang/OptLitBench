@@ -1,0 +1,6 @@
+Solving Scheduling Problems by Simulated Annealing
+Olivier  Catoni;
+Abstract
+We define a general methodology to deal with a large family of scheduling problems. We consider the case where some of the constraints are expressed through the minimization of a loss function. We study in detail a benchmark example consisting of some jigsaw puzzle problem with additional constraints. We discuss some algorithmic issues typical of scheduling problems, such as the apparition of small unused gaps or the representation of proportionality constraints. We also carry on an experimental comparison between the Metropolis algorithm, simulated annealing, and the iterated energy transformation method to see whether asymptotical theoretical results are a good guide towards practically efficient algorithms.
+Keywords
+scheduling problems, Metropolis algorithm, simulated annealing, IET algorithm, 60J10, 90C42, 82C80, 65C05, 

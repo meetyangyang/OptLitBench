@@ -1,0 +1,6 @@
+A Regularized Factorization-Free Method for Equality-Constrained Optimization
+Sylvain  Arreckx and Dominique  Orban;
+Abstract
+We propose a method for equality-constrained optimization based on a problem in which all constraints are systematically regularized. The regularization is equivalent to applying an augmented Lagrangian method but the linear system used to compute a search direction is reminiscent of regularized sequential quadratic programming. A limited-memory BFGS approximation to second derivatives allows us to employ iterative methods for linear least squares to compute steps, resulting in a factorization-free implementation. We establish global and fast local convergence under weak assumptions. In particular, we do not require the LICQ and our method is suitable for degenerate problems. Preliminary numerical experiments show that a factorization-based implementation of our method exhibits significant robustness while a factorization-free implementation, though not as robust, is promising. We briefly discuss generalizing our framework to other classes of methods and to problems with inequality constraints.
+Keywords
+sequential quadratic programming, regularization, augmented Lagrangian, limited-memory BFGS, factorization-free method, 90C06, 90C20, 90C30, 90C51, 90C53, 90C55, 65F10, 65F50, 

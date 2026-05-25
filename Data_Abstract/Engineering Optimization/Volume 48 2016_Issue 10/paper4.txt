@@ -1,0 +1,6 @@
+Comparison of two non-convex mixed-integer nonlinear programming algorithms applied to autoregressive moving average model structure and parameter estimation
+F.E. Uilhoorn;
+Abstract
+In this article, the stochastic modelling approach proposed by Box and Jenkins is treated as a mixed-integer nonlinear programming (MINLP) problem solved with a mesh adaptive direct search and a real-coded genetic class of algorithms. The aim is to estimate the real-valued parameters and non-negative integer, correlated structure of stationary autoregressive moving average (ARMA) processes. The maximum likelihood function of the stationary ARMA process is embedded in Akaike's information criterion and the Bayesian information criterion, whereas the estimation procedure is based on Kalman filter recursions. The constraints imposed on the objective function enforce stability and invertibility. The best ARMA model is regarded as the global minimum of the non-convex MINLP problem. The robustness and computational performance of the MINLP solvers are compared with brute-force enumeration. Numerical experiments are done for existing time series and one new data set.
+Keywords
+mesh adaptive direct search, genetic algorithm, ARMA, Kalman filter, mixed-integer nonlinear programming 

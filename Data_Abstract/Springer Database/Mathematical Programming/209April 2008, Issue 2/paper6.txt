@@ -1,0 +1,6 @@
+Dual multilevel optimization
+Timothy A. Davis;William W. Hager;
+Abstract
+We study the structure of dual optimization problems associated with linear constraints, bounds on the variables, and separable cost. We show how the separability of the dual cost function is related to the sparsity structure of the linear equations. As a result, techniques for ordering sparse matrices based on nested dissection or graph partitioning can be used to decompose a dual optimization problem into independent subproblems that could be solved in parallel. The performance of a multilevel implementation of the Dual Active Set algorithm is compared with CPLEX Simplex and Barrier codes using Netlib linear programming test problems.
+Keywords
+Multilevel optimization  Dual optimization  Dual separability  Dual active set algorithm  Parallel algorithms  90C05  90C06  65Y20  

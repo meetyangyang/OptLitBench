@@ -1,0 +1,6 @@
+A Note on the Approximation of a Minimum-Weight Maximal Independent Set
+Marc Demange;
+Abstract
+We consider the polynomial approximation behavior of the problem of finding, in a graph with weighted vertices, a maximal independent set minimizing the sum of the weights. In the spirit of a work of Halldórson dealing with the unweighted case, we extend it and perform approximation hardness results by using a reduction from the minimum coloring problem. In particular, a consequence of our main result is that there does not exist any polynomial time algorithm approximating this problem within a ratio independent of the weights, unless P = NP. We bring also to the fore a very simple ratio ρ guaranteed by every algorithm while no polynomial time algorithm can guarantee the ratio (1 − ∈)ρ. The known hardness results for the unweighted case can be deduced. We finally discuss approximation results for both weighted and unweighted cases: we perform an approximation ratio that is valid for any algorithm for the former and propose an analysis of a greedy algorithm for the latter.
+Keywords
+combinatorial problem  polynomial-time approximation algorithms  computational complexity  independent set  

@@ -1,0 +1,6 @@
+Sequential kriging optimization using multiple-fidelity evaluations
+D. Huang;T. T. Allen;W. I. Notz;R. A. Miller;
+Abstract
+When cost per evaluation on a system of interest is high, surrogate systems can provide cheaper but lower-fidelity information. In the proposed extension of the sequential kriging optimization method, surrogate systems are exploited to reduce the total evaluation cost. The method utilizes data on all systems to build a kriging metamodel that provides a global prediction of the objective function and a measure of prediction uncertainty. The location and fidelity level of the next evaluation are selected by maximizing an augmented expected improvement function, which is connected with the evaluation costs. The proposed method was applied to test functions from the literature and a metal-forming process design problem via finite element simulations. The method manifests sensible search patterns, robust performance, and appreciable reduction in total evaluation cost as compared to the original method.
+Keywords
+Multiple fidelity  Surrogate systems  Kriging  Efficient global optimization  Computer experiments  

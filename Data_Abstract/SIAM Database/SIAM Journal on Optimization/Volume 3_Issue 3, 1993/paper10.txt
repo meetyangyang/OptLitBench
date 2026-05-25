@@ -1,0 +1,6 @@
+A Globally Convergent Method for $l_p $ Problems
+Yuying  Li;
+Abstract
+The $l_p $-norm discrete estimation problem $\min_{x \in \Re^n } ||b - A^T x||_p^p $ is troublesome when p is close to unity because the objective function approaches a nonsmooth form as p converges to one. This paper presents an efficient algorithm for solving $l_p $-norm problems for all $1 \leq p < 2$. When $p = 1$ it is essentially the method presented by T. F. Coleman and Y. Li [Math. Programming, 56 (1992), pp. 189–222], which is a globally and quadratically convergent algorithm under some nondegeneracy assumptions. The existing iteratively reweighted least-squares (IRLS) method can be obtained from the new approach by updating some dual multipliers in a special fashion. The new method is globally convergent, and it is superlinearly convergent when there is no zero residual at the solution. At each iteration the main computational cost of the new method is the same as that of the IRLS method: solving a reweighted least-squares problem. Numerical experiments indicate that this method is significantly faster than popular iteratively reweighted least-squares methods when p is close or equal to one.
+Keywords
+discrete estimation, data analysis, IRLS method, linear programming, interior-point algorithm, simplex method, Newton method, 65H10, 65K05, 65K10, 

@@ -1,0 +1,6 @@
+Nonsmooth Optimization Algorithm for Solving Clusterwise Linear Regression Problems
+Adil M. Bagirov;Julien Ugon;Hijran G. Mirzayeva;
+Abstract
+Clusterwise linear regression consists of finding a number of linear regression functions each approximating a subset of the data. In this paper, the clusterwise linear regression problem is formulated as a nonsmooth nonconvex optimization problem and an algorithm based on an incremental approach and on the discrete gradient method of nonsmooth optimization is designed to solve it. This algorithm incrementally divides the whole dataset into groups which can be easily approximated by one linear regression function. A special procedure is introduced to generate good starting points for solving global optimization problems at each iteration of the incremental algorithm. The algorithm is compared with the multi-start Späth and the incremental algorithms on several publicly available datasets for regression analysis.
+Keywords
+Nonsmooth optimization  Nonconvex optimization  Clusterwise linear regression  Discrete gradient method  65K05  90C25  

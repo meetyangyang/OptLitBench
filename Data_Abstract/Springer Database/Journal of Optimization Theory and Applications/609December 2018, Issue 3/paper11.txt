@@ -1,0 +1,6 @@
+Subgradient Methods for Sharp Weakly Convex Functions
+Damek Davis;Dmitriy Drusvyatskiy;Kellie J. MacPhee;Courtney Paquette;
+Abstract
+Subgradient methods converge linearly on a convex function that grows sharply away from its solution set. In this work, we show that the same is true for sharp functions that are only weakly convex, provided that the subgradient methods are initialized within a fixed tube around the solution set. A variety of statistical and signal processing tasks come equipped with good initialization and provably lead to formulations that are both weakly convex and sharp. Therefore, in such settings, subgradient methods can serve as inexpensive local search procedures. We illustrate the proposed techniques on phase retrieval and covariance estimation problems.
+Keywords
+Subgradient  Weakly convex  Sharp  Error bound  Linear rate  65K05  65K10  

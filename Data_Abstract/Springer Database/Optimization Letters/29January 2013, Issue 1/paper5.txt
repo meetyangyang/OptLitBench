@@ -1,0 +1,6 @@
+Coordinating multi-location production and customer delivery
+Eun-Seok Kim;Daniel Oron;
+Abstract
+We study two parallel machine scheduling problems with equal processing time jobs and delivery times and costs. The jobs are processed on machines which are located at different sites, and delivered to a customer by a single vehicle. The first objective considered is minimizing the sum of total weighted completion time and total vehicle delivery costs. The second objective considered is minimizing the sum of total tardiness and total vehicle delivery costs. We develop several interesting properties of an optimal scheduling and delivery policy, and show that both problems can be solved by reduction to the Shortest-Path problem in a corresponding network. The overall computational effort of both algorithms is O(n  m2+m+1) (where n and m are the number of jobs and the number of machines, respectively) by the application of the Directed Acyclic Graph (DAG) method. We also discuss several special cases for which the overall computational effort can be significantly reduced.
+Keywords
+Multiple machines  Batch delivery  Total weighted completion time  Total tardiness  

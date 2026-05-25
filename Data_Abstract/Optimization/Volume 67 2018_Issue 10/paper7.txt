@@ -1,0 +1,6 @@
+The ball-relaxed CQ algorithms for the split feasibility problem
+Hai Yu;Wanrong Zhan;Fenghui Wang;
+Abstract
+The split feasibility problem (SFP) is to find  so that , where C and Q are non-empty closed convex subsets in Hilbert spaces  and , respectively, and A is a linear bounded operator from  to . Byrne proposed an iterative method called the CQ algorithm that involves the orthogonal projections onto C and Q. However, the projections onto C and Q might be hard to be implemented in general. In this paper, we propose a ball-relaxed projection method for the SFP. Instead of half spaces, we replace C and Q in the proposed algorithm by two properly chosen closed balls  and . Since the projection onto the closed ball has closed form, the proposed algorithm is thus easy to be implemented. Under some mild conditions, we establish the weak convergence of the proposed algorithm to a solution of the SFP. As an application, we obtain new algorithms for solving the split equality problem. Preliminary numerical experiments show the efficiency of the proposed method.
+Keywords
+Split feasibility problem, CQ algorithm, variable stepsize, projection2000 MATHEMATICS SUBJECT CLASSIFICATIONS: 47J25, 47J20, 49N45, 65J15 

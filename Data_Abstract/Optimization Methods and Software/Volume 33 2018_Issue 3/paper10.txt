@@ -1,0 +1,6 @@
+A framework for solving mixed-integer semidefinite programs
+Tristan Gally;Marc E. Pfetsch;Stefan Ulbrich;
+Abstract
+Mixed-integer semidefinite programs (MISDPs) arise in many applications and several problem-specific solution approaches have been studied recently. In this paper, we investigate a generic branch-and-bound framework for solving such problems. We first show that strict duality of the semidefinite relaxations is inherited to the subproblems. Then solver components such as dual fixing, branching rules, and primal heuristics are presented. We show the applicability of an implementation of the proposed methods on three kinds of problems. The results show the positive computational impact of the different solver components, depending on the semidefinite programming solver used. This demonstrates that practically relevant MISDPs can successfully be solved using a general purpose solver.
+Keywords
+mixed-integer semidefinite programming, branch-and-bound, strong duality, dual fixing, branching rules2010 Mathematic Subject Classification: 90C11, 90C22 

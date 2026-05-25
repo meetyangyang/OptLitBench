@@ -1,0 +1,6 @@
+Efficient dynamic resampling for dominance-based multiobjective evolutionary optimization
+Alejandro Cervantes;David Quintana;Gustavo Recio;
+Abstract
+Multi-objective optimization problems are often subject to the presence of objectives that require expensive resampling for their computation. This is the case for many robustness metrics, which are frequently used as an additional objective that accounts for the reliability of specific sections of the solution space. Typical robustness measurements use resampling, but the number of samples that constitute a precise dispersion measure has a potentially large impact on the computational cost of an algorithm. This article proposes the integration of dominance based statistical testing methods as part of the selection mechanism of evolutionary multi-objective genetic algorithms with the aim of reducing the number of fitness evaluations. The performance of the approach is tested on five classical benchmark functions integrating it into two well-known algorithms, NSGA-II and SPEA2. The experimental results show a significant reduction in the number of fitness evaluations while, at the same time, maintaining the quality of the solutions.
+Keywords
+Evolutionary multi-objective optimization, uncertainty, resampling 

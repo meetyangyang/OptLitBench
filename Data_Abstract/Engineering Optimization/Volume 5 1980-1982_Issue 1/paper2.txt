@@ -1,0 +1,6 @@
+A CORRECTED-GRADIENT METHOD THAT MAKES GRADIENT OPTIMIZATION ALGORITHMS INVARIANT TO ANY NON-LINEAR SCALING
+ B.   BRUET ;
+Abstract
+ A technique is presented that allows any classical gradient method (Davidon-Fletcher-Powell. Broyden-Fletcher-Shanno, conjugate gradient, etc.) to be made invariant to any non-linear scaling. This transformation can be implemented with only minor changes to an existing code. The method is applied to the conjugate gradient algorithm and numerical experiments are reported which show the improved efficiency of the transformed version compared with the non-transformed one. 
+Keywords
+ 

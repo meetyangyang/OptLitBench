@@ -1,0 +1,6 @@
+Towards a deeper geometric, analytic and algorithmic understanding of margins
+Aaditya Ramdas;Javier Peña;
+Abstract
+Given a matrix A, a linear feasibility problem (of which linear classification is a special case) aims to find a solution to a primal problem  or a certificate for the dual problem which is a probability distribution . Inspired by the continued importance of ‘large-margin classifiers’ in machine learning, this paper studies a condition measure of A called its margin that determines the difficulty of both the above problems. To aid geometrical intuition, we first establish new characterizations of the margin in terms of relevant balls, cones and hulls. Our second contribution is analytical, where we present generalizations of Gordan's theorem, and variants of Hoffman's theorems, both using margins. We end by proving some new results on a classical iterative scheme, the Perceptron, whose convergence rates famously depends on the margin. Our results are relevant for a deeper understanding of margin-based learning and proving convergence rates of iterative schemes, apart from providing a unifying perspective on this vast topic.
+Keywords
+margin, perceptron, geometry 

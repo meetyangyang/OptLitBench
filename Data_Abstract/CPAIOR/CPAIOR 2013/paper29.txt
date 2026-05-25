@@ -1,0 +1,4 @@
+Constraint-Based Fitness Function for Search-Based Software Testing
+Abdelilah Sakti;Yann-Gaël Guéhéneuc;Gilles Pesant;
+Abstract
+Search-based software testing is a powerful automated technique to generate test inputs for software. Its goal is to reach a branch or a statement in a program under test. One major limitation of this approach is an insufficiently informed fitness function to guide search toward a test target within nested predicates (constraints). To address this problem we propose fitness functions based on concepts well known to the constraint programming community, such as constrainedness and arity, to rank test candidates. Preliminary experiments promise efficiency and effectiveness for the new fitness functions.

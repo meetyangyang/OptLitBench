@@ -1,0 +1,6 @@
+Globally convergent homotopy algorithm for solving the KKT systems to the principal-agent bilevel programming
+Zhichuan Zhu;Bo Yu;
+Abstract
+In this paper, a constraint set swelling homotopy (CSSH) algorithm for solving the single-level non-convex programming problem with designing piecewise linear contractual function which is equivalent to the principal-agent model with integral operator is proposed, and the existence and global convergence is proven under some mild conditions. As a comparison, a piecewise constant contract is also designed for solving the single-level non-convex programming problem with the corresponding discrete distributions. And some numerical tests are done by the proposed homotopy algorithm as well as by using fmincon in Matlab, LOQO and MINOS. The numerical results show that the CSSH algorithm is robust, feasible and effective.
+Keywords
+principal-agent model, homotopy algorithm, bilevel programming, non-convex programmingAMS Subject Classification: 91-08, 90C30, 91B40 

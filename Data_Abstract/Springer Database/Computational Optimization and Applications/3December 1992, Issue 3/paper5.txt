@@ -1,0 +1,6 @@
+Automatic differentiation: Reduced gradient and reduced Hessian matrix
+Herbert Fischer;
+Abstract
+This paper is concerned with automatic differentiation methods for computing the reduced gradient M t G and the reduced Hessian matrix M t HM. Hereby G is the gradient and H is the Hessian matrix of a real function F of n variables, and M is a matrix with n rows and k columns where k≤n. The reduced quantities are of particular interest in constrained optimization with objective function F. Two automatic differentiation methods are described, a standard method that produces G and H as intermediate results, and an economical method that takes a shortcut directly to the reduced quantites. The two methods are compared on the basis of the reqired computing time and storage. It is shown that the costs for the economical method are less than (k2+3k+2)/(n2+3n+2) times the expenses for the standard method.
+Keywords
+Automatic differentiation  reduced gradient  reduced Hessian matrix  complexity  

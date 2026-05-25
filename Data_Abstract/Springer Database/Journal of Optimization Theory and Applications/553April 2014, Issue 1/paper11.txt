@@ -1,0 +1,6 @@
+Long-Short Portfolio Optimization Under Cardinality Constraints by Difference of Convex Functions Algorithm
+Hoai An Le Thi;Mahdi Moeini;
+Abstract
+In the matter of Portfolio selection, we consider an extended version of the Mean-Absolute Deviation (MAD) model, which includes discrete asset choice constraints (threshold and cardinality constraints) and one is allowed to sell assets short if it leads to a better risk-return tradeoff. Cardinality constraints limit the number of assets in the optimal portfolio and threshold constraints limit the amount of capital to be invested in (or sold short from) each asset and prevent very small investments in (or short selling from) any asset. The problem is formulated as a mixed 0–1 programming problem, which is known to be NP-hard. Attempting to use DC (Difference of Convex functions) programming and DCA (DC Algorithms), an efficient approach in non-convex programming framework, we reformulate the problem in terms of a DC program, and investigate a DCA scheme to solve it. Some computational results carried out on benchmark data sets show that DCA has a better performance in comparison to the standard solver IBM CPLEX.
+Keywords
+Portfolio selection  Cardinality constraints  Threshold constraints  Complementarity constraints  Mixed integer programming  DC programming  DCA  

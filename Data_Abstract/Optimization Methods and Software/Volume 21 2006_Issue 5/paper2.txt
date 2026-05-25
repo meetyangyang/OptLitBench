@@ -1,0 +1,6 @@
+Knowledge-based semidefinite linear programming classifiers
+ V.   Jeyakumar ; J.   Ormerod ; R.   S.   Womersley ;
+Abstract
+ In this paper, we present knowledge-based support vector machine (SVM) classifiers using semidefinite linear programming. SVMs are an optimization-based solution method for large-scale data classification problems. Knowledge-based SVM classifiers, where prior knowledge is in the form of ellipsoidal constraints, result in a semidefinite linear programme with a set containment constraint. These problems are reformulated as standard semidefinite linear programming problems by the application of a dual characterization of the set containment under a mild regularity condition. The reformulated semidefinite linear programme is solved by the publicly available solvers. Computational results show that prior knowledge can often improve correctness of the classifier. 
+Keywords
+Set containment characterizations, Support vector machines, Ellipsoidal knowledge sets, Semidefinite programming 

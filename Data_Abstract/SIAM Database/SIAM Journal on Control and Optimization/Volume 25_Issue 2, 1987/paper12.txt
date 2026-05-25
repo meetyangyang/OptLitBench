@@ -1,0 +1,6 @@
+Asymptotically Efficient Self-Tuning Regulators
+T. L.  Lai and C. Z.  Wei;
+Abstract
+This paper studies the problem of adaptive regulation of linear systems with white-noise disturbances. The apparent dilemma between the control objective and the need of information for parameter estimation is resolved by occasional use of white-noise probing inputs and by a reparametrization of the model. Insights into the question concerning how often and when such probing inputs should be introduced are provided by the concept of “asymptotic efficiency,” which quantifies the asymptotically minimal cost due to parameter ignorance, or equivalently, due to the infeasibility of using the optimal regulator that assumes knowledge of the system parameters. Asymptotically efficient adaptive regulators are constructed by making use of certain basic properties of adaptive predictors involving recursive least squares for the reparametrized model.
+Keywords
+adaptive control, linear systems, least squares identification, self-tuning, probing inputs, asymptotic efficiency, 62L20, 93E20, 60G42, 93E10, 

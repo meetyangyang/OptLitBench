@@ -1,0 +1,4 @@
+A Large Neighborhood Search Heuristic for Graph Coloring
+Michael A. Trick;Hakan Yildiz;
+Abstract
+We propose a new local search heuristic for graph coloring that searches very large neighborhoods. The heuristic is based on solving a MAX-CUT problem at each step. While the MAX-CUT problem is formally hard, fast heuristics that give “good” cuts are available to solve this. We provide computational results on benchmark instances. The proposed approach is based on similar heuristics used in computer vision.

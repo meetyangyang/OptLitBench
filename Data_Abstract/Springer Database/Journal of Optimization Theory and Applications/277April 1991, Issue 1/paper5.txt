@@ -1,0 +1,6 @@
+A range-space implementation for large quadratic programs with small active sets
+P. D. Frank;M. J. Healy;R. A. Mastro;
+Abstract
+Large and sparse convex quadratic programming problems are often generated in the course of solving large-scale optimization problems. An important class of these problems has the property that only a small number of constraints are at their bounds at a solution. We describe an implementation of a range-space method designed for efficient solution of these small-active-set problems. The implementation is oriented toward the application area of multidimensional data fitting subject to constraints. Test results are presented for several data-fitting problems.
+Keywords
+Quadratic programming  range-space method  data fitting  

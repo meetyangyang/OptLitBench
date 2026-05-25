@@ -1,0 +1,6 @@
+Actuator placement based on reachable set optimization for expected disturbance
+J. Redmond;G. Parker;
+Abstract
+This paper examines the role of the control objective and the control time in determining fuel-optimal actuator placement for structural control. A general theory is developed that can be easily extended to include alternative performance metrics such as energy and timeoptimal control. The performance metric defines a convex admissible control set which leads to a max-min optimization problem expressing optimal location as a function of initial conditions and control time. A solution procedure based on a nested genetic algorithm is presented and applied to an example problem. Results indicate that the optimal placement varies widely as a function of both control time and disturbance location. An approximate fitness function is presented to alleviate the computational burden associated with finding exact solutions. This function is shown to accurately predict the optimal actuator locations for a 6th-order system, and is further demonstrated on a 12th-order system.
+Keywords
+Vibration suppression  actuator placement  reachable set  optimization  

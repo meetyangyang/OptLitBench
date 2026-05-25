@@ -1,0 +1,6 @@
+Lot-Sizing with Constant Batches: Formulation and Valid Inequalities
+Yves Pochet;Laurence A. Wolsey;
+Abstract
+We consider the classical lot-sizing problem with constant production capacities (LCC) and a variant in which the capacity in each period is an integer multiple of some basic batch size (LCB).We first show that the classical dynamic program for LCC simplifies for LCB leading to an O(n2 min{n, C}) algorithm (where n is the number of periods and C the batch size). Using this new algorithm, we show how to formulate both problems as linear programs with O(n3) variables and constraints.A class of so-called (k, l, S, I) inequalities are described for LCB which capture both the dynamic nature of the problem as well as the capacity aspects. For LCB, we prove that these inequalities are the only facet-defining inequalities of a certain form. For LCC, we show that these inequalities include all the known classes of valid inequalities. Finally, we discuss several open questions and possible extensions.
+Keywords
+lot-sizing problem polyhedra facets and cutting planes 

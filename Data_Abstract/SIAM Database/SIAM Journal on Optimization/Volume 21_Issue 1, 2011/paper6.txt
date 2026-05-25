@@ -1,0 +1,6 @@
+Minimizing the Condition Number of a Gram Matrix
+Xiaojun  Chen, Robert S.  Womersley, and Jane J.  Ye;
+Abstract
+The condition number of a Gram matrix defined by a polynomial basis and a set of points is often used to measure the sensitivity of the least squares polynomial approximation. Given a polynomial basis, we consider the problem of finding a set of points and/or weights which minimizes the condition number of the Gram matrix. The objective function f in the minimization problem is nonconvex and nonsmooth. We present an expression of the Clarke generalized gradient of f and show that f is Clarke regular and strongly semismooth. Moreover, we develop a globally convergent smoothing method to solve the minimization problem by using the exponential smoothing function. To illustrate applications of minimizing the condition number, we report numerical results for the Gram matrix defined by the weighted Vandermonde-like matrix for least squares approximation on an interval and for the Gram matrix defined by an orthonormal set of real spherical harmonics for least squares approximation on the sphere.
+Keywords
+condition number, Gram matrix, least squares, interpolation, smoothing method, generalized gradient, semismooth, spherical harmonics, 65F35, 65H17, 90C26, 41A10, 

@@ -1,0 +1,6 @@
+Multi-direction-based Nelder–Mead method
+ Hong Feng   Xiao ; Ji   An   Duan ;
+Abstract
+ The original Nelder–Mead (NM) method tends to be used to optimize low-dimensional functions. This article provides a modified NM that has the capability of large-scale optimization. The modification of NM is characterized by (a) working with a population of points, (b) mining multiple search directions through two strategies – point-grouping and variable-centroid multi-direction (VCMD), thus giving rise to VCMD plus grouping (VCMDg) and (c) introducing random coefficients into NM and performing mutation on best-points, producing a random NM (NMr). The combination of NMr and VCMDg, NMr-VCMDg, is just the modified NM in this work. 
+Keywords
+large-scale global optimization, Nelder–Mead method, multi-direction search, random search 

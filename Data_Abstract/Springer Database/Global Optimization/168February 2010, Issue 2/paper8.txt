@@ -1,0 +1,6 @@
+Stopping and restarting strategy for stochastic sequential search in global optimization
+Zelda B. Zabinsky;David Bulger;Charoenchai Khompatraporn;
+Abstract
+Two common questions when one uses a stochastic global optimization algorithm, e.g., simulated annealing, are when to stop a single run of the algorithm, and whether to restart with a new run or terminate the entire algorithm. In this paper, we develop a stopping and restarting strategy that considers tradeoffs between the computational effort and the probability of obtaining the global optimum. The analysis is based on a stochastic process called Hesitant Adaptive Search with Power-Law Improvement Distribution (HASPLID). HASPLID models the behavior of stochastic optimization algorithms, and motivates an implementable framework, Dynamic Multistart Sequential Search (DMSS). We demonstrate here the practicality of DMSS by using it to govern the application of a simple local search heuristic on three test problems from the global optimization literature.
+Keywords
+Stopping criteria  Sequential search  Pure adaptive search  

@@ -1,0 +1,6 @@
+A nonmonotone approximate sequence algorithm for unconstrained nonlinear optimization
+Hongchao Zhang;
+Abstract
+A new nonmonotone algorithm is proposed and analyzed for unconstrained nonlinear optimization. The nonmonotone techniques applied in this algorithm are based on the estimate sequence proposed by Nesterov (Introductory Lectures on Convex Optimization: A Basic Course, 2004) for convex optimization. Under proper assumptions, global convergence of this algorithm is established for minimizing general nonlinear objective function with Lipschitz continuous derivatives. For convex objective function, this algorithm maintains the optimal convergence rate of convex optimization. In numerical experiments, this algorithm is specified by employing safe-guarded nonlinear conjugate gradient search directions. Numerical results show the nonmonotone algorithm performs significantly better than the corresponding monotone algorithm for solving the unconstrained optimization problems in the CUTEr (Bongartz et al. in ACM Trans. Math. Softw. 21:123–160, 1995) library.
+Keywords
+Gradient methods  Nonmonotone algorithm  Unconstrained optimization  Convex estimate sequence  Optimal convergence rate  Nonlinear conjugate gradient methods  

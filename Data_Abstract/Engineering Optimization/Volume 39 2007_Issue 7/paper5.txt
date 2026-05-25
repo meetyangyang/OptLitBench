@@ -1,0 +1,6 @@
+Evolutionary algorithms applied to reliable communication network design
+ Sergio   Nesmachnow ; Héctor   Cancela ; Enrique   Alba ;
+Abstract
+ Several evolutionary algorithms (EAs) applied to a wide class of communication network design problems modelled under the generalized Steiner problem (GSP) are evaluated. In order to provide a fault-tolerant design, a solution to this problem consists of a preset number of independent paths linking each pair of potentially communicating terminal nodes. This usually requires considering intermediate non-terminal nodes (Steiner nodes), which are used to ensure path redundancy, while trying to minimize the overall cost. The GSP is an NP-hard problem for which few algorithms have been proposed. This article presents a comparative study of pure and hybrid EAs applied to the GSP, codified over MALLBA, a general purpose library for combinatorial optimization. The algorithms were tested on several GSPs, and asset efficient numerical results are reported for both serial and distributed models of the evaluated algorithms. 
+Keywords
+Evolutionary algorithms, Network design, Generalized Steiner problem 

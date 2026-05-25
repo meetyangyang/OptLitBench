@@ -1,0 +1,6 @@
+Vector Summation in Banach Space and Polynomial Algorithms for Flow Shops and Open Shops
+Sergey Sevast'janov;
+Abstract
+We consider the flow shop and the open shop problems with m machines and n jobs: M is the total processing time of the most loaded machine, t* is the maximum operation length. Two functions are defined, μ(m) is the minimum number such that the optimum of any flow shop is at most M + μ(m)t*; η(m) is the minimum number for which the inequality M ≥ η(m)t* ensures that the optimum of the open shop is equal to M Upper and lower bounds for functions μ(m) and η(m) are derived and two polynomial algorithms are suggested: the first one delivers an optimal schedule of an open shop provided M ≥ η′(m)t* (for some function η′(m) ≥ η(m)); the second one computes a near-optimal approximation schedule of a flow shop. Both algorithms are based on a vector summation algorithm in m-dimensional banach space.
+Keywords
+scheduling open shop flow shop vector summation 

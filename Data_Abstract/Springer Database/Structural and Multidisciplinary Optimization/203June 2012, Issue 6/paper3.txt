@@ -1,0 +1,6 @@
+Parameter free shape and thickness optimisation considering stress response
+Saartje Arnout;Matthias Firl;Kai-Uwe Bletzinger;
+Abstract
+In the parameter free approach, FE-based data are used as design variables, such as nodal coordinates and nodal thickness. During shape and thickness optimisation, this approach provides much design freedom for a limited modelling effort. Stress results are, however, very sensitive to the local shape changes that can occur during parameter free optimisation. When stress results are used as response function, this irregularity can complicate the optimisation. As a solution, the Kreisselmeier-Steinhauser function for the stresses is introduced as a response function for parameter free shape optimisation. In this function, the local stress results are aggregated to obtain a global measure of stress in a structure. This measure can be used as an objective to reduce the overall stress in the structure or as a constraint to limit the stress in the structure to a maximum allowable value. As a result, the optimal structures are smooth and material efficient. Several examples are presented in this paper to illustrate the use of the parameter free design approach in combination with the stress response function.
+Keywords
+Shape and size optimisation  Parameter free optimisation  FE-based parameterization  Shell structures  

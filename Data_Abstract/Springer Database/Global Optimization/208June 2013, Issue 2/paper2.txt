@@ -1,0 +1,6 @@
+Self-learning K-means clustering: a global optimization approach
+Z. Volkovich;D. Toledano-Kitai;G.-W. Weber;
+Abstract
+An appropriate distance is an essential ingredient in various real-world learning tasks. Distance metric learning proposes to study a metric, which is capable of reflecting the data configuration much better in comparison with the commonly used methods. We offer an algorithm for simultaneous learning the Mahalanobis like distance and K-means clustering aiming to incorporate data rescaling and clustering so that the data separability grows iteratively in the rescaled space with its sequential clustering. At each step of the algorithm execution, a global optimization problem is resolved in order to minimize the cluster distortions resting upon the current cluster configuration. The obtained weight matrix can also be used as a cluster validation characteristic. Namely, closeness of such matrices learned during a sample process can indicate the clusters readiness; i.e. estimates the true number of clusters. Numerical experiments performed on synthetic and on real datasets verify the high reliability of the proposed method.
+Keywords
+First keyword  Second keyword  More  

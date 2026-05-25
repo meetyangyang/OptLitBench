@@ -1,0 +1,6 @@
+Faster Algorithms for the Generalized Network Flow Problem
+Tomasz Radzik;
+Abstract
+We consider the generalized network flow problem. Each arc e in the network has a gain factor γ(e). If f(e) units of flow enter arc e, then f(e)γ(e) units arrive at the other end of e. The objective is to maximize the net flow into one specific node, the sink. The constraints are the conservation of flow at nodes and the capacities of arcs. We present a combinatorial algorithm which solves this problem in Õ(m2(m + n log log B)log B) time, where n is the number of nodes, m is the number of arcs, and B is the largest integer used to represent the gain factors, the capacities, and the initial supplies at the nodes. If m is O(n4/3−ε) and B is not extremely large, then our bound is better than the previous best upper bound for this problem. We also improve the best known upper bound for the approximate generalized flow problem by showing that a solution whose value is within a factor of 1 + ξ from the optimum can be computed in Õ(m(m + n log log B)log (1/ξ)) time plus Õ(mn2 log B) time for preprocessing.
+Keywords
+Network problem generalized flow generalized circulation network optimization approximate optimality conditions 

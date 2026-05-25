@@ -1,0 +1,6 @@
+A Homotopy-Based Algorithm for Mixed Complementarity Problems
+Stephen C.  Billups;
+Abstract
+This paper develops an algorithm for solving mixed complementarity problems that is based upon probability-one homotopy methods. After the complementarity problem is reformulated as a system of nonsmooth equations, a homotopy method is used to solve a sequence of smooth approximations to this system of equations. The global convergence properties of this approach are qualitatively different from those of other recent methods, which rely upon decrease of a merit function. This enables the algorithm to reliably solve certain classes of problems that prove troublesome for other methods. To improve efficiency, the homotopy algorithm is embedded in a generalized Newton method.
+Keywords
+complementarity problems, homotopy methods, smoothing, 90C33, 65H20, 65D10, 

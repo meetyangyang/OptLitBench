@@ -1,0 +1,6 @@
+Minimum-Time Control of Boolean Networks
+Dmitriy  Laschov and Michael  Margaliot;
+Abstract
+Boolean networks (BNs) are discrete-time dynamical systems with Boolean state variables. BNs have recently been attracting considerable interest as computational models for biological systems and, in particular, gene regulating networks. Boolean control networks (BCNs) are Boolean networks with Boolean inputs. We consider the problem of steering a BCN from a given state to a desired state in minimal time. Using the algebraic state-space representation (ASSR) of BCNs we derive several necessary conditions, stated in the form of  maximum principles (MPs), for a control to be time-optimal. In the ASSR every state and input vector is a canonical vector. Using this special structure yields an explicit state-feedback formula for all time-optimal controls. To demonstrate the theoretical results, we develop a BCN model for the genetic switch controlling the lambda phage development upon infection of a bacteria. Our results suggest that this biological switch is designed in a way that guarantees minimal time response to important environmental signals.
+Keywords
+logical systems, variational analysis, necessary condition for optimality, time-optimal control, positive linear switched systems, systems biology, gene regulation networks, lambda switch, 49J21, 06E30, 92B05, 93C55, 

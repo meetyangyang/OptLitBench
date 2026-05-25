@@ -1,0 +1,6 @@
+Distributed Control for Spatial Self-Organization of Multi-agent Swarms
+Vishaal  Krishnan and Sonia  Martínez;
+Abstract
+In this work, we design distributed control laws for spatial self-organization of multi-agent swarms in 1D and 2D spatial domains. The objective is to achieve a desired density distribution over a simply connected spatial domain. Since individual agents in a swarm are not themselves of interest and we are concerned only with the macroscopic objective, we view the network of agents in the swarm as a discrete approximation of a continuous medium and design control laws to shape the density distribution of the continuous medium. The key feature of this work is that the agents in the swarm do not have access to position information. Each individual agent is capable of measuring the current local density of agents and can communicate with its spatial neighbors. The network of agents implement a Laplacian-based distributed algorithm, which we call pseudo-localization, to localize themselves in a new coordinate frame, and a distributed control law to converge to the desired spatial density distribution. We start by studying self-organization in one dimension, which is then followed by the 2D case.
+Keywords
+self-organization, distributed control, pseudo-localization, harmonic maps, 34B45, 35B40, 35B35, 58J32, 58J35, 58E20, 

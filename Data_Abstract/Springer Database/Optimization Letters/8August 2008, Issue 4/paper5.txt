@@ -1,0 +1,6 @@
+Simplex-inspired algorithms for solving a class of convex programming problems
+Thomas C. Sharkey;H. Edwin Romeijn;
+Abstract
+We consider a class of convex programming problems whose objective function is given as a linear function plus a convex function whose arguments are linear functions of the decision variables and whose feasible region is a polytope. We show that there exists an optimal solution to this class of problems on a face of the constraint polytope of dimension not more than the number of arguments of the convex function. Based on this result, we develop a method to solve this problem that is inspired by the simplex method for linear programming. It is shown that this method terminates in a finite number of iterations in the special case that the convex function has only a single argument. We then use this insight to develop a second algorithm that solves the problem in a finite number of iterations for an arbitrary number of arguments in the convex function. A computational study illustrates the efficiency of the algorithm and suggests that the average-case performance of these algorithms is a polynomial of low order in the number of decision variables.
+Keywords
+Convex optimization  Simplex method  Nonlinear programming  

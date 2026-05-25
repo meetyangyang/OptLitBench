@@ -1,0 +1,6 @@
+Approximate Gradient Projection Method with Runge-Kutta Schemes for Optimal Control Problems
+I. Chryssoverghi;J. Coletsos;B. Kokkinis;
+Abstract
+We consider an optimal control problem for systems governed by ordinary differential equations with control constraints. The state equation is discretized by the explicit fourth order Runge-Kutta scheme and the controls are approximated by discontinuous piecewise affine ones. We then propose an approximate gradient projection method that generates sequences of discrete controls and progressively refines the discretization during the iterations. Instead of using the exact discrete directional derivative, which is difficult to calculate, we use an approximate derivative of the cost functional defined by discretizing the continuous adjoint equation by the same Runge-Kutta scheme and the integral involved by Simpson's integration rule, both involving intermediate approximations. The main result is that accumulation points, if they exist, of sequences constructed by this method satisfy the weak necessary conditions for optimality for the continuous problem. Finally, numerical examples are given.
+Keywords
+optimal control  gradient projection method  discretization  non-matching Runge-Kutta schemes  piecewise affine controls  

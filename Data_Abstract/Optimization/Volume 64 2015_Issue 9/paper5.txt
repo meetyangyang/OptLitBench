@@ -1,0 +1,6 @@
+Solving the split equality problem without prior knowledge of operator norms
+Qiao-Li Dong;Songnian He;Jing Zhao;
+Abstract
+The split equality problem has extraordinary utility and broad applicability in many areas of applied mathematics. Recently, Moudafi proposed an alternating CQ algorithm and its relaxed variant to solve it. However, to employ Moudafi’s algorithms, one needs to know a priori norm (or at least an estimate of the norm) of the bounded linear operators (matrices in the finite-dimensional framework). To estimate the norm of an operator is very difficult, but not an impossible task. It is the purpose of this paper to introduce a projection algorithm with a way of selecting the stepsizes such that the implementation of the algorithm does not need any priori information about the operator norms. We also practise this way of selecting stepsizes for variants of the projection algorithm, including a relaxed projection algorithm where the two closed convex sets are both level sets of convex functions, and a viscosity algorithm. Both weak and strong convergence are investigated.
+Keywords
+split equality problem, projection algorithm, relaxed projection algorithm, viscosity algorithmMSC: 47H05, 47H07, 47H10 

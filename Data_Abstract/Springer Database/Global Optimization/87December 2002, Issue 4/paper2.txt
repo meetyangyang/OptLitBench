@@ -1,0 +1,6 @@
+An Algorithm for Global Optimization using the Taylor–Bernstein Form as Inclusion Function
+P.S.V. Nataray;K. Kotecha;
+Abstract
+We investigate the use of higher order inclusion functions in the Moore–Skelboe (MS) algorithm of interval analysis (IA) for unconstrained global optimization. We first propose an improvement of the Taylor–Bernstein (TB) form given in (Lin and Rokne (1996) 101) which has the property of higher order convergence. We make the improvement so that the TB form is more effective in practice. We then use the improved TB form as an inclusion function in a prototype MS algorithm and also modify the cut-off test and termination condition in the algorithm. We test and compare on several examples the performances of the proposed algorithm, the MS algorithm, and the MS algorithm with the Taylor model of Berz and Hoffstatter (1998; 97) as inclusion function. The results of these (preliminary) tests indicate that the proposed algorithm with the improved TB form as inclusion function is quite effective for low to medium dimension problems studied.
+Keywords
+Bernstein polynomials  Global optimization  Interval analysis  

@@ -1,0 +1,6 @@
+An adaptive metamodel-based global optimization algorithm for black-box type problems
+Haoxiang Jie;Yizhong Wu;Jianwan Ding;
+Abstract
+In this article, an adaptive metamodel-based global optimization (AMGO) algorithm is presented to solve unconstrained black-box problems. In the AMGO algorithm, a type of hybrid model composed of kriging and augmented radial basis function (RBF) is used as the surrogate model. The weight factors of hybrid model are adaptively selected in the optimization process. To balance the local and global search, a sub-optimization problem is constructed during each iteration to determine the new iterative points. As numerical experiments, six standard two-dimensional test functions are selected to show the distributions of iterative points. The AMGO algorithm is also tested on seven well-known benchmark optimization problems and contrasted with three representative metamodel-based optimization methods: efficient global optimization (EGO), GutmannRBF and hybrid and adaptive metamodel (HAM). The test results demonstrate the efficiency and robustness of the proposed method. The AMGO algorithm is finally applied to the structural design of the import and export chamber of a cycloid gear pump, achieving satisfactory results.
+Keywords
+global optimization, black-box function, metamodel, hybrid surrogate model 

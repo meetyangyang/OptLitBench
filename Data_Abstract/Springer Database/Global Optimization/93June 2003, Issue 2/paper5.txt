@@ -1,0 +1,6 @@
+A Global Optimization Method for Solving Convex Quadratic Bilevel Programming Problems
+Le Dung Muu;Nguyen Van Quy;
+Abstract
+We use the merit function technique to formulate a linearly constrained bilevel convex quadratic problem as a convex program with an additional convex-d.c. constraint. To solve the latter problem we approximate it by convex programs with an additional convex-concave constraint using an adaptive simplicial subdivision. This approximation leads to a branch-and-bound algorithm for finding a global optimal solution to the bilevel convex quadratic problem. We illustrate our approach with an optimization problem over the equilibrium points of an n-person parametric noncooperative game.
+Keywords
+Convex quadratic bilevel programming  Merit function  Saddle function  Branch-and-bound algorithm  Optimization over an equilibrium set  

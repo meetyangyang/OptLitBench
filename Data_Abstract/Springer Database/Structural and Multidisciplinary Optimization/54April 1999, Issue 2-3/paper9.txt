@@ -1,0 +1,6 @@
+On the numerical solution of a class of unilateral contact structural optimization problems
+F. Tin-Loi;
+Abstract
+This paper deals with a special class of structural optimization problems in nonsmooth mechanics. More precisely, it is required to minimize the weight of a structure subject to frictionless unilateral contact conditions and constraints on the magnitudes of contact forces, displacements, stresses and cross-sectional areas. This problem, as is well-known, can be formulated as a special and challenging optimization problem known as a Mathematical Program with Equilibrium Constraints (MPEC), a key feature of which is the presence of complementarity conditions, involving the orthogonality of two sign-constrained vectors. In spite of its inherent nonsmoothness, we attempt to solve the problem using standard nonlinear programming techniques. In particular, we investigate numerically the application of two simple algorithms, both based on the use of the general-purpose nonlinear programming code CONOPT accessed via the powerful GAMS modelling language, for solving the suitably reformulated problem. Application is illustrated by means of three numerical examples.
+Keywords
+Contact Force  Nonlinear Programming  Modelling Language  Contact Condition  Programming Code  

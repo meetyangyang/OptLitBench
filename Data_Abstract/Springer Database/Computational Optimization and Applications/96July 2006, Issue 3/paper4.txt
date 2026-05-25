@@ -1,0 +1,6 @@
+Grid Restrained Nelder-Mead Algorithm
+Árpád Bűrmen;Janez Puhan;Tadej Tuma;
+Abstract
+Probably the most popular algorithm for unconstrained minimization for problems of moderate dimension is the Nelder-Mead algorithm published in 1965. Despite its age only limited convergence results exist. Several counterexamples can be found in the literature for which the algorithm performs badly or even fails. A convergent variant derived from the original Nelder-Mead algorithm is presented. The proposed algorithm's convergence is based on the principle of grid restrainment and therefore does not require sufficient descent as the recent convergent variant proposed by Price, Coope, and Byatt. Convergence properties of the proposed grid-restrained algorithm are analysed. Results of numerical testing are also included and compared to the results of the algorithm proposed by Price et al. The results clearly demonstrate that the proposed grid-restrained algorithm is an efficient direct search method.
+Keywords
+unconstrained minimization  Nelder-Mead algorithm  direct search  simplex  grid  

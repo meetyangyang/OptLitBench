@@ -1,0 +1,6 @@
+Spectral conjugate gradient methods with sufficient descent property for large-scale unconstrained optimization
+ Gaohang   Yu ; Lutai   Guan ; Wufan   Chen ;
+Abstract
+ A class of new spectral conjugate gradient methods are proposed in this paper. First, we modify the spectral Perry's conjugate gradient method, which is the best spectral conjugate gradient algorithm SCG by Birgin and Martinez [E.G. Birgin and J.M. Martinez, A spectral conjugate gradient method for unconstrained optimization, Appl. Math. Optim. 43 (2001), 117–128.], such that it possesses sufficient descent property for any (inexact) line search. It is shown that, for strongly convex functions, the method is a global convergent. Further, a global convergence result for nonconvex minimization is established when the line search fulfils the Wolfe line search conditions. Some other spectral conjugate gradient methods with guaranteed descent are presented here. Numerical comparisons are given with both SCG and CG_DESCENT methods using the unconstrained optimization problems in the CUTE library. 
+Keywords
+unconstrained optimization, spectral conjugate gradient method, large-scale optimization, global convergence AMS Subject Classifications : 65K05, 90C30, 49M37 

@@ -1,0 +1,6 @@
+A parameterized proximal point algorithm for separable convex optimization
+Jianchao Bai;Hongchao Zhang;Jicheng Li;
+Abstract
+In this paper, we develop a parameterized proximal point algorithm (P-PPA) for solving a class of separable convex programming problems subject to linear and convex constraints. The proposed algorithm is provable to be globally convergent with a worst-case O(1 / t) convergence rate, where t denotes the iteration number. By properly choosing the algorithm parameters, numerical experiments on solving a sparse optimization problem arising from statistical learning show that our P-PPA could perform significantly better than other state-of-the-art methods, such as the alternating direction method of multipliers and the relaxed proximal point algorithm.
+Keywords
+Separable convex programming  Proximal point algorithm  Global convergence  Statistical learning  

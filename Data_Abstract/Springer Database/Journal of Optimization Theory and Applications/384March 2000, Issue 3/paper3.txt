@@ -1,0 +1,6 @@
+Globally Convergent BFGS Method for Nonsmooth Convex Optimization1
+A. I. Rauf;M. Fukushima;
+Abstract
+We propose an implementable BFGS method for solving a nonsmooth convex optimization problem by converting the original objective function into a once continuously differentiable function by way of the Moreau–Yosida regularization. The proposed method makes use of approximate function and gradient values of the Moreau-Yosida regularization instead of the corresponding exact values. We prove the global convergence of the proposed method under the assumption of strong convexity of the objective function.
+Keywords
+nonsmooth convex optimization  Moreau–Yosida regularization  strong convexity  inexact function and gradient evaluations  BFGS method  

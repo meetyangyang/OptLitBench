@@ -1,0 +1,6 @@
+A new class of quasi-Newton updating formulas
+ Donghui   Li ; Liqun   Qi ; Vera   Roshchina ;
+Abstract
+ In this paper, we propose a derivative-free quasi-Newton condition, which results in a new class of quasi-Newton updating formulas for unconstrained optimization. Each updating formula in this class is a rank-two updating formula and preserves the positive definiteness of the second derivative matrix of the quadratic model. Its first two terms are the same as the first two terms of the BFGS updating formula. We establish global convergence of quasi-Newton methods based upon the updating formulas in this class, and superlinear convergence of a special quasi-Newton method among them. Then we propose a special quasi-Newton updating formula, which repetitively uses the new quasi-Newton condition. This updating formula is derivative-free. Numerical results are reported.  
+Keywords
+unconstrained optimization, rank-two quasi-Newton updating formulas, positive definiteness, convergence, derivative-free conditions 

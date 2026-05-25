@@ -1,0 +1,6 @@
+Smoothing method for minimizing the sum of the r largest functions
+ Shaohua   Pan ; Suyan   He ; Xingsi   Li ;
+Abstract
+ Given a collection  of m functions defined on ℜ n , we consider the problem of minimizing the sum of the r largest functions of the collection. This problem has significant applications in the science of facility location. In this article, we reformulate this problem as a nonsmooth problem only involving the maximum function max{0, t} and then develop a globally convergent smoothing method for the case that all of g  i  (x) are convex functions. This method is specifically applied to the collection of Euclidean distance functions defined by location models. Our computational experiments and numerical comparisons with the successful SeDuMi software indicate that the method is very promising and is able to solve problems of dimension n up to 10,000 efficiently. 
+Keywords
+Sum of the r largest functions, Nonsmooth, Smoothing method, Facility location 

@@ -1,0 +1,6 @@
+Alternative parameter choices for multi-step Quasi-Newton methods
+   J. A.   Ford ;   I. A.   Moghrabi ;
+Abstract
+ In a previous paper, Ford and Moghrabi [7] introduced a new, generalized approach to quasi-Newton methods, based on employing interpolatory polynomials which utilize infortion from the m most recent steps (where standard quasi-Newton methods correspond to m=1, working only with the latest step). In these new methods, the iterates where interpolated by a curve in such a way that consecutive points corresponeded to a unit-spacing of the parameter defining the curve. In this paper we derive and evalutate some alternative choices for defining the parameter-values which correspond to the iterates on the curve. The experimental results show clearly that such methods can give substantial gains in performance (by comparisaon with the “unit-spaced” method, itself yields improvements over standard quasi-Newton methods 
+Keywords
+Unconstrained optimization, quasi-Newton methods 

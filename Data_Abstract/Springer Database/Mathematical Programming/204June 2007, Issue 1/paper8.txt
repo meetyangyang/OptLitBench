@@ -1,0 +1,6 @@
+Semidefinite bounds for the stability number of a graph via sums of squares of polynomials
+Nebojša Gvozdenović;Monique Laurent;
+Abstract
+Lovász and Schrijver (SIAM J. Optim. 1:166–190, 1991) have constructed semidefinite relaxations for the stable set polytope of a graph G = (V,E) by a sequence of lift-and-project operations; their procedure finds the stable set polytope in at most α(G) steps, where α(G) is the stability number of G. Two other hierarchies of semidefinite bounds for the stability number have been proposed by Lasserre (SIAM J. Optim. 11:796–817, 2001; Lecture Notes in Computer Science, Springer, Berlin Heidelberg New York, pp 293–303, 2001) and by de Klerk and Pasechnik (SIAM J. Optim. 12:875–892), which are based on relaxing nonnegativity of a polynomial by requiring the existence of a sum of squares decomposition. The hierarchy of Lasserre is known to converge in α(G) steps as it refines the hierarchy of Lovász and Schrijver, and de Klerk and Pasechnik conjecture that their hierarchy also finds the stability number after α(G) steps. We prove this conjecture for graphs with stability number at most 8 and we show that the hierarchy of Lasserre refines the hierarchy of de Klerk and Pasechnik.
+Keywords
+Stability number of a graph  Semidefinite programming  Sum of squares of polynomials  05C69  90C22  90C27  

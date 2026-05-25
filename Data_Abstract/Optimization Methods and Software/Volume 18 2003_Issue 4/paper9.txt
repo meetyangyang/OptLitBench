@@ -1,0 +1,6 @@
+Implementation and evaluation of SDPA 6.0 (Semidefinite Programming Algorithm 6.0)
+ Makoto   Yamashita ; Katsuki   Fujisawa ; Masakazu   Kojima ;
+Abstract
+ SDP (SemiDefinite Programming) is one of the most attractive optimization models. It has many applications from various fields such as control theory, combinatorial and robust optimization, and quantum chemistry. The SDPA (SemiDefinite Programming Algorithm) is a software package for solving general SDPs based on primal-dual interior-point methods with the HRVW/KSH/M search direction. It is written in C++ with the help of LAPACK for numerical linear algebra for dense matrix computation. The purpose of this paper is to present a brief description of the latest version of the SDPA and its high performance for large scale problems through numerical experiments and comparisons with some other major software packages for general SDPs. 
+Keywords
+Semidefinite Program, Interior-point Method, Optimization, Software, Numerical Experiment 

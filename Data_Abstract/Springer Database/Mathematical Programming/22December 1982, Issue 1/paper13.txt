@@ -1,0 +1,6 @@
+Finite checkability for integer rounding properties in combinatorial programming problems
+S. Baum;L. E. TrotterJr.;
+Abstract
+LetA be a nonnegative integral matrix with no zero columns. Theinteger round-up property holds forA if for each nonnegative integral vectorw, the solution value to the integer programming problem min{1 ⋅y: yA ≥ w, y ≥ 0, y integer} is obtained by rounding up to the nearest integer the solution value to the corresponding linear programming problem min{1 ⋅y: yA ≥ w, y ≥ 0}. Theinteger round-down property is similarly defined for a nonnegative integral matrixB with no zero rows by considering max{1 ⋅y: yB ≤ w, y ≥ 0, y integer} and its linear programming correspondent. It is shown that the integer round-up and round-down properties can be checked through a finite process. The method of proof motivates a new and elementary proof of Fulkerson's Pluperfect Graph Theorem.
+Keywords
+Integer Rounding  Pluperfect Graphs  Combinatorial Optimization  

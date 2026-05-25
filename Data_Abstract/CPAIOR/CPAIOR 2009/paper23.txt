@@ -1,0 +1,4 @@
+Hybrid Branching
+Tobias Achterberg;Timo Berthold;
+Abstract
+State-of-the-art solvers for Constraint Satisfaction Problems (CSP), Mixed Integer Programs (MIP), and satisfiability problems (SAT) are usually based on a branch-and-bound algorithm. The question how to split a problem into subproblems (branching) is in the core of any branch-and-bound algorithm. Branching on individual variables is very common in CSP, MIP, and SAT. The rules, however, which variable to choose for branching, differ significantly. In this paper, we present hybrid branching, which combines selection rules from all three fields.

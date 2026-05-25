@@ -1,0 +1,6 @@
+An interior point method, based on rank-1 updates, for linear programming
+Jos F. Sturm;Shuzhong Zhang;
+Abstract
+We propose a polynomial time primal—dual potential reduction algorithm for linear programming. The algorithm generates sequencesdk andvk rather than a primal—dual interior point (x k ,s k ), where\(d_i^k  = \sqrt {{{x_i^k } \mathord{\left/ {\vphantom {{x_i^k } {s_i^k }}} \right. \kern-\nulldelimiterspace} {s_i^k }}} \) and\(v_i^k  = \sqrt {x_i^k s_i^k }\) fori = 1, 2,⋯,n. Only one element ofdk is changed in each iteration, so that the work per iteration is bounded by O(mn) using rank-1 updating techniques. The usual primal—dual iteratesxk andsk are not needed explicitly in the algorithm, whereasdk andvk are iterated so that the interior primal—dual solutions can always be recovered by aforementioned relations between (xk, sk) and (dk, vk) with improving primal—dual potential function values. Moreover, no approximation ofdk is needed in the computation of projection directions. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Linear programming  Interior point method  Potential function  

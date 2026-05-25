@@ -1,0 +1,6 @@
+Circle fitting by linear and nonlinear least squares
+I. D. Coope;
+Abstract
+The problem of determining the circle of best fit to a set of points in the plane (or the obvious generalization ton-dimensions) is easily formulated as a nonlinear total least-squares problem which may be solved using a Gauss-Newton minimization algorithm. This straight-forward approach is shown to be inefficient and extremely sensitive to the presence of outliers. An alternative formulation allows the problem to be reduced to a linear least squares problem which is trivially solved. The recommended approach is shown to have the added advantage of being much less sensitive to outliers than the nonlinear least squares approach.
+Keywords
+Curve fitting  circle fitting  total least squares  nonlinear least squares  

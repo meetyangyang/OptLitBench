@@ -1,0 +1,6 @@
+Taking All Positive Eigenvectors Is Suboptimal in Classical Multidimensional Scaling
+Jeffrey  Tsang and Rajesh  Pereira;
+Abstract
+Multidimensional scaling is a fundamental analysis technique in the broad sciences that takes as input a matrix of distances or dissimilarities between items and returns a configuration of points in Euclidean space such that the interpoint distances approximate the input. This enables further interpretation and analysis of the data. Classical, or Torgerson, multidimensional scaling is one of the main variants, with the advantage that it has a closed-form analytic solution. This solution cannot be exact if the distances are not Euclidean, and there is a well-known intuitive error analysis available. Here we show that this solution to the problem is suboptimal, in the sense that it incurs higher error, while at the same time embedding the data into far too many dimensions. Moreover, the alternative additive constant method is strictly worse by any measure. We provide provably better but not more complex methods for handling this common case, including an optimal quadratic program, and show that an improvement of 18--62% root mean square error is easily achievable.
+Keywords
+multidimensional scaling, classical multidimensional scaling, dimensionality reduction, convex optimization, quadratic programming, 91C15, 62H25, 90C20, 

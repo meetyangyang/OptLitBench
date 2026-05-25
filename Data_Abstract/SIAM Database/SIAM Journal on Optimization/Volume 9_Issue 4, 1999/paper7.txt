@@ -1,0 +1,6 @@
+Two-Step Algorithms for Nonlinear Optimization with Structured Applications
+Andrew R.  Conn, Luís N.  Vicente, and Chandu  Visweswariah;
+Abstract
+In this paper we propose extensions to trust-region algorithms in which the classical step is augmented with a second step that we insist yields a decrease in the value of the objective function. The classical convergence theory for trust-region algorithms is adapted to this class of two-step algorithms. The algorithms can be applied to any problem with variable(s) whose contribution to the objective function is a known functional form. In the nonlinear programming package LANCELOT, they have been applied to update slack variables and variables introduced to solve minimax problems, leading to enhanced optimization efficiency. Extensive numerical results are presented to show the effectiveness of these techniques.
+Keywords
+trust regions, line searches, two-step algorithms, spacer steps, slack variables, LANCELOT, minimax problems, expensive function evaluations, circuit optimization, 49M37, 90C06, 90C30, 

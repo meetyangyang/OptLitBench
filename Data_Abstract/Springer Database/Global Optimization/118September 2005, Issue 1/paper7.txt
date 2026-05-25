@@ -1,0 +1,11 @@
+Global and Local Search Algorithms for Concave Cost Transshipment Problems
+Shangyao Yan;Der-shin Juang;Chien-rong Chen;Wei-shen Lai;
+Abstract
+Traditionally, the minimum cost transshipment problems have been simplified as
+linear cost problems, which are not practical in real applications. Recently, some advanced
+local search algorithms have been developed that can directly solve concave cost bipartite
+network problems. However, they are not applicable to general transshipment problems.
+Moreover, the effectiveness of these modified local search algorithms for solving general
+concave cost transshipment problems is doubtful. In this research, we propose a global search algorithm for solving concave cost transshipment problems. Effecient methods for encoding, generating initial populations, selection, crossover and mutation are proposed, according to the problem characteristics. To evaluate the effectiveness of the proposed global search algorithm, four advanced local search algorithms based on the threshold accepting algorithm, the great deluge algorithm, and the tabu search algorithm, are also developed and are used for comparison purpose. To assist with the comparison of the proposed algorithms, a randomized network generator is designed to produce test problems. All the tests are performed on a personal computer. The results indicate that the proposed global search algorithm is more effective than the four advanced local algorithms, for solving concave cost transshipment problems.
+Keywords
+Concave cost  Genetic algorithm  Global search  Local search  Transshipment problems  

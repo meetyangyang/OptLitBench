@@ -1,0 +1,6 @@
+A Parallel Algorithm for a Class of Convex Programs
+Shih-Ping  Han and Gang  Lou;
+Abstract
+A parallel algorithm is proposed in this paper for solving the problem $\min \{ q(x)|x \in C_1  \cap  \cdots  \cap C_m \} $ where q is an uniformly convex function and $C_i$ are closed convex sets in $R^n$. In each iteration of the method, we solve in parallel m independent subproblems, each minimizing a definite quadratic function over an individual set $C_i$. The method has attractive convergence properties and can be implemented as parallel algorithms for tackling definite quadratic programs, linear programs, systems of linear equations and systems of generalized nonlinear inequalities.
+Keywords
+convex program, parallel algorithm, 65K05, 90C25, 90C30, 

@@ -1,0 +1,6 @@
+Nonmonotone curvilinear line search methods for unconstrained optimization
+M. C. Ferris;S. Lucid;M. Roma;
+Abstract
+We present a new algorithmic framework for solving unconstrained minimization problems that incorporates a curvilinear linesearch. The search direction used in our framework is a combination of an approximate Newton direction and a direction of negative curvature. Global convergence to a stationary point where the Hessian matrix is positive semidefinite is exhibited for this class of algorithms by means of a nonmonotone stabilization strategy. An implementation using the Bunch-Parlett decomposition is shown to outperform several other techniques on a large class of test problems.
+Keywords
+Stationary Point  Test Problem  Minimization Problem  Mathematical Program  Search Direction  

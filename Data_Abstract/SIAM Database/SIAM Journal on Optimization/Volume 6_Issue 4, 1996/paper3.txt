@@ -1,0 +1,6 @@
+Solving LP Problems via Weighted Centers
+Aiping  Liao and Michael J.  Todd;
+Abstract
+The feasibility problem for a system of linear inequalities can be converted into an unconstrained optimization problem by using ideas from the ellipsoid method, which can be viewed as a very simple minimization technique for the resulting nonlinear function. This function is related to the volume of an ellipsoid containing all feasible solutions, which is parametrized by certain weights which we choose to minimize the function. The center of the resulting ellipsoid turns out to be a feasible solution to the inequalities. Using more sophisticated nonlinear minimization algorithms, we develop and investigate more efficient methods, which lead to two kinds of weighted centers for the feasible set. Using these centers, we develop new algorithms for solving linear programming problems.
+Keywords
+weighted center, the ellipsoid method, Newton’s method, linear programming, 65K, 90C, 

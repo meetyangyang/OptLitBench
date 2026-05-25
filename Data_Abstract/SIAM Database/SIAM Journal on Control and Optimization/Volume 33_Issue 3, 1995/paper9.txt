@@ -1,0 +1,6 @@
+Sampled-Data and Discrete-Time $H_2$ Optimal Control
+H. L.  Trentelman and A. A.  Stoorvogel;
+Abstract
+This paper deals with the sampled-data $H_2$ optimal control problem. Given a linear time-invariant continuous-time system, the problem of minimizing the $H_2$ performance over all sampled-data controllers with a fixed sampling period can be reduced to a pure discrete-time $H_2$ optimal control problem. This discrete-time $H_2$ problem is always singular. Motivated by this, in this paper we give a treatment of the discrete-time $H_2$ optimal control problem in its full generality. The results we obtain are then applied to the singular discrete-time $H_2$ problem arising from the sampled-data $H_2$ problem. In particular, we give conditions for the existence of optimal sampled data controllers. We also show that the $H_2$ performance of a continuous-time controller can always be recovered asymptotically by choosing the sampling period sufficiently small. Finally, we show that the optimal sampled-data $H_2$ performance converges to the continuous-time optimal $H_2$ performance as the sampling period converges to zero.
+Keywords
+sampled-data, lifting technique, discrete-time, H2 optimal control, algebraic Riccati equation, small sampling periods, 93C05, 93C35, 93C60, 

@@ -1,0 +1,6 @@
+Mixed-integer second-order cone programming for lower hedging of American contingent claims in incomplete markets
+Mustafa Ç. Pınar;
+Abstract
+We describe a challenging class of large mixed-integer second-order cone programming models which arise in computing the maximum price that a buyer is willing to disburse to acquire an American contingent claim in an incomplete financial market with no arbitrage opportunity. Taking the viewpoint of an investor who is willing to allow a controlled amount of risk by replacing the classical no-arbitrage assumption with a “no good-deal assumption” defined using an arbitrage-adjusted Sharpe ratio criterion we formulate the problem of computing the pricing and hedging of an American option in a financial market described by a multi-period, discrete-time, finite-state scenario tree as a large-scale mixed-integer conic optimization problem. We report computational results with off-the-shelf mixed-integer conic optimization software.
+Keywords
+American options  Mixed-integer second-order cone optimization  

@@ -1,0 +1,6 @@
+An adaptive conic trust-region method for unconstrained optimization
+ Qiaoming   Han ; Wenyu   Sun ; Jiye   Han ; Raimudo J. B.   Sampaio ;
+Abstract
+ It is well known that among the current methods for unconstrained optimization problems the quasi-Newton methods with global strategy may be the most efficient methods, which have local superlinear convergence. However, when the iterative point is far away from the solution of the problem, quasi-Newton method may proceed slowly for the general unconstrained optimization problems. In this article an adaptive conic trust-region method for unconstrained optimization is presented. Not only the gradient information but also the values of the objective function are used to construct the local model at the current iterative point. Moreover, we define a concept of super steepest descent direction and embed its information into the local model. The amount of computation in each iteration of this adaptive algorithm is the same as that of the standard quasi-Newton method with trust region. Some numerical results show that the modified method requires fewer iterations than the standard methods to reach the solution of the optimization problem. Global and local convergence of the method is also analyzed. 
+Keywords
+Trust-region method, Conic model, Quasi-Newton method, Non-linear programming, Self-adjust strategy 

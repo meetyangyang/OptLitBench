@@ -1,0 +1,6 @@
+A Piecewise Linear Dual Phase-1 Algorithm for the Simplex Method
+István Maros;
+Abstract
+A dual phase-1 algorithm for the simplex method that handles all types of variables is presented. In each iteration it maximizes a piecewise linear function of dual infeasibilities in order to make the largest possible step towards dual feasibility with a selected outgoing variable. The algorithm can be viewed as a generalization of traditional phase-1 procedures. It is based on the multiple use of the expensively computed pivot row. By small amount of extra work per iteration, the progress it can make is equivalent to many iterations of the traditional method. While this is its most important feature, it possesses some additional favorable properties, namely, it can be efficient in coping with degeneracy and numerical difficulties. Both theoretical and computational issues are addressed. Some computational experience is also reported which shows that the potentials of the method can materialize on real world problems.
+Keywords
+linear programming  dual simplex method  phase-1  piecewise linear functions  

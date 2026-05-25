@@ -1,0 +1,6 @@
+Adaptive multi-restart Tabu Search algorithm for the vehicle routing problem with cross-docking
+Christos D. Tarantilis;
+Abstract
+This paper deals with a multi-source vehicle routing problem with a cross-docking facility, and studies open and closed network configurations as well as practically relevant dependency rules and consolidation decisions. Given a set of supplier–customer pairs with known demands, the aim is to design minimum cost routes for the transportation of products via a cross-dock. Vehicles cannot travel directly from suppliers to customers, and thus, products arriving from inbound vehicles are sorted and consolidated onto outbound vehicles. The proposed method utilizes an adaptive multi-restart local search framework. For this purpose, a Tabu Search algorithm is employed, while the execution of the re-starting mechanism is based on the information extracted from a reference set of solutions. Computational experiments illustrate the efficiency and effectiveness of the proposed method. Compared to existing results, new improved upper bounds are reported.
+Keywords
+Vehicle routing  Cross-docking  Tabu Search  

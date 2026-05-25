@@ -1,0 +1,6 @@
+A Note on the Calculation of Step-Lengths in Interior-Point Methods for Semidefinite Programming
+Kim-Chuan Toh;
+Abstract
+In each iteration of an interior-point method for semidefinite programming, the maximum step-length that can be taken by the iterate while maintaining the positive semidefiniteness constraint needs to be estimated. In this note, we show how the maximum step-length can be estimated via the Lanczos iteration, a standard iterative method for estimating the extremal eigenvalues of a matrix. We also give a posteriori error bounds for the estimate. Numerical results on the performance of the proposed method against two commonly used methods for calculating step-lengths (backtracking via Cholesky factorizations and exact eigenvalues computations) are included.
+Keywords
+semidefinite programming  interior point methods  step-length  Lanczos iteration  

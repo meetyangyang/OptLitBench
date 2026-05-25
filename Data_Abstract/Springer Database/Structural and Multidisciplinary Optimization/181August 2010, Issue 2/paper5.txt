@@ -1,0 +1,6 @@
+Element exchange method for topology optimization
+Mohammad Rouhi;Masoud Rais-Rohani;Thomas N. Williams;
+Abstract
+This paper presents a stochastic direct search method for topology optimization of continuum structures. In a systematic approach requiring repeated evaluations of the objective function, the element exchange method (EEM) eliminates the less influential solid elements by switching them into void elements and converts the more influential void elements into solid resulting in an optimal 0–1 topology as the solution converges. For compliance minimization problems, the element strain energy is used as the principal criterion for element exchange operation. A wider exploration of the design space is assured with the use of random shuffle while a checkerboard control scheme is used for detection and elimination of checkerboard regions. Through the solution of multiple two- and three-dimensional topology optimization problems, the general characteristics of EEM are presented. Moreover, the solution accuracy and efficiency of EEM are compared with those based on existing topology optimization methods.
+Keywords
+Topology optimization  Element exchange method  EEM  Stochastic  Non-gradient  Binary  

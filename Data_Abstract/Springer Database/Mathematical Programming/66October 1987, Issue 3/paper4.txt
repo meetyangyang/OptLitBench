@@ -1,0 +1,6 @@
+Relaxation methods for problems with strictly convex separable costs and linear constraints
+Paul Tseng;Dimitri P. Bertsekas;
+Abstract
+We consider the minimization problem with strictly convex, possibly nondifferentiable, separable cost and linear constraints. The dual of this problem is an unconstrained minimization problem with differentiable cost which is well suited for solution by parallel methods based on Gauss-Seidel relaxation. We show that these methods yield the optimal primal solution and, under additional assumptions, an optimal dual solution. To do this it is necessary to extend the classical Gauss-Seidel convergence results because the dual cost may not be strictly convex, and may have unbounded level sets.
+Keywords
+Gauss-Seidel relaxation  Fenchel duality  strict convexity  strong convexity  

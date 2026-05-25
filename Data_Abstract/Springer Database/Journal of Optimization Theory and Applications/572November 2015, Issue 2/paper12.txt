@@ -1,0 +1,6 @@
+Guaranteed Recovery of Planted Cliques and Dense Subgraphs by Convex Relaxation
+Brendan P. W. Ames;
+Abstract
+We consider the problem of identifying the densest k-node subgraph in a given graph. We write this problem as an instance of rank-constrained cardinality minimization and then relax using the nuclear norm and one norm. Although the original combinatorial problem is NP-hard, we show that the densest k-subgraph can be recovered from the solution of our convex relaxation for certain program inputs. In particular, we establish exact recovery in the case that the input graph contains a single planted clique plus noise in the form of corrupted adjacency relationships. We also establish analogous recovery guarantees for identifying the densest subgraph of fixed size in a bipartite graph, and include results of numerical simulations for randomly generated graphs to demonstrate the efficacy of our algorithm.
+Keywords
+Planted clique  Densest subgraph  Nuclear norm minimization  \(l_1\) norm minimization  90C25  90C59  65K05  68Q25  

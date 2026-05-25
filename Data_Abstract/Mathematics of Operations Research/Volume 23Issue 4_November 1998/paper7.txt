@@ -1,0 +1,6 @@
+Approximation Algorithms for the Discrete Time-Cost Tradeoff Problem
+Martin Skutella;
+Abstract
+Due to its obvious practical relevance, the Time-Cost Tradeoff Problem has attracted the attention of many researchers over the last forty years. While the Linear Time-Cost Tradeoff Problem can be solved in polynomial time, its discrete variant is known to be NP-hard. We present the first approximation algorithms for the Discrete Time-Cost Tradeoff Problem. Specifically, given a fixed budget we consider the problem of finding a shortest schedule for a project. We give an approximation algorithm with performance ratio 3/2 for the class of projects where all feasible durations of activities are either 0, 1, or 2. We extend our result by giving approximation algorithms with performance guarantee O(log l), where l is the ratio of the maximum duration of any activity to the minimum nonzero duration of any activity. Finally, we discuss bicriteria approximation algorithms which compute schedules for a given deadline or budget such that both project duration and cost are within a constant factor of the duration and cost of an optimum schedule for the given deadline or budget.
+Keywords
+time-cost tradeoff approximation algorithm scheduling bicriteria optimization 

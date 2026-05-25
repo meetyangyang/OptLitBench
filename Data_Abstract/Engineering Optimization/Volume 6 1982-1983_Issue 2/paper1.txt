@@ -1,0 +1,6 @@
+A NONITERATIVE PENALTY FUNCTION TECHNIQUE FOR CONSTRAINED OPTIMIZATION
+ L. M.   SANTI ; M. A.   TOWNSEND ; G. E.   JOHNSON ;
+Abstract
+ A new penally function method has been found effective for solving constrained non-linear optimization problems, particularly with gradient-using acceptable-point algorithms. This approach does not entail minimizing a sequence of penalty formulations as do parametric penalty functions, which the algorithm resembles in the manner of formulating the penalty terms. Several variants are presented: interior and exterior methods for inequality constraints, and modifications for inclusion of equality constraints by an exterior penalty formulation. Essentially, at each multivariate stage the penalty terms' “weights” arc updated according to a power law reflecting the iteration. Accordingly, performance of the algorithm depends upon selection of these weights. Several problems are solved, and suggestions are given for the weights. Overall, experience has been very encouraging. 
+Keywords
+ 

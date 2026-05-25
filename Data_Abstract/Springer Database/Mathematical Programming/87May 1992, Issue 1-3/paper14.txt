@@ -1,0 +1,6 @@
+An interior point algorithm of\(O(\sqrt m \left| {\ln \varepsilon } \right|)\) iterations forC1-convex programming
+Jie Sun;Liqun Qi;
+Abstract
+We present a theoretical result on a path-following algorithm for convex programs. The algorithm employs a nonsmooth Newton subroutine. It starts from a near center of a restricted constraint set, performs a partial nonsmooth Newton step in each iteration, and converges to a point whose cost is withinε accuracy of the optimal cost in\(O(\sqrt m \left| {\ln \varepsilon } \right|)\) iterations, wherem is the number of constraints in the problem. Unlike other interior point methods, the analyzed algorithm only requires a first-order Lipschitzian condition and a generalized Hessian similarity condition on the objective and constraint functions. Therefore, our result indicates the theoretical feasibility of applying interior point methods to certainC1-optimization problems instead ofC2-problems. Since the complexity bound is unchanged compared with similar algorithms forC2-convex programming, the result shows that the smoothness of functions may not be a factor affecting the complexity of interior point methods.
+Keywords
+Complexity of algorithms  convergence analysis  interior point algorithms  Newton's methods  

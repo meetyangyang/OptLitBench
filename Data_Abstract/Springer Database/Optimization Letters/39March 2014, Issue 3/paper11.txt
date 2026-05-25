@@ -1,0 +1,6 @@
+Positive definite matrix approximation with condition number constraint
+Mirai Tanaka;Kazuhide Nakata;
+Abstract
+Positive definite matrix approximation with a condition number constraint is an optimization problem to find the nearest positive definite matrix whose condition number is smaller than a given constant. We demonstrate that this problem can be converted to a simpler one when we use a unitary similarity invariant norm as a metric. We can especially convert it to a univariate piecewise convex optimization problem when we use the Ky Fan p-k norm. We also present an analytical solution to the problem whose metric is the spectral norm and the trace norm.
+Keywords
+Matrix approximation  Covariance estimation  Unitary similarity invariant norm  Ky Fan p-k norm  

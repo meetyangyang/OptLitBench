@@ -1,0 +1,6 @@
+AN 0 (N log N) HEURISTIC ALGORITHM FOR THE RECTILINEAR STEINER MINIMAL TREE PROBLEM
+ J.   MACGREGOR SMITH ; D. T.   LEE ; JUDITH S.   LIEBMAN ;
+Abstract
+ This paper presents an 0 (n log n) heuristic algorithm for the Rectilinear Steiner Minimal Tree (RSMT) problem. The algorithm is based on a decomposition approach which first partitions the vertex set into triangles via the L1 Delaunay triangulation, then constructs the Steiner minimal tree according to the properties of the Voronoi diagram and the Minimum Spanning Tree (MST) of the point set. The algorithm was implemented in FORTRAN-IV and tested on a number of randomly generated point sets in the plane drawn from a uniform distribution. Comparison of the 0 (n log n) algorithms with 0 (n4) algorithms indicates that the 0 (n log n) algorithm achieves equally good reductions over the MST although the 0 (n4) algorithms actually examine more potential Steiner points and RSMT configurations. 
+Keywords
+ 

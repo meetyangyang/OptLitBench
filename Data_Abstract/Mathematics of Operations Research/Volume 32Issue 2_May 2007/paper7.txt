@@ -1,0 +1,6 @@
+LP Rounding Approximation Algorithms for Stochastic Network Design
+Anupam Gupta;R. Ravi;Amitabh Sinha;
+Abstract
+We study the Steiner tree problem and the single-cable single-sink network design problem under a two-stage stochastic model with recourse and finitely many scenarios. In these models, some edges are purchased in a first stage when only probabilistic information about the second stage is available. In the second stage, one of a finite number of specified scenarios is realized, which results in the set of terminals becoming known and the opportunity to purchase additional edges (under an inflated cost function) to augment the first-stage solution. We provide constant factor approximation algorithms for these problems by rounding the linear relaxation of IP formulations of the problems. Our algorithms involve solving the linear relaxation first, followed by a primal-dual routine that is guided by the LP solution. We also show that because our bounds are local (the cost of each component is bounded by its cost in the LP solution), we are able to obtain bounds that guard against a form of downside risk.
+Keywords
+stochastic optimization approximation algorithm Steiner tree network design LP rounding primal-dual method 

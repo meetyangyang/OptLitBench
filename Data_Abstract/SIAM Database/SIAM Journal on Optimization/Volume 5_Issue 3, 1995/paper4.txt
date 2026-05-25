@@ -1,0 +1,6 @@
+Global Convergence of a Long-Step Affine Scaling Algorithm for Degenerate Linear Programming Problems
+Takashi  Tsuchiya and Masakazu  Muramatsu;
+Abstract
+In this paper we present new global convergence results on a long-step affine scaling algorithm obtained by means of the local Karmarkar potential functions. This development was triggered by Dikin’s interesting result on the convergence of the dual estimates associated with a long-step afflne scaling algorithm for homogeneous LP problems with unique optimal solutions. Without requiring any assumption on degeneracy, we show that moving a fixed proportion $\lambda $ up to two-thirds of the way to the boundary at each iteration ensures convergence of the iterates to an interior point of the optimal face as well as the dual estimates to the analytic center of the dual optimal face, where the asymptotic reduction rate of the value of the objective function is $1 - \lambda $. We also give an example showing that this result is tight to obtain convergence of the dual estimates to the analytic center of the dual optimal face.
+Keywords
+linear programming, interior point methods, affine scaling algorithm, global analysis, degenerate problems, 90C05, 

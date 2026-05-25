@@ -1,0 +1,6 @@
+A region-segmentation combining surrogate model based on L-indicator and N-fold cross-validation technique
+Hanan Lu;Qiushi Li;Tianyu Pan;
+Abstract
+For complex engineering problems, for which the mathematical models may be linear, low-order nonlinear or even high-order nonlinear, surrogate models which have high adaptability and accuracy are required. This article develops a method for constructing a region-segmentation combining surrogate model. It is based on the idea that in the entire experimental domain, different local regions may present different characteristics (linearity, low-order nonlinearity and high-order nonlinearity), and the entire domain should be divided into several subregions to be approximated by different surrogates so as to achieve high prediction accuracy in local regions. The preferred models in each subregion then constitute a weight-average combining surrogate model. The investigations reveal that the new model not only is more adaptive to analytically unknown functions, but also gives more accurate predictions. The method has been applied to three benchmark problems and a practical engineering problem, and the results maintain validity.
+Keywords
+Region-segmentation combining surrogate model, L-indicator, N-fold cross-validation technique, radial basis function, polynomial regression model 

@@ -1,0 +1,6 @@
+Homotopy curve tracking in approximate interior point optimization
+Victor M. Pérez;John E. Renaud;Layne T. Watson;
+Abstract
+In a previous work the authors developed an interior point approach for trust region managed sequential approximate optimization. The interior point approach insures that approximate feasibility is maintained throughout the optimization process. In the case of an infeasible starting point, a relaxation of the constraints allows the algorithm to operate without modification. The relaxation is controlled by a homotopy parameter. A primary advantage resides in the fact that all the constraints (contrasted with just the active or most violated constraints) influence the optimization, since the relaxation fades at the same time for all violated constraints. Adjustment of the parameter was performed in an heuristic fashion. In this paper the authors present a robust methodology to update the homotopy parameter based on the theory of probability-one homotopies for nonlinear programming. Results show that the method is robust and effective in its implementation for achieving sequential approximate optimization feasibility.
+Keywords
+Sequential approximate optimization  Interior-point methods  Trust-region methods  Multidisciplinary optimization  Homotopy methods  

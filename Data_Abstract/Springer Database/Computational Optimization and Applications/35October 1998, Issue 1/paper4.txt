@@ -1,0 +1,6 @@
+Solving the Minimum Weighted Integer Coloring Problem
+Jue Xue;
+Abstract
+In this paper, we present, as we are aware of, the first combinatorialalgorithm specifically designed for the minimum weighted integercoloring problem (MWIP). We test the algorithm on randomly generated graphs with integer weights uniformly drawn from intervals [1, 1], [1, 2], [1, 5], [1, 10], [1, 15], and [1, 20]. We also use theproposed algorithm to test the quality of a simple, yet effectiveheuristic for the MWIP in the literature. We have observed from our test that: i( the algorithm is able to solve MWIP on graphs of up to 20 vertices when the average vertex weights is not too large; ii( The relative gap between the simple heuristic solutions and the optimal solution seems to decrease as the average vertex weight increases. A rough comparison with the state-of-the-art methods for the minimum unweighted coloring problem seems to suggest the advantage of solving MWIP directly.
+Keywords
+Algorithm  Coloring  Integer  Minimum  Weighted  

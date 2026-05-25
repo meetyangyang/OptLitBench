@@ -1,0 +1,6 @@
+Interior-point methods for nonlinear complementarity problems
+F. A. Potra;Y. Ye;
+Abstract
+We present a potential reduction interior-point algorithm for monotone nonlinear complementarity problems. At each iteration, one has to compute an approximate solution of a nonlinear system such that a certain accuracy requirement is satisfied. For problems satisfying a scaled Lipschitz condition, this requirement is satisfied by the approximate solution obtained by applying one Newton step to that nonlinear system. We discuss the global and local convergence rates of the algorithm, convergence toward a maximal complementarity solution, a criterion for switching from the interior-point algorithm to a pure Newton method, and the complexity of the resulting hybrid algorithm.
+Keywords
+Complementarity problems  interior-point methods  convergence rates  

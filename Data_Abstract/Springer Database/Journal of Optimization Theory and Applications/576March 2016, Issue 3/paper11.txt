@@ -1,0 +1,6 @@
+Rapid Smooth Entry Trajectory Planning for High Lift/Drag Hypersonic Glide Vehicles
+Xinfu Liu;Zuojun Shen;
+Abstract
+This paper presents how to apply second-order cone programming, a subclass of convex optimization, to rapidly solve a highly nonlinear optimal control problem arisen from smooth entry trajectory planning of hypersonic glide vehicles with high lift/drag ratios. The common phugoid oscillations are eliminated by designing a smooth flight path angle profile. The nonconvexity terms of the optimal control problem, which include the nonlinear dynamics and nonconvex control constraints, are convexified via techniques of successive linearization, successive approximation, and relaxation. Lossless relaxation is also proved using optimal control theory. After discretization, the original nonconvex optimal control problem is converted into a sequence of second-order cone programming problems each of which can be solved in polynomial time using existing primal–dual interior-point algorithms whenever a feasible solution exists. Numerical examples are provided to show that rather smooth entry trajectory can be obtained in about 1 s on a desktop computer.
+Keywords
+Hypersonic glide vehicles  Phugoid oscillation  Optimal control  Convexification  Second-order cone programming  

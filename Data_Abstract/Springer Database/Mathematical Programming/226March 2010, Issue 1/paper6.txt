@@ -1,0 +1,6 @@
+Nonlinear programming without a penalty function or a filter
+N. I. M. Gould;Ph. L. Toint;
+Abstract
+A new method is introduced for solving equality constrained nonlinear optimization problems. This method does not use a penalty function, nor a filter, and yet can be proved to be globally convergent to first-order stationary points. It uses different trust-regions to cope with the nonlinearities of the objective function and the constraints, and allows inexact SQP steps that do not lie exactly in the nullspace of the local Jacobian. Preliminary numerical experiments on CUTEr problems indicate that the method performs well.
+Keywords
+Nonlinear optimization  Equality constraints  Numerical algorithms  Global convergence  65K05  90C26  90C30  90C55  

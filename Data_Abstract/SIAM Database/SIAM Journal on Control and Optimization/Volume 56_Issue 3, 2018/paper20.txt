@@ -1,0 +1,6 @@
+Type II Singular Perturbation Approximation for Linear Systems with Lévy Noise
+Martin  Redmann;
+Abstract
+When solving linear stochastic partial differential equations numerically, usually a high order spatial discretization is needed. Model order reduction (MOR) techniques are often used to reduce the order of spatially discretized systems and hence reduce computational complexity. A particular MOR technique to obtain a reduced order model (ROM) is singular perturbation approximation (SPA), a method which has been extensively studied for deterministic systems. As so-called type I SPA has already been extended to stochastic equations. We provide an alternative generalization of the deterministic setting to linear systems with Lévy noise which is called type II SPA. It turns out that the ROM from applying type II SPA has better properties than that of using type I SPA. In this paper, we provide new energy interpretations for stochastic reachability Gramians, show the preservation of mean square stability in the ROM by type II SPA, and prove two different error bounds for type II SPA when applied to Lévy driven systems.
+Keywords
+model order reduction, singular perturbation approximation, Gramians, stochastic systems, Lévy process, Primary, 93A15, 93E03, 60J75; Secondary, 15A24, 93E15, 

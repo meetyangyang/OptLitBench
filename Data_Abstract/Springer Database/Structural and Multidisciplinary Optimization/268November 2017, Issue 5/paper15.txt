@@ -1,0 +1,6 @@
+A procedure to design optimum composite plates using implicit decision trees
+Javier Sanz-Corretge;
+Abstract
+This paper presents a novel methodology to minimize the weight of a composite plate, taking into account both its structural integrity and its manufacturing constraints. This optimization problem has been abstracted, and reduced to, a graph problem where finding the optimum is equivalent to finding the shortest path in the graph. This graph is an implicit ternary decision tree and path finding is accomplished with a parallelized breadth-first search procedure. As a result of this search, the procedure is able to provide both a global optimum and a Pareto front. The implementation of an implicit decision tree as a way to optimize a laminate stacking sequence is a novel idea, in spite that both issues have been tackled in numerous publications separately. Its benefits are clearly stated in this work.
+Keywords
+Decision trees  Discrete optimization  Graph theory  Global optimization  Laminate composites optimization  Optimum laminate stacking sequence  Pareto front  

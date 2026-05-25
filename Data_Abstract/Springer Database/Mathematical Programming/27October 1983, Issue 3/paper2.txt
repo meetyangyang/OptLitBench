@@ -1,0 +1,6 @@
+A dual differentiable exact penalty function
+S. -P. Han;O. L. Mangasarian;
+Abstract
+A new penalty function is associated with an inequality constrained nonlinear programming problem via its dual. This penalty function is globally differentiable if the functions defining the original problem are twice globally differentiable. In addition, the penalty parameter remains finite. This approach reduces the original problem to a simple problem of maximizing a globally differentiable function on the product space of a Euclidean space and the nonnegative orthant of another Euclidean space. Many efficient algorithms exist for solving this problem. For the case of quadratic programming, the penalty function problem can be solved effectively by successive overrelaxation (SOR) methods which can handle huge problems while preserving sparsity features.
+Keywords
+Nonlinear Programming  Quadratic Programming  Penalty Functions  SOR Methods  

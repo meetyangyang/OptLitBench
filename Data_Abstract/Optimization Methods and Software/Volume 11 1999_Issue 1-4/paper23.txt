@@ -1,0 +1,6 @@
+Benchmarking interior point Lp/Qp solvers
+   H. D.   Mittelmann ;
+Abstract
+ In this work results of a comparison of five LP codes, BPMPD, HOPDM, LOQO, LIPSOL, and SOPLEX are reported and also of the first three as QP solvers. Since LOQO can solve general NLP problems it is in another class. For LP/QP problems it proves to be robust but it solves certain LP problems somewhat slower due to its limited presolve feature. SOPLEX as the only simplex-based program is highly competitive in general but is beaten by the best IPM codes on certain problems. Among the IPM codes BPMPD stands out while HOPDM has not been perfected as much for the solution of LP/QP problems but rather for use in other contexts requiring its pioneering warmstart feature which is now also available for BPMPD. LIPSOL is the only code in Matlab which has both advantages and disadvantages. It is a pure LP solver and has thus limited applicability compared to the other codes but solves LP problems with an efficiency close to that of BPMPD and HOPDM. 
+Keywords
+ 

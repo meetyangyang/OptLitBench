@@ -1,0 +1,6 @@
+On Waiting for Simultaneous Access to Two Resources
+Michael L. Honig;Teunis J. Ott;
+Abstract
+This paper studies the M/G/1 queue where a special (test) customer can get service only if he has simultaneous access to the server and a second resource. All other customers only need access to the server. The second resource becomes available after an exponentially distributed amount of time. The ordinary customers are served according to the FIFO discipline. The test customer has the freedom to leave his place in the queue at any time and join the end of the queue. If he reaches the server before the second resource becomes available, he then must return to the back of the queue.We derive the waiting time distribution of the test customer given that he always maintains his position in the queue until he reaches the server. A number of conditions are given under which this “move-along” policy is optimal, i.e., minimizes the test customer's mean delay until service. These conditions depend on the amount of information and freedom of action available to the test customer.
+Keywords
+queues system availability simultaneous service by two servers 

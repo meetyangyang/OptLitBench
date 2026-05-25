@@ -1,0 +1,6 @@
+A Sequential Linear Programming Algorithm for Solving Monotone Variational Inequalities
+Patrice  Marcotte and Jean-Pierre  Dussault;
+Abstract
+Applied to strongly monotone variational inequalities, Newton’s algorithm achieves local quadratic convergence. In this paper it is shown how the basic Newton method can be modified to yield an algorithm whose global convergence can be guaranteed by monitoring the monotone decrease of the “gap function” associated with the variational inequality. Each iteration consists in the solution of a linear program in the space of primal-dual variables and of a linesearch. Convergence does not depend on strong monotonicity. However, under strong monotonicity and geometric stability assumptions, the set of active constraints at the solution is implicitly identified, and quadratic convergence is achieved.
+Keywords
+mathematical programming, variational inequalities, nonlinear complementarily, Newton's method, 49D05, 49D10, 49D15, 49D35, 

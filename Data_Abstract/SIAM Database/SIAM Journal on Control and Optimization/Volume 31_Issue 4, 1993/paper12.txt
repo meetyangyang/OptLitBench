@@ -1,0 +1,6 @@
+Stochastic Approximation with Averaging of the Iterates: Optimal Asymptotic Rate of Convergence for General Processes
+Harold J.  Kushner and Jichuan  Yang;
+Abstract
+Consider the stochastic approximation algorithm \[X_{n + 1}  = X_n  + a_n g(X_n ,\xi _n ).\] In an important paper, Polyak and Juditsky [SIAM J. Control Optim., 30 (1992), pp. 838–855] showed that (loosely speaking) if the coefficients $a_n $ go to zero slower than $O({1 / n})$, then the averaged sequence $\sum\nolimits_{i = 1}^n {{{X_i } / n}} $ converged to its limit, at an optimum rate, for any coefficient sequence. The conditions were rather special, and direct constructions were used. Here a rather simple proof is given that results of this type are generic to stochastic approximation, and essentially hold any time that the classical asymptotic normality of the normalized and centered iterates holds. Considerable intuitive insight is provided into the procedure. Simulations have well borne out the importance of the method.
+Keywords
+stochastic approximation, stochastic approximation with averaged iterates, rate of convergence for stochastic algorithms, 62L20, 60F05, 62E25, 

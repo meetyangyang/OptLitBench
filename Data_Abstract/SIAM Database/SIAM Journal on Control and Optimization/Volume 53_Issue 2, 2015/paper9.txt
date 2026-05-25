@@ -1,0 +1,6 @@
+Droplet Footprint Control
+Antoine  Laurain and Shawn W.  Walker;
+Abstract
+Controlling droplet shape via surface tension has numerous technological applications, such as droplet lenses and lab-on-a-chip.  This motivates a partial differential equation-constrained shape optimization approach for controlling the shape of droplets on flat substrates by controlling the surface tension of the substrate.  We use shape differential calculus to derive an $L^2$ gradient flow approach to compute equilibrium shapes for sessile droplets on substrates.  We then develop a gradient-based optimization method to find the substrate surface tension coefficient yielding an equilibrium droplet shape with a desired footprint (i.e., the liquid-solid interface has a desired shape).  Moreover, we prove a sensitivity result with respect to the substrate surface tensions for the free boundary problem associated with the footprint.  Numerical results are also presented to showcase the method.
+Keywords
+control of free boundary, bilevel shape optimization, droplet shape control, surface tension, Primary, 35R35, 49Q10; Secondary, 35Q93, 

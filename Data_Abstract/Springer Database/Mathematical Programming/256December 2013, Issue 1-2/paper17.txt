@@ -1,0 +1,6 @@
+Certifying convergence of Lasserre’s hierarchy via flat truncation
+Jiawang Nie;
+Abstract
+Consider the optimization problem of minimizing a polynomial function subject to polynomial constraints. A typical approach for solving it globally is applying Lasserre’s hierarchy of semidefinite relaxations, based on either Putinar’s or Schmüdgen’s Positivstellensatz. A practical question in applications is: how to certify its convergence and get minimizers? In this paper, we propose flat truncation as a certificate for this purpose. Assume the set of global minimizers is nonempty and finite. Our main results are: (1) Putinar type Lasserre’s hierarchy has finite convergence if and only if flat truncation holds, under some generic assumptions; the same conclusion holds for the Schmüdgen type one under weaker assumptions. (2) Flat truncation is asymptotically satisfied for Putinar type Lasserre’s hierarchy if the archimedean condition holds; the same conclusion holds for the Schmüdgen type one if the feasible set is compact. (3) We show that flat truncation can be used as a certificate to check exactness of standard SOS relaxations and Jacobian SDP relaxations.
+Keywords
+Flat truncation  Lasserre’s hierarchy  Quadratic module  Preordering  Semidefinite program  Sum of squares  65K05  90C22  

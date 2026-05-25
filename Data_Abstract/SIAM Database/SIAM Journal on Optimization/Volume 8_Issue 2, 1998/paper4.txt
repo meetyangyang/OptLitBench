@@ -1,0 +1,6 @@
+Primal-Dual Interior-Point Methods for Self-Scaled Cones
+Yu. E.  Nesterov and M. J.  Todd;
+Abstract
+In this paper we continue the development of a theoretical foundation for efficient primal-dual interior-point algorithms for convex programming problems expressed in conic form, when the cone and its associated barrier are self-scaled (see Yu. E. Nesterov and M.J. Todd, Math. Oper. Res., 22 (1997), pp. 1--42). The class of problems under consideration includes linear programming, semidefinite programming, and convex quadratically constrained, quadratic programming problems. For such problems we introduce a new definition of affine-scaling and centering directions. We present efficiency estimates for several symmetric primal-dual methods that can loosely be classified as path-following methods. Because of the special properties of these cones and barriers, two of our algorithms can take steps that typically go a large fraction of the way to the boundary of the feasible region, rather than being confined to a ball of unit radius in the local norm defined by the Hessian of the barrier.
+Keywords
+convex programming, conical form, interior-point algorithms, self-concordant barrier, self-scaled cone, self-scaled barrier, path-following algorithms, symmetric primal-dual algorithms, 90C05, 90C25, 65Y20, 

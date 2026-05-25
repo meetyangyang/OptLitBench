@@ -1,0 +1,6 @@
+Scaling Damped Limited-Memory Updates for Unconstrained Optimization
+Fahimeh Biglari;Farideh Mahmoodpur;
+Abstract
+This paper investigates scaling a modified limited-memory algorithm to solve unconstrained optimization problems. The basic idea was to combine the damped techniques for the limited-memory update and the technique of equilibrating the inverse Hessian matrix. Enhanced curvature information about the objective function is stored in the form of a diagonal matrix and plays the dual roles of providing an initial matrix and equilibrating for damped limited-memory iterations. Numerical experiments indicated that the new algorithm is very effective.
+Keywords
+Large-scale optimization  Nonlinear programming  Limited-memory quasi-Newton methods  Damped technique  Scaling technique  90C06  90C30  

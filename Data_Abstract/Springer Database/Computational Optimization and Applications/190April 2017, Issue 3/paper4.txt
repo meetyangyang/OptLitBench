@@ -1,0 +1,6 @@
+Partitioned quasi-Newton methods for sparse nonlinear equations
+Hui-Ping Cao;Dong-Hui Li;
+Abstract
+In this paper, we present two partitioned quasi-Newton methods for solving partially separable nonlinear equations. When the Jacobian is not available, we propose a partitioned Broyden’s rank one method and show that the full step partitioned Broyden’s rank one method is locally and superlinearly convergent. By using a well-defined derivative-free line search, we globalize the method and establish its global and superlinear convergence. In the case where the Jacobian is available, we propose a partitioned adjoint Broyden method and show its global and superlinear convergence. We also present some preliminary numerical results. The results show that the two partitioned quasi-Newton methods are effective and competitive for solving large-scale partially separable nonlinear equations.
+Keywords
+Partially separable nonlinear equation  Partitioned Broyden’s rank one method  Partitioned adjoint Broyden method  Global convergence  Superlinear convergence  65K05  90C06  90C53  

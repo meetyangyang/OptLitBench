@@ -1,0 +1,6 @@
+Asymptotic Optimization of a Nonlinear Hybrid System Governed by a Markov Decision Process
+Eitan  Altman and Vladimir  Gaitsgory;
+Abstract
+We consider in this paper a continuous time stochastic hybrid control system with finite time horizon. The objective is to minimize a nonlinear function of the state trajectory. The state evolves according to a nonlinear dynamics. The parameters of the dynamics of the system may change at discrete times $l\epsilon$, $l=0,1,...$, according to a controlled Markov chain which has finite state and action spaces. Under the assumption that $\epsilon$ is a small parameter, we justify an averaging procedure allowing us to establish that our problem can be approximated by the solution of some deterministic optimal control problem.
+Keywords
+hybrid stochastic systems, asymptotic optimality, nonlinear dynamics, Markov decision processes, averaging, 49B10, 49B50, 

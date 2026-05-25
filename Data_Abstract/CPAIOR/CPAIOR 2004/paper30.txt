@@ -1,0 +1,4 @@
+Stabilization Issues for Constraint Programming Based Column Generation
+Louis-Martin Rousseau;
+Abstract
+Constraint programming based column generation is a hybrid optimization framework recently proposed that uses constraint programming (CP) to solve column generation subproblems. In the past, this framework has been successfully used to solve both scheduling and routing problems. Unfortunately the stabilization problems well known with column generation can be significantly worse when CP, rather than Dynamic Programming (DP), is used at the subproblem level. Since DP can only be used to model subproblem with special structures, there has been strong motivation to develop efficient CP based column generation in the last five years. The aim of this short paper is to point out potential traps for these new methods and to propose very simple means of avoiding them.

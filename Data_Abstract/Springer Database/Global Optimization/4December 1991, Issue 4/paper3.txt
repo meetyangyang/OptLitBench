@@ -1,0 +1,6 @@
+On when to stop sampling for the maximum
+C. G. E. Boender;A. H. G. Rinnooy Kan;
+Abstract
+Suppose a sequential sample is taken from an unknown discrete probability distribution on an unknown range of integers, in an effort to sample its maximum. A crucial issue is an appropriate stopping rude determining when to terminate the sampling process. We approach this problem from a Bayesian perspective, and derive stopping rules that minimize loss functions which assign a loss to the sample size and to the deviation between the maximum in the sample and the true (unknown) maximum. We will show that our rules offer an extremely simple approximate solution to the well-known problem to terminate the Multistart method for continuous global optimization.
+Keywords
+Bayesian stopping rules  Multistart  

@@ -1,0 +1,6 @@
+Minimum penalty for constrained evolutionary optimization
+Xiaosheng Li;Guoshan Zhang;
+Abstract
+Penalty function methods are popular in dealing with the constrained optimization problems. How to choose reasonable penalty coefficients is a crucial problem which usually poses great influence on the quality of the final solution found. In this paper, the definition of the minimum penalty coefficient is proposed and the calculation formulas are established. Then a penalty coefficient value slightly larger than the minimum penalty coefficient is considered suitable. Furthermore, a Minimum Penalty algorithm (MP) is derived by combining the minimum penalty with a simple differential evolution. The presented method does not require parameter tuning. Experimental results on the 22 well-known benchmark test functions and 5 engineering design problems indicate that MP can achieve very competitive results compared with other state-of-the-art approaches. In addition, extra experiments are carried out to further verify the effectiveness of the proposed method for selecting proper penalty coefficients.
+Keywords
+Constrained optimization problem  Constraint handling technique  Differential evolution  Minimum penalty  

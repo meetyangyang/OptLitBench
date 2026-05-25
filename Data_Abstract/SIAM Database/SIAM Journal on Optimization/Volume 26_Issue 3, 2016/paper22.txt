@@ -1,0 +1,6 @@
+Relaxing Nonconvex Quadratic Functions by Multiple Adaptive Diagonal Perturbations
+Hongbo  Dong;
+Abstract
+The current bottleneck of globally solving mixed-integer (nonconvex) quadratically constrained programming problems (MIQCPs) is still to construct strong but computationally cheap convex relaxations, especially when dense quadratic functions are present. We propose a cutting-surface method based on multiple diagonal perturbations to derive convex quadratic relaxations for nonconvex quadratic problems with separable constraints. Our relaxations can also be realized as outer-approximations of a semi-infinite convex formulation of a semidefinite relaxation proposed by Buchheim and Wiegele. The corresponding separation problem is a highly structured semidefinite program (SDP) with a convex but nonsmooth objective function. We propose solving this separation problem with a specialized barrier coordinate minimization algorithm. Numerical experiments on randomly generated instances show that our approach is very promising. We also discuss how to apply our method to more general cases of MIQCPs.
+Keywords
+quadratic programming, convex relaxation, cutting-surface algorithm, 90C10, 90C20, 90C22, 90C25, 90C26, 90C30, 

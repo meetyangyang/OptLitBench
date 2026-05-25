@@ -1,0 +1,6 @@
+Multiple centrality corrections in a primal-dual method for linear programming
+Jacek Gondzio;
+Abstract
+A modification of the (infeasible) primal-dual interior point method is developed. The method uses multiple corrections to improve the centrality of the current iterate. The maximum number of corrections the algorithm is encouraged to make depends on the ratio of the efforts to solve and to factorize the KKT systems. For any LP problem, this ratio is determined right after preprocessing the KKT system and prior to the optimization process. The harder the factorization, the more advantageous the higher-order corrections might prove to be.
+Keywords
+centrality correctors  higher-order method  linear programming  interior point methods  

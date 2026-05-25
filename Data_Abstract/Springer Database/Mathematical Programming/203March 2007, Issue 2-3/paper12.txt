@@ -1,0 +1,6 @@
+Solving large-scale semidefinite programs in parallel
+Madhu V. Nayakkankuppam;
+Abstract
+We describe an approach to the parallel and distributed solution of large-scale, block structured semidefinite programs using the spectral bundle method. Various elements of this approach (such as data distribution, an implicitly restarted Lanczos method tailored to handle block diagonal structure, a mixed polyhedral-semidefinite subdifferential model, and other aspects related to parallelism) are combined in an implementation called LAMBDA, which delivers faster solution times than previously possible, and acceptable parallel scalability on sufficiently large problems.
+Keywords
+Semidefinite programming  Eigenvalue optimization  Subgradient bundle methods  Lanczos method  Parallel computing  90C22  90C06  65F15  65Y05  

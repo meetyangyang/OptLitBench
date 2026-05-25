@@ -1,0 +1,6 @@
+Finite Sample Behaviour of an Ergodically Fast Line-Search Algorithm
+L. Pronzato;H.P. Wynn;A.A. Zhigljavsky;
+Abstract
+In order to represent a line-search algorithm as a non-convergent dynamic system, we perform a renormalisation of the uncertainty interval at each iteration. Its ergodic behaviour can then be studied, and it happens that, for locally symmetric functions, the asymptotic performances of the algorithm suggested are far better than those of the well-known GoldenSection algorithm. A proper tuning of internal parameters is then performed to obtain good performances for a finite number of iterations. The case of a function symmetric with respect to its optimum is considered first. An algorithm is presented, that only uses function comparisons,with a significant reduction of the number of comparisons required to reach a given precision when compared to the Golden Section algorithm. The robustness of these performances with respectto non-symmetry of the function is then checked by numerical simulations.
+Keywords
+line-search  golden section  Fibonacci  dynamic system  ergodic behaviour  

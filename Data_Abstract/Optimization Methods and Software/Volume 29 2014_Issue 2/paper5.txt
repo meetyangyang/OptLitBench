@@ -1,0 +1,6 @@
+A relaxed fixed point method for a mean curvature-based denoising model
+Fenlin Yang;Ke Chen;Bo Yu;Donghui Fang;
+Abstract
+Mean curvature-based energy minimization denoising model by Zhu and Chan offers one approach for restoring both smooth (no edges) and non-smooth (with edges) images. The resulting fourth-order partial differential equations arising from minimization of this model is non-trivial to solve due to appearance of a high nonlinearity and stiffness term, because simple alternative methods such as the fixed point method and the primal dual method do not work. In this paper, we first present a relaxed fixed point method for solving such equations and further to combine with a homotopy algorithm to achieve fast convergence. Numerical experiments show that our method is able to maintain all important information in the image, and at the same time to filter out noise.
+Keywords
+image denoising, mean curvature model, relaxed fixed point method, homotopy method 

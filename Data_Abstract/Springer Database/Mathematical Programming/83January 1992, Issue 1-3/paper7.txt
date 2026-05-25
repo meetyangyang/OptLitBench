@@ -1,0 +1,6 @@
+Computing a global optimal solution to a design centering problem
+V. Hien Nguyen;Jean-Jacques Strodiot;
+Abstract
+In this paper we present a method for solving a special three-dimensional design centering problem arising in diamond manufacturing: Find inside a given (not necessarily convex) polyhedral rough stone the largest diamond of prescribed shape and orientation. This problem can be formulated as the one of finding a global maximum of a difference of two convex functions over ℝ3 and can be solved efficiently by using a global optimization algorithm provided that the objective function of the maximization problem can be easily evaluated. Here we prove that with the information available on the rough stone and on the reference diamond, evaluating the objective function at a pointx amounts to computing the distance, with respect to a Minkowski gauge, fromx to a finite number of planes. We propose a method for finding these planes and we report some numerical results.
+Keywords
+Diamond cutting  design centering problem  d.c. programming  nondifferentiable optimization  

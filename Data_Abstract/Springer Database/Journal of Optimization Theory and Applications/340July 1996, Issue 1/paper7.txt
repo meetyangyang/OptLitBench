@@ -1,0 +1,6 @@
+Path-following proximal approach for solving Ill-posed convex semi-infinite programming problems
+A. Kaplan;R. Tichatschke;
+Abstract
+For a class of ill-posed, convex semi-infinite programming problems, a regularized path-following strategy is developed. This approach consists in a coordinated application of adaptive discretization and prox-regularization procedures combined with a penalty method. At each iteration, only an approximate minimum of a strongly convex differentiable function has to be calculated, and this can be done by any fast-convergent algorithm. The use of prox-regularization ensures the convergence of the iterates to some solution of the original problem. Due to regularization, an efficient deleting rule is applicable, which excludes an essential part of the constraints in the discretized problems.
+Keywords
+Regularization  penalty methods  parametric semi-infinite problems  adaptive discretization  

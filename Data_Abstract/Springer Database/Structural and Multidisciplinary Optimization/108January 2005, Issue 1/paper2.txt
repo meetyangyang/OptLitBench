@@ -1,0 +1,6 @@
+ Polynomial genetic programming for response surface modeling Part 1: a methodology
+Y.S. Yeun;Y.S. Yang;W.S. Ruy;B.J. Kim;
+Abstract
+The second-order polynomial is commonly used for fitting a response surface but the low-order polynomial is not sufficient if the response surface is highly nonlinear. Based on genetic programming (GP), this paper presents a method with which high-order smooth polynomials, which can model nonlinear response surfaces, can be built. Since in many cases small samples are used to fit the response surface, it is inevitable that the high-order polynomial shows serious overfitting behaviors. Moreover, the high-order polynomial shows infamous wiggling, unwanted oscillations, and large peaks. To suppress such problematic behaviors, this paper introduces a novel method, called directional derivative-based smoothing (DDBS) that is very effective for smoothing a high-order polynomial.
+Keywords
+directional derivative-based smoothing  extended data-set method  genetic programming  high-order polynomial  interpolation  overfitting  response surface   

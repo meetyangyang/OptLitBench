@@ -1,0 +1,6 @@
+AAR-based decomposition algorithm for non-linear convex optimisation
+Nima Rabiei;Jose J. Muñoz;
+Abstract
+In this paper we present a method for decomposing a class of convex non-linear programmes which are frequently encountered in engineering plastic analysis. These problems have second-order conic memberships constraints and a single complicating variable in the objective function. The method is based on finding the distance between the feasible sets of the decomposed problems, and updating the global optimal value according to the value of this distance. The latter is found by exploiting the method of averaged alternating reflections, which is here adapted to the optimisation problem at hand. The method is specially suited for non-linear problems and as our numerical results show, its convergence is independent of the number of variables of each sub-domain. We have tested the method with an illustrative example and with problems that have more than 10,000 variables.
+Keywords
+Decomposition  Convex optimisation  Non-linear optimisation  Second-order cone program (SOCP)  Averaged alternating reflections (AAR)  

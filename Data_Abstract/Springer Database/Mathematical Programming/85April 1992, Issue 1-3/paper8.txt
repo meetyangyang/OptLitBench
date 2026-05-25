@@ -1,0 +1,6 @@
+Computing a Celis-Dennis-Tapia trust-region step for equality constrained optimization
+Yin Zhang;
+Abstract
+We study an approach for minimizing a convex quadratic function subject to two quadratic constraints. This problem stems from computing a trust-region step for an SQP algorithm proposed by Celis, Dennis and Tapia (1985) for equality constrained optimization. Our approach is to reformulate the problem into a univariate nonlinear equationφ(μ)=0 where the functionφ(μ) is continuous, at least piecewise differentiable and monotone. Well-established methods then can be readily applied. We also consider an extension of our approach to a class of non-convex quadratic functions and show that our approach is applicable to reduced Hessian SQP algorithms. Numerical results are presented indicating that our algorithm is reliable, robust and has the potential to be used as a building block to construct trust-region algorithms for small-sized problems in constrained optimization.
+Keywords
+Constrained optimization  trust-region algorithms  CDT problem  univariate nonlinear equation  Newton's method  

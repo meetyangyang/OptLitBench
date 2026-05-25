@@ -1,0 +1,6 @@
+Trade-off studies in blackbox optimization
+ Charles   Audet ; J.   E.   Dennis   Jr. ; Sébastien   Le Digabel ;
+Abstract
+ This paper proposes a framework for trade-off analyses of blackbox constrained optimization problems. Two strategies are developed to show the trade-off of the optimal objective function value with tightening or loosening general constraints. These are a simple method which may be performed immediately after a single optimization and a detailed method performing biobjective optimization on the minimization of the objective versus a constraint of interest. The detailed method provides points on the Pareto front, the trade-off curve, of the objective versus a chosen constraint. The simple method provides points near the trade-off curve, which may be all the designer needs. The trade-off information is generally used by engineers rather than the first-order sensitivity estimates provided by the Lagrange multipliers, which only provide the tangent to the Pareto front at the solution found. The proposed methods are tested on an academic test case and on an engineering problem using the mesh-adaptive direct search algorithm. 
+Keywords
+sensitivity analysis, trade-off studies, blackbox optimization, constrained optimization, bi-objective optimization, mesh-adaptive direct search algorithms (Mads) 

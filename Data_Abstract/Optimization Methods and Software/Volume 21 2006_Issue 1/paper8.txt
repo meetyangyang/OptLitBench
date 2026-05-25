@@ -1,0 +1,6 @@
+Second-order shape optimization using wavelet BEM
+ K.   Eppler ; H.   Harbrecht ;
+Abstract
+ This present paper is concerned with second-order methods for a class of shape optimization problems. We employ a complete boundary integral representation of the shape Hessian which involves first- and second-order derivatives of the state and the adjoint state function, as well as normal derivatives of its local shape derivatives. We introduce a boundary integral formulation to compute these quantities. The derived boundary integral equations are solved efficiently by a wavelet Galerkin scheme. A numerical example validates that, in spite of the higher effort of the Newton method compared to first-order algorithms, we obtain more accurate solutions in less computational time. 
+Keywords
+Shape optimization, Boundary element method, Multiscale methods, Augmented Lagrangian approach, Newton method 

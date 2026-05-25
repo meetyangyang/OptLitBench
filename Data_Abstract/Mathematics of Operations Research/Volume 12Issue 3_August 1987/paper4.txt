@@ -1,0 +1,6 @@
+The Complexity of Markov Decision Processes
+Christos H. Papadimitriou;John N. Tsitsiklis;
+Abstract
+We investigate the complexity of the classical problem of optimal policy computation in Markov decision processes. All three variants of the problem (finite horizon, infinite horizon discounted, and infinite horizon average cost) were known to be solvable in polynomial time by dynamic programming (finite horizon problems), linear programming, or successive approximation techniques (infinite horizon). We show that they are complete for P, and therefore most likely cannot be solved by highly parallel algorithms. We also show that, in contrast, the deterministic cases of all three problems can be solved very fast in parallel. The version with partially observed states is shown to be PSPACE-complete, and thus even less likely to be solved in polynomial time than the NP-complete problems; in fact, we show that, most likely, it is not possible to have an efficient on-line implementation (involving polynomial time on-line computations and memory) of an optimal policy, even if an arbitrary amount of precomputation is allowed. Finally, the variant of the problem in which there are no observations is shown to be NP-complete.
+Keywords
+Markov decision processes dynamic programming computational complexity parallel computation 

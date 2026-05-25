@@ -1,0 +1,6 @@
+A simple checkerboard suppression algorithm for evolutionary structural optimization
+Q. Li;G.P. Steven;Y.M. Xie;
+Abstract
+Checkerboard patterns are quite common in various fixed grid finite element based structural optimization methods. In the evolutionary structural optimization procedure, such checkerboard patterns have been observed under various design criteria. The presence of checkerboard patterns makes the interpretation of optimal material distribution and subsequent geometric extraction for manufacturing difficult. To prevent checkerboarding, an effective smoothing algorithm in terms of the surrounding element’s reference factors is proposed in this paper. The approach does not alter the mesh of the finite element model, nor increase the degree of freedom of the structural system, therefore, it does not affect the computational efficiency. To demonstrate the capabilities of this algorithm, a wide range of illustrative examples are presented in this paper.
+Keywords
+Key words: finite element analysis, structural optimization, checkerboard patterns, multiple criteria  

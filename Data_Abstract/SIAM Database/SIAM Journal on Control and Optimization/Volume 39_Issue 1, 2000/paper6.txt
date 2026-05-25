@@ -1,0 +1,6 @@
+Adaptive Finite Element Methods for Optimal Control of Partial Differential Equations: Basic Concept
+Roland  Becker, Hartmut  Kapp, and Rolf  Rannacher;
+Abstract
+A new approach to error control and mesh adaptivity is described for the discretization of optimal control problems governed by elliptic partial differential equations. The Lagrangian formalism yields the first-order necessary optimality condition in form of an indefinite boundary value problem which is approximated by an adaptive Galerkin finite element method. The mesh design in the resulting reduced models is controlled by residual-based a posteriori error estimates. These are derived by duality arguments employing the cost functional of the optimization problem for controlling the discretization error. In this case, the computed state and costate variables can be used as sensitivity factors multiplying the local cell-residuals in the error estimators. This results in a generic and simple algorithm for mesh adaptation within the optimization process. This method is developed and tested for simple boundary control problems in semiconductor models.
+Keywords
+optimal control problem, finite elements, a posteriori error estimates, mesh adaptation, model reduction, 65K10, 65N30, 49K20, 

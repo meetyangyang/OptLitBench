@@ -1,0 +1,6 @@
+A Globally Convergent Augmented Lagrangian Pattern Search 	Algorithm for Optimization with General Constraints and 	Simple Bounds
+Robert Michael  Lewis and Virginia  Torczon;
+Abstract
+We give a pattern search method for nonlinearly constrained optimization that is an adaption of a bound constrained augmented Lagrangian method first proposed by Conn, Gould, and Toint [SIAM J. Numer. Anal., 28 (1991), pp. 545--572]. In the pattern search adaptation, we solve the bound constrained subproblem approximately using a pattern search method. The stopping criterion proposed by Conn, Gould, and Toint for the solution of the subproblem requires explicit knowledge of derivatives. Such information is presumed absent in pattern search methods; however, we show how we can replace this with a stopping criterion based on the pattern size in a way that preserves the convergence properties of the original algorithm. In this way we proceed by successive, inexact, bound constrained minimization without knowing exactly how inexact the minimization is. As far as we know, this is the first provably convergent direct search method for general nonlinear programming.
+Keywords
+augmented Lagrangian, constrained optimization, direct search, nonlinear programming, pattern search, 65K05, 90C30, 90C56, 

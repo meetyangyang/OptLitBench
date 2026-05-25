@@ -1,0 +1,6 @@
+A surrogate management framework using rigorous trust-region steps
+S. Gratton;L. N. Vicente;
+Abstract
+Surrogate models are frequently used in the optimization engineering community as convenient approaches to deal with functions for which evaluations are expensive or noisy, or lack convexity. These methodologies do not typically guarantee any type of convergence under reasonable assumptions. In this article, we will show how to incorporate the use of surrogate models, heuristics, or any other process of attempting a function value decrease in trust-region algorithms for unconstrained derivative-free optimization, in a way that global convergence of the latter algorithms to stationary points is retained. Our approach follows the lines of search/poll direct-search methods and corresponding surrogate management frameworks, both in algorithmic design and in the form of organizing the convergence theory.
+Keywords
+surrogate modelling, trust-region methods, search step, global convergence 

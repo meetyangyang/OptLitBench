@@ -1,0 +1,4 @@
+Solution Enumeration for Projected Boolean Search Problems
+Martin Gebser;Benjamin Kaufmann;Torsten Schaub;
+Abstract
+Many real-world problems require the enumeration of all solutions of combinatorial search problems, even though this is often infeasible in practice. However, not always all parts of a solution are needed. We are thus interested in projecting solutions to a restricted vocabulary. Yet, the adaption of Boolean constraint solving algorithms turns out to be non-obvious provided one wants a repetition-free enumeration in polynomial space. We address this problem and propose a new algorithm computing projective solutions. Although we have implemented our approach in the context of Answer Set Programming, it is readily applicable to any solver based on modern Boolean constraint technology.

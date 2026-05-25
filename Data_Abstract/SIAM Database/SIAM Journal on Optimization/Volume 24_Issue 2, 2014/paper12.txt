@@ -1,0 +1,6 @@
+A Study on the Computational Complexity of the Bilevel Knapsack Problem
+Alberto  Caprara, Margarida  Carvalho, Andrea  Lodi, and Gerhard J.  Woeginger;
+Abstract
+We analyze the computational complexity of three fundamental variants of the bilevel knapsack problem. All three variants are shown to be complete for the second level of the polynomial hierarchy. We also discuss the somewhat easier situation where the weight and profit coefficients in the knapsack problem are encoded in unary: two of the considered bilevel variants become solvable in polynomial time, whereas the third becomes NP-complete. Furthermore, we design a polynomial time approximation scheme for this third variant, whereas the other two variants cannot be approximated in polynomial time within any constant factor (assuming P\;$\ne$\;NP).
+Keywords
+bilevel programming, knapsack problem, computational complexity, polynomial hierarchy, approximability, approximation scheme, 90C27, 90C59, 90C60, 

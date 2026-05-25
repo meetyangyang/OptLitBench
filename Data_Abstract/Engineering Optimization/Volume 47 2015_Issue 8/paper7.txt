@@ -1,0 +1,6 @@
+A single-loop optimization method for reliability analysis with second order uncertainty
+Shaojun Xie;Baisong Pan;Xiaoping Du;
+Abstract
+Reliability analysis may involve random variables and interval variables. In addition, some of the random variables may have interval distribution parameters owing to limited information. This kind of uncertainty is called second order uncertainty. This article develops an efficient reliability method for problems involving the three aforementioned types of uncertain input variables. The analysis produces the maximum and minimum reliability and is computationally demanding because two loops are needed: a reliability analysis loop with respect to random variables and an interval analysis loop for extreme responses with respect to interval variables. The first order reliability method and nonlinear optimization are used for the two loops, respectively. For computational efficiency, the two loops are combined into a single loop by treating the Karush–Kuhn–Tucker (KKT) optimal conditions of the interval analysis as constraints. Three examples are presented to demonstrate the proposed method.
+Keywords
+reliability analysis, second order uncertainty, optimization, KKT conditions 

@@ -1,0 +1,6 @@
+Efficient Algorithms for Separated Continuous Linear Programs: The Multicommodity Flow Problem with Holding Costs and Extensions
+Lisa Fleischer;Jay Sethuraman;
+Abstract
+We give an approximation scheme for separated continuous linear programming problems. Such problems arise as fluid relaxations of multiclass queueing networks and are used to find approximate solutions to complex job shop scheduling problems. In a network with linear flow costs and linear, per-unit-time holding costs, our algorithm finds a drainage of the network that, for given constants ε > 0 and δ > 0, has total cost (1 + ε)OPT + δ, where OPT is the cost of the minimum cost drainage. The complexity of our algorithm is polynomial in the size of the input network, 1/ε, and log(1/δ). The fluid relaxation is a continuous problem. While the problem is known to have a piecewise constant solution, it is not known to have a polynomially sized solution. We introduce a natural discretization of polynomial size and prove that this discretization produces a solution with low cost. This is the first polynomial time algorithm with a provable approximation guarantee for fluid relaxations.
+Keywords
+continuous linear programs multicommodity flow multiclass queueing networks optimal control approximation scheme 

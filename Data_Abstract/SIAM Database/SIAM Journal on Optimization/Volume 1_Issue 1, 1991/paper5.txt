@@ -1,0 +1,6 @@
+Local and Superlinear Convergence for Partially Known Quasi-Newton Methods
+John R.  Engels and Héctor J.  Martínez;
+Abstract
+This paper develops a unified theory for establishing the local and q-superlinear convergence of quasi-Newton methods from the convex class when part of the Hessian matrix is known. One first proves the bounded deterioration principle due to Dennis (and popularized by Broyden, Dennis, and Moré) for the appropriate modifications of all update formulas in the convex Broyden class. Using standard conditions on the quasi-Newton updates, one then deduces local and q-superlinear convergence. Particular cases of these methods are the SQP augmented scale BFGS and DFP secant methods for constrained optimization problems introduced by Tapia and a generalization of the Al-Baali and Fletcher modification of the structured secant method considered by Dennis, Gay, and Welsch for the nonlinear least-squares problem. In all cases, bounded deterioration is proved for the approximate Hessian, not for its inverse.
+Keywords
+convergence theory, bounded deterioration, superlinear convergence, unconstrained optimization, constrained optimization, least squares, secant methods, quasi-Newton methods, 65K05, 90C30, 

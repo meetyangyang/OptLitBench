@@ -1,0 +1,6 @@
+Successive Linearization Methods for Nonlinear Semidefinite Programs
+Christian Kanzow;Christian Nagel;Hirokazu Kato;Masao Fukushima;
+Abstract
+We present a successive linearization method with a trust region-type globalization for the solution of nonlinear semidefinite programs. At each iteration, the method solves a quadratic semidefinite program, which can be converted to a linear semidefinite program with a second order cone constraint. A subproblem of this kind can be solved quite efficiently by using some recent software for semidefinite and second-order cone programs. The method is shown to be globally convergent under certain assumptions. Numerical results on some nonlinear semidefinite programs including optimization problems with bilinear matrix inequalities are reported to illustrate the behaviour of the proposed method.
+Keywords
+nonlinear semidefinite programs  successive linearization method  global convergence  

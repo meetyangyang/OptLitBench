@@ -1,0 +1,4 @@
+An Alternative Preference Relation to Deal with Many-Objective Optimization Problems
+Antonio L’opez;Carlos A. Coello Coello;Akira Oyama;Kozo Fujii;
+Abstract
+In this paper, we use an alternative preference relation that couples an achievement function and the ε-indicator in order to improve the scalability of a Multi-Objective Evolutionary Algorithm (moea) in many-objective optimization problems. The resulting algorithm was assessed using the Deb-Thiele-Laumanns-Zitzler (dtlz) and the Walking- Fish-Group (wfg) test suites. Our experimental results indicate that our proposed approach has a good performance even when using a high number of objectives. Regarding the dtlz test problems, their main difficulty was found to lie on the presence of dominance resistant solutions. In contrast, the hardness of wfg problems was not found to be significantly increased by adding more objectives.

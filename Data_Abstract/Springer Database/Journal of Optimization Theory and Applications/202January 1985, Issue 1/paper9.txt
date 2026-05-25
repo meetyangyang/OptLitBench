@@ -1,0 +1,6 @@
+Dual simplex method for GUB problems
+J. Matsumoto;L. W. Mays;
+Abstract
+The dual simplex method for generalized upper bound (GUB) problems is presented. One of the major operations in the dual simplex method is to update the elements of therth row, wherer is the index for the leaving basic variable. Those updated elements are used for the ratio test to determine the entering basic variabble. A very simple formula for therth row update for the dual simplex method for a GUB problem is derived, which is similar to the formula for the standard linear program. This derivation is based on the change key operation, which is to exchange the key column and its counterpart in the nonkey section. The change key operation is possible because of a theorem that guarantees the existence of such a counterpart.
+Keywords
+Generalized upper bounds  dual simplex method  algorithms  

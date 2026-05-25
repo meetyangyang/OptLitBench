@@ -1,0 +1,6 @@
+Local Convergence of SQP Methods in Semi-Infinite Programming
+G.  Gramlich, R.  Hettich, and E. W.  Sachs;
+Abstract
+In this paper we begin with pointing out how a semi-infinite programming problem can be reduced locally to a problem of finite dimensional programming. Such a reduction has the advantage that efficient numerical methods like sequential quadratic programming (SQP) methods can be applied. However, the reduced problem involves constraint functions that are defined only implicitly. Values of these functions and their derivatives must be computed iteratively with controllable errors. We interpret them as perturbations of the correct constraints and apply an SQP method with a Broyden–Fletcher–Goldfarb–Shanno (BFGS) update. Extending the convergence analysis by Fontecilla, Steihaug, and Tapia for these methods to include perturbations of the constraints and their derivatives, we are able to show q-superlinear convergence and at the same time to indicate at which rate the error in the calculation of the constraints must be reduced as the iteration progresses.
+Keywords
+semi-infinite programming, SQP methods, superlinear convergence, 65K05, 49D39, 49D15, 

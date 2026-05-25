@@ -1,0 +1,6 @@
+A non-interior continuation method for second-order cone programming
+ Xiaoni   Chi ; Sanyang   Liu ;
+Abstract
+ We extend the smoothing function proposed by Huang, Han and Chen [Journal of Optimization Theory and Applications, 117 (2003), pp. 39–68] for the non-linear complementarity problems to the second-order cone programming (SOCP). Based on this smoothing function, a non-interior continuation method is presented for solving the SOCP. The proposed algorithm solves only one linear system of equations and performs only one line search at each iteration. It is shown that our algorithm is globally and locally superlinearly convergent in absence of strict complementarity at the optimal solution. Numerical results indicate the effectiveness of the algorithm. 
+Keywords
+second-order cone programming, non-interior continuation method, global convergence, local superlinear convergenceMathematics Subject Classifications 2000: 90C25, 90C30, 65K05 

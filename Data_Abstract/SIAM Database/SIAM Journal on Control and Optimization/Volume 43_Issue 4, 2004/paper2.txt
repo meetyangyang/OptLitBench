@@ -1,0 +1,6 @@
+Efficient Hedging When Asset Prices Follow A Geometric Poisson Process With Unknown Intensities
+Michael  Kirch and Wolfgang J.  Runggaldier;
+Abstract
+We consider the problem of determining a strategy that is efficient in the sense that it minimizes the expectation of a convex loss function of the hedging error for the case when prices change at discrete random points in time according to a geometric Poisson process. The intensities of the jump process need not be fully known by the investor. The solution algorithm is based on dynamic programming for piecewise deterministic control problems, and its implementation is discussed as well.
+Keywords
+geometric Poisson process, piecewise deterministic control problems, incomplete information, incomplete markets, efficient hedging, Bayesian approach, 91B28, 93E20, 91B70, 90C39, 60G55, 

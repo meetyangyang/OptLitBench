@@ -1,0 +1,6 @@
+Approximation algorithms for the robust facility leasing problem
+Lu Han;Dachuan Xu;Min Li;Dongmei Zhang;
+Abstract
+In this paper, we consider the robust facility leasing problem (RFLE), which is a variant of the well-known facility leasing problem. In this problem, we are given a facility location set, a client location set of cardinality n, time periods \(\{1, 2, \ldots , T\}\) and a nonnegative integer \(q < n\). At each time period t, a subset of clients \(D_{t}\) arrives. There are K lease types for all facilities. Leasing a facility i of a type k at any time period s incurs a leasing cost \(f_i^{k}\) such that facility i is opened at time period s with a lease length \(l_k\). Each client in \(D_t\) can only be assigned to a facility whose open interval contains t. Assigning a client j to a facility i incurs a serving cost \(c_{ij}\). We want to lease some facilities to serve at least \(n-q\) clients such that the total cost including leasing and serving cost is minimized. Using the standard primal–dual technique, we present a 6-approximation algorithm for the RFLE. We further offer a refined 3-approximation algorithm by modifying the phase of constructing an integer primal feasible solution with a careful recognition on the leasing facilities.
+Keywords
+Facility leasing problem  Robust  Approximation algorithm  Primal–dual  

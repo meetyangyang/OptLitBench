@@ -1,0 +1,6 @@
+Minimal Ellipsoid Circumscribing a Polytope Defined by a System of Linear Inequalities
+Jun-Ya Gotoh;Hiroshi Konno;
+Abstract
+In this paper, we will propose algorithms for calculating a minimal ellipsoid circumscribing a polytope defined by a system of linear inequalities. If we know all vertices of the polytope and its cardinality is not very large, we can solve the problem in an efficient manner by a number of existent algorithms. However, when the polytope is defined by linear inequalities, these algorithms may not work since the cardinality of vertices may be huge. Based on a fact that vertices determining an ellipsoid are only a fraction of these vertices, we propose algorithms which iteratively calculate an ellipsoid which covers a subset of vertices. Numerical experiment shows that these algorithms perform well for polytopes of dimension up to seven.
+Keywords
+Computational geometry  Global optimization  Minimal ellipsoid  

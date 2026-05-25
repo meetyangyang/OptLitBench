@@ -1,0 +1,6 @@
+Global Convergence of General Derivative-Free Trust-Region Algorithms to First- and Second-Order Critical Points
+Andrew R.  Conn, Katya  Scheinberg, and Luís N.  Vicente;
+Abstract
+In this paper we prove global convergence for first- and second-order stationary points of a class of derivative-free trust-region methods for unconstrained optimization. These methods are based on the sequential minimization of quadratic (or linear) models built from evaluating the objective function at sample sets. The derivative-free models are required to satisfy Taylor-type bounds, but, apart from that, the analysis is independent of the sampling techniques. A number of new issues are addressed, including global convergence when acceptance of iterates is based on simple decrease of the objective function, trust-region radius maintenance at the criticality step, and global convergence for second-order critical points.
+Keywords
+trust-region methods, derivative-free optimization, nonlinear optimization, global convergence, 65D05, 90C30, 90C56, 

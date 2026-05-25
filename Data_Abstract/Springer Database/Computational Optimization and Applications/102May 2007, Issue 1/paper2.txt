@@ -1,0 +1,8 @@
+Integer knapsack problems with set-up weights
+Laura A. McLay;Sheldon H. Jacobson;
+Abstract
+
+The Integer Knapsack Problem with Set-up Weights (IKPSW) is a generalization of the classical Integer Knapsack Problem (IKP), where each item type has a set-up weight that is added to the knapsack if any copies of the item type are in the knapsack solution. The k-item IKPSW (kIKPSW) is also considered, where a cardinality constraint imposes a value k on the total number of items in the knapsack solution. IKPSW and kIKPSW have applications in the area of aviation security. This paper provides dynamic programming algorithms for each problem that produce optimal solutions in pseudo-polynomial time. Moreover, four heuristics are presented that provide approximate solutions to IKPSW and kIKPSW. For each problem, a Greedy heuristic is presented that produces solutions within a factor of 1/2 of the optimal solution value, and a fully polynomial time approximation scheme (FPTAS) is presented that produces solutions within a factor of ε of the optimal solution value. The FPTAS for IKPSW has time and space requirements of O(nlog n+n/ε 2+1/ε 3) and O(1/ε 2), respectively, and the FPTAS for kIKPSW has time and space requirements of O(kn 2/ε 3) and O(k/ε 2), respectively.
+
+Keywords
+Knapsack problem  Heuristics  Fully polynomial-time approximation schemes  

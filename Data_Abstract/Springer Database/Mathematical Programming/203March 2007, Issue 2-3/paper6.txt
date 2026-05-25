@@ -1,0 +1,9 @@
+Dual extrapolation and its applications to solving variational inequalities and related problems
+Yurii Nesterov;
+Abstract
+In this paper we suggest new dual methods for solving variational inequalities with monotone operators. We show that with an appropriate step-size strategy, our method is optimal both for Lipschitz continuous operators (
+\(O({1 \over \epsilon})\) iterations), and for the operators with bounded variations (
+\(O({1 \over \epsilon^2})\) iterations). Our technique can be applied for solving non-smooth convex minimization problems with known structure. In this case the worst-case complexity bound is
+\(O({1 \over \epsilon})\) iterations.
+Keywords
+Convex optimization  Non-smooth optimization  Variational inequalities  Monotone operators  Optimal methods  Complexity theory  S90C25  90C47  68Q25  

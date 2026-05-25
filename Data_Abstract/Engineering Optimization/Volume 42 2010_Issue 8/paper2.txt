@@ -1,0 +1,6 @@
+A weight-based multiobjective immune algorithm: WBMOIA
+ Jiaquan   Gao ; Lei   Fang ; Jun   Wang ;
+Abstract
+ A novel immune algorithm is suggested for finding Pareto-optimal solutions to multiobjective optimization problems based on opt-aiNET, the artificial immune system algorithm for multi-modal optimization. In the proposed algorithm, a randomly weighted sum of multiple objectives is used as a fitness function, and a local search algorithm is incorporated to facilitate the exploitation of the search space. Specifically, a new truncation algorithm with similar individuals (TASI) is proposed to preserve the diversity of the population. Also, a new selection operator is presented to create the new population based on TASI. Simulation results on seven standard problems (ZDT2, ZDT6, DEB, VNT, BNH, OSY and KIT) show that the proposed algorithm is able to find a much better spread of solutions and better convergence near the true Pareto-optimal front compared to the vector immune algorithm and the elitist non-dominated sorting genetic system. 
+Keywords
+immune algorithm, multiobjective optimization, similar individuals, evolutionary algorithm 

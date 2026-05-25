@@ -1,0 +1,8 @@
+Nonmonotone projected gradient methods based on barrier and Euclidean distances
+Alfred Auslender;Paulo J. S. Silva;Marc Teboulle;
+Abstract
+
+We consider nonmonotone projected gradient methods based on non-Euclidean distances, which play the role of barrier for a given constraint set. Our basic scheme uses the resulting projection-like maps that produces interior trajectories, and combines it with the recent nonmonotone line search technique originally proposed for unconstrained problems by Zhang and Hager. The combination of these two ideas leads to produce a nonmonotone scheme for constrained nonconvex problems, which is proven to converge to a stationary point. Some variants of this algorithm that incorporate spectral steplength are also studied and compared with classical nonmonotone schemes based on the usual Euclidean projection. To validate our approach, we report on numerical results solving bound constrained problems from the CUTEr library collection.
+
+Keywords
+Convex and nonconvex optimization  Projected gradient algorithms  Nonmonotone methods  Spectral stepsizes  Barrier proximal distances  Convergence analysis  

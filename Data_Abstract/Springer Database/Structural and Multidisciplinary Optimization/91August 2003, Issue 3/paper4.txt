@@ -1,0 +1,6 @@
+Stable relaxations of stochastic stress-constrained weight minimization problems
+A. Evgrafov;M. Patriksson;
+Abstract
+The problem of finding a truss of minimal weight subject to stress constraints and stochastic loading conditions is considered. We demonstrate that this problem is ill-posed by showing that the optimal solutions change discontinuously as small changes in the modelling of uncertainty are introduced. We propose a relaxation of this problem that is stable with respect to such errors. We establish a classic ε-perturbation result for the relaxed problem, and propose a solution scheme based on discretizations of the probability measure. Using Chebyshev’s inequality we give an a priori estimation of the probability of stress constraint violations in terms of the relaxation parameter. The convergence of the relaxed optimal designs towards the original (non-relaxed) optimal designs, as the relaxation parameter decreases to zero, is established. 
+Keywords
+stochastic programming  robust optimization  ε-perturbation  stress constraints  discretization   

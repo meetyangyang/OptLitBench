@@ -1,0 +1,6 @@
+On a facility location problem with applications to tele-diagnostic
+N. Apollonio;M. Caramia;G. F. Italiano;
+Abstract
+Consider an undirected graph G modelling a network. Each vertex in the graph contains some physical devices, which can be monitored and possibly repaired from a remote site in case they become faulty. We assume that there can be two kinds of faults in the system: soft faults, which can be repaired remotely from another site (i.e., a monitor), and severe faults which cannot be repaired remotely and require further (possibly human) interventions. We assume that soft faults happen with some fixed probability λ, 0 < λ ≤ 1. We investigate the problem of locating monitors in the network so as to minimize the total expected communication cost per fault. We formalize such a problem as a location problem with a cost function depending on λ and study some properties of the optimal solutions. The latter are exploited for investigating the complexity of the problem and providing efficient approximation algorithms.
+Keywords
+Algorithm complexity  Graph algorithms  Location problems  

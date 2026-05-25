@@ -1,0 +1,6 @@
+Optimal damping of a membrane and topological shape optimization
+Toni Lassila;
+Abstract
+We consider a shape optimization problem of finding the optimal damping set of a two-dimensional membrane such that the energy of the membrane is minimized at some fixed end time. Traditional shape optimization is based on sensitivities of the cost functional with respect to small boundary variations of the shapes. We use an iterative shape optimization scheme based on level set methods and the gradient descent algorithm to solve the problem and present numerical results. The methods presented allow for certain topological changes in the optimized shapes. These changes can be realized in the presence of a force term in the level set equation. It is also observed that the gradient descent algorithm on the manifold of shapes does not require an exact line search to converge and that it is sufficient to perform heuristic line searches that do not evaluate the cost functional being minimized.
+Keywords
+Shape optimization  Level set methods  Wave equation  Optimal damping  Membrane  

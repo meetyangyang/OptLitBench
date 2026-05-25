@@ -1,0 +1,6 @@
+Aircraft technology portfolio optimization using ant colony optimization
+ Frederic   J.   Villeneuve ; Dimitri   N.   Mavris ;
+Abstract
+ Technology portfolio selection is a combinatorial optimization problem often faced with a large number of combinations and technology incompatibilities. The main research question addressed in this article is to determine if Ant Colony Optimization (ACO) is better suited than Genetic Algorithms (GAs) and Simulated Annealing (SA) for technology portfolio optimization when incompatibility constraints between technologies are present. Convergence rate, capability to find optima, and efficiency in handling of incompatibilities are the three criteria of comparison. The application problem consists of finding the best technology portfolio from 29 aircraft technologies. The results show that ACO and GAs converge faster and find optima more easily than SA, and that ACO can optimize portfolios with technology incompatibilities without using penalty functions. This latter finding paves the way for more use of ACO when the number of constraints increases, such as in the technology and concept selection for complex engineering systems. 
+Keywords
+technology portfolio optimization, ant colony optimization, genetic algorithm, simulated annealing, stochastic optimization 

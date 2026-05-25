@@ -1,0 +1,6 @@
+Adaptive \(l_1\)-regularization for short-selling control in portfolio selection
+Stefania Corsaro;Valentina De Simone;
+Abstract
+We consider the \(l_1\)-regularized Markowitz model, where a \(l_1\)-penalty term is added to the objective function of the classical mean-variance one to stabilize the solution process, promoting sparsity in the solution. The \(l_1\)-penalty term can also be interpreted in terms of short sales, on which several financial markets have posed restrictions. The choice of the regularization parameter plays a key role to obtain optimal portfolios that meet the financial requirements. We propose an updating rule for the regularization parameter in Bregman iteration to control both the sparsity and the number of short positions. We show that the modified scheme preserves the properties of the original one. Numerical tests are reported, which show the effectiveness of the approach.
+Keywords
+Portfolio selection  \(l_1\)-Regularization  Nonsmooth optimization  Bregman iteration  

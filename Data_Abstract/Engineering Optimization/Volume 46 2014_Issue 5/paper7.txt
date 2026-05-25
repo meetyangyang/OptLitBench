@@ -1,0 +1,6 @@
+A mixed integer linear programming solution for single hoist multi-degree cyclic scheduling with reentrance
+Xin Li;Richard Y. K. Fung;
+Abstract
+This article considers single hoist multi-degree cyclic scheduling problems with reentrance. Time window constraints are also considered. Firstly, a mixed integer programming model is formulated for multi-degree cyclic hoist scheduling without reentrance, referred to as basic lines in this article. Two valid inequalities corresponding to this problem are also presented. Based on the model for basic lines, an extended mixed integer programming model is proposed for more complicated scheduling problems with reentrance. Phillips and Unger's benchmark instance and randomly generated instances are applied to test the model without reentrance, solved using the commercial software CPLEX. The efficiency of the model is analysed based on computational time. Moreover, an example is given to demonstrate the effectiveness of the model with reentrance.
+Keywords
+hoist scheduling problems, mixed integer linear programming, multi-degree cycle, reentrance, robotic cells 

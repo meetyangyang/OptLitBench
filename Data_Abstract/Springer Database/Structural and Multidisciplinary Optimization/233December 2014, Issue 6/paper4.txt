@@ -1,0 +1,6 @@
+Linear programming approach to design of spatial link mechanism with partially rigid joints
+Makoto Ohsaki;Yoshihiro Kanno;Seita Tsuda;
+Abstract
+A simple systematic approach is presented for designing a spatial link mechanism with partially rigid joints. A linear programming (LP) problem to find an infinitesimal mechanism that maximizes the output displacement is first formulated. The objective function of this LP problem has a penalty term to obtain a sparse solution including small numbers of hinges and members to be removed. It is shown that the dual of this LP problem can be regarded as a plastic limit analysis problem that maximizes the load factor under the equilibrium condition and upper- and lower-bound constraints on the member-end forces of a given frame structure. A heuristic approach is presented to obtain a finite mechanism by solving the LP problem after updating the nodal locations in the direction of inextensional deformation. It is shown in the numerical examples that various planar and spatial mechanisms can be easily found using the proposed method.
+Keywords
+Link mechanism  Partially rigid joint  Plastic limit analysis  Linear programming  

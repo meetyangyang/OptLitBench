@@ -1,0 +1,6 @@
+An exact constructive algorithm for the knapsack sharing problem
+Hedi Mhalla;
+Abstract
+In this paper, we study the knapsack sharing problem (KSP), a variant of the well-known NP-hard single knapsack problem. We propose an exact constructive tree search that combines two complementary procedures: a reduction interval search and a branch and bound. The reduction search has three phases. The first phase applies a polynomial reduction strategy that decomposes the problem into a series of knapsack problems. The second phase is a size reduction strategy that makes the resolution more efficient. The third phase is an interval reduction search that identifies a set of optimal capacities characterizing the knapsack problems. Experimental results provide computational evidence of the better performance of the proposed exact algorithm in comparison to KSPs best exact algorithm, to Cplex and to KSPs latest heuristic approach. Furthermore, they emphasize the importance of the reduction strategies.
+Keywords
+Branch and bound, combinatorial optimization, knapsack sharing, heuristics, interval reduction, optimization 

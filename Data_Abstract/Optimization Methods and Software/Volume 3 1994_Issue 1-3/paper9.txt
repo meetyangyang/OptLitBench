@@ -1,0 +1,6 @@
+A parallel tensor algorithm for nonlinear optimization
+   D.   Conforti ;   L.   Grandinetti ;   R.   Musmanno ;
+Abstract
+ A new iterative algorithm for solving unconstrained optimization problems is introduced. It is based on the construction, at each iteration, of a curvilinear path to be searched for a local solution. Since the curvilinear path is denned by using a tensor of third order partial derivatives of the objective function, efficient and reliable implementations can benefit of powerful computational tools like parallel computing and automatic differentiation. Computational experiments were carried out with the aim to compare the proposed algorithm with well known Newton type algorithms. It turns out that the proposed algorithm is very efficient especially in the case of badly scaled and ill-conditioned problems. 
+Keywords
+unconstrained optimization, nonlinear optimization, curvilinear path, tensor algorithm, parallel computing, automatic differentiation 

@@ -1,0 +1,6 @@
+A Polynomial-Time Predictor-Corrector Algorithm for a Class of Linear Complementarity Problems
+Jiu  Ding and Tien-Yien  Li;
+Abstract
+A polynomial-time algorithm for a class of linear complementarity problems with positive semidefinite matrices is presented. The method is based on a one-step Euler’s prediction and one-step Newton’s correction procedure to follow the homotopy path defined as the set $\{ (x,y) \in \mathbb{R}_ + ^n :x_i y_i  = \mu ,i = 1, \cdots ,n,\mu  > 0,y = Mx + q\} $, and solves the problem in $O(n^{3.5} L)$ arithmetic operations. Moreover, after one iteration the value $x^T y$ decreases with the ratio at least $(1 - (2/5\sqrt{n} ))$.
+Keywords
+linear complementarity problem, polynomial-time algorithm, predictor-corrector method, 90, 49, 

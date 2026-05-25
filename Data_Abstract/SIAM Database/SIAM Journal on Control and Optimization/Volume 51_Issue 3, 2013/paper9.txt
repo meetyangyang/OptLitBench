@@ -1,0 +1,6 @@
+Local Exponential $H^2$ Stabilization of a $2\times2$ Quasilinear Hyperbolic System Using Backstepping
+Jean-Michel  Coron, Rafael  Vazquez, Miroslav  Krstic, and Georges  Bastin;
+Abstract
+In this work, we consider the problem of boundary stabilization for a quasilinear $2\times2$ system of first-order hyperbolic PDEs. We design a new full-state feedback control law, with actuation on only one end of the domain,  which achieves $H^2$ exponential stability of the closed-loop system. Our proof uses a backstepping transformation to find new variables for which a strict Lyapunov function can be constructed. The kernels of the transformation are found to verify a Goursat-type $4\times4$ system of first-order hyperbolic PDEs, whose well-posedness is shown using the method of characteristics and successive approximations. Once the kernels are computed, the stabilizing feedback law can be explicitly constructed from them.
+Keywords
+nonlinear hyperbolic systems, boundary conditions, stability, Lyapunov function, backstepping, method of characteristics, integral equation, Goursat problem, 35F30, 35F25, 93D20, 93D30, 

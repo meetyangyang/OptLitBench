@@ -1,0 +1,6 @@
+Accelerated Methods for NonConvex Optimization
+Yair  Carmon, John C.  Duchi, Oliver  Hinder, and Aaron  Sidford;
+Abstract
+We present an accelerated gradient method for nonconvex optimization problems with Lipschitz continuous first and second derivatives. In a time $O(\epsilon^{-7/4} \log(1/ \epsilon) )$, the method finds an $\epsilon$-stationary point, meaning a point $x$ such that $\|\nabla f(x)\| \le \epsilon$. The method improves upon the $O(\epsilon^{-2} )$ complexity of gradient descent and provides the additional second-order guarantee that $\lambda_{\min}(\nabla^2 f(x)) \gtrsim -\epsilon^{1/2}$ for the computed $x$. Furthermore, our method is Hessian free, i.e., it only requires gradient computations, and is therefore suitable for large-scale applications.
+Keywords
+nonlinear optimization, accelerated gradient descent, negative curvature, semiconvexity, second-order stationarity, convergence rate, Lanczos method, 95K05, 90C06, 90C26, 90C30, 

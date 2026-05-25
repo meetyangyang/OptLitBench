@@ -1,0 +1,6 @@
+A planning model with a solution algorithm for ready mixed concrete production and truck dispatching under stochastic travel times
+ S.   Yan ; H.   C.   Lin ; X.   Y.   Jiang ;
+Abstract
+ In this study the authors employ network flow techniques to construct a systematic model that helps ready mixed concrete carriers effectively plan production and truck dispatching schedules under stochastic travel times. The model is formulated as a mixed integer network flow problem with side constraints. Problem decomposition and relaxation techniques, coupled with the CPLEX mathematical programming solver, are employed to develop an algorithm that is capable of efficiently solving the problems. A simulation-based evaluation method is also proposed to evaluate the model, coupled with a deterministic model, and the method currently used in actual operations. Finally, a case study is performed using real operating data from a Taiwan RMC firm. The test results show that the system operating cost obtained using the stochastic model is a significant improvement over that obtained using the deterministic model or the manual approach. Consequently, the model and the solution algorithm could be useful for actual operations. 
+Keywords
+ready mixed concrete, stochastic travel time, truck dispatching, network flow 

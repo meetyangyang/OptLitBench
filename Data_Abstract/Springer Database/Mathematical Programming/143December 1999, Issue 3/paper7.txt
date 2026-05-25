@@ -1,0 +1,6 @@
+Computational study of a column generation algorithm for bin packing and cutting stock problems
+François Vanderbeck;
+Abstract
+This paper reports on our attempt to design an efficient exact algorithm based on column generation for the cutting stock problem. The main focus of the research is to study the extend to which standard branch-and-bound enhancement features such as variable fixing, the tightening of the formulation with cutting planes, early branching, and rounding heuristics can be usefully incorporated in a branch-and-price algorithm. We review and compare lower bounds for the cutting stock problem. We propose a pseudo-polynomial heuristic. We discuss the implementation of the important features of the integer programming column generation algorithm and, in particular, the implementation of the branching scheme. Our computational results demonstrate the efficiency of the resulting algorithm for various classes of bin packing and cutting stock problems.
+Keywords
+Key words: integer programming – column generation – bin packing – cutting stock  

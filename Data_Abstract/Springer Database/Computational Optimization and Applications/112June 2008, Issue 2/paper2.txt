@@ -1,0 +1,8 @@
+Interior-point methods for nonconvex nonlinear programming: regularization and warmstarts
+Hande Y. Benson;David F. Shanno;
+Abstract
+
+In this paper, we investigate the use of an exact primal-dual penalty approach within the framework of an interior-point method for nonconvex nonlinear programming. This approach provides regularization and relaxation, which can aid in solving ill-behaved problems and in warmstarting the algorithm. We present details of our implementation within the loqo algorithm and provide extensive numerical results on the CUTEr test set and on warmstarting in the context of quadratic, nonlinear, mixed integer nonlinear, and goal programming.
+
+Keywords
+Interior-point methods  Nonlinear programming  Warmstarting  Penalty methods  

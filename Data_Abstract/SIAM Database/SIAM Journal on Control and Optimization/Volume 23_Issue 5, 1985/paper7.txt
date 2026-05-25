@@ -1,0 +1,6 @@
+Stochastic Approximation in Hilbert Space: Identification and Optimization of Linear Continuous Parameter Systems
+H. J.  Kushner and A.  Shwartz;
+Abstract
+We treat a class of stochastic approximations (with small constant gain $\varepsilon $), with values in a Hilbert space. The problem and algorithm arise, e.g., when one seeks to iteratively identify the transfer function of a linear system (continuous parameter) or to adaptively optimize the transfer function of a stochastic linear system. Weak convergence methods are used to prove convergence of the interpolated sequence as $\varepsilon  \to 0$, and to characterize the equations satisfied by the limit.Projected and unprojected cases are dealt with. In one important case, convergence to a constrained optimum is proved when $\varepsilon n \to 0$ as $\varepsilon  \to 0$. The normalized error sequence is analyzed. It is shown that the limit (as $\varepsilon  \to 0$) of the interpolated normalized error sequence satisfies a linear integral equation driven by a Hilbert space Wiener process. Many of the calculations and results are useful for approximation problems for distributed systems with nonwhite noise inputs.
+Keywords
+stochastic approximation, optimization in Hilbert space, recursive estimation, system identification, adaptive stochastic centrol, 

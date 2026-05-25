@@ -1,0 +1,6 @@
+Novel preconditioners based on quasi–Newton updates for nonlinear conjugate gradient methods
+Caliciotti Andrea;Fasano Giovanni;Roma Massimo;
+Abstract
+In this paper we study new preconditioners to be used within the nonlinear conjugate gradient (NCG) method, for large scale unconstrained optimization. The rationale behind our proposal draws inspiration from quasi-Newton updates, and its aim is to possibly approximate in some sense the inverse of the Hessian matrix. In particular, at the current iteration of the NCG we consider some preconditioners based on new low-rank quasi-Newton symmetric updating formulae, obtained as by-product of the NCG method at the previous steps. The results of an extensive numerical experience are also reported, showing the effectiveness, the efficiency and the robustness of this approach, which suggests promising guidelines for further studies.
+Keywords
+Approximate inverse preconditioners  Preconditioned nonlinear conjugate gradient  Large scale nonconvex optimization  Quasi-Newton updates  

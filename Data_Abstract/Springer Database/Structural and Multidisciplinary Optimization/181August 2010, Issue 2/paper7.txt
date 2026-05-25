@@ -1,0 +1,6 @@
+Size-dependent optimal microstructure design based on couple-stress theory
+Wenzheng Su;Shutian Liu;
+Abstract
+The purpose of this paper is to propose a size-dependent topology optimization formulation of periodic cellular material microstructures, based on the effective couple-stress continuum model. The present formulation consists of finding the optimal layout of material that minimizes the mean compliance of the macrostructure subject to the constraint of permitted material volume fraction. We determine the effective macroscopic couple-stress constitutive constants by analyzing a unit cell with specified boundary conditions with the representative volume element (RVE) method, based on equivalence of strain energy. The computational model is established by the finite element (FE) method, and the design density and FE stiffness of the RVE are related by the solid isotropic material with penalization power (SIMP) law. The required sensitivity formulation for gradient-based optimization algorithm is also derived. Numerical examples demonstrate that this present formulation can express the size effect during the optimization procedure and provide precise topologies without increase in computational cost.
+Keywords
+Couple-stress  Size effect  Topology optimization  RVE  Cellular materials  

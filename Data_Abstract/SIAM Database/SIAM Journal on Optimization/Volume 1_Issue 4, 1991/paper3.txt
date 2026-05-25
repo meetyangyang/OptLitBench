@@ -1,0 +1,6 @@
+On the Impact of Automatic Differentiation on the Relative Performance of Parallel Truncated Newton and Variable Metric Algorithms
+L. C. W.  Dixon;
+Abstract
+The sparse doublet method for obtaining the gradient of a function or the Jacobian of a vector will be described and contrasted with reverse automatic differentiation. Its extension, the sparse triplet method for finding the Hessian of a function, will also be described and the effect of using these within classic optimisation algorithms discussed.Results obtained using a parallel implementation of sparse triplet automatic differentiation of a partially separable function on the Sequent Balance will be presented.In this paper it is shown that: • automatic differentiation can no longer be neglected as a method for calculating derivatives; • sparse triplets provide an effective method that can be implemented in parallel for calculating the  Hessian matrix; • this approach can be combined effectively with the truncated Newton method when solving large  unconstrained optimisation problems on parallel processors.
+Keywords
+automatic differentiation, parallel computation, optimisation, 49, 65, 

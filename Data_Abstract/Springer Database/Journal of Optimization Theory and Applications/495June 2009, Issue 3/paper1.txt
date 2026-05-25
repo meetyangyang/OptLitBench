@@ -1,0 +1,6 @@
+Preconditioning the Pressure Tracking in Fluid Dynamics by Shape Hessian Information
+K. Eppler;S. Schmidt;V. Schulz;C. Ilic;
+Abstract
+Potential flow pressure matching is a classical inverse design aerodynamic problem. The resulting loss of regularity during the optimization poses challenges for shape optimization with normal perturbation of the surface mesh nodes. Smoothness is not enforced by the parameterization but by a proper choice of the scalar product based on the shape Hessian, which is derived in local coordinates for starshaped domains. Significant parts of the Hessian are identified and combined with an aerodynamic panel solver. The resulting shape Hessian preconditioner is shown to lead to superior convergence properties of the resulting optimization method. Additionally, preconditioning gives the potential for level independent convergence.
+Keywords
+Shape optimization  Aerodynamic optimization  Hadamard gradient  Shape Hessian  Preconditioning  

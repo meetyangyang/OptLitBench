@@ -1,0 +1,6 @@
+Trust Region Algorithms for Solving Nonsmooth Equations
+Liqun  Qi;
+Abstract
+Two globally convergent trust region algorithms are presented for solving nonsmooth equations, where the functions are only locally Lipschitzian. The first algorithm is an extension of the classic Levenberg–Marquardt method by approximating the locally Lipschitzian function with a smooth function and using the derivative of the smooth function in the algorithm wherever a derivative is needed. Global convergence for this algorithm is established under a regular condition. In the second algorithm, successive smooth approximation functions and their derivatives are used. Global convergence for the second algorithm is established under mild assumptions. Both objective functions of subproblems of these two algorithms are quadratic functions.
+Keywords
+nonsmoothness, algorithm approximation, convergence, 90C30, 90C33, 

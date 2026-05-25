@@ -1,0 +1,6 @@
+Convergence Rates and Decoupling in Linear Stochastic Approximation Algorithms
+Michael A.  Kouritzin and Samira  Sadeghi;
+Abstract
+Almost sure convergence rates for linear algorithms $h_{k+1} = h_k +\frac{1}{k^\chi} (b_k-A_kh_k)$ are studied, where $\chi\in(0,1)$, $\{A_{k}\}_{k=1}^\infty$ are symmetric, positive semidefinite random matrices and $\{b_{k}\}_{k=1}^\infty$ are random vectors. It is shown that $n^{\gamma}|h_n- A^{-1}b|\rightarrow 0 \,$ a.s. for the $\gamma\in[0,\chi)$, positive definite $A$ and vector $b$ such that $\frac{1}{n^{\chi-\gamma}}\sum_{k=1}^n (A_{k}- A)\to 0$ and $\frac{1}{n^{\chi-\gamma}}\sum_{k=1}^n (b_k-b)\to 0$ a.s. When $\chi-\gamma\in\left(\frac12,1\right)$, these assumptions are implied by the Marcinkiewicz strong law of large numbers, which allows the $\{A_k\}$ and $\{b_k\}$ to have heavy tails, long-range dependence, or both.  Finally, corroborating experimental outcomes and decreasing-gain design considerations are provided.
+Keywords
+rates of convergence, stochastic approximation, Marcinkiewicz strong law of large numbers, heavy tails, long-range dependence, linear process, Primary, 60F15, 62L20, 62L12; Secondary, 62J05, 41A25, 

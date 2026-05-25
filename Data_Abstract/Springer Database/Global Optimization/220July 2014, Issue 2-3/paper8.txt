@@ -1,0 +1,6 @@
+Error estimation in nonlinear optimization
+William W. Hager;Delphine Mico-Umutesi;
+Abstract
+Methods are developed and analyzed for estimating the distance to a local minimizer of a nonlinear programming problem. One estimate, based on the solution of a constrained convex quadratic program, can be used when strict complementary slackness and the second-order sufficient optimality conditions hold. A second estimate, based on the solution of an unconstrained nonconvex, nonsmooth optimization problem, is valid even when strict complementary slackness is violated. Both estimates are valid in a neighborhood of a local minimizer. An active set algorithm is developed for computing a stationary point of the nonsmooth error estimator. Each iteration of the algorithm requires the solution of a symmetric, positive semidefinite linear system, followed by a line search. Convergence is achieved in a finite number of iterations. The error bounds are based on stability properties for nonlinear programs. The theory is illustrated by some numerical examples.
+Keywords
+Error bounds  KKT conditions  Active set algorithm   Nonconvex quadratic programming  Nonlinear programming  

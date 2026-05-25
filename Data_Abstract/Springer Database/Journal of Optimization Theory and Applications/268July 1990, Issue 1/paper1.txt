@@ -1,0 +1,6 @@
+Necessary and sufficient condition in Lyapunov robust control: Multi-input case
+C. H. Chao;H. L. Stalford;
+Abstract
+We consider a linear time-invariant finite-dimensional system x=Ax+Bu with multi-inputu, in which the matricesA andB are in canonical controller form. We assume that the system is controllable andB has rankm. We study the Lyapunov equationPA+A T P+Q=0, withQ>0, and investigate the properties thatP must satisfy in order that the canonical controller matrixA be Hurwitz. We show that, for the matrixA being Hurwitz, it is necessary and sufficient thatB T PB>0 and that the determinant ofB T PW be Hurwitz, whereW=block diag[w1,...,w m ], with elementw i =[s k  i −1,s k  i −2,...,s, 1] T ; here, the symbolsk i ,i=1, 2, ...,m, denote the Kronecker invariants with respect to the pair {A, B}. This result has application in designing robust controllers for linear uncertain systems.
+Keywords
+Robust control  uncertain systems  Lyapunov's method  linear control  

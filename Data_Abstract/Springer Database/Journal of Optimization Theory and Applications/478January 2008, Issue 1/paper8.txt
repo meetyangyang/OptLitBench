@@ -1,0 +1,8 @@
+Convergence of an Interior Point Algorithm for Continuous Minimax
+B. Rustem;S. Žaković;P. Parpas;
+Abstract
+
+We propose an algorithm for the constrained continuous minimax problem. The algorithm uses a quasi-Newton search direction, based on subgradient information, conditional on maximizers. The initial problem is transformed to an equivalent equality constrained problem, where the logarithmic barrier function is used to ensure feasibility. In the case of multiple maximizers, the algorithm adopts semi-infinite programming iterations toward epiconvergence. Satisfaction of the equality constraints is ensured by an adaptive quadratic penalty function. The algorithm is augmented by a discrete minimax procedure to compute the semi-infinite programming steps and ensure overall progress when required by the adaptive penalty procedure. Progress toward the solution is maintained using merit functions.
+
+Keywords
+Worst case analysis  Continuous minimax algorithms  Interior point methods  Semi–infinite programming  

@@ -1,0 +1,6 @@
+Relaxed Cutting Plane Method for Solving Linear Semi-Infinite Programming Problems
+S. Y. Wu;S. C. Fang;C. J. Lin;
+Abstract
+One of the major computational tasks of using the traditional cutting plane approach to solve linear semi-infinite programming problems lies in finding a global optimizer of a nonlinear and nonconvex program. This paper generalizes the Gustafson and Kortanek scheme to relax this requirement. In each iteration, the proposed method chooses a point at which the infinite constraints are violated to a degree, rather than a point at which the violations are maximized. A convergence proof of the proposed scheme is provided. Some computational results are included. An explicit algorithm which allows the unnecessary constraints to be dropped in each iteration is also introduced to reduce the size of computed programs.
+Keywords
+Linear semi-infinite programming  cutting plane method  

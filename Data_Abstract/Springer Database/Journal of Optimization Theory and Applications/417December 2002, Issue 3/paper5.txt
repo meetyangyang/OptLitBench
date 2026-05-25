@@ -1,0 +1,6 @@
+QoS-Guided Bandwidth Management in Differentiated Time Scales
+C.C. Lee;A.H. Haddad;
+Abstract
+This paper presents an integrated approach to QoS-guided network bandwidth allocation where each traffic flow requires a sufficient bandwidth allocation to support its mean traffic rate and to meet a delay requirement. Under the assumption that the peak rate of each traffic flow is decreasing with the time interval within which the rate is measured, we derive an analytical relationship between the delay bound and the bandwidth requirement for each individual flow. Then, based on a Gaussian aggregate traffic model, we show that two key controllable parameters, the coefficient of variation and the provision for variation for the aggregate traffic flow, determine all three fundamental QoS attributes (throughput, delay, and loss). We illustrate by examples that these results can be used to design admission policies. We demonstrate also quantitatively a remarkable QoS advantage of larger channel bandwidth in a statistical multiplexing environment. The analytical contributions are expected to be generally useful in QoS-guided bandwidth management in broadband networks.
+Keywords
+Bandwidth allocation  quality of service  statistical multiplexing  traffic flow control  

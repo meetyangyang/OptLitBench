@@ -1,0 +1,6 @@
+Mixed-integer nonlinear programs featuring “on/off” constraints
+Hassan Hijazi;Pierre Bonami;Gérard Cornuéjols;Adam Ouorou;
+Abstract
+In this paper, we study MINLPs featuring “on/off” constraints. An “on/off” constraint is a constraint f(x)≤0 that is activated whenever a corresponding 0–1 variable is equal to 1. Our main result is an explicit characterization of the convex hull of the feasible region when the MINLP consists of simple bounds on the variables and one “on/off” constraint defined by an isotone function f. When extended to general convex MINLPs, we show that this result yields tight lower bounds compared to classical formulations. This allows us to introduce new models for the delay-constrained routing problem in telecommunications. Numerical results show gains in computing time of up to one order of magnitude compared to state-of-the-art approaches.
+Keywords
+Mixed-integer nonlinear programming  “on/off” constraints  Disjunctive constraints  Convex programming  Delay-constrained routing problems  

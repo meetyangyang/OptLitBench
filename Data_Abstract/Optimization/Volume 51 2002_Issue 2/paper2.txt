@@ -1,0 +1,6 @@
+NUMERICAL APPROACH TO A STATIONARY SOLUTION OF A SECOND ORDER DISSIPATIVE DYNAMICAL SYSTEM
+ F.   Jules ; P. E.   Maingé ;
+Abstract
+ This paper is concerned with a modified version of the standard proximal point algorithm based upon an implicit discretization of the dissipative dynamical system u″(t)+γu′(t)+Au(t)=0(t>0), with initial data u(0), u′(0) in a real Hilbert space H, where  A:  H→H is a co-coercive operator. This iteration method is written as: , where  and u 0, u 1 are in H. Under suitable assumptions on λ and θ, we prove that this scheme generates a sequence which asymptotically converges to an element  in H satisfying . Two typical examples, one with constraints and the other without, are studied with full details. The resolvent  is calculated and numerical simulations are presented comparing the behavior of the standard proximal algorithm, the gradient method and our algorithm. 
+Keywords
+Dissipative dynamical system, Linear damping, Projection method, Constrained convex minimization, Implicit discretization, Heavy ball with friction system 

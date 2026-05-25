@@ -1,0 +1,6 @@
+Bisection Search with Noisy Responses
+Rolf  Waeber, Peter I.  Frazier, and Shane G.  Henderson;
+Abstract
+Bisection search is the most efficient algorithm for locating a unique point $X^{\ast} \in [0,1]$ when we are able to query an oracle only about whether $X^{\ast}$ lies to the left or right of a point $x$ of our choosing. We study a noisy version of this classic problem, where the oracle's response is correct only with probability $p$. The probabilistic bisection algorithm (PBA) introduced by Horstein [IEEE Trans. Inform. Theory, 9 (1963), pp. 136--143] can be used to locate $X^{\ast}$ in this setting. While the method works extremely well in practice, very little is known about its theoretical properties. In this paper, we provide several key findings about the PBA, which lead to the main conclusion that the expected absolute residuals of successive search results, i.e., $\mathbb{E}[|X^{\ast} - X_n|]$, converge to 0 at a geometric rate.
+Keywords
+probabilistic bisection, noisy bisection, geometric rate of convergence, sequential analysis, Bayesian performance analysis, 93E20, 68W40, 62C10, 60G35, 

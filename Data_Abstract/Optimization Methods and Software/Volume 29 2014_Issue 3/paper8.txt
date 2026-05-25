@@ -1,0 +1,6 @@
+Calibrating low-rank correlation matrix problem: an SCA-based approach
+Bo Wang;Liwei Zhang;
+Abstract
+Rank-constrained nearest correlation matrix problems, weighted or not, are reformulated into difference of convex (DC) functions constrained optimization problems. A general sequential convex approximation (SCA) approach for a DC-constrained optimization problem is developed. To overcome difficulties encountered in solving the convex approximation subproblems in the SCA approach, an SCA-based nonsmooth equation approach is proposed to solve the specific rank-constrained problem. In this approach, we use a simple iteration scheme for updating the multiplier variable corresponding to the rank constraint, and an inexact smoothing Newton method for calculating the primal variable and the multiplier variable corresponding to the linear constraint. Numerical experiments are reported and they illustrate the efficiency of our approach.
+Keywords
+DC programming, correlation matrix, low rank, semi-definite programming, H-weighted, SCAAMS Subject Classifications:: 49M05, 90C22, 90C26, 90C90, 91B30 

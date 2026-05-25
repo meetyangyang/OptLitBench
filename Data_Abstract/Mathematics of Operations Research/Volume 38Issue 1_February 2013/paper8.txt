@@ -1,0 +1,6 @@
+Robust Markov Decision Processes
+Wolfram Wiesemann;Daniel Kuhn;Berç Rustem;
+Abstract
+Markov decision processes (MDPs) are powerful tools for decision making in uncertain dynamic environments. However, the solutions of MDPs are of limited practical use because of their sensitivity to distributional model parameters, which are typically unknown and have to be estimated by the decision maker. To counter the detrimental effects of estimation errors, we consider robust MDPs that offer probabilistic guarantees in view of the unknown parameters. To this end, we assume that an observation history of the MDP is available. Based on this history, we derive a confidence region that contains the unknown parameters with a prespecified probability 1-β. Afterward, we determine a policy that attains the highest worst-case performance over this confidence region. By construction, this policy achieves or exceeds its worst-case performance with a confidence of at least 1-β. Our method involves the solution of tractable conic programs of moderate size.
+Keywords
+robust optimization Markov decision processes semidefinite programming 

@@ -1,0 +1,6 @@
+A Constraint Programming Approach to Extract the Maximum Number of Non-Overlapping Test Forms
+Dmitry I. Belov;Ronald D. Armstrong;
+Abstract
+This paper introduces a novel approach for extracting the maximum number of non-overlapping test forms from a large collection of overlapping test sections assembled from a given item bank. The approach involves solving maximum set packing problems (MSPs). A branch-and-bound MSP algorithm is developed along with techniques adapted from constraint programming to estimate lower and upper bounds on the optimal MSP solution. The algorithm is general and can be applied in other applications including combinatorial auctions. The results of computer simulations and experiments with an operational item bank are presented.
+Keywords
+combinatorial optimization  constraint programming  branch-and-bound  set packing  test assembly  

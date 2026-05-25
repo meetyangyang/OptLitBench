@@ -1,0 +1,6 @@
+Minimizing symmetric submodular functions
+Maurice Queyranne;
+Abstract
+We describe a purely combinatorial algorithm which, given a submodular set functionf on a finite setV, finds a nontrivial subsetA ofV minimizingf[A] + f[V ∖ A]. This algorithm, an extension of the Nagamochi—Ibaraki minimum cut algorithm as simplified by Stoer and Wagner [M. Stoer, F. Wagner, A simple min cut algorithm, Proceedings of the European Symposium on Algorithms ESA '94, LNCS 855, Springer, Berlin, 1994, pp. 141–147] and by Frank [A. Frank, On the edge-connectivity algorithm of Nagamochi and Ibaraki, Laboratoire Artémis, IMAG, Université J. Fourier, Grenbole, 1994], minimizes any symmetric submodular function using O(|V|3) calls to a function value oracle. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Symmetric submodular function minimization  Submodular function minimization  Symmetric submodular functions  Submodular functions  Submodular systems  

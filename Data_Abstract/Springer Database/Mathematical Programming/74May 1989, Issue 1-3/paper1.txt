@@ -1,0 +1,6 @@
+A polynomial-time algorithm for a class of linear complementarity problems
+Masakazu Kojima;Shinji Mizuno;Akiko Yoshise;
+Abstract
+Given ann × n matrixM and ann-dimensional vectorq, the problem of findingn-dimensional vectorsx andy satisfyingy = Mx + q, x ≥ 0,y ≥ 0,x i y i  = 0 (i = 1, 2,⋯,n) is known as a linear complementarity problem. Under the assumption thatM is positive semidefinite, this paper presents an algorithm that solves the problem in O(n3L) arithmetic operations by tracing the path of centers,{(x, y) ∈ S: x i y i  =μ (i = 1, 2,⋯,n) for some μ > 0} of the feasible regionS = {(x, y) ≥ 0:y = Mx + q}, whereL denotes the size of the input data of the problem.
+Keywords
+Linear complementarity problem  polynomial-time algorithm  path of centers  Karmarkar's algorithm  

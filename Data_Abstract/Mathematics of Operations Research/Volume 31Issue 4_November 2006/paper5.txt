@@ -1,0 +1,6 @@
+Approximation Algorithms for the Job Interval Selection Problem and Related Scheduling Problems
+Julia Chuzhoy;Rafail Ostrovsky;Yuval Rabani;
+Abstract
+In this paper we consider the job interval selection problem (JISP), a simple scheduling model with a rich history and numerous applications. Special cases of this problem include the so-called real-time scheduling problem (also known as the throughput maximization problem) in single- and multiple-machine environments. In these special cases we have to maximize the number of jobs scheduled between their release date and deadline (preemption is not allowed). Even the single-machine case is NP-hard. The unrelated machines case, as well as other special cases of JISP, are MAX SNP-hard. A simple greedy algorithm gives a two-approximation for JISP. Despite many efforts, this was the best approximation guarantee known, even for throughput maximization on a single machine. In this paper, we break this barrier and show an approximation guarantee of less than 1.582 for arbitrary instances of JISP. For some special cases, we show better results.
+Keywords
+scheduling throughput approximation algorithms PTAS 

@@ -1,0 +1,6 @@
+Interactive Diffusions for Global Optimization
+Yue Sun;Alfredo Garcia;
+Abstract
+We present a novel approach, in which parallel annealing processes interact in a manner that expedites the identification of a globally optimal solution. A first annealing process operates at a faster time scale and has a drift function that converges to a non-zero (but relatively small) noise level. A second annealing process (operating at a slower time scale) is subject to a modified drift term in which the steepest descent direction is perturbed with the first annealing process density gradient. This additional term ensures that the second process is “repelled” from regions already explored. As a result, the first annealing process (which quickly identifies locally optimal solutions) allows the second annealing process to bypass locally optimal solutions recently identified, so that it can be made to converge to global optima at a faster rate. We show that, when compared to independent annealing processes, the proposed interactive diffusions can increase the speed of convergence at the expense of minimal additional computational overhead.
+Keywords
+Diffusions  Simulated annealing  Parallel computing  

@@ -1,0 +1,4 @@
+Group Construction for Airline Cabin Crew: Comparing Constraint Programming with Branch and Price
+Jesper Hansen;Tomas Lidén;
+Abstract
+Producing work schedules for airline crew normally results in individually different schedules. Some airlines do however want to give the same schedule to groups of people. The construction of such groups must respect certain rules, provide a good matching of certain factors and fit well into the normal process of producing anonymous trips starting and ending at the home base and assigning these to the crew. In this paper we present an application, implemented and delivered to a large European airline, which addresses these needs. The problem is challenging to solve for certain cases. Hence two different approaches have been applied, one using constraint programming and the other using column generation. These two methods are described and compared – along with computational results.

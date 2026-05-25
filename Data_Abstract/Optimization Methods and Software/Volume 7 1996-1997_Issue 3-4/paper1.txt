@@ -1,0 +1,6 @@
+Parameter estimation in one-dimensional time-dependet partial differential equations
+   K.   Schittkowski ;
+Abstract
+ We consider an approach to determine parameters in a system of one-dimensional time-dependent parabolic differential equations and coupled ordinary differential equations. The model allows transmission conditions between separate integration areas for functions and derivatives. Proceeding from given experimental data, e.g. observation times and measurements, the minimum least squares distance of the measured data from the solution of the dynamical system at designated space values is to be computed. The method of lines is used to discretize the partial differential equation with respect to polynomials of arbitrary odd order, and to transform the original system into a sequence of ordinary differential equations, that can be solved then by any available ODE-solver. Numerical test results are included to show the efficiency of different ODE solvers and optimization routines based on a collection of 20 test models  
+Keywords
+Least Squares Optimization, Nonlinear Programming, Data Fitting, Partial Differential Equations, Line Method 

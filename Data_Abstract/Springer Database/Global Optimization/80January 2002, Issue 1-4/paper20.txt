@@ -1,0 +1,6 @@
+A linear-time algorithm for solving the molecular distance geometry problem with exact inter-atomic distances
+Qunfeng Dong;Zhijun Wu;
+Abstract
+We describe a linear-time algorithm for solving the molecular distance geometry problem with exact distances between all pairs of atoms. This problem needs to be solved in every iteration of general distance geometry algorithms for protein modeling such as the EMBED algorithm by Crippen and Havel (Distance Geometry and Molecular Conformation, Wiley, 1988). However, previous approaches to the problem rely on decomposing an distance matrix or minimizing an error function and require O(n2) to O(3) floating point operations. The linear-time algorithm will provide a much more efficient approach to the problem, especially in large-scale applications. It exploits the problem structure and hence is able to identify infeasible data more easily as well.
+Keywords
+Molecular distance geometry  Protein structure determination  Numerical linear algebra and optimization  

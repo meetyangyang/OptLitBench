@@ -1,0 +1,6 @@
+A Note on Expected Makespans for Largest-First Sequences of Independent Tasks on Two Processors
+E. G. Coffman, Jr.;G. N. Frederickson;G. S. Lueker;
+Abstract
+We consider the scheduling of sets of n simultaneously available tasks on two identical processors. The task execution times are assumed to be independent samples from the uniform distribution on [0, 1]. We analyze the expected makespan (schedule-length) performance of two well-known largest-task-first, nonpreemptive approximation rules. With the largest-first (LF) rule, tasks are assigned in nonincreasing order of execution time to the processors as they become available. With the restricted largest first (RLF) rule, tasks are assigned in pairs, one to a processor. The larger task of a pair is the first to be scheduled. (If n is odd, the last task is simply assigned to the earner finishing processor in the schedule for the first n − 1 tasks.) We prove that the expected makespan for LF is bounded by $$\frac{n}4 + \frac{e}{2(n+1)},$$ and for RLF it is precisely $$\frac{n}4 + \frac{1}{2(n+1)}.$$ From these results simple bounds are derived on the ratio of the expected performance of LF and RLF to the expected performance of an optimization rule. Finally, a lower bound on expected LF makespans is shown to be $$\frac{n}4 + \frac{1}{4(n+1)}.$$
+Keywords
+largest-first rule 2-machine job shop scheduling 

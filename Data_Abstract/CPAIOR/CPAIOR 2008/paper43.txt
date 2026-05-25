@@ -1,0 +1,4 @@
+Mobility Allowance Shuttle Transit (MAST) Services: MIP Formulation and Strengthening with Logic Constraints
+Luca Quadrifoglio;Maged M. Dessouky;Fernando Ordóñez;
+Abstract
+We study a hybrid transportation system referred to as Mobility Allowance Shuttle Transit (MAST) where vehicles may deviate from a fixed path consisting of a few mandatory checkpoints to serve demand distributed within a proper service area. In this paper we propose a Mixed Integer Programming (MIP) formulation for the static scheduling problem of a MAST type system. Since the problem is NP Hard, we develop sets of logic cuts, by using reasonable assumptions on passengers’ behavior. The purpose of these constraints is to speed up the search for optimality by removing inefficient solutions from the original feasible region. Experiments show the effectiveness of the developed inequalities, achieving a reduction up to 90% of the CPU solving time for some of the instances.

@@ -1,0 +1,6 @@
+Linear programing formulations and algorithms for radiotherapy treatment planning
+ Arinbjörn   Ólafsson ; Stephen J.   Wright ;
+Abstract
+ Optimization has become an important tool in treatment planning for cancer radiation therapy. It may be used to determine beam weights, beam directions, and appropriate use of beam modifiers such as wedges and blocks, with the aim of delivering a required dose to the tumor, while sparing nearby critical structures and normal tissue. Linear programing formulations are a core computation in many approaches to treatment planning, because of the abundance of highly developed linear programing software. However, these formulations of treatment planning often require a surprisingly large amount of time to solve—more than might be anticipated given the dimensions of the problems. Moreover, the choices of formulation, algorithm, and pivot rule that perform best from a computational viewpoint are sometimes not obvious, and the software's default choices are sometimes poor. This article considers several linear programing formulations of treatment planning problem and tests several variants of simplex and interior-point methods for solving them. Conclusions are drawn about the most effective formulations and variants. 
+Keywords
+Linear programing, Simplex method, Interior-point method, Radiation therapy 

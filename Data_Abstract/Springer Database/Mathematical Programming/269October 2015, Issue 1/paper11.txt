@@ -1,0 +1,6 @@
+Worst-case results for positive semidefinite rank
+João Gouveia;Richard Z. Robinson;Rekha R. Thomas;
+Abstract
+We present various worst-case results on the positive semidefinite (psd) rank of a nonnegative matrix, primarily in the context of polytopes. We prove that the psd rank of a generic \(n\)-dimensional polytope with \(v\) vertices is at least \((nv)^{\frac{1}{4}}\) improving on previous lower bounds. For polygons with \(v\) vertices, we show that psd rank cannot exceed \(4 \left\lceil v/6 \right\rceil \) which in turn shows that the psd rank of a \(p \times q\) matrix of rank three is at most \(4\left\lceil \min \{p,q\}/6 \right\rceil \). In general, a nonnegative matrix of rank \({k+1 \atopwithdelims ()2}\) has psd rank at least \(k\) and we pose the problem of deciding whether the psd rank is exactly \(k\). Using geometry and bounds on quantifier elimination, we show that this decision can be made in polynomial time when \(k\) is fixed.
+Keywords
+52C02  68Q02  90C02  

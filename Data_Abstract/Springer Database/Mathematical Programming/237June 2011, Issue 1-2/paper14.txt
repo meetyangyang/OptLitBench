@@ -1,0 +1,6 @@
+Budgeted matching and budgeted matroid intersection via the gasoline puzzle
+André Berger;Vincenzo Bonifaci;Fabrizio Grandoni;Guido Schäfer;
+Abstract
+Many polynomial-time solvable combinatorial optimization problems become NP-hard if an additional complicating constraint is added to restrict the set of feasible solutions. In this paper, we consider two such problems, namely maximum-weight matching and maximum-weight matroid intersection with one additional budget constraint. We present the first polynomial-time approximation schemes for these problems. Similarly to other approaches for related problems, our schemes compute two solutions to the Lagrangian relaxation of the problem and patch them together to obtain a near-optimal solution. However, due to the richer combinatorial structure of the problems considered here, standard patching techniques do not apply. To circumvent this problem, we crucially exploit the adjacency relations on the solution polytope and, surprisingly, the solution to an old combinatorial puzzle.
+Keywords
+Matching  Matroid intersection  Budgeted optimization  Lagrangian relaxation  05C70  05B35  90C27  68R99  

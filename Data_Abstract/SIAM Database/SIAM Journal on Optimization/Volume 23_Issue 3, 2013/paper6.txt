@@ -1,0 +1,6 @@
+Convergence Analysis of an Inexact Feasible Interior Point Method for Convex Quadratic Programming
+Jacek  Gondzio;
+Abstract
+In this paper we will discuss two variants of an inexact feasible interior point algorithm for convex quadratic programming. We will consider two different neighborhoods: a small one induced by the use of the Euclidean norm which yields a short-step algorithm and a symmetric one induced by the use of the infinity norm which yields a (practical) long-step algorithm. Both algorithms allow for the Newton equation system to be solved inexactly. For both algorithms we will provide conditions for the level of error acceptable in the Newton equation and establish the worst-case complexity results.
+Keywords
+inexact Newton method, interior point algorithms, linear programming, quadratic programming, worst-case complexity analysis, matrix-free methods, 65K05, 90C51, 90C06, 

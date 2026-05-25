@@ -1,0 +1,6 @@
+A full second order variational model for multiscale texture analysis
+Maïtine Bergounioux;Loïc Piffet;
+Abstract
+We present a second order image decomposition model to perform denoising and texture extraction. We look for the decomposition f=u+v+w where u is a first order term, v a second order term and w the (0 order) remainder term. For highly textured images the model gives a two-scale texture decomposition: u can be viewed as a macro-texture (larger scale) whose oscillations are not too large and w is the micro-texture (very oscillating) that may contain noise. We perform mathematical analysis of the model and give numerical examples.
+Keywords
+Second order total variation  Image reconstruction  Denoising  Texture analysis  Variational method  

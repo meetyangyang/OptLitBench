@@ -1,0 +1,6 @@
+Robust MDPs with k-Rectangular Uncertainty
+Shie Mannor;Ofir Mebel;Huan Xu;
+Abstract
+Markov decision processes are a common tool for modeling sequential planning problems under uncertainty. In almost all realistic situations, the system model cannot be perfectly known and must be approximated or estimated. Thus, we consider Markov decision processes under parameter uncertainty, which effectively adds a second layer of uncertainty. Most previous studies restrict to the case that uncertainties among different states are uncoupled, which leads to conservative solutions. On the other hand, robust MDPs with general coupled uncertainty sets are known to be computationally intractable. In this paper we make a first attempt at identifying subclasses of coupled uncertainty that are flexible enough to overcome conservativeness yet still lead to tractable problems. We propose a new class of uncertainty sets termed “k-rectangular uncertainty sets”—a geometric concept defined by the cardinality of possible conditional projections of the uncertainty set. The proposed scheme can model several intuitive formulations of coupled uncertainty that naturally arise in practice and leads to tractable formulations via state space augmentation.
+Keywords
+dynamic programming optimal control Markov models 

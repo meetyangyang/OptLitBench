@@ -1,0 +1,6 @@
+A fast modification of Focke's shortest inpolygon construction
+   G.   Dewess ;   P.   Helbig ;
+Abstract
+ We want to find an inpolygon of shortest circumference in a given convex polygon with m vertices. Focke [2] evolves the polygon under successive reflection, lays a line corresponding to an inpolygon through all concave vertices of this “channel” and shortens the line by a descent method with complexity O(m 3) to an optimum. We determine a first active vertex of the channel with complexity O(m) lay a straight line through this vertex and lengthen the line by a trivial method with complexity O(m 2) to a feasible line (optimum). 
+Keywords
+Optimal inpolygon, discrete optimization, geometrical problems of optimizationAMS Subject Classification: Primary:52 A 10, Secondary:90 C 25 

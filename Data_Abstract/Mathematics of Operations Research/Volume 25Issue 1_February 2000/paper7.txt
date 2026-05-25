@@ -1,0 +1,6 @@
+The Complexity of Optimal Small Policies
+Martin Mundhenk;
+Abstract
+We investigate the complexity of problems concerned with partially-observable Markov decision processes which are run for a finite number of steps under small policies. The calculation of the expected sum of rewards of a process under a small policy is shown to be complete for the complexity class PP, a class which lies intermediate between NP and PSPACE. Optimal small policy computation is shown to be complete for NPPP. The latter contrasts results of Papadimitriou and Tsitsiklis (Papadimitriou and Tsitsiklis 1987), who showed that this problem is PSPACE-complete, if no assumptions about the representability of the policy are made, and that it is P-complete for fully-observable processes.
+Keywords
+Markov decision processes partial observability planning problems computational complexity 

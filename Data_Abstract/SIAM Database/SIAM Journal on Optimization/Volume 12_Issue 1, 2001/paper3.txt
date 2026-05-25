@@ -1,0 +1,6 @@
+Effects of Finite-Precision Arithmetic on Interior-Point Methods for Nonlinear Programming
+Stephen J.  Wright;
+Abstract
+We show that the effects of finite-precision arithmetic in forming and solving the linear system that arises at each iteration of primal-dual interior-point algorithms for nonlinear programming are benign, provided that the iterates satisfy centrality and feasibility conditions of the type usually associated with path-following methods. When we replace the standard assumption that the active constraint gradients are independent by the weaker Mangasarian--Fromovitz constraint qualification, rapid convergence usually is attainable, even when cancellation and roundoff errors occur during the calculations. In deriving our main results, we prove a key technical result about the size of the exact primal-dual step. This result can be used to modify existing analysis of primal-dual interior-point methods for convex programming, making it possible to extend the superlinear local convergence results to the nonconvex case.
+Keywords
+primal-dual interior-point algorithms, finite-precision arithmetic, nonlinear programming, constraint qualification, 90C33, 90C30, 49M45, 

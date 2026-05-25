@@ -1,0 +1,6 @@
+On the modified trust region algorithm for nonlinear equations
+Jinyan Fan;Na Lu;
+Abstract
+In this paper, we present a modified trust region algorithm for nonlinear equations with the trust region radii converging to zero. The algorithm calculates the Jacobian after every two computations of the step. It preserves the global convergence as the traditional trust region algorithms. Moreover, it converges nearly q-cubically under the local error bound condition, which is weaker than the nonsingularity of the Jacobian at a solution. Numerical results show that the algorithm is very efficient for both singular problems and nonsingular problems.
+Keywords
+nonlinear equations, modified trust region method, local error bound conditionAMS Subject Classification: 65K05, 90C30 

@@ -1,0 +1,6 @@
+Tail Decay and Moment Estimates of a Condition Number for Random Linear Conic Systems
+Dennis  Cheung, Felipe  Cucker, and Raphael  Hauser;
+Abstract
+In this paper we study the distribution of $\mathscr C(A)$ and $\log\mathscr C(A)$, where $\mathscr C(A)$ is a condition number for the linear conic system $Ax\leq 0$, $x\neq 0$, with $A\in\Bbb R^{n\times m}$. For Gaussian matrices A we develop both upper and lower bounds on the decay rates of the distribution tails of $\mathscr C(A)$, showing that ${\bf P}\left[\mathscr C(A)\geq t\right]\sim c/t$ for large t, where c is a factor that depends only on the problem dimensions $(m,n)$. Using these bounds, we derive moment estimates for $\mathscr C(A)$ and $\log\mathscr C(A)$ and prove various limit theorems for the cases where m and/or n are large. Combined with condition number based complexity analyses, our results yield tail information on the distribution of running times for interior-point or relaxation methods designed to solve the feasibility problem $Ax\leq 0$, $x\neq 0$.
+Keywords
+condition numbers, random matrices, linear programming, probabilistic analysis, 90C31, 15A52, 90C05, 90C60, 62H10, 

@@ -1,0 +1,6 @@
+ α-Coverage to extend network lifetime on wireless sensor networks
+Monica Gentili;Andrea Raiconi;
+Abstract
+An important problem in the context of wireless sensor networks is the Maximum Network Lifetime Problem (MLP): find a collection of subset of sensors (cover) each covering the whole set of targets and assign them an activation time so that network lifetime is maximized. In this paper we consider a variant of MLP, where we allow each cover to neglect a certain fraction (1 − α) of the targets. We analyze the problem and show that the total network lifetime can be hugely improved by neglecting a very small portion of the targets. An exact approach, based on a Column Generation scheme, is presented and a heuristic solution algorithm is also provided to initialize the approach. The proposed approaches are tested on a wide set of instances. The experimentation shows the effectiveness of both the proposed problems and solution algorithms in extending network lifetime and improving target coverage time when some regularity conditions are taken into account.
+Keywords
+Sensor networks  Network lifetime  α-Coverage  Delayed column generation  

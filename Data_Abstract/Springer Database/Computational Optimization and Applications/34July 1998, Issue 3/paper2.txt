@@ -1,0 +1,6 @@
+A Computational Study of the Homogeneous Algorithm for Large-scale Convex Optimization
+Erling D. Andersen;Yinyu Ye;
+Abstract
+Recently the authors have proposed a homogeneous and self-dual algorithm for solving the monotone complementarity problem (MCP) [5]. The algorithm is a single phase interior-point type method; nevertheless, it yields either an approximate optimal solution or detects a possible infeasibility of the problem. In this paper we specialize the algorithm to the solution of general smooth convex optimization problems, which also possess nonlinear inequality constraints and free variables. We discuss an implementation of the algorithm for large-scale sparse convex optimization. Moreover, we present computational results for solving quadratically constrained quadratic programming and geometric programming problems, where some of the problems contain more than 100,000 constraints and variables. The results indicate that the proposed algorithm is also practically efficient.
+Keywords
+monotone complementarity problem  homogeneous and self-dual model  interior-point algorithms  large-scale convex optimization  

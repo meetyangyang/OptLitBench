@@ -1,0 +1,6 @@
+A Method for Constrained Multiobjective Optimization Based on SQP Techniques
+Jörg  Fliege and A. Ismael F.  Vaz;
+Abstract
+We propose a method for constrained and unconstrained nonlinear multiobjective optimization problems that is based on an SQP-type approach. The proposed algorithm maintains a list of nondominated points that is improved both for spread along the Pareto front and optimality by solving single-objective constrained optimization problems. These single-objective problems are derived as SQP problems based on the given nondominated points. Under appropriate differentiability assumptions we discuss convergence to local optimal Pareto points. We provide numerical results for a set of unconstrained and constrained multiobjective optimization problems in the form of performance and data profiles, where several performance metrics are used. The numerical results confirm the superiority of the proposed algorithm against a state-of-the-art multiobjective solver and a classical scalarization approach, both in the quality of the approximated Pareto front and in the computational effort necessary to compute the approximation.
+Keywords
+sequential quadratic programming, constrained multiobjective optimization, Pareto front, 90C29, 90C55, 90C30, 

@@ -1,0 +1,6 @@
+An Augmented Primal-Dual Method for Linear Conic Programs
+Florian  Jarre and Franz  Rendl;
+Abstract
+We propose a new iterative approach for solving linear programs over convex cones. Assuming that Slater's condition is satisfied, the conic problem is transformed to the minimization of a convex differentiable function in the primal-dual space. This function shows similarities with the augmented Lagrangian function and is called “augmented primal-dual function” or “apd-function”. The evaluation of the function and its derivative is cheap if the projection of a given point onto the cone can be computed cheaply, and if the projection of a given point onto the affine subspace defining the primal problem can be computed cheaply. For the special case of a semidefinite program, a certain regularization of the apd-function is analyzed. Numerical examples minimizing the apd-function with a conjugate gradient method illustrate the potential of the approach.
+Keywords
+conic program, linear convergence, augmented primal-dual function, 90C22, 90C25, 49M29, 

@@ -1,0 +1,6 @@
+A globally and quadratically convergent primal–dual augmented Lagrangian algorithm for equality constrained optimization
+Paul Armand;Riadh Omheni;
+Abstract
+We present a primal–dual augmented Lagrangian method to solve an equality constrained minimization problem. This is a Newton-like method applied to a perturbation of the optimality system that follows from a reformulation of the initial problem by introducing an augmented Lagrangian function. An important aspect of this approach is that, by a choice of suitable updating rules of parameters, the algorithm reduces to a regularized Newton method applied to a sequence of optimality systems. The global convergence is proved under mild assumptions. An asymptotic analysis is also presented and quadratic convergence is proved under standard regularity assumptions. Some numerical results show that the method is very efficient and robust.
+Keywords
+equality constrained minimization, primal–dual algorithm, augmented Lagrangian method, quadratic convergenceAMS Subject Classification: 90C26, 90C30 

@@ -1,0 +1,6 @@
+Density based topology optimization of turbulent flow heat transfer systems
+Sumer B. Dilgen;Cetin B. Dilgen;David R. Fuhrman;Ole Sigmund;Boyan S. Lazarov;
+Abstract
+The focus of this article is on topology optimization of heat sinks with turbulent forced convection. The goal is to demonstrate the extendibility, and the scalability of a previously developed fluid solver to coupled multi-physics and large 3D problems. The gradients of the objective and the constraints are obtained with the help of automatic differentiation applied on the discrete system without any simplifying assumptions. Thus, as demonstrated in earlier works of the authors, the sensitivities are exact to machine precision. The framework is applied to the optimization of 2D and 3D problems. Comparison between the simplified 2D setup and the full 3D optimized results is provided. A comparative study is also provided between designs optimized for laminar and turbulent flows. The comparisons highlight the importance and the benefits of full 3D optimization and including turbulence modeling in the optimization process, while also demonstrating extension of the methodology to include coupling of heat transfer with turbulent flows.
+Keywords
+Topology optimization  Automatic differentiation  Turbulent flow  Thermal-fluid  Heat sink  

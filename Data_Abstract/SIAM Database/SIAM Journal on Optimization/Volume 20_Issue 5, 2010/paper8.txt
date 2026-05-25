@@ -1,0 +1,6 @@
+Infeasibility Detection and SQP Methods for Nonlinear Optimization
+Richard H.  Byrd, Frank E.  Curtis, and Jorge  Nocedal;
+Abstract
+This paper addresses the need for nonlinear programming algorithms that provide fast local convergence guarantees regardless of whether a problem is feasible or infeasible. We present a sequential quadratic programming method derived from an exact penalty approach that adjusts the penalty parameter automatically, when appropriate, to emphasize feasibility over optimality. The superlinear convergence of such an algorithm to an optimal solution is well known when a problem is feasible. The main contribution of this paper, however, is a set of conditions under which the superlinear convergence of the same type of algorithm to an infeasible stationary point can be guaranteed when a problem is infeasible. Numerical experiments illustrate the practical behavior of the method on feasible and infeasible problems.
+Keywords
+nonlinear programming, constrained optimization, infeasibility, 90C26, 90C30, 90C55, 

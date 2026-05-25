@@ -1,0 +1,6 @@
+Trust region globalization strategy for the nonconvex unconstrained multiobjective optimization problem
+Gabriel A. Carrizo;Pablo A. Lotito;María C. Maciel;
+Abstract
+A trust-region-based algorithm for the nonconvex unconstrained multiobjective optimization problem is considered. It is a generalization of the algorithm proposed by Fliege et al. (SIAM J Optim 20:602–626, 2009), for the convex problem. Similarly to the scalar case, at each iteration a subproblem is solved and the step needs to be evaluated. Therefore, the notions of decrease condition and of predicted reduction are adapted to the vectorial case. A rule to update the trust region radius is introduced. Under differentiability assumptions, the algorithm converges to points satisfying a necessary condition for Pareto points and, in the convex case, to a Pareto points satisfying necessary and sufficient conditions. Furthermore, it is proved that the algorithm displays a q-quadratic rate of convergence. The global behavior of the algorithm is shown in the numerical experience reported.
+Keywords
+Multiobjective optimization  Trust region  Newton method  Convergence  90C29  65K05  49M37  

@@ -1,0 +1,6 @@
+A computation study on an integrated alternating direction method of multipliers for large scale optimization
+Masoud Zarepisheh;Lei Xing;Yinyu Ye;
+Abstract
+The alternating direction method of multipliers (ADMM) has recently received a lot of attention especially due to its capability to harness the power of the new parallel and distributed computing environments. However, ADMM could be notoriously slow especially if the penalty parameter, assigned to the augmented term in the objective function, is not properly chosen. This paper aims to accelerate ADMM by integrating that with the Barzilai–Borwein gradient method and an acceleration technique known as line search. Line search accelerates an iterative method by performing a one-dimensional search along the line segment connecting two successive iterations. We pay a special attention to the large-scale nonnegative least squares problems, and our experiments using real datasets indicate that the integration not only accelerate ADMM but also robustifies that against the penalty parameter.
+Keywords
+Alternating direction method of multipliers  Barzilai–Borwein gradient method  Line search  Method of multipliers  nonnegative least squares  

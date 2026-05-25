@@ -1,0 +1,6 @@
+Controlling first four moments for robust optimization
+Bijan Mohammadi;
+Abstract
+The paper addresses the solution of robust moment-based optimization problems after a multipoint reformulation. The first four moments are considered (i.e. mean, variance, skewness and kurtosis) going beyond classical engineering optimization based on the control of the mean and variance . In particular, the impact on the design of a control of the third and fourth moments are discussed. The multipoint formulation leads to discrete expressions for the moments. linking moment-based and multipoint optimizations. The linearity of the sums in the discrete moments permits an easy evaluation of their gradients with respect to the design variables. Optimal sampling issues are analyzed and a procedure is proposed to quantify the confidence level on the robustness of the design. The proposed formulation is fully parallel and the time-to-solution is comparable to single-point situations. It is applied to three problems: an analytical least-square minimization problem, a shape optimization problem with a reduced-order model, and a full aircraft shape optimization robust over a range of transverse winds.
+Keywords
+Mean  Variance  Skewness  Kurtosis  Adjoint-based parametric robust shape optimization  Uncertainty  

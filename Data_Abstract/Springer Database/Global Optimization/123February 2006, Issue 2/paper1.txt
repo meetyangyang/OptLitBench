@@ -1,0 +1,6 @@
+Global Optimization with Nonlinear Ordinary Differential Equations
+Adam B. Singer;Paul I. Barton;
+Abstract
+This paper examines global optimization of an integral objective function subject to nonlinear ordinary differential equations. Theory is developed for deriving a convex relaxation for an integral by utilizing the composition result defined by McCormick (Mathematical Programming 10, 147–175, 1976) in conjunction with a technique for constructing convex and concave relaxations for the solution of a system of nonquasimonotone ordinary differential equations defined by Singer and Barton (SIAM Journal on Scientific Computing, Submitted). A fully automated implementation of the theory is briefly discussed, and several literature case study problems are examined illustrating the utility of the branch-and-bound algorithm based on these relaxations.
+Keywords
+Convex relaxations  dynamic optimization  nonquasimonotone differential equations  

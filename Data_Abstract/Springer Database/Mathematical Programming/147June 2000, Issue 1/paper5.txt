@@ -1,0 +1,6 @@
+An ε-relaxation method for separable convex cost generalized network flow problems
+Paul Tseng;Dimitri P. Bertsekas;
+Abstract
+We generalize the ε-relaxation method of [14] for the single commodity, linear or separable convex cost network flow problem to network flow problems with positive gains. The method maintains ε-complementary slackness at all iterations and adjusts the arc flows and the node prices so as to satisfy flow conservation upon termination. Each iteration of the method involves either a price change on a node or a flow change along an arc or a flow change along a simple cycle. Complexity bounds for the method are derived. For one implementation employing ε-scaling, the bound is polynomial in the number of nodes N, the number of arcs A, a certain constant Γ depending on the arc gains, and ln(ε0/\(\)), where ε0 and \(\) denote, respectively, the initial and the final tolerance ε.
+Keywords
+Generalize Network  Flow Problem  Network Flow  Network Flow Problem  Convex Cost  

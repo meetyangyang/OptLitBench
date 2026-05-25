@@ -1,0 +1,6 @@
+A Proximal Bundle Method with Approximate Subgradient Linearizations
+Krzysztof C.  Kiwiel;
+Abstract
+We give a proximal bundle method for minimizing a convex function f over a closed convex set. It only requires evaluating f and its subgradients with an accuracy $\epsilon>0$, which is fixed but possibly unknown. It asymptotically finds points that are $\epsilon$-optimal. When applied to Lagrangian relaxation, it allows for $\epsilon$-accurate solutions of Lagrangian subproblems and finds $\epsilon$-optimal solutions of convex programs.
+Keywords
+nondifferentiable optimization, convex programming, proximal bundle methods, approximate subgradients, Lagrangian relaxation, 65K05, 90C25, 

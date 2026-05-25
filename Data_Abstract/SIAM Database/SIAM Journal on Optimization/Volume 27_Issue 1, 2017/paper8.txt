@@ -1,0 +1,6 @@
+A Riemannian Gradient Sampling Algorithm for Nonsmooth Optimization on Manifolds
+Seyedehsomayeh  Hosseini and André  Uschmajew;
+Abstract
+In this paper, an optimization method for nonsmooth locally Lipschitz functions on complete Riemannian manifolds is presented. The method is based on approximating the subdifferential of the cost function at every iteration by the convex hull of transported gradients from tangent spaces at randomly generated nearby points to the tangent space of the current iterate and can hence be seen as a generalization of the well known gradient sampling algorithm to a Riemannian setting. A convergence result is obtained under the assumption that the cost function is bounded below and continuously differentiable on an open set of full measure and that the employed vector transport and retraction satisfy certain conditions, which hold, for instance, for the exponential map and parallel transport. Then with probability one the algorithm produces iterates at which the cost function is differentiable, and each cluster point of the iterates is a Clarke stationary point. Modifications yielding only $\varepsilon$-stationary points are also possible.
+Keywords
+Riemannian optimization, locally Lipschitz functions, descent direction, Clarke subdifferential, 49J52, 65K05, 58C05, 

@@ -1,0 +1,6 @@
+Adaptive Finite Elements for Elliptic Optimization Problems with Control Constraints
+B.  Vexler and W.  Wollner;
+Abstract
+In this paper we develop a posteriori error estimates for finite element discretization of elliptic optimization problems with pointwise inequality constraints on the control variable. We derive error estimators for assessing the discretization error with respect to the cost functional as well as with respect to a given quantity of interest. These error estimators provide quantitative information about the discretization error and guide an adaptive mesh refinement algorithm allowing for substantial saving in degrees of freedom. The behavior of the method is demonstrated on numerical examples.
+Keywords
+mesh adaptivity, optimal control, a posteriori error estimates, finite element method, quantity of interest, pointwise inequality constraints, 65N50, 65N30, 65K10, 

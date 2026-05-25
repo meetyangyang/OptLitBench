@@ -1,0 +1,6 @@
+An interior-point algorithm for solving inverse linear optimization problem
+ Z.   Akbari ; M.   Reza   Peyghami ;
+Abstract
+ In this article, we deal with the inverse linear optimization problem under ℓ2-norm defined as follows: for a given linear optimization problem LP(b), with the right-hand side vector b, and current operating plan x 0, we would like to perturb the right-hand side vector b to  so that x 0 is an optimal solution of  and  is minimum. We prove that this inverse problem is equivalent to an optimization problem which contains some equilibrium constraints that makes it hard to solve. In order to solve this optimization problem, we employ the interior point approach behind LOQO and show that, at each iteration, the search direction is a descent direction for the ℓ2 merit function. Therefore, an ε-solution of the inverse problem can be computed using an extension of polynomial-time interior-point methods for linear and quadratic optimization problems. Finally, computational results of applying proposed approach on some generated inverse problems are given. 
+Keywords
+linear optimization, inverse problem, interior-point methods, merit functionAMS Subject Classifications:: 90C05, 90C51, 90C08, 90C33 

@@ -1,0 +1,4 @@
+Progress on the Progressive Party Problem
+Helmut Simonis;
+Abstract
+We report new results for solving the progressive party problem with finite domain constraints, which are competitive with the best local search results in the literature.When introduced in [1], the progressive party problem was a show case for finite domain constraint programming, since a solution of the original problem for 6 time periods could be found in 26 minutes with Ilog Solver, while an integer programming model was not successful. Improved results using finite domains were reported in [2]. Since then, alternative solutions using MILP have been proposed, while local search methods have been significantly faster, as well as more stable for given problem variations. The best results (to my knowledge) are from [3].

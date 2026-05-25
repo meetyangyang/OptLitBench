@@ -1,0 +1,4 @@
+Scheduling Social Golfers Locally
+Iván Dotú;Pascal Van Hentenryck;
+Abstract
+The scheduling of social golfers has attracted significant attention in recent years because of its highly symmetrical and combinatorial nature. In particular, it has become one of the standard benchmarks for symmetry breaking in constraint programming. This paper presents a very effective, local search, algorithm for scheduling social golfers. The algorithm find the first known solutions to 11 instances and matches, or improves, state-of-the-art results from constraint programming on all but 3 instances. Moreover, most instances of the social golfers are solved within a couple of seconds. Interestingly, the algorithm does not incorporate any symmetry-breaking scheme and illustrates the nice complementarity between constraint programming and local search on this scheduling application.

@@ -1,0 +1,6 @@
+Markov Jump Processes Approximating a Non-Symmetric Generalized Diffusion
+Nedžad Limić;
+Abstract
+Consider a non-symmetric generalized diffusion X(⋅) in ℝ d  determined by the differential operator \(A(\mbox{\boldmath{$x$}})=-\sum_{ij}\partial_{i}a_{ij}(\mbox{\boldmath{$x$}})\partial_{j} +\sum_{i} b_{i}(\mbox{\boldmath{$x$}})\partial_{i}\). In this paper the diffusion process is approximated by Markov jump processes X  n (⋅), in homogeneous and isotropic grids G  n ⊂ℝ d , which converge in distribution in the Skorokhod space D([0,∞),ℝ d ) to the diffusion X(⋅). The generators of X  n (⋅) are constructed explicitly. Due to the homogeneity and isotropy of grids, the proposed method for d≥3 can be applied to processes for which the diffusion tensor \(\{a_{ij}(\mbox{\boldmath{$x$}})\}_{11}^{dd}\) fulfills an additional condition. The proposed construction offers a simple method for simulation of sample paths of non-symmetric generalized diffusion. Simulations are carried out in terms of jump processes X  n (⋅). For piece-wise constant functions a  ij  on ℝ d  and piece-wise continuous functions a  ij  on ℝ2 the construction and principal algorithm are described enabling an easy implementation into a computer code.
+Keywords
+Symmetric diffusion  Approximation of diffusion  Simulation of diffusion  Divergence form operators  

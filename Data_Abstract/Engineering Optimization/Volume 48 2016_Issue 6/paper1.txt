@@ -1,0 +1,6 @@
+Topology and sizing optimization of discrete structures using a cooperative coevolutionary genetic algorithm with independent ground structures
+Wei Zhong;Ruiyi Su;Liangjin Gui;Zijie Fan;
+Abstract
+This article proposes a method called the cooperative coevolutionary genetic algorithm with independent ground structures (CCGA-IGS) for the simultaneous topology and sizing optimization of discrete structures. An IGS strategy is proposed to enhance the flexibility of the optimization by offering two separate design spaces and to improve the efficiency of the algorithm by reducing the search space. The CCGA is introduced to divide a complex problem into two smaller subspaces: the topological and sizing variables are assigned into two subpopulations which evolve in isolation but collaborate in fitness evaluations. Five different methods were implemented on 2D and 3D numeric examples to test the performance of the algorithms. The results demonstrate that the performance of the algorithms is improved in terms of accuracy and convergence speed with the IGS strategy, and the CCGA converges faster than the traditional GA without loss of accuracy.
+Keywords
+cooperative coevolutionary genetic algorithm, independent ground structures, topology optimization, sizing optimization, discrete structures 

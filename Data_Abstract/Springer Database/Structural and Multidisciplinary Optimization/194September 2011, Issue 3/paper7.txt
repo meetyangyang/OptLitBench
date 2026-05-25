@@ -1,0 +1,6 @@
+Kriging-based convex subspace single linkage method with path-based clustering technique for approximation-based global optimization
+Sei-ichiro Sakata;Fumihiro Ashida;Hiroyoshi Tanaka;
+Abstract
+This paper proposes an improved approach of the Kriging-based Convex Subspace Single Linkage Method (KCSSL method), which was reported as one of approximation-based global optimization methods. The KCSSL method consists of a convex subspace clustering procedure and a local optimization procedure. For the clustering procedure, previously, the cell-based clustering technique was employed. However, this approach will involve a huge number of convexity estimations in case of a higher dimensional problem. This will cause a very high computational cost, therefore, a path-based clustering procedure is newly developed. At first, a procedure for the convexity estimation with the Kriging method is introduced. Next, outline and detailed procedure of the proposed path-based clustering technique are explained. Also, the proposed method is applied to solving some approximate optimization problems. From the numerical results, validity and effectiveness of the proposed method are discussed.
+Keywords
+Approximation-based global optimization  Path-based clustering  Kriging method  Convexity estimation  

@@ -1,0 +1,6 @@
+Multi-objective optimization of a low specific speed centrifugal pump using an evolutionary algorithm
+Zhao An;Lai Zhounian;Wu Peng;Cao Linlin;Wu Dazhuan;
+Abstract
+This paper describes the shape optimization of a low specific speed centrifugal pump at the design point. The target pump has already been manually modified on the basis of empirical knowledge. A genetic algorithm (NSGA-II) with certain enhancements is adopted to improve its performance further with respect to two goals. In order to limit the number of design variables without losing geometric information, the impeller is parametrized using the Bézier curve and a B-spline. Numerical simulation based on a Reynolds averaged Navier–Stokes (RANS) turbulent model is done in parallel to evaluate the flow field. A back-propagating neural network is constructed as a surrogate for performance prediction to save computing time, while initial samples are selected according to an orthogonal array. Then global Pareto-optimal solutions are obtained and analysed. The results manifest that unexpected flow structures, such as the secondary flow on the meridian plane, have diminished or vanished in the optimized pump.
+Keywords
+optimization, low specific speed centrifugal pump, multi-objective genetic algorithm, neural network, design of experiment 

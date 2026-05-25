@@ -1,0 +1,6 @@
+FUZZY-GENETIC ALGORITHMS AND TIME-OPTIMAL OBSTACLE-FREE PATH GENERATION FOR MOBILE ROBOTS
+ DILIP   KUMAR   PRATIHAR ; KALYANMOY   DEB ; AMITABHA   GHOSH ;
+Abstract
+ This paper, describes a new yet efficient technique based on fuzzy logic and genetic algorithms (Gas) to solve the find-path problems of a mobile robot, which is formulated as a nonlinear programming problem. In the proposed algorithm, a fuzzy logic controller is used to find obstracle-free directions locally and GAs are used as optimizer to find optimal/near-optimal locations along the obstracle-free directions. This algorithm is found to be more efficient than a steepest gradient descent method. Although the fuzzy-GA method is shown to find slightly inferior or similar solutions to those found using the best-known tangent-graph and A* algorithms, it is computationally faster than them. Moreover, the fuzzy-GA approach is practically more viable than the tangent-graph method, because of former's lesser sensitivity to the number and type of obstacles. The efficiency of the proposed method demonstrated in this paper suggests that it can be extended to solve motion planning problems having moving obstacles. 
+Keywords
+Fuzzy logic, genetic algorithms, find-path problem, robots 

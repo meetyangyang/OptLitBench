@@ -1,0 +1,6 @@
+Lower Bounds in Lot-Sizing Models: A Polyhedral Study
+Miguel Constantino;
+Abstract
+Variable lower bounds in Mixed Integer Programs are constraints with the general form x≥Ly,where xis a continuous variable and y is a binary or an integer variable.This type of constraints is present in some Lot-Sizing models, where x represents the amount of some article produced by a machine and y∈{0,1}indicates whether the machine is set-up for that article(y = 1) or not (y = 0). In these models, production below some level is not allowed, in order to make full use of resources.In this paper we study, from the polyhedral viewpoint, the mixed integer models whose feasible set includes an additive constraint Σxj ≤(≥, =)D, and constraints Lyj ≤ xj ≤ Kyj, where xj are continuous variables, yj are integer or binary variables, and K is a large constant.We derive families of strong valid inequalities and show they are sufficient to describe completely the convex hulls of the sets of feasible solutions. Moreover, we develop polynomial algorithms to solve the separation problem associated to each of the families obtained. Finally, we incorporate the inequalities obtained in a cutting plane algorithm, and test their ability to solve some multi-item lot-sizing problems.
+Keywords
+Mixed integer programming polyhedral combinatorics variable lower bounds lot-sizing 

@@ -1,0 +1,6 @@
+Inequality-Equality Constrained Optimization: An Analytical Robustness Comparison of a Feasibility Method Versus L1 Sequential Quadratic Programming
+ Brian J.   Driessen ; Nader   Sadegh ;
+Abstract
+ In this work we present an analytical robustness comparison of two methods for inequality-equality constrained optimization or nonlinear programming. The methods compared are (1) a Feasibility Method (FM) and (2) rudimentary sequential quadratic programming with an L1 merit function (L1-SQP). We then also make note of a very recent global convergence result (similar to that of FM) for a new Filter-type SQP algorithm. And, we claim no analytical robustness advantage of FM over the Filter-type SQP algorithm. The problem statement assumptions include nonstationarity of constraint error norms except at zero constraint error, without which we are not aware of any algorithm that is provably guaranteed to converge to a tolerance-feasible stationary point of a penalty function or a Kuhn-Tucker point. Global convergence of FM is proved analytically. Rudimentary L1-SQP is shown to exhibit potential failure even from a feasible starting point, due to an onset of infeasible subproblems. 
+Keywords
+Nonlinear Programming, Infeasible Subproblem, Global Convergence, Inequality-equality Constrained Optimization 

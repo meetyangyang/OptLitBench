@@ -1,0 +1,6 @@
+Stability of Over-Relaxations for the Forward-Backward Algorithm, Application to FISTA
+J.-F.  Aujol and Ch.  Dossal;
+Abstract
+This paper is concerned with the convergence of over-relaxations of the forward-backward  algorithm (FB) (in particular the fast iterative soft thresholding algorithm (FISTA)) in the case when proximal maps and/or gradients are computed with a possible error. We show that, provided these errors are small enough, the algorithm still converges to a minimizer of the functional, and with a speed of convergence (in terms of values of the functional) that remains the same as in the noise-free case. We also show that larger errors can be allowed, using a lower over-relaxation than FISTA. This still leads to the convergence of iterates and with ergodic convergence speed faster than the classical FB and FISTA.
+Keywords
+convex analysis, proximal operator, FISTA, FB, over-relaxation, 49M29, 46N10, 90C25, 65K10, 

@@ -1,0 +1,6 @@
+A half thresholding projection algorithm for sparse solutions of LCPs
+Meijuan Shang;Chao Zhang;Dingtao Peng;Shenglong Zhou;
+Abstract
+In this paper, we aim to find sparse solutions of the linear complementarity problems (LCPs), which has many applications such as bimatrix games and portfolio selection. Mathematically, the underlying model is NP-hard in general. Thus, an \(\ell _{1/2}\) regularized projection minimization model is proposed for relaxation. A half thresholding projection (HTP) algorithm is then designed for this regularization model, and the convergence of HTP algorithm is studied. Numerical results demonstrate that the HTP algorithm can effectively solve this regularization model and output very sparse solutions of LCPs with high quality.
+Keywords
+Linear complementarity problems  Sparse solutions  \(\ell _{1/2}\) regularized minimization  Half thresholding projection algorithm  Convergence  

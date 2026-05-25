@@ -1,0 +1,6 @@
+On the choice of parameters for power-series interior point algorithms in linear programming
+Gongyun Zhao;
+Abstract
+In this paper we study higher-order interior point algorithms, especially power-series algorithms, for solving linear programming problems. Since higher-order differentials are not parameter-invariant, it is important to choose a suitable parameter for a power-series algorithm. We propose a parameter transformation to obtain a good choice of parameter, called ak-parameter, for general truncated powerseries approximations. We give a method to find ak-parameter. This method is applied to two powerseries interior point algorithms, which are built on a primal—dual algorithm and a dual algorithm, respectively. Computational results indicate that these higher-order power-series algorithms accelerate convergence compared to first-order algorithms by reducing the number of iterations. Also they demonstrate the efficiency of thek-parameter transformation to amend an unsuitable parameter in power-series algorithms.
+Keywords
+Power-series interior point algorithms: Parameter transformations  Best parameter  k-parameter  Truncated power-series approximation  Higher-order derivatives  Linear programming  

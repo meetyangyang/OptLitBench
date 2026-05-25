@@ -1,0 +1,6 @@
+On Global Near Optimality of Special Periodic Protocols for Fluid Polling Systems with Setups
+Alexey Matveev;Varvara Feoktistova;Ksenia Bolshakova;
+Abstract
+We consider a generic deterministic time-invariant fluid model of a polling system, where several buffers (queues) of infinite sizes receive constant rate inflows of jobs from outside the system and share a common source of service (a finite capacity server). The server can serve at most one buffer at a time and has to switch among buffers from time to time; any switch consumes a nonzero switch-over period. With respect to the long-run maximal scaled work in progress (wip) performance metric, near optimality of periodic scheduling and service protocols is established: The optimum can be furnished by such a protocol up to as small error as desired. To prove this, a special class of protocols is introduced, which prescribe to serve any buffer at the maximal rate until its size reduces to a pre-specified percent of its size at the beginning of the visit. It is also shown that the exhaustive policy is optimal for any buffer whose service at the maximal rate implies reduction in the scaled wip.
+Keywords
+Queues and service  Production planning and scheduling   Optimality conditions  Performance evaluation and comparison  90B22  90C46  49K30  49K35  

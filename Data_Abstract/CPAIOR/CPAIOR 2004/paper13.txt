@@ -1,0 +1,4 @@
+Dynamic Heaviest Paths in DAGs with Arbitrary Edge Weights
+Irit Katriel;
+Abstract
+We deal with the problem of maintaining the heaviest paths in a DAG under edge insertion and deletion. Michel and Van Hentenryck [2] designed algorithms for this problem which work on DAGs with strictly positive edge weights. They handle edges of zero or negative weight by replacing each of them by (potentially many) edges with positive weights. In this paper we show an alternative solution, which has the same complexity and handles arbitrary edge weights without graph transformations. For the case in which all edge weights are integers, we show a second algorithm which is asymptotically faster.

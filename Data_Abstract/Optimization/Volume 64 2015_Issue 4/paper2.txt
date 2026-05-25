@@ -1,0 +1,6 @@
+The exact penalty map for nonsmooth and nonconvex optimization
+Regina S. Burachik;Alfredo N. Iusem;Jefferson G. Melo;
+Abstract
+Augmented Lagrangian duality provides zero duality gap and saddle point properties for nonconvex optimization. On the basis of this duality, subgradient-like methods can be applied to the (convex) dual of the original problem. These methods usually recover the optimal value of the problem, but may fail to provide a primal solution. We prove that the recovery of a primal solution by such methods can be characterized in terms of (i) the differentiability properties of the dual function and (ii) the exact penalty properties of the primal-dual pair. We also connect the property of finite termination with exact penalty properties of the dual pair. In order to establish these facts, we associate the primal-dual pair to a penalty map. This map, which we introduce here, is a convex and globally Lipschitz function and its epigraph encapsulates information on both primal and dual solution sets.
+Keywords
+duality scheme, exact penalty, augmented Lagrangians, nonconvex optimization, nonsmooth optimization, Banach spacesAMS Subject Classifications: 49M29, 90C26, 65K10 

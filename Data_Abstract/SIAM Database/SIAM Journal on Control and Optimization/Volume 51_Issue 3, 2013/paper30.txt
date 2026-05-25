@@ -1,0 +1,6 @@
+Error Analysis for a Finite Element Approximation of Elliptic Dirichlet Boundary Control Problems
+S.  May, R.  Rannacher, and B.  Vexler;
+Abstract
+We consider the Galerkin finite element approximation of an elliptic Dirichlet boundary control model problem governed by the Laplacian operator. The analytical setting of this problem uses $L^2$ controls and a “very weak” formulation of the state equation. However, the corresponding finite element approximation uses standard continuous trial and test functions. For this approximation, we derive a priori error estimates of optimal order, which are confirmed by numerical experiments. The proofs employ duality arguments and known results from the $L^p$ error analysis for the finite element Dirichlet projection.
+Keywords
+Dirichlet boundary control, finite elements, a priori error estimates, 65K10, 65N30, 65N21, 49M25, 49K20, 

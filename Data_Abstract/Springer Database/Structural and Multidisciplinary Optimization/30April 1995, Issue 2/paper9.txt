@@ -1,0 +1,6 @@
+A two-step procedure for discrete minimization of truss weight
+G. Bouzy;J. F. Abel;
+Abstract
+Five optimization methods are investigated to solve for the combination of standard-size members that minimizes the weight of a truss subjected to stress, displacement, and minimumgage constraints. After comparing the performance of the five methods on four case studies, the writers recommend a two-step procedure. First, Sequential Quadratic Programming (SQP) is applied to solve the equivalent continuous problem, and crosssections are rounded up to standard sizes. Second, a Genetic Algorithm (GA) is applied to search locally for a better configuration of standard-size members. From the problems studied (having 16 standard sizes and up to 96 design variables) a weight reduction of the order of 5% appears possible from the second stage at an additional computational cost of about 20%.
+Keywords
+Genetic Algorithm  Civil Engineer  Computational Cost  Design Variable  Weight Reduction  

@@ -1,0 +1,6 @@
+Second-order cone programming with warm start for elastoplastic analysis with von Mises yield criterion
+Kazuo Yonekura;Yoshihiro Kanno;
+Abstract
+The incremental problem for quasistatic elastoplastic analysis with the von Mises yield criterion is discussed within the framework of the second-order cone programming (SOCP). We show that the associated flow rule under the von Mises yield criterion with the linear isotropic/kinematic hardening is equivalently rewritten as a second-order cone complementarity problem. The minimization problems of the potential energy and the complementary energy for incremental analysis are then formulated as the primal-dual pair of SOCP problems, which can be solved with a primal-dual interior-point method. To enhance numerical performance of tracing an equilibrium path, we propose a warm-start strategy for a primal-dual interior-point method based on the primal-dual penalty method. In this warm-start strategy, we solve a penalized SOCP problem to find the equilibrium solution at the current loading step. An advanced initial point for solving this penalized SOCP problem is defined by using information of the solution at the previous loading step.
+Keywords
+Elastoplastic analysis  Interior-point method  Second-order cone programming  Warm-start strategy  von Mises yield criterion  

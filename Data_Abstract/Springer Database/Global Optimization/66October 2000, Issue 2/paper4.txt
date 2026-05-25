@@ -1,0 +1,6 @@
+A Barrier Function Method for the Nonconvex Quadratic Programming Problem with Box Constraints
+Chuangyin Dang;Lei Xu;
+Abstract
+In this paper a barrier function method is proposed for approximating a solution of the nonconvex quadratic programming problem with box constraints. The method attempts to produce a solution of good quality by following a path as the barrier parameter decreases from a sufficiently large positive number. For a given value of the barrier parameter, the method searches for a minimum point of the barrier function in a descent direction, which has a desired property that the box constraints are always satisfied automatically if the step length is a number between zero and one. When all the diagonal entries of the objective function are negative, the method converges to at least a local minimum point of the problem if it yields a local minimum point of the barrier function for a sequence of decreasing values of the barrier parameter with zero limit. Numerical results show that the method always generates a global or near global minimum point as the barrier parameter decreases at a sufficiently slow pace.
+Keywords
+Nonconvex Quadratic Programming  Box Constraints  Global Optimization  Barrier Function  Descent Direction  Iterative Method  

@@ -1,0 +1,6 @@
+A Feature Selection Newton Method for Support Vector Machine Classification
+Glenn M. Fung;O.L. Mangasarian;
+Abstract
+A fast Newton method, that suppresses input space features, is proposed for a linear programming formulation of support vector machine classifiers. The proposed stand-alone method can handle classification problems in very high dimensional spaces, such as 28,032 dimensions, and generates a classifier that depends on very few input features, such as 7 out of the original 28,032. The method can also handle problems with a large number of data points and requires no specialized linear programming packages but merely a linear equation solver. For nonlinear kernel classifiers, the method utilizes a minimal number of kernel functions in the classifier that it generates.
+Keywords
+classification  feature selection  linear programming  Newton method  

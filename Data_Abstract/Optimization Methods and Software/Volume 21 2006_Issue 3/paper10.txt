@@ -1,0 +1,6 @@
+Computational enhancements in low-rank semidefinite programming
+ Samuel   Burer ; Changhui   Choi ;
+Abstract
+ We discuss computational enhancements for the low-rank semidefinite programming algorithm, including the extension to block semidefinite programs (SDPs), an exact linesearch procedure, and a dynamic rank reduction scheme. A truncated-Newton method is also introduced, and several preconditioning strategies are proposed. Numerical experiments illustrating these enhancements are provided on a wide class of test problems. In particular, the truncated-Newton variant is able to achieve high accuracy in modest amounts of time on maximum-cut-type SDPs. 
+Keywords
+Semidefinite programming, Low-rank matrices, Vector programming, Non-linear programming, Numerical experiments 

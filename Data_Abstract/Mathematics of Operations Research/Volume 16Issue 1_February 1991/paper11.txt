@@ -1,0 +1,6 @@
+Multichain Markov Decision Processes with a Sample Path Constraint: A Decomposition Approach
+Keith W. Ross;Ravi Varadarajan;
+Abstract
+We consider finite-state finite-action Markov decision processes which accumulate both a reward and a cost at each decision epoch. We study the problem of finding a policy that maximizes the expected long-run average reward subject to the constraint that the long-run average cost be no greater than a given value with probability one. We establish that if there exists a policy that meets the constraint, then there exists an ε-optimal stationary policy. Furthermore, an algorithm is outlined to locate the ε-optimal stationary policy. The proof of the result hinges on a decomposition of the state space into maximal recurrent classes and a set of transient states.
+Keywords
+Markov decision processes long-run average reward sample path constraint decompositions 

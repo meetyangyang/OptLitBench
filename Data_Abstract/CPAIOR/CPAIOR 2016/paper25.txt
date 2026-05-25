@@ -1,0 +1,4 @@
+Revisiting Two-Sided Stability Constraints
+Mohamed Siala;Barry O’Sullivan;
+Abstract
+We show that previous filtering propositions on two-sided stability problems do not enforce arc consistency (AC), however they maintain bound(\(\mathcal{D}\)) consistency (BC(D)). We propose an optimal algorithm achieving BC(D) with O(L) time complexity where L is the length of the preference lists. We also show an adaptation of this filtering approach to achieve AC. Next, we report the first polynomial time algorithm for solving the hospital/resident problem with forced and forbidden pairs. Furthermore, we show that the particular case of this problem for stable marriage can be solved in \(O(n^2)\) which improves the previously best complexity by a factor of \(n^2\). Finally, we present a comprehensive set of experiments to evaluate the filtering propositions.

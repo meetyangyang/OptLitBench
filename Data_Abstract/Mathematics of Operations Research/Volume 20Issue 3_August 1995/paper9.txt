@@ -1,0 +1,6 @@
+On the Von Neumann Economic Growth Problem
+Yinyu Ye;
+Abstract
+We study the complexity of the von Neumann economic growth problem: $$\gamma^\ast=\max \{\gamma\mid \exists y \ne 0: y \ge 0, (B - \gamma A)y \ge 0\},$$ where A and B are given two nonnegative and rational m × n-matrices, and A has no all-zero column. Let the binary data length of A and B be L. We develop an interior-point algorithm to generate a γ̄, such that γ* − 2−1 ≤ γ̄ ≤ γ*, in O((m + n)(L + min(m, n)t)) iterations where each iteration solves a system of (m + n) linear equations.
+Keywords
+Von Neumann's economic growth model linear inequality analytic center max-potential interior-point algorithms 

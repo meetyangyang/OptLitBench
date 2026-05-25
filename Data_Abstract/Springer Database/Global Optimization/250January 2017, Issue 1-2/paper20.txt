@@ -1,0 +1,6 @@
+Application of Reduced-set Pareto-Lipschitzian Optimization to truss optimization
+Jonas Mockus;Remigijus Paulavičius;Dainius Rusakevičius;Dmitrij Šešok;Julius Žilinskas;
+Abstract
+In this paper, a recently proposed global Lipschitz optimization algorithm Pareto-Lipschitzian Optimization with Reduced-set (PLOR) is further developed, investigated and applied to truss optimization problems. Partition patterns of the PLOR algorithm are similar to those of DIviding RECTangles (DIRECT), which was widely applied to different real-life problems. However here a set of all Lipschitz constants is reduced to just two: the maximal and the minimal ones. In such a way the PLOR approach is independent of any user-defined parameters and balances equally local and global search during the optimization process. An expanded list of other well-known DIRECT-type algorithms is used in investigation and experimental comparison using the standard test problems and truss optimization problems. The experimental investigation shows that the PLOR algorithm gives very competitive results to other DIRECT-type algorithms using standard test problems and performs pretty well on real truss optimization problems.
+Keywords
+Truss optimization  Lipschitz optimization  PLOR algorithm  DIRECT algorithm  

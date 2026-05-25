@@ -1,0 +1,6 @@
+A new variant of the primal affine scaling algorithm for linear programs
+ Gwo-Ming   Jan ; Shu-Cherng   Fang ;
+Abstract
+ In this paper, a new variant of the primal affine scaling algorithm for linear programming problem is developed. We show that under the assumptions of bounded feasible region and primal and dual nondegeneracy, the algorithm generates two sequences, {xk } and {π k }, of points that converge to the primal and the dual optimal solutions, respectively. Compared to the primal affine scaling algorithm proposed by Barnes, Cavalier-Soyster, and Vanderbei-Meketon-Freedman, the new algorithm shows a better asymptotic convergent rate. For a standard linear program with n variables and m constraints, the limiting convergent rate of the new algorithm is favored by a factor of . This result is obtained by expending “ball” to “circular cone” in the step of finding a direction vector. 
+Keywords
+Linear programming, affine scaling algorithm, interior point methodAMS 1980 Subject Classification: Primary:90 C 05, Primary:49 D 35 

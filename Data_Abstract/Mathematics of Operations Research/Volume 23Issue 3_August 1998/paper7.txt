@@ -1,0 +1,6 @@
+Structural Properties of Lot Streaming in a Flow Shop
+C. A. Glass;C. N. Potts;
+Abstract
+Lot streaming is the process of splitting a given lot or job to allow the overlapping of successive operations in multi-stage production systems, thereby reducing the makespan of the corresponding schedule. This paper considers the problem of finding sublot sizes to minimize the makespan for a single job in an m-machine flow shop. On each machine, the job is to be partitioned into a given number of sublots, and sublot sizes are the same on each machine. We introduce the concept of machine dominance, and propose an algorithm to reduce the problem so that only dominant machines are considered explicitly. After defining a network representation in which it is required to find the shortest critical path length, we identify the structure of critical paths for optimal sublot sizes. Knowledge of this structure considerably reduces the search for an optimal solution, which we illustrate by presenting algorithms for finding optimal sublot sizes.
+Keywords
+Scheduling flow shop lot streaming 

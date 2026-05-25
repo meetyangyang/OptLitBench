@@ -1,0 +1,6 @@
+The Use of Squared Slack Variables in Nonlinear Second-Order Cone Programming
+Ellen H. Fukuda;Masao Fukushima;
+Abstract
+In traditional nonlinear programming, the technique of converting a problem with inequality constraints into a problem containing only equality constraints, by the addition of squared slack variables, is well known. Unfortunately, it is considered to be an avoided technique in the optimization community, since the advantages usually do not compensate for the disadvantages, like the increase in the dimension of the problem, the numerical instabilities, and the singularities. However, in the context of nonlinear second-order cone programming, the situation changes, because the reformulated problem with squared slack variables has no longer conic constraints. This fact allows us to solve the problem by using a general-purpose nonlinear programming solver. The objective of this work is to establish the relation between Karush–Kuhn–Tucker points of the original and the reformulated problems by means of the second-order sufficient conditions and regularity conditions. We also present some preliminary numerical experiments.
+Keywords
+Karush–Kuhn–Tucker conditions  Nonlinear second-order cone programming  Second-order sufficient condition  Slack variables  90C30  90C46  

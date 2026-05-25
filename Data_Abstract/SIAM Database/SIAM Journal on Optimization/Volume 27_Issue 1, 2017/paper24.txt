@@ -1,0 +1,6 @@
+Exact Semidefinite Programming Relaxations with Truncated Moment Matrix for Binary Polynomial Optimization Problems
+Shinsaku  Sakaue, Akiko  Takeda, Sunyoung  Kim, and Naoki  Ito;
+Abstract
+For binary polynomial optimization problems (POPs) of degree $d$ with $n$ variables, we prove that the $\lceil(n+d-1)/2\rceil$th semidefinite programming (SDP) relaxation in Lasserre's hierarchy of SDP relaxations provides the exact optimal value. If binary POPs involve only even-degree monomials, we show that it can be further reduced to $\lceil(n+d-2)/2\rceil$. This bound on the relaxation order coincides with the conjecture by Laurent in 2003, which was recently proved by Fawzi, Saunderson, and Parrilo, on binary quadratic optimization problems where $d=2$. We also numerically confirm  that the bound is tight. More precisely, we present instances of binary POPs that require solving at least the $\lceil(n+d-1)/2\rceil$th SDP relaxation for general binary POPs and the $\lceil(n+d-2)/2\rceil$th SDP relaxation for even-degree binary POPs to obtain the exact optimal values.
+Keywords
+binary polynomial optimization problems, hierarchy of SDP relaxations, bound for the exact SDP relaxation, even-degree binary polynomial optimization problems, chordal graph, 90C22, 90C25, 90C26, 

@@ -1,0 +1,6 @@
+A Class of Trust-Region Methods for Parallel Optimization
+P. D.  Hough and J. C.  Meza;
+Abstract
+We present a new class of optimization methods that incorporates a parallel direct search (PDS) method within a trust-region Newton framework. This approach combines the inherent parallelism of PDS with the rapid and robust convergence properties of Newton methods. Numerical tests have yielded favorable results for both standard test problems and engineering applications. In addition, the new method appears to be more robust in the presence of noisy functions, which are inherent in many engineering simulations.
+Keywords
+parallel optimization, trust-region methods, direct search methods, nonlinear programming, 65Y05, 68W15, 90C30, 90C53, 90C90, 

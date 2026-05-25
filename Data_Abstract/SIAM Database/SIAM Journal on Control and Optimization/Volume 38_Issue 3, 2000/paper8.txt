@@ -1,0 +1,6 @@
+Gap-Metric Robustness Analysis of Linear Periodically Time-Varying Feedback Systems
+Michael  Cantoni and Keith  Glover;
+Abstract
+Quantitative robust stability results are established in this paper for feedback systems that evolve in continuous-time and exhibit linear, periodically time-varying (LPTV) behavior. The results presented are analogous to results known to hold for linear, time-invariant (LTI) systems, although they do not follow directly from these. System uncertainty is measured using the gap metric, which quantifies the distance between systems in terms of the aperture between their graphs (the subspaces corresponding to all input-output pairs for each system). The main robustness result characterizes the largest gap-ball of LPTV plants stabilized by a nominal LPTV feedback controller known to stabilize a nominal LPTV plant at the center of this ball. A key step in the proof of this result makes use of a formula derived for the directed gap between LPTV systems. This formula is essentially a generalization of Georgiou's for LTI systems. Importantly, all of the results presented apply to a class of sampled-data control systems, as a special case.
+Keywords
+gap metric, robust stability, periodic time-variation, sampled-data systems, 93C05, 93C25, 9C350, 93C60, 93D09, 93D25, 

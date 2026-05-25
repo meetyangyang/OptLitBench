@@ -1,0 +1,6 @@
+Better s–t-tours by Gao trees
+Corinna Gottschalk;Jens Vygen;
+Abstract
+We consider the s–t-path TSP: given a finite metric space with two elements s and t, we look for a path from s to t that contains all the elements and has minimum total distance. We improve the approximation ratio for this problem from 1.599 to 1.566. Like previous algorithms, we solve the natural LP relaxation and represent an optimum solution \(x^*\) as a convex combination of spanning trees. Gao showed that there exists a spanning tree in the support of \(x^*\) that has only one edge in each narrow cut [i.e., each cut C with \(x^*(C)<2\)]. Our main theorem says that the spanning trees in the convex combination can be chosen such that many of them are such “Gao trees” simultaneously at all sufficiently narrow cuts.
+Keywords
+Traveling salesman problem  Approximation algorithm  Convex combination  Spanning tree  T-join  90C27  90C59  05C05  68Q25  68R05  

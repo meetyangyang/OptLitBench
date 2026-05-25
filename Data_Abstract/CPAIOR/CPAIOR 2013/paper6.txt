@@ -1,0 +1,4 @@
+Revisiting Hyper Binary Resolution
+Marijn J. H. Heule;Matti Järvisalo;Armin Biere;
+Abstract
+This paper focuses on developing efficient inference techniques for improving conjunctive normal form (CNF) Boolean satisfiability (SAT) solvers. We analyze a variant of hyper binary resolution from various perspectives: We show that it can simulate the circuit-level technique of structural hashing and how it can be realized efficiently using so called tree-based lookahead. Experiments show that our implementation improves the performance of state-of-the-art CNF-level SAT techniques on combinational equivalent checking instances.

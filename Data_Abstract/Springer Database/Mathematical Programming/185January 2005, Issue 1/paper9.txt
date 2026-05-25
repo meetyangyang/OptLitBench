@@ -1,0 +1,6 @@
+On the generation of circuits and minimal forbidden sets
+Frederik Stork;Marc Uetz;
+Abstract
+We present several complexity results related to generation and counting of all circuits of an independence system. Our motivation to study these problems is their relevance in the solution of resource constrained scheduling problems, where an independence system arises as the subsets of jobs that may be scheduled simultaneously. We are interested in the circuits of this system, the so-called minimal forbidden sets, which are minimal subsets of jobs that must not be scheduled simultaneously. As a consequence of the complexity results for general independence systems, we obtain several complexity results in the context of resource constrained scheduling. On that account, we propose and analyze a simple backtracking algorithm that generates all minimal forbidden sets for such problems. The performance of this algorithm, in comparison to a previously suggested divide-and-conquer approach, is evaluated empirically using instances from the project scheduling library PSPLIB.
+Keywords
+Independence system  Circuit  Enumeration  Counting  Project scheduling  Resource constraints  Forbidden set  

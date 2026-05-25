@@ -1,0 +1,6 @@
+A Regularization Newton Method for Solving Nonlinear Complementarity Problems 
+D. Sun;
+Abstract
+ In this paper we construct a regularization Newton method for solving the nonlinear complementarity problem (NCP(F )) and analyze its convergence properties under the assumption that F  is a P  0  -function. We prove that every accumulation point of the sequence of iterates is a solution of NCP(F ) and that the sequence of iterates is bounded if the solution set of NCP(F ) is nonempty and bounded. Moreover, if F  is a monotone and Lipschitz continuous function, we prove that the sequence of iterates is bounded if and only if the solution set of NCP(F ) is nonempty by setting  \(t=\frac{1}{2}\) , where  \(t\in [\frac{1}{2},1]\)  is a parameter. If NCP(F)  has a locally unique solution and satisfies a nonsingularity condition, then the convergence rate is superlinear (quadratic) without strict complementarity conditions. At each step, we only solve a linear system of equations. Numerical results are provided and further applications to other problems are discussed. 
+Keywords
+Key words. Nonlinear complementarity problem, Nonsmooth equations, Regularization, Generalized Newton method, Convergence. AMS Classification. 90C33, 90C30, 65H10.  

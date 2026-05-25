@@ -1,0 +1,6 @@
+Augmented Lagrangian Algorithms Based on the Spectral Projected Gradient Method for Solving Nonlinear Programming Problems
+M. A. Diniz-Ehrhardt;M. A. Gomes-Ruggiero;J. M. Martínez;S. A. Santos;
+Abstract
+The spectral projected gradient method SPG is an algorithm for large-scale bound-constrained optimization introduced recently by Birgin, Martínez, and Raydan. It is based on the Raydan unconstrained generalization of the Barzilai-Borwein method for quadratics. The SPG algorithm turned out to be surprisingly effective for solving many large-scale minimization problems with box constraints. Therefore, it is natural to test its perfomance for solving the sub-problems that appear in nonlinear programming methods based on augmented Lagrangians. In this work, augmented Lagrangian methods which use SPG as the underlying convex-constraint solver are introduced (ALSPG) and the methods are tested in two sets of problems. First, a meaningful subset of large-scale nonlinearly constrained problems of the CUTE collection is solved and compared with the perfomance of LANCELOT. Second, a family of location problems in the minimax formulation is solved against the package FFSQP.
+Keywords
+Augmented Lagrangian methods  projected gradient methods  nonmonotone line search  large-scale problems  bound-constrained problems  Barzilai-Borwein method  

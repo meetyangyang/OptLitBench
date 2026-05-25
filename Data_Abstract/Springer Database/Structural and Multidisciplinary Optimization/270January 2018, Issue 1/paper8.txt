@@ -1,0 +1,6 @@
+Shape optimization with the level-set-method using local volume constraints
+Simon H. Hesse;Lukas F. Leidinger;Johannes Kremheller;Dirk Lukaszewicz;Fabian Duddeck;
+Abstract
+This paper presents a method to locally constrain multiple material volume domains for structural optimization with the Level Set Method (LSM). Two different Lagrangian formulations and multiplier update methods are used, for both the global and local problem. The local volume domains can be constrained by both equality and inequality constraints. The optimization objective is compliance minimization for well-posed statically loaded structures. For validation, several example problems are established and solved using the proposed method. Results show that the volume ratios for user established sub-domains can be controlled successfully. The local constraint values are met accurately in the case of equality constraints and remain in their feasible domain in the case of inequality constraints. Optimization results are not significantly hindered by the introduction of local volume constraints for comparable problems.
+Keywords
+Level set method  Shape optimization  Local constraints  Local volume  

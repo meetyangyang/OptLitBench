@@ -1,0 +1,6 @@
+Accelerated Block-coordinate Relaxation for Regularized Optimization
+Stephen J.  Wright;
+Abstract
+We discuss minimization of a smooth function to which is added a separable regularization function that induces structure in the solution. A block-coordinate relaxation approach with proximal linearized subproblems yields convergence to critical points, while identification of the optimal manifold (under a nondegeneracy condition) allows acceleration techniques to be applied on a reduced space. The work is motivated by experience with an algorithm for regularized logistic regression, and computational results for the algorithm on problems of this type are presented.
+Keywords
+regularized optimization, block-coordinate relaxation, active manifold identification, 49K40, 49M27, 90C31, 

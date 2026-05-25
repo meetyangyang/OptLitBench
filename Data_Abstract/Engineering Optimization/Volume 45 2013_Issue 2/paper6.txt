@@ -1,0 +1,6 @@
+A robust search paradigm with Enhanced Vine Creeping Optimization
+ C.   N.   Young ; C.   Le Brese ; J.   J.   Zou ; C.   J.   Leo ;
+Abstract
+ In order to overcome a worst case scenario for a generalized evolutionary search, which is realized by assuming that conservation of information (COI) holds true, a robust search paradigm is explored building ideas based upon the Enhanced Vine Creeping Optimization (EVCO) algorithm. The proposed algorithm is a modular framework encompassing an archive, a global search and a local search module. The modular structure enables EVCO to serve not only as a stand-alone global optimization algorithm, but importantly as a framework which provides feedback metrics from the performance of a particular combination of search heuristics on different classes of problems. It is this feature of EVCO that provides the foundation of the proposed robust search paradigm. The new algorithm shows significantly better performance than its predecessor, VCO, and eight state-of-the-art evolutionary algorithms placing first or equal first in 10 out of 14 benchmark tests, while naturally providing metric information to assist in tackling the algorithm selection problem. 
+Keywords
+conservation of information, evolutionary strategy, genetic algorithm, non-revisiting stochastic search, vine creeping optimization 

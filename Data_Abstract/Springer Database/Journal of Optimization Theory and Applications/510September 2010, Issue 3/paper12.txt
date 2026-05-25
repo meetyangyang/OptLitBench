@@ -1,0 +1,6 @@
+Suboptimal Solutions to Dynamic Optimization Problems via Approximations of the Policy Functions
+G. Gnecco;M. Sanguineti;
+Abstract
+The approximation of the optimal policy functions is investigated for dynamic optimization problems with an objective that is additive over a finite number of stages. The distance between optimal and suboptimal values of the objective functional is estimated, in terms of the errors in approximating the optimal policy functions at the various stages. Smoothness properties are derived for such functions and exploited to choose the approximating families. The approximation error is measured in the supremum norm, in such a way to control the error propagation from stage to stage. Nonlinear approximators corresponding to Gaussian radial-basis-function networks with adjustable centers and widths are considered. Conditions are defined, guaranteeing that the number of Gaussians (hence, the number of parameters to be adjusted) does not grow “too fast” with the dimension of the state vector. The results help to mitigate the curse of dimensionality in dynamic optimization. An example of application is given and the use of the estimates is illustrated via a numerical simulation.
+Keywords
+Dynamic optimization  Dynamic programming  Suboptimal policies  Approximation schemes  Curse of dimensionality  

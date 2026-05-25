@@ -1,0 +1,4 @@
+Bi-objective Combined Facility Location and Network Design
+Eduardo G. Carrano;Ricardo H. C. Takahashi;Carlos M. Fonseca;Oriane M. Neto;
+Abstract
+This paper presents a multicriterion algorithm for dealing with joint facility location and network design problems, formulated as bi-objective problems. The algorithm is composed of two modules: a multiobjective quasi-Newton algorithm, that is used to find the location of the facilities; and a multiobjective genetic algorithm, which is responsible for finding the efficient topologies. These modules are executed in an iterative way, to make the estimation of whole Pareto set possible. The algorithm has been applied to the expansion of a real energy distribution system. The minimization of financial cost and the maximization of reliability have been considered as the design objectives in this case.

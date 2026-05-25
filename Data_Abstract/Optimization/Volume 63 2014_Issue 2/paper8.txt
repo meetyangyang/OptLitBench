@@ -1,0 +1,6 @@
+New BFGS method for unconstrained optimization problem based on modified Armijo line search
+ Zhong   Wan ; Kok   Lay   Teo ; XianLong   Shen ; ChaoMing   Hu ;
+Abstract
+ In this article, a class of nonconvex unconstrained optimization problems is considered. As the Armijo line search is less costing in finding a steplength, a new Armijo-type line search (called WALS) with desirable features of the Wolfe condition is employed in the proposed modified BFGS method. A new updating formula incorporated with WALS is constructed and generates approximate Hessian matrices which are positive definite. On this basis, a class of well-defined modified BFGS algorithms is developed. It shows that under some suitable conditions, the modified BFGS algorithm is globally convergent. Numerical experiments are carried out on 20 benchmark test problems and the obtained results clearly indicate the effectiveness of the developed algorithm over two most popular BFGS-type algorithms available in the literature. 
+Keywords
+unconstrained optimization, BFGS method, global convergence, Armijo-type line searchAMS Subject Classifications:: 90C30, 65K05 

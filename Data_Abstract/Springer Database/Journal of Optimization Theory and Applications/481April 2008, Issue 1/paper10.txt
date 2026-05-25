@@ -1,0 +1,8 @@
+Global Maximization of a Generalized Concave Multiplicative Function
+H. P. Benson;
+Abstract
+
+This article presents a branch-and-bound algorithm for globally solving the problem (P) of maximizing a generalized concave multiplicative function over a compact convex set. Since problem (P) does not seem to have been studied previously, the algorithm is apparently the first algorithm to be proposed for solving this problem. It works by globally solving a problem (P1) equivalent to problem (P). The branch-and-bound search undertaken by the algorithm uses rectangular partitioning and takes place in a space which typically has a much smaller dimension than the space to which the decision variables of problem (P) belong. Convergence of the algorithm is shown; computational considerations and benefits for users of the algorithm are given. A sample problem is also solved.
+
+Keywords
+Global optimization  Branch-and-bound algorithms  Multiplicative programming  Quadratic programming  Bilinear programming  

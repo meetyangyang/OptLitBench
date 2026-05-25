@@ -1,0 +1,8 @@
+Quasi-Newton acceleration for equality-constrained minimization
+L. Ferreira-Mendonça;V. L. R. Lopes;J. M. Martínez;
+Abstract
+
+Optimality (or KKT) systems arise as primal-dual stationarity conditions for constrained optimization problems. Under suitable constraint qualifications, local minimizers satisfy KKT equations but, unfortunately, many other stationary points (including, perhaps, maximizers) may solve these nonlinear systems too. For this reason, nonlinear-programming solvers make strong use of the minimization structure and the naive use of nonlinear-system solvers in optimization may lead to spurious solutions. Nevertheless, in the basin of attraction of a minimizer, nonlinear-system solvers may be quite efficient. In this paper quasi-Newton methods for solving nonlinear systems are used as accelerators of nonlinear-programming (augmented Lagrangian) algorithms, with equality constraints. A periodically-restarted memoryless symmetric rank-one (SR1) correction method is introduced for that purpose. Convergence results are given and numerical experiments that confirm that the acceleration is effective are presented.
+
+Keywords
+Optimality systems  Quasi-Newton methods  Minimization with equality constraints  

@@ -1,0 +1,8 @@
+Preconditioning and iterative solution of symmetric indefinite linear systems arising from interior point methods for linear programming
+Joo-Siong Chai;Kim-Chuan Toh;
+Abstract
+
+We propose to compute the search direction at each interior-point iteration for a linear program via a reduced augmented system that typically has a much smaller dimension than the original augmented system. This reduced system is potentially less susceptible to the ill-conditioning effect of the elements in the (1,1) block of the augmented matrix. A preconditioner is then designed by approximating the block structure of the inverse of the transformed matrix to further improve the spectral properties of the transformed system. The resulting preconditioned system is likely to become better conditioned toward the end of the interior-point algorithm. Capitalizing on the special spectral properties of the transformed matrix, we further proposed a two-phase iterative algorithm that starts by solving the normal equations with PCG in each IPM iteration, and then switches to solve the preconditioned reduced augmented system with symmetric quasi-minimal residual (SQMR) method when it is advantageous to do so. The experimental results have demonstrated that our proposed method is competitive with direct methods in solving large-scale LP problems and a set of highly degenerate LP problems.
+
+Keywords
+Linear programming  Inexact interior-point methods  Preconditioned iterative solver  

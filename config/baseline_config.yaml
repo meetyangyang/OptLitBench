@@ -1,0 +1,38 @@
+# Baseline NMF topic analysis configuration
+project:
+  data_dir: Data_Abstract
+  results_dir: results/baseline
+  random_state: 42
+
+journals:
+  # Treat Springer Database / SIAM Database subfolders as individual journals.
+  database_journals:
+    - Springer Database
+    - SIAM Database
+
+vectorizer:
+  max_features: 10000
+  min_df: 5
+  max_df: 0.95
+  ngram_range: [1, 1]
+  stop_words: english
+  # Allow words like interior-point and nonconvex
+  token_pattern: "(?u)\\b[a-z][a-z0-9-]{1,}\\b"
+
+nmf:
+  init: nndsvda
+  max_iter: 300
+  alpha_W: 0.0
+  alpha_H: 0.0
+  l1_ratio: 0.0
+  solver: cd
+
+topics:
+  # Adaptive topic count: clamp(round(sqrt(n_docs / 50)), min_topics, max_topics)
+  min_topics: 5
+  max_topics: 12
+  top_words: 15
+
+quality:
+  min_documents: 20
+  min_vocabulary: 50

@@ -1,0 +1,6 @@
+Automatic Preconditioning by Limited Memory Quasi-Newton Updating
+José Luis  Morales and Jorge  Nocedal;
+Abstract
+This paper proposes a preconditioner for the conjugate gradient method (CG) that is designed for solving systems of equations Ax=bi with different right-hand-side vectors or for solving a sequence of slowly varying systems Ak x = bk. The preconditioner has the form of a limited memory quasi-Newton matrix and is generated using information from the CG iteration. The automatic preconditioner does not require explicit knowledge of the coefficient matrix A and is therefore suitable for problems where only products of A times a vector can be computed. Numerical experiments indicate that the preconditioner has most to offer when these matrix-vector products are expensive to compute and when low accuracy in the solution is required. The effectiveness of the preconditioner is tested within a Hessian-free Newton method for optimization and by solving certain linear systems arising in finite element models.
+Keywords
+preconditioning, conjugate gradient method, quasi-Newton method, Hessian-free Newton method, limited memory method, 49M37, 65K05, 90C30, 

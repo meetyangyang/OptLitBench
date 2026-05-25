@@ -1,0 +1,6 @@
+A Unilaterally Constrained Quadratic Minimization with Adaptive Finite Elements
+Kunibert G.   Siebert and Andreas   Veeser;
+Abstract
+We consider obstacle problems where a quadratic functional associated with the Laplacian is minimized in the set of functions above a possibly discontinuous and thin but piecewise affine obstacle. In order to approximate minimum point and value, we propose an adaptive algorithm that relies on minima with respect to admissible linear finite element functions and on an a posteriori estimator for the error in the minimum value. It is proven that the generated sequence of approximate minima converges to the exact one. Furthermore, our numerical results in two and three dimensions indicate that the convergence rate with respect to the number of degrees of freedom is optimal in that it coincides with the one of nonlinear or adaptive approximation.
+Keywords
+unilaterally constrained minimization, obstacle problems, contact problems, thin obstacles, adaptive finite elements, conforming methods, a posteriori error estimates, convergence of adaptive algorithms, optimal convergence rate, full contact, 90C25, 65N12, 65N15, 65N30, 

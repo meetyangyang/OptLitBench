@@ -1,0 +1,6 @@
+Global ellipsoidal approximations and homotopy methods for solving convex analytic programs
+G. Sonnevend;J. Stoer;
+Abstract
+This paper deals with some problems of algorithmic complexity arising when solving convex programming problems by following the path of analytic centers (i.e., the trajectory formed by the minimizers of the logarithmic barrier function). We prove that in the case ofm convex quadratic constraints we can obtain in a simple constructive way a two-sided ellipsoidal approximation for the feasible set (intersection ofm ellipsoids), whose tightness depends only onm. This can be used for the early identification of those constraints which are active at the optimum, and it also explains the efficiency of Newton's method used as a corrector when following the central path. Various parametrizations of the central path are studied. This also leads to an extrapolation (predictor) algorithm which can be regarded as a generalization of the method of conjugate gradients.
+Keywords
+System Theory  Mathematical Method  Programming Problem  Conjugate Gradient  Barrier Function  

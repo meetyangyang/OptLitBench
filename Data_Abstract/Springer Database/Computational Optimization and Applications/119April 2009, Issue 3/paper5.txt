@@ -1,0 +1,8 @@
+Obtaining the efficient set of nonlinear biobjective optimization problems via interval branch-and-bound methods
+José Fernández;Boglárka Tóth;
+Abstract
+
+Obtaining a complete description of the efficient set of multiobjective optimization problems can be of invaluable help to the decision-maker when the objectives conflict and a solution has to be chosen. In this paper we present an interval branch-and-bound algorithm which aims at obtaining a tight outer approximation of the whole efficient set of nonlinear biobjective problems. The method enhances the performance of a previous rudimentary algorithm thanks to the use of new accelerating devices, namely, three new discarding tests. Some computational studies on a set of competitive location problems demonstrate the efficiency of the discarding tests, as well as the superiority of the new algorithm, both in time and in quality of the outer approximations of the efficient set, as compared to another method, an interval constraint-like algorithm, with the same aim. Furthermore, we also give some theoretical results of the method, which show its good properties, both in the limit (when the tolerances are set equal to zero and the algorithm does not stop) and when the algorithm stops after a finite number of steps (when we use positive tolerances). A key point in the approach is that, thanks to the use of interval analysis tools, it can be applied to nearly any biobjective problem.
+
+Keywords
+Nonlinear biobjective optimization  Efficient set  Outer approximation  Interval analysis  Branch-and-bound method  Discarding tests  Continuous location  

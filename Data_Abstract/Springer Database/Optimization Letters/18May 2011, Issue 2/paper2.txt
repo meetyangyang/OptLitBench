@@ -1,0 +1,6 @@
+A practical method for solving large-scale TRS
+M. S. Apostolopoulou;D. G. Sotiropoulos;C. A. Botsaris;P. Pintelas;
+Abstract
+We present a nearly-exact method for the large scale trust region subproblem (TRS) based on the properties of the minimal-memory BFGS method. Our study is concentrated in the case where the initial BFGS matrix can be any scaled identity matrix. The proposed method is a variant of the Moré–Sorensen method that exploits the eigenstructure of the approximate Hessian B, and incorporates both the standard and the hard case. The eigenvalues of B are expressed analytically, and consequently a direction of negative curvature can be computed immediately by performing a sequence of inner products and vector summations. Thus, the hard case is handled easily while the Cholesky factorization is completely avoided. An extensive numerical study is presented, for covering all the possible cases arising in the TRS with respect to the eigenstructure of B. Our numerical experiments confirm that the method is suitable for very large scale problems.
+Keywords
+Trust region subproblem  Nearly exact method  L-BFGS method  Eigenvalues  Negative curvature direction  Large scale optimization  

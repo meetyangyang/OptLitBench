@@ -1,0 +1,6 @@
+A note on ship routing between ports
+Shuaian Wang;
+Abstract
+To minimize bunker fuel consumption, ship captains choose suitable speed and heading to take advantage of ocean currents, wind, and wave when routing a ship between two ports. Conventional approaches discretize the space and time and then apply dynamic programming to find the optimal speed and heading of a ship at each time. Nevertheless, the resulting solution to the discretized problem may not converge to the optimal solution to the original continuous problem, even when the sizes of the discretization grids approach 0. To overcome this deficiency, we propose an improved dynamic programming approach. The novelty of the improved method lies in that we repeatedly re-discretize the space in both controlled and random manners to obtain better solutions. The improved dynamic programming approach provides significantly better solutions than the conventional approaches.
+Keywords
+Sea transport  Shipping  Ship routing  Bunker fuel   Dynamic programming  

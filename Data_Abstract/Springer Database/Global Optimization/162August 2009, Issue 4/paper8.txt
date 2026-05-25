@@ -1,0 +1,6 @@
+A new approach with orthogonal array for global optimization in design of experiments
+Hsin-Chuan Kuo;Jeun-Len Wu;
+Abstract
+In this paper, we develop an approach that determines the overall best parameter setting in design of experiments. The approach starts with successive orthogonal array experiments and ends with a full factorial experiment. The setup for the next orthogonal-array experiment is obtained from the previous one by either fixing a factor at a given level or by reducing the number of levels considered for all currently non-fixed factors. We illustrate this method using an industrial problem with seven parameters, each with three levels. In previous work, the full factorial of 37 = 2,187 points was evaluated and the best point was found. With the new method, we found the same point using 3% of these evaluations. As a further comparison, we obtained the optimum using a traditional Taguchi approach, and found it corresponded to the 366th of the 2,187 possibilities when sorted by the objective function. We conclude the proposed approach would provide an accurate, fast, and economic tool for optimization using design of experiments.
+Keywords
+Design of experiments  Orthogonal array  Factorial  Taguchi approach  

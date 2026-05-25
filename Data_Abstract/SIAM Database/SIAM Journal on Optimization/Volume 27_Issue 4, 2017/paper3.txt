@@ -1,0 +1,6 @@
+Perturbed Iterate Analysis for Asynchronous Stochastic Optimization
+Horia  Mania, Xinghao  Pan, Dimitris  Papailiopoulos, Benjamin  Recht, Kannan  Ramchandran, and Michael I.  Jordan;
+Abstract
+We introduce and analyze stochastic optimization methods where the input to each update is perturbed by bounded noise. We show that this framework forms the basis of a unified approach to analyzing asynchronous implementations of stochastic optimization algorithms, by viewing them as  serial methods operating on noisy inputs. Using our perturbed iterate framework, we provide new analyses of the Hogwild! algorithm and asynchronous stochastic coordinate descent that are simpler than earlier analyses, remove many assumptions of previous models, and in some cases yield improved upper bounds on the convergence rates. We proceed to apply our framework to develop and analyze KroMagnon: a novel, parallel, sparse stochastic variance-reduced gradient (SVRG) algorithm. We demonstrate experimentally on a 16-core machine that the sparse and parallel version of SVRG is in some cases more than four orders of magnitude faster than the standard SVRG algorithm.
+Keywords
+stochastic optimization, asynchronous algorithms, parallel machine learning, 65K10, 65Y05, 68W10, 68W20, 

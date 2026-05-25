@@ -1,0 +1,6 @@
+Combinatorial interior point methods for generalized network flow problems
+Donald Goldfarb;Yiqing Lin;
+Abstract
+ We present combinatorial interior point methods for the generalized minimum cost flow and the generalized circulation problems based on Wallacher and Zimmermann's combinatorial interior point method for the minimum cost network flow problem. The algorithms have features of both a combinatorial algorithm and an interior point method. They work towards optimality by iteratively reducing the value of a potential function while maintaining interior point solutions. At each iteration, flow is augmented along a generalized circulation, which is computed by solving a TVPI (Two Variables Per Inequality) system. The algorithms run in \(\) time, where m and n are, respectively, the number of arcs and nodes in the graph, and L is the length of the input data.
+Keywords
+Input Data  Potential Function  Minimum Cost  Generalize Circulation  Interior Point  

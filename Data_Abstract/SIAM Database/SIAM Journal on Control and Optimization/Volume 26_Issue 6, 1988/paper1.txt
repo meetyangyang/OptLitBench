@@ -1,0 +1,6 @@
+Stabilization of an Uncertain Linear System in which Uncertain Parameters Enter Into the Input Matrix
+Ian R.  Petersen;
+Abstract
+This paper presents a procedure for stabilizing a class of uncertain linear systems. The uncertain systems under consideration are described by state equations in which the input matrix depends on a matrix of uncertain parameters. This matrix of uncertain parameters may be time-varying; however, it is constrained by a bound on its induced norm.The stabilization procedure presented involves the repeated solution of an algebraic Riccati equation. When a positive definite solution to this Riccati equation is obtained, this solution is used to construct a stabilizing linear control law. Another important result contained in this paper can be stated roughly as follows: For the class of uncertain systems under consideration, if a system can be stabilized via nonlinear control, then it is also possible to stabilize the system via linear control.
+Keywords
+uncertain systems, Riccati equations, stabilization, state feedback, 93015, 

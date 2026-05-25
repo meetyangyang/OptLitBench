@@ -1,0 +1,6 @@
+DESIGN OPTIMIZATION OF TRANSONIC AIRFOILS
+ C.-Y.   JOH ; B.   GROSSMAN ; R.T.   HAFTKA ;
+Abstract
+ Numerical optimization procedures have been considered for the design of airfoils in transonic flow based on the transonic small-disturbance (TSD) and Euler equations. A sequential approximation optimization technique was implemented with an accurate approximation of the wave drag based on Nixon's coordinate straining approach. A modification of the Euler surface boundary conditions was implemented in order to efficiently compute design sensitivities without remeshing the grid. Two effective design procedures producing converged designs in approximately 10 global iterations were developed: interchanging the role of the objective function and constraint and the direct lift maximization with move limits which were fixed absolute values of the design variables. 
+Keywords
+ aerodynamic optimization, airfoils, transonic flow 

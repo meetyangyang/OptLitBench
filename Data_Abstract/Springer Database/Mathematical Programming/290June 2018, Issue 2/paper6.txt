@@ -1,0 +1,6 @@
+SOCP reformulation for the generalized trust region subproblem via a canonical form of two symmetric matrices
+Rujun Jiang;Duan Li;Baiyi Wu;
+Abstract
+We investigate in this paper the generalized trust region subproblem (GTRS) of minimizing a general quadratic objective function subject to a general quadratic inequality constraint. By applying a simultaneous block diagonalization approach, we obtain a congruent canonical form for the symmetric matrices in both the objective and constraint functions. By exploiting the block separability of the canonical form, we show that all GTRSs with an optimal value bounded from below are second order cone programming (SOCP) representable. Our result generalizes the recent work of Ben-Tal and den Hertog (Math. Program. 143(1–2):1–29, 2014), which establishes the SOCP representability of the GTRS under the assumption of the simultaneous diagonalizability of the two matrices in the objective and constraint functions. We then derive a closed-form solution for the GTRS when the two matrices are not simultaneously diagonalizable. We further extend our method to two variants of the GTRS in which the inequality constraint is replaced by either an equality constraint or an interval constraint.
+Keywords
+Trust region subproblem  Canonical form  Quadratically constrained quadratic programming  90C20  90C26  

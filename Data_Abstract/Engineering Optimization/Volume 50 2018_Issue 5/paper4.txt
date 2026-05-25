@@ -1,0 +1,6 @@
+An interior-point method-based solver for simulation of aircraft parts riveting
+Maria Stefanova;Sergey Yakunin;Margarita Petukhova;Sergey Lupuleac;Michael Kokkolaras;
+Abstract
+The particularities of the aircraft parts riveting process simulation necessitate the solution of a large amount of contact problems. A primal–dual interior-point method-based solver is proposed for solving such problems efficiently. The proposed method features a worst case polynomial complexity bound  on the number of iterations, where n is the dimension of the problem and ε is a threshold related to desired accuracy. In practice, the convergence is often faster than this worst case bound, which makes the method applicable to large-scale problems. The computational challenge is solving the system of linear equations because the associated matrix is ill conditioned. To that end, the authors introduce a preconditioner and a strategy for determining effective initial guesses based on the physics of the problem. Numerical results are compared with ones obtained using the Goldfarb–Idnani algorithm. The results demonstrate the efficiency of the proposed method.
+Keywords
+Interior-point methods, primal–dual methods, quadratic programming, initial guesses, preconditioning 

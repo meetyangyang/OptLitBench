@@ -1,0 +1,6 @@
+DESA: a new hybrid global optimization method and its application to analog integrated circuit sizing
+Jernej Olenšek;Árpád Bűrmen;Janez Puhan;Tadej Tuma;
+Abstract
+This paper presents a new hybrid global optimization method referred to as DESA. The algorithm exploits random sampling and the metropolis criterion from simulated annealing to perform global search. The population of points and efficient search strategy of differential evolution are used to speed up the convergence. The algorithm is easy to implement and has only a few parameters. The theoretical global convergence is established for the hybrid method. Numerical experiments on 23 mathematical test functions have shown promising results. The method was also integrated into SPICE OPUS circuit simulator to evaluate its practical applicability in the area of analog integrated circuit sizing. Comparison was made with basic simulated annealing, differential evolution, and a multistart version of the constrained simplex method. The latter was already a part of SPICE OPUS and produced good results in past research.
+Keywords
+Optimization  Simulated annealing  Differential evolution  Analog integrated circuit sizing  

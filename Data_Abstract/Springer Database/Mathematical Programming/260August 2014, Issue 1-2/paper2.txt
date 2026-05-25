@@ -1,0 +1,6 @@
+First-order methods of smooth convex optimization with inexact oracle
+Olivier Devolder;François Glineur;Yurii Nesterov;
+Abstract
+We introduce the notion of inexact first-order oracle and analyze the behavior of several first-order methods of smooth convex optimization used with such an oracle. This notion of inexact oracle naturally appears in the context of smoothing techniques, Moreau–Yosida regularization, Augmented Lagrangians and many other situations. We derive complexity estimates for primal, dual and fast gradient methods, and study in particular their dependence on the accuracy of the oracle and the desired accuracy of the objective function. We observe that the superiority of fast gradient methods over the classical ones is no longer absolute when an inexact oracle is used. We prove that, contrary to simple gradient schemes, fast gradient methods must necessarily suffer from error accumulation. Finally, we show that the notion of inexact oracle allows the application of first-order methods of smooth convex optimization to solve non-smooth or weakly smooth convex problems.
+Keywords
+Smooth convex optimization  First-order methods  Inexact oracle  Gradient methods  Fast gradient methods  Complexity bounds  90C06  90C25  90C60  

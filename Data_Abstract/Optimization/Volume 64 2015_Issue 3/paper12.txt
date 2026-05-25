@@ -1,0 +1,6 @@
+Extended cutting plane method for a class of nonsmooth nonconvex MINLP problems
+Ville-Pekka Eronen;Marko M. Mäkelä;Tapio Westerlund;
+Abstract
+In this article, a generalization of the ECP algorithm to cover a class of nondifferentiable Mixed-Integer NonLinear Programming problems is studied. In the generalization constraint functions are required to be -pseudoconvex instead of pseudoconvex functions. This enables the functions to be nonsmooth. The objective function is first assumed to be linear but also -pseudoconvex case is considered. Furthermore, the gradients used in the ECP algorithm are replaced by the subgradients of Clarke subdifferential. With some additional assumptions, the resulting algorithm shall be proven to converge to a global minimum.
+Keywords
+nonsmooth MINLP, mixed-integer programming, nonsmooth optimization, extended cutting plane algorithm, αECP, subgradient, pseudoconvex function, generalized convexityAMS Subject Classifications: 90C11, 90C26, 90C56, 26A27 

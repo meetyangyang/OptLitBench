@@ -1,0 +1,10 @@
+Self-adaptive inexact proximal point methods
+William W. Hager;Hongchao Zhang;
+Abstract
+
+We propose a class of self-adaptive proximal point methods suitable for degenerate optimization problems where multiple minimizers may exist, or where the Hessian may be singular at a local minimizer. If the proximal regularization parameter has the form 
+\(\mu({\bf{x}})=\beta\|\nabla f({\bf{x}})\|^{\eta}\) 
+where η∈[0,2) and β>0 is a constant, we obtain convergence to the set of minimizers that is linear for η=0 and β sufficiently small, superlinear for η∈(0,1), and at least quadratic for η∈[1,2). Two different acceptance criteria for an approximate solution to the proximal problem are analyzed. These criteria are expressed in terms of the gradient of the proximal function, the gradient of the original function, and the iteration difference. With either acceptance criterion, the convergence results are analogous to those of the exact iterates. Preliminary numerical results are presented using some ill-conditioned CUTE test problems.
+
+Keywords
+Proximal point  Degenerate optimization  Multiple minima  Self-adaptive method  

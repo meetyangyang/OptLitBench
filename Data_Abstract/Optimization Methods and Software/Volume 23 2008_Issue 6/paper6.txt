@@ -1,0 +1,6 @@
+ SC 1 optimization reformulations of the generalized Nash equilibrium problem
+ Anna   von Heusinger ; Christian   Kanzow ;
+Abstract
+ The generalized Nash equilibrium problem is a Nash game which, in contrast to the standard Nash equilibrium problem, allows the strategy sets of each player to depend on the decision variables of all other players. It was recently shown by the authors that this generalized Nash equilibrium problem can be reformulated as both an unconstrained and a constrained optimization problem with continuously differentiable objective functions. This paper further investigates these approaches and shows, in particular, that the objective functions are SC 1-functions. Moreover, conditions for the local superlinear convergence of a Newton-type method being applied to the unconstrained optimization reformulation are also given. Some numerical results indicate that this method works quite well on a number of problems coming from different application areas. 
+Keywords
+generalized Nash equilibrium, normalized Nash equilibrium, joint constraints, regularized Nikaido–Isoda function, implicit function, semismooth function, superlinear convergence 

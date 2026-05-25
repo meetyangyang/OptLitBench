@@ -1,0 +1,6 @@
+ENGINEERING DESIGN OPTIMIZATION USING A SWARM WITH AN INTELLIGENT INFORMATION SHARING AMONG INDIVIDUALS
+ TAPABRATA   RAY ; PANKAJ   SAINI ;
+Abstract
+ In this paper a new swarm algorithm for single objective design optimization problems is presented. A swarm is a collection of individuals having a common goal to reach the best value (minimum or maximum) of a function. Among the individuals in a swarm, there are some better performers (leaders) who set the direction of search for the rest of the individuals. An individual that is not in the better performer list (BPL) improves its performance by deriving information from its closest neighbour in the BPL. In an unconstrained problem, the objective values are used to generate the BPL while a multilevel Pareto ranking scheme is implemented to generate the BPL for constrained problems. The information sharing strategy also ensures that all the individuals in the swarm are unique as in a real swarm, where at a given time instant two individuals cannot share the same location. The uniqueness among the individuals result in a set of near optimal individuals at the final stage that is useful for sensitivity analysis. Three well-studied engineering design examples are solved to illustrate the benefits of the proposed swarm strategy 
+Keywords
+Pareto ranking, Constrained optimization, Swarm strategy 

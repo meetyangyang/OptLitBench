@@ -1,0 +1,6 @@
+Local Convergence of a Two-Piece Update of a Projected Hessian Matrix
+Chaya  Gurwitz;
+Abstract
+The problem considered is that of minimizing a nonlinear function subject to a set of equality constraints. Recent research has focused on methods that solve such problems by recurring an approximation to second derivative information projected onto the tangent space of the constraints. The motivation for these methods is that only the projected matrix enters into the optimality conditions for the nonlinear problem and that the reduced matrix can be recurred by means of updates that maintain hereditary positive definiteness. However, such methods can achieve at best local two-step Q-superlinear convergence. The algorithm presented here performs a two-piece update of a “one-sided projected Hessian matrix.” This method maintains  one piece of the projected Hessian as a positive definite matrix and uses Broyden’s method for updating the other piece. It is shown that if at least one of the updates is performed at each iteration, the method is locally one-step Q-superlinearly convergent.
+Keywords
+constrained optimization, nonlinear programming, projected Hessian, reduced Hessian, Newton’s method, sequential quadratic programming, 90C30, 65K05, 49M37, 

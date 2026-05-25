@@ -1,0 +1,6 @@
+Solving symmetric indefinite systems in an interior-point method for linear programming
+Robert Fourer;Sanjay Mehrotra;
+Abstract
+We describe an implementation of a primal—dual path following method for linear programming that solves symmetric indefinite “augmented” systems directly by Bunch—Parlett factorization, rather than reducing these systems to the positive definite “normal equations” that are solved by Cholesky factorization in many existing implementations. The augmented system approach is seen to avoid difficulties of numerical instability and inefficiency associated with free variables and with dense columns in the normal equations approach. Solving the indefinite systems does incur an extra overhead, whose median is about 40% in our tests; but the augmented system approach proves to be faster for a minority of cases in which the normal equations have relatively dense Cholesky factors. A detailed analysis shows that the augmented system factorization is reliable over a fairly large range of the parameter settings that control the tradeoff between sparsity and numerical stability.
+Keywords
+Linear programming  interior-point methods  symmetric indefinite systems  

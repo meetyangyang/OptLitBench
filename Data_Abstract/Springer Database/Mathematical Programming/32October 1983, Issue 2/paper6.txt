@@ -1,0 +1,6 @@
+Maximum-throughput dynamic network flows
+James B. Orlin;
+Abstract
+This paper presents and solves the maximum throughput dynamic network flow problem, an infinite horizon integer programming problem which involves network flows evolving over time. The model is a finite network in which the flow on each arc not only has an associated upper and lower bound but also an associated transit time. Flow is to be sent through the network in each period so as to satisfy the upper and lower bounds and conservation of flow at each node from some fixed period on. The objective is to maximize the throughput, the net flow circulating in the network in a given period, and this throughput is shown to be the same in each period. We demonstrate that among those flows with maximum throughput there is a flow which repeats every period. Moreover, a duality result shows the maximum throughput equals the minimum capacity of an appropriately defined cut.
+Keywords
+Network Flow Algorithms  Integer Programming  Infinite Horizon Programming  Vehicle Scheduling  Periodic Scheduling  

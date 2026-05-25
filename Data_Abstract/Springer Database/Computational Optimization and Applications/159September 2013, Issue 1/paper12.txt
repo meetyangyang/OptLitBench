@@ -1,0 +1,6 @@
+A simplex-based numerical framework for simple and efficient robust design optimization
+Pietro Marco Congedo;Jeroen Witteveen;Gianluca Iaccarino;
+Abstract
+The Simplex Stochastic Collocation (SSC) method is an efficient algorithm for uncertainty quantification (UQ) in computational problems with random inputs. In this work, we show how its formulation based on simplex tessellation, high degree polynomial interpolation and adaptive refinements can be employed in problems involving optimization under uncertainty. The optimization approach used is the Nelder-Mead algorithm (NM), also known as Downhill Simplex Method. The resulting SSC/NM method, called Simplex2, is based on (i) a coupled stopping criterion and (ii) the use of an high-degree polynomial interpolation in the optimization space for accelerating some NM operators. Numerical results show that this method is very efficient for mono-objective optimization and minimizes the global number of deterministic evaluations to determine a robust design. This method is applied to some analytical test cases and a realistic problem of robust optimization of a multi-component airfoil.
+Keywords
+Nelder-Mead method  Simplex stochastic collocation method  Robust optimization  Uncertainty quantification  

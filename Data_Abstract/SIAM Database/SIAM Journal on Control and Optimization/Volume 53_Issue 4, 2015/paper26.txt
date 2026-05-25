@@ -1,0 +1,6 @@
+$L_p$-Stabilization of Integrator Chains Subject to Input Saturation Using Lyapunov-Based Homogeneous Design
+Yacine  Chitour, Mohamed  Harmouche, and Salah  Laghrouche;
+Abstract
+Consider the $n$th integrator $\dot x=J_nx+\sigma(u)e_n$, where $x\in\mathbb{R}^n$, $u\in\mathbb{R}$, $J_n$ is the $n$th Jordan block and $e_n=(0\ \cdots 0\ 1)^T\in\mathbb{R}^n$. We provide easily implementable state feedback laws $u=k(x)$ which not only render the closed-loop  system globally asymptotically stable but also are finite-gain $L_p$-stabilizing with arbitrarily small gain, as in [A. Saberi, P. Hou, and A. Stoorvogel, IEEE Trans. Automat. Control, 45 (2000),  pp. 1042--1052]. These $L_p$-stabilizing state feedbacks are built from homogeneous feedbacks appearing in finite-time stabilization of linear systems. We also provide additional $L_\infty$-stabilization results for the case of both internal and external disturbances of the $n$th integrator, namely, for the perturbed system $\dot x=J_nx+e_n\sigma (k(x)+d)+D$, where $d\in\mathbb{R}$ and $D\in\mathbb{R}^n$.
+Keywords
+$L_p$-stabilization, integrator chain, saturation, homogeneity, 93B52, 93D21, 93D15, 93D30, 

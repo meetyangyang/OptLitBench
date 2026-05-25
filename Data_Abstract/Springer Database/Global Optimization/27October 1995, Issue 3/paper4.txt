@@ -1,0 +1,6 @@
+A branch and bound algorithm for bound constrained optimization problems without derivatives
+Christian Jansson;Olaf Knüppel;
+Abstract
+In this paper, we give a new branch and bound algorithm for the global optimization problem with bound constraints. The algorithm is based on the use of inclusion functions. The bounds calculated for the global minimum value are proved to be correct, all rounding errors are rigorously estimated. Our scheme attempts to exclude most “uninteresting” parts of the search domain and concentrates on its “promising” subsets. This is done as fast as possible (by involving local descent methods), and uses little information as possible (no derivatives are required). Numerical results for many well-known problems as well as some comparisons with other methods are given.
+Keywords
+49D37  65G10  Global optimization  interval arithmetic  

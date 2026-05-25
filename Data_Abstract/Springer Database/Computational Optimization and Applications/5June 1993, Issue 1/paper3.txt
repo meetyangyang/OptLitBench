@@ -1,0 +1,6 @@
+The one-to-one shortest-path problem: An empirical analysis with the two-tree Dijkstra algorithm
+Richard V. Helgason;Jeffery L. Kennington;B. Douglas Stewart;
+Abstract
+Four new shortest-path algorithms, two sequential and two parallel, for the source-to-sink shortest-path problem are presented and empirically compared with five algorithms previously discussed in the literature. The new algorithm, S22, combines the highly effective data structure of the S2 algorithm of Dial et al., with the idea of simultaneously building shortest-path trees from both source and sink nodes, and was found to be the fastest sequential shortest-path algorithm. The new parallel algorithm, PS22, is based on S22 and is the best of the parallel algorithms. We also present results for three new S22-type shortest-path heuristics. These heuristics find very good (often optimal) paths much faster than the best shortest-path algorithm.
+Keywords
+Shortest-paths  parallel algorithms  

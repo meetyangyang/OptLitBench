@@ -1,0 +1,6 @@
+Potential Reduction Polynomial Time Method for Truss Topology Design
+Aharon  Ben-Tal and Arkadii  Nemirovskii;
+Abstract
+The multiload truss topology design problem is modeled as a minimization of the maximum (with respect to k loading scenarios) compliance subject to equilibium constraints and restrictions on the bar volumes. The problem may involve a very large number of potential bars so as to allow a rich variety of topologies. The original formulation is in terms of two sets of variables: m bar volumes and n nodal displacements. Several equivalent convex reformulations of this problem are presented. These convex problems, although highly nonlinear, possess nice analytical structure, and therefore can be solved by an interior point potential reduction method associated with appropriate logarithmic barrier for the feasible domain of the problem. For this method, to improve the accuracy of the current a proximate solution by an absolute constant factor, it suffices in the worst case to perform $O( \sqrt{km} )$ Newton steps with $O( k^3 n^3  + k^2 n^2 m )$ operations per step.
+Keywords
+interior point methods, polynomial complexity, convex programming, structural optimization, 90C31, 90C50, 73K40, 

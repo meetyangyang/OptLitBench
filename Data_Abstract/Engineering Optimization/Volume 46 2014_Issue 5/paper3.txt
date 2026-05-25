@@ -1,0 +1,6 @@
+Evolutionary topology optimization using the extended finite element method and isolines
+Meisam Abdi;Ricky Wildman;Ian Ashcroft;
+Abstract
+This study presents a new algorithm for structural topological optimization of two-dimensional continuum structures by combining the extended finite element method (X-FEM) with an evolutionary optimization algorithm. Taking advantage of an isoline design approach for boundary representation in a fixed grid domain, X-FEM can be implemented to improve the accuracy of finite element solutions on the boundary during the optimization process. Although this approach does not use any remeshing or moving mesh algorithms, final topologies have smooth and clearly defined boundaries which need no further interpretation. Numerical comparisons of the converged solutions with standard bi-directional evolutionary structural optimization solutions show the efficiency of the proposed method, and comparison with the converged solutions using MSC NASTRAN confirms the high accuracy of this method.
+Keywords
+structural optimization, topology optimization, X-FEM, fixed grid, evolutionary algorithm 

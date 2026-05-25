@@ -1,0 +1,6 @@
+Low order polynomial bounds on the expected performance of local improvement algorithms
+Craig A. Tovey;
+Abstract
+We present a general abstract model of local improvement, applicable to such diverse cases as principal pivoting methods for the linear complementarity problem and hill climbing in artificial intelligence. The model accurately predicts the behavior of the algorithms, and allows for a variety of probabilistic assumptions that permit degeneracy. Simulation indicates an approximately linear average number of iterations under a variety of probability assumptions. We derive theoretical bounds of 2en logn and en2 for different distributions, respectively, as well as polynomial bounds for a broad class of probability distributions. We conclude with a discussion of the applications of the model to LCP and linear programming.
+Keywords
+Local improvement  average performance of algorithms  linear complementarity  linear programming  extremal set theory  

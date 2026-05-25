@@ -1,0 +1,6 @@
+Characterization theorems for stochastic programs
+Roger Wets;
+Abstract
+Stochastic programs deals with optimization problems whose parameters are only known up to a given probability distribution. This naturally implies that the decision is to be selected before the actual value of these random variables is known. When the predicted outcome does not match the realizations the decision maker is allowed to select a corrective action, we say that he is given a recourse decision. An algorithm to solve the “linear” case is described in papers by Dantzig and Madansky, Kall and Van Slyke and Wets. See [3] for appropriate references. The purpose of this paper is to provide the algorithm builder with tests which would verify if the problem is well formulated, i.e. feasible, bounded, solvable, ⋯. The theorems which we obtain indicate that such test can be performed at the very beginning of the algorithm and at negligible cost as far as running time is concerned.
+Keywords
+Probability Distribution  Decision Maker  Mathematical Method  Corrective Action  Stochastic Program  

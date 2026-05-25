@@ -1,0 +1,6 @@
+An ideal column algorithm for integer programs with special ordered sets of variables
+R. Kipp Martin;Dennis J. Sweeney;
+Abstract
+One of the most frequently occurring integer programming structures is the one which has special ordered sets of variables included in multiple choice constraints. For problems with this structure a set of ideal columns are defined from the linear programming relaxation of the integer program and a reduced integer program is formed by keeping only those columns within a specified distance from the ideal column. Conditions are established which guarantee when the optimal solution to the reduced problem is als optimal for the original problem. When these conditions are not satisfied, bounds on the optimal solution value are provided. Ideal columns are also used to establish weights for the special ordered set variables. This procedure has been implemented through a control program written by the authors for MPSX/370-MIP/370. Computational results are given.
+Keywords
+Integer Programming  Branch and Bound  Special Ordered Sets  Large Scale Optimiza  

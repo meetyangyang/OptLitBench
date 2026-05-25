@@ -1,0 +1,6 @@
+Exploring or reducing noise?
+Didier Rullière;Alaeddine Faleh;Frédéric Planchet;Wassim Youssef;
+Abstract
+We consider the problem of the global minimization of a function observed with noise. This problem occurs for example when the objective function is estimated through stochastic simulations. We propose an original method for iteratively partitioning the search domain when this area is a finite union of simplexes. On each subdomain of the partition, we compute an indicator measuring if the subdomain is likely or not to contain a global minimizer. Next areas to be explored are chosen in accordance with this indicator. Confidence sets for minimizers are given. Numerical applications show empirical convergence results, and illustrate the compromise to be made between the global exploration of the search domain and the focalization around potential minimizers of the problem.
+Keywords
+Global optimization  Noise  Potential  Branch-and-Bound  Simplex  Kriging  

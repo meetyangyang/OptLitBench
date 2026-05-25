@@ -1,0 +1,6 @@
+Optimal seamless self-assembly of files in linear networks
+Andreas Constantinides;E. G. CoffmanJr.;
+Abstract
+A file F is sited at one end (the root) of a path in some network. Each non-root node in the path is able to cache part or all of F, and each node may also have a client wanting to download F. Links between neighbors on the path have given transmission delays associated with them, but the delay from a node to its own client, if it has one, is zero. In the seamless, self-assembly paradigm all clients issue requests simultaneously at time 0, each starts to receive segments of F immediately, and continues to receive them until F is fully downloaded. The process must be implemented by means of a distributed self-assembly protocol which is unaware of network structure beyond links to immediate neighbors. We exhibit such a protocol, and show how to assign segments of F to the node caches in such a way that, no matter which nodes are chosen as clients, seamless self-assembly is realized and, simultaneously, the total cache size achieves a lower bound determined solely by the link delays. The paper concludes with a brief discussion of the many open problems arising in systems requiring seamless, or nearly seamless, self assembly of files.
+Keywords
+Seamless downloading  File-sharing networks  Cache networks  Distributed protocols  Self-assembly protocols  

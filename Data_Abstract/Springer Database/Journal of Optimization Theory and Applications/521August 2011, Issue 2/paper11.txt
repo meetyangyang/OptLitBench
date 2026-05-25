@@ -1,0 +1,6 @@
+An Interactive Algorithm for Multi-objective Route Planning
+Diclehan Tezcaner;Murat Köksalan;
+Abstract
+We address the route selection problem for Unmanned Air Vehicles (UAV) under multiple objectives. We consider a general case for this problem, where the UAV has to visit several targets and return to the base. We model this problem as a combination of two combinatorial problems. First, the path to be followed between each pair of targets should be determined. We model this as a multi-objective shortest path problem. Additionally, we need to determine the order of the targets to be visited. We model this as a multi-objective traveling salesperson problem (MOTSP). The overall problem is a combination of these two problems, which we define as a generalized MOTSP. We develop an exact interactive approach to identify the best paths and the best tour of a decision maker under a linear utility function.
+Keywords
+Multi-objective decision making  Combinatorial optimization  Interactive method  Multi-objective shortest path  Multi-objective traveling salesperson problem  Unmanned Air Vehicle  90C29  90C27  

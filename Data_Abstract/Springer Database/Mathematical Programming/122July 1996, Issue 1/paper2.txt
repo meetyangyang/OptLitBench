@@ -1,0 +1,6 @@
+Equilibrium programming using proximal-like algorithms
+Sjur Didrik Flåm;Anatoly S. Antipin;
+Abstract
+We compute constrained equilibria satisfying an optimality condition. Important examples include convex programming, saddle problems, noncooperative games, and variational inequalities. Under a monotonicity hypothesis we show that equilibrium solutions can be found via iterative convex minimization. In the main algorithm each stage of computation requires two proximal steps, possibly using Bregman functions. One step serves to predict the next point; the other helps to correct the new prediction. To enhance practical applicability we tolerate numerical errors.
+Keywords
+Equilibrium problems  Convex programming  Saddle problems  Non-cooperative games  Variational inequalities  Quasi-monotonicity  Proximal point algorithms  Bregman distances  

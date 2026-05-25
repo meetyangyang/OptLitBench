@@ -1,0 +1,6 @@
+Primal-Dual Nonlinear Rescaling Method for Convex Optimization
+R. Polyak;I. Griva;
+Abstract
+In this paper, we consider a general primal-dual nonlinear rescaling (PDNR) method for convex optimization with inequality constraints. We prove the global convergence of the PDNR method and estimate the error bounds for the primal and dual sequences. In particular, we prove that, under the standard second-order optimality conditions, the error bounds for the primal and dual sequences converge to zero with linear rate. Moreover, for any given ratio 0 > γ > 1, there is a fixed scaling parameter kγ > 0 such that each PDNR step shrinks the primal-dual error bound by at least a factor 0 > γ > 1, for any k ≥ kγ. The PDNR solver was tested on a variety of NLP problems including the constrained optimization problems (COPS) set. The results obtained show that the PDNR solver is numerically stable and produces results with high accuracy. Moreover, for most of the problems solved, the number of Newton steps is practically independent of the problem size.
+Keywords
+Nonlinear rescaling  duality  Lagrangian  primal-dual methods  multipliers methods  

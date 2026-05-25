@@ -1,0 +1,6 @@
+Superlinear convergence of Broyden's boundedθ-class of methods
+Andrzej Stachurski;
+Abstract
+In this paper the so-called Broyden's boundedθ-class of methods is considered. It contains as a subclass Broyden's restrictedθ-class of methods, in which the updating matrices retain symmetry and positive definiteness. These iteration methods are used for solving unconstrained minimization problems of the following form:\(f(\hat x) = \min _{x \in R^n } f(x)\) It is assumed that the step-size coefficientτk = 1 in each iteration and the functionalf : Rn → R1 satisfies the standard assumptions, viz.f is twice continuously differentiable and the Hessian matrix is uniformly positive definite and bounded (there exist constantsm, M > 0 such that m∥y∥2 ⩽ 〈y,\(m\parallel y\parallel ^2  \leqslant \left\langle {y,f(\hat x)\left. y \right\rangle } \right. \leqslant M\parallel y\parallel ^2 \) for ally ∈ Rn) and satisfies a Lipschitz-like condition at the optimal point\(\hat x\), the gradient vanishes at\(\hat x\) Under these assumptions the local convergence of Broyden's methods is proved. Furthermore, the Q-superlinear convergence is shown.
+Keywords
+Unconstrained Minimization  Quasi-Newton Methods  Broyden'sθ-class  Direct Prediction Case  Q-Superlinear Convergence  

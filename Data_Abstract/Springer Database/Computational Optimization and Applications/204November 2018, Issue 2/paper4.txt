@@ -1,0 +1,6 @@
+A smooth path-following algorithm for market equilibrium under a class of piecewise-smooth concave utilities
+Yang Zhan;Chuangyin Dang;
+Abstract
+This paper presents a smooth path-following algorithm for computing market equilibrium in a pure exchange economy under a class of piecewise-smooth concave utilities, which can be expressed as \(u(x)=\min _\ell \{f_\ell (x)\}\) with \(f_\ell (x)\) being a smooth concave function for all \(\ell \). As a result of a smooth technique for minimax problems, a smooth homotopy mapping is derived from the introduction of logarithmic barrier terms and an extra variable. With this mapping, it is proved that there always exists a smooth path leading to a market equilibrium as the extra variable approaches zero. A predictor–corrector method is adapted for numerically following this path. Numerical results are given to further demonstrate the effectiveness and efficiency of the algorithm.
+Keywords
+Market equilibrium  Smooth homotopy  Minimax problem  Regularization technique  

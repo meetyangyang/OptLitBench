@@ -1,0 +1,6 @@
+The BPMPD interior point solver for convex quadratic problems
+ Csaba   Mészáros ;
+Abstract
+ The paper describes the convex quadratic solver BPMPD Version 2.21. The solver is based on the infeasible–primal–dual algorithm extended by the predictor–corrector and target–following techniques. The discussion includes topics related to the implemented algorithm and numerical algebra employed. We outline the presolve, scaling and starting point stategies used in BPMPD, and special attention is given for sparsity and stability issues. Computational results are given on a demonstrative set of convex quadratic problems. 
+Keywords
+Constrained optimization, interior point methods 

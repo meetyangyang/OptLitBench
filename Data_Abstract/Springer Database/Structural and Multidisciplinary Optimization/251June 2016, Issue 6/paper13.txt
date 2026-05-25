@@ -1,0 +1,6 @@
+Thickness control in structural optimization via a level set method
+G. Allaire;F. Jouve;G. Michailidis;
+Abstract
+In the context of structural optimization via a level-set method we propose a framework to handle geometric constraints related to a notion of local thickness. The local thickness is calculated using the signed distance function to the shape. We formulate global constraints using integral functionals and compute their shape derivatives. We discuss different strategies and possible approximations to handle the geometric constraints. We implement our approach in two and three space dimensions for a model of linearized elasticity. As can be expected, the resulting optimized shapes are strongly dependent on the initial guesses and on the specific treatment of the constraints since, in particular, some topological changes may be prevented by those constraints.
+Keywords
+Shape and topology optimization  Level-set method  Signed distance function  Thickness control  

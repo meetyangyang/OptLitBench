@@ -1,0 +1,6 @@
+Heuristics for a project management problem with incompatibility and assignment costs
+Nicolas Zufferey;Olivier Labarthe;David Schindl;
+Abstract
+Consider a project which consists of a set of jobs to be performed, assuming each job has a duration of at most one time period. We assume that the project manager provides a set of possible durations (in time periods) for the whole project. When a job is assigned to a specific time period, an assignment cost is encountered. In addition, for some pairs of jobs, an incompatibility cost is encountered if they are performed at the same time period. Both types of cost depend on the duration of the whole project, which also has to be determined. The goal is to assign a time period to each job while minimizing the costs. We propose a tabu search heuristic, as well as an adaptive memory algorithm, and compare them with other heuristics on large instances, and with an exact method on small instances. Variations of the problems are also discussed
+Keywords
+Project management  Scheduling  Tabu search heuristic  Adaptive memory algorithm  

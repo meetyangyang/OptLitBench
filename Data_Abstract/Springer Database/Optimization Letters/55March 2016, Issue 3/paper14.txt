@@ -1,0 +1,6 @@
+An \(O(\sqrt{n}L)\) iteration Mehrotra-type predictor-corrector algorithm for monotone linear complementarity problem
+Changhe Liu;Youlin Shang;Hongwei Liu;
+Abstract
+In this paper we propose a new class of Mehrotra-type predictor-corrector algorithm for the monotone linear complementarity problems (LCPs). At each iteration, the method computes a corrector direction in addition to the Ai–Zhang direction (SIAM J Optim 16:400–417, 2005), in an attempt to improve performance. Starting with a feasible point \((x^0, s^0)\) in the wide neighborhood \(\mathcal {N}(\tau ,\beta )\), the algorithm enjoys the low iteration bound of \(O(\sqrt{n}L)\), where \(n\) is the dimension of the problem and \(L=\log \frac{(x^0)^T s^0}{\varepsilon }\) with \(\varepsilon \) the required precision. We also prove that the new algorithm can be specified into an easy implementable variant for solving the monotone LCPs, in such a way that the iteration bound is still \(O(\sqrt{n}L)\). Some preliminary numerical results are provided as well.
+Keywords
+Linear complementarity problem  Interior-point methods    Wide neighborhood  Mehrotra-type predictor-corrector algorithm   Polynomial complexity  

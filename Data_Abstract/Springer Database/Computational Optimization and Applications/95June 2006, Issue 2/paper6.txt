@@ -1,0 +1,6 @@
+A Dual-Objective Evolutionary Algorithm for Rules Extraction in Data Mining
+K. C. Tan;Q. Yu;J. H. Ang;
+Abstract
+This paper presents a dual-objective evolutionary algorithm (DOEA) for extracting multiple decision rule lists in data mining, which aims at satisfying the classification criteria of high accuracy and ease of user comprehension. Unlike existing approaches, the algorithm incorporates the concept of Pareto dominance to evolve a set of non-dominated decision rule lists each having different classification accuracy and number of rules over a specified range. The classification results of DOEA are analyzed and compared with existing rule-based and non-rule based classifiers based upon 8 test problems obtained from UCI Machine Learning Repository. It is shown that the DOEA produces comprehensible rules with competitive classification accuracy as compared to many methods in literature. Results obtained from box plots and t-tests further examine its invariance to random partition of datasets.
+Keywords
+data mining  evolutionary algorithm  classification  rules extraction  

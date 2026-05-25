@@ -1,0 +1,6 @@
+Interior-Point Methods for Massive Support Vector Machines
+Michael C.  Ferris and Todd S.  Munson;
+Abstract
+We investigate the use of interior-point methods for solving quadratic programming problems with a small number of linear constraints, where the quadratic term consists of a low-rank update to a positive semidefinite matrix. Several formulations of the support vector machine fit into this category. An interesting feature of these particular problems is the volume of data, which can lead to quadratic programs with between 10 and 100 million variables and, if written explicitly, a dense Q matrix. Our code is based on OOQP, an object-oriented interior-point code, with the linear algebra specialized for the support vector machine application. For the targeted massive problems, all of the data is stored out of core and we overlap computation and input/output to reduce overhead. Results are reported for several linear support vector machine formulations demonstrating that the method is reliable and scalable.
+Keywords
+support vector machine, interior-point method, linear algebra, 90C51, 90C20, 62H30, 

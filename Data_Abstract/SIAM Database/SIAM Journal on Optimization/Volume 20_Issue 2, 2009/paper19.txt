@@ -1,0 +1,6 @@
+OrthoMADS: A Deterministic MADS Instance with Orthogonal Directions
+Mark A.  Abramson, Charles  Audet, J. E.  Dennis,,  Jr., and Sébastien Le  Digabel;
+Abstract
+The purpose of this paper is to introduce a new way of choosing directions for the mesh adaptive direct search (Mads) class of algorithms. The advantages of this new OrthoMads instantiation of Mads are that the polling directions are chosen deterministically, ensuring that the results of a given run are repeatable, and that they are orthogonal to each other, which yields convex cones of missed directions at each iteration that are minimal in a reasonable measure. Convergence results for OrthoMads follow directly from those already published for Mads, and they hold deterministically, rather than with probability one, as is the case for LtMads, the first Mads instance. The initial numerical results are quite good for both smooth and nonsmooth and constrained and unconstrained problems considered here.
+Keywords
+mesh adaptive direct search (Mads) algorithms, deterministic, orthogonal directions, constrained optimization, nonlinear programming, 90C56, 90C30, 65K05, 

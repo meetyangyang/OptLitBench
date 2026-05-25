@@ -1,0 +1,6 @@
+Corrector–predictor methods for monotone linear complementarity problems in a wide neighborhood of the central path
+Florian A. Potra;
+Abstract
+Two corrector–predictor interior point algorithms are proposed for solving monotone linear complementarity problems. The algorithms produce a sequence of iterates in the \({\mathcal{N}_{\infty}^{-}}\) neighborhood of the central path. The first algorithm uses line search schemes requiring the solution of higher order polynomial equations in one variable, while the line search procedures of the second algorithm can be implemented in \({O(m\, n^{1+\alpha})}\) arithmetic operations, where n is the dimension of the problems, \({\alpha\in(0,1]}\) is a constant, and m is the maximum order of the predictor and the corrector. If \({m = \Omega(\log n)}\) then both algorithms have \({O(\sqrt{n}L)}\) iteration complexity. They are superlinearly convergent even for degenerate problems.
+Keywords
+Linear complementarity problem  Interior-point algorithm  Large neighborhood  Superlinear convergence  49M15  65K05  90C33  

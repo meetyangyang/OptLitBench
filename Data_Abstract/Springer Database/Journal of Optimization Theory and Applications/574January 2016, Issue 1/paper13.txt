@@ -1,0 +1,6 @@
+The Orienteering Problem with Time Windows Applied to Robotic Melon Harvesting
+Moshe Mann;Boaz Zion;Dror Rubinstein;Rafi Linker;Itzhak Shmulevich;
+Abstract
+The goal of a melon harvesting robot is to maximize the number of melons it harvests given a progressive speed. Selecting the sequence of melons that yields this maximum is an example of the orienteering problem with time windows. We present a dynamic programming-based algorithm that yields a strictly optimal solution to this problem. In contrast to similar methods, this algorithm utilizes the unique properties of the robotic harvesting task, such as uniform gain per vertex and time windows, to expand domination criteria and quicken the optimal path selection process. We prove that the complexity of this algorithm is linearithmic in the number of melons and can be implemented online if there is a bound on the density. The results of this algorithm are demonstrated to be significantly better than the standard heuristic solution for a wide range of harvesting robot scenarios.
+Keywords
+Harvesting robot  Orienteering  Time windows  Dynamic programming  Combinatorial optimization  05C85  68T40  90C39  90C27  68W40  

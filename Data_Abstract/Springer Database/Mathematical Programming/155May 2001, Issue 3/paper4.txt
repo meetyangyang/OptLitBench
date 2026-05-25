@@ -1,0 +1,6 @@
+Solving the Asymmetric Travelling Salesman Problem with time windows by branch-and-cut
+Norbert Ascheuer;Matteo Fischetti;Martin Grötschel;
+Abstract
+Many optimization problems have several equivalent mathematical models. It is often not apparent which of these models is most suitable for practical computation, in particular, when a certain application with a specific range of instance sizes is in focus. Our paper addresses the Asymmetric Travelling Salesman Problem with time windows (ATSP-TW) from such a point of view. The real–world application we aim at is the control of a stacker crane in a warehouse.¶We have implemented codes based on three alternative integer programming formulations of the ATSP-TW and more than ten heuristics. Computational results for real-world instances with up to 233 nodes are reported, showing that a new model presented in a companion paper outperforms the other two models we considered – at least for our special application – and that the heuristics provide acceptable solutions.
+Keywords
+Key words: Asymmetric Travelling Salesman Problem – time windows – integer programs – branch&cut-algorithm – heuristics – control of stacker cranes  Mathematics Subject Classification (2000): 90C10, 90C27, 90C35  

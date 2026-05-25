@@ -1,0 +1,6 @@
+Analysis of multi-objective Kriging-based methods for constrained global optimization
+Cédric Durantin;Julien Marzat;Mathieu Balesdent;
+Abstract
+Metamodeling, i.e., building surrogate models to expensive black-box functions, is an interesting way to reduce the computational burden for optimization purpose. Kriging is a popular metamodel based on Gaussian process theory, whose statistical properties have been exploited to build efficient global optimization algorithms. Single and multi-objective extensions have been proposed to deal with constrained optimization when the constraints are also evaluated numerically. This paper first compares these methods on a representative analytical benchmark. A new multi-objective approach is then proposed to also take into account the prediction accuracy of the constraints. A numerical evaluation is provided on the same analytical benchmark and a realistic aerospace case study.
+Keywords
+Black-box functions  Constrained global optimization   Kriging  Multi-objective optimization  

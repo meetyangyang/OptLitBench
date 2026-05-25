@@ -1,0 +1,4 @@
+Exponentially Accurate Temporal Decomposition for Long-Horizon Linear-Quadratic Dynamic Optimization
+Wanting  Xu and Mihai  Anitescu;
+Abstract
+In this work, we investigate a temporal decomposition approach to long-horizon dynamic optimization problems. The problems are discrete-time, linear, time dependent, and with box constraints on the control variables. We prove that an overlapping domains temporal decomposition, while inexact, approaches the solution of the long-horizon dynamic optimization problem exponentially fast in the size of the overlap. The resulting subproblems share no solution information and thus can be computed independently in parallel. Our findings are demonstrated with a small, synthetic production cost model with real demand data.

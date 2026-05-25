@@ -1,0 +1,6 @@
+A polynomial primal-dual affine scaling algorithm for symmetric conic optimization
+Ali Mohammad-Nezhad;Tamás Terlaky;
+Abstract
+The primal-dual Dikin-type affine scaling method was originally proposed for linear optimization and then extended to semidefinite optimization. Here, the method is generalized to symmetric conic optimization using the notion of Euclidean Jordan algebras. The method starts with an interior feasible but not necessarily centered primal-dual solution, and it features both centering and reducing the duality gap simultaneously. The method’s iteration complexity bound is analogous to the semidefinite optimization case. Numerical experiments demonstrate that the method is viable and robust when compared to SeDuMi, MOSEK and SDPT3.
+Keywords
+Interior-point method  Dikin-type affine scaling method  symmetric conic optimization  Euclidean Jordan algebra  90C51  90C25  

@@ -1,0 +1,6 @@
+Optimal rank-sparsity decomposition
+Jon Lee;Bai Zou;
+Abstract
+We describe a branch-and-bound (b&b) method aimed at searching for an exact solution of the fundamental problem of decomposing a matrix into the sum of a sparse matrix and a low-rank matrix. Previous heuristic techniques employed convex and nonconvex optimization. We leverage and extend those ideas, within a spatial b&b framework, aimed at exact global optimization. Our work may serve to (i) gather evidence to assess the true quality of the previous heuristic techniques, and (ii) provide software to routinely calculate global optima or at least better solutions for moderate-sized instances coming from applications.
+Keywords
+Global optimization  Rank-sparsity decomposition  Convex relaxation  Branch-and-bound  65K05  65F50  90C26  

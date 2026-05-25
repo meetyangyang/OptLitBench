@@ -1,0 +1,6 @@
+Parallel primal-dual methods for the minimum cost flow problem
+Dimitri P. Bertsekas;David A. Castañon;
+Abstract
+In this paper we discuss the parallel asynchronous implementation of the classical primaldual method for solving the linear minimum cost network flow problem. Multiple augmentations and price rises are simultaneously attempted starting from several nodes with possibly outdated price and flow information. The results are then merged asynchronously subject to rather weak compatibility conditions. We show that this algorithm is valid, terminating finitely to an optimal solution. We also present computational results using an Encore MULTIMAX that illustrate the speedup that can be obtained by parallel implementation.
+Keywords
+Optimization  network programming  primal-dual  transshipment  

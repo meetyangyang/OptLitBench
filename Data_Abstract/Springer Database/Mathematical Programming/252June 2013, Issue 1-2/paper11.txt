@@ -1,0 +1,6 @@
+Computing the conjugate of convex piecewise linear-quadratic bivariate functions
+Bryan Gardiner;Yves Lucet;
+Abstract
+We present a new algorithm to compute the Legendre–Fenchel conjugate of convex piecewise linear-quadratic (PLQ) bivariate functions. The algorithm stores a function using a (primal) planar arrangement. It then computes the (dual) arrangement associated with the conjugate by looping through vertices, edges, and faces in the primal arrangement and building associated dual vertices, edges, and faces. Using optimal computational geometry data structures, the algorithm has a linear time worst-case complexity. We present the algorithm, and illustrate it with numerical examples. We proceed to build a toolbox for convex bivariate PLQ functions by implementing the addition, and scalar multiplication operations. Finally, we compose these operators to compute classical convex analysis operators such as the Moreau envelope, and the proximal average.
+Keywords
+Computer-aided convex analysis  Computational convex analysis  Fenchel conjugate  Legendre–Fenchel transform  Convex subdifferential   Planar arrangement  90C25  26A51  26B25  47H05  52A41  

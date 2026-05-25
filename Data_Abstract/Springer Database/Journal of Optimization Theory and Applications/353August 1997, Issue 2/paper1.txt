@@ -1,0 +1,6 @@
+An Optimal Control Problem for Flows with Discontinuities
+E. M. Cliff;M. Heinkenschloss;A. R. Shenoy;
+Abstract
+In this paper, we study a design problem for a duct flow with a shock. The presence of the shock causes numerical difficulties. Good shock-capturing schemes with low continuity properties often cannot be combined successfully with efficient optimization methods requiring smooth functions. A remedy studied in this paper is to introduce the shock location as an explicit variable. This allows one to fit the shock and yields a problem with sufficiently smooth functions. We prove the existence of optimal solutions, Fréchet differentiability, and the existence of Lagrange multipliers. In the second part, we introduce and investigate the discrete problem and study the relations between the optimality conditions for the infinite-dimensional problem and the discretized one. This reveals important information for the numerical solution of the problem. Numerical examples are given to demonstrate the theoretical findings.
+Keywords
+Optimal control  Euler flow equations  sequential quadratic programming  

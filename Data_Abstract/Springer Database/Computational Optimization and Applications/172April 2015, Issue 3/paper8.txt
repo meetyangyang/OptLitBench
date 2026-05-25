@@ -1,0 +1,6 @@
+Symmetric error estimates for discontinuous Galerkin time-stepping schemes for optimal control problems constrained to evolutionary Stokes equations
+Konstantinos Chrysafinos;Efthimios N. Karatzas;
+Abstract
+We consider fully discrete finite element approximations of a distributed optimal control problem, constrained by the evolutionary Stokes equations. Conforming finite element methods for spatial discretization combined with discontinuous time-stepping Galerkin schemes are being used for the space-time discretization. Error estimates are proved under weak regularity hypotheses for the state, adjoint and control variables. The estimates are also applicable when high order schemes are being used. Computational examples validating our expected rates of convergence are also provided.
+Keywords
+Discontinuous time-stepping schemes  Finite element approximations  Stokes equations  Velocity tracking problem   Distributed controls  Error estimates  65M60  49J20  

@@ -1,0 +1,4 @@
+A Benders Approach to the Minimum Chordal Completion Problem
+David Bergman;Arvind U. Raghunathan;
+Abstract
+This paper introduces an integer programming approach to the minimum chordal completion problem. This combinatorial optimization problem, although simple to pose, presents considerable computational difficulties and has been tackled mostly by heuristics. In this paper, an integer programming approach based on Benders decomposition is presented. Computational results show that the improvement in solution times over a simple branch-and-bound algorithm is substantial. The results also indicate that the value of the solutions obtained by a state-of-the-art heuristic can be in some cases significantly far away from the previously unknown optimal solutions obtained via the Benders approach.

@@ -1,0 +1,6 @@
+Strict linear prices in non-convex European day-ahead electricity markets
+Alexander Martin;Johannes C. Müller;Sebastian Pokutta;
+Abstract
+The European power grid can be divided into several market areas where the price of electricity is determined in a day-ahead auction. Market participants can provide continuous hourly bid curves and combinatorial bids with associated quantities given the prices. The goal of our auction is to maximize the economic surplus of all participants subject to quantity constraints and price constraints. The price constraints ensure that no one incurs a loss. Only traders who submitted a combinatorial bid might miss a not-realized profit. The resulting problem is a large-scale mathematical program with equilibrium constraints (MPEC) and binary variables that cannot be solved efficiently by standard solvers. We present an exact algorithm and a fast heuristic for this type of problem. Both algorithms decompose the MPEC into a master problem (a mixed-integer quadratic program) and pricing subproblems (linear programs). The modelling technique and the algorithms are applicable to a wide variety of combinatorial auctions that are based on mixed-integer programs.
+Keywords
+discrete optimization, MPEC, combinatorial auctions, strict linear prices, electricity marketsAMS Subject Classifications: 90C11, 90C33, 91A46, 91B15, 91B26 

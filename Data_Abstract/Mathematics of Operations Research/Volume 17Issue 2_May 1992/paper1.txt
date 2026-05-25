@@ -1,0 +1,6 @@
+Turnpike Optimality of Smith's Rule in Parallel Machines Stochastic Scheduling
+Gideon Weiss;
+Abstract
+Consider scheduling a batch of jobs with stochastic processing times on parallel machines, with minimization of expected weighted flowtime as objective. Smith's Rule, which orders job starts by decreasing ratio of weight to expected processing time, provides a natural heuristic for this problem. In a previous paper we have found an upper bound for the difference between the expected objective under Smith's Rule and under the optimal strategy. In this paper we find an upper bound on the expected number of times that Smith's rule differs from the optimal decision. Under some mild and reasonable assumptions these bounds remain constant when the number of jobs increases. Hence, under these conditions Smith's Rule is asymptotically optimal, and it has a Turnpike Optimality property, that is, Smith's Rule is optimal most of the time.
+Keywords
+scheduling stochastic processing times parallel machines asymptotic optimality of heuristics 

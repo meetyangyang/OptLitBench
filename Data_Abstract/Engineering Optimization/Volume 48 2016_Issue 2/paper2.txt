@@ -1,0 +1,6 @@
+The fully actuated traffic control problem solved by global optimization and complementarity
+Isabel M. Ribeiro;Maria de Lurdes de Oliveira Simões;
+Abstract
+Global optimization and complementarity are used to determine the signal timing for fully actuated traffic control, regarding effective green and red times on each cycle. The average values of these parameters can be used to estimate the control delay of vehicles. In this article, a two-phase queuing system for a signalized intersection is outlined, based on the principle of minimization of the total waiting time for the vehicles. The underlying model results in a linear program with linear complementarity constraints, solved by a sequential complementarity algorithm. Departure rates of vehicles during green and yellow periods were treated as deterministic, while arrival rates of vehicles were assumed to follow a Poisson distribution. Several traffic scenarios were created and solved. The numerical results reveal that it is possible to use global optimization and complementarity over a reasonable number of cycles and determine with efficiency effective green and red times for a signalized intersection.
+Keywords
+fully actuated control, global optimization, stochastic data, complementarity 

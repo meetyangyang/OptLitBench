@@ -1,0 +1,6 @@
+Online scheduling for jobs with nondecreasing release times and similar lengths on parallel machines
+Rongheng Li;Xiayan Cheng;Yunxia Zhou;
+Abstract
+In this paper, we consider semi-online scheduling problems on parallel identical machine system which result from the online scheduling problem for jobs with arbitrary release times by knowing part information of the release times or processing sizes. The conditions are informed that the release times are nondecreasing sequence and the processing lengths are similar in  with . An upper bound of the competitive ratio of List Scheduling (LS) algorithm is given and it is proved that the LS schedule is optimal when  for any . Furthermore, for  we present a tight bound when . We also show that the competitive ratio of the LS algorithm is improved when additional information is known by letting each job have release time zero. However, if the processing lengths are arbitrary, then no impact on the competitive ratio of the LS algorithm occurs after imposing the additional information.
+Keywords
+schedule, algorithm, competitive ratio, onlineAMS Subject Classifications: 68R05, 90B35, 90C27 

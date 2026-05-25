@@ -1,0 +1,6 @@
+Shape reanalysis and sensitivities utilizing preconditioned iterative boundary solvers
+K. Guru Prasad;J. H. Kane;
+Abstract
+The computational advantages associated with the utilization of preconditioned iterative equation solvers are quantified for the reanalysis of perturbed shapes using continuum structural boundary element analysis (BEA). Both single- and multizone three-dimensional problems are examined. Significant redutions in computer time are obtained by making use of previously computed solution vectors and preconditioners in subsequent analyses. The effectiveness of this technique is demonstrated for the computation of shape response sensitivities required in shape optimization. Computer times and accuracies achieved using the preconditioned iterative solvers are compared with those obtained via direct solvers and implicit differentiation of the boundary integral equations. It is concluded that this approach employing preconditioned iterative equation solvers in reanalysis and sensitivity analysis can be competitive with if not superior to those involving direct solvers.
+Keywords
+Sensitivity Analysis  Computer Time  Shape Optimization  Boundary Integral Equation  Solution Vector  

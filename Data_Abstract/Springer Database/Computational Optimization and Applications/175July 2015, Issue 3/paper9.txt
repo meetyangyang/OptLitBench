@@ -1,0 +1,6 @@
+A collision detection approach for maximizing the material utilization
+Volker Maag;
+Abstract
+We introduce a new method for a task of maximal material utilization, which is to fit a flexible, scalable three-dimensional body into another aiming for maximal volume whereas position and shape may vary. The difficulty arises from the containment constraint which is not easy to handle numerically. We use a collision detection method to check the constraint and reformulate the problem such that the constraint is hidden within the objective function. We apply methods from parametric optimization to proof that the objective function remains at least continuous. We apply the new approach to the problem of fitting a gemstone into a roughstone. For this previous approaches based on semi-infinite optimization exist, to which we compare our algorithm. The new algorithm is more suitable for necessary global optimization techniques and numerical results show that it works reliably and in general outperforms the previous approaches in both runtime and solution quality.
+Keywords
+Nonlinear programming  Maximal material utilization  Design centering  Collision detection  Semi-infinite programming  

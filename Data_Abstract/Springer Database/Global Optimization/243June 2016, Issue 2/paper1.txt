@@ -1,0 +1,6 @@
+Irregular polyomino tiling via integer programming with application in phased array antenna design
+Serdar Karademir;Oleg A. Prokopyev;Robert J. Mailloux;
+Abstract
+A polyomino is a generalization of the domino and is created by connecting a fixed number of unit squares along edges. Tiling a region with a given set of polyominoes is a hard combinatorial optimization problem. This paper is motivated by a recent application of irregular polyomino tilings in the design of phased array antennas. Specifically, we formulate the irregular polyomino tiling problem as a nonlinear exact set covering model, where irregularity is incorporated into the objective function using the information-theoretic entropy concept. An exact solution method based on a branch-and-price framework along with novel branching and lower-bounding schemes is proposed. The developed method is shown to be effective for small- and medium-size instances of the problem. For large-size instances, efficient heuristics and approximation algorithms are provided. Encouraging computational results including phased array antenna simulations are reported.
+Keywords
+Polyomino  Entropy  Set partitioning  Phased array antenna  

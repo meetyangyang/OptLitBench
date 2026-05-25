@@ -1,0 +1,6 @@
+Curvilinear Stabilization Techniques for Truncated Newton Methods in Large Scale Unconstrained Optimization
+Stefano  Lucidi, Francesco  Rochetich, and Massimo  Roma;
+Abstract
+The aim of this paper is to define a new class of minimization algorithms for solving large scale unconstrained problems. In particular we describe a stabilization framework, based on a curvilinear linesearch, which uses a combination of a Newton-type direction and a negative curvature direction. The motivation for using negative curvature direction is that of taking into account local nonconvexity of the objective function. On the basis of this framework, we propose an algorithm which uses the Lanczos method for determining at each iteration both a Newton-type direction and an effective negative curvature direction. The results of extensive numerical testing are reported together with a comparison with the LANCELOT package. These results show that the algorithm is very competitive, which seems to indicate that the proposed approach is promising.
+Keywords
+large scale unconstrained optimization, Newton-type method, negative curvature direction, curvilinear linesearch, Lanczos method, 90C30, 65K05, 

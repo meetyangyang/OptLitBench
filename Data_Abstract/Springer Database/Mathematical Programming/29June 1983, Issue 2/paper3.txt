@@ -1,0 +1,6 @@
+Optimal approximation of sparse hessians and its equivalence to a graph coloring problem
+S. Thomas McCormick;
+Abstract
+We consider the problem of approximating the Hessian matrix of a smooth non-linear function using a minimum number of gradient evaluations, particularly in the case that the Hessian has a known, fixed sparsity pattern. We study the class of Direct Methods for this problem, and propose two new ways of classifying Direct Methods. Examples are given that show the relationships among optimal methods from each class. The problem of finding a non-overlapping direct cover is shown to be equivalent to a generalized graph coloring problem—the distance-2 graph coloring problem. A theorem is proved showing that the general distance-k graph coloring problem is NP-Complete for all fixedk≥2, and hence that the optimal non-overlapping direct cover problem is also NP-Complete. Some worst-case bounds on the performance of a simple coloring heuristic are given. An appendix proves a well-known folklore result, which gives lower bounds on the number of gradient evaluations needed in any possible approximation method.
+Keywords
+Sparse Hessian Approximation  Graph Coloring Heuristics  Elimination Methods  NP-Complete  Direct Methods  

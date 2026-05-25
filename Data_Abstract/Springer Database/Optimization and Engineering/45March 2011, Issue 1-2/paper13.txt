@@ -1,0 +1,6 @@
+Optimizing financial and physical assets with chance-constrained programming in the electrical industry
+Riadh Zorgati;Wim van Ackooij;
+Abstract
+This paper deals with a Chance-Constrained Programming formulation and approximate resolution of an offer-demand equilibrium problem in the context of electricity markets. First, we state the probabilistic model. Computing the coefficients of the problem matrix is easy for financial assets, but a challenging task for physical assets. By introducing maximal production capacities, the computation becomes tractable for thermal plants but still leads to a combinatorial problem for hydraulic production. The obtained problem matrix is sparse, large scale and with random coefficients describing underlying uncertainty factors affecting the available power of assets. Second, we suggest some ways for approximately solving the obtained combinatorial chance-constrained program, which is in fact a stochastic multi-knapsack problem. A formal link between joint and individual chance constraints is exhibited and may lead to a simplified processing of the problem. Finally we illustrate our approximate algorithm on a stylized example.
+Keywords
+Unit commitment  Hedging  Chance-constrained programming  

@@ -1,0 +1,6 @@
+A representation of the solution set of a class of linear complementarity problems
+Huynh The Phung;
+Abstract
+Most of algorithms solving linear complementarity problems will terminate when a solution, or a proximate solution, is found or the problem is shown to have no solution. It is well known that if the underlying matrix belongs to the class , then the problem has a unique solution which could be found by various highly effective algorithms. However, when the matrix is not a -matrix the problem can have more than one solution, and these algorithms in general only find one of them. This article will produce a representation formula of the solution set of the linear complementarity problem with the underlying matrix belonging to a class much larger than . Based on the formula, an algorithm could be developed for completely solving the problem of this type.
+Keywords
+P-matrix, P(−k)-matrix, linear complementarity problem, representation of solution set, algorithmAMS Subject Classifications: Primary 90C33, Secondary 15A15 

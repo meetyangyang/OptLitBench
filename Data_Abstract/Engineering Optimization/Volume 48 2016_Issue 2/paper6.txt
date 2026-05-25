@@ -1,0 +1,6 @@
+A priori least expected time paths in fuzzy, time-variant transportation networks
+Li Wang;Ziyou Gao;Lixing Yang;
+Abstract
+Dynamics and fuzziness are two significant characteristics of real-world transportation networks. To capture these two features theoretically, this article proposes the concept of a fuzzy, time-variant network characterized by a series of time-dependent fuzzy link travel times. To find an effective route guidance for travelers, the expected travel time is specifically adopted as an evaluation criterion to assess the route generation process. Then the shortest path problem is formulated as a multi-objective 0–1 optimization model for finding the least expected time path over the considered time horizon. Different from the shortest path problem in dynamic and random networks, an efficient method is proposed in this article to calculate the fuzzy expected travel time for each given path. A tabu search algorithm is designed for the problem to generate the best solution under the framework of linear weighted methods. Finally, two numerical experiments are performed to verify the effectiveness and efficiency of the model and algorithm.
+Keywords
+fuzzy time-variant network, least expected time path, tabu search algorithm 

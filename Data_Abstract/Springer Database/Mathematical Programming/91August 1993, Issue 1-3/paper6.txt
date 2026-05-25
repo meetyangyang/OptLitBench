@@ -1,0 +1,6 @@
+An algorithm for solving convex programs with an additional convex—concave constraint
+Dung Le Muu;
+Abstract
+An implementable decomposition method based on branch-and-bound techniques is proposed for finding a global optimal solution of certain convex programs with an additional convex—concave constrainth(x, y) ⩽ 0. A nonadaptive simplicial and an adaptive bisection are used for the branching operation, which is performed iny-space only. The bounding operation is based on a relaxation of the convex—concave constrainth(x, y) ⩽ 0. The algorithm can be applied efficiently for linear programs with an additional affine multiplicative constraint.
+Keywords
+Global optimization  branch-and-bound  convex—concave constraint  d.c. programming  the product of two affine functions  decomposition method  algorithm  

@@ -1,0 +1,6 @@
+An FPTAS for minimizing the product of two non-negative linear cost functions
+Vineet Goyal;Latife Genc-Kaya;R. Ravi;
+Abstract
+We consider a quadratic programming (QP) problem (Π) of the form min x  T  C x subject to Ax ≥ b, x ≥ 0 where \({C\in {\mathbb R}^{n \times n}_+, {\rm rank}(C)=1}\) and \({A\in {\mathbb R}^{m \times n}, b\in {\mathbb R}^m}\) . We present an fully polynomial time approximation scheme (FPTAS) for this problem by reformulating the QP (Π) as a parameterized LP and “rounding” the optimal solution. Furthermore, our algorithm returns an extreme point solution of the polytope. Therefore, our results apply directly to 0–1 problems for which the convex hull of feasible integer solutions is known such as spanning tree, matchings and sub-modular flows. They also apply to problems for which the convex hull of the dominant of the feasible integer solutions is known such as s, t-shortest paths and s, t-min-cuts. For the above discrete problems, the quadratic program Π models the problem of obtaining an integer solution that minimizes the product of two linear non-negative cost functions.
+Keywords
+Quadratic programming  Approximation schemes  Combinatorial optimization  90C20  90C26  90C27  90C29  

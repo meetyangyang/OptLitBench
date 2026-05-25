@@ -1,0 +1,6 @@
+The Linear l1  Estimator and the Huber M-Estimator
+W.  Li and J. J.  Swetits;
+Abstract
+Relationships between a linear l1  estimation problem and the Huber M-estimator problem can be easily established by their dual formulations. The least norm solution of a linear programming problem studied by Mangasarian and Meyer [SIAM J. Control Optim., 17 (1979), pp. 745--752] provides a key link between the dual problems. Based on the dual formulations, we establish a local linearity property of the Huber M-estimators with respect to the tuning parameter $\gamma$ and prove that the solution set of the Huber M-estimator problem is Lipschitz continuous with respect to perturbations of the tuning parameter $\gamma$. As a consequence, the set of the linear l1  estimators is the limit of the set of the Huber M-estimators as $\gamma\to 0+. Thus, the Huber M-estimator problem has many solutions for small tuning parameter $\gamma$ if the linear l1  estimation problem has multiple solutions. A recursive version of Madsen and Nielsen's algorithm [SIAM J. Optim., 3 (1993), pp. 223--235] based on computation of the Huber M-estimator is proposed for finding a linear l1  estimator.
+Keywords
+linear l1 estimator, Huber M-estimator, least norm solution of linear programs, dual solutions of least distance problems, 90C90, 62G35, 41A45, 41A52, 90C31, 

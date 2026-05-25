@@ -1,0 +1,6 @@
+On Constraint Sampling in the Linear Programming Approach to Approximate Dynamic Programming
+Daniela Pucci de Farias;Benjamin Van Roy;
+Abstract
+In the linear programming approach to approximate dynamic programming, one tries to solve a certain linear program—the ALP—that has a relatively small number K of variables but an intractable number M of constraints. In this paper, we study a scheme that samples and imposes a subset of m≪M constraints. A natural question that arises in this context is: How must m scale with respect to K and M in order to ensure that the resulting approximation is almost as good as one given by exact solution of the ALP? We show that, given an idealized sampling distribution and appropriate constraints on the K variables, m can be chosen independently of M and need grow only as a polynomial in K. We interpret this result in a context involving controlled queueing networks.
+Keywords
+Markov decision processes policy value function basis functions 

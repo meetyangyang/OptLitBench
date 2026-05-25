@@ -1,0 +1,6 @@
+Consistency of Sequential Bayesian Sampling Policies
+Peter I.  Frazier and Warren B.  Powell;
+Abstract
+We consider Bayesian information collection, in which a measurement policy collects information to support a future decision. This framework includes ranking and selection, continuous global optimization, and many other problems in sequential experimental design. We give a sufficient condition under which measurement policies sample each measurement type infinitely often, ensuring consistency, i.e., that a globally optimal future decision is found in the limit. This condition is useful for verifying consistency of adaptive sequential sampling policies that do not do forced random exploration, making consistency difficult to verify by other means. We demonstrate the use of this sufficient condition by showing consistency of two previously proposed ranking and selection policies: optimal computing budget allocation (OCBA) for linear loss, and the knowledge-gradient policy with independent normal priors. Consistency of the knowledge-gradient policy was shown previously, while the consistency result for OCBA is new.
+Keywords
+Bayesian inference, design of experiments, sequential design, ranking and selection, 62F15, 62K99, 62L05, 62F07, 

@@ -1,0 +1,6 @@
+Tight bounds for christofides' traveling salesman heuristic
+G. Cornuejols;G. L. Nemhauser;
+Abstract
+Christofides [1] proposes a heuristic for the traveling salesman problem that runs in polynomial time. He shows that when the graphG = (V, E) is complete and the distance matrix defines a function onV × V that is metric, then the length of the Hamiltonian cycle produced by the heuristic is always smaller than 3/2 times the length of an optimal Hamiltonian cycle. The purpose of this note is to refine Christofides' worst-case analysis by providing a tight bound for everyn ≥ 3, wheren is the number of vertices of the graph. We also show that these bounds are still tight when the metric is restricted to rectilinear distances, or to Euclidean distances for alln ≥ 6.
+Keywords
+Traveling Salesman Problem  Heuristics  

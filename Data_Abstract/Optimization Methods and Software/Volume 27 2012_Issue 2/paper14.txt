@@ -1,0 +1,6 @@
+On evaluating higher-order derivatives of the QR decomposition of tall matrices with full column rank in forward and reverse mode algorithmic differentiation
+ Sebastian   F.   Walter ; Lutz   Lehmann ; René   Lamour ;
+Abstract
+ We address the task of higher-order derivative evaluation of computer programs that contain QR decompositions of tall matrices with full column rank. The approach is a combination of univariate Taylor polynomial arithmetic and matrix calculus in the (combined) forward/reverse mode of algorithmic differentiation (AD). Explicit algorithms are derived and presented in an accessible form. 
+Keywords
+automatic differentiation, null space, univariate Taylor polynomial arithmetic AMS Subject Classification : 65D25, 12E05, 58C15, 65F15, 65F25 

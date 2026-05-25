@@ -1,0 +1,6 @@
+A trust region SQP algorithm for mixed-integer nonlinear programming
+Oliver Exler;Klaus Schittkowski;
+Abstract
+We propose a modified sequential quadratic programming method for solving mixed-integer nonlinear programming problems. Under the assumption that integer variables have a smooth influence on the model functions, i.e., that function values do not change drastically when in- or decrementing an integer value, successive quadratic approximations are applied. The algorithm is stabilized by a trust region method with Yuan’s second order corrections. It is not assumed that the mixed-integer program is relaxable or, in other words, function values are evaluated only at integer points. The Hessian of the Lagrangian function is approximated by a quasi-Newton update formula subject to the continuous and integer variables. Numerical results are presented for a set of 80 mixed-integer test problems taken from the literature. The surprising result is that the number of function evaluations, the most important performance criterion in practice, is less than the number of function calls needed for solving the corresponding relaxed problem without integer variables.
+Keywords
+Mixed-integer nonlinear programming  Sequential quadratic programming  SQP  Trust region methods  

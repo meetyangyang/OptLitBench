@@ -1,0 +1,6 @@
+A Primal-Dual Variant of the IRI-IMAI Algorithm for Linear Programming
+Reha H. Tütüncü;
+Abstract
+A local acceleration method for primal-dual potential-reduction algorithms is introduced. The method developed here uses modified Newton search directions to minimize the Tanabe-Todd-Ye (TTY) potential function, and can be regarded as a primal-dual variant of the Iri-Imai algorithm based on the multiplicative analogue of Karmarkar's potential function. When iterates are close to an optimal solution, the TTY potential function has negative curvature along the generated search directions. Therefore, large reductions in the potential function can be obtained, guaranteeing polynomial and quadratic convergence to nondegenerate solutions.
+Keywords
+Interior point method linear programming potential reduction algorithm 

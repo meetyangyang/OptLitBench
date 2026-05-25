@@ -1,0 +1,6 @@
+Global convergence in infeasible-interior-point algorithms
+Masakazu Kojima;Toshihito Noma;Akiko Yoshise;
+Abstract
+This paper presents a wide class of globally convergent interior-point algorithms for the nonlinear complementarity problem with a continuously differentiable monotone mapping in terms of a unified global convergence theory given by Polak in 1971 for general nonlinear programs. The class of algorithms is characterized as: Move in a Newton direction for approximating a point on the path of centers of the complementarity problem at each iteration. Starting from a strictly positive but infeasible initial point, each algorithm in the class either generates an approximate solution with a given accuracy or provides us with information that the complementarity problem has no solution in a given bounded set. We present three typical examples of our interior-point algorithms, a horn neighborhood model, a constrained potential reduction model with the use of the standard potential function, and a pure potential reduction model with the use of a new potential function.
+Keywords
+Monotone complementarity problem  Interior-point algorithm  Potential reduction algorithm  Infeasibility  Global convergence  

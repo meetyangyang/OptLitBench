@@ -1,0 +1,6 @@
+Relaxations for two-level multi-item lot-sizing problems
+Mathieu Van Vyve;Laurence A. Wolsey;Hande Yaman;
+Abstract
+We consider several variants of the two-level lot-sizing problem with one item at the upper level facing dependent demand, and multiple items or clients at the lower level, facing independent demands. We first show that under a natural cost assumption, it is sufficient to optimize over a stock-dominant relaxation. We further study the polyhedral structure of a strong relaxation of this problem involving only initial inventory variables and setup variables. We consider several variants: uncapacitated at both levels with or without start-up costs, uncapacitated at the upper level and constant capacity at the lower level, constant capacity at both levels. We finally demonstrate how the strong formulations described improve our ability to solve instances with up to several dozens of periods and a few hundred products.
+Keywords
+Mixed-integer programming  Lot-sizing  Extended formulation  Multi-level  Multi-item  68Q25  90C11  90C27  90C35  90B05  90B06  

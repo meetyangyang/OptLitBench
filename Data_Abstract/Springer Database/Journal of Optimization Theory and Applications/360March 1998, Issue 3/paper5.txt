@@ -1,0 +1,6 @@
+Global Optimization Requires Global Information
+C. P. Stephens;W. Baritompa;
+Abstract
+There are many global optimization algorithms which do not use global information. We broaden previous results, showing limitations on such algorithms, even if allowed to run forever. We show that deterministic algorithms must sample a dense set to find the global optimum value and can never be guaranteed to converge only to global optimizers. Further, analogous results show that introducing a stochastic element does not overcome these limitations. An example is simulated annealing in practice. Our results show that there are functions for which the probability of success is arbitrarily small.
+Keywords
+Global optimization  convergence  stochastic algorithms  deterministic algorithms  

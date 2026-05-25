@@ -1,0 +1,6 @@
+Analytic centre stabilization of column generation algorithm for the capacitated vehicle routing problem
+Hadi Karimi;Abbas Seifi;
+Abstract
+We investigate various stabilization strategies for improving the column generation algorithm frequently used in recent exact methods and propose a novel stabilization technique specialized for the capacitated vehicle routing problem (CVRP). We start with exploring the relationship between Lagrangian relaxation and Dantzig–Wolfe (DW) decomposition for CVRP. The proposed technique, called analytic centre stabilization, is based on the analytic centre cutting plane method. In particular, we generate a cutting plane in the Lagrangian dual space and use it as a new column within DW decomposition for CVRP. In computational experiments, we compare the performance of standard column generation based on the Simplex method with those of the analytic centre stabilization, the bundle method, and a hybrid of the two approaches. The results show that the proposed method is quite competitive and the hybrid method has the best convergence properties among others.
+Keywords
+capacitated vehicle routing problem, stabilized column generation, analytic centre cutting plane method, analytic centre stabilization, Lagrangian relaxation, Dantzig–Wolfe decomposition 

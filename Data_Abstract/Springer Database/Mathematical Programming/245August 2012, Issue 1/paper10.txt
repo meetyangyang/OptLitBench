@@ -1,0 +1,6 @@
+Optimal control of molecular dynamics using Markov state models
+Christof Schütte;Stefanie Winkelmann;Carsten Hartmann;
+Abstract
+A numerical scheme for solving high-dimensional stochastic control problems on an infinite time horizon that appear relevant in the context of molecular dynamics is outlined. The scheme rests on the interpretation of the corresponding Hamilton–Jacobi–Bellman equation as a nonlinear eigenvalue problem that, using a logarithmic transformation, can be recast as a linear eigenvalue problem, for which the principal eigenvalue and its eigenfunction are sought. The latter can be computed efficiently by approximating the underlying stochastic process with a coarse-grained Markov state model for the dominant metastable sets. We illustrate our method with two numerical examples, one of which involves the task of maximizing the population of α-helices in an ensemble of small biomolecules (alanine dipeptide), and discuss the relation to the large deviation principle of Donsker and Varadhan.
+Keywords
+49M25  74A25  60J28  

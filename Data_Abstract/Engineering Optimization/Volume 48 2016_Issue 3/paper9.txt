@@ -1,0 +1,6 @@
+Multi-step optimization strategy for fuel-optimal orbital transfer of low-thrust spacecraft
+M. Rasotto;R. Armellin;P. Di Lizia;
+Abstract
+An effective method for the design of fuel-optimal transfers in two- and three-body dynamics is presented. The optimal control problem is formulated using calculus of variation and primer vector theory. This leads to a multi-point boundary value problem (MPBVP), characterized by complex inner constraints and a discontinuous thrust profile. The first issue is addressed by embedding the MPBVP in a parametric optimization problem, thus allowing a simplification of the set of transversality constraints. The second problem is solved by representing the discontinuous control function by a smooth function depending on a continuation parameter. The resulting trajectory optimization method can deal with different intermediate conditions, and no a priori knowledge of the control structure is required. Test cases in both the two- and three-body dynamics show the capability of the method in solving complex trajectory design problems.
+Keywords
+optimal control theory, trajectory optimization, low-thrust transfers, hybrid optimization methods 

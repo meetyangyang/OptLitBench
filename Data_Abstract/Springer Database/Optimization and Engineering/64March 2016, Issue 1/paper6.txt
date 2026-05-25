@@ -1,0 +1,6 @@
+Using a derivative-free optimization method for multiple solutions of inverse transport problems
+Jerawan C. Armstrong;Jeffrey A. Favorite;
+Abstract
+Identifying unknown components of an object that emits radiation is an important problem for national and global security. Radiation signatures measured from an object of interest can be used to infer object parameter values that are not known. This problem is called an inverse transport problem. An inverse transport problem may have multiple solutions and the most widely used approach for its solution is an iterative optimization method. This paper proposes a stochastic derivative-free global optimization algorithm to find multiple solutions of inverse transport problems. The algorithm is an extension of a multilevel single linkage (MLSL) method where a mesh adaptive direct search (MADS) algorithm is incorporated into the local phase. Numerical test cases using uncollided fluxes of discrete gamma-ray lines are presented to show the performance of this new algorithm.
+Keywords
+Inverse transport problem  Derivative-free optimization  Stochastic global optimization  Multilevel single linkage  Mesh adaptive direct search  

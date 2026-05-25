@@ -1,0 +1,6 @@
+An active-set trust-region method for derivative-free nonlinear bound-constrained optimization
+ Serge   Gratton ; Philippe   L.   Toint ; Anke   Tröltzsch ;
+Abstract
+ We consider an implementation of a recursive model-based active-set trust-region method for solving bound-constrained nonlinear non-convex optimization problems without derivatives using the technique of self-correcting geometry proposed in K. Scheinberg and Ph.L. Toint [Self-correcting geometry in model-based algorithms for derivative-free unconstrained optimization. SIAM Journal on Optimization, (to appear), 2010]. Considering an active-set method in bound-constrained model-based optimization creates the opportunity of saving a substantial amount of function evaluations. It allows US to maintain much smaller interpolation sets while proceeding optimization in lower-dimensional subspaces. The resulting algorithm is shown to be numerically competitive. 
+Keywords
+derivative-free optimization, bound constraints, nonlinear optimization, active-set methods, trust region, numerical experiments 

@@ -1,0 +1,6 @@
+The Steiner connectivity problem
+Ralf Borndörfer;Marika Karbstein;Marc E. Pfetsch;
+Abstract
+The Steiner connectivity problem has the same significance for line planning in public transport as the Steiner tree problem for telecommunication network design. It consists in finding a minimum cost set of elementary paths to connect a subset of nodes in an undirected graph and is, therefore, a generalization of the Steiner tree problem. We propose an extended directed cut formulation for the problem which is, in comparison to the canonical undirected cut formulation, provably strong, implying, e.g., a class of facet defining Steiner partition inequalities. Since a direct application of this formulation is computationally intractable for large instances, we develop a partial projection method to produce a strong relaxation in the space of canonical variables that approximates the extended formulation. We also investigate the separation of Steiner partition inequalities and give computational evidence that these inequalities essentially close the gap between undirected and extended directed cut formulation. Using these techniques, large Steiner connectivity problems with up to 900 nodes can be solved within reasonable optimality gaps of typically less than five percent.
+Keywords
+90C10  90C27  90C57  

@@ -1,0 +1,6 @@
+Heuristics for convex mixed integer nonlinear programs
+Pierre Bonami;João P. M. Gonçalves;
+Abstract
+In this paper, we describe the implementation of some heuristics for convex mixed integer nonlinear programs. The work focuses on three families of heuristics that have been successfully used for mixed integer linear programs: diving heuristics, the Feasibility Pump, and Relaxation Induced Neighborhood Search (RINS). We show how these heuristics can be adapted in the context of mixed integer nonlinear programming. We present results from computational experiments on a set of instances that show how the heuristics implemented help finding feasible solutions faster than the traditional branch-and-bound algorithm and how they help in reducing the total solution time of the branch-and-bound algorithm.
+Keywords
+Mixed integer nonlinear programming  Heuristics  

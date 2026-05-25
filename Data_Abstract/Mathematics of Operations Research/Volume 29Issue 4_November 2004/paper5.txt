@@ -1,0 +1,6 @@
+Convergence in Probability of Compressed Annealing
+Jeffrey W. Ohlmann;James C. Bean;Shane G. Henderson;
+Abstract
+We consider combinatorial optimization problems for which the formation of a neighborhood structure of feasible solutions is impeded by a set of constraints. Neighborhoods are recovered by relaxing the complicating constraints into the objective function within a penalty term. We examine a heuristic called compressed annealing that integrates a variable penalty multiplier approach within the framework of simulated annealing. We refer to the value of the penalty multiplier as “pressure.” We analyze the behavior of compressed annealing by exploring the interaction between temperature (which controls the ability of compressed annealing to climb hills) and pressure (which controls the height of the hills). We develop a necessary and sufficient condition on the joint cooling and compression schedules for compressed annealing to converge in probability to the set of global minima. Our work generalizes the results of Hajek (1988) in the sense that when there are no relaxed constraints, our results reduce to his.
+Keywords
+simulated annealing penalty methods constrained combinatorial optimization 

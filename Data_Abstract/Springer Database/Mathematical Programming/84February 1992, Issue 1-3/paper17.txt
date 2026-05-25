@@ -1,0 +1,6 @@
+Crashing a maximum-weight complementary basis
+Kurt M. Anstreicher;Jon Lee;Thomas F. Rutherford;
+Abstract
+We consider the problem of finding a maximum-weight complementary basis of anm × 2m matrix. The problem arises naturally, for example, when a complementary set of columns is proposed as an initial basis for a “warm start” of Lemke's algorithm, but the set of columns is rank-deficient. We show that the problem is a special case of the problem of finding a maximum-weight common base of two matroids. Furthermore, we show how to efficiently implement an algorithm for the general problem in the present context. Finally, we give computational results demonstrating the practicality of our algorithm in a typical application.
+Keywords
+Linear complementarity problem  Lemke's algorithm  matroid intersection  

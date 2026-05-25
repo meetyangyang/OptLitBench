@@ -1,0 +1,6 @@
+New trajectory-following polynomial-time algorithm for linear programming problems
+C. Roos;
+Abstract
+A new interior point method for the solution of the linear programming problem is presented. It is shown that the method admits a polynomial time bound. The method is based on the use of the trajectory of the problem, which makes it conceptually very simple. It has the advantage above related methods that it requires no problem transformation (either affine or projective) and that the feasible region may be unbounded. More importantly, the method generates at each stage solutions of both the primal and the dual problem. This implies that, contrary to the simplex method, the quality of the present solution is known at each stage. The paper also contains a practical (i.e., deepstep) version of the algorithm.
+Keywords
+Linear programming  interior point methods  pathfollowing methods  polynomial-time algorithms  

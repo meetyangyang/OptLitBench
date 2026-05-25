@@ -1,0 +1,6 @@
+Recent advances in trust region algorithms
+Ya-xiang Yuan;
+Abstract
+Trust region methods are a class of numerical methods for optimization. Unlike line search type methods where a line search is carried out in each iteration, trust region methods compute a trial step by solving a trust region subproblem where a model function is minimized within a trust region. Due to the trust region constraint, nonconvex models can be used in trust region subproblems, and trust region algorithms can be applied to nonconvex and ill-conditioned problems. Normally it is easier to establish the global convergence of a trust region algorithm than that of its line search counterpart. In the paper, we review recent results on trust region methods for unconstrained optimization, constrained optimization, nonlinear equations and nonlinear least squares, nonsmooth optimization and optimization without derivatives. Results on trust region subproblems and regularization methods are also discussed.
+Keywords
+Trust region algorithms  Nonlinear optimization  Subproblem  Complexity  Convergence  65K05  90C30  

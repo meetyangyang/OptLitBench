@@ -1,0 +1,6 @@
+A Note on the Separation of Optimal Quantization and Control Policies in Networked Control
+Serdar  Yüksel ;
+Abstract
+For controlled $\mathbb{R}^n$-valued linear systems driven by Gaussian noise under quadratic cost criteria, we revisit the problem of the structure of optimal quantization and control policies. In a recent paper [IEEE Trans. Automat. Control, 59 (2014), pp. 1612--1617] by the author, for fully observed and partially observed systems, the global optimality of predictive encoders was established under quadratic cost criteria. Furthermore, optimal control policies were shown to be linear in the conditional estimate of the state, and a form of separation of estimation and control was established. The present note does not introduce any new results or new conditions but clarifies that the results have been mischaracterized in the recent paper [M. Rabi, C. Ramesh, and K. H. Johansson, SIAM J. Control  Optim., 54 (2016), pp. 662--689]. Since perhaps the arguments in [IEEE Trans. Automat. Control, 59 (2014), pp. 1612--1617] were concise and this led to the confusion, its key result is presented here with a more detailed proof.
+Keywords
+stochastic control, networked control, source coding, 93E20, 93E03, 94A29, 

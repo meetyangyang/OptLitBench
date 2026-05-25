@@ -1,0 +1,6 @@
+Convex proximal bundle methods in depth: a unified analysis for inexact oracles
+W. de Oliveira;C. Sagastizábal;C. Lemaréchal;
+Abstract
+The last few years have seen the advent of a new generation of bundle methods, capable to handle inexact oracles, polluted by “noise”. Proving convergence of a bundle method is never simple and coping with inexact oracles substantially increases the technicalities. Besides, several variants exist to deal with noise, each one needing an ad hoc proof to show convergence. We state a synthetic convergence theory, in which we highlight the main arguments and specify which assumption is used to establish each intermediate result. The framework is comprehensive and generalizes in various ways a number of algorithms proposed in the literature. Based on the ingredients of our synthetic theory, we consider various bundle methods adapted to oracles for which high accuracy is possible, yet it is preferable not to make exact calculations often, because they are too time consuming.
+Keywords
+90C  49M  65K  

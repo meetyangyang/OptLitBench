@@ -1,0 +1,6 @@
+A Heuristic for Moment-Matching Scenario Generation
+Kjetil Høyland;Michal Kaut;Stein W. Wallace;
+Abstract
+In stochastic programming models we always face the problem of how to represent the random variables. This is particularly difficult with multidimensional distributions. We present an algorithm that produces a discrete joint distribution consistent with specified values of the first four marginal moments and correlations. The joint distribution is constructed by decomposing the multivariate problem into univariate ones, and using an iterative procedure that combines simulation, Cholesky decomposition and various transformations to achieve the correct correlations without changing the marginal moments.
+Keywords
+stochastic programming  scenario tree generation  Cholesky decomposition  heuristics  

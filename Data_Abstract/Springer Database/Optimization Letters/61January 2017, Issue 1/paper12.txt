@@ -1,0 +1,6 @@
+An arc-search infeasible-interior-point method for symmetric optimization in a wide neighborhood of the central path
+Ximei Yang;Hongwei Liu;Yinkui Zhang;
+Abstract
+In this paper, we propose a new arc-search infeasible-interior-point method for symmetric optimization using a wide neighborhood of the central path. The proposed algorithm searches for optimizers along the ellipses that approximate the central path. The convergence is shown for a commutative class of search directions, which includes the Nesterov–Todd direction and the xs and sx directions. The complexity bound is \(\mathcal {O}(r^{5/4}\log \varepsilon ^{-1})\) for the Nesterov–Todd direction, and \(\mathcal {O}(r^{7/4}\log \varepsilon ^{-1})\) for the xs and sx directions, where r is the rank of the associated Euclidean Jordan algebra and \(\varepsilon \) is the required precision. The obtained complexity bounds coincide with the currently best known theoretical complexity bounds for the short step path-following algorithm. Some limited encouraging computational results are reported.
+Keywords
+Euclidean Jordan algebra  Symmetric optimization  Arc-search  Infeasible-interior-point method  Polynomial complexity  

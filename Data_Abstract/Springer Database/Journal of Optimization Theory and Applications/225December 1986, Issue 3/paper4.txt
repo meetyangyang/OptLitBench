@@ -1,0 +1,6 @@
+Numerical integration of a class of singular perturbation problems
+M. K. Kadalbajoo;Y. N. Reddy;
+Abstract
+In this paper, we discuss an approximate method for the numerical integration of a class of linear, singularly perturbed two-point boundary-value problems in ordinary differential equations with a boundary layer on the left end of the underlying interval. This method requires a minimum of problem preparation and can be implemented easily on a computer. We replace the original singular perturbation problem by an approximate first-order differential equation with a small deviating argument. Then, we use the trapezoidal formula to obtain the three-term recurrence relationship. Discrete invariant imbedding algorithm is used to solve a tridiagonal algebraic system. The stability of this algorithm is investigated. The proposed method is iterative on the deviating argument. Several numerical experiments have been included to demonstrate the efficiency of the method.
+Keywords
+Ordinary differential equations  two-point boundary-value problems  singular perturbation problems  trapezoidal rule  discrete invariant imbedding  

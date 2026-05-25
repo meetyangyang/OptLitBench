@@ -1,0 +1,6 @@
+Efficient Parallel Algorithms for the Minimum Cost Flow Problem
+P. Beraldi;F. Guerriero;R. Musmanno;
+Abstract
+In this paper, we propose efficient parallel implementations of the auction/sequential shortest path and the ∈-relaxation algorithms for solving the linear minimum cost flow problem. In the parallel auction algorithm, several augmenting paths can be found simultaneously, each of them starting from a different node with positive surplus. Convergence results of an asynchronous version of the algorithm are also given. For the ∈-relaxation method, there exist already parallel versions implemented on CM-5 and CM-2; our implementation is the first on a shared memory multiprocessor. We have obtained significant speedup values for the algorithms considered; it turns out that our implementations are effective and efficient.
+Keywords
+Network optimization  minimum cost flow problems  auction algorithms  parallel asynchronous algorithms  shared memory multiprocessors  

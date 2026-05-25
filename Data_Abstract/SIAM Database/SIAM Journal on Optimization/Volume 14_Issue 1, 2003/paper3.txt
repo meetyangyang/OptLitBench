@@ -1,0 +1,6 @@
+On Numerical Solution of the Maximum Volume Ellipsoid Problem
+Yin  Zhang and Liyan  Gao;
+Abstract
+In this paper we study practical solution methods for finding the maximum volume ellipsoid inscribing a given full-dimensional polytope in $\Re^n$ defined by a finite set of linear inequalities. Our goal is to design a general-purpose algorithmic framework that is reliable and efficient in practice. To evaluate the merit of a practical algorithm, we consider two key factors: the computational cost per iteration and the typical number of iterations required for convergence. In addition, numerical stability is an important factor. We investigate some new formulations upon which we build primal-dual type interior-point algorithms, and we provide theoretical justifications for the proposed formulations and algorithmic framework. Extensive numerical experiments have shown that one of the new algorithms is the method of choice among those tested.
+Keywords
+maximum volume ellipsoid problem, primal-dual interior-point algorithms, 90C25, 90C30, 

@@ -1,0 +1,6 @@
+Shunting Minimal Rail Car Allocation
+Marco E. Lübbecke;Uwe T. Zimmermann;
+Abstract
+We consider the rail car management at industrial in-plant railroads. Demands for loaded or empty cars are characterized by a track, a car type, and the desired quantity. If available, we assign cars from the stock, possibly substituting types, otherwise we rent additional cars. Transportation requests are fulfilled as a short sequence of pieces of work, the so-called blocks. Their design at a minimal total transportation cost is the planning task considered in this paper. It decomposes into the rough distribution of cars among regions, and the NP-hard shunting minimal allocation of cars per region. We present mixed integer programming formulations for the two problem levels. Our computational experience from practical data encourages an installation in practice.
+Keywords
+Mixed integer programming  shunting minimization  decomposition  rail transport  

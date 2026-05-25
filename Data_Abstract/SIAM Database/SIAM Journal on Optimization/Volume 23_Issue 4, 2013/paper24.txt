@@ -1,0 +1,6 @@
+A Douglas--Rachford Type Primal-Dual Method for Solving Inclusions with Mixtures of Composite and Parallel-Sum Type Monotone Operators
+Radu Ioan  Boţ and Christopher  Hendrich;
+Abstract
+In this paper we propose two different primal-dual splitting algorithms for solving inclusions involving mixtures of composite and parallel-sum type monotone operators which rely on an inexact Douglas--Rachford splitting method, but applied in different underlying Hilbert spaces. Most importantly, the algorithms allow one to process the bounded linear operators and the set-valued operators occurring in the formulation of the monotone inclusion problem separately at each iteration, the latter being individually accessed via their resolvents. The performance of the primal-dual algorithms is emphasized via some numerical experiments on location and image denoising problems.
+Keywords
+Douglas--Rachford splitting, monotone inclusion, Fenchel duality, convex optimization, 90C25, 90C46, 47A52, 

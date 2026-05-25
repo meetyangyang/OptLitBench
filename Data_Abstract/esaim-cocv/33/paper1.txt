@@ -1,0 +1,8 @@
+Controlled functional differential equations: approximate and exact asymptotic tracking with prescribed transient performance
+Eugene P. Ryan1, Chris J. Sangwin2 and Philip Townsend1;
+Abstract
+A tracking problem is consideredin the context of a class  of multi-input,multi-output, nonlinear systems modelled by controlled functionaldifferential equations. The class contains, as a prototype, allfinite-dimensional, linear, m-input, m-output, minimum-phasesystems with sign-definite “high-frequency gain". The first controlobjective is tracking of reference signals r by the output y ofany system in : given , construct afeedback strategy which ensures that, for every r (assumed boundedwith essentially bounded derivative) and every system of class, the tracking error  is such that, in the case,  or, inthe case , . Thesecond objective is guaranteed output transient performance: theerror is required to evolve within a prescribed performance funnel (determined by a function φ). Forsuitably chosen functions α, ν and θ, bothobjectives are achieved via a control structure of the form with , whilst maintaining boundedness of the control andgain functions u and k. In the case , the feedbackstrategy may be discontinuous: to accommodate this feature, aunifying framework of differential inclusions is adopted in theanalysis of the general case .
+Keywords
+Functional
+differential inclusions, transient behaviour, approximate tracking, 
+asymptotic trackin

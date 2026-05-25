@@ -1,0 +1,6 @@
+Noise Assisted High-gain Stabilization: Almost Surely or in Second Mean
+Hans  Crauel, Iakovos  Matsikis, and Stuart  Townley;
+Abstract
+For a linear control system with multiplicative white noise, we develop (asymptotic) formulas for the dependence of almost sure and second mean exponential growth rates on a high-gain parameter k. We show that if the diffusion matrix is skew-symmetric so that the noise enters in a purely skew-symmetric way, then the function g, where g(p)/p denotes the exponential growth rate of the pth mean, converges to a straight line, uniformly for $p\in[0,2]$, as $k\to\infty$. We use these formulas to show that the feedback control system in Stratonovich form is high-gain stabilizable even if the zero-dynamics are unstable, provided that the noise is strong enough. This contrasts with the noise free case, where we need the zero-dynamics to be exponentially stable.We then consider a class of systems where the diffusion matrix is not skew-symmetric and show that the almost sure and pth mean growth rates have different limiting behavior as $k\to\infty$.
+Keywords
+Lyapunov exponents, high-gain feedback, moment exponents, second mean exponents, Furstenberg--Khasminskii formula, 93E15, 37H15, 60H10, 93D15, 93D21, 

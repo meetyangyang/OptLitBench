@@ -1,0 +1,6 @@
+Improvement of numerical instabilities in topology optimization using the SLP method
+D. Fujii;N. Kikuchi;
+Abstract
+In this paper, we present a method for preventing numerical instabilities such as checkerboards, mesh-dependencies and local minima occurring in the topology optimization which is formulated by the homogenization design method and in which the SLP method is used as optimizer. In the present method, a function based on the concept of gravity (which we named “the gravity control function”) is added to the objective function. The density distribution of the topology is concentrated by maximizing this function, and as a result, checkerboards and intermediate densities are eliminated. Some techniques are introduced in the optimization procedure for preventing the local minima. The validity of the present method is demonstrated by numerical examples of both the short cantilever beam and the MBB beam.
+Keywords
+Key words: Homogenization method, topology optimization, numerical instabilities, sequential linear programming method, two-dimensional structure, finite element method  

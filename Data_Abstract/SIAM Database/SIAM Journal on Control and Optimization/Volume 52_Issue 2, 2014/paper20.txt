@@ -1,0 +1,6 @@
+Control of Networked Discrete Event Systems: Dealing with Communication Delays and Losses
+Feng  Lin;
+Abstract
+In this paper, we investigate supervisory control of networked discrete event systems. Such systems are now widely used in practice. The key feature of a networked discrete event system is communication delays and losses in observation and control. Without addressing communication delays and losses in networked systems, no control will be effective. We propose to use some special observation mappings to deal with observation delays and losses. Based on these mappings, we define network observability. We also consider control delays and losses in networked discrete event systems and define network controllability. We show that these definitions capture precisely the requirements on effective supervisory control in networked discrete event systems in the sense that a networked supervisor exists if and only if both network controllability and network observability are satisfied.
+Keywords
+discrete event systems, networked systems, controllability, observability, supervisory control, 93B, 

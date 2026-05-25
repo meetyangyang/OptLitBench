@@ -1,0 +1,6 @@
+A discrete-time optimal filtering approach for non-linear systems as a stable discretization of the Mortensen observer
+P. Moireau***;
+Abstract
+In this work, we seek exact formulations of the optimal estimator and filter for a non-linear framework, as the Kalman filter is for a linear framework. The solution is well established with the Mortensen filter in a continuous-time setting, but we seek here its counterpart in a discrete-time context. We demonstrate that it is possible to pursue at the discrete-time level an exact dynamic programming strategy and we find an optimal estimator combining a prediction step using the model and a correction step using the data. This optimal estimator reduces to the discrete-time Kalman estimator when the operators are in fact linear. Furthermore, the strategy that consists of discretizing the least square criterion and then finding the exact estimator at the discrete level allows to determine a new time-scheme for the Mortensen filter which is proven to be consistent and unconditionally stable, with also a consistent and stable discretization of the underlying Hamilton-Jacobi-Bellman equation.
+Keywords
+Deterministic observer, optimal filtering, time-discrete non-linear systems, Hamilton-Jacobi-Bellma

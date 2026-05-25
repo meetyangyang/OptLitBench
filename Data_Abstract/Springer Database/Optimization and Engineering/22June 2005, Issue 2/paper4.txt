@@ -1,0 +1,6 @@
+Cost Optimisation for Underground Mining Networks
+Marcus Brazil;Doreen A. Thomas;Jia F. Weng;J. Hyam Rubinstein;David H. Lee;
+Abstract
+In this paper we consider the problem of optimising the construction and haulage costs of underground mining networks. We focus on a model of underground mine networks consisting of ramps in which each ramp has a bounded maximum gradient. The cost depends on the lengths of the ramps, the tonnages hauled through them and their gradients. We model such an underground mine network as an edge-weighted network and show that the problem of optimising the cost of the network can be described as an unconstrained non-linear optimisation problem. We show that, under a mild condition which is satisfied in practice, the cost function is convex. Finally we briefly discuss how the model can be generalised to those underground mine networks that are composed not only of ramps but also vertical shafts, and show that the total cost in the generalised model is still convex under the same condition. The convexity of the cost function ensures that any local minimum is a global minimum for the given network topology, and theoretically any descent algorithms for finding local minima can be applied to the design of minimum cost mining networks.
+Keywords
+convexity  network optimization  underground mining  

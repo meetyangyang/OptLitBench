@@ -1,0 +1,6 @@
+Safe and tight linear estimators for global optimization
+Glencora Borradaile;Pascal Van Hentenryck;
+Abstract
+Global optimization problems are often approached by branch and bound algorithms which use linear relaxations of the nonlinear constraints computed from the current variable bounds. This paper studies how to derive safe linear relaxations to account for numerical errors arising when computing the linear coefficients. It first proposes two classes of safe linear estimators for univariate functions. Class-1 estimators generalize previously suggested estimators from quadratic to arbitrary functions, while class-2 estimators are novel. When they apply, class-2 estimators are shown to be tighter theoretically (in a certain sense) and almost always tighter numerically. The paper then generalizes these results to multivariate functions. It shows how to derive estimators for multivariate functions by combining univariate estimators derived for each variable independently. Moreover, the combination of tight class-1 safe univariate estimators is shown to be a tight class-1 safe multivariate estimator. Finally, multivariate class-2 estimators are shown to be theoretically tighter (in a certain sense) than multivariate class-1 estimators.
+Keywords
+Global Optimization  Mathematical Method  Arbitrary Function  Univariate Function  Variable Bound  

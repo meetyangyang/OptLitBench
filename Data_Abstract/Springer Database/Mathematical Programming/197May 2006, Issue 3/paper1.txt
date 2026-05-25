@@ -1,0 +1,6 @@
+New algorithms for singly linearly constrained quadratic programs subject to lower and upper bounds
+Yu-Hong Dai;Roger Fletcher;
+Abstract
+There are many applications related to singly linearly constrained quadratic programs subjected to upper and lower bounds. In this paper, a new algorithm based on secant approximation is provided for the case in which the Hessian matrix is diagonal and positive definite. To deal with the general case where the Hessian is not diagonal, a new efficient projected gradient algorithm is proposed. The basic features of the projected gradient algorithm are: 1) a new formula is used for the stepsize; 2) a recently-established adaptive non-monotone line search is incorporated; and 3) the optimal stepsize is determined by quadratic interpolation if the non-monotone line search criterion fails to be satisfied. Numerical experiments on large-scale random test problems and some medium-scale quadratic programs arising in the training of Support Vector Machines demonstrate the usefulness of these algorithms.
+Keywords
+Support Vector Machine  Test Problem  Quadratic Program  Line Search  Gradient Projection Method  

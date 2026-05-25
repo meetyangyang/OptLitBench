@@ -1,0 +1,6 @@
+Adaptive finite element method for shape optimization
+Pedro Morin1, Ricardo H. Nochetto2, Miguel S. Pauletti3 and Marco Verani4;
+Abstract
+We examine shape optimization problems in the context of inexact sequential quadratic          programming. Inexactness is a consequence of using adaptive finite element methods (AFEM)          to approximate the state and adjoint equations (via the dual weighted          residual method), update the boundary, and compute the geometric functional. We present a          novel algorithm that equidistributes the errors due to shape optimization and          discretization, thereby leading to coarse resolution in the early stages and fine          resolution upon convergence, and thus optimizing the computational effort. We discuss the          ability of the algorithm to detect whether or not geometric singularities such as corners          are genuine to the problem or simply due to lack of resolution – a new paradigm in          adaptivity.
+Keywords
+Shape optimization, adaptivity, mesh refinement/coarsening, smoothin

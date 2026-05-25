@@ -1,0 +1,6 @@
+An efficient algorithm for solving semi-infinite inequality problems with box constraints
+D. Q. Mayne;H. Michalska;E. Polak;
+Abstract
+Many design objectives may be formulated as semi-infinite constraints. Examples in control design, for example, include hard constraints on time and frequency responses and robustness constraints. A useful algorithm for solving such inequalities is the outer approximations algorithm. One version of an outer approximations algorithm for solving an infinite set of inequalitiesϕ(x, y) ≤0 for allyεY proceeds by solving, at iterationi of the master algorithm, a finite set of inequalities (ϕ(x, y) ≤0 for allyεYi) to yieldxi and then updatingYi toYi+1=Y i  ∪ {yi} whereyiε arg max {ϕ(xi,y)¦yε Y}. Since global optimization is computationally extremely expensive, it is desirable to reduce the number of such optimizations. We present, in this paper, a modified version of the outer approximations algorithm which achieves this objective.
+Keywords
+Outer approximations algorithm  Semi-infinite inequalities  90C30  90C34  

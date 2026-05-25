@@ -1,0 +1,6 @@
+Computing non-negative tensor factorizations
+ Michael   P.   Friedlander ; Kathrin   Hatz ;
+Abstract
+ Non-negative tensor factorization (NTF) is a technique for computing a parts-based representation of high-dimensional data. NTF excels at exposing latent structures in datasets, and at finding good low-rank approximations to the data. We describe an approach for computing the NTF of a dataset that relies only on iterative linear-algebra techniques and that is comparable in cost to the non-negative matrix factorization (NMF). (The better-known NMF is a special case of NTF and is also handled by our implementation.) Some important features of our implementation include mechanisms for encouraging sparse factors and for ensuring that they are equilibrated in norm. The complete MATLAB software package is available under the GPL license. 
+Keywords
+ N-dimensional arrays, tensors, non-negative tensor factorization, alternating least-squares, block Gauss–Seidel, sparse solutions, regularization, non-negative least-squares 

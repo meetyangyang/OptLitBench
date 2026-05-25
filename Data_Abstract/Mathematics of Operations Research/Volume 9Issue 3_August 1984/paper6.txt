@@ -1,0 +1,6 @@
+Approximation Algorithms for the Assembly Line Crew Scheduling Problem
+Wen-Lian Hsu;
+Abstract
+Given an m × n nonnegative matrix, we study the problem of independently permuting the elements in each column so as to minimize the maximum row sum. This problem is NP-hard even when we restrict it to the m × 3 case. A special case of our problem is the multiprocessor scheduling problem without precedence constraints. In this paper we give a (2 − 1/m)-algorithm for the general m × n case. We also design a 3/2-algorithm for the m × 3 case, which applies a restricted longest-processing-time-first heuristic. Finally, using an edge matching algorithm, we produce a more elaborate algorithm that guarantees a bound of 4/3 for the m × 3 case.
+Keywords
+scheduling assignment heuristics 

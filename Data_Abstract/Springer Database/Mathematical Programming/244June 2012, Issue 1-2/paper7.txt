@@ -1,0 +1,6 @@
+Fractional packing in ideal clutters
+Yuji Matsuoka;
+Abstract
+This paper presents a generic scheme for fractional packing in ideal clutters. Consider an ideal clutter with a nonnegative capacity function on its vertices. It follows from ideality that for any nonnegative capacity the total multiplicity of an optimal fractional packing is equal to the minimum capacity of a vertex cover. Our scheme finds an optimal packing using at most n edges with positive multiplicities, performing minimization for the clutter at most n times and minimization for its blocker at most n 2 times, where n denotes the cardinality of the vertex set. Applied to the clutter of dijoins (directed cut covers), the scheme provides the first combinatorial polynomial-time algorithm for fractional packing of dijoins.
+Keywords
+Combinatorial optimization  Packing  Ideal clutter  Dijoin  90C27  90C35  

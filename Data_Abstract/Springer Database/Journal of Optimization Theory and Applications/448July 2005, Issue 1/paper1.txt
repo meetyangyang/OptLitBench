@@ -1,0 +1,15 @@
+Minimum-Volume Enclosing Ellipsoids and Core Sets
+P. Kumar;E. A. Yildirim;
+Abstract
+We study the problem of computing a (1+ε)-approximation to the minimum-volume enclosing ellipsoid of a given point set
+\({\cal S} = \{p^{1}, p^{2}, \dots, p^{n}\} \subseteq {\mathbb R}^{d}\). Based on a simple, initial volume approximation method, we propose a modification of the Khachiyan first-order algorithm. Our analysis leads to a slightly improved complexity bound of
+\(O(nd^{3}/\epsilon)\) operations for
+\(\epsilon \in(0, 1)\). As a byproduct, our algorithm returns a core set
+\({\cal X} \subseteq {\cal S}\) with the property that the minimum-volume enclosing ellipsoid of
+\({\cal X}\) provides a good approximation to that of
+\({\cal S}\). Furthermore, the size of
+\({\cal X}\) depends on only the dimension d and ε, but not on the number of points n. In particular, our results imply that
+\(\vert {\cal X} \vert = O(d^{2}/\epsilon)\) for
+\(\epsilon \in(0, 1)\).
+Keywords
+Löwner ellipsoids  core sets  approximation algorithms  

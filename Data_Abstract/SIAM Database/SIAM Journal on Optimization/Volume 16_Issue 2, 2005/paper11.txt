@@ -1,0 +1,6 @@
+Semidefinite Approximations for Global Unconstrained Polynomial Optimization
+Dorina  Jibetean and Monique  Laurent;
+Abstract
+We consider the problem of minimizing a polynomial function on ${\mathbb R}^n$, known to be hard even for degree 4 polynomials. Therefore approximation algorithms are of interest. Lasserre [SIAM J. Optim., 11 (2001), pp. 796--817] and Parrilo [Math. Program., 96 (2003), pp. 293--320] have proposed approximating the minimum of the original problem using a hierarchy of lower bounds obtained via semidefinite programming relaxations. We propose here a method for computing tight upper bounds based on perturbing the original polynomial and using semidefinite programming. The method is applied to several examples.
+Keywords
+semidefinite programming, global optimization, approximation algorithm, positive polynomial, sum of squares of polynomials, moment matrix, 90C22, 90C26, 49M20, 

@@ -1,0 +1,6 @@
+A filtered simulated annealing strategy for discrete optimization of 3D steel frameworks
+S. A. May;R. J. Balling;
+Abstract
+A new strategy is presented for discrete optimization problems. This strategy is called the “filtered simulated annealing strategy”. It includes a filter size which may be adjusted by the user. A coarse filter size results in an unfiltered simulated annealing strategy which is quite robust in obtaining the global optimum provided enough cycles are executed. A fine filter size blocks many candidate designs which are viewed as having little potential, and produces good designs quickly. The strategy is applied to a realistic 3D steel frame test problem. Extensive results are presented and the performance of the strategy is analysed for parameter sensitivity. The performance is also compared to that of the well-known branch and bound strategy.
+Keywords
+Global Optimum  Test Problem  Parameter Sensitivity  Good Design  Discrete Optimization  

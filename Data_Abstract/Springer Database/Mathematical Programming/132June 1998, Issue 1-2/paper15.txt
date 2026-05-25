@@ -1,0 +1,6 @@
+Scheduling by positional completion times: Analysis of a two-stage flow shop problem with a batching machine
+Han Hoogeveen;Steef van de Velde;
+Abstract
+We consider a scheduling problem introduced by Ahmadi et al., Batching and scheduling jobs on batch and discrete processors, Operation Research 40 (1992) 750–763, in which each job has to be prepared before it can be processed. The preparation is performed by a batching machine; it can prepare at mostc jobs in each run, which takes an amount of time that is independent of the number and identity of the jobs under preparation. We present a very strong Lagrangian lower bound by using the new concept of positional completion times. This bound can be computed in O(n logn) time only, wheren is the number of jobs. We further present two classes of O(n logn) heuristics that transform an optimal schedule for the Lagrangian dual problem into a feasible schedule. Any heuristic in one class has performance guarantee of 3/2. We further show that even the most naive heuristic in this class has a compelling empirical performance. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Machine scheduling problems  Mathematical formulation  Positional completion times  Batching  Flow shop scheduling  Total completion time  Lagrangian relaxation  

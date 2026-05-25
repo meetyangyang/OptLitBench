@@ -1,0 +1,6 @@
+The C 3 Theorem and a D 2 Algorithm for Large Scale Stochastic Mixed-Integer Programming: Set Convexification
+Suvrajeet Sen;Julia L. Higle;
+Abstract
+This paper considers the two-stage stochastic integer programming problem, with an emphasis on instances in which integer variables appear in the second stage. Drawing heavily on the theory of disjunctive programming, we characterize convexifications of the second stage problem and develop a decomposition-based algorithm for the solution of such problems. In particular, we verify that problems with fixed recourse are characterized by scenario-dependent second stage convexifications that have a great deal in common. We refer to this characterization as the C 3 (Common Cut Coefficients) Theorem. Based on the C 3 Theorem, we develop a decomposition algorithm which we refer to as Disjunctive Decomposition (D 2). In this new class of algorithms, we work with master and subproblems that result from convexifications of two coupled disjunctive programs. We show that when the second stage consists of 0-1 MILP problems, we can obtain accurate second stage objective function estimates after finitely many steps. This result implies the convergence of the D 2 algorithm.
+Keywords
+Stochastic Mixed-Integer Programming  Disjunctive Programming  Cutting Plane Algorithms  

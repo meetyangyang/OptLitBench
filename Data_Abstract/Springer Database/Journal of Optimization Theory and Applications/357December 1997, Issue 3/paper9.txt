@@ -1,0 +1,6 @@
+Truncated Trust Region Methods Based on Preconditioned Iterative Subalgorithms for Large Sparse Systems of Nonlinear Equations
+L. Lukšan;J. Vlček;
+Abstract
+This paper is devoted to globally convergent methods for solving large sparse systems of nonlinear equations with an inexact approximation of the Jacobian matrix. These methods include difference versions of the Newton method and various quasi-Newton methods. We propose a class of trust region methods together with a proof of their global convergence and describe an implementable globally convergent algorithm which can be used as a realization of these methods. Considerable attention is concentrated on the application of conjugate gradient-type iterative methods to the solution of linear subproblems. We prove that both the GMRES and the smoothed COS well-preconditioned methods can be used for the construction of globally convergent trust region methods. The efficiency of our algorithm is demonstrated computationally by using a large collection of sparse test problems.
+Keywords
+Nonlinear equations  trust region methods  global convergence  inexact Jacobians  nonsymmetric linear systems  conjugate gradient-type methods  residual smoothing  

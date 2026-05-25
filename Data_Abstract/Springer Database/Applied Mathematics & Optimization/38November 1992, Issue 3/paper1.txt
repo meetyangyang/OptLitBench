@@ -1,0 +1,6 @@
+A generalized quadratic programming-based phase I-phase II method for inequality-constrained optimization
+E. J. West;E. Polak;
+Abstract
+We present a globally convergent phase I-phase II algorithm for inequality-constrained minimization, which computes search directions by approximating the solution to a generalized quadratic program. In phase II these search directions are feasible descent directions. The algorithm is shown to converge linearly under convexity assumptions. Both theory and numerical experiments suggest that it generally converges faster than the Polak-Trahan-Mayne method of centers.
+Keywords
+Methods of feasible directions  Constrained optimization  Linear convergence  Rate of convergence  Generalized quadratic program  

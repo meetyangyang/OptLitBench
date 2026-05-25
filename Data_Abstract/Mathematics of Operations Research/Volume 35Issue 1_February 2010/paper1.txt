@@ -1,0 +1,6 @@
+Approximation Algorithms for Combinatorial Auctions with Complement-Free Bidders
+Shahar Dobzinski;Noam Nisan;Michael Schapira;
+Abstract
+In a combinatorial auction m heterogenous indivisible items are sold to n bidders. This paper considers settings in which the valuation functions of the bidders are known to be complement free (a.k.a. subadditive). We provide several approximation algorithms for the social-welfare maximization problem in such settings. First, we present a logarithmic upper bound for the case that the access to the valuation functions is via demand queries. For the weaker value queries model we provide a tight O(√m) approximation. Unlike the other algorithms we present, this algorithm is also incentive compatible. Finally, we present two approximation algorithms for the more restricted class of XOS valuations: A simple deterministic algorithm that provides an approximation ratio of two and an optimal e/(e −1) approximation achieved via randomized rounding. We also present optimal lower bounds for both the demand oracles model and the value oracles model.
+Keywords
+combinatorial auctions truthfulness 

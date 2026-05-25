@@ -1,0 +1,6 @@
+Error Bound and Reduced-Gradient Projection Algorithms for Convex Minimization over a Polyhedral Set
+Zhi-Quan  Luo and Paul  Tseng;
+Abstract
+Consider the problem of minimizing, over a polyhedral set, the composition of an affine mapping with a strongly convex differentiable function. The polyhedral set is expressed as the intersection of an affine set with a (simpler) polyhedral set and a new local error bound for this problem, based on projecting the reduced gradient associated with the affine set onto the simpler polyhedral set, is studied. A class of reduced-gradient projection algorithms for solving the case where the simpler polyhedral set is a box is proposed and this bound is used to show that algorithms in this class attain a linear rate of convergence. Included in this class are the gradient projection algorithm of Goldstein and Levitin and Poljak, and an algorithm of Bertsekas. A new algorithm in this class, reminiscent of active set algorithms, is also proposed. Some of the results presented here extend to problems where the objective function is extended real valued and to variational inequality problems.
+Keywords
+local error bound, convex minimization, linear convergence, reduced-gradient projection algorithms, 49, 90, 

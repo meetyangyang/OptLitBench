@@ -1,0 +1,6 @@
+On solving continuous-time dynamic network flows
+S. Mehdi Hashemi;Ebrahim Nasrabadi;
+Abstract
+Temporal dynamics is a crucial feature of network flow problems occurring in many practical applications. Important characteristics of real-world networks such as arc capacities, transit times, transit and storage costs, demands and supplies etc. are subject to fluctuations over time. Consequently, also flow on arcs can change over time which leads to so-called dynamic network flows. While time is a continuous entity by nature, discrete-time models are often used for modeling dynamic network flows as the resulting problems are in general much easier to handle computationally. In this paper, we study a general class of dynamic network flow problems in the continuous-time model, where the input functions are assumed to be piecewise linear or piecewise constant. We give two discrete approximations of the problem by dividing the considered time range into intervals where all parameters are constant or linear. We then present two algorithms that compute, or at least converge to optimum solutions. Finally, we give an empirical analysis of the performance of both algorithms.
+Keywords
+Dynamic network flows  Continuous linear programming  Discretization  Duality  

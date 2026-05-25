@@ -1,0 +1,6 @@
+An LP-Newton method: nonsmooth equations, KKT systems, and nonisolated solutions
+Francisco Facchinei;Andreas Fischer;Markus Herrich;
+Abstract
+We define a new Newton-type method for the solution of constrained systems of equations and analyze in detail its properties. Under suitable conditions, that do not include differentiability or local uniqueness of solutions, the method converges locally quadratically to a solution of the system, thus filling an important gap in the existing theory. The new algorithm improves on known methods and, when particularized to KKT systems derived from optimality conditions for constrained optimization or variational inequalities, it has theoretical advantages even over methods specifically designed to solve such systems.
+Keywords
+Quadratic convergence  Newton method  Nonsmooth system  Nonisolated solution  KKT system  90C30  90C33  49M15  65K05  

@@ -1,0 +1,6 @@
+A Linesearch Procedure in Barrier Methods for Some Convex Programming Problems
+A.  Melman;
+Abstract
+A method is proposed for the linesearch procedure in barrier function methods for convex quadratically constrained quadratic programming problems, which includes linear and quadratic programming as special cases. The same linesearch problem appears in barrier methods for minimization over the cone of positive semidefinite matrices and a similar problem is also obtained when computing the eigenvalues of a matrix perturbed by the addition of a matrix of rank one. The method brackets the minimum of the function obtained in this linesearch by using the roots of successive rational bounds on its derivative and then uses these bounds to generate an approximation to the root. It is globally convergent with a robustness similar to that of the bisection method and it exhibits a superlinear order of convergence. A convergence analysis is presented together with numerical results illustrating the methods.
+Keywords
+interior-point method, linesearch, perturbed eigenvalues, global convergence, superlinear convergence, 65B99, 65F15, 90C05, 90C20, 90C25, 

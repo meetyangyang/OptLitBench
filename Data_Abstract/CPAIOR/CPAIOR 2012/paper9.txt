@@ -1,0 +1,4 @@
+Flow-Based Combinatorial Chance Constraints
+Andre A. Cire;Elvin Coban;Willem-Jan van Hoeve;
+Abstract
+We study stochastic variants of flow-based global constraints as combinatorial chance constraints. As a specific case study, we focus on the stochastic weighted alldifferent constraint. We first show that determining the consistency of this constraint is NP-hard. We then show how the combinatorial structure of the alldifferent constraint can be used to define chance-based filtering, and to compute a policy. Our propagation algorithm can be extended immediately to related flow-based constraints such as the weighted cardinality constraint. The main benefits of our approach are that our chance-constrained global constraints can be integrated naturally in classical deterministic CP systems, and are more scalable than existing approaches for stochastic constraint programming.

@@ -1,0 +1,6 @@
+A topological derivative method for topology optimization
+Julian A. Norato;Martin P. Bendsøe;Robert B. Haber;Daniel A. Tortorelli;
+Abstract
+We propose a fictitious domain method for topology optimization in which a level set of the topological derivative field for the cost function identifies the boundary of the optimal design. We describe a fixed-point iteration scheme that implements this optimality criterion subject to a volumetric resource constraint. A smooth and consistent projection of the region bounded by the level set onto the fictitious analysis domain simplifies the response analysis and enhances the convergence of the optimization algorithm. Moreover, the projection supports the reintroduction of solid material in void regions, a critical requirement for robust topology optimization. We present several numerical examples that demonstrate compliance minimization of fixed-volume, linearly elastic structures.
+Keywords
+Topology optimization  Fictitious domain  Geometry projection  Topological derivative  

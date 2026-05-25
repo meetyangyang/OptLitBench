@@ -1,0 +1,6 @@
+Bell-curve genetic algorithm for mixed continuous and discrete optimization problems
+R.K. Kincaid ;M.M. Griffith ;R. Sykes ;J. Sobieszczanski-Sobieski ;
+Abstract
+We continue our study of a variant of the Genetic Algorithm in which the reproduction mechanism is modified to base it on the Gaussian probability distribution, the bell curve. In this manuscript we examine an extension of the bell-curve based (BCB) heuristic procedure for a mix of continuous and quasi-discrete, as well as truly-discrete applications. We begin by testing two refinements to the discrete version of BCB. We compare the performance of midpoint versus fitness based selection. In addition we test the performance of discrete normal tails versus standard mutation and demonstrate that the discrete normal tails are better. Lastly, we implement these refinements in a combined continuous and discrete BCB and compared the performance of two discrete distance measures on a hub design problem. Here we found that when order-does-matter it pays to take it into account. 
+Keywords
+genetic algorithms  evolutionary search  heuristics  discrete and continuous optimization  

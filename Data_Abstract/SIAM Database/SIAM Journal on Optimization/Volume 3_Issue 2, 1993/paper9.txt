@@ -1,0 +1,6 @@
+Large-Step Interior Point Algorithms for Linear Complementarity Problems
+Masakazu  Kojima, Yoshifumi  Kurita, and Shinji  Mizuno;
+Abstract
+Recently Kojima, Megiddo, and Mizuno showed theoretical convergence of primal-dual interior point algorithms with the use of new step length rules for linear programs. Their rules, which only rely on the lengths of steps from the current iterates in the primal and dual spaces to the respective boundaries of the primal and dual feasible regions, allow taking large step lengths without performing any line search. This paper extends and modifies their analysis to interior point algorithms for positive semidefinite linear complementarily problems. Global convergence and polynomial-time convergence are presented under similar step length rules.
+Keywords
+interior point algorithm, linear complementarily problem, linear programming, large step, long step, global convergence, 90C33, 

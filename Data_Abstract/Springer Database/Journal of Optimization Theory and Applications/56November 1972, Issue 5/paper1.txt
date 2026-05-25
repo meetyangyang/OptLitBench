@@ -1,0 +1,6 @@
+A pseudo Newton-Raphson method for function minimization
+R. Mamen;D. Q. Mayne;
+Abstract
+A pseudo Newton-Raphson algorithm for function minimization is presented. As in all such algorithms, an estimate of the inverse Hessian is calculated. In this case, the estimate is of the formXZX T , whereZ is a diagonal matrix; and this feature permits the use of the simple procedures to maintain the positive definiteness ofZ, and hence of the restriction ofXZX T  to the range ofX. The algorithm is shown to have finite convergence for quadratic functions and asymptotic convergence for a fairly general class of functions. Some numerical results are presented, and the extension of the algorithm to deal with linear equality and inequality constraints is briefly discussed.
+Keywords
+Linear Equality  Diagonal Matrix  General Class  Quadratic Function  Inequality Constraint  

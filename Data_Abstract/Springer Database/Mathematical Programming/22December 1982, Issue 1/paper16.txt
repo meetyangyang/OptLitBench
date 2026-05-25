@@ -1,0 +1,6 @@
+A method of centers algorithm for certain minimax problems
+Robin W. Chaney;
+Abstract
+An algorithm is presented for the numerical solution of nonlinear programming problems in which the objective function is to be minimized over feasiblex after having been maximized over feasibley. The vectorsx andy are subjected to separate nonlinear constraints. The algorithm is obtained as follows: One starts with an ‘outer’ algorithm for the minimization overx, that algorithm being taken here to be a method of centers; then, one inserts into this algorithm an adaptive ‘inner’ procedure, which is designed to compute a suitable approximation to the maximizery in a finite number of steps. The ‘outer’ and ‘inner’ algorithms are blended in such a way as to cause the inner one to converge more rapidly. The results on convergence and rate of convergence for the outer algorithm continue to hold (essentially) for the composite algorithm. Thus, what is considered here, for the first time for this type of problem, is the question of how one inserts an approximation procedure into an algorithm so as to preserve its convergence and its rate of convergence.
+Keywords
+Feasible Direction Algorithm  Continuous Minimax Problems  Rate of Convergence  

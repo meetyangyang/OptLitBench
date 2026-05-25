@@ -1,0 +1,6 @@
+An accelerated pseudo-genetic algorithm for dynamic finite element model updating
+N. Touat;N. Benseddiq;A. Ghoul;S. Rechak;
+Abstract
+An effective accelerated pseudo-genetic algorithm (APGA), which combines an adaptive pseudo-genetic algorithm (P-GA) with an accelerated random search (ARS) method, is proposed to update finite element (FE) models in the presence of measured data. The algorithm explores the higher probability of converging to a global solution provided by genetic algorithms and the accelerated hill-climbing ability given by ARS. The objective of the optimization problem is to minimize the difference between measured and numerical FE vibration data. The effectiveness of the approach is first tested on mathematical benchmark functions. The best version of APGA is then applied to a simulated beam structure to test the applicability of the new approach for FE model updating. Finally, the algorithm is applied to update two real structures using measured modal data. The application of this new algorithm obtains results that correlate well with experiments in reduced time.
+Keywords
+accelerated random search, pseudo-genetic algorithm, finite element model, updating, modal data 

@@ -1,0 +1,6 @@
+An improvement of Kriging based sequential approximate optimization method via extended use of design of experiments
+ Dong   Wook   Kim ; Jongsoo   Lee ;
+Abstract
+ When Kriging is used as a meta-model for an inequality constrained function, approximate optimal solutions are sometimes infeasible in the case where they are active at the constraint boundary. This article explores the development of a Kriging-based meta-model that enhances the constraint feasibility of an approximate optimal solution. The trust region management scheme is used to ensure the convergence of the approximate optimal solution. The present study proposes a method of enhancing the constraint feasibility in which the currently infeasible design is replaced by the most feasible-usable design during the sequential approximate optimization process. An additional convergence condition is also included to reinforce the design accuracy and feasibility. Latin hypercube design and (2n+1) design are used as tools for design of experiments. The proposed approach is verified through a constrained mathematical function problem and a number of engineering optimization problems to support the proposed strategies. 
+Keywords
+sequential approximate optimization, Kriging, constraint feasibility, design of experiments, convergence conditions 

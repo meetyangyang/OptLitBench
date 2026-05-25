@@ -1,0 +1,6 @@
+Linear convergence analysis of the use of gradient projection methods on total variation problems
+Pengwen Chen;Changfeng Gui;
+Abstract
+Optimization problems using total variation frequently appear in image analysis models, in which the sharp edges of images are preserved. Direct gradient descent methods usually yield very slow convergence when used for such optimization problems. Recently, many duality-based gradient projection methods have been proposed to accelerate the speed of convergence. In this dual formulation, the cost function of the optimization problem is singular, and the constraint set is not a polyhedral set. In this paper, we establish two inequalities related to projected gradients and show that, under some non-degeneracy conditions, the rate of convergence is linear.
+Keywords
+Total variation  Gradient projection methods  Non-degeneracy conditions  Linear convergence  Projected gradients  

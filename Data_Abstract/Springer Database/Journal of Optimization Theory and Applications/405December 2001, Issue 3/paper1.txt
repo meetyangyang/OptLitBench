@@ -1,0 +1,6 @@
+New Optimization Approach to Multiphase Flow
+A. J. Kearsley;L. C. Cowsar;R. Glowinski;M. F. Wheeler;I. Yotov;
+Abstract
+A new optimization formulation for simulating multiphase flow in porous media is introduced. A locally mass-conservative, mixed finite-element method is employed for the spatial discretization. An unconditionally stable, fully-implicit time discretization is used and leads to a coupled system of nonlinear equations that must be solved at each time step. We reformulate this system as a least squares problem with simple bounds involving only one of the phase saturations. Both a Gauss–Newton method and a quasi-Newton secant method are considered as potential solvers for the optimization problem. Each evaluation of the least squares objective function and gradient requires solving two single-phase self-adjoint, linear, uniformly-elliptic partial differential equations for which very efficient solution techniques have been developed.
+Keywords
+Multiphase flow  mixed methods  cell-centered finite differences  

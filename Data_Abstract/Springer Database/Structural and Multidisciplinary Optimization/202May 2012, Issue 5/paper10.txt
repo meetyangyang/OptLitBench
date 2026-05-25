@@ -1,0 +1,6 @@
+Design optimization of supersonic jet pumps using high fidelity flow analysis
+James Eves;Vassili V. Toropov;Harvey M. Thompson;Nik Kapur;Jian Fan;Daniel Copley;Adrian Mincher;
+Abstract
+Supersonic jet pumps are simple devices with no moving parts, where a high velocity (primary) flow is used to pump a second fluid. In this paper, Computational Fluid Dynamics (CFD) is combined with an optimization framework in order to develop a tool for the rapid generation of jet pump designs. A key feature of the problem formulation is the transformation of the jet pump design parameters in terms of geometric ratios. This approach dramatically reduces the number of unrealistic designs covered by the Design of Experiments. Optimal Latin Hypercubes for surrogate model building and model validation points are constructed using a permutation genetic algorithm and design points are evaluated using CFD. Surrogate models of primary and entrained flow rates are built using a Moving Least Squares approach. A series of optimizations for various pump sizes are performed using a genetic algorithm and Sequential Quadratic Programming, with responses calculated from the surrogates. This approach results in a set of optimized designs, from which pumps for a wide range of flow rates can be interpolated.
+Keywords
+Jet pump  CFD optimization  Shape optimization  Surrogate model  

@@ -1,0 +1,6 @@
+Solving staircase linear programs by the simplex method, 2: Pricing
+Robert Fourer;
+Abstract
+This and a companion paper consider how current implementations of the simplex method may be adapted to better solve linear programs that have a staged, or ‘staircase’, structure. The preceding paper considered ‘inversion’ routines that factorize the basis and solve linear systems. The present paper examines ‘pricing’ routines that compute reduced costs for nonbasic variables and that select a variable to enter the basis at each iteration. Both papers describe extensive (although preliminary) computer experiments, and can point to some quite promising results. For pricing in particular, staircase computation strategies appear to offer modest but consistent savings; staircase selection strategies, properly chosen, may offer substantial savings in number of iterations, time per iteration, or both.
+Keywords
+Large-Scale Optimization  Linear Programming  Staircase Linear Programs  Simplex Method  

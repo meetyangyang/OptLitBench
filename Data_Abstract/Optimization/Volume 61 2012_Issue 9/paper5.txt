@@ -1,0 +1,6 @@
+Markov decision processes for infinite horizon problems solved with the cosine simplex method
+ J.   Frausto-Solis ; E.   Santiago ;
+Abstract
+ This article presents a new method of linear programming (LP) for solving Markov decision processes (MDPs) based on the simplex method (SM). SM has shown to be the most efficient method in many practical problems; unfortunately, classical SM has an exponential complexity. Therefore, new SMs have emerged for obtaining optimal solutions in the most efficient way. The cosine simplex method (CSM) is one of them. CSM is based on the Karush Kuhn Tucker conditions, and is able to efficiently solve general LP problems. This work presents a new method named the Markov Cosine Simplex Method (MCSM) for solving MDP problems, which is an extension of CSM. In this article, the efficiency of MCSM is compared to the traditional revised simplex method (RSM); experimental results show that MCSM is far more efficient than RSM. 
+Keywords
+Markov decision processes, cosine simplex method, linear programming, Markov pivoting ruleAMS Subject Classifications:: 90C40, 90C05, 65K05, 90C49 

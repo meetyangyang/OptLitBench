@@ -1,0 +1,6 @@
+On the Stabilization of Persistently Excited Linear Systems
+Yacine  Chitour and Mario  Sigalotti;
+Abstract
+We consider control systems of the type $\dot{x}=Ax+\alpha(t)bu$, where $u\in\mathbf{R}$, $(A,b)$ is a controllable pair, and $\alpha$ is an unknown measurable time-varying signal with values in $[0,1]$ satisfying a persistent excitation condition of the type $\int_t^{t+T}\alpha(s)ds\geq\mu$ for every $t\geq0$, with $0<\mu\leq T$ independent of t. We prove that such a system is stabilizable with a linear feedback depending only on the pair $(T,\mu)$ if the eigenvalues of A have a nonpositive real part. We also show that stabilizability does not hold for an arbitrary matrix A. Moreover, the question of whether the system can be stabilized or not with an arbitrarily large rate of convergence gives rise to a bifurcation phenomenon depending on the parameter $\mu/T$.
+Keywords
+stabilization, hybrid systems, persistent excitation, maximal rate of convergence, 93C30, 93D15, 

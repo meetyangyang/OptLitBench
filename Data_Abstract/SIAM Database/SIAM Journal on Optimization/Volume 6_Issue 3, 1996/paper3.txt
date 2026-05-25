@@ -1,0 +1,6 @@
+Two Infeasible Interior-Point Predictor-Corrector Algorithms for Linear Programming
+Jianming  Miao;
+Abstract
+Two new infeasible interior-point predictor-corrector algorithms for linear programming are proposed; one uses a Newton direction and the other uses a Euler direction for the predictor step, They require the solutions of two linear systems at each iteration. The algorithms are globally convergent, and $\varepsilon $-feasibility and $\varepsilon $-complementarity can be obtained in $O(n \ln (\frac{1}{\varepsilon }))$ iterations with proper initialization. The first algorithm is also quadratically convergent under the assumption that an optimal solution exists.
+Keywords
+interior-point algorithm, linear programming, 90, 

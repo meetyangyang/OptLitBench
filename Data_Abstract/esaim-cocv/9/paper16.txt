@@ -1,0 +1,6 @@
+Motion Planning for a nonlinear Stefan Problem
+William B. Dunbar1, Nicolas Petit2, Pierre Rouchon2 and Philippe Martin2;
+Abstract
+In this paper we consider a free boundary problem for a nonlinearparabolic partial differential equation. In particular, we areconcerned with the inverse problem, which means we know thebehavior of the free boundary a priori and would like a solution,e.g. a convergent series, in order to determine what thetrajectories of the system should be for steady-state tosteady-state boundary control. In this paper we combine twoissues: the free boundary (Stefan) problem with a quadraticnonlinearity. We prove convergence of a series solution and give adetailed parametric study on the series radius of convergence.Moreover, we prove that the parametrization can indeed can be usedfor motion planning purposes; computation of the open loop motionplanning is straightforward. Simulation results are given and weprove some important properties about the solution. Namely, a weakmaximum principle is derived for the dynamics, stating that themaximum is on the boundary. Also, we prove asymptotic positivenessof the solution, a physical requirement over the entire domain, asthe transient time from one steady-state to another gets large.
+Keywords
+Inverse Stefan problem, flatness, motion planning

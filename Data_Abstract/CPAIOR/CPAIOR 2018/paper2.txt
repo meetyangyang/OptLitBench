@@ -1,0 +1,4 @@
+Propagating lex, find and replace with Dashed Strings
+Roberto Amadini;Graeme Gange;Peter J. Stuckey;
+Abstract
+Dashed strings have been recently proposed in Constraint Programming to represent the domain of string variables when solving combinatorial problems over strings. This approach showed promising performance on some classes of string problems, involving constraints like string equality and concatenation. However, there are a number of string constraints for which no propagator has yet been defined. In this paper, we show how to propagate lexicographic ordering (lex), find and replace with dashed strings. All of these are fundamental string operations: lex is the natural total order over strings, while find and replace are frequently used in string manipulation. We show that these propagators, that we implemented in G-Strings solver, allows us to be competitive with state-of-the-art approaches.

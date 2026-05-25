@@ -1,0 +1,6 @@
+An algorithm for optimizing network flow capacity under economies of scale
+P. P. Bansai;S. E. Jacobsen;
+Abstract
+The problem of optimally allocating a fixed budget to the various arcs of a single-source, single-sink network for the purpose of maximizing network flow capacity is considered. The initial vector of arc capacities is given, and the cost function, associated with each arc, for incrementing capacity is concave; therefore, the feasible region is nonconvex. The problem is approached by Benders' decomposition procedure, and a finite algorithm is developed for solving the nonconvex relaxed master problems. A numerical example of optimizing network flow capacity, under economies of scale, is included.
+Keywords
+Nonconvex programming  network flows  mathematical programming  network synthesis  operations research  

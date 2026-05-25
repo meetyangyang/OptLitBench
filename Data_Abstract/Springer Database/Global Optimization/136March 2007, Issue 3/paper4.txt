@@ -1,0 +1,6 @@
+Mobile Robot Global Localization using an Evolutionary MAP Filter
+L. Moreno;S. Garrido;D. Blanco;
+Abstract
+A new algorithm based on evolutionary computation concepts is presented in this paper. This algorithm is a non linear evolutive filter known as the Evolutive Localization Filter (ELF) which is able to solve the global localization problem in a robust and efficient way. The proposed algorithm searches stochastically along the state space for the best robot pose estimate. The set of pose solutions (the population) represents the most likely areas according to the perception and motion information up to date. The population evolves by using the log-likelihood of each candidate pose according to the observation and the motion error derived from the comparison between observed and predicted data obtained from the probabilistic perception and motion model. The algorithm has been tested on a mobile robot equipped with a laser range finder to demonstrate the effectiveness, robustness and computational efficiency of the proposed approach.
+Keywords
+Evolutive algorithm  Maximum a posteriory estimate  Non-linear filter  Global localization  Mobile robots  

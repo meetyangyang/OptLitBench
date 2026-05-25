@@ -1,0 +1,6 @@
+Cord-slope form of Taylor's expansion in univariate global optimization
+P. Hansen;B. Jaumard;J. Xiong;
+Abstract
+Interval arithmetic and Taylor's formula can be used to bound the slope of the cord of a univariate function at a given point. This leads in turn to bounding the values of the function itself. Computing such bounds for the function, its first and second derviatives, allows the determination of intervals in which this function cannot have a global minimum. Exploiting this information together with a simple branching rule yields an efficient algorithm for global minimization of univariate functions. Computational experience is reported.
+Keywords
+Global optimization  univariate functions  interval arithmetic  Taylor's formula  

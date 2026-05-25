@@ -1,0 +1,17 @@
+A New  Noninterior Predictor–Corrector Method for the P0 LCP
+Ju-liang Zhang;Jian Chen;
+Abstract
+In this paper a new predictor-corrector noninterior method for
+ LCP is presented, in which the predictor step is generated
+by the Levenberg-Marquadt method, which is new in the
+predictor-corrector-type methods,  and the corrector step is
+generated as in [3]. The method has the
+following merits: (i) any cluster point of the iteration sequence is
+a solution of the P0 LCP;  (ii) if the generalized Jacobian is
+nonsingular at a solution point, then the whole sequence converges
+to the (unique) solution of the P0 LCP superlinearly; (iii) for the P0 LCP, if an accumulation point of the iteration sequence satisfies the  strict complementary condition, then the whole sequence
+converges to this accumulation point superlinearly.
+ Preliminary numerical experiments are reported
+ to show the efficiency of  the algorithm.
+Keywords
+LCP  Predictor-corrector method  Smoothing technique  Superlinear convergence  

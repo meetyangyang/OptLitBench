@@ -1,0 +1,6 @@
+A First-Order Smoothed Penalty Method for Compressed Sensing
+N. S.  Aybat and G.  Iyengar;
+Abstract
+We propose a first-order smoothed penalty algorithm (SPA) to solve the sparse recovery problem $\min\{\|x\|_1:Ax=b\}$. SPA is efficient as long as the matrix-vector product $Ax$ and $A^{T}y$ can be computed efficiently; in particular, A need not have orthogonal rows. SPA converges to the target signal by solving a sequence of penalized optimization subproblems, and each subproblem is solved using Nesterov's optimal algorithm for simple sets [Yu. Nesterov, Introductory Lectures on Convex Optimization: A Basic Course, Kluwer Academic Publishers, Norwell, MA, 2004] and [Yu. Nesterov, Math. Program., 103 (2005), pp. 127–152]. We show that the SPA iterates $x_k$ are $\epsilon$-feasible; i.e. $\|Ax_k-b\|_2\leq\epsilon$ and $\epsilon$-optimal; i.e. $|~\|x_k\|_1-\|x^\ast\|_1|\leq\epsilon$ after $\tilde{\mathcal{O}}(\epsilon^{-\frac{3}{2}})$ iterations. SPA is able to work with $\ell_1$, $\ell_2$, or $\ell_{\infty}$ penalty on the infeasibility, and SPA can be easily extended to solve the relaxed recovery problem $\min\{\|x\|_1:\|Ax-b\|_2\leq\delta\}$.
+Keywords
+$\ell_1$-minimization, basis pursuit, compressed sensing, sparse optimization, smooth approximation of nonsmooth functions, Nesterov's method, 90C25, 90C06, 49M29, 65D10, 90C90, 

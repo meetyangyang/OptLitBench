@@ -1,0 +1,6 @@
+An Interior Point Method for Block Angular Optimization
+Gary L.  Schultz and Robert R.  Meyer;
+Abstract
+An interior point method for block angular optimization is developed and the convergence properties of the method are described. A major motivation for such a method is that most of the computation is easily parallelized. Computational results are presented for a class of large-scale linear programming models. These models are multicommodity flow problems that arise from an Air Force (Military Airlift Command) application and generate problems as large as 100,000 rows and 300,000 columns.
+Keywords
+large-scale linear programming, block angular optimization, multicommodity network flow, parallel numerical methods, interior point methods, 90C06, 65Y05, 

@@ -1,0 +1,6 @@
+A Fokker–Planck approach to control collective motion
+Souvik Roy;Mario Annunziato;Alfio Borzì;Christian Klingenberg;
+Abstract
+A Fokker–Planck control strategy for collective motion is investigated. This strategy is formulated as the minimisation of an expectation objective with a bilinear optimal control problem governed by the Fokker–Planck equation modelling the evolution of the probability density function of the stochastic motion. Theoretical results on existence and regularity of optimal controls are provided. The resulting optimality system is discretized using an alternate-direction implicit Chang–Cooper scheme that guarantees conservativeness, positivity, \(L^1\) stability, and second-order accuracy of the forward solution. A projected non-linear conjugate gradient scheme is used to solve the optimality system. Results of numerical experiments validate the theoretical accuracy estimates and demonstrate the efficiency of the proposed control framework.
+Keywords
+Fokker–Planck equation  Alternate direction method  Chang–Cooper scheme  Projected gradient method  Control constrained PDE optimization  35Q84  35Q91  35Q93  49K20  49J20  65C20  

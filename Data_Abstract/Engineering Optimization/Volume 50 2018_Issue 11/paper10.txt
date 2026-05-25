@@ -1,0 +1,6 @@
+A Tikhonov regularization parameter approach for solving Lagrange constrained optimization problems
+Julio B. Clempner;Alexander S. Poznyak;
+Abstract
+This article deals with the Tikhonov regularization method for the constrained Lagrange approach, taking into account polylinear programming problems. A regularized Lagrange function  is strongly convex when having a unique saddle-point on z, and it is strongly concave on the Lagrange multipliers  for any . The parameters α and δ are positive, ensuring the strong convexity and the existence of a unique solution. Herein, it is proven that, given , if  then the original problem converges to a unique solution with the minimal weighted norm. A projection-gradient method for finding the extremal points is proposed, and the convergence of the proposed projection-gradient method under mild conditions is established. The rate of convergence of the parameters is shown. A numerical example related to Markov games and a second example related to signal control show the efficacy and efficiency of the proposed method.
+Keywords
+Lagrange method, optimization, regularization, Tikhonov 

@@ -1,0 +1,6 @@
+A Modified Forward-Backward Splitting Method for Maximal Monotone Mappings
+Paul  Tseng;
+Abstract
+We consider the forward-backward splitting method for finding a zero of the sum of two maximal monotone mappings. This method is known to converge when the inverse of the forward mapping is strongly monotone. We propose a modification to this method, in the spirit of the extragradient method for monotone variational inequalities, under which the method converges assuming only the forward mapping is (Lipschitz) continuous on some closed convex subset of its domain. The modification entails an additional forward step and a projection step at each iteration. Applications of the modified method to decomposition in convex programming and monotone variational inequalities are discussed.
+Keywords
+maximal monotone mapping, forward-backward splitting method, extragradient method, variational inequality, convex programming, decomposition, 49M45, 90C25, 90C33, 

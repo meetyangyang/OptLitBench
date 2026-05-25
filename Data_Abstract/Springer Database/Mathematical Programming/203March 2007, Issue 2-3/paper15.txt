@@ -1,0 +1,6 @@
+Large-scale semidefinite programs in electronic structure calculation
+Mituhiro Fukuda;Bastiaan J. Braams;Maho Nakata;Michael L. Overton;Jerome K. Percus;Makoto Yamashita;Zhengji Zhao;
+Abstract
+It has been a long-time dream in electronic structure theory in physical chemistry/chemical physics to compute ground state energies of atomic and molecular systems by employing a variational approach in which the two-body reduced density matrix (RDM) is the unknown variable. Realization of the RDM approach has benefited greatly from recent developments in semidefinite programming (SDP). We present the actual state of this new application of SDP as well as the formulation of these SDPs, which can be arbitrarily large. Numerical results using parallel computation on high performance computers are given. The RDM method has several advantages including robustness and provision of high accuracy compared to traditional electronic structure methods, although its computational time and memory consumption are still extremely large.
+Keywords
+Large-scale optimization  Computational chemistry  Semidefinite programming relaxation  Reduced density Matrix  N-representability  Parallel computation  90C06  81Q05  90C22  68W10  

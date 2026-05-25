@@ -1,0 +1,6 @@
+The stiffness spreading method for layout optimization of truss structures
+Peng Wei;Haitao Ma;Michael Yu Wang;
+Abstract
+A novel optimization method, stiffness spreading method (SSM), is proposed for layout optimization of truss structures. In this method, stiffness matrices of the bar elements in a truss structure are represented by a set of equivalent stiffness matrices which are embedded in a weak background mesh. When the proposed method is used, it is unnecessary for the bar elements in a truss structure to be connected to each other during the optimization process, and each of the bar elements can move independently in the design domain to form an optimized design. Another feature of the method is that the sensitivity analysis can be done analytically, making gradient based optimization algorithms applicable in the solution. This method realizes the size, shape and topology design optimization of truss structures simultaneously and allows for more flexibility in topology change. Numerical examples illustrate the feasibility and effectiveness of the proposed method.
+Keywords
+Layout optimization  Structural optimization  Topology optimization  Truss structure  

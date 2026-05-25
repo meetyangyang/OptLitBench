@@ -1,0 +1,6 @@
+On the elimination of inessential points in the smallest enclosing ball problem
+Luc Pronzato;
+Abstract
+We consider the construction of the smallest ball B∗ enclosing a set Xn formed by n points in Rd. We show that any probability measure on Xn, with mean c and variance matrix V, provides a lower bound b on the distance to c of any point on the boundary of B∗, with b having a simple expression in terms of c and V. This inequality permits to remove inessential points from Xn, which do not participate to the definition of B∗, and can be used to accelerate algorithms for the construction of B∗. We show that this inequality is, in some sense, the best possible. A series of numerical examples indicates that, when d is reasonably small (d≤10, say) and n is large (up to 105), the elimination of inessential points by a suitable two-point measure, followed by a direct (exact) solution by quadratic programming, outperforms iterative methods that compute an approximate solution by solving the dual problem.
+Keywords
+minimum enclosing ball, smallest ball, Chebyshev centre, core sets, optimal design of experimentsAMS Subject Classification: 90C25, 90C46, 62K05 

@@ -1,0 +1,6 @@
+A Kriging-based probabilistic optimization method with an adaptive search region
+ Shinkyu   Jeong ; Shigeru   Obayashi ; Kazuomi   Yamamoto ;
+Abstract
+ An adaptive search region method for design optimization is proposed. The validity of the current search region is checked by investigating the probabilistic distribution of the design variable, and if the search region is inadequate, it is changed adaptively. To ease the computational burden, evaluation of the objective function, in both probabilistic analysis of the distribution of design variables and optimization, is performed using a Kriging model. The present method was validated by application to transonic airfoil design. Even when starting with an inadequate initial search region, it was possible to obtain an airfoil with good aerodynamic performance using the present method. Functional analysis of variance (ANOVA) was performed to identify the effects of each design variable on the objective function and constraints. The results indicated that the relevant definition of the search region is essential to obtain correct information from ANOVA. 
+Keywords
+Adaptive search region, Kriging model, Functional analysis of variance 

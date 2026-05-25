@@ -1,0 +1,6 @@
+A Polynomial-Time Primal-Dual Affine Scaling Algorithm for Linear and Convex Quadratic Programming and Its Power Series Extension
+Renato D. C. Monteiro;Ilan Adler;Mauricio G. C. Resende;
+Abstract
+We describe an algorithm for linear and convex quadratic programming problems that uses power series approximation of the weighted barrier path that passes through the current iterate in order to find the next iterate. If r ≥ 1 is the order of approximation used, we show that our algorithm has time complexity O(n½(1 + 1/r)L(1 + 1/r)) iterations and O(n3 + n2r) arithmetic operations per iteration, where n is the dimension of the problem and L is the size of the input data. When r = 1, we show that the algorithm can be interpreted as an affine scaling algorithm in the primal-dual setup.
+Keywords
+programming affine scaling power series extensions 

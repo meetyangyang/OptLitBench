@@ -1,0 +1,6 @@
+Strong convergence of a proximal point algorithm with bounded error sequence
+Oganeditse A. Boikanyo;Gheorghe Moroşanu;
+Abstract
+Given any maximal monotone operator \({A: D(A)\subset H \rightarrow 2^H}\) in a real Hilbert space H with \({A^{-1}(0) \ne \emptyset}\) , it is shown that the sequence of proximal iterates \({x_{n+1}=(I+\gamma_n A)^{-1}(\lambda_n u+(1-\lambda_n)(x_n+e_n))}\) converges strongly to the metric projection of u on A −1(0) for (e  n ) bounded, \({\lambda_n \in (0,1)}\) with \({\lambda_n \to 1}\) and γ  n  > 0 with \({\gamma_n \to\infty}\) as \({n \to \infty}\) . In comparison with our previous paper (Boikanyo and Moroşanu in Optim Lett 4(4):635–641, 2010), where the error sequence was supposed to converge to zero, here we consider the classical condition that errors be bounded. In the case when A is the subdifferential of a proper convex lower semicontinuous function \({\varphi :H \to (-\infty,+ \infty]}\) , the algorithm can be used to approximate the minimizer of φ which is nearest to u.
+Keywords
+Maximal monotone operator  Nonexpansive map  Proximal point algorithm  Prox-Tikhonov method  Resolvent operator  

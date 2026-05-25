@@ -1,0 +1,6 @@
+Orderings for Conjugate Gradient Preconditionings
+James M.  Ortega;
+Abstract
+Many preconditioners (e.g., SSOR, ILU) for the conjugate gradient method require the solution of sparse triangular systems of equations. For elliptic boundary value problems, one approach to obtaining additional parallelism in the solution of these systems is the use of red/black or multicolor orderings. There has been increasing evidence, however, that these orderings degrade the rate of convergence compared with the natural ordering. An alternative is the diagonal ordering, which maintains the rate of convergence of the natural ordering but has less parallelism than multicolor orderings. This paper reviews these as well as other orderings and then gives some results that help to explain why the red/black ordering gives an inferior rate of convergence.
+Keywords
+preconditioned conjugate gradient, orderings, rate of convergence, red/black, SSOR, incomplete Cholesky, parallel and vector computing, 65F10, 65N20, 

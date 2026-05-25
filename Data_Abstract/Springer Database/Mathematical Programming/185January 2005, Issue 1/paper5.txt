@@ -1,0 +1,6 @@
+The inverse optimal value problem
+Shabbir Ahmed;Yongpei Guan;
+Abstract
+This paper considers the following inverse optimization problem: given a linear program, a desired optimal objective value, and a set of feasible cost vectors, determine a cost vector such that the corresponding optimal objective value of the linear program is closest to the desired value. The above problem, referred here as the inverse optimal value problem, is significantly different from standard inverse optimization problems that involve determining a cost vector for a linear program such that a pre-specified solution vector is optimal. In this paper, we show that the inverse optimal value problem is NP-hard in general. We identify conditions under which the problem reduces to a concave maximization or a concave minimization problem. We provide sufficient conditions under which the associated concave minimization problem and, correspondingly, the inverse optimal value problem is polynomially solvable. For the case when the set of feasible cost vectors is polyhedral, we describe an algorithm for the inverse optimal value problem based on solving linear and bilinear programming problems. Some preliminary computational experience is reported.
+Keywords
+Inverse optimization  Complexity  Linear programming  Bilinear programming  

@@ -1,0 +1,6 @@
+Surrogate Gradient Algorithm for Lagrangian Relaxation
+X. Zhao;P. B. Luh;J. Wang;
+Abstract
+The subgradient method is used frequently to optimize dual functions in Lagrangian relaxation for separable integer programming problems. In the method, all subproblems must be solved optimally to obtain a subgradient direction. In this paper, the surrogate subgradient method is developed, where a proper direction can be obtained without solving optimally all the subproblems. In fact, only an approximate optimization of one subproblem is needed to get a proper surrogate subgradient direction, and the directions are smooth for problems of large size. The convergence of the algorithm is proved. Compared with methods that take effort to find better directions, this method can obtain good directions with much less effort and provides a new approach that is especially powerful for problems of very large size.
+Keywords
+Lagrangian relaxation  integer programming  surrogate subgradient  job shop scheduling  

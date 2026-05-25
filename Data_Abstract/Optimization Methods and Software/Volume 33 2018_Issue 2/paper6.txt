@@ -1,0 +1,6 @@
+ARCq: a new adaptive regularization by cubics
+Jean-Pierre Dussault;
+Abstract
+We present a new adaptive regularization by cubics (ARC) algorithm, which we name ARC and which is very close in spirit to trust region methods, closer than the original ARC is. We prove global convergence to second-order critical points. We also obtain as a corollary the convergence of the original ARC method. We prove the optimal complexity property for the ARC and identify the key elements which allow it. We end by proposing an efficient implementation using a Cholesky like factorization. Limited preliminary experimentation suggests that ARC may be more robust than its trust region counterpart and that our implementation is efficient.
+Keywords
+Nonlinear optimization, unconstrained optimization, Trust region algorithms, Adaptive cubic regularization methods 

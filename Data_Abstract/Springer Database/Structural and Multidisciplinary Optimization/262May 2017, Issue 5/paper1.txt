@@ -1,0 +1,6 @@
+Combined shape and topology optimization for minimization of maximal von Mises stress
+Haojie Lian;Asger N. Christiansen;Daniel A. Tortorelli;Ole Sigmund;Niels Aage;
+Abstract
+This work shows that a combined shape and topology optimization method can produce optimal 2D designs with minimal stress subject to a volume constraint. The method represents the surface explicitly and discretizes the domain into a simplicial complex which adapts both structural shape and topology. By performing repeated topology and shape optimizations and adaptive mesh updates, we can minimize the maximum von Mises stress using the p-norm stress measure with p-values as high as 30, provided that the stress is calculated with sufficient accuracy.
+Keywords
+Stress minimization  Combined shape and topology optimization  Explicit surface representation  Deformable simplicial complex method  

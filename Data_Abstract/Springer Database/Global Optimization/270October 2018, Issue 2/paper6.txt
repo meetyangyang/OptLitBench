@@ -1,0 +1,6 @@
+Global optimization of nonconvex problems with convex-transformable intermediates
+Carlos J. Nohra;Nikolaos V. Sahinidis;
+Abstract
+This paper addresses the global optimization of problems which contain convex-transformable functions. We present algorithms for identification of convex-transformable functions in general nonconvex problems, and introduce a new class of cutting planes based on recently developed relaxations for convex-transformable functions. These cutting planes correspond to the supporting hyperplanes of these convex relaxations. We integrate our recognition and cutting plane generation algorithms into the global solver BARON, and test our implementation by conducting numerical experiments on a large collection of nonconvex problems. Results demonstrate that the proposed implementation accelerates the convergence speed of the branch-and-bound algorithm, by significantly reducing computational time, number of nodes in the search tree, and required memory.
+Keywords
+Global optimization  G-convexity cuts  Factorable programming  

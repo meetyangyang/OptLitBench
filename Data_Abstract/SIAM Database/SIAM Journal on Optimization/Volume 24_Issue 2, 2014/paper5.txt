@@ -1,0 +1,6 @@
+Cutting-Planes for Optimization of Convex Functions over Nonconvex Sets
+Daniel  Bienstock and Alexander  Michalka;
+Abstract
+We derive linear inequality characterizations for sets of the form $\mathop{\rm conv}\{ (x, q)  \in \mathbb{R}^d \times \mathbb{R}:q \ge Q(x), \  x \in \mathbb{R}^d - \mathop{\rm int}(P) \}$, where $Q$ is convex and differentiable and $P \subset \mathbb{R}^d$.  We show that in several cases our characterization leads to polynomial-time separation algorithms that operate in the original space of variables, in particular when $Q$ is a positive-definite quadratic and $P$ is a polyhedron or an ellipsoid.
+Keywords
+nonconvex optimization, mixed-integer programming, 90, 

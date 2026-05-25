@@ -1,0 +1,6 @@
+Interior point methods for large-scale nonlinear programming
+ Ladislav   Lukšan ; Ctirad   Matonoha ; Jan   Vlček ;
+Abstract
+ In this paper we describe an algorithm for solving nonlinear nonconvex programming problems, which is based on the interior point approach. The main theoretical results concern direction determination and step-length selection. We split inequality constraints into active and inactive parts to overcome problems with instability. Inactive constraints are eliminated directly, whereas active constraints are used for defining a symmetric indefinite linear system. Inexact solution of this system is obtained iteratively using indefinitely preconditioned conjugate gradient method. Theorems confirming efficiency of the indefinite preconditioner are introduced. Furthermore, a new merit function is defined and a filter principle is used for step-length selection. The algorithm was implemented in the interactive system for universal functional optimization UFO. Results of numerical experiments are reported. 
+Keywords
+Nonlinear programming, Interior point methods, KKT systems, Indefinite preconditioners, Filter methods, Algorithms 

@@ -1,0 +1,6 @@
+Optimization-Based Algorithms for Tensor Decompositions: Canonical Polyadic Decomposition, Decomposition in Rank-$(L_r,L_r,1)$ Terms, and a New Generalization
+Laurent  Sorber, Marc  Van Barel, and Lieven  De Lathauwer;
+Abstract
+The canonical polyadic and rank-$(L_r,L_r,1)$ block term decomposition (CPD and BTD, respectively) are two closely related tensor decompositions. The CPD and, recently, BTD are important tools in psychometrics, chemometrics, neuroscience, and signal processing. We present a decomposition that generalizes these two and develop algorithms for its computation. Among these algorithms are alternating least squares schemes, several general unconstrained optimization techniques, and matrix-free nonlinear least squares methods. In the latter we exploit the structure of the Jacobian's Gramian to reduce computational and memory cost. Combined with an effective preconditioner, numerical experiments confirm that these methods are among the most efficient and robust currently available for computing the CPD, rank-$(L_r,L_r,1)$ BTD, and their generalized decomposition.
+Keywords
+multilinear algebra, tensor decompositions, canonical polyadic decomposition, block term decomposition, optimization, algorithms, 90-08, 90C06, 90C53, 90C90, 65K05, 

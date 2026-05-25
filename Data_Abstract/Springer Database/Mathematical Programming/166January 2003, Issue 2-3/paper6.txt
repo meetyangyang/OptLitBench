@@ -1,0 +1,6 @@
+Integer linear programming models for 2-staged two-dimensional Knapsack problems
+Andrea Lodi;Michele Monaci;
+Abstract
+ We are given a unique rectangular piece of stock material S, with height H and width W, and a list of m rectangular shapes to be cut from S. Each shape's type i (i = 1, ..., m) is characterized by a height \(\), a width \(\), a profit \(\), and an upper bound ub i  indicating the maximum number of items of type i which can be cut. We refer to the Two-Dimensional Knapsack (TDK) as the problem of determining a cutting pattern of S maximizing the sum of the profits of the cut items. In particular, we consider the classical variant of TDK in which the maximum number of cuts allowed to obtain each item is fixed to 2, and we refer to this problem as 2-staged TDK (2TDK). For the 2TDK problem we present two new Integer Linear Programming models, we discuss their properties, and we compare them with other formulations in terms of the LP bound they provide. Finally, both models are computationally tested within a standard branch-and-bound framework on a large set of instances from the literature by reinforcing them with the addition of linear inequalities to eliminate symmetries.
+Keywords
+Program Model  Integer Linear Program  Knapsack Problem  Linear Inequality  Rectangular Shape  

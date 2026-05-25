@@ -1,0 +1,6 @@
+Characterization of Exponential Divergence of the Kalman Filter for Time-Varying Systems
+Eduardo F.  Costa and Alessandro  Astolfi;
+Abstract
+This paper studies semistability of the recursive Kalman filter in the context of linear time-varying (LTV), possibly nondetectable systems with incorrect noise information. Semistability is a key property, as it ensures that the actual estimation error does not diverge exponentially. We explore structural properties of the filter to obtain a necessary and sufficient condition for the filter to be semistable. The condition does not involve limiting gains nor the solution of Riccati equations, as they can be difficult to obtain numerically and may not exist. We also compare semistability with the notions of stability and stability w.r.t. the initial error covariance, and we show that semistability in a sense makes no distinction between persistent and nonpersistent incorrect noise models, as opposed to stability. In the linear time invariant scenario we obtain algebraic, easy to test conditions for semistability and stability, which complement results available in the context of detectable systems. Illustrative examples are included.
+Keywords
+Kalman filter stability, system structure, semistability, 93E11, 93B99, 93D99, 

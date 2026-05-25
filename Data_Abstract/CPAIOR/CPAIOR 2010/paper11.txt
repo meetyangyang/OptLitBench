@@ -1,0 +1,4 @@
+Single-Facility Scheduling over Long Time Horizons by Logic-Based Benders Decomposition
+Elvin Coban;John N. Hooker;
+Abstract
+Logic-based Benders decomposition can combine mixed integer programming and constraint programming to solve planning and scheduling problems much faster than either method alone. We find that a similar technique can be beneficial for solving pure scheduling problems as the problem size scales up. We solve single-facility non-preemptive scheduling problems with time windows and long time horizons that are divided into segments separated by shutdown times (such as weekends). The objective is to find feasible solutions, minimize makespan, or minimize total tardiness.

@@ -1,0 +1,6 @@
+A SQP-Semismooth Newton-type Algorithm applied to Control of the instationary Navier--Stokes System Subject to Control Constraints
+M.  Hintermüller and M.  Hinze;
+Abstract
+SQP methods for the optimal control of the instationary Navier--Stokes equations with pointwise constraints on the control are considered. Due to the presence of the constraints, the quadratic subproblems (QPs) of SQP require a more sophisticated solver when compared to the unconstrained case. In this paper, a semismooth Newton method is proposed for efficiently solving the QPs. The convergence analysis, which is performed in an appropriate function space setting, relies on the concept of slant differentiability for proving locally superlinear convergence of the QP-solver. For the analysis of the outer SQP-iteration a generalized equations approach is utilized. Sufficient conditions for guaranteeing strong regularity of the generalized equation are established which, in turn, allows one to argue a quadratic rate of convergence of the SQP-method. The paper ends with a report on numerical results supporting the theoretical findings.
+Keywords
+box constraints, generalized equations, Navier--Stokes, optimal control, semismooth Newton, sequential quadratic programming, 90C55, 65K10, 49M37, 

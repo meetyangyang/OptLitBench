@@ -1,0 +1,6 @@
+Grouped coordinate minimization using Newton's method for inexact minimization in one vector coordinate
+R. J. Hathaway;J. C. Bezdek;
+Abstract
+Letf(x,y) be a function of the vector variablesx ∈Rn andy ∈Rm. The grouped (variable) coordinate minimization (GCM) method for minimizingf consists of alternating exact minimizations in either of the two vector variables, while holding the other fixed at the most recent value. This scheme is known to be locally,q-linearly convergent, and is most useful in certain types of statistical and pattern recognition problems where the necessary coordinate minimizers are available explicitly. In some important cases, the exact minimizer in one of the vector variables is not explicitly available, so that an iterative technique such as Newton's method must be employed. The main result proved here shows that a single iteration of Newton's method solves the coordinate minimization problem sufficiently well to preserve the overall rate of convergence of the GCM sequence.
+Keywords
+Coordinate minimization  Newton's method  local convergence  

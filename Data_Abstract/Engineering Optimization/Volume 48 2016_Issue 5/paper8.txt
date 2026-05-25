@@ -1,0 +1,6 @@
+Using support vector machine and dynamic parameter encoding to enhance global optimization
+Z. Zheng;X. Chen;C. Liu;K. Huang;
+Abstract
+This study presents an approach which combines support vector machine (SVM) and dynamic parameter encoding (DPE) to enhance the run-time performance of global optimization with time-consuming fitness function evaluations. SVMs are used as surrogate models to partly substitute for fitness evaluations. To reduce the computation time and guarantee correct convergence, this work proposes a novel strategy to adaptively adjust the number of fitness evaluations needed according to the approximate error of the surrogate model. Meanwhile, DPE is employed to compress the solution space, so that it not only accelerates the convergence but also decreases the approximate error. Numerical results of optimizing a few benchmark functions and an antenna in a practical application are presented, which verify the feasibility, efficiency and robustness of the proposed approach.
+Keywords
+fitness evaluation, surrogate model, global optimization, support vector machine, dynamic parameter encoding 

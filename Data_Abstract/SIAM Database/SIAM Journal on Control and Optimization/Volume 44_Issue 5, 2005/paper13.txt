@@ -1,0 +1,6 @@
+A Search Algorithm for a Class of Optimal Finite-Precision Controller Realization Problems with Saddle Points
+Jun  Wu, Sheng  Chen, Gang  Li, and Jian  Chu;
+Abstract
+With game theory, we review the optimal digital controller realization problems that maximize a finite word length (FWL) closed-loop stability measure. For a large class of these optimal FWL controller realization problems which have saddle points, a minimax-based search algorithm is derived for finding a global optimal solution. The algorithm consists of two stages. In the first stage, the closed form of a transformation set is constructed which contains global optimal solutions. In the second stage, a subgradient approach searches this transformation set to obtain a global optimal solution. This algorithm does not suffer from the usual drawbacks associated with using direct numerical optimization methods to tackle these FWL realization problems. Furthermore, for a small class of optimal FWL controller realization problems which have no saddle point, the proposed algorithm also provides useful information to help solve them.
+Keywords
+closed-loop stability, digital controller, finite word length, game theory, optimization, saddle points, 93D99, 91A80, 15A18, 90C47, 90C90, 90C30, 

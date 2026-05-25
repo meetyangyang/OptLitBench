@@ -1,0 +1,6 @@
+Damage identification in three-dimensional structures using single-objective evolutionary algorithms and finite element model updating: evaluation and comparison
+Nizar Faisal Alkayem;Maosen Cao;
+Abstract
+This study presents a methodology which integrates single-objective evolutionary algorithms (EAs) and finite element (FE) model updating for damage inference in three-dimensional (3D) structures. First, original well-known EAs, namely the genetic algorithm, differential evolution (DE) and particle swarm optimization (PSO), are combined with FE model updating for detecting damage in a 3D four-storey modular structure and their performances are compared. Next, to obtain more accurate results, hybrid Lévy flights–DE and hybrid artificial bee colony–PSO are developed for enhancing damage identification. With each method, the objective function composed of modal strain energy and mode shape residuals, taken from the FE model of the intact structure and the simulated damage responses, is initially created. Then, the performance of each algorithm combined with FE model updating for damage detection is assessed in terms of three characteristics: consistency, computational cost and accuracy, and the best performing algorithm is recommended.
+Keywords
+Evolutionary algorithms, single-objective optimization, finite element model updating, structural damage detection 

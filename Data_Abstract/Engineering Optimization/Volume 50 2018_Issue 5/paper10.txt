@@ -1,0 +1,6 @@
+Estimation of distribution algorithm with path relinking for the blocking flow-shop scheduling problem
+Zhongshi Shao;Dechang Pi;Weishi Shao;
+Abstract
+This article presents an effective estimation of distribution algorithm, named P-EDA, to solve the blocking flow-shop scheduling problem (BFSP) with the makespan criterion. In the P-EDA, a Nawaz–Enscore–Ham (NEH)-based heuristic and the random method are combined to generate the initial population. Based on several superior individuals provided by a modified linear rank selection, a probabilistic model is constructed to describe the probabilistic distribution of the promising solution space. The path relinking technique is incorporated into EDA to avoid blindness of the search and improve the convergence property. A modified referenced local search is designed to enhance the local exploitation. Moreover, a diversity-maintaining scheme is introduced into EDA to avoid deterioration of the population. Finally, the parameters of the proposed P-EDA are calibrated using a design of experiments approach. Simulation results and comparisons with some well-performing algorithms demonstrate the effectiveness of the P-EDA for solving BFSP.
+Keywords
+Flow-shop scheduling with blocking, estimation of distribution algorithm, path relinking, makespan 

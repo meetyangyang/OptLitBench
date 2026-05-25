@@ -1,0 +1,6 @@
+Convex reformulations for solving a nonlinear network design problem
+Jesco Humpola;Armin Fügenschuh;
+Abstract
+We consider a nonlinear nonconvex network design problem that arises, for example, in natural gas or water transmission networks. Given is such a network with active and passive components, that is, valves, compressors, control valves (active) and pipelines (passive), and a desired amount of flow at certain specified entry and exit nodes in the network. The active elements are associated with costs when used. Besides flow conservation constraints in the nodes, the flow must fulfill nonlinear nonconvex pressure loss constraints on the arcs subject to potential values (i.e., pressure levels) in both end nodes of each arc. The problem is to compute a cost minimal setting of the active components and numerical values for the flow and node potentials. We examine different (convex) relaxations for a subproblem of the design problem and benefit from them within a branch-and-bound approach. We compare different approaches based on nonlinear optimization numerically on a set of test instances.
+Keywords
+Nonlinear network flow  Mixed-integer nonlinear programming  Relaxations  Network design  

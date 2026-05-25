@@ -1,0 +1,6 @@
+Computational study of a nonhierarchical decomposition algorithm
+Jayashree Shankar;Raphael T. Haftka;Layne T. Watson;
+Abstract
+Optimizing the design of complex ground and flight vehicles involves multiple disciplines and multilayered computer codes stitched together from mostly incompativle disciplinary codes. The application of established, large-scale, optimization algorithms to the complete model is nearly impossible. Hierarchical decompositions are inappropriate for these types of problems and do not parallelize well. Sobieszczanski-Sobieski has proposed a nonhierarchical decomposition strategyfor nonlinear constrained optimization that is naturally parallel. Despite some successes on engineering problems, the algorithm as originally proposed fails on simple two-dimensional quadratic programs. This paper demonstrates the failure of the algorithm for quadratic programs and suggests a number of possible modifications.
+Keywords
+Large scale  nonlinear  optimization  parallel  nonhierarchical  

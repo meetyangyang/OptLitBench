@@ -1,0 +1,6 @@
+Combined branch-and-bound and cutting plane methods for solving a class of nonlinear programming problems
+LÊ D. Muu;W. Oettli;
+Abstract
+We propose unified branch-and-bound and cutting plane algorithms for global minimization of a functionf(x, y) over a certain closed set. By formulating the problem in terms of two groups of variables and two groups of constraints we obtain new relaxation bounding and adaptive branching operations. The branching operation takes place in y-space only and uses the iteration points obtained through the bounding operation. The cutting is performed in parallel with the branch-and-bound procedure. The method can be applied implementably for a certain class of nonconvex programming problems.
+Keywords
+Branch-and-bound  cutting plane  decomposition  convex-concave function  global  optimization  

@@ -1,0 +1,5 @@
+Full “Bang” to Reduce Predicted Miss is Optimal
+V. E.  Beneš;
+Abstract
+Consider the stochastic control problem of minimizing the final value expectation $El(k'z_1 )$ by choosing a measurable control law $u( \cdot , \cdot )$, subject to the stochastic differential equation $dz_t  = A(t)z_t dt + B(t)u(t,z_t )dt + C(t)dw_t $, $0 \leqq t \leqq 1$, for the process z, and to the boundedness condition $u:[0,1] \times R^d  \to [ - 1,1]^r $, with w a Wiener process, $k \ne 0$ a given vector, and $l( \cdot )$ an even positive function increasing in $x > 0$. C. G. Hilborn, Jr. and others have conjectured that one optimal law takes the form of full “bang” in the direction of reducing the “predicted miss”, defined as the expected value of $k'z_1 $ with control identically zero. Using the maximum principle for parabolic operators, we prove this conjecture in the setting of the exponential functionals which express the derivatives of measures induced by translations in Wiener space.
+Keywords

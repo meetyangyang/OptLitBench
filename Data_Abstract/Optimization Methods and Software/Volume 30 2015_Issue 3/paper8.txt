@@ -1,0 +1,6 @@
+An augmented Lagrangian trust region method for equality constrained optimization
+Xiao Wang;Yaxiang Yuan;
+Abstract
+In this paper we propose an augmented Lagrangian trust region method for equality constrained optimization. Different from standard augmented Lagrangian methods which minimize the augmented Lagrangian function for fixed Lagrange multiplier and penalty parameter at each iteration, the proposed method tries to minimize its second-order approximation function. We propose a new strategy for adjusting the penalty parameter. With adaptive update of Lagrange multipliers, we prove the global convergence of the proposed method. Numerical results on test problems from the CUTEr collection are also reported.
+Keywords
+equality constraints, augmented Lagrangian function, trust region, Lagrange multiplier, penalty parameter, convergenceAMS Subject Classification: 90C30, 65K05 

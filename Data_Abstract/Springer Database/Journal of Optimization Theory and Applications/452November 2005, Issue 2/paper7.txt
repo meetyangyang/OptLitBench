@@ -1,0 +1,6 @@
+LMI Approach to Robust Model Predictive Control
+D. Jia;B. H. Krogh;O. Stursberg;
+Abstract
+This paper introduces a new approach to robust model predictive control (MPC) based on conservative approximations to semi-infinite optimization using linear matrix inequalities (LMIs). The method applies to problems with convex quadratic costs, linear and convex quadratic constraints, and linear predictive models with bounded uncertainty. If the MPC optimization problem is feasible at the initial control step (the first application of the MPC optimization), it is shown that the MPC optimization problems will be feasible at all future time steps and that the controlled system will be closed-loop stable. The method is illustrated with a solenoid control example.
+Keywords
+Robust model predictive control  min–max optimization  semi-infinite programming  linear matrix inequalities  

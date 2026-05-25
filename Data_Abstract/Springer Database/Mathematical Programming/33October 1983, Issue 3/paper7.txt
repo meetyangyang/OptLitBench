@@ -1,0 +1,6 @@
+An aggregate subgradient method for nonsmooth convex minimization
+Krzysztof Czesław Kiwiel;
+Abstract
+A class of implementable algorithms is described for minimizing any convex, not necessarily differentiable, functionf of several variables. The methods require only the calculation off and one subgradient off at designated points. They generalize Lemarechal's bundle method. More specifically, instead of using all previously computed subgradients in search direction finding subproblems that are quadratic programming problems, the methods use an aggregate subgradient which is recursively updated as the algorithms proceed. Each algorithm yields a minimizing sequence of points, and iff has any minimizers, then this sequence converges to a solution of the problem. Particular members of this algorithm class terminate whenf is piecewise linear. The methods are easy to implement and have flexible storage requirements and computational effort per iteration that can be controlled by a user.
+Keywords
+AMS (MOS)  65 K 05  90 C 25  49 D 99  Mathematical Programming  Nonsmooth Optimization  Convex Nondifferentiable Optimization  Descent Methods  

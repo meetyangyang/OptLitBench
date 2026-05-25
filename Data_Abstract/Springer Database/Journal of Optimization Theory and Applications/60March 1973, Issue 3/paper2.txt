@@ -1,0 +1,6 @@
+An approach to nonlinear programming
+D. G. Luenberger;
+Abstract
+A nonlinear programming problem with inequality constraints and with unknown vectorx is converted to an unconstrained minimization problem in unknownsx and λ, where λ is a vector of Lagrange multipliers. It is shown that, if the original problem possesses standard convexity properties, then local minima of the associated unconstrained problem are in fact global minima of that problem and, consequently, Kuhn-Tucker points for the original problem. A computational procedure based on the conjugate residual scheme is applied in thexλ-space to solve the associated unconstrained problem. The resulting algorithm requires only first-order derivative information on the functions involved and will solve a quadratic programming problem in a finite number of steps.
+Keywords
+Lagrange Multiplier  Programming Problem  Minimization Problem  Global Minimum  Original Problem  

@@ -1,0 +1,6 @@
+Adaptive Barrier Update Strategies for Nonlinear Interior Methods
+Jorge  Nocedal, Andreas  Wächter, and Richard A.  Waltz;
+Abstract
+This paper considers strategies for selecting the barrier parameter at every iteration of an interior-point method for nonlinear programming. Numerical experiments suggest that heuristic adaptive choices, such as Mehrotra's probing procedure, outperform monotone strategies that hold the barrier parameter fixed until a barrier optimality test is satisfied. A new adaptive strategy is proposed based on the minimization of a quality function. The paper also proposes a globalization framework that ensures the convergence of adaptive interior methods, and examines convergence failures of the Mehrotra predictor-corrector algorithm. The barrier update strategies proposed in this paper are applicable to a wide class of interior methods and are tested in the two distinct algorithmic frameworks provided by the ipopt and knitro software packages.
+Keywords
+interior-point methods, barrier methods, nonlinear programming, constrained optimization, 49M37, 65K05, 90C06, 90C30, 90C51, 

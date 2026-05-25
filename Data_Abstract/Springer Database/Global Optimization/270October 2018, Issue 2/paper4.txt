@@ -1,0 +1,6 @@
+A nonconvex quadratic optimization approach to the maximum edge weight clique problem
+Seyedmohammadhossein Hosseinian;Dalila B. M. M. Fontes;Sergiy Butenko;
+Abstract
+The maximum edge weight clique (MEWC) problem, defined on a simple edge-weighted graph, is to find a subset of vertices inducing a complete subgraph with the maximum total sum of edge weights. We propose a quadratic optimization formulation for the MEWC problem and study characteristics of this formulation in terms of local and global optimality. We establish the correspondence between local maxima of the proposed formulation and maximal cliques of the underlying graph, implying that the characteristic vector of a MEWC in the graph is a global optimizer of the continuous problem. In addition, we present an exact algorithm to solve the MEWC problem. The algorithm is a combinatorial branch-and-bound procedure that takes advantage of a new upper bound as well as an efficient construction heuristic based on the proposed quadratic formulation. Results of computational experiments on some benchmark instances are also presented.
+Keywords
+Maximum edge weight clique problem  Quadratic optimization  Continuous approaches to discrete problems  

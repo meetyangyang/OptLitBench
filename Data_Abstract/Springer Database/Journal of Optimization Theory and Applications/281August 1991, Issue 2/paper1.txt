@@ -1,0 +1,6 @@
+Abort landing in the presence of windshear as a minimax optimal control problem, part 2: Multiple shooting and homotopy
+R. Bulirsch;F. Montrone;H. J. Pesch;
+Abstract
+In Part 1 of the paper (Ref. 2), we have shown that the necessary conditions for the optimal control problem of the abort landing of a passenger aircraft in the presence of windshear result in a multipoint boundary-value problem. This boundary-value problem is especially well suited for numerical treatment by the multiple shooting method. Since this method is basically a Newton iteration, initial guesses of all variables are needed and assumptions about the switching structure have to be made. These are big obstacles, but both can be overcome by a so-called homotopy strategy where the problem is imbedded into a one-parameter family of subproblems in such a way that (at least) the first problem is simple to solve. The solution data to the first problem may serve as an initial guess for the next problem, thus resulting in a whole chain of problems. This process is to be continued until the objective problem is reached.
+Keywords
+Optimal control  multiple shooting  multipoint boundary-value problems  homotopy  minimax optimal control problems  state constraints  bang-bang controls  singular controls  flight mechanics  landing  abort landing  windshear problems  

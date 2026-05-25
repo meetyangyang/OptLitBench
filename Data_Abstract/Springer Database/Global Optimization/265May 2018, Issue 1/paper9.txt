@@ -1,0 +1,6 @@
+Approximating a solution set of nonlinear inequalities
+Yuri Evtushenko;Mikhail Posypkin;Larisa Rybak;Andrei Turkin;
+Abstract
+In this paper we propose a method for solving systems of nonlinear inequalities with predefined accuracy based on nonuniform covering concept formerly adopted for global optimization. The method generates inner and outer approximations of the solution set. We describe the general concept and three ways of numerical implementation of the method. The first one is applicable only in a few cases when a minimum and a maximum of the constraints convolution function can be found analytically. The second implementation uses a global optimization method to find extrema of the constraints convolution function numerically. The third one is based on extrema approximation with Lipschitz under- and overestimations. We obtain theoretical bounds on the complexity and the accuracy of the generated approximations as well as compare proposed approaches theoretically and experimentally.
+Keywords
+Systems of non-linear inequalities  Global optimization  Approximation  Robot’s working area  

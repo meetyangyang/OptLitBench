@@ -1,0 +1,6 @@
+An algorithm for clusterwise linear regression based on smoothing techniques
+Adil M. Bagirov;Julien Ugon;Hijran G. Mirzayeva;
+Abstract
+We propose an algorithm based on an incremental approach and smoothing techniques to solve clusterwise linear regression (CLR) problems. This algorithm incrementally divides the whole data set into groups which can be easily approximated by one linear regression function. A special procedure is introduced to generate an initial solution for solving global optimization problems at each iteration of the incremental algorithm. Such an approach allows one to find global or approximate global solutions to the CLR problems. The algorithm is tested using several data sets for regression analysis and compared with the multistart and incremental Späth algorithms.
+Keywords
+Clusterwise regression  Nonsmooth optimization  Smoothing techniques  Nonconvex optimization  

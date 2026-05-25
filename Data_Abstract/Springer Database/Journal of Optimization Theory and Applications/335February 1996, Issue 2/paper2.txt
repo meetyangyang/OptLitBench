@@ -1,0 +1,6 @@
+Parallel asynchronous label-correcting methods for shortest paths
+D. P. Bertsekas;F. Guerriero;R. Musmanno;
+Abstract
+We develop parallel asynchronous implementations of some known and some new label-correcting methods for finding a shortest path from a single origin to all the other nodes of a directed graph. We compare these implementations on a shared-memory multiprocessor, the Alliant FX/80, using several types of randomly generated problems. Excellent (sometimes superlinear) speedup is achieved with some of the methods, and it is found that the asynchronous versions of these methods are substantially faster than their synchronous counterparts.
+Keywords
+Shortest path problems  parallel asynchronous algorithms  shared memory multiprocessors  label-correcting methods  

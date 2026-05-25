@@ -1,0 +1,6 @@
+On a Piecewise-Linear Approximation for Network Revenue Management
+Sumit Kunnumkal;Kalyan Talluri;
+Abstract
+The network revenue management (RM) problem arises in airline, hotel, media, and other industries where the sale products use multiple resources. It can be formulated as a stochastic dynamic program, but the dynamic program is computationally intractable because of an exponentially large state space, and a number of heuristics have been proposed to approximate its value function. In this paper we show that the piecewise-linear approximation to the network RM dynamic program is tractable; specifically we show that the separation problem of the approximation can be solved as a relatively compact linear program. Moreover, the resulting compact formulation of the approximate dynamic program turns out to be exactly equivalent to the Lagrangian relaxation of the dynamic program, an earlier heuristic method proposed for the same problem. We perform a numerical comparison of solving the problem by generating separating cuts or as our compact linear program. We discuss extensions to versions of the network RM problem with overbooking as well as the difficulties of extending it to the choice model of network revenue RM.
+Keywords
+network revenue management linear programming approximate dynamic programming Lagrangian relaxation methods 

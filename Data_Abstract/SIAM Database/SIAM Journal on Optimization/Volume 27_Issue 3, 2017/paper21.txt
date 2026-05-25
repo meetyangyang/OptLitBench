@@ -1,0 +1,6 @@
+A Scalable Bounding Method for Multistage Stochastic Programs
+Burhaneddi̇n  Sandikçi and Osman Y.  Özaltin;
+Abstract
+Many dynamic decision problems involving uncertainty can be appropriately modeled as multistage stochastic programs. However, most practical instances are so large and/or complex that it is impossible to solve them on a single computer, especially due to memory limitations. Extending the work of [B. Sandikci, N. Kong, and A. J. Schaefer, Math. Program.,  138 (2013), pp. 253--272] on two-stage stochastic mixed-integer programs, this paper considers general multistage stochastic programs and develops a bounding method based on scenario decomposition. This method is broadly applicable, as it does not assume any problem structure including convexity. Moreover, it naturally fits into a distributed computing environment. Computational experiments with large-scale instances (with up to 100 million scenarios, about 1.5 billion decision variables---85% binary---and 800 million constraints) demonstrate that the proposed method scales nicely with problem size and has immense potential to obtain high-quality solutions to practical instances within a reasonable time frame.
+Keywords
+stochastic programming, multistage, mixed-integer, bounding, parallel computing, 49M27, 68W10, 90C06, 90C11, 90C15, 90C25, 90C27, 90C59, 

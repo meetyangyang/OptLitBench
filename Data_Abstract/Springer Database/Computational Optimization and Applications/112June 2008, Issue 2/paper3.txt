@@ -1,0 +1,8 @@
+Multi-step nonlinear conjugate gradient methods for unconstrained minimization
+John A. Ford;Yasushi Narushima;Hiroshi Yabe;
+Abstract
+
+Conjugate gradient methods are appealing for large scale nonlinear optimization problems, because they avoid the storage of matrices. Recently, seeking fast convergence of these methods, Dai and Liao (Appl. Math. Optim. 43:87–101, 2001) proposed a conjugate gradient method based on the secant condition of quasi-Newton methods, and later Yabe and Takano (Comput. Optim. Appl. 28:203–225, 2004) proposed another conjugate gradient method based on the modified secant condition. In this paper, we make use of a multi-step secant condition given by Ford and Moghrabi (Optim. Methods Softw. 2:357–370, 1993; J. Comput. Appl. Math. 50:305–323, 1994) and propose two new conjugate gradient methods based on this condition. The methods are shown to be globally convergent under certain assumptions. Numerical results are reported.
+
+Keywords
+Unconstrained optimization  Conjugate gradient method  Line search  Global convergence  Multi-step secant condition  

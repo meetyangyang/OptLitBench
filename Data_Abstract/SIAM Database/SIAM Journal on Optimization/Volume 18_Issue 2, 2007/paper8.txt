@@ -1,0 +1,6 @@
+Using Sampling and Simplex Derivatives in Pattern Search Methods
+A. L.  Custódio and L. N.  Vicente;
+Abstract
+In this paper, we introduce ways of making a pattern search more efficient by reusing previous evaluations of the objective function, based on the computation of simplex derivatives (e.g., simplex gradients). At each iteration, one can attempt to compute an accurate simplex gradient by identifying a sampling set of previously evaluated points with good geometrical properties. This can be done using only past successful iterates or by considering all past function evaluations. The simplex gradient can then be used to reorder the evaluations of the objective function associated with the directions used in the poll step or to update the mesh size parameter according to a sufficient decrease criterion, neither of which requires new function evaluations. We present these procedures in detail and apply them to a set of problems from the CUTEr collection. Numerical results show that these procedures can enhance significantly the practical performance of pattern search methods.
+Keywords
+derivative-free optimization, pattern search methods, simplex gradient, poll ordering, multivariate polynomial interpolation, poisedness, 65D05, 90C30, 90C56, 

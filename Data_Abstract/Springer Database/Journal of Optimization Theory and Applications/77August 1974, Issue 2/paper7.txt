@@ -1,0 +1,6 @@
+Decomposition technique for minimum time trajectories
+R. D. Sugar;A. R. Stubberud;
+Abstract
+A decomposition technique is presented for minimum-time trajectories which are characterized by intermediate constraints and discontinuities. The optimization of such multiple are trajectories is usually a formidable task. One optimization method, trajectory decomposition, breaks the original trajectory at points of discontinuity into separate arcs and then optimizes each are subject to prescribed boundary conditions. This constitutes a first level of control. Each first-level solution is evaluated by a second-level controller, which iteratively specifies new are boundary conditions in order to achieve an optimum solution. Unfortunately, this two-level method cannot be applied directly to minimum-time trajectories.
+Keywords
+Time-optimal control  decomposition methods  two-point boundary-value problems  trajectories  numerical methods  

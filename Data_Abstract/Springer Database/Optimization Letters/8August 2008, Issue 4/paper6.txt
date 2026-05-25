@@ -1,0 +1,6 @@
+Exact L 2-norm plane separation
+Charles Audet;Pierre Hansen;Alejandro Karam;Chi To Ng;Sylvain Perron;
+Abstract
+We consider the problem of separating two sets of points in an n-dimensional real space with a (hyper)plane that minimizes the sum of L  p -norm distances to the plane of points lying on the wrong side of it. Despite recent progress, practical techniques for the exact solution of cases other than the L 1 and L ∞-norm were unavailable. We propose and implement a new approach, based on non-convex quadratic programming, for the exact solution of the L 2-norm case. We solve in reasonable computing times artificial problems of up to 20000 points (in 6 dimensions) and 13 dimensions (with 2000 points). We also observe that, for difficult real-life instances from the UCI Repository, computation times are substantially reduced by incorporating heuristic results in the exact solution process. Finally, we compare the classification performance of the planes obtained for the L 1, L 2 and L ∞ formulations. It appears that, despite the fact that L 2 formulation is computationally more expensive, it does not give significantly better results than the L 1 and L ∞ formulations.
+Keywords
+Linear discrimination  Separating plane  L2-norm separation  Quadratic programming  

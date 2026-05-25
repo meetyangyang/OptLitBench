@@ -1,0 +1,6 @@
+Quasi-Newton method by Hermite interpolation
+T. F. Sturm;
+Abstract
+This paper describes a new attempt to solve the problem of computing a local minimizer of a sufficiently often differentiable unconstrained objective function. In every step of the iteration, a special Hermite interpolant is constructed. Old iteration points serve as points of support with the function value and gradient information. This yields a quasi-Newton algorithm with quadratic convergence order.
+Keywords
+Nonlinear unconstrained optimization  Hermite interpolation  quasi-Newton methods  quadratic convergence  

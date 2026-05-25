@@ -1,0 +1,6 @@
+A partial linearization method for the traffic assignment problem
+   T.   Larsson ;   A.   Migdalas ;   M.   Partriksson ;
+Abstract
+ This paper presents a new solution technique for the traffic assignment problem. The approach is based on an iteratively improved nonlinear and separable approximation of the originally nonseparable objective function, and resembles the Frank-Wolfe algorithm in the sense that the subproblem separates with respect to commodities. Since the single-commodity subproblems are strictly convex, the new algorithm will not suffer from the poor convergence behaviour of the Frank-Wolfe algorithm, which is a consequence of the extreme solutions of its linear subproblems. The solution method is outlined along with convergence results, and a dual approach to the solution of the strictly convex subproblems is described. The performance of the algorithm is illustrated with two numerical examples  
+Keywords
+Tkaffic Assignment, Convex Multi-Commodity Network Flows, Feasible Direction Methods, Frank-Wolfe Algorithm, Partial Linearization, Lagrangean Duality, Coordinate Ascent 

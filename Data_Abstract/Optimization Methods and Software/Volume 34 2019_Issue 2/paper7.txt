@@ -1,0 +1,6 @@
+Diagonal bundle method with convex and concave updates for large-scale nonconvex and nonsmooth optimization
+N. Karmitsa;M. Gaudioso;K. Joki;
+Abstract
+Nonsmooth optimization is traditionally based on convex analysis and most solution methods rely strongly on the convexity of the problem. In this paper, we propose an efficient diagonal bundle method for nonconvex large-scale nonsmooth optimization. The novelty of the new method is in different usage of metrics depending on the convex or concave behaviour of the objective at the current iteration point. The usage of different metrics gives us a possibility to better deal with the nonconvexity of the problem than the sole—the most commonly used and quite arbitrary—downward shifting of the piecewise linear model does. The convergence of the proposed method is proved for semismooth functions that are not necessarily differentiable nor convex. The numerical experiments have been made using problems with up to one million variables. The results to be presented confirm the usability of the new method.
+Keywords
+Nondifferentiable optimization, nonconvex problems, bundle methods, diagonal variable metric updatesAMS Subject Classification: 65K05, 90C06, 90C26, 90C53 

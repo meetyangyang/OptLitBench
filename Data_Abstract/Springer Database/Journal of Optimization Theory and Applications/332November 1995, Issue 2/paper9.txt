@@ -1,0 +1,6 @@
+Optimizing Lyapunov functions for systems with structured uncertainties
+A. Olas;
+Abstract
+The robust stability problem of a nominally linear system with nonlinear, time-varying structured perturbationsp j ,j=1,...,q, is considered. The system is of the form$$\dot x = A_N x + \sum\limits_{j = 1}^q {p_j A_j x} .$$ When the Lyapunov direct method is utilized to solve the problem, the most frequently chosen Lyapunov function is some quadratic form. The paper presents a procedure of optimization of Lyapunov functions. Under some simple conditions, the weak convergence of the procedure is ensured, making the procedure effective in solving the robust stability problem. The procedure is simple, requiring only numerical routines such as inverting positive-definite symmetric matrices and determining the eigenvalues and eigenvectors of symmetric matrices. It is expected that the optimal Lyapunov function may be used in a robust linear feedback controller design. The examples demonstrate the effectiveness of the method. As shown when considering a system of dimension 24, the method is effective for large-scale systems.
+Keywords
+Lyapunov functions  uncertain systems  structured uncertainties  optimization  multidimensional systems  

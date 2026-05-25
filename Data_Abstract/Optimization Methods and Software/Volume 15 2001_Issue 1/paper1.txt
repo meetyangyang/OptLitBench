@@ -1,0 +1,6 @@
+The Gauss-Newton direction in semidefinite programming  ∗  
+ Serge   Kruk ; Masakazu   Muramatsu ; Franz   Rendl ; Robert. J.   Vanderbei ; Henry   Wolkowicz ;
+Abstract
+ Most of the directions used in practical interior-point methods for semideinite programming try to follow the approach used in linear programming, i.e.f they are defined using the optimally conditions which are modified with a symmetrization of the perturbed complementarity conditions to allow for application of Newton's method. It is now understood that all the Moeteiro-Zhang family, which include, among others, the popular AHO, NT, HKM, Gu, and Toh directions, can be expressed as a scaling of the problem data and of the iterate followed by the solution of the AHO system of equations, followed by the inverse scaling. All these directions therefore share a defining system of equations. The focus of this work is to propose a defining system of equations that is essentially different from the AHO system: the over-determined system obtained from the minimization of a nonlinear equation. The resulting solution is called the Gauss-Newton 
+Keywords
+ 

@@ -1,0 +1,6 @@
+A Simplicial Algorithm for Stationary Point Problems on Polytopes
+A. J. J. Talman;Y. Yamamoto;
+Abstract
+A simplicial variable dimension restart algorithm for the stationary point problem or variational inequality problem on a polytope is proposed. Given a polytope C in ℝn and a continuous function f: C → ℝn, find a point ◯ in C such that f(◯) · ◯ ≥ f(◯) · x for any point x in C. Starting from an arbitrary point v in C, the algorithm generates a piecewise linear path of points in C. This path is followed by alternating linear programming pivot steps to follow a linear piece of the path and replacement steps in a simplicial subdivision of C. Within a finite number of function evaluations and linear programming pivot steps the algorithm finds an approximate stationary point. The algorithm leaves the starting point v along a ray pointing to one of the vertices w of C. The vertex w is obtained from the optimum solution of the linear programming problem maximize f(v) · x subject to x ∈ C.
+Keywords
+stationary point variational inequality simplicial algorithm piecewise linear approximation triangulation 

@@ -1,0 +1,6 @@
+Exterior point algorithms for nearest points and convex quadratic programs
+K. S. Al-Sultan;K. G. Murty;
+Abstract
+We consider the problem of finding the nearest point (by Euclidean distance) in a simplicial cone to a given point, and develop an exterior penalty algorithm for it. Each iteration in the algorithm consists of a single Newton step following a reduction in the value of the penalty parameter. Proofs of convergence of the algorithm are given. Various other versions of exterior penalty algorithms for nearest point problems in nonsimplicial polyhedral cones and for convex quadratic programs, all based on a single descent step following a reduction in the value of the penalty parameter per iteration, are discussed. The performance of these algorithms in large scale computational experiments is very encouraging. It shows that the number of iterations grows very slowly, if at all, with the dimension of the problem.
+Keywords
+Exterior penalty function methods  nearest point problems  convex quadratic programs  Newton step  SOR methods  

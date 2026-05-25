@@ -1,0 +1,6 @@
+A generic auction algorithm for the minimum cost network flow problem
+Dimitri P. Bertsekas;David A. Castañon;
+Abstract
+In this paper we broadly generalize the assignment auction algorithm to solve linear minimum cost network flow problems. We introduce a generic algorithm, which contains as special cases a number of known algorithms, including the ε-relaxation method, and the auction algorithm for assignment and for transportation problems. The generic algorithm can serve as a broadly useful framework for the development and the complexity analysis of specialized auction algorithms that exploit the structure of particular network problems. Using this framework, we develop and analyze two new algorithms, an algorithm for general minimum cost flow problems, called network auction, and an algorithm for thek node-disjoint shortest path problem.
+Keywords
+Optimization  network programming  auction  transportation  

@@ -1,0 +1,6 @@
+Max Horn SAT and the minimum cut problem in directed hypergraphs
+G. Gallo;C. Gentile;D. Pretolani;G. Rago;
+Abstract
+In this paper we consider the Maximum Horn Satisfiability problem, which is reduced to the problem of finding a minimum cardinality cut on a directed hypergraph. For the latter problem, we propose different IP formulations, related to three different definitions of hyperpath weight. We investigate the properties of their linear relaxations, showing that they define a hierarchy. The weakest relaxation is shown to be equivalent to the relaxation of a well known IP formulation of Max Horn SAT, and to a max-flow problem on hypergraphs. The tightest relaxation, which is a disjunctive programming problem, is shown to have integer optimum. The intermediate relaxation consists in a set covering problem with a possible exponential number of constraints. This latter relaxation provides an approximation of the convex hull of the integer solutions which, as proven by the experimental results given, is much tighter than the one known in the literature. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Maximum satisfiability  Horn clauses  Directed hypergraphs  Minimum cut  Generalized set covering  

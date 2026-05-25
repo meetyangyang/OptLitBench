@@ -1,0 +1,6 @@
+Global optima for the Zhou–Rozvany problem
+Mathias Stolpe;Martin P. Bendsøe;
+Abstract
+We consider the minimum compliance topology design problem with a volume constraint and discrete design variables. In particular, our interest is to provide global optimal designs to a challenging benchmark example proposed by Zhou and Rozvany. Global optimality is achieved by an implementation of a local branching method in which the subproblems are solved by a special purpose nonlinear branch-and-cut algorithm. The convergence rate of the branch-and-cut method is improved by strengthening the problem formulation with valid linear inequalities and variable fixing techniques. With the proposed algorithms, we find global optimal designs for several values on the available volume. These designs can be used to validate other methods and heuristics for the considered class of problems.
+Keywords
+Topology optimization  Minimum compliance optimization  Global optimization  Local branching  Branch-and-cut  

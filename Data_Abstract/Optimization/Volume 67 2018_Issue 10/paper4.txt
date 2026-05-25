@@ -1,0 +1,6 @@
+A derivative-free three-term projection algorithm involving spectral quotient for solving nonlinear monotone equations
+Gao Peiting;He Chuanjiang;
+Abstract
+In this paper, we develop a three-term conjugate gradient method involving spectral quotient, which always satisfies the famous Dai-Liao conjugacy condition and quasi-Newton secant equation, independently of any line search. This new three-term conjugate gradient method can be regarded as a variant of the memoryless Broyden-Fletcher-Goldfarb-Shanno quasi-Newton method with regard to spectral quotient. By combining this method with the projection technique proposed by Solodov and Svaiter in 1998, we establish a derivative-free three-term projection algorithm for dealing with large-scale nonlinear monotone system of equations. We prove the global convergence of the algorithm and obtain the R-linear convergence rate under some mild conditions. Numerical results show that our projection algorithm is effective and robust, and is more competitive with the TTDFP algorithm proposed Liu and Li [A three-term derivative-free projection method for nonlinear monotone system of equations. Calcolo. 2016;53:427–450].
+Keywords
+Nonlinear monotone equations, projection method, spectral quotient, global convergence 

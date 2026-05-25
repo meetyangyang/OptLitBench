@@ -1,0 +1,6 @@
+Performance influences on metamodelling for aerodynamic surrogate-based optimization of an aerofoil
+D. Viúdez-Moreiras;
+Abstract
+It is now common in aerospace design to build and adapt a surrogate model to use during optimization. This process starts with a training stage based on an initial database of high-fidelity results. However, it is difficult to have a priori knowledge of the database size necessary to achieve a particular level of accuracy. Thus, many optimization processes, such as aerodynamic optimization, start with a large number of initial cases, which usually implies long computational times on high-performance computers. This article identifies and analyses key variables which influence the surrogate performance, as applied to the aerodynamic optimization of an aerofoil, such as the database size, the number of geometric design parameters, variation from the baseline geometry, Reynolds number and angle of attack. Their relationship is explored by means of sensitivity analysis and a multivariable polynomial model, and general guidelines for the selection of the most suitable database size are presented.
+Keywords
+Surrogate modelling, kriging, computational fluid dynamics, aerodynamic optimization, aerofoil coefficients prediction 

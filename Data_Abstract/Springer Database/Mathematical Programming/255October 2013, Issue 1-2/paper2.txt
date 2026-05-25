@@ -1,0 +1,6 @@
+A branch-and-cut algorithm for the maximum benefit Chinese postman problem
+Ángel Corberán;Isaac Plana;Antonio M. Rodríguez-Chía;José M. Sanchis;
+Abstract
+The Maximum Benefit Chinese Postman Problem (MBCPP) is an NP-hard problem that considers several benefits associated with each edge, one for each time the edge is traversed with a service. The objective is to find a closed walk with maximum benefit. We propose an IP formulation for the undirected MBCPP and, based on the description of its associated polyhedron, we propose a branch-and-cut algorithm and present computational results on instances with up to 1,000 vertices and 3,000 edges.
+Keywords
+Chinese postman problem  Maximum benefit Chinese postman problem  Rural postman problem  Facets  Branch-and-cut  90C57  90C27  

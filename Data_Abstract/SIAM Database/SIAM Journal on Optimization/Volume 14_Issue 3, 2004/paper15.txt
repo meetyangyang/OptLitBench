@@ -1,0 +1,6 @@
+Rigorous Lower and Upper Bounds in Linear Programming
+Christian  Jansson;
+Abstract
+We consider the computation of rigorous lower and upper error bounds for the optimal value of linear programming problems. The input data of the lp-problem may be exactly given or may vary between given lower and upper bounds. The results are then verified for the family of lp-problems with input data inside these bounds. In many cases only a small computational effort is required. For problems with finite simple bounds, the rigorous lower bound of the optimal value can be computed with O(n2 ) operations. The error bounds can be used as well to perform a sensitivity analysis, provided the width of the uncertainties is not too large. Some numerical examples are presented.
+Keywords
+linear programming, interval arithmetic, rigorous error bounds, sensitivity analysis, 90C05, 65G30, 65N15, 

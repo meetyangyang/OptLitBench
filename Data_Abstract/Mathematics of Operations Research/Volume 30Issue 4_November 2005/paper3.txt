@@ -1,0 +1,6 @@
+Minimizing Makespan in No-Wait Job Shops
+Nikhil Bansal;Mohammad Mahdian;Maxim Sviridenko;
+Abstract
+In this paper, we study polynomial time approximation schemes (PTASes) for the no-wait job shop scheduling problem with the makespan objective function. It is known that the problem is MaxSNP-hard in the case when each job is allowed to have three operations or more. We show that if each job has at most two operations, the problem admits a PTAS if the number of machines is a constant (i.e., not part of the input). If the number of machines is not a constant, we show that the problem is hard to approximate within a factor better than 5/4.
+Keywords
+approximation algorithms no-wait job shop scheduling 

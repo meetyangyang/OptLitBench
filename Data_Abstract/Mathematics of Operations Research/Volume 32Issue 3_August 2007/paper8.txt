@@ -1,0 +1,6 @@
+Algorithms for Single-Item Lot-Sizing Problems with Constant Batch Size
+Mathieu Van Vyve;
+Abstract
+The main result of this paper is an O(n3) algorithm for the single-item lot-sizing problem with constant batch size and backlogging. We consider a general number of installable batches, i.e., in each time period t we may produce up to mt batches, where the mt are given and time-dependent. This generalizes earlier results as we consider backlogging and a general number of maximum batches. We also give faster algorithms for three special cases of this general problem. When backlogging is not allowed and the costs satisfy the Wagner-Whitin property, the problem is solvable in O(n2 log n) time. When the production in each period is required to be either zero or equal to the installed capacity, it is possible to solve the problem with and without backlogging in O(n2) and O(n log n) time, respectively.
+Keywords
+capacitated lot-sizing complexity 

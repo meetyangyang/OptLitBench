@@ -1,0 +1,6 @@
+Optimal-tuning PID control of adaptive materials for structural efficiency
+Ugo Andreaus;Michele Colloca;Daniela Iacoviello;Marcello Pignataro;
+Abstract
+The objective of this paper was solving the optimization problem of lightweight stiffened structures modelled as a two-dimensional domain in an efficient computational way. The underlying premise was that mass should be distributed in an efficient way, so as to use a minimum amount of material to accomplish the mechanical function. This premise was expressed as a global, multi-objective optimization problem in which stiffness and mass were conflicting objectives. Alternative local evolution rules were implemented to update mass density or Young’s modulus at each step of the iterative procedure. The solution of the structural optimization problem was accomplished by a novel automatic procedure consisting of two consecutive stages of control and optimization. In the first stage of Proportional Integral Derivative (PID) control gains were manually selected whereas in the second stage the finding of optimal values of control gains, target, and cost indices was allowed. In this study a bone-like material was adopted and a thin slab was analysed as a sample problem.
+Keywords
+Control  Optimization  Finite element method  Lightweight stiffened structures  Local evolution rules  Thin slab  

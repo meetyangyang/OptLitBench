@@ -1,0 +1,6 @@
+Single scale wavelet approximations in layout optimization
+G. C. A. DeRoseJr.;A. R. Díaz;
+Abstract
+The standard structural layout optimization problem in 2D elasticity is solved using a wavelet based discretization of the displacement field and of the spatial distribution of material. A fictitious domain approach is used to embed the original design domain within a simpler domain of regular geometry. A Galerkin method is used to derive discretized equations, which are solved iteratively using a preconditioned conjugate gradient algorithm. A special preconditioner is derived for this purpose. The method is shown to converge at rates that are essentially independent of discretization size, an advantage over standard finite element methods, whose convergence rate decays as the mesh is refined. This new approach may replace finite element methods in very large scale problems, where a very fine resolution of the shape is needed. The derivation and examples focus on 2D-problems but extensions to 3D should involve only few changes in the essential features of the procedure.
+Keywords
+Finite Element Method  Conjugate Gradient Algorithm  Preconditioned Conjugate Gradient  Layout Optimization  Scale Wavelet  

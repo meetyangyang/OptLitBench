@@ -1,0 +1,6 @@
+Extending the QCR method to general mixed-integer programs
+Alain Billionnet;Sourour Elloumi;Amélie Lambert;
+Abstract
+Let (MQP) be a general mixed integer quadratic program that consists of minimizing a quadratic function subject to linear constraints. In this paper, we present a convex reformulation of (MQP), i.e. we reformulate (MQP) into an equivalent program, with a convex objective function. Such a reformulation can be solved by a standard solver that uses a branch and bound algorithm. We prove that our reformulation is the best one within a convex reformulation scheme, from the continuous relaxation point of view. This reformulation, that we call MIQCR (Mixed Integer Quadratic Convex Reformulation), is based on the solution of an SDP relaxation of (MQP). Computational experiences are carried out with instances of (MQP) including one equality constraint or one inequality constraint. The results show that most of the considered instances with up to 40 variables can be solved in 1 h of CPU time by a standard solver.
+Keywords
+General integer programming  Mixed-integer programming  Quadratic programming  Convex reformulation  Semi-definite programming  Experiments  90C11 Mixed integer programming  90C20 Quadratic programming  90C22 Semidefinite programming  90C26 Nonconvex programming  

@@ -1,0 +1,6 @@
+A Unifying Approximate Dynamic Programming Model for the Economic Lot Scheduling Problem
+Daniel Adelman;Christiane Barz;
+Abstract
+We formulate the well-known economic lot scheduling problem (ELSP) with sequence-dependent setup times and costs as a semi-Markov decision process. Using an affine approximation of the bias function, we obtain a semi-infinite linear program determining a lower bound for the minimum average cost rate. Under a very mild condition, we can reduce this problem to a relatively small convex quadratically constrained linear problem by exploiting the structure of the objective function and the state space. This problem is equivalent to the lower bound problem derived by Dobson [Dobson G (1992) The cyclic lot scheduling problem with sequence-dependent setups. Oper. Res. 40:736–749] and reduces to the well-known lower bound problem introduced in Bomberger [Bomberger EE (1966) A dynamic programming approach to a lot size scheduling problem. Management Sci. 12:778–784] for sequence-dependent setups. We thus provide a framework that unifies previous work, and opens new paths for future research on tighter lower bounds and dynamic heuristics.
+Keywords
+economic lot scheduling problem sequence-dependent setups semi-Markov decision process approximate dynamic programming 

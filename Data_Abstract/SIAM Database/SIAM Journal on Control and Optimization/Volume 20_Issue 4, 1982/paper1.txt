@@ -1,0 +1,5 @@
+A Subgradient Algorithm for Certain Minimax and Minisum Problems—The Constrained Case
+Jacques  Chatelon, Donald  Hearn, and Timothy J.  Lowe;
+Abstract
+We present an implementable feasible direction subgradient algorithm for minimizing the maximum of a finite collection of functions subject to constraints. It is assumed that each function involved in defining the objective function is the sum of a finite collection of basic convex functions and that the number of different subgradient sets associated with nondifferentiable points of each basic function is finite on any bounded set. Problems involving functions of $l_p$-norms, such as location and approximation problems, can be put in this form. Conditions are given which guarantee that the algorithm generates a feasible sequence converging to an optimal solution. The results of computational tests on some location problems are included. In these tests we explore the sensitivity of the algorithm to its parameters.
+Keywords

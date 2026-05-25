@@ -1,0 +1,6 @@
+Dynamic Programming and Error Estimates for Stochastic Control Problems with Maximum Cost
+Olivier Bokanowski;Athena Picarelli;Hasnaa Zidani;
+Abstract
+This work is concerned with stochastic optimal control for a running maximum cost. A direct approach based on dynamic programming techniques is studied leading to the characterization of the value function as the unique viscosity solution of a second order Hamilton–Jacobi–Bellman (HJB) equation with an oblique derivative boundary condition. A general numerical scheme is proposed and a convergence result is provided. Error estimates are obtained for the semi-Lagrangian scheme. These results can apply to the case of lookback options in finance. Moreover, optimal control problems with maximum cost arise in the characterization of the reachable sets for a system of controlled stochastic differential equations. Some numerical simulations on examples of reachable analysis are included to illustrate our approach.
+Keywords
+Hamilton–Jacobi equations  Oblique Neuman boundary condition  Error estimate  Viscosity notion  Reachable sets under state constraints  Lookback options  Maximum cost  49J20  49L25  65M15  35K55  

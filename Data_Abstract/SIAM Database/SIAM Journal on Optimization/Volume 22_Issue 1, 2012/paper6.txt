@@ -1,0 +1,6 @@
+On the Solution of the GPS Localization and Circle Fitting Problems
+Amir  Beck and Dror  Pan;
+Abstract
+We consider the problem of locating a user's position from a set of noisy pseudoranges to a group of satellites. We consider both the nonlinear least squares formulation of the problem, which is nonconvex and nonsmooth, and the nonlinear squared least squares variant, in which the objective function is smooth, but still nonconvex. We show that the squared least squares problem can be reformulated as a generalized trust region subproblem and as such can be solved efficiently. Conditions for attainment of the optimal solutions of both problems are derived. The nonlinear least squares problem is shown to have tight connections to the well-known geometric circle fitting and orthogonal regression problems. Finally, a fixed point method for the nonlinear least squares formulation is derived and analyzed.
+Keywords
+GPS localization, nonconvex optimization, nonlinear least squares, generalized trust region subproblem, existence of optimal solutions, 90C26, 90C90, 

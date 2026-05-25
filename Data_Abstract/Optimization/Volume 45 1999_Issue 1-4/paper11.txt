@@ -1,0 +1,6 @@
+Path planning for robots under stochastic uncertainty *  
+   K.   Marti ;
+Abstract
+ In order to reduce large online measurement and correction expenses, the a priori informations on the random variations of the model parameters of a robot and its working environment are taken into account already at the planning stage. Thus, instead of solving a deterministic path planning problem with a fixed nominal parameter vector, here, the optimal velocity profile along a given trajectory in work space is determined by using a stochastic optimization approach. Especially, the standard polygon of constrained motion-depending on the nominal parameter vector-is replaced by a more general set of admissible motion determined by chance constraints or more general risk constraints. Robust values (with respect to stochastic parameter variations) of the maximum, minimum velocity, acceleration, deceleration, resp., can be obtained then by solving a univariate stochastic optimization problem Considering the fields of extremal trajectories, the minimum-time path planning problem under stochastic uncertainty can be solved now by standard optimal deterministic path planning methods  
+Keywords
+Optimal Path Planning for Robots, Stochastic Optimization, Robust Control, Set of Admissible Motion 

@@ -1,0 +1,6 @@
+A spectral bundle method with bounds
+C. Helmberg;K.C. Kiwiel;
+Abstract
+Semidefinite relaxations of quadratic 0-1 programming or graph partitioning problems are well known to be of high quality. However, solving them by primal-dual interior point methods can take much time even for problems of moderate size. The recent spectral bundle method of Helmberg and Rendl can solve quite efficiently large structured equality-constrained semidefinite programs if the trace of the primal matrix variable is fixed, as happens in many applications. We extend the method so that it can handle inequality constraints without seriously increasing computation time. In addition, we introduce inexact null steps. This abolishes the need of computing exact eigenvectors for subgradients, which brings along significant advantages in theory and in practice. Encouraging preliminary computational results are reported.
+Keywords
+Key words. eigenvalue optimization – convex optimization – semidefinite programming – proximal bundle method – large-scale problems  Mathematics Subject Classification (1991): 65F15, 90C25; Secondary 52A41, 90C06  

@@ -1,0 +1,6 @@
+Structure of a simple scheduling polyhedron
+Maurice Queyranne;
+Abstract
+In a one-machine nonpreemptive scheduling problem, the feasible schedules may be defined by the vector of the corresponding job completion times. For given positive processing times, the associated simple scheduling polyhedronP is the convex hull of these feasible completion time vectors. The main result of this paper is a complete description of the minimal linear system definingP. We also give a complete, combinatorial description of the face lattice ofP, and a simple, O(n logn) separation algorithm. This algorithm has potential usefulness in cutting plane type algorithms for more difficult scheduling problems.
+Keywords
+Scheduling polyhedron  polyhedra  scheduling  

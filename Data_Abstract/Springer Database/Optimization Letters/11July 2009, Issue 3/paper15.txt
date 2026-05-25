@@ -1,0 +1,6 @@
+Implicitly and densely discrete black-box optimization problems
+Luis Nunes Vicente;
+Abstract
+This paper addresses derivative-free optimization problems where the variables lie implicitly in an unknown discrete closed set. The evaluation of the objective function follows a projection onto the discrete set, which is assumed dense (and not sparse as in integer programming). Such a mathematical setting is a rough representation of what is common in many real-life applications where, despite the continuous nature of the underlying models, a number of practical issues dictate rounding of values or projection to nearby feasible figures. We discuss a definition of minimization for these implicitly discrete problems and outline a direct-search algorithm framework for its solution. The main asymptotic properties of the algorithm are analyzed and numerically illustrated.
+Keywords
+Derivative-free optimization  (dense) Discrete optimization  Direct search  Projection  Rounding  Location  Grids  

@@ -1,0 +1,6 @@
+Structural topology optimization for multiple load cases using a dynamic aggregation technique
+ Kai   A.   James ; Jorn   S.   Hansen ; Joaquim R.R.A.   Martins ;
+Abstract
+ A series of techniques is presented for overcoming some of the numerical instabilities associated with SIMP materials. These techniques are combined to create a robust topology optimization algorithm designed to be able to accommodate a large suite of problems that more closely resemble those found in industry applications. A variant of the Kreisselmeier–Steinhauser (KS) function in which the aggregation parameter is dynamically increased over the course of the optimization is used to handle multi-load problems. Results from this method are compared with those obtained using the bound formulation. It is shown that the KS aggregation method produces results superior to those of the bound formulation, which can be highly susceptible to local minima. Adaptive mesh-refinement is presented as a means of addressing the mesh-dependency problem. It is shown that successive mesh-refinement cycles can generate smooth, well-defined structures, and when used in combination with nine-node elements, virtually eliminate checkerboarding and flexural hinges. 
+Keywords
+topology optimization, Kreisselmeier–Steinhauser function, adaptive mesh refinement, multiple load cases 

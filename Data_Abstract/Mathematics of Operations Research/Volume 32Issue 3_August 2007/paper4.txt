@@ -1,0 +1,6 @@
+Hilbert-Valued Perturbed Subgradient Algorithms
+Kengy Barty;Jean-Sébastien Roy;Cyrille Strugarek;
+Abstract
+We propose a Hilbert-valued perturbed subgradient algorithm with stochastic noises, and we provide a convergence proof for this algorithm under classical assumptions on the descent direction and new assumptions on the stochastic noises. Instead of requiring the stochastic noises to correspond to martingale increments, we only require these noises to be asymptotically so. Furthermore, the variance of these noises is allowed to grow infinitely under the control of a decreasing sequence linked with the subgradient stepsizes. This algorithm can be used to solve stochastic closed-loop control problems without any a priori discretization of the uncertainty, such as linear decision rules or tree representations. It can also be used as a way to perform stochastic dynamic programming without state-space discretization or a priori functional bases (i.e., approximate dynamic programming). Both problems arise frequently—for example, in power systems scheduling or option pricing. This article focuses on the theorical foundations of the algorithm, and gives references to detailed practical experimentations.
+Keywords
+stochastic quasigradient perturbed subgradient infinite dimensional problems nonsmooth optimization 

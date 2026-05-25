@@ -1,0 +1,6 @@
+A new approach to the weighted peak-constrained least-square error FIR digital filter optimal design problem
+Liping Zhang;Soon-Yi Wu;
+Abstract
+This paper deals with the design of linear-phase finite impulse response (FIR) digital filters using weighted peak-constrained least-squares (PCLS) optimization. The PCLS error design problem is formulated as a quadratically constrained quadratic semi-infinite programming problem. An exchange algorithm with a new exchange rule is proposed to solve the problem. The algorithm provides the approximate optimal solution after a finite number of iterations. In particular, the subproblem solved at each iteration is a quadratically constrained quadratic programming. We can rewrite it as a conic optimization problem solvable in polynomial time. For illustration, numerical examples are solved using the proposed algorithm.
+Keywords
+FIR filter design  Optimization  Semi-infinite programming  Conic optimization  

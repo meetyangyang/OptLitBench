@@ -1,0 +1,6 @@
+Numerical Approximation for a Portfolio Optimization Problem Under Liquidity Risk and Costs
+M’hamed Gaigi;Vathana Ly Vath;Mohamed Mnif;Salwa Toumi;
+Abstract
+This paper concerns with numerical resolution of an impulse control problem under state constraints arising from optimal portfolio selection under liquidity risk and price impact. We show that the value function could be obtained as the limit of an iterative procedure where each step is an optimal stopping problem and the reward function is related to the impulse operator. Given the dimension of our problem and the complexity of its solvency region, we use a numerical approximation algorithm based on quantization procedure instead of finite difference methods to calculate the value function, the transaction and no-transaction regions. We also focus on the convergence of our numerical scheme, in particular, we show that it satisfies monotonicity, stability and consistency properties. We further enrich our studies with some numerical results for the optimal transaction strategy.
+Keywords
+Impulse control problem  Optimal transaction strategy  Quantization method  Viscosity solution  93E20  65C05  91B28  60H30  

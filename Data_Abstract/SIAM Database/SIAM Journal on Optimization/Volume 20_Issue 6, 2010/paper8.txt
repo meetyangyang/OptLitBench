@@ -1,0 +1,6 @@
+An Optimal Algorithm for Minimization of Quadratic Functions with Bounded Spectrum Subject to Separable Convex Inequality and Linear Equality Constraints
+Zdeněk  Dostál and Radek  Kučera;
+Abstract
+An, in a sense, optimal algorithm for minimization of quadratic functions subject to separable convex inequality and linear equality constraints is presented. Its unique feature is an error bound in terms of bounds on the spectrum of the Hessian of the cost function. If applied to a class of problems with the spectrum of the Hessians in a given positive interval, the algorithm can find approximate solutions in a uniformly bounded number of simple iterations, such as matrix-vector multiplications. Moreover, if the class of problems admits a sparse representation of the Hessian, it simply follows that the cost of the solution is proportional to the number of unknowns. Theoretical results are illustrated by numerical experiments.
+Keywords
+quadratic function, separable convex constraints, active set, augmented Lagrangian, gradient projections, convergence rate, optimality, 65K05, 90C25, 90C06, 

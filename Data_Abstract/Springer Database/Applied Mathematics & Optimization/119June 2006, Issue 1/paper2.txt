@@ -1,0 +1,7 @@
+A Strongly and Superlinearly Convergent SQP Algorithm for Optimization Problems with Linear Complementarity Constraints
+Jin-Bao Jian;Jian-Ling Li;Xing-De Mo;
+Abstract
+This paper discusses a kind of optimization problem with linear complementarity constraints, and presents a sequential quadratic programming  (SQP) algorithm for solving a stationary point of the problem. The algorithm is a modification of the SQP algorithm proposed  by Fukushima et al. [Computational Optimization and Applications, 10 (1998),
+5-34], and   is based on a reformulation of complementarity condition as a system of linear equations. At each iteration, one quadratic programming and one system of equations needs to be solved, and a curve search is used to yield the step size. Under some appropriate  assumptions, including the lower-level strict complementarity, but without the upper-level strict complementarity for the inequality constraints, the algorithm is proved to possess strong convergence and superlinear convergence. Some preliminary numerical results are reported.
+Keywords
+Accumulation Point  Sequential Quadratic Programming  Linear Complementarity Problem  Superlinear Convergence  Complementarity Constraint  

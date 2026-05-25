@@ -1,0 +1,6 @@
+Feasible Direction Algorithm for Optimal Control Problems with State and Control Constraints: Implementation
+R. Pytlak;R. B. Vinter;
+Abstract
+In this paper, we describe the implementation aspects of an optimization algorithm for optimal control problems with control, state, and terminal constraints presented in our earlier paper. The important aspect of the implementation is that, in the direction-finding subproblems, it is necessary only to impose the state constraint at relatively few points in the time involved. This contributes significantly to the algorithmic efficiency. The algorithm is applied to solve several optimal control problems, including the problem of the abort landing of an aircraft in the presence of windshear.
+Keywords
+Optimal control  state-constrained problems  numerical algorithms  

@@ -1,0 +1,6 @@
+The projective method for solving linear matrix inequalities
+Pascal Gahinet;Arkadi Nemirovski;
+Abstract
+Numerous problems in control and systems theory can be formulated in terms of linear matrix inequalities (LMI). Since solving an LMI amounts to a convex optimization problem, such formulations are known to be numerically tractable. However, the interest in LMI-based design techniques has really surged with the introduction of efficient interior-point methods for solving LMIs with a polynomial-time complexity. This paper describes one particular method called the Projective Method. Simple geometrical arguments are used to clarify the strategy and convergence mechanism of the Projective algorithm. A complexity analysis is provided, and applications to two generic LMI problems (feasibility and linear objective minimization) are discussed.
+Keywords
+Linear matrix inequalities  Semidefinite programming  Interior point methods  

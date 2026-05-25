@@ -1,0 +1,6 @@
+An interior point potential reduction method for constrained equations
+Tao Wang;Renato D. C. Monteiro;Jong-Shi Pang;
+Abstract
+We study the problem of solving a constrained system of nonlinear equations by a combination of the classical damped Newton method for (unconstrained) smooth equations and the recent interior point potential reduction methods for linear programs, linear and nonlinear complementarity problems. In general, constrained equations provide a unified formulation for many mathematical programming problems, including complementarity problems of various kinds and the Karush-Kuhn-Tucker systems of variational inequalities and nonlinear programs. Combining ideas from the damped Newton and interior point methods, we present an iterative algorithm for solving a constrained system of equations and investigate its convergence properties. Specialization of the algorithm and its convergence analysis to complementarity problems of various kinds and the Karush-Kuhn-Tucker systems of variational inequalities are discussed in detail. We also report the computational results of the implementation of the algorithm for solving several classes of convex programs.
+Keywords
+Constrained equations  Interior point methods  Potential reduction  Complementarity problem  Variational inequality  Convex programs  

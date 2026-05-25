@@ -1,0 +1,6 @@
+Compositional Verification in Supervisory Control
+Hugo  Flordal and Robi  Malik;
+Abstract
+This paper proposes a compositional approach to verifying whether a large discrete event system is nonblocking. The new approach avoids computing the synchronous product of a large set of finite-state machines. Instead, the synchronous product is computed gradually, and intermediate results are simplified using conflict-preserving abstractions based on process-algebraic results about fair testing. Heuristics are used to choose between different possible abstractions. By translating the problem representation, the same method can also be applied to verify safety properties, in particular, controllability. Experimental results show that the method is applicable to finite-state machine models of industrial scale and brings considerable improvements in performance over other methods for nonblocking verification.
+Keywords
+discrete-event systems, supervisory control, nonblocking, model checking, 93C65, 68Q60, 

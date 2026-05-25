@@ -1,0 +1,6 @@
+An Interior Point Heuristic for the Hamiltonian Cycle Problem via Markov Decision Processes
+Vladimir Ejov;Jerzy Filar;Jacek Gondzio;
+Abstract
+We consider the Hamiltonian cycle problem embedded in a singularly perturbed Markov decision process (MDP). More specifically, we consider the HCP as an optimization problem over the space of long-run state-action frequencies induced by the MDP's stationary policies. We show that Hamiltonian cycles (if any) correspond to the global minima of a suitably constructed indefinite quadratic programming problem over the frequency space. We show that the above indefinite quadratic can be approximated by quadratic functions that are `nearly convex' and as such suitable for the application of logarithmic barrier methods. We develop an interior-point type algorithm that involves an arc elimination heuristic that appears to perform rather well in moderate size graphs. The approach has the potential for further improvements.
+Keywords
+Hamiltonian cycles  interior point methods  Markov decision processes  non-convex optimization  

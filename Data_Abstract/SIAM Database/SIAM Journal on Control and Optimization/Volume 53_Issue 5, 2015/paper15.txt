@@ -1,0 +1,6 @@
+Shape Optimization for Quadratic Functionals and States with Random Right-Hand Sides
+Marc  Dambrine, Charles  Dapogny, and Helmut  Harbrecht;
+Abstract
+We consider shape optimization problems under uncertainties on the input parameters. The presented theory applies to the minimization of the expectation of a quadratic objective for a state function that depends linearly on a random input parameter. It covers important objectives such as tracking-type functionals for elliptic second order partial differential equations and the compliance in linear elasticity. We show that the robust objective and its gradient are completely determined by low order moments of the random input. We derive a cheap, deterministic algorithm to minimize this objective and present model cases in structural optimization.
+Keywords
+shape optimization, random right-hand side, quadratic functional, 49Q10, 60H35, 65N75, 

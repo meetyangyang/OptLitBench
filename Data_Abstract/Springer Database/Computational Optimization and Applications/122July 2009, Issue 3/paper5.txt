@@ -1,0 +1,8 @@
+Towards auction algorithms for large dense assignment problems
+Libor Buš;Pavel Tvrdík;
+Abstract
+
+In this paper, we focus on the problem of solving large-scale instances of the linear sum assignment problem by auction algorithms. We introduce a modified auction algorithm, called look-back auction algorithm, which extends the forward auction algorithm by the ability of reusing information from previous bids. We show that it is able to reuse information from the previous bids with high efficiency for all tested types of input instances. We discuss then the design and implementation of a suite of sequential and distributed memory auction algorithms on a Linux cluster with the evaluation on several types of input instances of the linear sum assignment problem. Our results show that the look-back auction algorithm solves sequentially nearly all types of dense instances faster than other evaluated algorithms and it is more stable than the forward-reverse auction algorithm for sparse instances. Our distributed memory auction algorithms are fully memory scalable.
+
+Keywords
+Linear sum assignment problem  Auction algorithm  Linear optimization  Distributed algorithms  

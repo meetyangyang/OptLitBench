@@ -1,0 +1,6 @@
+On Knapsacks, Partitions, and a New Dynamic Programming Technique for Trees
+D. S. Johnson;K. A. Niemi;
+Abstract
+Let G be an acyclic directed graph with weights and values assigned to its vertices. In the partially ordered knapsack problem we wish to find a maximum-valued subset of vertices whose total weight does not exceed a given knapsack capacity, and which contains every predecessor of a vertex if it contains the vertex itself. We consider the special case where G is an out-tree. Even though this special case is still NP-complete, we observe how dynamic programming techniques can be used to construct pseudopolynomial time optimization algorithms and fully polynomial time approximation schemes for it. In particular, we show that a nonstandard approach we call “left-right” dynamic programming is better suited for this problem than the standard “bottom-up” approach, and we show how this “left-right” approach can also be adapted to the case of in-trees and to a related tree partitioning problem arising in integrated circuit design. We conclude by presenting complexity results which indicate that similar success cannot be expected with either problem when the restriction to trees is lifted.
+Keywords
+Knapsack problem out-tree in-tree tree partitioning 

@@ -1,0 +1,6 @@
+Enhanced intersection cutting-plane approach for linear complementarity problems
+H. D. Sherali;R. S. Krishnamurthy;F. A. Al-Khayyal;
+Abstract
+In this paper, we develop an enhanced intersection cutting-plane algorithm for solving a mixed integer 0–1 bilinear programming formulation of the linear complementarity problem (LCP). The matrixM associated with the LCP is not assumed to possess any special structure, except that the corresponding feasible region is assumed to be bounded. A procedure is described to generate cuts that are deeper versions of the Tuy intersection cuts, based on a relaxation of the usual polar set. The proposed algorithm then attempts to find an LCP solution in the process of generating either a single or a pair of such strengthened intersection cuts. The process of generating these cuts involves a vertexranking scheme that either finds an LCP solution, or else these cuts eliminate the entire feasible region leading to the conclusion that no LCP solution exists. Computational experience on various test problems is provided.
+Keywords
+Linear complementarity problems  bilinear programming  nonconvex programming  cutting planes  intersection cuts  vertex ranking  

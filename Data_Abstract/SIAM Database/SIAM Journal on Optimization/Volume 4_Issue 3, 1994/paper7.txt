@@ -1,0 +1,6 @@
+Partial Proximal Minimization Algorithms for Convex Pprogramming
+Dimitri P.  Bertsekas and Paul  Tseng;
+Abstract
+An extension of the proximal minimization algorithm is considered where only some of the minimization variables appear in the quadratic proximal term. The resulting iterates are interpreted in terms of the iterates of the standard algorithm, and a uniform descent property is shown that holds independently of the proximal terms used. This property is used to give simple convergence proofs of parallel algorithms where multiple processors simultaneously execute proximal iterations using different partial proximal terms. It is also shown that partial proximal minimization algorithms are dual to multiplier methods with partial elimination of constraints, and a relation is established between parallel proximal minimization algorithms and parallel constraint distribution algorithms.
+Keywords
+proximal minimization, duality, augmented Lagrangian, mathematical programming, 90C47, 90C05, 

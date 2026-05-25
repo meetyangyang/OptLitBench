@@ -1,0 +1,4 @@
+A Comparative Study of MIP and CP Formulations for the B2B Scheduling Optimization Problem
+Gilles Pesant;Gregory Rix;Louis-Martin Rousseau;
+Abstract
+The Business-to-Business Meeting Scheduling Problem was recently introduced to this community. It consists of scheduling meetings between given pairs of participants to an event while taking into account participant availability and accommodation capacity. The challenging aspect of this problem is that breaks in a participant’s schedule should be avoided as much as possible. In an earlier paper, starting from two generic CP and Pseudo-Boolean formulations, several solving approaches such as CP, ILP, SMT, and lazy clause generation were compared on real-life instances. In this paper we use this challenging problem to study different formulations adapted either for MIP or CP solving, showing that the cost_regular global constraint can be quite useful, both in MIP and CP, in capturing the problem structure.

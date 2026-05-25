@@ -1,0 +1,6 @@
+On the complexity of a class of combinatorial optimization problems with uncertainty
+Igor Averbakh;
+Abstract
+We consider a robust (minmax-regret) version of the problem of selecting p elements of minimum total weight out of a set of m elements with uncertainty in weights of the elements. We present a polynomial algorithm with the order of complexity O((min {p,m-p})2m) for the case where uncertainty is represented by means of interval estimates for the weights. We show that the problem is NP-hard in the case of an arbitrary finite set of possible scenarios, even if there are only two possible scenarios. This is the first known example of a robust combinatorial optimization problem that is NP-hard in the case of scenario-represented uncertainty but is polynomially solvable in the case of the interval representation of uncertainty.
+Keywords
+Key words: polynomial algorithm – complexity – robust optimization  

@@ -1,0 +1,6 @@
+Appointment Scheduling with Discrete Random Durations
+Mehmet A. Begen;Maurice Queyranne;
+Abstract
+We consider the problem of determining an optimal appointment schedule for a given sequence of jobs (e.g., medical procedures) on a single processor (e.g., operating room, examination facility, physician), to minimize the expected total underage and overage costs when each job has a random processing duration given by a joint discrete probability distribution. Simple conditions on the cost rates imply that the objective function is submodular and L-convex. Then there exists an optimal appointment schedule that is integer and can be found in polynomial time. Our model can handle a given due date for the total processing (e.g., end of day for an operating room) after which overtime is incurred, as well as no-shows and some emergencies.
+Keywords
+appointment scheduling discrete convexity optimization 

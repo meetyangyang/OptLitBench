@@ -1,0 +1,6 @@
+On the computation of protein backbones by using artificial backbones of hydrogens
+C. Lavor;A. Mucherino;L. Liberti;N. Maculan;
+Abstract
+NMR experiments provide information from which some of the distances between pairs of hydrogen atoms of a protein molecule can be estimated. Such distances can be exploited in order to identify the three-dimensional conformation of the molecule: this problem is known in the literature as the Molecular Distance Geometry Problem (MDGP). In this paper, we show how an artificial backbone of hydrogens can be defined which allows the reformulation of the MDGP as a combinatorial problem. This is done with the aim of solving the problem by the Branch and Prune (BP) algorithm, which is able to solve it efficiently. Moreover, we show how the real backbone of a protein conformation can be computed by using the coordinates of the hydrogens found by the BP algorithm. Formal proofs of the presented results are provided, as well as computational experiences on a set of instances whose size ranges from 60 to 6000 atoms.
+Keywords
+Distance geometry  Protein molecules  Hydrogen atoms  Combinatorial optimization  Branch and Prune  

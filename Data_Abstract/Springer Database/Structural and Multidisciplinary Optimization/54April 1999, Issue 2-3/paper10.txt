@@ -1,0 +1,6 @@
+Structural shape sensitivity analysis for nonlinear material models with strain softening
+G. Bugeda;L. Gil;E. Oñate;
+Abstract
+This paper describes some considerations around the analytical structural shape sensitivity analysis when the structural behaviour is computed using the finite element method with a nonlinear constitutive material model. Traditionally, the structural sensitivity analysis is computed using an incremental approach based on the incremental procedures for the solution of the structural equilibrium problem. In this work, a direct (nonincremental) formulation for computing these structural sensitivities, that is valid for some specific nonlinear material models, is proposed. The material models for which the presented approach is valid are characterized by the fact that the stresses at any timet can be expressed in terms of the strains at the timet and, in some cases, the strains at a specific past timet u  (t u <t). This is the case of elasticity (linear as well as nonlinear), perfect plasticity and damage models. A special strategy is also proposed for material models with strain softening.
+Keywords
+Sensitivity Analysis  Finite Element Method  Equilibrium Point  Material Model  Numerical Scheme  

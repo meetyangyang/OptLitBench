@@ -1,0 +1,4 @@
+Bender’s Cuts Guided Large Neighborhood Search for the Traveling Umpire Problem
+Michael A. Trick;Hakan Yildiz;
+Abstract
+This paper introduces the use of Bender’s Cuts to guide a Large Neighborhood Search to solve the Traveling Umpire Problem, a sports scheduling problem inspired by the real-life needs of the officials of a sports league. At each time slot, a Greedy Matching heuristic is used to construct a schedule. When an infeasibility is recognized Bender’s cuts are generated, which guides a Large Neighborhood Search to ensure feasibility and to improve the solution.

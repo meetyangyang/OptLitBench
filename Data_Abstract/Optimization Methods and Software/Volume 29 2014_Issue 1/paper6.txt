@@ -1,0 +1,6 @@
+Solving nonlinear equations with the Newton–Krylov method based on automatic differentiation
+Wei Xu;Thomas F. Coleman;
+Abstract
+The Jacobian-free Newton–Krylov method is widely used in solving nonlinear equations arising in many applications. However, an effective preconditioner is required for each iteration and determining such may be hard or expensive. In this article, we propose an efficient two-sided bicolouring method to determine the lower triangular half of the sparse Jacobian matrix via automatic differentiation. Then, with this lower triangular matrix, an effective preconditioner is constructed to accelerate the convergence of the Newton–Krylov method. The numerical experiments illustrate that the proposed bicolouring approach can be significantly more effective than the one-sided colouring method proposed in Cullum and ma [Matrix-free preconditioning using partial matrix estimation, BIT 46 (2006), pp. 711–729] and yields an effective preconditioning strategy.
+Keywords
+automatic differentiation, preconditioner iterative methods, nonlinear equation solvers, Newton method, intersection graphs, graph colouring 

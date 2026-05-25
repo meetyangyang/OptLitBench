@@ -1,0 +1,6 @@
+Topology optimization of density type for a linear elastic body by using the second derivative of a KS function with respect to von Mises stress
+Wares Chancharoen;Hideyuki Azegami;
+Abstract
+This study demonstrates the use of Newton method to solve topology optimization problems of density type for linear elastic bodies to minimize the maximum von Mises stress. We use the Kreisselmeier–Steinhauser (KS) function with respect to von Mises stress as a cost function to avoid the non-differentiability of the maximum von Mises stress. For the design variable, we use a function defined in the domain of a linear elastic body with no restriction on the range and assume that a density is given by a sigmoid function of the function of design variable. The main aim of this study involves evaluating the second derivative of the KS function with respect to variation of the design variable and to propose an iterative scheme based on an H1 Newton method as opposed to the H1 gradient method that was presented in previous studies. The effectiveness of the scheme is demonstrated by numerical results for several linear elastic problems. The numerical results show that the speed of the proposed H1 Newton method exceeds that of the H1 gradient method.
+Keywords
+Topology optimization  Stress concentration  Kreisselmeier–Steinhauser function  H1 gradient method  H1 Newton method  

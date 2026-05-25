@@ -1,0 +1,6 @@
+Error Analysis for POD Approximations of Infinite Horizon Problems via the Dynamic Programming Approach
+A.  Alla, M.  Falcone, and S.  Volkwein;
+Abstract
+In this paper infinite horizon optimal control problems for nonlinear high-dimensional dynamical systems are studied. Nonlinear feedback laws can be computed via the value function characterized as the unique viscosity solution to the corresponding Hamilton--Jacobi--Bellman (HJB) equation which stems from the dynamic programming approach. However, the bottleneck is mainly due to the curse of dimensionality, and HJB equations are  solvable only in a relatively small dimension. Therefore, a reduced-order model is derived for the dynamical system, using the method of proper orthogonal decomposition (POD). The resulting errors in the HJB equations are estimated by an a priori error analysis, which is utilized in the numerical approximation to ensure a desired accuracy for the POD method. Numerical experiments illustrates the theoretical findings.
+Keywords
+optimal control, nonlinear dynamical systems, Hamilton--Jacobi--Bellman equation, proper orthogonal decomposition, error analysis, 35K20, 49L20, 49L25, 49J20, 65N99, 

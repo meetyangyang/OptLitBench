@@ -1,0 +1,6 @@
+Capacity scaling algorithm for scalable M-convex submodular flow problems
+ Satoko   Moriguchi ; Kazuo   Murota ;
+Abstract
+ An M-convex function is a nonlinear discrete function defined on integer points introduced by Murota in 1996, and the M-convex submodular flow problem is one of the most general frameworks of efficiently solvable combinatorial optimization problems. It includes the minimum cost flow and the submodular flow problems as its special cases. In this paper, we first devise a successive shortest path algorithm for the M-convex submodular flow problem. We then propose an efficient algorithm based on a capacity scaling framework for the scalable M-convex submodular flow problem. Here an M-convex function [Formula: See Text] is said to be scalable if [Formula: See Text] is also M-convex for any positive integer [Formula: See Text] and any integer vector b. 
+Keywords
+Discrete Optimization, Discrete Convex Function, Submodular Flow, Algorithm 

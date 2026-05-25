@@ -1,0 +1,6 @@
+Estimating training data boundaries in surrogate-based modeling
+Luis E. Pineda;Benjamin J. Fregly;Raphael T. Haftka;Nestor V. Queipo;
+Abstract
+Using surrogate models outside training data boundaries can be risky and subject to significant errors. This paper presents a computationally efficient approach to estimate the boundaries of training data inputs in surrogate modeling using the Mahalanobis distance (MD). This distance can then be used as a threshold for deciding whether or not a particular prediction site is within the boundaries of the training data inputs, and has the potential of a likelihood/probabilistic interpretation. The approach is evaluated using two and four dimensional analytical restricted input spaces and a complex biomechanical six dimensional problem. The proposed approach: i) gives good approximations for the boundaries of the restricted input spaces, ii) exhibits reasonable error rates when classifying prediction sites as inside or outside known restricted input spaces and iii) reflects expected error trends for increasing values of the MDs similar to those obtained using a computationally expensive convex hull approach.
+Keywords
+Surrogate modeling  Training data boundaries  Mahalanobis distance  

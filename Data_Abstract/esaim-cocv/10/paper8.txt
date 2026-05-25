@@ -1,0 +1,6 @@
+Newton and conjugate gradient for harmonic maps from the disc into the sphere
+Morgan Pierre;
+Abstract
+We compute numerically the minimizers of the Dirichlet energy among maps  from the unit disc into the unit sphere that satisfy a boundary condition and a degree condition. We use a Sobolev gradient algorithm for the minimization and we prove that its continuous version preserves the degree. For the discretization of the problem we use continuous P1 finite elements. We propose an original mesh-refining strategy needed to preserve the degree with the discrete version of the algorithm (which is a preconditioned projected gradient). In order to improve the convergence, we generalize to manifolds the classical Newton and conjugate gradient algorithms. We give a proof of the quadratic convergence of the Newton algorithm for manifolds in a general setting.
+Keywords
+Harmonic maps, finite elements, mesh-refinement, Sobolev gradient, Newton algorithm, conjugate gradient

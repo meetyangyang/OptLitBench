@@ -1,0 +1,6 @@
+Target-Oriented Branch and Bound Method for Global Optimization
+Volker Stix;
+Abstract
+We introduce a very simple but efficient idea for branch and bound (ℬ&ℬ) algorithms in global optimization (GO). As input for our generic algorithm, we need an upper bound algorithm for the GO maximization problem and a branching rule. The latter reduces the problem into several smaller subproblems of the same type. The new ℬ&ℬ approach delivers one global optimizer or, if stopped before finished, improved upper and lower bounds for the problem. Its main difference to commonly used ℬ&ℬ techniques is its ability to approximate the problem from above and from below while traversing the problem tree. It needs no supplementary information about the system optimized and does not consume more time than classical ℬ&ℬ techniques. Experimental results with the maximum clique problem illustrate the benefit of this new method.
+Keywords
+Global optimization  Branch and bound  Maximum clique problem  Standard quadratic optimization  

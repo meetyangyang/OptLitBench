@@ -1,0 +1,6 @@
+A quasi-Newton interior point method for semi-infinite programming 
+ A. Ismael F.   Vaz ; Edite M.G.P.   Fernandes†  ; M. Paula S.F.   Gomes‡  ;
+Abstract
+ We propose an interior point method for solving nonlinear semi-infinite programming (SIP) problems. The method is based on a transcription of the SIP problem into a nonlinear finite problem. We apply the interior point strategy to the finite problem and obtain an algorithm for nonlinear SIP. The evaluation of the constraint functions and derivatives of the finite problem requires the numerical evaluation of integrals that we compute by an adaptative trapezoid formula. Numerical results with a collection of several problems from the SIPAMPL [A.I.F. Vaz, E.M.G.P. Fernandes and M.P.S.F. Gomes. SIPAMPL v2.0: Semi-infinite programming with AMPL. Technical Report ALG/EF/4-2002, Universidade do Minho, Braga, Portugal, December 2002. [http://www.norg.uminho.pt/aivaz/].] database are also shown.   
+Keywords
+Quasi-Newton method, Interior point method, Semi-infinite programming 

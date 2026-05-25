@@ -1,0 +1,6 @@
+A Priori Error Analysis for Finite Element Approximation of Parabolic Optimal Control Problems with Pointwise Control
+Wei  Gong, Michael  Hinze, and Zhaojie  Zhou;
+Abstract
+We consider finite element approximations of parabolic control problems with pointwise control. The state equation exhibits low regularity due to the control imposed pointwisely; this introduces some difficulties for both theoretical and numerical analysis. To discretize the optimal control problem we use variational discretization together with piecewise linear and continuous finite elements for the space discretization of the state, and we use  the backward Euler scheme for time discretization. We prove a priori error estimates for the control, state, and adjoint state. Numerical experiments are provided which support the theoretical results.
+Keywords
+optimal control problem, finite element method, a priori error estimate, parabolic equation, pointwise control, 49J20, 49K20, 65N15, 65N30, 

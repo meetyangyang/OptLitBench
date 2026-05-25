@@ -1,0 +1,6 @@
+Quadratic kernel-free non-linear support vector machine
+Issam Dagher;
+Abstract
+A new quadratic kernel-free non-linear support vector machine (which is called QSVM) is introduced. The SVM optimization problem can be stated as follows: Maximize the geometrical margin subject to all the training data with a functional margin greater than a constant. The functional margin is equal to W  T  X + b which is the equation of the hyper-plane used for linear separation. The geometrical margin is equal to\(\frac{1}{||W||}\) . And the constant in this case is equal to one. To separate the data non-linearly, a dual optimization form and the Kernel trick must be used. In this paper, a quadratic decision function that is capable of separating non-linearly the data is used. The geometrical margin is proved to be equal to the inverse of the norm of the gradient of the decision function. The functional margin is the equation of the quadratic function. QSVM is proved to be put in a quadratic optimization setting. This setting does not require the use of a dual form or the use of the Kernel trick. Comparisons between the QSVM and the SVM using the Gaussian and the polynomial kernels on databases from the UCI repository are shown.
+Keywords
+Support Vector Machine (SVM)  Geometrical margin  Functional margin  QSVM  Quadratic function  Dual optimization form  Kernel trick  

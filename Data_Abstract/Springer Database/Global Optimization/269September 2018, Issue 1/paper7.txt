@@ -1,0 +1,6 @@
+Tuning interval Branch-and-Prune for protein structure determination
+Bradley Worley;Florent Delhommel;Florence Cordier;Thérèse E. Malliavin;Benjamin Bardiaux;Nicolas Wolff;Michael Nilges;Carlile Lavor;Leo Liberti;
+Abstract
+The interval Branch and Prune (iBP) algorithm for obtaining solutions to the interval Discretizable Molecular Distance Geometry Problem (iDMDGP) has proven itself as a powerful method for molecular structure determination. However, substantial obstacles still must be overcome before iBP may be employed as a tractable general-purpose alternative to existing structure determination algorithms. This work introduces an iterative variant of the iBP algorithm that leverages existing knowledge of protein structures in order to reduce the size of the effective search space by many orders of magnitude. These improvements are included in a newly released implementation of the iBP software that aims to provide a solid platform for both research and application of the iDMDGP.
+Keywords
+Distance geometry  Protein structure  Nuclear magnetic resonance  Branch-and-Prune  

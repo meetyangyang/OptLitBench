@@ -1,0 +1,6 @@
+Airline network revenue management with buy-up
+Houyuan Jiang;Giovanna Miglionico;
+Abstract
+Several existing revenue management (RM) models are based on some simplifying assumptions. One of these is that passengers, who do not get the fare they want, book and travel on other airlines or they do not travel at all. In reality, many customers are not necessarily lost to the airline but they buy-up, i.e. buy a more expensive ticket. We model network RM which incorporates buy-up using dynamic programming (DP). Due to the curse of dimensionality, the DP model is analytically and computationally intractable. Thus, to provide a valuable support for the decision-making process, different approximate models are presented and their solutions are used to define several capacity-control schemes based on partitioned booking limits and bid prices. The schemes are compared in a computational study showing that a significant increase in revenue is obtainable even when the buy-up probability is relatively small. The booking limits for high-fare products, as well as the bid prices for all itineraries, are likely to increase in the buy-up probability.
+Keywords
+revenue management, capacity control, buy-up, dynamic programming, linear programming, non-linear programmingAMS Subject Classifications: 90B06, 90B15 

@@ -1,0 +1,6 @@
+An Outer Approximation Algorithm Guaranteeing Feasibility of Solutions and Approximate Accuracy of Optimality
+Syuuji Yamada;Tamaki Tanaka;
+Abstract
+We treat a concave programming problem with a compact convex feasible set. Assuming the differentiability of the convex functions which define the feasible set, we propose two solution methods. Those methods utilize the convexity of the feasible set and the property of the normal cone to the feasible set at each point over the boundary. Based on the proposed two methods, we propose a solution algorithm. This algorithm takes advantages over classical methods: (1) the obtained approximate solution is always feasible, (2) the error of such approximate value can be evaluated properly for the optimal value of such problem, (3) the algorithm does not have any redundant iterations.
+Keywords
+Concave programming problem  Cutting plane method  Global optimization  Outer approximation method  Supporting hyperplane method  

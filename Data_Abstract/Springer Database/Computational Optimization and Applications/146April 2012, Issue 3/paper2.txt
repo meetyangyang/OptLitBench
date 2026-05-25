@@ -1,0 +1,6 @@
+Using approximate secant equations in limited memory methods for multilevel unconstrained optimization
+Serge Gratton;Vincent Malmedy;Philippe L. Toint;
+Abstract
+The properties of multilevel optimization problems defined on a hierarchy of discretization grids can be used to define approximate secant equations, which describe the second-order behavior of the objective function. Following earlier work by Gratton and Toint (2009) we introduce a quasi-Newton method (with a linesearch) and a nonlinear conjugate gradient method that both take advantage of this new second-order information. We then present numerical experiments with these methods and formulate recommendations for their practical use.
+Keywords
+Nonlinear optimization  Multilevel problems  Quasi-Newton methods  Nonlinear conjugate gradient methods  Limited-memory algorithms  

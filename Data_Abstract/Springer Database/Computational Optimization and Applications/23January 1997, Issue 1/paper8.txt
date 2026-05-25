@@ -1,0 +1,6 @@
+Sequential Quadratic Programming Methods for Large-Scale Problems
+Walter Murray;
+Abstract
+Sequential quadratic (SQP) programming methodsare the method of choice when solving small or medium-sized problems. Sincethey are complex methods they are difficult (but not impossible) to adapt tosolve large-scale problems. We start by discussing the difficulties that needto be addressed and then describe some general ideas that may be used toresolve these difficulties. A number of SQP codes have been written to solve specific applications and there is a general purposed SQP code called SNOPT,which is intended for general applications of a particular type. These aredescribed briefly together with the ideas on which they are based. Finally wediscuss new work on developing SQP methods using explicit second derivatives.
+Keywords
+nonlinearly constrained minimization  quadratic programming  large-scale optimization  

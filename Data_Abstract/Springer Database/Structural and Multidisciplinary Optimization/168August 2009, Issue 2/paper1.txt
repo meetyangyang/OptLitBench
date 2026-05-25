@@ -1,0 +1,6 @@
+Optimization of sonic crystal attenuation properties by ev-MOGA multiobjective evolutionary algorithm
+J. M. Herrero;S. García-Nieto;X. Blasco;V. Romero-García;J. V. Sánchez-Pérez;L. M. Garcia-Raffi;
+Abstract
+This paper shows a promising method for acoustic barrier design using a new acoustic material called Sonic Crystals (SCs). The configuration of these SCs is set as a multiobjective optimization problem which is very difficult to solve with conventional optimization techniques. The paper presents a new parallel implementation of a Multiobjective Evolutionary Algorithm called ev-MOGA (also known as  Open image in new window ) and its application in a complex design problem. ev-MOGA algorithm has been designed to converge towards a reduced, but well distributed, representation of the Pareto Front (solution of the multiobjective optimization problem). The algorithm is presented in detail and its most important properties are discussed. To reduce the ev-MOGA computational cost when objective functions are substantial, a basic parallelization has been implemented on a distributed platform.
+Keywords
+Evolutionary multiobjective optimization  Sonic cristals  Parallel MOEA  Acoustic attenuation  

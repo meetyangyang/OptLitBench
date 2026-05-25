@@ -1,0 +1,6 @@
+ PolyMesher: a general-purpose mesh generator for polygonal elements written in Matlab
+Cameron Talischi;Glaucio H. Paulino;Anderson Pereira;Ivan F. M. Menezes;
+Abstract
+We present a simple and robust Matlab code for polygonal mesh generation that relies on an implicit description of the domain geometry. The mesh generator can provide, among other things, the input needed for finite element and optimization codes that use linear convex polygons. In topology optimization, polygonal discretizations have been shown not to be susceptible to numerical instabilities such as checkerboard patterns in contrast to lower order triangular and quadrilaterial meshes. Also, the use of polygonal elements makes possible meshing of complicated geometries with a self-contained Matlab code. The main ingredients of the present mesh generator are the implicit description of the domain and the centroidal Voronoi diagrams used for its discretization. The signed distance function provides all the essential information about the domain geometry and offers great flexibility to construct a large class of domains via algebraic expressions. Examples are provided to illustrate the capabilities of the code, which is compact and has fewer than 135 lines.
+Keywords
+Topology optimization  Polygonal elements  Centroidal Voronoi tessellations  Implicit geometries  

@@ -1,0 +1,6 @@
+Distance Geometry Optimization for Protein Structures
+Jorge J. Moré;Zhijun Wu;
+Abstract
+We study the performance of the dgsol code for the solution of distance geometry problems with lower and upper bounds on distance constraints. The dgsol code uses only a sparse set of distance constraints, while other algorithms tend to work with a dense set of constraints either by imposing additional bounds or by deducing bounds from the given bounds. Our computational results show that protein structures can be determined by solving a distance geometry problem with dgsol and that the approach based on dgsol is significantly more reliable and efficient than multi-starts with an optimization code.
+Keywords
+Distance geometry  Distance constraints  Protein structures  

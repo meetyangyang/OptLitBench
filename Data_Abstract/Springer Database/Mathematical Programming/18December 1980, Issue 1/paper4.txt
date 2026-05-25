@@ -1,0 +1,6 @@
+Curvilinear path steplength algorithms for minimization which use directions of negative curvature
+Donald Goldfarb;
+Abstract
+The Armijo and Goldstein step-size rules are modified to allow steps along a curvilinear path of the formx(α) + x + αs + α2d, wherex is the current estimate of the minimum,s is a descent direction andd is a nonascent direction of negative curvature. By using directions of negative curvature when they exist, we are able to prove, under fairly mild assumptions, that the sequences of iterates produced by these algorithms converge to stationary points at which the Hessian matrix of the objective function is positive semidefinite.
+Keywords
+Step-size Procedures  Line Search  Gradient Methods  Unconstrained Minimization  Negative Curvature  

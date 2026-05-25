@@ -1,0 +1,6 @@
+A local search method for continuous global optimization
+M. Gaviano;D. Lera;A. M. Steri;
+Abstract
+A large number of algorithms introduced in the literature to find the global minimum of a real function rely on iterative executions of searches of a local minimum. Multistart, tunneling and some versions of simulated annealing are methods that produce well-known procedures. A crucial point of these algorithms is to decide whether to perform or not a new local search. In this paper we look for the optimal probability value to be set at each iteration so that by moving from a local minimum to a new one, the average number of function evaluations evals is minimal. We find that this probability has to be 0 or 1 depending on the number of function evaluations required by the local search and by the size of the level set at the current point. An implementation based on the above result is introduced. The values required to calculate evals are estimated from the history of the algorithm at running time. The algorithm has been tested both for sample problems constructed by the GKLS package and for problems often used in the literature. The outcome is compared with recent results.
+Keywords
+Random search  Global optimization  

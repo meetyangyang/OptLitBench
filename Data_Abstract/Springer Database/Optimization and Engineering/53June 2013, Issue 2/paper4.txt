@@ -1,0 +1,6 @@
+Gradient-only approaches to avoid spurious local minima in unconstrained optimization
+Daniel Nicolas Wilke;Schalk Kok;Johannes Arnoldus Snyman;Albert A. Groenwold;
+Abstract
+We reflect on some theoretical aspects of gradient-only optimization for the unconstrained optimization of objective functions containing non-physical step or jump discontinuities. This kind of discontinuity arises when the optimization problem is based on the solutions of systems of partial differential equations, in combination with variable discretization techniques (e.g. remeshing in spatial domains, and/or variable time stepping in temporal domains). These discontinuities, which may cause local minima, are artifacts of the numerical strategies used and should not influence the solution to the optimization problem. Although the discontinuities imply that the gradient field is not defined everywhere, the gradient field associated with the computational scheme can nevertheless be computed everywhere; this field is denoted the associated gradient field.
+Keywords
+Step discontinuous  Gradient-only optimization  Unconstrained optimization  Partial differential equations  Variable discretization strategies  Shape optimization  

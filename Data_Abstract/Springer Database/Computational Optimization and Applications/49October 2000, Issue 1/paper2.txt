@@ -1,0 +1,6 @@
+Distance Matrix Completion by Numerical Optimization
+Michael W. Trosset;
+Abstract
+Consider the problem of determining whether or not a partial dissimilarity matrix can be completed to a Euclidean distance matrix. The dimension of the distance matrix may be restricted and the known dissimilarities may be permitted to vary subject to bound constraints. This problem can be formulated as an optimization problem for which the global minimum is zero if and only if completion is possible. The optimization problem is derived in a very natural way from an embedding theorem in classical distance geometry and from the classical approach to multidimensional scaling. It belongs to a general family of problems studied by Trosset (Technical Report 97-3, Department of Computational & Applied Mathematics—MS 134, Rice University, Houston, TX 77005-1892, 1997) and can be formulated as a nonlinear programming problem with simple bound constraints. Thus, this approach provides a constructive technique for obtaining approximate solutions to a general class of distance matrix completion problems.
+Keywords
+Euclidean distance matrices  positive semidefinite matrices  distance geometry  multidimensional scaling  

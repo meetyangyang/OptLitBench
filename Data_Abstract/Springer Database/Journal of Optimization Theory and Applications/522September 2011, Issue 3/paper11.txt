@@ -1,0 +1,6 @@
+Degeneracy Resolution for Bilinear Utility Functions
+Michael J. Best;Xili Zhang;
+Abstract
+Loss-aversion is a phenomenon where investors are particularly sensitive to losses and eager to avoid them. An efficient method to solve the portfolio optimization problem of maximizing the bilinear utility function is given by Best et al. (Loss-Aversion with Kinked Linear Utility Functions, CORR 2010-04, University of Waterloo, 2010). This method is useful because it performs its computations only using asset related quantities rather than much higher dimensional quantities of the LP formulation. However, a difficulty with this method is that it requires a nondegeneracy assumption which may not be satisfied. This paper implements Bland’s least-index rules to the method in such a way that the efficiency of the method is retained. Then we describe the numerical results of applying our algorithm to a series of six asset problems in which the degree of loss-aversion is increased.
+Keywords
+Loss-aversion  Degeneracy  Bland’s least-index rules  Active set method  

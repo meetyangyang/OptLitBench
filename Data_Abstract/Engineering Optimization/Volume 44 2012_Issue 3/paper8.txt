@@ -1,0 +1,6 @@
+Multi-objective metaheuristics for preprocessing EEG data in brain–computer interfaces
+ Ricardo   Aler ; Alicia   Vega ; Inés   M.   Galván ; Antonio   J.   Nebro ;
+Abstract
+ In the field of brain–computer interfaces, one of the main issues is to classify the electroencephalogram (EEG) accurately. EEG signals have a good temporal resolution, but a low spatial one. In this article, metaheuristics are used to compute spatial filters to improve the spatial resolution. Additionally, from a physiological point of view, not all frequency bands are equally relevant. Both spatial filters and relevant frequency bands are user-dependent. In this article a multi-objective formulation for spatial filter optimization and frequency-band selection is proposed. Several multi-objective metaheuristics have been tested for this purpose. The experimental results show, in general, that multi-objective algorithms are able to select a subset of the available frequency bands, while maintaining or improving the accuracy obtained with the whole set. Also, among the different metaheuristics tested, GDE3, which is based on differential evolution, is the most useful algorithm in this context. 
+Keywords
+brain–computer interface, multi-objective optimization, EEG filter optimization 

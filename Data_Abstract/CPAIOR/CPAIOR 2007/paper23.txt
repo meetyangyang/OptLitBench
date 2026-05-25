@@ -1,0 +1,4 @@
+Constrained Clustering Via Concavity Cuts
+Yu Xia;
+Abstract
+In this paper, we adapt Tuy’s concave cutting plane method to the problem of finding an optimal grouping of semi-supervised clustering. We also give properties of local optimal solutions to the semi-supervised clustering. On test data sets with up to 1500 points, our algorithm typically find a solution with objective value around 2% smaller of the initial function value than that obtained by k-means algorithm within 4 seconds, although the run time is hundred times of that of the k-means algorithm.

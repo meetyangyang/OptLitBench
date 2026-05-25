@@ -1,0 +1,6 @@
+A continuous deformation algorithm for variational inequality problems on polytopes
+Yang Dai;Yoshitsugu Yamamoto;
+Abstract
+A continuous deformation algorithm is proposed for solving a variational inequality problem on a polytopeK. The algorithm embeds the polytopeK intoK× [0, ∞) and starts by applying a variable dimension algorithm onK× {0} until an approximate solution is found onK× {0}. Then by tracing the path of solutions of a system of equations the algorithm virtually follows a path of approximate solution inK× [0, ∞). When the path inK× [0, ∞) returns to level 0, i.e.,K× {0}, the variable dimension algorithm is again used until a new approximate solution is found onK× {0}. The setK× [0, ∞) is triangulated so that the approximate solution on the path improves the accuracy as the level increases. A contrivance for a practical implementation of the algorithm is proposed and tested for some test problems.
+Keywords
+Variational inequality  Stationary point  Simplicial algorithm  Variable dimension algorithm  Continuous deformation  Triangulation  

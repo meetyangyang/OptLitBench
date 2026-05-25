@@ -1,0 +1,6 @@
+Convergence rate for consensus with delays
+Angelia Nedić;Asuman Ozdaglar;
+Abstract
+We study the problem of reaching a consensus in the values of a distributed system of agents with time-varying connectivity in the presence of delays. We consider a widely studied consensus algorithm, in which at each time step, every agent forms a weighted average of its own value with values received from the neighboring agents. We study an asynchronous operation of this algorithm using delayed agent values. Our focus is on establishing convergence rate results for this algorithm. In particular, we first show convergence to consensus under a bounded delay condition and some connectivity and intercommunication conditions imposed on the multi-agent system. We then provide a bound on the time required to reach the consensus. Our bound is given as an explicit function of the system parameters including the delay bound and the bound on agents’ intercommunication intervals.
+Keywords
+Distributed consensus  Asynchronous  Convergence  Delays  

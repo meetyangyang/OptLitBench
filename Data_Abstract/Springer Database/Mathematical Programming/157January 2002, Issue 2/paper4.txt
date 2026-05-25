@@ -1,0 +1,6 @@
+A polynomial dual simplex algorithm for the generalized circulation problem
+Donald Goldfarb;Zhiying Jin;Yiqing Lin;
+Abstract
+This paper presents a polynomial-time dual simplex algorithm for the generalized circulation problem. An efficient implementation of this algorithm is given that has a worst-case running time of O(m2(m+nlogn)logB), where n is the number of nodes, m is the number of arcs and B is the largest integer used to represent the rational gain factors and integral capacities in the network. This running time is as fast as the running time of any combinatorial algorithm that has been proposed thus far for solving the generalized circulation problem.
+Keywords
+Key words: network flows – generalized circulation – generalized maximum flow – dual simplex algorithm – arc excess – excess scaling  

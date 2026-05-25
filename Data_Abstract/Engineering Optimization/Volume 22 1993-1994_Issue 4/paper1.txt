@@ -1,0 +1,6 @@
+SIMULTANEOUS DESIGN OF CONTROL AND STRUCTURAL SYSTEMS
+ T.C.   LIN ; J.S.   ARORA ;
+Abstract
+ A numerical algorithm for simultaneous optimization of control and structural systems is proposed, analyzed and evaluated in this paper. In the procedure, the structural and control design subproblems are solved in a sequence. In the outer loop, it is proposed to solve the constrained structural optimization problem using the nonlinear programming ( NLP) approach, and in the inner loop, the control design problem is proposed to be solved using the differential dynamic programming ( DDP) approach. For the optimal control design problem, the functional and pointwise state variable constraints are treated using the augmented Lagrangian approach. The resulting unconstrained control design subproblem is then solved using the DDP approach which has been determined to be more efficient than the NLP approach for this class of problems. The basic ideas of the augmented Lagrangian and the DDP approaches are explained. The proposed approach is quite general as it can treat linear as well as nonlinear systems, and constraints on the state, control and design variables. It is demonstrated on a simple nonlinear system. The results show the simultaneous design process to be effective, resulting in improved designs. 
+Keywords
+ Structural optimization, design, control 

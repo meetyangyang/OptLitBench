@@ -1,0 +1,4 @@
+Weighted Spanning Tree Constraint with Explanations
+Diego de Uña;Graeme Gange;Peter Schachte;Peter J. Stuckey;
+Abstract
+Minimum Spanning Trees (MSTs) are ubiquitous in optimization problems in networks. Even though fast algorithms exist to solve the MST problem, real world applications are usually subject to constraints that do not let us apply such methods directly. In these cases we confront a version of the MST called the “Weighted Spanning Tree” (WST) in which we look for a spanning tree in a graph that satisfies other side constraints and is of minimum cost. In this paper we implement this constraint using a lower bound and learning to accelerate the search and thus reduce the solving time. We show that having this propagator is tremendously beneficial for solvers and we show the benefits of learning.

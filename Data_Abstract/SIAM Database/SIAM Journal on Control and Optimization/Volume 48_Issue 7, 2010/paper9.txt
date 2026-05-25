@@ -1,0 +1,6 @@
+Providing a Basin of Attraction to a Target Region of Polynomial Systems by Computation of Lyapunov-Like Functions
+Stefan  Ratschan and Zhikun  She;
+Abstract
+In this paper, we present a method for computing a basin of attraction to a target region for polynomial ordinary differential equations. This basin of attraction is ensured by a Lyapunov-like polynomial function that we compute using an interval based branch-and-relax algorithm. This algorithm relaxes the necessary conditions on the coefficients of the Lyapunov-like function to a system of linear interval inequalities that can then be solved exactly. It iteratively refines these relaxations in order to ensure that, whenever a nondegenerate solution exists, it will eventually be found by the algorithm. Application of an implementation to a range of benchmark problems shows the usefulness of the approach.
+Keywords
+basin of attraction, stability, constraint solving, interval computation, algorithms, 65G40, 68U99, 65P40, 

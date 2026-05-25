@@ -1,0 +1,6 @@
+Eigenvalue-based algorithm and analysis for nonconvex QCQP with one constraint
+Satoru Adachi;Yuji Nakatsukasa;
+Abstract
+A nonconvex quadratically constrained quadratic programming (QCQP) with one constraint is usually solved via a dual SDP problem, or Moré’s algorithm based on iteratively solving linear systems. In this work we introduce an algorithm for QCQP that requires finding just one eigenpair of a generalized eigenvalue problem, and involves no outer iterations other than the (usually black-box) iterations for computing the eigenpair. Numerical experiments illustrate the efficiency and accuracy of our algorithm. We also analyze the QCQP solution extensively, including difficult cases, and show that the canonical form of a matrix pair gives a complete classification of the QCQP in terms of boundedness and attainability, and explain how to obtain a global solution whenever it exists.
+Keywords
+QCQP  Generalized eigenvalue problem  Canonical form for symmetric matrix pair  49M37  65K05  90C20  90C30  

@@ -1,0 +1,6 @@
+A new hybrid stochastic approximation algorithm
+Zi Xu;Xinming Wu;
+Abstract
+In this paper, we consider optimizing the performance of a stochastic system that is too complex for theoretical analysis to be possible, but can be evaluated by using simulation or direct experimentation. To optimize the expected performance of such system as a function of several input parameters, we propose a hybrid stochastic approximation algorithm for finding the root of the gradient of the response function. At each iteration of the hybrid algorithm, alternatively, either an average of two independent noisy negative gradient directions or a scaled noisy negative gradient direction is selected. The almost sure convergence of the hybrid algorithm is established. Numerical comparisons of the hybrid algorithm with two other existing algorithms in a simple queueing system and five nonlinear unconstrained stochastic optimization problems show the advantage of the hybrid algorithm.
+Keywords
+Stochastic approximation  The Robbins–Monro algorithm  Stochastic optimization  Simulation  

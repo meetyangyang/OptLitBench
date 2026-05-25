@@ -1,0 +1,6 @@
+A convergence analysis of the scaling-invariant primal-dual path-following algorithms for second-order cone programming
+ Takashi   Tsuchiya ;
+Abstract
+ In this paper we study primal-dual path-following algorithms for second-order cone programming problems (SOCP). We extend the standard long-step/semilong-step/short-step primal-dual path-following alogorithms for LP and SDP to SOCP, and prove that the long-step algorithm using the NT direction and the HRVW/KSH/M direction have O(n log ε-1 ) iteration-complexity and O(n3/2log ε-1 ) iteration-complexity, respectively, to reduce the duality gap by a factor of 1/ε, where n is the number of the second-order cones. We also show that the short and semilong-step algorithms using the NT direction and the HRVW/KSH/M direction have  and O(n log ε-1 ) iteration-complexities, respectively. 
+Keywords
+Second-order cone programming, Interior-point methods, Polynomial-time algorithms, Primal-dual path-following methods, Euclidean Jordan algebra, Homogeneous and self-dual cone programming 

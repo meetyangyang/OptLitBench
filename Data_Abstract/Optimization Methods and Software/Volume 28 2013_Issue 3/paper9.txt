@@ -1,0 +1,6 @@
+Distributionally robust workforce scheduling in call centres with uncertain arrival rates
+ S.   Liao ; C.   van Delft ; J.-P.   Vial ;
+Abstract
+ Call centre scheduling aims to determine the workforce so as to meet target service levels. The service level depends on the mean rate of arrival calls, which fluctuates during the day, and from day to day. The staff schedule must adjust the workforce period per period during the day, but the flexibility in doing so is limited by the workforce organization by shifts. The challenge is to balance salary costs and possible failures to meet service levels. In this paper, we consider uncertain arrival rates, that vary according to an intra-day seasonality and a global busyness factor. Both factors (seasonal and global) are estimated from past data and are subject to errors. We propose an approach combining stochastic programming and distributionally robust optimization to minimize the total salary costs under service level constraints. The performance of the robust solution is simulated via Monte-Carlo techniques and compared to the solution based on pure stochastic programming. 
+Keywords
+call centres, uncertain arrival rates, robust optimization, ambiguity, staff-scheduling, totally unimodular 

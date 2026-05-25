@@ -1,0 +1,6 @@
+Iteration Complexity of a Block Coordinate Gradient Descent Method for Convex Optimization
+Xiaoqin  Hua and Nobuo  Yamashita;
+Abstract
+In this paper, we study the iteration complexity of a block coordinate gradient  descent (BCGD) method with a cyclic rule for solving  convex optimization problems.  We propose a new Lipschitz continuity-like assumption and show that the iteration complexity for the proposed BCGD method can be improved to $O(\frac{\max\{M, \;{L}\}}{\varepsilon})$, where $M$ is the constant in the proposed assumption,  ${L}$ is the usual Lipschitz constant for the gradient of the objective function, and $\varepsilon>0$ is the required precision. In addition, we analyze the relation between  $M$ and ${L}$, and prove that, in the worst case,  $M\leq \sqrt{N}{L}$, where $N$ is the number of blocks.
+Keywords
+nonsmooth optimization, block coordinate gradient descent method, iteration complexity, convex optimization, 65K05, 90C25, 90C30, 

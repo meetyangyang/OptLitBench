@@ -1,0 +1,6 @@
+Consistency of perturbation analysis for a queue with finite buffer space and loss policy
+Y. Wardi;M. A. Zazanis;M. Luo;
+Abstract
+The subject of discrete-event dynamical systems has taken on a new direction with the advent of perturbation analysis (PA), an efficient method for estimating the gradients of a steady-state performance measure, by analyzing data obtained from a single-simulation experiment in the time domain. A crucial issue is whether PA gives strongly consistent estimates, namely, whether average time-domain-based gradients converge, over infinite horizon, to the steady-state gradients. In this paper, we investigate this issue for a queue with a finite buffer capacity and a loss policy. The performance measure in question is the average amount of lost customers, as a function of the buffer's capacity, which is assumed to be continuous in our work. It is shown that PA gives strongly consistent estimates. The analysis uses a new technique, based on busy period-dependent inequalities. This technique may have possible extensions to analyses of consistency of PA for more general queueing systems.
+Keywords
+Perturbation analysis  discrete-event dynamical systems  

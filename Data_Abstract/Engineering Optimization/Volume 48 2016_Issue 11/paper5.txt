@@ -1,0 +1,6 @@
+Multi-material plastic part design via the level set shape and topology optimization method
+Jikai Liu;Kajsa Duke;Yongsheng Ma;
+Abstract
+This work presents a new multi-material level set topology optimization method which is developed especially for designing plastic parts. Instead of representing the structure using multiple level set functions, this new method employs only one level set function to describe the material/void interface. The injection moulding filling simulation is used to determine the material/material interfaces. Because plastic parts are targeted, domain-specific knowledge is carefully investigated to improve the optimization algorithm. Both homogeneous and heterogeneous fibre-reinforced plastics are considered as potential material phases. For the latter, one extra design freedom, fibre orientation distribution, is introduced. Instead of generating incremental interior voids, which complicates the mould design and part ejection, shape-fixed interior voids could be predefined inside the design domain for functional or assembly purposes. This is represented by an additional level set function. A few numerical examples are studied to demonstrate the effectiveness of the proposed method.
+Keywords
+multi-material topology optimization, level set, fibre-reinforced plastic part 

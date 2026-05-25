@@ -1,0 +1,6 @@
+Subgradient methods for huge-scale optimization problems
+Yu. Nesterov;
+Abstract
+We consider a new class of huge-scale problems, the problems with sparse subgradients. The most important functions of this type are piece-wise linear. For optimization problems with uniform sparsity of corresponding linear operators, we suggest a very efficient implementation of subgradient iterations, which total cost depends logarithmically in the dimension. This technique is based on a recursive update of the results of matrix/vector products and the values of symmetric functions. It works well, for example, for matrices with few nonzero diagonals and for max-type functions. We show that the updating technique can be efficiently coupled with the simplest subgradient methods, the unconstrained minimization method by B.Polyak, and the constrained minimization scheme by N.Shor. Similar results can be obtained for a new nonsmooth random variant of a coordinate descent scheme. We present also the promising results of preliminary computational experiments.
+Keywords
+Nonsmooth convex optimization  Complexity bounds   Subgradient methods  Huge-scale problems  90C25  90C47  68Q25  

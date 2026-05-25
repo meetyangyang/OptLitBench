@@ -1,0 +1,6 @@
+On the Undecidability of Computing Stationary Distributions and Large Deviation Rates for Constrained Random Walks
+David Gamarnik;
+Abstract
+We consider a constrained homogeneous random walk in ℤ+d. Such random walks are used to model various stochastic processes, most importantly multiclass Markovian queueing networks operating under state-dependent scheduling policies. These applications motivate the need to compute various performance measures, including stationary probability distributions and large deviations rates. In this paper, we show that computing the stationary probability distributions exactly is an algorithmically undecidable problem. That is no algorithm can possibly exist to solve this task. The problem remains undecidable even if a linear Lyapunov function that verifies positive recurrence of the underlying random walk is available as a part of the input. We then prove that computing large deviation rates for this model is also an undecidable problem. Specifically, we show that it is an undecidable problem to determine finiteness of large deviations rates.
+Keywords
+positive recurrence Lyapunov functions undecidability 

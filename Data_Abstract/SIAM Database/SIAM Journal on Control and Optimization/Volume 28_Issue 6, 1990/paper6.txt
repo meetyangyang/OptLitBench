@@ -1,0 +1,6 @@
+Decomposition/Coordination Algorithms in Stochastic Optimization
+J.-C.  Culioli and G.  Cohen;
+Abstract
+This paper considers an extension to the situation of stochastic programming of the Auxiliary Problem Principle formerly introduced in a deterministic setting to serve as a general framework for decomposition/coordination optimization algorithms. The idea is based upon that of the stochastic gradient, that is, independent noise realizations are considered successively along the iterations. As a consequence, deterministic subproblems are solved at each iteration whereas iterations fulfill the two tasks of coordination and stochastic approximation at the same time. Coupling cost function (expectation of some performance index) and deterministic coupling constraints are considered. Price (dual) decomposition (encompassing extensions of the Uzawa and Arrow–Hurwicz algorithms to this stochastic case) are studied as well as resource allocation (primal decomposition).
+Keywords
+stochastic optimization, stochastic gradient, decomposition, coordination, dual methods, price decomposition, resource allocation, convergence of algorithms, 49D27, 49D29, 62L20, 65K10, 

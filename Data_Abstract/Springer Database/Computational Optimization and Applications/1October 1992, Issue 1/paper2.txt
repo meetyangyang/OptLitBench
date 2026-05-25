@@ -1,0 +1,6 @@
+Auction algorithms for network flow problems: A tutorial introduction
+Dimitri P. Bertsekas;
+Abstract
+This paper surveys a new and comprehensive class of algorithms for solving the classical linear network flow problem and its various special cases such as shortest path, max-flow, assignment, transportation, and transhipment problems. The prototype method, from which the other algorithms can be derived, is the auction algorithm for the assignment problem. This is an intuitive method that operates like a rel auction where persons compete for objects by raising their prices through competitive bidding; the prices can be viewed as dual variables. Conceptually, auction algorithms represent a significant departure from the cost improvement idea that underlies primal simplex and dual ascent methods; at any one iteration, they may deteriorate both the primal and the dual cost. Auction algorithms perform very well for several important types of problems, both in theory and in practice, and they are also well suited for parallel computation.
+Keywords
+Network programming  auction  assignment  transportation  shortest path  

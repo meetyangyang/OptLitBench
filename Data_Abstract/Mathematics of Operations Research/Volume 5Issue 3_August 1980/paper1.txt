@@ -1,0 +1,6 @@
+Converting Linear Programs to Network Problems
+Robert E. Bixby;William H. Cunningham;
+Abstract
+We describe an algorithm which converts a linear program min{cx ∣ Ax = b, x ≥ 0} to a network flow problem, using elementary row operations and nonzero variable-scaling, or shows that such a conversion is impossible. If A is in standard form, the computational effort required is bounded by O(rn), where r is the number of rows and n is the number of nonzero entries of A. A method for determining whether a “binary matroid” is “graphic” plays an important role in the algorithm.
+Keywords
+network flows matroids 

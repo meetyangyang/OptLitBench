@@ -1,0 +1,6 @@
+Strongly polynomial dual simplex methods for the maximum flow problem
+Ronald D. Armstrong;Wei Chen;Donald Goldfarb;Zhiying Jin;
+Abstract
+This paper presents dual network simplex algorithms that require at most 2nm pivots and O(n2m) time for solving a maximum flow problem on a network ofn nodes andm arcs. Refined implementations of these algorithms and a related simplex variant that is not strictly speaking a dual simplex algorithm are shown to have a complexity of O(n3). The algorithms are based on the concept of apreflow and depend upon the use of node labels that are underestimates of the distances from the nodes to the sink node in the extended residual graph associated with the current flow. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Dual simplex method  Maximum flow  Strongly polynomial  Preflow algorithm  Valid distance labels  

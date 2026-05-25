@@ -1,0 +1,6 @@
+Feasible Method for Semi-Infinite Programs
+Shuxiong  Wang and Yaxiang  Yuan;
+Abstract
+A new numerical method is presented for semi-infinite optimization problems which guarantees that each iterate is feasible for the original problem. The basic idea is to construct concave relaxations of the lower level problem, to compute the optimal values of the  relaxation problems explicitly, and to solve the resulting approximate problems with finitely many constraints. The concave relaxations are constructed by replacing the objective function of the lower level problem by its concave upper bound functions. Under mild conditions, we prove that every accumulation point of the solutions of the approximate problems is an optimal solution of the original problem. An adaptive subdivision algorithm is proposed to solve semi-infinite optimization problems. It is shown that the Karush--Kuhn--Tucker points of the approximate problems converge to a Karush--Kuhn--Tucker point of the original problem within arbitrarily given tolerances. Numerical experiments show that our algorithm is much faster than the existing adaptive convexification algorithm in computation time.
+Keywords
+semi-infinite programs, concave optimization, adaptive subdivision algorithm, 90C34, 90C26, 90C30, 

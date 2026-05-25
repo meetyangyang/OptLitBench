@@ -1,0 +1,6 @@
+A heuristic algorithm for solving the minimum sum-of-squares clustering problems
+Burak Ordin;Adil M. Bagirov;
+Abstract
+Clustering is an important task in data mining. It can be formulated as a global optimization problem which is challenging for existing global optimization techniques even in medium size data sets. Various heuristics were developed to solve the clustering problem. The global \(k\)-means and modified global \(k\)-means are among most efficient heuristics for solving the minimum sum-of-squares clustering problem. However, these algorithms are not always accurate in finding global or near global solutions to the clustering problem. In this paper, we introduce a new algorithm to improve the accuracy of the modified global \(k\)-means algorithm in finding global solutions. We use an auxiliary cluster problem to generate a set of initial points and apply the \(k\)-means algorithm starting from these points to find the global solution to the clustering problems. Numerical results on 16 real-world data sets clearly demonstrate the superiority of the proposed algorithm over the global and modified global \(k\)-means algorithms in finding global solutions to clustering problems.
+Keywords
+Minimum sum-of-squares clustering  Global optimization    Nonsmooth optimization  \(k\)-means algorithm  Global \(k\)-means algorithm  

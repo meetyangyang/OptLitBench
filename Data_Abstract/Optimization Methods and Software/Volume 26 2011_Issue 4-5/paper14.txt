@@ -1,0 +1,6 @@
+On the solution of complementarity problems arising in American options pricing
+ Liming   Feng ; Vadim   Linetsky ; José   Luis Morales ; Jorge   Nocedal ;
+Abstract
+ In the Black–Scholes–Merton model, as well as in more general stochastic models in finance, the price of an American option solves a parabolic variational inequality. When the variational inequality is discretized, one obtains a linear complementarity problem (LCP) that must be solved at each time step. This paper presents an algorithm for the solution of these types of LCPs that is significantly faster than the methods currently used in practice. The new algorithm is a two-phase method that combines the active-set identification properties of the projected successive over relaxation (SOR) iteration with the second-order acceleration of a (recursive) reduced-space phase. We show how to design the algorithm so that it exploits the structure of the LCPs arising in these financial applications and present numerical results that show the effectiveness of our approach. 
+Keywords
+American options pricing, linear complementarity, projected SOR method 

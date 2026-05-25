@@ -1,0 +1,6 @@
+An unconstrained minimization method for solving low-rank SDP relaxations of the maxcut problem
+Luigi Grippo;Laura Palagi;Veronica Piccialli;
+Abstract
+In this paper we consider low-rank semidefinite programming (LRSDP) relaxations of combinatorial quadratic problems that are equivalent to the maxcut problem. Using the Gramian representation of a positive semidefinite matrix, the LRSDP problem can be formulated as the nonconvex nonlinear programming problem of minimizing a quadratic function with quadratic equality constraints. For the solution of this problem we propose a continuously differentiable exact merit function that exploits the special structure of the constraints and we use this function to define an efficient and globally convergent algorithm. Finally, we test our code on an extended set of instances of the maxcut problem and we report comparisons with other existing codes.
+Keywords
+Semidefinite programming  Low-rank factorization  Maxcut problem  Nonlinear programming  Exact penalty functions  90C22  90C30  

@@ -1,0 +1,6 @@
+Theoretical convergence of large-step primal—dual interior point algorithms for linear programming
+Masakazu Kojima;Nimrod Megiddo;Shinji Mizuno;
+Abstract
+This paper proposes two sets of rules, Rule G and Rule P, for controlling step lengths in a generic primal—dual interior point method for solving the linear programming problem in standard form and its dual. Theoretically, Rule G ensures the global convergence, while Rule P, which is a special case of Rule G, ensures the O(nL) iteration polynomial-time computational complexity. Both rules depend only on the lengths of the steps from the current iterates in the primal and dual spaces to the respective boundaries of the primal and dual feasible regions. They rely neither on neighborhoods of the central trajectory nor on potential function. These rules allow large steps without performing any line search. Rule G is especially flexible enough for implementation in practically efficient primal—dual interior point algorithms.
+Keywords
+Primal—dual interior point algorithm  linear program  large step  global convergence  polynomial-time convergence  

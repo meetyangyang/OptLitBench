@@ -1,0 +1,6 @@
+Isogeometric configuration design optimization of built-up structures
+Seung-Wook Lee;Seonho Cho;
+Abstract
+We derive the isogeometric configuration sensitivity of the Mindlin plates by using the material derivative and adjoint approaches. This is utilized in the shape design optimization that includes a variation of design components in its shape and orientation. By the isogeometric approach, the NURBS basis function in CAD system is directly utilized in the response analysis, which enables the seamless incorporation of higher continuity and exact geometry such as curvature and normal vector into the computational framework. The impact of exact curvature in the bending problem of Mindlin plates on the configuration design sensitivity is demonstrated through numerical examples. The obtained design sensitivity is further utilized in the shape design optimization of built-up structures. Due to the non-interpolatory property of the NURBS basis functions, a mismatch of patches in the built-up structures could occur during the isogeometric design optimization, which can be easily resolved using transformed basis functions.
+Keywords
+NURBS basis function  Isogeometric analysis  Built-up structure  Intersection problem  Transformed basis function  

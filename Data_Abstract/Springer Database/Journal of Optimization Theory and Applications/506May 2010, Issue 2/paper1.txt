@@ -1,0 +1,6 @@
+Simplicial Branch-and-Reduce Algorithm for Convex Programs with a Multiplicative Constraint
+H. P. Benson;
+Abstract
+Optimization problems that involve products of convex functions in the objective function or in the constraints arise in a variety of applications. These problems are difficult global optimization problems. During the past 15 years, however, a number of practical algorithms have been proposed for globally solving these types of problems. In this article, we present and validate a branch-and-reduce algorithm for finding a global optimal solution to a convex program that contains an additional constraint on the product of several convex functions. To globally solve this problem, the algorithm instead globally solves an equivalent master problem. At any stage of the algorithm, a disconnected set consisting of a union of simplices is constructed. This set is guaranteed to contain a portion of the boundary of the feasible region of the master problem where a global optimal solution lies. The algorithm uses a new branch-and-reduce scheme to iteratively reduce the sizes of these sets until a global optimal solution is found. Several potential computational advantages of the algorithm are explained, and a numerical example is solved.
+Keywords
+Global optimization  Multiplicative constraint  Nonconvex programming  Product of convex functions  

@@ -1,0 +1,6 @@
+Successive Linear Approximation Solution of Infinite-Horizon Dynamic Stochastic Programs
+John R.  Birge and Gongyun  Zhao;
+Abstract
+Models for long-term planning often lead to infinite-horizon stochastic programs that offer significant challenges for computation. Finite-horizon approximations are often used in these cases, but they may also become computationally difficult. In this paper, we directly solve for value functions of infinite-horizon stochastic programs. We show that a successive linear approximation method converges to an optimal value function for the case with convex objective, linear dynamics, and feasible continuation.
+Keywords
+stochastic programming, dynamic programming, infinite horizon, linear approximation, cutting planes, 65K05, 90C15, 90C39, 91B28, 

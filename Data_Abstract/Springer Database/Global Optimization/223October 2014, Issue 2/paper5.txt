@@ -1,0 +1,6 @@
+Stabilizer-based symmetry breaking constraints for mathematical programs
+Leo Liberti;James Ostrowski;
+Abstract
+Mathematical programs whose formulation is symmetric often take a long time to solve using Branch-and-Bound type algorithms, because of the several symmetric optima. A simple technique used in these cases is to adjoin symmetry breaking constraints to the formulation before solving the problem. These constraints: (a) aim to guarantee that at least one optimum is feasible, whilst making some of the symmetric optima infeasible; and (b) are usually associated to the different orbits of the action of the formulation group on the set of variable indices. In general, one cannot adjoin symmetry breaking constraints from more than one orbit. In Liberti (Math Program A 131:273–304, doi: 10.1007/s10107-010-0351-0, 2012), some (restrictive) sufficient conditions are presented which make it possible to adjoin such constraints from several orbits at the same time. In this paper we present a new, less restrictive method for the same task, and show it performs better computationally.
+Keywords
+Mathematical programming  Static symmetry breaking  MILP  MINLP  

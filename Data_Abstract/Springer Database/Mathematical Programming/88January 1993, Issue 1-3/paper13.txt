@@ -1,0 +1,6 @@
+Near boundary behavior of primal—dual potential reduction algorithms for linear programming
+Y. Ye;K. O. Kortanek;J. Kaliski;S. Huang;
+Abstract
+This paper is concerned with selection of theρ-parameter in the primal—dual potential reduction algorithm for linear programming. Chosen from [n +\(\sqrt n \), ∞), the level ofρ determines the relative importance placed on the centering vs. the Newton directions. Intuitively, it would seem that as the iterate drifts away from the central path towards the boundary of the positive orthant,ρ must be set close ton +\(\sqrt n \). This increases the relative importance of the centering direction and thus helps to ensure polynomial convergence. In this paper, we show that this is unnecessary. We find for any iterate thatρ can be sometimes chosen in a wide range [n +\(\sqrt n \), ∞) while still guaranteeing the currently best convergence rate of O(\(\sqrt n \)L) iterations. This finding is encouraging since in practice large values ofρ have resulted in fast convergence rates. Our finding partially complements the recent result of Zhang, Tapia and Dennis (1990) concerning the local convergence rate of the algorithm.
+Keywords
+Linear programming  interior point algorithm  primal—dual potential function  

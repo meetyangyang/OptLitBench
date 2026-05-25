@@ -1,0 +1,6 @@
+A direct simplex algorithm for network flow problems with convex piecewise linear costs
+ Rajluxmi V.   Murthy ; Richard V.   Helgason ;
+Abstract
+ Minimum cost network flow problems with a piecewise linear convex cost function are used to model various optimization problems. They are also used extensively to approximate nonlinear cost functions which may otherwise be difficult to handle. Solving the piecewise linear problems using a reformulation approach is possible but may be inefficient. In thispaper we discuss a specialized direct approach and its implementation for solving such problems. The direct approach handles the piecewise linear structure of the cost function by allowing each arc to have varying costs on different segments. Computational results havel been reported, from which we conclude that using such an approach has adistinct advantage over using a reformulation approach. 
+Keywords
+Network programming, piecewise linear programming 

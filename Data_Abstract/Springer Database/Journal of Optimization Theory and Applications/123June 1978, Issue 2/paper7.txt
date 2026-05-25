@@ -1,0 +1,6 @@
+A gradient projection method for solving continuous games
+R. G. Underwood;
+Abstract
+This paper develops a procedure for numerically solving continuous games (and also matrix games) using a gradient projection method in a general Hilbert space setting. First, we analyze the symmetric case. Our approach is to introduce a functional which measures how far a strategy deviates from giving zero value (i.e., how near the strategy is to being optimal). We then incorporate this functional into a nonlinear optimization problem with constraints and solve this problem using the gradient projection algorithm. The convergence is studied via the corresponding steepest-descent differential equation. The differential equation is a nonlinear initial-value problem in a Hilbert space; thus, we include a proof of existence and uniqueness of its solution. Finally, nonsymmetric games are handled using the symmetrization techniques of Ref. 1.
+Keywords
+Games  mathematical programming  partial differential equation  Hilbert spaces  

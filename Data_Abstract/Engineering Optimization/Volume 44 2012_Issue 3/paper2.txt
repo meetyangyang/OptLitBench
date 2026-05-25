@@ -1,0 +1,6 @@
+A bi-objective model for the retail spatial design problem
+ Haluk   Yapicioglu ; Alice   E.   Smith ;
+Abstract
+ In this article, a model for the design of the block layout of a retail store is presented as a bi-objective optimization problem. The approach consists of placing departments in a racetrack configuration within the store subject to area and shape constraints, where the first objective function considers the area allocated to each department, contiguity of the departments to the aisle network and resulting revenue generated, and the second objective function considers adjacency requirements among departments. Owing to the complex nature of the model, two metaheuristic search methods, a multi-objective tabu search and the most well known multi-objective genetic algorithm are used separately to solve the problem. The performance of these two heuristics is evaluated and compared, with results suggesting that the multi-objective tabu search is a better choice because of its ability to exploit the neighbourhood structure of the model. 
+Keywords
+multi-objective optimization, tabu search, genetic algorithm, NSGA-II, hybrid optimization, store design, racetrack aisle 

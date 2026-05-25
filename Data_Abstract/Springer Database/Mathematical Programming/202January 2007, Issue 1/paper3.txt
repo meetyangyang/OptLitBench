@@ -1,0 +1,6 @@
+Using a Mixed Integer Quadratic Programming Solver for the Unconstrained Quadratic 0-1 Problem
+Alain Billionnet;Sourour Elloumi;
+Abstract
+In this paper, we consider problem (P) of minimizing a quadratic function q(x)=x  t  Qx+c  t  x of binary variables. Our main idea is to use the recent Mixed Integer Quadratic Programming (MIQP) solvers. But, for this, we have to first convexify the objective function q(x). A classical trick is to raise up the diagonal entries of Q by a vector u until (Q+diag(u)) is positive semidefinite. Then, using the fact that x i 2=x i, we can obtain an equivalent convex objective function, which can then be handled by an MIQP solver. Hence, computing a suitable vector u constitutes a preprocessing phase in this exact solution method. We devise two different preprocessing methods. The first one is straightforward and consists in computing the smallest eigenvalue of Q. In the second method, vector u is obtained once a classical SDP relaxation of (P) is solved.
+Keywords
+Integer programming  Quadratic 0-1 optimization  Convex quadratic relaxation  Semidefinite positive relaxation  Experiments  Max-cut  

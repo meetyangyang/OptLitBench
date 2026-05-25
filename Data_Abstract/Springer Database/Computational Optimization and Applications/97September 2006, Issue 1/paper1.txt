@@ -1,0 +1,6 @@
+A Modified Quasi-Newton Method for Structured Optimization with Partial Information on the Hessian
+L. H. Chen;N. Y. Deng;J. Z. Zhang;
+Abstract
+This paper develops a modified quasi-Newton method for structured unconstrained optimization with partial information on the Hessian, based on a better approximation to the Hessian in current search direction. The new approximation is decided by both function values and gradients at the last two iterations unlike the original one which only uses the gradients at the last two iterations. The modified method owns local and superlinear convergence. Numerical experiments show that the proposed method is encouraging comparing with the methods proposed in [4] for structured unconstrained optimization
+Keywords
+Modified quasi-Newton method  partial information on the Hessian  q-superlinear convergence  Dennis-Moré condition  

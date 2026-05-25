@@ -1,0 +1,6 @@
+Terminating evolutionary algorithms at their steady state
+Debora Gil;David Roche;Agnés Borràs;Jesús Giraldo;
+Abstract
+Assessing the reliability of termination conditions for evolutionary algorithms (EAs) is of prime importance. An erroneous or weak stop criterion can negatively affect both the computational effort and the final result. We introduce a statistical framework for assessing whether a termination condition is able to stop an EA at its steady state, so that its results can not be improved anymore. We use a regression model in order to determine the requirements ensuring that a measure derived from EA evolving population is related to the distance to the optimum in decision variable space. Our framework is analyzed across 24 benchmark test functions and two standard termination criteria based on function fitness value in objective function space and EA population decision variable space distribution for the differential evolution (DE) paradigm. Results validate our framework as a powerful tool for determining the capability of a measure for terminating EA and the results also identify the decision variable space distribution as the best-suited for accurately terminating DE in real-world applications.
+Keywords
+Evolutionary algorithms  Termination condition  Steady state  Differential evolution  

@@ -1,0 +1,8 @@
+Magnetic resonance tissue quantification using optimal bSSFP pulse-sequence design
+Christopher Kumar Anand;Renata Sotirov;Tamás Terlaky;Zhuo Zheng;
+Abstract
+
+We propose a merit function for the expected contrast to noise ratio in tissue quantifications, and formulate a nonlinear, nonconvex semidefinite optimization problem to select locally-optimal balanced steady-state free precession (bSSFP) pulse-sequence design variables. The method could be applied to other pulse sequence types, arbitrary numbers of tissues, and numbers of images. To solve the problem we use a mixture of a grid search to get good starting points, and a sequential, semidefinite, trust-region method, where the subproblems contain only linear and semidefinite constraints. We give the results of numerical experiments for the case of three tissues and three, four or six images, in which we observe a better increase in contrast to noise than would be obtained by averaging the results of repeated experiments. As an illustration, we show how the pulse sequences designed numerically could be applied to the problem of quantifying intraluminal lipid deposits in the carotid artery.
+
+Keywords
+Magnetic resonance imaging  Balanced steady-state free precession  Dixon method  Semidefinite programming  Trust-region algorithm  

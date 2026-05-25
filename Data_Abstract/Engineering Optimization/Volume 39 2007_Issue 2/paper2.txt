@@ -1,0 +1,6 @@
+Engineering design optimization using species-conserving genetic algorithms
+ Jian-Ping   Li ; M.   E.   Balazs ; G.   T.   Parks ;
+Abstract
+ The species conservation technique described here, in which the population of a genetic algorithm is divided into several groups according to their similarity, is inspired by ecology. Each group with similar characteristics is called a species and is centred on a dominating individual, called the species seed. A genetic algorithm based on this species conservation technique, called the species-conserving genetic algorithm (SCGA), was established and has been proved to be effective in finding multiple solutions of multimodal optimization problems. In this article, the SCGA is used to solve engineering design optimization problems. Different distance measures (measures of similarity) are investigated to analyse the performance of the SCGA. It is shown that the Euclidean distance is not the only possible basis for defining a species and sometimes may not make sense in engineering applications. Two structural design problems are used to demonstrate how the choice of a meaningful measure of similarity will help the exploration for significant designs. 
+Keywords
+Species conservation, Engineering design optimization, Genetic algorithms, Bio-inspired computation, Optimization 

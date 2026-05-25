@@ -1,0 +1,6 @@
+A globally convergent primal-dual interior point method for constrained optimization
+ Hiroshi   Yamashita ;
+Abstract
+ This paper proposes a primal-dual interior point method for solving general nonlinearly constrained optimization problems. The method is based on solving the Barrier Karush-Kuhn-Tucker conditions for optimality by the Newton method. To globalize the iteration we introduce the Barrier-penalty function and the optimality condition for minimizing this function. Our basic iteration is the Newton iteration for solving the optimality conditions with respect to the Barrier-penalty function which coincides with the Newton iteration for the Barrier Karush-Kuhn-Tucker conditions if the penalty parameter is sufficiently large. It is proved that the method is globally convergent from an arbitrary initial point that strictly satisfies the bounds on the variables. Implementations of the given algorithm are done for small dense nonlinear programs. The method solves all the problems in Hock and Schittkowski's textbook efficiently. Thus it is shown that the method given in this paper possesses a good theoretical convergence property and is efficient in practice. 
+Keywords
+Interior point method, primal-dual method, constrained optimization, nonlinear programming 

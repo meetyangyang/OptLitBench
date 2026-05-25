@@ -1,0 +1,6 @@
+A branch and cut algorithm for nonconvex quadratically constrained quadratic programming
+Charles Audet;Pierre Hansen;Brigitte Jaumard;Gilles Savard;
+Abstract
+We present a branch and cut algorithm that yields in finite time, a globally ε-optimal solution (with respect to feasibility and optimality) of the nonconvex quadratically constrained quadratic programming problem. The idea is to estimate all quadratic terms by successive linearizations within a branching tree using Reformulation-Linearization Techniques (RLT). To do so, four classes of linearizations (cuts), depending on one to three parameters, are detailed. For each class, we show how to select the best member with respect to a precise criterion. The cuts introduced at any node of the tree are valid in the whole tree, and not only within the subtree rooted at that node. In order to enhance the computational speed, the structure created at any node of the tree is flexible enough to be used at other nodes. Computational results are reported that include standard test problems taken from the literature. Some of these problems are solved for the first time with a proof of global optimality.
+Keywords
+Key words: nonconvex programming – quadratic programming – RLT – linearization – outer-approximation – branch and cut – global optimization  

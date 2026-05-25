@@ -1,0 +1,6 @@
+On the Complexity of Mean Flow Time Scheduling
+Ravi Sethi;
+Abstract
+There are n tasks lo be scheduled for processing on a set of identical parallel machines. We are interested in minimizing the mean flow time, which is related to the sum of the finishing times of all tasks. When tasks can be processed in any order, optimal schedules can be constructed in O(n log n) time on any number of identical machines. With arbitrary precedence constraints the problem becomes NP-complete even on one machine. However, for series-parallel precedence constraints an O(n log n) algorithm is known for one machine. We show that on two or more machines, the problem is NP-complete even if the precedence constraints are tree-like. We prove the result both for in-trees in which the root is the last task to be processed, and out-trees in which the root is the first task to be processed.
+Keywords
+parallel processing scheduling mean flow time series-parallel precedence relations NP-complete complexity 

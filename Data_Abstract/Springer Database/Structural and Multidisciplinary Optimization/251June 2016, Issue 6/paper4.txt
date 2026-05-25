@@ -1,0 +1,6 @@
+A concurrent subspace collaborative optimization architecture to structural synthetical optimization design
+Weixing Yao;Yitao Wu;Fang Chen;
+Abstract
+A concurrent subspace collaborative optimization (CSCO) technique is developed in this paper to deal with the layout, shape and size optimization of the hierarchical feature structures. The structural optimization is divided into three concurrent subspaces: the structural layout optimization, shape optimization and size optimization. And all these subspace optimizations are solved independently in every iteration loop. Based on the optimal results of each subspace, the design variables are synthetically adjusted at the end of the loop. The iteration loop will be repeated until the convergence accuracy requirement is met. Two structural optimization examples, including truss structure and composite stiffened panel, are completed in this paper. The results obtained from them demonstrate the reasonability and effectiveness of the CSCO technique.
+Keywords
+Concurrent subspace collaborative optimization  Layout optimization  Shape optimization  Size optimization  Truss  Composite stiffened panel  

@@ -1,0 +1,6 @@
+New Reduction Techniques for the Group Steiner Tree Problem
+Carlos Eduardo   Ferreira and Fernando M.   de Oliveira Filho;
+Abstract
+The group Steiner tree problem consists of, given a graph G, a collection $\mathcal{R}$ of subsets of $V(G)$, and a positive cost $c_e$ for each edge e of G, finding a minimum‐cost tree in G that contains at least one vertex from each $R \in \mathcal{R}$. We call the sets in $\mathcal{R}$ groups. The well‐known Steiner tree problem is the special case of the group Steiner tree problem in which each set in $\mathcal{R}$ is unitary. In this paper, we present a general reduction test designed to remove group vertices, that is, vertices belonging to some group. Through the use of these tests we can conclude that a given group vertex can be considered a nonterminal and hence can be removed from its group. We also present some computational results on instances from SteinLib [T. Koch, A. Martin, and S. Voss, SteinLib: An updated library on Steiner tree problems in graphs, in Steiner Trees in Industry, Kluwer Academic Publishers, Dordrecht, The Netherlands, 2001, pp. 285–325].
+Keywords
+Steiner trees, preprocessing, reduction techniques, branch‐and‐cut, 90C27, 90C35, 90C57, 

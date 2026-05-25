@@ -1,0 +1,6 @@
+A neuro-evolutive technique applied for predicting the liquid crystalline property of some organic compounds
+ Elena-Niculina   Drăgoi ; Silvia   Curteanu ; Cătălin   Lisa ;
+Abstract
+ A simple self-adaptive version of the differential evolution algorithm was applied for simultaneous architectural and parametric optimization of feed-forward neural networks, used to classify the crystalline liquid property of a series of organic compounds. The developed optimization methodology was called self-adaptive differential evolution neural network (SADE-NN) and has the following characteristics: the base vector used is chosen as the best individual in the current population, two differential terms participate in the mutation process, the crossover type is binomial, a simple self-adaptive mechanism is employed to determine the near-optimal control parameters of the algorithm, and the integration of the neural network into the differential evolution algorithm is performed using a direct encoding scheme. It was found that a network with one hidden layer is able to make accurate predictions, indicating that the proposed methodology is efficient and, owing to its flexibility, it can be applied to a large range of problems. 
+Keywords
+optimization, differential evolution, self-adaptation, prediction, crystalline property 

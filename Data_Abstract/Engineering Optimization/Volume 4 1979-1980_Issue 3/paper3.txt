@@ -1,0 +1,6 @@
+NON-OPTIMAL DYNAMIC PROGRAMMING ALGORITHMS IN THE DESIGN OF MINIMUM COST DRAINAGE SYSTEMS
+ G. A.   WALTERS ; A. B.   TEMPLEMAN ;
+Abstract
+ Underground drainage systems for stormwater or foul waste may be efficiently designed for minimum construction cost by Dynamic Programming. Several previous authors have described optimum design algorithms. A practical design requirement for drainage systems is that pipe diameters must not decrease in a downstream sense through the system. This requirement is much more difficult to incorporate in a rigorous Dynamic Programming algorithm than it appears at first sight. The present authors have examined several algorithms proposed by previous authors and have found that they all handle this requirement in a fundamentally invalid fashion. Consequently previous Dynamic Programming algorithms are incorrect, leading to feasible though possibly nonoptimal designs. This paper describes how the error arises in present algorithms and presents a simple example which shows the non-optimality of the algorithms. Finally, the correct handling of the requirement for non-decreasing pipe sizes is discussed and a rigorous Dynamic Programming algorithm for practical minimum cost drainage design is presented. 
+Keywords
+ 

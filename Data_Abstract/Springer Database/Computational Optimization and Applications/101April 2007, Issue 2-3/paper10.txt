@@ -1,0 +1,8 @@
+Matching-based preprocessing algorithms to the solution of saddle-point problems in large-scale nonconvex interior-point optimization
+Olaf Schenk;Andreas Wächter;Michael Hagemann;
+Abstract
+
+Interior-point methods are among the most efficient approaches for solving large-scale nonlinear programming problems. At the core of these methods, highly ill-conditioned symmetric saddle-point problems have to be solved. We present combinatorial methods to preprocess these matrices in order to establish more favorable numerical properties for the subsequent factorization. Our approach is based on symmetric weighted matchings and is used in a sparse direct LDL T factorization method where the pivoting is restricted to static supernode data structures. In addition, we will dynamically expand the supernode data structure in cases where additional fill-in helps to select better numerical pivot elements. This technique can be seen as an alternative to the more traditional threshold pivoting techniques. We demonstrate the competitiveness of this approach within an interior-point method on a large set of test problems from the CUTE and COPS sets, as well as large optimal control problems based on partial differential equations. The largest nonlinear optimization problem solved has more than 12 million variables and 6 million constraints.
+
+Keywords
+Nonconvex nonlinear programming  Interior-point method  Saddle-point problem  Numerical linear algebra  Maximum weight matching  

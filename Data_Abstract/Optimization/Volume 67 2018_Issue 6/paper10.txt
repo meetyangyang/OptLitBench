@@ -1,0 +1,6 @@
+A primal-dual interior-point algorithm for symmetric optimization based on a new method for finding search directions
+Petra Renáta Takács;Zsolt Darvay;
+Abstract
+We introduce an interior-point method for symmetric optimization based on a new method for determining search directions. In order to accomplish this, we use a new equivalent algebraic transformation on the centring equation of the system which characterizes the central path. In this way, we obtain a new class of directions. We analyse a special case of this class, which leads to the new interior-point algorithm mentioned before. Another way to find the search directions is using barriers derived from kernel functions. We show that in our case the corresponding direction cannot be deduced from a usual kernel function. In spite of this fact, we prove the polynomial complexity of the proposed algorithm.
+Keywords
+Symmetric optimization, interior-point methods, polynomial complexity 

@@ -1,0 +1,6 @@
+On Nesterov's smooth Chebyshev–Rosenbrock function
+ Florian   Jarre ;
+Abstract
+ We discuss a modification of the chained Rosenbrock function introduced by Nesterov. This function r  N  is a polynomial of degree 4 defined for x∈ℝ n . Its only stationary point is the global minimizer x*=(1, 1, …, 1)T with optimal value zero. A point x (0) in the box B:=<texlscub>x |−1≤x  i ≤1 for 1≤i≤n</texlscub>with r  N (x (0))=1 is given such that there is a continuous piecewise linear descent path within B that starts at x (0) and leads to x*. It is shown that any continuous piecewise linear descent path starting at x (0) consists of at least an exponential number of 0.72·1.618 n  linear segments before reducing the value of r  N  to 0.25. Moreover, there exists a uniform bound, independent of n, on the Lipschitz constant for the second derivative of r  N  within B. 
+Keywords
+Rosenbrock function, descent path 

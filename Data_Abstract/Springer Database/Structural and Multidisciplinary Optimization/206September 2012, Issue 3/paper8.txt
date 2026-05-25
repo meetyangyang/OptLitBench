@@ -1,0 +1,6 @@
+Strategies for adding features to CAD models in order to optimize performance
+Trevor T. Robinson;Cecil G. Armstrong;Hung Soon Chua;
+Abstract
+This paper presents an approach which enables new parameters to be added to a CAD model for optimization purposes. It aims to remove a common roadblock to CAD based optimization, where the parameterization of the model does not offer the shape sufficient flexibility for a truly optimized shape to be created. A technique has been developed which uses adjoint based sensitivity maps to predict the sensitivity of performance to the addition to a model of four different feature types, allowing the feature providing the greatest benefit to be selected. The optimum position to add the feature is also discussed. It is anticipated that the approach could be used to iteratively add features to a model, providing greater flexibility to the shape of the model, and allowing the newly-added parameters to be used as design variables in a subsequent shape optimization.
+Keywords
+Shape optimization  Topology optimization  CAD  Adjoint method  

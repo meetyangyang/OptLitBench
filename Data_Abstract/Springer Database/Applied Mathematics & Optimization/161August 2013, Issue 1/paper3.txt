@@ -1,0 +1,6 @@
+A Model-Free No-arbitrage Price Bound for Variance Options
+J. Frédéric Bonnans;Xiaolu Tan;
+Abstract
+We suggest a numerical approximation for an optimization problem, motivated by its applications in finance to find the model-free no-arbitrage bound of variance options given the marginal distributions of the underlying asset. A first approximation restricts the computation to a bounded domain. Then we propose a gradient projection algorithm together with the finite difference scheme to solve the optimization problem. We prove the general convergence, and derive some convergence rate estimates. Finally, we give some numerical examples to test the efficiency of the algorithm.
+Keywords
+Variance option  Model-free price bound  Gradient projection algorithm  

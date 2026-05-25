@@ -1,0 +1,6 @@
+Solving variational inequality and fixed point problems by line searches and potential optimization
+Thomas L. Magnanti;Georgia Perakis;
+Abstract
+We introduce a general adaptive line search framework for solving fixed point and variational inequality problems. Our goals are to develop iterative schemes that (i) compute solutions when the underlying map satisfies properties weaker than contractiveness, for example, weaker forms of nonexpansiveness, (ii) are more efficient than the classical methods even when the underlying map is contractive, and (iii) unify and extend several convergence results from the fixed point and variational inequality literatures. To achieve these goals, we introduce and study joint compatibility conditions imposed upon the underlying map and the iterative step sizes at each iteration and consider line searches that optimize certain potential functions. As a special case, we introduce a modified steepest descent method for solving systems of equations that does not require a previous condition from the literature (the square of the Jacobian matrix is positive definite). Since the line searches we propose might be difficult to perform exactly, we also consider inexact line searches.
+Keywords
+Fixed point problems  Variational inequalities  Averaging schemes  Nonexpansive maps  Strongly-f-monotone maps  

@@ -1,0 +1,6 @@
+A Combined Convex Approximation—Interior Point Approach for Large Scale Nonlinear Programming
+Christian Zillober;
+Abstract
+The method of moving asymptotes (MMA) and its globally convergent extension SCP (sequential convex programming) are known to work well in the context of structural optimization. The two main reasons are that the approximation scheme used for the objective function and the constraints fits very well to these applications and that at an iteration point a local optimization model is used such that additional expensive function and gradient evaluations of the original problem are avoided. The subproblems that occur in both methods are special nonlinear convex programs and have traditionally been solved using a dual approach. This is now replaced by an interior point approach. The latter one is more suitable for large problems because sparsity properties of the original problem can be preserved and the separability property of the approximation functions is exploited. The effectiveness of the new method is demonstrated by a few examples dealing with problems of structural optimization.
+Keywords
+method of moving asymptotes  sequential convex programming  interior point method  structural optimization  convex approximations  large scale problems  

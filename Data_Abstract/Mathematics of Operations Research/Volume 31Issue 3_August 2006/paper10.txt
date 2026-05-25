@@ -1,0 +1,6 @@
+A Cost-Shaping Linear Program for Average-Cost Approximate Dynamic Programming with Performance Guarantees
+Daniela Pucci de Farias;Benjamin Van Roy;
+Abstract
+We introduce a new algorithm based on linear programming for optimization of average-cost Markov decision processes (MDPs). The algorithm approximates the differential cost function of a perturbed MDP via a linear combination of basis functions. We establish a bound on the performance of the resulting policy that scales gracefully with the number of states without imposing the strong Lyapunov condition required by its counterpart in de Farias and Van Roy [de Farias, D. P., B. Van Roy. 2003. The linear programming approach to approximate dynamic programming. Oper. Res.51(6) 850–865]. We investigate implications of this result in the context of a queueing control problem.
+Keywords
+approximate dynamic programming linear programming average cost 

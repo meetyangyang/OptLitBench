@@ -1,0 +1,6 @@
+Reformulations in mathematical programming: automatic symmetry detection and exploitation
+Leo Liberti;
+Abstract
+If a mathematical program has many symmetric optima, solving it via Branch-and-Bound techniques often yields search trees of disproportionate sizes; thus, finding and exploiting symmetries is an important task. We propose a method for automatically finding the formulation group of any given Mixed-Integer Nonlinear Program, and for reformulating the problem by means of static symmetry breaking constraints. The reformulated problem—which is likely to have fewer symmetric optima—can then be solved via standard Branch-and-Bound codes such as CPLEX (for linear programs) and Couenne (for nonlinear programs). Our computational results include formulation group tables for the MIPLib3, MIPLib2003, GlobalLib and MINLPLib instance libraries and solution tables for some instances in the aforementioned libraries.
+Keywords
+Group  Symmetry  Mixed integer nonlinear programming  Branch and bound  90C11  90C26  

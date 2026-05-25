@@ -1,0 +1,4 @@
+CP with ACO
+Madjid Khichane;Patrick Albert;Christine Solnon;
+Abstract
+The Ant Colony Optimization (ACO) meta-heuristic [1] has proven its efficiency to solve hard combinatorial optimization problems. However most works have focused on designing efficient ACO algorithms for solving specific problems, but not on integrating ACO within declarative languages so that solving a new problem with ACO usually implies a lot of procedural programming. Our approach is thus to explore the tight integration of Constraint Programming (CP) with ACO. Our research is based upon ILOG Solver, and we use its modeling language and its propagation engine, but the search is guided by ACO. This approach has the benefit of reusing all the work done at the modeling level as well as the code dedicated to constraint propagation and verification.

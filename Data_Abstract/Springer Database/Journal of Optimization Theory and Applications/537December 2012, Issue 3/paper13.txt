@@ -1,0 +1,6 @@
+Coverage Maximization with Autonomous Agents in Fast Flow Environments
+Andrew Kwok;Sonia Martínez;
+Abstract
+This work examines the cooperative motion of a group of autonomous vehicles in a fast flow environment. The magnitude of the flow velocity is assumed to be greater than the available actuation to each agent. Collectively, the agents wish to maximize total coverage area defined as the set of points reachable by any agent within T time. The reachable set of an agent in a fast flow is characterized using optimal control techniques. Specifically, this work addresses the complementary cases where the static flow field is smooth, and where the flow field is piecewise constant. The latter case arises as a proposed approximation of a smooth flow that remains analytically tractable. Furthermore, the techniques used in the piecewise constant flow case enable treatment for obstacles in the environment. In both cases, a gradient ascent method is derived to maximize the total coverage area in a distributed fashion. Simulations show that such a network is able to maximize the coverage area in a fast flow.
+Keywords
+Optimal sensor coverage  Distributed control of multi-agent systems  

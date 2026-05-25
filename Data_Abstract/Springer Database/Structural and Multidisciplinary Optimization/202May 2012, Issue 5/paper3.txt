@@ -1,0 +1,6 @@
+Minmax topology optimization
+Kevin Brittain;Mariana Silva;Daniel A. Tortorelli;
+Abstract
+We describe a systematic approach for the robust optimal design of linear elastic structures subjected to unknown loading using minmax and topology optimization methods. Assuming only the loading region and norm, we distribute a given amount of material in the design domain to minimize the principal compliance, i.e. the maximum compliance that is produced by the worst-case loading scenario. We evaluate the principal compliance directly by satisfying the optimality conditions which take the form of a Steklov eigenvalue problem and thus we eliminate the need of an iterative nested optimization. To generate a well-posed topology optimization problem we use relaxation which requires homogenization theory. Examples are provided to demonstrate our algorithm.
+Keywords
+Topology optimization  Homogenization  Robust design  

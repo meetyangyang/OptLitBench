@@ -1,0 +1,6 @@
+Frames and Grids in Unconstrained and Linearly Constrained Optimization: A Nonsmooth Approach
+C. J.  Price and I. D.  Coope;
+Abstract
+This paper describes a class of frame-based direct search methods for unconstrained and linearly constrained optimization. A template is described and analyzed using Clarke's nonsmooth calculus. This provides a unified and simple approach to earlier results for grid- and frame-based methods, and also provides partial convergence results when the objective function is not smooth, undefined in some places, or both. The template also covers many new methods which combine elements of previous ideas using frames and grids. These new methods include grid-based simple descent algorithms which allow moving to points off the grid at every iteration and can automatically control the grid size, provided function values are available. The concept of a grid is also generalized to that of an admissible set, which allows sets, for example, with circular symmetries. The method is applied to linearly constrained problems using a simple barrier approach.
+Keywords
+derivative-free optimization, positive basis methods, nonsmooth convergence analysis, frame-based methods, 49M30, 65K05, 

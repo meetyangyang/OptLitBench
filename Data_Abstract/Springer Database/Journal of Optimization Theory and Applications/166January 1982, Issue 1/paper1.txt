@@ -1,0 +1,6 @@
+A cutting-plane algorithm with linear and geometric rates of convergence
+D. M. Topkis;
+Abstract
+This paper presents a cutting-plane algorithm for nonlinear programming which, under suitable conditions, exhibits a linear or geometric global rate of convergence. Other known rates of convergence for cutting-plane algorithms are no better than arithmetic for problems not satisfying a Haar condition. The feature responsible for this improved rate of convergence is the addition at each iteration of a new cut for each constraint, rather than adding only one new cut corresponding to the most violated constraint as is typically the case. Certain cuts can be dropped at each iteration, and there is a uniform upper bound on the number of old cuts retained. Geometric convergence is maintained if the subproblems at each iteration are approximated, rather than solved exactly, so the algorithm is implementable. The algorithm is flexible with respect to the point used to generate new cuts.
+Keywords
+Cutting-plane algorithms  outer approximation methods  rates of convergence  convex programming  

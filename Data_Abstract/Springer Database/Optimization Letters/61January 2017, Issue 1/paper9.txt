@@ -1,0 +1,6 @@
+A secant-based Nesterov method for convex functions
+Razak O. Alli-Oke;William P. Heath;
+Abstract
+A simple secant-based fast gradient method is developed for problems whose objective function is convex and well-defined. The proposed algorithm extends the classical Nesterov gradient method by updating the estimate-sequence parameter with secant information whenever possible. This is achieved by imposing a secant condition on the choice of search point. Furthermore, the proposed algorithm embodies an "update rule with reset" that parallels the restart rule recently suggested in O’Donoghue and Candes (Found Comput Math, 2013). The proposed algorithm applies to a large class of problems including logistic and least-square losses commonly found in the machine learning literature. Numerical results demonstrating the efficiency of the proposed algorithm are analyzed with the aid of performance profiles.
+Keywords
+Convex optimization  Fast gradient methods  Nesterov gradient method  

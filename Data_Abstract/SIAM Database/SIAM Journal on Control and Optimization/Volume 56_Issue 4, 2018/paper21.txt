@@ -1,0 +1,6 @@
+Swarming for Faster Convergence in Stochastic Optimization
+Shi  Pu  and Alfredo  Garcia;
+Abstract
+We study a distributed framework for stochastic optimization which is inspired by models of collective motion found in nature (e.g., swarming) with mild communication requirements.  Specifically, we analyze a scheme in which each one of $N > 1$ independent threads implements, in a distributed and unsynchronized fashion, a stochastic gradient-descent algorithm which is perturbed by a swarming potential. Assuming the overhead caused by synchronization is not negligible, we show the swarming-based approach exhibits better performance than a centralized algorithm (based upon the average of $N$ observations) in terms of (real-time) convergence speed. We also derive an error bound that is monotone decreasing in network size and connectivity. We characterize the scheme's finite-time performances for both convex and nonconvex objective functions.
+Keywords
+stochastic optimization, swarming-based framework, distributed optimization, 90C15, 90C25, 68Q25, 

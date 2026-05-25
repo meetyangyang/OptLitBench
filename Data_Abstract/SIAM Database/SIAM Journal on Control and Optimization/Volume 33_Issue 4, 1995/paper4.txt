@@ -1,0 +1,6 @@
+Relaxed Minimax Control
+E. N.  Barron and R.  Jensen;
+Abstract
+The relaxation of the optimal control problem with cost functional which is the supremum in time of some function $h(t,x,z)$ is determined. The trajectory is convexified in the usual way but the cost functional is convexified in a nonobvious manner. Thus, if the original value function is $V(t,x) = \inf _{\zeta  \in \mathcal{Z}} \| {h(s,\xi (s),\zeta (s))} \|_{L_\infty  [t,T]} $, then the relaxed value function is \[\hat V(t,x) = \mathop {\inf }\limits_{\mu  \in \mathcal{Z}[t,T]} \left\| {\left\| {h(s,\hat \xi (s),z)} \right\|_{L^\infty  (Z;\mu (s))} } \right\|_{L^\infty  [t,T]}\] where the inner norm is the essential sup of h over $z \in Z$ with respect to the measure $\mu (s)$. We prove that V and $\hat V$ coincide.
+Keywords
+L∞ optimal control, relaxed problem, 49A10, 49A40, 93C60, 

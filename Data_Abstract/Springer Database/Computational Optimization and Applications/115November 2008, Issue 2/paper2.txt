@@ -1,0 +1,8 @@
+Implementation of warm-start strategies in interior-point methods for linear programming in fixed dimension
+Elizabeth John;E. Alper Yıldırım;
+Abstract
+
+We implement several warm-start strategies in interior-point methods for linear programming (LP). We study the situation in which both the original LP instance and the perturbed one have exactly the same dimensions. We consider different types of perturbations of data components of the original instance and different sizes of each type of perturbation. We modify the state-of-the-art interior-point solver PCx in our implementation. We evaluate the effectiveness of each warm-start strategy based on the number of iterations and the computation time in comparison with “cold start” on the NETLIB test suite. Our experiments reveal that each of the warm-start strategies leads to a reduction in the number of interior-point iterations especially for smaller perturbations and for perturbations of fewer data components in comparison with cold start. On the other hand, only one of the warm-start strategies exhibits better performance than cold start in terms of computation time. Based on the insight gained from the computational results, we discuss several potential improvements to enhance the performances of such warm-start strategies.
+
+Keywords
+Linear programming  Interior-point methods  Warm-start strategies  Reoptimization  

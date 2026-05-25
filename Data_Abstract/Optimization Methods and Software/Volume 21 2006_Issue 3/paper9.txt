@@ -1,0 +1,6 @@
+Exploiting problem structure in pattern search methods for unconstrained optimization
+ C. J.   Price ; PH. L.   Toint ;
+Abstract
+ A direct search method for unconstrained optimization is described. The method makes use of any partial separability structure that the objective function may have. The method uses successively finer nested grids, and minimizes the objective function over each grid in turn. All grids are aligned with the coordinate directions, which allows the partial separability structure of the objective function to be exploited. This has two advantages: it reduces the work needed to calculate function values at the points required and it provides function values at other points as a free by-product. Numerical results show that using partial separability can dramatically reduce the number of function evaluations needed to minimize a function, in some cases allowing problems with thousands of variables to be solved. Results show that the algorithm is effective on strictly C 1 problems and on a class of non-smooth problems. 
+Keywords
+Partial separability, Pattern search, Derivative free 

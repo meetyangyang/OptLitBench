@@ -1,0 +1,6 @@
+On the use of directions of negative curvature in a modified newton method
+Jorge J. Moré;Danny C. Sorensen;
+Abstract
+We present a modified Newton method for the unconstrained minimization problem. The modification occurs in non-convex regions where the information contained in the negative eigenvalues of the Hessian is taken into account by performing a line search along a path which is initially tangent to a direction of negative curvature. We give termination criteria for the line search and prove that the resulting iterates are guaranteed to converge, under reasonable conditions, to a critical point at which the Hessian is positive semidefinite. We also show how the Bunch and Parlett decomposition of a symmetric indefinite matrix can be used to give entirely adequate directions of negative curvature.
+Keywords
+Unconstrained Optimization  Modified Newton's Method  Descent Pairs  Directions of Negative Curvature  Symmetric Indefinite Factorization  Steplength Algorithm  

@@ -1,0 +1,6 @@
+Can Parallel Branch and Bound without Communication Be Effective?
+Per S.  Laursen;
+Abstract
+The usual approach to parallel Branch and Bound is to employ dynamic exchange of subproblems during the search in order to ensure a uniform workload on all processors. It is a common assumption that static distribution of subproblems is “inherently inefficient.”A parallel Branch and Bound algorithm was implemented, which does not communicate during the search. A small number of subproblems are initially generated and distributed among the processors which then perform ordinary serial Branch and Bound. Since the value of the current best solution is not distributed during the search it is necessary to be able to provide a good initial solution.The algorithm has been applied to three combinatorial optimization problems; the quadratic assignment problem, the graph partitioning problem, and the weighted vertex cover problem. For all three problems, an average processor utilization of 0.70–0.85 was observed. Parallel Branch and Bound without communication is thus not inherently  inefficient.
+Keywords
+parallel processing, combinatorial optimization, Branch and Bound, 65Y05, 68Q22, 90C27, 

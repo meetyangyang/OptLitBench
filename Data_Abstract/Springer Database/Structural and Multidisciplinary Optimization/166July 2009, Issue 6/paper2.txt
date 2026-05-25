@@ -1,0 +1,6 @@
+Subset selection from large datasets for Kriging modeling
+Gijs Rennen;
+Abstract
+When building a Kriging model, the general intuition is that using more data will always result in a better model. However, we show that when we have a large non-uniform dataset, using a uniform subset can have several advantages. Reducing the time necessary to fit the model, avoiding numerical inaccuracies and improving the robustness with respect to errors in the output data are some aspects which can be improved by using a uniform subset. We furthermore describe several new and current methods for selecting a uniform subset. These methods are tested and compared on several artificial datasets and one real life dataset. The comparison shows how the selected subsets affect different aspects of the resulting Kriging model. As none of the subset selection methods performs best on all criteria, the best method to choose depends on how the different aspects are valued. The comparison made in this paper can be used to facilitate the user in making a good choice.
+Keywords
+Design of computer experiments  Dispersion problem  Kriging model  Large non-uniform datasets  Radial basis functions  Robustness  Space filling  Subset selection  Uniformity  

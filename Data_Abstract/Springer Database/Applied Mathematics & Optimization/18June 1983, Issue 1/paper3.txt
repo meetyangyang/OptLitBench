@@ -1,0 +1,6 @@
+Some remarks on the construction of higher order algorithms in convex optimization
+C. Lemaréchal;J. Zowe;
+Abstract
+Consider the problem of minimizing a real functionalf. A Newton-like method requires first an approximationD(d) off(x + d)−f(x) at the current iteratex, valid for smalld to an order higher than 1, and consists in minimizingD. In this paper, we will introduce a new concept of such an approximation for convex functions without differentiability assumptions. The connections with the classical concept based on the Taylor development of a differentiablef are exhibited. The material is used to study a conceptual (nonimplementable) algorithm. Some hints are given which could lead to an implementable version.
+Keywords
+System Theory  Mathematical Method  Convex Function  Convex Optimization  Classical Concept  

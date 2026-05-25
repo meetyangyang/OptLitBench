@@ -1,0 +1,6 @@
+New algorithms for constrained minimax optimization
+S. R. K. Dutta;M. Vidyasagar;
+Abstract
+A constrained minimax problem is converted to minimization of a sequence of unconstrained and continuously differentiable functions in a manner similar to Morrison's method for constrained optimization. One can thus apply any efficient gradient minimization technique to do the unconstrained minimization at each step of the sequence. Based on this approach, two algorithms are proposed, where the first one is simpler to program, and the second one is faster in general. To show the efficiency of the algorithms even for unconstrained problems, examples are taken to compare the two algorithms with recent methods in the literature. It is found that the second algorithm converges faster with respect to the other methods. Several constrained examples are also tried and the results are presented.
+Keywords
+Minimax optimization  Nonlinear programming  Computer-aided network design  

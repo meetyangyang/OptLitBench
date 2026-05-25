@@ -1,0 +1,6 @@
+Exploiting derivative-free local searches in DIRECT-type algorithms for global optimization
+G. Liuzzi;S. Lucidi;V. Piccialli;
+Abstract
+In this paper we consider bound constrained global optimization problems where first-order derivatives of the objective function can be neither computed nor approximated explicitly. For the solution of such problems the DIRECT algorithm has been proposed which has a good ability to locate promising regions of the feasible domain and convergence properties based on the generation of a dense set of points over the feasible domain. However, the efficiency of DIRECT deteriorates as the dimension and the ill-conditioning of the objective function increase. To overcome these limits, we propose DIRECT-type algorithms enriched by the efficient use of derivative-free local searches combined with nonlinear transformations of the feasible domain and, possibly, of the objective function. We report extensive numerical results both on test problems from the literature and on an application in structural proteomics.
+Keywords
+Global optimization  DIRECT-type algorithms  Local minimizations  65K05  90C26  

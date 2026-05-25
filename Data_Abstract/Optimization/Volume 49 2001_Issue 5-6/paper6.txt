@@ -1,0 +1,6 @@
+Experiments with primal - dual decomposition and subgradient methods for the uncapacitatied facility location problem
+ Kaj.   Holmberg ;
+Abstract
+ For optimization problems that are structured both with respect to the constraints and with respect to the variables, it is possible to use primal–dual solution approaches, based on decomposition principles. One can construct a primal subproblem, by fixing some variables, and a dual subproblem, by relaxing some constraints and king their Lagrange multipliers, so that both these problems are much easier to solve than the original problem. We study methods based on these subproblems, that do not include the difficult Benders or Dantzig-Wolfe master problems, namely primal–dual subgradient optimization methods, mean value cross decomposition, and several comtbinations of the different techniques. In this paper, these solution approaches are applied to the well-known uncapacitated facility location problem. Computational tests show that some combination methods yield near-optimal solutions quicker than the classical dual ascent method of Erlenkotter  
+Keywords
+Decomposition Methods, Lagrange Multipliers, Subgradient Optimization, Uncapacitated Facility Location 

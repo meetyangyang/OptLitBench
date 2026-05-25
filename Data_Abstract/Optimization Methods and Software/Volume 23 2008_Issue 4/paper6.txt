@@ -1,0 +1,6 @@
+Nonlinear clustering-based support vector machine for large data sets
+ Yongqiao   Wang ; Xun   Zhang ; Souyang   Wang ; K.K.   Lai ;
+Abstract
+ This paper presents a kernel clustering-based support vector machine (KCB-SVM) that generalizes the linear clustering-based support vector machine (CB-SVM) to solve nonlinear classification problems in a novel way. It can not only handles large data sets, but can also have nonlinear discriminant power. By introducing kernel clustering, KCB-SVM unifies the metrics in the clustering and training stages. Elaborately designed clustering features summarize all the information required for further clustering and training, which allows only one scan of the total data sets. Experiments on both artificial and real large data sets show that the KCB-SVM not only achieves better classification accuracy than random sampling, active learning and CB-SVM, but also retains the ability to handle large data sets. 
+Keywords
+classification, kernel clustering, support vector machine, active learning 

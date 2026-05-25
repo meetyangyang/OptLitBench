@@ -1,0 +1,6 @@
+ Hinge-free topology optimization with embedded translation-invariant differentiable wavelet shrinkage
+G.H. Yoon;Y.Y. Kim;M.P. Bendsøe;O. Sigmund;
+Abstract
+In topology optimization applications for the design of compliant mechanisms, the formation of hinges is typically encountered. Often such hinges are unphysical artifacts that appear due to the choice of discretization spaces for design and analysis. The objective of this work is to present a new method to find hinge-free designs using multiscale wavelet-based topology optimization formulation. The specific method developed in this work does not require refinement of the analysis model and it consists of a translation-invariant wavelet shrinkage method where a hinge-free condition is imposed in the multiscale design space. To imbed the shrinkage method implicitly in the optimization formulation and thus facilitate sensitivity analysis, the shrinkage method is made differentiable by means of differentiable versions of logical operators. The validity of the present method is confirmed by solving typical two-dimensional compliant mechanism design problems.
+Keywords
+compliant mechanism design  differentiable wavelet shrinkage  hinge-suppression  multiscale wavelet design space  translation-invariance   

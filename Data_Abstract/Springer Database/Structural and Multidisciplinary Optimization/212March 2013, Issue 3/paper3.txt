@@ -1,0 +1,6 @@
+Parametric structural optimization with dynamic knot RBFs and partition of unity method
+Hon Shan Ho;Michael Yu Wang;Mingdong Zhou;
+Abstract
+An efficient algorithm is presented for solving optimization problem of geometrical domains in which elliptic boundary value problems are defined. The surface of the domain is implicitly described through a level set function and the moving boundary is determined by the time-dependent dynamic knots of the radial basis functions (RBFs). A method of Partition of Unity (POU) is leveraged to calculate the solution, which divides the domain into some smaller overlapping local sub-domains and reconstructs them into the global surface with less numerical cost. Apart from the convergence properties, numerical results are given and discussed.
+Keywords
+Structural optimization  Radial basis function  Dynamic knots  Partition of unity  

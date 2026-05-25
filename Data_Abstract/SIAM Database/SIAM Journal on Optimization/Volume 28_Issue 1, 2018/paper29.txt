@@ -1,0 +1,6 @@
+Finding Planted Subgraphs with Few Eigenvalues using the Schur--Horn Relaxation
+Utkan Onur  Candogan and Venkat  Chandrasekaran;
+Abstract
+Extracting structured subgraphs inside large graphs---often known as the planted subgraph problem---is a fundamental question that arises in a range of application domains. This problem is NP-hard in general and, as a result, significant efforts have been directed towards the development of tractable procedures that succeed on specific families of problem instances. We propose a new computationally efficient convex relaxation for solving the planted subgraph problem; our approach is based on tractable semidefinite descriptions of majorization inequalities on the spectrum of a symmetric matrix. This procedure is effective at finding planted subgraphs that consist of few distinct eigenvalues, and it generalizes previous convex relaxation techniques for finding planted cliques. Our analysis relies prominently on the notion of spectrally comonotone matrices, which are pairs of symmetric matrices that can be transformed to diagonal matrices with sorted diagonal entries upon conjugation by the same orthogonal matrix.
+Keywords
+convex optimization, distance-regular graphs, induced subgraph isomorphism, majorization, orbitopes, semidefinite programming, strongly regular graphs, 90C25, 90C22, 90C90, 90C35, 

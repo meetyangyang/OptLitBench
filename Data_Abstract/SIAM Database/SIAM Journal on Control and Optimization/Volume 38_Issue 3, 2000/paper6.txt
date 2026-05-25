@@ -1,0 +1,6 @@
+Mesh-Independence for an Augmented Lagrangian-SQP Method in Hilbert Spaces
+S.  Volkwein;
+Abstract
+An augmented Lagrangian-SQP algorithm for optimal control of differential equations in Hilbert spaces is analyzed. This algorithm has second-order convergence rate provided that a second-order sufficient optimality condition is satisfied. The internal approximation of this method is investigated, and convergence results are presented. A mesh-independence principle for the augmented Lagrangian-SQP method is proved, which asserts that asymptotically the infinite dimensional algorithm and finite dimensional discretizations have the same convergence property. More precisely, for sufficiently small mesh-size there is at most a difference of one iteration step between the number of steps required by the infinite dimensional method and its discretization to converge within a given tolerance $\varepsilon >0$. The theoretical results are demonstrated by two optimal control problems for the Burgers equation.
+Keywords
+nonlinear programming, multiplier methods, internal approximation, mesh-inde\-pendence, Burgers equation, 49K20, 49M29, 49M37, 65Nxx, 

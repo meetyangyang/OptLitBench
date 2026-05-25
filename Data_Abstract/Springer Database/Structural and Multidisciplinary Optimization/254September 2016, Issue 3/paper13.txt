@@ -1,0 +1,6 @@
+A full-space barrier method for stress-constrained discrete material design optimization
+Graeme J. Kennedy;
+Abstract
+In this paper, we present a full-space barrier method designed for stress-constrained mass minimization problems with discrete material options. The advantages of the full-space barrier method are twofold. First, in the full-space the stress constraints are provably concave, which facilitates the construction of convex subproblems within the optimization algorithm. Second, by using the full-space, it is no longer necessary to employ stress constraint aggregation techniques to reduce adjoint-gradient evaluation costs. The proposed optimization algorithm uses a Newton method where an approximate linearization of the KKT conditions is solved inexactly at each iteration using a preconditioned Krylov subspace method. Sparse constraints that arise in the discrete material parametrization are treated using a null-space method. Results of the proposed algorithm are demonstrated on a series of three topology and multimaterial optimization problems with selection between isotropic and orthotropic materials, as well as discrete ply-angle selection.
+Keywords
+Stress constraints  Discrete material optimization  Full-space method  Topology optimization  

@@ -1,0 +1,8 @@
+Affine reductions for LPs and SDPs
+Gábor Braun;Sebastian Pokutta;Daniel Zink;
+Abstract
+We define a reduction mechanism for LP and SDP formulations that degrades approximation factors in a controlled fashion. Our reduction mechanism is a minor restriction of classical hardness reductions requiring an additional independence assumption and it allows for reusing many hardness reductions that have been used to show inapproximability in the context of PCP theorems. As a consequence we establish strong linear programming inapproximability (for LPs with a polynomial number of constraints) for many problems. In particular we obtain a \(\frac{3}{2}-\varepsilon \) inapproximability for 
+ Open image in new window  answering an open question in Chan et al. (Proceedings of FOCS, pp. 350–359, 2013, https://doi.org/10.1109/FOCS.2013.45) and prove an inapproximability factor of \(\frac{1}{2}+\varepsilon \) for bounded degree 
+ Open image in new window . In the case of SDPs, we obtain inapproximability results for these problems relative to the SDP-inapproximability of \({\textsf {MaxCUT}}_{}\). Moreover, using our reduction framework we are able to reproduce various results for CSPs from Chan et al. (Proceedings of FOCS, pp. 350–359, 2013, https://doi.org/10.1109/FOCS.2013.45) via simple reductions from Max-\(2\)-XOR.
+Keywords
+90C22  68Q17  05C70  

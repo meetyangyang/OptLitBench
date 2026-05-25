@@ -1,0 +1,6 @@
+Analysis of Static Simulated Annealing Algorithms
+J.E. Orosz;S.H. Jacobson;
+Abstract
+Generalized hill climbing (GHC) algorithms provide a framework for modeling local search algorithms to address intractable discrete optimization problems. This paper introduces a measure for determining the expected number of iterations to visit a predetermined objective function level, given that an inferior objective function level has been reached in a finite number of iterations. A variation of simulated annealing (SA), termed static simulated annealing (S2A), is analyzed using this measure. S2A uses a fixed cooling schedule during the algorithm execution. Though S2A is probably nonconvergent, its finite-time performance can be assessed using the finite-time performance measure defined in this paper.
+Keywords
+Local search algorithms  simulated annealing  cooling schedules  finite-time performance  

@@ -1,0 +1,6 @@
+An inexact alternating direction method of multipliers with relative error criteria
+Jiaxin Xie;Anping Liao;Xiaobo Yang;
+Abstract
+In this paper, we study an inexact version of the alternating direction method of multipliers (ADMM) for solving two-block separable linearly constrained convex optimization problems. Specifically, the two subproblems in the classic ADMM are allowed to be solved inexactly by certain relative error criteria, in the sense that only two parameters are needed to control the inexactness. Related convergence analysis are established under the assumption that the solution set to the KKT system of the problem is not empty. Numerical results on solving a class of sparse signal recovery problems are also provided to demonstrate the efficiency of the proposed algorithm.
+Keywords
+Alternating direction method of multipliers (ADMM)  Inexactness  Relative error criteria  Sparse signal recovery  

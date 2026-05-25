@@ -1,0 +1,6 @@
+Discounted Stochastic Fluid Programs
+Nicole Bäuerle;
+Abstract
+We consider optimal control problems for stochastic fluid models of the following type: Suppose (Zt) is a continuous-time Markov chain with finite state space. As long as Zt = z, the dynamics of the system at time t are given by a function bz(u(·)), where u is a control we have to choose. A cost rate function c is given, depending on the state and the action. We want to control the system in such a way as to minimize the expected discounted cost over an infinite horizon. We will call a problem of this type a Stochastic Fluid Program (SFP). They typically appear in production and telecommunication systems. We formulate the optimization problem as a discrete time Markov decision process and give conditions under which an optimal stationary policy exists. Furthermore, we show how to solve SFPs numerically, using Kushner's approximating Markov chain approach. Last but not least, we apply our results to a multiproduct manufacturing system without backlog.
+Keywords
+Stochastic fluid models Piecewise deterministic Markov process Markov decision process Maximum principle Approximating Markov chain approach 

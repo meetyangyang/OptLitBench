@@ -1,0 +1,6 @@
+Matrices with Identical Sets of Neighbors
+Imre Bárány;Herbert Scarf;
+Abstract
+Given a generic m by n matrix A, a lattice point h in ℤn is a neighbor of the origin if the body {x: Ax ≤ b}, with bi = max{0, aih}, i = 1, …, m, contains no lattice point other than 0 and h. The set of neighbors, N(A), is finite and 0-symmetric. We show that if A′ is another matrix of the same size with the property that sign aih = sign ai′h for every i and every h ∈ N(A), then A′ has precisely the same set of neighbors as A. The collection of such matrices is a polyhedral cone, described by a finite set of linear inequalities, each such inequality corresponding to a generator of one of the cones Ci = pos{h ∈ N(A): aih < 0}. Computational experience shows that Ci has “few” generators. We demonstrate this in the first nontrivial case n = 3, m = 4.
+Keywords
+Test sets for integer programming polyhedral sets of matrices 

@@ -1,0 +1,6 @@
+A Decomposition Method for Global and Local Quadratic Minimization
+M.J. Best;B. Ding;
+Abstract
+We present a decomposition method for indefinite quadratic programming problems having n variables and m linear constraints. The given problem is decomposed into at most m QP subproblems each having m linear constraints and n-1 variables. All global minima, all isolated local minima and some of the non-isolated local minima for the given problem are obtained from those of the lower dimensional subproblems. One way to continue solving the given problem is to apply the decomposition method again to the subproblems and repeatedly doing so until subproblems of dimension 1 are produced and these can be solved directly. A technique to reduce the potentially large number of subproblems is formulated.
+Keywords
+Local and global optimization  Non-convex quadratic program  Parametric linear programming  

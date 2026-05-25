@@ -1,0 +1,6 @@
+A unified aggregation and relaxation approach for stress-constrained topology optimization
+Alexander Verbart;Matthijs Langelaar;Fred van Keulen;
+Abstract
+In this paper, we propose a unified aggregation and relaxation approach for topology optimization with stress constraints. Following this approach, we first reformulate the original optimization problem with a design-dependent set of constraints into an equivalent optimization problem with a fixed design-independent set of constraints. The next step is to perform constraint aggregation over the reformulated local constraints using a lower bound aggregation function. We demonstrate that this approach concurrently aggregates the constraints and relaxes the feasible domain, thereby making singular optima accessible. The main advantage is that no separate constraint relaxation techniques are necessary, which reduces the parameter dependence of the problem. Furthermore, there is a clear relationship between the original feasible domain and the perturbed feasible domain via this aggregation parameter.
+Keywords
+Stress constraints  Singular optima  Constraint aggregation  Topology optimization  

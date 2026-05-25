@@ -1,0 +1,6 @@
+Wind load modeling for topology optimization of continuum structures
+Ramzi Zakhama;Mostafa M. Abdalla;Zafer Gürdal;Hichem Smaoui;
+Abstract
+Topology optimization of two and three dimensional structures subject to dead and wind loading is considered. The wind loading is introduced into the formulation by using standard expressions for the drag force, and a strategy is devised so that wind pressure is ignored where there is no surface obstructing the wind. A minimum compliance design formulation is constructed subject to a volume constraint using the Solid Isotropic Material with Penalization model. The optimization problem is solved using the Method of Moving Asymptotes, modified by including a line search and by changing the formula for the update of asymptotes. To obtain black/white design, intermediate density values, which are used as design variables, are controlled by imposing an explicit constraint. Numerical examples of a windmill structure demonstrate that the proposed formulation rationally incorporates the effect of wind loading into the topology optimization problem as illustrated by void appearing in the optimal structure.
+Keywords
+Topology optimization  Continuum structures  Design dependent loads  Wind loads  Moving asymptotes  

@@ -1,0 +1,6 @@
+Unknown Input and State Estimation for Unobservable Systems
+Francisco J.  Bejarano, Leonid  Fridman, and Alexander  Poznyak;
+Abstract
+The concept of strong detectability and its relation with the concept of invariant zeros is reviewed. For strongly detectable systems (which includes the strongly observable systems), it is proposed a hierarchical design of a robust observer whose trajectories converge to those of the original state vector. Furthermore, it is shown that neither left invertibility is a sufficient condition nor strong detectability is a necessary condition to estimate the unknown inputs. It is shown that the necessary and sufficient condition for estimating the unknown inputs is that the set of the invariant zeros that do not belong to the set of unobservable modes be within the interior of the left half plane of the complex space. This shows that the unknown inputs could be estimated even if it is impossible to estimate the entire state vector of the system. Two numerical examples illustrate the effectiveness of the proposed estimation schemes.
+Keywords
+unknown input estimation, strong detectability, sliding mode observer, 93C41, 93B07, 93B51, 

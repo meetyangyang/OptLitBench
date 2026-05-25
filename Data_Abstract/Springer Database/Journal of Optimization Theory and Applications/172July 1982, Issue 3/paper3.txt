@@ -1,0 +1,6 @@
+A compact formulation of an elastoplastic analysis problem
+M. J. Best;
+Abstract
+Two important problems in the area of engineering plasticity are limit load analysis and elastoplastic analysis. It is well known that these two problems can be formulated as linear and quadratic programming problems, respectively (Refs. 1–2). In applications, the number of variables in each of these mathematical programming problems tends to be large. Consequently, it is important to have efficient numerical methods for their solution. The purpose of this paper is to present a method which allows the quadratic programming formulation of the elastoplastic analysis to be reformulated as an equivalent quadratic programming problem which has significantly fewer variables than the original formulation. Indeed, in Section 4, we will present details of an example for which the original quadratic programming formulation required 297 variables and for which the equivalent formulation presented here required only two variables. The method is based on a characterization of the entire family of optimal solutions for a linear programming problem.
+Keywords
+Engineering plasticity  elastoplastic analysis  linear programming  quadratic programming  alternative optimal solutions  

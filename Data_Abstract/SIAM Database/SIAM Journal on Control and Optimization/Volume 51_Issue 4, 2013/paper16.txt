@@ -1,0 +1,6 @@
+Analysis of Shape Optimization for Magnetic Microswimmers
+Shawn W.  Walker and Eric E.  Keaveny;
+Abstract
+We analyze an infinite dimensional, geometrically constrained shape optimization problem for magnetically driven microswimmers (locomotors) in three-dimensional (3-D) Stokes flow and give a well-posed descent scheme for computing optimal shapes. The problem is inspired by recent experimental work in this area.  We show the existence of a minimizer of the optimization problem using analytical tools for elastic rods that respect the excluded volume constraint. We derive a variational gradient descent method for computing optimal locomotor shapes using the tools of shape differential calculus. The descent direction is obtained by solving a saddle-point system, which we prove is well-posed.  We also introduce a finite element approximation of the gradient descent method and prove its stability.  We present numerical results illustrating our method and the effect that finite aspect ratio and external cargo can have on the optimal shape.  The 3-D Stokes equations are solved by a boundary integral method.
+Keywords
+shape optimization, microswimmer, 3-D Stokes flow, existence of minimizer, gradient descent method, Primary, 49M25; Secondary, 76D55, 

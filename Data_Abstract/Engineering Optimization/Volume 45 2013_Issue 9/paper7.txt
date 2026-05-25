@@ -1,0 +1,6 @@
+Dynamic optimization of chemical engineering problems using a control vector parameterization method with an iterative genetic algorithm
+ Feng   Qian ; Fan   Sun ; Weimin   Zhong ; Na   Luo ;
+Abstract
+ An approach that combines genetic algorithm (GA) and control vector parameterization (CVP) is proposed to solve the dynamic optimization problems of chemical processes using numerical methods. In the new CVP method, control variables are approximated with polynomials based on state variables and time in the entire time interval. The iterative method, which reduces redundant expense and improves computing efficiency, is used with GA to reduce the width of the search region. Constrained dynamic optimization problems are even more difficult. A new method that embeds the information of infeasible chromosomes into the evaluation function is introduced in this study to solve dynamic optimization problems with or without constraint. The results demonstrated the feasibility and robustness of the proposed methods. The proposed algorithm can be regarded as a useful optimization tool, especially when gradient information is not available. 
+Keywords
+control vector parameterization, iterative genetic algorithm, dynamic optimization, chemical engineering 

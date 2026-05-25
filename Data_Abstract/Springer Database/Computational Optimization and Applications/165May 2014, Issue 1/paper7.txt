@@ -1,0 +1,6 @@
+A tabu search approach for proportionate multiprocessor open shop scheduling
+Tamer F. Abdelmaguid;Mohamed A. Shalaby;Mohamed A. Awwad;
+Abstract
+In the multiprocessor open shop scheduling problem, jobs are to be processed on a set of processing centers—each having one or more parallel identical machines, while jobs do not have a pre-specified obligatory route. A special case is the proportionate multiprocessor open shop scheduling problem (PMOSP) in which the processing time on a given center is not job-dependent. Applications of the PMOSP are evident in health care systems, maintenance and repair shops, and quality auditing and final inspection operations in industry. In this paper, a tabu search (TS) approach is presented for solving the PMOSP with the objective of minimizing the makespan. The TS approach utilizes a neighborhood search function that is defined over a network representation of feasible solutions. A set of 100 benchmark problems from the literature is used to evaluate the performance of the developed approach. Experimentations show that the developed approach outperforms a previously developed genetic algorithm as it produces solutions with an average of less than 5 % deviation from a lower bound, and 40 % of its solutions are provably optimal.
+Keywords
+Scheduling  Multiprocessor open shop  Tabu search  Makespan  

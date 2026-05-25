@@ -1,0 +1,7 @@
+On blind source separation using mutual information criterion
+Zhi-Quan Luo;Jun Lu;
+Abstract
+We address the problem of blind separation of instantaneous and convolutive mixtures of independent signals. We formulate this problem as an optimization problem using the mutual information criterion. In the case of instantaneous mixtures, we solve the resulting optimization problem with an extended Newton's method on the Stiefel manifold. This approach works for general independent signals and enjoys quadratic convergence rate. For convolutive mixtures, we first decorrelate the signal mixtures by performing a spectral matrix factorization and then minimize the mutual information of decorrelated signal mixtures. This approach not only separates the sources but also equalizes the extracted signals. For both instantaneous and convolutive cases, we approximate the marginal density function of the output signals by a kernel estimator. The convergence of the kernel estimator is also analyzed. The simulation results demonstrate the competitiveness of our proposed methods.
+
+Keywords
+Mutual Information  Source Separation  Blind Source Separation  Kernel Estimator  Quadratic Convergence  

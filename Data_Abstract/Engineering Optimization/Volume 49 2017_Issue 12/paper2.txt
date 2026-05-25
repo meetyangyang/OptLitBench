@@ -1,0 +1,6 @@
+Structural optimization with an automatic mode identification method for tracking global vibration mode
+Shenyan Chen;Yijie Hu;Haichao An;
+Abstract
+This article presents a mode identification method for structural optimization with global mode constraints to overcome the mode switching problem. In engineering design, the natural frequencies of global vibrations for a complex structure, the orders of which would not be constant in optimization loops, are usually very difficult to constrain. In this case, an incorrect constraint may lead to an unreliable design. A mode identification technique based on modal effective mass fraction is implemented to track the global modes such that the constraints will be updated subsequently and the optimizer can run correctly. A study case with comparison to traditional modal assurance criterion approaches demonstrates the advantages of this technique. An optimization framework has been developed with the new proposed mathematical model. Two numerical optimization examples, of a space truss and a simplified satellite structure, are presented to demonstrate the feasibility and applicability of this process.
+Keywords
+Mode switching, structural optimization, dynamic constraints, global mode, mode identification 

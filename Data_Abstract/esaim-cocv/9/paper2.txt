@@ -1,0 +1,7 @@
+Design-dependent loads in topology optimization
+Blaise Bourdin1 and Antonin Chambolle2;
+Abstract
+ We present, analyze, and implement a new method for the design of the stiffest structure subject to a pressure load or a given field of internal forces. Our structure is represented as a subset S of a reference domain, and the complement of S is made of two other “phases”, the “void” and a fictitious “liquid” that exerts a pressure force on its interface with the solid structure. The problem we consider is to minimize the compliance of the structure S, which is the total work of the pressure and internal forces at the equilibrium displacement. In order to prevent from homogenization we add a penalization on the perimeter of S. We propose an approximation of our problem in the framework of Γ-convergence, based on an approximation of our three phases by a smooth phase-field. We detail the numerical implementation of the approximate energies and show a few experiments.
+Keywords
+Topology optimization, optimal design, design-dependent
+ loads

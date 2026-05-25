@@ -1,0 +1,6 @@
+A Set of Greedy Randomized Adaptive Local Search Procedure (GRASP) Implementations for the Multidimensional Assignment Problem
+Alexander J. Robertson;
+Abstract
+The focal problem for centralized multisensor multitarget tracking is the data association problem of partitioning the observations into tracks and false alarms so that an accurate estimate of the true tracks can be recovered. Large classes of these association problems can be formulated as multidimensional assignment problems, which are known to be NP-hard for three dimensions or more. The assignment problems that result from tracking are large scale, sparse and noisy. Solution methods must execute in real-time. The Greedy Randomized Adaptive Local Search Procedure (GRASP) has proven highly effective for solving many classes NP-hard optimization problems. This paper introduces four GRASP implementations for the multidimensional assignment problem, which are combinations of two constructive methods (randomized reduced cost greedy and randomized max regret) and two local search methods (two-assignment-exchange and variable depth exchange). Numerical results are shown for a two random problem classes and one tracking problem class.
+Keywords
+GRASP  assignment problem  discrete optimization  NP-Complete  

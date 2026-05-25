@@ -1,0 +1,6 @@
+Argument division based branch-and-bound algorithm for unit-modulus constrained complex quadratic programming
+Cheng Lu;Zhibin Deng;Wei-Qiang Zhang;Shu-Cherng Fang;
+Abstract
+This paper proposes a branch-and-bound algorithm for solving the unit-modulus constrained complex quadratic programming problems (CQPP). We study the convex hull of a unit-modulus complex variable with argument constraints, derive new valid linear inequalities from the convex hull, construct an improved semidefinite relaxation of CQPP, and then design an efficient algorithm for solving CQPP globally. The proposed algorithm branches on the sets of argument constraints and derives new valid inequalities from the partitioned sets of arguments. Numerical results are included to support the effectiveness of the proposed algorithm for finding a global solution to CQPP.
+Keywords
+Quadratic programming  Semidefinite relaxation  Branch-and-bound  Global optimization  

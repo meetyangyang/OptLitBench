@@ -1,0 +1,6 @@
+A Trust-Region Algorithm for Global Optimization
+Bernardetta Addis;Sven Leyffer;
+Abstract
+We consider the global minimization of a bound-constrained function with a so-called funnel structure. We develop a two-phase procedure that uses sampling, local optimization, and Gaussian smoothing to construct a smooth model of the underlying funnel. The procedure is embedded in a trust-region framework that avoids the pitfalls of a fixed sampling radius. We present a numerical comparison to three popular methods and show that the new algorithm is robust and uses up to 20 times fewer local minimizations steps.
+Keywords
+global optimization  smoothing  trust region  

@@ -1,0 +1,6 @@
+A MIQCP formulation for B-spline constraints
+Bjarne Grimstad;
+Abstract
+This paper presents a mixed-integer quadratically constrained programming (MIQCP) formulation for B-spline constraints. The formulation can be used to obtain an exact MIQCP reformulation of any spline-constrained optimization problem problem, provided that the polynomial spline functions are continuous. This reformulation allows practitioners to use a general-purpose MIQCP solver, instead of a special-purpose spline solver, when solving B-spline constrained problems. B-splines are a powerful and widely used modeling tool, previously restricted from optimization due to lack of solver support. This contribution may encourage practitioners to use B-splines to model constraint functions. However, as the numerical study suggests, there is still a large gap between the solve times of the general-purpose solvers using the proposed formulation, and the special-purpose spline solver CENSO, the latter being significantly lower.
+Keywords
+Piecewise polynomial  B-spline  Mixed-integer nonlinear programming  Mixed-integer quadratically constrained programming  

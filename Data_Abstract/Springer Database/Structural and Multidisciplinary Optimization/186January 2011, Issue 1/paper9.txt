@@ -1,0 +1,6 @@
+A hybrid cooperative search algorithm for constrained optimization
+Salam Nema;John Y. Goulermas;Graham Sparrow;Paul Helman;
+Abstract
+Many engineering design problems can be formulated as constrained optimization problems which often consist of many mixed equality and inequality constraints. In this article, a hybrid coevolutionary method is developed to solve constrained optimization problems formulated as min–max problems. The new method is fast and capable of global search because of combining particle swarm optimization and gradient search to balance exploration and exploitation. It starts by transforming the problem into unconstrained one using an augmented Lagrangian function, then using two groups to optimize different components of the solution vector in a cooperative procedure. In each group, the final stage of the search procedure is accelerated by via a simple local search method on the best point reached by the preceding exploration based search. We validated the effectiveness and robustness of the proposed algorithm using several engineering problems taken from the specialised literature.
+Keywords
+Coevolutionary optimization  Cooperative evolution  Particle swarm optimization  

@@ -1,0 +1,6 @@
+A gaussian upper bound for gaussian multi-stage stochastic linear programs
+Eithan Schweitzer;Mordecai Avriel;
+Abstract
+This paper deals with two-stage and multi-stage stochastic programs in which the right-hand sides of the constraints are Gaussian random variables. Such problems are of interest since the use of Gaussian estimators of random variables is widespread. We introduce algorithms to find upper bounds on the optimal value of two-stage and multi-stage stochastic (minimization) programs with Gaussian right-hand sides. The upper bounds are obtained by solving deterministic mathematical programming problems with dimensions that do not depend on the sample space size. The algorithm for the two-stage problem involves the solution of a deterministic linear program and a simple semidefinite program. The algorithm for the multi-stage problem invovles the solution of a quadratically constrained convex programming problem.
+Keywords
+Stochastic programming  Semidefinite programming  Multi-stage linear programs  

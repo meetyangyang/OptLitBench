@@ -1,0 +1,6 @@
+An Implicit Filtering Algorithm for Optimization of Functions with Many Local Minima
+P.  Gilmore and C. T.  Kelley;
+Abstract
+In this paper we describe and analyze an algorithm for certain box constrained optimization problems that may have several local minima. A paradigm for these problems is one in which the function to be minimized is the sum of a simple function, such as a convex quadratic, and high frequency, low amplitude terms that cause local minima away from the global minimum of the simple function. Our method is gradient based and therefore the performance can be improved by use of quasi-Newton methods.
+Keywords
+filtering, projected gradient algorithm, quasi-Newton method, 65H10, 65K05, 65K10, 

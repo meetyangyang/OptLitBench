@@ -1,0 +1,6 @@
+Line-Sum Symmetry via the DomEig Algorithm
+Charles R. Johnson;Joel Pitkin;David P. Stanford;
+Abstract
+We propose a new algorithm, the DomEig algorithm, for obtaining the line-sum-symmetric similarity-scaling of a given irreducible, essentially nonnegative matrix A. It is based on results concerning the minimum dominant eigenvalue of an essentially nonnegative matrix under trace-preserving perturbations of its diagonal. In this note we relate the minimum dominant eigenvalue problem to the problem of determining the diagonal scaling matrix for line-sum-symmetry. We present the DomEig algorithm, prove its convergence, and discuss briefly the results of a comparison of this algorithm with another algorithm, the DSS algorithm, often used for line-sum symmetry. The experiments suggest that, for matrices of order greater than 50, the convergence rate, measured either in flop counts or CPU time, is significantly greater for DomEig than for DSS, with the improvement in rate increasing as the order increases. The algorithm may be useful in such applications as the scaling of large social accounting matrices.
+Keywords
+line-sum-symmetric  dominant Eigen value  diagonal similarity  essentially nonnegative  global convergence  

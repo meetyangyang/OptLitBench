@@ -1,0 +1,6 @@
+Boundary Control of the Linearized Ginzburg--Landau Model of Vortex Shedding
+Ole Morten  Aamo, Andrey  Smyshlyaev, and Miroslav  Krstic;
+Abstract
+In this paper, we continue the development of state feedback boundary control laws based on the backstepping methodology, for the stabilization of unstable, parabolic partial differential equations. We consider the linearized Ginzburg--Landau equation, which models, for instance, vortex shedding in bluff body flows. Asymptotic stabilization is achieved by means of boundary control via state feedback in the form of an integral operator. The kernel of the operator is shown to be twice continuously differentiable, and a series approximation for its solution is given. Under certain conditions on the parameters of the Ginzburg--Landau equation, compatible with vortex shedding modelling on a semi-infinite domain, the kernel is shown to have compact support, resulting in partial state feedback. Simulations are provided in order to demonstrate the performance of the controller. In summary, the paper extends previous work in two ways: (1) it deals with two coupled partial differential equations, and (2) under certain circumstances handles equations defined on a semi-infinite domain.
+Keywords
+partial differential equations, boundary control, stabilization, flow control, 35B37, 35B65, 93D15, 

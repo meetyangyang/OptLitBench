@@ -1,0 +1,6 @@
+Trajectory Optimization for a Multi-Stage Launch Vehicle Using Time Finite Element and Direct Collocation Methods
+ Woongrae   Roh ; Youdan   Kim ;
+Abstract
+ An indirect time finite element method is applied to solve the trajectory optimization problem for a multi-stage launch vehicle, and the numerical results are compared with the numerical solutions obtained by using a direct collocation and nonlinear program-ming method. A nonlinear programming problem is solved by the sequential quadratic programming algorithm with an augmented Lagrangian merit function, and the converged Lagrange multiplier is used for estimating the costate variables of the optimal trajectory. As a numerical example, a multi-stage launch vehicle trajectory optimization problem with a control variable constraint is solved, and the results are compared. 
+Keywords
+Trajectory Optimization, Launch Vehicle, Time Finite Element Method, Direct Collocation, Costate Estimation 

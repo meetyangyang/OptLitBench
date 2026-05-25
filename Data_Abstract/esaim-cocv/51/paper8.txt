@@ -1,0 +1,6 @@
+Adaptive stabilization of coupled PDE–ODE systems with multiple uncertainties
+Jian Li1,2 and Yungang Liu1;
+Abstract
+The adaptive stabilization is investigated for a class of coupled PDE-ODE systems with          multiple uncertainties. The presence of the multiple uncertainties and the interaction          between the sub-systems makes the systems to be considered more general and          representative, and moreover it may result in the ineffectiveness of the conventional          methods on this topic. Motivated by the existing literature, an infinite-dimensional          backsteppping transformation with new kernel functions is first introduced to change the          original system into a target system, from which the control design and performance          analysis of the original system will become quite convenient. Then, by certainty          equivalence principle and Lyapunov method, an adaptive stabilizing controller is          successfully constructed, which guarantees that all the closed-loop system states are          bounded while the original system states converging to zero. A simulation example is          provided to validate the proposed method.
+Keywords
+Coupled PDE-ODE systems, spatially varying coefficient, adaptive stabilization, infinite-dimensional backsteppin

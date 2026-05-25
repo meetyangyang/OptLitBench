@@ -1,0 +1,6 @@
+On the optimal design of water distribution networks: a practical MINLP approach
+Cristiana Bragalli;Claudia D’Ambrosio;Jon Lee;Andrea Lodi;Paolo Toth;
+Abstract
+We propose a practical solution method for real-world instances of a water-network optimization problem with fixed topology using a nonconvex continuous NLP (NonLinear Programming) relaxation and a MINLP (Mixed Integer NonLinear Programming) search. Our approach employs a relatively simple and accurate model that pays some attention to the requirements of the solvers that we employ. Our view is that in doing so, with the goal of calculating only good feasible solutions, complicated algorithmics can be confined to the MINLP solver. We report successful computational experience using available open-source MINLP software on problems from the literature and on difficult real-world instances. An important contribution of this paper is that the solutions obtained, besides being low cost, are immediately usable in practice because they are characterized by an allocation of diameters to pipes that leads to a correct hydraulic operation of the network. This is not the case for most of the other methods presented in the literature.
+Keywords
+Water network design  Mixed-integer nonlinear programming  Modeling  Computation  

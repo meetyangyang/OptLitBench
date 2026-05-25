@@ -1,0 +1,6 @@
+Semidefinite approximations for quadratic programs over orthogonal matrices
+Janez Povh;
+Abstract
+Finding global optimum of a non-convex quadratic function is in general a very difficult task even when the feasible set is a polyhedron. We show that when the feasible set of a quadratic problem consists of orthogonal matrices from \({\mathbb{R}^{n\times k}}\) , then we can transform it into a semidefinite program in matrices of order kn which has the same optimal value. This opens new possibilities to get good lower bounds for several problems from combinatorial optimization, like the Graph partitioning problem (GPP), the Quadratic assignment problem (QAP) etc. In particular we show how to improve significantly the well-known Donath-Hoffman eigenvalue lower bound for GPP by semidefinite programming. In the last part of the paper we show that the copositive strengthening of the semidefinite lower bounds for GPP and QAP yields the exact values.
+Keywords
+Quadratic programming  Semidefinite programming  Copositive programming  Eigenvalue bound  Quadratic assignment problem  Graph partitioning problem  90C20  90C22  90C26  90C27  

@@ -1,0 +1,6 @@
+Mixed multigraph approach to scheduling jobs on machines of different types ∗  
+   Yu.N   Sotskov ;
+Abstract
+ A network model, based on a weighted mixed multigraph, gives a suitable possibility to represent different constraints which usually arise in production planning and scheduling. The most complex optimization problem to be considered in this paper includes: (c) choosing machines from the given sets of machines of different types; (a) assigning the given set of operations to the chosen machines, and (s) sequencing the operations in accordance with the above assignment. It is shown that the steps (c); (a), and (s) may be carried out simultaneously due to the special transformations of the edges in the mixed multigraph. To reduce the solution time for the large-scale problems a heuristic algorithm and a branch-and-bound one with a possible error, given in advance, have been suggested. Preliminary computational results for the developed algorithms are briefly discussed 
+Keywords
+Resource constrained project scheduling, mixed graph approach 

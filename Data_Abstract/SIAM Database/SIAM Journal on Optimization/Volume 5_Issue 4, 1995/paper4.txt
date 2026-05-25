@@ -1,0 +1,6 @@
+Sequential Quadratic Programming with Penalization of the Displacement
+J. F.  Bonnans and G.  Launay;
+Abstract
+In this paper we study the convergence of a sequential quadratic programming algorithm for, the nonlinear programming problem. The Hessian of the quadratic program is the sum of an approximation of the Lagrangian and of a multiple of the identity that allows us to penalize the displacement. Assuming only that the direction, is a stationary point of the current quadratic program we study the local convergence properties without strict complementarity. In particular, we use a very weak condition on the approximation of the Hessian to the Lagrangian. We obtain some global and superlinearly convergent algorithm under weak hypotheses. As a particular case we formulate an extension of Newton’s method that is quadratically convergent to a point satisfying a strong sufficient second-order condition.
+Keywords
+nonlinear programming, Newton’s method, quasi-Newton algorithms, exact penalization, trust region, 90C30, 49M37, 65K05, 

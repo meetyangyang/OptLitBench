@@ -1,0 +1,6 @@
+Packing unequal circles into a strip of minimal length with a jump algorithm
+Yu. Stoyan;G. Yaskov;
+Abstract
+The paper considers a problem of packing unequal circles into a rectangular strip with fixed width and minimal length. We develop the idea of increasing the dimension of the solution space by assuming radii of circles to be variables. A mathematical model of the problem is constructed and its characteristics are investigated. Taking into account the characteristics we offer a solution strategy of the problem including a number of non-linear programming subproblems of packing circles of variable radii. The solution strategy involves special ways of construction of starting points, calculation of local minima, jump from one local extremum to another, decrease of the problem dimension and rearrangement of pairs of circles. For calculating local extrema an interior point optimizer together with the concept of active inequalities are used. We compare 146 numerical benchmark examples and give seven new ones for 125, 150, 175, 225, 250, 275 and 300 circles.
+Keywords
+Packing  Circle  Rectangle  Optimization  Jump algorithm  

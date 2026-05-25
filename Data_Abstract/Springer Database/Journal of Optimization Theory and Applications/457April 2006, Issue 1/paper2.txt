@@ -1,0 +1,6 @@
+Optimal Trajectories and Guidance Schemes for Ship Collision Avoidance
+A. Miele;T. Wang;
+Abstract
+The best strategy for collision avoidance under emergency conditions is to maximize wrt the controls the timewise minimum distance between the host ship and the intruder ship. In a restricted waterway area, two main constraints must be satisfied: the lateral deviation of the host ship from the original course is to be contained within certain limits; the longitudinal distance covered by the host ship is to be subject to a prescribed bound. At the maximin point of the encounter, the time derivative of the relative distance vanishes; this yields an inner boundary condition (orthogonality between the relative position vector and the relative velocity vector) separating the main phases of the maneuver: the avoidance and recovery phases. In this way, the optimal trajectory problem (a Chebyshev problem) can be converted into a Bolza problem with an inner boundary condition. Numerical solutions are obtained via the multiple-subarc sequential gradient-restoration algorithm (SGRA).
+Keywords
+Collision avoidance problems  ship collision avoidance problems  Chebyshev problems  maximin problems  multiple-subarc sequential gradient-restoration algorithm  

@@ -1,0 +1,6 @@
+A Semidefinite Programming Based Polyhedral Cut and Price Approach for the Maxcut Problem
+Kartik Krishnan;John E. Mitchell;
+Abstract
+We investigate solution of the maximum cut problem using a polyhedral cut and price approach. The dual of the well-known SDP relaxation of maxcut is formulated as a semi-infinite linear programming problem, which is solved within an interior point cutting plane algorithm in a dual setting; this constitutes the pricing (column generation) phase of the algorithm. Cutting planes based on the polyhedral theory of the maxcut problem are then added to the primal problem in order to improve the SDP relaxation; this is the cutting phase of the algorithm. We provide computational results, and compare these results with a standard SDP cutting plane scheme.
+Keywords
+semidefinite programming  column generation  cutting plane methods  combinatorial optimization  

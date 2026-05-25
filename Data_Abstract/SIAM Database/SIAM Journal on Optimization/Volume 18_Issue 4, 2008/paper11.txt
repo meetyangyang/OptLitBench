@@ -1,0 +1,6 @@
+Proximal Thresholding Algorithm for Minimization over Orthonormal Bases
+Patrick L.  Combettes and Jean-Christophe  Pesquet;
+Abstract
+The notion of soft thresholding plays a central role in problems from various areas of applied mathematics, in which the ideal solution is known to possess a sparse decomposition in some orthonormal basis. Using convex-analytical tools, we extend this notion to that of proximal thresholding and investigate its properties, providing, in particular, several characterizations of such thresholders. We then propose a versatile convex variational formulation for optimization over orthonormal bases that covers a wide range of problems, and we establish the strong convergence of a proximal thresholding algorithm to solve it. Numerical applications to signal recovery are demonstrated.
+Keywords
+convex programming, deconvolution, denoising, forward-backward splitting algorithm, Hilbert space, orthonormal basis, proximal algorithm, proximal thresholding, proximity operator, signal recovery, soft thresholding, strong convergence, 90C25, 65K10, 94A12, 

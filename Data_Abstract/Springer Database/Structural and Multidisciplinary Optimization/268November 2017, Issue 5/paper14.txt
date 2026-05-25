@@ -1,0 +1,6 @@
+Force density method for simultaneous optimization of geometry and topology of trusses
+Makoto Ohsaki;Kazuki Hayashi;
+Abstract
+A new method of simultaneous optimization of geometry and topology is presented for plane and spatial trusses. Compliance under single loading condition is minimized for specified structural volume. The difficulties due to existence of melting nodes are successfully avoided by considering force density, which is the ratio of axial force to the member length, as design variable. By using the fact that the optimal truss is statically determinate with the same absolute value of stress in existing members, the compliance and structural volume are expressed as explicit functions of force density only. After obtaining optimal cross-sectional area, nodal locations, and topology, the cross-sectional areas and nodal coordinates are further optimized using a conventional method of nonlinear programming. Accuracy of the optimal solution is verified through examples of plane trusses and a spatial truss. It is shown that various nearly optimal solutions can be found using the proposed method.
+Keywords
+Truss  Simultaneous optimization of topology and geometry  Force density method  Compliance  

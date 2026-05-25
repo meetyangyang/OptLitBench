@@ -1,0 +1,6 @@
+Shape and topology optimization for periodic problems
+Cristian Barbarosie;Anca-Maria Toader;
+Abstract
+The present paper deals with the implementation of an optimization algorithm for periodic problems which alternates shape and topology optimization; the theoretical background about shape and topological derivatives was developed in Part I (Barbarosie and Toader, Struct Multidiscipl Optim, 2009). The proposed numerical code relies on a special implementation of the periodicity conditions based on differential geometry concepts: periodic functions are viewed as functions defined on a torus. Moreover the notion of periodicity is extended and cases where the periodicity cell is a general parallelogram are admissible. This approach can be adapted to other frameworks (e.g. Bloch waves or fluid dynamics). The numerical method was tested for the design of periodic microstructures. Several examples of optimal microstructures are given for bulk modulus maximization, maximization of rigidity for shear response, maximization of rigidity in a prescribed direction, minimization of the Poisson coefficient.
+Keywords
+Optimization of microstructures  Finite element method on a periodic mesh  Mesh regeneration  Shape optimization  Topology optimization  Auxetic materials  

@@ -1,0 +1,6 @@
+Computing approximate solutions for convex conic systems of constraints
+J. Peña;J. Renegar;
+Abstract
+We propose a way to reformulate a conic system of constraints as an optimization problem. When an appropriate interior-point method (ipm) is applied to the reformulation, the ipm iterates yield backward-approximate solutions, that is, solutions for nearby conic systems. In addition, once the number of ipm iterations passes a certain threshold, the ipm iterates yield forward-approximate solutions, that is, points close to an exact solution of the original conic system. The threshold is proportional to the reciprocal of distance to ill-posedness of the original conic system.¶The condition numbers of the linear equations encountered when applying an ipm influence the computational cost at each iteration. We show that for the reformulation, the condition numbers of the linear equations are uniformly bounded both when computing reasonably-accurate backward-approximate solutions to arbitrary conic systems and when computing forward-approximate solutions to well-conditioned conic systems.
+Keywords
+Mathematics Subject Classification (1991): 49M50, 65F35, 90C25, 90C51, 90C60  

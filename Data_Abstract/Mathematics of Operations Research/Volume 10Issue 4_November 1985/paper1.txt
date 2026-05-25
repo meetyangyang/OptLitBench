@@ -1,0 +1,6 @@
+Bounds and Heuristics for Capacitated Routing Problems
+M. Haimovich;A. H. G. Rinnooy Kan;
+Abstract
+In a capacitated routing problem, the objective is to minimize the total distance travelled by vehicles of limited capacity to serve a set of customers that are located in the Euclidean plane. We develop asymptotically optimal bounds and heuristics for this problem, under the assumption that the capacity of a vehicle is expressed in terms of an upper bound on the number of customers that it can serve. The analysis culminates in an algorithm that, for a given capacity and given ϵ, will find a solution with relative error at most ϵ in time polynomial in the number of customers.
+Keywords
+capacitated routing route selection transportation integer programming heuristics 

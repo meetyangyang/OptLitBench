@@ -1,0 +1,6 @@
+Incremental proximal methods for large scale convex optimization
+Dimitri P. Bertsekas;
+Abstract
+We consider the minimization of a sum \({\sum_{i=1}^mf_i(x)}\) consisting of a large number of convex component functions f  i . For this problem, incremental methods consisting of gradient or subgradient iterations applied to single components have proved very effective. We propose new incremental methods, consisting of proximal iterations applied to single components, as well as combinations of gradient, subgradient, and proximal iterations. We provide a convergence and rate of convergence analysis of a variety of such methods, including some that involve randomization in the selection of components. We also discuss applications in a few contexts, including signal processing and inference/machine learning.
+Keywords
+Proximal algorithm  Incremental method  Gradient method  Convex  90C33  90C90  

@@ -1,0 +1,6 @@
+A constraint shifting homotopy method for general non-linear programming
+ Li   Yang ; Bo   Yu ; Qing   Xu ;
+Abstract
+ In this article, a constraint shifting homotopy method (CSHM) is proposed for solving non-linear programming with both equality and inequality constraints. A new homotopy is constructed, and existence and global convergence of a homotopy path determined by it are proven. All problems that can be solved by the combined homotopy interior point method (CHIPM) can also be solved by the proposed method. In contrast to the combined homotopy infeasible interior point method (CHIIPM), it needs a weaker regularity condition. And the starting point in the proposed method is not necessarily a feasible point or an interior point, so it is more convenient to be implemented than CHIPM and CHIIPM. Numerical results show that the proposed algorithm is feasible and effective. 
+Keywords
+non-linear programming, homotopy method, global convergenceAMS Subject Classifications:: 49M05, 90C30 

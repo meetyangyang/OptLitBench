@@ -1,0 +1,6 @@
+A decomposition approach for optimal gas network extension with a finite set of demand scenarios
+Jonas Schweiger;Frauke Liers;
+Abstract
+Today’s gas markets demand more flexibility from the network operators which in turn have to invest in their network infrastructure. As these investments are very cost-intensive and long-lasting, network extensions should not only focus on a single bottleneck scenario, but should increase the flexibility to fulfill different demand scenarios. In this work, we formulate a model for the network extension problem for multiple demand scenarios and propose a scenario decomposition in order to solve the resulting challenging optimization tasks. In fact, each subproblem consists of a mixed-integer nonlinear optimization problem. Valid bounds on the objective value are derived even without solving the subproblems to optimality. Furthermore, we develop heuristics that prove capable of improving the initial solutions substantially. The results of computational experiments on realistic network topologies are presented. It turns out that our method is able to solve these challenging instances to optimality within a reasonable amount of time.
+Keywords
+Decomposition  Robust  Gas network extension  MINLP  

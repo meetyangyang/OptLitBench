@@ -1,0 +1,6 @@
+Adaptive Linear Quadratic Gaussian Control: The Cost-Biased Approach Revisited
+M. C.  Campi and P. R.  Kumar;
+Abstract
+In adaptive control, a standard approach is to resort to the so-called certainty equivalence principle which consists of generating some standard parameter estimate and then using it in the control law as if it were the true parameter. As a consequence of this philosophy, the estimation problem is decoupled from the control problem and this substantially simplifies the corresponding adaptive control scheme. On the other hand, the complete absence of dual properties makes certainty equivalent controllers run into an identifiability problem which generally leads to a strictly suboptimal performance.In this paper, we introduce a cost-biased parameter estimator to overcome this difficulty. This estimator is applied to a linear quadratic Gaussian controller. The corresponding adaptive scheme is proven to be stable and optimal when the unknown system parameter lies in an infinite, yet compact, parameter set.
+Keywords
+adaptive control, linear quadratic Gaussian control, self-optimizing control, cost-biased approach, certainty equivalence, 15A15, 15A09, 15A23, 

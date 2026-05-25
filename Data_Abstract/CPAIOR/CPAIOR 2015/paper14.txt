@@ -1,0 +1,4 @@
+Enhancing MIP Branching Decisions by Using the Sample Variance of Pseudo Costs
+Gregor Hendel;
+Abstract
+The selection of a good branching variable is crucial for small search trees in Mixed Integer Programming. Most modern solvers employ a strategy guided by history information, mainly the variable pseudo-costs, which are used to estimate the objective gain. At the beginning of the search, such information is usually collected via an expensive look-ahead strategy called strong branching until variables are considered reliable.

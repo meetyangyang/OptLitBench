@@ -1,0 +1,6 @@
+A practical trust region method for equality constrained optimization problems
+ Jianzhong   Zhang ; Detong   Zhu ; Yuanan   FAN ;
+Abstract
+ In this paper we propose an easy-to-implement algorithm for solving general nonlinear optimization problems with nonlinear equality constraints. In order to deal with large scale problems, a reduced Hessian is used to replace full Hessian matrix. To avoid solving quadratic trust region subproblems exactly, which usually takes most computing time, we only require an approximate solution with less computation. The calculation of correction steps, that is necessary from theoretical view point to overcome Maratos effect but often brings in negative results in practice, is avoided in most cases by setting a criterion to judge its necessity. Global convergence and a local superlinear rate are then proved. Numerical results are reported to show that this algorithm has good performance. 
+Keywords
+Nonlinear optimization, Trust region method, Quasi-Newton method, Superlinear convergence. 

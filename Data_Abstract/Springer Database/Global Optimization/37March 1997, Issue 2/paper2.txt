@@ -1,0 +1,6 @@
+Evolution towards the Maximum Clique
+Immanuel M. Bomze;
+Abstract
+As is well known, the problem of finding a maximum clique in a graph isNP-hard. Nevertheless, NP-hard problems may have easy instances. This paperproposes a new, global optimization algorithm which tries to exploit favourabledata constellations, focussing on the continuous problem formulation: maximizea quadratic form over the standard simplex. Some general connections of thelatter problem with dynamic principles of evolutionary game theory areestablished. As an immediate consequence, one obtains a procedure whichconsists (a) of an iterative part similar to interior-path methods based on theso-called replicator dynamics; and (b) a routine to escape from inefficient,locally optimal solutions. For the special case of finding a maximum clique ina graph where the quadratic form arises from a regularization of the adjacencematrix, part (b), i.e. escaping from maximal cliques not of maximal size, isaccomplished with block pivoting methods based on (large) independent sets,i.e. cliques of the complementary graph. A simulation study is included whichindicates that the resulting procedure indeed has some merits.
+Keywords
+indefinite quadratic programming; replicator dynamics;evolutionary game; independent set  

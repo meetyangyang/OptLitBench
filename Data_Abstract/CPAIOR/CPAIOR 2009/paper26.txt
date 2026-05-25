@@ -1,0 +1,4 @@
+A Fast Algorithm to Solve the Frequency Assignment Problem
+Mohammad Dib;Alexandre Caminada;Hakim Mabed;
+Abstract
+The problem considered in this paper consists in defining an assignment of frequencies to radio link between transmitters which minimize the number of frequency used to solve a CSP very well referenced as ROADEF’01 challenge. This problem is NP-hard and few results have been reported on techniques for solving it optimally. We applied to this version of the frequency assignment problem an original hybrid method which combines constraint propagation and Tabu search. Two Tabu lists are used to filter the search space and to avoid algorithm cycles. Computational results, obtained on a number of standard problem instances, show the efficiency of the proposed approach.

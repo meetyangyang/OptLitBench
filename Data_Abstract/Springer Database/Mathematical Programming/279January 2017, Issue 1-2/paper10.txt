@@ -1,0 +1,6 @@
+Security games on matroids
+Dávid Szeszlér;
+Abstract
+Two players, the Defender and the Attacker play the following game. A matroid \(M=(S,\mathcal {I})\), a weight function \(d:S\rightarrow \mathbb {R}^+\) and a cost function \(c:S\rightarrow \mathbb {R}\) are given. The Defender chooses a base B of the matroid M and the Attacker chooses an element \(s\in S\) of the ground set. In all cases, the Attacker pays the Defender the cost of attack c(s). Besides that, if \(s\in B\) then the Defender pays the Attacker the amount d(s); if, on the other hand, \(s\notin B\) then there is no further payoff. Special cases of this two-player, zero-sum game were considered and solved in various security-related applications. In this paper we show that it is also possible to compute Nash-equilibrium mixed strategies for both players in strongly polynomial time in the above general matroid setting. We also consider a further generalization where common bases of two matroids are chosen by the Defender and apply this to define and efficiently compute a new reliability metric on digraphs.
+Keywords
+Nash equilibrium  Matroid  Security  90C27  91A80  

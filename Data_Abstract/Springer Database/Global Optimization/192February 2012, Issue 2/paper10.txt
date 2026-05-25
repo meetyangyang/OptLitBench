@@ -1,0 +1,6 @@
+An adaptive least-squares collocation radial basis function method for the HJB equation
+H. Alwardi;S. Wang;L. S. Jennings;S. Richardson;
+Abstract
+We present a novel numerical method for the Hamilton–Jacobi–Bellman equation governing a class of optimal feedback control problems. The spatial discretization is based on a least-squares collocation Radial Basis Function method and the time discretization is the backward Euler finite difference. A stability analysis is performed for the discretization method. An adaptive algorithm is proposed so that at each time step, the approximate solution can be constructed recursively and optimally. Numerical results are presented to demonstrate the efficiency and accuracy of the method.
+Keywords
+HJB equation  Optimal feedback control  Radial basis functions  Adaptive method  

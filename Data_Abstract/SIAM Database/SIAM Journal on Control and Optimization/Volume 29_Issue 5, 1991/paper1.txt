@@ -1,0 +1,6 @@
+Recursive Stochastic Algorithms for Global Optimization in $\mathbb{R}^d $
+Saul B.  Gelfand and Sanjoy K.  Mitter;
+Abstract
+An algorithm of the form $X_{k + 1}  = X_k  - a_k (\nabla U(X_k ) + \xi _k ) + b_k W_k $, where $U( \cdot )$ is a smooth function on $\mathbb{R}^d $, $\{ \xi _k \} $ is a sequence of $\mathbb{R}^d $-valued random variables, $\{ W_k \} $ is a sequence of independent standard d-dimensional Gaussian random variables, $a_k  = {A / k}$ and $b_k  = {{\sqrt B } / {\sqrt {k\log \log k} }}$ for k large, is considered. An algorithm of this type arises by adding slowly decreasing white Gaussian noise to a stochastic gradient algorithm. It is shown, under suitable conditions on $U( \cdot )$, $\{ \xi _k \} $, A, and B, that $X_k $ converges in probability to the set of global minima of $U( \cdot )$. No prior information is assumed as to what bounded region contains a global minimum. The analysis is based on the asymptotic behavior of the related diffusion process $dY(t) =  - \nabla U(Y(t))dt + c(t)dW(t)$, where $W( \cdot )$ is a standard d-dimensional Wiener process and $c(t) = {{\sqrt C } / {\sqrt {\log t} }}$ for t large.
+Keywords
+global optimization, random optimization, simulated annealing, stochastic gradient algorithms, diffusions, 65K10, 90C30, 60J60, 

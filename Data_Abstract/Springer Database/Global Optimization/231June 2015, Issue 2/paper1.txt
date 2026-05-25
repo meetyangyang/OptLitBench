@@ -1,0 +1,6 @@
+MrDIRECT: a multilevel robust DIRECT algorithm for global optimization problems
+Qunfeng Liu;Jinping Zeng;Gang Yang;
+Abstract
+Although DIRECT global optimization algorithm quickly gets close to the basin of the optimum, it often takes much longer to refine the solution to a high degree of accuracy. This behavior of DIRECT is similar to the “smooth mode phenomenon” encountered when solving linear systems discretized from partial differential equation (PDE). In the case of PDE, this smooth mode phenomenon can be eliminated efficiently by the multigrid algorithm in which the PDE solver is applied at different levels of discretization. In this paper we adapt the multigrid approach to a robust version of DIRECT algorithm, obtaining a “multilevel” robust DIRECT (MrDIRECT) algorithm. Although additional parameters are needed, our numerical results show that MrDIRECT is insensitive to the parameters, and the parameters setting proposed in this paper performs very well on the tested sets of benchmark problems, in terms of the speed with which the global optimum is found to a high degree of accuracy.
+Keywords
+Global optimization  Multilevel algorithm  Multigrid algorithm  DIRECT algorithm  Multilevel partition  

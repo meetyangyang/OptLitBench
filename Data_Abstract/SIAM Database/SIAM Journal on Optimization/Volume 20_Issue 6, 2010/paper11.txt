@@ -1,0 +1,6 @@
+Feasibility of Integer Knapsacks
+Iskander  Aliev and Martin  Henk;
+Abstract
+Given a matrix $A\in\mathbb{Z}^{m\times n}$ satisfying certain regularity assumptions, we consider the set $\mathcal{F}(A)$ of all vectors $\boldsymbol{b}\in\mathbb{Z}^m$ such that the associated knapsack polytope $P(A,\boldsymbol{b})=\{\boldsymbol{x}\in\mathbb{R}^n_{\geq0}:A\boldsymbol{x}=\boldsymbol{b}\}$ contains an integer point. When $m=1$ the set $\mathcal{F}(A)$ is known to contain all consecutive integers greater than the Frobenius number associated with A. In this paper we introduce the diagonal Frobenius number $\mathrm{g}(A)$ which reflects in an analogous way feasibility properties of the problem and the structure of $\mathcal{F}(A)$ in the general case. We give an optimal upper bound for $\mathrm{g}(A)$ and also estimate the asymptotic growth of the diagonal Frobenius number on average.
+Keywords
+knapsack problem, Frobenius numbers, successive minima, inhomogeneous minimum, distribution of lattices, 90C10, 90C27, 11D07, 11H06, 

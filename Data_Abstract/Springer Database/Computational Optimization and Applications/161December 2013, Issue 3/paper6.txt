@@ -1,0 +1,6 @@
+New smoothing SVM algorithm with tight error bound and efficient reduced techniques
+Shuisheng Zhou;Jiangtao Cui;Feng Ye;Hongwei Liu;Qiang Zhu;
+Abstract
+The quadratically convergent algorithms for training SVM with smoothing methods are discussed in this paper. By smoothing the objective function of an SVM formulation, Lee and Mangasarian [Comput. Optim. Appl. 20(1):5-22, 2001] presented one such algorithm called SSVM and proved that the error bound between the new smooth problem and the original one was \(O(\frac{1}{p})\) for large positive smoothing parameter p. We derive a new method by smoothing the optimality conditions of the SVM formulation, and we prove that the error bound is \(O(\frac{1}{p^{2}})\), which is better than Lee and Mangasarian’s result. Based on SMW identity and updating Hessian iteratively, some boosting skills are proposed to solve Newton equation with lower computational complexity for reduced smooth SVM algorithms. Many experimental results show that the proposed smoothing method has the same accuracy as SSVM, whose error bound is also tightened to \(O(\frac{1}{p^{2}})\) in this paper, and the proposed boosting skills are efficient for solving large-scale problems by RSVM.
+Keywords
+SSVM  Smoothing algorithm  Error bound  Reduced methods  

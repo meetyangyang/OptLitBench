@@ -1,0 +1,6 @@
+Mixed Objective Control Synthesis: Optimal $\ell_ 1/{\cal H}_2$ Control
+Murti V.  Salapaka, Mohammed  Dahleh, and Petros  Voulgaris;
+Abstract
+In this paper we consider the problem of minimizing the $\ell_1$ norm of the transfer function from the exogenous input to the regulated output over all internally stabilizing controllers while keeping its $\cal{H}$$_2$ norm under a specified level. The problem is analyzed for the discrete-time, single-input single-output (SISO), linear-time invariant case. It is shown that an optimal solution always exists. Duality theory is employed to show that any optimal solution is a finite impulse response sequence, and an a priori bound is given on its length. Thus, the problem can be reduced to a finite-dimensional convex optimization problem with an a priori determined dimension. Finally, it is shown that, in the region of interest of the $\cal{H}$$_2$ constraint level, the optimal is unique and continuous with respect to changes in the constraint level.
+Keywords
+robust control, duality, $\ell_1$ optimization, discrete time, 49N05, 49N10, 49N15, 49N35, 93C55, 

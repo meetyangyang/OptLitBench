@@ -1,0 +1,6 @@
+An inertia-free filter line-search algorithm for large-scale nonlinear programming
+Nai-Yuan Chiang;Victor M. Zavala;
+Abstract
+We present a filter line-search algorithm that does not require inertia information of the linear system. This feature enables the use of a wide range of linear algebra strategies and libraries, which is essential to tackle large-scale problems on modern computing architectures. The proposed approach performs curvature tests along the search step to detect negative curvature and to trigger convexification. We prove that the approach is globally convergent and we implement the approach within a parallel interior-point framework to solve large-scale and highly nonlinear problems. Our numerical tests demonstrate that the inertia-free approach is as efficient as inertia detection via symmetric indefinite factorizations. We also demonstrate that the inertia-free approach can lead to reductions in solution time because it reduces the amount of convexification needed.
+Keywords
+Inertia  Nonlinear programming  Filter line-search  Nonconvex  Large-scale  

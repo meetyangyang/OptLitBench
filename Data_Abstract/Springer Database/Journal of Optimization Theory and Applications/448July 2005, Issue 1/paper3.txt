@@ -1,0 +1,6 @@
+Decomposition Branch-and-Bound Based Algorithm for Linear Programs with Additional Multiplicative Constraints
+H. P. Benson;
+Abstract
+This article presents an algorithm for globally solving a linear program (P) that contains several additional multiterm multiplicative constraints. To our knowledge, this is the first algorithm proposed to date for globally solving Problem (P). The algorithm decomposes the problem to obtain a master problem of low rank. To solve the master problem, the algorithm uses a branch-and-bound scheme where Lagrange duality theory is used to obtain the lower bounds. As a result, the lower-bounding subproblems in the algorithm are ordinary linear programs. Convergence of the algorithm is shown and a solved sample problem is given.
+Keywords
+Global optimization  multiplicative programming  branch-and-bound schemes  decomposition  

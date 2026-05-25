@@ -1,0 +1,6 @@
+Topology optimization of flexible micro-fluidic devices
+Sebastian Kreissl;Georg Pingen;Anton Evgrafov;Kurt Maute;
+Abstract
+A multi-objective topology optimization formulation for the design of dynamically tunable fluidic devices is presented. The flow is manipulated via external and internal mechanical actuation, leading to elastic deformations of flow channels. The design objectives characterize the performance in the undeformed and deformed configurations. The layout of fluid channels is determined by material topology optimization. In addition, the thickness distribution, the distribution of active material for internal actuation, and the support conditions are optimized. The coupled fluid-structure response is predicted by a non-linear finite element model and a hydrodynamic lattice Boltzmann method. Focusing on applications with low flow velocities and pressures, structural deformations due to fluid-forces are neglected. A mapping scheme is presented that couples the material distributions in the structural and fluid mesh. The governing and the adjoint equations of the resulting fluid-structure interaction problem are derived. The proposed method is illustrated with the design of tunable manifolds.
+Keywords
+Fluid-structure interaction  Hydrodynamic lattice Boltzmann method  Non-linear elasticity  Adjoint sensitivity analysis  

@@ -1,0 +1,6 @@
+Optimal Truss Design by Interior-Point Methods
+Florian  Jarre, Michal  Kocvara, and Jochem  Zowe;
+Abstract
+This article presents a primal-dual predictor-corrector interior-point method for solving quadratically constrained convex optimization problems that arise from truss design problems. We investigate certain special features of the problem, discuss fundamental differences of interior-point methods for linearly and nonlinearly constrained problems, extend Mehrotra's predictor-corrector strategy to nonlinear programs, and establish convergence of a long step method. Numerical experiments on large scale problems illustrate the surprising efficiency of the method.
+Keywords
+interior-point methods, truss topology design, convex programming, 90C30, 73K40, 

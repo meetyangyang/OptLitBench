@@ -1,0 +1,6 @@
+A More Lenient Stopping Rule for Line Search Algorithms
+ Dexuan   Xie ; Tamar   Schlick ;
+Abstract
+ An iterative univariate minimizer (line search) is often used to generate a steplength in each step of a descent method for minimizing a multivariate function. The line search performance strongly depends on the choice of the stopping rule enforced. This termination criterion and other algorithmic details also affect the overall efficiency of the multivariate minimization procedure. Here we propose a more lenient stopping rule for the line search that is suitable for objective univariate functions that are not necessarily convex in the bracketed search interval. We also describe a remedy to special cases where the minimum point of the cubic interpolant constructed in each line search iteration is very close to zero. Results in the context of the truncated Newton package TNPACK for 18 standard test functions, as well as molecular potential functions, show that these strategies can lead to modest performance improvements in general, and significant improvements in special cases. 
+Keywords
+Line Search, Descent Method, Truncated Newton, Molecular Potential Minimization 

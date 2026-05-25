@@ -1,0 +1,6 @@
+A Robust Adaptive Minimum Variance Controller
+L.  Praly, S.-F.  Lin, and P. R.  Kumar;
+Abstract
+This paper addresses the twin questions of performance and robustness of an adaptive controller for single-input, single-output, linear, stochastic systems. The authors present an adaptive controller that has the following properties: (1) Attaining optimal regulation and tracking in the ideal, minimum phase, known upper bound on system order, known sign and lower bound for the leading coefficient $(b_0 )$, positive real condition on noise case, and self-tuning in a Cesaro sense to a minimum variance regulator in the case of pure regulation. (2) Providing mean square stability when the system is of minimum phase, with known upper bound on order but not necessarily satisfying a positive real condition on the noise. (3) Providing mean square stability when the system is in a graph topological neighborhood (of computable size) of an ideal plant as in (1), and the statistical properties of the disturbance are violated. (4) Continuing to stabilize the system when the adaptation gain is prevented from vanishing.
+Keywords
+robustness, performance, adaptive control, optimal control, minimum variance control, graph topology, minimum variance regulator, self-tuning regulator, 93C40, 

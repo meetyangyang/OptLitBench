@@ -1,0 +1,6 @@
+Polynomial-Time Separation of a Superclass of Simple Comb Inequalities
+Lisa K. Fleischer;Adam N. Letchford;Andrea Lodi;
+Abstract
+The comb inequalities are a well-known class of facet-inducing inequalities for the traveling salesman problem, defined in terms of certain vertex sets called the handle and the teeth. We say that a comb inequality is simple if the following holds for each tooth: Either the intersection of the tooth with the handle has cardinality one, or the part of the tooth outside the handle has cardinality one, or both. The simple comb inequalities generalize the classical 2-matching inequalities of Edmonds [Edmonds, J. 1965. Maximum matching and a polyhedron with 0–1 vertices. J. Res. Nat. Bur. Standards69B 125–130] and also the so-called Chvátal comb inequalities. In 1982, Padberg and Rao [Padberg, M. W., M. R. Rao. 1982. Odd minimum cut-sets and b-matchings. Math. Oper. Res.7 67–80] gave a polynomial-time separation algorithm for the 2-matching inequalities, i.e., an algorithm for testing if a given fractional solution to an LP relaxation violates a 2-matching inequality. We extend this significantly by giving a polynomial-time separation algorithm for a class of valid inequalities which includes all simple comb inequalities.
+Keywords
+traveling salesman problem cutting planes separation 

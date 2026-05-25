@@ -1,0 +1,6 @@
+Algorithms for an Integer Multicommodity Network Flow Problem with Node Reliability Considerations
+Bita Tadayon;J. Cole Smith;
+Abstract
+In this paper, we consider the problem of sending a set of multiple commodities from their origin to destination nodes via intermediate hubs. Each hub node is associated with a reliability function, which depends on the total flow that crosses that hub. The probability that each commodity is successfully relayed from its origin to its destination is given by the product of hub reliabilities on the commodity’s path. The problem we consider seeks to find minimum-cost commodity paths such that each commodity reaches its destination with a sufficiently large probability. We first formulate the problem as a nonlinear multicommodity network-flow problem and prove that it is strongly NP-hard. We then present two linearization techniques for this formulation, and propose a pair of lower- and upper-bounding formulations, which can then be used within an exact cutting-plane algorithm to solve the problem. Finally, we analyze the computational effectiveness of our proposed strategies on a set of randomly generated instances.
+Keywords
+Multicommodity flow  Integer programming  Cutting planes  Node reliabilities  Congestion  

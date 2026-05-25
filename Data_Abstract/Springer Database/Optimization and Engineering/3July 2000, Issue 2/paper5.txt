@@ -1,0 +1,6 @@
+A Disjunctive Model for Scheduling in a Manufacturing and Packing Facility with Intermediate Storage
+Vipul Jain;Ignacio E. Grossmann;
+Abstract
+The problem considered in this paper deals with the short term scheduling of a two stage continuous process with intermediate storage tanks. The major scheduling decisions in this problem are: a) the assignment of orders to various storage tanks; b) the sequence of orders in each unit; c) the timing of various operations in different stages. The problem is highly combinatorial in nature. The major challenge is to develop strong integer programming formulations and to devise efficient solution techniques. An initial model is presented in the form of a disjunctive program which is later transformed to a Mixed Integer Linear Programming (MILP) problem. A number of example problems are solved which highlight the limitations of this model as the number of orders increases. A heuristic based on partial preordering is considered which solves industrial sized problems very quickly. The objective function values for the heuristic solutions are within 7% of the optimal values.
+Keywords
+scheduling  disjunctive programming  mixed integer linear programming  preordering heuristics  

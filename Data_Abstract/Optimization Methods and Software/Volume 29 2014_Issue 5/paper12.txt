@@ -1,0 +1,6 @@
+Cubic overestimation and secant updating for unconstrained optimization of C2, 1 functions
+Andreas Griewank;Jonathan Fischer;Torsten Bosse;
+Abstract
+The discrepancy between an objective function f and its local quadratic model f(x)+∇ f(x)⊤ s+s⊤ H(x) s/2 ≈ f(x+s) at the current iterate x is estimated using a cubic term q |s|3/3. Potential steps are chosen such that they minimize (or at least significantly reduce) the overestimating function ∇ f(x)⊤ s+s⊤ B s/2+q |s|3/3 with B ≈ H(x). This ensures f(x+s)<f(x) unless the approximating Hessian B=B⊤ differs significantly from H(x) or the scalar q>0 is too small. Either one or both quantities may be updated after unsuccessful and successful steps alike. For an algorithm employing both the symmetric rank one update and a shifted version of the BFGS formula we show that either∈f |∇ f|=0 or sup |B|=∞, provided the Hessian H(x) is Lipschitz on some neighbourhood of a bounded level set. Superlinear convergence is theoretically expected and numerically observed but not yet proven.
+Keywords
+unconstrained optimization, cubic overestimation, eigenvalue decomposition, quasi-Newton, compromise updateAMS Subject Classification: 90C30, 90C53, 90C55, 49M27 

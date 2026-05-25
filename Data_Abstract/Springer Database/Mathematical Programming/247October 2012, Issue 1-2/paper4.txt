@@ -1,0 +1,6 @@
+A primal–dual interior point method for nonlinear semidefinite programming
+Hiroshi Yamashita;Hiroshi Yabe;Kouhei Harada;
+Abstract
+This paper is concerned with a primal–dual interior point method for solving nonlinear semidefinite programming problems. The method consists of the outer iteration (SDPIP) that finds a KKT point and the inner iteration (SDPLS) that calculates an approximate barrier KKT point. Algorithm SDPLS uses a commutative class of Newton-like directions for the generation of line search directions. By combining the primal barrier penalty function and the primal–dual barrier function, a new primal–dual merit function is proposed. We prove the global convergence property of our method. Finally some numerical experiments are given.
+Keywords
+Nonlinear semidefinite programming  Primal–dual interior point method  Barrier penalty function  Primal–dual merit function  Global convergence  90C22  90C26  90C51  

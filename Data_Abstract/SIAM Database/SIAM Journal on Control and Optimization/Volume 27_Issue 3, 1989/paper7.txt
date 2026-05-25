@@ -1,0 +1,6 @@
+Distributed Computation of Nash Equilibria in Linear-Quadratic Stochastic Differential Games
+Tamer  Başar and Shu  Li;
+Abstract
+In this paper, a class of n-person stochastic linear-quadratic differential games under multiple probabilistic modeling is studied, with each player acquiring a noisy measurement of the initial state. Conditions for the existence and uniqueness of the Nash equilibrium is obtained, and a method is provided for an iterative distributed computation of the solution. The distributed algorithm involves learning in the policy space, and it does not require that each player knows the others' perceptions of the probabilistic model underlying the decision process. For the finite horizon problem, such an iteration converges whenever the length of the time horizon is sufficiently small, and the limit in this case is an affine policy for all players if the underlying distributions are jointly Gaussian. When the horizon is infinite and a discount factor is used in the cost functionals, the iteration converges under conditions depending on the magnitude of the discount factor, the limiting policies again being affine in the case of Gaussian distributions.
+Keywords
+stochastic differential games, stable Nash equilibria, multiple probabilistic models, repeated  incomplete games, distributed algorithms, 93E05, 90D25, 

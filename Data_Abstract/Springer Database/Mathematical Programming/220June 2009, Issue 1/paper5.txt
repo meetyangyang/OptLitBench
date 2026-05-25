@@ -1,0 +1,6 @@
+A geometric analysis of Renegar’s condition number, and its interplay with conic curvature
+Alexandre Belloni;Robert M. Freund;
+Abstract
+For a conic linear system of the form Ax ∈K, K a convex cone, several condition measures have been extensively studied in the last dozen years. Among these, Renegar’s condition number \({\mathcal{C}}(A)\) is arguably the most prominent for its relation to data perturbation, error bounds, problem geometry, and computational complexity of algorithms. Nonetheless, \({\mathcal{C}}(A)\) is a representation-dependent measure which is usually difficult to interpret and may lead to overly conservative bounds of computational complexity and/or geometric quantities associated with the set of feasible solutions. Herein we show that Renegar’s condition number is bounded from above and below by certain purely geometric quantities associated with A and K; furthermore our bounds highlight the role of the singular values of A and their relationship with the condition number. Moreover, by using the notion of conic curvature, we show how Renegar’s condition number can be used to provide both lower and upper bounds on the width of the set of feasible solutions. This complements the literature where only lower bounds have heretofore been developed.
+Keywords
+90C31  52A20  

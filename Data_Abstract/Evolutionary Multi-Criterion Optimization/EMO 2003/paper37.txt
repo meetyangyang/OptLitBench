@@ -1,0 +1,4 @@
+The Measure of Pareto Optima Applications to Multi-objective Metaheuristics
+M. Fleischer;
+Abstract
+This article describes a set function that maps a set of Pareto optimal points to a scalar. A theorem is presented that shows that the maximization of this scalar value constitutes the necessary and sufficient condition for the function’s arguments to be maximally diverse Pareto optimal solutions of a discrete, multi-objective, optimization problem. This scalar quantity, a hypervolume based on a Lebesgue measure, is therefore the best metric to assess the quality of multiobjective optimization algorithms. Moreover, it can be used as the objective function in simulated annealing (SA) to induce convergence in probability to the Pareto optima. An efficient, polynomial-time algorithm for calculating this scalar and an analysis of its complexity is also presented.

@@ -1,0 +1,6 @@
+Level-Set Approach for Reachability Analysis of Hybrid Systems under Lag Constraints
+G.  Granato and H.  Zidani;
+Abstract
+This study aims at characterizing a reachable set of a hybrid dynamical system with a lag constraint in the switch control. The setting does not consider any controllability assumptions and uses a level-set approach. The approach consists of the introduction of an adequate hybrid optimal control problem with lag constraints on the switch control whose value function allows a characterization of the reachable set. The value function is in turn characterized by a system of quasi-variational inequalities (SQVI). We prove a comparison principle for the SQVI which shows uniqueness of its solution. A class of numerical finite difference scheme for solving the system of inequalities is proposed, and the convergence of the numerical solution toward the value function is studied using the comparison principle. Some numerical examples illustrating the method are presented. Our study is motivated by an industrial application. We are interested in the maximum range of hybrid vehicles.
+Keywords
+optimal control, quasi-variational Hamilton--Jacobi equation, hybrid systems, reachability analysis, 49LXX, 34K35, 34A38, 65M12, 

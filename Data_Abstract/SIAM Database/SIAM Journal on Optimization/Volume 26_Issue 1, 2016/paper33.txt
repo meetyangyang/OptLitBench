@@ -1,0 +1,6 @@
+Bounds and Approximations for Multistage Stochastic Programs
+Francesca  Maggioni and Georg Ch.  Pflug;
+Abstract
+Consider (typically large) multistage stochastic programs, which are defined on scenario trees as the basic data structure. It is well known that the computational complexity of the solution depends on the size of the tree, which itself increases typically exponentially fast with its  height, i.e., the number of decision stages. For this reason approximations which replace the problem by a simpler one and allow bounding the optimal value are of great importance. In this paper we study several methods to obtain lower and upper bounds for multistage stochastic programs and we demonstrate their use in a multistage inventory problem.
+Keywords
+multistage stochastic programming, bounds, refinement chain, expected value problem, 90C15, 90C90, 65K05, 

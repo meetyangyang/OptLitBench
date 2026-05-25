@@ -1,0 +1,6 @@
+Integer programming models and linearizations for the traveling car renter problem
+Marco C. Goldbarg;Elizabeth F. G. Goldbarg;Henrique P. L. Luna;Matheus S. Menezes;Lucas Corrales;
+Abstract
+The traveling car renter problem (CaRS) is an extension of the classical traveling salesman problem (TSP) where different cars are available for use during the salesman’s tour. In this study we present three integer programming formulations for CaRS, of which two have quadratic objective functions and the other has quadratic constraints. The first model with a quadratic objective function is grounded on the TSP interpreted as a special case of the quadratic assignment problem in which the assignment variables refer to visitation orders. The second model with a quadratic objective function is based on the Gavish and Grave’s formulation for the TSP. The model with quadratic constraints is based on the Dantzig–Fulkerson–Johnson’s formulation for the TSP. The formulations are linearized and implemented in two solvers. An experiment with 50 instances is reported.
+Keywords
+Traveling car renter problem  Traveling salesman  Integer programming  Combinatorial optimization  

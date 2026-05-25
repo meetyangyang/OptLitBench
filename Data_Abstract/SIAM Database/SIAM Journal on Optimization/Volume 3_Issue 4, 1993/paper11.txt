@@ -1,0 +1,6 @@
+On Mizuno’s Rank-One Updating Algorithm for Linear Programming
+Robert A.  Bosch;
+Abstract
+Recently, Mizuno devised a linear programming algorithm that performs at most one rank-one update of a certain matrix per iteration. Mizuno’s algorithm is generalized by a variant that allows any fixed number of updates per iteration. This variant also makes use of an explicit Goldstein–Armijo condition to safeguard linesearches of the potential function, compared to Mizuno’s implicit use of such a condition in his analysis. The variant’s complexity is $O( [ mn + m^2 ]nL )$ operations, which is the same as that of the original.
+Keywords
+linear programming, interior point algorithms, potential function, modified method, rank-one updates, 90C05, 

@@ -1,0 +1,6 @@
+Time-Delay Estimation in State and Output Equations of Nonlinear Systems Using Optimal Computational Approach
+Mohammad Ali Abooshahab;Mohsen Ekramian;Mohammad Ataei;Ali Ebrahimpour-Boroojeny;
+Abstract
+Many real-world dynamics can be modeled as nonlinear time-delay systems. In order to capture a more realistic model for system dynamics, the exact values of time-delay should be taken into account. For nonlinear time-delay systems, the estimation of delays in both state and output equations is discussed. A cost function is defined based on least-square error between actual and estimated values of the output measurement. The value of time-delays in the nonlinear system are then derived using a gradient-based optimization method. Because of the implicit description of the cost function with respect to the delay value, its gradients cannot be obtained by standard analytical differentiation rules. In this case, the optimal computational methods are utilized to derive two formulas for computing the gradient. An optimization scheme is then formulated to estimate both state and output delays. The effectiveness of the proposed estimation method is finally demonstrated using the simulation results on a benchmark chemical process.
+Keywords
+Nonlinear time-delay systems  Optimization methods  Parameter estimation  Optimal computational approach  65K10  35Q93  90C30  

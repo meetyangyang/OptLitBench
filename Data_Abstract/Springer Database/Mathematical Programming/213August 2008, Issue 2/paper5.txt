@@ -1,0 +1,6 @@
+Compact formulations as a union of polyhedra
+Michele Conforti;Laurence A. Wolsey;
+Abstract
+We explore one method for finding the convex hull of certain mixed integer sets. The approach is to break up the original set into a small number of subsets, find a compact polyhedral description of the convex hull of each subset, and then take the convex hull of the union of these polyhedra. The resulting extended formulation is then compact, its projection is the convex hull of the original set, and optimization over the mixed integer set is reduced to solving a linear program over the extended formulation.
+Keywords
+Mixed integer sets  Convex hull  Unions of polyhedra  Lot-sizing  90C11  

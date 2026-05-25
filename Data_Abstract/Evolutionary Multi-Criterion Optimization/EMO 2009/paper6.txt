@@ -1,0 +1,4 @@
+Approximating the Least Hypervolume Contributor: NP-Hard in General, But Fast in Practice
+Karl Bringmann;Tobias Friedrich;
+Abstract
+The hypervolume indicator is an increasingly popular set measure to compare the quality of two Pareto sets. The basic ingredient of most hypervolume indicator based optimization algorithms is the calculation of the hypervolume contribution of single solutions regarding a Pareto set. We show that exact calculation of the hypervolume contribution is #P-hard while its approximation is NP-hard. The same holds for the calculation of the minimal contribution. We also prove that it is NP-hard to decide whether a solution has the least hypervolume contribution. Even deciding whether the contribution of a solution is at most (1 + ε) times the minimal contribution is NP-hard. This implies that it is neither possible to efficiently find the least contributing solution (unless P = NP) nor to approximate it (unless NP = BPP).

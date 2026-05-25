@@ -1,0 +1,6 @@
+Proximal-Point Algorithm Using a Linear Proximal Term
+B. S. He;X. L. Fu;Z. K. Jiang;
+Abstract
+Proximal-point algorithms (PPAs) are classical solvers for convex optimization problems and monotone variational inequalities (VIs). The proximal term in existing PPAs usually is the gradient of a certain function. This paper presents a class of PPA-based methods for monotone VIs. For a given current point, a proximal point is obtained via solving a PPA-like subproblem whose proximal term is linear but may not be the gradient of any functions. The new iterate is updated via an additional slight calculation. Global convergence of the method is proved under the same mild assumptions as the original PPA. Finally, profiting from the less restrictions on the linear proximal terms, we propose some parallel splitting augmented Lagrangian methods for structured variational inequalities with separable operators.
+Keywords
+Variational inequalities  Monotone variational inequalities  Proximal point algorithms  Linear proximal terms  

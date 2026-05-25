@@ -1,0 +1,6 @@
+Heuristics for the facility location and design (1|1)-centroid problem on the plane
+J. L. Redondo;J. Fernández;I. García;P. M. Ortigosa;
+Abstract
+A chain (the leader) wants to set up a single new facility in a planar market where similar facilities of a competitor (the follower), and possibly of its own chain, are already present. The follower will react by locating another single facility after the leader locates its own facility. Fixed demand points split their demand probabilistically over all facilities in the market in proportion to their attraction to each facility, determined by the different perceived qualities of the facilities and the distances to them, through a gravitational model. Both the location and the quality (design) of the new leader’s facility are to be found. The aim is to maximize the profit obtained by the leader following the follower’s entry. Four heuristics are proposed for this hard-to-solve global optimization problem, namely, a grid search procedure, an alternating method and two evolutionary algorithms. Computational experiments show that the evolutionary algorithm called UEGO_cent.SASS provides the best results.
+Keywords
+Continuous location  Competition  Centroid problem  Stackelberg problem  Evolutionary algorithms  

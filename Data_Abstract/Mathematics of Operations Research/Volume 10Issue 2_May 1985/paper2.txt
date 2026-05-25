@@ -1,0 +1,6 @@
+A Best Possible Heuristic for the k-Center Problem
+Dorit S. Hochbaum;David B. Shmoys;
+Abstract
+In this paper we present a 2-approximation algorithm for the k-center problem with triangle inequality. This result is “best possible” since for any δ < 2 the existence of δ-approximation algorithm would imply that P = NP. It should be noted that no δ-approximation algorithm, for any constant δ, has been reported to date. Linear programming duality theory provides interesting insight to the problem and enables us to derive, in O(|E| log |E|) time, a solution with value no more than twice the k-center optimal value.A by-product of the analysis is an O(|E|) algorithm that identifies a dominating set in G2, the square of a graph G, the size of which is no larger than the size of the minimum dominating set in the graph G. The key combinatorial object used is called a strong stable set, and we prove the NP-completeness of the corresponding decision problem.
+Keywords
+k-center problem dominating set strong stable set 

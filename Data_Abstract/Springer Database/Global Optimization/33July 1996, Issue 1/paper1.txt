@@ -1,0 +1,6 @@
+Parallel methods for verified global optimization practice and theory
+Sonja Berner;
+Abstract
+We present a new parallel method for verified global optimization, using a centralized mediator for the dynamic load balancing. The new approach combines the advantages of two previous models, the master slave model and the processor farm. Numerical results show the efficiency of this new method. For a large number of problems at least linear speedup is reached. The efficiency of this new method is also confirmed by a comparison with other parallel methods for verified global optimization. A theoretical study proves that using the best-first strategy to choose the next box for subdivision, no real superlinear speedup may be expected concerning the number of iterations. Moreover, the potential of parallelization of methods of verified global optimization is discussed in general.
+Keywords
+Global optimization  parallel computing  interval arithmetic  branch and bound  dynamic load balancing  

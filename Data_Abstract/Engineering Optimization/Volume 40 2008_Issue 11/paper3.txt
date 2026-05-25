@@ -1,0 +1,6 @@
+Solving constrained optimization problems with hybrid particle swarm optimization
+ Erwie   Zahara ; Chia-Hsin   Hu ;
+Abstract
+ Constrained optimization problems (COPs) are very important in that they frequently appear in the real world. A COP, in which both the function and constraints may be nonlinear, consists of the optimization of a function subject to constraints. Constraint handling is one of the major concerns when solving COPs with particle swarm optimization (PSO) combined with the Nelder–Mead simplex search method (NM-PSO). This article proposes embedded constraint handling methods, which include the gradient repair method and constraint fitness priority-based ranking method, as a special operator in NM-PSO for dealing with constraints. Experiments using 13 benchmark problems are explained and the NM-PSO results are compared with the best known solutions reported in the literature. Comparison with three different meta-heuristics demonstrates that NM-PSO with the embedded constraint operator is extremely effective and efficient at locating optimal solutions. 
+Keywords
+constrained optimization, Nelder–Mead simplex search method, particle swarm optimization, constraint handling 

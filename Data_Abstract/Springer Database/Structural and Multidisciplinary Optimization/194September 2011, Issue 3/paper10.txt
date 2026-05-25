@@ -1,0 +1,6 @@
+Multi-objective optimization for bus body with strength and rollover safety constraints based on surrogate models
+Ruiyi Su;Liangjin Gui;Zijie Fan;
+Abstract
+It is important to consider the performances of lightweight, stiffness, strength and rollover safety when designing a bus body. In this paper, the finite element (FE) analysis models including strength, stiffness and rollover crashworthiness of a bus body are first built and then validated by physical tests. Based on the FE models, the design of experiment is implemented and multiple surrogate models are created with response surface method and hybrid radial basis function according to the experimental data. After that, a multi-objective optimization problem (MOP) of the bus body is formulated in which the objective is to minimize the weight and maximize the torsional stiffness of the bus body under the constraints of strength and rollover safety. The MOP is solved by employing multi-objective evolutionary algorithms to obtain the Pareto optimal set. Finally, an optimal solution of the set is chosen as the final design and compared with the original design.
+Keywords
+Bus body  Finite element analysis  Surrogate model  Multi-objective optimization  

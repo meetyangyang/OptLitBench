@@ -1,0 +1,6 @@
+HodgeRank Is the Limit of Perron Rank
+Ngoc Mai Tran;
+Abstract
+In the context of pairwise comparison ranking, we show that HodgeRank (row geometric mean), is the limit of Perron Rank (ranking with principal eigenvector) as a certain parameter k goes to 0. This result provides a novel mathematical link between two important pairwise ranking methods. It complements the known result that as k approaches infinity, Perron Rank converges to Tropical Rank. Thus, these three pairwise ranking methods belong to the same parametrized family. Our proof technique is useful for mathematical comparison of these methods. As a sample application, we show that for ranking models with i.i.d noise, HodgeRank is a linear approximation of Perron Rank. In this particular setup, for large numbers of items with sufficiently large score differences, the two methods yield identical ordinal rankings.
+Keywords
+Perron Rank HodgeRank pairwise comparison max-times algebra random matrix 

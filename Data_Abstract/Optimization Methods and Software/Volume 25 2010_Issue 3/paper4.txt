@@ -1,0 +1,6 @@
+A generic primal–dual interior-point method for semidefinite optimization based on a new class of kernel functions
+ Mohamed   El Ghami ; Cornelis   Roos ; Trond   Steihaug ;
+Abstract
+ In this paper, we present a class of polynomial-time primal–dual interior-point methods (IPMs) for semi-definite optimization based on a new class of kernel functions. This class is fairly general and includes the class of finite kernel functions [Y.Q. Bai, M. El Ghami and C. Roos, A new efficient large-update primal–dual interior-point method based on a finite barrier, SIAM J. Optim. 13(3) (2003), pp. 766–782]: the corresponding barrier functions have a finite value at the boundary of the feasible region. They are not exponentially convex and also not strongly convex like many usual barrier functions. We show that the IPMs based on these functions have favourable complexity results. To achieve this, several new tools are derived in the analysis. The kernel functions depend on parameters p∈[0, 1] and σ≥1. When those parameters are appropriately chosen, then the iteration bound of large-update IPMs based on these functions, coincide with the currently best known bounds for primal–dual IPMs. 
+Keywords
+kernel function, interior-point, semidefinite optimization, primal–dual method AMS Subject Classification : 90C22, 90C31 

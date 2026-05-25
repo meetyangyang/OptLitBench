@@ -1,0 +1,4 @@
+A Relax-and-Cut Framework for Gomory’s Mixed-Integer Cuts
+Matteo Fischetti;Domenico Salvagnin;
+Abstract
+Gomory’s Mixed-Integer Cuts (GMICs) are widely used in modern branch-and-cut codes for the solution of Mixed-Integer Programs. Typically, GMICs are iteratively generated from the optimal basis of the current Linear Programming (LP) relaxation, and immediately added to the LP before the next round of cuts is generated. Unfortunately, this approach prone to instability.

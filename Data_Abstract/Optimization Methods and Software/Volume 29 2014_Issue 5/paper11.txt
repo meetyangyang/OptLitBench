@@ -1,0 +1,6 @@
+Optimal flow control based on POD and MPC and an application to the cancellation of Tollmien–Schlichting waves
+Jane Ghiglieri;Stefan Ulbrich;
+Abstract
+A reduced-order model based on proper orthogonal decomposition (POD) is presented which is suitable for active control in fluid dynamical systems. The POD basis is based on snapshots (finite-element discretizations of the Navier–Stokes equations) of the uncontrolled state and impulse response snapshots. Error estimates for this setting are proved. The reduced set of basis functions is used for active control of fluid flows governed by the Navier–Stokes equations. In particular, we consider the cancellation of Tollmien–Schlichting waves in the boundary layer of a flat plate. The control is a body force induced by a plasma actuator. The optimization of the control parameters is performed within the reduced system with a model predictive control approach. The effectiveness of the approach is shown in numerical experiments.
+Keywords
+Navier–Stokes equations, flow control, model reduction, proper orthogonal decomposition, model predictive control, error estimatesAMS Subject Classification:: 49K20, 65K05, 76D55 

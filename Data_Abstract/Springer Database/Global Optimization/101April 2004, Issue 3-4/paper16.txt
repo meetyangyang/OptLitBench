@@ -1,0 +1,6 @@
+A Linearization Method for Nondegenerate Variational Conditions
+Stephen M. Robinson;
+Abstract
+We employ recent results about constraint nondegeneracy in variational conditions to design and justify a linearization algorithm for solving such problems. The algorithm solves a sequence of affine variational inequalities, but the variational condition itself need not be a variational inequality: that is, its underlying set need not be convex. However, that set must be given by systems of differentiable nonlinear equations with additional polyhedral constraints. We show that if the variational condition has a solution satisfying nondegeneracy and a standard regularity condition, and if the linearization algorithm is started sufficiently close to that solution, the algorithm will produce a well defined sequence that converges Q-superlinearly to the solution.
+Keywords
+Linearization method  Nondegeneracy  Variational condition  

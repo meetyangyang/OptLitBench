@@ -1,0 +1,6 @@
+A deterministic global approach for mixed-discrete structural optimization
+Ming-Hua Lin;Jung-Fa Tsai;
+Abstract
+This study proposes a novel approach for finding the exact global optimum of a mixed-discrete structural optimization problem. Although many approaches have been developed to solve the mixed-discrete structural optimization problem, they cannot guarantee finding a global solution or they adopt too many extra binary variables and constraints in reformulating the problem. The proposed deterministic method uses convexification strategies and linearization techniques to convert a structural optimization problem into a convex mixed-integer nonlinear programming problem solvable to obtain a global optimum. To enhance the computational efficiency in treating complicated problems, the range reduction technique is also applied to tighten variable bounds. Several numerical experiments drawn from practical structural design problems are presented to demonstrate the effectiveness of the proposed method.
+Keywords
+global optimization, mixed-discrete variables, structural design 

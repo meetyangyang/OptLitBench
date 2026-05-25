@@ -1,0 +1,6 @@
+Bayesian metrics for comparing response surface models of data with uncertainty
+C. Gearhart;B.P. Wang;
+Abstract
+For many optimization applications a complicated computational simulation is replaced with a simpler response surface model. These models are built by fitting a limited number of evaluations of the full simulation with a simple function that captures the trends in the evaluated data. In many cases the values of the data at the evaluation points have some uncertainty. This paper uses Bayesian model selection to derive two objective metrics that can be used to determine which response surface model provides the most appropriate representation of the evaluated data given the associated uncertainty. These metrics are shown to be consistent with modelling intuition based on Occam’s principle. The uncertainty may be due to numerical error, approximations, uncertain input conditions, or to higher order effects in the simulation that do not need to be fit by the response surface. Two metrics, Q and G, are derived in this paper. The metric Q assumes that a good estimate of the simulation uncertainty is available. The metric G assumes the uncertainty, although present, is unknown. Application of these metrics in one and two dimensions are demonstrated.
+Keywords
+Key words: response surface, Bayesian methods, uncertainty  

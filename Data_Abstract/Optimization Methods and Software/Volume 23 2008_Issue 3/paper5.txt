@@ -1,0 +1,6 @@
+An algorithm for the constrained two-dimensional rectangular multiple identical large object placement problem
+ Y.   Cui ; T.   Gu ; W.   Hu ;
+Abstract
+ This paper presents an algorithm for the constrained, two-dimensional, rectangular multiple identical large object placement problem, where a set of small rectangular items must be cut from a specified number of identical plates, so as to maximize the value of the cut items. The algorithm generates optimal homogenous T-shape patterns that contain only homogenous strips. A homogenous strip contains items of the same type. A cut divides the plate into two segments. Each segment consists of strips with the same direction. The strips in the first segment are horizontal, and those in the second segment are vertical. The algorithm is based on the bottom-up tree-search approach. Both lower and upper bounds are used to prune the search tree. The computational results indicate that the algorithm is capable of solving problems of small and medium scales. 
+Keywords
+cutting, packing, cutting stock, constrained two-dimensional cutting, branch and boundAMS Subject Classifications: 90C27, 90C57 

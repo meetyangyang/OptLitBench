@@ -1,0 +1,6 @@
+An efficient reliability analysis approach for structure based on probability and probability box models
+Xin Liu;Lairong Yin;Lin Hu;Zhiyong Zhang;
+Abstract
+In this paper, a new reliability analysis method for engineering structures is developed based on probability and probability box (p-box) models. Random variable distributions are used to deal with the uncertain parameters with sufficient information, while the p-box models are employed to deal with the uncertain-but-bounded variables. Due to the existence of the p-box parameters, a limit-state band will result and a complex nesting optimization problem will be involved in this reliability analysis. To reduce the computational burden, an efficient decoupling strategy is developed to solve the nesting optimization problem. Through interval analysis for the probability transformation process, the complex nesting optimization problem can be transformed to a single-layer optimization model. Then, the optimum solution and corresponding reliability index can be obtained by introducing a sequential quadratic programming (SQP) method. Four engineering numerical examples are investigated to demonstrate the effectiveness of the present method.
+Keywords
+Uncertainty structure  Reliability analysis  Probability  Probability box  

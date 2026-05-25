@@ -1,0 +1,6 @@
+Robust Mean-Squared Error Estimation of Multiple Signals in Linear Systems Affected by Model and Noise Uncertainties
+Amir Beck;Aharon Ben-Tal;Yonina C. Eldar;
+Abstract
+This paper is a continuation of the work in [11] and [2] on the problem of estimating by a linear estimator, N unobservable input vectors, undergoing the same linear transformation, from noise-corrupted observable output vectors. Whereas in the aforementioned papers, only the matrix representing the linear transformation was assumed uncertain, here we are concerned with the case in which the second order statistics of the noise vectors (i.e., their covariance matrices) are also subjected to uncertainty. We seek a robust mean-squared error estimator immuned against both sources of uncertainty. We show that the optimal robust mean-squared error estimator has a special form represented by an elementary block circulant matrix, and moreover when the uncertainty sets are ellipsoidal-like, the problem of finding the optimal estimator matrix can be reduced to solving an explicit semidefinite programming problem, whose size is independent of N.
+Keywords
+Minimax Mean-Squared Error  Multiple Observations  Robust Estimation  Semidefinite Programming  Block Circulant Matrices  Discrete Fourier Transform  90C22  90C25  

@@ -1,0 +1,6 @@
+Convex quadratic programming with one constraint and bounded variables
+Jean-Pierre Dussault;Jacques A. Ferland;Bernard Lemaire;
+Abstract
+In this paper we propose an iterative algorithm for solving a convex quadratic program with one equality constraint and bounded variables. At each iteration, a separable convex quadratic program with the same constraint set is solved. Two variants are analyzed: one that uses an exact line search, and the other a unit step size. Preliminary testing suggests that this approach is efficient for problems with diagonally dominant matrices.
+Keywords
+Quadratic programming  projection  iterative procedure  separable programs  

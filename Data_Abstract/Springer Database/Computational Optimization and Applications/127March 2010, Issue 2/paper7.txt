@@ -1,0 +1,6 @@
+A DIRECT-based approach exploiting local minimizations for the solution of large-scale global optimization problems
+G. Liuzzi;S. Lucidi;V. Piccialli;
+Abstract
+In this paper we propose a new algorithm for solving difficult large-scale global optimization problems. We draw our inspiration from the well-known DIRECT algorithm which, by exploiting the objective function behavior, produces a set of points that tries to cover the most interesting regions of the feasible set. Unfortunately, it is well-known that this strategy suffers when the dimension of the problem increases. As a first step we define a multi-start algorithm using DIRECT as a deterministic generator of starting points. Then, the new algorithm consists in repeatedly applying the previous multi-start algorithm on suitable modifications of the variable space that exploit the information gained during the optimization process. The efficiency of the new algorithm is pointed out by a consistent numerical experimentation involving both standard test problems and the optimization of Morse potential of molecular clusters.
+Keywords
+Global optimization  Nonlinear programming  Morse potential  DIRECT algorithm  

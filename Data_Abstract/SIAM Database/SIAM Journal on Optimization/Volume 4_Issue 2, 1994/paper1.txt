@@ -1,0 +1,6 @@
+Line Search Procedures for the Logarithmic Barrier Function
+Walter  Murray and Margaret H.  Wright;
+Abstract
+Barrier methods for constrained optimization, widely applied in the 1960s and 1970s, have recently enjoyed a revival of popularity. A line search with respect to a logarithmic barrier function or related potential function is often part of modern interior methods. Standard line search procedures tend to be inefficient in this context for two reasons; an inappropriate choice of initial trial step if any constraints are nonlinear, and poor approximation of the barrier function by loworder polynomial interpolants. This paper discusses line search strategies specifically designed for the logarithmic barrier function.
+Keywords
+barrier function, line search, interior methods, 65K05, 90C30, 

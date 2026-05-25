@@ -1,0 +1,6 @@
+Continuity of the null space basis and constrained optimization
+Richard H. Byrd;Robert B. Schnabel;
+Abstract
+Many constrained optimization algorithms use a basis for the null space of the matrix of constraint gradients. Recently, methods have been proposed that enable this null space basis to vary continuously as a function of the iterates in a neighborhood of the solution. This paper reports results from topology showing that, in general, there is no continuous function that generates the null space basis of all full rank rectangular matrices of a fixed size. Thus constrained optimization algorithms cannot assume an everywhere continuous null space basis. We also give some indication of where these discontinuities must occur. We then propose an alternative implementation of a class of constrained optimization algorithms that uses approximations to the reduced Hessian of the Lagrangian but is independent of the choice of null space basis. This approach obviates the need for a continuously varying null space basis.
+Keywords
+Null space basis  QR factorization  constrained optimization  reduced Hessian  

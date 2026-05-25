@@ -1,0 +1,6 @@
+Improved mine blast algorithm for optimal cost design of water distribution systems
+Ali Sadollah;Do Guen Yoo;Joong Hoon Kim;
+Abstract
+The design of water distribution systems is a large class of combinatorial, nonlinear optimization problems with complex constraints such as conservation of mass and energy equations. Since feasible solutions are often extremely complex, traditional optimization techniques are insufficient. Recently, metaheuristic algorithms have been applied to this class of problems because they are highly efficient. In this article, a recently developed optimizer called the mine blast algorithm (MBA) is considered. The MBA is improved and coupled with the hydraulic simulator EPANET to find the optimal cost design for water distribution systems. The performance of the improved mine blast algorithm (IMBA) is demonstrated using the well-known Hanoi, New York tunnels and Balerma benchmark networks. Optimization results obtained using IMBA are compared to those using MBA and other optimizers in terms of their minimum construction costs and convergence rates. For the complex Balerma network, IMBA offers the cheapest network design compared to other optimization algorithms.
+Keywords
+water distribution systems, mine blast algorithm, metaheuristics, constrained optimization 

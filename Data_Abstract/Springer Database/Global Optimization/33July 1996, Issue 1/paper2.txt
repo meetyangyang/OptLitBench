@@ -1,0 +1,6 @@
+Rigorous convex underestimators for general twice-differentiable problems
+Claire S. Adjiman;Christodoulos A. Floudas;
+Abstract
+In order to generate valid convex lower bounding problems for nonconvex twice-differentiable optimization problems, a method that is based on second-order information of general twice-differentiable functions is presented. Using interval Hessian matrices, valid lower bounds on the eigenvalues of such functions are obtained and used in constructing convex underestimators. By solving several nonlinear example problems, it is shown that the lower bounds are sufficiently tight to ensure satisfactory convergence of the αBB, a branch and bound algorithm which relies on this underestimation procedure [3].
+Keywords
+convex underestimators  twice-differentiable  interval analysis  eigenvalues  

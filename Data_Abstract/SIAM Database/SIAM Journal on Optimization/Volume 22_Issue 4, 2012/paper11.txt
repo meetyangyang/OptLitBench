@@ -1,0 +1,6 @@
+0-1 Quadratic Knapsack Problems: An Exact Approach Based on a $t$-Linearization
+C. D.  Rodrigues, D.  Quadri, P.  Michelon, and S.  Gueye;
+Abstract
+This paper presents an exact solution method based on a new linearization scheme for the 0-1 quadratic knapsack problem, which consists of maximizing a quadratic pseudo-Boolean function with nonnegative coefficients subject to a linear capacity constraint. Contrasting with traditional linearization schemes, our approach adds only one extra variable. The suggested linearization framework provides a tight upper bound, which is used in a branch-and-bound scheme. This upper bound is numerically compared with that of [A. Billionnet, A. Faye, and E. Soutif, European J. Oper. Res., 112 (1999), pp. 664--672], and our branch-and-bound scheme with the exact algorithm of [W. D. Pisinger, A. B. Rasmussen, and R. Sandvik, INFORMS J. Comput., 19 (2007), pp. 280--290]. The experiments show that our upper bound is quite competitive (less than $1\%$ from the optimum). In addition, the proposed branch-and-bound clearly outperforms the algorithm developed by Pisinger et al. for low density instances ($25\%$) for all instances up to $400$ variables.
+Keywords
+0-1 quadratic programming, linearization, branch-and-bound, 90C20, 93B18, 90C57, 

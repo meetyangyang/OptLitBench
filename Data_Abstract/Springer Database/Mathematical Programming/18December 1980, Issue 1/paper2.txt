@@ -1,0 +1,6 @@
+Matrix augmentation and structure preservation in linearly constrained control problems
+Johannes Bisschop;Alexander Meeraus;
+Abstract
+Matrix augmentation is used for the inversion of bases associated with large linearly constrained control problems. It is shown how an efficient data structure can be maintained by keeping all state variables in the basis, and then nullifying some of them explicitly by using additional constraints. The proposed methodology, together with a basis updating scheme based on augmentation, forms the skeleton for an in-core algorithm using either the revised simplex method or the generalized reduced gradient method.
+Keywords
+Large-scale Programming  Linear Control Problems  Matrix Modifications  Partitioning Methods  Basis Inversion  

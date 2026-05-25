@@ -1,0 +1,6 @@
+Fast implementation for semidefinite programs with positive matrix completion
+Makoto Yamashita;Kazuhide Nakata;
+Abstract
+Solving semidefinite programs (SDPs) in a short time is the key to managing various mathematical optimization problems. The matrix-completion primal–dual interior-point method (MC-PDIPM) extracts a sparse structure of input SDP by factorizing the variable matrices. In this paper, we propose a new factorization based on the inverse of the variable matrix to enhance the performance of MC-PDIPM. We also use multithreaded parallel computing to deal with the major bottlenecks in MC-PDIPM. Numerical results show that the new factorization and multithreaded computing reduce the computation time for SDPs that have structural sparsity.
+Keywords
+semidefinite programs, interior-point methods, matrix completion, multithreaded computingAMS Subject Classification: 90 Operations research, mathematical programming, 90C22 Semidefinite programming, 90C51 Interior-point methods, 97N80 Mathematical software, computer programs 

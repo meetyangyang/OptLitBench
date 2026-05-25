@@ -1,0 +1,6 @@
+Quantum Measurement-Based Feedback Control: A Nonsmooth Time Delay Control Approach
+Shuzhi Sam  Ge, Thanh Long  Vu, and Tong Heng  Lee;
+Abstract
+This paper addresses the problem of measurement-based feedback control for quantum systems, in which the time to compute the filter-based control input is taken into account by considering the input delay. It starts with a new Lyapunov–LaSalle-like theorem for delay-dependent stochastic stability of a class of time delay stochastic nonlinear systems. Nonsmooth time delay control is then constructed to compensate for the control-computation time, which is known but arbitrarily long, while globally stabilizing the quantum filters almost surely. The nonsmooth property enables the control to deal with the symmetric topology of filter state space. The effectiveness of the proposed control is illustrated through the global stabilization of the spin-$1/2$ systems. Simulation results are presented and discussed to show the effectiveness of the proposed control.
+Keywords
+quantum feedback control, state-transferring, stochastic nonlinear control, delay-dependent stochastic stability, 81Q93, 81P15, 93D05, 93D15, 93E15, 

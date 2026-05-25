@@ -1,0 +1,6 @@
+A Parametric Subproblem for Dual Methods in Decomposition
+James K. Ho;
+Abstract
+The Dantzig-Wolfe decomposition algorithm for a linear program can be regarded as the primal simplex method applied to the equivalent extremal problem. If the dual simplex method is used, the subproblems will have linear fractional objectives. Abadie and Williams showed how such subproblems can be solved as a sequence of distinct linear programs. This paper proposes to obtain the same results using a single parametric linear program which means that such special subproblems can be handled by a general purpose algorithm. The procedure should, therefore, greatly improve the practicality of postoptimality and parametric analysis using decomposition.
+Keywords
+dual decomposition parametric programming postoptimality analysis large scale systems 

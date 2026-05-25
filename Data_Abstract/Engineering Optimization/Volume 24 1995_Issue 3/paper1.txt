@@ -1,0 +1,6 @@
+EFFICIENT SCHEDULES FOR SIMULATED ANNEALING
+ R.   SRICHANDER ;
+Abstract
+ The performance of the simulated annealing (SA) algorithm for finite length annealing schedules is examined in this paper. Using spectral decomposition of matrices it is shown that for the final solution of the SA algorithm to converge to the global minimum with probability one, an annealing schedule on the temperature is not necessary. Further, it is shown that annealing schedules on the temperature produces an inefficient algorithm in the sense that the number of function evaluations required to obtain the minimum is very large. A modified SA algorithm is presented with an iterative schedule on the size of the neighbour sets that leads to an efficient algorithm. The performance of the new algorithm on a real-world example is then presented. 
+Keywords
+ Simulated annealing, constrained optimization, Markov chains, matrix theory, controller design. 

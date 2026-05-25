@@ -1,0 +1,6 @@
+Evaluating Gradients in Optimal Control: Continuous Adjoints Versus Automatic Differentiation
+R. Griesse;A. Walther;
+Abstract
+This paper deals with the numerical solution of optimal control problems for ODEs. The methods considered here rely on some standard optimization code to solve a discretized version of the control problem under consideration. We aim to make available to the optimization software not only the discrete objective functional, but also its gradient. The objective gradient can be computed either from forward (sensitivity) information or backward (adjoint) information. The purpose of this paper is to discuss various ways of adjoint computation. It will be shown both theoretically and numerically that methods based on the continuous adjoint equation require a careful choice of both the integrator and gradient assembly formulas in order to obtain a gradient consistent with the discretized control problem. Particular attention is given to automatic differentiation techniques which generate automatically a suitable integrator.
+Keywords
+Optimal control  automatic differentiation  adjoint equation  

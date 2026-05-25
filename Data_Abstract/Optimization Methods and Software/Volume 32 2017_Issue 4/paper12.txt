@@ -1,0 +1,6 @@
+Improved linearized models for graph partitioning problem under capacity constraints
+Viet Hung Nguyen;Michel Minoux;
+Abstract
+We investigate a variant of the Graph Partitioning Problem with capacity constraints imposed on the clusters, giving rise to quadratic constraints in 0–1 formulations. Several compact linearized models of the problem are proposed and analysed: (a) a model featuring  binary variables which results from the application of the standard Fortet linearization technique; (b) a more compact model featuring only  binary variables, obtained by linearization after reformulation of the quadratic constraints as bilinear constraints; (c) a strengthened version of the latter model, still featuring  variables. Computational experiments comparing the relative strength and efficiency of the various models on a series of test instances involving complete graphs with up to 50 nodes are reported and discussed.
+Keywords
+graph partitioning, capacity constraint, 0/1 quadratically constrained programming, linearization techniques, branch-and-boundAMS Subject Classification: 90C10, 90C57, 90C27, 90C11 

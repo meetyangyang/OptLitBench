@@ -1,0 +1,6 @@
+Dynamic bundle methods
+Alexandre Belloni;Claudia Sagastizábal;
+Abstract
+Lagrangian relaxation is a popular technique to solve difficult optimization problems. However, the applicability of this technique depends on having a relatively low number of hard constraints to dualize. When there are many hard constraints, it may be preferable to relax them dynamically, according to some rule depending on which multipliers are active. From the dual point of view, this approach yields multipliers with varying dimensions and a dual objective function that changes along iterations. We discuss how to apply a bundle methodology to solve this kind of dual problems. Our framework covers many separation procedures to generate inequalities that can be found in the literature, including (but not limited to) the most violated inequality. We analyze the resulting dynamic bundle method giving a positive answer for its primal-dual convergence properties, and, under suitable conditions, show finite termination for polyhedral problems.
+Keywords
+90C25  65K05  90C27  

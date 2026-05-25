@@ -1,0 +1,6 @@
+An interactive method for nonsmooth multiobjective optimization with an application to optimal control
+ Kaisa   Miettinen ; Marko M.   Mäkelä ;
+Abstract
+ An implementable method for nonsmooth multiobjective optimization is described. The algorithm is a modification of the well-known Geoffrion-Dyer-Feinberg (GDF) method for smooth interactive multiobjective problems. The smooth gradient-based Frank-Wolfe method exploited in the GDF method is replaced by a modified (Kiev) subgradient method in order to compute the search direction. The solutions are projected onto the set of Pareto optimal points by using exact penalty scalarizing functions. A bundle-type method is utilized to solve the nonsmooth single objective optimization problems arising in every iteration of the procedure. As an application we introduce a model of an elastic string, which leads us to solve a nonsmooth multiobjective optimal control problem governed by a variational inequality. Due to the unilateral boundary conditions, the state of the system depends in a nonsmooth way on the control variable. Finally, some encouraging numerical experience is reported. 
+Keywords
+Nonsmooth multiobjective optimization, Geoffrion-Dyer-Feinberg method, bundle methods, optimal control 

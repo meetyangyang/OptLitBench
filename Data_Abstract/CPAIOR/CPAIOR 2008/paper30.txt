@@ -1,0 +1,4 @@
+Propagating Separable Equalities in an MDD Store
+T. Hadzic;J. N. Hooker;P. Tiedemann;
+Abstract
+We present a propagator that achieves MDD consistency for a separable equality over an MDD (multivalued decision diagram) store in pseudo-polynomial time. We integrate the propagator into a constraint solver based on an MDD store introduced in [1]. Our experiments show that the new propagator provides substantial computational advantage over propagation of two inequality constraints, and that the advantage increases when the maximum width of the MDD store increases.

@@ -1,0 +1,6 @@
+Nonsmooth optimization through Mesh Adaptive Direct Search and Variable Neighborhood Search
+Charles Audet;Vincent Béchard;Sébastien Le Digabel;
+Abstract
+This paper proposes a way to combine the Mesh Adaptive Direct Search (MADS) algorithm, which extends the Generalized Pattern Search (GPS) algorithm, with the Variable Neighborhood Search (VNS) metaheuristic, for nonsmooth constrained optimization. The resulting algorithm retains the convergence properties of MADS, and allows the far reaching exploration features of VNS to move away from local solutions. The paper also proposes a generic way to use surrogate functions in the VNS search. Numerical results illustrate advantages and limitations of this method.
+Keywords
+Nonsmooth optimization  Mesh Adaptive Direct Search  Generalized Pattern Search  Variable Neighborhood Search  

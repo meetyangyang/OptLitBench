@@ -1,0 +1,6 @@
+Semi-Lagrange method for level-set-based structural topology and shape optimization
+Qi Xia;Michael Yu Wang;Shengyin Wang;Shikui Chen;
+Abstract
+In this paper, we introduce a semi-Lagrange scheme to solve the level-set equation in structural topology optimization. The level-set formulation of the problem expresses the optimization process as a solution to a Hamilton–Jacobi partial differential equation. It allows for the use of shape sensitivity to derive a speed function for a descent solution. However, numerical stability condition in the explicit upwind scheme for discrete level-set equation severely restricts the time step, requiring a large number of time steps for a numerical solution. To improve the numerical efficiency, we propose to employ a semi-Lagrange scheme to solve level-set equation. Therefore, a much larger time step can be obtained and a much smaller number of time steps are required. Numerical experiments comparing the semi-Lagrange method with the classical explicit upwind scheme are presented for the problem of mean compliance optimization in two dimensions.
+Keywords
+Structural topology optimization  Level-set method  Semi-Lagrange method  

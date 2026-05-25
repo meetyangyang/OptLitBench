@@ -1,0 +1,6 @@
+A computational method for minimization with nonlinear constraints
+R. P. Mikkilineni;T. Feagin;
+Abstract
+An iterative technique is developed to solve the problem of minimizing a functionf(y) subject to certain nonlinear constraintsg(y)=0. The variables are separated into the basic variablesx and the independent variablesu. Each iteration consists of a gradient phase and a restoration phase. The gradient phase involves a movement (on a surface that is linear in the basic variables and nonlinear in the independent variables) from a feasible point to a varied point in a direction based on the reduced gradient. The restoration phase involves a movement (in a hyperplane parallel tox-space) from the nonfeasible varied point to a new feasible point.
+Keywords
+Function minimization  nonlinear constraints  nonlinear approximation  numerical methods  

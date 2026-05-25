@@ -1,0 +1,6 @@
+An efficient algorithm for minimumk-covers in weighted graphs
+Lee J. White;Mark L. Gillenson;
+Abstract
+Consider an edge-weighted graphG = (V, L), and define ak-cover C as a subset of the edgesL such that each vertex inV is incident to at least one edge ofC, and|C| = k. GivenG andk, the problem is to find ak-cover of minimum weight sum. This paper presents characterizations of minimumk-covers, and shows their weight to be convex with the parameterk. An efficient algorithm is presented which generates minimumk-covers continuously as the parameterk ranges over all feasible values, together with a proof of optimality. The computational order of this algorithm is found to be|V| ⋅ |L|2.
+Keywords
+Mathematical Method  Efficient Algorithm  Minimum Weight  Weighted Graph  Computational Order  

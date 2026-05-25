@@ -1,0 +1,6 @@
+A Gauss–Newton Approach for Solving Constrained Optimization Problems Using Differentiable Exact Penalties
+Roberto Andreani;Ellen H. Fukuda;Paulo J. S. Silva;
+Abstract
+We propose a Gauss–Newton-type method for nonlinear constrained optimization using the exact penalty introduced recently by André and Silva for variational inequalities. We extend their penalty function to both equality and inequality constraints using a weak regularity assumption, and as a result, we obtain a continuously differentiable exact penalty function and a new reformulation of the KKT conditions as a system of equations. Such reformulation allows the use of a semismooth Newton method, so that local superlinear convergence rate can be proved under an assumption weaker than the usual strong second-order sufficient condition and without requiring strict complementarity. Besides, we note that the exact penalty function can be used to globalize the method. We conclude with some numerical experiments using the collection of test problems CUTE.
+Keywords
+Exact penalty  Multipliers estimate  Nonlinear programming  Semismooth Newton method  

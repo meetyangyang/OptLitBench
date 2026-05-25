@@ -1,0 +1,6 @@
+Computational Design of Optimal Output Feedback Controllers
+T.  Rautert and E. W.  Sachs;
+Abstract
+We consider the problem of designing feedback control laws when a complete set of state variables is not available. For linear autonomous systems with quadratic performance criterion, the design problem consists of choosing an appropriate matrix of feedback gains according to a certain objective function. In the literature, the performance of quasi-Newton methods has been reported to be substandard. We try to explain some of these observations and to propose structured quasi-Newton updates. These methods, which take into account the special structure of the problem, show considerable improvement in the convergence. Using test examples from optimal output feedback design, we also can verify these results numerically.
+Keywords
+feedback control, quasi-Newton methods, 49N35, 49N10, 65K10, 93D22, 93D52, 

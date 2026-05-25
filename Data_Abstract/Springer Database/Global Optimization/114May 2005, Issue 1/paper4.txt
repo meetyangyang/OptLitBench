@@ -1,0 +1,6 @@
+A Multilevel Search Algorithm for the Maximization of Submodular Functions Applied to the Quadratic Cost Partition Problem
+Boris Goldengorin;Diptesh Ghosh;
+Abstract
+Maximization of submodular functions on a ground set is a NP-hard combinatorial optimization problem. Data correcting algorithms are among the several algorithms suggested for solving this problem exactly and approximately. From the point of view of Hasse diagrams data correcting algorithms use information belonging to only one level in the Hasse diagram adjacent to the level of the solution at hand. In this paper, we propose a data correcting algorithm that looks at multiple levels of the Hasse diagram and hence makes the data correcting algorithm more efficient. Our computations with quadratic cost partition problems show that this multilevel search effects a 8- to 10-fold reduction in computation times, so that some of the dense quadratic partition problem instances of size 500, currently considered as some of the most difficult problems and far beyond the capabilities of current exact methods, are solvable on a personal computer working at 300 MHz within 10 min.
+Keywords
+Data correcting  Hasse diagram  Multilevel search  Quadratic cost partition problem  

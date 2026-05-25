@@ -1,0 +1,6 @@
+An experimental investigation of a primal–dual exterior point simplexalgorithm
+ Themistoklis   Glavelis ; Nikolaos   Samaras ;
+Abstract
+ The aim of this paper is to present an experimental investigation of a Primal–Dual Exterior Point Simplex Algorithm (PDEPSA) for Linear Programming problems (LPs). There was a huge gap between the theoretical worst-case complexity and practical performance of simplex type algorithms. PDEPSA traverses across the interior of the feasible region in an attempt to avoid combinatorial complexities of vertex following algorithms. In order to gain an insight into the practical behaviour of the proposed algorithm, we have performed some computational experiments. Our computational results demonstrate that PDEPSA is faster comparable with simplex algorithm and the primal exterior point algorithm. A clear advantage is obtained by PDEPSA in number of iterations and CPU time. 
+Keywords
+linear programming, simplex algorithm, exterior point algorithm, computational results 

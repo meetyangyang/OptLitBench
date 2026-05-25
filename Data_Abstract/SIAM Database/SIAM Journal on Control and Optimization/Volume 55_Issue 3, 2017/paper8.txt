@@ -1,0 +1,6 @@
+Perturbation Analysis for Investment Portfolios Under Partial Information with Expert Opinions
+J.-P.  Fouque, A.  Papanicolaou, and R.  Sircar;
+Abstract
+We analyze the Merton portfolio optimization problem when the growth rate is an unobserved Gaussian process whose level is estimated by filtering from observations of the stock price. We use the Kalman filter to track the hidden state(s) of expected returns given the history of asset prices, and then use this filter as input to a portfolio problem with an objective to maximize expected terminal utility. Our results apply for general concave utility functions. We incorporate time-scale separation in the fluctuations of the returns process, and utilize singular and regular perturbation analysis on the associated partial-information HJB equation, which leads to an intuitive interpretation of the additional risk caused by uncertainty in expected returns. The results are an extension of the partially informed investment strategies obtained by the Black--Litterman model, wherein investors' views on upcoming performance are incorporated into the optimization along with any degree of uncertainty that the investor may have in these views.
+Keywords
+filtering, control, Hamilton-Jacobi-Bellman equation, portfolio optimization, partial information, expert opinions, 91G20, 60G35, 35Q93, 35C20, 

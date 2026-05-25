@@ -1,0 +1,6 @@
+An Implementation of Shor's r-Algorithm
+Franz Kappel;Alexei V. Kuntsevich;
+Abstract
+Here we introduce a new implementation of well-known Shor's r-algorithm with space dilations along the difference of two successive (sub)gradients for minimization of a nonlinear (non-smooth) function (N.Z. Shor, Minimization methods for Non-Differentiable Functions, Springer-Verlag: Berlin, 1985. Springer Series in Computational Mathematics, vol. 3). The modifications made to Shor's algorithm are heuristic. They mostly concern the termination criteria and the line search strategy. A large number of test runs indicate that this implementation is very robust, efficient and accurate. We hope that this implementation of Shor's r-algorithm will prove to be useful for solving a wide class of non-smooth optimization problems.
+Keywords
+nonsmooth  nondifferential optimization  nonlinear programming  

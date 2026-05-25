@@ -1,0 +1,6 @@
+Topology optimization of multi-material for the heat conduction problem based on the level set method
+ Chungang   Zhuang ; Zhenhua   Xiong ; Han   Ding ;
+Abstract
+ This article presents a numerical approach of topology optimization with multiple materials for the heat conduction problem. The multiphase level set model is used to implicitly describe the geometric boundaries of material regions with different conductivities. The model of multi-material representation has no emergence of the intermediate density. The optimization objective is to construct the optimal heat conductive paths which improve the efficiency of heat transfer. The dissipation of thermal transport potential capacity is taken as the objective function. The sensitivity analysis is implemented by the adjoint variable method, which is the foundation of constructing the velocity field of the level set equation. The optimal result is gradually realized by the evolution of multi-material boundaries, and the topological changes are naturally handled during the optimization process. Finally, the numerical examples are presented to demonstrate the feasibility and validity of the proposed method for topology optimization of the heat conduction problem. 
+Keywords
+topology optimization, heat conduction, multiple materials, multiphase level set model, sensitivity analysis 

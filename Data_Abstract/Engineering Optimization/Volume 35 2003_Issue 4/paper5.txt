@@ -1,0 +1,6 @@
+Simulated annealing-based multiobjective algorithms and their application for system reliability
+ Balram   Suman ;
+Abstract
+ The paper presents five simulated annealing based multiobjective algorithms - SMOSA, UMOSA, PSA, PDMOSA and WMOSA. All of these algorithms aim to find a Pareto set of solutions of a system reliability multiobjective optimization problem in a short time. In each algorithm the solution vector explores its neighborhood in a way similar to that of Classical Simulated Annealing. All the algorithms are problem-specific and if the true Pareto-optimal set has few solutions, UMOSA, SMOSA, PSA and WMOSA work better than PDMOSA. In some cases, PSA works the best. The computational cost is least in the case of the WMOSA algorithm since it does not need to use the penalty function approach to handle the constraints, and is the maximum with PDMOSA since it requires two sets of Pareto solutions. 
+Keywords
+Multiobjective Optimization, Simulated Annealing, System Reliability 

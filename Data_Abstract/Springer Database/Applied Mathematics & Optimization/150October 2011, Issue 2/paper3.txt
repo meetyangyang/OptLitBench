@@ -1,0 +1,6 @@
+Simulation and Estimation of Extreme Quantiles and Extreme Probabilities
+Arnaud Guyader;Nicolas Hengartner;Eric Matzner-Løber;
+Abstract
+Let X be a random vector with distribution μ on ℝ d  and Φ be a mapping from ℝ d  to ℝ. That mapping acts as a black box, e.g., the result from some computer experiments for which no analytical expression is available. This paper presents an efficient algorithm to estimate a tail probability given a quantile or a quantile given a tail probability. The algorithm improves upon existing multilevel splitting methods and can be analyzed using Poisson process tools that lead to exact description of the distribution of the estimated probabilities and quantiles. The performance of the algorithm is demonstrated in a problem related to digital watermarking.
+Keywords
+Monte Carlo simulation  Rare event  Metropolis-Hastings  Watermarking  

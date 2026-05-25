@@ -1,0 +1,6 @@
+Efficient Algorithms for Large Scale Global Optimization: Lennard-Jones Clusters
+Marco Locatelli;Fabio Schoen;
+Abstract
+A stochastic global optimization method is applied to the challenging problem of finding the minimum energy conformation of a cluster of identical atoms interacting through the Lennard-Jones potential. The method proposed incorporates within an already existing and quite successful method, monotonic basin hopping, a two-phase local search procedure which is capable of significantly enlarging the basin of attraction of the global optimum. The experiments reported confirm the considerable advantages of this approach, in particular for all those cases which are considered in the literature as the most challenging ones, namely 75, 98, 102 atoms. While being capable of discovering all putative global optima in the range considered, the method proposed improves by more than two orders of magnitude the speed and the percentage of success in finding the global optima of clusters of 75, 98, 102 atoms.
+Keywords
+global optimization  Lennard-Jones clusters  stochastic algorithms  molecular conformation  monotonic basin hopping  multistart  

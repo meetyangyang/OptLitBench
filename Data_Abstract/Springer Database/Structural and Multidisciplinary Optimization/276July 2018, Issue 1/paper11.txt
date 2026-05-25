@@ -1,0 +1,6 @@
+Minimum length-scale constraints for parameterized implicit function based topology optimization
+Peter D. Dunning;
+Abstract
+This paper introduces explicit minimum length-scale constraint functions suitable for parameterized implicit function based topology optimization methods. Length-scale control in topology optimization has many potential benefits, such as removing numerical artifacts, mesh independent solutions, avoiding thin, or single node hinges in compliant mechanism design and meeting manufacturing constraints. Several methods have been developed to control length-scale when using density-based or signed-distance-based level-set methods. In this paper a method is introduced to control length-scale for parameterized implicit function based topology optimization. Explicit constraint functions to control the minimum length in the structure and void regions are proposed and implementation issues explored in detail. Several examples are presented to show the efficacy of the proposed method. The examples demonstrate that the method can simultaneously control minimum structure and void length-scale, design hinge free compliant mechanisms and control minimum length-scale for three dimensional structures.
+Keywords
+Length-scale constraints  Topology optimization  Implicit function  Parameterization  

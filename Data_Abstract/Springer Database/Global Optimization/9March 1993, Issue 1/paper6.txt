@@ -1,0 +1,6 @@
+A bisection-extreme point search algorithm for optimizing over the efficient set in the linear dependence case
+Harold P. Benson;
+Abstract
+The algorithms and algorithmic ideas currently available for globally optimizing linear functions over the efficient sets of multiple objective linear programs either use nonstandard subroutines or cannot yet be implemented for lack of sufficient development. In this paper a Bisection-Extreme Point Search Algorithm is presented for globally solving a large class of such problems. The algorithm finds an exact, globally-optimal solution after a finite number of iterations. It can be implemented by using only well-known pivoting and optimization subroutines, and it is adaptable to large scale problems or to problems with many local optima.
+Keywords
+Efficient set  multiple criteria decision making  bisection  extreme point search  

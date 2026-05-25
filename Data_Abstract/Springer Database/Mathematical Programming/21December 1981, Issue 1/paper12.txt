@@ -1,0 +1,6 @@
+A note about sparsity exploiting quasi-Newton updates
+Ph. Toint;
+Abstract
+This paper is concerned with two questions relating to quasi-Newton updates for unconstrained optimization that exploit any sparsity present in the second derivative matrix of the objective function. First, a family of such updates is derived, that reduces to any a priori known dense update formula when no sparsity is imposed. This family uses the Frobenius projection of the desired update on the subspace of matrices that satisfy all the needed conditions. In the second part, we prove that, under mild assumptions, a positive definite sparse quasi-Newton update always exists. The proof of this result includes the explicit determination of such an update.
+Keywords
+Optimization  Sparsity  Matrix Updating  

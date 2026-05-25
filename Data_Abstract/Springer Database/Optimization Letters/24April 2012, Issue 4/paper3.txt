@@ -1,0 +1,6 @@
+A breakpoint search approach for convex resource allocation problems with bounded variables
+Anja De Waegenaere;Jacco L. Wielhouwer;
+Abstract
+We present an efficient approach to solve resource allocation problems with a single resource, a convex separable objective function, a convex separable resource-usage constraint, and variables that are bounded below and above. Through a combination of function evaluations and median searches, information on whether or not the upper- and lowerbounds are binding is obtained. Once this information is available for all upper and lower bounds, it remains to determine the optimum of a smaller problem with unbounded variables. This can be done through a multiplier search procedure. The information gathered allows for alternative approaches for the multiplier search which can reduce the complexity of this procedure.
+Keywords
+Resource allocation  Multiplier search  Non-linear programming  Pegging  

@@ -1,0 +1,6 @@
+Sequential stochastic comparison algorithm for simulation optimization
+ Talal M.   Alkhamis ; Mohamed A.   Ahmed ;
+Abstract
+ Developing efficient methods for solving discrete simulation optimization problems is an important area of research, especially in the field of engineering design problems. This paper presents a sequential stochastic comparison search algorithm for solving a discrete stochastic optimization problem where the objective function does not have an analytical form, but has to be measured or estimated, for instance through Monte Carlo simulation. The optimization algorithm in this paper uses a binary hypothesis test. At each iteration of the algorithm, two neighboring configurations are compared and the one that appears to be better is passed on to the next iteration. The algorithm uses a sequential sampling procedure with increasing boundaries as the number of iterations increases. It is shown that under suitable conditions on the boundaries, the algorithm converges almost surely to an optimum solution. The algorithm is used to determine the optimal combination of input parameter values of an automated manufacturing system. 
+Keywords
+Stochastic optimization, Simulation, Automated manufacturing systems 

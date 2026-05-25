@@ -1,0 +1,6 @@
+A relaxation method for reconstructing objects from noisy X-rays
+G. T. Herman;
+Abstract
+An algorithm is presented for estimating the density distribution in a cross section of an object from X-ray data, which in practice is unavoidably noisy. The data give rise to a large sparse system of inconsistent equations, not untypically 105 equations with 104 unknowns, with only about 1% of the coefficients non-zero. Using the physical interpretation of the equations, each equality can in principle be replaced by a pair of inequalities, giving us the limits within which we believe the sum must lie. An algorithm is proposed for solving this set of inequalities. The algorithm is basically a relaxation method. A finite convergence result is proved. In spite of the large size of the system, in the application area of interest practical solution on a computer is possible because of the simple geometry of the problem and the redundancy of equations obtained from nearby X-rays. The algorithm has been implemented, and is demonstrated by actual reconstructions.
+Keywords
+Density Distribution  Mathematical Method  Physical Interpretation  Application Area  Convergence Result  

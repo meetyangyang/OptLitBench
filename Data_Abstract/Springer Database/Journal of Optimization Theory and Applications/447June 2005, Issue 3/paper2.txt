@@ -1,0 +1,6 @@
+Planar Conjugate Gradient Algorithm for Large-Scale Unconstrained Optimization, Part 1: Theory
+G. Fasano;
+Abstract
+In this paper, we present a new conjugate gradient (CG) based algorithm in the class of planar conjugate gradient methods. These methods aim at solving systems of linear equations whose coefficient matrix is indefinite and nonsingular. This is the case where the application of the standard CG algorithm by Hestenes and Stiefel (Ref. 1) may fail, due to a possible division by zero. We give a complete proof of global convergence for a new planar method endowed with a general structure; furthermore, we describe some important features of our planar algorithm, which will be used within the optimization framework of the companion paper (Part 2, Ref. 2). Here, preliminary numerical results are reported.
+Keywords
+Large-scale unconstrained optimization  iterative methods  conjugate gradient methods  planar indefinite matrices  

@@ -1,0 +1,6 @@
+A Global Optimization Algorithm for Concave Quadratic Programming Problems
+Immanuel M.  Bomze and Gabriele  Danninger;
+Abstract
+Using a global optimality criterion for concave quadratic problems due to Hiriart–Urruty and Lemaréchal, the authors present an algorithm which manages to “escape” from a local solution and lead towards the global one. In addition, this procedure recognizes the unsolvability of the problem (due to unboundedness of the objective function on the feasible region) and also generates an improving feasible direction even if the starting point does not satisfy the Karush/Kuhn/Tucker conditions. As a key subroutine, a recursive procedure will be used which determines whether or not a given symmetric $n \times n$-matrix is copositive, i.e., yields a quadratic form that is positive on a given polyhedral cone. Both this subroutine and the main body of the algorithm frequently employ the simplex method, while all other operations are elementary.
+Keywords
+copositive matrices, convex maximization problem, global optimality conditions, 90C20, 90C30, 65C05, 

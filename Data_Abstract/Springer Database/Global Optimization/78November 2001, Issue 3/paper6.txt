@@ -1,0 +1,6 @@
+Index branch-and-bound algorithm for Lipschitz univariate global optimization with multiextremal constraints
+Yaroslav D. Sergeyev;Domenico Famularo;Paolo Pugliese;
+Abstract
+In this paper, Lipschitz univariate constrained global optimization problems where both the objective function and constraints can be multiextremal are considered. The constrained problem is reduced to a discontinuous unconstrained problem by the index scheme without introducing additional parameters or variables. A Branch-and-Bound method that does not use derivatives for solving the reduced problem is proposed. The method either determines the infeasibility of the original problem or finds lower and upper bounds for the global solution. Not all the constraints are evaluated during every iteration of the algorithm, providing a significant acceleration of the search. Convergence conditions of the new method are established. Extensive numerical experiments are presented.
+Keywords
+Global optimization  multiextremal constraints  branch-and-bound algorithms  index scheme  

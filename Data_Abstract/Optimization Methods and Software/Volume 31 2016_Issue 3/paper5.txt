@@ -1,0 +1,6 @@
+On an extension of one-shot methods to incorporate additional constraints
+Andrea Walther;Nicolas R. Gauger;Lisa Kusch;Natalie Richert;
+Abstract
+For design optimization tasks, quite often a so-called one-shot approach is used. It augments the solution of the state equation with a suitable adjoint solver yielding approximate reduced derivatives that can be used in an optimization iteration to change the design. The coordination of these three iterative processes is well established when only the state equation is considered as equality constraint. However, numerous applications require also additional equality constraints. Therefore, we propose a modified augmented Lagrangian function, that defines a simultaneous change of all variables for this extended setting. It is shown that the augmented Lagrangian function proposed in this paper can be used in a gradient-based optimization approach to solve the original design task.
+Keywords
+one-shot optimization, design optimization, descent approach 

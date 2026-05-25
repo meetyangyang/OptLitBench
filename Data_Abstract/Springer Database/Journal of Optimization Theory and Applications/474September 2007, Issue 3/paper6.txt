@@ -1,0 +1,8 @@
+Functional Optimal Estimation Problems and Their Solution by Nonlinear Approximation Schemes
+A. Alessandri;C. Cervellera;M. Sanguineti;
+Abstract
+
+The design of state estimators for nonlinear dynamic systems affected by disturbances is addressed in a functional optimization framework. The estimator contains an innovation function that has to be chosen within a suitably defined class of functions in such a way to minimize a cost functional given by the worst-case ratio of the ℒ p  norms of the estimation error and the disturbances. Since this entails an infinite-dimensional optimization problem that under general hypotheses cannot be solved analytically, an approximate solution is sought by minimizing the cost functional over linear combinations of simple “basis functions,” represented by computational units with adjustable parameters. The selection of the parameters is made by solving a constrained nonlinear programming problem, where the constraints are given by pointwise conditions that ensure the well-definiteness of the functional and the existence of a solution. Penalty terms are introduced in the cost function to account for constraints imposed on points that result from sampling the sets to which the trajectories of the state and of the estimation error belong. To ensure an efficient covering of the sets, low-discrepancy sampling techniques are exploited that generate samples deterministically spread in a uniform way, without leaving regions of the space undersampled.
+
+Keywords
+Optimal estimation  Infinite-dimensional optimization  Nonlinear approximation schemes  Nonlinear programming  Low-discrepancy sequences  

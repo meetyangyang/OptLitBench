@@ -1,0 +1,6 @@
+Globally and Superlinearly Convergent QP-Free Algorithm for Nonlinear Constrained Optimization
+L. Qi;Y.F. Yang;
+Abstract
+A new, infeasible QP-free algorithm for nonlinear constrained optimization problems is proposed. The algorithm is based on a continuously differentiable exact penalty function and on active-set strategy. After a finite number of iterations, the algorithm requires only the solution of two linear systems at each iteration. We prove that the algorithm is globally convergent toward the KKT points and that, if the second-order sufficiency condition and the strict complementarity condition hold, then the rate of convergence is superlinear or even quadratic. Moreover, we incorporate two automatic adjustment rules for the choice of the penalty parameter and make use of an approximated direction as derivative of the merit function so that only first-order derivatives of the objective and constraint functions are used.
+Keywords
+QP-free method  constrained optimization  active set strategies  global convergence  superlinear convergence  

@@ -1,0 +1,6 @@
+Parallelized sequential value correction procedure for the one-dimensional cutting stock problem with multiple stock lengths
+Yi-Ping Cui;Tian-Bing Tang;
+Abstract
+A heuristic approach with parallel computation is presented for the one-dimensional cutting stock problem with multiple stock lengths. The algorithm is based on the sequential heuristic procedure that generates each pattern to produce some items and repeats until all the required items are fulfilled. A recursion is used to solve the bounded knapsack problem heuristically in the pattern generation process to reduce running time. The item values are adjusted after the generation of each pattern using a value correction formula. The computational results show that the algorithm is more effective than a recently published evolutionary heuristic in improving solution quality, and can reduce computational time because of the efficient parallel implementation.
+Keywords
+one-dimensional cutting stock, sequential value correction, multiple stock lengths 

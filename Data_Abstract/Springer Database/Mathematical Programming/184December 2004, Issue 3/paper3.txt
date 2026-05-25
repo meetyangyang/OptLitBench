@@ -1,0 +1,6 @@
+Estimation of an optimal solution of a LP problem with unknown objective function
+Tomás Prieto-Rumeau;
+Abstract
+We consider a linear programming problem with unknown objective function. Random observations related to the unknown objective function are sequentially available. We define a stochastic algorithm, based on the simplex method, that estimates an optimal solution of the linear programming problem. It is shown that this algorithm converges with probability one to the set of optimal solutions and that its failure probability is of order inversely proportional to the sample size. We also introduce stopping criteria for the algorithm. The asymptotic normality of some suitably defined residuals is also analyzed. The proposed estimation algorithm is motivated by the stochastic approximation algorithms but it introduces a generalization of these techniques when the linear programming problem has several optimal solutions. The proposed algorithm is also close to the stochastic quasi-gradient procedures, though their usual assumptions are weakened.
+Keywords
+Objective Function  Mathematical Method  Approximation Algorithm  Programming Problem  Failure Probability  

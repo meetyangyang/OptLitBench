@@ -1,0 +1,6 @@
+A smoothing SQP method for nonlinear programs with stability constraints arising from power systems
+Xiaojiao Tong;Liqun Qi;Soon-Yi Wu;Felix F. Wu;
+Abstract
+This paper investigates a new class of optimization problems arising from power systems, known as nonlinear programs with stability constraints (NPSC), which is an extension of ordinary nonlinear programs. Since the stability constraint is described generally by eigenvalues or norm of Jacobian matrices of systems, this results in the semismooth property of NPSC problems. The optimal conditions of both NPSC and its smoothing problem are studied. A smoothing SQP algorithm is proposed for solving such optimization problem. The global convergence of algorithm is established. A numerical example from optimal power flow (OPF) is done. The computational results show efficiency of the new model and algorithm.
+Keywords
+Power systems  Stability constraint  Nonlinear programs  Smoothing SQP method  Convergence  

@@ -1,0 +1,6 @@
+Multi-Input Multi-Output Ellipsoidal State Bounding
+C. Durieu;É. Walter;B. Polyak;
+Abstract
+Ellipsoidal state outer bounding has been considered in the literature since the late sixties. As in the Kalman filtering, two basic steps are alternated: a prediction phase, based on the approximation of the sum of ellipsoids, and a correction phase, involving the approximation of the intersection of ellipsoids. The present paper considers the general case where K ellipsoids are involved at each step. Two measures of the size of an ellipsoid are employed to characterize uncertainty, namely, its volume and the sum of the squares of its semiaxes. In the case of multi-input multi-output state bounding, the algorithms presented lead to less pessimistic ellipsoids than the usual approaches incorporating ellipsoids one by one.
+Keywords
+Bounded noise  ellipsoidal bounding  identification  set-membership estimation  state estimation  

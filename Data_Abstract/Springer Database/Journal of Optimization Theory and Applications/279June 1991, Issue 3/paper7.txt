@@ -1,0 +1,6 @@
+Hyperplane method for reachable state estimation for linear time-invariant systems
+T. J. Graettinger;B. H. Krogh;
+Abstract
+A numerical algorithm is presented for generating inner and outer approximations for the set of reachable states for linear time-invariant systems. The algorithm is based on analytical results characterizing the solutions to a class of optimization problems which determine supporting hyperplanes for the reachable set. Explicit bounds on the truncation error for the finite-time case yield a set of so-called ε-supporting hyperplanes which can be generated to approximate the infinite-time reachable set within an arbitrary degree of accuracy. At the same time, an inner approximation is generated as the convex hull of points on the boundary of the finite-time reachable set. Numerical results are presented to illustrate the hyperplane method. The concluding section discusses directions for future work and applications of the method to problems in trajectory planning in servo systems.
+Keywords
+Reachable sets  simplicial approximation  linear systems  optimal control  

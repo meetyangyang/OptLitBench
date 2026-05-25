@@ -1,0 +1,6 @@
+ A parallel updating scheme for approximating and optimizing high fidelity computer simulations
+A. Sóbester;S.J. Leary;A.J. Keane ;
+Abstract
+Approximation methods are often used to construct surrogate models, which can replace expensive computer simulations for the purposes of optimization. One of the most important aspects of such optimization techniques is the choice of model updating strategy. In this paper we employ parallel updates by searching an expected improvement surface generated from a radial basis function model. We look at optimization based on standard and gradient-enhanced models. Given Np processors, the best Np local maxima of the expected improvement surface are highlighted and further runs are performed on these designs. To test these ideas, simple analytic functions and a finite element model of a simple structure are analysed and various approaches compared. 
+Keywords
+gradient-enhanced approximations  parallel optimization  radial basis functions   

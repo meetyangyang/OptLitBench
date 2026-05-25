@@ -1,0 +1,6 @@
+A Generalization of the Averaging Procedure: The Use of Two-Time-Scale Algorithms
+Abdelkader  Mokkadem and Mariane  Pelletier;
+Abstract
+Ruppert [Handbook of Sequential Analysis, B. K. Ghosh and P. K. Sen, eds., Marcel Dekker, New York, 1991] and Polyak [Automat. Remote Control, 51 (1990), pp. 937–946] independently introduced the averaging principle for Robbins–Monro's algorithm in order to construct an algorithm that is asymptotically efficient, and that is quickly updated. Their averaging principle has been extended to other algorithms (including Kiefer–Wolfowitz's algorithm), leading to algorithms that are asymptotically efficient, but whose updatings are less straightforward. We introduce the use of two-time-scale stochastic approximation algorithms to construct a large class of asymptotically efficient algorithms. This method generalizes the averaging principle. Moreover, for the algorithms that do not behave as Robbins–Monro's algorithm, it allows one to provide algorithms whose updating is as straightforward as that of the averaged Robbins–Monro's algorithm.
+Keywords
+stochastic approximation algorithm, averaging principle, weak convergence rate, 62L20, 60F05, 62G07, 

@@ -1,0 +1,6 @@
+On the Constant Positive Linear Dependence Condition and Its Application to SQP Methods
+Liqun  Qi and Zengxin  Wei;
+Abstract
+In this paper, we introduce a constant positive linear dependence condition (CPLD), which is weaker than the Mangasarian--Fromovitz constraint qualification (MFCQ) and the constant rank constraint qualification (CRCQ). We show that a limit point of a sequence of approximating Karush--Kuhn--Tucker (KKT) points is a KKT point if the CPLD holds there. We show that a KKT point satisfying the CPLD and the strong second-order sufficiency conditions (SSOSC) is an isolated KKT point. We then establish convergence of a general sequential quadratical programming (SQP) method under the CPLD and the SSOSC. Finally, we apply these results to analyze the feasible SQP method proposed by Panier and Tits in 1993 for inequality constrained optimization problems. We establish its global convergence under the SSOSC and a condition slightly weaker than the Mangasarian--Fromovitz constraint qualification, and we prove superlinear convergence of a modified version of this algorithm under the SSOSC and a condition slightly weaker than the linear independence constraint qualification.
+Keywords
+constrained optimization, KKT point, constraint qualification, feasible SQP method, global convergence, superlinear convergence, 90C30, 60K05, 

@@ -1,0 +1,6 @@
+Projections onto order simplexes
+S. J. Grotzinger;C. Witzgall;
+Abstract
+Isotonic regression techniques are reinterpreted and extended to include upper and lower bounds on the ordered sequences in question. This amounts to solving the shortest distance problem for the order simplex$$S^n  = \{ t \in R^n :0 \leqslant t_1  \leqslant t_2  \leqslant  \cdots  \leqslant t_n  \leqslant 1\} $$ inR n . AnO(n) algorithm is presented for this problem, verified via the Kuhn-Tucker conditions, and explained geometrically in terms of the Lagrange multipliers. In this context, isotonic regression techniques are interpreted in terms of orthogonal projections onto faces of the order simplexS n . These projections provide a succinct characterization of the descent directions required for the design of methods for minimizing differentiable functions onS n . The latter problem arises in parameterized curve fitting.
+Keywords
+Lower Bound  Short Distance  System Theory  Mathematical Method  Lagrange Multiplier  

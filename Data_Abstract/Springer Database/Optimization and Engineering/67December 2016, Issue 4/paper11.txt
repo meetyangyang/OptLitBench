@@ -1,0 +1,6 @@
+Data fitting with geometric-programming-compatible softmax functions
+Warren Hoburg;Philippe Kirschen;Pieter Abbeel;
+Abstract
+Motivated by practical applications in engineering, this article considers the problem of approximating a set of data with a function that is compatible with geometric programming (GP). Starting with well-established methods for fitting max-affine functions, it is shown that improved fits can be obtained using an extended function class based on the softmax of a set of affine functions. The softmax is generalized in two steps, with the most expressive function class using an implicit representation that allows fitting algorithms to locally tune softness. Each of the proposed function classes is directly compatible with the posynomial constraint forms in GP. Max-monomial fitting and posynomial fitting are shown to correspond to fitting special cases of the proposed implicit softmax function class. The fitting problem is formulated as a nonlinear least squares regression, solved locally using a Levenberg–Marquardt algorithm. Practical implementation considerations are discussed. The article concludes with numerical examples from aerospace engineering and electrical engineering.
+Keywords
+Convex optimization  Convex regression  Geometric programming  

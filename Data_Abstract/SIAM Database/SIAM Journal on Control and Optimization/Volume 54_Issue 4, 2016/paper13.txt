@@ -1,0 +1,6 @@
+Speed-Gradient Control of the Brockett Integrator
+M. V.  Dolgopolik and A. L.  Fradkov;
+Abstract
+A nonsmooth extension of the speed-gradient algorithms in finite form is proposed. The conditions ensuring control goal (convergence of the goal function to zero) are established. A new algorithm is applied to almost global stabilization of the Brockett integrator that has become a popular benchmark for nonsmooth and discontinuous algorithms. It is proved that the designed control law stabilizes the Brockett integrator for any initial point that does not lie on the x3-axis. Besides, it is shown that the speed-gradient algorithm ensures stabilization with an arbitrarily small control level. An important feature of the proposed control is the fact that it is continuous along trajectories of the closed-loop system.
+Keywords
+nonsmooth systems, nonholonomic integrator, speed-gradient, nonlinear control, 93D15, 

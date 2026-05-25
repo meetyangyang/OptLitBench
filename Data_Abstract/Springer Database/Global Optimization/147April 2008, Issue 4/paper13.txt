@@ -1,0 +1,6 @@
+Deterministic parallel global parameter estimation for a model of the budding yeast cell cycle
+Thomas D. Panning;Layne T. Watson;Nicholas A. Allen;Katherine C. Chen;Clifford A. Shaffer;John J. Tyson;
+Abstract
+Two parallel deterministic direct search algorithms are combined to find improved parameters for a system of differential equations designed to simulate the cell cycle of budding yeast. Comparing the model simulation results to experimental data is difficult because most of the experimental data is qualitative rather than quantitative. An algorithm to convert simulation results to mutant phenotypes is presented. Vectors of the 143 parameters defining the differential equation model are rated by a discontinuous objective function. Parallel results on a 2200 processor supercomputer are presented for a global optimization algorithm, DIRECT, a local optimization algorithm, MADS, and a hybrid of the two.
+Keywords
+DIRECT (DIviding RECTangles) algorithm  Direct search  MADS (Mesh Adaptive Direct Search) algorithm  Computational biology  

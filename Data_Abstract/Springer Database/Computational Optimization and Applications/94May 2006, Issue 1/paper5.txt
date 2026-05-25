@@ -1,0 +1,6 @@
+Solving Convex MINLP Optimization Problems Using a Sequential Cutting Plane Algorithm
+Claus Still;Tapio Westerlund;
+Abstract
+In this article we look at a new algorithm for solving convex mixed integer nonlinear programming problems. The algorithm uses an integrated approach, where a branch and bound strategy is mixed with solving nonlinear programming problems at each node of the tree. The nonlinear programming problems, at each node, are not solved to optimality, rather one iteration step is taken at each node and then branching is applied. A Sequential Cutting Plane (SCP) algorithm is used for solving the nonlinear programming problems by solving a sequence of linear programming problems. The proposed algorithm generates explicit lower bounds for the nodes in the branch and bound tree, which is a significant improvement over previous algorithms based on QP techniques. Initial numerical results indicate that the described algorithm is a competitive alternative to other existing algorithms for these types of problems.
+Keywords
+convex programming  branch and bound  cutting plane algorithms  mixed integer nonlinear programming  

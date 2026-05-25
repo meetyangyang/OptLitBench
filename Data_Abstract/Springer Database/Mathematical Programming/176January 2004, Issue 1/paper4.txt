@@ -1,0 +1,6 @@
+Approximating disjoint-path problems using packing integer programs
+Stavros G. Kolliopoulos;Clifford Stein;
+Abstract
+In a packing integer program, we are given a matrix $A$ and column vectors $b,c$ with nonnegative entries. We seek a vector $x$ of nonnegative integers, which maximizes $c^{T}x,$ subject to $Ax \leq b.$ The edge and vertex-disjoint path problems together with their unsplittable flow generalization are NP-hard problems with a multitude of applications in areas such as routing, scheduling and bin packing. These two categories of problems are known to be conceptually related, but this connection has largely been ignored in terms of approximation algorithms. We explore the topic of approximating disjoint-path problems using polynomial-size packing integer programs. Motivated by the disjoint paths applications, we introduce the study of a class of packing integer programs, called column-restricted. We develop improved approximation algorithms for column-restricted programs, a result that we believe is of independent interest. Additional approximation algorithms for disjoint-paths are presented that are simple to implement and achieve good performance when the input has a special structure.
+Keywords
+approximation algorithms  packing integer programs  edge-disjoint paths  

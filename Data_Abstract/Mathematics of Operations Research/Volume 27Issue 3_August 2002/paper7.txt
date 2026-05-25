@@ -1,0 +1,6 @@
+Achieving Target State-Action Frequencies in Multichain Average-Reward Markov Decision Processes
+Dmitry Krass;O. J. Vrieze;
+Abstract
+In this paper we address a basic problem that arises naturally in average-reward Markov decision processes with constraints and/or nonstandard payoff criteria: Given a feasible state-action frequency vector (“the target”), construct a policy whose state-action frequencies match those of the target vector.While it is well known that the solution to this problem cannot, in general, be found in the space of stationary randomized policies, we construct a solution that has “ultimately stationary” structure: It consists of two stationary policies where the first one is used initially, and then the switch to the second one is made at a certain random switching time. The computational effort required to construct this solution is minimal.We also show that our problem can always be solved by a stationary policy if the original MDP is “extended” by adding certain states and actions. The solution in the original MDP is obtained by mapping the solution in the extended MDP back to the original process.
+Keywords
+Markov decision processes average reward criterion state-action frequencies constrained Markov decision processes Markov decision processes with nonstandard reward criteria 

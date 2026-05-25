@@ -1,0 +1,6 @@
+An exact algorithm for the 0–1 linear knapsack problem with a single continuous variable
+Geng Lin;Wenxing Zhu;M. M. Ali;
+Abstract
+The 0–1 linear knapsack problem with a single continuous variable (KPC) is an extension of the binary knapsack problem (KP). It is an NP-hard problem. In this paper, we show that KPC can be reduced to KP and a pseudo-knapsack problem (PKP), which is similar to the traditional knapsack problem except that the profits of items may be non-positive, and the weight sum has two sided limits on capacity. We use the Dynamic Programming algorithm COMBO (Martello et al., Manag Sci 45(3):414–424, 1999) to solve KP, and modify the branch and bound method EXPKNAP (Pisinger, Eur J Oper Res 87:175–187, 1995) for KP to solve the PKP. Numerical experiments show the efficiency of our method.
+Keywords
+Knapsack problem  Mixed integer programming  Branch and bound  

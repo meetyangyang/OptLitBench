@@ -1,0 +1,6 @@
+Trajectory planning for multiple unmanned vehicles under reciprocal constraints
+ Gideon   Avigad ; Erella   Eisenstadt ; Miri   Weiss   Cohen ;
+Abstract
+ In this article, a special class of trajectory optimization problems is formalized and solved. It involves the optimization of different unmanned vehicle (UMV) trajectories that are coupled through reciprocal constraints. It is shown in the article that searching for a solution to the problem at hand may stipulate not just planning a longer than the shortest possible path for each UMV, but also choosing slower travel speeds in order to co-ordinate between the UMVs. Although it seems that solving the problem possesses merits, it has been only partially treated before. Here it is solved by utilizing an evolutionary approach which involves a new algorithmic feature that allows striving towards the desired optimality. The approach is demonstrated and studied through solving and simulating several trajectory planning problems. It is shown that a wide range of problems might be related to that class of problems. 
+Keywords
+trajectory planning, unmanned vehicles, evolutionary algorithms 

@@ -1,0 +1,6 @@
+Pruning by isomorphism in branch-and-cut
+François Margot;
+Abstract
+ The paper presents a branch-and-cut for solving (0, 1) integer linear programs having a large symmetry group. The group is used for pruning the enumeration tree and for generating cuts. The cuts are non-standard, cutting integer feasible solutions but leaving the optimal value of the problem unchanged. Pruning and cut generation are performed by backtracking procedures using a Schreier-Sims table for representing the group. Applications to hard set covering problems and to the generation of covering designs and error correcting codes are presented.
+Keywords
+Feasible Solution  Symmetry Group  Integer Linear Program  Enumeration Tree  Large Symmetry  

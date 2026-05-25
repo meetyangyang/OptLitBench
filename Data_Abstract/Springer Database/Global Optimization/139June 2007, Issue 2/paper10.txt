@@ -1,0 +1,6 @@
+Use of an interval global optimization tool for exploring feasibility of batch extractive distillation
+Erika R. Frits;Mihály Csaba Markót;Zoltán Lelkes;Zsolt Fonyó;Tibor Csendes;Endre Rév;
+Abstract
+An interval arithmetic based branch-and-bound optimizer is applied to find the singular points and bifurcations in studying feasibility of batch extractive distillation. This kind of study is an important step in synthesizing economic industrial processes applied to separate liquid mixtures of azeotrope-forming chemical components. The feasibility check methodology includes computation and analysis of phase plots of differential algebraic equation systems (DAEs). Singular points and bifurcations play an essential role in judging feasibility. The feasible domain of parameters can be estimated by tracing the paths of the singular points in the phase plane; bifurcations indicate the border of this domain. Since the algebraic part of the DAE cannot be transformed to an explicit form, implicit function theorem is applied in formulating the criterion of bifurcation points. The singular points of the maps at specified process parameters are found with interval methodology. Limiting values of the parameters are determined by searching for points satisfying bifurcation criteria.
+Keywords
+Interval arithmetic  Extractive distillation  Feasibility  Bifurcation  

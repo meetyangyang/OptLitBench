@@ -1,0 +1,6 @@
+On Convergence Rate of Distributed Stochastic Gradient Algorithm for Convex Optimization with Inequality Constraints
+Deming  Yuan, Daniel W. C.  Ho, and Yiguang  Hong;
+Abstract
+In this paper, we consider an optimization problem, where multiple agents cooperate to minimize the sum of their local individual objective functions subject to a global inequality constraint. We propose a class of distributed stochastic gradient algorithms that solve the problem using only local computation and communication. The implementation of the algorithms removes the need for performing the intermediate projections. For strongly convex optimization, we employ a smoothed constraint incorporation technique to show that the algorithm converges at an expected rate of $\mathcal{O}(\ln T / T)$ (where $T$ is the number of iterations) with bounded gradients. For non-strongly convex optimization, we use a reduction technique to establish an $\mathcal{O}(1/\sqrt{T})$ convergence rate in expectation. Finally, a numerical example is provided to show the convergence of the proposed algorithms.
+Keywords
+distributed convex optimization, constrained optimization algorithm, stochastic gradient, convergence rate, 93A14, 90C25, 

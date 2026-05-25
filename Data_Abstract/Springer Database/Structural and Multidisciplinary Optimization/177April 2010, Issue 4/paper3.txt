@@ -1,0 +1,6 @@
+A computational paradigm for multiresolution topology optimization (MTOP)
+Tam H. Nguyen;Glaucio H. Paulino;Junho Song;Chau H. Le;
+Abstract
+This paper presents a multiresolution topology optimization (MTOP) scheme to obtain high resolution designs with relatively low computational cost. We employ three distinct discretization levels for the topology optimization procedure: the displacement mesh (or finite element mesh) to perform the analysis, the design variable mesh to perform the optimization, and the density mesh (or density element mesh) to represent material distribution and compute the stiffness matrices. We employ a coarser discretization for finite elements and finer discretization for both density elements and design variables. A projection scheme is employed to compute the element densities from design variables and control the length scale of the material density. We demonstrate via various two- and three-dimensional numerical examples that the resolution of the design can be significantly improved without refining the finite element mesh.
+Keywords
+Topology optimization  Density mesh  Design variable  Multiresolution  Finite element mesh  Projection scheme  

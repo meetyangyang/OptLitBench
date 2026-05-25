@@ -1,0 +1,6 @@
+The Ordered Subsets Mirror Descent Optimization Method with Applications to Tomography
+Aharon  Ben-Tal, Tamar  Margalit, and Arkadi  Nemirovski;
+Abstract
+We describe an optimization problem arising in reconstructing three-dimensional medical images from positron emission tomography (PET). A mathematical model of the problem, based on the maximum likelihood principle, is posed as a problem of minimizing a convex function of several million variables over the standard simplex. To solve a problem of these characteristics, we develop and implement a new algorithm, ordered subsets mirror descent, and demonstrate, theoretically and computationally, that it is well suited for solving the PET reconstruction problem.
+Keywords
+positron emission tomography, maximum likelihood, image reconstruction, convex optimization, mirror descent, 90C25, 90C90, 92C55, 

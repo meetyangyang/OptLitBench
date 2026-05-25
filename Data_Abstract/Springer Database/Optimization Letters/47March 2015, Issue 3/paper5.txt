@@ -1,0 +1,6 @@
+Upper and lower bounds for the permutation flowshop scheduling problem with minimal time lags
+Imen Hamdi;Taïcir Loukil;
+Abstract
+In this paper, we consider the problem of scheduling \(n\) jobs in an \(m\)-machine permutation flowshop with minimal time lags between consecutive operations of each job. The processing order of jobs is to be the same for each machine. The time lag is defined as the waiting time between two consecutive operations of each job. Upper bounds for the problem are provided by applying heuristic procedures based on known and new rules. Lower bounds based on Moore’s algorithm and logic-based Benders decomposition are developed. For the last one, we define a long time horizon on the last machine divided into many segments of time. We combine a mixed integer linear programming to allocate jobs to time segments and scheduled using the constraint programming. Then, computational results are reported.
+Keywords
+Scheduling  Permutation flowshop  Time lags  Upper bounds   Lower bounds  

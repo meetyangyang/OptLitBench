@@ -1,0 +1,6 @@
+Relaxed Steepest Descent and Cauchy-Barzilai-Borwein Method
+Marcos Raydan;Benar F. Svaiter;
+Abstract
+The negative gradient direction to find local minimizers has been associated with the classical steepest descent method which behaves poorly except for very well conditioned problems. We stress out that the poor behavior of the steepest descent methods is due to the optimal Cauchy choice of steplength and not to the choice of the search direction. We discuss over and under relaxation of the optimal steplength. In fact, we study and extend recent nonmonotone choices of steplength that significantly enhance the behavior of the method. For a new particular case (Cauchy-Barzilai-Borwein method), we present a convergence analysis and encouraging numerical results to illustrate the advantages of using nonmonotone overrelaxations of the gradient method.
+Keywords
+steepest descent  gradient method with retards  Rayleigh quotient  Barzilai-Borwein method  

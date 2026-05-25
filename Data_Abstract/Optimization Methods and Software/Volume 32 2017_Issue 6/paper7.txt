@@ -1,0 +1,6 @@
+An efficient modified Polak–Ribière–Polyak conjugate gradient method with global convergence properties
+Ahmad Alhawarat;Zabidin Salleh;Mustafa Mamat;Mohd Rivaie;
+Abstract
+The conjugate gradient (CG) method is one of the most popular methods for solving large-scale unconstrained optimization problems. In this paper, a new modified version of the CG formula that was introduced by Polak, Ribière, and Polyak is proposed for problems that are bounded below and have a Lipschitz-continuous gradient. The new parameter provides global convergence properties when the strong Wolfe-Powell (SWP) line search or the weak Wolfe-Powell (WWP) line search is employed. A proof of a sufficient descent condition is provided for the SWP line search. Numerical comparisons between the proposed parameter and other recent CG modifications are made on a set of standard unconstrained optimization problems. The numerical results demonstrate the efficiency of the proposed CG parameter compared with the other CG parameters.
+Keywords
+conjugate gradient method, inexact line search, global convergenceAMS Subject Classiﬁcations: 49m37, 65k05, 90c30 

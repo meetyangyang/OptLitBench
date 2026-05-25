@@ -1,0 +1,6 @@
+An Interior Method for Nonconvex Semidefinite Programs
+Florian Jarre;
+Abstract
+In several applications, semidefinite programs arise in which the matrix depends nonlinearly on the unknown variables. We propose a new solution method for such semidefinite programs that also applies to other smooth nonconvex programs. The method is an extension of a primal predictor corrector interior method to nonconvex programs. The predictor steps are based on Dikin ellipsoids of a &#x201C;convexified&#x201D; domain. The corrector steps are based on quadratic subprograms that combine aspects of line search and trust region methods. Convergence results are given, and some preliminary numerical experiments suggest a high robustness of the proposed method.
+Keywords
+nonlinear optimization  semidefinite program  predictor corrector method  trust region method  

@@ -1,0 +1,6 @@
+Hereditary optimal control problems: Numerical method based upon a padé approximation
+A. Y. Lee;
+Abstract
+In this paper, we consider a particular approximation scheme which can be used to solve hereditary optimal control problems. These problems are characterized by variables with a time-delayed argumentx(t − τ). In our approximation scheme, we first replace the variable with an augmented statey(t) ≜x(t - τ). The two-sided Laplace transform ofy(t) is a product of the Laplace transform ofx(t) and an exponential factor. This factor is approximated by a first-order Padé approximation, and a differential relation fory(t) can be found. The transformed problem, without any time-delayed argument, can then be solved using a gradient algorithm in the usual way. Four problems are solved to illustrate the validity and usefulness of this technique.
+Keywords
+Padé approximation  hereditary optimal control problems  nonlinear time-lag systems  computational schemes  two-sided Laplace transform  gradient algorithms  

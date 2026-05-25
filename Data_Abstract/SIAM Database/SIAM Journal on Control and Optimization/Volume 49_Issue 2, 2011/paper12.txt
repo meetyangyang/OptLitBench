@@ -1,0 +1,6 @@
+A Continuous Dynamical Newton-Like Approach to Solving Monotone Inclusions
+H.  Attouch and B. F.  Svaiter;
+Abstract
+We introduce nonautonomous continuous dynamical systems which are linked to the Newton and Levenberg–Marquardt methods. They aim at solving inclusions governed by maximal monotone operators in Hilbert spaces. Relying on the Minty representation of maximal monotone operators as lipschitzian manifolds, we show that these dynamics can be formulated as first-order in time differential systems, which are relevant to the Cauchy–Lipschitz theorem. By using Lyapunov methods, we prove that their trajectories converge weakly to equilibria. Time discretization of these dynamics gives algorithms providing new insight into Newton's method for solving monotone inclusions.
+Keywords
+maximal monotone operators, Newton-like algorithms, Levenberg–Marquardt algorithms, nonautonomous differential equations, absolutely continuous trajectories, dissipative dynamical systems, Lyapunov analysis, weak asymptotic convergence, numerical convex optimization, 34G25, 47J25, 47J30, 47J35, 49M15, 49M37, 65K15, 90C25, 90C53, 

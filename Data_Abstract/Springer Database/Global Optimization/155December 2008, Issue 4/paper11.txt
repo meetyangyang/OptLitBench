@@ -1,0 +1,6 @@
+A note on global optimization via the heat diffusion equation
+Vladimir Shikhman;
+Abstract
+We consider the interesting smoothing method of global optimization recently proposed in Lau and Kwong (J Glob Optim 34:369–398, 2006) . In this method smoothed functions are solutions of an initial-value problem for a heat diffusion equation with external heat source. As shown in Lau and Kwong (J Glob Optim 34:369–398, 2006), the source helps to control global minima of the smoothed functions—they are not shifted during the smoothing. In this note we point out that for certain (families of) objective functions the proposed method unfortunately does not affect the functions, in the sense, that the smoothed functions coincide with the respective objective function. The key point here is that the Laplacian might be too weak in order to smooth out critical points.
+Keywords
+Global optimization  Heat diffusion equation  Smoothing method  

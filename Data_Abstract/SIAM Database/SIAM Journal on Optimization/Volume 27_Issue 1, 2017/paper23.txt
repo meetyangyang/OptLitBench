@@ -1,0 +1,6 @@
+A Predictor-Corrector Path-Following Algorithm for Dual-Degenerate Parametric Optimization Problems
+Vyacheslav  Kungurtsev and Johannes  Jäschke;
+Abstract
+Most path-following algorithms for tracing a solution path of a parametric nonlinear optimization problem are only certifiably convergent under strong regularity assumptions about the problem functions. In particular, linear independence of the constraint gradients at the solutions is typically assumed, which implies unique multipliers. In this paper we propose a procedure designed to solve problems satisfying a weaker set of conditions, allowing for nonunique (but bounded) multipliers. Each iteration along the path consists of three parts: (1) a Newton corrector step for the primal and dual variables, which is obtained by solving a linear system of equations, (2) a predictor step for the primal and dual variables, which is found as the solution of a quadratic programming problem, and (3) a jump step for the dual variables, which is found as the solution of a linear programming problem. We present a convergence proof and demonstrate the successful solution tracking of the algorithm numerically on a couple of illustrative examples.
+Keywords
+parametric optimization, predictor-corrector path-following, dual-degeneracy, optimal solution sensitivity, 90C30, 90C31, 

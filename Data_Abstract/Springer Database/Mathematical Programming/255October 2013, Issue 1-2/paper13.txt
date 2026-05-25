@@ -1,0 +1,6 @@
+A practical relative error criterion for augmented Lagrangians
+Jonathan Eckstein;Paulo J. S. Silva;
+Abstract
+This paper develops a new error criterion for the approximate minimization of augmented Lagrangian subproblems. This criterion is practical since it is readily testable given only a gradient (or subgradient) of the augmented Lagrangian. It is also “relative” in the sense of relative error criteria for proximal point algorithms: in particular, it uses a single relative tolerance parameter, rather than a summable parameter sequence. Our analysis first describes an abstract version of the criterion within Rockafellar’s general parametric convex duality framework, and proves a global convergence result for the resulting algorithm. Specializing this algorithm to a standard formulation of convex programming produces a version of the classical augmented Lagrangian method with a novel inexact solution condition for the subproblems. Finally, we present computational results drawn from the CUTE test set—including many nonconvex problems—indicating that the approach works well in practice.
+Keywords
+90C25  90C30  

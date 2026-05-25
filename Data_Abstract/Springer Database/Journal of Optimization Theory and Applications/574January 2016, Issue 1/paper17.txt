@@ -1,0 +1,6 @@
+A Nature Inspired Parameter Tuning Approach to Cascade Control for Hydraulically Driven Parallel Robot Platform
+Vladimir Stojanovic;Novak Nedic;
+Abstract
+This paper presents the optimal tuning of cascade load force controllers for a parallel robot platform. A parameter search for the proposed cascade controller is difficult because there is no methodology to set the parameters and the search space is broad. The proposed parameter search scheme is based on a bat algorithm, which attracts a lot of attention in the evolutionary computation area due to the empirical evidence of its superiority in solving various nonconvex problems. The control design problem is formulated as an optimization problem under constraints. Typical constraints, such as mechanical limits on positions and maximal velocities of hydraulic actuators as well as on servo-valve positions, are included in the proposed algorithm. The simulation results indicate that the proposed optimal tuned cascade control is effective and efficient. These results clearly demonstrate that applied techniques exhibit a significant performance improvement over classical tuning methods.
+Keywords
+Controller tuning  Constrained optimization  Cascade control  Bat algorithm  Parallel robot platform  68T40  68T20  93C10  93C35  

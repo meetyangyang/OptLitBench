@@ -1,0 +1,7 @@
+On the convergence of Newton iterations to non-stationary points
+Richard H. Byrd;Marcelo Marazzi;Jorge Nocedal;
+Abstract
+We study conditions under which line search Newton methods for nonlinear systems of equations and optimization fail due to the presence of singular non-stationary points. These points are not solutions of the problem and are characterized by the fact that Jacobian or Hessian matrices are singular. It is shown that, for systems of nonlinear equations, the interaction between the Newton direction and the merit function can prevent the iterates from escaping such non-stationary points. The unconstrained minimization problem is also studied, and conditions under which false convergence cannot occur are presented. Several examples illustrating failure of Newton iterations for constrained optimization are also presented. The paper also shows that a class of line search feasible interior methods cannot exhibit convergence to non-stationary points.
+
+Keywords
+Nonlinear System  Nonlinear Equation  Minimization Problem  Newton Method  Line Search  

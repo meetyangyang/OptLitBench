@@ -1,0 +1,4 @@
+Approximation Model Guided Selection for Evolutionary Multiobjective Optimization
+Aimin Zhou;Qingfu Zhang;Guixu Zhang;
+Abstract
+Selection plays a key role in a multiobjective evolutionary algorithm (MOEA). The dominance based selection operators or indicator based ones are widely used in most current MOEAs. This paper studies another kind of selection, in which a model is firstly built to approximate the Pareto front and then guides the selection of promising solutions into the next generation. Based on this idea, we propose two approximation model guided selection (AMS) operators in this paper: one uses a zero-order model to approximate the Pareto front, and the other uses a first-order model. The experimental results show that the new AMS operators performs well on some test instances.

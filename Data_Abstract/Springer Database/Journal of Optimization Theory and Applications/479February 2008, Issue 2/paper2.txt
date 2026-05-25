@@ -1,0 +1,8 @@
+Gradient Descent Approach to Optimal Mode Scheduling in Hybrid Dynamical Systems
+H. Axelsson;Y. Wardi;M. Egerstedt;E. I. Verriest;
+Abstract
+
+This paper concerns the problem of optimally scheduling the sequence of dynamic response functions in nonlinear switched-mode hybrid dynamical systems. The control parameter has a discrete component and a continuous component, namely the sequence of modes and the duration of each mode, while the performance criterion consists of a cost functional on the state trajectory. The problem is naturally cast in the framework of optimal control. This framework has established techniques sufficient to address the continuous part of the parameter, but lacks adequate tools to consider the discrete element. To get around this difficulty, the paper proposes a bilevel hierarchical algorithm. At the lower level, the algorithm considers a fixed mode sequence and minimizes the cost functional with respect to the mode durations; at the upper level, it updates the mode sequence by using a gradient technique that is tailored to the special structure of the discrete variable (mode sequencing). The resulting algorithm is not defined on a single parameter space, but rather on a sequence of Euclidean spaces of increasing dimensions, an unusual setting for which there is no established notion of convergence. The paper suggests first a suitable definition of convergence based on the concepts of optimality functions; then, it proves that the proposed algorithm converges in that sense.
+
+Keywords
+Switched-mode systems  Gradient descent  Optimality functions  Optimal control  

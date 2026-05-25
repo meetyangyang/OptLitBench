@@ -1,0 +1,6 @@
+A lower-bound formulation for the geometry and topology optimization of truss structures under multiple loading
+Benoît Descamps;Rajan Filomeno Coelho;
+Abstract
+In this contribution, we propose an effective formulation to address the stress-based minimum volume problem of truss structures. Starting from the lower-bound formulation in topology optimization, the problem is further expanded to geometry optimization and multiple loading scenarios, and systematically reformulated to alleviate numerical difficulties related to the melting node effect and stress singularities. The subsequent simultaneous analysis and design (SAND) formulation is well suited for a direct treatment by introducing a barrier function. Using exact second derivatives, this difficult class of problem is solved by sequential quadratic programming with trust regions. These building blocks result into an integrated design process. Two examples–including a large-scale application–illustrate the robustness of the proposed formulation.
+Keywords
+Truss structure  Geometry optimization  Topology optimization  Multiple loading  Melting node effect  Simultaneous analysis and design  

@@ -1,0 +1,6 @@
+Shape Optimization of Shell Structure Acoustics
+Harbir  Antil, Sean  Hardesty, and Matthias  Heinkenschloss;
+Abstract
+This paper provides a rigorous framework for the numerical solution of shape optimization problems in shell structure acoustics using a reference-domain approach. The structure is modeled with Naghdi shell equations, fully coupled to boundary integral equations on a minimally regular surface, permitting the formulation of three-dimensional radiation and scattering problems on a two-dimensional set of reference coordinates. We prove well-posedness of this model, and Fréchet differentiability of the state with respect to the surface shape. For a class of shape optimization problems we prove existence of optimal solutions under slightly stronger surface regularity assumptions. Finally, adjoint equations are used to efficiently compute derivatives of the radiated field with respect to large numbers of shape parameters, which allows consideration of a rich space of shapes and, thus, of a broad range of design problems. A numerical example is presented to illustrate the applicability of our theoretical results.
+Keywords
+structural acoustics, Naghdi shell, boundary integral equation, shape derivative, shape optimization, 74K25, 65R20, 35Q93, 49Q10, 

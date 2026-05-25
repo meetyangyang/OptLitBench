@@ -1,0 +1,6 @@
+Combinatorial Simplex Algorithms Can Solve Mean Payoff Games
+Xavier  Allamigeon, Pascal  Benchimol, Stéphane  Gaubert, and Michael  Joswig;
+Abstract
+A combinatorial simplex algorithm is an instance of the simplex method in which the pivoting depends on certain combinatorial data only. We show that any algorithm of this kind admits a tropical analogue which can be used to solve mean payoff games. Moreover, any combinatorial simplex algorithm with a strongly polynomial complexity (the existence of such an algorithm is open) would provide in this way a strongly polynomial algorithm solving mean payoff games. Mean payoff games are known to be in ${NP} \cap {co-NP}$; whether they can be solved in polynomial time is an open problem. Our algorithm relies on a tropical implementation of the simplex method over a real closed field of Hahn series. One of the key ingredients is a new scheme for symbolic perturbation which allows us to lift an arbitrary mean payoff game instance into a nondegenerate linear program over Hahn series.
+Keywords
+tropical geometry, linear programming, mean payoff games, symbolic perturbation, Hahn series, real closed fields, 90C05, 90D13, 14T05, 03C98, 

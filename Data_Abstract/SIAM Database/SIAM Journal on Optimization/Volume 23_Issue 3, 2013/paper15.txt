@@ -1,0 +1,6 @@
+Worst-Case Complexity of Smoothing Quadratic Regularization Methods for Non-Lipschitzian Optimization
+Wei  Bian and Xiaojun  Chen;
+Abstract
+In this paper, we propose a smoothing quadratic regularization (SQR) algorithm for solving a class of nonsmooth nonconvex, perhaps even non-Lipschitzian minimization problems, which has wide applications in statistics and sparse reconstruction. The proposed SQR algorithm is a first order method. At each iteration, the SQR algorithm solves a strongly convex quadratic minimization problem with a diagonal Hessian matrix, which has a simple closed-form solution that is inexpensive to calculate. We show that the worst-case complexity of reaching  an $\epsilon$ scaled stationary point is $O(\epsilon^{-2})$. Moreover, if the objective function is locally Lipschitz continuous, the SQR algorithm with a slightly modified updating scheme for the smoothing parameter and iterate can obtain an $\epsilon$ Clarke stationary point in at most $O(\epsilon^{-3})$ iterations.
+Keywords
+nonsmooth nonconvex optimization, smoothing approximation, quadratic regularization, convergence, worst-case complexity, stationary point, 90C30, 90C26, 65K05, 49M37, 

@@ -1,0 +1,6 @@
+A globally convergent primal—dual interior point algorithm for convex programming
+Renato D. C. Monteiro;
+Abstract
+In this paper, we study the global convergence of a large class of primal—dual interior point algorithms for solving the linearly constrained convex programming problem. The algorithms in this class decrease the value of a primal—dual potential function and hence belong to the class of so-called potential reduction algorithms. An inexact line search based on Armijo stepsize rule is used to compute the stepsize. The directions used by the algorithms are the same as the ones used in primal—dual path following and potential reduction algorithms and a very mild condition on the choice of the “centering parameter” is assumed. The algorithms always keep primal and dual feasibility and, in contrast to the polynomial potential reduction algorithms, they do not need to drive the value of the potential function towards — ∞ in order to converge. One of the techniques used in the convergence analysis of these algorithms has its root in nonlinear unconstrained optimization theory.
+Keywords
+Primary 90C25  Secondary 49D45, 65K05  Interior-point methods  Convex programming  Karmarkar's algorithm  Global convergence  Potential function  Potential reduction algorithms  Armijo stepsize rule  

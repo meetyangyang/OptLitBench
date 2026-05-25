@@ -1,0 +1,6 @@
+On the recoverable robust traveling salesman problem
+André Chassein;Marc Goerigk;
+Abstract
+We consider an uncertain traveling salesman problem, where distances between nodes are not known exactly, but may stem from an uncertainty set of possible scenarios. This uncertainty set is given as intervals with an additional bound on the number of distances that may deviate from their expected, nominal values. A recoverable robust model is proposed, that allows a tour to change a bounded number of edges once a scenario becomes known. As the model contains an exponential number of constraints and variables, an iterative algorithm is proposed, in which tours and scenarios are computed alternately. While this approach is able to find a provably optimal solution to the robust model, it also needs to solve increasingly complex subproblems. Therefore, we also consider heuristic solution procedures based on local search moves using a heuristic estimate of the actual objective function. In computational experiments, these approaches are compared.
+Keywords
+Robust optimization  Traveling salesman problem  Recoverable robustness  

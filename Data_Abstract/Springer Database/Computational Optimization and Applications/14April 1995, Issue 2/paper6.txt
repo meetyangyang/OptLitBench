@@ -1,0 +1,6 @@
+Analyzing infeasible nonlinear programs
+John W. Chinneck;
+Abstract
+Nonlinear optimizers often report infeasibility during the process of initial construction of a model, or alterations to an existing model. Because solvers are unable to decide feasibility of a nonlinear constraint set with perfect accuracy, there are numerous possible explanations: the physical model really is infeasible, there is an error in the nonlinear constraint set causing infeasibility, or the model is feasible but the initial point or solver parameters are poorly chosen. It is difficult to proceed to a diagnosis of the problem in a large NLP.
+Keywords
+infeasibility analysis  nonlinear programming  formulation assistance  

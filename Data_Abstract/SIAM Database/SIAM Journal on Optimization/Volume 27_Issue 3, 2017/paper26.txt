@@ -1,0 +1,6 @@
+The Complexity of Positive Semidefinite Matrix Factorization
+Yaroslav  Shitov;
+Abstract
+Let $A$ be an $m\times n$ matrix with nonnegative real entries. The PSD rank of $A$ is the smallest integer $k$ for which there exist $k\times k$ real PSD matrices $B_1,\ldots,B_m$, $C_1,\ldots,C_n$ satisfying $A(i|j)=\operatorname{tr}(B_iC_j)$ for all $i,j$. This paper determines the computational complexity status of the PSD rank. Namely, we show that the problem of computing this function is polynomial-time equivalent to the existential theory of the reals.
+Keywords
+PSD rank, semialgebraic set, computational complexity, 15A23, 90C22, 

@@ -1,0 +1,6 @@
+Tensor Methods for Equality Constrained Optimization
+Dan  Feng and Robert B.  Schnabel;
+Abstract
+This paper introduces tensor methods for nonlinear equality constrained optimization problems. These are general purpose methods intended especially for problems where the constraint gradient matrix at the solution is rank deficient or ill conditioned. The new methods are adapted from the standard successive quadratic programming method by augmenting the linear model of the constraints with a simple second-order term. The second-order term is selected so that the model of the constraints interpolates constraint function values from one or more previous iterations, as well as the current constraint function value and gradients. Similar to tensor methods for nonlinear equations, the tensor methods for constrained optimization require no more function and derivative evaluations, and hardly more storage or arithmetic per iteration, than the standard SQP methods. Test results indicate that the tensor methods are more efficient than SQP methods on singular and nonsingular nonlinear equality constrained optimization problems, with a particularly large advantage on singular problems.
+Keywords
+constrained optimization, tensor methods, singular problems successive quadratic programming, 65K05, 90C30, 

@@ -1,0 +1,6 @@
+Traveling salesman path problems
+Fumei Lam;Alantha Newman;
+Abstract
+In the traveling salesman path problem, we are given a set of cities, traveling costs between city pairs and fixed source and destination cities. The objective is to find a minimum cost path from the source to destination visiting all cities exactly once. In this paper, we study polyhedral and combinatorial properties of a variant we call the traveling salesman walk problem, in which the objective is to find a minimum cost walk from the source to destination visiting all cities at least once. We first characterize traveling salesman walk perfect graphs, graphs for which the convex hull of incidence vectors of traveling salesman walks can be described by linear inequalities. We show these graphs have a description by way of forbidden minors and also characterize them constructively. We also address the asymmetric traveling salesman path problem (ATSPP) and give a factor \(O(\sqrt{n})\)-approximation algorithm for this problem.
+Keywords
+68Q25  68R10  90C05  90C27  

@@ -1,0 +1,4 @@
+Reasoning on Sequences in Constraint-Based Local Search Frameworks
+Renaud De Landtsheer;Yoann Guyot;Gustavo Ospina;Fabian Germeau;Christophe Ponsard;
+Abstract
+This paper explains why global constraints for routing cannot be integrated into Constraint-Based Local Search (CBLS) frameworks. A technical reason for this is identified and defined as the multi-variable bottleneck. We solve this bottleneck by introducing a new type of variables: “sequence of integers”. We identify key requirements and defines a vocabulary for this variable type, through which it communicates with global constraints. Dedicated data structures are designed for efficiently representing sequences in this context. Benchmarks are presented to identify how to best parametrise those data structures and to compare our approach with other state-of-the-art local search frameworks: LocalSolver and GoogleCP. Our contribution is included in the CBLS engine of the open source OscaR framework.

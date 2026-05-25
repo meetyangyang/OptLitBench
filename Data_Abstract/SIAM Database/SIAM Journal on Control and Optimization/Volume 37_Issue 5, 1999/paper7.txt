@@ -1,0 +1,6 @@
+Asymptotic Behavior of a Markovian Stochastic Algorithm with Constant Step
+Jean-Claude  Fort and Gilles  Pagès;
+Abstract
+We first derive from abstract results on Feller transition kernels that, under some mild assumptions, a Markov stochastic algorithm with constant step size $\varepsilon$ usually has a tight family of invariant distributions $\nu^{\varepsilon}$, $\varepsilon \in(0,\varepsilon_0]$, whose weak limiting distributions as $\varepsilon\downarrow 0$ are all flow-invariant for its ODE. Then the main part of the paper deals with a kind of converse: what are the possible limiting distributions among all flow-invariant distributions of the ODE? We first show that no repulsive invariant (thin) set can belong to their supports. When the ODE is a stochastic pseudogradient descent, these supports cannot contain saddle or spurious equilibrium points either, so that they are eventually supported by the set of local minima of their potential. Such results require only the random perturbation to lie in L2 . Various examples are treated, showing that these results yield some weak convergence results for the $\nu^{\varepsilon}$'s, sometimes toward a saddle point when the algorithm is not a pseudogradient.
+Keywords
+stochastic algorithm, stationary distribution, Markov chain, gradient descent, saddle point, 62L20, 60J27, 

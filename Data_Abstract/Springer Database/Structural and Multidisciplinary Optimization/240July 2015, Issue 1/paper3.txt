@@ -1,0 +1,6 @@
+Differential geometry tools for multidisciplinary design optimization, part II: application to QSD
+Craig Bakker;Geoffrey T. Parks;
+Abstract
+Having previously developed a differential geometry framework for analyzing and conceptualizing Multidisciplinary Design Optimization (MDO) problems and methods, we now apply that framework to consider the Quasi-Separable Decomposition (QSD) architecture. Based on our theoretical investigations, we predict that QSD will fail to return feasible designs for MDO problems. In the same vein, we analyze the Individual Discipline Feasible (IDF) architecture, predict that IDF will converge to feasible designs, and propose a modified version of QSD which we believe will also output feasible design points. To test these predictions, we run all three architectures on a well-known analytical MDO problem. Our predictions regarding feasibility prove to be accurate: QSD does not return any feasible points, whereas all of the final design points from IDF and the modified QSD are feasible. Now that convergence to feasibility has been established, the next step is to investigate the optimization performance of various QSD modifications.
+Keywords
+Multidisciplinary design optimization  Differential geometry  Design analysis  

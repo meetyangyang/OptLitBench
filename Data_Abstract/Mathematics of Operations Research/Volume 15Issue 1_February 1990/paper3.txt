@@ -1,0 +1,6 @@
+Distributed Computation for Linear Programming Problems Satisfying a Certain Diagonal Dominance Condition
+Paul Tseng;
+Abstract
+A block-coordinate ascent method for a class of linear programming problems whose constraints satisfy a certain diagonal dominance condition is proposed. This method partitions the original linear program into subprograms where each subprogram corresponds uniquely to a subset of the decision variables of the problem. At each iteration, one of the subprograms is solved by adjusting its corresponding variables, while the other variables are held constant. The algorithmic mapping underlying this method is shown to be monotone and contractive. Using the contractive property, the method is shown to converge even when implemented in an asynchronous, distributed manner, and that its rate of convergence can be estimated from the synchronization parameter.
+Keywords
+distributed computation linear program Jacobi relaxation Markov decision problem 

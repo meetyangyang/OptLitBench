@@ -1,0 +1,6 @@
+Guided dive for the spatial branch-and-bound
+D. Gerard;M. Köppe;Q. Louveaux;
+Abstract
+We study the spatial Brand-and-Bound algorithm for the global optimization of nonlinear problems. In particular we are interested in a method to find quickly good feasible solutions. Most spatial Branch-and-Bound-based solvers use a non-global solver at a few nodes to try to find better incumbents. We show that it is possible to improve the branching rules and the node priority by exploiting the solutions from the non-global solver. We also propose several smart adaptive strategies to choose when to run the non-global solver. We show that despite the time spent in solving more NLP problems in the nodes, the new strategies enable the algorithm to find the first good incumbents faster and to prove the global optimality faster. Numerous easy, medium size as well as hard NLP instances from the Coconut library are benchmarked. All experiments are run using the open source solver Couenne.
+Keywords
+Spatial branch-and-bound  Local search  Heuristic  Guided dive  Branching  Couenne  

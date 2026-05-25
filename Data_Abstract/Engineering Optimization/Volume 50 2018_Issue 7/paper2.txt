@@ -1,0 +1,6 @@
+Consultation sequencing of a hospital with multiple service points using genetic programming
+Katsumi Morikawa;Katsuhiko Takahashi;Keisuke Nagasawa;
+Abstract
+A hospital with one consultation room operated by a physician and several examination rooms is investigated. Scheduled patients and walk-ins arrive at the hospital, each patient goes to the consultation room first, and some of them visit other service points before consulting the physician again. The objective function consists of the sum of three weighted average waiting times. The problem of sequencing patients for consultation is focused. To alleviate the stress of waiting, the consultation sequence is displayed. A dispatching rule is used to decide the sequence, and best rules are explored by genetic programming (GP). The simulation experiments indicate that the rules produced by GP can be reduced to simple permutations of queues, and the best permutation depends on the weight used in the objective function. This implies that a balanced allocation of waiting times can be achieved by ordering the priority among three queues.
+Keywords
+Sequencing, hospital, simulation, genetic programming 

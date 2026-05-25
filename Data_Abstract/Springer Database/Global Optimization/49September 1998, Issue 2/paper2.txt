@@ -1,0 +1,6 @@
+Convergent Outer Approximation Algorithms for Solving Unary Programs
+Reiner Horst;Ulrich Raber;
+Abstract
+Interesting cutting plane approaches for solving certain difficult multiextremal global optimization problems can fail to converge. Examples include the concavity cut method for concave minimization and Ramana's recent outer approximation method for unary programs which are linear programming problems with an additional constraint requiring that an affine mapping becomes unary. For the latter problem class, new convergent outer approximation algorithms are proposed which are based on sufficiently deep l∞-norm or quadratic cuts. Implementable versions construct optimal simplicial inner approximations of Euclidean balls and of intersections of Euclidean balls with halfspaces, which are of general interest in computational convexity. Computational behavior of the algorithms depends crucially on the matrices involved in the unary condition. Potential applications to the global minimization of indefinite quadratic functions subject to indefinite quadratic constraints are shown to be practical only for very small problem sizes.
+Keywords
+Unary programs  Indefinite quadratic optimization under indefinite quadratic constraints  Outer approximation  Cutting plane methods  

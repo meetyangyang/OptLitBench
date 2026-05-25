@@ -1,0 +1,8 @@
+Using a hybrid preconditioner for solving large-scale linear systems arising from interior point methods
+S. Bocanegra;F. F. Campos;A. R. L. Oliveira;
+Abstract
+
+We devise a hybrid approach for solving linear systems arising from interior point methods applied to linear programming problems. These systems are solved by preconditioned conjugate gradient method that works in two phases. During phase I it uses a kind of incomplete Cholesky preconditioner such that fill-in can be controlled in terms of available memory. As the optimal solution of the problem is approached, the linear systems becomes highly ill-conditioned and the method changes to phase II. In this phase a preconditioner based on the LU factorization is found to work better near a solution of the LP problem. The numerical experiments reveal that the iterative hybrid approach works better than Cholesky factorization on some classes of large-scale problems.
+
+Keywords
+Interior point methods  Preconditioning  Ill-conditioned systems  

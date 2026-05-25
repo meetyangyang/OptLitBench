@@ -1,0 +1,6 @@
+Existence of an Optimal Markovian Filter for the Control under Partial Observations
+Nicole  El Karoui, Du′ Huù  Nguyen, and Monique  Jeanblanc-Picqué;
+Abstract
+This paper concerns the control of diffusions under partial observations. Part I studies the control of the signal process $dX_t  = b(t,X_t ,U_t)dt + \sigma (t,X_t ,U_t )dB_t $, when the observation is $dY_t  = h(t,X_t )dt + dW_t $, and when the objective is to maximize a reward function $E\{ \int _r^T k(s,X_s, U_s )ds + g(X_T )\} $. The existence of an optimal relaxed control is proved.Part II studies the separated problem and proves the existence of an optimal Markovian filter. Then, the authors compare the two problems and prove, under mild conditions, that the value functions for the two problems are equal.
+Keywords
+control theory, partially observable diffusions, optimal filter, 60G, 60H, 93E, 

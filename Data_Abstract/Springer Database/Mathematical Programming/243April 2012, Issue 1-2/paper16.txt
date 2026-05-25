@@ -1,0 +1,6 @@
+A ranking model for the greedy algorithm and discrete convexity
+Ulrich Faigle;Walter Kern;Britta Peis;
+Abstract
+Generalizing the idea of the Lovász extension of a set function and the discrete Choquet integral, we introduce a combinatorial model that allows us to define and analyze matroid-type greedy algorithms. The model is based on a real-valued function v on a (finite) family of sets which yields the constraints of a combinatorial linear program. Moreover, v gives rise to a ranking and selection procedure for the elements of the ground set N and thus implies a greedy algorithm for the linear program. It is proved that the greedy algorithm is guaranteed to produce primal and dual optimal solutions if and only if an associated functional on \({\mathbb{R}^N}\) is concave. Previous matroid-type greedy models are shown to fit into the present general context. In particular, a general model for combinatorial optimization under supermodular constraints is presented which guarantees the greedy algorithm to work.
+Keywords
+90C27  90C57  

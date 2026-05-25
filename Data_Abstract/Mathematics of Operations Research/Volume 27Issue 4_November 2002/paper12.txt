@@ -1,0 +1,6 @@
+The Complexity of Decentralized Control of Markov Decision Processes
+Daniel S. Bernstein;Robert Givan;Neil Immerman;Shlomo Zilberstein;
+Abstract
+We consider decentralized control of Markov decision processes and give complexity bounds on the worst-case running time for algorithms that find optimal solutions. Generalizations of both the fully observable case and the partially observable case that allow for decentralized control are described. For even two agents, the finite-horizon problems corresponding to both of these models are hard for nondeterministic exponential time. These complexity results illustrate a fundamental difference between centralized and decentralized control of Markov decision processes. In contrast to the problems involving centralized control, the problems we consider provably do not admit polynomial-time algorithms. Furthermore, assuming EXP ≠ NEXP, the problems require superexponential time to solve in the worst case.
+Keywords
+Computational complexity Markov decision process decentralized control 

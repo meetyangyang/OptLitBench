@@ -1,0 +1,6 @@
+Convex Quadratic Approximation
+J. Ben Rosen;Roummel F. Marcia;
+Abstract
+For some applications it is desired to approximate a set of m data points in ℝ n  with a convex quadratic function. Furthermore, it is required that the convex quadratic approximation underestimate all m of the data points. It is shown here how to formulate and solve this problem using a convex quadratic function with s = (n + 1)(n + 2)/2 parameters, s ≤ m, so as to minimize the approximation error in the L1 norm. The approximating function is q(p,x), where p ∈ ℝ s  is the vector of parameters, and x ∈ ∝n. The Hessian of q(p,x) with respect to x (for fixed p) is positive semi-definite, and its Hessian with respect to p (for fixed x) is shown to be positive semi-definite and of rank ≤n. An algorithm is described for computing an optimal p* for any specified set of m data points, and computational results (for n = 4,6,10,15) are presented showing that the optimal q(p*,x) can be obtained efficiently. It is shown that the approximation will usually interpolate s of the m data points.
+Keywords
+convex function  quadratic approximation  under-estimation  nonlinear programming  interpolation  data fitting  

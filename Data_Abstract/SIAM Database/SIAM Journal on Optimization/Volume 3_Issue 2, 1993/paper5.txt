@@ -1,0 +1,6 @@
+A Globally and Superlinearly Convergent Algorithm for Convex Quadratic Programs with Simple Bbounds
+Thomas F.  Coleman and Laurie A.  Hulbert;
+Abstract
+A globally and superlinearly convergent algorithm for solving convex quadratic programs with simple bounds is presented. The algorithm is developed using a new formulation of the problem: the minimization of an unconstrained piecewise quadratic function that has the same optimality conditions as the original problem. The major work at each iteration is the Cholesky factorization of a positive definite matrix with the size and structure of the Hessian of the quadratic. Hence, the algorithm is suitable for solving large sparse problems and for implementation on parallel computers. The numerical results indicate that the new approach has promise.
+Keywords
+quadratic programming, interior point methods, simple bounds, box constraints, large sparse minimization, 90C20, 65K05, 

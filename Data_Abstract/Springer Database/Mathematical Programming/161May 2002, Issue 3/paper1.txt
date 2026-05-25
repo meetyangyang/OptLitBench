@@ -1,0 +1,6 @@
+A BFGS-IP algorithm for solving strongly convex optimization problems with feasibility enforced by an exact penalty approach
+Paul Armand;J. Charles Gilbert;Sophie Jan-Jégou;
+Abstract
+This paper introduces and analyses a new algorithm for minimizing a convex function subject to a finite number of convex inequality constraints. It is assumed that the Lagrangian of the problem is strongly convex. The algorithm combines interior point methods for dealing with the inequality constraints and quasi-Newton techniques for accelerating the convergence. Feasibility of the iterates is progressively enforced thanks to shift variables and an exact penalty approach. Global and q-superlinear convergence is obtained for a fixed penalty parameter; global convergence to the analytic center of the optimal set is ensured when the barrier parameter tends to zero, provided strict complementarity holds.
+Keywords
+Key words: analytic center – BFGS quasi-Newton approximations – constrained optimization – convex programming – infeasible iterates – interior point algorithm – line-search – primal-dual method – shift and slack variables – superlinear convergence  Mathematics Subject Classification (1991): 65K05, 90Cxx, 90C25, 90C51, 90C53  

@@ -1,0 +1,6 @@
+Scatter search for the bandpass problem
+Jesús Sánchez-Oro;Manuel Laguna;Rafael Martí;Abraham Duarte;
+Abstract
+We tackle a combinatorial problem that consists of finding the optimal configuration of a binary matrix. The configuration is determined by the ordering of the rows in the matrix and the objective function value is associated with a value B, the so-called bandpass number. In the basic version of the problem, the objective is to maximize the number of non-overlapping blocks containing B consecutive cells with a value of one in each column of the matrix. We explore variants of this basic problem and use them to test heuristic strategies within the scatter search framework. An existing library of problem instances is used to perform scientific testing of the proposed search procedures to gain insights that may be valuable in other combinational optimization settings. We also conduct competitive testing to compare outcomes with methods published in the literature and to improve upon previous results.
+Keywords
+Bandpass problem  Scatter search  Path relinking  Telecommunications  Metaheuristics  

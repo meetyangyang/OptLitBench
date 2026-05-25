@@ -1,0 +1,6 @@
+Buffer Requirements and Server Ordering in a Tandem Queue with Correlated Service Times
+Benjamin Avi-Itzhak;Hanoch Levy;
+Abstract
+We analyze the intermediate buffer requirements in a tandem queue where service times of each customer are deterministically correlated between the servers and arbitrarily distributed between customers. The major issue at hand is the determination of intermediate buffer sizes assuring no blocking when the arrivals pattern is arbitrary and unpredictable. The analysis shows that the worst arrival process is the Just-in-Time (JIT) process. Further, it shows that ordering of the servers with respect to service rates may be detrimental, and that the most vulnerable architectural design is that in which the servers have almost the same service rates. It is shown that the total buffer requirement in the system may be quite sensitive to the server ordering: A proper ordering requires just O(M) (where M is the number of queues) buffer size, while an improper ordering may require O(M2).
+Keywords
+Queuing tandem queues buffer 

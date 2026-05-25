@@ -1,0 +1,6 @@
+Two-Machine No-Wait Flow Shop Scheduling with Missing Operations
+C. A. Glass;J. N. D. Gupta;C. N. Potts;
+Abstract
+This paper considers the no-wait scheduling of n jobs in a two-machine flow shop, where some jobs require processing on the first machine only. The objective is to minimize the maximum completion time, or makespan. In view of its NP-hardness, we propose and analyze heuristic algorithms. Our main result is an O(n log n)-time heuristic which generates a schedule with makespan no more than 4/3 times that of an optimal schedule. This heuristic solves optimally the subproblem involving the jobs with no missing operations, using, for example, the well-known algorithm of Gilmore and Gomory, and then uses a list scheduling procedure to insert the remaining jobs in the schedule. A new proof technique is employed in the worst-case analysis, which has potential application in a variety of bin packing and scheduling problems.
+Keywords
+Flow shop makespan approximation list scheduling 

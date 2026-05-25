@@ -1,0 +1,6 @@
+Solving security constrained optimal power flow problems by a structure exploiting interior point method
+Naiyuan Chiang;Andreas Grothey;
+Abstract
+In this paper we present a new approach to solve the DC (n − 1) security constrained optimal power flow (SCOPF) problem by a structure exploiting interior point solver. Our approach is based on a reformulation of the linearised SCOPF model, in which most matrices that need to be factorized are constant. Hence, most factorizations and a large number of back-solve operations only need to be performed once. However, assembling the Schur complement matrix remains expensive in this scheme. To reduce the effort, we suggest using a preconditioned iterative method to solve the corresponding linear system. We suggest two main schemes to pick a good and robust preconditioner based on combining different “active” contingency scenarios of the SCOPF model. These new schemes are implemented within the object-oriented parallel solver (OOPS), a structure-exploiting primal-dual interior-point implementation. We give results on several SCOPF test problems. The largest example contains 500 buses. We compare the results from the original interior point method (IPM) implementation in OOPS and our new reformulation.
+Keywords
+SCOPF  Interior point methods  Structure exploitation iterative methods  Preconditioner  

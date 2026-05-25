@@ -1,0 +1,6 @@
+A branch-and-reduce approach to global optimization
+Hong S. Ryoo;Nikolaos V. Sahinidis;
+Abstract
+This paper presents valid inequalities and range contraction techniques that can be used to reduce the size of the search space of global optimization problems. To demonstrate the algorithmic usefulness of these techniques, we incorporate them within the branch-and-bound framework. This results in a branch-and-reduce global optimization algorithm. A detailed discussion of the algorithm components and theoretical properties are provided. Specialized algorithms for polynomial and multiplicative programs are developed. Extensive computational results are presented for engineering design problems, standard global optimization test problems, univariate polynomial programs, linear multiplicative programs, mixed-integer nonlinear programs and concave quadratic programs. For the problems solved, the computer implementation of the proposed algorithm provides very accurate solutions in modest computational time.
+Keywords
+Global optimization  range reduction  branch-and-bound  polynomial programming  multiplicative programming  mixed-integer nonlinear programming  quadratic programming  

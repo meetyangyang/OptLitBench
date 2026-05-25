@@ -1,0 +1,6 @@
+Asymptotic Expansion of Penalty-Gradient Flows in Linear Programming
+J. B.  Baillon and R.  Cominetti;
+Abstract
+We establish asymptotic expansions for nonautonomous gradient flows of the form $\dot u(t) = -\nabla f(u(t),r(t))$, where $f(x,r)$ is a penalty approximation of a linear program and the penalty parameter $r(t)$ tends to 0 as $t \to \infty$. Under appropriate conditions we show that every integral curve satisfies $u(t) = u^\infty + r(t)\,d_0^* + \dot r(t)r(t)\,w_0^* + o(\dot r(t)r(t))$ for suitable vectors $u^\infty$, $d_0^*$, and $w_0^*$. We deduce an asymptotic expansion for a related dual trajectory, and we show that the primal-dual limit point is a pair of strictly complementary optimal solutions for the linear program.
+Keywords
+gradient flows, penalty schemes, linear programming, asymptotic behavior, 34C35, 34D05, 49M10, 49M30, 90C25, 

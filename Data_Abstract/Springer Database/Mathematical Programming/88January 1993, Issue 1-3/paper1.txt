@@ -1,0 +1,6 @@
+Symmetric indefinite systems for interior point methods
+Robert J. Vanderbei;Tamra J. Carpenter;
+Abstract
+We present a unified framework for solving linear and convex quadratic programs via interior point methods. At each iteration, this method solves an indefinite system whose matrix is\(\left[ {\begin{array}{*{20}c}   { - D^{ - 2} } & {A^T }  \\   A & 0  \\ \end{array} } \right]\) instead of reducing to obtain the usualAD2AT system. This methodology affords two advantages: (1) it avoids the fill created by explicitly forming the productAD2AT whenA has dense columns; and (2) it can easily be used to solve nonseparable quadratic programs since it requires only thatD be symmetric. We also present a procedure for converting nonseparable quadratic programs to separable ones which yields computational savings when the matrix of quadratic coefficients is dense.
+Keywords
+Interior point method  linear programming  quadratic programming  

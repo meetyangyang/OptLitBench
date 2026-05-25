@@ -1,0 +1,6 @@
+Interior-point methods for nonconvex nonlinear programming: orderings and higher-order methods
+David F. Shanno;Robert J. Vanderbei;
+Abstract
+The paper extends prior work by the authors on loqo, an interior point algorithm for nonconvex nonlinear programming. The specific topics covered include primal versus dual orderings and higher order methods, which attempt to use each factorization of the Hessian matrix more than once to improve computational efficiency. Results show that unlike linear and convex quadratic programming, higher order corrections to the central trajectory are not useful for nonconvex nonlinear programming, but that a variant of Mehrotra’s predictor-corrector algorithm can definitely improve performance.
+Keywords
+Key words: nonlinear programming – interior-point methods – nonconvex optimization – predictor-corrector – matrix ordering  

@@ -1,0 +1,6 @@
+A Contraction Analysis of the Convergence of Risk-Sensitive Filters
+Bernard C.  Levy and Mattia  Zorzi;
+Abstract
+A contraction analysis of risk-sensitive Riccati equations is proposed. When the state-space model is reachable and observable, a block-update implementation of the risk-sensitive filter is used to show that the $N$-fold composition of the Riccati map is strictly contractive with respect to the Thompson's part metric of positive definite matrices, when $N$ is larger than the number of states. The range of values of the risk-sensitivity parameter for which the map remains contractive can be estimated a priori. It is also found that a second condition must be imposed on the risk-sensitivity parameter and on the initial error variance to ensure that the solution of the risk-sensitive Riccati equation remains positive definite at all times. The two conditions obtained can be viewed as extending to the multivariable case an earlier analysis of Whittle for the scalar case.
+Keywords
+block update, contraction mapping, Kalman filter, partial order, positive definite matrix cone, Riccati equation, Thompson's part metric, risk-sensitive filtering, 60G35, 93B35, 93E11, 

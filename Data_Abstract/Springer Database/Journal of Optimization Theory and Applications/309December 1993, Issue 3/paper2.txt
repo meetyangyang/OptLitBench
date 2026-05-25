@@ -1,0 +1,6 @@
+AnO(n3 logn) strong polynomial algorithm for an isotonic regression knapsack problem
+M. J. Best;R. Y. Tan;
+Abstract
+We introduce the isotonic regression knapsack problem$$\begin{gathered}  \min   (1/2)\sum\limits_{i = 1}^n {\{ d_i x_i^2  - 2\alpha _i x_i \} } , \hfill \\  s.t.   \sum\limits_{i = 1}^n {a_i x_i }  = c,       x_1  \leqslant x_2  \leqslant  \cdots  \leqslant x_{n - 1}  \leqslant x_n , \hfill \\ \end{gathered} $$ where eachd i  is positive and each α i ,a i ,i=1, ...,n, andc are arbitrary scalars. This problem is the natural extension of the isotonic regression problem which permits a strong polynomial solution algorithm. In this paper, an approach is developed from the Karush-Kuhn-Tucker conditions. By considering the Lagrange function without the inequalities, we establish a way to find the proper Lagrange multiplier associated with the equation using a parametric program, which yields optimality. We show that such a procedure can be performed in strong polynomial time, and an example is demonstrated.
+Keywords
+Knapsack problems  isotonic regression  quadratic programs  parametric programs  optimality conditions  Lagrange function  Lagrange multiplier  breakpoints  maximal cuts  active sets  

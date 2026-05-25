@@ -1,0 +1,6 @@
+Distributed Coverage Games for Energy-Aware Mobile Sensor Networks
+Minghui  Zhu and Sonia  Martínez;
+Abstract
+Inspired by current challenges in data-intensive and energy-limited sensor networks, we formulate a coverage optimization problem for mobile sensors as a (constrained) repeated multiplayer game. Each sensor tries to optimize its own coverage while minimizing the processing/energy cost. The sensors are subject to the informational restriction that the environmental distribution function is unknown a priori. We present two distributed learning algorithms where each sensor only remembers its own utility values and actions played during the last plays. These algorithms are proven to be convergent in probability to the set of (constrained) Nash equilibria and global optima of a certain coverage performance metric, respectively. Numerical examples are provided to verify the performance of our proposed algorithms.
+Keywords
+sensor network, coverage control, game theory, 68W15, 91A10, 91A80, 

@@ -1,0 +1,6 @@
+A Predictor-corrector algorithm with multiple corrections for convex quadratic programming
+Zhongyi Liu;Yue Chen;Wenyu Sun;Zhihui Wei;
+Abstract
+Recently an infeasible interior-point algorithm for linear programming (LP) was presented by Liu and Sun. By using similar predictor steps, we give a (feasible) predictor-corrector algorithm for convex quadratic programming (QP). We introduce a (scaled) proximity measure and a dynamical forcing factor (centering parameter). The latter is used to force the duality gap to decrease. The algorithm can decrease the duality gap monotonically. Polynomial complexity can be proved and the result coincides with the best one for LP, namely, \(O(\sqrt{n}\log n\mu^{0}/\varepsilon)\).
+Keywords
+Convex quadratic programming  Primal-dual interior-point method  Predictor-corrector  Polynomial complexity  

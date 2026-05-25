@@ -1,0 +1,6 @@
+Derivative-Free Optimization Via Proximal Point Methods
+W. L. Hare;Y. Lucet;
+Abstract
+Derivative-Free Optimization (DFO) examines the challenge of minimizing (or maximizing) a function without explicit use of derivative information. Many standard techniques in DFO are based on using model functions to approximate the objective function, and then applying classic optimization methods to the model function. For example, the details behind adapting steepest descent, conjugate gradient, and quasi-Newton methods to DFO have been studied in this manner. In this paper we demonstrate that the proximal point method can also be adapted to DFO. To that end, we provide a derivative-free proximal point (DFPP) method and prove convergence of the method in a general sense. In particular, we give conditions under which the gradient values of the iterates converge to 0, and conditions under which an iterate corresponds to a stationary point of the objective function.
+Keywords
+Derivative-free optimization  Proximal point method  Unconstrained minimization  

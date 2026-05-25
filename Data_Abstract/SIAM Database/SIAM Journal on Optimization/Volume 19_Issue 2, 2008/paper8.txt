@@ -1,0 +1,6 @@
+Further Relaxations of the Semidefinite Programming Approach to Sensor Network Localization
+Zizhuo  Wang, Song  Zheng, Yinyu  Ye, and Stephen  Boyd;
+Abstract
+Recently, a semidefinite programming (SDP) relaxation approach has been proposed to solve the sensor network localization problem. Although it achieves high accuracy in estimating the sensor locations, the speed of the SDP approach is not satisfactory for practical applications. In this paper we propose methods to further relax the SDP relaxation, more precisely, to relax the single semidefinite matrix cone into a set of small-size semidefinite submatrix cones, which we call a sub-SDP (SSDP) approach. We present two such relaxations. Although they are weaker than the original SDP relaxation, they retain the key theoretical property, and numerical experiments show that they are both efficient and accurate. The speed of the SSDP is even faster than that of other approaches based on weaker relaxations. The SSDP approach may also pave a way to efficiently solving general SDP problems without sacrificing the solution quality.
+Keywords
+sensor network localization, semidefinite programming, second-order cone programming, principal submatrix, chordal graph, 90C22, 49M20, 65K05, 

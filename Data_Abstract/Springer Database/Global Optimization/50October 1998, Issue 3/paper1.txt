@@ -1,0 +1,6 @@
+Cutting Plane/Tabu Search Algorithms for Low Rank Concave Quadratic Programming Problems
+Hiroshi Konno;Chenggang Gao;Ichiroh Saitoh;
+Abstract
+In this paper, we will propose an efficient heuristic algorithm for solving concave quadratic programming problems whose rank of the objective function is relatively small. This algorithm is a combination of Tuy's cutting plane to eliminate the feasible region and a kind of tabu-search method to find a ‘good’ vertex. We first generate a set of V of vertices and select one of these vertices as a starting point at each step, and apply tabu-search and Tuy's cutting plane algorithm where the list of tabu consists of those vertices eliminated by cutting planes and those newly generated vertices by cutting planes. When all vertices of the set V are eliminated, the algorithm is terminated. This algorithm need not converge to a global minimum, but it can work very well when the rank is relatively small (up to seven). The incumbent solutions are in fact globally optimal for all tested problems. We also propose an alternative algorithm by incorporating Rosen's hyperrectangle cut. This algorithm is more efficient than the combination of Tuy's cutting plane and tabu-search.
+Keywords
+Low rank concave quadratic programming problem  Tuy's cutting plane  Rosen's cutting plane  Global optimization  Tabu-search  Heuristic algorithm  

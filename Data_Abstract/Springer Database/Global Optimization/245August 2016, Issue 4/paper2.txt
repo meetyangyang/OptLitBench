@@ -1,0 +1,6 @@
+Projection algorithms for nonconvex minimization with application to sparse principal component analysis
+William W. Hager;Dzung T. Phan;Jiajie Zhu;
+Abstract
+We consider concave minimization problems over nonconvex sets. Optimization problems with this structure arise in sparse principal component analysis. We analyze both a gradient projection algorithm and an approximate Newton algorithm where the Hessian approximation is a multiple of the identity. Convergence results are established. In numerical experiments arising in sparse principal component analysis, it is seen that the performance of the gradient projection algorithm is very similar to that of the truncated power method and the generalized power method. In some cases, the approximate Newton algorithm with a Barzilai–Borwein Hessian approximation and a nonmonotone line search can be substantially faster than the other algorithms, and can converge to a better solution.
+Keywords
+Sparse principal component analysis  Gradient projection  Nonconvex minimization  Approximate Newton  Barzilai–Borwein method  

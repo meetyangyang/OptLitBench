@@ -1,0 +1,6 @@
+Efficient procedures for repeated calculations of structural sensitivities
+ Uri   Kirsch ; Michael   Bogomolni ; Izhak   Sheinman ;
+Abstract
+ Procedures for sensitivity analysis of large-scale structures are presented. Analytical derivatives are evaluated for multiple modified designs where the exact response is unknown. Approximation concepts are used to improve the efficiency and the ease-of-implementation of the calculations. The procedures presented are based on explicit approximations of the response and the combined approximations approach, which is further developed to improve the efficiency of the calculations and the accuracy of the results. Considering sensitivities of static problems and eigenproblems, basis vectors are calculated for a limited number of design points, and then used to evaluate sensitivities for various modified designs. The procedures presented are compared with exact analytical sensitivities. It is shown that accurate results can be achieved with significant reductions in the computational effort. 
+Keywords
+Approximation concepts, Design sensitivities, Fast reanalysis 

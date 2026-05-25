@@ -1,0 +1,6 @@
+A requirement for the mutation operator in continuous optimization
+Ali Ahrari;
+Abstract
+During the recent decades, much effort has been dedicated to revise and improve the evolution operators of evolutionary algorithms. This article aims at minimums of an efficient mutation operator in continuous problems for which reachability, scalability, unbiasedness and isotropy have already been considered necessary. A new requirement, called robust exploration and exploitation trade-off, is introduced which is usually satisfied for common univariate density functions in 1D space, while for higher dimensions, these density functions should be revised, otherwise the exploration or exploitation abilities of sampling turns highly limited. Empirical simulation is carried out to check the validity of the drawn conclusions, which verifies that if modification of the density function is ignored, dramatic performance deterioration can be concluded.
+Keywords
+Robust mutation  Mutation density function  Isotropic sampling  Exploration and exploitation trade-off  

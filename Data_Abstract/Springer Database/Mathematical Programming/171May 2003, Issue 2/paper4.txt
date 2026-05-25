@@ -1,0 +1,6 @@
+A primal all-integer algorithm based on irreducible solutions
+Utz-Uwe Haus;Matthias Köppe;Robert Weismantel;
+Abstract
+ This paper introduces an exact primal augmentation algorithm for solving general linear integer programs. The algorithm iteratively substitutes one column in a tableau by other columns that correspond to irreducible solutions of certain linear diophantine inequalities. We prove that various versions of our algorithm are finite. It is a major concern in this paper to show how the subproblem of replacing a column can be accomplished effectively. An implementation of the presented algorithms is given. Computational results for a number of hard 0/1 integer programs from the MIPLIB demonstrate the practical power of the method.
+Keywords
+Computational Result  Integer Program  Linear Integer Program  Diophantine Inequality  Augmentation Algorithm  

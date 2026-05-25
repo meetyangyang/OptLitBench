@@ -1,0 +1,6 @@
+An ADM-based splitting method for separable convex programming
+Deren Han;Xiaoming Yuan;Wenxing Zhang;Xingju Cai;
+Abstract
+We consider the convex minimization problem with linear constraints and a block-separable objective function which is represented as the sum of three functions without coupled variables. To solve this model, it is empirically effective to extend straightforwardly the alternating direction method of multipliers (ADM for short). But, the convergence of this straightforward extension of ADM is still not proved theoretically. Based on ADM’s straightforward extension, this paper presents a new splitting method for the model under consideration, which is empirically competitive to the straightforward extension of ADM and meanwhile the global convergence can be proved under standard assumptions. At each iteration, the new method corrects the output of the straightforward extension of ADM by some slight correction computation to generate a new iterate. Thus, the implementation of the new method is almost as easy as that of ADM’s straightforward extension. We show the numerical efficiency of the new method by some applications in the areas of image processing and statistics.
+Keywords
+Convex minimization  Block-separable  Alternating direction method of multipliers  Operator splitting methods  Global convergence  

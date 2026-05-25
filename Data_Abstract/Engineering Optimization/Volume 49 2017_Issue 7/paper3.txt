@@ -1,0 +1,6 @@
+Multiple-variable neighbourhood search for the single-machine total weighted tardiness problem
+Tsui-Ping Chung;Qunjie Fu;Ching-Jong Liao;Yi-Ting Liu;
+Abstract
+The single-machine total weighted tardiness (SMTWT) problem is a typical discrete combinatorial optimization problem in the scheduling literature. This problem has been proved to be NP hard and thus provides a challenging area for metaheuristics, especially the variable neighbourhood search algorithm. In this article, a multiple variable neighbourhood search (m-VNS) algorithm with multiple neighbourhood structures is proposed to solve the problem. Special mechanisms named matching and strengthening operations are employed in the algorithm, which has an auto-revising local search procedure to explore the solution space beyond local optimality. Two aspects, searching direction and searching depth, are considered, and neighbourhood structures are systematically exchanged. Experimental results show that the proposed m-VNS algorithm outperforms all the compared algorithms in solving the SMTWT problem.
+Keywords
+Metaheuristics, variable neighbourhood search, single-machine scheduling, total weighted tardiness 

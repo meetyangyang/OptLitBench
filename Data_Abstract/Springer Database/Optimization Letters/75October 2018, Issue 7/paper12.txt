@@ -1,0 +1,6 @@
+A new regularized quasi-Newton method for unconstrained optimization
+Hao Zhang;Qin Ni;
+Abstract
+In this paper, we propose a new regularized quasi-Newton method for unconstrained optimization. At each iteration, a regularized quasi-Newton equation is solved to obtain the search direction. The step size is determined by a non-monotone Armijo backtracking line search. An adaptive regularized parameter, which is updated according to the step size of the line search, is employed to compute the next search direction. The presented method is proved to be globally convergent. Numerical experiments show that the proposed method is effective for unconstrained optimizations and outperforms the existing regularized Newton method.
+Keywords
+Unconstrained optimization  Regularized quasi-Newton method  Non-monotone line search  

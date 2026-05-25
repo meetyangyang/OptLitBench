@@ -1,0 +1,6 @@
+Random Binary Search: A Randomizing Algorithm for Global Optimization in $R^1$
+Eitan Zemel;
+Abstract
+Randomizing (stochastic) global optimization algorithms can be viewed as sampling procedures, where at each iteration a local optimum is sampled from the set of local optima. The effectiveness of such an algorithm depends crucially on the sampling distribution, i.e., on the probabilities of sampling the various local optima. There exists a very large body of research on stochastic global optimization. However, very little is known about the sampling distribution itself and, in particular, on the specific way in which it depends on the function being optimized, on the region in which the search takes place, and on the optimization routine. In this paper we set out to examine these issues in some detail and present some first results in this direction. The case analyzed in this paper is the optimization of a one-dimensional function using a randomizing version of binary search. We give an effective (computable in quadratic time) formula for the sampling distribution and obtain various interesting properties of this distribution which are relevant to the behavior of the algorithm in practice. We also discuss some issues related to adaptive search.
+Keywords
+global optimization noncouvex optimization randomizing algorithms 

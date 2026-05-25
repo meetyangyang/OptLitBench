@@ -1,0 +1,6 @@
+Error Estimates for Approximate Optimization by the Extended Ritz Method
+Vera  Kurková and Marcello  Sanguineti;
+Abstract
+An alternative to the classical Ritz method for approximate optimization is investigated. In the extended Ritz method, sets of admissible solutions are approximated by their intersections with sets of linear combinations of all n-tuples of functions from a given basis. This alternative scheme, called variable-basis approximation, includes functions computable by trigonometric polynomials with free frequencies, free-node splines, neural networks, and other nonlinear approximating families. Estimates of rates of approximate optimization by the extended Ritz method are derived. Upper bounds on rates of convergence of suboptimal solutions to the optimal one are expressed in terms of the degree n of variable-basis functions, the modulus of continuity of the functional to be minimized, the modulus of Tikhonov well-posedness of the problem, and certain norms tailored to the type of basis. The results are applied to convex best approximation and to kernel methods in machine learning.
+Keywords
+functional optimization, rates of convergence of suboptimal solutions, (extended) Ritz method, curse of dimensionality, convex best approximation problems, learning from data by kernel methods, 49M15, 90B99, 90C90, 41A25, 68T05, 41A50, 

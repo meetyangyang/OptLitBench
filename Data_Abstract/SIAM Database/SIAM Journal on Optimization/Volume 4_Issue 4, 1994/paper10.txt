@@ -1,0 +1,6 @@
+Structured Linear Least-Squares Problems in System Identification and Separable Nonlinear Data Fitting
+Linda  Kaufman, Garrett S.  Sylvester, and Margaret H.  Wright;
+Abstract
+Linear least-squares problems involving very large, completely dense matrices with a highly special structure arise in two applications—system identification and separable nonlinear least-squares with multiple data sets. Generic dense methods applied to such problems would be inordinately costly in terms of both speed and storage. Various techniques for exploiting the structure are described that differ in operation count, storage requirements, accuracy, and suitability for parallel computation. The system identification problem is presented first, to characterize the structure and analyze the algorithmic alternatives. Some indication is then given of how to apply the same techniques to separable nonlinear least-squares with multiple data sets.
+Keywords
+system identification, matrix structure, linear least-squares, normal equations, QR factorization, separable nonlinear least-squares, 65F20, 65F25, 65K10, 90C06, 93A15, 93E24, 

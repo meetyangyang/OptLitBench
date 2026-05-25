@@ -1,0 +1,6 @@
+A reachability-based strategy for the time-optimal control of autonomous pursuers
+ Chern   F.   Chung ; Tomonari   Furukawa ;
+Abstract
+ A control strategy for an autonomous pursuer is proposed in the reachability-based framework by using forward reachable sets (FRSs) to capture an evader vehicle time optimally. The FRS, which is a geometric representation of a vehicle's dynamic capability, allows the pursuers to determine if a single pursuer can capture the evader time optimally as well as to coordinate and maximize the chance of capturing the evader through the FRS coverage of multiple pursuers. The proposed strategy is then tested against the generic point-tracking (PT) algorithm in three different examples: (1) a single pursuer with sufficient manoeuvrability to capture an evader, (2) a single pursuer with significantly lower lateral manoeuvrability than the evader, and (3) multiple pursuers of the same manoeuvrability as in the second example. The numerical results demonstrate the superior performance of the proposed strategy over the PT algorithm when the pursuer has lower lateral manoeuvrability. 
+Keywords
+pursuit evasion, reachable sets, time-optimal control 

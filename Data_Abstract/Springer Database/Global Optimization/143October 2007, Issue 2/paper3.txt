@@ -1,0 +1,6 @@
+A particle swarm pattern search method for bound constrained global optimization
+A. Ismael F. Vaz;Luís N. Vicente;
+Abstract
+In this paper we develop, analyze, and test a new algorithm for the global minimization of a function subject to simple bounds without the use of derivatives. The underlying algorithm is a pattern search method, more specifically a coordinate search method, which guarantees convergence to stationary points from arbitrary starting points. In the optional search phase of pattern search we apply a particle swarm scheme to globally explore the possible nonconvexity of the objective function. Our extensive numerical experiments showed that the resulting algorithm is highly competitive with other global optimization methods also based on function values.
+Keywords
+Direct search  Pattern search  Particle swarm  Derivative free optimization  Global optimization  Bound constrained nonlinear optimization  90C26  90C30  90C56  

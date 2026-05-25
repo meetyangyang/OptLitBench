@@ -1,0 +1,6 @@
+On the worst case complexity of potential reduction algorithms for linear programming
+Dimitris Bertsimas;Xiaodong Luo;
+Abstract
+There are several classes of interior point algorithms that solve linear programming problems in O(√nL) iterations. Among them, several potential reduction algorithms combine both theoretical (O(√nL) iterations) and practical efficiency as they allow the flexibility of line searches in the potential function, and thus can lead to practical implementations. It is a significant open question whether interior point algorithms can lead to better complexity bounds. In the present paper we give some negative answers to this question for the class of potential reduction algorithms. We show that, even if we allow line searches in the potential function, and even for problems that have network structure, the bound O(√nL) is tight for several potential reduction algorithms, i.e., there is a class of examples with network structure, in which the algorithms need at least Θ(√nL) iterations to find an optimal solution.
+Keywords
+Interior point methods  Lower bounds on complexity  Potential reduction algorithms  

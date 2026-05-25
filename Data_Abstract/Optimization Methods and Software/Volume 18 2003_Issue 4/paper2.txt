@@ -1,0 +1,6 @@
+Convergence rate analysis and error bounds for projection algorithms in convex feasibility problems
+ Amir   Beck ; Marc   Teboulle ;
+Abstract
+ We analyze the rate of convergence of three basic projections type algorithms for solving the convex feasibility problem (CFP). Error bounds are known to be central in establishing the rate of convergence of iterative methods. We study the interplay between Slater's hypothesis on CFP and a specific local error bound (LEB). We show that without Slater's hypothesis on CFP, projections type algorithms can in fact behave quite badly, i.e., with a rate of convergence which is not bounded. We derive a new and simple convex analytic proof showing that Slater's hypothesis on CFP implies LEB and hence linear convergence of projection algorithms is guaranteed. We then propose an alternative local error bound derived from the gradient projection algorithm for convex minimization which is proven to be weaker than LEB and used to derive further convergence rate results. 
+Keywords
+Convex Feasibility, Projection Algorithms, Error Bounds, Convergence Rate, Convex Minimization 

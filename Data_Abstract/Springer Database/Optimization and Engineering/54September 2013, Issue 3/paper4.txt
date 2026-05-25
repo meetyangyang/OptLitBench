@@ -1,0 +1,6 @@
+Quadratic model updating with gyroscopic structure from partial eigendata
+Xiantao Xiao;Jian Gu;Liwei Zhang;
+Abstract
+Quadratic eigenvalue model updating problem, which aims to match observed spectral information with some feasibility constraints, arises in many engineering areas. In this paper, we consider a damped gyroscopic model updating problem (GMUP) of constructing five n-by-n real matrices M,C,K,G and N, such that they are closest to the given matrices and the quadratic pencil Q(λ):=λ 2 M+λ(C+G)+K+N possess the measured partial eigendata. In practice, M,C and K, represent the mass, damping and stiffness matrices, are symmetric (with M and K positive definite), G and N, represent the gyroscopic and circulatory matrices, are skew-symmetric. Under mild assumptions, we show that the Lagrangian dual problem of GMUP can be solved by a quadratically convergent inexact smoothing Newton method. Numerical examples are given to show the high efficiency of our method.
+Keywords
+Quadratic eigenvalue problem  Inverse problem  Model updating problem  Gyroscopic structure  Inexact smoothing Newton method  

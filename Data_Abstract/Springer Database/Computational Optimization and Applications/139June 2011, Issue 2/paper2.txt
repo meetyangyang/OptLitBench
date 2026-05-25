@@ -1,0 +1,6 @@
+Exploiting separability in large-scale linear support vector machine training
+Kristian Woodsend;Jacek Gondzio;
+Abstract
+Linear support vector machine training can be represented as a large quadratic program. We present an efficient and numerically stable algorithm for this problem using interior point methods, which requires only \(\mathcal{O}(n)\) operations per iteration. Through exploiting the separability of the Hessian, we provide a unified approach, from an optimization perspective, to 1-norm classification, 2-norm classification, universum classification, ordinal regression and ε-insensitive regression. Our approach has the added advantage of obtaining the hyperplane weights and bias directly from the solver. Numerical experiments indicate that, in contrast to existing methods, the algorithm is largely unaffected by noisy data, and they show training times for our implementation are consistent and highly competitive. We discuss the effect of using multiple correctors, and monitoring the angle of the normal to the hyperplane to determine termination.
+Keywords
+Support vector machines  Interior point method  Separable quadratic program  Large scale  

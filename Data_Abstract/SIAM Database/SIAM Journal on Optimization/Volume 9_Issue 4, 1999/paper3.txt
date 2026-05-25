@@ -1,0 +1,6 @@
+A Global Convergence Analysis of an Algorithm for Large-Scale Nonlinear Optimization Problems
+Paul T.  Boggs, Anthony J.  Kearsley, and Jon W.  Tolle;
+Abstract
+In this paper we give a global convergence analysis of a basic version of an SQP algorithm described in [P. T. Boggs, A. J. Kearsley, and J. W. Tolle, SIAM J. Optim., 9 (1999), pp. 755--778] for the solution of large-scale nonlinear inequality-constrained optimization problems. Several procedures and options have been added to the basic algorithm to improve the practical performance; some of these are also analyzed. The important features of the algorithm include the use of a constrained merit function to assess the progress of the iterates and a sequence of approximate merit functions that are less expensive to evaluate. It also employs an interior point quadratic programming solver that can be terminated early to produce a truncated step.
+Keywords
+sequential quadratic programming, global convergence, merit function, large-scale problems, 49M37, 65K05, 90C30, 

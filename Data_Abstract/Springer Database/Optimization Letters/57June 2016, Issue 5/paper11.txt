@@ -1,0 +1,6 @@
+A Lagrangian heuristic for concave cost facility location problems: the plant location and technology acquisition problem
+Ahmed Saif;Samir Elhedhli;
+Abstract
+We propose a Lagrangian heuristic for facility location problems with concave cost functions and apply it to solve the plant location and technology acquisition problem. The problem is decomposed into a mixed integer subproblem and a set of trivial single-variable concave minimization subproblems. We are able to give a closed-form expression for the optimal Lagrangian multipliers such that the Lagrangian bound is obtained in a single iteration. Since the solution of the first subproblem is feasible to the original problem, a feasible solution and an upper bound are readily available. The Lagrangian heuristic can be embedded in a branch-and-bound scheme to close the optimality gap. Computational results show that the approach is capable of reaching high quality solutions efficiently. The proposed approach can be tailored to solve many concave-cost facility location problems.
+Keywords
+Location problems  Concave minimization  Lagrangian decomposition  

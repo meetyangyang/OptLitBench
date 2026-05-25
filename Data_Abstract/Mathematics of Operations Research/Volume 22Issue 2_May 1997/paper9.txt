@@ -1,0 +1,6 @@
+On a Wide Region of Centers and Primal-Dual Interior Point Algorithms for Linear Programming
+Jos F. Sturm;Shuzhong Zhang;
+Abstract
+In the adaptive step primal-dual interior point method for linear programming, polynomial algorithms are obtained by computing Newton directions towards targets on the central path, and restricting the iterates to a neighborhood of this central path. In this paper, the adaptive step methodology is extended, by considering targets in a certain central region, which contains the usual central path, and subsequently generating iterates in a neighborhood of this region. The size of the central region can vary from the central path to the whole feasible region by choosing a certain parameter.An 𝒪(√nL) iteration bound is obtained under mild conditions on the choice of the target points. In particular, we leave plenty of room for experimentation with search directions. The practical performance of the new primal-dual interior point method is measured on part of the Netlib test set for various sizes of the central region.
+Keywords
+linear programming primal-dual interior point method central path wide neighborhood 

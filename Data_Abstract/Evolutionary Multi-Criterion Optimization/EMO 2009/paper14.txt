@@ -1,0 +1,4 @@
+Application of MOGA Search Strategy to SVM Training Data Selection
+Tomoyuki Hiroyasu;Masashi Nishioka;Mitsunori Miki;Hisatake Yokouchi;
+Abstract
+When training Support Vector Machine (SVM), selection of a training data set becomes an important issue, since the problem of overfitting exists with a large number of training data. A user must decide how much training data to use in the training, and then select the data to be used from a given data set. We considered to handle this SVM training data selection as a multi-objective optimization problem and applied our proposed MOGA search strategy to it. It is essential for a broad set of Pareto solutions to be obtained for the purpose of understanding the characteristics of the problem, and we considered the proposed search strategy to be suitable. The results of the experiment indicated that selection of the training data set by MOGA is effective for SVM training.

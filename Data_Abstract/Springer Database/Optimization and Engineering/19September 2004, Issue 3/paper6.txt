@@ -1,0 +1,6 @@
+Parallel Line Search in Method of Feasible Directions
+Ashok D. Belegundu;Amol Damle;Subramaniam D. Rajan;Bhagavatula Dattaguru;James St. Ville;
+Abstract
+In this paper the line search procedure within the method of feasible directions is parallelized and used in the solution of constrained structural optimization problems. As the objective function is linear in the variables, the step size problem reduces to a zero finding problem. That is, the step size is the distance along the direction vector to the nearest constraint boundary. Zero finding is accomplished in two steps—a ‘march’ along the direction vector to bracket the zero followed by an interval reduction scheme. Both these steps are parallelized using MPI for message passing. When implemented on a cluster of workstations, for a convergence parameter of 10−6, the time for optimization of composite pressure vessel reduces from 3\(\frac{1}{2}\) hours to \(\frac{1}{2}\) hour when 64 processors are utilized, with a speedup of 7.0.
+Keywords
+parallel computing  structural optimization  method of feasible directions  MPI  line search  workstations cluster  

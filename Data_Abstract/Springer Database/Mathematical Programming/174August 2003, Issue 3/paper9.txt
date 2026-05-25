@@ -1,0 +1,7 @@
+On trust region methods for unconstrained minimization without derivatives
+M.J.D. Powell;
+Abstract
+We consider some algorithms for unconstrained minimization without derivatives that form linear or quadratic models by interpolation to values of the objective function. Then a new vector of variables is calculated by minimizing the current model within a trust region. Techniques are described for adjusting the trust region radius, and for choosing positions of the interpolation points that maintain not only nonsingularity of the interpolation equations but also the adequacy of the model. Particular attention is given to quadratic models with diagonal second derivative matrices, because numerical experiments show that they are often more efficient than full quadratic models for general objective functions. Finally, some recent research on the updating of full quadratic models is described briefly, using fewer interpolation equations than before. The resultant freedom is taken up by minimizing the Frobenius norm of the change to the second derivative matrix of the model. A preliminary version of this method provides some very promising numerical results.
+
+Keywords
+Objective Function  Numerical Experiment  Current Model  Quadratic Model  Trust Region  

@@ -1,0 +1,6 @@
+Bounds on Eigenvalues of Matrices Arising from Interior-Point Methods
+Chen  Greif, Erin  Moulding, and Dominique  Orban;
+Abstract
+Interior-point methods feature prominently among numerical methods for inequality-constrained optimization problems, and involve the need to solve a sequence of linear systems that typically become increasingly ill-conditioned with the iterations. To solve these systems, whose original form has a nonsymmetric $3\times 3$ block structure, it is common practice to perform block elimination and either solve the resulting reduced saddle-point system, or further reduce the system to the Schur complement and apply a symmetric positive definite solver. In this paper we use energy estimates to obtain bounds on the eigenvalues of the matrices, and conclude that the original unreduced matrix has more favorable eigenvalue bounds than the alternative reduced versions. Our analysis includes regularized variants of those matrices that do not require typical regularity assumptions.
+Keywords
+primal-dual interior-point methods, convex quadratic optimization, indefinite linear systems, eigenvalues, condition number, inertia, eigenvalue bounds, regularization, 15A06, 15A12, 15A18, 15B57, 90C06, 90C20, 65F22, 

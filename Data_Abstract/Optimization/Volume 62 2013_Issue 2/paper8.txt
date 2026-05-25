@@ -1,0 +1,6 @@
+An adaptive infeasible interior-point algorithm with full-Newton step for linear optimization
+ H.   Mansouri ; M.   Zangiabadi ;
+Abstract
+ We present an adaptive full-Newton step infeasible interior-point method for linear optimization, which is an improved version of the algorithm introduced by Roos [C. Roos, A full-Newton step O(n) infeasible interior-point algorithm for linear optimization, SIAM J. Optim. 16 (2006), pp. 1110–1136]. In each iteration of the algorithm we use the largest possible barrier parameter value θ. The value θ varies from iteration to iteration and it lies between the two values and, which results a faster algorithm. 
+Keywords
+linear optimization, infeasible interior-point method, primal-dual method, polynomial complexityAMS Subject Classifications:: 90C05, 90C51 

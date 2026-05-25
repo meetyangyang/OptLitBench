@@ -1,0 +1,6 @@
+Matroids and a Reliability Analysis Problem
+Michael O. Ball;George L. Nemhauser;
+Abstract
+We present an algorithm for the reliability analysis problem of determining the probability that a stochastic binary system operates. The stochastic binary system is viewed as an independence system. The algorithm finds a partition of the set of independence sets into subsets called intervals. If F ⊆ G, the interval between F and G is the collection of subsets F with F ⊆ F′ ⊆ G. The probability of an event corresponding to an interval is easy to calculate and the probability that the system operates is simply the sum of the event probabilities corresponding to the intervals in the partition.For any independence system a lower bound on the number of intervals needed in a partition is the number of bases. We show that for matroids this bound can be attained. Our algorithm finds a minimum cardinality interval partition of a matroid and characterizes matroids.
+Keywords
+reliability matroids multicomponent systems coherent binary systems 

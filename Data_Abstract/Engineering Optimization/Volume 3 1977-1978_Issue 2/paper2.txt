@@ -1,0 +1,6 @@
+A DYNAMIC PROGRAMMING APPROACH TO THE OPTIMUM LIGHTING PROBLEM
+ JOHN S.   GERO ; ANTONY D.   RADFORD ;
+Abstract
+ This paper describes a dynamic programming solution to the optimal lighting problem. This problem presents itself as: design a lighting system in a hall to minimize the cost of providing a given minimum direct illuminance. The design is expressed in terms of the number of sources, their position along the hall and their power. The formulation of the design problem indicates that there is both feed forward and feedback at each state of each stage. The number of forward and backward stages affected is a function of the accuracy required. Problems of this form can be made to satisfy the necessary separability requirements by introducing the concept of a delayed decision. A delayed decision occurs when the stage at which the decision is taken is later than the stage for which the decision is taken. The solution to this lighting design problem is shown to be computationally feasible using this concept. It is demonstrated that use of the structure of the problem can be made to reduce the number of output states and hence reduce the storage and computation required. 
+Keywords
+ 

@@ -1,0 +1,6 @@
+A Fully Polynomial-Time Approximation Algorithm for Computing a Stationary Point of the General Linear Complementarity Problem
+Yinyu Ye;
+Abstract
+We apply a potential reduction algorithm to solve the general linear complementarity problem (GLCP)minimize xTysubject to Ax + By + Cz = q and (x, y, z) ≥ 0.We show that the algorithm is a fully polynomial-time approximation scheme (FPTAS) for computing an ε-approximate stationary point of the GLCP. Note that there are some GLCPs in which every stationary point is a solution (xTy = 0). These include the LCPs with row sufficient matrices. We also show that the algorithm is a polynomial-time algorithm for a special class of GLCPs.
+Keywords
+stationary point linear complementarity problem potential reduction algorithm fully polynomial-time approximation scheme 

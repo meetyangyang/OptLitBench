@@ -1,0 +1,6 @@
+A stochastic probing algorithm for global optimization
+Purushottam W. Laud;L. Mark Berliner;Prem K. Goel;
+Abstract
+Recently, simulated annealing methods have proven to be a valuable tool for global optimization. We propose a new stochastic method for locating the global optimum of a function. The proposed method begins with the subjective specification of a probing distribution. The objective function is evaluated at a few points sampled from this distribution, which is then updated using the collected information. The updating mechanism is based on the entropy of a move selecting distribution and is loosely connected to some notions in statistical thermodynamics. Examples of the use of the proposed method are presented. These indicate its superior performance as compared with simulated annealing. Preliminary considerations in applying the method to discrete problems are discussed.
+Keywords
+Simulated annealing  Gibbs' distribution  entropy  Bayesian analysis  

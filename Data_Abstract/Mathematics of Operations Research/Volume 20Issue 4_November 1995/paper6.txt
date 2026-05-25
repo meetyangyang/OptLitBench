@@ -1,0 +1,6 @@
+A Geometric Buchberger Algorithm for Integer Programming
+Rekha R. Thomas;
+Abstract
+Let IP{A, c} denote the family of integer programs of the form Min cx: Ax = b, x ∈ Nn obtained by varying the right-hand side vector b but keeping A and c fixed. A test set for IPA, c is a set of vectors in Zn such that for each nonoptimal solution α to a program in this family, there is at least one element g in this set such that α − g has an improved cost value as compared to α. We describe a unique minimal test set for this family called the reduced Gröbner basis of IP{A, c}. An algorithm for its construction is presented which we call a geometric Buchberger algorithm for integer programming and we show how an integer program may be solved using this test set. The reduced Gröbner basis is then compared with some other known test sets from the literature. We also indicate an easy procedure to construct test sets with respect to all cost functions for a matrix A ∈ Z(n−2)×n of full row rank.
+Keywords
+integer programming test sets reduced Gröbner Buchberger algorithm fiber Hilbert bases 

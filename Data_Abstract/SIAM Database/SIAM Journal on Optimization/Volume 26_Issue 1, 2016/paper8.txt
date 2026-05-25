@@ -1,0 +1,6 @@
+Parallel Random Coordinate Descent Method for Composite Minimization: Convergence Analysis and  Error Bounds
+Ion  Necoara and Dragos  Clipici;
+Abstract
+In this paper we employ a parallel version of  a randomized (block) coordinate descent method for minimizing the sum of a partially separable smooth convex  function and a fully separable nonsmooth convex function. Under the assumption of  Lipschitz continuity of the gradient of the  smooth function,  this method has a sublinear convergence rate. Linear convergence rate of the method is obtained for the newly introduced class of generalized error bound functions. We prove that the new class of generalized error bound functions encompasses both global/local error bound functions and smooth strongly convex functions.  We also show that the theoretical estimates on the convergence rate depend on the number of blocks chosen randomly and a natural measure  of  separability of the smooth component of the objective function.
+Keywords
+partially separable functions, composite minimization, parallel random coordinate descent algorithm, rate of convergence, generalized error bound condition, 90C25, 90C06, 90C46, 65K05, 49M27, 

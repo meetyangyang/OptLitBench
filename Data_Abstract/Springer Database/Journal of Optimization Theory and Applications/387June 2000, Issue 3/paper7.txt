@@ -1,0 +1,6 @@
+On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning
+D. P. De Farias;B. Van Roy;
+Abstract
+Approximate value iteration is a simple algorithm that combats the curse of dimensionality in dynamic programs by approximating iterates of the classical value iteration algorithm in a spirit reminiscent of statistical regression. Each iteration of this algorithm can be viewed as an application of a modified dynamic programming operator to the current iterate. The hope is that the iterates converge to a fixed point of this operator, which will then serve as a useful approximation of the optimal value function. In this paper, we show that, in general, the modified dynamic programming operator need not possess a fixed point; therefore, approximate value iteration should not be expected to converge. We then propose a variant of approximate value iteration for which the associated operator is guaranteed to possess at least one fixed point. This variant is motivated by studies of temporal-difference (TD) learning, and existence of fixed points implies here existence of stationary points for the ordinary differential equation approximated by a version of TD that incorporates exploration.
+Keywords
+dynamic programming  neurodynamic programming  reinforcement learning  temporal-difference learning  value iteration  

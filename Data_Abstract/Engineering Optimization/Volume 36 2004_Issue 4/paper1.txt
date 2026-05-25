@@ -1,0 +1,6 @@
+Hybrid simplex search and particle swarm optimization for the global optimization of multimodal functions
+ Shu-kai S.   Fan ; Yun-chia   Liang ; Erwie   Zahara ;
+Abstract
+ This article proposes the hybrid Nelder–Mead (NM)–Particle Swarm Optimization (PSO) algorithm based on the NM simplex search method and PSO for the optimization of multimodal functions. The hybrid NM–PSO algorithm is very easy to implement, in practice, since it does not require gradient computation. This hybrid procedure performed the exploration with PSO and the exploitation with the NM simplex search method. In a suite of 17 multi-optima test functions taken from the literature, the computational results via various experimental studies showed that the hybrid NM–PSO approach is superior to the two original search techniques (i.e. NM and PSO) in terms of solution quality and convergence rate. In addition, the presented algorithm is also compared with eight other published methods, such as hybrid genetic algorithm (GA), continuous GA, simulated annealing (SA), and tabu search (TS) by means of a smaller set of test functions. On the whole, the new algorithm is demonstrated to be extremely effective and efficient at locating best-practice optimal solutions for multimodal functions. 
+Keywords
+Simplex search method, Particle swarm optimization, Multimodal functions 

@@ -1,0 +1,6 @@
+A primal projective interior point method for linear programming
+Donald Goldfarb;Dong Xiao;
+Abstract
+We present a new projective interior point method for linear programming with unknown optimal value. This algorithm requires only that an interior feasible point be provided. It generates a strictly decreasing sequence of objective values and within polynomial time, either determines an optimal solution, or proves that the problem is unbounded. We also analyze the asymptotic convergence rate of our method and discuss its relationship to other polynomial time projective interior point methods and the affine scaling method.
+Keywords
+Interior point methods  linear programming  fractional linear programming  projective algorithm  Karmarkar's algorithm  polynomial-type algorithm  

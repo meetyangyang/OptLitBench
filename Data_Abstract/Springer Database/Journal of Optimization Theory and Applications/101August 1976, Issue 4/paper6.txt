@@ -1,0 +1,6 @@
+Conjugate gradient versus contraction mapping
+J. C. Allwright;
+Abstract
+The solution of linear equationsCu0+b=0 foru0 is considered here, withC a positive-definite and self-adjoint operator. Such equations arise when solving quadratic optimization problems and (for example) when solving partial differential equations using finite-difference methods. A standard solution technique is to approximateC by an operatorK which is easy to invert and then to construct an algorithm of the contraction-mapping type to useK−1 iteratively to help solve the original equation. Such algorithms have long been used for solving equations of this type. The aim of the paper is to show that, for eachK, a little-known generalization of the usual conjugate-gradient algorithm has advantages over the corresponding contraction-mapping algorithm in that it has better convergence properties. In addition, it is not significantly more difficult to implement. IfK is a good approximation toC, the resulting generalized conjugate-gradient algorithm is more effective than the usual conjugate-gradient algorithm.
+Keywords
+Optimization theorems  conjugate-gradient methods  contraction-mapping principle  computing methods  open-loop control optimization  

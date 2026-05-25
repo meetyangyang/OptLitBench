@@ -1,0 +1,6 @@
+A Copositive Programming Approach to Graph Partitioning
+Janez   Povh and Franz   Rendl;
+Abstract
+We consider 3‐partitioning the vertices of a graph into sets $S_1$, $S_2$, and $S_3$ of specified cardinalities, such that the total weight of all edges joining $S_1$ and $S_2$ is minimized. This problem is closely related to several NP‐hard problems like determining the bandwidth or finding a vertex separator in a graph. We show that this problem can be formulated as a linear program over the cone of completely positive matrices, leading in a natural way to semidefinite relaxations of the problem. We show in particular that the spectral relaxation introduced by Helmberg et al. (1995) can equivalently be formulated as a semidefinite program. Finally we propose a tightened version of this semidefinite program and show on some small instances that this new bound is a significant improvement over the spectral bound.
+Keywords
+semidefinite programming, copositive programming, graph partitioning problem, bandwidth problem, vertex separator problem, 90C22, 90C27, 

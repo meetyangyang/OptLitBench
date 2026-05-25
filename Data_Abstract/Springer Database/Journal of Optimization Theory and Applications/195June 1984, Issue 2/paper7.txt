@@ -1,0 +1,6 @@
+Digital stochastic control of distributed-parameter systems
+L. Meirovitch;H. Öz;
+Abstract
+This paper presents a method for discrete-time control and estimation of flexible structures in the presence of actuator and sensor noise. The approach consists of complete decoupling of the modal equations and estimator dynamics based on the independent modal-space control technique and modal spatial filtering of the system output. The solution for the Kalman filter gains reduces to that of independent second-order modal estimators, thus permitting real-time digital control of distributed-parameter systems in a noisy environment. The method can be used to control and estimate any number of modes without computational restraints and is theoretically free of observation spillover. Two examples, the first using nonlinear, quantized control and the second using linear, state feedback control are presented.
+Keywords
+Distributed-parameter systems  digital control  stochastic independent modal-space control  independent modal-space Kalman filters  

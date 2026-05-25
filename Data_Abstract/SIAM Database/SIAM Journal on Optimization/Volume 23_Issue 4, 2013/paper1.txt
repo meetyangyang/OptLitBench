@@ -1,0 +1,6 @@
+An Optimal Algorithm for Constrained Differentiable Convex Optimization
+Clóvis C.  Gonzaga, Elizabeth W.  Karas, and Diane R.  Rossetto;
+Abstract
+We describe two algorithms for solving differentiable convex optimization problems constrained to simple sets in $\mathbb{R}^n $, i.e., sets on which it is easy to project an arbitrary point. The algorithms are optimal in the sense that they achieve an absolute precision of $ \varepsilon $ in relation to the optimal value in $ O(1/\sqrt\varepsilon) $ iterations using only first-order information. This complexity depends on an (unknown) Lipschitz constant $ L^* $ for the function derivatives and on a (known) strong convexity constant $ \mu^*\geq 0 $. The algorithms are extensions of well-known methods devised by Nesterov [Introductory Lectures on Convex Optimization, Kluwer Academic, Boston, 2004], without the need for estimates of $ L^* $ and including (in the second algorithm) line searches and an adaptive procedure for estimating a strong convexity constant. The algorithms are such that all computed points are feasible, and the complexity analysis follows a simple geometric approach. Numerical tests for box-constrained quadratic problems are presented.
+Keywords
+constrained convex optimization, optimal method, 65K05, 68Q25, 90C25, 90C60, 

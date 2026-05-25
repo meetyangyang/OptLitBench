@@ -1,0 +1,6 @@
+A Curvilinear Search Using Tridiagonal Secant Updates for Unconstrained Optimization
+J. E.  Dennis, Jr., N.  Echebest, M. T.  Guardarucci, J. M.  Martínez, H. D.  Scolnik, and C.  Vacchino;
+Abstract
+The idea of doing a curvilinear search along the Levenberg–Marquardt path $s(\mu ) =  - (H + \mu I)^{ - 1} g$ always has been appealing, but the cost of solving a linear system for each trial value of the parameter $\mu $ has discouraged its implementation. In this paper, an algorithm for searching along a path which includes $s(\mu )$ is studied. The algorithm uses a special inexpensive $Q T_c Q^T$ to $QT_+ Q^T $ Hessian update which trivializes the linear algebra required to compute $s(\mu )$. This update is based on earlier work of Dennis and Marwil and Martínez on least-change secant updates of matrix factors. The new algorithm is shown to be local and q-superlinearly convergent to stationary points, and to be globally q-superlinearly convergent for quasi-convex functions. Computational tests are given that show the new algorithm to be robust and efficient.
+Keywords
+unconstrained optimization, trust regions, curvilinear search, Levenberg–Marquardt, factor updating, least change secant methods, 65K, 

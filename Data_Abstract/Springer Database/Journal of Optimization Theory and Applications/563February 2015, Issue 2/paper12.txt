@@ -1,0 +1,6 @@
+Simultaneous Perturbation Newton Algorithms for Simulation Optimization
+Shalabh Bhatnagar;L. A. Prashanth;
+Abstract
+We present a new Hessian estimator based on the simultaneous perturbation procedure, that requires three system simulations regardless of the parameter dimension. We then present two Newton-based simulation optimization algorithms that incorporate this Hessian estimator. The two algorithms differ primarily in the manner in which the Hessian estimate is used. Both our algorithms do not compute the inverse Hessian explicitly, thereby saving on computational effort. While our first algorithm directly obtains the product of the inverse Hessian with the gradient of the objective, our second algorithm makes use of the Sherman–Morrison matrix inversion lemma to recursively estimate the inverse Hessian. We provide proofs of convergence for both our algorithms. Next, we consider an interesting application of our algorithms on a problem of road traffic control. Our algorithms are seen to exhibit better performance than two Newton algorithms from a recent prior work.
+Keywords
+Newton algorithms  Stochastic approximation  Simultaneous perturbation stochastic approximation  Three-simulation  Hessian estimate  Sherman–Morrison lemma  Application to road traffic control  

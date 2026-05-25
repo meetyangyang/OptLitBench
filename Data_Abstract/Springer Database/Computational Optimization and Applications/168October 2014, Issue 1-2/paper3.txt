@@ -1,0 +1,6 @@
+Faster, but weaker, relaxations for quadratically constrained quadratic programs
+Samuel Burer;Sunyoung Kim;Masakazu Kojima;
+Abstract
+We introduce a new relaxation framework for nonconvex quadratically constrained quadratic programs (QCQPs). In contrast to existing relaxations based on semidefinite programming (SDP), our relaxations incorporate features of both SDP and second order cone programming (SOCP) and, as a result, solve more quickly than SDP. A downside is that the calculated bounds are weaker than those gotten by SDP. The framework allows one to choose a block-diagonal structure for the mixed SOCP-SDP, which in turn allows one to control the speed and bound quality. For a fixed block-diagonal structure, we also introduce a procedure to improve the bound quality without increasing computation time significantly. The effectiveness of our framework is illustrated on a large sample of QCQPs from various sources.
+Keywords
+Nonconvex quadratic programming  Semidefinite programming  Second-order cone programming  Difference of convex  

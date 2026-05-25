@@ -1,0 +1,6 @@
+Parallel machine scheduling with high multiplicity
+John J. Clifford;Marc E. Posner;
+Abstract
+In high-multiplicity scheduling problems, identical jobs are encoded in the efficient format of describing one of the jobs and the number of identical jobs. Similarly, identical machines are efficiently encoded in the same manner. We investigate parallel-machine, high-multiplicity problems, where there are three possible machine speed structures: identical, proportional, or unrelated. For the objectives of minimizing the sum of job completion times and minimizing the makespan, we consider both nonpreemptive and preemptive problems. For some problems, we develop polynomial time algorithms. For several problems, we demonstrate that the recognition versions can be solved in polynomial time, while the optimization versions require pseudo-polynomial time. We also show that changing from standard binary encoding to high-multiplicity encoding does not affect the complexity class of NP-complete problems.
+Keywords
+Key words: sequencing – deterministic – parallel machine – high multiplicity – computational complexity  Mathematics Subject Classification (2000): 90-08, 90B35  

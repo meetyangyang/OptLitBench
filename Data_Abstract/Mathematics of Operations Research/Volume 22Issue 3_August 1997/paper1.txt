@@ -1,0 +1,6 @@
+Scheduling to Minimize Average Completion Time: Off-Line and On-Line Approximation Algorithms
+Leslie A. Hall;Andreas S. Schulz;David B. Shmoys;Joel Wein;
+Abstract
+In this paper we introduce two general techniques for the design and analysis of approximation algorithms for 𝒩𝒫-hard scheduling problems in which the objective is to minimize the weighted sum of the job completion times. For a variety of scheduling models, these techniques yield the first algorithms that are guaranteed to find schedules that have objective function value within a constant factor of the optimum. In the first approach, we use an optimal solution to a linear programming relaxation in order to guide a simple list-scheduling rule. Consequently, we also obtain results about the strength of the relaxation. Our second approach yields on-line algorithms for these problems: in this setting, we are scheduling jobs that continually arrive to be processed and, for each time t, we must construct the schedule until time t without any knowledge of the jobs that will arrive afterwards. Our on-line technique yields constant performance guarantees for a variety of scheduling environments, and in some cases essentially matches the performance of our off-line LP-based algorithms.
+Keywords
+scheduling approximation on-line algorithm linear programming 

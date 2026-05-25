@@ -1,0 +1,6 @@
+On the equivalence of the max-min transportation lower bound and the time-indexed lower bound for single-machine scheduling problems
+Yunpeng Pan;Leyuan Shi;
+Abstract
+New observations are made about two lower bound schemes for single-machine min-sum scheduling problems. We find that the strongest bound of those provided by transportation problem relaxations can be computed by solving a linear program. We show the equivalence of this strongest bound and the bound provided by the LP relaxation of the time-indexed integer programming formulation. These observations lead to a new lower bound scheme that yields fast approximation of the time-indexed bound. Several techniques are developed to facilitate the effective use of the new lower bound in branch-and-bound. Numerical experiments are conducted on 375 benchmark problems of the total weighted tardiness problem from OR-Library. Results obtained with our new method are spectacular; we are able to solve all 125 open problems to optimality.
+Keywords
+Scheduling  Combinatorial optimization  Time-indexing  

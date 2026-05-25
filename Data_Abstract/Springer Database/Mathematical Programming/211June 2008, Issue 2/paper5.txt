@@ -1,0 +1,6 @@
+Comparison of bundle and classical column generation
+O. Briant;C. Lemaréchal;Ph. Meurdesoif;S. Michel;N. Perrot;F. Vanderbeck;
+Abstract
+When a column generation approach is applied to decomposable mixed integer programming problems, it is standard to formulate and solve the master problem as a linear program. Seen in the dual space, this results in the algorithm known in the nonlinear programming community as the cutting-plane algorithm of Kelley and Cheney-Goldstein. However, more stable methods with better theoretical convergence rates are known and have been used as alternatives to this standard. One of them is the bundle method; our aim is to illustrate its differences with Kelley’s method. In the process we review alternative stabilization techniques used in column generation, comparing them from both primal and dual points of view. Numerical comparisons are presented for five applications: cutting stock (which includes bin packing), vertex coloring, capacitated vehicle routing, multi-item lot sizing, and traveling salesman. We also give a sketchy comparison with the volume algorithm.
+Keywords
+Lagrangian duality  Dantzig–Wolfe decomposition  Stabilized column generation  Cutting-plane algorithms  Bundle algorithm  Volume algorithm  Nonsmooth convex optimization  66K05  90C25  90C27  

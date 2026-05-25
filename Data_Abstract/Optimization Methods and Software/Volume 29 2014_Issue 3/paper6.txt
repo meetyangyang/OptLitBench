@@ -1,0 +1,6 @@
+Spline regression models for complex multi-modal regulatory networks
+A. Özmen;E. Kropat;G.-W. Weber;
+Abstract
+Complex regulatory networks often have to be further expanded and improved with regard to the unknown effects of additional parameters and factors that can emit a disturbing influence on the key variables under consideration. The concept of target-environment (TE) networks provides a holistic framework for the analysis of such parameter-dependent multi-modal systems. In this study, we consider time-discrete TE regulatory systems with spline entries. We introduce a new regression model for these particular two-modal systems that allows us to determine the unknown system parameters by applying the multivariate adaptive regression spline (MARS) technique and the newly developed conic multivariate adaptive regression spline (CMARS) method. We obtain a relaxation by means of continuous optimization, especially, conic quadratic programming (CQP) that could be conducted by interior point methods. Finally, a numerical example demonstrates the efficiency of the spline-based approach.
+Keywords
+regulatory network, gene-environment networks, eco-finance networks, spline regression, CQP, MARS, CMARS 

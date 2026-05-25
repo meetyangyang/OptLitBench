@@ -1,0 +1,6 @@
+A note on an implementation of a method for quadratic semi-infinite programming
+R. Hettich;G. Gramlich;
+Abstract
+For convex quadratic semi-infinite programming problems aFortran-package is described. A first coarse grid is successively refined in such a way that the solution on the foregoing grids can be used on the one hand as starting points for the subsequent grids and on the other hand to considerably reduce the number of constraints which have to be considered in the subsequent problems. This enables an efficient treatment of large problems with moderate storage requirements. Powell's (1983) numerically stable convex quadratic programming implementation is used to solve the QP-subproblems.
+Keywords
+49D39  65K05  Convex quadratic semi-infinite programming  discretization  grid-refinement  

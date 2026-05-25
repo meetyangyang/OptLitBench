@@ -1,0 +1,6 @@
+A Priori Error Estimates for Space-Time Finite Element Discretization of Parabolic Optimal Control Problems Part I: Problems Without Control Constraints
+Dominik  Meidner and Boris  Vexler;
+Abstract
+In this paper we develop a priori error analysis for Galerkin finite element discretizations of optimal control problems governed by linear parabolic equations. The space discretization of the state variable is done using usual conforming finite elements, whereas the time discretization is based on discontinuous Galerkin methods. For different types of control discretizations we provide error estimates of optimal order with respect to both space and time discretization parameters. The paper is divided into two parts. In the first part we develop some stability and error estimates for space-time discretization of the state equation and provide error estimates for optimal control problems without control constraints. In the second part of the paper, the techniques and results of the first part are used to develop a priori error analysis for optimal control problems with pointwise inequality constraints on the control variable.
+Keywords
+optimal control, parabolic equations, error estimates, finite elements, 49N10, 49M25, 65M15, 65M60, 

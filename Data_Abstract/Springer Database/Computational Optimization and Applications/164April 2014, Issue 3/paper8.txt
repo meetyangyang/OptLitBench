@@ -1,0 +1,6 @@
+Adaptive sequencing of primal, dual, and design steps in simulation based optimization
+Torsten Bosse;Lutz Lehmann;Andreas Griewank;
+Abstract
+Many researchers have used Oneshot optimization methods based on user-specified primal state iterations, the corresponding adjoint iterations, and appropriately preconditioned design steps. Our goal here is to develop heuristics for sequencing these three subtasks, in order to optimize the convergence rate of the resulting coupled iteration cycle. A key ingredient is the preconditioning in the design step by a BFGS approximation of the projected Hessian. We provide a hard bound on the spectral radius of the coupled iteration cycle at local minima satisfying second order sufficiency conditions. Finally, we show how certain problem specific parameters can be estimated by local samples and be used to steer the whole process adaptively. We present limited numerical results that confirm the theoretical analysis.
+Keywords
+Optimization  PDE constraint  Algorithmic differentiation  Multistep Oneshot  Preconditioning matrices  Convergence rates  Second order sufficiency conditions  Bounded retardation factor  Eigenvalue analysis  

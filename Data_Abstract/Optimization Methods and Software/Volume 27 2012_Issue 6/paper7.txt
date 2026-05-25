@@ -1,0 +1,6 @@
+Training robust support vector regression with smooth non-convex loss function
+ Ping   Zhong ;
+Abstract
+ The classical support vector machines are constructed based on convex loss functions. Recently, support vector machines with non-convex loss functions have attracted much attention for their superiority to the classical ones in generalization accuracy and robustness. In this paper, we propose a non-convex loss function to construct a robust support vector regression (SVR). The introduced non-convex loss function includes several truncated loss functions as its special cases. The resultant optimization problem is a difference of convex functions program. We employ the concave–convex procedure and develop a Newton-type algorithm to solve it, which can both retain the sparseness of SVR and oppress outliers in the training samples. The experiments on both synthetic and real-world benchmark data sets confirm the robustness and effectiveness of the proposed method. 
+Keywords
+support vector machine, regression, loss function, robustness, d.c. optimization, newton method AMS Subject Classification : 65K05, 68T10, 68Q32 

@@ -1,0 +1,6 @@
+Relaxed Most Negative Cycle and Most Positive Cut Canceling Algorithms for Minimum Cost Flow
+Maiko Shigeno;Satoru Iwata;S. Thomas McCormick;
+Abstract
+This paper presents two new scaling algorithms for the minimum cost network flow problem, one a primal cycle canceling algorithm, the other a dual cut canceling algorithm. Both algorithms scale a relaxed optimality parameter, and create a second, inner relaxation. The primal algorithm uses the inner relaxation to cancel a most negative node-disjoint family of cycles w.r.t. the scaled parameter, the dual algorithm uses it to cancel most positive cuts w.r.t. the scaled parameter. We show that in a network with n nodes and m arcs, both algorithms need to cancel only O(mn) objects per scaling phase.Furthermore, we show how to efficiently implement both algorithms to yield weakly polynomial running times that are as fast as any other cycle or cut canceling algorithms. Our algorithms have potential practical advantages compared to some other canceling algorithms as well.Along the way, we give a comprehensive survey of cycle and cut canceling algorithms for min-cost flow. We also clarify the formal duality between cycles and cuts.
+Keywords
+Minimum cost flow scaling relaxed optimality cycle canceling cut canceling 

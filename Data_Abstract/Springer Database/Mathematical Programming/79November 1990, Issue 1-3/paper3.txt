@@ -1,0 +1,6 @@
+Deriving collinear scaling algorithms as extensions of quasi-Newton methods and the local convergence of DFP- and BFGS-related collinear scaling algorithms
+K. A. Ariyawansa;
+Abstract
+This paper is concerned with collinear scaling algorithms for unconstrained minimization where the underlying local approximants are forced to interpolate the objective function value and gradient at only the two most recent iterates. By suitably modifying the procedure of Sorensen (1980) for deriving such algorithms, we show that two members of the algorithm class derived related to the DFP and BFGS methods respectively are locally and q-superlinearly convergent. This local analysis as well as the results they yield exhibit the same sort of “duality” exhibited by those of Broyden, Dennis and Moré (1973) and Dennis and Moré (1974) for the DFP and BFGS methods. The results in this paper also imply the local and q-superlinear convergence of collinear scaling algorithms of Sorensen (1982, pp. 154–156) related to the DFP and BFGS methods.
+Keywords
+Quasi-Newton methods  collinear scalings  conic approximations  local and q-superlinear convergence  

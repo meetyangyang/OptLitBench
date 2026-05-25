@@ -1,0 +1,6 @@
+An efficient gradient method with approximate optimal stepsize for the strictly convex quadratic minimization problem
+Zexian Liu;Hongwei Liu;Xiaoliang Dong;
+Abstract
+In this paper, a new type of stepsize, approximate optimal stepsize, for gradient method is introduced to interpret the Barzilai–Borwein (BB) method, and an efficient gradient method with an approximate optimal stepsize for the strictly convex quadratic minimization problem is presented. Based on a multi-step quasi-Newton condition, we construct a new quadratic approximation model to generate an approximate optimal stepsize. We then use the two well-known BB stepsizes to truncate it for improving numerical effects and treat the resulted approximate optimal stepsize as the new stepsize for gradient method. We establish the global convergence and R-linear convergence of the proposed method. Numerical results show that the proposed method outperforms some well-known gradient methods.
+Keywords
+Barzilai–Borwein (BB) method, BFGS update formula, approximating optimal stepsize, strictly convex quadratic minimization, gradient method 

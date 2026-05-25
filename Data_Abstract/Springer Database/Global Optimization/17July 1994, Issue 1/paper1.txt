@@ -1,0 +1,6 @@
+A finite concave minimization algorithm using branch and bound and neighbor generation
+Harold P. Benson;Serpil Sayin;
+Abstract
+In this article we present a new finite algorithm for globally minimizing a concave function over a compact polyhedron. The algorithm combines a branch and bound search with a new process called neighbor generation. It is guaranteed to find an exact, extreme point optimal solution, does not require the objective function to be separable or even analytically defined, requires no nonlinear computations, and requires no determinations of convex envelopes or underestimating functions. Linear programs are solved in the branch and bound search which do not grow in size and differ from one another in only one column of data. Some preliminary computational experience is also presented.
+Keywords
+Concave minimization  branch and bound  global optimization  

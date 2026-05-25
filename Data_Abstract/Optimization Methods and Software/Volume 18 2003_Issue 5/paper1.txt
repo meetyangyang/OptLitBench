@@ -1,0 +1,6 @@
+Polynomial Interior Point Cutting Plane Methods
+ John   E.   Mitchell ;
+Abstract
+ Polynomial cutting plane methods based on the logarithmic barrier function and on the volumetric center are surveyed. These algorithms construct a linear programing relaxation of the feasible region, find an appropriate approximate center of the region, and call a separation oracle at this approximate center to determine whether additional constraints should be added to the relaxation. Typically, these cutting plane methods can be developed so as to exhibit polynomial convergence. The volumetric cutting plane algorithm achieves the theoretical minimum number of calls to a separation oracle. Long-step versions of the algorithms for solving convex optimization problems are presented. 
+Keywords
+Convex optimization, Cutting plane methods, Nonsmooth optimization, Volumetric center, Analytic center 

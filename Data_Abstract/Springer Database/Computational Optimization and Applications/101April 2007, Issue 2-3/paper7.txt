@@ -1,0 +1,8 @@
+Prim-based support-graph preconditioners for min-cost flow problems
+A. Frangioni;C. Gentile;
+Abstract
+
+Support-graph preconditioners have been shown to be a valuable tool for the iterative solution, via a Preconditioned Conjugate Gradient method, of the KKT systems that must be solved at each iteration of an Interior Point algorithm for the solution of Min Cost Flow problems. These preconditioners extract a proper triangulated subgraph, with “large” weight, of the original graph: in practice, trees and Brother-Connected Trees (BCTs) of depth two have been shown to be the most computationally efficient families of subgraphs. In the literature, approximate versions of the Kruskal algorithm for maximum-weight spanning trees have most often been used for choosing the subgraphs; Prim-based approaches have been used for trees, but no comparison have ever been reported. We propose Prim-based heuristics for BCTs, which require nontrivial modifications w.r.t. the previously proposed Kruskal-based approaches, and present a computational comparison of the different approaches, which shows that Prim-based heuristics are most often preferable to Kruskal-based ones.
+
+Keywords
+Min-cost flow problems  Interior point algorithms  Preconditioned conjugated gradient method  Prim algorithm  

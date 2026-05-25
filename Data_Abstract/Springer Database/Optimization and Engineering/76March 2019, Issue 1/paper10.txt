@@ -1,0 +1,6 @@
+A convex optimization approach to radiation treatment planning with dose constraints
+Anqi Fu;Barıṣ Ungun;Lei Xing;Stephen Boyd;
+Abstract
+We present a method for handling dose constraints as part of a convex programming framework for inverse treatment planning. Our method uniformly handles mean dose, maximum dose, minimum dose, and dose-volume (i.e., percentile) constraints as part of a convex formulation. Since dose-volume constraints are non-convex, we replace them with a convex restriction. This restriction is, by definition, conservative; to mitigate its impact on the clinical objectives, we develop a two-pass planning algorithm that allows each dose-volume constraint to be met exactly on a second pass by the solver if its corresponding restriction is feasible on the first pass. In another variant, we add slack variables to each dose constraint to prevent the problem from becoming infeasible when the user specifies an incompatible set of constraints or when the constraints are made infeasible by our restriction. Finally, we introduce ConRad, a Python-embedded open-source software package for convex radiation treatment planning. ConRad implements the methods described above and allows users to construct and plan cases through a simple interface.
+Keywords
+Optimization  Convex optimization  Radiation therapy  Treatment planning  

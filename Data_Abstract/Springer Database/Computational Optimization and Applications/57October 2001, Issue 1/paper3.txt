@@ -1,0 +1,6 @@
+Maximization of the Ratio of Two Convex Quadratic Functions over a Polytope
+Jun-Ya Gotoh;Hiroshi Konno;
+Abstract
+In this paper, we will develop an algorithm for solving a quadratic fractional programming problem which was recently introduced by Lo and MacKinlay to construct a maximal predictability portfolio, a new approach in portfolio analysis. The objective function of this problem is defined by the ratio of two convex quadratic functions, which is a typical global optimization problem with multiple local optima. We will show that a well-designed branch-and-bound algorithm using (i) Dinkelbach's parametric strategy, (ii) linear overestimating function and (iii) ω-subdivision strategy can solve problems of practical size in an efficient way. This algorithm is particularly efficient for Lo-MacKinlay's problem where the associated nonconvex quadratic programming problem has low rank nonconcave property.
+Keywords
+fractional programming  Dinkebach's approach  branch and bound algorithm  global optimization  maximizing predictability portfolio  

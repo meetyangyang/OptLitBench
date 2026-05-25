@@ -1,0 +1,6 @@
+A fast implementation for the 2D/3D box placement problem
+Wenbin Zhu;Zhixing Luo;Andrew Lim;Wee-Chong Oon;
+Abstract
+The box placement problem involves finding a location to place a rectangular box into a container given n rectangular boxes that have already been placed. It commonly arises as a subproblem in many algorithms for cutting stock problems as well as 2D/3D packing problems. We show that the box placement problem is closely related to some well-studied problems in computational geometry, such as the maximum depth problem and Klee’s measure problem. This allows us to leverage on existing techniques for these problems to develop new algorithms for the box placement problem that are not only conceptually simpler but also asymptotically fastest for 2D and faster than existing approaches for 3D. Our implementations rely on augmenting the standard segment tree for 2D or quadtree for 3D, and can be directly incorporated as subroutines into many algorithms for cutting and packing problems.
+Keywords
+Packing  Cutting  Rectangle placement  Box placement  VLSI layout  

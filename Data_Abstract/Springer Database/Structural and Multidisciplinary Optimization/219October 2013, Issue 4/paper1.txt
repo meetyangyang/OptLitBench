@@ -1,0 +1,6 @@
+A critical comparative assessment of differential equation-driven methods for structural topology optimization
+Arun L. Gain;Glaucio H. Paulino;
+Abstract
+In recent years, differential equation-driven methods have emerged as an alternate approach for structural topology optimization. In such methods, the design is evolved using special differential equations. Implicit level-set methods are one such set of approaches in which the design domain is represented in terms of implicit functions and generally (but not necessarily) use the Hamilton-Jacobi equation as the evolution equation. Another set of approaches are referred to as phase-field methods; which generally use a reaction-diffusion equation, such as the Allen-Cahn equation, for topology evolution. In this work, we exhaustively analyze four level-set methods and one phase-field method, which are representative of the literature. In order to evaluate performance, all the methods are implemented in MATLAB and studied using two-dimensional compliance minimization problems.
+Keywords
+Differential equation-driven methods  Level-set method  Hamilton-Jacobi equation  Phase-field method  Allen-Cahn equation  Compliance minimization  

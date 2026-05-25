@@ -1,0 +1,4 @@
+A Hybrid Approach for Solving Shift-Selection and Task-Sequencing Problems
+Ada Barlatt;Amy M. Cohn;Oleg Gusikhin;
+Abstract
+A common problem in production planning is to sequence a series of tasks so as to meet demand while satisfying operational constraints. This problem can be challenging to solve in its own right. It becomes even more challenging when higher-level decisions are also taken into account, such as which shifts should be selected to accommodate production. In this paper, we introduce the Shift-Selection and Task Sequencing (SS-TS) problem, develop the hybrid Test-and-Prune algorithm (T&P) to solve SS-TS, and present computational experiments based on a real-world problem in automotive stamping to demonstrate its effectiveness. In particular, we are able to solve, in very short run times, a number of problem instances that could not be solved through traditional integer programming methods.

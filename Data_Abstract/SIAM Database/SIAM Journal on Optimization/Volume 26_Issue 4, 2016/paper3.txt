@@ -1,0 +1,6 @@
+Augmented Lagrangian Methods for the Solution of Generalized Nash Equilibrium Problems
+Christian  Kanzow and Daniel  Steck;
+Abstract
+We propose an augmented Lagrangian-type algorithm for the solution of generalized Nash equilibrium problems (GNEPs). Specifically, we discuss the convergence properties with regard to both feasibility and optimality of limit points. This is done by introducing a secondary GNEP as a new optimality concept. In this context, special consideration is given to the role of suitable constraint qualifications that take into account the particular structure of GNEPs. Furthermore, we consider the behavior of the method for jointly convex GNEPs and describe a modification which is tailored towards the computation of variational equilibria. Numerical results are included to illustrate the practical performance of the overall method.
+Keywords
+Nash equilibrium problem, generalized Nash equilibrium problem, jointly convex problem, augmented Lagrangian method, global convergence, 65K10, 90C33, 91A10, 

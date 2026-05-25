@@ -1,0 +1,8 @@
+Structured minimal-memory inexact quasi-Newton method and secant preconditioners for augmented Lagrangian optimization
+E. G. Birgin;J. M. Martínez;
+Abstract
+
+Augmented Lagrangian methods for large-scale optimization usually require efficient algorithms for minimization with box constraints. On the other hand, active-set box-constraint methods employ unconstrained optimization algorithms for minimization inside the faces of the box. Several approaches may be employed for computing internal search directions in the large-scale case. In this paper a minimal-memory quasi-Newton approach with secant preconditioners is proposed, taking into account the structure of Augmented Lagrangians that come from the popular Powell–Hestenes–Rockafellar scheme. A combined algorithm, that uses the quasi-Newton formula or a truncated-Newton procedure, depending on the presence of active constraints in the penalty-Lagrangian function, is also suggested. Numerical experiments using the Cute collection are presented.
+
+Keywords
+Nonlinear programming  Augmented Lagrangian methods  Box constraints  Quasi-Newton  Truncated-Newton  

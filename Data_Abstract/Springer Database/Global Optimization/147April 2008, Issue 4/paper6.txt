@@ -1,0 +1,6 @@
+Geometric dual formulation for first-derivative-based univariate cubic L 1 splines
+Y. B. Zhao;S.-C. Fang;J. E. Lavery;
+Abstract
+With the objective of generating “shape-preserving” smooth interpolating curves that represent data with abrupt changes in magnitude and/or knot spacing, we study a class of first-derivative-based \(\mathcal{C}^1\)-smooth univariate cubic L 1 splines. An L 1 spline minimizes the L 1 norm of the difference between the first-order derivative of the spline and the local divided difference of the data. Calculating the coefficients of an L 1 spline is a nonsmooth non-linear convex program. Via Fenchel’s conjugate transformation, the geometric dual program is a smooth convex program with a linear objective function and convex cubic constraints. The dual-to-primal transformation is accomplished by solving a linear program.
+Keywords
+Conjugate function  Convex program  Cubic L1 spline  Shape-preserving interpolation  Piecewise polynomial  

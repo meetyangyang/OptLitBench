@@ -1,0 +1,6 @@
+An accelerated Newton method for equations with semismooth Jacobians and nonlinear complementarity problems
+Christina Oberlin;Stephen J. Wright;
+Abstract
+We discuss local convergence of Newton’s method to a singular solution x * of the nonlinear equations F(x) =  0, for \(F:{\mathbb{R}}^n \rightarrow {\mathbb{R}}^n\) . It is shown that an existing proof of Griewank, concerning linear convergence to a singular solution x * from a starlike domain around x * for F twice Lipschitz continuously differentiable and x * satisfying a particular regularity condition, can be adapted to the case in which F′ is only strongly semismooth at the solution. Further, Newton’s method can be accelerated to produce fast linear convergence to a singular solution by overrelaxing every second Newton step. These results are applied to a nonlinear-equations reformulation of the nonlinear complementarity problem (NCP) whose derivative is strongly semismooth when the function f arising in the NCP is sufficiently smooth. Conditions on f are derived that ensure that the appropriate regularity conditions are satisfied for the nonlinear-equations reformulation of the NCP at x *.
+Keywords
+Nonlinear equations  Semismooth functions  Newton’s method  Nonlinear complementarity problems  65H10  90C33  

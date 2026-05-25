@@ -1,0 +1,6 @@
+On the Average Waiting Time for Regular Routing to Deterministic Queues
+Arie Hordijk;Dinard van der Laan;
+Abstract
+We consider a deterministic queueing system in which N ≥ 2 servers of different speeds operate in parallel. Each service in queue i takes the deterministic time Si. Identical customers arrive exactly one per time unit, and it is desirable to route them to the queues so that the average waiting time (we consider as waiting time the time a customer waits in the buffer of a queue, and thus the service time is not included in this) is minimized. We provide an algorithm to compute lower and upper bounds on this quantity. The upper bound is found by showing that there is a periodic policy for which the average waiting time is no greater than the lower bound plus (N / 2) − 1. Thus, the bounds coincide when N = 2. For obtaining the lower bound, we give explicit formulae for the average waiting time in case of regular routing to a deterministic queue.
+Keywords
+parallel queues average waiting time optimal routing regular sequence continued fraction expansion Farey interval 

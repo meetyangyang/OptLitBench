@@ -1,0 +1,6 @@
+Alternating direction splitting for block Angular parallel optimization
+S. Kontogiorgis;R. De Leone;R. R. Meyer;
+Abstract
+We develop and compare three decomposition algorithms derived from the method of alternating directions. They may be viewed as block Gauss-Seidel variants of augmented Lagrangian approaches that take advantage of block angular structure. From a parallel computation viewpoint, they are ideally suited to a data parallel environment. Numerical results for large-scale multicommodity flow problems are presented to demonstrate the effectiveness of these decomposition algorithmims on the Thinking Machines CM-5 parallel supercomputer relative to the widely-used serial optimization package MINOS 5.4.
+Keywords
+Alternating directions method  block angular optimization  parallel computation  multicommodity flows  

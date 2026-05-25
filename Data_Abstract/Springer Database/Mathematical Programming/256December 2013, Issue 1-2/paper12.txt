@@ -1,0 +1,6 @@
+A very simple SQCQP method for a class of smooth convex constrained minimization problems with nice convergence results
+Alfred Auslender;
+Abstract
+We introduce a new and very simple algorithm for a class of smooth convex constrained minimization problems which is an iterative scheme related to sequential quadratically constrained quadratic programming methods, called sequential simple quadratic method (SSQM). The computational simplicity of SSQM, which uses first-order information, makes it suitable for large scale problems. Theoretical results under standard assumptions are given proving that the whole sequence built by the algorithm converges to a solution and becomes feasible after a finite number of iterations. When in addition the objective function is strongly convex then asymptotic linear rate of convergence is established.
+Keywords
+Smooth convex constrained minimization  Quadratically constrained quadratic programming  Sequential quadratic programming  Convergence rate  Optimal projected gradient schemes  Primary 90C30  90C33  

@@ -1,0 +1,6 @@
+Robust ν-support vector machine based on worst-case conditional value-at-risk minimization
+ Yongqiao   Wang ;
+Abstract
+ By minimizing the conditional expectation of random loss in the 1−β worst case, the performance of the ν-support vector machine (SVM) severely depends on its assumption on the underlying distribution. This paper proposes a robust ν-SVM based on worst-case conditional value-at-risk (WCCVaR) minimization, which assumes that the underlying distribution comes from a certain set of potential distributions and minimizes the maximum CVaR associated with these distributions. The problem can be transformed into a quadratic programme and handle nonlinear classification problems. Experiments on six data sets clearly show that the robust approach can achieve superior results than the ν-SVM. 
+Keywords
+Kernel methods, ν-support vector machine, conditional value-at-risk, robust programming AMS Subject Classification : 90C15, 90C20, 97R40 

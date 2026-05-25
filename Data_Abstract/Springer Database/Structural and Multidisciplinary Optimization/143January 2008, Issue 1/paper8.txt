@@ -1,0 +1,6 @@
+A new look at ESO and BESO optimization methods
+X. Huang;Y. M. Xie;
+Abstract
+The “hard-kill” optimization methods such as evolutionary structural optimization (ESO) and bidirectional evolutionary structural optimization (BESO) may result in a nonoptimal design (Zhou and Rozvany in Struct Multidisc Optim 21:80–83, 2001) when these methods are implemented and used inadequately. This note further examines this important problem and shows that failure of ESO may occur when a prescribed boundary support is broken for a statically indeterminate structure. When a boundary support is broken, the structural system could be completely changed from the one originally defined in the initial design and even BESO would not be able to rectify the nonoptimal design. To avoid this problem, it is imperative that the prescribed boundary conditions for the structure be checked and maintained at each iteration during the optimization process. Several simple procedures for solving this problem are suggested. The benchmark problem proposed by Zhou and Rozvany (Struct Multidisc Optim 21:80–83, 2001) is revisited, and it is shown that the highly nonoptimal design can be easily avoided.
+Keywords
+“Hard-kill” optimization methods  Evolutionary structural optimization (ESO)  Bidirectional evolutionary structural optimization (BESO)  

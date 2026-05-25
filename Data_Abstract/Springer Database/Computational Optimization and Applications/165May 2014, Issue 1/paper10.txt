@@ -1,0 +1,6 @@
+Computing the partial conjugate of convex piecewise linear-quadratic bivariate functions
+Bryan Gardiner;Khan Jakee;Yves Lucet;
+Abstract
+Piecewise linear-quadratic (PLQ) functions are an important class of functions in convex analysis since the result of most convex operators applied to a PLQ function is a PLQ function. We modify a recent algorithm for computing the convex (Legendre-Fenchel) conjugate of convex PLQ functions of two variables, to compute its partial conjugate i.e. the conjugate with respect to one of the variables. The structure of the original algorithm is preserved including its time complexity (linear time with some approximation and log-linear time without approximation). Applying twice the partial conjugate (and a variable switching operator) recovers the full conjugate. We present our partial conjugate algorithm, which is more flexible and simpler than the original full conjugate algorithm. We emphasize the difference with the full conjugate algorithm and illustrate results by computing partial conjugates, partial Moreau envelopes, and partial proximal averages.
+Keywords
+Legendre-Fenchel transform  Convex conjugate  Piecewise linear-quadratic functions  Computational convex analysis  Partial conjugate  

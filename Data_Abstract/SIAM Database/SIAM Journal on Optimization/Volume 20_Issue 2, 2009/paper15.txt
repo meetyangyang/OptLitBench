@@ -1,0 +1,6 @@
+Mathematical Programs with Complementarity Constraints in Function Space: C- and Strong Stationarity and a Path-Following Algorithm
+M.  Hintermüller and I.  Kopacka;
+Abstract
+An optimal control problem governed by an elliptic variational inequality is studied. The feasible set of the problem is relaxed, and a path–following-type method is used to regularize the constraint on the state variable. First order optimality conditions for the relaxed-regularized subproblems are derived, and convergence of stationary points with respect to the relaxation and regularization parameters is shown. In particular, C- and strong stationarity as well as variants thereof are studied. The subproblems are solved by using semismooth Newton methods. The overall algorithmic concept is provided, and its performance is discussed by means of examples, including problems with bilateral constraints and a nonsymmetric operator.
+Keywords
+constrained optimal control, mathematical programs with complementarity constraints, MPEC, MPCC, Moreau–Yosida regularization, semismooth Newton method, C- and strong stationarity, 49K20, 49M37, 65K05, 90C33, 

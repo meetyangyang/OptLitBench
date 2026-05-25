@@ -1,0 +1,6 @@
+General Projective Splitting Methods for Sums of Maximal Monotone Operators
+Jonathan  Eckstein and B. F.  Svaiter;
+Abstract
+We describe a general projective framework for finding a zero of the sum of n maximal monotone operators over a real Hilbert space. Unlike prior methods for this problem, we neither assume $n=2$ nor first reduce the problem to the case $n=2$. Our analysis defines a closed convex extended solution set for which we can construct a separating hyperplane by individually evaluating the resolvent of each operator. At the cost of a single, computationally simple projection step, this framework gives rise to a family of splitting methods of unprecedented flexibility: numerous parameters, including the proximal stepsize, may vary by iteration and by operator. The order of operator evaluation may vary by iteration and may be either serial or parallel. The analysis essentially generalizes our prior results for the case $n=2$. We also include a relative error criterion for approximately evaluating resolvents, which was not present in our earlier work.
+Keywords
+monotone operators, splitting algorithms, proximal algorithms, 49M27, 47H05, 47J25, 65J20, 

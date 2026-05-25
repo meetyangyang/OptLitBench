@@ -1,0 +1,6 @@
+Lex-Optimal Online Multiclass Scheduling with Hard Deadlines
+Bruce Hajek;Pierre Seri;
+Abstract
+Online scheduling of unit-length packets with hard deadlines by a single server in slotted time is considered. First, the throughput optimal scheduling policies are characterized. Then multiclass packets are considered in which each packet has an M-bit class identifier, and a new optimality property called lex-optimality (short for lexicographic optimality) is defined for online scheduling policies. Lex-optimality is a hierarchical sequence of M throughput optimality properties. The lex-optimal policies that do not drop packets early are characterized. Both characterizations involve identification of a “no-regret subset” of the set of packets available for scheduling in a given slot.A lex-optimal scheduling algorithm is presented with complexity per packet O(MB), where M is the log of the number of priority classes and B is the maximum buffer size. The algorithm requires no more packets to be buffered than any online, throughput optimal scheduling policy. Simulation results are presented that illustrate that lex-optimality combines elements of pure priority and nested priority scheduling.
+Keywords
+online scheduling priority deadlines multiclass queues competitive optimality 

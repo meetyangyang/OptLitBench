@@ -1,0 +1,6 @@
+Learning Algorithms for Separable Approximations of Discrete Stochastic Optimization Problems
+Warren Powell;Andrzej Ruszczyński;Huseyin Topaloglu;
+Abstract
+We propose the use of sequences of separable, piecewise linear approximations for solving nondifferentiable stochastic optimization problems. The approximations are constructed adaptively using a combination of stochastic subgradient information and possibly sample information on the objective function itself. We prove the convergence of several versions of such methods when the objective function is separable and has integer break points, and we illustrate their behavior on numerical examples. We then demonstrate the performance on nonseparable problems that arise in the context of two-stage stochastic programming problems, and demonstrate that these techniques provide near-optimal solutions with a very fast rate of convergence compared with other solution techniques.
+Keywords
+stochastic programming dynamic programming 

@@ -1,0 +1,6 @@
+LPAKO: A Simplex-based Linear Programming Program
+ Sungmook   Lim ; Soondal   Park ;
+Abstract
+ LPAKO is a public domain simplex-based linear programming program which can solve large-scale, sparse linear programming problems. It has been widely used in many applications and shows better performance than other public domain simplex-based programs. Several aspects considered in the development of LPAKO are described in this article such as the construction of initial basis, LU factorization of basis matrix, pricing rule, presolving/postsolving and other miscellaneous issues. At the end of the article, we introduce H. Mittelman's benchmark result which compares the performance of LPAKO with those of several simplex-based programs. We also compare LPAKO with CPLEX on the NETLIB test set. 
+Keywords
+Linear Programming, The Simplex Method, Lpako 

@@ -1,0 +1,6 @@
+Parametric Integer Programming in Fixed Dimension
+Friedrich Eisenbrand;Gennady Shmonin;
+Abstract
+Parametric integer programming deals with a family of integer programs that is defined by the same constraint matrix but where the right-hand sides are points of a given polyhedron. The question is whether all these integer programs are feasible. Kannan showed that this can be checked in polynomial time if the number of variables in the integer programs is fixed and the polyhedron of right-hand sides has fixed affine dimension. In this paper, we extend this result by providing a polynomial algorithm for this problem under the only assumption that the number of variables in the integer programs is fixed. We apply this result to deduce a polynomial algorithm to compute the maximum gap between the optimum values of an integer program in fixed dimension and its linear programming relaxation, as the right-hand side is varying over all vectors for which the integer program is feasible.
+Keywords
+parametric integer programming fixed dimension integer programming gap 

@@ -1,0 +1,6 @@
+A mathematical programming formulation for the Hartree–Fock problem on open-shell systems
+Leo Liberti;Carlile Lavor;Nelson Maculan;
+Abstract
+The solutions of the time-independent Schrödinger equation provide a quantum description of the stationary state of electrons in atoms and molecules. The Hartree–Fock problem consists in expressing these solutions by means of finite dimensional approximations thereof. These are themselves linear combinations of an existing linearly independent set; best approximations are obtained when a certain energy function is minimized. In Lavor et al. (Europhys Lett 5(77):50006p1–50006p5, 2007) we proposed a new mathematical programming (MP) approach which enhanced the likelihood of attaining globally optimal approximations, limited to closed-shell atomic systems. In this paper, we discuss an extension to open-shell systems: this is nontrivial as it requires the expression of a rank constraint within an MP formulation. We achieve this by explicitly modelling eigenvalues and requiring them to be nonzero. Although our approach might not necessarily scale well, we show it works on two open-shell systems (lithium and boron).
+Keywords
+Quantum chemistry  Mathematical programming  Linear independence  Rank constraint  

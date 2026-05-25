@@ -1,0 +1,6 @@
+Minimizing makespan on parallel machines with batch arrivals
+ Tsui-Ping   Chung ; Ching-Jong   Liao ; Chien-Hung   Lin ;
+Abstract
+ Most studies in the scheduling literature assume that jobs arrive at time zero, while some studies assume that jobs arrive individually at non-zero times. However, both assumptions may not be valid in practice because jobs usually arrive in batches. In this article, a scheduling model for an identical parallel machine problem with batch arrivals is formulated. Because of the NP-hardness of the problem, a heuristic based on a simplified version of lexicographical search is proposed. To verify the heuristic, two lower bounding schemes are developed, where one lower bound is tight, and the list scheduling heuristic is compared. Extensive computational experiments demonstrate that the proposed heuristic is quite efficient in obtaining near optimal solution with an average error of less than 1.58%. The percentage improvement (from the lower bound) of the heuristic solution on the solution by the list scheduling is as large as 31.68. 
+Keywords
+batch arrivals, identical parallel machines, makespan, scheduling 

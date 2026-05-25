@@ -1,0 +1,6 @@
+A fixed-point iteration approach for multibody dynamics with contact and small friction
+Mihai Anitescu;Gary D. Hart;
+Abstract
+Acceleration–force setups for multi-rigid-body dynamics are known to be inconsistent for some configurations and sufficiently large friction coefficients (a Painleve paradox). This difficulty is circumvented by time-stepping methods using impulse-velocity approaches, which solve complementarity problems with possibly nonconvex solution sets. We show that very simple configurations involving two bodies may have a nonconvex solution set for any nonzero value of the friction coefficient. We construct two fixed-point iteration algorithms that solve convex subproblems and that are guaranteed, for sufficiently small friction coefficients, to retrieve, at a linear convergence rate, the unique velocity solution of the nonconvex linear complementarity problem whenever the frictionless configuration can be disassembled. In addition, we show that one step of one of the iterative algorithms provides an excellent approximation to the velocity solution of the original, possibly nonconvex, problem if for all contacts we have that either the friction coefficient is small or the slip velocity is small.
+Keywords
+Friction Coefficient  Complementarity Problem  Slip Velocity  Linear Complementarity Problem  Multibody Dynamic  

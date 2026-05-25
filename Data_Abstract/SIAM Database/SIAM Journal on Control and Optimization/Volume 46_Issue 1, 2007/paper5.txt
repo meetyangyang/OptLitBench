@@ -1,0 +1,6 @@
+Lyapunov‐Based Design of iISS Feedforward Systems with Uncertainty and Noisy Measurements
+Stefano   Battilotti;
+Abstract
+We study the problem of achieving integral input to state stability (iISS) with respect to noise for a class of upper triangular nonlinear systems with uncertainty and measurement noise. We propose a novel step‐by‐step Lyapunov‐based design, consisting of (1) splitting an n‐dimensional system into n one‐dimensional systems, each with its own state, inputs, and measurement, (2) constructing a one‐dimensional measurement feedback controller for each one‐dimensional system, according to a certainty equivalence principle, and (3) selecting the parameters of these controllers so that their interconnection gives a measurement feedback controller for the n‐dimensional system. The stability analysis is performed through filtered Lyapunov functions, which are Lyapunov functions with parameters being the output of suitable dynamical filters.
+Keywords
+measurement feedback, bounded feedback, feedforward systems, uncertain systems, 93D05, 93D15, 93D20, 

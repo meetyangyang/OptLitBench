@@ -1,0 +1,6 @@
+A two step algorithm for solving a large scale semi-definite logit model
+Hiroshi Konno;Naoya Kawadai;Hiroshi Shimode;
+Abstract
+This paper proposes a two step algorithm for solving a large scale semi-definite logit model, which is appreciated as a powerful model in failure discriminant analysis. This problem has been successfully solved by a cutting plane (outer approximation) algorithm. However, it requires much more computation time than the corresponding linear logit model. A two step algorithm to be proposed in this paper is intended to reduce the amount of computation time by eliminating a certain portion of the data based on the information obtained by solving an associated linear logit model. It will be shown that this algorithm can generate a solution with almost the same quality as the solution obtained by solving the original large scale semi-definite model within a fraction of computation time.
+Keywords
+Failure discriminant analysis  Logit model  Semi-definite logit model  Cutting plane algorithm  

@@ -1,0 +1,6 @@
+Generalized decision rule approximations for stochastic programming via liftings
+Angelos Georghiou;Wolfram Wiesemann;Daniel Kuhn;
+Abstract
+Stochastic programming provides a versatile framework for decision-making under uncertainty, but the resulting optimization problems can be computationally demanding. It has recently been shown that primal and dual linear decision rule approximations can yield tractable upper and lower bounds on the optimal value of a stochastic program. Unfortunately, linear decision rules often provide crude approximations that result in loose bounds. To address this problem, we propose a lifting technique that maps a given stochastic program to an equivalent problem on a higher-dimensional probability space. We prove that solving the lifted problem in primal and dual linear decision rules provides tighter bounds than those obtained from applying linear decision rules to the original problem. We also show that there is a one-to-one correspondence between linear decision rules in the lifted problem and families of nonlinear decision rules in the original problem. Finally, we identify structured liftings that give rise to highly flexible piecewise linear and nonlinear decision rules, and we assess their performance in the context of a dynamic production planning problem.
+Keywords
+90C15 (Stochastic Programming)  

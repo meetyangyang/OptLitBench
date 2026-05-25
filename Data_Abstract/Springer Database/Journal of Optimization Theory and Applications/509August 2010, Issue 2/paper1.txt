@@ -1,0 +1,6 @@
+Collision Avoidance for an Aircraft in Abort Landing: Trajectory Optimization and Guidance
+A. Miele;T. Wang;J. A. Mathwig;M. Ciarcià;
+Abstract
+For a host aircraft in the abort landing mode under emergency conditions, the best strategy for collision avoidance is to maximize wrt to the controls the timewise minimum distance between the host aircraft and an intruder aircraft. This leads to a maximin problem or Chebyshev problem of optimal control. At the maximin point of the encounter, the distance between the two aircraft has a minimum wrt the time; its time derivative vanishes and this occurs when the relative position vector is orthogonal to the relative velocity vector. By using the zero derivative condition as an inner boundary condition, the one-subarc Chebyshev problem can be converted into a two-subarc Bolza-Pontryagin problem, which in turn can be solved via the multiple-subarc sequential gradient-restoration algorithm.
+Keywords
+Collision avoidance  Abort landing  Aerospace engineering  Optimal control  Guidance  

@@ -1,0 +1,6 @@
+Exploiting Sparsity in the Direct Transcription Method for Optimal Control
+John T. Betts;William P. Huffman;
+Abstract
+In the direct transcription method an approximation to an optimal control problem is constructed by discretization of the state and control variables. The control problem is thus transcribed into a large scale constrained optimization problem with a finite number of variables. It is necessary to solve the nonlinear programming (NLP) problem produced by the discretization as efficiently as possible, and research has focused on methods for solving the underlying NLP when the relevant Jacobian and Hessian matrices are sparse. However little attention has been given to computing the Jacobian and Hessian, particularly for applications that require finite difference techniques. Typically it is assumed that these matrices have a block structure, and when standard finite difference estimates are used this operation is a major computational expense. This paper describes how to actually construct the Jacobian and Hessian matrices efficiently, and exploit sparsity inherent in the problem. This new technique can significantly reduce the computational costs when the original optimal control problem has many state and control variables.
+Keywords
+optimal control  sparse nonlinear programming  

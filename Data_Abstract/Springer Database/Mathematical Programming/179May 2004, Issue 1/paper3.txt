@@ -1,0 +1,6 @@
+An algorithm for nonlinear optimization using linear programming and equality constrained subproblems
+Richard H. Byrd;Nicholas I.M. Gould;Jorge Nocedal;Richard A. Waltz;
+Abstract
+This paper describes an active-set algorithm for large-scale nonlinear programming based on the successive linear programming method proposed by Fletcher and Sainz de la Maza [10]. The step computation is performed in two stages. In the first stage a linear program is solved to estimate the active set at the solution. The linear program is obtained by making a linear approximation to the ℓ1 penalty function inside a trust region. In the second stage, an equality constrained quadratic program (EQP) is solved involving only those constraints that are active at the solution of the linear program. The EQP incorporates a trust-region constraint and is solved (inexactly) by means of a projected conjugate gradient method. Numerical experiments are presented illustrating the performance of the algorithm on the CUTEr [1, 15] test set.
+Keywords
+Numerical Experiment  Linear Approximation  Conjugate Gradient  Gradient Method  Nonlinear Optimization  

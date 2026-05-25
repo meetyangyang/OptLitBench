@@ -1,0 +1,6 @@
+Approximation of Dense-n/2-Subgraph and the Complement of Min-Bisection
+Yinyu Ye;Jiawei Zhang;
+Abstract
+We consider the DENSE-n/2-SUBGRAPH problem, i.e., determine a block of half number nodes from a weighted graph such that the sum of the edge weights, within the subgraph induced by the block, is maximized. We prove that a strengthened semidefinite relaxation with a mixed rounding technique yields a 0.586 approximations of the problem. The previous best-known results for approximating this problem are 0.25 using a simple coin-toss randomization, 0.48 using a semidefinite relaxation, 0.5 using a linear programming relaxation or another semidefinite relaxation. In fact, an un-strengthened SDP relaxation provably yields no more than 0.5 approximation. We also consider the complement of the graph MIN-BISECTION problem, i.e., partitioning the nodes into two blocks of equal cardinality so as to maximize the weights of non-crossing edges. We present a 0.602 approximation of the complement of MIN-BISECTION.
+Keywords
+Min-bisection  Dense-k-subgraph  Polynomial approximation algorithm  Semidefinite programming  

@@ -1,0 +1,6 @@
+Bayesian stopping rules for multistart global optimization methods
+C. G. E. Boender;A. H. G. Rinnooy Kan;
+Abstract
+By far the most efficient methods for global optimization are based on starting a local optimization routine from an appropriate subset of uniformly distributed starting points. As the number of local optima is frequently unknown in advance, it is a crucial problem when to stop the sequence of sampling and searching. By viewing a set of observed minima as a sample from a generalized multinomial distribution whose cells correspond to the local optima of the objective function, we obtain the posterior distribution of the number of local optima and of the relative size of their regions of attraction. This information is used to construct sequential Bayesian stopping rules which find the optimal trade off between reliability and computational effort.
+Keywords
+Global optimization  multistart methods  clustering methods  Bayesian stopping rules  multinomial distribution  

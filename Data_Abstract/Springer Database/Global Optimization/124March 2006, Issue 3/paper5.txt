@@ -1,0 +1,6 @@
+A Combined Global & Local Search (CGLS) Approach to Global Optimization
+U. M. Garcia-Palomares;F. J. Gonzalez-Castaño;J. C. Burguillo-Rial;
+Abstract
+This paper presents a general approach that combines global search strategies with local search and attempts to find a global minimum of a real valued function of n variables. It assumes that derivative information is unreliable; consequently, it deals with derivative free algorithms, but derivative information can be easily incorporated. This paper presents a nonmonotone derivative free algorithm and shows numerically that it may converge to a better minimum starting from a local nonglobal minimum. This property is then incorporated into a random population to globalize the algorithm. Convergence to a zero order stationary point is established for nonsmooth convex functions, and convergence to a first order stationary point is established for strictly differentiable functions. Preliminary numerical results are encouraging. A Java implementation that can be run directly from the Web allows the interested reader to get a better insight of the performance of the algorithm on several standard functions. The general framework proposed here, allows the user to incorporate variants of well known global search strategies.
+Keywords
+Derivative-free  Global optimization  Nonmonotone  

@@ -1,0 +1,8 @@
+Inventory Problems with Partially Observed Demands and Lost Sales
+A. Bensoussan;M. Çakanyıldırım;J. A. Minjárez-Sosa;A. Royal;S. P. Sethi;
+Abstract
+
+This paper considers the case of partially observed demand in the context of a multi-period inventory problem with lost sales. Demand in a period is observed if it is less than the inventory level in that period and the leftover inventory is carried over to the next period. Otherwise, only the event that it is larger than or equal to the inventory level is observed. These observations are used to update the demand distributions over time. The state of the resulting dynamic program consists of the current inventory level and the current demand distribution, which is infinite dimensional. The state evolution equation for the demand distribution becomes linear with the use of unnormalized probabilities. We study two demand cases. First, the demands evolve according to a Markov chain. Second, the demand distribution has an unknown parameter which is updated in the Bayesian manner. In both cases, we prove the existence of an optimal feedback ordering policy.
+
+Keywords
+Partially observed demand  Markovian demand  Bayesian update  Inventory control  Lost sales  

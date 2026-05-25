@@ -1,0 +1,6 @@
+Incremental constraint projection methods for variational inequalities
+Mengdi Wang;Dimitri P. Bertsekas;
+Abstract
+We consider the solution of strongly monotone variational inequalities of the form \(F(x^*)'(x-x^*)\ge 0\), for all \(x\in X\). We focus on special structures that lend themselves to sampling, such as when \(X\) is the intersection of a large number of sets, and/or \(F\) is an expected value or is the sum of a large number of component functions. We propose new methods that combine elements of incremental constraint projection and stochastic gradient. These methods are suitable for problems involving large-scale data, as well as problems with certain online or distributed structures. We analyze the convergence and the rate of convergence of these methods with various types of sampling schemes, and we establish a substantial rate of convergence advantage for random sampling over cyclic sampling.
+Keywords
+Random projection  Alternate/cyclic projection   Variational inequalities  Stochastic gradient  Incremental method   Sampling  Stochastic approximation  65K15  90C33  62L20  68W27  

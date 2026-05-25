@@ -1,0 +1,6 @@
+Determination of initial temperature in fast simulated annealing
+Chang-Yong Lee;Dongju Lee;
+Abstract
+In this paper, we propose a method of determining the initial temperature for continuous fast simulated annealing from the perspective of state variation. While the conventional method utilizes fitness variation, the proposed method additionally considers genotype variation. The proposed scheme is based on the fact that the annealing temperature, which includes the initial temperature, not only appears in the acceptance probability but serves as the scale parameter of a state generating probability distribution. We theoretically derive an expression for the probability of generating states to cover the state space in conjunction with the convergence property of the fast simulated annealing. We then numerically solve the expression to determine the initial temperature. We empirically show that the proposed method outperforms the conventional one in optimizing various benchmarking functions.
+Keywords
+Fast simulated annealing  Initial temperature  Cauchy probability distribution  Optimization  

@@ -1,0 +1,6 @@
+Using Persistent Excitation with Fixed Energy to Stabilize Adaptive Controllers and Obtain Hard Bounds for the Parameter Estimation Error
+Miloje S.  Radenkovic and B. Erik  Ydstie;
+Abstract
+Two important instability problems in certainty equivalence adaptive control are solved by external excitation. The first instability is parameter drift along an unstable manifold when the excitation level is not high enough. The second instability is numerical and due to a division with zero in the adaptive law. Global methods based on excitation have been developed to solve this problem, but the energy of the excitation has been tuned on-line. The main contribution of the current paper is in showing that the estimator is stabilized when we apply excitation with fixed and finite energy. The level of excitation should be sufficiently high relative to the magnitudes of the external disturbances and the unmodeled dynamics. The approach can be generalized to more complex adaptive laws. This, together with the fact that we obtain hard bounds for the parameter estimation error, opens up for the possibility of designing robust controllers that are adaptive.
+Keywords
+adaptive control, self-tuning regulator, stability, robustness, learning, excitation, 93A, 93D, 93E, 

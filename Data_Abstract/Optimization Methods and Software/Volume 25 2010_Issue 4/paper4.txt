@@ -1,0 +1,6 @@
+A memory-reduced implementation of the Newton-CG method in optimal control of nonlinear time-dependent PDEs
+ Julia   Sternberg ; Michael   Hinze ;
+Abstract
+ Derivative-based solution algorithms for optimal control problems of time-dependent nonlinear PDE systems require multiple solutions of backward-in-time adjoint systems. Since these adjoint systems, in general, depend on the primal state, and thus on forward information, the storage requirement for such solution algorithms is very large. This paper proposes stable and memory-efficient checkpointing techniques for evaluating gradients and Hessian times increment for such solution algorithms, and presents numerical tests with the instationary Navier–Stokes system which demonstrate that huge memory savings are achieved by the proposed approach while the increase in runtime is moderate. More precisely, a memory reduction of two orders of magnitude causes only a slow down factor of two in run-time. 
+Keywords
+optimal control, Newton-CG approach, checkpointing, Navier–Stokes system 

@@ -1,0 +1,6 @@
+Programming language features, usage patterns, and the efficiency of generated adjoint code
+Laurent Hascoët;Jean Utke;
+Abstract
+The computation of gradients via the reverse mode of algorithmic differentiation is a valuable technique in modelling many science and engineering applications. This technique is particularly efficient when implemented as a source transformation, as it may use static data-flow analysis. However, some features of the major programming languages are detrimental to the efficiency of the transformed source code. This paper provides an overview of the most common problem scenarios and estimates the cost overhead incurred by using the respective language feature or employing certain common patterns. An understanding of these topics is crucial for the efficiency or even feasibility of adjoint computations, particularly for large-scale numerical simulations, for example, in geosciences. While one cannot hope to cover all effects observable with a given programming language in a given run time environment, the paper aims at providing a reasonable guide for the users of C/C++ and Fortran source transformation tools for algorithmic differentiation.
+Keywords
+algorithmic differentiation, automatic differentiation, adjoint computation, source transformation 

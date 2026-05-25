@@ -1,0 +1,6 @@
+A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming
+Cheng Lu;Zhibin Deng;Jing Zhou;Xiaoling Guo;
+Abstract
+In this paper, we design an eigenvalue decomposition based branch-and-bound algorithm for finding global solutions of quadratically constrained quadratic programming (QCQP) problems. The hardness of nonconvex QCQP problems roots in the nonconvex components of quadratic terms, which are represented by the negative eigenvalues and the corresponding eigenvectors in the eigenvalue decomposition. For certain types of QCQP problems, only very few eigenvectors, defined as sensitive-eigenvectors, determine the relaxation gaps. We propose a semidefinite relaxation based branch-and-bound algorithm to solve QCQP. The proposed algorithm, which branches on the directions of the sensitive-eigenvectors, is very efficient for solving certain types of QCQP problems.
+Keywords
+Quadratically constrained quadratic programming  Semidefinite relaxation  Branch-and-bound algorithm  Global optimization  

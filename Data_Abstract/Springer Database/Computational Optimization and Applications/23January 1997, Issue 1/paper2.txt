@@ -1,0 +1,6 @@
+A Comparison of Large Scale Mixed Complementarity Problem Solvers
+Stephen C. Billups;Steven P. Dirkse;Michael C. Ferris;
+Abstract
+This paper provides a means for comparing various computercodes for solving large scale mixed complementarity problems. Wediscuss inadequacies in how solvers are currently compared, andpresent a testing environment that addresses these inadequacies. Thistesting environment consists of a library of test problems, along withGAMS and MATLAB interfaces that allow these problems to be easilyaccessed. The environment is intended for use as a tool byother researchers to better understand both their algorithms and theirimplementations, and to direct research toward problem classes thatare currently the most challenging. As an initial benchmark, eightdifferent algorithm implementations for large scale mixedcomplementarity problems are briefly described and tested with defaultparameter settings using the new testing environment.
+Keywords
+complementarity problems  variational inequalities  computation  algorithms  

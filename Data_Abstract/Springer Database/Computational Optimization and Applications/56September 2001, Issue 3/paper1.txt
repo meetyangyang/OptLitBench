@@ -1,0 +1,6 @@
+Segmentation of Pulmonary Nodule Images Using 1-Norm Minimization
+Thomas F. Coleman;Yuying Li;Adrian Mariano;
+Abstract
+Total variation minimization (in the 1-norm) has edge preserving and enhancing properties which make it suitable for image segmentation. We present Image Simplification, a new formulation and algorithm for image segmentation. We illustrate the edge enhancing properties of 1-norm total variation minimization in a discrete setting by giving exact solutions to the problem for piecewise constant functions in the presence of noise. In this case, edges can be exactly recovered if the noise is sufficiently small. After optimization, segmentation is completed using edge detection. We find that our image segmentation approach yields good results when applied to the segmentation of pulmonary nodules.
+Keywords
+image segmentation  total variation minimization  1-norm minimization  pulmonary nodule images  image enhancement  image processing  

@@ -1,0 +1,6 @@
+On the Lagrange functions of quadratic models that are defined by interpolation* 
+   M.J.D.   Powell ;
+Abstract
+ Quadratic models are of fundamental importance to the efficiency of many optimization algorithms when second derivatives of the objective function influence the required values of the variables. They may be constructed by interpolation to function values for suitable choices of the interpolation points. We consider the Lagrange functions of this technique, because they have some highly useful properties. In particular, they show whether a change to an interpolation point preserves nonsingularity of the interpolation equations, and they provide a bound on the error of the quadratic model. Further, they can be updated efficiently when an interpolation point is moved. These features are explained. Then it is shown that the error bound can control the adjustment of a trust region radius in a way that gives excellent convergence properties in an algorithm for unconstrained minimization calculations. Finally, a convenient procedure for generating the initial interpolation points is described.  
+Keywords
+Lagrange functions, Quadratic interpolation, Unconstrained minimization 

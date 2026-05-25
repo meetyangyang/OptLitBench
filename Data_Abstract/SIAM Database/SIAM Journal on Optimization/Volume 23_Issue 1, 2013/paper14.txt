@@ -1,0 +1,6 @@
+A Nonlinear Conjugate Gradient Algorithm with an Optimal Property and an Improved Wolfe Line Search
+Yu-Hong  Dai and Cai-Xia  Kou;
+Abstract
+In this paper, we seek the conjugate gradient direction closest to the direction of the scaled memoryless BFGS method and propose a family of conjugate gradient methods for unconstrained optimization. An improved Wolfe line search is also proposed, which can avoid a numerical drawback of the original Wolfe line search and guarantee the global convergence of the conjugate gradient method under mild conditions. To accelerate the algorithm, we introduce adaptive restarts along negative gradients based on the extent to which the function approximates some quadratic function during previous iterations. Numerical experiments with the CUTEr collection show that the proposed algorithm is promising.
+Keywords
+conjugate gradient method, memoryless BFGS method, unconstrained optimization, global convergence, Wolfe line search, 49M37, 90C30, 

@@ -1,0 +1,6 @@
+Localization and Exact Simulation of Brownian Motion-Driven Stochastic Differential Equations
+Nan Chen;Zhengyu Huang;
+Abstract
+Generating sample paths of stochastic differential equations (SDE) using the Monte Carlo method finds wide applications in financial engineering. Discretization is a popular approximate approach to generating those paths: it is easy to implement but prone to simulation bias. This paper presents a new simulation scheme to exactly generate samples for SDEs. The key observation is that the law of a general SDE can be decomposed into a product of the law of standard Brownian motion and the law of a doubly stochastic Poisson process. An acceptance-rejection algorithm is devised based on the combination of this decomposition and a localization technique. The numerical results corroborates that the mean-square error of the proposed method is in the order of O(t−1/2), which is superior to the conventional discretization schemes. Furthermore, the proposed method also can generate exact samples for SDE with boundaries which the discretization schemes usually find difficulty in dealing with.
+Keywords
+Monte Carlo simulation stochastic differential equations option pricing exact simulation method localization 

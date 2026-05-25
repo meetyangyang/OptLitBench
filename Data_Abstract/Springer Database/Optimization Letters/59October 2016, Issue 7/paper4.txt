@@ -1,0 +1,6 @@
+A modified homogeneous potential reduction algorithm for solving the monotone semidefinite linear complementarity problem
+Rupaj Kumar Nayak;Jitamitra Desai;
+Abstract
+In this paper, we study the performance of the Semidefinite Linear Complementarity Problem (SDLCP) for symmetric matrices that is equipped with a continuously differentiable potential function. A practical homogeneous self-dual potential reduction algorithm based on this potential function is prescribed, and we establish a computational basis for interior point methods with the use of HKM directions towards the central trajectory for the monotone SDLCP. Our computational implementation maintains a global linear polynomial time convergence, while achieving strong practical performance in comparison with existing solution methods.
+Keywords
+Interior point method  Semidefinite programming  Semidefinite linear complementarity problem  Homogenous and self-dual method  Potential reduction function  

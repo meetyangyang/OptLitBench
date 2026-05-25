@@ -1,0 +1,6 @@
+Master-Slave Strategy and Polynomial Approximation
+Laurent Alfandari;Vangelis Th. Paschos;
+Abstract
+A lot of minimization covering problems on graphs consist in covering vertices or edges by subgraphs verifying a certain property. These problems can be seen as particular cases of set-covering. If the number of subgraphs is polynomial in the order n of the input-graph, then these problems can be approximated within logarithmic ratio by the classical greedy set-covering algorithm. We extend the class of problems approximable by this approach to covering problems where the number of candidate subgraphs is exponential in n, by revisiting an old technique called “master-slave” and extending it to weighted master or/and slave problems. Finally, we use the master-slave tool to prove some positive approximation results for two network-design and a VLSI-design graph-problems.
+Keywords
+combinatorial optimization  approximation  network design  set-covering  

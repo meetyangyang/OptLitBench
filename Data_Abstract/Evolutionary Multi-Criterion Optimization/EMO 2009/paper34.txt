@@ -1,0 +1,4 @@
+Online Objective Reduction to Deal with Many-Objective Problems
+Antonio López Jaimes;Carlos A. Coello Coello;Jesús E. Urías Barrientos;
+Abstract
+In this paper, we propose and analyze two schemes to integrate an objective reduction technique into a multi-objective evolutionary algorithm (moea) in order to cope with many-objective problems. One scheme reduces periodically the number objectives during the search until the required objective subset size has been reached and, towards the end of the search, the original objective set is used again. The second approach is a more conservative scheme that alternately uses the reduced and the entire set of objectives to carry out the search. Besides improving computational efficiency by removing some objectives, the experimental results showed that both objective reduction schemes also considerably improve the convergence of a moea in many-objective problems.

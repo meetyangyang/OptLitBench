@@ -1,0 +1,6 @@
+Branch-and-price algorithms for the Two-Echelon Capacitated Vehicle Routing Problem
+Fernando Afonso Santos;Alexandre Salles da Cunha;Geraldo Robson Mateus;
+Abstract
+In this paper, we propose an Integer Programming formulation and two branch-and-price implementations for the Two-Echelon Capacitated Vehicle Routing Problem. One algorithm considers routes that satisfy the elementarity condition, while the other relaxes such constraint when pricing routes. For instances that could not be solved to proven optimality within a given time limit, our computational experience suggests that the former provides sharper upper bounds while the latter offers tighter lower bounds. As a by-product, ten new best upper bounds and two new optimality certificates are provided here.
+Keywords
+Two-Echelon systems  Vehicle Routing Problem  Branch-and-price  

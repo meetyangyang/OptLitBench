@@ -1,0 +1,6 @@
+Global optimization in Hilbert space
+Boris Houska;Benoît Chachuat;
+Abstract
+We propose a complete-search algorithm for solving a class of non-convex, possibly infinite-dimensional, optimization problems to global optimality. We assume that the optimization variables are in a bounded subset of a Hilbert space, and we determine worst-case run-time bounds for the algorithm under certain regularity conditions of the cost functional and the constraint set. Because these run-time bounds are independent of the number of optimization variables and, in particular, are valid for optimization problems with infinitely many optimization variables, we prove that the algorithm converges to an \(\varepsilon \)-suboptimal global solution within finite run-time for any given termination tolerance \(\varepsilon > 0\). Finally, we illustrate these results for a problem of calculus of variations.
+Keywords
+Infinite-dimensional optimization  Complete search  Branch-and-lift  Convergence analysis  Complexity analysis  49M30  65K10  90C26  93B40  

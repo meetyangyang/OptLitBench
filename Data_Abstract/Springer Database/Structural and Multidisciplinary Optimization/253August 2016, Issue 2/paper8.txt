@@ -1,0 +1,6 @@
+Design complexity control in truss optimization
+André J. Torii;Rafael H. Lopez;Leandro F. F. Miguel;
+Abstract
+Truss optimization based on the ground structure approach often leads to designs that are too complex for practical purposes. In this paper we present an approach for design complexity control in truss optimization. The approach is based on design complexity measures related to the number of bars (similar to Asadpoure et al. Struct Multidisc Optim 51(2):385–396 2015) and a novel complexity measure related to the number of nodes of the structure. Both complexity measures are continuously differentiable and thus can be used together with gradient based optimization algorithms. The numerical examples show that the proposed approach is able to reduce design complexity, leading to solutions that are more fit for engineering practice. Besides, the examples also indicate that in some cases it is possible to significantly reduce design complexity with little impact on structural performance. Since the complexity measures are non convex, a global gradient based optimization algorithm is employed. Finally, a detailed comparison to a classical approach is presented.
+Keywords
+Truss optimization  Structural optimization  Complexity  Global optimization  

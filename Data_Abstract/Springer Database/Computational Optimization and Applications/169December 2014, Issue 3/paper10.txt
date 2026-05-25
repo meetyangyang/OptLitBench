@@ -1,0 +1,6 @@
+Strong-branching inequalities for convex mixed integer nonlinear programs
+Mustafa Kılınç;Jeff Linderoth;James Luedtke;Andrew Miller;
+Abstract
+Strong branching is an effective branching technique that can significantly reduce the size of the branch-and-bound tree for solving mixed integer nonlinear programming (MINLP) problems. The focus of this paper is to demonstrate how to effectively use “discarded” information from strong branching to strengthen relaxations of MINLP problems. Valid inequalities such as branching-based linearizations, various forms of disjunctive inequalities, and mixing-type inequalities are all discussed. The inequalities span a spectrum from those that require almost no extra effort to compute to those that require the solution of an additional linear program. In the end, we perform an extensive computational study to measure the impact of each of our proposed techniques. Computational results reveal that existing algorithms can be significantly improved by leveraging the information generated as a byproduct of strong branching in the form of valid inequalities.
+Keywords
+Mixed-integer nonlinear programming  Strong-branching   Disjunctive inequalities  Mixing inequalities  

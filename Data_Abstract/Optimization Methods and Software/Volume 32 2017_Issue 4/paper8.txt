@@ -1,0 +1,6 @@
+Self-consistent gradient flow for shape optimization
+D. Kraft;
+Abstract
+We present a model for image segmentation and describe a gradient-descent method for level-set based shape optimization. It is commonly known that gradient-descent methods converge slowly due to zig–zag movement. This can also be observed for our problem, especially when sharp edges are present in the image. We interpret this in our specific context to gain a better understanding of the involved difficulties. One way to overcome slow convergence is the use of second-order methods. For our situation, they require derivatives of the potentially noisy image data and are thus undesirable. Hence, we propose a new method that can be interpreted as a self-consistent gradient flow and does not need any derivatives of the image data. It works very well in practice and leads to a far more efficient optimization algorithm. A related idea can also be used to describe the mean-curvature flow of a mean-convex surface. For this, we formulate a mean-curvature Eikonal equation, which allows a numerical propagation of the mean-curvature flow of a surface without explicit time stepping.
+Keywords
+level-set method, shape optimization, image segmentation, gradient flow, topological derivative, mean-curvature flowAMS Subject Classification: 49Q10, 65D18, 65J22, 65K10 

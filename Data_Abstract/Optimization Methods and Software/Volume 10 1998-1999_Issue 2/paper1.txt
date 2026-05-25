@@ -1,0 +1,6 @@
+Computational experience with the reverse search vertex enumeration algorithm
+ David   Avis ;
+Abstract
+ This paper describes computational experience obtained in the development of the Irs code, which uses the reverse search technique to solve the vertex enumeration/convex hull problem for d-dimensional convex polyhedra. We give empirical results showing improvements obtained by the use of lexicographic perturbation, lifting, and integer pivoting. We also give some indication of the cost of using extended precision arithmetic and illustrate the use of the estimation function of Irs.The empirical results are obtained by running various versions of the program on a set of well-known non-trivial polyhedra: cut, configuration, cyclic, Kuhn-Quandt, and metric polytopes. 
+Keywords
+Vertex enumeration, convex hulls, reverse search, computational experience 

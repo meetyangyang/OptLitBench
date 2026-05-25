@@ -1,0 +1,6 @@
+A Global Optimization Algorithm using Lagrangian Underestimates and the Interval Newton Method
+Tim Van Voorhis;
+Abstract
+Convex relaxations can be used to obtain lower bounds on the optimal objective function value of nonconvex quadratically constrained quadratic programs. However, for some problems, significantly better bounds can be obtained by minimizing the restricted Lagrangian function for a given estimate of the Lagrange multipliers. The difficulty in utilizing Lagrangian duality within a global optimization context is that the restricted Lagrangian is often nonconvex. Minimizing a convex underestimate of the restricted Lagrangian overcomes this difficulty and facilitates the use of Lagrangian duality within a global optimization framework. A branch-and-bound algorithm is presented that relies on these Lagrangian underestimates to provide lower bounds and on the interval Newton method to facilitate convergence in the neighborhood of the global solution. Computational results show that the algorithm compares favorably to the Reformulation–Linearization Technique for problems with a favorable structure.
+Keywords
+Lagrangian dual  Interval Newton method  Convex underestimate  Quadratically constrained quadratic program  

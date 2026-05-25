@@ -1,0 +1,6 @@
+Optimal multi-stage allocation of weapons to targets using adaptive dynamic programming
+Darryl K. Ahner;Carl R. Parson;
+Abstract
+We consider the optimal allocation of resources (weapons) to a collection of tasks (targets) with the objective of maximizing the reward for completing tasks (destroying targets). Tasks arrive in two stages, where the first stage tasks are known and the second stage task arrivals follow a random distribution. Given the distribution of these second stage task arrivals, simulation and mathematical programming are used within a dynamic programming framework to determine optimal allocation strategies. The special structure of the assignment problem is exploited to recursively update functional approximations representing future rewards using subgradient information. Through several theorems, optimality of the algorithm is proven for a two-stage Dynamic Weapon-Target Assignment Problem.
+Keywords
+Dynamic weapon-target assignment  Adaptive dynamic programming  Stochastic processes  

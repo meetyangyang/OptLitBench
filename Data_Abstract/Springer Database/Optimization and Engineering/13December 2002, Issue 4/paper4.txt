@@ -1,0 +1,6 @@
+Probabilistic Modeling of Errors from Structural Optimization Based on Multiple Starting Points
+Hongman Kim;Raphael T. Haftka;William H. Mason;Layne T. Watson;Bernard Grossman;
+Abstract
+With optimization increasingly used in engineering applications, a series of optimization runs may be required, and it may be too expensive to converge them to very high accuracy. A procedure for estimating average optimization convergence errors from a set of poorly converged optimization runs is developed. A probabilistic model is fitted to the errors in optimal objective function values of poorly converged runs. The Weibull distribution was identified as a reasonable error model both for the Rosenbrock function problem and the structural optimization of a high speed civil transport. Once a statistical model for the error is identified, it can be used to estimate average errors from a set of pairs of runs. In particular, by performing pairs of optimization runs from two starting points, accurate estimates of the mean and standard deviation of the convergence errors can be obtained.
+Keywords
+structural optimization  convergence error  Weibull distribution  probabilistic error model  

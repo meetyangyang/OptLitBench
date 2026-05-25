@@ -1,0 +1,6 @@
+A realization of constraint feasibility in a moving least squares response surface based approximate optimization
+Chang Yong Song;Jongsoo Lee;
+Abstract
+In the context of approximate optimization, the most extensively used tools are the response surface method (RSM) and the moving least squares method (MLSM). Since traditional RSMs and MLSMs are generally described by second-order polynomials, approximate optimal solutions can, at times, be infeasible in cases where highly nonlinear and/or nonconvex constraint functions are to be approximated. This paper explores the development of a new MLSM-based meta-model that ensures the constraint feasibility of an approximate optimal solution. A constraint-feasible MLSM, referred to as CF-MLSM, makes approximate optimization possible for all of the convergence processes, regardless of the multimodality/nonlinearity in the constraint function. The usefulness of the proposed approach is verified by examining various nonlinear function optimization problems.
+Keywords
+Approximate optimization  Moving least squares method (MLSM)  Constraint feasibility  Constraint-feasible MLSM (CF-MLSM)  

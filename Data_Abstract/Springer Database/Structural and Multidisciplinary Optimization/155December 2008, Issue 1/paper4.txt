@@ -1,0 +1,6 @@
+Model reduction for multidisciplinary optimization - application to a 2D wing
+Rajan Filomeno Coelho;Piotr Breitkopf;Catherine Knopf-Lenoir;
+Abstract
+Multidisciplinary optimization (MDO) is a growing field in engineering, with various applications in aerospace, aeronautics, car industry, etc. However, the presence of multiple disciplines leads to specific issues, which prevent MDO to be fully integrated in industrial design methodology. In practice, the key issues in MDO lie in the management of the interconnections between disciplines, along with the high number of simulations required to find a feasible multidisciplinary (optimal) solution. Therefore, in this paper, a novel approach is proposed, combining proper orthogonal decomposition to decrease the amount of data exchanged between disciplines, with surrogate models based on moving least squares to reduce disciplines. This method is applied to an original 2D wing demonstrator involving two disciplines (fluid and structure). The numerical results obtained for an optimization task show its benefits in diminishing both the interfaces between disciplines and the overall computational time.
+Keywords
+Multidisciplinary optimization (MDO)  Multidisciplinary analysis (MDA)  Model reduction  Proper orthogonal decomposition (POD)  Moving least squares (MLS)  2D wing  Fluid–structure coupling  

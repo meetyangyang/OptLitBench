@@ -1,0 +1,8 @@
+Solving the linear multiple choice knapsack problem with two objectives: profit and equity
+George Kozanidis;
+Abstract
+
+In this paper, we study an extension of the Linear Multiple Choice Knapsack (LMCK) Problem that considers two objectives. The problem can be used to find the optimal allocation of an available resource to a group of disjoint sets of activities, while also ensuring that a certain balance on the resource amounts allocated to the activity sets is attained. The first objective maximizes the profit incurred by the implementation of the considered activities. The second objective minimizes the maximum difference between the resource amounts allocated to any two sets of activities. We present the mathematical formulation and explore the fundamental properties of the problem. Based on these properties, we develop an efficient algorithm that obtains the entire nondominated frontier. The algorithm is more efficient than the application of the general theory of multiple objective linear programming (MOLP), although there is a close underlying relationship between the two. We present theoretical findings which provide insight into the behavior of the algorithm, and report computational results which demonstrate its efficiency for randomly generated problems.
+
+Keywords
+Linear multiple choice knapsack  Balanced resource allocation  Equity  Multiobjective linear programming  Nondominated frontier  

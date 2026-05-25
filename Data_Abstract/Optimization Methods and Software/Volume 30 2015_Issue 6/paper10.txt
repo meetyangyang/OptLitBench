@@ -1,0 +1,6 @@
+An interior point method designed for solving linear quadratic optimal control problems with hp finite elements
+D. Wachsmuth;J.-E. Wurst;
+Abstract
+We consider linear quadratic optimal control problems with elliptic partial differential equations. The problem is solved with an interior point method in the control variable. We prove convergence of this method in function space by employing a suitable smoothing operator. As discretization we choose hp-finite element method based on local estimates on the smoothness of functions. A fully adaptive algorithm is implemented and a-posteriori error estimators are derived for the central path and the Newton system. The theoretical results are complemented by numerical examples.
+Keywords
+optimal control, control constraints, interior point method, hp-finite elements, adaptive refinementMSC Classification: 49M37, 90C51, 65K05, 65N30 

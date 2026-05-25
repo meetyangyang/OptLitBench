@@ -1,0 +1,6 @@
+Modeling without categorical variables: a mixed-integer nonlinear program for the optimization of thermal insulation systems
+Kumar Abhishek;Sven Leyffer;Jeffrey T. Linderoth;
+Abstract
+Optimal design applications are often modeled by using categorical variables to express discrete design decisions, such as material types. A disadvantage of using categorical variables is the lack of continuous relaxations, which precludes the use of modern integer programming techniques. We show how to express categorical variables with standard integer modeling techniques, and we illustrate this approach on a load-bearing thermal insulation system. The system consists of a number of insulators of different materials and intercepts that minimize the heat flow from a hot surface to a cold surface. Our new model allows us to employ black-box modeling languages and solvers and illustrates the interplay between integer and nonlinear modeling techniques. We present numerical experience that illustrates the advantage of the standard integer model.
+Keywords
+Mixed integer nonlinear programming  Modeling with binary variables  Thermal insulation systems  Categorical variables  

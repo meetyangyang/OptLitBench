@@ -1,0 +1,6 @@
+A Globally Convergent Successive Approximation Method for Severely Nonsmooth Equations
+Liqun  Qi and Xiaojun  Chen;
+Abstract
+This paper presents a globally convergent successive approximation method for solving $F(x) = 0$ where F is a continuous function. At each step of the method, F is approximated by a smooth function $f_k$, with $\| {f_k  - F} \| \to 0$ as $k \to \infty $. The direction $ - f'_k (x_k )^{ - 1} F(x_k )$ is then used in a line search on a sum of squares objective. The approximate function $f_k $ can be constructed for nonsmooth equations arising from variational inequalities, maximal monotone operator problems, nonlinear complementarity problems, and nonsmooth partial differential equations. Numerical examples are given to illustrate the method.
+Keywords
+global convergence, successive approximation, integration convolution, 90C30, 90C33, 

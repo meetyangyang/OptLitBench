@@ -1,0 +1,6 @@
+A Modified Barrier-Augmented Lagrangian Method for Constrained Minimization
+D. Goldfarb;R. Polyak;K. Scheinberg;I. Yuzefovich;
+Abstract
+We present and analyze an interior-exterior augmented Lagrangian method for solving constrained optimization problems with both inequality and equality constraints. This method, the modified barrier—augmented Lagrangian (MBAL) method, is a combination of the modified barrier and the augmented Lagrangian methods. It is based on the MBAL function, which treats inequality constraints with a modified barrier term and equalities with an augmented Lagrangian term. The MBAL method alternatively minimizes the MBAL function in the primal space and updates the Lagrange multipliers. For a large enough fixed barrier-penalty parameter the MBAL method is shown to converge Q-linearly under the standard second-order optimality conditions. Q-superlinear convergence can be achieved by increasing the barrier-penalty parameter after each Lagrange multiplier update. We consider a dual problem that is based on the MBAL function. We prove a basic duality theorem for it and show that it has several important properties that fail to hold for the dual based on the classical Lagrangian.
+Keywords
+Optimality Condition  Lagrange Multiplier  Operation Research  Mathematical Program  Equality Constraint  

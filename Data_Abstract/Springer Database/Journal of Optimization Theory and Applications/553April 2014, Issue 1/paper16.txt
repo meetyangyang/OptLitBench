@@ -1,0 +1,6 @@
+Warm-Start Heuristic for Stochastic Portfolio Optimization with Fixed and Proportional Transaction Costs
+Tiago P. Filomena;Miguel A. Lejeune;
+Abstract
+We consider a probabilistic portfolio optimization model including fixed and proportional transaction costs. We derive a deterministic equivalent of the probabilistic model for fat-tailed portfolio returns. We develop a method which finds provably near-optimal solutions in minimal amount of time for industry-sized (up to 2000 assets) problems. To solve the mixed-integer nonlinear programming (MINLP) deterministic formulation equivalent to the stochastic problem, we design a mathematical programming-based warm-start heuristic. The tests show the computational efficiency of the heuristic which is more than an order of magnitude faster than Cplex in finding high-quality solutions.
+Keywords
+Large-scale optimization  Stochastic programming  Portfolio optimization  Transaction costs  Fat-tailed returns  

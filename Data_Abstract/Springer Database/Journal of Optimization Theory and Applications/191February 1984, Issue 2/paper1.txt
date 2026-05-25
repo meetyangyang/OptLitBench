@@ -1,0 +1,6 @@
+Pseudo-conjugate directions for the solution of the nonlinear unconstrained optimization problem on a parallel computer
+E. C. Housos;O. Wing;
+Abstract
+Parallel algorithms and test case results for the solution of the unconstrained optimization problem are presented. The algorithms involve the use of pseudo-conjugate directions (directions which tend to become conjugate as the solution is approached). It is shown that the algorithms are both fast and robust. Although all the algorithms of this paper involve the parallel execution of linear search procedures, a critical differentiation can be made among them, depending on whether the linear searches are performed along the same direction (parallel unidirectional algorithms) or different directions (parallel multidirectional algorithms).
+Keywords
+Parallel processing  conjugate directions  parallel unidirectional algorithms  parallel multidirectional algorithms  unconstrained optimization  pseudo-conjugate directions  

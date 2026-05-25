@@ -1,0 +1,6 @@
+A Nonlinear Filtering Approach to Changepoint Detection Problems: Direct and Differential-Geometric Methods
+M. H.  Vellekoop and J. M. C.  Clark;
+Abstract
+A benchmark change detection problem is considered which involves the detection of a change of unknown size at an unknown time. Both unknown quantities are modelled by stochastic variables, which allows the problem to be formulated within a Bayesian framework. It turns out that the resulting nonlinear filtering problem is much harder than the well-known detection problem for known sizes of the change, and in particular that it can no longer be solved in a recursive manner. An approximating recursive filter is therefore proposed, which is designed using differential-geometric methods in a suitably chosen space of unnormalized probability densities. The new nonlinear filter can be interpreted as an adaptive version of the celebrated Shiryayev--Wonham equation for the detection of a priori known changes, combined with a modified Kalman filter structure to generate estimates of the unknown size of the change. This intuitively appealing interpretation of the nonlinear filter and its excellent performance in simulation studies indicate that it may be of practical use in realistic change detection problems.
+Keywords
+change detection, nonlinear filtering, differential geometry, 60G35, 

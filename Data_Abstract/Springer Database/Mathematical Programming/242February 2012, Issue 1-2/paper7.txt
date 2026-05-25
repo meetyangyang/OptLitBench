@@ -1,0 +1,6 @@
+Multicriteria optimization with a multiobjective golden section line search
+Douglas A. G. Vieira;Ricardo H. C. Takahashi;Rodney R. Saldanha;
+Abstract
+This work presents an algorithm for multiobjective optimization that is structured as: (i) a descent direction is calculated, within the cone of descent and feasible directions, and (ii) a multiobjective line search is conducted over such direction, with a new multiobjective golden section segment partitioning scheme that directly finds line-constrained efficient points that dominate the current one. This multiobjective line search procedure exploits the structure of the line-constrained efficient set, presenting a faster compression rate of the search segment than single-objective golden section line search. The proposed multiobjective optimization algorithm converges to points that satisfy the Kuhn-Tucker first-order necessary conditions for efficiency (the Pareto-critical points). Numerical results on two antenna design problems support the conclusion that the proposed method can solve robustly difficult nonlinear multiobjective problems defined in terms of computationally expensive black-box objective functions.
+Keywords
+Multiobjective optimization  Feasible directions  Line search  Golden section  90C29  90C30  65K05  

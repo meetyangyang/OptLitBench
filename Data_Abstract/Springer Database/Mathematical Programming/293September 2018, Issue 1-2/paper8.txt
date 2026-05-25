@@ -1,0 +1,6 @@
+Complexity bounds for primal-dual methods minimizing the model of objective function
+Yu. Nesterov;
+Abstract
+We provide Frank–Wolfe (\(\equiv \) Conditional Gradients) method with a convergence analysis allowing to approach a primal-dual solution of convex optimization problem with composite objective function. Additional properties of complementary part of the objective (strong convexity) significantly accelerate the scheme. We also justify a new variant of this method, which can be seen as a trust-region scheme applying to the linear model of objective function. For this variant, we prove also the rate of convergence for the total variation of linear model of composite objective over the feasible set. Our analysis works also for quadratic model, allowing to justify the global rate of convergence for a new second-order method as applied to a composite objective function. To the best of our knowledge, this is the first trust-region scheme supported by the worst-case complexity analysis both for the functional gap and for the variation of local quadratic model over the feasible set.
+Keywords
+Convex optimization  Complexity bounds  Linear optimization oracle  Conditional gradient method  Trust-region method  90-08  90-C25  90-C52  

@@ -1,0 +1,6 @@
+Convex programs with an additional reverse convex constraint
+H. Tuy;
+Abstract
+A method is presented for solving a class of global optimization problems of the form (P): minimizef(x), subject tox∈D,g(x)≥0, whereD is a closed convex subset ofR n  andf,g are convex finite functionsR n . Under suitable stability hypotheses, it is shown that a feasible point\(\bar x\) is optimal if and only if 0=max{g(x):x∈D,f(x)≤f(\(\bar x\))}. On the basis of this optimality criterion, the problem is reduced to a sequence of subproblemsQ k ,k=1, 2, ..., each of which consists in maximizing the convex functiong(x) over some polyhedronS k . The method is similar to the outer approximation method for maximizing a convex function over a compact convex set.
+Keywords
+Reverse convex constraints  convex maximization  concave minimization  outer approximation methods  

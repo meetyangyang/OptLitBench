@@ -1,0 +1,8 @@
+Implementation of a primal–dual method for SDP on a shared memory parallel architecture
+Brian Borchers;Joseph G. Young;
+Abstract
+
+Primal–dual interior point methods and the HKM method in particular have been implemented in a number of software packages for semidefinite programming. These methods have performed well in practice on small to medium sized SDPs. However, primal–dual codes have had some trouble in solving larger problems because of the storage requirements and required computational effort. In this paper we describe a parallel implementation of the primal–dual method on a shared memory system. Computational results are presented, including the solution of some large scale problems with over 50,000 constraints.
+
+Keywords
+Semidefinite programming  Interior point methods  Parallel computing  

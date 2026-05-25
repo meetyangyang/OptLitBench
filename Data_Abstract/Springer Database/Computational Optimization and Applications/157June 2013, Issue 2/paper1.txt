@@ -1,0 +1,6 @@
+On sample size control in sample average approximations for solving smooth stochastic programs
+Johannes O. Royset;
+Abstract
+We consider smooth stochastic programs and develop a discrete-time optimal-control problem for adaptively selecting sample sizes in a class of algorithms based on variable sample average approximations (VSAA). The control problem aims to minimize the expected computational cost to obtain a near-optimal solution of a stochastic program and is solved approximately using dynamic programming. The optimal-control problem depends on unknown parameters such as rate of convergence, computational cost per iteration, and sampling error. Hence, we implement the approach within a receding-horizon framework where parameters are estimated and the optimal-control problem is solved repeatedly during the calculations of a VSAA algorithm. The resulting sample-size selection policy consistently produces near-optimal solutions in short computing times as compared to other plausible policies in several numerical examples.
+Keywords
+Stochastic programming  Sample average approximations  Sample size selection  Algorithm control  

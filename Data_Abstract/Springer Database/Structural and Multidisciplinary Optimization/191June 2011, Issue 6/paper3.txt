@@ -1,0 +1,6 @@
+Connections between topological sensitivity analysis and material interpolation schemes in topology optimization
+Samuel Amstutz;
+Abstract
+Material interpolation schemes, like SIMP, are very popular in topology optimization. They convert the difficult 0-1 problem into a nonlinear programming problem defined over a convex set by involving an interpolation (or penalization) function, usually constructed in rather empirical ways. This paper gives an insight into such methods with the help of the notion of topological sensitivity, and in particular provides some arguments for the choice of the penalization function. A simple algorithm based on these concepts is proposed and illustrated by numerical experiments.
+Keywords
+Topology optimization  Material interpolation  SIMP  Topological sensitivity  Topological derivative  

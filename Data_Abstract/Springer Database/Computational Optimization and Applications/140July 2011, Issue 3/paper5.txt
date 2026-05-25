@@ -1,0 +1,6 @@
+Reduced quasi-Newton method for simultaneous design and optimization
+Adel Hamdi;Andreas Griewank;
+Abstract
+We consider the task of design optimization where the constraint is a state equation that can only be solved by a typically rather slowly converging fixed point solver. This process can be augmented by a corresponding adjoint solver and based on the resulting approximate reduced derivatives also an optimization iteration which actually changes the design. To coordinate the three iterative processes, we use an exact penalty function of doubly augmented Lagrangian type. The main issue here is how to derive a design space preconditioner for the approximated reduced gradient which ensures a consistent reduction of the employed penalty function as well as significant design corrections. Some numerical experiments for an alternating approach where any combination and sequencing of steps are used to improve feasibility and optimality done on a variant of the Bratu problem are presented.
+Keywords
+Simultaneous analysis and design  Preconditioning  Augmented Lagrangian  Exact penalty function  Global convergence  

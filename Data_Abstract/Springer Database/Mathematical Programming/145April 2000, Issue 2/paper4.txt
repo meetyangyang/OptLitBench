@@ -1,0 +1,6 @@
+Stable reduced Hessian updates for indefinite quadratic programming
+R. Fletcher;
+Abstract
+Stable techniques are considered for updating the reduced Hessian matrix that arises in a null-space active set method for quadratic programming when the Hessian matrix itself may be indefinite. A scheme for defining and updating the null-space basis matrix is described which is adequately stable and allows advantage to be taken of sparsity in the constraint matrix. A new canonical form for the reduced Hessian matrix is proposed that can be updated in a numerically stable way. Some consequences for the choice of minor iteration search direction are described.
+Keywords
+Quadratic Programming  Canonical Form  Search Direction  Hessian Matrix  Basis Matrix  

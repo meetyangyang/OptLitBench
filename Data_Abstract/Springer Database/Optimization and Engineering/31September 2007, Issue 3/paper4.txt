@@ -1,0 +1,8 @@
+A non-linear goal programming model and solution method for the multi-objective trip distribution problem in transportation engineering
+Stephen C. H. Leung;
+Abstract
+
+Trip distribution is one of the important stages in transportation planning model, by which decision-makers can estimate the number of trips among zones. As a basis, the gravity model is commonly used. To cope with complicated situations, a multiple objective mathematical model was developed to attain a set of conflict goals. In this paper, a goal programming model is proposed to enhance the developed multiple objective model to optimize three objectives simultaneously, i.e. (1) maximization of the interactivity of the system, (2) minimization of the generalized costs and (3) minimization of the deviation from the observed year. A genetic algorithm (GA) is developed to solve the proposed non-linear goal programming model. As with other genetic algorithms applied to real-world problems, the GA procedure contains representation, initialization, evaluation, selection, crossover, and mutation. The modification of crossover and mutation to satisfy the doubly constraints is described. A set of Hong Kong data has been used to test the effectiveness and efficiency of the proposed mode. Results demonstrate that decision-makers can find the flexibility and robustness of the proposed model by adjusting the weighting factors with respect to the importance of each objective.
+
+Keywords
+Transportation systems  Trip distribution  Multiple criteria decision making  Genetic algorithm  

@@ -1,0 +1,6 @@
+Cut generation through binarization
+Pierre Bonami;François Margot;
+Abstract
+For a mixed integer linear program where all integer variables are bounded, we study a reformulation introduced by Roy that maps general integer variables to a collection of binary variables. We study theoretical properties and empirical strength of rank-2 simple split cuts of the reformulation. We show that for a pure integer problem with two integer variables, these cuts are sufficient to obtain the integer hull of the problem, but that this does not generalize to problems in higher dimensions. We also give an algorithm to compute an approximation of the rank-2 simple split cut closure. We report empirical results on 22 benchmark instances showing that the bounds obtained compare favorably with those obtained with other approximate methods to compute the split closure or lattice-free cut closure. It gives a better bound than the split closure on 6 instances while it is weaker on 9 instances, for an average gap closed 3.8 % smaller than the one for the split closure.
+Keywords
+Split cuts  Closure  Binarization  90C11  90C57  

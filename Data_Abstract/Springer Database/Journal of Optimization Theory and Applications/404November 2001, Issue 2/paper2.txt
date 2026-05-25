@@ -1,0 +1,6 @@
+Mixed L2-Wasserstein Optimal Mapping Between Prescribed Density Functions
+J. D. Benamou;Y. Brenier;
+Abstract
+A time-dependent minimization problem for the computation of a mixed L2-Wasserstein distance between two prescribed density functions is introduced in the spirit of Ref. 1 for the classical Wasserstein distance. The optimum of the cost function corresponds to an optimal mapping between prescribed initial and final densities. We enforce the final density conditions through a penalization term added to our cost function. A conjugate gradient method is used to solve this relaxed problem. We obtain an algorithm which computes an interpolated L2-Wasserstein distance between two densities and the corresponding optimal mapping.
+Keywords
+Monge-Kantorovitch mass transfer problem  Wasserstein distance  least-square distance  optimal control  conjugate gradient algorithm  

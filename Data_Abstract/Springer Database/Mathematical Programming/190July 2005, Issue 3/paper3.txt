@@ -1,0 +1,6 @@
+Variance reduction in sample approximations of stochastic programs
+Matti Koivu;
+Abstract
+This paper studies the use of randomized Quasi-Monte Carlo methods (RQMC) in sample approximations of stochastic programs. In numerical integration, RQMC methods often substantially reduce the variance of sample approximations compared to Monte Carlo (MC). It seems thus natural to use RQMC methods in sample approximations of stochastic programs. It is shown, that RQMC methods produce epi-convergent approximations of the original problem. RQMC and MC methods are compared numerically in five different portfolio management models. In the tests, RQMC methods outperform MC sampling substantially reducing the sample variance and bias of optimal values in all the considered problems.
+Keywords
+Stochastic optimization  Discretization  Variance reduction techniques  Randomized quasi-Monte Carlo methods  Antithetic variates  

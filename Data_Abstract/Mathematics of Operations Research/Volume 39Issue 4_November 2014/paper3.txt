@@ -1,0 +1,6 @@
+Approximating Sparse Covering Integer Programs Online
+Anupam Gupta;Viswanath Nagarajan;
+Abstract
+A covering integer program (CIP) is a mathematical program of the form min{c⊤x ∣ Ax ≥ 1, 0 ≤ x ≤ u, x  ∈ ℤn}, where all entries in A, c, u are nonnegative. In the online setting, the constraints (i.e., the rows of the constraint matrix A) arrive over time, and the algorithm can only increase the coordinates of x to maintain feasibility. As an intermediate step, we consider solving the covering linear program (CLP) online, where the integrality constraints are dropped.Our main results are (a) an O(log k)-competitive online algorithm for solving the CLP, and (b) an O(log k · log l)-competitive randomized online algorithm for solving the CIP. Here k ≤ n and l ≤ m respectively denote the maximum number of nonzero entries in any row and column of the constraint matrix A. Our algorithm is based on the online primal-dual paradigm, where a novel ingredient is to allow dual variables to increase and decrease throughout the course of the algorithm. It is known that this result is the best possible for polynomial-time online algorithms, even in the special case of set cover (where all entries in A, c, and u are 0 or 1.
+Keywords
+covering integer programs linear programming online algorithms 

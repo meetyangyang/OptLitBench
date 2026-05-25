@@ -1,0 +1,6 @@
+Sequential Monte Carlo simulated annealing
+Enlu Zhou;Xi Chen;
+Abstract
+In this paper, we propose a population-based optimization algorithm, Sequential Monte Carlo Simulated Annealing (SMC-SA), for continuous global optimization. SMC-SA incorporates the sequential Monte Carlo method to track the converging sequence of Boltzmann distributions in simulated annealing. We prove an upper bound on the difference between the empirical distribution yielded by SMC-SA and the Boltzmann distribution, which gives guidance on the choice of the temperature cooling schedule and the number of samples used at each iteration. We also prove that SMC-SA is more preferable than the multi-start simulated annealing method when the sample size is sufficiently large.
+Keywords
+Simulated annealing  Sequential Monte Carlo  Multi-start simulated annealing  

@@ -1,0 +1,6 @@
+Simultaneous identification of moving masses and structural damage
+Qingxia Zhang;Łukasz Jankowski;Zhongdong Duan;
+Abstract
+A method for simultaneous identification of moving masses and damages of the supporting structure from measured responses is presented. The interaction forces between the masses and the structure are used as excitation. Masses and damage extents are used as the optimization variables; compared to the approaches based on identification of the interaction forces, it allows ill-conditioning to be avoided and decreases the number of required sensors. The virtual distortion method is used; the damaged structure is modeled by the intact structure subjected to response-coupled virtual distortions and moving forces. These are related to the optimization variables via a linear system, which allows the optimization variables of both kinds to be treated in a unified way. A moving dynamic influence matrix is introduced to reduce the numerical costs. The adjoint variable method is used for fast sensitivity analysis. A numerical experiment of a three-span beam with 10% rms measurement error and three types of model errors is presented.
+Keywords
+Moving load identification  Damage identification  Mass identification  Virtual distortion method (VDM)  Structural health monitoring (SHM)  

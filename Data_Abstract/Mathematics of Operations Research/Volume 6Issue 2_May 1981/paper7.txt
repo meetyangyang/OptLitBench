@@ -1,0 +1,6 @@
+Exponential Lower Bounds on a Class of Knapsack Algorithms
+Dirk Hausmann;Ravindran Kannan;Bernhard Korte;
+Abstract
+The 0-1 knapsack problem is a well known NP-hard optimization problem. The proof of the generally believed hypothesis that there is no polynomial optimization algorithm for this problem would settle the famous NP ≠ P question.We show here the nonexistence of a polynomial knapsack algorithm within the class of algorithms having restricted access to the input. Algorithms for the problem max{c(S): a(S) ≤ b, S ⊆ En} that can only check the sign of a(S) − b cannot have a better performance guarantee than the greedy algorithm; furthermore even if they can exploit the order of the densities ci/ai, 1 ≤ i ≤ n, or of the weights a(S), S ⊆ En, they cannot be guaranteed to find the optimum.
+Keywords
+polynomial time algorithm knapsack problem 

@@ -1,0 +1,6 @@
+Convergence of the Nelder--Mead Simplex Method to a Nonstationary Point
+K. I. M.  McKinnon;
+Abstract
+This paper analyzes the behavior of the Nelder--Mead simplex method for a family of examples which cause the method to converge to a nonstationary point. All the examples use continuous functions of two variables. The family of functions contains strictly convex functions with up to three continuous derivatives. In all the examples the method repeatedly applies the inside contraction step with the best vertex remaining fixed. The simplices tend to a straight line which is orthogonal to the steepest descent direction. It is shown that this behavior cannot occur for functions with more than three continuous derivatives. The stability of the examples is analyzed.
+Keywords
+Nelder--Mead method, direct search, simplex, unconstrained optimization, 65K05, 

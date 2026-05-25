@@ -1,0 +1,6 @@
+An extension of the \(\alpha \hbox {BB}\)-type underestimation to linear parametric Hessian matrices
+Milan Hladík;
+Abstract
+The classical \(\alpha \hbox {BB}\) method is a global optimization method the important step of which is to determine a convex underestimator of an objective function on an interval domain. Its particular point is to enclose the range of a Hessian matrix in an interval matrix. To have a tighter estimation of the Hessian matrices, we investigate a linear parametric form enclosure in this paper. One way to obtain this form is by using a slope extension of the Hessian entries. Numerical examples indicate that our approach can sometimes significantly reduce overestimation on the objective function. However, the slope extensions highly depend on a choice of the center of linearization. We compare some naive choices and also propose a heuristic one, which performs well in executed examples, but it seems there is no one global winner.
+Keywords
+Global optimization  Interval computation  Convex relaxation  

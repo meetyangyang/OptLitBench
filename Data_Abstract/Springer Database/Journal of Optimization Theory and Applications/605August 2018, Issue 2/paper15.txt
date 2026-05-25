@@ -1,0 +1,6 @@
+Analysis of an Optimal Control Problem Related to the Anaerobic Digestion Process
+Terence Bayen;Olivier Cots;Pedro Gajardo;
+Abstract
+Our aim in this work is to synthesize optimal feeding strategies that maximize, over a time period, the biogas production in a continuously filled bioreactor controlled by its dilution rate. Such an anaerobic process is described by a four-dimensional dynamical system. Instead of modeling the optimization of the biogas production as a Lagrange-type optimal control problem, we propose a slightly different optimal control approach in this paper: We study the minimal time control problem to reach a target point, which is chosen in such a way that it maximizes the biogas production at steady state. Thanks to the Pontryagin maximum principle and the geometric control theory, we provide an optimal feedback control for the minimal time control problem, when the initial conditions are taken within the invariant and attractive manifold of the system. The optimal synthesis exhibits turnpike and anti-turnpike singular arcs and a cut locus.
+Keywords
+Geometric control  Pontryagin maximum principle  Optimal feedback  Chemostat model  49J15  49M30  93A30  

@@ -1,0 +1,6 @@
+On approximation of dominating tree in wireless sensor networks
+Incheol Shin;Yilin Shen;My T. Thai;
+Abstract
+We study the following problem: Given a weighted graph G = (V, E, w) with \({w: E \rightarrow \mathbb{Z}^+}\) , the dominating tree (DT) problem asks us to find a minimum total edge weight tree T such that for every \({v \in V}\) , v is either in T or adjacent to a vertex in T. To the best of our knowledge, this problem has not been addressed in the literature. Solving the DT problem can yield a routing backbone for broadcast protocols since (1) each node does not have to construct their own broadcast tree, (2) utilize the virtual backbone to reduce the message overhead, and (3) the weight of backbone representing the energy consumption is minimized. We prove the hardness of this problem, including the inapproximability result and present an approximation algorithm together with an efficient heuristic. Finally, we verify the effectiveness of our proposal through simulation.
+Keywords
+Dominating tree  Approximation algorithm  Routing backbone  Wireless sensor network  

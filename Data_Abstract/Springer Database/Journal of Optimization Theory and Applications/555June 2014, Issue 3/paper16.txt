@@ -1,0 +1,6 @@
+Optimal Design of the Time-Dependent Support of Bang–Bang Type Controls for the Approximate Controllability of the Heat Equation
+Francisco Periago;
+Abstract
+We consider the nonlinear optimal shape design problem, which consists in minimizing the amplitude of bang–bang type controls for the approximate controllability of a linear heat equation with a bounded potential. The design variable is the time-dependent support of the control. Precisely, we look for the best space–time shape and location of the support of the control among those, which have the same Lebesgue measure. Since the admissibility set for the problem is not convex, we first obtain a well-posed relaxation of the original problem and then use it to derive a descent method for the numerical resolution of the problem. Numerical experiments in 2D suggest that, even for a regular initial datum, a true relaxation phenomenon occurs in this context. Also, we implement a simple algorithm for computing a quasi-optimal domain for the original problem from the optimal solution of its associated relaxed one.
+Keywords
+Linear heat equation with potential  Approximate controllability  Bang–bang control  Optimal design of support  Relaxation  Numerical approximation  

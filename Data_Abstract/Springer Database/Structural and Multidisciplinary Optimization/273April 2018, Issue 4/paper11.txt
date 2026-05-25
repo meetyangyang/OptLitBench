@@ -1,0 +1,6 @@
+On design-set restriction in SAND topology optimization
+Dirk Munro;Albert A. Groenwold;
+Abstract
+We study design-set restriction—i.e., the issue of nonexistence of solutions, mesh-dependence, and local minima—in the alternative SAND (‘simultaneous analysis and design’, or ‘direct’) setting of the classical SIMP minimum compliance topology optimization problem. Compared to some predominant filtering techniques, which are typically studied in the conventional NAND setting, so-called ‘slope constraints’—point-wise bounds on the gradient of the material distribution function—necessitate only a reasonable amount of computational resources in the alternative SAND setting. The numerical method is based on a standard finite element procedure and sequential approximate optimization (SAO) method. Numerical experiments with a random multistart strategy and a simple relaxation procedure suggest that ‘probably’ globally optimal 0-1 designs may be obtained in a reasonable amount of computation time.
+Keywords
+Topology design  Simultaneous analysis and design (SAND)  Quasi-Newton methods  Finite element methods  Restriction methods  Slope constraints  

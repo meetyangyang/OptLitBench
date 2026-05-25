@@ -1,0 +1,6 @@
+A discussion on the conservatism of robust linear optimization problems
+Pengfei Liu;Wenguo Yang;Tiande Guo;
+Abstract
+In 2004, Bertsimas and Sim proposed a robust approach that can control the degree of conservatism by applying a limitation Γ to the maximum number of parameters that are allowed to change. However, the robust approach can become extremely conservative even when Γ is relatively small. In this paper, we provide a theoretical analysis to explain why this extreme conservatism occurs. We further point out that the robust approach does not reach an extremely conservative state when Γ is less than k, where k is the number of nonzero components of the optimal solution of the extremely conservative robust approach. This research also shows that care must be taken when adjusting the value of Γ to control the degree of conservatism because the approach may result in greater conservatism than was intended. We subsequently apply our analysis to additive combinatorial optimization problems. Finally, we illustrate our results on numerical simulations.
+Keywords
+Robust approaches, conservatism, linear programming, combinatorial optimization 

@@ -1,0 +1,6 @@
+A univariate global search working with a set of Lipschitz constants for the first derivative
+Dmitri E. Kvasov;Yaroslav D. Sergeyev;
+Abstract
+In the paper, a global optimization problem is considered where the objective function f (x) is univariate, black-box, and its first derivative f ′(x) satisfies the Lipschitz condition with an unknown Lipschitz constant K. In the literature, there exist methods solving this problem by using an a priori given estimate of K, its adaptive estimates, and adaptive estimates of local Lipschitz constants. Algorithms working with a number of Lipschitz constants for f ′(x) chosen from a set of possible values are not known in spite of the fact that a method working in this way with Lipschitz objective functions, DIRECT, has been proposed in 1993. A new geometric method evolving its ideas to the case of the objective function having a Lipschitz derivative is introduced and studied in this paper. Numerical experiments executed on a number of test functions show that the usage of derivatives allows one to obtain, as it is expected, an acceleration in comparison with the DIRECT algorithm.
+Keywords
+Global optimization  Lipschitz derivatives  A set of Lipschitz constants  Geometric algorithms  

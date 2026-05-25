@@ -1,0 +1,6 @@
+Subspace Barzilai-Borwein Gradient Method for Large-Scale Bound Constrained Optimization
+Yunhai Xiao;Qingjie Hu;
+Abstract
+An active set subspace Barzilai-Borwein gradient algorithm for large-scale bound constrained optimization is proposed. The active sets are estimated by an identification technique. The search direction consists of two parts: some of the components are simply defined; the other components are determined by the Barzilai-Borwein gradient method. In this work, a nonmonotone line search strategy that guarantees global convergence is used. Preliminary numerical results show that the proposed method is promising, and competitive with the well-known method SPG on a subset of bound constrained problems from CUTEr collection.
+Keywords
+Bound constrained problem  Barzilai-Borwein gradient method  Nonmonotone line search  Stationary point  

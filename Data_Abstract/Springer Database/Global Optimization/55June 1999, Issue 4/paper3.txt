@@ -1,0 +1,6 @@
+A Nonsmooth Global Optimization Technique Using Slopes: The One-Dimensional Case
+Dietmar Ratz;
+Abstract
+In this paper we introduce a pruning technique based on slopes in the context of interval branch-and-bound methods for nonsmooth global optimization. We develop the theory for a slope pruning step which can be utilized as an accelerating device similar to the monotonicity test frequently used in interval methods for smooth problems. This pruning step offers the possibility to cut away a large part of the box currently investigated by the optimization algorithm. We underline the new technique's efficiency by comparing two variants of a global optimization model algorithm: one equipped with the monotonicity test and one equipped with the pruning step. For this reason, we compared the required CPU time, the number of function and derivative or slope evaluations, and the necessary storage space when solving several smooth global optimization problems with the two variants. The paper concludes on the test results for several nonsmooth examples.
+Keywords
+Branch-and-bound  Global optimization  Interval arithmetic  Interval slopes  

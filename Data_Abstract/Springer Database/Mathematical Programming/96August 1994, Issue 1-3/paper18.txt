@@ -1,0 +1,6 @@
+Minimum cost multiflows in undirected networks
+A. V. Karzanov;
+Abstract
+LetN = (G, T, c, a) be a network, whereG is an undirected graph,T is a distinguished subset of its vertices (calledterminals), and each edgee ofG has nonnegative integer-valuedcapacity c(e) andcost a(e). Theminimum cost maximum multi(commodity)flow problem (*) studied in this paper is to find ac-admissible multiflowf inG such that: (i)f is allowed to contain partial flows connecting any pairs of terminals, (ii) the total value off is as large as possible, and (iii) the total cost off is as small as possible, subject to (ii). This generalizes, on one hand, the undirected version of the classical minimum cost maximum flow problem (when |T| = 2), and, on the other hand, the problem of finding a maximum fractional packing ofT-paths (whena ≡ 0). Lovász and Cherkassky independently proved that the latter has a half-integral optimal solution.
+Keywords
+Network  Multicommodity flow  Minimum cost flow  Edge-disjoint paths  

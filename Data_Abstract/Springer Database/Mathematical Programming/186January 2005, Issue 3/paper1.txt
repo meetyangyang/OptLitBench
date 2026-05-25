@@ -1,0 +1,6 @@
+Non-euclidean restricted memory level method for large-scale convex optimization
+Aharon Ben-Tal;Arkadi Nemirovski;
+Abstract
+We propose a new subgradient-type method for minimizing extremely large-scale nonsmooth convex functions over “simple” domains. The characteristic features of the method are (a) the possibility to adjust the scheme to the geometry of the feasible set, thus allowing to get (nearly) dimension-independent (and nearly optimal in the large-scale case) rate-of-convergence results for minimization of a convex Lipschitz continuous function over a Euclidean ball, a standard simplex, and a spectahedron (the set of positive semidefinite symmetric matrices, of given size, with unit trace); (b) flexible handling of accumulated information, allowing for tradeoff between the level of utilizing this information and iteration’s complexity. We present extensions of the scheme for the cases of minimizing non-Lipschitzian convex objectives, finding saddle points of convex-concave functions and solving variational inequalities with monotone operators. Finally, we report on encouraging numerical results of experiments with test problems of dimensions up to 66,000.
+Keywords
+Variational Inequality  Monotone Operator  Lipschitz Continuous Function  Euclidean Ball  Convex Objective  

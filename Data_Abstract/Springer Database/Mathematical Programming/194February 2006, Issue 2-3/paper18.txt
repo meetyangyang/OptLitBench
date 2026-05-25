@@ -1,0 +1,6 @@
+Approximate extended formulations
+Mathieu Van Vyve;Laurence A. Wolsey;
+Abstract
+Mixed integer programming (MIP) formulations are typically tightened through the use of a separation algorithm and the addition of violated cuts. Using extended formulations involving new variables is a possible alternative, but this often results in prohibitively large MIPs where even the linear programming relaxations are hard or impossible to solve. In this paper, we demonstrate how, in certain cases, it is possible and interesting to define ``approximate'' extended formulations. In all the examples considered, our description involves a single control parameter K. Large values of K result in strong but large formulations. In particular, when K takes its maximum value, the approximate formulation is identical to the complete extended formulation. Through this approximation parameter, the user has control over the tradeoff between the strength and the size of the formulation.
+Keywords
+Extended formulation  Lot-sizing  Traveling salesman problem  Convex hull  Approximation  Mixed integer programming  

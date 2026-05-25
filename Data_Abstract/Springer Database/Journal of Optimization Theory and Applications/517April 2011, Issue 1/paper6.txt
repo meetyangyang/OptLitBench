@@ -1,0 +1,6 @@
+The Q Method for Symmetric Cone Programming
+Farid Alizadeh;Yu Xia;
+Abstract
+The Q method of semidefinite programming, developed by Alizadeh, Haeberly and Overton, is extended to optimization problems over symmetric cones. At each iteration of the Q method, eigenvalues and Jordan frames of decision variables are updated using Newton’s method. We give an interior point and a pure Newton’s method based on the Q method. In another paper, the authors have shown that the Q method for second-order cone programming is accurate. The Q method has also been used to develop a “warm-starting” approach for second-order cone programming. The machinery of Euclidean Jordan algebra, certain subgroups of the automorphism group of symmetric cones, and the exponential map is used in the development of the Newton method. Finally we prove that in the presence of certain non-degeneracies the Jacobian of the Newton system is nonsingular at the optimum. Hence the Q method for symmetric cone programming is accurate and can be used to “warm-start” a slightly perturbed symmetric cone program.
+Keywords
+Symmetric cone programming  Infeasible interior point method  Polar decomposition  Jordan algebras  Complementarity  Newton’s method  “Warm-starting” algorithm  

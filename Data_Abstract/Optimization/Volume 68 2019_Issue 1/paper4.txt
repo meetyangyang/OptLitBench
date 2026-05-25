@@ -1,0 +1,6 @@
+An incremental mirror descent subgradient algorithm with random sweeping and proximal step
+Radu Ioan Boţ;Axel Böhm;
+Abstract
+ABSTRACTWe investigate the convergence properties of incremental mirror descent type subgradient algorithms for minimizing the sum of convex functions. In each step, we only evaluate the subgradient of a single component function and mirror it back to the feasible domain, which makes iterations very cheap to compute. The analysis is made for a randomized selection of the component functions, which yields the deterministic algorithm as a special case. Under supplementary differentiability assumptions on the function which induces the mirror map, we are also able to deal with the presence of another term in the objective function, which is evaluated via a proximal type step. In both cases, we derive convergence rates of O(1/k) in expectation for the kth best objective function value and illustrate our theoretical findings by numerical experiments in positron emission tomography and machine learning.
+Keywords
+Nonsmooth convex minimization, incremental mirror descent algorithm, global rate of convergence, random sweepingAMS SUBJECT CLASSIFICATIONS: 90C25, 90C90, 90C06 

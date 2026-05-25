@@ -1,0 +1,6 @@
+Numerical Structure of the Hessian of the Lagrange Dual Function for a Class of Convex Problems
+Emil  Klintberg and Sebastien  Gros;
+Abstract
+This paper considers a structured separable convex optimization problem, motivated by the deployment of model predictive control on multiagent systems that are interacting via nondelayed couplings. We show that the dual decomposition of this problem yields a numerical structure in the Hessian of the dual function. This numerical structure allows for deploying a quasi-Newton method in the dual space. For large problems, this approach yields a large reduction of the computational complexity of solving the problem, and for geographically distributed problems a reduction in the communication burden.
+Keywords
+dual decomposition, Newton method, structure exploitation, dual Hessian, 49M15, 49M20, 49M27, 49M29, 90C35, 

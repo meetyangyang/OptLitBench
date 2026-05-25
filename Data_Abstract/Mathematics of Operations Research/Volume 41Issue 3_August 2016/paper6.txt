@@ -1,0 +1,6 @@
+Unrelated Machine Scheduling with Stochastic Processing Times
+Martin Skutella;Maxim Sviridenko;Marc Uetz;
+Abstract
+Two important characteristics encountered in many real-world scheduling problems are heterogeneous processors and a certain degree of uncertainty about the processing times of jobs. In this paper we address both, and study for the first time a scheduling problem that combines the classical unrelated machine scheduling model with stochastic processing times of jobs. By means of a novel time-indexed linear programming relaxation, we show how to compute in polynomial time a scheduling policy with provable performance guarantee for the stochastic version of the unrelated parallel machine scheduling problem with the weighted sum of completion times objective. Our performance guarantee depends on the squared coefficient of variation of the processing times and we show that this dependence is tight. Currently best-known bounds for deterministic scheduling problems are contained as special cases.
+Keywords
+stochastic scheduling approximation algorithm linear programming relaxation 

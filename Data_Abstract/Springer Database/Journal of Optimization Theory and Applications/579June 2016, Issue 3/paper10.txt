@@ -1,0 +1,6 @@
+Dynamic Programming for Mean-Field Type Control
+Mathieu Laurière;Olivier Pironneau;
+Abstract
+We investigate a model problem for optimal resource management. The problem is a stochastic control problem of mean-field type. We compare a Hamilton–Jacobi–Bellman fixed-point algorithm to a steepest descent method issued from calculus of variations. For mean-field type control problems, stochastic dynamic programming requires adaptation. The problem is reformulated as a distributed control problem by using the Fokker–Planck equation for the probability distribution of the stochastic process; then, an extended Bellman’s principle is derived by a different argument than the one used by P. L. Lions. Both algorithms are compared numerically.
+Keywords
+Stochastic control  Mean-field game  Hamilton–Jacobi–Bellman  35Q93  37N35  49J20  

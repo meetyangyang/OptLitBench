@@ -1,0 +1,6 @@
+A special complementarity function revisited
+Roger Behling;Andreas Fischer;Klaus Schönefeld;Nico Strasdat;
+Abstract
+Recently, a local framework of Newton-type methods for constrained systems of equations has been developed. Applied to the solution of Karush–Kuhn–Tucker (KKT) systems, the framework enables local quadratic convergence under conditions that allow nonisolated and degenerate KKT points. This result is based on a reformulation of the KKT conditions as a constrained piecewise smooth system of equations. It is an open question whether a comparable result can be achieved for other (not piecewise smooth) reformulations. It will be shown that this is possible if the KKT system is reformulated by means of the Fischer–Burmeister complementarity function under conditions that allow degenerate KKT points and nonisolated Lagrange multipliers. To this end, novel constrained Levenberg–Marquardt subproblems are introduced. They allow significantly longer steps for updating the multipliers. Based on this, a convergence rate of at least 1.5 is shown.
+Keywords
+Karush–Kuhn–Tucker system, nonunique multipliers, degenerate solution, constrained Levenberg–Marquardt method 

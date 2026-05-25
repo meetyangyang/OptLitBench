@@ -1,0 +1,4 @@
+The WeightedCircuitsLmax Constraint
+Kim Rioux-Paradis;Claude-Guy Quimper;
+Abstract
+The travelling salesman problem is a well-known problem that can be generalized to the m-travelling salesmen problem with min-max objective. In this problem, each city must be visited by exactly one salesman, among m travelling salesmen. We want to minimize the longest circuit travelled by a salesman. This paper generalizes the Circuit and WeightedCircuit constraints and presents a new constraint that encodes m cycles all starting from the same city and whose lengths are bounded by a variable \(L_{max}\). We propose two filtering algorithms, each based on a relaxation of the problem that uses the structure of the graph and the distances between each city. We show that this new constraint improves the solving time for the m travelling salesmen problem.

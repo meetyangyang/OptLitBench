@@ -1,0 +1,6 @@
+Optimal Sequential and Parallel Algorithms to Compute All Cut Vertices on Trapezoid Graphs
+Mrinmoy Hota;Madhumangal Pal;Tapan K. Pal;
+Abstract
+In this paper, a sequential algorithm is presented to find all cut-vertices on trapezoid graphs. To every trapezoid graph G there is a corresponding trapezoid representation. If all the 4n corner points of n trapezoids, in a trapezoid representation of a trapezoid graph G with n vertices, are given, then the proposed sequential algorithm runs in O(n) time. Parallel implementation of this algorithm can be done in O(log n) time using O(n/ log n) processors on an EREW PRAM model.
+Keywords
+trapezoid graph  cut vertex  block  design and analysis of algorithm  parallel algorithm  

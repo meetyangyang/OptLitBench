@@ -1,0 +1,6 @@
+Rounding of Polytopes in the Real Number Model of Computation
+Leonid G. Khachiyan;
+Abstract
+Let 𝒜 be a set of m points in ℝn. We show that the problem of (1 + ϵ)n-rounding of 𝒜, i.e., the problem of computing an ellipsoid E ⊆ ℝn such that [(1 + ϵ)n]−1E ⊆ conv. hull(𝒜) ⊆ E, can be solved in O(mn2(ϵ−1 + ln n + ln ln m)) arithmetic operations and comparisons. This result implies that the problem of approximating the minimum volume ellipsoid circumscribed about 𝒜 can be solved in O(m3.5 ln(mϵ−1)) operations to a relative accuracy of ϵ in the volume. The latter bound also applies to the (1 + ϵ)n-rounding problem. Our bounds hold for the real number model of computation.
+Keywords
+rounding of polytopes Löwner ellipsoid real number model of computation strongly polynomial algorithm 

@@ -1,0 +1,6 @@
+Feasible Barzilai–Borwein-like methods for extreme symmetric eigenvalue problems
+ Bo   Jiang ; Yu-Hong   Dai ;
+Abstract
+ This paper aims to study feasible Barzilai–Borwein (BB)-like methods for extreme symmetric eigenvalue problems. For the two-dimensional case, we establish the local superlinear convergence result of FLBB, FSBB, FABB, and FADBB algorithms. A counter-example is also given, showing that the algorithms may cycle or stop at a non-stationary point. In order to circumvent the difficulty, we propose a safeguard in choosing the stepsize. We also adopt an adaptive non-monotone line search with an improved line search to ensure the global convergence of AFBB-like methods. Numerical experiments on a set of test problems from UF Sparse Matrix Collection demonstrate that, comparing several available codes including eigs, irbleigs and jdcg, AFBB-like methods are very useful for large-scale sparse extreme symmetric eigenvalue problems. 
+Keywords
+Barzilai–Borwein-like method, feasible, extreme symmetric eigenvalue problems, superlinear convergence, global convergence, adaptive non-monotone line search, improved Wolfe line search 

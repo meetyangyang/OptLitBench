@@ -1,0 +1,6 @@
+An integer program and a hybrid genetic algorithm for the university timetabling problem
+Xuehao Feng;Yuna Lee;Ilkyeong Moon;
+Abstract
+The university timetabling problem (UTP) has been studied by numerous research groups for decades. In addition to addressing hard and soft constraints, we extend the UTP by considering consecutiveness and periodicity constraints of multi-session lectures, which are common in many eastern Asian universities. Because schedulers can decide the consecutiveness and periodicity constraints for the multi-session lectures within a limited ratio, we consider these novel decision variables in our model. We develop a mixed integer linear program for the UTP. For the analysis, we convert the UTP into the three-dimensional container packing problem (3DCPP) and create a hybrid genetic algorithm (HGA), which has been shown to be efficient in solving the 3DCPP. We also develop a tabu search algorithm based on the existing UTP literature and compare the findings with that of our HGA. The results show that our HGA obtains a better solution than the tabu search algorithm in a reasonable amount of time.
+Keywords
+university timetabling problem, mixed integer linear program, periodicity constraint, consecutiveness constraint, hybrid genetic algorithm 

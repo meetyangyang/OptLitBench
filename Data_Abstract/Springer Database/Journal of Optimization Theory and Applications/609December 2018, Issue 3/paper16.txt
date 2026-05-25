@@ -1,0 +1,6 @@
+Optimal Battery Aging: An Adaptive Weights Dynamic Programming Algorithm
+Benjamin Heymann;Pierre Martinon;
+Abstract
+We present an algorithm to handle the optimization over a long horizon of an electric microgrid including a battery energy storage system. While the battery is an important and costly component of the microgrid, its aging process is often not taken into account by the energy management system, mostly because of modeling and computing challenges. We address the computing aspect by a new approach combining dynamic programming, decomposition and relaxation techniques. We illustrate this adaptive weight’ method with numerical simulations for a toy microgrid model. Compared to a straightforward resolution by dynamic programming, our algorithm decreases the computing time by more than one order of magnitude, can be parallelized, and allows for online implementations. We believe that this approach can be used for other applications presenting fast and slow variables.
+Keywords
+Control  Aging  Dynamic programming  Energy management system  93A13  93C15  90C39  49L20  49M27  49M29  

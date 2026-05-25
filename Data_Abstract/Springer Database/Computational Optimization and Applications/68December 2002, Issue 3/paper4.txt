@@ -1,0 +1,6 @@
+A Mixed Heuristic for Circuit Partitioning
+C. Gil;J. Ortega;M.G. Montoya;R. Baños;
+Abstract
+As general-purpose parallel computers are increasingly being used to speed up different VLSI applications, the development of parallel algorithms for circuit testing, logic minimization and simulation, HDL-based synthesis, etc. is currently a field of increasing research activity. This paper describes a circuit partitioning algorithm which mixes Simulated Annealing (SA) and Tabu Search (TS) heuristics. The goal of such an algorithm is to obtain a balanced distribution of the target circuit among the processors of the multicomputer allowing a parallel CAD application for Test Pattern Generation to provide good efficiency. The results obtained indicate that the proposed algorithm outperforms both a pure Simulated Annealing and a Tabu Search. Moreover, the usefulness of the algorithm in providing a balanced workload distribution is demonstrated by the efficiency results obtained by a topological partitioning parallel test-pattern generator in which the proposed algorithm has been included. An extented algorithm that works with general graphs to compare our approach with other state of the art algorithms has been also included.
+Keywords
+circuit partitioning  optimisation  parallel test pattern generation  simulated annealing  Tabu Search  

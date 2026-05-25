@@ -1,0 +1,6 @@
+Image reconstruction in optical tomography with the aid of reverse differentiation in the complex domain
+   R.   Khalaf ;   P.   Van Der Zee ;   L. C. W.   Dixon ;
+Abstract
+ In Optical Tomography, an efficient image reconstruction algorithm is needed in order to deduce the tissue optical properties from information obtained from measurements on the boundary. The image reconstruction in this work is treated as a non-linear optimisation problem and uses the Truncated Newton Conjugate Gradient method with Trast region. Reverse differentiation is used in order to speed up the reconstruction. The algorithm is attractive because of the speed increase gained from the use of reverse differentiation, and the storage benefit from the use of the Truncated Newton method.  Reverse differentiation is applied to the inverse problem in Optical Tomography in the  frequency domain. The problem of using complex variables in reverse differentiation is  discussed, and the solution for complex linear systems of equations obtained. Error functions are outlined for phase shift, modulation and amplitude. The speed of the reconstruction using reverse differentiation compared to forward differentiation is discussed.  
+Keywords
+Reverse differentiation, Complex variables, Optical tomography 

@@ -1,0 +1,6 @@
+An optimality criteria based method for discrete design optimization taking into account buildability constraints
+Mattias Schevenels;Sean McGinn;Anke Rolvink;Jeroen Coenders;
+Abstract
+This paper presents a heuristic design optimization method specifically developed for practicing structural engineers. Practical design optimization problems are often governed by buildability constraints. The majority of optimization methods that have recently been proposed for design optimization under buildability constraints are based on evolutionary computing. While these methods are generally easy to implement, they require a large number of function evaluations (finite element analyses), and they involve algorithmic parameters that require careful tuning. As a consequence, both the computation time and the engineering time are high. The discrete design optimization algorithm presented in this paper is based on the optimality criteria method for continuous optimization. It is faster than an evolutionary algorithm and it is free of tuning parameters. The algorithm is successfully applied to two classical benchmark problems (the design of a ten-bar truss and an eight-story frame) and to a practical truss design optimization problem.
+Keywords
+Discrete optimization  Optimality criteria methods  Optimal truss design  Buildability constraints  

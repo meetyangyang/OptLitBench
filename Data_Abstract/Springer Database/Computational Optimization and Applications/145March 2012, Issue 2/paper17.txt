@@ -1,0 +1,6 @@
+Virtual control regularization of state constrained linear quadratic optimal control problems
+Matthias Gerdts;Björn Hüpping;
+Abstract
+A numerical method for linear quadratic optimal control problems with pure state constraints is analyzed. Using the virtual control concept introduced by Cherednichenko et al. (Inverse Probl. 24:1–21, 2008) and Krumbiegel and Rösch (Control Cybern. 37(2):369–392, 2008), the state constrained optimal control problem is embedded into a family of optimal control problems with mixed control-state constraints using a regularization parameter α>0. It is shown that the solutions of the problems with mixed control-state constraints converge to the solution of the state constrained problem in the L 2 norm as α tends to zero. The regularized problems can be solved by a semi-smooth Newton method for every α>0 and thus the solution of the original state constrained problem can be approximated arbitrarily close as α approaches zero. Two numerical examples with benchmark problems are provided.
+Keywords
+Optimal control  State constraints  Virtual control  Regularization  

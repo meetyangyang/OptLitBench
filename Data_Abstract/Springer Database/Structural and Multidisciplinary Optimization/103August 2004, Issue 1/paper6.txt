@@ -1,0 +1,6 @@
+ Robust shape optimization of notches for fatigue-life extension
+M. McDonald;M. Heller;
+Abstract
+An iterative 2D finite-element-based optimization procedure has been developed which incorporates robust design philosophies. This has been used to determine precise free-form shapes for a hole in a plate example, with the aim of maximizing its fatigue-life when exposed to varying load orientations. Past methods have typically considered only a single nominal load orientation, with empirical approaches to deal with the orientation variability, thus resulting in suboptimal solutions. Here a robust stress method is developed that produces a notch shape that minimizes the peak stress and renders it constant for a range of load orientations. Furthermore, a more sophisticated robust fatigue-damage optimization method is then developed to minimize the peak fatigue damage for a given stochastic distribution of load orientations. Fatigue calculations for an example problem with significant load orientation variation show that the robust optimization methods provide fatigue-life extensions 2 to 8 times better than past methods. It is anticipated that the implementation of robust optimal shapes in metallic components would result in greater fatigue-life extension.   
+Keywords
+fatigue-life enhancement  shape optimization  stress concentration   

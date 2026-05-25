@@ -1,0 +1,6 @@
+Modified Gauss–Newton scheme with worst case guarantees for global performance
+ YU.   Nesterov ;
+Abstract
+ In this paper, we suggest a new version of the Gauss–Newton method for solving a system of non-linear equations which combines the idea of sharp merit function with the idea of quadratic regularization. For this scheme, we prove general convergence results and, under a natural non-degeneracy assumption, local quadratic convergence. We analyze the behavior of this scheme on a natural problem class for which we get global and local worst-case complexity bounds. The implementation of each step of the scheme can be done by standard convex optimization technique. 
+Keywords
+Systems of non-linear equations, Gauss–Newton method, Trust-region methods, Complexity bounds, Global rate of convergence 

@@ -1,0 +1,6 @@
+{0, 1/2}-Chvátal-Gomory cuts
+Alberto Caprara;Matteo Fischetti;
+Abstract
+Given the integer polyhedronP  t := conv{x ∈ℤ n :Ax⩽b}, whereA ∈ℤ m × n  andb ∈ℤ m , aChvátal-Gomory (CG)cut is a valid inequality forP 1 of the type λτAx⩽⌊λτb⌋ for some λ∈ℝ +  m   such that λτA∈ℤ n  . In this paper we study {0, 1/2}-CG cuts, arising for λ∈{0, 1/2} m . We show that the associated separation problem, {0, 1/2}-SEP, is equivalent to finding a minimum-weight member of a binary clutter. This implies that {0, 1/2}-SEP is NP-complete in the general case, but polynomially solvable whenA is related to the edge-path incidence matrix of a tree. We show that {0, 1/2}-SEP can be solved in polynomial time for a convenient relaxation of the systemAx<-b. This leads to an efficient separation algorithm for a subclass of {0, 1/2}-CG cuts, which often contains wide families of strong inequalities forP 1. Applications to the clique partitioning, asymmetric traveling salesman, plant location, acyclic subgraph and linear ordering polytopes are briefly discussed.
+Keywords
+Integer programming  Cutting planes  Binary clutters  

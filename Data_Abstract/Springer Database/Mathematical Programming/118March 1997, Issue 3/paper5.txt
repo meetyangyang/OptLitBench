@@ -1,0 +1,6 @@
+A preconditioning proximal newton method for nondifferentiable convex optimization
+Liqun Qi;Xiaojun Chen;
+Abstract
+We propose a proximal Newton method for solving nondifferentiable convex optimization. This method combines the generalized Newton method with Rockafellar’s proximal point algorithm. At each step, the proximal point is found approximately and the regularization matrix is preconditioned to overcome inexactness of this approximation. We show that such a preconditioning is possible within some accuracy and the second-order differentiability properties of the Moreau-Yosida regularization are invariant with respect to this preconditioning. Based upon these, superlinear convergence is established under a semismoothness condition.
+Keywords
+Nondifferentiable convex optimization  Proximal point  Superlinear convergence  Newton’s method  

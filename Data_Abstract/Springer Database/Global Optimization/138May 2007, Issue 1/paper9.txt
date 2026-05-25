@@ -1,0 +1,6 @@
+A finite steps algorithm for solving convex feasibility problems
+M. Ait Rami;U. Helmke;J. B. Moore;
+Abstract
+This paper develops a new variant of the classical alternating projection method for solving convex feasibility problems where the constraints are given by the intersection of two convex cones in a Hilbert space. An extension to the feasibility problem for the intersection of two convex sets is presented as well. It is shown that one can solve such problems in a finite number of steps and an explicit upper bound for the required number of steps is obtained. As an application, we propose a new finite steps algorithm for linear programming with linear matrix inequality constraints. This solution is computed by solving a sequence of a matrix eigenvalue decompositions. Moreover, the proposed procedure takes advantage of the structure of the problem. In particular, it is well adapted for problems with several small size constraints.
+Keywords
+Convex optimization  Linear matrix inequality  Eigenvalue problem  Alternating projections  

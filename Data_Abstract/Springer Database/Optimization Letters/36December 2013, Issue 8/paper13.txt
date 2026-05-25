@@ -1,0 +1,6 @@
+Improved load balancing and resource utilization for the Skill Vehicle Routing Problem
+Silvia Schwarze;Stefan Voß;
+Abstract
+The Skill Vehicle Routing Problem (Skill VRP) considers vehicle routing under the assumption of skill requirements given on demand nodes. These requirements have to be met by the serving vehicles. No further constraints, like capacity or cost restrictions, are imposed. Skill VRP solutions may show a tendency to have a bad load balancing and resource utilization. In a majority of solutions only a subset of vehicles is active. Moreover, a considerable share of demand nodes is served by vehicles that have a skill higher than necessary. A reason for that solution behavior lies in the model itself. As no resource restrictions are imposed, the Skill VRP tends to produce TSP-like solutions. To obtain better balanced solutions, we introduce two new approaches. First we propose a minmax model that aims at minimizing the maximal vehicle tour length. Second we suggest a two-step method combining the minmax approach with a distance constrained model. Our experiments illustrate that these approaches lead to improvements in load balancing and resource utilization, but, with different impact on routing costs.
+Keywords
+Site-dependent VRP  Minmax  Distance constrained VRP  Mathematical model  Dominance  

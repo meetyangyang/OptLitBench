@@ -1,0 +1,6 @@
+Weighted stochastic response surface method considering sample weights
+Fenfen Xiong;Wei Chen;Ying Xiong;Shuxing Yang;
+Abstract
+Conventional stochastic response surface methods (SRSM) based on polynomial chaos expansion (PCE) for uncertainty propagation treat every sample point equally during the regression process and may produce inaccurate estimations of PCE coefficients. To address this issue, a new weighted stochastic response surface method (WSRSM) that considers the sample probabilistic weights in regression is studied in this work. Techniques for determining sample probabilistic weights for three sampling approaches Gaussian Quadrature point (GQ), Monomial Cubature Rule (MCR), and Latin Hypercube Design (LHD) are developed. The advantage of the proposed method is demonstrated through mathematical and engineering examples. It is shown that for various sampling techniques WSRSM consistently achieves higher accuracy of uncertainty propagation without introducing extra computational cost compared to the conventional SRSM. Insights into the relative accuracy and efficiency of various sampling techniques in implementation are provided as well.
+Keywords
+Stochastic response surface method  Sample probabilistic weights  Gauss quadrature  Monomial Cubature rule  Latin hypercube design  

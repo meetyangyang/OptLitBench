@@ -1,0 +1,7 @@
+On robust optimization of two-stage systems
+Samer Takriti;Shabbir Ahmed;
+Abstract
+Robust-optimization models belong to a special class of stochastic programs, where the traditional expected cost minimization objective is replaced by one that explicitly addresses cost variability. This paper explores robust optimization in the context of two-stage planning systems. We show that, under arbitrary measures for variability, the robust optimization approach might lead to suboptimal solutions to the second-stage planning problem. As a result, the variability of the second-stage costs may be underestimated, thereby defeating the intended purpose of the model. We propose sufficient conditions on the variability measure to remedy this problem. Under the proposed conditions, a robust optimization model can be efficiently solved using a variant of the L-shaped decomposition algorithm for traditional stochastic linear programs. We apply the proposed framework to standard stochastic-programming test problems and to an application that arises in auctioning excess electric power.
+
+Keywords
+stochastic programming  robust optimization  decomposition methods  risk modeling  utility theory  

@@ -1,0 +1,6 @@
+Global versus local search: the impact of population sizes on evolutionary algorithm performance
+Thomas Weise;Yuezhong Wu;Raymond Chiong;Ke Tang;Jörg Lässig;
+Abstract
+In the field of Evolutionary Computation, a common myth that “An Evolutionary Algorithm (EA) will outperform a local search algorithm, given enough runtime and a large-enough population” exists. We believe that this is not necessarily true and challenge the statement with several simple considerations. We then investigate the population size parameter of EAs, as this is the element in the above claim that can be controlled. We conduct a related work study, which substantiates the assumption that there should be an optimal setting for the population size at which a specific EA would perform best on a given problem instance and computational budget. Subsequently, we carry out a large-scale experimental study on 68 instances of the Traveling Salesman Problem with static population sizes that are powers of two between \((1+2)\) and \(({262144}+{524288})\) EAs as well as with adaptive population sizes. We find that analyzing the performance of the different setups over runtime supports our point of view and the existence of optimal finite population size settings.
+Keywords
+Population size  Traveling salesman problem  Experimentation  Statistics  Evolutionary computation  

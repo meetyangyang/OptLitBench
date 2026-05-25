@@ -1,0 +1,6 @@
+New algorithm for optimal parameter estimation with linear constraints
+S. A. Soliman;G. S. Christensen;
+Abstract
+This paper presents a new algorithm for optimal parameter estimation problems with linear constraints. The algorithm developed is based on least absolute-value approximations. The problem is solved first using a least-error-square technique, where we add to the cost function the equality constraints via Lagrange multipliers, to obtain a good estimate for the residuals of the measurements, having gained this information, we choose a number of measurements with the smallest residuals. This number equals the number of parameters to be estimated minus the number of constraints. Using these measurements together with the constraints, we obtain a number of observations equal to the number of parameters to be estimated. By using this technique, we show that there is no need to either iterate or use linear programming to obtain the estimation.
+Keywords
+Optimal parameter estimation  constrained estimation  least absolute value  

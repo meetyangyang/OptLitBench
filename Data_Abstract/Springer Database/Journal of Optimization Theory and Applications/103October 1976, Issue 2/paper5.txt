@@ -1,0 +1,6 @@
+On the existence of optimal controls for nonlinear systems
+A. Boyarsky;
+Abstract
+Let a nonlinear control system having the state space\(\underset{\raise0.3em\hbox{$\smash{\scriptscriptstyle-}$}}{\bar X}  \subseteq R^n \) be governed by the vector differential equation$$\dot x\left( t \right) = f\left( {t, x\left( t \right), u\left( t \right)} \right),$$ wherex(0)=x0 and  is the family of all bounded measurable functions from [0,T] intoU, a compact and convex subset ofR m . Letg:U→R m  be a bounded measurable function such thatg(U) is compact and convex, and letF be a function from\(\left[ {0, T} \right] \times \underset{\raise0.3em\hbox{$\smash{\scriptscriptstyle-}$}}{\bar X} \) intoR n×m . If, among other conditions, fori=1, ...,n,$$f^i \left( {t, x, u_1 } \right) - f^i \left( {t, x, u_2 } \right) \leqslant F^i \left( {t, x} \right)\left( {g\left( {u_1 } \right) - g\left( {u_2 } \right)} \right),$$ whereF i  is theith row ofF, then the main result of the paper establishes the existence of a control  which minimizes the cost functional$$I\left( u \right) = \int {_0^T }  c\left( {t, x\left( t \right), u\left( t \right)} \right)dt,$$ wherec(t,x,u) is convex inu for each (t,x). An example is worked out in detail.
+Keywords
+Optimal control  nonlinear systems  existence theorems  convexity  

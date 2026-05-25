@@ -1,0 +1,6 @@
+An Eulerian–Lagrangian method for optimization problems governed by multidimensional nonlinear hyperbolic PDEs
+Alina Chertock;Michael Herty;Alexander Kurganov;
+Abstract
+We present a numerical method for solving tracking-type optimal control problems subject to scalar nonlinear hyperbolic balance laws in one and two space dimensions. Our approach is based on the formal optimality system and requires numerical solutions of the hyperbolic balance law forward in time and its nonconservative adjoint equation backward in time. To this end, we develop a hybrid method, which utilizes advantages of both the Eulerian finite-volume central-upwind scheme (for solving the balance law) and the Lagrangian discrete characteristics method (for solving the adjoint transport equation). Experimental convergence rates as well as numerical results for optimization problems with both linear and nonlinear constraints and a duct design problem are presented.
+Keywords
+Optimal control  Multidimensional hyperbolic partial differential equations  Numerical methods  

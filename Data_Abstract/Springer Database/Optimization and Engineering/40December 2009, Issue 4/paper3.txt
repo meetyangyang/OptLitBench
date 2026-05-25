@@ -1,0 +1,6 @@
+New global optimization methods for ship design problems
+Emilio Fortunato Campana;Giampaolo Liuzzi;Stefano Lucidi;Daniele Peri;Veronica Piccialli;Antonio Pinto;
+Abstract
+The aim of this paper is to solve optimal design problems for industrial applications when the objective function value requires the evaluation of expensive simulation codes and its first derivatives are not available. In order to achieve this goal we propose two new algorithms that draw inspiration from two existing approaches: a filled function based algorithm and a Particle Swarm Optimization method. In order to test the efficiency of the two proposed algorithms, we perform a numerical comparison both with the methods we drew inspiration from, and with some standard Global Optimization algorithms that are currently adopted in industrial design optimization. Finally, a realistic ship design problem, namely the reduction of the amplitude of the heave motion of a ship advancing in head seas (a problem connected to both safety and comfort), is solved using the new codes and other global and local derivative-free optimization methods. All the numerical results show the effectiveness of the two new algorithms.
+Keywords
+Nonlinear programming  Global optimization  Simulation based design  

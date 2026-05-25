@@ -1,0 +1,6 @@
+Obstacle Problems with Cohesion: A Hemivariational Inequality Approach and Its Efficient Numerical Solution
+M.  Hintermüller, V. A.  Kovtunenko, and K.  Kunisch;
+Abstract
+Motivated by an obstacle problem for a membrane subject to cohesion forces, constrained minimization problems involving a nonconvex and nondifferentiable objective functional representing the total potential energy are considered. The associated first-order optimality system leads to a hemivariational inequality, which can also be interpreted as a special complementarity problem in function space. Besides an analytical investigation of first-order optimality, a primal-dual active set solver is introduced. It is associated to a limit case of a semismooth Newton method for a regularized version of the underlying problem class. For the numerical algorithms studied in this paper, global as well as local convergence properties are derived and verified numerically.
+Keywords
+obstacle problem with cohesion, generalized complementarity problem, hemivariational inequality, nonsmooth optimization, primal-dual active set algorithm, generalized Newton method, 49J40, 49M29, 73T05, 

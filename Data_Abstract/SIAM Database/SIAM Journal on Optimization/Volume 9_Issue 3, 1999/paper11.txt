@@ -1,0 +1,6 @@
+Simulated Annealing: Searching for an Optimal Temperature Schedule
+Harry  Cohn and Mark  Fielding;
+Abstract
+A sizable part of the theoretical literature on simulated annealing deals with a property called convergence, which asserts that the simulated annealing chain is in the set of global minimum states of the objective function with probability tending to 1. However, in practice, the convergent algorithms are considered too slow, whereas a number of nonconvergent ones are usually preferred. We attempt a detailed analysis of various temperature schedules. Examples will be given of when it is both practically and theoretically justified to use boiling, fixed temperature, or even fast cooling schedules which have a small probability of reaching global minima. Applications to traveling salesman problems of various sizes are also given.
+Keywords
+simulated annealing, temperature, cooling, Markov chain, convergence, inhomogeneous chain, fundamental matrix, time to absorption, 60J05, 60K35, 

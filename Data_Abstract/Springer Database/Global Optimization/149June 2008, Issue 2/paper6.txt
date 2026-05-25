@@ -1,0 +1,6 @@
+T-shape homogenous block patterns for the two-dimensional cutting problem
+Yaodong Cui;Zhiyong Liu;
+Abstract
+This paper presents an algorithm for unconstrained T-shape homogenous block cutting patterns of rectangular pieces. A vertical cut divides the stock sheet into two segments. Each segment consists of sections that have the same length and direction. A section contains a row of homogenous blocks. A homogenous block consists of homogenous strips of the same piece type. Each cut on the block produces just one strip. The directions of two strips cut successively from a block are either parallel or orthogonal. The algorithm uses a dynamic programming recursion to generate optimal blocks, solves knapsack problems to obtain the block layouts on the sections and the section layout on segments of various lengths, and optimally selects two segments to compose the cutting pattern. The computational results indicate that the algorithm is efficient in improving material usage, and the computation time is reasonable.
+Keywords
+Cutting stock  Unconstrained two-dimensional cutting  Homogenous blocks  

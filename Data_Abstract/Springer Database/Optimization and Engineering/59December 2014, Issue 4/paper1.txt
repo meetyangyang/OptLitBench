@@ -1,0 +1,6 @@
+Solving trajectory optimization problems via nonlinear programming: the brachistochrone case study
+Jean-Pierre Dussault;
+Abstract
+This note discusses reformulations the brachistochrone problem suitable for solution via NLP. The availability of solvers and modeling languages such as AMPL (Fourer et al., AMPL: a modeling language for mathematical programming, 2003) makes it tempting to formulate discretized optimization problems and get solutions to the discretized versions of trajectory optimization problems. We use the famous brachistochrone problem to warn that the resulting solutions may be far different from the true optimal trajectory. Actually, we use our knowledge of the brachistochrone to argue that without this knowledge, for this particular example, we could not distinguish the true solution (a cycloid) from spurious solutions obtained by a natural discretization.
+Keywords
+Trajectory optimization  Unconstrained optimization  Optimization software  Modelization software  

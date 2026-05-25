@@ -1,0 +1,6 @@
+Iteration-complexity of first-order augmented Lagrangian methods for convex programming
+Guanghui Lan;Renato D. C. Monteiro;
+Abstract
+This paper considers a special class of convex programming (CP) problems whose feasible regions consist of a simple compact convex set intersected with an affine manifold. We present first-order methods for this class of problems based on an inexact version of the classical augmented Lagrangian (AL) approach, where the subproblems are approximately solved by means of Nesterov’s optimal method. We then establish a bound on the total number of Nesterov’s optimal iterations, i.e., the inner iterations, performed throughout the entire inexact AL method to obtain a near primal-dual optimal solution. We also present variants with possibly better iteration-complexity bounds than the original inexact AL method, which consist of applying the original approach directly to a perturbed problem obtained by adding a strongly convex component to the objective function of the CP problem.
+Keywords
+Penalty  First-order  Augmented Lagrangian method    Convex programming  Lagrange multiplier  90C25  90C06  90C22  49M37  

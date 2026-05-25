@@ -1,0 +1,6 @@
+Better permutations for the single-processor scheduling with time restrictions
+An Zhang;Feilang Ye;Yong Chen;Guangting Chen;
+Abstract
+In this paper, we consider single-processor scheduling with time restrictions. Given a fixed integer \(B\ge 2\) and a set of jobs, we need to schedule the jobs sequentially on a single processor subject to the following B-constraint. For any real x, no unit time interval \([x, x+1)\) is allowed to intersect more than B jobs. We show that there exists a permutation of the jobs which can be processed within a factor of \(\frac{5}{4}\) of the optimum (plus an additional small constant) when \(B\ge 5\) and this factor is best possible. When \(B=3, 4\), the corresponding factor equals \(\frac{B}{B-1}\). Furthermore, we present an asymptotically optimal permutation for \(B=2\). The results for \(B\ge 4\) improve the previous work on this problem.
+Keywords
+Single-processor scheduling  Time restrictions  Worst-case analysis  

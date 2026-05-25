@@ -1,0 +1,6 @@
+Heuristic Bayesian targeting of banner advertising
+Fabrizio Caruso;Giovanni Giuffrida;Calogero Zarba;
+Abstract
+We present a new algorithm for behavioral targeting of banner advertisements. We record different user’s actions such as clicks, search queries and pageviews. We use the collected information to estimate in real time the probability of a click on a banner. Each click on a banner generates a profit. Our goal is to maximize the overall profit. We use a naive Bayesian model. We keep track of the click frequencies of the different banners under the additional information provided by the actions that each user has performed. We apply our strategy on real data in which we simply use the hours during which a user is connected as a feature. We describe the results obtained on these real data that give support to the effectiveness of our strategy. Moreover we describe some heuristics to improve the estimate of the click frequencies and to avoid displaying the same banner to the same user too many times.
+Keywords
+Advertising  Bayesian model  Behavioral trageting  Data mining  

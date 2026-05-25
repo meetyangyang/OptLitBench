@@ -1,0 +1,6 @@
+An interior-point method for multifractional programs with convex constraints
+R. W. Freund;F. Jarre;
+Abstract
+We present an interior-point method for a family of multi-fractional programs with convex constraints. The programs under consideration consist of minimizing the maximum of a finite number of linear fractions over some convex set. First, we present a simple shortstep algorithm for solving such multifractional programs, and we show that, under suitable assumptions, the convergence of the short-step algorithm is weakly polynomial in a sense specified below. Then, we describe a practical implementation of the proposed method, and we report results of numerical experiments with this algorithm. These results suggest that the proposed method is a viable alternative to the standard Dinkelbach-type algorithms for solving multifractional programs.
+Keywords
+Multifractional programming  convex sets  interior-point methods  self-concordant barrier functions  short-step algorithms  polynomial-time convergence  predictor-corrector step  

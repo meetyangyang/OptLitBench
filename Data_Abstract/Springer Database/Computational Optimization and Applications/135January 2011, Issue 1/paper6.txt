@@ -1,0 +1,6 @@
+How much do we “pay” for using default parameters?
+Mustafa Baz;Brady Hunsaker;Oleg Prokopyev;
+Abstract
+This paper explores the potential benefit of using tuned parameter settings for integer programming instances. Three metrics are considered for selecting parameters: Time-to-Optimality, Proven-Gap and Best-Integer-Solution. Good parameter settings for each metric are found using the open-source software tool Selection Tool for Optimization Parameters. Computational tests are presented using CPLEX solver (version 9.0) on MIPLIB test instances, showing substantial improvements over the default parameter setting. Although the benefit of a tuned parameter setting on an individual instance is outweighed by the cost of identifying the tuned setting, these results indicate that substantial benefit may be achieved in cases where the cost of tuning parameter settings is justified.
+Keywords
+Parameter tuning  Mixed integer programming  CPLEX  MIPLIB  

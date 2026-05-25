@@ -1,0 +1,6 @@
+Potential-Based Least-Squares Policy Iteration for a Parameterized Feedback Control System
+Kang Cheng;Kanjian Zhang;Shumin Fei;Haikun Wei;
+Abstract
+In the paper, a potential-based policy iteration method is proposed for optimal control of a stochastic dynamic system with an average cost criterion and a parameterized control law. In this method, the potential function and the optimal control parameters are obtained via a least-squares-based approach. The potential estimation algorithm is derived from a temporal difference learning method, which can be viewed as a continuous version of the least-squares policy evaluation algorithm. The policy iteration algorithm is validated by solving a linear quadratic gaussian problem in the simulation.
+Keywords
+Stochastic system  Markov decision processes  Performance potential  Least-squares policy evaluation  Policy iteration  49K45  93E20  93C55  

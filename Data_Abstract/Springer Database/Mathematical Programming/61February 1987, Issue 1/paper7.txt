@@ -1,0 +1,6 @@
+A variant of Karmarkar's linear programming algorithm for problems in standard form
+David M. Gay;
+Abstract
+This paper presents a variant of Karmarkar's linear programming algorithm that works directly with problems expressed in standard form and requires no a priori knowledge of the optimal objective function value. Rather, it uses a variation on Todd and Burrell's approach to compute ever better bounds on the optimal value, and it can be run as a prima-dual algorithm that produces sequences of primal and dual feasible solutions whose objective function values convege to this value. The only restrictive assumption is that the feasible region is bounded with a nonempty interior; compactness of the feasible region can be relaxed to compactness of the (nonempty) set of optimal solutions.
+Keywords
+Karmarkar's algorithm  linear programming  primal-dual  projective method  

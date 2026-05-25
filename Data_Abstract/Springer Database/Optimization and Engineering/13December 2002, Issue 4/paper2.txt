@@ -1,0 +1,6 @@
+Worst-Case Optimal Static Output Feedback for Uncertain Systems
+Corrado Guarino Lo Bianco;Aurelio Piazzi;
+Abstract
+This paper proposes a worst-case optimal approach to the synthesis of a static output feedback for a linear, time-invariant, multivariable system depending on uncertain parameters which nonlinearly affect a given state-space model. The aim is to seek an output-to-input feedback matrix that robustly stabilizes the closed-loop system while minimizing, over the uncertain parameter domain, the (worst-case) maximum of a composite quadratic index. The emerging minimax problem is shown to be exactly equivalent to a semi-infinite optimization problem for which an estimate of a global solution is obtained through a genetic/interval algorithm. This is a hybrid algorithm that combines a genetic algorithm (at the upper level) with an interval procedure (acting at the lower level). Computational results for a two-input two-output (TITO) system are included.
+Keywords
+static output feedback  worst-case design  semi-infinite optimization  hybrid algorithms  

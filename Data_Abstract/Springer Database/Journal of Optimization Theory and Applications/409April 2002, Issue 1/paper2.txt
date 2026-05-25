@@ -1,0 +1,6 @@
+A Convergent Variant of the Nelder–Mead Algorithm
+C.J. Price;I.D. Coope;D. Byatt;
+Abstract
+The Nelder–Mead algorithm (1965) for unconstrained optimization has been used extensively to solve parameter estimation and other problems. Despite its age, it is still the method of choice for many practitioners in the fields of statistics, engineering, and the physical and medical sciences because it is easy to code and very easy to use. It belongs to a class of methods which do not require derivatives and which are often claimed to be robust for problems with discontinuities or where the function values are noisy. Recently (1998), it has been shown that the method can fail to converge or converge to nonsolutions on certain classes of problems. Only very limited convergence results exist for a restricted class of problems in one or two dimensions. In this paper, a provably convergent variant of the Nelder–Mead simplex method is presented and analyzed. Numerical results are included to show that the modified algorithm is effective in practice.
+Keywords
+Nelder–Mead algorithm  derivative free optimization  positive basis methods  simplex  polytope  frame based methods  

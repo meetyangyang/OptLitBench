@@ -1,0 +1,6 @@
+A certified reduced basis method for parametrized elliptic optimal control problems
+Mark Kärcher1 and Martin A. Grepl2;
+Abstract
+In this paper, we employ the reduced basis method as a surrogate model for the solution          of linear-quadratic optimal control problems governed by parametrized elliptic partial          differential equations. We present a posteriori error estimation and dual          procedures that provide rigorous bounds for the error in several quantities of interest:          the optimal control, the cost functional, and general linear output functionals of the          control, state, and adjoint variables. We show that, based on the assumption of affine          parameter dependence, the reduced order optimal control problem and the proposed bounds          can be efficiently evaluated in an offline-online computational procedure. Numerical          results are presented to confirm the validity of our approach.
+Keywords
+Optimal control, reduced basis method

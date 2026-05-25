@@ -1,0 +1,4 @@
+A Synchronized Sweep Algorithm for the k-dimensional cumulative Constraint
+Arnaud Letort;Mats Carlsson;Nicolas Beldiceanu;
+Abstract
+This paper presents a sweep based algorithm for the k-dimensional cumulative constraint, which can operate in filtering mode as well as in greedy assignment mode. Given n tasks and k resources, this algorithm has a worst-case time complexity of O(kn 2) but scales well in practice. In greedy assignment mode, it handles up to 1 million tasks with 64 resources in one single constraint in SICStus. In filtering mode, on our benchmarks, it yields a speed-up of about k 0.75 when compared to its decomposition into k independent cumulative constraints.

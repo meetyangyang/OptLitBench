@@ -1,0 +1,6 @@
+On the numerical implementation of continuous adjoint sensitivity for transient heat conduction problems using an isogeometric approach
+Zhen-Pei Wang;Deepak Kumar;
+Abstract
+A crucial problem of continuous adjoint shape sensitivity analysis is the numerical implementation of its lengthy formulations. In this paper, the numerical implementation of continuous adjoint shape sensitivity analysis is presented for transient heat conduction problems using isogeometric analysis, which can serve as a tutorial guide for beginners. Using the adjoint boundary and loading conditions derived from the design objective and the primary state variable fields, the numerical analysis procedure of the adjoint problem, which is solved backward in time, is demonstrated. Following that, the numerical integration algorithm of the shape sensitivity using a boundary approach is provided. Adjoint shape sensitivity is studied with detailed explanations for two transient heat conduction problems to illustrate the numerical implementation aspects of the continuous adjoint method. These two problems can be used as benchmark problems for future studies.
+Keywords
+Shape optimization  Isogeometric analysis  Transient heat conduction  Continuous adjoint method  Numerical implementation  Benchmark problems  

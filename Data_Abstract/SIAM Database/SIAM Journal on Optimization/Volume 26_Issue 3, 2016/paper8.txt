@@ -1,0 +1,6 @@
+Semi-Infinite Relaxations for the Dynamic Knapsack Problem with Stochastic Item Sizes
+Daniel  Blado, Weihong  Hu, and Alejandro  Toriello;
+Abstract
+We consider a version of the knapsack problem in which an item size is random and revealed only when the decision maker attempts to insert it. After every successful insertion the decision maker can choose the next item dynamically based on the remaining capacity and available items, while an unsuccessful insertion terminates the process. We propose a new semi-infinite relaxation based on an affine value function approximation, and show that an existing pseudo-polynomial relaxation corresponds to a nonparametric value function approximation. We compare both theoretically to other relaxations from the literature and also perform a computational study. Our main empirical conclusion is that our new relaxation provides tight bounds over a variety of different instances and becomes tighter as the number of items increases.
+Keywords
+stochastic knapsack, relaxation, dynamic program, 90C10, 90C34, 90C27, 90C39, 

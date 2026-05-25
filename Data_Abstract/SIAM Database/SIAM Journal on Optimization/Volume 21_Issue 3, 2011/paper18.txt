@@ -1,0 +1,6 @@
+Maximum Cardinality Simple 2-matchings in Subcubic Graphs
+David  Hartvigsen and Yanjun  Li;
+Abstract
+A simple 2-matching in a graph is a subset of edges M such that every node is incident with at most two edges in M. A simple 2-matching is called Ck-restricted (k≥2) if it contains no cycles of length k or less. We begin by considering the problem of finding maximum cardinality simple 2-matchings in subcubic graphs (i.e., graphs whose nodes have degree at most 3). For this problem we present a min-max theorem, a simple polynomial-time algorithm, and some other results. Then, by generalizing an approach due to Vornberger, we show the following for subcubic graphs: the maximum cardinality C3- and C4-restricted simple 2-matching problems are polynomial-time solvable; there exist min-max theorems for these problems; and, for k≥5, the maximum cardinality Ck-restricted simple 2-matching problems are NP-hard.
+Keywords
+combinatorial optimization, matchings, traveling salesman problem, 90C27, 05C70, 05C85, 

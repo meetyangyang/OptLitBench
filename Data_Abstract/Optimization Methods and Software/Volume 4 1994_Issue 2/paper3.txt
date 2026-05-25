@@ -1,0 +1,6 @@
+Convergence properties of backpropagation for neural nets via theory of stochastic gradient methods. Part 1
+ Alexei A.   Gaivoronski ;
+Abstract
+ We study here convergence properties of serial and parallel backpropagation algorithm for training of neural nets, as well as its modification with momentum term. It is shown that these algorithms can be put into the general framework of the stochastic gradient methods. This permits to consider from the same positions both stochastic and deterministic rules for the selection of components (training examples) of the error function to minimize at each iteration. We obtained weaker conditions on the stepsize for deterministic case and provide quite general synchronization rule for parallel version. 
+Keywords
+Neural network,Backpropagation, Stochastic gradient 

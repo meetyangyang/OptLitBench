@@ -1,0 +1,6 @@
+On the Global Solution of Linear Programs with Linear Complementarity Constraints
+Jing  Hu, John E.  Mitchell, Jong-Shi  Pang, Kristin P.  Bennett, and Gautam  Kunapuli;
+Abstract
+This paper presents a parameter-free integer-programming-based algorithm for the global resolution of a linear program with linear complementarity constraints (LPCCs). The cornerstone of the algorithm is a minimax integer program formulation that characterizes and provides certificates for the three outcomes—infeasibility, unboundedness, or solvability—of an LPCC. An extreme point/ray generation scheme in the spirit of Benders decomposition is developed, from which valid inequalities in the form of satisfiability constraints are obtained. The feasibility problem of these inequalities and the carefully guided linear-programming relaxations of the LPCC are the workhorses of the algorithm, which also employs a specialized procedure for the sparsification of the satifiability cuts. We establish the finite termination of the algorithm and report computational results using the algorithm for solving randomly generated LPCCs of reasonable sizes. The results establish that the algorithm can handle infeasible, unbounded, and solvable LPCCs effectively.
+Keywords
+linear programs with linear complimentarity constraints, global resolution, cutting-plane methods, 90C33, 90C26, 90C10, 

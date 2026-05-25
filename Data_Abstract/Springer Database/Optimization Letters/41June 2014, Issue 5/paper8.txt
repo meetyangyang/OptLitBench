@@ -1,0 +1,6 @@
+Improved online algorithms for the batch scheduling of equal-length jobs with incompatible families to maximize the weighted number of early jobs
+Wenjie Li;Jinjiang Yuan;
+Abstract
+We consider the online scheduling of equal-length jobs with incompatible families on \(m\) identical batch machines. Each job has a release time, a deadline and a weight. Each batch machine can process up to \(b\) jobs (which come from the same family) simultaneously as a batch, where \(b\) is called the capacity of the machines. Our goal is to determine a preemption-restart schedule which maximizes the weighted number of early jobs. For this problem, Li et al. (Inf Process Lett 112:503–508, 2012) provided an online algorithm of competitive ratio \(3+2\sqrt{2}\) for both \(b=\infty \) and \(b<\infty \). In this paper, we study two special cases of this problem. For the case that \(m=2\), we first present a lower bound 2, and then provide an online algorithm with a competitive ratio of 3 for both \(b=\infty \) and \(b<\infty \). For the case in which \(m=3\), \(b=\infty \) and all jobs come from a common family, we present an online algorithm with a competitive ratio of \((8+2\sqrt{15})/3\approx 5.249\).
+Keywords
+Scheduling  Online algorithms  Preemption-restart   Incompatible families  

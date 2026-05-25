@@ -1,0 +1,6 @@
+Nonsymmetric Search Directions for Semidefinite Programming
+Nathan  Brixius, Florian A.  Potra, and Rongqin  Sheng;
+Abstract
+Two nonsymmetric search directions for semidefinite programming, the XZ and ZX search directions, are proposed. They are derived from a nonsymmetric formulation of the semidefinite programming problem. The XZ direction corresponds to the direct linearization of the central path equation $XZ= \nu I,$ while the ZX direction corresponds to $ZX = \nu I$. The XZ and ZX directions are well defined if both X and Z are positive definite matrices, where X may be nonsymmetric. We present an algorithm using the XZ and ZX directions alternately following the Mehrotra predictor-corrector framework. Numerical results show that the XZ/ZX algorithm, in many cases, requires less CPU time than the XZ+ZX method of Alizadeh, Overton, and Haeberly [SIAM J. Optim., 8 (1998), pp. 746--768] while achieving similar accuracy.
+Keywords
+semidefinite programming, nonsymmetric, search direction, interior-point algorithm, high accuracy, 65K05, 90C25, 90C30, 

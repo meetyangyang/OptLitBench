@@ -1,0 +1,6 @@
+Min–max–min robust combinatorial optimization
+Christoph Buchheim;Jannis Kurtz;
+Abstract
+The idea of k-adaptability in two-stage robust optimization is to calculate a fixed number k of second-stage policies here-and-now. After the actual scenario is revealed, the best of these policies is selected. This idea leads to a min–max–min problem. In this paper, we consider the case where no first stage variables exist and propose to use this approach to solve combinatorial optimization problems with uncertainty in the objective function. We investigate the complexity of this special case for convex uncertainty sets. We first show that the min–max–min problem is as easy as the underlying certain problem if k is greater than the number of variables and if we can optimize a linear function over the uncertainty set in polynomial time. We also provide an exact and practical oracle-based algorithm to solve the latter problem for any underlying combinatorial problem. On the other hand, we prove that the min–max–min problem is NP-hard for every fixed number k, even when the uncertainty set is a polyhedron, given by an inner description. For the case that k is smaller or equal to the number of variables, we finally propose a fast heuristic algorithm and evaluate its performance.
+Keywords
+Robust optimization  k-Adaptability  Complexity  90C27  90C57  

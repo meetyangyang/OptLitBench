@@ -1,0 +1,6 @@
+Column generation approaches for the software clustering problem
+Hugo Harry Kramer;Eduardo Uchoa;Marcia Fampa;Viviane Köhler;François Vanderbeck;
+Abstract
+This work presents the application of branch-and-price approaches to the automatic version of the Software Clustering Problem. To tackle this problem, we apply the Dantzig–Wolfe decomposition to a formulation from the literature. Given this, we present two Column Generation (CG) approaches to solve the linear programming relaxation of the resulting reformulation: the standard CG approach, and a new approach, which we call Staged Column Generation (SCG). Also, we propose a modification to the pricing subproblem that allows to add multiple columns at each iteration of the CG. We test our algorithms in a set of 45 instances from the literature. The proposed approaches were able to improve the literature results solving all these instances to optimality. Furthermore, the SCG approach presented a considerable performance improvement regarding computational time, number of iterations and generated columns when compared with the standard CG as the size of the instances grows.
+Keywords
+Software Clustering Problem  Column Generation  Branch-and-Price  

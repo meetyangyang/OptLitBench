@@ -1,0 +1,6 @@
+Constrained Dogleg methods for nonlinear systems with simple bounds
+Stefania Bellavia;Maria Macconi;Sandra Pieraccini;
+Abstract
+We focus on the numerical solution of medium scale bound-constrained systems of nonlinear equations. In this context, we consider an affine-scaling trust region approach that allows a great flexibility in choosing the scaling matrix used to handle the bounds. The method is based on a dogleg procedure tailored for constrained problems and so, it is named Constrained Dogleg method. It generates only strictly feasible iterates. Global and locally fast convergence is ensured under standard assumptions. The method has been implemented in the Matlab solver CoDoSol that supports several diagonal scalings in both spherical and elliptical trust region frameworks. We give a brief account of CoDoSol and report on the computational experience performed on a number of representative test problems.
+Keywords
+Bound-constrained equations  Diagonal scalings  Trust region methods  Dogleg methods  Newton methods  Global convergence  

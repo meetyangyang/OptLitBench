@@ -1,0 +1,6 @@
+Due date assignment for multistage assembly systems
+Amir Azaron;Farhad Kianfar;
+Abstract
+This paper is concerned with the study of the constant due-date assignment policy in a multistage assembly system. The multistage assembly system is modeled as an open queueing network. It is assumed that the product order arrives according to a Poisson process. In each service station, there is either one or infinite machine with exponentially distributed processing time. The transport times between every pair of service stations are independent random variables with generalized Erlang distributions. It is assumed that each product has a penalty cost that is some linear function of its due-date and its actual completion time. The due date is found by adding a constant to the time that the order arrives. This constant value is the constant lead time that a product might expect between time of placing the order and time of delivery. By applying the longest path analysis in queueing networks, we obtain the distribution function of manufacturing lead time. Then, the optimal constant lead time is computed by minimizing the expected aggregate cost per product. Finally, the results are verified by Monte Carlo simulation.
+Keywords
+Assembly systems  Queueing  Markov processes  Simulation  

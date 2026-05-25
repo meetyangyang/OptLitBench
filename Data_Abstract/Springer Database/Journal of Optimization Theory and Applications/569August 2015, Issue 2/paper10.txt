@@ -1,0 +1,6 @@
+A Polynomial Time Constraint-Reduced Algorithm for Semidefinite Optimization Problems
+Sungwoo Park;Dianne P. O’Leary;
+Abstract
+We present an infeasible primal-dual interior point method for semidefinite optimization problems, making use of constraint reduction. We show that the algorithm is globally convergent and has polynomial complexity, the first such complexity result for primal-dual constraint reduction algorithms for any class of problems. Our algorithm is a modification of one with no constraint reduction due to Potra and Sheng (1998) and can be applied whenever the data matrices are block diagonal. It thus solves as special cases any optimization problem that is a linear, convex quadratic, convex quadratically constrained, or second-order cone problem.
+Keywords
+Semidefinite programming  Interior point methods  Constraint reduction  Primal dual infeasible  Polynomial complexity  90C22  65K05  90C51  

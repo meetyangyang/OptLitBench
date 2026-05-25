@@ -1,0 +1,6 @@
+Dual decomposition of a single-machine scheduling problem
+S. L. van de Velde;
+Abstract
+We design a fast ascent direction algorithm for the Lagrangian dual problem of the single-machine scheduling problem of minimizing total weighted completion time subject to precedence constraints. We show that designing such an algorithm is relatively simple if a scheduling problem is formulated in terms of the job completion times rather than as an 0–1 linear program. Also, we show that upon termination of such an ascent direction algorithm we get a dual decomposition of the original problem, which can be exploited to develop approximative and enumerative approaches for it. Computational results exhibit that in our application the ascent direction leads to good Lagrangian lower and upper bounds.
+Keywords
+Machine scheduling  Lagrangian relaxation  Ascent direction method  Dual decomposition  

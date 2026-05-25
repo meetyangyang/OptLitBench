@@ -1,0 +1,6 @@
+An adaptive nonmonotone trust region algorithm
+Saeed Rezaee;Saman Babaie-Kafaki;
+Abstract
+Based on an eigenvalue analysis conducted on the scaled memoryless quasi-Newton updating formulas BFGS and DFP, an adaptive choice for the trust region radius is proposed. Then, using a trust region ratio obtained from a nonmonotone line search strategy, an adaptive nonmonotone trust region algorithm is developed. Under proper conditions, it is briefly shown that the proposed algorithm is globally and locally superlinearly convergent. Numerical experiments are done on a set of unconstrained optimization test problems of the CUTEr collection, using the Dolan–Moré performance profile. They show efficiency of the proposed algorithm.
+Keywords
+unconstrained optimization, trust region method, quasi-Newton update, adaptive radius, global convergence, superlinear convergenceMathematics Subject Classifications (2010): 65K05, 90C53, 49M37 

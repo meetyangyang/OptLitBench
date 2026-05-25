@@ -1,0 +1,6 @@
+A new constraint programming approach for optimising a coal rail system
+Mahmoud Masoud;Erhan Kozan;Geoff Kent;Shi Qiang Liu;
+Abstract
+Because of the bottlenecking operations in a complex coal rail system, millions of dollars are costed by mining companies. To handle this issue, this paper investigates a real-world coal rail system and aims to optimise the coal railing operations under constraints of limited resources (e.g., limited number of locomotives and wagons). In the literature, most studies considered the train scheduling problem on a single-track railway network to be strongly NP-hard and thus developed metaheuristics as the main solution methods. In this paper, a new mathematical programming model is formulated and coded by optimization programming language based on a constraint programming (CP) approach. A new depth-first-search technique is developed and embedded inside the CP model to obtain the optimised coal railing timetable efficiently. Computational experiments demonstrate that high-quality solutions are obtainable in industry-scale applications. To provide insightful decisions, sensitivity analysis is conducted in terms of different scenarios and specific criteria.
+Keywords
+Train scheduling  Rail transportation  Coal mining  Constraint programming  

@@ -1,0 +1,6 @@
+A linear-time algorithm to compute the conjugate of convex piecewise linear-quadratic bivariate functions
+Tasnuva Haque;Yves Lucet;
+Abstract
+We propose the first algorithm to compute the conjugate of a bivariate Piecewise Linear-Quadratic (PLQ) function in optimal linear worst-case time complexity. The key step is to use a planar graph, called the entity graph, not only to represent the entities (vertex, edge, or face) of the domain of a PLQ function but most importantly to record adjacent entities. We traverse the graph using breadth-first search to compute the conjugate of each entity using graph-matrix calculus, and use the adjacency information to create the output data structure in linear time.
+Keywords
+Legendre–Fenchel transform  Conjugate  Piecewise linear-quadratic functions  Subdifferential  Convex function  Computational convex analysis (CCA)  Computer-aided convex analysis  

@@ -1,0 +1,6 @@
+Primal-dual interior-point methods for PDE-constrained optimization
+Michael Ulbrich;Stefan Ulbrich;
+Abstract
+This paper provides a detailed analysis of a primal-dual interior-point method for PDE-constrained optimization. Considered are optimal control problems with control constraints in L  p . It is shown that the developed primal-dual interior-point method converges globally and locally superlinearly. Not only the easier L ∞-setting is analyzed, but also a more involved L  q -analysis, q < ∞, is presented. In L ∞, the set of feasible controls contains interior points and the Fréchet differentiability of the perturbed optimality system can be shown. In the L  q -setting, which is highly relevant for PDE-constrained optimization, these nice properties are no longer available. Nevertheless, a convergence analysis is developed using refined techniques. In parti- cular, two-norm techniques and a smoothing step are required. The L  q -analysis with smoothing step yields global linear and local superlinear convergence, whereas the L ∞-analysis without smoothing step yields only global linear convergence.
+Keywords
+Primal-dual interior point methods  PDE-constraints  Optimal control  Control constraints  Superlinear convergence  Global convergence  90C51  90C48  49M15  65K10  

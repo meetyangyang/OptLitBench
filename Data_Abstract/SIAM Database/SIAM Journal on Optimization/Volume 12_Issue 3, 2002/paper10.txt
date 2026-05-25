@@ -1,0 +1,6 @@
+Robust Filtering via Semidefinite Programming with Applications to Target Tracking
+Lingjie  Li, Zhi-Quan  Luo, Timothy N.  Davidson, K. Max  Wong, and Eloi  Bossé;
+Abstract
+In this paper we propose a novel finite-horizon, discrete-time, time-varying filtering method based on the robust semidefinite programming (SDP) technique. The proposed method provides robust performance in the presence of norm-bounded parameter uncertainties in the system model. The robust performance of the proposed method is achieved by minimizing an upper bound on the worst-case varianceof the estimation error for all admissible systems. Our method is recursive and computationally efficient. In our simulations, the new method provides superior performance to some of the existing robust filtering approaches. In particular, when applied to the problem of target tracking, the new method has led to a significant improvement in tracking performance. Our work shows that the robust SDP technique and the interior point algorithms can bring substantial benefits to practically important engineering problems.
+Keywords
+robust filtering, Kalman filtering, semidefinite programming, target tracking, 90C90, 90C22, 90C51, 

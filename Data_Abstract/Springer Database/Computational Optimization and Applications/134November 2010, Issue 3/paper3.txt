@@ -1,0 +1,6 @@
+Using an iterative linear solver in an interior-point method for generating support vector machines
+E. Michael Gertz;Joshua D. Griffin;
+Abstract
+This paper concerns the generation of support vector machine classifiers for solving the pattern recognition problem in machine learning. A method is proposed based on interior-point methods for convex quadratic programming. This interior-point method uses a linear preconditioned conjugate gradient method with a novel preconditioner to compute each iteration from the previous. An implementation is developed by adapting the object-oriented package OOQP to the problem structure. Numerical results are provided, and computational experience is discussed.
+Keywords
+Machine learning  Support vector machines  Quadratic programming  Interior-point methods  Krylov-space methods  Matrix-free preconditioning  

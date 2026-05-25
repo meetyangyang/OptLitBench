@@ -1,0 +1,8 @@
+An inexact-restoration method for nonlinear bilevel programming problems
+R. Andreani;S. L. C. Castro;J. L. Chela;A. Friedlander;S. A. Santos;
+Abstract
+
+We present a new algorithm for solving bilevel programming problems without reformulating them as single-level nonlinear programming problems. This strategy allows one to take profit of the structure of the lower level optimization problems without using non-differentiable methods. The algorithm is based on the inexact-restoration technique. Under some assumptions on the problem we prove global convergence to feasible points that satisfy the approximate gradient projection (AGP) optimality condition. Computational experiments are presented that encourage the use of this method for general bilevel problems.
+
+Keywords
+Bilevel programming  Inexact-restoration  Optimization  

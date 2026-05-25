@@ -1,0 +1,6 @@
+Worst-case evaluation complexity of non-monotone gradient-related algorithms for unconstrained optimization
+C. Cartis;Ph.R. Sampaio;Ph.L. Toint;
+Abstract
+The worst-case evaluation complexity of finding an approximate first-order critical point using gradient-related non-monotone methods for smooth non-convex and unconstrained problems is investigated. The analysis covers a practical linesearch implementation of these popular methods, allowing for an unknown number of evaluations of the objective function (and its gradient) per iteration. It is shown that this class of methods shares the known complexity properties of a simple steepest-descent scheme and that an approximate first-order critical point can be computed in at most ) function and gradient evaluations, where  is the user-defined accuracy threshold on the gradient norm.
+Keywords
+non-linear optimization, evaluation complexity, worst-case analysis, linesearch algorithms, non-monotone methods 

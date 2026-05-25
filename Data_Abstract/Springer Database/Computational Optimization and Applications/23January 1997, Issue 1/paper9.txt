@@ -1,0 +1,6 @@
+A Scalable Parallel Interior Point Algorithm for Stochastic Linear Programming and Robust Optimization
+Dafeng Yang;Stavros A. Zenios;
+Abstract
+We present a computationally efficient implementation of an interior point algorithm for solving large-scale problems arising in stochastic linear programming and robust optimization. A matrix factorization procedure is employed that exploits the structure of the constraint matrix, and it is implemented on parallel computers. The implementation is perfectly scalable. Extensive computational results are reported for a library of standard test problems from stochastic linear programming, and also for robust optimization formulations.The results show that the codes are efficient and stable for problems with thousands of scenarios. Test problems with 130 thousand scenarios, and a deterministic equivalent linear programming formulation with 2.6 million constraints and 18.2 million variables, are solved successfully.
+Keywords
+planning under uncertainty  parallel computing  optimization  software  

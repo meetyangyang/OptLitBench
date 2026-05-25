@@ -1,0 +1,6 @@
+Distributed evolutionary algorithms with hierarchical evaluation
+ Ioannis   C.   Kampolis ; Kyriakos   C.   Giannakoglou ;
+Abstract
+ A distributed evolutionary algorithm is presented that is based on a hierarchy of (fitness or cost function) evaluation passes within each deme and is efficient in solving engineering optimization problems. Starting with non-problem-specific evaluations (using surrogate models or metamodels, trained on previously evaluated individuals) and ending up with high-fidelity problem-specific evaluations, intermediate passes rely on other available lower-fidelity problem-specific evaluations with lower CPU cost per evaluation. The sequential use of evaluation models or metamodels, of different computational cost and modelling accuracy, by screening the generation members to get rid of non-promising individuals, leads to reduced overall computational cost. The distributed scheme is based on loosely coupled demes that exchange regularly their best-so-far individuals. Emphasis is put on the optimal way of coupling distributed and hierarchical search methods. The proposed method is tested on mathematical and compressor cascade airfoil design problems. 
+Keywords
+design optimization, evolutionary algorithms, metamodels, hierarchical search, distributed search 

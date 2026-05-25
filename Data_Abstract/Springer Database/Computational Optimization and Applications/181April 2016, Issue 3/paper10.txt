@@ -1,0 +1,6 @@
+On multiobjective selection for multimodal optimization
+Simon Wessing;Mike Preuss;
+Abstract
+Multiobjective selection operators are a popular and straightforward tool for preserving diversity in evolutionary optimization algorithms. One application area where diversity is essential is multimodal optimization with its goal of finding a diverse set of either globally or locally optimal solutions of a single-objective problem. We therefore investigate multiobjective selection methods that identify good quality and diverse solutions from a larger set of candidates. Simultaneously, unary quality indicators from multiobjective optimization also turn out to be useful for multimodal optimization. We focus on experimentally detecting the best selection operators and indicators in two different contexts, namely a one-time subset selection and an iterative application in optimization. Experimental results indicate that certain design decisions generally have advantageous tendencies regarding run time and quality. One such positive example is using a concept of nearest better neighbors instead of the common nearest-neighbor distances.
+Keywords
+Multimodal optimization  Multiobjectivization  Nearest neighbor  Selection  Quality indicator  Benchmarking  

@@ -1,0 +1,6 @@
+An efficient approach to updating simplex multipliers in the simplex algorithm
+Jian-Feng Hu;Ping-Qi Pan;
+Abstract
+The simplex algorithm computes the simplex multipliers by solving a system (or two triangular systems) at each iteration. This note offers an efficient approach to updating the simplex multipliers in conjunction with the Bartels–Golub and Forrest–Tomlin updates for LU factors of the basis. It only solves one triangular system. The approach was implemented within and tested against MINOS 5.51 on 129 problems from Netlib, Kennington and BPMPD. Computational results show that the new approach improves simplex implementations.
+Keywords
+Linear programming  Simplex algorithm  Simplex multipliers  LU factorization  Bartels–Golub update  Forrest–Tomlin update  65K05  90C05  

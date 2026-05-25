@@ -1,0 +1,6 @@
+Modified collaborative optimization for feasibility problem of final solution
+Lili Yang;Deyu Wang;
+Abstract
+This paper focuses on the feasibility problem of the final solution obtained by the relaxation collaborative optimization method. First, a mixed relaxation (MR) method is developed to enhance the possible premature convergence and non-solution problems of the variable relaxation method. Then the feasibility problem of the final solution is analyzed, that is the optimal solution obtained from system level may not satisfy the constraints of original optimization problem due to the inconsistency between system level and subsystem level for shared variables. A method of modified collaborative optimization (MCO) is put forward to solve this problem. In this method, the impact of the inconsistency is considered and supplemented in the subsystem-level constraints in order to approximate the original constraints as much as possible. At last, based on the MR method, the feasibility problem of the final solution is illustrated by three examples, and the effectiveness and accuracy of MCO are demonstrated by the optimization results.
+Keywords
+Collaborative optimization  Inconsistency  Relaxation method  Feasibility  

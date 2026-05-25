@@ -1,0 +1,6 @@
+CGS algorithms for constrained extremization of functions
+R. F. Dennemeyer;
+Abstract
+CGS (conjugate Gram-Schmidt) algorithms are given for computing extreme points of a real-valued functionf(x) ofn real variables subject tom constraining equationsg(x)=0,M<n. The method of approach is to solve the system$$\begin{gathered}  f'(x) + g'(x)*\lambda  = 0 \hfill \\  g(x) = 0 \hfill \\ \end{gathered} $$ where λ is the Lagrange multiplier vector, by means of CGS algorithms for systems of nonlinear equations. Results of the algorithms applied to test problems are given, including several problems having inequality constraints treated by adjoining slack variables.
+Keywords
+Numerical methods  constrained optimization  conjugate directions  conjugate Gram-Schmidt algorithms  

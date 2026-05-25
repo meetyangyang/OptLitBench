@@ -1,0 +1,6 @@
+On the Simulation and Control of Some Friction Constrained Motions
+Roland  Glowinski and Anthony J.  Kearsley;
+Abstract
+In this paper, some issues involved with numerical simulation and control of some elasto-dynamic systems are discussed. The motivation is the simulation of dry or Coulomb friction in the joints that link together remote manipulator systems used in aerospace operations (for example, space shuttle remote anipulator systems). The goal here is to develop numerical techniques to simulate and control these systems, while properly modeling the Coulomb friction. The numerical procedure described employs a finite difference time discretization in conjunction with a vector of multipliers that predicts the friction effect for all time. In addition to this discrete multiplier technique an associated regularization procedure that greatly improves the behavior of these multipliers is also presented. Numerical examples conclude the paper.
+Keywords
+Coulomb friction, direct search methods, nonsmooth optimization, 49J15, 70Q05, 

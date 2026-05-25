@@ -1,0 +1,6 @@
+Global search algorithms for minimum concave-cost network flow problems
+G. M. Guisewite;P. M. Pardalos;
+Abstract
+We present algorithms for the single-source uncapacitated version of the minimum concave cost network flow problem. Each algorithm exploits the fact that an extreme feasible solution corresponds to a sub-tree of the original network. A global search heuristic based on random extreme feasible initial solutions and local search is developed. The algorithm is used to evaluate the complexity of the randomly generated test problems. An exact global search algorithm is developed, based on enumerative search of rooted subtrees. This exact technique is extended to bound the search based on cost properties and linear underestimation. The technique is accelerated by exploiting the network structure.
+Keywords
+Concave-cost network flow  uncapacitated  single-source  global optimization  random search algorithms  

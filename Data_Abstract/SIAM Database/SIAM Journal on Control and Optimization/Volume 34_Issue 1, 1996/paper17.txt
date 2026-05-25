@@ -1,0 +1,6 @@
+Multiplicative Interior Gradient Methods for Minimization over the Nonnegative Orthant
+Alfredo N.  Iusem, B. F.  Svaiter, and Marc  Teboulle;
+Abstract
+We introduce a new class of multiplicative iterative methods for solving minimization problems over the nonnegative orthant. The algorithm is akin to a natural extension of gradient methods for unconstrained minimization problems to the case of nonnegativity constraints, with the special feature that it generates a sequence of iterates which remain in the interior of the nonnegative orthant. We prove that the algorithm combined with an appropriate line search is weakly convergent to a saddle point of the minimization problem, when the minimand is a differentiable function with bounded level sets. If the function is convex, then weak convergence to an optimal solution is obtained. Moreover, by using an appropriate regularized line search, we prove that the level set boundeness hypothesis can be removed, and full convergence of the iterates to an optimal solution is established in the convex case.
+Keywords
+multiplicative iterative algorithms, gradient methods, proximal methods, ϕ-divergences, 90C25, 90C30, 

@@ -1,0 +1,6 @@
+Parallel solver for trajectory optimization search directions
+M. L. Psiaki;K. H. Park;
+Abstract
+A key algorithmic element of a real-time trajectory optimization hardware/software implementation is presented, the search step solver. This is one piece of an algorithm whose overall goal is to make nonlinear trajectory optimization fast enough to provide real-time commands during guidance of a vehicle such as an aeromaneuvering orbiter or the National Aerospace Plane. Many methods of nonlinear programming require the solution of a quadratic program (QP) at each iteration to determine the search step. In the trajectory optimization case, the QP has a special dynamic programming structure, an LQR-like structure. The algorithm exploits this special structure with a divide-and-conquer type of parallel implementation. A hypercube message-passing parallel machine, the INTEL iPSC/2, has been used. The algorithm solves a (p·N)-stage problem onN processors inO(p + log2N) operations. The algorithm yields a factor of 8 speed-up over the fastest known serial algorithm when solving a 1024-stage test problem on 32 processors.
+Keywords
+Trajectory optimization  parallel processing  quadratic programming  dynamic programming  linear-quadratic regulator problem  

@@ -1,0 +1,6 @@
+A Sequential Semismooth Newton Method for the Nearest Low-rank Correlation Matrix Problem
+Qingna  Li and Hou-duo  Qi;
+Abstract
+Based on the well-known result that the sum of the largest eigenvalues of a symmetric matrix can be represented as a semidefinite programming problem (SDP), we formulate the nearest low-rank correlation matrix problem as a nonconvex SDP and propose a numerical method that solves a sequence of least-square problems. Each of the least-square problems can be solved by a specifically designed semismooth Newton method, which is shown to be quadratically convergent. The sequential method is guaranteed to produce a stationary point of the nonconvex SDP. Our numerical results demonstrate the high efficiency of the proposed method on large scale problems.
+Keywords
+low-rank correlation matrix, quadratic semidefinite programming, semismooth Newton method, quadratic convergence, constraint nondegeneracy, 49M45, 90C25, 90C33, 

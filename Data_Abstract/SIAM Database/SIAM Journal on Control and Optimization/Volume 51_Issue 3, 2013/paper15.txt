@@ -1,0 +1,6 @@
+Regularized Perimeter for Topology Optimization
+Samuel  Amstutz;
+Abstract
+The perimeter functional is known to oppose serious difficulties when it has to be handled within a topology optimization procedure. In this paper, a regularized perimeter functional $\mbox{Per}_\varepsilon$, defined for two- and three-dimensional domains, is introduced. On one hand, the convergence of $\mbox{Per}_\varepsilon$ to the exact perimeter when $\varepsilon$ tends to zero is proved. On the other hand, the topological differentiability of $\mbox{Per}_\varepsilon$ for $\varepsilon>0$ is analyzed. These features lead to the design of a topology optimization algorithm suitable for perimeter-dependent objective functionals. Several numerical results illustrate the method.
+Keywords
+topology optimization, perimeter, topological derivative, level set, 49Q10, 49Q12, 35J05, 35J25, 41A60, 

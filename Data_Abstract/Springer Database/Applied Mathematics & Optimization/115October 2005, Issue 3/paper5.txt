@@ -1,0 +1,39 @@
+Shape Optimization and Supremal Minimization  
+Approaches in Landslides Modeling
+Riad Hassani;Ioan R. Ionescu;Thomas Lachand-Robert;
+Abstract
+ The steady-state unidirectional (anti-plane) flow
+ for a  Bingham fluid is considered. We take
+into account the inhomogeneous yield  limit of the fluid, which is
+well adjusted to the description of landslides.   The blocking
+property is analyzed and we introduce the safety factor which is
+connected to two optimization problems in terms of velocities and
+stresses. Concerning the velocity analysis the minimum problem in
+BV(Ω) is equivalent to  a shape-optimization problem. The
+optimal set is the  part of the land which slides  whenever  the
+loading parameter  becomes greater than the safety factor. This is
+proved in the one-dimensional case and conjectured for the two-dimensional flow. For
+the stress-optimization problem  we give a
+ stream function formulation in order to deduce a minimum problem
+ in W1,∞(Ω) and we prove the existence of a minimizer.
+ The Lp(Ω) approximation technique is used to get a sequence
+ of minimum problems for smooth functionals. We propose
+ two
+ numerical approaches following the two analysis presented before.
+First, we describe a numerical method to
+ compute the safety factor through equivalence with the shape-optimization problem.
+Then the finite-element
+ approach  and a Newton method is  used to obtain a numerical
+ scheme for the stress formulation. Some numerical
+ results are given in order to   compare   the two
+ methods. The shape-optimization
+ method is sharp in detecting the  sliding zones but
+ the convergence is very sensitive
+ to the choice of the
+ parameters. The stress-optimization method is more robust,  gives
+ precise  safety factors but the results
+ cannot be
+ easily compiled to obtain  the sliding zone.
+Keywords
+Rigid viscoplastic
+inhomogeneous Bingham fluid  Landslides modeling  Variational inequalities  Blocking property  Shape optimization  Minimization of supremal functionals  

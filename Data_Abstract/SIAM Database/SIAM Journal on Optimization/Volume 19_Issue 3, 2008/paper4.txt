@@ -1,0 +1,6 @@
+On the Second-Order Feasibility Cone: Primal-Dual Representation and Efficient Projection
+Alexandre  Belloni and Robert M.  Freund;
+Abstract
+We study the second-order feasibility cone $\mathcal{F}=\{y\in\mathbb{R}^n:\|My\|\leq g^Ty\}$ for given data $(M,g)$. We construct a new representation for this cone and its dual based on the spectral decomposition of the matrix $M^TM-gg^T$. This representation is used to efficiently solve the problem of projecting an arbitrary point $x\in\mathbb{R}^n$ onto $\mathcal{F}$: $\min_y\{\|y-x\|:\|My\|\leq g^Ty\}$, which aside from theoretical interest also arises as a necessary subroutine in the rescaled perceptron algorithm. We develop a method for solving the projection problem to an accuracy $\varepsilon$, whose computational complexity is bounded by $O(mn^2+n\ln\ln(1/\varepsilon)+n\ln\ln(1/\min\{\operatorname{width}(\mathcal{F}),\operatorname{width}(\mathcal{F}^*)\}))$ operations. Here $\operatorname{width}(\mathcal{F})$ and $\operatorname{width}(\mathcal{F}^*)$ denote the width of $\mathcal{F}$ and $\mathcal{F}^*$, respectively. We also perform computational tests that indicate that the method is extremely efficient in practice.
+Keywords
+second-order cone, convex cone, projection, computational complexity, Newton method, 90C60, 90C51, 90C25, 49M15, 49M29, 

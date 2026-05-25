@@ -1,0 +1,6 @@
+An interior global method for nonlinear systems with simple bounds
+ Stefania   Bellavia ; Benedetta   Morini ;
+Abstract
+ The problem of solving a nonlinear system of equations subject to simple bounds is addressed and a new globally convergent method is developed and analyzed. The globalization process employs a trust-region strategy and possibly bends the trust-region solution by a new interior point modification of the projection onto the feasible set. The steps used are obtained by a combination of the chopped Cauchy step and the possibly modified trust-region solution. Thus, strictly feasible iterates are formed. The proposed method is shown to be globally and fast locally convergent. The practical viability of our approach is shown by a concrete implementation and numerical experience on well-known problems. The obtained results indicate that the method works well in practice. 
+Keywords
+Bound-constrained nonlinear equations, Trust-region methods, Affine scaling, Global convergence, Quadratic convergence 

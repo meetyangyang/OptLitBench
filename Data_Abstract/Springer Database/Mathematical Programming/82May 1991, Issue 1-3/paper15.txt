@@ -1,0 +1,6 @@
+An analytical approach to global optimization
+Pierre Hansen;Brigitte Jaumard;Shi-Hui Lu;
+Abstract
+Global optimization problems with a few variables and constraints arise in numerous applications but are seldom solved exactly. Most often only a local optimum is found, or if a global optimum is detected no proof is provided that it is one. We study here the extent to which such global optimization problems can be solved exactly using analytical methods. To this effect, we propose a series of tests, similar to those of combinatorial optimization, organized in a branch-and-bound framework. The first complete solution of two difficult test problems illustrates the efficiency of the resulting algorithm. Computational experience with the programbagop, which uses the computer algebra systemmacsyma, is reported on. Many test problems from the compendiums of Hock and Schittkowski and others sources have been solved.
+Keywords
+Global optimization  analytical methods  computer algebra  

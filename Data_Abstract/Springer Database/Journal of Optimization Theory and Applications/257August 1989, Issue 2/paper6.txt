@@ -1,0 +1,6 @@
+On the need for special purpose algorithms for minimax eigenvalue problems
+E. R. Panier;
+Abstract
+It has been recently reported that minimax eigenvalue problems can be formulated as nonlinear optimization problems involving smooth objective and constraint functions. This result seems very appealing since minimax eigenvalue problems are known to be typically nondifferentiable. In this paper, we show, however, that general purpose nonlinear optimization algorithms usually fail to find a solution to these smooth problems even in the simple case of minimization of the maximum eigenvalue of an affine family of symmetric matrices, a convex problem for which efficient algorithms are available.
+Keywords
+Minimax problems  eigenvalue problems  constrained optimization  

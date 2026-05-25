@@ -1,0 +1,8 @@
+A computationally efficient metamodeling approach for expensive multiobjective optimization
+Achille Messac;Anoop A. Mullur;
+Abstract
+
+This paper explores a new metamodeling framework that may collapse the computational explosion that characterizes the modeling of complex systems under a multiobjective and/or multidisciplinary setting. Under the new framework, a pseudo response surface is constructed for each design objective for each discipline. This pseudo response surface has the unique property of being highly accurate in Pareto optimal regions, while it is intentionally allowed to be inaccurate in other regions. In short, the response surface for each design objective is accurate only where it matters. Because the pseudo response surface is allowed to be inaccurate in other regions of the design space, the computational cost of constructing it is dramatically reduced. An important distinguishing feature of the new framework is that the response surfaces for all the design objectives are constructed simultaneously in a mutually dependent fashion, in a way that identifies Pareto regions for the multiobjective problem. The new framework supports the puzzling notion that it is possible to obtain more accuracy and radically more design space exploration capability, while actually reducing the computation effort. This counterintuitive metamodeling paradigm shift holds the potential for identifying highly competitive products and systems that are well beyond today’s state of the art.
+
+Keywords
+Pseudo response surface (PRS)  Extended radial basis function (E-RBF)  Multiobjective optimization  

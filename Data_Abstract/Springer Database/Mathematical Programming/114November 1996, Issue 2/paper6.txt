@@ -1,0 +1,6 @@
+Cut sharing for multistage stochastic linear programs with interstage dependency
+Gerd Infanger;David P. Morton;
+Abstract
+Multistage stochastic programs with interstage independent random parameters have recourse functions that do not depend on the state of the system. Decomposition-based algorithms can exploit this structure by sharing cuts (outer-linearizations of the recourse function) among different scenario subproblems at the same stage. The ability to share cuts is necessary in practical implementations of algorithms that incorporate Monte Carlo sampling within the decomposition scheme. In this paper, we provide methodology for sharing cuts in decomposition algorithms for stochastic programs that satisfy certain interstage dependency models. These techniques enable sampling-based algorithms to handle a richer class of multistage problems, and may also be used to accelerate the convergence of exact decomposition algorithms.
+Keywords
+Stochastic programming  Decomposition algorithms  Monte Carlo sampling  Interstage dependency  

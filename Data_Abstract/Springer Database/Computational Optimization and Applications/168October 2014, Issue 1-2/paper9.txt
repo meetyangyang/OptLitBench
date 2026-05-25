@@ -1,0 +1,6 @@
+An affine scaling method for optimization problems with polyhedral constraints
+William W. Hager;Hongchao Zhang;
+Abstract
+Recently an affine scaling, interior point algorithm ASL was developed for box constrained optimization problems with a single linear constraint (Gonzalez-Lima et al., SIAM J. Optim. 21:361–390, 2011). This note extends the algorithm to handle more general polyhedral constraints. With a line search, the resulting algorithm ASP maintains the global and R-linear convergence properties of ASL. In addition, it is shown that the unit step version of the algorithm (without line search) is locally R-linearly convergent at a nondegenerate local minimizer where the second-order sufficient optimality conditions hold. For a quadratic objective function, a sublinear convergence property is obtained without assuming either nondegeneracy or the second-order sufficient optimality conditions.
+Keywords
+Interior point  Affine scaling  Cyclic Barzilai-Borwein methods  CBB  Global convergence  Local convergence  Polyhedral constraints  Box and linear constraints  

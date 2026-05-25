@@ -1,0 +1,6 @@
+Optimal Control Under Uncertainty and Bayesian Parameters Adjustments
+Nicolas  Baradel, Bruno  Bouchard, and Ngoc Minh  Dang;
+Abstract
+We propose a general framework for studying the optimal impulse control problem in the presence of uncertainty on the parameters.   Given a prior on the distribution of the unknown parameters, we explain how it should evolve according to the classical Bayesian rule  after each impulse. Taking these progressive prior-adjustments into account, we characterize the optimal policy through a quasi-variational parabolic equation, which can be solved numerically. The derivation of the dynamic programming equation seems to be new in this context. The main difficulty lies in the nature of the set of controls which depends in a nontrivial way on the initial data through the filtration itself.
+Keywords
+optimal control, uncertainty, Bayesian filtering, 49L20, 49L25, 

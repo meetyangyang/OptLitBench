@@ -1,0 +1,6 @@
+Low dimensional simplex evolution: a new heuristic for global optimization
+Changtong Luo;Bo Yu;
+Abstract
+This paper presents a new heuristic for global optimization named low dimensional simplex evolution (LDSE). It is a hybrid evolutionary algorithm. It generates new individuals following the Nelder-Mead algorithm and the individuals survive by the rule of natural selection. However, the simplices therein are real-time constructed and low dimensional. The simplex operators are applied selectively and conditionally. Every individual is updated in a framework of try-try-test. The proposed algorithm is very easy to use. Its efficiency has been studied with an extensive testbed of 50 test problems from the reference (J Glob Optim 31:635–672, 2005). Numerical results show that LDSE outperforms an improved version of differential evolution (DE) considerably with respect to the convergence speed and reliability.
+Keywords
+Global optimization  Heuristic  Real-coded  Evolutionary algorithm  Differential evolution  Low dimensional simplex evolution  

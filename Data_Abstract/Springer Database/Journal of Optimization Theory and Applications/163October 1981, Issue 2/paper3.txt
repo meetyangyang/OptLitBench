@@ -1,0 +1,6 @@
+A globally convergent version of Robinson's algorithm for general nonlinear programming problems without using derivatives
+J. Bräuninger;
+Abstract
+Robinson's quadratically convergent algorithm for general nonlinear programming problems is modified in such a way that, instead of exact derivatives of the objective function and the constraints, approximations of these can be used which are computed by differences of function values. This locally convergent algorithm is then combined with a penalty function method to provide a globally and quadratically convergent algorithm that does not require the calculation of derivatives.
+Keywords
+Nonlinear minimization  nonlinear constraints  linear constraints  derivative-free minimization  penalty functions  

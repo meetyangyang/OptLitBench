@@ -1,0 +1,4 @@
+A Multi-stage Simulated Annealing Algorithm for the Torpedo Scheduling Problem
+Lucas Kletzander;Nysret Musliu;
+Abstract
+In production plants complex chains of processes need to be scheduled in an efficient way to minimize time and cost and maximize productivity. The torpedo scheduling problem that deals with optimizing the transport of hot metal in a steel production plant was proposed as the problem for the 2016 ACP (Association for Constraint Programming) challenge. This paper presents a new approach utilizing a multi-stage simulated annealing process adapted for the provided lexicographic evaluation function. It relies on two rounds of simulated annealing each using a specific objective function tailored for the corresponding part of the evaluation goals with an emphasis on efficient moves. The proposed algorithm was ranked first (ex aequo) in the 2016 ACP challenge and found the best known solutions for all provided instances.

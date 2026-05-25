@@ -1,0 +1,6 @@
+A computational study of several heuristics for the DRPP
+V. Campos;J. V. Savall;
+Abstract
+The problem of designing a route of minimum length for a postman that starts and finishes at his office and has to deliver the mail along a set of streets in a city is known as the Rural Postman Problem. When the postman has to obey the directions of the streets, we have the directed version of this problem. Finding an exact solution, in the general case, is intractably difficult. Hence, we have implemented three heuristic algorithms for approximately solving this problem and a procedure for obtaining a lower bound to the optimal length. Also, we present numerical experimentations based on a collection of random instances with up to 30 connected components, 240 vertices and 801 arcs. A lower bound for the optimal DRPP value is obtained by using cutting plane techniques, producing an optimal solution in 21 out of 60 instances. The main purpose of this work is to compare these three algorithms. We also give guidelines concerning the performance of the algorithms depending on the characteristics of the problem to solve.
+Keywords
+Postman problems  arc routing  heuristics  lower bounds  

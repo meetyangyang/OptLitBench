@@ -1,0 +1,6 @@
+Parallel Space Decomposition of the Mesh Adaptive Direct Search Algorithm
+Charles  Audet, J. E.  Dennis,  Jr., and Sébastien Le  Digabel;
+Abstract
+This paper describes a parallel space decomposition PSD technique for the mesh adaptive direct search MADS algorithm. MADS extends a generalized pattern search for constrained nonsmooth optimization problems. The objective of the present work is to obtain good solutions to larger problems than the ones typically solved by MADS. The new method PSD-MADS is an asynchronous parallel algorithm in which the processes solve problems over subsets of variables. The convergence analysis based on the Clarke calculus is essentially the same as for the MADS algorithm. A practical implementation is described, and some numerical results on problems with up to 500 variables illustrate the advantages and limitations of PSD-MADS.
+Keywords
+parallel space decomposition, mesh adaptive direct search (MADS), asynchronous parallel algorithm, nonsmooth optimization, convergence analysis., 90C56, 90C30, 65K05, 68W10, 

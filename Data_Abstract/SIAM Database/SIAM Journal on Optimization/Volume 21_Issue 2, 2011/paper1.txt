@@ -1,0 +1,6 @@
+Numerical Algebraic Geometry for Optimal Control Applications
+Philipp  Rostalski, Ioannis A.  Fotiou, Daniel J.  Bates, A. Giovanni  Beccuti, and Manfred  Morari;
+Abstract
+A new technique for solving polynomial nonlinear constrained optimal control problems is presented. The problem is reformulated into a parametric optimization problem, which in turn is solved in a two-step procedure. First, in a precomputation step, the equation part of the corresponding first order optimality conditions is solved for a generic value of the parameter. Relying on the underlying algebraic geometry, this first solution makes it possible to solve efficiently and in real time the corresponding optimal control problem at the measured parameter value for each subsequent time step. This approach has a probability one guarantee of finding the global optimal solution at each step. Controller synthesis for two applications from the area of power electronics featuring a dc-ac converter and a dc-dc converter are discussed to motivate the proposed approach.
+Keywords
+optimal control, model predictive control, receding horizon control, power electronics, controller synthesis, numerical algebraic geometry, homotopy continuation, 49J15, 49J21, 93C40, 65H10, 65H20, 49N90, 34H05, 65K10, 

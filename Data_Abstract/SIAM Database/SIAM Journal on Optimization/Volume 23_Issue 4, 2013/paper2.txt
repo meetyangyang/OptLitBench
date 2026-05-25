@@ -1,0 +1,6 @@
+On the Robust Knapsack Problem
+Michele  Monaci and Ulrich  Pferschy;
+Abstract
+We consider an uncertain variant of the knapsack problem that arises when the exact weight of each item is not exactly known in advance but belongs to a given interval, and the number of items whose weight differs from the nominal value is bounded by a constant. We analyze the worsening of the optimal solution value with respect to the classical problem, and exactly determine its worst-case performance depending on uncertainty for all parameter configurations. We perform the same analysis for the fractional version of the problem in which one is allowed to pack any fraction of the items. In addition, we derive the worst-case performance ratio with respect to the optimal solution value, for both the fractional problem and for a variant of the well-known greedy algorithm. Finally, we consider a relevant special case and provide a combinatorial algorithm for solving the fractional problem in an efficient way.
+Keywords
+knapsack problem, robust optimization, worst-case ratio, 90C27, 90C59, 90C90, 

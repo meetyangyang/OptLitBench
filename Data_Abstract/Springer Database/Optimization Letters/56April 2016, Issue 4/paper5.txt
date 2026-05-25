@@ -1,0 +1,6 @@
+On the optimal order of worst case complexity of direct search
+M. Dodangeh;L. N. Vicente;Z. Zhang;
+Abstract
+The worst case complexity of direct-search methods has been recently analyzed when they use positive spanning sets and impose a sufficient decrease condition to accept new iterates. For smooth unconstrained optimization, it is now known that such methods require at most \(\mathcal {O}(n^2\epsilon ^{-2})\) function evaluations to compute a gradient of norm below \(\epsilon \in (0,1)\), where n is the dimension of the problem. Such a maximal effort is reduced to \(\mathcal {O}(n^2\epsilon ^{-1})\) if the function is convex. The factor \(n^2\) has been derived using the positive spanning set formed by the coordinate vectors and their negatives at all iterations. In this paper, we prove that such a factor of \(n^2\) is optimal in these worst case complexity bounds, in the sense that no other positive spanning set will yield a better order of n. The proof is based on an observation that reveals the connection between cosine measure in positive spanning and sphere covering.
+Keywords
+Direct search  Worst case complexity  Optimal order  Sphere covering  Positive spanning set  Cosine measure  

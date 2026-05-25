@@ -1,0 +1,6 @@
+Average Case Analysis of a Heuristic for the Assignment Problem
+Richard M. Karp;Alexander H. G. Rinnooy Kan;Rakesh V. Vohra;
+Abstract
+Our main contribution is an O(n log n) algorithm that determines with high probability a perfect matching in a random 2-out bipartite graph. We also show that this algorithm runs in O(n) expected time. This algorithm can be used as a subroutine in an O(n2) heuristic for the assignment problem. When the weights in the assignment problem are independently and uniformly distributed in the interval [0, 1], we prove that the expected weight of the assignment returned by thus heuristic is bounded above by 3 + O(n−α), for some posrtive constant a.
+Keywords
+assignment problem bipartite matching probabilistic analysis 

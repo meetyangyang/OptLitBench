@@ -1,0 +1,6 @@
+Composite proximal bundle method
+Claudia Sagastizábal;
+Abstract
+We consider minimization of nonsmooth functions which can be represented as the composition of a positively homogeneous convex function and a smooth mapping. This is a sufficiently rich class that includes max-functions, largest eigenvalue functions, and norm-1 regularized functions. The bundle method uses an oracle that is able to compute separately the function and subgradient information for the convex function, and the function and derivatives for the smooth mapping. With this information, it is possible to solve approximately certain proximal linearized subproblems in which the smooth mapping is replaced by its Taylor-series linearization around the current serious step. Our numerical results show the good performance of the Composite Bundle method for a large class of problems. 
+Keywords
+Nonconvex Optimization  Nonsmooth optimization  Bundle methods  Composite functions  Primary 90C26  49J52; Secondary 65K10  49J53  49M05  

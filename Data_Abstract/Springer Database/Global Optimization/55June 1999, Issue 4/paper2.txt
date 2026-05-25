@@ -1,0 +1,6 @@
+A New Semidefinite Programming Bound for Indefinite Quadratic Forms Over a Simplex
+Ivo Nowak;
+Abstract
+The paper describes a method for computing a lower bound of the global minimum of an indefinite quadratic form over a simplex. The bound is derived by computing an underestimator of the convex envelope by solving a semidefinite program (SDP). This results in a convex quadratic program (QP). It is shown that the optimal value of the QP is a lower bound of the optimal value of the original problem. Since there exist fast (polynomial time) algorithms for solving SDP's and QP's the bound can be computed in reasonable time. Numerical experiments indicate that the relative error of the bound is about 10 percent for problems up to 20 variables, which is much better than a known SDP bound.
+Keywords
+Global optimization  Nonconvex quadratic programming  Semidefinite programming  

@@ -1,0 +1,6 @@
+Global Convergence of a Robust Smoothing SQP Method for Semi-Infinite Programming
+C. Ling;L. Q. Qi;G. L. Zhou;S. Y. Wu;
+Abstract
+The semi-infinite programming (SIP) problem is a program with infinitely many constraints. It can be reformulated as a nonsmooth nonlinear programming problem with finite constraints by using an integral function. Due to the nondifferentiability of the integral function, gradient-based algorithms cannot be used to solve this nonsmooth nonlinear programming problem. To overcome this difficulty, we present a robust smoothing sequential quadratic programming (SQP) algorithm for solving the nonsmooth nonlinear programming problem. At each iteration of the algorthm, we need to solve only a quadratic program that is always feasible and solvable. The global convergence of the algorithm is established under mild conditions. Numerical results are given.
+Keywords
+Smoothing SQP algorithm  semi-infinite programming  integral functions  global convergence  

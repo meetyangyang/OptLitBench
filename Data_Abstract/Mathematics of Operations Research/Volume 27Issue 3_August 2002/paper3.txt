@@ -1,0 +1,6 @@
+Combining Problem Structure with Basis Reduction to Solve a Class of Hard Integer Programs
+Quentin Louveaux;Laurence A. Wolsey;
+Abstract
+Recently Aardal et al. (2000) have successfully solved some small, difficult, equality-constrained integer programs by using basis reduction to reformulate the problems as inequality-constrained integer programs in a different space. Here, we adapt their method to solve integer programs that are larger but have special structure. The practical problem motivating this work is a variant of the market share problem. More formally, the problem can be viewed as finding a matrix X ∈ ℤmn+ satisfying XA = C, BX = D, where A, B, C, D are matrices of compatible dimensions, and the approach requires us to find a reduced basis of the lattice ℒ = {X ∈ ℤm×n: XA = 0, BX = 0}.The main topic of this paper is a study of the lattice ℒ. It is shown that an integer basis of ℒ can be obtained by taking the Kronecker product of vectors from integer bases of two much smaller lattices. Furthermore, the resulting basis is a reduced basis if the integer bases of the two small lattices are reduced bases and a suitable ordering is chosen.Finally, some limited computational results are presented showing the benefits of making use of the problem structure.
+Keywords
+Integer programming basis reduction lattices market share problem 

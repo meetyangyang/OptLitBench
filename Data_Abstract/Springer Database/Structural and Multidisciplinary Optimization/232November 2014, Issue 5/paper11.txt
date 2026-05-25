@@ -1,0 +1,6 @@
+GRAND — Ground structure based topology optimization for arbitrary 2D domains using MATLAB
+Tomás Zegard;Glaucio H. Paulino;
+Abstract
+The present work describes in detail an implementation of the ground structure method for non–orthogonal unstructured and concave domains written in MATLAB, called GRAND — GRound structure ANalysis and Design. The actual computational implementation is provided, and example problems are given for educational and testing purposes. The problem of ground structure generation is translated into a linear algebra approach, which is inspired by the video–game literature. To prevent the ground structure generation algorithm from creating members within geometric entities that no member should intersect (e.g. holes, passive regions), the concept of “restriction zones” is employed, which is based on collision detection algorithms used in computational geometry and video–games. The aim of the work is to provide an easy–to–use implementation for the optimization of least–weight trusses embedded in any domain geometry.
+Keywords
+Ground structure method  Topology optimization of trusses  Optimal structures  Unstructured meshes  Linear programming  

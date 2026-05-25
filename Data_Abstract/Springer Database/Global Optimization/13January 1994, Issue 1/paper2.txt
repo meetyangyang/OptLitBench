@@ -1,0 +1,6 @@
+A finite algorithm for solving general quadratic problems
+Immanuel M. Bomze;Gabriele Danninger;
+Abstract
+Here we propose a global optimization method for general, i.e. indefinite quadratic problems, which consist of maximizing a non-concave quadratic function over a polyhedron inn-dimensional Euclidean space. This algorithm is shown to be finite and exact in non-degenerate situations. The key procedure uses copositivity arguments to ensure escaping from inefficient local solutions. A similar approach is used to generate an improving feasible point, if the starting point is not the global solution, irrespective of whether or not this is a local solution. Also, definiteness properties of the quadratic objective function are irrelevant for this procedure. To increase efficiency of these methods, we employ pseudoconvexity arguments. Pseudoconvexity is related to copositivity in a way which might be helpful to check this property efficiently even beyond the scope of the cases considered here.
+Keywords
+Copositivity  global optimization  indefinite quadratic problems  pseudoconvexity  

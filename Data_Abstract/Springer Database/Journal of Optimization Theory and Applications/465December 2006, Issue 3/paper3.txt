@@ -1,0 +1,6 @@
+Higher-Order Method for the Solution of a Nonlinear Scalar Equation
+A. Germani;C. Manes;P. Palumbo;M. Sciandrone;
+Abstract
+A new iterative method to find the root of a nonlinear scalar function f is proposed. The method is based on a suitable Taylor polynomial model of order n around the current point x  k  and involves at each iteration the solution of a linear system of dimension n. It is shown that the coefficient matrix of the linear system is nonsingular if and only if the first derivative of f at x  k  is not null. Moreover, it is proved that the method is locally convergent with order of convergence at least n + 1. Finally, an easily implementable scheme is provided and some numerical results are reported.
+Keywords
+Root-finding algorithms  Newton method  higher-order methods  order of convergence  

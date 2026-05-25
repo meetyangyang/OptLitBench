@@ -1,0 +1,6 @@
+Infinite-Dimensional Predictive Control for Hyperbolic Systems
+Van Thang  Pham, Didier  Georges, and Gildas  Besançon;
+Abstract
+This paper presents a predictive control scheme, based on the receding horizon optimal control (RHOC) approach with zero terminal constraint, to guarantee the closed-loop stability of linear $2\times 2$ hyperbolic systems with boundary control. The extension of this control scheme to networks of such hyperbolic systems is also considered. The boundary control problem is first reformulated in the abstract form for which the optimal control with terminal constraint was well studied. These results are then used in the RHOC scheme to give a complete proof of stability of the closed-loop system. For the implementation, the calculus of variations is used to derive the adjoint state which is then discretized and solved together with the state to obtain the optimal control. The analysis is applied to open-channel hydraulic systems in cases of single pool and multipools in cascade. Finally, simulations are carried out to illustrate the effectiveness of the here-proposed approach.
+Keywords
+receding horizon optimal control, hyperbolic equations, boundary control, semi-group, open channel systems, Saint-Venant equations, 35Q93, 35Q35, 35F15, 35L65, 93D05, 93C20, 

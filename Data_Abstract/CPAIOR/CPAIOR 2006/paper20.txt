@@ -1,0 +1,4 @@
+Open Constraints in a Closed World
+Willem-Jan van Hoeve;Jean-Charles Régin;
+Abstract
+We study domain filtering algorithms for open constraints, i.e., constraints that are not a priori defined on specific sets of variables. We present an efficient filtering algorithm, achieving set-domain consistency, for open global cardinality constraints. We extend this result to conjunctions of them, in case they are defined on disjoint sets of variables. We also analyze the case when the sets of variables may overlap. As establishing set-domain consistency is NP-complete in that case, we propose a weaker, though efficient, filtering algorithm instead. Finally, we extend our results to conjunctions of similar open constraints.

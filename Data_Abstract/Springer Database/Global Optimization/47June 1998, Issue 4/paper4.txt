@@ -1,0 +1,6 @@
+A Multivariate Global Optimization Using Linear Bounding Functions
+Xiaojun Wang;Tsu-Shuan Chang;
+Abstract
+Recently linear bounding functions (LBFs) were proposed and used to find ε-global minima. This paper presents an LBF-based algorithm for multivariate global optimization problems. The algorithm consists of three phases. In the global phase, big subregions not containing a solution are quickly eliminated and those which possibly contain the solution are detected. An efficient scheme for the local phase is developed using our previous local minimization algorithm, which is globally convergent with superlinear/quadratic rate and does not require evaluation of gradients and Hessian matrices. To ensure that the found minimizers are indeed the global solutions or save computation effort, a third phase called the verification phase is often needed. Under adequate conditions the algorithm finds the ε-global solution(s) within finite steps. Numerical testing results illustrate how the algorithm works, and demonstrate its potential and feasibility.
+Keywords
+Factorable functions  Global optimization  Linear bounding functions  

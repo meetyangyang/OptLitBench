@@ -1,0 +1,6 @@
+A variant of Tuy's decomposition algorithm for solving a class of concave minimization problems
+ Tran   Vu Thieu ;
+Abstract
+ We present an improved decomposition algorithm for solving the global optimization problem    where X, Y are polyhedral convex sets in Rp, Rq  respectively and f is a continuous concave function over X (p is assumed to be small as compared to n = p+q). This algorithm is a variant of Tuy's decomposition algorithm, with, however, a major improvement in the construction of the linear subproblems to be solved in each step. To take advantage of this improvement, the lay-out planning problem with concave cost and the case of bounded variable y are also considered. 
+Keywords
+Decomposition algorithm, concave minimization, lay-out planning problemAMS 1980 Subject Classification: Primary:90 C 30, Secondary: 65 K 05, Secondary: 49 D 27 

@@ -1,0 +1,6 @@
+A Robust Control Framework for Option Pricing
+William M. McEneaney;
+Abstract
+A new approach is taken to the problem of option pricing. In the standard framework, the option pricing problem involves determining a price such that the option writer can guarantee a certain bound on the cost almost surely. Due to this form, the problem may be reformulated in terms of deterministic differential games of the type employed in robust and H∞ control. Different models yield different prices. The standard model yields the Black and Scholes price. Both a deterministic model and the standard model with the Ito integral replaced by the Stratonovich integral yield the price corresponding to a stop-loss hedging technique. With these methods, it can also easily be shown that for the standard model with a bounded, stochastic volatility, the Black and Scholes price corresponding to the upper bound for volatility is sufficient to hedge the option.
+Keywords
+option pricing Black-Scholes formula robust control viscosity solutions 

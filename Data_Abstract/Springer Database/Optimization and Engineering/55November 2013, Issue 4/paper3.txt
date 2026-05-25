@@ -1,0 +1,6 @@
+On sparse matrix orderings in interior point methods
+Csaba Mészáros;
+Abstract
+The major computational task of most interior point implementations is solving systems of equations with symmetric coefficient matrix by direct factorization methods, therefore, the performance of Cholesky-like factorizations is a critical issue. In the case of sparse and large problems the efficiency of the factorizations is closely related to the exploitation of the nonzero structure of the problem. A number of techniques were developed for fill-reducing sparse matrix orderings which make Cholesky factorizations more efficient by reducing the necessary floating point computations. We present a variant of the nested dissection algorithm incorporating special techniques that are beneficial for graph partitioning problems arising in the ordering step of interior point implementations. We illustrate the behavior of our algorithm and provide numerical results and comparisons with other sparse matrix ordering algorithms.
+Keywords
+Sparse matrix ordering  Nested dissection  Interior point methods  

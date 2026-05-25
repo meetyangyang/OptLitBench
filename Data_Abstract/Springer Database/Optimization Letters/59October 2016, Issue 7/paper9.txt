@@ -1,0 +1,6 @@
+Stochastic graph partitioning: quadratic versus SOCP formulations
+Dang Phuong Nguyen;Michel Minoux;Viet Hung Nguyen;Thanh Hai Nguyen;Renaud Sirdey;
+Abstract
+We consider a variant of the graph partitioning problem involving knapsack constraints with Gaussian random coefficients. In this new variant, under this assumption of probability distribution, the problem can be traditionally formulated as a binary SOCP for which the continuous relaxation is convex. In this paper, we reformulate the problem as a binary quadratic constrained program for which the continuous relaxation is not necessarily convex. We propose several linearization techniques for latter: the classical linearization proposed by Fortet (Trabajos de Estadistica 11(2):111–118, 1960) and the linearization proposed by Sherali and Smith (Optim Lett 1(1):33–47, 2007). In addition to the basic implementation of the latter, we propose an improvement which includes, in the computation, constraints coming from the SOCP formulation. Numerical results show that an improvement of Sherali–Smith’s linearization outperforms largely the binary SOCP program and the classical linearization when investigated in a branch-and-bound approach.
+Keywords
+Graph partitioning  Chance constrained programming   Second-order cone programming  Quadratic 0/1 programming   Branch-and-bound  

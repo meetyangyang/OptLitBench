@@ -1,0 +1,6 @@
+Semi-infinite terminal problems: a newton type method
+ Matin.   Gugat ;
+Abstract
+ A semi-infinite terminal problem is a special kind of generalized semi-infinite problem of the following type: Given a one-parametric family of feasible sets described by an infinite number of inequality constraints, find the maximal value of the parameter for which he feasible set is nonempty  In this paper, an algorithm for the solution of such a problem is given. In each step of the algorithm, a parametric auxiliary problem is solved for a fixed parameter. A sequence of parameters is generated that converges to the optimal value. In each step, for the computation of the next parameter a pair of a primal and a dual solution of the parametric auxiliary problem is used  The sensitivity information contained in the dual solutions yields fast convergence. In fact, superlinear convergence of the algorithm is proven. This result is also valid in the case of ill-posed problems. The proof is based on a result on the one-sided Iderivatives of the optimal value function of the auxiliary problem  
+Keywords
+Semi-Infinite Optimization, Terminal Problems, Newton Methsd, Duality, Slater Condition, One-Sided Derivatives, Optimal Value Function, Superlinear Convergence, Portfolio Selection 

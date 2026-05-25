@@ -1,0 +1,6 @@
+The Vector Partition Problem for Convex Objective Functions
+Shmuel Onn;Leonard J. Schulman;
+Abstract
+The partition problem concerns the partitioning of a given set of n vectors in d-space into p parts to maximize an objective function that is convex on the sum of vectors in each part. The problem has broad expressive power and captures NP-hard problems even if either p or d is fixed. In this article we show that when both p, d are fixed, the problem is solvable in strongly polynomial time using O(nd(p−1)−1) arithmetic operations. This improves upon the previously known bound of O(ndp2). Our method is based on the introduction of the signing zonotope of a set of points in space. We study this object, which is of interest in its own right, and show that it is a refinement of the so-called partition polytope of the same set of points.
+Keywords
+Partition cluster optimization separation convex polytope zonotope signing vertex enumeration polynomial time combinatorial optimization 

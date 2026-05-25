@@ -1,0 +1,6 @@
+Approximate minimum-cost multicommodity flows in\(\tilde O\)(ɛ −2 KNM) timetime
+Michael D. Grigoriadis;Leonid G. Khachiyan;
+Abstract
+We show that an ε-approximate solution of the cost-constrainedK-commodity flow problem on anN-nodeM-arc network,G can be computed by sequentially solving O(K(ɛ −2+logGK) logGM log (Gɛ −1 GK)) single-commodity minimum-cost flow problems on the same network. In particular, an approximate minimum-cost multicommodity flow can be computed in\(\tilde O\)(Gɛ −2 GKNM) running time, where the notation Õ(·) means “up to logarithmic factors”. This result improves the time bound mentioned by Grigoriadis and Khachiyan [4] by a factor ofM/N and that developed more recently by Karger and Plotkin [8] by a factor ofɛ −1. We also provide a simple\(\tilde O\)(NM)-time algorithm for single-commodity budget-constrained minimum-cost flows which is\(\tilde O\)(ɛ −3) times faster than the algorithm developed in the latter paper.
+Keywords
+Approximation algorithm  Block-angular program  Budget-constrained network flow  Minimum-cost multicommodity network flow  Structured optimization  

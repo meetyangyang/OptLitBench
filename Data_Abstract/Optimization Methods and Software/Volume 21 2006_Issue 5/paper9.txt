@@ -1,0 +1,6 @@
+A new linearization method for quadratic assignment problems
+ Yong   Xia ; Ya-Xiang   Yuan ;
+Abstract
+ The quadratic assignment problem (QAP) is one of the great challenges in combinatorial optimization. Linearization for QAP is to transform the quadratic objective function into a linear one. Numerous QAP linearizations have been proposed, most of which yield mixed integer linear programs. Kauffmann and Broeckx’s linearization (KBL) is the current smallest one in terms of the number of variables and constraints. In this article, we give a new linearization, which has the same size as KBL. Our linearization is more efficient in terms of the tightness of the continuous relaxation. Furthermore, the continuous relaxation of our linearization leads to an improvement to the Gilmore–Lawler bound. We also give a corresponding cutting plane heuristic method for QAP and demonstrate its superiority by numerical results. 
+Keywords
+Quadratic assignment problem, Linearization, Mixed integer linear program, Lower bound, Cutting plane 

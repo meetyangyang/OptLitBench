@@ -1,0 +1,6 @@
+Solving large-scale minimax problems with the primal—dual steepest descent algorithm
+Ciyou Zhu;
+Abstract
+This paper shows that the primal-dual steepest descent algorithm developed by Zhu and Rockafellar for large-scale extended linear—quadratic programming can be used in solving constrained minimax problems related to a generalC2 saddle function. It is proved that the algorithm converges linearly from the very beginning of the iteration if the related saddle function is strongly convex—concave uniformly and the cross elements between the convex part and the concave part of the variables in its Hessian are bounded on the feasible region. Better bounds for the asymptotic rates of convergence are also obtained. The minimax problems where the saddle function has linear cross terms between the convex part and the concave part of the variables are discussed specifically as a generalization of the extended linear—quadratic programming. Some fundamental features of these problems are laid out and analyzed.
+Keywords
+Minimax problem  Saddle function  Large-scale numerical optimization  Primal—dual projected gradient algorithm  

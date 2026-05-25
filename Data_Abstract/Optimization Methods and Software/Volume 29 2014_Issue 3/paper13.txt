@@ -1,0 +1,6 @@
+On the behaviour of constrained optimization methods when Lagrange multipliers do not exist
+R. Andreani;J.M. Martínez;L.T. Santos;B.F. Svaiter;
+Abstract
+Sequential optimality conditions are related to stopping criteria for nonlinear programming algorithms. Local minimizers of continuous optimization problems satisfy these conditions without constraint qualifications. It is interesting to discover whether well-known optimization algorithms generate primal–dual sequences that allow one to detect that a sequential optimality condition holds. When this is the case, the algorithm stops with a ‘correct’ diagnostic of success (‘convergence’). Otherwise, closeness to a minimizer is not detected and the algorithm ignores that a satisfactory solution has been found. In this paper it will be shown that a straightforward version of the Newton–Lagrange (sequential quadratic programming) method fails to generate iterates for which a sequential optimality condition is satisfied. On the other hand, a Newtonian penalty–barrier Lagrangian method guarantees that the appropriate stopping criterion eventually holds.
+Keywords
+constrained optimization, Newton–Lagrange method, sequential optimality conditions, stopping criteriaAMS Subject Classification:: 90C30, 90C46, 90C55 

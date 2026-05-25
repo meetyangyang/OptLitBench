@@ -1,0 +1,6 @@
+Max-Balancing Weighted Directed Graphs and Matrix Scaling
+Hans Schneider;Michael H. Schneider;
+Abstract
+A weighted directed graph G is a triple (V, A, g) where (V, A) is a directed graph and g is an arbitrary real-valued function defined on the arc set A. Let G be a strongly-connected, simple weighted directed graph. We say that G is max-balanced if for every nontrivial subset of the vertices W, the maximum weight over arcs leaving W equals the maximum weight over arcs entering W. We show that there exists a (up to an additive constant) unique potential pv for v ∈ V such that (V, A, gp) is max-balanced where gap = pu + ga − pv for a = (u, v) ∈ A. We describe an O(|V|2|A|) algorithm for computing p using an algorithm for computing the maximum cycle-mean of G. Finally, we apply our principal result to the similarity scaling of nonnegative matrices.
+Keywords
+directed graphs weighted arcs potentials 

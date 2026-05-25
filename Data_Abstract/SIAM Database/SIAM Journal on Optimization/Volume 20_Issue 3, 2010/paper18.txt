@@ -1,0 +1,6 @@
+A Line Search Multigrid Method for Large-Scale Nonlinear Optimization
+Zaiwen  Wen and Donald  Goldfarb;
+Abstract
+We present a line search multigrid method for solving discretized versions of general unconstrained infinite-dimensional optimization problems. At each iteration on each level, the algorithm computes either a “direct search” direction on the current level or a “recursive search” direction from coarser level models. Introducing a new condition that must be satisfied by a backtracking line search procedure, the “recursive search” direction is guaranteed to be a descent direction. Global convergence is proved under fairly minimal requirements on the minimization method used at all grid levels. Using a limited memory BFGS quasi-Newton method to produce the “direct search” direction, preliminary numerical experiments show that our line search multigrid approach is promising.
+Keywords
+convex and nonconvex optimization, multigrid/multilevel method, multiscale problems, line search, global convergence, 65K05, 65N55, 90C06, 90C25, 

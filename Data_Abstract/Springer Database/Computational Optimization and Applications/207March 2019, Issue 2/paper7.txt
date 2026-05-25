@@ -1,0 +1,6 @@
+A partial outer convexification approach to control transmission lines
+S. Göttlich;A. Potschka;C. Teuber;
+Abstract
+In this paper we derive an efficient optimization approach to calculate optimal controls of electric transmission lines. These controls consist of time-dependent inflows and switches that temporarily disable single arcs or whole subgrids to reallocate the flow inside the system. The aim is then to find the best energy input in terms of boundary controls in combination with the optimal configuration of switches, where the dynamics is driven by a coupled system of hyperbolic differential equations. We use a well-known three-step optimization approach based on the idea of partial outer convexification, for which we establish that the analytical requirements for its application hold for each fixed spatial discretization of the underlying partial differential equation, provided that combinatorial constraints are only pointwise in time. A comparison with a direct solver yields very promising results, also for problems with from an application viewpoint important switch up-time and down-time constraints, which are not pointwise in time and thus not fully covered by theory.
+Keywords
+Transmission lines  Optimization  Outer convexification  35L65  49J20  90C11  90C35  

@@ -1,0 +1,6 @@
+Bayesian Adaptive Stochastic Process Termination
+Inchi Hu;Chi-Wen Jevons Lee;
+Abstract
+This paper considers the problem of optimally terminating a number of stochastic processes when the time varying random rewards have distributions belonging to an exponential family with an unknown parameter. The problem is formulated as a Bayesian adaptive control model with the objective of minimizing the difference between the expected reward and the optimal reward when the parameter is known. The paper establishes an asymptotic lower bound on this difference and constructs policies based on a Kullback-Leibler index that obtain this lower bound. The results are applied to models of tree harvesting and destructive testing. A simulation study shows that these policies are efficient when the number of processes is large.
+Keywords
+Irrevocable adaptive policy Kullback-Leibler index multi-armed bandit problem sequential test stopping time 

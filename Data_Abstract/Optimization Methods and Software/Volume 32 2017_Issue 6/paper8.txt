@@ -1,0 +1,6 @@
+Descent three-term conjugate gradient methods based on secant conditions for unconstrained optimization
+Hiroshi Kobayashi;Yasushi Narushima;Hiroshi Yabe;
+Abstract
+The conjugate gradient method is an effective method for large-scale unconstrained optimization problems. Recent research has proposed conjugate gradient methods based on secant conditions to establish fast convergence of the methods. However, these methods do not always generate a descent search direction. In contrast, Y. Narushima, H. Yabe, and J.A. Ford [A three-term conjugate gradient method with sufficient descent property for unconstrained optimization, SIAM J. Optim. 21 (2011), pp. 212–230] proposed a three-term conjugate gradient method which always satisfies the sufficient descent condition. This paper makes use of both ideas to propose descent three-term conjugate gradient methods based on particular secant conditions, and then shows their global convergence properties. Finally, numerical results are given.
+Keywords
+unconstrained optimization, three-term conjugate gradient method, secant condition, sufficient descent property, global convergenceAMS Subject Classification: 90C30, 90C06 

@@ -1,0 +1,6 @@
+Pure adaptive search in global optimization
+Zelda B. Zabinsky;Robert L. Smith;
+Abstract
+Pure adaptive seach iteratively constructs a sequence of interior points uniformly distributed within the corresponding sequence of nested improving regions of the feasible space. That is, at any iteration, the next point in the sequence is uniformly distributed over the region of feasible space containing all points that are strictly superior in value to the previous points in the sequence. The complexity of this algorithm is measured by the expected number of iterations required to achieve a given accuracy of solution. We show that for global mathematical programs satisfying the Lipschitz condition, its complexity increases at mostlinearly in the dimension of the problem.
+Keywords
+Random search  Monte Carlo optimization  global optimization  complexity  

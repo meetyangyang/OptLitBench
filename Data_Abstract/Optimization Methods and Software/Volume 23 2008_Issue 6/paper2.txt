@@ -1,0 +1,6 @@
+Relaxed proximal point algorithms for variational inequalities with multi-valued operators
+ E.   Huebner ; R.   Tichatschke ;
+Abstract
+ In this paper two versions of the relaxed proximal point schemes for solving variational inequalities with maximal monotone and multi-valued operators are investigated. The first one describes an algorithm with an adaptive choice of the relaxation parameter and is combined with the use of ϵ–enlargements of multi-valued operators. The second one makes use of Bregman functions in order to construct relaxed proximal point algorithms with an interior point effect. For both algorithms convergence is proved under a numerically tractable error summability criterion, based on the ideas in [R. T. Rockafellar, Augmented Lagrangians and applications of the proximal point algorithm in convex programming, Math. Oper. Res. 1(2) (1976), pp. 97–116.] [R. T. Rockafellar, Monotone operators and the proximal point algorithm, SIAM J. Control Optim. 14(5) (1976), pp. 877–898.] Finally, some numerical aspects are discussed and test examples show the performance of the first algorithm when applying to non-smooth optimization problems. 
+Keywords
+relaxed proximal point algorithm, multi-valued mappings, ϵ–enlargements of monotone operators, Bregman functions, bundle method AMS Subject Classifications : 47J20, 47H05, 65J20, 65K10, 90C25 

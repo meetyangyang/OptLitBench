@@ -1,0 +1,6 @@
+Solving Log-Determinant Optimization Problems by a Newton-CG Primal Proximal Point Algorithm
+Chengjing  Wang, Defeng  Sun, and Kim-Chuan  Toh;
+Abstract
+We propose a Newton-CG primal proximal point algorithm (PPA) for solving large scale log-determinant optimization problems. Our algorithm employs the essential ideas of PPA, the Newton method, and the preconditioned CG solver. When applying the Newton method to solve the inner subproblem, we find that the log-determinant term plays the role of a smoothing term as in the traditional smoothing Newton technique. Focusing on the problem of maximum likelihood sparse estimation of a Gaussian graphical model, we demonstrate that our algorithm performs favorably compared to existing state-of-the-art algorithms and is much preferred when a high quality solution is required for problems with many equality constraints.
+Keywords
+log-determinant optimization problem, sparse inverse covariance selection, proximal point algorithm, Newton's method, 90C06, 90C22, 90C25, 65F10, 

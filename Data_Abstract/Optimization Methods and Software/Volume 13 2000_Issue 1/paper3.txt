@@ -1,0 +1,6 @@
+Efficient adjoint derivatives: application to the meteorological model meso-nh
+ Isabelle   Charpentier ; Mohammed   Ghemires ;
+Abstract
+ This paper describes a quite automatic method that allows for optimizing the adjoint codes produced by automatic differentiation tools. The automatic differentiator Odyssee that generates both tangent linear (Forward Automatic Differentiation) and adjoint (Reverse Automatic Differentiation) codes, is chosen to illustrate the discussion. As with many other tools, Odyss6e allows the hand coding construction of the linearized codes to be avoided, but it sometimes generates huge executable codes that cannot be run. We propose an algorithm that removes this drawback by means of modifications of both the tangent linear code and the adjoint code. In particular a study of the nonlinear parts of the code is proposed to determine the parts of the trajectory that must be stored, the other parts are not stored  In the second part of the paper, this method is used for the differentiation of Meso-NH with respect to the state variables. When generated in such a way, the resulting codes are efficient  
+Keywords
+Automatic Differentiation, Adjoint Codes, Automation and Optimization of Storage of the Trajectory 

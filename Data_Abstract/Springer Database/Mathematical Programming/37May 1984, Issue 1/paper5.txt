@@ -1,0 +1,6 @@
+Automatic identification of embedded network rows in large-scale optimization models
+Gerald G. Brown;William G. Wright;
+Abstract
+The solution of a large-scale linear, integer, or mixed integer programming problem is often facilitated by the exploitation of special structure in the model. This paper presents heuristic algorithms for identifying embedded network rows within the coefficient matrix of such models. The problem of identifying a maximum-size embedded pure network is shown to be among the class of NP-hard problems. The polynomially-bounded, efficient algorithms presented here do not guarantee network sets of maximum size. However, upper bounds on the size of the maximum network set are developed and used to show that our algorithms identify embedded networks of close to maximum size. Computational tests with large-scale, real-world models are presented.
+Keywords
+Networks  Large-Scale Optimization  Basis Factorization  Computational Complexity  Mixed Integer Optimization  Generalized Upper Bounds  

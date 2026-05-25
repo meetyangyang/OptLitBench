@@ -1,0 +1,6 @@
+Properties Of Primal Interior Point Methods For QP ∗  
+ Guo.   Tiande ; Wu.   Shiquan ;
+Abstract
+ This paper studies the properties of a primal interior point algorithm for convex quadratic programs. The algorithm can be viewed as a modification of the algorithms presented by Monteiro and Adler [13], Goldfarb and Liu [2] , etc.. In each iteration, it computes an approximately projected Newton direction hk and needs 0(n2.5 ) arithmetic operations in average. Moving along hk with a fixed stepsize which will make the log-barrier function a significant decrease. The algorithm terminates after  iterations. So the total complexity of this algorithm is   
+Keywords
+Convex quadratic programming, Interior point method, Karmarkar's method, Log-barrier function, Null space techniques, Rank-one techniques, Complexity 

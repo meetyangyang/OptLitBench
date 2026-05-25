@@ -1,0 +1,4 @@
+On Finding the Optimal BDD Relaxation
+David Bergman;Andre Augusto Cire;
+Abstract
+This paper presents an optimization model for identifying limited-width relaxed binary decision diagrams (BDDs) with tightest possible relaxation bounds. The model developed is a network design model and is used to identify which nodes and arcs should be in a relaxed BDD so that the objective function bound is as close to the optimal value as possible. The model is presented specifically for the 0–1 knapsack problem, but can be extended to other problem classes that have been investigated in the stream of research on using decision diagrams for combinatorial optimization problems. Preliminary experimental results indicate that the bounds provided by the relaxed BDDs are far superior to the bounds achieved by relaxed BDDs constructed via previously published compilation algorithms.

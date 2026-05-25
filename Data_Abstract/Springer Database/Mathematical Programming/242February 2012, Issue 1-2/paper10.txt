@@ -1,0 +1,6 @@
+Robust smoothed analysis of a condition number for linear programming
+Peter Bürgisser;Dennis Amelunxen;
+Abstract
+We perform a smoothed analysis of the GCC-condition number \({\fancyscript{C}(A)}\) of the linear programming feasibility problem \({\exists x\in\mathbb{R}^{m+1}\,Ax  < 0}\). Suppose that \({\bar{A}}\) is any matrix with rows \({\overline{a}_i}\) of euclidean norm 1 and, independently for all i, let a  i  be a random perturbation of \({\overline{a}_i}\) following the uniform distribution in the spherical disk in S  m  of angular radius arcsin σ and centered at \({\overline{a}_i}\). We prove that \({\mathbb{E}({\rm ln}\,\fancyscript{C}(A)) =\mathcal{O} (mn/\sigma)}\). A similar result was shown for Renegar’s condition number and Gaussian perturbations by Dunagan et al. (Math Program Ser A, 2009). Our result is robust in the sense that it easily extends to radially symmetric probability distributions supported on a spherical disk of radius arcsin σ, whose density may even have a singularity at the center of the perturbation. Our proofs combine ideas from a recent paper of Bürgisser et al. (Math Comp 77(263), 2008) with techniques of Dunagan et al.
+Keywords
+Linear programming  Perturbation  Condition number  Smoothed analysis  Spherically convex sets  90C05  90C31  52A22  60D05  

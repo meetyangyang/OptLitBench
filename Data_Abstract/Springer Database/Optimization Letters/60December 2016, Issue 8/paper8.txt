@@ -1,0 +1,6 @@
+A mixed integer program for partitioning graphs with supply and demand emphasizing sparse graphs
+Raka Jovanovic;Stefan Voß;
+Abstract
+The focus of this paper is on finding optimal solutions for the problem of maximal partitioning of graphs with supply and demand (MPGSD) for arbitrary graphs. A mixed integer programming (MIP) model is developed for the problem of interest. We also present some specific constraints that can be used in the case of tree graphs. With the goal of lowering the computational cost for solving the underlying model, a preprocessing stage is included. It is used to produce additional constraints based on shortest paths in the graph. With the aim of exploring the effectiveness of the proposed MIP formulation we have performed computational experiments for general graphs and trees. The main objective of the tests is to observe the properties and sizes of supply/demand graphs that can be solved to optimality using the proposed approach in reasonable time. The conducted computational experiments have shown that the proposed method is especially suitable for sparse graphs.
+Keywords
+Mixed integer programming  Graph partitioning  Demand vertex  Supply vertex  

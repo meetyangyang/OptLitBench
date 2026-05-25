@@ -1,0 +1,6 @@
+Global optimization in protein docking using clustering, underestimation and semidefinite programming
+ Roummel   F.   Marcia ; Julie   C.   Mitchell ; Stephen   J.   Wright ;
+Abstract
+ The underestimation of data points by a convex quadratic function is a useful tool for approximating the location of the global minima of potential energy functions that arise in protein-ligand docking problems. Determining the parameters that define the underestimator can be formulated as a convex quadratically constrained quadratic program and solved efficiently using algorithms for semidefinite programming (SDP). In this paper, we formulate and solve the underestimation problem using SDP and present numerical results for active site prediction in protein docking. 
+Keywords
+Protein docking, Global optimization, Convex underestimation, Semidefinite programming 

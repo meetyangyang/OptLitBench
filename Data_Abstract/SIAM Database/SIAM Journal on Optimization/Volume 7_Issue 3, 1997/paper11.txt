@@ -1,0 +1,6 @@
+On the Realization of the Wolfe Conditions in Reduced Quasi-Newton Methods for Equality Constrained Optimization
+Jean Charles  Gilbert;
+Abstract
+This paper describes a reduced quasi-Newton method for solving equality constrained optimization problems. A major difficulty encountered by this type of algorithm is the design of a consistent technique for maintaining the positive definiteness of the matrices approximating the reduced Hessian of the Lagrangian. A new approach is proposed in this paper. The idea is to search for the next iterate along a piecewise linear path. The path is designed so that some generalized Wolfe conditions can be satisfied. These conditions allow the algorithm to sustain the positive definiteness of the matrices from iteration to iteration by a mechanism that has turned out to be efficient in unconstrained optimization.
+Keywords
+constrained optimization, exact penalty function, global convergence, piecewise line-search, reduced quasi-Newton, successive quadratic programming, Wolfe's conditions, 49M37, 65K05, 90C30, 

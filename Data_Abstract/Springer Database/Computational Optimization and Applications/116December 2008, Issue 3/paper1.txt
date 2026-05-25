@@ -1,0 +1,8 @@
+A recursive algorithm for constrained two-dimensional cutting problems
+Yuanyan Chen;
+Abstract
+
+This paper presents a recursive algorithm for constrained two-dimensional guillotine cutting problems of rectangular items. The algorithm divides a stock plate into a sequence of small rectangular blocks. For the current block considered, it selects an item, puts it at the left-bottom corner of the block, and determines the direction of the dividing cut that divides the unoccupied region of the block into two smaller blocks for further consideration. The dividing cut is either along the upper edge or along the right edge of the selected item. The upper bound obtained from the unconstrained solution is used to shorten the searching space. The computational results on benchmark problems indicate that the algorithm can improve the solutions, and is faster than other algorithms.
+
+Keywords
+Recursive algorithm  Constrained two-dimensional cutting  Guillotine cuts  

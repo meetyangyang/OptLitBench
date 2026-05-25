@@ -1,0 +1,6 @@
+Dynamic scaling in the mesh adaptive direct search algorithm for blackbox optimization
+Charles Audet;Sébastien Le Digabel;Christophe Tribes;
+Abstract
+Blackbox optimization deals with situations in which the objective function and constraints are typically computed by launching a time-consuming computer simulation. The subject of this work is the mesh adaptive direct search (mads) class of algorithms for blackbox optimization. We propose a way to dynamically scale the mesh, which is the discrete spatial structure on which mads relies, so that it automatically adapts to the characteristics of the problem to solve. Another objective of the paper is to revisit the mads method in order to ease its presentation and to reflect recent developments. This new presentation includes a nonsmooth convergence analysis. Finally, numerical tests are conducted to illustrate the efficiency of the dynamic scaling, both on academic test problems and on a supersonic business jet design problem.
+Keywords
+Blackbox optimization  Derivative-free optimization   Mesh adaptive direct search  Dynamic scaling  90C30  90C56  65K05  62P30  

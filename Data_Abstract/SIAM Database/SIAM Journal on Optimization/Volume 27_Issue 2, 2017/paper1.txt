@@ -1,0 +1,6 @@
+IMRO: A Proximal Quasi-Newton Method for Solving $\ell_1$-Regularized Least Squares Problems
+Sahar  Karimi and Stephen  Vavasis;
+Abstract
+We present a proximal quasi-Newton method in which the approximation of the Hessian has the special format of “identity minus rank one” (IMRO) in each iteration. The proposed structure enables us to effectively recover the proximal point. The algorithm is applied to $\ell_1$-regularized least squares problems arising in many applications including sparse recovery in compressive sensing, machine learning, and statistics. Our numerical experiment suggests that the proposed technique competes favorably with other state-of-the-art solvers for this class of problems.  We also provide a complexity analysis for variants of IMRO, showing that it matches known best bounds.
+Keywords
+proximal methods, quasi-Newton methods, sparse recovery, basis pursuit denoising problem, $\ell_1$-regularized least squares problem, convex optimization, minimization of composite functions, 90C25, 90C30, 90C53, 90C90, 65K05, 49M37, 49M15, 

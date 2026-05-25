@@ -1,0 +1,6 @@
+An Inexact Sequential Quadratic Optimization Algorithm for Nonlinear Optimization
+Frank E.  Curtis, Travis C.  Johnson, Daniel P.  Robinson, and Andreas  Wächter;
+Abstract
+We propose a sequential quadratic optimization method for solving nonlinear optimization problems with equality and inequality constraints.  The novel feature of the algorithm is that, during each iteration, the primal-dual search direction is allowed to be an inexact solution of a given quadratic optimization subproblem.  We present a set of generic, loose conditions that the search direction (i.e., inexact subproblem solution) must satisfy so that global convergence of the algorithm for solving the nonlinear problem is guaranteed.  The algorithm can be viewed as a globally convergent inexact Newton-based method.  The results of numerical experiments are provided to illustrate the reliability of the proposed numerical method.
+Keywords
+nonlinear optimization, constrained optimization, sequential quadratic optimization, inexact Newton methods, global convergence, 49M05, 49M15, 49M29, 49M37, 65K05, 90C30, 90C55, 

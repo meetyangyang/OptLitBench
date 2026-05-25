@@ -1,0 +1,6 @@
+A smoothing Levenberg–Marquardt algorithm for semi-infinite programming
+Ping Jin;Chen Ling;Huifei Shen;
+Abstract
+In this paper, we present a smoothing Levenberg–Marquardt algorithm for the solution of the semi-infinite programming (SIP) problem. We first reformulate the KKT system of SIP problem into a system of constrained nonsmooth equations. Then we solve this system by a smoothing Levenberg–Marquardt algorithm. The feasibility is ensured via the aggregated constraint, and at each iteration of the presented algorithm only a quadratic programming has to be solved. Global and local superlinear convergence of this algorithm is established under a local error bound condition, which is much weaker than the nonsingularity condition. Preliminary numerical results are reported.
+Keywords
+Semi-infinite programming (SIP) problem  KKT system   Nonsmooth equations  Smoothing Levenberg–Marquardt algorithm  Convergence  49M15  49M37  65K15  90C30  90C46  

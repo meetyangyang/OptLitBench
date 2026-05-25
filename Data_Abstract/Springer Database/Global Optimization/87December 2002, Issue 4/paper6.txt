@@ -1,0 +1,6 @@
+Set Containment Characterization
+O.L. Mangasarian;
+Abstract
+Characterization of the containment of a polyhedral set in a closed halfspace, a key factor in generating knowledge-based support vector machine classifiers [7], is extended to the following: (i) containment of one polyhedral set in another; (ii) containment of a polyhedral set in a reverse-convex set defined by convex quadratic constraints; (iii) Containment of a general closed convex set, defined by convex constraints, in a reverse-convex set defined by convex nonlinear constraints. The first two characterizations can be determined in polynomial time by solving m linear programs for (i) and m convex quadratic programs for (ii), where m is the number of constraints defining the containing set. In (iii), m convex programs need to be solved in order to verify the characterization, where again m is the number of constraints defining the containing set. All polyhedral sets, like the knowledge sets of support vector machine classifiers, are characterized by the intersection of a finite number of closed halfspaces.
+Keywords
+Set containment  Knowledge-based classifier  Linear programming  Quadratic programming  

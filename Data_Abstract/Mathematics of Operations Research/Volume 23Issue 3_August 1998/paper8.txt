@@ -1,0 +1,6 @@
+On Local Search for Weighted k-Set Packing
+Esther M. Arkin;Refael Hassin;
+Abstract
+Given a collection of sets of cardinality at most k, with weights for each set, the maximum weighted packing problem is that of finding a collection of disjoint sets of maximum total weight. We study the worst case behavior of the t-local search heuristic for this problem proving a tight bound of k − 1 + 1/t. As a consequence, for any given r < 1/(k − 1) we can compute in polynomial time a solution whose weight is at least r times the optimal.
+Keywords
+Set packing local search performance guarantee 

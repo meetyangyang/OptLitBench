@@ -1,0 +1,6 @@
+Local Minima and Convergence in Low-Rank Semidefinite Programming
+Samuel Burer;Renato D.C. Monteiro;
+Abstract
+The low-rank semidefinite programming problem LRSDP r  is a restriction of the semidefinite programming problem SDP in which a bound r is imposed on the rank of X, and it is well known that LRSDP r  is equivalent to SDP if r is not too small. In this paper, we classify the local minima of LRSDP r  and prove the optimal convergence of a slight variant of the successful, yet experimental, algorithm of Burer and Monteiro [5], which handles LRSDP r  via the nonconvex change of variables X=RR T . In addition, for particular problem classes, we describe a practical technique for obtaining lower bounds on the optimal solution value during the execution of the algorithm. Computational results are presented on a set of combinatorial optimization relaxations, including some of the largest quadratic assignment SDPs solved to date.
+Keywords
+Semidefinite programming  Low-rank matrices  Vector programming  Combinatorial optimization  Nonlinear programming  Augmented Lagrangian  Numerical experiments  

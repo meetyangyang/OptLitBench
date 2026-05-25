@@ -1,0 +1,6 @@
+Obstacles reconstruction from partial boundary measurements based on the topological derivative concept
+S. S. Rocha;A. A. Novotny;
+Abstract
+In this work a new method for obstacles reconstruction from partial boundary measurements is proposed. For a given boundary excitation, we want to determine the quantity, locations and sizes of a number of holes embedded within a geometrical domain, from partial boundary measurements related to such an excitation. The resulting inverse problem is written in the form of an ill-posed and over-determined boundary value problem. The idea therefore is to rewrite it as an optimization problem where a shape functional measuring the misfit between the boundary measurement and the solution to an auxiliary boundary value problem is minimized with respect to a set of ball-shaped holes. The topological derivative concept is used for solving the associated topology optimization problem, leading to a second-order reconstruction algorithm. The resulting algorithm is non-iterative – and thus very robust with respect to noisy data – and also free of initial guess. Finally, some numerical results are presented in order to demonstrate the effectiveness of the proposed reconstruction algorithm.
+Keywords
+Obstacles reconstruction  Inverse problem  Topological asymptotic analysis  

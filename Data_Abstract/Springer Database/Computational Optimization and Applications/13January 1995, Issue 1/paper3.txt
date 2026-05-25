@@ -1,0 +1,6 @@
+An efficient trust region method for unconstrained discrete-time optimal control problems
+Thomas F. Coleman;Aiping Liao;
+Abstract
+Discrete-time optimal control (DTOC) problems are large-scale optimization problems with a dynamic structure. In previous work this structure has been exploited to provide very fast and efficient local procedures. Two examples are the differential dynamic programming algorithm (DDP) and the stagewise Newton procedure—both require onlyO(N) operations per iteration, whereN is the number of timesteps. Both exhibit a quadratic convergence rate. However, most algorithms in this category do not have a satisfactory global convergence strategy. The most popular global strategy is shifting: this sometimes works poorly due to the lack of automatic adjustment to the shifting element.
+Keywords
+discrete-time optimal control  stagewise Newton's method  trust region method  

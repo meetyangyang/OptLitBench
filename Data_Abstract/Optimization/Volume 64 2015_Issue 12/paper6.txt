@@ -1,0 +1,6 @@
+An improved evolution strategy with adaptive population size
+Ali Ahrari;Masoud Shariat-Panahi;
+Abstract
+A simple, yet efficient scheme for adaptation of population size in evolution strategies (ESs) that utilize global intermediate/weighted recombination is presented. At the first step, a measure to quantify multimodality of the region under exploration is introduced. This quantity is iteratively updated based on the optimization history and subsequently utilized to enlarge the population size when facing highly multimodal regions and vice versa. A descriptive experiment is designed to gain insight through impact of the novel heuristic. The heuristic is incorporated into the Covariance Matrix Adaptation Evolution Strategy (CMA-ES), the state of the art evolution strategy, and the reinforced algorithm is compared to the basic CMA-ES with fixed population size on a large number of test problems. Result comparison reveals the heuristic fulfills both goals of an effective adaptation scheme: It reduces performance sensitivity to the control parameter and increases convergence efficiency at the same time.
+Keywords
+sensitivity measure, covariance matrix adaptation, on-the-fly population, multimodality measure 

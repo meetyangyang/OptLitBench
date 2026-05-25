@@ -1,0 +1,6 @@
+A unified DC programming framework and efficient DCA based approaches for large scale batch reinforcement learning
+Hoai An Le Thi;Vinh Thanh Ho;Tao Pham Dinh;
+Abstract
+We investigate a powerful nonconvex optimization approach based on Difference of Convex functions (DC) programming and DC Algorithm (DCA) for reinforcement learning, a general class of machine learning techniques which aims to estimate the optimal learning policy in a dynamic environment typically formulated as a Markov decision process (with an incomplete model). The problem is tackled as finding the zero of the so-called optimal Bellman residual via the linear value-function approximation for which two optimization models are proposed: minimizing the \(\ell _{p}\)-norm of a vector-valued convex function, and minimizing a concave function under linear constraints. They are all formulated as DC programs for which attractive DCA schemes are developed. Numerical experiments on various examples of the two benchmarks of Markov decision process problems—Garnet and Gridworld problems, show the efficiency of our approaches in comparison with two existing DCA based algorithms and two state-of-the-art reinforcement learning algorithms.
+Keywords
+Batch reinforcement learning  Markov decision process  DC programming  DCA  Optimal Bellman residual  

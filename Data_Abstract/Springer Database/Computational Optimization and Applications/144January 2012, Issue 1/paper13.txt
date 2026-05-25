@@ -1,0 +1,6 @@
+Monte Carlo algorithm for trajectory optimization based on Markovian readings
+Ronaldo Dias;Nancy L. Garcia;Adriano Z. Zambom;
+Abstract
+This paper describes an efficient algorithm to find a smooth trajectory joining two points A and B with minimum length constrained to avoid fixed subsets. The basic assumption is that the locations of the obstacles are measured several times through a mechanism that corrects the sensors at each reading using the previous observation. The proposed algorithm is based on the penalized nonparametric method previously introduced that uses confidence ellipses as a fattening of the avoidance set. In this paper we obtain consistent estimates of the best trajectory using Monte Carlo construction of the confidence ellipse.
+Keywords
+Autonomous vehicle  Markov process  B-splines  Confidence ellipses  Constrained optimization  Nonparametric method  

@@ -1,0 +1,6 @@
+On Approximations with Finite Precision in Bundle Methods for Nonsmooth Optimization
+M. V. Solodov;
+Abstract
+We consider the proximal form of a bundle algorithm for minimizing a nonsmooth convex function, assuming that the function and subgradient values are evaluated approximately. We show how these approximations should be controlled in order to satisfy the desired optimality tolerance. For example, this is relevant in the context of Lagrangian relaxation, where obtaining exact information about the function and subgradient values involves solving exactly a certain optimization problem, which can be relatively costly (and as we show, in any case unnecessary). We show that approximation with some finite precision is sufficient in this setting and give an explicit characterization of this precision. Alternatively, our result can be viewed as a stability analysis of standard proximal bundle methods, as it answers the following question: for a given approximation error, what kind of approximate solution can be obtained and how does it depend on the magnitude of the perturbation?
+Keywords
+Nonsmooth optimization  convex optimization  bundle methods  stability analysis  perturbations  

@@ -1,0 +1,6 @@
+Self-Correcting Geometry in Model-Based Algorithms for Derivative-Free Unconstrained Optimization
+K.  Scheinberg and Ph. L.  Toint;
+Abstract
+Several efficient methods for derivative-free optimization are based on the construction and maintenance of an interpolation model for the objective function. Most of these algorithms use special “geometry-improving” iterations, where the geometry (poisedness) of the underlying interpolation set is made better at the cost of one or more function evaluations. We show that such geometry improvements cannot be completely eliminated if one wishes to ensure global convergence, but we also provide an algorithm where such steps occur only in the final stage of the algorithm, where criticality of a putative stationary point is verified. Global convergence for this method is proved by making use of a self-correction mechanism inherent to the combination of trust regions and interpolation models. This mechanism also throws some light on the surprisingly good numerical results reported by Fasano, Morales, and Nocedal [Optim. Methods Softw., 24 (2009), pp. 145–154] for a method where no care is ever taken to guarantee poisedness of the interpolation set.
+Keywords
+derivative-free optimization, geometry of the interpolation set, unconstrainedminimization, 65D05, 90C30, 90C56, 

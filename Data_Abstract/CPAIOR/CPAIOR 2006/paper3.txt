@@ -1,0 +1,4 @@
+Duality in Optimization and Constraint Satisfaction
+J. N. Hooker;
+Abstract
+We show that various duals that occur in optimization and constraint satisfaction can be classified as inference duals, relaxation duals, or both. We discuss linear programming, surrogate, Lagrangean, superadditive, and constraint duals, as well as duals defined by resolution and filtering algorithms. Inference duals give rise to nogood-based search methods and sensitivity analysis, while relaxation duals provide bounds. This analysis shows that duals may be more closely related than they appear, as are surrogate and Lagrangean duals. It also reveals common structure between solution methods, such as Benders decomposition and Davis-Putnam-Loveland methods with clause learning. It provides a framework for devising new duals and solution methods, such as generalizations of mini-bucket elimination.

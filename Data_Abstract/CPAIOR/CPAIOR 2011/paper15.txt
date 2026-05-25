@@ -1,0 +1,4 @@
+A Probing Algorithm for MINLP with Failure Prediction by SVM
+Giacomo Nannicini;Pietro Belotti;Jon Lee;Jeff Linderoth;François Margot;Andreas Wächter;
+Abstract
+Bound tightening is an important component of algorithms for solving nonconvex Mixed Integer Nonlinear Programs. A probing algorithm is a bound-tightening procedure that explores the consequences of restricting a variable to a subinterval with the goal of tightening its bounds. We propose a variant of probing where exploration is based on iteratively applying a truncated Branch-and-Bound algorithm. As this approach is computationally expensive, we use a Support-Vector-Machine classifier to infer whether or not the probing algorithm should be used. Computational experiments demonstrate that the use of this classifier saves a substantial amount of CPU time at the cost of a marginally weaker bound tightening.

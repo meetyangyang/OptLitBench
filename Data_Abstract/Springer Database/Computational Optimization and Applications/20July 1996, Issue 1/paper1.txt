@@ -1,0 +1,6 @@
+A heuristic for the Steiner problem in graphs
+B. N. Khoury;P. M. Pardalos;
+Abstract
+In this paper, we present a heuristic for the Steiner problem in graphs (SPG) along with some experimental results. The heuristic is based on an approach similar to Prim's algorithm for the minimum spanning tree. However, in this approach, arcs are associated with preference weights which are used to break ties among alternative choices of shortest paths occurring during the course of the algorithm. The preference weights are calculated according to a global view which takes into consideration the effect of all the regular nodes, nodes to be connected, on determining the choice of an arc in the solution tree.
+Keywords
+Steiner problem  heuristics  minimum spanning tree  testing  

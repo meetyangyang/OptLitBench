@@ -1,0 +1,6 @@
+Dualize it: software for automatic primal and dual conversions of conic programs
+ Johan   Löfberg ;
+Abstract
+ Many optimization problems gain from being interpreted and solved in either primal or dual forms. For a user with a particular application, one of these forms is usually much more natural to use, but this is not always the most efficient. This paper presents an implementation in the optimization modelling tool YALMIP that allows the user to define conic optimization problems in a preferred format, and then automatically derive a symbolic YALMIP model of the dual of this problem, solve the dual, and recover original variables. Applications in flexible generation of sum-of-squares programs, and efficient formulations of large-scale experiment design problems are used as illustrative examples. 
+Keywords
+optimization, conic programming, modelling software 

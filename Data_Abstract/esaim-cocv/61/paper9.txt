@@ -1,0 +1,6 @@
+Explicit output-feedback boundary control of reaction-diffusion PDEs on arbitrary-dimensional balls
+Rafael Vazquez1 and Miroslav Krstic2;
+Abstract
+This paper introduces an explicit output-feedback boundary feedback law that stabilizes          an unstable linear constant-coefficient reaction-diffusion equation on an n-ball (which in 2-D          reduces to a disk and in 3-D reduces to a sphere) using only measurements from the          boundary. The backstepping method is used to design both the control law and a boundary          observer. To apply backstepping the system is reduced to an infinite sequence of 1-D          systems using spherical harmonics. Well-posedness and stability are proved in the            L2 and H1 spaces. The          resulting control and output injection gain kernels are the product of the backstepping          kernel used in control of one-dimensional reaction-diffusion equations and a function          closely related to the Poisson kernel in the n-ball.
+Keywords
+Infinite-dimensional backstepping, boundary control, boundary observer, reaction-diffusion system, spherical harmonic

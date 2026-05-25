@@ -1,0 +1,6 @@
+On Sizing and Shifting the BFGS Update within the Sized-Broyden Family of Secant Updates
+H.  Yabe, H. J.  Martinez, and R. A.  Tapia;
+Abstract
+In a numerical study, Contreras and Tapia demonstrated the value of selectively sizing the BFGS secant update. A conclusion of the current study is that there is value in following a sizing of the BFGS update with a shifting of the BFGS update. Our motivation for such a strategy comes from the known fact that the BFGS update is prone to producing updates with large eigenvalues. Hence, sizing may contribute to near singularity, and shifting can help compensate for this deficiency. We follow Contreras and Tapia in our form of selective sizing. Our form of shifting can be viewed as switching from the BFGS update to an alternative member of the Broyden family of updates. Our shift is obtained by minimizing a weighted form of the Byrd--Nocedal measure over a sized Broyden family of secant updates. Numerically, our most effective shift is the one that gives the member of the class which is closest to steepest descent in the Byrd--Nocedal measure.
+Keywords
+sizing, BFGS update, secant update, quasi-Newton update, Newton's method, 49M15, 65K05, 65K10, 

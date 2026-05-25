@@ -1,0 +1,6 @@
+Polynomiality of infeasible-interior-point algorithms for linear programming
+Shinji Mizuno;
+Abstract
+Kojima, Megiddo, and Mizuno investigate an infeasible-interior-point algorithm for solving a primal—dual pair of linear programming problems and they demonstrate its global convergence. Their algorithm finds approximate optimal solutions of the pair if both problems have interior points, and they detect infeasibility when the sequence of iterates diverges. Zhang proves polynomial-time convergence of an infeasible-interior-point algorithm under the assumption that both primal and dual problems have feasible points. In this paper, we show that a modification of the Kojima—Megiddo—Mizuno algorithm “solves” the pair of problems in polynomial time without assuming the existence of the LP solution. Furthermore, we develop anO(nL)-iteration complexity result for a variant of the algorithm.
+Keywords
+Polynomial-time  Linear programming  Primal-dual  Interior-point algorithm  

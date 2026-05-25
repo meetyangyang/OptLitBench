@@ -1,0 +1,6 @@
+Projected filter trust region methods for a semismooth least squares formulation of mixed complementarity problems
+ Christian   Kanzow ; Stefania   Petra ;
+Abstract
+ A reformulation of the mixed complementarity problem as a box constrained overdetermined system of semismooth equations or, equivalently, a box constrained nonlinear least squares problem with zero residual is presented. On the basis of this reformulation, a trust region method for the solution of mixed complementarity problems is considered. This trust region method contains elements from different areas: a projected Levenberg–Marquardt step in order to guarantee local fast convergence under suitable assumptions, affine scaling matrices which are used to improve the global convergence properties, and a multidimensional filter technique to accept a full step more frequently. Global convergence results as well as local superlinear/quadratic convergence is shown under appropriate assumptions. Moreover, numerical results for the MCPLIB indicate that the overall method is quite robust. 
+Keywords
+Complementarity problems, Nonlinear least squares reformulation, Semismooth functions, Trust region methods, Filter method, Cauchy step, Global convergence, Quadratic convergence 

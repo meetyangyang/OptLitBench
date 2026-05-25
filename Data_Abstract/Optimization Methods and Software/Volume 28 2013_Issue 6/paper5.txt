@@ -1,0 +1,6 @@
+On sequential and parallel non-monotone derivative-free algorithms for box constrained optimization
+ Ubaldo   M.   García-Palomares ; Ildemaro   J.   García-Urrea ; Pedro   S.   Rodríguez-Hernández ;
+Abstract
+ This paper proposes a space decomposition scheme for non-monotone (NM) derivative-free parallel and sequential algorithms for solving the box-constrained optimization problem (BCOP). Convergence to Karush Kuhn Tucker points is proved under the same conditions for NM and monotone algorithms for solving unconstrained and BCOPs. The parallel algorithm has two unique features: all processors exchange information on discrete quasi-minimal points, and are able to sample function values on the whole set of directions that conform to non-negative spanning sets for each decomposed subspace. The parallel algorithm has a high degree of fault tolerance: convergence prevails even if only one processor remains running. Preliminary results are encouraging for solving small- and medium-sized problems. 
+Keywords
+space decomposition, parallel, derivative free, non-monotone, box constraints, discrete quasi-minimal pointsAMS Subject Classification: 65K05, 90C56 

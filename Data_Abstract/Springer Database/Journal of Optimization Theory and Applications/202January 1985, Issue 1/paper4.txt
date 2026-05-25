@@ -1,0 +1,6 @@
+Thermodynamical approach to the traveling salesman problem: An efficient simulation algorithm
+V. Černý;
+Abstract
+We present a Monte Carlo algorithm to find approximate solutions of the traveling salesman problem. The algorithm generates randomly the permutations of the stations of the traveling salesman trip, with probability depending on the length of the corresponding route. Reasoning by analogy with statistical thermodynamics, we use the probability given by the Boltzmann-Gibbs distribution. Surprisingly enough, using this simple algorithm, one can get very close to the optimal solution of the problem or even find the true optimum. We demonstrate this on several examples.
+Keywords
+Traveling salesman problem  Monte Carlo optimization  importance sampling  

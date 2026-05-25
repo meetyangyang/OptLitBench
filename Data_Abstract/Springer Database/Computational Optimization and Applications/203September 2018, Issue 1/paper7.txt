@@ -1,0 +1,6 @@
+Quasi-Newton methods for constrained nonlinear systems: complexity analysis and applications
+Leopoldo Marini;Benedetta Morini;Margherita Porcelli;
+Abstract
+We address the solution of constrained nonlinear systems by new linesearch quasi-Newton methods. These methods are based on a proper use of the projection map onto the convex constraint set and on a derivative-free and nonmonotone linesearch strategy. The convergence properties of the proposed methods are presented along with a worst-case iteration complexity bound. Several implementations of the proposed scheme are discussed and validated on bound-constrained problems including gas distribution network models. The results reported show that the new methods are very efficient and competitive with an existing affine-scaling procedure.
+Keywords
+Nonlinear systems of equations  Quasi-Newton methods  Nonmonotone derivative-free linesearch  Convergence theory  Complexity analysis  

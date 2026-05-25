@@ -1,0 +1,6 @@
+A Class of Euclidean Routing Problems with General Route Cost Functions
+S. Anily;A. Federgruen;
+Abstract
+In most vehicle routing problems, a given set of customers is to be partitioned into a collection of regions each of which is assigned to a single vehicle starting at a depot and returning there after visiting all of the region's customers exactly once in a route. In this paper we consider problem settings where the cost of a route may depend on its length ϑ as well as m, the number of points on the route, according to some general function f(ϑ, m), assumed to be nondecreasing and concave in ϑ.We describe a class of O(N logN) or O(N2) heuristics and show under mild probabilistic assumptions that the solutions generated are asymptotically optimal. We also show that lower and upper bounds on the system-wide costs may be computed (with even simpler procedures) and that these bounds are asymptotically tight under the same assumptions.
+Keywords
+vehicle routing traveling salesman problem heuristics asymptotic optimality 

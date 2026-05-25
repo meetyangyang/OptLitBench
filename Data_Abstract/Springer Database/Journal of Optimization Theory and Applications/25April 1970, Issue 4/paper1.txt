@@ -1,0 +1,6 @@
+Sequential gradient-restoration algorithm for optimal control problems
+A. Miele;R. E. Pritchard;J. N. Damoulakis;
+Abstract
+This paper considers the problem of minimizing a functionalI which depends on the statex(t), the controlu(t), and the parameter π. Here,I is a scalar,x ann-vector,u anm-vector, and π ap-vector. At the initial point, the state is prescribed. At the final point, the statex and the parameter π are required to satisfyq scalar relations. Along the interval of integration, the state, the control, and the parameter are required to satisfyn scalar differential equations. Asequential algorithm composed of the alternate succession of gradient phases and restoration phases is presented. This sequential algorithm is contructed in such a way that the differential equations and boundary conditions are satisfied at the end of each iteration, that is, at the end of a complete gradient-restoration phase; hence, the value of the functional at the end of one iteration is comparable with the value of the functional at the end of any other iteration.
+Keywords
+Optimal Control Problem  Varied Function  Sequential Algorithm  Nominal Function  Quadratic Constraint  

@@ -1,0 +1,6 @@
+Infeasible Predictor-Corrector Interior-Point Method Applied to Image Restoration in the Presence of Noise
+C. Pola;C. A. Sagastizábal;
+Abstract
+Image recovery problems can be solved using optimization techniques. They lead often to the solution of either a large-scale convex quadratic program or equivalently a nondifferentiable minimization problem. To solve the quadratic program, we use an infeasible predictor-corrector interior-point method, presented in the more general framework of monotone LCP. The algorithm has polynomial complexity and it converges with asymptotic quadratic rate. When implementing the method to recover images, we take advantage of the underlying sparsity of the problem. We obtain good performances, that we assess by comparing the method with a variable-metric proximal bundle algorithm applied to the solution of equivalent nonsmooth problem.
+Keywords
+infeasible-interior-point methods  predictor-corrector methods  image restoration in the presence of noise  kinky images  variable-metric proximal-point methods  

@@ -1,0 +1,6 @@
+Advantages of simplicial partitioning for Lipschitz optimization problems with linear constraints
+Remigijus Paulavičius;Julius Žilinskas;
+Abstract
+The well known DIRECT (DIviding RECTangles) algorithm for global optimization requires bound constraints on variables and does not naturally address additional linear or nonlinear constraints. A feasible region defined by linear constraints may be covered by simplices, therefore simplicial partitioning may tackle linear constraints in a very subtle way. In this paper we demonstrate this advantage of simplicial partitioning by applying a recently proposed deterministic simplicial partitions based DISIMPL algorithm for optimization problems defined by general linear constraints (Lc-DISIMPL). An extensive experimental investigation reveals advantages of this approach to such problems comparing with different constraint-handling methods, proposed for use with DIRECT. Furthermore the Lc-DISIMPL algorithm gives very competitive results compared to a derivative-free particle swarm algorithm (PSwarm) which was previously shown to give very promising results. Moreover, DISIMPL guarantees the convergence to the global solution, whereas the PSwarm algorithm sometimes fails to converge to the global minimum.
+Keywords
+Global optimization  DISIMPL algorithm   DIRECT algorithm  

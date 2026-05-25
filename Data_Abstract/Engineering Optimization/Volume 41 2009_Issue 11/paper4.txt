@@ -1,0 +1,6 @@
+A novel adaptive differential evolution algorithm with application to estimate kinetic parameters of oxidation in supercritical water
+ Chunping   Hu ; Xuefeng   Yan ;
+Abstract
+ A new version of differential evolution (DE) algorithm containing the adaptive mutation and crossover operators, named adaptive differential evolution (ADE), is proposed. In ADE, the control parameters of ADE are generated for each individual and the value of the parameters are based on individual's current generation number and parent's fitness value. With population evolution, the ADE algorithm gradually changes from being exploratory at the early stages to being exploitationary at the later stages. At the same time, in certain generations, low fitness individuals or high fitness individuals are assigned with small parameters to accelerate the convergence of these individuals. The experiments conducted show that the ADE generally outperforms the original DE algorithm and other existing self-adaptive DE algorithms for 11 benchmark functions. Furthermore, ADE is applied to develop the global kinetic model of the 2-chlorophenol oxidation in supercritical water, and satisfactory results are obtained. 
+Keywords
+differential evolution, evolutionary computation, parameter estimation, oxidation in supercritical water 

@@ -1,0 +1,6 @@
+Combining DCA (DC Algorithms) and interior point techniques for large-scale nonconvex quadratic programming
+ T.   Pham Dinh ; H.   A.   Le Thi ; F.   Akoa ;
+Abstract
+ In this paper, we provide a new regularization technique based on DC programming and DC Algorithms to handle indefinite Hessians in a primal–dual interior point context for nonconvex quadratic programming problems. The new regularization leads automatically to a strongly factorizable quasidefinite matrix in the Newton system. Numerical results show the robustness and the efficiency of our approach compared with LOQO. Moreover, in our computational testing, our method always provided globally optimal solutions to those nonconvex quadratic programs that arise from reformulations of linear complementarity problems. 
+Keywords
+nonconvex quadratic programming, DC programming, DCA (DC Algorithms), interior point, DC regularization, quasidefinite matrix, merit function, exact penalty AMS Subject Classifications : 90C20, 65K010, 90C26, 90C51 

@@ -1,0 +1,6 @@
+Semi-Lagrangian relaxation applied to the uncapacitated facility location problem
+C. Beltran-Royo;J.-P. Vial;A. Alonso-Ayuso;
+Abstract
+We show how the performance of general purpose Mixed Integer Programming (MIP) solvers, can be enhanced by using the Semi-Lagrangian Relaxation (SLR) method. To illustrate this procedure we perform computational experiments on large-scale instances of the Uncapacitated Facility Location (UFL) problems with unknown optimal values. CPLEX solves 3 out of the 36 instances. By combining CPLEX with SLR, we manage to solve 18 out of the 36 instances and improve the best known lower bound for the other instances. The key point has been that, on average, the SLR approach, has reduced by more than 90% the total number of relevant UFL variables.
+Keywords
+Lagrangian relaxation  Mixed integer programming  Uncapacitated facility location (UFL) problem  

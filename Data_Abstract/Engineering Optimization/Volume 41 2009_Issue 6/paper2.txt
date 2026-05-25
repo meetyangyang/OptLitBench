@@ -1,0 +1,6 @@
+A branch-and-bound algorithm for minimizing the sum of maximum earliness and tardiness with unequal release times
+ Mehdi   Mahnam ; Ghasem   Moslehi ;
+Abstract
+ This article addresses the problem of minimizing the sum of maximum earliness and tardiness on a single machine with unequal release times. It is proven that this problem is NP-hard in the strong sense and a branch-and-bound algorithm is developed as an exact method. In the proposed algorithm, modified dispatching rules based on different release times are proposed as the upper bound, while a procedure considering preemption assumption is used to obtain a good lower bound. Also, dominance rules based on no unforced idle time, adjacent pairwise interchanges in the base problem, and job blocks are used to fathom the nodes. In order to evaluate the efficiency of the proposed algorithm, 4,860 instances were randomly generated, varying from 7 to 1,000 jobs. It is shown that the branch-and-bound algorithm was capable of optimally solving 94.1% of the instances, showing its efficiency in solving all problem sizes. 
+Keywords
+scheduling, single machine, earliness–tardiness, release times, branch and bound 

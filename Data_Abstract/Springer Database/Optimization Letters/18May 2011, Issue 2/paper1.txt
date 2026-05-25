@@ -1,0 +1,6 @@
+On connected domination in unit ball graphs
+Sergiy Butenko;Sera Kahruman-Anderoglu;Oleksii Ursulenko;
+Abstract
+Given a simple undirected graph, the minimum connected dominating set problem is to find a minimum cardinality subset of vertices D inducing a connected subgraph such that each vertex outside D has at least one neighbor in D. Approximations of minimum connected dominating sets are often used to represent a virtual routing backbone in wireless networks. This paper first proposes a constant-ratio approximation algorithm for the minimum connected dominating set problem in unit ball graphs and then introduces and studies the edge-weighted bottleneck connected dominating set problem, which seeks a minimum edge weight in the graph such that the corresponding bottleneck subgraph has a connected dominating set of size k. In wireless network applications this problem can be used to determine an optimal transmission range for a network with a predefined size of the virtual backbone. We show that the problem is hard to approximate within a factor better than 2 in graphs whose edge weights satisfy the triangle inequality and provide a 3-approximation algorithm for such graphs. We also show that for fixed k the problem is polynomially solvable in unit disk and unit ball graphs.
+Keywords
+Connected dominating set  Unit ball graph  Wireless networks  

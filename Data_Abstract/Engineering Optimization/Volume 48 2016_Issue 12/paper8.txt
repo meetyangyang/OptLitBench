@@ -1,0 +1,6 @@
+Hybrid method for parameter optimization with equality constraints
+Hyunjoong Kim;Moonsu Park;Min-Jea Tahk;
+Abstract
+This article presents a hybrid method developed for solving an equality-constrained optimization problem. This method combines the co-evolutionary augmented Lagrangian method with the hybrid evolution strategy technique to overcome two major disadvantages of the evolutionary algorithm, i.e. poor constraint handling and a low convergence rate. Parameter and multiplier groups are evolved simultaneously to solve a zero-sum game transformed from a parameter optimization problem with equality constraints by the augmented Lagrangian method. Gradient individuals of parameters and multipliers are propagated by Newton’s method, and they play an important role in accelerating the speed of convergence. Ten test problems are solved to indicate that the proposed hybrid method supplies more accurate solutions with faster convergence than the co-evolutionary augmented Lagrangian method.
+Keywords
+hybrid method, parameter optimization, equality constraints, co-evolutionary algorithm, augmented Lagrangian method 

@@ -1,0 +1,4 @@
+Evenly Spaced Pareto Front Approximations for Tricriteria Problems Based on Triangulation
+Günter Rudolph;Heike Trautmann;Soumyadip Sengupta;Oliver Schütze;
+Abstract
+In some technical applications like multiobjective online control an evenly spaced approximation of the Pareto front is desired. Since standard evolutionary multiobjective optimization (EMO) algorithms have not been designed for that kind of approximation we propose an archive-based plug-in method that builds an evenly spaced approximation using averaged Hausdorff measure between archive and reference front. In case of three objectives this reference font is constructed from a triangulated approximation of the Pareto front from a previous experiment. The plug-in can be deployed in online or offline mode for any kind of EMO algorithm.

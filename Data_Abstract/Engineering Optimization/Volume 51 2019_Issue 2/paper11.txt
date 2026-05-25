@@ -1,0 +1,6 @@
+Vehicle routing problem with vector profits with max-min criterion
+Dongoo Lee;Jaemyung Ahn;
+Abstract
+This article introduces a new routing problem referred to as the vehicle routing problem with vector profits. Given a network composed of nodes (depot/sites) and arcs connecting the nodes, the problem determines routes that depart from the depot, visit sites to collect profits, and return to the depot. There are multiple stakeholders interested in the mission and each site is associated with a vector whose kth element represents the profit value for the kth stakeholder. The objective of the problem is to maximize the profit sum for the least satisfied stakeholder, i.e. the stakeholder with the smallest total profit value. An approach based on linear programming relaxation and column-generation to solve this max–min type routing problem was developed. Two case studies—the planetary surface exploration and the Rome tour cases—were presented to demonstrate the effectiveness of the proposed problem formulation and solution methodology.
+Keywords
+Vehicle routing problem with profits, vector profits, multiple stakeholders, max–min criterion, planetary surface exploration, tourist routing 

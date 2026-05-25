@@ -1,0 +1,6 @@
+On D-optimality based trust regions for black-box optimization problems
+Lonneke Driessen;Ruud Brekelmans;Herbert Hamers;Dick den Hertog;
+Abstract
+Various sequential derivative-free optimization algorithms exist for solving black-box optimization problems. Two important building blocks in these algorithms are the trust region and the geometry improvement. In this paper, we propose to incorporate the D-optimality criterion, well known in the design of experiments, into these algorithms in two different ways. Firstly, it is used to define a trust region that adapts its shape to the locations of the points in which the objective function has been evaluated. Secondly, it is used to determine an optimal geometry-improving point. The proposed trust region and geometry improvement can both be implemented into existing sequential algorithms.
+Keywords
+D-optimality  Trust region  Derivative-free  Optimization  Affine transformations  Geometry  

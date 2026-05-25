@@ -1,0 +1,6 @@
+Facets and algorithms for capacitated lot sizing
+Janny M. Y. Leung;Thomas L. Magnanti;Rita Vachani;
+Abstract
+The dynamic economic lot sizing model, which lies at the core of numerous production planning applications, is one of the most highly studied models in all of operations research. And yet, capacitated multi-item versions of this problem remain computationally elusive. We study the polyhedral structure of an integer programming formulation of a single-item capacitated version of this problem, and use these results to develop solution methods for multi-item applications. In particular, we introduce a set of valid inequalities for the problem and show that they define facets of the underlying integer programming polyhedron. Computational results on several single and multiple product examples show that these inequalities can be used quite effectively to develop an efficient cutting plane/branch and bound procedure. Moreover, our results show that in many instances adding certain of these inequalities a priori to the problem formulation, and avoiding the generation of cutting planes, can be equally effective.
+Keywords
+Mathematical Method  Computational Result  Operation Research  Problem Formulation  Solution Method  

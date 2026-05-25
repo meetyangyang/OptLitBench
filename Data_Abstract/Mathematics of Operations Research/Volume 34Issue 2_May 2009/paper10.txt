@@ -1,0 +1,6 @@
+An Adaptive Algorithm for Finding the Optimal Base-Stock Policy in Lost Sales Inventory Systems with Censored Demand
+Woonghee Tim Huh;Ganesh Janakiraman;John A. Muckstadt;Paat Rusmevichientong;
+Abstract
+We consider a periodic-review, single-location, single-product inventory system with lost sales and positive replenishment lead times. It is well known that the optimal policy does not possess a simple structure. Motivated by recent results showing that base-stock policies perform well in these systems, we study the problem of finding the best base-stock policy in such a system. In contrast to the classical inventory literature, we assume that the manager does not know the demand distribution a priori but must make the replenishment decision in each period based only on the past sales (censored demand) data. We develop a nonparametric adaptive algorithm that generates a sequence of order-up-to levels whose running average of the inventory holding and lost sales penalty cost converges to the cost of the optimal base-stock policy, and we establish the cubic-root convergence rate of the algorithm. Our analysis is based on recent advances in stochastic online convex optimization and on the uniform ergodicity of Markov chains associated with bases-stock policies.
+Keywords
+base-stock policy censored demand lost sales inventory system online optimization 

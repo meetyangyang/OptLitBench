@@ -1,0 +1,6 @@
+Local convergence analysis of a grouped variable version of coordinate descent
+J. C. Bezdek;R. J. Hathaway;R. E. Howard;C. A. Wilson;M. P. Windham;
+Abstract
+LetF(x,y) be a function of the vector variablesx∈R n  andy∈R m . One possible scheme for minimizingF(x,y) is to successively alternate minimizations in one vector variable while holding the other fixed. Local convergence analysis is done for this vector (grouped variable) version of coordinate descent, and assuming certain regularity conditions, it is shown that such an approach is locally convergent to a minimizer and that the rate of convergence in each vector variable is linear. Examples where the algorithm is useful in clustering and mixture density decomposition are given, and global convergence properties are briefly discussed.
+Keywords
+Coordinate descent  local linear convergence  

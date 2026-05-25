@@ -1,0 +1,6 @@
+Quantized Coordination Algorithms for Rendezvous and Deployment
+Ruggero  Carli and Francesco  Bullo;
+Abstract
+In this paper we study motion coordination problems for groups of robots that exchange information through a rate-constrained communication network. For one-dimensional rendezvous and deployment problems with communication path graphs, we propose an integrated control and communication scheme combining a logarithmic coder/decoder with linear coordination algorithms. We show that the closed-loop performance is comparable to that achievable in the quantization-free model: the time complexity is, asymptotically on the size of the network, unchanged, and the exponential convergence factor degrades smoothly as the quantization accuracy becomes coarser.
+Keywords
+robotic networks, coordination algorithms, quantization, 68W15, 37B25, 37E05, 94A40, 

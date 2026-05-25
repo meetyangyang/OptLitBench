@@ -1,0 +1,6 @@
+An analysis of reduced Hessian methods for constrained optimization
+Richard H. Byrd;Jorge Nocedal;
+Abstract
+We study the convergence properties of reduced Hessian successive quadratic programming for equality constrained optimization. The method uses a backtracking line search, and updates an approximation to the reduced Hessian of the Lagrangian by means of the BFGS formula. Two merit functions are considered for the line search: theℓ1 function and the Fletcher exact penalty function. We give conditions under which local and superlinear convergence is obtained, and also prove a global convergence result. The analysis allows the initial reduced Hessian approximation to be any positive definite matrix, and does not assume that the iterates converge, or that the matrices are bounded. The effects of a second order correction step, a watchdog procedure and of the choice of null space basis are considered. This work can be seen as an extension to reduced Hessian methods of the well known results of Powell (1976) for unconstrained optimization.
+Keywords
+Constrained optimization  reduced Hessian methods  quasi-Newton methods  successive quadratic programming  nonlinear programming  

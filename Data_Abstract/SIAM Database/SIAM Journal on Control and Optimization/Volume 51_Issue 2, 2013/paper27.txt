@@ -1,0 +1,6 @@
+Sampled-Data Distributed $H_{\infty}$ Control of Transport Reaction Systems
+Emilia  Fridman and Netzer Bar  Am;
+Abstract
+We develop, for the first time, sampled-data distributed $H_{\infty}$ control of a class of parabolic systems. These systems are governed by one-dimensional semilinear transport reaction equations with additive disturbances. A network of stationary sensing devices  provides  spatially averaged state measurements over the $N$ sampling spatial intervals. We suggest a sampled-data controller design, where  the sampling intervals in time and in space  are bounded. Our sampled-data static output feedback enters the equation through $N$ shape functions (which are localized in the space) multiplied by the corresponding state measurements. Sufficient conditions for the internal exponential stability and for $L_2$-gain analysis of the closed-loop system are derived via direct Lyapunov method in terms of linear matrix inequalities (LMIs). By solving these LMIs,  upper bounds   on the sampling intervals that preserve the internal stability and the resulting $L_2$-gain can be found. Numerical examples illustrate the efficiency of the method.
+Keywords
+sampled-data control, $H_{\infty}$ control, distributed parameter systems, Lyapunov method, linear matrix inequalities, 93C57, 93C20, 93B36, 93D15, 93D30, 

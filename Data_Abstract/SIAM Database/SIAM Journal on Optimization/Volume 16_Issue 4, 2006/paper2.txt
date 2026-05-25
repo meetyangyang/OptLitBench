@@ -1,0 +1,6 @@
+Incorporating Condition Measures in the Context of Combinatorial Optimization
+Jorge R.  Vera and Iván  Derpich;
+Abstract
+Integer programming algorithms have some kind of exponential complexity in the worst case. However, it is also observed that data instances of similar sizes might have very different practical complexity when solved by computer algorithms. This paper considers an alternative complexity analysis of some integer programming algorithms, which is based on measures of "intrinsic difficulty." The work extends to the setup of integer programming some notions of condition measures which have been developed for convex optimization. We present bounds on the so-called lattice width of polyhedra and address the impact on the complexity of integer programming algorithms like Lenstra's algorithm as well as branch and bound algorithms. The condition measures introduced here reflect shape and spatial orientation factors which are not fully captured by the traditional combinatorial analysis.
+Keywords
+complexity of integer programming, conditioning, complexity theory, error analysis, 90C10, 90C57, 68Q25, 

@@ -1,0 +1,6 @@
+A Cutting Plane Approach to the Sequential Ordering Problem (with Applications to Job Scheduling in Manufacturing)
+N.  Ascheuer, L. F.  Escudero, M.  Grötschel, and M.  Stoer;
+Abstract
+The sequential ordering problem (SOP) finds a minimum cost Hamiltonian path subject to certain precedence constraints. The SOP has a number of practical applications and arises, for instance, in production planning for flexible manufacturing systems. This paper presents several 0–1 models of the SOP and reports the authors’ computational experience in finding lower bounds of the optimal solution value of several real-life instances of SOP. One of the most successful approaches is a cutting plane procedure that is based on polynomial time separation algorithms for large classes of valid inequalities for the associated polyhedron.
+Keywords
+traveling salesman problem, sequential ordering problem, linear ordering problem, precedence constraints, cutting plane algorithm, separation algorithm, polyhedral combinatorics, 90C10, 90C35, 

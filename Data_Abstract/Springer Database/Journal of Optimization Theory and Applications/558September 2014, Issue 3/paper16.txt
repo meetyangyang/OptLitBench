@@ -1,0 +1,6 @@
+Maximum Divert for Planetary Landing Using Convex Optimization
+Matthew W. Harris;Behçet Açıkmeşe;
+Abstract
+This paper presents a real-time solution method of the maximum divert trajectory optimization problem for planetary landing. In mid-course, the vehicle is to abort and retarget to a landing site as far from the nominal as physically possible. The divert trajectory must satisfy velocity constraints in the range and cross range directions and a total speed constraint. The thrust magnitude is bounded above and below so that once on, the engine cannot be turned off. Because this constraint is not convex, it is relaxed to a convex constraint and lossless convexification is proved. A transformation of variables is introduced in the nonlinear dynamics and an approximation is made so that the problem becomes a second-order cone problem, which can be solved to global optimality in polynomial time whenever a feasible solution exists. A number of examples are solved to illustrate the effectiveness and efficiency of the solution method.
+Keywords
+Lossless convexification  Optimization software  

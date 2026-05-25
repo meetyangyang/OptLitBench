@@ -1,0 +1,6 @@
+Optimal Control of a Nutrient-Phytoplankton-Zooplankton-Fish System
+Marcus R.  Garvie and Catalin  Trenchea;
+Abstract
+We consider the mathematical formulation, analysis, and numerical solution of an optimal control problem for a nonlinear “nutrient-phytoplankton-zooplankton-fish” reaction-diffusion system. We study the existence of optimal solutions, derive an optimality system, and determine optimal solutions. In the original spatially homogeneous formulation [M. Scheffer, Oikos, 62 (1991), pp. 271–282] the dynamics of plankton were investigated as a function of parameters for nutrient levels and fish predation rate on zooplankton. In our paper the model is spatially extended and the parameter for fish predation treated as a multiplicative control variable. The model has implications for the biomanipulation of food-webs in eutrophic lakes to help improve water quality. In order to illustrate the control of irregular spatiotemporal dynamics of plankton in the model we implement a semi-implicit (in time) finite element method with “mass lumping” and present the results of numerical experiments in two space dimensions.
+Keywords
+chaos, optimal control, biomanipulation, predator-prey interaction, finite element method, 49K20, 92D25, 35K57, 

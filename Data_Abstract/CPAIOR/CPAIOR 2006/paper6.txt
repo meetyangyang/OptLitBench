@@ -1,0 +1,4 @@
+Allocation, Scheduling and Voltage Scaling on Energy Aware MPSoCs
+Luca Benini;Davide Bertozzi;Alessio Guerri;Michela Milano;
+Abstract
+In this paper we introduce a complex allocation and scheduling problem for variable voltage Multi-Processor System-on-Chip (MPSoC) platforms. We propose a methodology to formulate and solve to optimality the allocation, scheduling and discrete voltage selection problem, minimizing the system energy dissipation and the overhead for frequency switching. Our approach is based on the Logic Benders decomposition technique where the allocation is solved through an Integer Programming solver, and the scheduling through a Constraint Programming solver. The two solvers are interleaved and their interaction regulated by cutting plane generation. The objective function depends on both master and sub-problem variables. We demonstrate the efficiency of our approach on a set of realistic instances.

@@ -1,0 +1,6 @@
+A micro-accelerometer MDO benchmark problem
+S. Tosserams;L. F. P. Etman;J. E. Rooda;
+Abstract
+Many optimization and coordination methods for multidisciplinary design optimization (MDO) have been proposed in the last three decades. Suitable MDO benchmark problems for testing and comparing these methods are few however. This article presents a new MDO benchmark problem based on the design optimization of an ADXL150 type lateral capacitive micro-accelerometer. The behavioral models describe structural and dynamic effects, as well as electrostatic and amplification circuit contributions. Models for important performance indicators such as sensitivity, range, noise, and footprint area are presented. Geometric and functional constraints are included in these models to enforce proper functioning of the device. The developed models are analytical, and therefore highly suitable for benchmark and educational purposes. Four different problem decompositions are suggested for four design cases, each of which can be used for testing MDO coordination algorithms. As a reference, results for an all-in-one implementation, and a number of augmented Lagrangian coordination algorithms are given.
+Keywords
+Multidisciplinary design optimization  Distributed optimization  Decomposition  Coordination  Benchmark  MEMS  

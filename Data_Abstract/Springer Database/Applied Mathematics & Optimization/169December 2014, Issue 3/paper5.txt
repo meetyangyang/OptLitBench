@@ -1,0 +1,6 @@
+A Reduced Complexity Min-Plus Solution Method to the Optimal Control of Closed Quantum Systems
+Srinivas Sridharan;William M. McEneaney;Mile Gu;Matthew R. James;
+Abstract
+The process of obtaining solutions to optimal control problems via mesh based techniques suffers from the well known curse of dimensionality. This issue is especially severe in quantum systems whose dimensions grow exponentially with the number of interacting elements (qubits) that they contain. In this article we develop a min-plus curse-of-dimensionality-free framework suitable to a new class of problems that arise in the control of certain quantum systems. This method yields a much more manageable complexity growth that is related to the cardinality of the control set. The growth is attenuated through \(\max \)-plus projection at each propagation step. The method’s efficacy is demonstrated by obtaining an approximate solution to a previously intractable problem on a two qubit system.
+Keywords
+Optimal control  Quantum control  Max/min plus methods  Dynamic programming  HJB equation  Numerical methods  

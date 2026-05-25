@@ -1,0 +1,6 @@
+A DC optimization-based clustering technique for edge detection
+W. Khalaf;A. Astorino;P. D’Alessandro;M. Gaudioso;
+Abstract
+We introduce a method for edge detection which is based on clustering the pixels representing any given digital image into two sets (the edge pixels and the non-edge ones). The process is based on associating to each pixel an appropriate vector representing the differences in brightness w.r.t. the surrounding pixels. Clustering is driven by the norms of such vectors, thus it takes place in \(\mathbb {R}\), which allows us to use a (simple) DC (Difference of Convex) optimization algorithm to get the clusters. A novel thinning technique, based on calculation of the edge phase angles, refines the classification obtained by the clustering algorithm. The results of some numerical experiments are also provided.
+Keywords
+Classification  Clustering  DC optimization  Edge detection  

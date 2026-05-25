@@ -1,0 +1,6 @@
+A first-order multigrid method for bound-constrained convex optimization
+Michal Kočvara;Sudaba Mohammed;
+Abstract
+The aim of this paper is to design an efficient multigrid method for constrained convex optimization problems arising from discretization of some underlying infinite dimensional problems. Due to problem dependency of this approach, we only consider bound constraints with (possibly) a single equality constraint. As our aim is to target large-scale problems, we want to avoid computation of second derivatives of the objective function, thus excluding Newton-like methods. We propose a smoothing operator that only uses first-order information and study the computational efficiency of the resulting method.
+Keywords
+bound-constrained optimization, multigrid methods, linear complementarity problemsAMS Subject Classifications: 90C30, 65N55, 90C33 

@@ -1,0 +1,6 @@
+The Smallest Possible Interaction Radius for Flock Synchronization
+Ge  Chen, Zhixin  Liu, and Lei  Guo;
+Abstract
+This paper investigates the synchronization behavior of a class of flocks modeled by the nearest neighbor rules. While connectivity of the associated dynamical neighbor graphs is crucial for synchronization, it is well known that the verification of such dynamical connectivity is the core of theoretical analysis. Ideally, conditions used for synchronization should be imposed on the model parameters and the initial states of the agents. One crucial model parameter is the interaction radius, and we are interested in the following natural but complicated question: What is the smallest interaction radius for synchronization of flocks? In this paper, we reveal that, in a certain sense, the smallest possible interaction radius approximately equals $\sqrt{\log n/(\pi n)}$, with $n$ being the population size, which coincides with the critical radius for connectivity of random geometric graphs given by Gupta and Kumar [Critical power for asymptotic connectivity in wireless networks, in Stochastic Analysis, Control, Optimization and Applications, Birkhäuser Boston, Boston, MA, 1999, pp. 547--566].
+Keywords
+multiagent system, Vicsek's model, synchronization, random geometric graph, spectral gap, percolation theory, 92D50, 93C55, 60K35, 

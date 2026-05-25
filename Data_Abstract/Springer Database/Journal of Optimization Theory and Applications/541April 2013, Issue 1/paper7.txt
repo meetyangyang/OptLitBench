@@ -1,0 +1,6 @@
+An Inexact Modified Subgradient Algorithm for Primal-Dual Problems via Augmented Lagrangians
+Regina S. Burachik;Alfredo N. Iusem;Jefferson G. Melo;
+Abstract
+We consider a primal optimization problem in a reflexive Banach space and a duality scheme via generalized augmented Lagrangians. For solving the dual problem (in a Hilbert space), we introduce and analyze a new parameterized Inexact Modified Subgradient (IMSg) algorithm. The IMSg generates a primal-dual sequence, and we focus on two simple new choices of the stepsize. We prove that every weak accumulation point of the primal sequence is a primal solution and the dual sequence converges weakly to a dual solution, as long as the dual optimal set is nonempty. Moreover, we establish primal convergence even when the dual optimal set is empty. Our second choice of the stepsize gives rise to a variant of IMSg which has finite termination.
+Keywords
+Banach spaces  Nonsmooth optimization  Nonconvex optimization  Duality scheme  Augmented Lagrangian  Inexact modified subgradient algorithm  

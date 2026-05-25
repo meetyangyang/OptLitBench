@@ -1,0 +1,6 @@
+On the adaptation of the mutation scale factor in differential evolution
+Carlos Segura;Carlos A. Coello Coello;Eduardo Segredo;Coromoto León;
+Abstract
+Differential evolution (DE) is a simple yet effective metaheuristic specially suited for real-parameter optimization. The most advanced DE variants take into account the feedback obtained in the self-optimization process to modify their internal parameters and components dynamically. In recent years, some controversies have arisen regarding the adaptive schemes that incorporate feedback from the search process to guide the adaptation of the mutation scale factor. Some researchers have claimed that no significant benefits are obtained with these kinds of schemes. However, other studies have shown that they are highly effective. In this paper, we show that there is a relationship between the effectiveness of these adaptive schemes and the balance between exploration and exploitation induced by the trial vector generation strategy considered. State-of-the-art adaptive schemes are not useful for the trial vector generation strategies with the highest levels of exploration, which in fact seems to be the reason behind the controversies of recent years.
+Keywords
+Differential evolution  Mutation scale factor  Adaptation   Parameter control  

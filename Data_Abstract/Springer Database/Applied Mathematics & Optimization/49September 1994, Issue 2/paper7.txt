@@ -1,0 +1,6 @@
+Duality results and proximal solutions of the Huber M-estimator problem
+C. Michelot;M. L. Bougeard;
+Abstract
+We investigate the interest of solving the Huber M-estimator problem by a proximal approach combined with duality theory. Three different duality schemes are developed. The first one which only deals with estimator determination yields useful information on the geometrical structure of the set of optimal solutions. The second scheme links together estimator determination and outliers detection while the third one only focuses on outliers separation. We show that these three duality schemes can be solved by the partial inverse method, i.e., a special instance of the basic proximal point algorithm, which leads to very simple updating rules. This method which is always globally convergent enjoys nice stability properties and permits parallel computations.
+Keywords
+Robustness  Huber M-estimator  Outliers identification  Duality  Proximal algorithm  Partial inverse method  47H05  49M27  49N15  62F12  62F35  62J07  90C25  

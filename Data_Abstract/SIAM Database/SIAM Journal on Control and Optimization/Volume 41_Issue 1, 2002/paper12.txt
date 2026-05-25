@@ -1,0 +1,6 @@
+Worst Case Design for Robust Compensation
+Shaul  Gutman and Eytan  Paldi;
+Abstract
+We consider the problem $$ \displaystyle {\rm{Max}\hspace*{-12pt}\raisebox{-7pt}{\scriptsize{F}}} \hspace*{20pt} {\rm{Min}}{\hspace*{-26pt}\raisebox{-7pt}{\scriptsize{$c(p, F) = 0$}}} \hspace*{4pt} {h(p, F)}, $$ \noindent where ${F} \in \mathcal{R}^r$, ${p} \in \mathcal{R}^m$, and where $c(\cdot)$ and $h(\cdot)$ are $C^1$. Let $\phi({F}) = {\rm{Min}}_{c(p, F) = 0} h(p, F)$. We show, by means of simple examples, that $\phi(\cdot)$ is, in general, discontinuous. We develop in this paper necessary conditions for the case where $\phi(\cdot)$ is continuous (but not necessarily differentiable). In an alternative approach (which is computationally inferior), we treat the discontinuous case as well. We apply the results to robust control in linear systems where p stands for the (structured) real parameter uncertainty vector and F stands for the control parameters vector. We demonstrate the results by means of examples.
+Keywords
+robust control, min-max, 93C05, 93D09, 

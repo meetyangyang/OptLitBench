@@ -1,0 +1,6 @@
+OSPF routing with optimal oblivious performance ratio under polyhedral demand uncertainty
+Ayşegül Altın;Pietro Belotti;Mustafa Ç. Pınar;
+Abstract
+We study the best OSPF style routing problem in telecommunication networks, where weight management is employed to get a routing configuration with the minimum oblivious ratio. We consider polyhedral demand uncertainty: the set of traffic matrices is a polyhedron defined by a set of linear constraints, and a routing is sought with a fair performance for any feasible traffic matrix in the polyhedron. The problem accurately reflects real world networks, where demands can only be estimated, and models one of the main traffic forwarding technologies, Open Shortest Path First (OSPF) routing with equal load sharing. This is an NP-hard problem as it generalizes the problem with a fixed demand matrix, which is also NP-hard.
+Keywords
+OSPF  Oblivious routing  Traffic engineering  ECMP  Branch-and-price  Traffic uncertainty  

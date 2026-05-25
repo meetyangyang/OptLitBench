@@ -1,0 +1,6 @@
+Design optimization with parallel sensitivity analysis on the CRAY X-MP
+M. E. M. El-Sayed;C. K. Hsiung;
+Abstract
+This paper presents an approach for parallel computation of structural optimization problems on the CRAY X-MP by using parallel sensitivity analysis calculation. In this approach, a main processor is chosen to perform all the optimization calculations except the constraint gradient evaluations. When a sensitivity analysis is needed the main processor decomposes it into several computation tasks, then assigns the computation tasks to the other available associate processors and manages the communication. Due to uncoupled characteristics of the constraint gradient calculations, the associate processors perform the computation tasks in parallel. The algorithm for the structural optimization process with parallel design sensitivity is presented along with some numerical test cases to demonstrate the efficiency of this approach.
+Keywords
+Sensitivity Analysis  Design Optimization  Optimization Process  Analysis Calculation  Structural Optimization  

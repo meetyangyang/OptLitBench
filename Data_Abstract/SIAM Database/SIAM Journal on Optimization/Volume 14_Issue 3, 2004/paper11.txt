@@ -1,0 +1,6 @@
+Convergence of Approximate and Incremental Subgradient Methods for Convex Optimization
+Krzysztof C.  Kiwiel;
+Abstract
+We present a unified convergence framework for approximate subgradient methods that covers various stepsize rules (including both diminishing and nonvanishing stepsizes), convergence in objective values, and convergence to a neighborhood of the optimal set. We discuss ways of ensuring the boundedness of the iterates and give efficiency estimates. Our results are extended to incremental subgradient methods for minimizing a sum of convex functions, which have recently been shown to be promising for various large-scale problems, including those arising from Lagrangian relaxation.
+Keywords
+nondifferentiable optimization, convex programming, subgradient optimization, approximate subgradients, efficiency, 65K05, 90C25, 

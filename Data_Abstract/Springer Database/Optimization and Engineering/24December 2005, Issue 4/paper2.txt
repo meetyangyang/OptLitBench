@@ -1,0 +1,6 @@
+Fast Simultaneous Angle, Wedge, and Beam Intensity Optimization in Inverse Radiotherapy Planning
+Konrad Engel;Eckhard Tabbert;
+Abstract
+We present a new fast radiotherapy planning algorithm which determines approximatively optimal gantry and table angles, kinds of wedges, leaf positions and intensities simultaneously in a global way. Other parameters are optimized only independently of each other. The algorithm uses an elaborate field management and field reduction. Beam intensities are determined via a variant of a projected Newton method of Bertsekas. The objective function is a standard piecewise quadratic penalty function, but it is built with efficient upper bounds which are calculated during the optimization process. Instead of pencil beams, basic leaf positions are included. The algorithm is implemented in the new beam modelling and dose optimization module Homo OptiS.
+Keywords
+3D treatment planning  radiation therapy optimization  IMRT  beam orientation  projected Newton method  penalty function  

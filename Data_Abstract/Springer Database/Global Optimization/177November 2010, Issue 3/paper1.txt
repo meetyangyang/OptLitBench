@@ -1,0 +1,6 @@
+Dynamic analysis for the selection of parameters and initial population, in particle swarm optimization
+Emilio F. Campana;Giovanni Fasano;Antonio Pinto;
+Abstract
+In this paper we consider the evolutionary Particle Swarm Optimization (PSO) algorithm, for the minimization of a computationally costly nonlinear function, in global optimization frameworks. We study a reformulation of the standard iteration of PSO (Clerc and Kennedy in IEEE Trans Evol Comput 6(1) 2002), (Kennedy and Eberhart in IEEE Service Center, Piscataway, IV: 1942–1948, 1995) into a linear dynamic system. We carry out our analysis on a generalized PSO iteration, which includes the standard one proposed in the literature. We analyze three issues for the resulting generalized PSO: first, for any particle we give both theoretical and numerical evidence on an efficient choice of the starting point. Then, we study the cases in which either deterministic and uniformly randomly distributed coefficients are considered in the scheme. Finally, some convergence analysis is also provided, along with some necessary conditions to avoid diverging trajectories. The results proved in the paper can be immediately applied to the standard PSO iteration.
+Keywords
+Global optimization  Evolutionary optimization  Particle Swarm Optimization  Dynamic linear system  Convergence analysis  

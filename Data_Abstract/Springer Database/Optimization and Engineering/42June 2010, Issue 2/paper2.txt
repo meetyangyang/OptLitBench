@@ -1,0 +1,6 @@
+Unit commitment in oligopolistic markets by nonlinear mixed variable programming
+Giovanni Mercurio Casolino;Giampaolo Liuzzi;Arturo Losi;
+Abstract
+In the paper we consider the unit commitment problem in oligopolistic markets. The formulation of the problem involves both integer and continuous variables and nonlinear functions as well, thus yielding a nonlinear mixed variable programming problem. Our formulation takes into account all technical constraints for the generating units, such as ramp rate and minimum up and down time constraints, considers the uncertainty related to the selling prices and allows modeling their dependence on the total output of a producer. The objective function is the expected value of the revenue over the different scenarios minus a term which takes into account the risk related to the decision. To solve the problem we adopt a recently proposed method for mixed integer nonlinear programming problems and use a derivative free algorithm to solve the continuous subproblems. We report results for two operators: one managing a single unit and the other managing three units. Numerical results give evidence to the features of the modeling and show viability of the adopted algorithm.
+Keywords
+Unit commitment  Oligopolistic markets  Mixed variable programming  Risk aversion  

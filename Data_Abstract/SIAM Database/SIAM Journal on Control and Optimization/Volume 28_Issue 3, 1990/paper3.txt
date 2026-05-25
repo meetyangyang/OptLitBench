@@ -1,0 +1,6 @@
+Global Optimization over Unbounded Domains
+H.  Ratschek and R. L.  Voller;
+Abstract
+Almost all methods for solving the global optimization problem need the assumption that a parallelepiped containing the solution points is known. The boundedness is necessary both for the numerical computation as well as for guaranteeing the convergence properties. In this paper a technique is described that drops this restriction so that the unconstrained problem, in the literal sense of the terms can be solved. The technique is based on the branch-and-bound method and on infinite-interval arithmetic, it is simple to apply, and very robust as examples show.
+Keywords
+global optimization, unconstrained optimization, nonlinear optimization, optimization over unbounded domains, 90C30, 65K05, 65K10, 65010, 

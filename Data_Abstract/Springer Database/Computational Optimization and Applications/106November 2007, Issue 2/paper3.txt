@@ -1,0 +1,8 @@
+A convergent decomposition algorithm for support vector machines
+S. Lucidi;L. Palagi;A. Risi;M. Sciandrone;
+Abstract
+
+In this work we consider nonlinear minimization problems with a single linear equality constraint and box constraints. In particular we are interested in solving problems where the number of variables is so huge that traditional optimization methods cannot be directly applied. Many interesting real world problems lead to the solution of large scale constrained problems with this structure. For example, the special subclass of problems with convex quadratic objective function plays a fundamental role in the training of Support Vector Machine, which is a technique for machine learning problems. For this particular subclass of convex quadratic problem, some convergent decomposition methods, based on the solution of a sequence of smaller subproblems, have been proposed. In this paper we define a new globally convergent decomposition algorithm that differs from the previous methods in the rule for the choice of the subproblem variables and in the presence of a proximal point modification in the objective function of the subproblems. In particular, the new rule for sequentially selecting the subproblems appears to be suited to tackle large scale problems, while the introduction of the proximal point term allows us to ensure the global convergence of the algorithm for the general case of nonconvex objective function. Furthermore, we report some preliminary numerical results on support vector classification problems with up to 100 thousands variables.
+
+Keywords
+Large scale optimization  Decomposition methods  Proximal point modification  Support vector machine  

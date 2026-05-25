@@ -1,0 +1,6 @@
+A robust and efficient proposal for solving linear systems arising in interior-point methods for linear programming
+María D. Gonzalez-Lima;Aurelio R. L. Oliveira;Danilo E. Oliveira;
+Abstract
+We introduce an efficient and robust proposal for solving linear systems arising at each iteration of primal-dual interior-point methods for linear programming. Our proposal is based on the stable system presented by Gonzalez-Lima et al. (Comput. Opt. Appl. 44:213–247, 2009). Using similar techniques as those employed in the splitting preconditioner introduced by Oliveira and Sorensen (Linear Algebra Appl. 394:1–24, 2005) we are able to express the stable system matrix in block form such that the diagonal blocks are nonsingular diagonal matrices and the off-diagonal blocks are matrices close to zero when the iterates are close to the solution set of the linear programming problem. For degenerate problems a perturbation of the diagonal is added. We use a low-cost fixed iterative method to solve this system. Numerical experiments have shown that our approach leads to very accurate solutions for the linear programming problem.
+Keywords
+Linear programming  Primal-dual interior point methods  Linear systems  

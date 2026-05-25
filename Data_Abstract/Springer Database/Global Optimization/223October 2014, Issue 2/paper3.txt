@@ -1,0 +1,6 @@
+Upper bounding in inner regions for global optimization under inequality constraints
+Ignacio Araya;Gilles Trombettoni;Bertrand Neveu;Gilles Chabert;
+Abstract
+In deterministic continuous constrained global optimization, upper bounding the objective function generally resorts to local minimization at several nodes/iterations of the branch and bound. We propose in this paper an alternative approach when the constraints are inequalities and the feasible space has a non-null volume. First, we extract an inner region, i.e., an entirely feasible convex polyhedron or box in which all points satisfy the constraints. Second, we select a point inside the extracted inner region and update the upper bound with its cost. We describe in this paper two original inner region extraction algorithms implemented in our interval B&B called IbexOpt (AAAI, pp 99–104, 2011). They apply to nonconvex constraints involving mathematical operators like , \( +\; \bullet ,\; /,\; power,\; sqrt,\; exp,\; log,\; sin\). This upper bounding shows very good performance obtained on medium-sized systems proposed in the COCONUT suite.
+Keywords
+Global optimization  Upper bounding  Intervals   Branch and bound   Inner regions  Interval Taylor  

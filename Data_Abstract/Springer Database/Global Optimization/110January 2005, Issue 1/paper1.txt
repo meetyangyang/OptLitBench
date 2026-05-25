@@ -1,0 +1,6 @@
+A Bilinear Algorithm for Optimizing a Linear Function over the Efficient Set of a Multiple Objective Linear Programming Problem
+Jesús M. Jorge;
+Abstract
+The problem Q of optimizing a linear function over the efficient set of a multiple objective linear program serves several useful purposes in multiple criteria decision making. However, Q is in itself a difficult global optimization problem, whose local optima, frequently large in number, need not be globally optimal. Indeed, this is due to the fact that the feasible region of Q is, in general, a nonconvex set. In this paper we present a monotonically increasing algorithm that finds an exact, globally-optimal solution for Q. Our approach does not require any hypothesis on the boundedness of neither the efficient set EP nor the optimal objective value. The proposed algorithm relies on a simplified disjoint bilinear program that can be solved through the use of well-known specifically designed methods within nonconvex optimization. The algorithm has been implemented in C and preliminary numerical results are reported.
+Keywords
+bilinear programming  global optimization  multiple objective linear programming  optimization over efficient sets  

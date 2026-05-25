@@ -1,0 +1,6 @@
+FATCOP: A Fault Tolerant Condor-PVM Mixed Integer Programming Solver
+Qun  Chen and Michael C.  Ferris;
+Abstract
+We describe FATCOP, a new parallel mixed integer program solver written in PVM. The implementation uses the Condor resource management system to provide a virtual machine composed of otherwise idle computers. The solver differs from previous parallel branch-and-bound codes by implementing a general purpose parallel mixed integer programming algorithm in an opportunistic multiple processor environment, as opposed to a conventional dedicated environment. It shows how to make effective use of resources as they become available while ensuring the program tolerates resource retreat. The solver performs well on test problems arising from real applications and is particularly useful for solving long running hard mixed integer programming problems.
+Keywords
+mixedinteger programming, Condor, opportunistic environment, branch-and-bound, fault tolerance, 90C11, 65K05, 

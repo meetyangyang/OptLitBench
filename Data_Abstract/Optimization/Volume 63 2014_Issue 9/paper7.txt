@@ -1,0 +1,6 @@
+The convergence rate of a three-term HS method with restart strategy for unconstrained optimization problems
+ Aiping   Qu ; Juan   Liu ;
+Abstract
+ Although the Hesteness and Stiefel (HS) method is a well-known method, if an inexact line search is used, researches about its convergence rate are very rare. Recently, Zhang, Zhou and Li [Some descent three-term conjugate gradient methods and their global convergence, Optim. Method Softw. 22 (2007), pp. 697–711] proposed a three-term Hestenes–Stiefel method for unconstrained optimization problems. In this article, we investigate the convergence rate of this method. We show that the three-term HS method with the Wolfe line search will be n-step superlinearly and even quadratically convergent if some restart technique is used under reasonable conditions. Some numerical results are also reported to verify the theoretical results. Moreover, it is more efficient than the previous ones. 
+Keywords
+unconstrained optimization, restarted HS conjugate-gradient method,  n-step quadratic convergenceAMS Subject Classifications:: 90C30, 65K05, 49M37 

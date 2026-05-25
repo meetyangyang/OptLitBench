@@ -1,0 +1,6 @@
+Distributed Consensus for Multiagent Systems with Communication Delays and Limited Data Rate
+Shuai  Liu, Tao  Li, and Lihua  Xie;
+Abstract
+This paper considers the average consensus problem for multiagent networks with communication delays and limited data rate. On one hand, communication delays often exist in information acquisition and transmission; on the other hand, only limited state information of agents can be transmitted to their neighbors at each time step due to bandwidth constraints. The average consensus problem becomes much more complicated when both delays and data-rate constraints are to be considered. In this paper, a distributed consensus protocol is proposed based on dynamic encoding and decoding. It is shown that for a connected network, as long as the time delays are bounded, the average consensus can be achieved with a finite communication data rate. In particular, it is shown that merely a one-bit information exchange between each pair of adjacent agents at each time step suffices to guarantee the average consensus.
+Keywords
+multiagent systems, delay systems, quantization, distributed consensus, 68M14, 68Q85, 68W15, 53D50, 68M10, 68P30, 

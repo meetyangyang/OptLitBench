@@ -1,0 +1,6 @@
+New MIP model for multiprocessor scheduling problem with communication delays
+Abdessamad Ait El Cadi;Rabie Ben Atitallah;Saïd Hanafi;Nenad Mladenović;Abdelhakim Artiba;
+Abstract
+In this paper we consider scheduling tasks on a multiprocessor system, taking into account communication delays. We propose a new Mixed Integer Program (MIP) formulation that drastically reduces both the number of variables and the number of constraints, when compared to the best mathematical programming formulations from the literature. In addition, we propose pre-processing procedures that generates cuts and bounds on all variables, reducing the solution space of the problem as well. Cuts are obtained by using forward and backward critical path method from project management field, while the upper bound is derived from the new greedy heuristic. Computational experience shows advantages of our approach.
+Keywords
+Multiprocessors  Task scheduling  Communication delay   Mixed integer program  CPLEX  

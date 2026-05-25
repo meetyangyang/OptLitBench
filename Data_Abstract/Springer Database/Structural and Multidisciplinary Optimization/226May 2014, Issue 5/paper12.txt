@@ -1,0 +1,6 @@
+Automatic design of marine structures by using successive response surface method
+Sami Pajunen;Ossi Heinonen;
+Abstract
+An automated optimization procedure based on successive response surface method is presented. The method is applied to weight optimization of a stiffened plate used in marine structures. In the design space the surrogate model is spanned sequentially into an optimally restricted subspace that is converging towards at least a local optimum. Both objective function and all constraint functions are modeled using linear response surface method enabling the use of a robust and efficient simplex algorithm for the optimizations. Special attention is paid to CAD and FEM-model linking that plays a central role in practical industrial applications. In this project SOLIDWORKS and ANSYS software are adopted for structural modeling and analysis, respectively, and the optimization is carried out in a MatLab environment. The reported results achieved in this project prove the robustness and effectiveness of the proposed approach.
+Keywords
+Surrogate model  Response surface method  Optimal design  Simplex-algorithm  

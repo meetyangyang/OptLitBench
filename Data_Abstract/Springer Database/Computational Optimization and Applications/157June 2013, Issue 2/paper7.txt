@@ -1,0 +1,6 @@
+On an inexact gradient method using Proper Orthogonal Decomposition for parabolic optimal control problems
+Christian Jörres;Georg Vossen;Michael Herty;
+Abstract
+This paper is devoted to a numerical solution technique for linear quadratic parabolic optimal control problems using the model order reduction technique of Proper Orthogonal Decomposition (POD). The proposed technique is an inexact gradient descent method where the step size is determined with a line-search algorithm evaluating the state and adjoint equations with POD. The gradient is evaluated with a Finite Element method which allows for a recently developed a posteriori error estimation technique to rate the error in the control. The method is compared to another algorithm presented by Tröltzsch and Volkwein (Comput. Optim. Appl. 42(1):43–63 2009).
+Keywords
+Optimal control  Proper Orthogonal Decomposition  

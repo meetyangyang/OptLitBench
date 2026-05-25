@@ -1,0 +1,6 @@
+Global Convergence of a Class of Trust Region Algorithms for Optimization Using Inexact Projections on Convex Constraints
+A. R.  Conn, Nick  Gould, A.  Sartenaer, and Ph. L.  Toint;
+Abstract
+A class of trust region-based algorithms is presented for the solution of nonlinear optimization problems with a convex feasible set. At variance with previously published analyses of this type, the theory presented allows for the use of general norms. Furthermore, the proposed algorithms do not require the explicit computation of the projected gradient, and can therefore be adapted to cases where the projection onto the feasible domain may be expensive to calculate. Strong global convergence results are derived for the class. It is also shown that the set of linear and nonlinear constraints that are binding at the solution are identified by the algorithms of the class in a finite number of iterations.
+Keywords
+trust region methods, projected gradients, convex constraints, 90C30, 65K05, 

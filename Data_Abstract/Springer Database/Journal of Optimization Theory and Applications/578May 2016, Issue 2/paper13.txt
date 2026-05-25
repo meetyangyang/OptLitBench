@@ -1,0 +1,6 @@
+Decomposition and Mean-Field Approach to Mixed Integer Optimal Compensation Problems
+Dario Bauso;Quanyan Zhu;Tamer Başar;
+Abstract
+Mixed integer optimal compensation deals with optimization problems with integer- and real-valued control variables to compensate disturbances in dynamic systems. The mixed integer nature of controls could lead to intractability in problems of large dimensions. To address this challenge, we introduce a decomposition method which turns the original n-dimensional optimization problem into n independent scalar problems of lot sizing form. Each of these problems can be viewed as a two-player zero-sum game, which introduces some element of conservatism. Each scalar problem is then reformulated as a shortest path one and solved through linear programming over a receding horizon, a step that mirrors a standard procedure in mixed integer programming. We apply the decomposition method to a mean-field coupled multi-agent system problem, where each agent seeks to compensate a combination of an exogenous signal and the local state average. We discuss a large population mean-field type of approximation and extend our study to opinion dynamics in social networks as a special case of interest.
+Keywords
+Mean-field games  Optimal control  Mixed integer optimization  91A13  49J35  49L20  90C11  

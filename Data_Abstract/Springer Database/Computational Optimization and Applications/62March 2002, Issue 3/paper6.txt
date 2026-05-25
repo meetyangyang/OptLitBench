@@ -1,0 +1,6 @@
+Approximating Scheduling Unrelated Parallel Machines in Parallel
+Maria Serna;Fatos Xhafa;
+Abstract
+We show how to approximate in NC the problem of scheduling unrelated parallel machines, for a fixed number of machines in which the makespan Cmax is the objective function to minimize. We develop an approximate NC algorithm which finds a schedule whose length is at most (1+o(1))(C*max + √3 C*maxln(2n(n-1)/ε)), where C*max denotes the optimal schedule, n the total number of jobs and √ a small positive constant. Our approach shows how to relate the linear program obtained by relaxing the integer programming formulation of the problem with a linear program formulation that is positive and in the packing/covering form. The established relationship enables us to transfer approximate fractional solutions from the later formulation that is known to be approximable in NC. Then, we show how to obtain an integer approximate solution, i.e. a schedule, from the fractional one, using the randomized rounding technique. We stress that our analysis assumes that the length of the schedule is Ω(ln n) and that the min pij and max pij values are not too disparate (where pij is the time to run job j on machine i).
+Keywords
+scheduling problem  parallel approximations  positive linear programming  randomized rounding  de-randomization  

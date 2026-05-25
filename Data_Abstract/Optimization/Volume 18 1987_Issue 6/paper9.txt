@@ -1,0 +1,6 @@
+An efficient code for the minimization of highly nonlinear and large residual least squares functions
+ Maria   Teresa Veapucci ;
+Abstract
+ A new code for solving the unconstrained least squares problem is given, in which a Quasi-NEWTON approximation to the second order term of the Hessian is added to the first order term of the GAUSS-NEWTON method and a line search based upon a quartile model is used. The new algorithm is shown numerically to be more efficient on large residual problems than the GAUSS-NEWTON method and a general purpose minimization algorithm based upon BFGS formula. The listing and the user's guide of the code is also given.  
+Keywords
+Mathematical programming, nonlinear programming, nonlinear least squares, Quasi-NEWTON methodsAMS 1980 Subject Classification: Primary: 65 K 05, Secondary: 90 C 30 

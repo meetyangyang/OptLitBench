@@ -1,0 +1,6 @@
+A cyclic scheduling problem with an undetermined number of parallel identical processors
+Přemysl Šůcha;Zdeněk Hanzálek;
+Abstract
+This paper presents two integer linear programming (ILP) models for cyclic scheduling of tasks with unit/general processing time. Our work is motivated by digital signal processing (DSP) applications on FPGAs (Field-Programmable Gate Arrays)—hardware architectures hosting several sets of identical arithmetic units. These hardware units can be formalized as dedicated sets of parallel identical processors. We propose a method to find an optimal periodic schedule of DSP algorithms on such architectures where the number of available arithmetic units must be determined by the scheduling algorithm with respect to the capacity of the FPGA circuit. The emphasis is put on the efficiency of the ILP models. We show the advantages of our models in comparison with common ILP models on benchmarks and randomly generated instances.
+Keywords
+Cyclic scheduling  Multi-processor scheduling  Digital signal processing applications  

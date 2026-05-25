@@ -1,0 +1,6 @@
+Semi-supervised learning with regularized Laplacian
+K. Avrachenkov;P. Chebotarev;A. Mishenin;
+Abstract
+We study a semi-supervised learning method based on the similarity graph and regularized Laplacian. We give convenient optimization formulation of the regularized Laplacian method and establish its various properties. In particular, we show that the kernel of the method can be interpreted in terms of discrete and continuous-time random walks and possesses several important properties of proximity measures. Both optimization and linear algebra methods can be used for efficient computation of the classification functions. We demonstrate on numerical examples that the regularized Laplacian method is robust with respect to the choice of the regularization parameter and outperforms the Laplacian-based heat kernel methods.
+Keywords
+semi-supervised learning, graph-based learning, regularized Laplacian, proximity measure, Wikipedia article classificationAMS Subject Classification: 68T01, 68T05, 15A16, 15A45, 97R40, 05C50 

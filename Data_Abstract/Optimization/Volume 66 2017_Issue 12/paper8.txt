@@ -1,0 +1,6 @@
+Convergence and polynomiality of primal-dual interior-point algorithms for linear programming with selective addition of inequalities
+Alexander Engau;Miguel F. Anjos;
+Abstract
+This paper presents the convergence proof and complexity analysis of an interior-point framework that solves linear programming problems by dynamically selecting and adding relevant inequalities. First, we formulate a new primal–dual interior-point algorithm for solving linear programmes in non-standard form with equality and inequality constraints. The algorithm uses a primal–dual path-following predictor–corrector short-step interior-point method that starts with a reduced problem without any inequalities and selectively adds a given inequality only if it becomes active on the way to optimality. Second, we prove convergence of this algorithm to an optimal solution at which all inequalities are satisfied regardless of whether they have been added by the algorithm or not. We thus provide a theoretical foundation for similar schemes already used in practice. We also establish conditions under which the complexity of such algorithm is polynomial in the problem dimension and address remaining limitations without these conditions for possible further research.
+Keywords
+Linear programming, interior-point algorithms, selective addition of inequalities 

@@ -1,0 +1,6 @@
+A capacity-rounding algorithm for the minimum-cost circulation problem: A dual framework of the Tardos algorithm
+Satoru Fujishige;
+Abstract
+Recently, É. Tardos gave a strongly polynomial algorithm for the minimum-cost circulation problem and solved the open problem posed in 1972 by J. Edmonds and R.M. Karp. Her algorithm runs in O(m2T(m, n) logm) time, wherem is the number of arcs,n is the number of vertices, andT(m, n) is the time required for solving a maximum flow problem in a network withm arcs andn vertices. In the present paper, taking an approach that is a dual of Tardos's, we also give a strongly polynomial algorithm for the minimum-cost circulation problem. Our algorithm runs in O(m2S(m, n) logm) time and reduces the computational complexity, whereS(m, n) is the time required for solving a shortest path problem with a fixed origin in a network withm arcs,n vertices, and a nonnegative arc length function. The complexity is the same as that of Orlin's algorithm, recently developed by efficiently implementing the Edmonds-Karp scaling algorithm.
+Keywords
+Minimum-cost flows  strongly polynomial algorithm  network flows  

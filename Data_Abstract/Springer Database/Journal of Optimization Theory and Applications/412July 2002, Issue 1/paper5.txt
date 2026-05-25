@@ -1,0 +1,6 @@
+Generalized Surrogate Problem Methodology for Online Stochastic Discrete Optimization
+K. Gokbayrak;C.G. Cassandras;
+Abstract
+We consider stochastic discrete optimization problems where the decision variables are nonnegative integers and propose a generalized surrogate problem methodology that modifies and extends previous work in Ref. 1. Our approach is based on an online control scheme which transforms the problem into a surrogate continuous optimization problem and proceeds to solve the latter using standard gradient-based approaches while simultaneously updating both the actual and surrogate system states. In contrast to Ref. 1, the proposed methodology applies to arbitrary constraint sets. It is shown that, under certain conditions, the solution of the original problem is recovered from the optimal surrogate state. Applications of this approach include solutions to multicommodity resource allocation problems; in these problems, exploiting the convergence speed of the method, one can overcome the obstacle posed by the presence of local optima.
+Keywords
+optimization  discrete resource allocation  stochastic approximation  perturbation analysis  concurrent estimation  

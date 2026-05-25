@@ -1,0 +1,6 @@
+Descent methods for quasidifferentiable minimization
+Krzysztof C. Kiwiel;
+Abstract
+A descent method is given for minimizing a nondifferentiable function which can be locally approximated by pointwise minima of convex functions. At each iterate the algorithm finds several directions by solving several linear or quadratic programming subproblems. These directions are then used in an Armijo-like search for the next iterate. A feasible direction extension to inequality constrained minimization problems is also presented. The algorithms converge to points satisfying necessary optimality conditions which are sharper than the ones involved in convergence results for algorithms based on the Clarke subdifferential.
+Keywords
+Optimality Condition  System Theory  Mathematical Method  Convex Function  Minimization Problem  

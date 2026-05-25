@@ -1,0 +1,6 @@
+Adaptive accuracy trust region: using cross-validation in the optimization process
+ Quinn   Thomson ; Joaquim R.R.A.   Martins ;
+Abstract
+ This article presents an adaptive accuracy trust region (AATR) optimization strategy where cross-validation is used by the trust region to reduce the number of sample points needed to construct metamodels for each step of the optimization process. Lower accuracy metamodels are initially used for the larger trust regions, and higher accuracy metamodels are used for the smaller trust regions towards the end of optimization. Various metamodelling strategies are used in the AATR algorithm: optimal and inherited Latin hypercube sampling to generate experimental designs; quasi-Newton, kriging and polynomial regression metamodels to approximate the objective function; and the leave-k-out method for validation. The algorithm is tested with two-dimensional single-discipline problems. Results show that the AATR algorithm is a promising method when compared to a traditional trust region method. Polynomial regression in conjunction with a new hybrid inherited-optimal Latin hypercube sampling performed the best. 
+Keywords
+metamodels, trust region optimization, experimental design, response surfaces, leave-k-out cross-validation 

@@ -1,0 +1,6 @@
+Euclidean Distance Matrix Completion and Point Configurations from the Minimal Spanning Tree
+Adam  Rahman and R. Wayne  Oldford;
+Abstract
+The paper introduces a special case of the Euclidean distance matrix completion problem of interest in statistical data analysis where only the minimal spanning tree distances are given and the matrix completion must preserve the minimal spanning tree.   Two solutions are proposed: one an adaptation of a more general method based on a dissimilarity parameterized formulation and the other an entirely novel method which constructs the point configuration directly through a guided random search.  These methods as well as three standard edcmp methods are described and compared experimentally on real and synthetic data.  It is found that the  constructive method given by the guided random search algorithm clearly outperforms all others considered here.  Notably, standard methods including the adaptation force peculiar and generally unwanted geometric structure on the point configurations their completions produce.
+Keywords
+matrix completion problems, point configurations, high-dimensional data analysis, dimension reduction, guided random search, 15A83, 62-07, 62H99, 65C60, 90C22, 

@@ -1,0 +1,6 @@
+Efficient parallel solution of large-scale nonlinear dynamic optimization problems
+Daniel P. Word;Jia Kang;Johan Akesson;Carl D. Laird;
+Abstract
+This paper presents a decomposition strategy applicable to DAE constrained optimization problems. A common solution method for such problems is to apply a direct transcription method and solve the resulting nonlinear program using an interior-point algorithm. For this approach, the time to solve the linearized KKT system at each iteration typically dominates the total solution time. In our proposed method, we exploit the structure of the KKT system resulting from a direct collocation scheme for approximating the DAE constraints in order to compute the necessary linear algebra operations on multiple processors. This approach is applied to find the optimal control profile of a combined cycle power plant with promising results on both distributed memory and shared memory computing architectures with speedups of over 50 times possible.
+Keywords
+Dynamic optimization  Parallel computing  Collocation  Schur-complement decomposition  Parallel nonlinear optimization  

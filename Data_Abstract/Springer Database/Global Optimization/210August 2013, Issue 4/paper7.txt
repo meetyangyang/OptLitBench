@@ -1,0 +1,6 @@
+An adaptive domain decomposition method for the Hamilton–Jacobi–Bellman equation
+H. Alwardi;S. Wang;L. S. Jennings;
+Abstract
+In this paper, we propose an efficient algorithm for a Hamilton–Jacobi–Bellman equation governing a class of optimal feedback control and stochastic control problems. This algorithm is based on a non-overlapping domain decomposition method and an adaptive least-squares collocation radial basis function discretization with a novel matrix inversion technique. To demonstrate the efficiency of this method, numerical experiments on test problems with up to three states and two control variables have been performed. The numerical results show that the proposed algorithm is highly parallelizable and its computational cost decreases exponentially as the number of sub-domains increases.
+Keywords
+HJB equation  Optimal feedback and stochastic control  Domain decomposition  Parallel computations  Adaptive refinement  Least-squares collocation  Radial basis functions  

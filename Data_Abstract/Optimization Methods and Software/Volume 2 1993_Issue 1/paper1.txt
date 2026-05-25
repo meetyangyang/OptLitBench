@@ -1,0 +1,6 @@
+Block conjugate gradient methods
+   C.G.   Broyden ;
+Abstract
+ In this paper a comprehensive theory is attempted of methods of conjugate-gradient type where the matrix of coefficients may be definite, indefinite or nonsymmetric. The theory is based on ‘leveling’ some underlying quadratic function over a linear manifold rather than just a straight line. It is shown that numerical instabilites occur when this quadratic Hessian is indefinite (well-known) or when another matrix employed, often implicitly, in the calculations is indefinite. The use of the various ‘look-ahead’ algorithms in combatting these instabilities is outlined and it is seen that this amounts to a ‘sequential block’ method. It is further shown that many well-known algorithms have ‘simultaneous block’ versions, where the size and composition of the initial blocks are essentially arbitrary. Since the columns of the individual blocks may be generated simultaneously rather than sequentially these methods lend themselves naturally to the techniques of parallel computation. 
+Keywords
+Conjugate gradients, Conjugate directions, Block methods, Parallel computation 

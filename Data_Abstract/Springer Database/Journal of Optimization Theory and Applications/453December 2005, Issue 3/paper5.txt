@@ -1,0 +1,6 @@
+Arriving on Time
+Y. Y. Fan;R. E. Kalaba;J. E. MooreII;
+Abstract
+This research proposes a procedure for identifying dynamic routing policies in stochastic transportation networks. It addresses the problem of maximizing the probability of arriving on time. Given a current location (node), the goal is to identify the next node to visit so that the probability of arriving at the destination by time t or sooner is maximized, given the probability density functions for the link travel times. The Bellman principle of optimality is applied to formulate the mathematical model of this problem. The unknown functions describing the maximum probability of arriving on time are estimated accurately for a few sample networks by using the Picard method of successive approximations. The maximum probabilities can be evaluated without enumerating the network paths. The Laplace transform and its numerical inversion are introduced to reduce the computational cost of evaluating the convolution integrals that result from the successive approximation procedure.
+Keywords
+Optimal routing  stochastic shortest path problems  dynamic programming  convolution integrals  

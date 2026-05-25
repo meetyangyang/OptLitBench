@@ -1,0 +1,6 @@
+Robust Branch-and-Cut-and-Price for the Capacitated Vehicle Routing Problem
+Ricardo Fukasawa;Humberto Longo;Jens Lysgaard;Marcus Poggi de Aragão;Marcelo Reis;Eduardo Uchoa;Renato F. Werneck;
+Abstract
+The best exact algorithms for the Capacitated Vehicle Routing Problem (CVRP) have been based on either branch-and-cut or Lagrangean relaxation/column generation. This paper presents an algorithm that combines both approaches: it works over the intersection of two polytopes, one associated with a traditional Lagrangean relaxation over q-routes, the other defined by bound, degree and capacity constraints. This is equivalent to a linear program with exponentially many variables and constraints that can lead to lower bounds that are superior to those given by previous methods. The resulting branch-and-cut-and-price algorithm can solve to optimality all instances from the literature with up to 135 vertices. This more than doubles the size of the instances that can be consistently solved.
+Keywords
+20E28  20G40  20C20  

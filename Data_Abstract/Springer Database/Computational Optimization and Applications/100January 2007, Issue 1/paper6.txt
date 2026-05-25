@@ -1,0 +1,6 @@
+Adjoint concepts for the optimal control of Burgers equation
+Antje Noack;Andrea Walther;
+Abstract
+Adjoint techniques are a common tool in the numerical treatment of optimal control problems. They are used for efficient evaluations of the gradient of the objective in gradient-based optimization algorithms. Different adjoint techniques for the optimal control of Burgers equation with Neumann boundary control are studied. The methods differ in the point in the numerical algorithm at which the adjoints are incorporated. Discretization methods for the continuous adjoint are discussed and compared with methods applying the application of the discrete adjoint. At the example of the implicit Euler method and the Crank Nicolson method it is shown that a discretization for the adjoint problem that is adjoint to the discretized optimal control problem avoids additional errors in gradient-based optimization algorithms. The approach of discrete adjoints coincides with that of automatic differentiation tools (AD) which provide exact gradient calculations on the discrete level.
+Keywords
+Burgers equation  Optimal control  Automatic differentiation  Adjoint technique  Discrete adjoint  Newton’s method  

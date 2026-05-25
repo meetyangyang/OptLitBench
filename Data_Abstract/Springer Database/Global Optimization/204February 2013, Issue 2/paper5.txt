@@ -1,0 +1,6 @@
+A global optimization point of view to handle non-standard object packing problems
+Giorgio Fasano;
+Abstract
+This work originates from research carried out in support to the cargo accommodation of space vehicles/modules. The goal of this activity is to maximize the loaded cargo, taking into account the given accommodation requirements. Items can often be modelled as parallelepipeds, but it is even more frequent that real-world issues make this approximation no longer acceptable. These aspects and the presence of additional overall conditions, such as balancing, give rise to very challenging non-standard packing problems, not only in the frame of space engineering, but also in different application areas. This article considers first the orthogonal packing of tetris-like items, within a convex domain and subsequently the packing of polygons with (continuous) rotations in a convex domain. The proposed approach is based on mixed integer linear/non-linear programming (MIP, MINLP), from a global optimization point of view. The tetris-like formulation is exploited to provide the MINLP solution process with an approximated starting solution.
+Keywords
+Tetris-like item packing  Non-rectangular domains  Polygon packing  MIP/MINLP  

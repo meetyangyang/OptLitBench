@@ -1,0 +1,6 @@
+An algorithm for nonlinear optimization problems with binary variables
+Walter Murray;Kien-Ming Ng;
+Abstract
+One of the challenging optimization problems is determining the minimizer of a nonlinear programming problem that has binary variables. A vexing difficulty is the rate the work to solve such problems increases as the number of discrete variables increases. Any such problem with bounded discrete variables, especially binary variables, may be transformed to that of finding a global optimum of a problem in continuous variables. However, the transformed problems usually have astronomically large numbers of local minimizers, making them harder to solve than typical global optimization problems. Despite this apparent disadvantage, we show that the approach is not futile if we use smoothing techniques. The method we advocate first convexifies the problem and then solves a sequence of subproblems, whose solutions form a trajectory that leads to the solution. To illustrate how well the algorithm performs we show the computational results of applying it to problems taken from the literature and new test problems with known optimal solutions.
+Keywords
+Nonlinear integer programming  Discrete variables  Smoothing methods  

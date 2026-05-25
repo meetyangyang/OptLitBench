@@ -1,0 +1,6 @@
+A branch and bound algorithm for solving mean-risk-skewness portfolio models
+ Hiroshi   Konno ; Takayuki   Suzukia ; Daisuke   Kobayashi ;
+Abstract
+ This paper discusses an efficient algorithm for solving the mean–absolute deviation–skewness(MADS) portfolio optimization model in which the third order moment in addition to the first and second moment of the rate of return of the portfolio is taken into account. The MADS model can be considered either as an extension of the mean–absolute deviation (MAD) model or an approximation of the mean–variance–skewness (MVS) model which is a straightforward extension of the mean–variance (MV) model Models which take account of the third moment play an important role when the rate of return of the assets are non-symmetrically distributed. We will propose an efficient branch and bound algorithm for solving a non-concave maximization problem and demonstrate that it can generate a globally optimal solution in an efficient manner. 
+Keywords
+Absolute deviation, skewness, portfolio optimization, global optimization problem, branch and bound algorithm 

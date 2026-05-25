@@ -1,0 +1,6 @@
+Second‐Order Cone Programming Relaxation of Sensor Network Localization
+Paul   Tseng;
+Abstract
+The sensor network localization problem has been much studied. Recently Biswas and Ye proposed a semidefinite programming (SDP) relaxation of this problem which has various nice properties and for which a number of solution methods have been proposed. Here, we study a second‐order cone programming (SOCP) relaxation of this problem, motivated by its simpler structure and its potential to be solved faster than SDP. We show that the SOCP relaxation, though weaker than the SDP relaxation, has nice properties that make it useful as a problem preprocessor. In particular, sensors that are uniquely positioned among interior solutions of the SOCP relaxation are accurate up to the square root of the distance error. Thus, these sensors, which are easily identified, are accurately positioned. In our numerical simulation, the interior solution found can accurately position up to 80–90% of the sensors. We also propose a smoothing coordinate gradient descent method for finding an interior solution that is faster than an interior‐point method.
+Keywords
+sensor network localization, semidefinite program, second‐order cone program, approximation algorithm, error bound, 90C22, 90C25, 90C26, 90C27, 90C31, 90C35, 90C59, 

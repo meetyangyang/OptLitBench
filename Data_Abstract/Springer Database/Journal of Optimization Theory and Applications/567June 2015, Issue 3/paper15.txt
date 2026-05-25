@@ -1,0 +1,6 @@
+Average-Case Performance of Rollout Algorithms for Knapsack Problems
+Andrew Mastin;Patrick Jaillet;
+Abstract
+Rollout algorithms have demonstrated excellent performance on a variety of dynamic and discrete optimization problems. Interpreted as an approximate dynamic programming algorithm, a rollout algorithm estimates the value-to-go at each decision stage by simulating future events while following a heuristic policy, referred to as the base policy. While in many cases rollout algorithms are guaranteed to perform as well as their base policies, there have been few theoretical results showing additional improvement in performance. In this paper, we perform a probabilistic analysis of the subset sum problem and 0–1 knapsack problem, giving theoretical evidence that rollout algorithms perform strictly better than their base policies. Using a stochastic model from the existing literature, we analyze two rollout methods that we refer to as the exhaustive rollout and consecutive rollout, both of which employ a simple greedy base policy. We prove that both methods yield a significant improvement in expected performance after a single iteration of the rollout algorithm, relative to the base policy.
+Keywords
+Rollout algorithms  Lookahead  Knapsack problems  Approximate dynamic programming  90C09  90C39  90C59  

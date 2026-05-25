@@ -1,0 +1,6 @@
+A multigrid approach to discretized optimization problems
+ Stephen G.   Nash ;
+Abstract
+ Many large optimization problems represent a family of models of varying size, corresponding to different discretizations. An example is optimal control problems where the solution is a function that is approximated by its values at finitely many points. We discuss optimization techniques suitable for nonlinear programs of this type, with an emphasis on algorithms that guarantee global convergence. The goal is to exploit the similar structure among the subproblems, using the solutions of smaller subproblems to accelerate the solution of larger, more refined subproblems.  
+Keywords
+Nonlinear programming, Multigrid methods, Large-scale optimization, Truncated-Newton methodsAMS Subject Classijications: 49M15, 49M37, 65305, 65N55, 90C30 

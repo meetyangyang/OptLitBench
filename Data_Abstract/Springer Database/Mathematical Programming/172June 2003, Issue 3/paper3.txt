@@ -1,0 +1,6 @@
+Solving monotone inclusions with linear multi-step methods
+Teemu Pennanen;B. F. Svaiter;
+Abstract
+ In this paper a new class of proximal-like algorithms for solving monotone inclusions of the form T(x)∋0 is derived. It is obtained by applying linear multi-step methods (LMM) of numerical integration in order to solve the differential inclusion \(\), which can be viewed as a generalization of the steepest decent method for a convex function. It is proved that under suitable conditions on the parameters of the LMM, the generated sequence converges weakly to a point in the solution set T −1 (0). The LMM is very similar to the classical proximal point algorithm in that both are based on approximately evaluating the resolvants of T. Consequently, LMM can be used to derive multi-step versions of many of the optimization methods based on the classical proximal point algorithm. The convergence analysis allows errors in the computation of the iterates, and two different error criteria are analyzed, namely, the classical scheme with summable errors, and a recently proposed more constructive criterion.
+Keywords
+Convex Function  Convergence Analysis  Suitable Condition  Differential Inclusion  Error Criterion  

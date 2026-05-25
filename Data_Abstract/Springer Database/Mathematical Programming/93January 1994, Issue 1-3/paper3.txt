@@ -1,0 +1,6 @@
+Efficient enumeration of the vertices of polyhedra associated with network LP's
+J. Scott Provan;
+Abstract
+Algorithms are given to list the vertices of polyhedra associated with network linear programs and their duals. Each algorithm has running time which is quadratic in the number of vertices of the polyhedron, and does not require that the polyhedron be either bounded or simple. The algorithms use characterizations of adjacent vertices in network and dual network LP's to perform an efficient traversal of the edge graph of the polyhedron. This contrasts with algorithms for enumerating the vertices of a general polyhedron, all of which have worst-case complexity which is exponential in the number of vertices of the polyhedron.
+Keywords
+Enumeration  generation  listing  vertex  polyhedron  network  

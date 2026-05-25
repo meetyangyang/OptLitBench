@@ -1,0 +1,6 @@
+A projected newton method forl p  norm location problems
+Paul H. Calamai;Andrew R. Conn;
+Abstract
+This paper is concerned with the numerical solution of continuous minisum multifacility location problems involving thel p  norm, where 1<p<x. This class of problems is potentially difficult to solve because the objective function is not everywhere diflerentiable. After developing conditions that characterize the minimum of the problems under consideration, a second-order algorithm is presented. This algorithm is based on the solution of a finite sequence of linearly constrained subproblems. Descent directions for these subproblems are obtained by projecting the Newton direction onto the corresponding constraint manifold. Univariate minimization is achieved via a specialized linesearch which recognizes the possibility of first derivative discontinuity (and second derivative unboundedness) at points along the search direction. The algorithm, motivated by earlier works of Calamai and Conn, and related to methods recently described by Overton and Dax, is shown to possess both global and quadratic convergence properties.
+Keywords
+Multifacility location problem  nonsmooth optimization  degeneracy  projection techniques  

@@ -1,0 +1,6 @@
+Maximizing a class of submodular utility functions with constraints
+Jiajin Yu;Shabbir Ahmed;
+Abstract
+Motivated by stochastic 0–1 integer programming problems with an expected utility objective, we study the mixed-integer nonlinear set: \(P = \big \{(w,x)\in \mathbb {R}\times \left\{ 0,1\right\} ^N: w \le f(a'x + d), b'x \le B\big \}\) where N is a positive integer, \(f:\mathbb {R}\mapsto \mathbb {R}\) is a concave function, \(a, b \in \mathbb {R}^N\) are nonnegative vectors, d is a real number and B is a positive real number. We propose a family of inequalities for the convex hull of P by exploiting submodularity of the function \(f(a'x + d)\) over \(\{0,1\}^N\) and the knapsack constraint \(b'x \le B\). Computational effectiveness of the proposed inequalities within a branch-and-cut framework is illustrated using instances of an expected utility capital budgeting problem.
+Keywords
+Submodularity  Cutting planes  Lifting  Mixed integer nonlinear programming  Branch-and-cut  90C11 Mixed integer programming  

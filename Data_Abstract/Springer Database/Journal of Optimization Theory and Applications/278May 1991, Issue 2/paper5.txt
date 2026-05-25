@@ -1,0 +1,6 @@
+Parallel pivotal algorithm for solving the linear complementarity problem
+K. T. Medhi;
+Abstract
+We propose a parallel implementation of the classical Lemke's algorithm for solving the linear complementarity problem. The algorithm is designed for a loosely coupled network of computers which is characterized by relatively high communication costs. We provide an accurate prediction of speedup based on a simple operation count. The algorithm produces speedup nearp, wherep is the number of processors, when tested on large problems as demonstrated by computational results on the CRYSTAL token-ring multicomputer and the Sequent Balance 21000 multiprocessor.
+Keywords
+Parallel algorithms  Lemke's algorithm  linear complementarity problem  distributed algorithms  

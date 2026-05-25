@@ -1,0 +1,6 @@
+A Filter Active-Set Algorithm for Ball/Sphere Constrained Optimization Problem
+Chungen  Shen, Lei-Hong  Zhang, and Wei Hong  Yang;
+Abstract
+In this paper, we propose a filter active-set algorithm for the minimization problem over a product of multiple ball/sphere constraints. By making effective use of the special structure of the ball/sphere constraints, a new limited memory BFGS (L-BFGS) scheme is presented. The new L-BFGS implementation takes advantage of the sparse structure of the Jacobian of the constraints and generates curvature information of the minimization problem. At each iteration, only two or three reduced linear systems are required to solve for the search direction. The filter technique combined with the backtracking line search strategy ensures the global convergence, and the local superlinear convergence can also be established under mild conditions. The algorithm is applied to two specific applications, the nearest correlation matrix with factor structure and the maximal correlation problem. Our numerical experiments indicate that the proposed algorithm is competitive with some recently custom-designed methods for each individual application.
+Keywords
+SQP, active set, filter, L-BFGS, ball/sphere constraints, nearest correlation matrix with factor structure, maximal correlation problem, 65K05, 90C30, 

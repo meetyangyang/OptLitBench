@@ -1,0 +1,6 @@
+Some branch and bound techniques for nonlinear optimization
+D. Kennedy;
+Abstract
+The range of nonlinear optimization problems which can be solved by Linear Programming and the Branch and Bound algorithm is extended by introducing Chains of Linked Ordered Sets and by allowing automatic interpolation of new variables. However this approach involves solving a succession of linear subproblems, whose solutions in general violate the logical requirements of the nonlinear formulation and may lie far from any local or global optimum. The paper describes techniques which are designed to improve the performance of the Branch and Bound algorithm on problems containing chains, and which also yield benefits in integer programming.
+Keywords
+Branch and bound  integer programming  linked ordered sets  special ordered sets  

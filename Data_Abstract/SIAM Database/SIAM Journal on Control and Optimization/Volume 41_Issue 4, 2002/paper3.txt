@@ -1,0 +1,6 @@
+The Topological Asymptotic Expansion for the Dirichlet Problem
+Ph.  Guillaume and K. Sid  Idris;
+Abstract
+The topological sensitivity analysis provides an asymptotic expansion of a shape function when creating a small hole inside a domain. This expansion yields a descent direction which can be used for shape optimization if one wishes to keep a classical domain throughout the optimization process. In this paper, such an expansion is obtained for the Poisson equation for a large class of cost functions and arbitrarily shaped holes. In the three-dimensional case, this expansion depends on the shape of the hole but not on its orientation if the cost function involves only the solution u to the underlying partial differential equation, whereas it may also depend on its orientation if the cost function involves the gradient $\nabla u$. In contrast, the asymptotic expansion is independent of the shape in the two-dimensional case. A numerical example illustrates the use of the asymptotic expansion, which yields a minimizing sequence of classical domains in a case where no classical solution exists.
+Keywords
+topological sensitivity, topological derivative, shape optimization, design sensitivity, Poisson's equation, 49Q10, 49Q12, 74P05, 74P10, 74P15, 

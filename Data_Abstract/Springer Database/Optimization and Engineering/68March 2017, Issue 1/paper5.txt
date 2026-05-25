@@ -1,0 +1,6 @@
+Implementing CRM models for improved oil recovery in large oil fields
+Leon Lasdon;Shawn Shirzadi;Eric Ziegel;
+Abstract
+This paper describes a model-based decision support system (DSS) for reservoir engineers who may wish to use simpler analytical methods to optimize waterfloods in large waterflood operations, as is common in many oil and gas companies. The engineers select a set of existing injector and producer wells, and a set of past time periods over which the model will be fitted. The model provides outputs which support waterflooding decisions, using only oil, water and gas production and bottom hole pressure at producing wells, and water injection at each injection well in each time period. The model relating injection and production is a set of discrete-time difference equations, from the family of capacitance-resistance models. We focus on the model fitting process, which uses the least squares approach, and leads to a linearly constrained nonlinear optimization problem with non-quadratic objective. The DSS is coded in the GAMS modeling language. A numerical example is provided, and some experience with the system is described. An Excel file with the data used is available as Supplementary Online material accompanying the article on the Springer website.
+Keywords
+CRM models  Waterflooding  Model fitting  Optimization  

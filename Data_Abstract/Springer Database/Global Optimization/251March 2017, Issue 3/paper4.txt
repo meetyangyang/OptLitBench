@@ -1,0 +1,6 @@
+Multiple depot ring star problem: a polyhedral study and an exact algorithm
+Kaarthik Sundar;Sivakumar Rathinam;
+Abstract
+The multiple depot ring-star problem (MDRSP) is an important combinatorial optimization problem that arises in optical fiber network design and in applications that collect data using stationary sensing devices and autonomous vehicles. Given the locations of a set of customers and a set of depots, the goal is to (i) find a set of simple cycles such that each cycle (ring) passes through a subset of customers and exactly one depot, (ii) assign each non-visited customer to a visited customer or a depot, and (iii) minimize the sum of the routing costs, i.e., the cost of the cycles and the assignment costs. We present a mixed integer linear programming formulation for the MDRSP and propose valid inequalities to strengthen the linear programming relaxation. Furthermore, we present a polyhedral analysis and derive facet-inducing results for the MDRSP. All these results are then used to develop a branch-and-cut algorithm to obtain optimal solutions to the MDRSP. The performance of the branch-and-cut algorithm is evaluated through extensive computational experiments on several classes of test instances.
+Keywords
+Autonomous vehicles  Data collection  Telecommunications   Resource allocation  Branch-and-cut  Polyhedral study  

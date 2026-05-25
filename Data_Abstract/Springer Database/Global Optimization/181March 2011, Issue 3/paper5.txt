@@ -1,0 +1,6 @@
+Application of convex lexicographical optimization to the balance of GRTgaz gas grid
+Soizic Adam;J. Frédéric Bonnans;Ruben Paraisy;Sébastien Veyrat;
+Abstract
+Shippers are daily users of the French gas grid. Differences between planned and effective gas demand unbalance the grid. To restore the balance, GRTgaz computes every day amounts of gas transiting on the grid. Amounts injected or withdrawn from the storages, balancing tolerances use rates are also computed. Finally, if the grid is still unbalanced, amounts of gas (associated with penalties) bought or sold to shippers are computed too. To minimize billed penalties to shippers, GRTgaz uses all these balancing facilities in a certain order. We solve a four stages lexicographical (or hierarchical) optimization program. The cost function to be minimized at each stage is convex quadratic. Lagrange multipliers are interpreted as pressures; flows try to balance pressures over the network. In the subset of nodes with zero pressure, a careful formulation of the previous stages problems is necessary in order to guarantee the robustness of computations. A numerical illustration is given.
+Keywords
+Multiple objective programming  OR in energy  Quadratic programming  Lexicographical optimization  Duality theory  

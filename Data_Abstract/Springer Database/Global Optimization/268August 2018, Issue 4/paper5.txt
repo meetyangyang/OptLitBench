@@ -1,0 +1,6 @@
+An edge-concave underestimator for the global optimization of twice-differentiable nonconvex problems
+M. M. Faruque Hasan;
+Abstract
+We present a new relaxation method for the deterministic global optimization of general nonconvex and \({\mathscr {C}}^2\)-continuous problems. Instead of using a convex underestimator, the method uses an edge-concave (componentwise concave) underestimator to relax a nonconvex function. The underestimator is constructed by subtracting a positive quadratic expression such that all nonedge-concavities in the original function is overpowered by the added expression. While the edge-concave underestimator is nonlinear, the linear facets of its vertex polyhedral convex envelope leads to a linear programming (LP)-based relaxation of the original nonconvex problem. We present some theoretical results on this new class of underestimators and compare the performance of the LP relaxation with relaxations obtained by convex underestimators such as \(\alpha \hbox {BB}\) and its variants for several test problems. We also discuss the potential of a hybrid relaxation, relying on the dynamic selection of convex and edge-concave underestimators using criteria such as maximum separation distance.
+Keywords
+Global optimization  Edge-concave underestimator  Relaxation  Nonconvex NLP  

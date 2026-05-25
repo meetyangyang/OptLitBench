@@ -1,0 +1,6 @@
+Exact quadratic convex reformulations of mixed-integer quadratically constrained problems
+Alain Billionnet;Sourour Elloumi;Amélie Lambert;
+Abstract
+We propose a solution approach for the general problem (QP) of minimizing a quadratic function of bounded integer variables subject to a set of quadratic constraints. The resolution is based on the reformulation of the original problem (QP) into an equivalent quadratic problem whose continuous relaxation is convex, so that it can be effectively solved by a branch-and-bound algorithm based on quadratic convex relaxation. We concentrate our efforts on finding a reformulation such that the continuous relaxation bound of the reformulated problem is as tight as possible. Furthermore, we extend our method to the case of mixed-integer quadratic problems with the following restriction: all quadratic sub-functions of purely continuous variables are already convex. Finally, we illustrate the different results of the article by small examples and we present some computational experiments on pure-integer and mixed-integer instances of (QP). Most of the considered instances with up to 53 variables can be solved by our approach combined with the use of Cplex.
+Keywords
+Integer quadratic programming  Equivalent convex reformulation  Semidefinite programming  Branch-and-bound algorithm  90C11  90C20  

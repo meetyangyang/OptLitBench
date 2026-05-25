@@ -1,0 +1,6 @@
+An Efficient Algorithm for Large-Scale Nonlinear Programming Problems with Simple Bounds on the Variables
+R.  Pytlak;
+Abstract
+In this paper we present a new conjugate gradient algorithm for nonlinear programming problems with simple bounds on the variables. The method is an extension of our conjugate gradient algorithm described in [R. Pytlak, IMA J. Numer. Anal., 14 (1994), pp. 443--460]. The simple constraints on the variables are treated by a projection. Under mild assumptions the method is globally convergent. The algorithm has the property whereby many constraints can leave or enter an active set of constraints at one iteration. If the strict complementarity condition is satisfied, the active set at a solution is identified in a finite number of iterations. The algorithm has been tested on problems with more than 10,000 variables.
+Keywords
+conjugate gradient algorithm, box constraints, projection, large-scale problems, 65K05, 90C06, 90C30, 

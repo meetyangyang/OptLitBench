@@ -1,0 +1,6 @@
+Optimality Measures for Performance Profiles
+Elizabeth D.  Dolan, Jorge J.  Moré, and Todd S.  Munson;
+Abstract
+We examine the importance of optimality measures when benchmarking a set of solvers and show that the scale-invariance requirements we impose lead to a convergence test for nonlinearly constrained optimization solvers that uses a mixture of absolute and relative error measures. We demonstrate that this convergence test is well behaved at any point where the constraints satisfy the Mangasarian--Fromovitz constraint qualification and also avoids the explicit use of a complementarity measure. Computational experiments explore the impact of this convergence test on the benchmarking process with performance profiles.
+Keywords
+benchmarking, optimality conditions, performance profiles, scale invariance, 90C30, 90C46, 

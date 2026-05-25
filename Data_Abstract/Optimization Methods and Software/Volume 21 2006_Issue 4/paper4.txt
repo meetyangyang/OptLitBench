@@ -1,0 +1,6 @@
+Combined projected gradient algorithm for linear programming
+ Wei   Li ; Ping-Qi   Pan ; Guangting   Chen ;
+Abstract
+ The pivot algorithm and interior point algorithm are two diverging and competitive types of algorithms for solving linear programming problems. One of the main disadvantages of pivot algorithms is that they suffer from problems especially stalling, arising from degeneracy. Interior point methods, although not affected by degeneracy, require a purification procedure to obtain an exact optimal solution. This paper derives a new general-purpose solution algorithm, called combined projected gradient algorithm with the proof that it converges successfully. The new algorithm combines pivot and interior point techniques naturally. It in fact not only reduces the possibility of difficulty arising from degeneracy, but also reaches a pair of exact primal and dual optimal solutions. Numerical results on a group of NETLIB problems are encouraging. 
+Keywords
+Linear programming, Pivot method, Interior point method, Projection, QR factorization, Least squares problem 

@@ -1,0 +1,6 @@
+Topological and parametric optimization of gear trains
+ Albert   Swantner ; Matthew   I.   Campbell ;
+Abstract
+ A method for automating the design of gear trains comprised of simple, compound, bevel and worm is described. The search process combines topological changes, discrete variable choices and continuous variable optimization. By combing best-first search, implicit enumeration, automated optimization invocation and gradient-based optimization, a near guarantee of the optimal solution can be made. While the combination of methods is specific to gear trains, there are aspects of the work that make it amenable to other engineering design problems. In addition, the topological and discrete modifications to the candidate solutions are specific to gear trains, but the graph grammar methodology that is adopted has been tailored to other problems. This article presents details on the rules that generate feasible gear trains, the evaluation routines used in determining the objective functions and constraints, and the interaction among the three search methods. Resulting gear trains are presented for a variety of gear problems. 
+Keywords
+gear train, automation, graph grammars 

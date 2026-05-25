@@ -1,0 +1,6 @@
+A successive quadratic programming method for a class of constrained nonsmooth optimization problems
+Masao Fukushima;
+Abstract
+In this paper we present an algorithm for solving nonlinear programming problems where the objective function contains a possibly nonsmooth convex term. The algorithm successively solves direction finding subproblems which are quadratic programming problems constructed by exploiting the special feature of the objective function. An exact penalty function is used to determine a step-size, once a search direction thus obtained is judged to yield a sufficient reduction in the penalty function value. The penalty parameter is adjusted to a suitable value automatically. Under appropriate assumptions, the algorithm is shown to produce an approximate optimal solution to the problem with any desirable accuracy in a finite number of iterations.
+Keywords
+Nonsmooth optimization  subgradient  ε-subgradient  exact penalty function  successive quadratic programming  

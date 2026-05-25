@@ -1,0 +1,6 @@
+Parameter identification for nonlinear elliptic-parabolic systems with application in lithium-ion battery modeling
+Oliver Lass;Stefan Volkwein;
+Abstract
+In this paper the authors consider a parameter estimation problem for a nonlinear systems, which consists of one parabolic equation for the concentration and two elliptic equations for the potentials. The measurements are given as boundary values for one of the potentials. For its numerical solution the Gauss Newton method is applied. To speed up the solution process, a reduced-order approach based on proper orthogonal decomposition is utilized, where the accuracy is controlled by error estimators. Parameters, which can not be identified from the measurements, are identified by the subset selection method with \(QR\) pivoting. Numerical examples show the efficiency of the proposed approach.
+Keywords
+Proper orthogonal decomposition  Parameter estimation  A-posteriori error estimates  subset selection method  Elliptic-parabolic systems  

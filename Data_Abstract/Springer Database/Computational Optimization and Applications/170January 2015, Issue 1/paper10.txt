@@ -1,0 +1,6 @@
+A linear-time approximate convex envelope algorithm using the double Legendre–Fenchel transform with application to phase separation
+Lorenzo Contento;Alexandre Ern;Rossana Vermiglio;
+Abstract
+We study the double discrete Legendre–Fenchel transform (LFT) to approximate the convex envelope of a given function. We analyze the convergence of the double discrete LFT in the multivariate case based on previous convergence results for the discrete LFT. We focus our attention on the grid on which the second discrete LFT is computed (dual grid); its choice has great impact on the accuracy of the resulting approximation of the convex envelope. Then, we present an improvement (both in time and accuracy) to the standard algorithm based on a change in the factorization order for the second discrete LFT. This modification is particularly beneficial for bivariate functions. Moreover, we introduce a method for handling functions that are unbounded outside sets of general shape. We also present some situations in which the selection of the dual grid is crucial, and show that it is possible to choose a dual grid of arbitrary size without increasing the memory requirements of the algorithm. Finally, we apply our algorithm to the study of phase separation in non-ideal ionic solutions.
+Keywords
+Convex envelope  Convex hull  Legendre–Fenchel transform  Phase separation  

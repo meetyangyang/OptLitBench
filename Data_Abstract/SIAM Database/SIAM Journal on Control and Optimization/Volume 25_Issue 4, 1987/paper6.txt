@@ -1,0 +1,6 @@
+A Superlinearly Convergent Feasible Method for the Solution of Inequality Constrained Optimization Problems
+Eliane R.  Panier and André L.  Tits;
+Abstract
+When iteratively solving optimization problems arising from engineering design applications, it is sometimes crucial that all iterates satisfy a given set of “hard” inequality constraints, and generally desirable that the objective function value improve at each iteration. In this paper, we propose an algorithm of the successive quadratic programming (SQP) type which, unlike other algorithms of this type, does enjoy such properties. Under mild assumptions, the new algorithm is shown to converge from any initial point, locally superlinearly. Numerically tested, it has proven to be competitive with the most successful currently available nonlinear programming algorithms, while the latter do not exhibit the desired properties.
+Keywords
+constrained optimization, successive quadratic programming, superlinear convergence, engineering design, 90C30, 65K10, 

@@ -1,0 +1,6 @@
+Weighted linear associative memory approach to nonlinear parameter estimation
+J. C. Lin;D. M. Durand;
+Abstract
+The method of linear associative memory (LAM), a notion from the field of artificial neural nets, has been applied recently in nonlinear parameter estimation. In the LAM method, a model response, nonlinear with respect to the parameters, is approximated linearly by a matrix, which maps inversely from a response vector to a parameter vector. This matrix is determined from a set of initial training parameter vectors and their response vectors, and can be update recursively and adaptively with a pair of newly generated parameter response vectors. The LAM advantage is that it can yield a good estimation of the true parameters from a given observed response, even if the initial training parameter vectors are far from the true values.
+Keywords
+Nonlinear parameter estimation  associative memory  adaptive training  linear associative memory matrix  weighted cost function  

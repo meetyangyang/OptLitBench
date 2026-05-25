@@ -1,0 +1,6 @@
+Proximal minimizations with D-functions and the massively parallel solution of linear network programs
+Soren S. Nielsen;Stavros A. Zenios;
+Abstract
+This paper discusses the massively parallel solution of linear network programs. It integrates the general algorithmic framework of proximal minimization with D-functions (PMD) with primal-dual row-action algorithms. Three alternative algorithmic schemes are studied: quadratic proximal point, entropic proximal point, and least 2-norm perturbations. Each is solving a linear network problem by solving a sequence of nonlinear approximations. The nonlinear subproblems decompose for massively parallel computing. The three algorithms are implemented on a Connection Machine CM-2 with up to 32K processing elements, and problems with up to 16 million variables are solved. A comparison of the three algorithms establishes their relative efficiency. Numerical experiments also establish the best internal tactics which can be used when implementing proximal minimization algorithms. Finally, the new algorithms are compared with an implementation of the network simplex algorithm executing on a CRAY Y-MP vector supercomputer.
+Keywords
+network programs  parallel computing  nonlinear programming  

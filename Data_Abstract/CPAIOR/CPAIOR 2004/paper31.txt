@@ -1,0 +1,4 @@
+A Hybrid Branch-And-Cut Algorithm for the One-Machine Scheduling Problem
+Ruslan Sadykov;
+Abstract
+We consider the scheduling problem of minimizing the weighted sum of late jobs on a single machine (1| r  j | sumw  j  U  j ). A hybrid Branch-and-Cut algorithm is proposed, where infeasibility cuts are generated using CP. Two ways are suggested to increase the strength of cuts. The proposed approach has been implemented in the Mosel modelling and optimization language. Numerical experiments showed that the algorithm performs at least as well as the best to our knowledge exact approach [8] on sets of public test instances.

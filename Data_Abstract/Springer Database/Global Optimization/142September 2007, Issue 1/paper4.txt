@@ -1,0 +1,6 @@
+A new global optimization method for univariate constrained twice-differentiable NLP problems
+Min Ho Chang;Young Cheol Park;Tai-Yong Lee;
+Abstract
+In this paper, a new global optimization method is proposed for an optimization problem with twice-differentiable objective and constraint functions of a single variable. The method employs a difference of convex underestimator and a convex cut function, where the former is a continuous piecewise concave quadratic function, and the latter is a convex quadratic function. The main objectives of this research are to determine a quadratic concave underestimator that does not need an iterative local optimizer to determine the lower bounding value of the objective function and to determine a convex cut function that effectively detects infeasible regions for nonconvex constraints. The proposed method is proven to have a finite ε-convergence to locate the global optimum point. The numerical experiments indicate that the proposed method competes with another covering method, the index branch-and-bound algorithm, which uses the Lipschitz constant.
+Keywords
+Global optimization  Difference of convex underestimator  Convex cut function  Univariate NLP  

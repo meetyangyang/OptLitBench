@@ -1,0 +1,6 @@
+Performance Loss Bounds for Approximate Value Iteration with State Aggregation
+Benjamin Van Roy;
+Abstract
+We consider approximate value iteration with a parameterized approximator in which the state space is partitioned and the optimal cost-to-go function over each partition is approximated by a constant. We establish performance loss bounds for policies derived from approximations associated with fixed points. These bounds identify benefits to using invariant distributions of appropriate policies as projection weights. Such projection weighting relates to what is done by temporal-difference learning. Our analysis also leads to the first performance loss bound for approximate value iteration with an average-cost objective.
+Keywords
+approximate value iteration state aggregation temporal-difference learning 

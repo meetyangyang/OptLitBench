@@ -1,0 +1,6 @@
+Three ideas for a feasibility pump for nonconvex MINLP
+Pietro Belotti;Timo Berthold;
+Abstract
+We describe an implementation of the Feasibility Pump heuristic for nonconvex MINLPs. Our implementation takes advantage of three novel techniques, which we discuss here: a hierarchy of procedures for obtaining an integer solution, a generalized definition of the distance function that takes into account the nonlinear character of the problem, and the insertion of linearization cuts for nonconvex constraints at every iteration. We implemented this new variant of the Feasibility Pump as part of the global optimization solver Couenne. We present experimental results that compare the impact of the three discussed features on the ability of the Feasibility Pump to find feasible solutions and on the solution quality.
+Keywords
+Feasibility Pump  MINLP  Hessian  

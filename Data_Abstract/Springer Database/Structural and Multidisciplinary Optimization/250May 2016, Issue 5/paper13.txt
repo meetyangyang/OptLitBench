@@ -1,0 +1,6 @@
+High fidelity multidisciplinary design optimisation of an electromagnetic device
+J. N. Stander;G. Venter;M. J. Kamper;
+Abstract
+The application of multidisciplinary design optimisation is mostly confined to bi-disciplinary systems such as fluid-structure interaction problems. High fidelity models of three disciplines involving electromagnetic-thermal-structural designs are rare. Here, the multidisciplinary optimisation of such a design is presented. The device comprises a C-shaped iron core and a single coil. The problem is decomposed using a monolithic multidisciplinary feasible architecture. The multidisciplinary analyses involve a single three-dimensional finite element mesh for transient non-linear electromagnetic, non-linear-static thermal, and linear-static structural models. During each multidisciplinary iteration the mesh is linearly morphed. A gradient based optimisation algorithm in combination with a multi-start routine is applied to the constrained mass minimisation problem. Multidisciplinary feasibility is ensured by convergence of a single coupling parameter i.e. air-gap deformation. In conclusion, some multidisciplinary optimisation, analyses, and decomposition considerations are discussed.
+Keywords
+MDO  MDF  FEA  Electromagnetic-thermo-structural  Design  Gradient-based  

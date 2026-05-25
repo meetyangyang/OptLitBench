@@ -1,0 +1,6 @@
+Embedding methods for semidefinite programming
+ Qinghong   Zhang ;
+Abstract
+ This paper is devoted to the study of embedding methods for semidefinite programming problems using the duals formulated by Ramana, Tunçel, and Wolkowicz in 1997. Specifically, if we solve a semidefinite programming problem (PD) (in either standard primal or dual form), a dual problem of (PD), which guarantees strong duality (i.e. a zero duality gap and dual attainment), is formulated. The semidefinite program (PD) and its newly formulated dual problem are then embedded in a larger problem. The embedding problem and its Lagrangian dual satisfy the generalized Slater conditions, and therefore, any path-following primal–dual interior-point method can be applied to solve this embedding problem pair. Like embedding methods appearing in the literature, a solution of the embedding problem can be used to extract the information about the original program (PD). 
+Keywords
+semidefinite programming, embedding methods, extended Lagrange–Slater dual, interior-point methods AMS Subject Classification : 90C22, 90C46, 90C51 

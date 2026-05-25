@@ -1,0 +1,8 @@
+A parameter-free self-adapting boundary genetic search for pipe network optimization
+M. H. Afshar;M. A. Mariño;
+Abstract
+
+Commercial application of genetic algorithms (GAs) to engineering design problems, including optimal design of pipe networks, could be facilitated by the development of algorithms that require the least number of parameter tuning. This paper presents an attempt to eliminate the need for defining a priori the proper penalty parameter in GA search for pipe networks optimal designs. The method is based on the assumption that the optimal solution of a pipe network design problem lies somewhere on, or near, the boundary of the feasible region. The proposed method uses the ratio of the best feasible and infeasible designs at each generation to guide the direction of the search towards the boundary of the feasible domain by automatically adjusting the value of the penalty parameter. The value of the ratio greater than unity is interpreted as the search being performed in the feasible region and vice versa. The new adapted value of the penalty parameter at each generation is therefore calculated as the product of its current value and the aforementioned ratio. The genetic search so constructed is shown to converge to the boundary of the feasible region irrespective of the starting value of the constraint violation penalty parameter. The proposed method is described here in the context of pipe network optimisation problems but is equally applicable to any other constrained optimisation problem. The effectiveness of the method is illustrated with a benchmark pipe network optimization example from the literature.
+
+Keywords
+Self-adaptive  Boundary search  Pipe networks  Optimal design  Genetic algorithm  

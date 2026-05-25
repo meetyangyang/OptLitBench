@@ -1,0 +1,6 @@
+An alternating extragradient method with non euclidean projections for saddle point problems
+Silvia Bonettini;Valeria Ruggiero;
+Abstract
+In this work we analyze a first order method especially tailored for smooth saddle point problems, based on an alternating extragradient scheme. The proposed method is based on three successive projection steps, which can be computed also with respect to non Euclidean metrics. The stepsize parameter can be adaptively computed, so that the method can be considered as a black-box algorithm for general smooth saddle point problems. We develop the global convergence analysis in the framework of non Euclidean proximal distance functions, under mild local Lipschitz conditions, proving also the \(\mathcal {O}(\frac{1}{k})\) rate of convergence on the primal–dual gap. Finally, we analyze the practical behavior of the method and its effectiveness on some applications arising from different fields.
+Keywords
+Alternating extragradient method  Smooth saddle point problem  Interior projection algorithm  Non Euclidean distances  

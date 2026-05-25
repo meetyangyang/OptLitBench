@@ -1,0 +1,6 @@
+An enhanced preference-inspired co-evolutionary algorithm using orthogonal design and an ε-dominance archiving strategy
+Tao Zhang;Rui Wang;Yajie Liu;Bo Guo;
+Abstract
+The concept of co-evolution of preferences and candidate solutions has proven effective for many-objective optimization. One realization of this concept, namely preference-inspired co-evolutionary algorithms using goal vectors (PICEA-g), is found to outperform many state-of-the-art multi-objective evolutionary algorithms for many-objective problems. However, PICEA-g is susceptible to unevenness in the solution distribution. This study seeks to tackle this issue and to improve the performance of PICEA-g further. Two established strategies are incorporated into PICEA-g: (i) an adaptive ε-dominance archiving strategy which is applied to obtain a set of well spread solutions online; and (ii) the orthogonal design method which is used to initialize candidate solutions. The improved algorithm, denoted as aε-ODPICEA-g, shows a better performance than PICEA-g on both 2- and 7-objective benchmark problems as well as a real-world problem.
+Keywords
+multi-objective optimization, evolutionary computation, PICEA orthogonal design, adaptive ε-dominance 

@@ -1,0 +1,6 @@
+Sensitivity analysis and model optimization for reaction-diffusion systems
+C. L. Irwin;V. Komkov;
+Abstract
+This paper presents a computational framework for the optimization and sensitivity analysis of a process whose state depends upon several parameter functions. Assuming that the process is described by a system of quasilinear, parabolic, partial differential equations, we show how determining the problem parameters so as to improve an associated objective functional is directly related to knowing the state function sensitivities. An expression for the gradient of the objective functional in terms of the solutions of an adjoint system enables one to bypass the calculation of state function sensitivities. These concepts are illustrated for a simple model of cooperative processes in chemical kinetics. Since sensitivity analysis and model optimization are important tools for investigating parameter dependence and validating mathematical models, research developments in such diverse fields as optimal design theory, chemical kinetics, and parameter identification are important motivations for this paper.
+Keywords
+Sensitivity analysis  functional parameters  model optimization  parameter identification  gradient methods  adjoint systems  

@@ -1,0 +1,6 @@
+Phase-field based topology optimization with polygonal elements: a finite volume approach for the evolution equation
+Arun L. Gain;Glaucio H. Paulino;
+Abstract
+Uniform grids have been the common choice of domain discretization in the topology optimization literature. Over-constraining geometrical features of such spatial discretizations can result in mesh-dependent, sub-optimal designs. Thus, in the current work, we employ unstructured polygonal meshes constructed using Voronoi tessellations to conduct structural topology optimization. We utilize the phase-field method, derived from phase transition phenomenon, which makes use of the Allen-Cahn differential equation and sensitivity analysis to update the evolving structural topology. The solution of the Allen-Cahn evolution equation is accomplished by means of a centroidal Voronoi tessellation (CVT) based finite volume approach. The unstructured polygonal meshes not only remove mesh bias but also provide greater flexibility in discretizing complicated (e.g. non-Cartesian) domains. The features of the current approach are demonstrated using various numerical examples for compliance minimization and compliant mechanism problems.
+Keywords
+Topology optimization  Polygonal finite elements  Voronoi tessellation  Phase-field method  Allen–Cahn equation  

@@ -1,0 +1,6 @@
+Dynamic Pricing via Dynamic Programming1 
+Y. Y. Fan;H. K. Bhargava;H. H. Natsuyama;
+Abstract
+This article specifies an efficient numerical scheme for computing optimal dynamic prices in a setting where the demand in a given period depends on the price in that period, cumulative sales up to the current period, and remaining market potential. The problem is studied in a deterministic and monopolistic context with a general form of the demand function. While traditional approaches produce closed-form equations that are difficult to solve due to the boundary conditions, we specify a computationally tractable numerical procedure by converting the problem to an initial-value problem based on a dynamic programming formulation. We find also that the optimal price dynamics preserves certain properties over the planning horizon: the unit revenue is linearly proportional to the demand elasticity of price; the unit revenue is constant over time when the demand elasticity is constant; and the sales rate is constant over time when the demand elasticity is linear in the price.
+Keywords
+Dynamic pricing  dynamic programming  optimal control  

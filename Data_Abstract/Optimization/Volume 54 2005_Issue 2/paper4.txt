@@ -1,0 +1,6 @@
+A general class of penalty/barrier path-following Newton methods for nonlinear programming
+ C.   Grossmann ; M.   Zadlo ;
+Abstract
+ In the present article rather general penalty/barrier-methods (e.g. logarithmic barriers, SUMT, exponential penalties), which define a local continuously differentiable primal and dual path, are analyzed in case of strict local minima of nonlinear problems with inequality as well as equality constraints. In particular, the radius of convergence of Newton's method depending on the penalty/barrier-parameter is estimated. Unlike using self-concordance properties, the convergence bounds are derived by direct estimations of the solutions of the Newton equations. By means of the obtained results parameter selection rules are studied which guarantee the local convergence of the considered penalty/barrier-techniques with only a finite number of Newton steps at each parameter level. Numerical examples illustrate the practical behavior of the proposed class of methods. 
+Keywords
+Interior point methods, Path-following, Nonlinear optimization, Numerical method, Mathematics Subject Classifications 2000: 90C30, 65K05, 49M15 

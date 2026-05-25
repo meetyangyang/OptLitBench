@@ -1,0 +1,6 @@
+A cost-effective algorithm for the solution of engineering problems with particle swarm optimization
+ Giordano   Tomassetti ;
+Abstract
+ A hybrid particle swarm optimization algorithm is proposed for the cost-effective solution of single objective constrained engineering problems. The algorithm implements original strategies aimed to reduce computational effort of optimizations when dealing with real-world problems. Taking inspiration from evolutionary algorithms, a selection mechanism among particles is proposed allowing significant reductions in the solution cost. To enlarge the exploration space, a multi-start approach is frequently adopted, randomly reinitializing the swarm; the injection of optimized particles—obtained in previous runs—into the successive randomly generated starting swarms has been investigated as an expedient to accelerate convergence to the optimal solution. In order to avoid the algorithm to remain trapped into local minima, an innovative scheme has been proposed to update the inertia factor multiplying the previous velocity of the swarm. The proposed algorithm has been validated using standard engineering and purely mathematical problems commonly recognized as valid benchmark functions in specialized literature. 
+Keywords
+particle swarm optimization, constrained optimization, non-linear objective function, non-linear constraints 

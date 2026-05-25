@@ -1,0 +1,4 @@
+Multi-objective Pole Placement with Evolutionary Algorithms
+Gustavo Sánchez;Minaya Villasana;Miguel Strefezza;
+Abstract
+Multi-Objective Evolutionary Algorithms (MOEA) have been succesfully applied to solve control problems. However, many improvements are still to be accomplished. In this paper a new approach is proposed: the Multi-Objective Pole Placement with Evolutionary Algorithms (MOPPEA). The design method is based upon using complex-valued chromosomes that contain information about closed-loop poles, which are then placed through an output feedback controller. Specific cross-over and mutation operators were implemented in simple but efficient ways. The performance is tested on a mixed multi-objective \(\mathcal{H}_{2}\)/\(\mathcal{H}_{\infty }\) control problem.

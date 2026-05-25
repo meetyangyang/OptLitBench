@@ -1,0 +1,6 @@
+A combined class of self-scaling and modified quasi-Newton methods
+Mehiddin Al-Baali;Humaid Khalfan;
+Abstract
+Techniques for obtaining safely positive definite Hessian approximations with self-scaling and modified quasi-Newton updates are combined to obtain ‘better’ curvature approximations in line search methods for unconstrained optimization. It is shown that this class of methods, like the BFGS method, has the global and superlinear convergence for convex functions. Numerical experiments with this class, using the well-known quasi-Newton BFGS, DFP and a modified SR1 updates, are presented to illustrate some advantages of the new techniques. These experiments show that the performance of several combined methods are substantially better than that of the standard BFGS method. Similar improvements are also obtained if the simple sufficient function reduction condition on the steplength is used instead of the strong Wolfe conditions.
+Keywords
+Unconstrained optimization  Modified quasi-Newton updates  Self-scaling technique  Line-search framework  

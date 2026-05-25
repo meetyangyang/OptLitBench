@@ -1,0 +1,6 @@
+The Duality between Suboptimization and Parameter Deletion
+Elmor L. Peterson;
+Abstract
+The main tool used in studying the influence of given perturbation parameters on a given optimization problem is, of course, the corresponding Rockafellar dual problem (in which the dual variables are in a one-to-one correspondence with the parameters). However, even when the given optimization problem is defined in terms of simple formulas, there are many important cases where the corresponding dual problem cannot be computed explicitly (in terms of simple formulas) unless certain additional (uninteresting) perturbation parameters are included. Under a very weak hypothesis, the main theorem to be given here asserts that a (sub)optimization of the resulting dual problem over the additional (uninteresting) dual variables produces the desired dual problem (i.e., the dual problem that corresponds to the original optimization problem without the additional perturbation parameters). In addition to its uses in parametric analysis this theorem can be used to show that various decomposition principles are dual to one another and hence are essentially equivalent.
+Keywords
+duality suboptimization parametric programming decomposition 

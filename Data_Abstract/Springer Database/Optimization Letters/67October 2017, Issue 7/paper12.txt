@@ -1,0 +1,6 @@
+An exact algorithm to extend lifetime through roles allocation in sensor networks with connectivity constraints
+Francesco Carrabs;Raffaele Cerulli;Ciriaco D’Ambrosio;Andrea Raiconi;
+Abstract
+We face the problem of scheduling optimally the activities in a wireless sensor network in order to ensure that, in each instant of time, the activated sensors can monitor all points of interest (targets) and route the collected information to a processing facility. Each sensor is allocated to a role, depending on whether it is actually used to monitor the targets, to forward information or kept idle, leading to different battery consumption ratios. We propose a column generation algorithm that embeds a highly efficient genetic metaheuristic for the subproblem. Moreover, to optimally solve the subproblem, we introduce a new formulation with fewer integer variables than a previous one proposed in the literature. Finally, we propose a stopping criterion to interrupt the optimal resolution of the subproblem as soon as a favorable solution is found. The results of our computational tests show that our algorithm consistently outperforms previous approaches in the literature, and also improves the best results known to date on some benchmark instances.
+Keywords
+Wireless sensor network  Roles allocation  Column generation  Genetic algorithm  Connectivity constraints  

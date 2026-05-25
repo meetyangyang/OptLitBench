@@ -1,0 +1,6 @@
+Implicit representation of generalized variable upper bounds using the elimination form of the inverse on secondary storage
+Michael Bastian;
+Abstract
+A constraint of a linear program is called a generalized variable upper bound (GVUB) constraint, if the right-hand is nonnegative and each variable with a positive coefficient in the constraint does not have a nonzero coefficient in any other GVUB constraint. Schrage has shown how to handle GVUB constraints implicitly in the simplex-method. It is demonstrated in this paper that the Forrest-Tomlin data structure may be used for the inverse of the working basis, and it is discussed how to update this representation from iteration to iteration.
+Keywords
+Generalized Variable Upper Bounds  Factored Inverses  Implicit Constraints  Forrest-Tomlin-Update  

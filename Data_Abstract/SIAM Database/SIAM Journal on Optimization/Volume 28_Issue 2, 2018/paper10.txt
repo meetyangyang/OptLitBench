@@ -1,0 +1,6 @@
+Block BFGS Methods
+Wenbo  Gao and Donald  Goldfarb;
+Abstract
+We introduce a quasi-Newton method with block updates called block BFGS. We show that this method, performed with inexact Armijo--Wolfe line searches, converges globally and $Q$-superlinearly under the same convexity assumptions as BFGS. We also show that block BFGS is globally convergent to a stationary point when applied to nonconvex functions with bounded Hessian, and discuss other modifications for nonconvex minimization. Numerical experiments comparing block BFGS, BFGS, and gradient descent are presented.
+Keywords
+unconstrained optimization, quasi-Newton methods, BFGS, block updates, 90C53, 90C26, 

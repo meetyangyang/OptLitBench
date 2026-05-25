@@ -1,0 +1,6 @@
+Modifying SQP for Degenerate Problems
+Stephen J.  Wright;
+Abstract
+Most local convergence analyses of the sequential quadratic programming (SQP) algorithm for nonlinear programming make strong assumptions about the solution, namely, that the active constraint gradients are linearly independent and that there are no weakly active constraints. In this paper, we establish a framework for variants of SQP that retain the characteristic superlinear convergence rate even when these assumptions are relaxed, proving general convergence results and placing some recently proposed SQP variants in this framework. We discuss the reasons for which implementations of SQP often continue to exhibit good local convergence behavior even when the assumptions commonly made in the analysis are violated. Finally, we describe a new algorithm that formalizes and extends standard SQP implementation techniques, and we prove convergence results for this method also.
+Keywords
+nonlinear programming, sequential quadratic programming, degeneracy, 90C33, 90C30, 49M45, 

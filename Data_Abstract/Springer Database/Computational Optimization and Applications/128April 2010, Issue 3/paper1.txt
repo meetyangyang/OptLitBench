@@ -1,0 +1,6 @@
+Efficient preprocessing for VLSI optimization problems
+W. L. Hare;M. J. J. Liu;T. Terlaky;
+Abstract
+Advances in technology for the manufacturing of integrated circuits have resulted in extremely large, and time consuming, problems on how to lay out components for optimal circuit performance. These problems can be written as mixed integer programs which are easily relaxed to linear programs with a very high number of variables and constraints. The relaxed programs can often be solved by applying state-of-the-art linear programming software, however these solutions come at the expense of long solution time. In this paper we show that, by considering the structure inherent in VLSI problems, one can specialize classical preprocessing algorithms to take into account the standard form of the constraint matrix for VLSI problems, thereby achieving improved preprocessing results with relatively little effort. We provide analysis showing our preprocessing techniques are accurate and provide some numerical testing demonstrating the increased efficiency. The numerical tests also demonstrate that using our preprocessing in conjunction with internal preprocessing methods that come with many linear program solvers, can improve the overall performance of the linear program solver and its preprocessor.
+Keywords
+VLSI design  Linear programming  Preprocessing  

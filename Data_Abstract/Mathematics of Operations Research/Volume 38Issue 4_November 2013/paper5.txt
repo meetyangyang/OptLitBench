@@ -1,0 +1,6 @@
+Optimal Sampling of Overflow Paths in Jackson Networks
+Jose Blanchet;
+Abstract
+We consider the problems of computing overflow probabilities at level N in any subset of stations in a Jackson network and of simulating sample paths conditional on overflow. We construct algorithms that take O(N) function evaluations to estimate such overflow probabilities within a prescribed relative accuracy and to simulate paths conditional on overflow at level N. The algorithms that we present are optimal in the sense that the best possible performance that can be expected for conditional sampling involves Ω(N) running time. As we explain in our development, our techniques have the potential to be applicable to more general classes of networks.
+Keywords
+rare-event simulation Jackson networks large deviations conditional paths queueing theory 

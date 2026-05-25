@@ -1,0 +1,6 @@
+Receding Horizon Robust Control for Nonlinear Systems Based on Linear Differential Inclusion of Neural Networks
+Choon Ki Ahn;
+Abstract
+In this paper, we present a new receding horizon neural robust control scheme for a class of nonlinear systems based on the linear differential inclusion (LDI) representation of neural networks. First, we propose a linear matrix inequality (LMI) condition on the terminal weighting matrix for a receding horizon neural robust control scheme. This condition guarantees the nonincreasing monotonicity of the saddle point value of the finite horizon dynamic game. We then propose a receding horizon neural robust control scheme for nonlinear systems, which ensures the infinite horizon robust performance and the internal stability of closed-loop systems. Since the proposed control scheme can effectively deal with input and state constraints in an optimization problem, it does not cause the instability problem or give the poor performance associated with the existing neural robust control schemes.
+Keywords
+Receding horizon control  Neural networks  \(\mathcal{H_{\infty}}\) control  Nonlinear systems  Linear differential inclusion (LDI)  

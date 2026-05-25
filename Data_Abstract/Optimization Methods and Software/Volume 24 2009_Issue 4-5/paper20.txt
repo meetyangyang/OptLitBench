@@ -1,0 +1,6 @@
+An exact reformulation-linearisation technique algorithm for solving a parameter extraction problem arising in compact thermal models
+ Dale   Henderson ; J.   Cole   Smith ;
+Abstract
+ Compact thermal models (CTMs) are used to evaluate thermal characteristics of critical electronic chip packages under several hypothetical design and usage scenarios. In order to ensure that CTMs accurately estimate thermal response, an appropriate set of model parameters must first be selected. The challenge arising in this paper is to glean a set of parameters that best describes the performance of CTM over a set of test conditions. We examine a non-convex optimisation formulation for this parameter estimation problem, and derive the first exact optimisation algorithm for the problem using a continuous version of the reformulation-linearisation technique. We provide experimental results on real data to demonstrate the applicability of our approach. 
+Keywords
+branch-and-bound, computation, compact thermal models, nonlinear optimisation AMS Subject Classification : 90C26, 90C57, 90C90 

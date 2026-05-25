@@ -1,0 +1,6 @@
+Randomized heuristics for exploiting Jacobian scarcity
+ Andrew   Lyons ; Ilya   Safro ; Jean   Utke ;
+Abstract
+ In this paper, we describe a code transformation technique that, given a code for a vector function F, produces a code suitable for computing collections of Jacobian-vector products F′(x)x˙ or Jacobian-transpose-vector products F′(x)T y¯. Exploitation of scarcity – a measure of the degrees of freedom in the Jacobian matrix – requires solving a combinatorial optimization problem that is believed to be hard. Our heuristics transform the computational graph for F, producing, in the form of a transformed graph G′, a representation of the Jacobian F′(x) that is both concise and suitable for evaluating large collections of the Jacobian-vector products or the Jacobian-transpose-vector products. Our heuristics are randomized and compare favourably in all cases with the best known heuristics. 
+Keywords
+automatic differentiation, scarcity, preaccumulation, edge elimination AMS Subject Classifications : 90C59, 68W20, 05C81, 68N20 

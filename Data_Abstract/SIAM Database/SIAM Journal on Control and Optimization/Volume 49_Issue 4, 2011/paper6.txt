@@ -1,0 +1,6 @@
+Boundary Controllers and Observers for the Linearized Schrödinger Equation
+Miroslav  Krstic, Bao-Zhu  Guo, and Andrey  Smyshlyaev;
+Abstract
+We consider a problem of stabilization of the linearized Schrödinger equation using boundary actuation and measurements. We propose two different control designs. First, a simple proportional collocated boundary controller is shown to exponentially stabilize the system. However, the decay rate of the closed-loop system cannot be prescribed. The second, full-state feedback boundary control design, achieves an arbitrary decay rate. We formally view the Schrödinger equation as a heat equation in complex variables and apply the backstepping method recently developed for boundary control of reaction-advection-diffusion equations. The resulting controller is then supplied with the backstepping observer to obtain an output-feedback compensator. The designs are illustrated with simulations.
+Keywords
+distributed parameter systems, backstepping, stabilization, 35Q93, 

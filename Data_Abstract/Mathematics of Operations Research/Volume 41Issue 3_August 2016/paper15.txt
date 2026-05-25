@@ -1,0 +1,6 @@
+Submodular Stochastic Probing on Matroids
+Marek Adamczyk;Maxim Sviridenko;Justin Ward;
+Abstract
+In a stochastic probing problem we are given a universe E, and a probability that each element e in E is active. We determine if an element is active by probing it, and whenever a probed element is active, we must permanently include it in our solution. Moreover, throughout the process we need to obey inner constraints on the set of elements taken into the solution, and outer constraints on the set of all probed elements. All previous algorithmic results in this framework have considered only the problem of maximizing a linear function of the active elements. Here, we consider submodular objectives.We provide new, constant-factor approximations for maximizing a monotone submodular function subject to multiple matroid constraints on both the elements that may be taken and the elements that may be probed. We also obtain an improved approximation for linear objective functions, and show how our approach may be generalized to handle k-matchoid constraints.
+Keywords
+stochastic optimization submodular maximization matroids iterative rounding stochastic matching sequential posted pricing 

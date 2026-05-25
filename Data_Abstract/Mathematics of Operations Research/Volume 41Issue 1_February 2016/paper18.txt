@@ -1,0 +1,6 @@
+A Unified Approach to Truthful Scheduling on Related Machines
+Leah Epstein;Asaf Levin;Rob van Stee;
+Abstract
+We present a unified framework for designing deterministic monotone polynomial time approximation schemes (PTASs) for a wide class of scheduling problems on uniformly related machines. This class includes (among others) minimizing the makespan, maximizing the minimum load, and minimizing the p-norm of the machine loads vector. Previously, this kind of result was only known for the makespan objective. Monotone algorithms have the property that an increase in the speed of a machine cannot decrease the amount of work assigned to it. Our results imply the existence of a truthful mechanism that can be implemented in polynomial time, where the social goal is approximated within arbitrary precision.
+Keywords
+scheduling monotone approximation algorithms algorithmic game theory 

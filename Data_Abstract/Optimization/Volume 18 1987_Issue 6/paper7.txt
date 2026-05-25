@@ -1,0 +1,6 @@
+A finite algorithm for the least two-norm solution of a linear program  1  
+   S.   Lucidi ;
+Abstract
+ By perturbing properly a linear program to a separable quadratic program it is possible to solve the latter in its dual variable space by iterative techniques such as sparsity-preserving SOR (successive overtaxation techniques). In this way large sparse linear programs can be handled.  In this paper we give a new computational criterion to check whether the solution of the perturbed quadratic program provides the least 2-norm solution of the original linear program. This criterion improves on the criterion proposed in an earlier paper.  We also describe an algorithm for solving linear programs which is based on the SOR methods. The main property of this algorithm is that, under mild assumptions, it finds the least 2-norm solution of a linear program in a finite number of iteration.s  
+Keywords
+Linear programming, quadratic programmingAMS 1980 Subject Classifications: Primary: 90 C 05, Secondary: 65 K 05 

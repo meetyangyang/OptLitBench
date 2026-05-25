@@ -1,0 +1,6 @@
+The reduction of computation times of upper and lower tolerances for selected combinatorial optimization problems
+Marcel Turkensteen;Dmitry Malyshev;Boris Goldengorin;Panos M. Pardalos;
+Abstract
+The tolerance of an element of a combinatorial optimization problem with respect to its optimal solution is the maximum change of the cost of the element while preserving the optimality of the given optimal solution and keeping all other input data unchanged. Tolerances play an important role in the design of exact and approximation algorithms, but the computation of tolerances requires additional computational time. In this paper, we concentrate on combinatorial optimization problems for which the computation of all tolerances and an optimal solution have almost the same computational complexity as of finding an optimal solution only. We summarize efficient computational methods for computing tolerances for these problems and determine their time complexity experimentally.
+Keywords
+Discrete optimization  Tolerances  Complexity  Efficient algorithm  

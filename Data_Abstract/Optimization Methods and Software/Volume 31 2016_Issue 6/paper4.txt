@@ -1,0 +1,6 @@
+A machine learning-based nested partitions framework for angle selection in radiotherapy
+Siyang Gao;Robert Meyer;Warren D'Souza;Leyuan Shi;Hao Zhang;
+Abstract
+Beam angle selection (BAS) is an important part of intensity-modulated radiation therapy and can be very challenging due to its huge solution space and computational difficulty. In this research, we have developed a nested partitions (NP) framework to optimize beam angles. NP is a metaheuristic algorithm which successively partitions the entire solution space, evaluates the quality of each sub-region formed by partitioning, and concentrates the search for the optimum in promising sub-regions. Moreover, we construct a machine learning (ML) model to quickly estimate performance of the selected angle vectors so that thousands of angle vectors can be evaluated within seconds. We compare the ML-based NP (MLNP) framework with five other BAS methods. Numerical tests for five head and neck cases are performed. The results show that MLNP can generate solutions with better quality and achieve higher computational efficiency than the compared methods.
+Keywords
+beam angle selection, IMRT, machine learning, nested partitions 

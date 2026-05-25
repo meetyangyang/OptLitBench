@@ -1,0 +1,6 @@
+Time-response-based evolutionary optimization
+Gideon Avigad;Alex Goldvard;Shaul Salomon;
+Abstract
+Solutions to engineering problems are often evaluated by considering their time responses; thus, each solution is associated with a function. To avoid optimizing the functions, such optimization is usually carried out by setting auxiliary objectives (e.g. minimal overshoot). Therefore, in order to find different optimal solutions, alternative auxiliary optimization objectives may have to be defined prior to optimization. In the current study, a new approach is suggested that avoids the need to define auxiliary objectives. An algorithm is suggested that enables the optimization of solutions according to their transient behaviours. For this optimization, the functions are sampled and the problem is posed as a multi-objective problem. The recently introduced algorithm NSGA-II-PSA is adopted and tailored to solve it. Mathematical as well as engineering problems are utilized to explain and demonstrate the approach and its applicability to real life problems. The results highlight the advantages of avoiding the definition of artificial objectives.
+Keywords
+function optimization, state-wise domination, multi-objective optimization 

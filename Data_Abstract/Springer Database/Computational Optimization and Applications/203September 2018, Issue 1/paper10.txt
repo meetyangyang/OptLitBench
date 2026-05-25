@@ -1,0 +1,6 @@
+A unified global convergence analysis of multiplicative update rules for nonnegative matrix factorization
+Norikazu Takahashi;Jiro Katayama;Masato Seki;Jun’ichi Takeuchi;
+Abstract
+Multiplicative update rules are a well-known computational method for nonnegative matrix factorization. Depending on the error measure between two matrices, various types of multiplicative update rules have been proposed so far. However, their convergence properties are not fully understood. This paper provides a sufficient condition for a general multiplicative update rule to have the global convergence property in the sense that any sequence of solutions has at least one convergent subsequence and the limit of any convergent subsequence is a stationary point of the optimization problem. Using this condition, it is proved that many of the existing multiplicative update rules have the global convergence property if they are modified slightly so that all variables take positive values. This paper also proposes new multiplicative update rules based on Kullback–Leibler, Gamma, and Rényi divergences. It is shown that these three rules have the global convergence property if the same modification as above is made.
+Keywords
+Nonnegative matrix factorization  Multiplicative update rule  Global convergence  90C30  90C90  68W40  15A23  

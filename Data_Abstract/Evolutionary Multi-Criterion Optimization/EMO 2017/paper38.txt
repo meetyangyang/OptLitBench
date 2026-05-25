@@ -1,0 +1,4 @@
+A Comparative Study of Fast Adaptive Preference-Guided Evolutionary Multi-objective Optimization
+Florian Siegmund;Amos H. C. Ng;Kalyanmoy Deb;
+Abstract
+In Simulation-based Evolutionary Multi-objective Optimization, the number of simulation runs is very limited, since the complex simulation models require long execution times. With the help of preference information, the optimization result can be improved by guiding the optimization towards relevant areas in the objective space with, for example, the Reference Point-based NSGA-II algorithm (R-NSGA-II) [4]. Since the Pareto-relation is the primary fitness function in R-NSGA-II, the algorithm focuses on exploring the objective space with high diversity. Only after the population has converged close to the Pareto-front does the influence of the reference point distance as secondary fitness criterion increase and the algorithm converges towards the preferred area on the Pareto-front.

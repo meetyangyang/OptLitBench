@@ -1,0 +1,6 @@
+Self-adaptive artificial bee colony
+Jagdish Chand Bansal;Harish Sharma;K.V. Arya;Kusum Deep;Millie Pant;
+Abstract
+Artificial Bee Colony (ABC) optimization algorithm is a swarm intelligence-based nature inspired algorithm, which has been proved a competitive algorithm with some popular nature-inspired algorithms. ABC has been found to be more efficient in exploration as compared to exploitation. With a motivation to balance exploration and exploitation capabilities of ABC, this paper presents an adaptive version of ABC. In this adaptive version, step size in solution modification and ABC parameter ‘limit’ are set adaptively based on current fitness values. In the present self-adaptive ABC, good solutions are appointed to exploit the search region in their neighbourhood, while worse solutions are appointed to explore the search region. The better solutions are given higher chances to update themselves with the help of parameter ‘limit’, which changes adaptively in the present study. The experiments on 16 unbiased test problems of different complexities show that the proposed strategy outperforms the basic ABC and some recent variants of ABC.
+Keywords
+numerical optimization, swarm intelligence, artificial bee colony, exploration-exploitation 

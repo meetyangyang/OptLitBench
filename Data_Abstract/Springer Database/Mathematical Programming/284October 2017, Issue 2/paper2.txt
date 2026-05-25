@@ -1,0 +1,6 @@
+Polynomial root radius optimization with affine constraints
+Julia Eaton;Sara Grundel;Mert Gürbüzbalaban;Michael L. Overton;
+Abstract
+The root radius of a polynomial is the maximum of the moduli of its roots (zeros). We consider the following optimization problem: minimize the root radius over monic polynomials of degree n, with either real or complex coefficients, subject to k linearly independent affine constraints on the coefficients. We show that there always exists an optimal polynomial with at most \(k-1\) inactive roots, that is, roots whose moduli are strictly less than the optimal root radius. We illustrate our results using some examples arising in feedback control.
+Keywords
+Polynomial optimization  Nonsmooth optimization  Frequency domain stabilization  26C10  49J52  

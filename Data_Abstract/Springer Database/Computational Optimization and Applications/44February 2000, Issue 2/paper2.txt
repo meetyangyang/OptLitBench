@@ -1,0 +1,6 @@
+A Primal-Dual Algorithm for Monotropic Programming and its Application to Network Optimization
+A. Ouorou;
+Abstract
+This paper presents a new primal-dual algorithm for solving a class of monotropic programming problems. This class involves many problems arising in a number of important applications in telecommunications networks, transportation and water distribution. The proposed algorithm is inspired by Kallio and Ruszczyński approach for linear programming [M. Kallio and A. Ruszczyński, WP-94-15, IIASA, 1994]. The problem is replaced by a game using two different augmented Lagrangian functions defined for the primal and the dual problems. It is then possible to develop a block-wise Gauss-Seidel method to reach an equilibrium of the game with alternating steps made in each component of the primal and dual variables. Finally, we show how this algorithm may be applied to some important problems in Network Optimization such as the minimum quadratic cost single flow problems and convex multicommodity flow problems.
+Keywords
+convex programming  augmented Lagrangian  decomposition  network flows  

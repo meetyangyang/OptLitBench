@@ -1,0 +1,6 @@
+On quasi-arithmetic mean based filters and their fast evaluation for large-scale topology optimization
+Eddie Wadbro;Linus Hägg;
+Abstract
+In material distribution topology optimization, restriction methods are routinely applied to obtain well-posed optimization problems and to achieve mesh-independence of the resulting designs. One of the most popular restriction methods is to use a filtering procedure. In this paper, we present a framework where the filtering process is viewed as a quasi-arithmetic mean (or generalized f-mean) over a neighborhood with the possible addition of an extra “projection step”. This framework includes the vast majority of available filters for topology optimization. The covered filtering procedures comprise three steps: (i) element-wise application of a function, (ii) computation of local averages, and (iii) element-wise application of another function. We present fast algorithms that apply this type of filters over polytope-shaped neighborhoods on regular meshes in two and three spatial dimensions. These algorithms have a computational cost that grows linearly with the number of elements and can be bounded irrespective of the filter radius.
+Keywords
+Topology optimization  Regularization  Filters  Fast algorithm  Large-scale problems  

@@ -1,0 +1,6 @@
+Optimal Security Liquidation Algorithms
+Sergiy Butenko;Alexander Golodnikov;Stanislav Uryasev;
+Abstract
+This paper develops trading strategies for liquidation of a financial security, which maximize the expected return. The problem is formulated as a stochastic programming problem that utilizes the scenario representation of possible returns. Two cases are considered, a case with no constraint on risk and a case when the risk of losses associated with trading strategy is constrained by Conditional Value-at-Risk (CVaR) measure. In the first case, two algorithms are proposed; one is based on linear programming techniques, and the other uses dynamic programming to solve the formulated stochastic program. The third proposed algorithm is obtained by adding the risk constraints to the linear program. The algorithms provide path-dependent strategies, i.e., the fraction of security sold depends upon price sample-path of the security up to the current moment. The performance of the considered approaches is tested using a set of historical sample-paths of prices.
+Keywords
+optimal trading strategy  stochastic programming  dynamic programming  linear programming  Conditional Value-at-Risk  

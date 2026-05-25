@@ -1,0 +1,6 @@
+A Lagrangean heuristic for the plant location problem with multiple facilities in the same site
+ G.   Ghiani ; L.   Grandinetti ; F.   Guerriero ; R.   Musmanno ;
+Abstract
+ This article addresses the Capacitated Plant Location Problem with Multiple Facilities in the Same Site (CPLPM), a special case of the classical Capacitated Plant Location Problem (CPLP) in which several facilities (possibly having different fixed costs and different capacities) can be opened in the same site. Applications of the CPLPM arise in a number of contexts, such as the location of polling stations. Although the CPLPM can be modelled and solved as a standard CPLP, this approach usually performs very poorly. In this article we describe a tailored Lagrangean heuristic that overcomes the drawbacks of classical procedures. Our algorithm was tested on a set of randomly generated instances and on a large real-world instance. Computational results indicate that our algorithm is able to provide high quality lower and upper bounds in a reasonable amount of time. In particular, our technique is able to provide good upper bounds for large-scale real-world applications, whereas general-purpose ILP solvers fail to determine even a feasible solution. 
+Keywords
+Plant Location Problem, Lagrangean Relaxation, Dynamic Programming 

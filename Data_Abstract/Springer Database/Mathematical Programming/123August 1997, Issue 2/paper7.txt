@@ -1,0 +1,6 @@
+How to compute least infeasible flows
+S. Thomas McCormick;
+Abstract
+It is well-known how to use maximum flow to decide when a flow problem with demands, lower bounds, and upper bounds is infeasible. Less well-known is how to compute a flow that is least infeasible. This paper considers many possible ways to define “least infeasible” and shows how to compute optimal flows for each definition. For each definition it also gives a dual characterization in terms of cuts, a polynomial routine for recognizing that type of least infeasible flow, and relates that definition to dual cut canceling min-cost flow network algorithms.
+Keywords
+Network flows  Min-cost flow  Cut canceling  

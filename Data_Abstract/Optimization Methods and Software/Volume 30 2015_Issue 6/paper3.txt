@@ -1,0 +1,6 @@
+A trust-region derivative-free algorithm for constrained optimization
+P.D. Conejo;E.W. Karas;L.G. Pedroso;
+Abstract
+We propose a trust-region algorithm for constrained optimization problems in which the derivatives of the objective function are not available. In each iteration, the objective function is approximated by a model obtained by quadratic interpolation, which is then minimized within the intersection of the feasible set with the trust region. Since the constraints are handled in the trust-region subproblems, all the iterates are feasible even if some interpolation points are not. The rules for constructing and updating the quadratic model and the interpolation set use ideas from the BOBYQA software, a largely used algorithm for box-constrained problems. The subproblems are solved by ALGENCAN, a competitive implementation of an Augmented Lagrangian approach for general-constrained problems. Some numerical results for the Hock–Schittkowski collection are presented, followed by a performance comparison between our proposal and three derivative-free algorithms found in the literature.
+Keywords
+derivative-free optimization, trust-region algorithms, constrained optimization problems, numerical experimentsAMS Subject Classification: 90C56, 65K05, 49M37 

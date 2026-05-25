@@ -1,0 +1,6 @@
+HYBRID COMPUTER OPTIMIZATION OF A CATCHMENT SIMULATION MODEL
+ W. J.   MORRIS ; M. C.   MCGOVERN ;
+Abstract
+ The optimization of a two-parameter river catchment simulation model is described. The parameter K1 controls the rate of infiltration into the soil, and the second parameter, K2, is used in the routing equation. The Simplex direct search method is used and is implemented on a hybrid computer. The computer programme forms an n-dimensional “simplex” (n being the number of parameters) from initial trial values of the parameters, and uses the basic operations of reflection, expansion and contraction to find the optimum value of the objective function. The operations are carried out according to the value of the objective function at each apex of the “simplex.” The peripheral devices linked to the hybrid computer are used to give a continuous display of the optimization process, and the effects of systematically varying the parameters are studied by plotting sample hydrographs for various pairs of parameter values and by plotting the surface of the objective function. 
+Keywords
+ 

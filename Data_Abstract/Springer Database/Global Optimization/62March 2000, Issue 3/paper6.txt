@@ -1,0 +1,6 @@
+Optimal Scheduling in Parallel and Serial Manufacturing Systems via the Maximum Principle
+Konstantin Kogan;Toshihide Ibaraki;
+Abstract
+The problems of M-machine, J-product, N-time point preemptive scheduling in parallel and serial production systems are the focus of this paper. The objective is to minimize the sum of the costs related to inventory level and production rate along a planning horizon. Although the problem is NP-hard, the application of the maximum principle reduces it into a well-tractable type of the two-point boundary value problem. As a result, algorithms of O(NMJk(N-L)+1) and O(N(MJ)k(N-L)+1) time complexities are developed for parallel and serial production systems, respectively, where L is the time point when the demand starts and k is the ratio of backlog cost MN over the inventory cost. This compares favorably with the time complexity O((J+1MN) of a naive enumeration algorithm.
+Keywords
+Optimization  Production scheduling  The maximum principle  

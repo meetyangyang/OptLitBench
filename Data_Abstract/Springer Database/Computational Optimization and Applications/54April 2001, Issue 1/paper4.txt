@@ -1,0 +1,6 @@
+Branch-and-Cut Algorithms for the Bilinear Matrix Inequality Eigenvalue Problem
+Mituhiro Fukuda;Masakazu Kojima;
+Abstract
+The optimization problem with the Bilinear Matrix Inequality (BMI) is one of the problems which have greatly interested researchers of system and control theory in the last few years. This inequality permits to reduce in an elegant way various problems of robust control into its form. However, in contrast to the Linear Matrix Inequality (LMI), which can be solved by interior-point-methods, the BMI is a computationally difficult object in theory and in practice. This article improves the branch-and-bound algorithm of Goh, Safonov and Papavassilopoulos (Journal of Global Optimization, vol. 7, pp. 365–380, 1995) by applying a better convex relaxation of the BMI Eigenvalue Problem (BMIEP), and proposes new Branch-and-Bound and Branch-and-Cut Algorithms. Numerical experiments were conducted in a systematic way over randomly generated problems, and they show the robustness and the efficiency of the proposed algorithms.
+Keywords
+bilinear matrix inequality  semidefinite programming  branch-and-cut algorithm  convex relaxation  cut polytope  

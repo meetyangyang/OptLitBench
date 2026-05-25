@@ -1,0 +1,6 @@
+Projection methods for conic feasibility problems: applications to polynomial sum-of-squares decompositions
+ Didier   Henrion ; Jérôme   Malick ;
+Abstract
+ This paper presents a projection-based approach for solving conic feasibility problems. To find a point in the intersection of a cone and an affine subspace, we simply project a point onto this intersection. This projection is computed by dual algorithms operating a sequence of projections onto the cone and generalizing the alternating projection method. We release an easy-to-use Matlab package implementing an elementary dual-projection algorithm. Numerical experiments show that, for solving some semidefinite feasibility problems, the package is competitive with sophisticated conic programming software. We also provide a particular treatment for semidefinite feasibility problems modelling polynomial sum-of-squares decomposition problems. 
+Keywords
+convex cones, semidefinite programming, projection algorithms, positive polynomials, least-squares problems 

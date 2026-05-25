@@ -1,0 +1,6 @@
+Convex relaxations of non-convex mixed integer quadratically constrained programs: extended formulations
+Anureet Saxena;Pierre Bonami;Jon Lee;
+Abstract
+This paper addresses the problem of generating strong convex relaxations of Mixed Integer Quadratically Constrained Programming (MIQCP) problems. MIQCP problems are very difficult because they combine two kinds of non- convexities: integer variables and non-convex quadratic constraints. To produce strong relaxations of MIQCP problems, we use techniques from disjunctive programming and the lift-and-project methodology. In particular, we propose new methods for generating valid inequalities from the equation Y =  x x  T . We use the non-convex constraint \({ Y - x x^T \preccurlyeq 0}\) to derive disjunctions of two types. The first ones are directly derived from the eigenvectors of the matrix Y − x x  T  with positive eigenvalues, the second type of disjunctions are obtained by combining several eigenvectors in order to minimize the width of the disjunction. We also use the convex SDP constraint \({ Y - x x^T \succcurlyeq 0}\) to derive convex quadratic cuts, and we combine both approaches in a cutting plane algorithm. We present computational results to illustrate our findings.
+Keywords
+90C26 Nonconvex programming  global optimization  

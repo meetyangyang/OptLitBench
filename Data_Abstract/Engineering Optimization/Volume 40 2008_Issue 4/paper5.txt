@@ -1,0 +1,6 @@
+Fixed-point algorithms for optimal ascent trajectories of launch vehicles
+ Lijun   Zhang ; Ping   Lu ;
+Abstract
+ A fixed-point formulation and the associated algorithms for rapid generation of optimal ascent trajectories of launch vehicles through the atmosphere are presented. The complete ascent trajectory is tacitly divided into an endo-atmospheric and an exo-atmospheric portion. Since the exo-atmospheric trajectory can be obtained reliably and rapidly, a special form of two-point boundary value problem (TPBVP) is formulated in the endo-atmospheric portion. This special TPBVP leads to a sequence of nested fixed-point problems. Several algorithmic options to solve these problems using modified fixed-point iterations are discussed. The main advantages of the fixed-point formulation and algorithm are software simplicity and more robust convergence. Numerical results, both in open-loop trajectory generation and closed-loop simulations, are presented to demonstrate the discussions. The algorithm is validated and verified by comparing the results with the results obtained from existing method. 
+Keywords
+optimal control, trajectory optimization, aerospace systems 

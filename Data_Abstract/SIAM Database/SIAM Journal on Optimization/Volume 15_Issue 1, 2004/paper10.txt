@@ -1,0 +1,6 @@
+Probabilistic Combinatorial Optimization: Moments, Semidefinite Programming, and Asymptotic Bounds
+Dimitris  Bertsimas, Karthik  Natarajan, and Chung-Piaw  Teo;
+Abstract
+We address the problem of evaluating the expected optimal objective value of a 0-1 optimization problem under uncertainty in the objective coefficients. The probabilistic model we consider prescribes limited marginal distribution information for the objective coefficients in the form of moments. We show that for a fairly general class of marginal information, a tight upper (lower) bound on the expected optimal objective value of a 0-1 maximization (minimization) problem can be computed in polynomial time if the corresponding deterministic problem is solvable in polynomial time. We provide an efficiently solvable semidefinite programming formulation to compute this tight bound. We also analyze the asymptotic behavior of a general class of combinatorial problems that includes the linear assignment, spanning tree, and traveling salesman problems, under knowledge of complete marginal distributions, with and without independence.We calculate the limiting constants exactly.
+Keywords
+combinatorial optimization, probabilistic analysis, convex optimization, moments problem, 90C22, 90C27, 

@@ -1,0 +1,6 @@
+Integrating tactical and operational decisions in fixed job scheduling
+Deniz Türsel Eliiyi;
+Abstract
+Two different problems are introduced in this article to handle capacity and scheduling decisions simultaneously in the fixed job scheduling framework. The combined fixed job scheduling (CFJS) problem integrates these decisions assuming fixed costs for the usage of identical parallel machines, whereas the working time determination (WTD) problem involves unit-time operating or rental costs. Mathematical models for both problems are presented along with the worst case time complexities. While an exact polynomial-time algorithm is proposed for the CFJS problem, a heuristic algorithm is developed for the WTD problem as it is shown to be strongly NP hard. Computational experiments are carried out for evaluating the performance of the algorithms. The results reveal that the solutions by the exact algorithm for the CFJS problem are much faster than a state-of-the-art commercial solver, particularly for large instances. For the WTD problem, the developed heuristic provides high-quality solutions in very short computation times.
+Keywords
+tactical fixed job scheduling, operational fixed job scheduling, capacity planning, working time 

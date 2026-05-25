@@ -1,0 +1,6 @@
+Optimal control problems on parallelizable Riemannian manifolds: theory and applications
+Ram V. Iyer1, Raymond Holsapple1 and David Doman2;
+Abstract
+The motivation for this work is the real-time solution of a standard optimal control problem arising in robotics and aerospace applications. For example, the trajectory planning problem for air vehicles is naturally cast as an optimal control problem on the tangent bundle of the Lie Group SE(3), which is also a parallelizable Riemannian manifold. For an optimal control problem on the tangent bundle of such a manifold, we use frame co-ordinates and obtain first-order necessary conditions employing calculus of variations. The use of frame co-ordinates means that intrinsic quantities like the Levi-Civita connection and Riemannian curvature tensor appear in the equations for the co-states. The resulting equations are singularity-free and considerably simpler (from a numerical perspective) than those obtained using a local co-ordinates representation, and are thus better from a computational point of view. The first order necessary conditions result in a two point boundary value problem which we successfully solve by means of a Modified Simple Shooting Method.
+Keywords
+Regular optimal control, simple mechanical systems, calculus of variations, numerical solution, modified simple shooting method

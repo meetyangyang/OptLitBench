@@ -1,0 +1,6 @@
+A Parallel Bundle Framework for Asynchronous Subspace Optimization of Nonsmooth Convex Functions
+Frank  Fischer and Christoph  Helmberg;
+Abstract
+An algorithmic framework is presented for optimizing general convex functions by nonsynchronized parallel processes. Each process greedily picks a suitable adaptive subset of coordinates and runs a bundle method on a corresponding restricted problem stopping whenever a descent step is encountered or predicted decrease is reduced sufficiently. No prior knowledge on the dependencies between variables is assumed. Instead, dependency information is collected automatically by analyzing aggregate subgradient properties required for ensuring convergence. Within this framework three strategies are discussed for supporting varying scenarios of structural independence: a single convex function, the sum of partially separable convex functions, and a scenario tuned to problem decomposition by Lagrangian relaxation of packing-type constraints.  The theoretical framework presented here generalizes a practical method proposed by the authors for Lagrangian relaxation of large scale packing problems and simplifies the analysis.
+Keywords
+bundle methods, parallel programming, convex optimization, 90C06, 65Y05, 90C25, 65K05, 

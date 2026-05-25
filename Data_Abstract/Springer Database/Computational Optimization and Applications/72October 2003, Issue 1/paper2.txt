@@ -1,0 +1,6 @@
+Feasible Interior Methods Using Slacks for Nonlinear Optimization
+Richard H. Byrd;Jorge Nocedal;Richard A. Waltz;
+Abstract
+A slack-based feasible interior point method is described which can be derived as a modification of infeasible methods. The modification is minor for most line search methods, but trust region methods require special attention. It is shown how the Cauchy point, which is often computed in trust region methods, must be modified so that the feasible method is effective for problems containing both equality and inequality constraints. The relationship between slack-based methods and traditional feasible methods is discussed. Numerical results using the KNITRO package show the relative performance of feasible versus infeasible interior point methods.
+Keywords
+constrained optimization  interior point method  feasible method  large-scale optimization  nonlinear programming  primal-dual method  sequential quadratic programming  barrier method  trust region method  

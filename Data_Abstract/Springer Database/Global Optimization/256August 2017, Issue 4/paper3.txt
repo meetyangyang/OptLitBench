@@ -1,0 +1,6 @@
+Deterministic solution approach for some classes of nonlinear multilevel programs with multiple followers
+Abay Molla Kassa;Semu Mitiku Kassa;
+Abstract
+In this paper we investigate multilevel programming problems with multiple followers in each hierarchical decision level. It is known that such type of problems are highly non-convex and hard to solve. A solution algorithm have been proposed by reformulating the given multilevel program with multiple followers at each level that share common resources into its equivalent multilevel program having single follower at each decision level. Even though, the reformulated multilevel optimization problem may contain non-convex terms at the objective functions at each level of the decision hierarchy, we applied multi-parametric branch-and-bound algorithm to solve the resulting problem that has polyhedral constraints. The solution procedure is implemented and tested for a variety of illustrative examples.
+Keywords
+Multilevel programs with multiple followers  Multilevel programs with single follower  Nash equilibrium  Hierarchical decision  Parametric optimization  65K05  90C26  90C31  91A65  

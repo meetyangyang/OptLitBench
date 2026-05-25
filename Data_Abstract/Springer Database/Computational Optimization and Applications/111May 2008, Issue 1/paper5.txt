@@ -1,0 +1,8 @@
+Finding preferred subsets of Pareto optimal solutions
+Gio K. Kao;Sheldon H. Jacobson;
+Abstract
+
+Multi-objective optimization algorithms can generate large sets of Pareto optimal (non-dominated) solutions. Identifying the best solutions across a very large number of Pareto optimal solutions can be a challenge. Therefore it is useful for the decision-maker to be able to obtain a small set of preferred Pareto optimal solutions. This paper analyzes a discrete optimization problem introduced to obtain optimal subsets of solutions from large sets of Pareto optimal solutions. This discrete optimization problem is proven to be NP-hard. Two exact algorithms and five heuristics are presented to address this problem. Five test problems are used to compare the performances of these algorithms and heuristics. The results suggest that preferred subset of Pareto optimal solutions can be efficiently obtained using the heuristics, while for smaller problems, exact algorithms can be applied.
+
+Keywords
+Pareto-optimality  Post-optimality analysis  Heuristics  

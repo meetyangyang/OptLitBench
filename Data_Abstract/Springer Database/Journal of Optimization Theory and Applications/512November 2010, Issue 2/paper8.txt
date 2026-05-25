@@ -1,0 +1,6 @@
+Stochastic and Risk Management Models and Solution Algorithm for Natural Gas Transmission Network Expansion and LNG Terminal Location Planning
+Qipeng P. Zheng;Panos M. Pardalos;
+Abstract
+Due to the increasing demands for natural gas, it is playing a more important role in the energy system, and its system expansion planning is drawing more attentions. In this paper, we propose expansion planning models which include both natural gas transmission network expansion and LNG (Liquified Natural Gas) terminals location planning. These models take into account the uncertainties of demands and supplies in the future, which make the models stochastic mixed integer programs with discrete subproblems. Also we consider risk control in our models by including probabilistic constraints, such as a limit on CVaR (Conditional Value at Risk). In order to solve large-scale problems, especially with a large number of scenarios, we propose the embedded Benders decomposition algorithm, which applies Benders cuts in both first and second stages, to tackle the discrete subproblems. Numerical results show that our algorithm is efficient for large scale stochastic natural gas transportation system expansion planning problems.
+Keywords
+Natural gas  System expansion  Location planning  Stochastic mixed integer program  Risk management  Embedded Benders decomposition  

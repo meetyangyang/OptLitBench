@@ -1,0 +1,6 @@
+H2 and H$_\infty$ Filtering Design Subject to Implementation Uncertainty
+Maurício C.  de Oliveira and José C.  Geromel;
+Abstract
+This paper presents new filtering design procedures for discrete-time linear systems. It provides a solution to the problem of linear filtering design, assuming that the filter is subject to parametric uncertainty. The problem is relevant, since the proposed filter design incorporates real world implementation constraints that are always present in practice. The transfer function and the state space realization of the filter are simultaneously computed. The design procedure can also handle plant parametric uncertainty. In this case, the plant parameters are assumed not to be exactly known but belonging to a given convex and closed polyhedron. Robust performance is measured by the H2  and H$_\infty$ norms of the transfer function from the noisy input to the filtering error. The results are based on the determination of an upper bound on the performance objectives. All optimization problems are linear with constraint sets given in the form of LMI (linear matrix inequalities). Global optimal solutions to these problems can be readily computed. Numerical examples illustrate the theory.
+Keywords
+robust filtering, implementation uncertainty, fragility, linear matrix inequalities, 93E11, 93E25, 60G35, 

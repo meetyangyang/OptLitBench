@@ -1,0 +1,6 @@
+Detecting “dense” columns in interior point methods for linear programs
+Csaba Mészáros;
+Abstract
+During the iterations of interior point methods symmetric indefinite systems are decomposed by LD̂L  T  factorization. This step can be performed in a special way where the symmetric indefinite system is transformed to a positive definite one, called the normal equations system. This approach proved to be efficient in most of the cases and numerically reliable, due to the positive definite property. It has been recognized, however, that in case the linear program contains “dense” columns, this approach results in an undesirable fill–in during the computations and the direct factorization of the symmetric indefinite system is more advantageous. The paper describes a new approach to detect cases where the system of normal equations is not preferable for interior point methods and presents a new algorithm for detecting the set of columns which is responsible for the excessive fill–in in the matrix AA  T . By solving large–scale linear programming problems we demonstrate that our heuristic is reliable in practice.
+Keywords
+Interior point methods  dense columns  Cholesky factorization  sparsity  

@@ -1,0 +1,6 @@
+Deterministic Global Optimization with Artificial Neural Networks Embedded
+Artur M. Schweidtmann;Alexander Mitsos;
+Abstract
+Artificial neural networks are used in various applications for data-driven black-box modeling and subsequent optimization. Herein, we present an efficient method for deterministic global optimization of optimization problems with artificial neural networks embedded. The proposed method is based on relaxations of algorithms using McCormick relaxations in a reduced space (Mitsos et al. in SIAM J Optim 20(2):573–601, 2009) employing the convex and concave envelopes of the nonlinear activation function. The optimization problem is solved using our in-house deterministic global solver. The performance of the proposed method is shown in four optimization examples: an illustrative function, a fermentation process, a compressor plant and a chemical process. The results show that computational solution time is favorable compared to a state-of-the-art global general-purpose optimization solver.
+Keywords
+Surrogate-based optimization  Multilayer perceptron  McCormick relaxations  Machine learning  MAiNGO  90C26  90C30  90C90  68T01  

@@ -1,0 +1,4 @@
+DFS* and the Traveling Tournament Problem
+David C. Uthus;Patricia J. Riddle;Hans W. Guesgen;
+Abstract
+Our paper presents a new exact method to solve the traveling tournament problem. More precisely, we apply DFS* to this problem and improve its performance by keeping the expensive heuristic estimates in memory to help greatly cut down the computational time needed. We further improve the performance by exploiting a symmetry property found in the traveling tournament problem. Our results show that our approach is one of the top performing approaches for this problem. It is able to find known optimal solutions in a much smaller amount of computational time than past approaches, to find a new optimal solution, and to improve the lower bounds of larger problem instances which do not have known optimal solutions. As a final contribution, we also introduce a new set of problem instances to diversify the available instance sets for the traveling tournament problem.

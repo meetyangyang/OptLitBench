@@ -1,0 +1,8 @@
+Inner solvers for interior point methods for large scale nonlinear programming
+Silvia Bonettini;Emanuele Galligani;Valeria Ruggiero;
+Abstract
+
+This paper deals with the solution of nonlinear programming problems arising from elliptic control problems by an interior point scheme. At each step of the scheme, we have to solve a large scale symmetric and indefinite system; inner iterative solvers, with an adaptive stopping rule, can be used in order to avoid unnecessary inner iterations, especially when the current outer iterate is far from the solution.
+
+Keywords
+Large scale nonlinear programming  Interior point method  Method of multipliers  Preconditioned conjugate gradient method  

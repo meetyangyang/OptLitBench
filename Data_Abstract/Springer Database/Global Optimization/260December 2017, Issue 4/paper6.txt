@@ -1,0 +1,6 @@
+A simple globally convergent algorithm for the nonsmooth nonconvex single source localization problem
+D. Russell Luke;Shoham Sabach;Marc Teboulle;Kobi Zatlawey;
+Abstract
+We study the single source localization problem which consists of minimizing the squared sum of the errors, also known as the maximum likelihood formulation of the problem. The resulting optimization model is not only nonconvex but is also nonsmooth. We first derive a novel equivalent reformulation as a smooth constrained nonconvex minimization problem. The resulting reformulation allows for deriving a delightfully simple algorithm that does not rely on smoothing or convex relaxations. The proposed algorithm is proven to generate bounded iterates which globally converge to critical points of the original objective function of the source localization problem. Numerical examples are presented to demonstrate the performance of our algorithm.
+Keywords
+Nonsmooth nonconvex minimization  Kurdyka–Łojasiewicz property  Method of multipliers  Alternating minimization  Convergence in semialgebraic optimization  Single source localization  90C26  90C90  49M37  65K05  

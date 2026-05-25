@@ -1,0 +1,6 @@
+On solving sparse band systems with three algorithms of the ABS family
+J. Abaffy;L. C. W. Dixon;
+Abstract
+In this paper, we examine three algorithms in the ABS family and consider their storage requirements on sparse band systems. It is shown that, when using the implicit Cholesky algorithm on a band matrix with band width 2q+1, onlyq additional vectors are required. Indeed, for any matrix with upper band widthq, onlyq additional vectors are needed. More generally, ifa kj ≠0,j>k, then thejth row ofH i  is effectively nonzero ifj>i>k. The arithmetic operations involved in solving a band matrix by this method are dominated by (1/2)n2q. Special results are obtained forq-band tridiagonal matrices and cyclic band matrices.
+Keywords
+Sparse equations  ABS methods  linear algebra  

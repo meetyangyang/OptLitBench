@@ -1,0 +1,6 @@
+Convergence Acceleration of Direct Trajectory Optimization Using Novel Hessian Calculation Methods
+N. Yokoyama;S. Suzuki;T. Tsuchiya;
+Abstract
+Sparse sequential quadratic programming (SQP) has offered fast and robust convergence of trajectory optimization based on direct collocation. However, the conventional approach of calculating the Hessian of the Lagrangian is sometimes inefficient in view of the computational time. Therefore, this paper proposes two novel Hessian calculation methods that exploit the doubly-bordered block diagonal structure of the Hessian. Through applications to the constrained brachistochrone problem and the space shuttle reentry problem, the proposed methods were demonstrated to show faster convergence speeds as compared with the conventional methods.
+Keywords
+Direct trajectory optimization  Nonlinear programming  Hessian calculation  

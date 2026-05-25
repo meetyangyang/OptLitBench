@@ -1,0 +1,6 @@
+Forward differential dynamic programming
+K. Vit;
+Abstract
+The dynamic programming formulation of the forward principle of optimality in the solution of optimal control problems results in a partial differential equation with initial boundary condition whose solution is independent of terminal cost and terminal constraints. Based on this property, two computational algorithms are described. The first-order algorithm with minimum computer storage requirements uses only integration of a system of differential equations with specified initial conditions and numerical minimization in finite-dimensional space. The second-order algorithm is based on the differential dynamic programming approach. Either of the two algorithms may be used for problems with nondifferentiable terminal cost or terminal constraints, and the solution of problems with complicated terminal conditions (e.g., with free terminal time) is greatly simplified.
+Keywords
+Optimal control  forward dynamic programming  differential dynamic programming  

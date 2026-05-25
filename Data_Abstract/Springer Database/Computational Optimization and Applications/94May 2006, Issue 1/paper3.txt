@@ -1,0 +1,6 @@
+Convex Kernel Underestimation of Functions with Multiple Local Minima
+O. L. Mangasarian;J. B. Rosen;M. E. Thompson;
+Abstract
+A function on R n  with multiple local minima is approximated from below, via linear programming, by a linear combination of convex kernel functions using sample points from the given function. The resulting convex kernel underestimator is then minimized, using either a linear equation solver for a linear-quadratic kernel or by a Newton method for a Gaussian kernel, to obtain an approximation to a global minimum of the original function. Successive shrinking of the original search region to which this procedure is applied leads to fairly accurate estimates, within 0.0001% for a Gaussian kernel function, relative to global minima of synthetic nonconvex piecewise-quadratic functions for which the global minima are known exactly. Gaussian kernel underestimation improves by a factor of ten the relative error obtained using a piecewise-linear underestimator (O.L. Mangasarian, J.B. Rosen, and M.E. Thompson, Journal of Global Optimization, Volume 32, Number 1, Pages 1–9, 2005), while cutting computational time by an average factor of over 28.
+Keywords
+multiple minima  underestimation  convex kernels  global minimization  

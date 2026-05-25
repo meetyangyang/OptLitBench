@@ -1,0 +1,6 @@
+Filtering with Marked Point Process Observations via Poisson Chaos Expansion
+Wei Sun;Yong Zeng;Shu Zhang;
+Abstract
+We study a general filtering problem with marked point process observations. The motivation comes from modeling financial ultra-high frequency data. First, we rigorously derive the unnormalized filtering equation with marked point process observations under mild assumptions, especially relaxing the bounded condition of stochastic intensity. Then, we derive the Poisson chaos expansion for the unnormalized filter. Based on the chaos expansion, we establish the uniqueness of solutions of the unnormalized filtering equation. Moreover, we derive the Poisson chaos expansion for the unnormalized filter density under additional conditions. To explore the computational advantage, we further construct a new consistent recursive numerical scheme based on the truncation of the chaos density expansion for a simple case. The new algorithm divides the computations into those containing solely system coefficients and those including the observations, and assign the former off-line.
+Keywords
+Poisson chaos expansion  Filtering  Marked point processes  Random measures  Ultra-high frequency data  

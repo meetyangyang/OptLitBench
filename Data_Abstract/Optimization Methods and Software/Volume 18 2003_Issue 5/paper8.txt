@@ -1,0 +1,6 @@
+Reverse Automatic Differentiation for Optimum Design: From Adjoint State Assembly to Gradient Computation
+ Francois   Courty ; Alain   Dervieux ; Bruno   Koobus ; Laurent   Hascoët ;
+Abstract
+ Gradient descent is a key technique in Optimal Design problems. We describe a method to compute the gradient of a optimization criterion with respect to design parameters. This method is hybrid, using Automatic Differentiation to compute the residual of the adjoint system, and using this residual in a hand-written solver that computes the adjoint state and then the gradient. Automatic Differentiation is here used in its so-called reverse mode, with a special refinement for gather-scatter loops. The hand-written solver uses a matrix-free algorithm, preconditioned by the first-order derivative of the flux function. This method was tested on a typical optimal design problem, for which we give validation and performance results. 
+Keywords
+Computational fluid dynamics, Optimum design, Adjoint equations, Automatic differentiation, Check-pointing, Data dependence analysis 

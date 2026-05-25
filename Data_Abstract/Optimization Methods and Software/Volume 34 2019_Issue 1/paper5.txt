@@ -1,0 +1,6 @@
+A new branch-and-bound algorithm for standard quadratic programming problems
+G. Liuzzi;M. Locatelli;V. Piccialli;
+Abstract
+In this paper we propose convex and LP bounds for standard quadratic programming (StQP) problems and employ them within a branch-and-bound approach. We first compare different bounding strategies for StQPs in terms both of the quality of the bound and of the computation times. It turns out that the polyhedral bounding strategy is the best one to be used within a branch-and-bound scheme. Indeed, it guarantees a good quality of the bound at the expense of a very limited computation time. The proposed branch-and-bound algorithm performs an implicit enumeration of all the KKT (stationary) points of the problem. We compare different branching strategies exploiting the structure of the problem. Numerical results on randomly generated problems (with varying density of the underlying convexity graph) are reported which show the effectiveness of the proposed approach, in particular in limiting the growth of the number of nodes in the branch-and-bound tree as the density of the underlying graph increases.
+Keywords
+standard quadratic programming, branch-and-bound, polyhedral bound 

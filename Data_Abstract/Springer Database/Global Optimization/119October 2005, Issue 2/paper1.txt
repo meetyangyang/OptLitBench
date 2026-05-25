@@ -1,0 +1,11 @@
+Linearity Embedded in Nonconvex Programs
+Leo Liberti;
+Abstract
+Nonconvex programs involving bilinear terms and linear equality constraints often
+appear more nonlinear than they really are. By using an automatic symbolic reformulation we
+can substitute some of the bilinear terms with linear constraints. This has a dramatically
+improving effect on the tightness of any convex relaxation of the problem, which makes
+deterministic global optimization algorithms like spatial Branch-and-Bound much more eff-
+cient when applied to the problem.
+Keywords
+Bilinear  Convex relaxation  Global optimization  MINLP  Reduction constraint  Reformulation  RLT  

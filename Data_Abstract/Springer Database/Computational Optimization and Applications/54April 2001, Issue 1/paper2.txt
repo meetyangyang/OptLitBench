@@ -1,0 +1,6 @@
+On the Superlinear Convergence Order of the Logarithmic Barrier Algorithm
+Jean-Pierre Dussault;Abdellatif Elafia;
+Abstract
+Since the pioneering work of Karmarkar, much interest was directed to penalty algorithms, in particular to the log barrier algorithm. We analyze in this paper the asymptotic convergence rate of a barrier algorithm when applied to non-linear programs. More specifically, we consider a variant of the SUMT method, in which so called extrapolation predictor steps allowing reducing the penalty parameter rk +1}<rk are followed by some Newton correction steps. While obviously related to predictor-corrector interior point methods, the spirit differs since our point of view is biased toward nonlinear barrier algorithms; we contrast in details both points of view. In our context, we identify an asymptotically optimal strategy for reducing the penalty parameter r and show that if rk+1=r k α  with α < 8/5, then asymptotically only 2 Newton corrections are required, and this strategy achieves the best overall average superlinear convergence order (∼1.1696). Therefore, our main result is to characterize the best possible convergence order for SUMT type methods.
+Keywords
+logarithmic barrier  penalty algorithms  interior point methods  

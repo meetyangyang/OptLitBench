@@ -1,0 +1,6 @@
+A Network Improvement Problem Under Different Norms
+J.Z. Zhang;X.G. Yang;M.C. Cai;
+Abstract
+In this paper, we first consider a network improvement problem, called vertex-to-vertices distance reduction problem. The problem is how to use a minimum cost to reduce lengths of the edges in a network so that the distances from a given vertex to all other vertices are within a given upper bound. We use l∞, l1 and l2 norms to measure the total modification cost respectively. Under l∞ norm, we present a strongly polynomial algorithm to solve the problem, and under l1 or weighted l2 norm, we show that achieving an approximation ratio O(log(|V|)) is NP-hard. We also extend the results to the vertex-to-points distance reduction problem, which is to reduce the lengths of edges most economically so that the distances from a given vertex to all points on the edges of the network are within a given upper bound.
+Keywords
+network improvement problems  location problem  strongly polynomial algorithms  inapproximability  

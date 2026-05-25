@@ -1,0 +1,6 @@
+Convex piecewise-linear fitting
+Alessandro Magnani;Stephen P. Boyd;
+Abstract
+We consider the problem of fitting a convex piecewise-linear function, with some specified form, to given multi-dimensional data. Except for a few special cases, this problem is hard to solve exactly, so we focus on heuristic methods that find locally optimal fits. The method we describe, which is a variation on the K-means algorithm for clustering, seems to work well in practice, at least on data that can be fit well by a convex function. We focus on the simplest function form, a maximum of a fixed number of affine functions, and then show how the methods extend to a more general form.
+Keywords
+Convex optimization  Piecewise-linear approximation  Data fitting  

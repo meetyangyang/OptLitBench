@@ -1,0 +1,6 @@
+New complexity analysis of a full-Newton step feasible interior-point algorithm for \(P_*(\kappa )\)-LCP
+G. Q. Wang;X. J. Fan;D. T. Zhu;D. Z. Wang;
+Abstract
+In this paper, we consider a full-Newton step feasible interior-point algorithm for \(P_*(\kappa )\)-linear complementarity problem. The perturbed complementarity equation \(xs=\mu e\) is transformed by using a strictly increasing function, i.e., replacing \(xs=\mu e\) by \(\psi (xs)=\psi (\mu e)\) with \(\psi (t)=\sqrt{t}\), and the proposed interior-point algorithm is based on that algebraic equivalent transformation. Furthermore, we establish the currently best known iteration bound for \(P_*(\kappa )\)-linear complementarity problem, namely, \(O((1+4\kappa )\sqrt{n}\log \frac{n}{\varepsilon })\), which almost coincides with the bound derived for linear optimization, except that the iteration bound in the \(P_{*}(\kappa )\)-linear complementarity problem case is multiplied with the factor \((1+4\kappa )\).
+Keywords
+Interior-point methods  \(P_*(\kappa )\)-matrix  Linear complementarity problem  Full-Newton step  Polynomial complexity  

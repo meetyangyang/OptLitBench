@@ -1,0 +1,6 @@
+Numerical integration in statistical decision-theoretic methods for robust design optimization
+S. C. Kugele;M. W. Trosset;L. T. Watson;
+Abstract
+The Bayes principle from statistical decision theory provides a conceptual framework for quantifying uncertainties that arise in robust design optimization. The difficulty with exploiting this framework is computational, as it leads to objective and constraint functions that must be evaluated by numerical integration. Using a prototypical robust design optimization problem, this study explores the computational cost of multidimensional integration (computing expectation) and its interplay with optimization algorithms. It concludes that straightforward application of standard off-the-shelf optimization software to robust design is prohibitively expensive, necessitating adaptive strategies and the use of surrogates.
+Keywords
+Bayes principle  Robust design optimization  Multidimensional integration  

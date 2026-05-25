@@ -1,0 +1,6 @@
+Mixed-language automatic differentiation
+Valérie Pascual;Laurent Hascoët;
+Abstract
+As Automatic Differentiation (AD) usage is spreading to larger and more sophisticated applications, problems arise for codes that use several programming languages. This work describes the issues involved in interoperability between languages and focuses on the main issue which is parameter-passing. It describes the architecture of a source-transformation AD tool and the algorithms used to differentiate mixed-language codes. A language-independent internal representation enables the application of global analysis and strategies on the entire source code. Our goal is that the Tapenade AD tool differentiates codes that mix C and Fortran and generates efficient differentiated code using these strategies.
+Keywords
+Automatic Differentiation, program transformation, mixed-language, interoperability, program analysisAMS Subject Classification: 68N20, 68N99 

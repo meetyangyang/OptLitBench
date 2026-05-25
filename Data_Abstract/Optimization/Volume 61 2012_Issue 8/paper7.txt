@@ -1,0 +1,6 @@
+Solving continuous min max problem for single period portfolio selection with discrete constraints by DCA
+ Hoai An   Le Thi ; Duc   Quynh   Tran ;
+Abstract
+ In this article, we consider the application of a continuous min–max model with cardinality constraints to worst-case portfolio selection with multiple scenarios of risk, where the return forecast of each asset belongs to an interval. The problem can be formulated as minimizing a convex function under mixed integer variables with additional complementarity constraints. We first prove that the complementarity constraints can be eliminated and then use Difference of Convex functions (DC) programming and DC Algorithm (DCA), an innovative approach in non-convex programming frameworks, to solve the resulting problem. We reformulate it as a DC program and then show how to apply DCA to solve it. Numerical experiments on several test problems are reported that demonstrate the accuracy of the proposed algorithm. 
+Keywords
+DC programming, DCA, exact penalty, continuous min–max model, worst-case analysisAMS Subject Classifications:: 90C26, 90C27, 91G10, 47N10 

@@ -1,0 +1,6 @@
+MIXED INTEGER MODEL FOR RESOURCE ALLOCATION IN PROJECT MANAGEMENT
+ R. N.   RAMLOGAN ; I. C.   GOULTER ;
+Abstract
+ A mixed integer formulation has been developed for resource levelling within project scheduling. The starting point for the model is the result of a critical path analysis of the project. The project is then rescheduled by the resource levelling model within the constraints of the free float of the activities. {0-1} integer variables are used to ensure the allocation of integer resource requirements in each time period. Besides meeting the resource requirements of the activities, the model can also constrain the activities to be scheduled on consecutive days. The model itself has three global objectives (1) the overall resource levelling on the project, (2) the resource levelling of individual activities (internal levelling), and (3) the minimization of the total duration of the individual activities, i.e. to try to make each activity occur on consecutive days. These objectives are placed within the formulation in a weighted multi-objective framework. The model is demonstrated by application to an example project using the LINDO optimization package 
+Keywords
+ Construction planning, multi-objective optimization, resource levelling, scheduling, integer variables 

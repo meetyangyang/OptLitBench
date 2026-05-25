@@ -1,0 +1,6 @@
+Adaptive inexact fast augmented Lagrangian methods for constrained convex optimization
+Andrei Patrascu;Ion Necoara;Quoc Tran-Dinh;
+Abstract
+In this paper we study two inexact fast augmented Lagrangian algorithms for solving linearly constrained convex optimization problems. Our methods rely on a combination of the excessive-gap-like smoothing technique introduced in Nesterov (SIAM J Optim 16(1):235–249, 2005) and the general inexact oracle framework studied in Devolder (Math Program 146:37–75, 2014). We develop and analyze two augmented based algorithmic instances with constant and adaptive smoothness parameters, and derive a total computational complexity estimate in terms of projections on a simple primal feasible set for each algorithm. For the constant parameter algorithm we obtain the overall computational complexity of order \(\mathcal {O}(\frac{1}{\epsilon ^{5/4}})\), while for the adaptive one we obtain \(\mathcal {O}(\frac{1}{\epsilon })\) total number of projections onto the primal feasible set in order to achieve an \(\epsilon \)-optimal solution for the original problem.
+Keywords
+Inexact augmented Lagrangian  Smoothing techniques   Primal-dual fast gradient  Excessive gap  Computational complexity  

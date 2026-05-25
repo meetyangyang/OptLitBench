@@ -1,0 +1,6 @@
+An improved two-stage optimization-based framework for unequal-areas facility layout
+Miguel F. Anjos;Manuel V. C. Vieira;
+Abstract
+The unequal-areas facility layout problem is concerned with finding the optimal arrangement of a given number of non-overlapping indivisible departments with unequal area requirements within a facility. We present an improved optimization-based framework for efficiently finding competitive solutions for this problem. The framework is based on the combination of two mathematical optimization models. The first model is a nonlinear approximation of the problem that establishes the relative position of the departments within the facility, and the second model is an exact convex optimization formulation of the problem that determines the final layout. Aspect ratio constraints on the departments are taken into account by both models. Our computational results show that the proposed framework is computationally efficient and consistently produces competitive, and often improved, layouts for well-known instances from the literature as well as for new large-scale instances with up to 100 departments.
+Keywords
+Facility layout  Nonlinear optimization  

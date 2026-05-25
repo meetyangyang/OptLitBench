@@ -1,0 +1,6 @@
+Robust optimization approximation for joint chance constrained optimization problem
+Yuan Yuan;Zukui Li;Biao Huang;
+Abstract
+Chance constraint is widely used for modeling solution reliability in optimization problems with uncertainty. Due to the difficulties in checking the feasibility of the probabilistic constraint and the non-convexity of the feasible region, chance constrained problems are generally solved through approximations. Joint chance constrained problem enforces that several constraints are satisfied simultaneously and it is more complicated than individual chance constrained problem. This work investigates the tractable robust optimization approximation framework for solving the joint chance constrained problem. Various robust counterpart optimization formulations are derived based on different types of uncertainty set. To improve the quality of robust optimization approximation, a two-layer algorithm is proposed. The inner layer optimizes over the size of the uncertainty set, and the outer layer optimizes over the parameter t which is used for the indicator function upper bounding. Numerical studies demonstrate that the proposed method can lead to solutions close to the true solution of a joint chance constrained problem.
+Keywords
+Robust optimization  Joint chance constrained problem  Uncertainty set  Tractable approximation  

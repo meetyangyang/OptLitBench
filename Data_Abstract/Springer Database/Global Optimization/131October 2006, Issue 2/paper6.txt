@@ -1,0 +1,6 @@
+Stability Index Method for Global Minimization
+James Dover;Semion Gutman;
+Abstract
+The Stability Index Method (SIM) combines stochastic and deterministic algorithms to find global minima of multidimensional functions. The functions may be nonsmooth and may have multiple local minima. The method examines the change of the diameters of the minimizing sets for its stopping criterion. At first, the algorithm uses the uniform random distribution in the admissible set. Then normal random distributions of decreasing variation are used to focus on probable global minimizers. To test the method, it is applied to seven standard test functions of several variables. The computational results show that the SIM is efficient, reliable and robust.
+Keywords
+global minimization  random sample  stability index  

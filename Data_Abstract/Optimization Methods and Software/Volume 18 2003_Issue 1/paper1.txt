@@ -1,0 +1,6 @@
+A General Framework for Establishing Polynomial Convergence of Long-Step Methods for Semidefinite Programming
+ Samuel   Burer ; Renato D.C.   Monteiro ;
+Abstract
+ This article considers feasible long-step primal–dual path-following methods for semidefinite programming based on Newton directions associated with central path equations of the form Φ (PXP  T , P −T  SP −1) − νI = 0, where the map Φ and the nonsingular matrix P satisfy several key properties. An iteration-complexity bound for the long-step method is derived in terms of an upper bound on a certain scaled norm of the second derivative of Φ. As a consequence of our general framework, we derive polynomial iteration-complexity bounds for long-step algorithms based on the following four maps: , and Φ (X, S) = W 1/2 XSW −1/2, where Lx  is the lower Cholesky factor of X and W is the unique symmetric matrix satisfying S = WXW. 
+Keywords
+Semidefinite programming, Interior-point methods, Path-following methods, Long-step methods, Newton directions, Central path 

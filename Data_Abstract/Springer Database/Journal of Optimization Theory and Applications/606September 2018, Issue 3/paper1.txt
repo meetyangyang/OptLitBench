@@ -1,0 +1,6 @@
+Envelope Functions: Unifications and Further Properties
+Pontus Giselsson;Mattias Fält;
+Abstract
+Forward–backward and Douglas–Rachford splitting are methods for structured nonsmooth optimization. With the aim to use smooth optimization techniques for nonsmooth problems, the forward–backward and Douglas–Rachford envelopes where recently proposed. Under specific problem assumptions, these envelope functions have favorable smoothness and convexity properties and their stationary points coincide with the fixed-points of the underlying algorithm operators. This allows for solving such nonsmooth optimization problems by minimizing the corresponding smooth convex envelope function. In this paper, we present a general envelope function that unifies and generalizes existing ones. We provide properties of the general envelope function that sharpen corresponding known results for the special cases. We also present a new interpretation of the underlying methods as being majorization–minimization algorithms applied to their respective envelope functions.
+Keywords
+First-order methods  Envelope functions  Nonsmooth optimization  Smooth reformulations  Large-scale optimization  90C30  47J25  

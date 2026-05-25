@@ -1,0 +1,6 @@
+An Interior Point Method for Mathematical Programs with Complementarity Constraints (MPCCs)
+Arvind U.  Raghunathan and Lorenz T.  Biegler;
+Abstract
+Interior point methods for nonlinear programs (NLPs) are adapted for solution of mathematical programs with complementarity constraints (MPCCs). The constraints of the MPCC are suitably relaxed so as to guarantee a strictly feasible interior for the inequality constraints. The standard primal-dual algorithm has been adapted with a modified step calculation. The algorithm is shown to be superlinearly convergent in the neighborhood of the solution set under assumptions of MPCC-LICQ, strong stationarity and upper level strict complementarity. The modification can be easily accommodated within most nonlinear programming interior point algorithms with identical local behavior. Numerical experience is also presented and holds promise for the proposed method.
+Keywords
+MPEC, equilibrium constraints, complementarity, nonlinear programming, interior point methods, 90C30, 90C33, 90C51, 49M37, 65K10, 

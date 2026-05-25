@@ -1,0 +1,6 @@
+MIP presolve techniques for a PDE-based supply chain model
+ Agnes   Dittel ; Armin   Fügenschuh ; Simone   Göttlich ; Michael   Herty ;
+Abstract
+ We consider a mixed-integer linear program (MIP) for supply chains that has been derived in [A. Fügenschuh, S. Göttlich, M. Herty, A. Klar, and A. Martin, A discrete optimization approach to large scale supply networks based on partial differential equations, SIAM J. Sci. Comput. 30(3) (2008), pp. 1490–1507] from a continuous supply chain model based on partial differential equations (PDEs). We develop new presolve techniques where knowledge about the continuous framework is involved. For this purpose, several presolve levels are introduced and compared numerically. The presented methods reduce the size of the MIP in terms of number of variables and constraints, accelerate the solution process of the MIP when using numerical solvers, and finally assure that such solvers are able to find feasible solutions at all, where in some cases they would fail without. 
+Keywords
+supply chains, mixed-integer models, preprocessing  AMS Subject Classification : 90B10, 90C11 

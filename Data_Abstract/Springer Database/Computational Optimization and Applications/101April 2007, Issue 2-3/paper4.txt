@@ -1,0 +1,8 @@
+An interior-point approach for primal block-angular problems
+Jordi Castro;
+Abstract
+
+Multicommodity flows belong to the class of primal block-angular problems. An efficient interior-point method has already been developed for linear and quadratic network optimization problems. It solved normal equations, using sparse Cholesky factorizations for diagonal blocks, and a preconditioned conjugate gradient for linking constraints. In this work we extend this procedure, showing that the preconditioner initially developed for multicommodity flows applies to any primal block-angular problem, although its efficiency depends on each particular linking constraints structure. We discuss the conditions under which the preconditioner is effective. The procedure is implemented in a user-friendly package in the MATLAB environment. Computational results are reported for four primal block-angular problems: multicommodity flows, nonoriented multicommodity flows, minimum-distance controlled tabular adjustment for statistical data protection, and the minimum congestion problem. The results show that this procedure holds great potential for solving large primal-block angular problems efficiently.
+
+Keywords
+Interior-point methods  Structured problems  Normal equations  Preconditioned conjugate gradient  Large-scale optimization  

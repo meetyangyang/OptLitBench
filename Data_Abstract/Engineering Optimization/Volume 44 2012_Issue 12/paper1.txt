@@ -1,0 +1,6 @@
+Isolated particle swarm optimization with particle migration and global best adoption
+ Hsing-Chih   Tsai ; Yaw-Yauan   Tyan ; Yun-Wu   Wu ; Yong-Huang   Lin ;
+Abstract
+ Isolated particle swarm optimization (IPSO) segregates particles into several sub-swarms in order to improve the ability of the global optimization. In this study, particle migration and global best adoption (gbest adoption) are used to improve IPSO. Particle migration allows particles to travel among sub-swarms, based on the fitness of the sub-swarms. The use of gbest adoption allows sub-swarms to peep at the gbest proportionally or probably after a certain number of iterations, i.e. gbest replacing, and gbest sharing, respectively. Three well-known benchmark functions are utilized to determine the parameter settings of the IPSO. Then, 13 benchmark functions are used to study the performance of the designed IPSO. Computational experience demonstrates that the designed IPSO is superior to the original version of particle swarm optimization (PSO) in terms of the accuracy and stability of the results, when isolation phenomenon, particle migration and gbest sharing are involved. 
+Keywords
+particle swarm optimization, isolation, particle migration,  gbest adoption 

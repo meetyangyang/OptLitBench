@@ -1,0 +1,7 @@
+Absolute value equation solution via concave minimization
+O. L. Mangasarian;
+Abstract
+The NP-hard absolute value equation (AVE) Ax − |x| = b where \(A\in R^{n\times n}\) and
+\(b\in R^n\) is solved by a succession of linear programs. The linear programs arise from a reformulation of the AVE as the minimization of a piecewise-linear concave function on a polyhedral set and solving the latter by successive linearization. A simple MATLAB implementation of the successive linearization algorithm solved 100 consecutively generated 1,000-dimensional random instances of the AVE with only five violated equations out of a total of 100,000 equations.
+Keywords
+Absolute value equation  Concave minimization  Successive linear programming  

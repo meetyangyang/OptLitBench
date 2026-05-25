@@ -1,0 +1,6 @@
+On finding k-cliques in k-partite graphs
+M. Mirghorbani;P. Krokhmal;
+Abstract
+In this paper, a branch-and-bound algorithm for finding all cliques of size k in a k-partite graph is proposed that improves upon the method of Grunert et al. (in Comput Oper Res 29(1):13–31, 2002). The new algorithm uses bit-vectors, or bitsets, as the main data structure in bit-parallel operations. Bitsets enable a new form of data representation that improves branching and backtracking of the branch-and-bound procedure. Numerical studies on randomly generated instances of k-partite graphs demonstrate competitiveness of the developed method.
+Keywords
+Maximum clique enumeration problem  k-Partite graph  k-Clique  Bit parallelism  

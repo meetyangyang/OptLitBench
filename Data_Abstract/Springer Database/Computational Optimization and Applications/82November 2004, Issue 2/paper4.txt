@@ -1,0 +1,6 @@
+Numerical Experiments with an Interior-Exterior Point Method for Nonlinear Programming
+Igor Griva;
+Abstract
+The paper presents an algorithm for solving nonlinear programming problems. The algorithm is based on the combination of interior and exterior point methods. The latter is also known as the primal-dual nonlinear rescaling method. The paper shows that in certain cases when the interior point method (IPM) fails to achieve the solution with the high level of accuracy, the use of the exterior point method (EPM) can remedy this situation. The result is demonstrated by solving problems from COPS and CUTE problem sets using nonlinear programming solver LOQO that is modified to include the exterior point method subroutine.
+Keywords
+interior point method  exterior point method  primal-dual  nonlinear rescaling  

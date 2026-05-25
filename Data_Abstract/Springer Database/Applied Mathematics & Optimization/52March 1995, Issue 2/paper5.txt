@@ -1,0 +1,6 @@
+Generalized sentinels defined via least squares
+G. Chavent;
+Abstract
+We address the problem of monitoring a linear functional (c, x)Eof an unknown vectorx of a Hilbert spaceE, the available data being the observationz, in a Hilbert spaceF, of a vectorAx depending linearly onx through some known operatorAεℒ(E; F). WhenE=E1×E2,c=(c1 0), andA is injective and defined through the solution of a partial differential equation, Lions ([6]–[8]) introduced sentinelssεF such that (s, Ax)Fis sensitive to x1 εE1 but insensitive to x2 ε E2. In this paper we prove the existence, in the general case, of (i) a generalized sentinel (s, σ) ε ℱ ×E, where ℱ ⊃F withF dense in 80, such that for anya priori guess x0 ofx, we have 〈s, Ax〉ℱℱ + (σ, x0)E=(c, x)E, where x is the least-squares estimate ofx closest tox0, and (ii) a family of regularized sentinels (s n , σ n ) ε F×E which converge to (s, σ). Generalized sentinels unify the least-squares approach (by construction !) and the sentinel approach (whenA is injective), and provide a general framework for the construction of “sentinels with special sensitivity” in the sense of Lions [8]).
+Keywords
+Least squares  Sentinels  Optimal control  Regularization  Duality  93A30  49K27  

@@ -1,0 +1,6 @@
+Filters for Spatial Point Processes
+Sumeetpal S.  Singh, Ba-Ngu  Vo, Adrian  Baddeley, and Sergei  Zuyev;
+Abstract
+We study the general problem of estimating a “hidden” point process $\mathbf{X}$, given the realization of an “observed” point process $\mathbf{Y}$ (possibly defined in different spaces) with known joint distribution. We characterize the posterior distribution of $\mathbf{X}$ under marginal Poisson and Gauss–Poisson priors and when the transformation from $\mathbf{X}$ to $\mathbf{Y}$ includes thinning, displacement, and augmentation with extra points. These results are then applied in a filtering context when the hidden process evolves in discrete time in a Markovian fashion. The dynamics of $\mathbf{X}$ considered are general enough for many target tracking applications.
+Keywords
+PHD filter, target tracking, hidden point process inference, online filtering, Poisson point process prior, Gauss–Poisson point process, 62M30, 62L12, 60G55, 60G35, 

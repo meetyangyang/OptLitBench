@@ -1,0 +1,6 @@
+Linear programming approach to the control of discrete-time periodic systems with uncertain inputs
+F. Blanchin;W. Ukovich;
+Abstract
+The problem is considered of finding a control strategy for a linear discrete-time periodic system with state and control bounds in the presence of unknown disturbances that are only known to belong to a given compact set. This kind of problem arises in practice in resource distribution systems where the demand has typically a periodic behavior, but cannot be estimated a priori without an uncertainty margin. An infinite-horizon keeping problem is formulated, which consists in confining the state within its constraint set using the allowable control, whatever the allowed disturbances may be. To face this problem, the concepts of periodically invariant set and sequence are introduced. They are used to formulate a solution strategy that solves the keeping problem. For the case of polyhedral state, control, and disturbance constraints, a computationally feasible procedure is proposed. In particular, it is shown that periodically invariant sequences may be computed off-line, and then they may be used to synthesize on-line a control strategy. Finally, an optimization criterion for the control law is discussed.
+Keywords
+Constrained control  robust control  periodic systems  linear programming  

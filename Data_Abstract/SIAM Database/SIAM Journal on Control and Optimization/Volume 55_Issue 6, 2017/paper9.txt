@@ -1,0 +1,6 @@
+Optimal Sensor Placement: A Robust Approach
+Michael  Hintermüller, Carlos N.  Rautenberg, Masoumeh  Mohammadi, and Martin  Kanitsar;
+Abstract
+We address the problem of optimally placing sensor networks for convection-diffusion processes where the convective part is perturbed. The problem is formulated as an optimal control problem where the integral Riccati equation is a constraint and the design variables are sensor locations. The objective functional involves a term associated to the trace of the solution to the Riccati equation and a term given by a constrained optimization problem for the directional derivative of the previous quantity over a set of admissible perturbations. This paper addresses the existence of the derivative with respect to the convective part of the solution to the Riccati equation, the well-posedness of the optimization problem, and finalizes with a range of numerical tests.
+Keywords
+sensor placement, trace class operators, sensitivities, Riccati equation, 35K86, 47J20, 49J40, 49M15, 65J15, 65K10, 

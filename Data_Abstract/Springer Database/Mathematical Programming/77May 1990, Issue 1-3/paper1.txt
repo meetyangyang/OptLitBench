@@ -1,0 +1,6 @@
+Containing and shrinking ellipsoids in the path-following algorithm
+Yinyu Ye;Michael J. Todd;
+Abstract
+We describe a new potential function and a sequence of ellipsoids in the path-following algorithm for convex quadratic programming. Each ellipsoid in the sequence contains all of the optimal primal and dual slack vectors. Furthermore, the volumes of the ellipsoids shrink at the ratio\(2^{ - \Omega (\sqrt n )} \), in comparison to 2−Ω(1) in Karmarkar's algorithm and 2−Ω(1/n) in the ellipsoid method. We also show how to use these ellipsoids to identify the optimal basis in the course of the algorithm for linear programming.
+Keywords
+Linear programming  convex quadratic programming  path-following algorithm  Karmarkar's algorithm  ellipsoid method  

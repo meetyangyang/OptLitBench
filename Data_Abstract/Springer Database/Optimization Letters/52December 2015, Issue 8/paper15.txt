@@ -1,0 +1,6 @@
+A semidefinite optimization approach to the Target Visitation Problem
+P. Hungerländer;
+Abstract
+We propose an exact algorithm for the Target Visitation Problem (TVP). The (TVP) is a composition of the Linear Ordering Problem and the Traveling Salesman Problem. It has several military and non-military applications, where two important, often competing factors are the overall distance traveled (e.g. by an unmanned aerial vehicle) and the visiting sequence of the various targets or points of interest. Hence our algorithm can be used to find the optimal visiting sequence of various pre-determined targets. First we show that the (TVP) is a special Quadratic Position Problem. Building on this finding we propose an exact semidefinite optimization approach to tackle the (TVP) and finally demonstrate its efficiency on a variety of benchmark instances with up to 50 targets.
+Keywords
+Target Visitation Problem  Linear Ordering Problem   Traveling Salesman Problem  Semidefinite Programming  Global Optimization  

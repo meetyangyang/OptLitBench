@@ -1,0 +1,6 @@
+Shape sensitivity analysis using the indirect boundary element method
+O. K. Bedair;J. C. Thompson;
+Abstract
+The paper describes a novel formulation for the computation of the design sensitivities required for shape optimization problems using the indirect boundary element method. As a first stage, the system of equations that evaluate the fictitious traction sensitivities is differentiated with respect to shape design variables. The stress or displacement sensitivities are then evaluated by direct substitution of the fictitious traction sensitivities into the differentiated stress or displacement kernels. Two other finite difference-based techniques for the evaluation of the stress sensitivities, using the indirect boundary element method are also presented. The advantages and the drawbacks of each approach are discussed. These methods have been shown to be effective, accurate and can be incorporated in an existing BE code with much less programming effort than other BE-based techniques. The efficiency of the three methods is illustrated by optimizing the shape of a 90° V-notch. In all cases, convergence is achieved within three to four iterations.
+Keywords
+Sensitivity Analysis  Stress Field  Design Variable  Boundary Element Method  Computation Cost  

@@ -1,0 +1,6 @@
+The Verification and Control of Interacting Similar Discrete-Event Systems
+Kurt  Rohloff and Stéphane  Lafortune;
+Abstract
+This paper explore issues related to the control and verification of similar module systems in the discrete-event systems framework. Similar module systems are distributed systems comprised of subsystem modules that exhibit isomorphic local behavior coordinated on global event occurrences. When given a global model of these systems, it is shown how to decompose the global model into the component subsystems in polynomial time. It is also shown how to perform various verification tasks for these interacting systems while mitigating common state explosion difficulties by taking advantage of the special similar module system structure. Control properties of the similar module systems are also discussed. It is assumed that the local modules are supervised by exactly one local controller and the controllers enforce the same local control policy. Necessary and sufficient conditions for achieving local and global control specifications in this setting are identified.
+Keywords
+control, discrete-event systems, isomorphic behavior, distributed systems, 93C65, 93A14, 

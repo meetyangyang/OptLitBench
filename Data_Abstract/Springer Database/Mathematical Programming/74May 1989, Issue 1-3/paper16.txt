@@ -1,0 +1,6 @@
+A probabilistic analysis of the switching algorithm for the euclidean TSP
+Walter Kern;
+Abstract
+The well-known switching algorithm proposed by Lin and Kernighan for the Euclidean Travelling Salesman Problem has proved to be a simple efficient algorithm for medium size problems (though it often gets trapped in local optima). Although its complexity status is still open, it has been observed to be polynomially bounded in practice, when applied to uniformly distributed points in the unit square. In this paper this polynomial behaviour is derived theoretically. (However, we will come up with a bound of O(n18) with probability 1 −c/n, whereas in practice the algorithm works slightly better.)
+Keywords
+Mathematical Method  Local Optimum  Probabilistic Analysis  Medium Size  Efficient Algorithm  

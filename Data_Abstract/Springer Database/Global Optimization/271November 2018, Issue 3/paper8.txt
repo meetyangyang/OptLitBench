@@ -1,0 +1,6 @@
+Optimal channel assignment and L(p, 1)-labeling
+Junlei Zhu;Yuehua Bu;Miltiades P. Pardalos;Hongwei Du;Huijuan Wang;Bin Liu;
+Abstract
+The optimal channel assignment is an important optimization problem with applications in optical networks. This problem was formulated to the L(p, 1)-labeling of graphs by Griggs and Yeh (SIAM J Discrete Math 5:586–595, 1992). A k-L(p, 1)-labeling of a graph G is a function \(f:V(G)\rightarrow \{0,1,2,\ldots ,k\}\) such that \(|f(u)-f(v)|\ge p\) if \(d(u,v)=1\) and \(|f(u)-f(v)|\ge 1\) if \(d(u,v)=2\), where d(u, v) is the distance between the two vertices u and v in the graph. Denote \(\lambda _{p,1}^l(G)= \min \{k \mid G\) has a list k-L(p, 1)-labeling\(\}\). In this paper we show upper bounds \(\lambda _{1,1}^l(G)\le \Delta +9\) and \(\lambda _{2,1}^l(G)\le \max \{\Delta +15,29\}\) for planar graphs G without 4- and 6-cycles, where \(\Delta \) is the maximum vertex degree of G. Our proofs are constructive, which can be turned to a labeling (channel assignment) method to reach the upper bounds.
+Keywords
+Planar graph  Cycle  Labeling  

@@ -1,0 +1,6 @@
+A conjugate gradient method for the unconstrained minimization of strictly convex quadratic splines
+Wu Li;
+Abstract
+In this paper, we show that an analogue of the classical conjugate gradient method converges linearly when applied to solving the problem of unconstrained minimization of a strictly convex quadratic spline. Since a strictly convex quadratic program with simple bound constraints can be reformulated as unconstrained minimization of a strictly convex quadratic spline, the conjugate gradient method is used to solve the unconstrained reformulation and find the solution of the original quadratic program. In particular, if the solution of the original quadratic program is nondegenerate, then the conjugate gradient method finds the solution in a finite number of iterations.
+Keywords
+Unconstrained minimization of a convex quadratic spline  Quadratic programs with simple bound constraints  Conjugate gradient methods  Piecewise linear equations  Nondegenerate solutions  Linear convergence  Finite convergence  Global error estimates  

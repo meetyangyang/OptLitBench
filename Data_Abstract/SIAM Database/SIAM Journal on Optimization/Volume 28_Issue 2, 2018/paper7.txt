@@ -1,0 +1,6 @@
+LP Formulations for Polynomial Optimization Problems
+Daniel  Bienstock and Gonzalo  Mun͂oz;
+Abstract
+We present a class of linear programming approximations for polynomial optimization problems that take advantage of structured sparsity given by a graph theoretical parameter, the tree-width. We consider two schemes that use this feature to produce provably good solutions. First we study problems whose system of constraints exhibits small tree-width, and we show that for any desired tolerance there is a linear programming approximation of polynomial size. Second, we consider problems where an existing sparse network is used to define variables and constraints of a polynomial optimization problem. In important applications, in spite of the structural sparsity of the network, a direct formulation may still be dense. Nevertheless, we show how to obtain polynomial tractability of an approximation scheme in such a case as well.
+Keywords
+tree-width, polynomial optimization, linear programming, 80M50, 

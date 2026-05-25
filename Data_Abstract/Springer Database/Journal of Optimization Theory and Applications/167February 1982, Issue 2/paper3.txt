@@ -1,0 +1,6 @@
+Essentially finite algorithms for minimizing a class of convex piecewise polynomial functions
+M. D. Troutt;
+Abstract
+We consider minimax problems of the type mintε[a,b] max i p t (t), where thep i (t) are real polynomials which are convex on an interval [a, b]. Here, the function max i p i (t) is a convex piecewise polynomial function. The main result is an algorithm yielding the minimum and the minimizing point, which is efficient with respect to the necessary number of computed polynomial zeros. The algorithms presented here are applicable to decision problems with convex loss. While primarily of theoretical interest, they are implementable for quadratic loss functions with finitely many states of nature. An example of this case is given. The algorithms are finite when polynomial zeros need not be approximated.
+Keywords
+Convex minimization  piecewise polynomial functions  S-games  zero computation efficiency  

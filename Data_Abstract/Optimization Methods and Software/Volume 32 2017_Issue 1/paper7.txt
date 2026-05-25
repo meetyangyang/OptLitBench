@@ -1,0 +1,6 @@
+A penalty PALM method for sparse portfolio selection problems
+Yue Teng;Li Yang;Bo Yu;Xiaoliang Song;
+Abstract
+In this paper, we propose a penalty proximal alternating linearized minimization method for the large-scale sparse portfolio problems in which a sequence of penalty subproblems are solved by utilizing the proximal alternating linearized minimization framework and sparse projection techniques. For exploiting the structure of the problems and reducing the computation complexity, each penalty subproblem is solved by alternately solving two projection problems. The global convergence of the method to a Karush-Kuhn-Tucker point or a local minimizer of the problem can be proved under the characteristic of the problem. The computational results with practical problems demonstrate that our method can find the suboptimal solutions of the problems efficiently and is competitive with some other local solution methods.
+Keywords
+sparse portfolio selection, proximal alternating linearized minimization method,  minimization, cardinality constrained portfolio selectionAMS Subject Classification: 65K05, 90C26, 90C30, 91G10, 91G60 

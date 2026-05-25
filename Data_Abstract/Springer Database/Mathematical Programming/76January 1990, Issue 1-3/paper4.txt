@@ -1,0 +1,6 @@
+A “build-down” scheme for linear programming
+Yinyu Ye;
+Abstract
+We propose a “build-down” scheme for Karmarkar's algorithm and the simplex method for linear programming. The scheme starts with an optimal basis “candidate” setΞ including all columns of the constraint matrix, then constructs a dual ellipsoid containing all optimal dual solutions. A pricing rule is developed for checking whether or not a dual hyperplane corresponding to a column intersects the containing ellipsoid. If the dual hyperplane has no intersection with the ellipsoid, its corresponding column will not appear in any of the optimal bases, and can be eliminated fromΞ. As these methods iterate,Ξ is eventually built-down to a set that contains only the optimal basic columns.
+Keywords
+Linear programming  simplex method  ellipsoid method  Karmarkar's algorithm  primal and dual  

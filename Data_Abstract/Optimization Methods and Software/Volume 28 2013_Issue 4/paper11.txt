@@ -1,0 +1,6 @@
+Learning sparse classifiers with difference of convex functions algorithms
+ Cheng   Soon   Ong ; Le   Thi Hoai   An ;
+Abstract
+ Sparsity of a classifier is a desirable condition for high-dimensional data and large sample sizes. This paper investigates the two complementary notions of sparsity for binary classification: sparsity in the number of features and sparsity in the number of examples. Several different losses and regularizers are considered: the hinge loss and ramp loss, and ℓ2, ℓ1, approximate ℓ0, and capped ℓ1 regularization. We propose three new objective functions that further promote sparsity, the capped ℓ1 regularization with hinge loss, and the ramp loss versions of approximate ℓ0 and capped ℓ1 regularization. We derive difference of convex functions algorithms (DCA) for solving these novel non-convex objective functions. The proposed algorithms are shown to converge in a finite number of iterations to a local minimum. Using simulated data and several data sets from the University of California Irvine (UCI) machine learning repository, we empirically investigate the fraction of features and examples required by the different classifiers. 
+Keywords
+sparse features and examples, binary classification, DCA 

@@ -1,0 +1,6 @@
+Cutting angle method – a tool for constrained global optimization 
+ Gleb   Beliakov ;
+Abstract
+ Cutting angle method (CAM) is a deterministic global optimization technique applicable to Lipschitz functions f: R  n  → R. The method builds a sequence of piecewise linear lower approximations to the objective function f. The sequence of solutions to these relaxed problems converges to the global minimum of f. This article adapts CAM to the case of linear constraints on the feasible domain. We show how the relaxed problems are modified, and how the numerical efficiency of solving these problems can be preserved. A number of numerical experiments confirms the improved numerical efficiency. 
+Keywords
+Global optimization, Lipschitz optimization, Saw-tooth underestimate 

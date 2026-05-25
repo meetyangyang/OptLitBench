@@ -1,0 +1,6 @@
+Parameter Identification by Regularization for Surface Representation via the Moving Grid Approach
+Stefan  Kindermann and Andreas  Neubauer;
+Abstract
+We consider the identification ofa diffusion parameter in a second order elliptic equation in two dimensions by interior measurements. The diffusion parameter is assumed to have discontinuities. For its reconstruction we propose regularization algorithms with an adaptive grid. The grid is adapted according to a measure of the smoothness of the regularized solution. For the numerical computation we compare several iterative methods such as the minimal error method, the steepest descent method, and an inexact iteratively regularized Gauss--Newton method. The computations show that these algorithms can effectively identify the discontinuities.
+Keywords
+parameter identification, regularization via moving grids, ill-posed problems, 65J20, 

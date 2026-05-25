@@ -1,0 +1,6 @@
+An Accelerated Inexact Proximal Point Algorithm for Convex Minimization
+Bingsheng He;Xiaoming Yuan;
+Abstract
+The proximal point algorithm is classical and popular in the community of optimization. In practice, inexact proximal point algorithms which solve the involved proximal subproblems approximately subject to certain inexact criteria are truly implementable. In this paper, we first propose an inexact proximal point algorithm with a new inexact criterion for solving convex minimization, and show its O(1/k) iteration-complexity. Then we show that this inexact proximal point algorithm is eligible for being accelerated by some influential acceleration schemes proposed by Nesterov. Accordingly, an accelerated inexact proximal point algorithm with an iteration-complexity of O(1/k 2) is proposed.
+Keywords
+Convex minimization  Proximal point algorithm  Inexact  Acceleration  

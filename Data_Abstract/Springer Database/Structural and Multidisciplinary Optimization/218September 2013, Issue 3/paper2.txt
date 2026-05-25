@@ -1,0 +1,6 @@
+Toward GPU accelerated topology optimization on unstructured meshes
+Tomás Zegard;Glaucio H. Paulino;
+Abstract
+The present work investigates the feasibility of finite element methods and topology optimization for unstructured meshes in massively parallel computer architectures, more specifically on Graphics Processing Units or GPUs. Challenges in the parallel implementation, like the parallel assembly race condition, are discussed and solved with simple algorithms, in this case greedy graph coloring. The parallel implementation for every step involved in the topology optimization process is benchmarked and compared against an equivalent sequential implementation. The ultimate goal of this work is to speed up the topology optimization process by means of parallel computing using off-the-shelf hardware. Examples are compared with both a standard sequential version of the implementation and a massively parallel version to better illustrate the advantages and disadvantages of this approach.
+Keywords
+Topology optimization  Graphics processing units  Finite element method  FEM  GPU  CUDA  

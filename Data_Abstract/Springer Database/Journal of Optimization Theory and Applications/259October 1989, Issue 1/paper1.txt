@@ -1,0 +1,6 @@
+Nonlinear optimal control problems with continuous state inequality constraints
+K. L. Teo;L. S. Jennings;
+Abstract
+In this paper, we consider a class of optimal control problems involving continuous inequality state constraints. This class of optimal control problems can be solved using the technique developed in a paper by Goh and Teo, where a simple constraint transcription is used to convert continuous inequality state constraints into equivalent equality terminal state constraints. However, that constraint transcription has the disadvantage that the equality terminal state constraints so obtained do not satisfy the usual constraint qualification. Thus, convergence is not guaranteed and some oscillation may exist in numerical computation. The aim of this paper is to use a new constraint transcription together with the concept of control parametrization to devise a new computational algorithm for solving this general class of constrained optimal control problems. This new algorithm is much more stable numerically, as we have successfully overcome the above-mentioned disadvantages.
+Keywords
+Optimal control  continuous inequality state constraints  computational algorithms  control parametrization  

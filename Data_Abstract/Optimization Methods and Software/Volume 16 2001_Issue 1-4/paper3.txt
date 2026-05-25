@@ -1,0 +1,6 @@
+Solving quadratic assignment problems using convex quadratic programming relaxations
+ Kurt M.   Anstreicher ; Nathan W.   Brixius ;
+Abstract
+ We describe a branch-and-bound algorithm for the quadratic assignment problem (QAP) that uses a convex quadratic programming (QP) relaxation to obtain a bound at each node. The QP subproblems are approximately solved using the Frank-Wolfe algorithm, which in this case requires the solution of a linear assignment problem on each iteration. Our branching strategy makes extensive use of dual information associated with the QP subproblems. We obtain state-of-the-art computational results on large benchmark QAPs  
+Keywords
+Quadratic assignment problem, Branch-and-bound, Quadratic programming, Frank-Wolfe algorithm 

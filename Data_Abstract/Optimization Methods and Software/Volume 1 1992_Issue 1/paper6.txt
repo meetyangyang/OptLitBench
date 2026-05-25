@@ -1,0 +1,6 @@
+Implementation of interior-point algorithms for some entropy optimization problems
+ Chi-Guen   Han ; Panos M.   Pardalos ; Yinyu   Ye*  ;
+Abstract
+ In this paper we discuss computational and implementation aspects of the potential reduction interior-point algorithm [17] Potra, F. and Ye, Y. 1990. An interior-point algorithm for solving entropy optimization problems with globally linear and locally quadratic convergence rate. Working Paper No. 90-22, Iowa: College of Business Administration, The University of Iowa.  To appear in SIAM J. on Optimization [Google Scholar] for solving entropy optimization problems arisen in practical applications. The algorithm generates an ε-optimal solution within the number of iterations bounded by  where ε is the error tolerance, n is the number of nonnegative variables, and each iteration solves a system of linear equations. Preliminary computational results obtained from solving several image reconstruction problems are presented. 
+Keywords
+ 

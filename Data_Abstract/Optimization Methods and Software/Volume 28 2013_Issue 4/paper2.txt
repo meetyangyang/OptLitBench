@@ -1,0 +1,6 @@
+A discrete dynamic convexized method for VLSI circuit partitioning
+ Jiarui   Chen ; Wenxing   Zhu ;
+Abstract
+ In this paper, we consider the circuit partitioning problem, which is a fundamental problem in computer-aided design of very large-scale-integrated circuits. We formulate the problem as an equivalent constrained integer programming problem by constructing an auxiliary function. A global search method, entitled the dynamic convexized method, is developed for the integer programming problem. We modify the Fiduccia–Mattheyses (FM) algorithm, which is a fundamental partitioning algorithm for the circuit partitioning problem, to minimize the auxiliary function. We show both computationally and theoretically that our method can escape successfully from previous discrete local minimizers by taking increasing values of a parameter. Experimental results on ACM/SIGDA and ISPD98 benchmarks show up to 58% improvements over the well-known FM algorithm in terms of the best cutsize. Furthermore, we integrate the algorithm with the state-of-the-art practical multilevel partitioner MLPart. Experiments on the same set of benchmarks show that the solutions obtained in this way has 3–7% improvements over that of the MLPart. 
+Keywords
+hypergraph, dynamic convexized method, circuit partitioning 

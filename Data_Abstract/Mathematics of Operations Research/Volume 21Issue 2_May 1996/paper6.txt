@@ -1,0 +1,6 @@
+A Superlinearly Convergent Infeasible-Interior-Point Algorithm for Geometrical LCPs Without a Strictly Complementary Condition
+Shinji Mizuno;
+Abstract
+Some interior-point algorithms have superlinear convergence. When solving an LCP (linear complementarity problem), superlinear convergence had been achieved under the assumption that a strictly complementary solution exists, whether starting from a feasible or an infeasible interior point. In this paper, we propose an algorithm for solving monotone geometrical LCPs, and we prove its superlinear convergence without the strictly complementary condition. The algorithm can start from an infeasible interior point and has globally linear convergence. When we use a big initial point or an almost feasible initial point, the algorithm has polynomial time convergence.
+Keywords
+linear complementarity problem interior-point algorithm superlinear convergence strict complementarity 

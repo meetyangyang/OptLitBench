@@ -1,0 +1,6 @@
+Dynamic Programming Algorithms for Generating Optimal Strip Layouts
+Yaodong Cui;Ling Huang;
+Abstract
+This paper presents dynamic programming algorithms for generating optimal strip layouts of equal blanks processed by shearing and punching. The shearing and punching process includes two stages. The sheet is cut into strips using orthogonal guillotine cuts at the first stage. The blanks are punched from the strips at the second stage. The algorithms are applicable in solving the unconstrained problem where the blank demand is unconstrained, the constrained problem where the demand is exact, the unconstrained problem with blade length constraint, and the constrained problem with blade length constraint. When the sheet length is longer than the blade length of the guillotine shear used, the dynamic programming algorithm is applied to generate optimal layouts on segments of lengths not longer than the blade length, and the knapsack algorithm is employed to find the optimal layout of the segments on the sheet. Experimental computations show that the algorithms are efficient.
+Keywords
+two-dimensional cutting  strip layout  guillotine cuts  CAD  

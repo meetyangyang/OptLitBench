@@ -1,0 +1,6 @@
+An Interior-Point Algorithm for Linearly Constrained Optimization
+Stephen J.  Wright;
+Abstract
+This paper describes an algorithm for optimization of a smooth function subject to general linear constraints. An algorithm of the gradient projection class is used, with the important feature that the “projection” at each iteration is performed by using a primal–dual interior-point method for convex quadratic programming. Convergence properties can be maintained even if the projection is done inexactly in a well-defined way. Higher-order derivative information on the manifold defined by the apparently active constraints can be used to increase the rate of local convergence.
+Keywords
+potential reduction algorithm, gradient projection algorithm, linearly constrained optimization, 65K10, 90C30, 

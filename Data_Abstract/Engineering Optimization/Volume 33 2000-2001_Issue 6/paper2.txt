@@ -1,0 +1,6 @@
+DOMAIN APPROXIMATION AND DETERMINISTIC PROGRESSION IN GENETIC CROSSOVER
+ KURT S.   ANDERSON ; YuHUNG   HSU ;
+Abstract
+ The fitness difference between two strings is usually neglected by most Genetic Algorithm crossover operators. The neglect of this useful information often results in the less efficient propagation of search trials toward fitness improved regions, and leads to a general increase in the number of function evaluations required to converge to a solution. An alternative crossover strategy is presented in this paper which considers this information, often significantly accelerating and enhancing the search process. The presented strategy involves components of solution domain approximation and the deterministic estimation of the “optimal” genetic composition for progeny. The implementation of this crossover scheme has empirically demonstrated its effectiveness in significantly reducing the required number of function evaluations, and improving solution quality compared with some conventional crossover strategies 
+Keywords
+Approximation, Design optimization, Domain, Genetic crossover, Genetic Algorithms 

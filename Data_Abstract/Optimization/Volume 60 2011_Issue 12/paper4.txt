@@ -1,0 +1,6 @@
+A modified Polak–Ribière–Polyak conjugate gradient algorithm for unconstrained optimization
+ Neculai   Andrei ;
+Abstract
+ A modified Polak–Ribière–Polyak conjugate gradient algorithm which satisfies both the sufficient descent condition and the conjugacy condition is presented. These properties are independent of the line search. The algorithms use the standard Wolfe line search. Under standard assumptions, we show the global convergence of the algorithm. Numerical comparisons with conjugate gradient algorithms using a set of 750 unconstrained optimization problems, some of them from the CUTE library, show that this computational scheme outperforms the known Polak–Ribière–Polyak algorithm, as well as some other unconstrained optimization algorithms. 
+Keywords
+unconstrained optimization, Polak–Ribière–Polyak conjugate gradient method, sufficient descent condition, conjugacy condition, numerical comparisons 

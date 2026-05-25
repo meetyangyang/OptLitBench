@@ -1,0 +1,6 @@
+A Hypergraph Framework for Optimal Model-Based Decomposition of Design Problems
+Nestor F. Michelena;Panos Y. Papalambros;
+Abstract
+Decomposition of large engineering system models is desirable sinceincreased model size reduces reliability and speed of numericalsolution algorithms. The article presents a methodology for optimalmodel-based decomposition (OMBD) of design problems, whether or notinitially cast as optimization problems. The overall model isrepresented by a hypergraph and is optimally partitioned into weaklyconnected subgraphs that satisfy decomposition constraints. Spectralgraph-partitioning methods together with iterative improvementtechniques are proposed for hypergraph partitioning. A known spectralK-partitioning formulation, which accounts for partition sizes andedge weights, is extended to graphs with also vertex weights. TheOMBD formulation is robust enough to account for computationaldemands and resources and strength of interdependencies between thecomputational modules contained in the model.
+Keywords
+model decomposition  multidisciplinary design  hypergraph partitioning  large-scale design  decomposition  

@@ -1,0 +1,6 @@
+Distributed Asynchronous Relaxation Methods for Convex Network Flow Problems
+Dimitri P.  Bertsekas and Didier  El Baz;
+Abstract
+We consider the solution of the single commodity strictly convex network flow problem in a distributed asynchronous computation environment. The dual of this problem is unconstrained, differentiable, and well suited for solution via Gauss–Seidel relaxation. We show that the structure of the dual allows the successful application of a distributed asynchronous method whereby relaxation iterations are carried out in parallel by several processors in arbitrary order and with arbitrarily large interprocessor communication delays.
+Keywords
+parallel computation, distributed algorithms, network flows, asynchronous relaxation, coordinate descent, 

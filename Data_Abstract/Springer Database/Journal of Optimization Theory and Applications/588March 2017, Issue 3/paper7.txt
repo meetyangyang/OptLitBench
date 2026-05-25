@@ -1,0 +1,6 @@
+Approximate Euclidean Steiner Trees
+Charl Ras;Konrad Swanepoel;Doreen Anne Thomas;
+Abstract
+An approximate Steiner tree is a Steiner tree on a given set of terminals in Euclidean space such that the angles at the Steiner points are within a specified error from \(120^{\circ }\). This notion arises in numerical approximations of minimum Steiner trees. We investigate the worst-case relative error of the length of an approximate Steiner tree compared to the shortest tree with the same topology. It has been conjectured that this relative error is at most linear in the maximum error at the angles, independent of the number of terminals. We verify this conjecture for the two-dimensional case as long as the maximum angle error is sufficiently small in terms of the number of terminals. In the two-dimensional case we derive a lower bound for the relative error in length. This bound is linear in terms of the maximum angle error when the angle error is sufficiently small in terms of the number of terminals. We find improved estimates of the relative error in length for larger values of the maximum angle error and calculate exact values in the plane for three and four terminals.
+Keywords
+Approximate Steiner tree  Euclidean Steiner problem  Shortest networks  Approximation  90C35  05C05  90B10  

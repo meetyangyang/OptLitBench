@@ -1,0 +1,6 @@
+Asymptotic Efficiency of Perturbation-Analysis-Based Stochastic Approximation with Averaging
+Qian-Yu  Tang, Pierre  L'Ecuyer, and Han-Fu  Chen;
+Abstract
+Central limit theorems are obtained for the perturbation analysis Robbins--Monro single run (PARMSR) algorithm updated either after every regenerative cycle or after every fixed-length observation period, and with averaging of the iterates, for one-dependent regenerative processes. When the convergence to the optimizer is expressed in terms of the total observation time of the system (or the total computing budget in the case of a simulation), the convergence rate and the limit covariance matrix turn out to be the same for all updating schemes and are optimal within the class of stochastic approximation-algorithms under certain assumptions. A bound on the strong convergence rate of the usual PARMSR algorithm updated after every fixed-length observation period is established using a limit theorem on double array martingales. This is the key step for obtaining central limit theorems for the algorithms with averaging and has interest in its own right.
+Keywords
+perturbation analysis, asymptotic efficiency, central limit theorems, stochastic approximation, recursive estimation, queueing theory, 62L20, 93E12, 93E23, 93E30, 60F05, 60K25, 

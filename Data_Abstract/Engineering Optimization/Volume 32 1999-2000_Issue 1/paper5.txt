@@ -1,0 +1,6 @@
+LAYOUT OF FACILITIES USING AN ANT SYSTEM APPROACH
+ J. A.   BLAND ;
+Abstract
+ In this paper the layout of facilities is investigated using a heuristic combinatorial optimization technique called the ant system algorithm. The algorithm was inspired by the collective performance of ants whose structured behaviour as a colony has been modelled and adapted for use in a problem solving context. The particular implementation presented in this paper includes tabu search (TS) as a local search component within the ant system (AS) algorithm to produce an enhanced algorithm denoted by AS(TS). Application of AS(TS) to some large-scale layout problems has shown that global optima and a best found (i.e., lowest to date) layout cost may be obtained. The study also reveals that layout costs obtained using an ant system approach are not only improved by the use of a local search technique but that the amount of improvement is dependent on the actual technique employed. It is concluded that the ant system approach is a useful and viable optimization technique for solving large-scale facilities layout problems, although, like other recent heuristic techniques (e.g., genetic algorithm) it uses a large amount of computer time. 
+Keywords
+Facilities layout; combinatorial optimization; ant system; heuristics 

@@ -1,0 +1,6 @@
+Global optimization of non-convex piecewise linear regression splines
+Nadia Martinez;Hadis Anahideh;Jay M. Rosenberger;Diana Martinez;Victoria C. P. Chen;Bo Ping Wang;
+Abstract
+Multivariate adaptive regression spline (MARS) is a statistical modeling method used to represent a complex system. More recently, a version of MARS was modified to be piecewise linear. This paper presents a mixed integer linear program, called MARSOPT, that optimizes a non-convex piecewise linear MARS model subject to constraints that include both linear regression models and piecewise linear MARS models. MARSOPT is customized for an automotive crash safety system design problem for a major US automaker and solved using branch and bound. The solutions from MARSOPT are compared with those from customized genetic algorithms.
+Keywords
+Global optimization  Branch and bound  Surrogate methods  Multivariate adaptive regression splines  Crashworthiness  Genetic algorithms  

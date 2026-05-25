@@ -1,0 +1,6 @@
+A modified Benders decomposition method for efficient robust optimization under interval uncertainty
+Sauleh Siddiqui;Shapour Azarm;Steven Gabriel;
+Abstract
+The goal of robust optimization problems is to find an optimal solution that is minimally sensitive to uncertain factors. Uncertain factors can include inputs to the problem such as parameters, decision variables, or both. Given any combination of possible uncertain factors, a solution is said to be robust if it is feasible and the variation in its objective function value is acceptable within a given user-specified range. Previous approaches for general nonlinear robust optimization problems under interval uncertainty involve nested optimization and are not computationally tractable. The overall objective in this paper is to develop an efficient robust optimization method that is scalable and does not contain nested optimization. The proposed method is applied to a variety of numerical and engineering examples to test its applicability. Current results show that the approach is able to numerically obtain a locally optimal robust solution to problems with quasi-convex constraints (≤ type) and an approximate locally optimal robust solution to general nonlinear optimization problems.
+Keywords
+Robust optimization  Nonlinear optimization  Benders decomposition  Interval uncertainty  Quasi-convex function  

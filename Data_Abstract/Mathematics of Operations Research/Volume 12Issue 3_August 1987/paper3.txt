@@ -1,0 +1,6 @@
+Minkowski's Convex Body Theorem and Integer Programming
+Ravi Kannan;
+Abstract
+The paper presents an algorithm for solving Integer Programming problems whose running time depends on the number n of variables as nO(n). This is done by reducing an n variable problem to (2n)5i/2 problems in n − i variables for some i greater than zero chosen by the algorithm. The factor of O(n5/2) “per variable” improves the best previously known factor which is exponential in n. Minkowski's Convex Body theorem and other results from Geometry of Numbers play a crucial role in the algorithm. Several related algorithms for lattice problems are presented. The complexity of these problems with respect to polynomial-time reducibilities is studied.
+Keywords
+integer programming computational complexity geometry of numbers lattice problems 

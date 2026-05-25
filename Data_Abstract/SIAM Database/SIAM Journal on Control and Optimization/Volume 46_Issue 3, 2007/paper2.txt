@@ -1,0 +1,6 @@
+Inexact Central Path Following Algorithms for Optimal Control Problems
+Martin  Weiser and Peter  Deuflhard;
+Abstract
+A new approach to the numerical solution of optimal control problems including control and state constraints is presented. Like hybrid methods, the approach aims at combining the advantages of direct and indirect methods. Unlike hybrid methods, however, our method is directly based on interior point concepts in function space—realized via an adaptive multilevel scheme applied to the complementarity formulation and numerical continuation along the central path. An adaptive stepsize control with respect to the duality gap parameter is worked out in the framework of affine invariant inexact Newton methods. Finally, the performance of our new type of algorithm is documented by a simple example within the range of our present theory, and by the successful treatment of the well-known intricate windshear problem outside this range.
+Keywords
+numerical optimal control, interior point methods in function space, affine invariant Newton methods, 65K10, 49M15, 90C48, 90C51, 

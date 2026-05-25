@@ -1,0 +1,6 @@
+Implementing proximal point methods for linear programming
+S. J. Wright;
+Abstract
+We describe the application of proximal point methods to the linear programming problem. Two basic methods are discussed. The first, which has been investigated by Mangasarian and others, is essentially the well-known method of multipliers. This approach gives rise at each iteration to a weakly convex quadratic program which may be solved inexactly using a point-SOR technique. The second approach is based on the proximal method of multipliers, originally proposed by Rockafellar, for which the quadratic program at each iteration is strongly convex. A number of techniques are used to solve this subproblem, the most promising of which appears to be a two-metric gradient-projection approach. Convergence results are given, and some numerical experience is reported.
+Keywords
+Linear programming  method of multipliers  convex quadratic programming  

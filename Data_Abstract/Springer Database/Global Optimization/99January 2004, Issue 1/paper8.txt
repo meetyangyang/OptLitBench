@@ -1,0 +1,6 @@
+A Rigorous Lower Bound for the Optimal Value of Convex Optimization Problems
+Christian Jansson;
+Abstract
+In this paper, we consider the computation of a rigorous lower error bound for the optimal value of convex optimization problems. A discussion of large-scale problems, degenerate problems, and quadratic programming problems is included. It is allowed that parameters, whichdefine the convex constraints and the convex objective functions, may be uncertain and may vary between given lower and upper bounds. The error bound is verified for the family of convex optimization problems which correspond to these uncertainties. It can be used to perform a rigorous sensitivity analysis in convex programming, provided the width of the uncertainties is not too large. Branch and bound algorithms can be made reliable by using such rigorous lower bounds.
+Keywords
+Convex programming  Convex relaxations  Global optimization  Interval arithmetic  Large-scale problems  Quadratic programming  Rigorous error bounds  Sensitivity analysis  

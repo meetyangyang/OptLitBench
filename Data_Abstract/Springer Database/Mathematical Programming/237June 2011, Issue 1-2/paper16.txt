@@ -1,0 +1,6 @@
+Branching on general disjunctions
+Miroslav Karamanov;Gérard Cornuéjols;
+Abstract
+This paper considers a modification of the branch-and-cut algorithm for Mixed Integer Linear Programming where branching is performed on general disjunctions rather than on variables. We select promising branching disjunctions based on a heuristic measure of disjunction quality. This measure exploits the relation between branching disjunctions and intersection cuts. In this work, we focus on disjunctions defining the mixed integer Gomory cuts at an optimal basis of the linear programming relaxation. The procedure is tested on instances from the literature. Experiments show that, for a majority of the instances, the enumeration tree obtained by branching on these general disjunctions has a smaller size than the tree obtained by branching on variables, even when variable branching is performed using full strong branching.
+Keywords
+Branch and bound  Branch and cut  Branching  Split disjunctions  90C10  

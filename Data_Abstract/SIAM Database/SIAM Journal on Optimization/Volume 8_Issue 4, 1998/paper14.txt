@@ -1,0 +1,6 @@
+A Nonlinear Analytic Center Cutting Plane Method for a Class of Convex Programming Problems
+F. Sharifi  Mokhtarian and J. L.  Goffin;
+Abstract
+A cutting plane algorithm for minimizing a convex function subject to constraints defined by a separation oracle is presented. The algorithm is based on approximate analytic centers. The nonlinearity of the objective function is taken into account, yet the feasible region is approximated by a containing polytope. This containing polytope is regularly updated by adding a new cut through a test point. Each test point is an approximate analytic center of the intersection of a containing polytope and a level set of the nonlinear objective function. We establish the complexity of the algorithm. Our complexity estimate is given in terms of the problem dimension, the desired accuracy of an approximate solution, and other parameters that depend on the geometry of a specific instance of the problem.
+Keywords
+convex programming, interior-point methods, analytic center, cutting planes, potential function, self-concordance, 90C06, 90C25, 

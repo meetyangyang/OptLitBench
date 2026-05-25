@@ -1,0 +1,6 @@
+Efficient global sensitivity analysis with correlated variables
+Erin C. DeCarlo;Sankaran Mahadevan;Benjamin P. Smarslok;
+Abstract
+Existing methods for the computation of global sensitivity indices are challenged by both number of input-output samples required and the presence of dependent or correlated variables. First, a methodology is developed to increase the efficiency of sensitivity computations with independent variables by incorporating optimal space-filling quasi-random sequences into an existing importance sampling-based kernel regression sensitivity method. Two prominent situations where parameter correlations cannot be ignored, however, are (1) posterior distributions of calibrated parameters and (2) transient, coupled simulations. Therefore, the sensitivity methodology is generalized to dependent variables allowing for efficient post-calibration sensitivity analyses using input-output samples obtained directly from Bayesian calibration. These methods are illustrated using coupled, aerothermal simulations where it is observed that model errors and parameter correlations control the sensitivity estimates until coupling effects become dominant over time.
+Keywords
+Global sensitivity analysis  Correlated parameters  Sobol’ indices  Bayesian calibration  Importance sampling  Kernel regression  

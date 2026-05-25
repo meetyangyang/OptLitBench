@@ -1,0 +1,6 @@
+Computational experience with known variable metric updates
+L. Lukšan;
+Abstract
+Variable metric methods from the Broyden family are well known and commonly used for unconstrained minimization. These methods have good theoretical and practical convergence properties which depend on a selection of free parameters. We demonstrate, using extensive computational experiments, the influence of both the Biggs stabilization parameter and Oren scaling parameter on 12 individual variable metric updates, two of which are new. This paper focuses on a class of variable metric updates belonging to the so-called preconvex part of the Broyden family. These methods outperform the more familiar BFGS method. We also experimentally demonstrate the efficiency of the controlled scaling strategy for problems of sufficient size and sparsity.
+Keywords
+Quasi-Newton updates  Broyden family  variable metric methods  unconstrained optimization  nonlinear programming  

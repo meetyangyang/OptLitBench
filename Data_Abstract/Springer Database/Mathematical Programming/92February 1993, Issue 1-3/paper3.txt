@@ -1,0 +1,6 @@
+Load balancing in the parallel optimization of block-angular linear programs
+S. Kingsley Gnanendran;James K. Ho;
+Abstract
+Decomposition algorithms for block-angular linear programs give rise to a natural, coarse-grained parallelism that can be exploited by processing the subproblems concurrently within a distributed-memory environment. The parallel efficiency of the distributed approach, however, is critically dependent on the duration of the inherently serial master phase relative to that of the bottleneck subproblem. This paper investigates strategies for improving efficiency in distributed Dantzig—Wolfe decomposition by better balancing the load between the master and subproblem processors. We report computational experience on an Intel iPSC/2 hypercube multiprocessor with test problems having dimensions up to about 30 000 rows, 87 000 columns, and 200 coupling constraints.
+Keywords
+Linear programming  Dantzig—Wolfe decomposition  large-scale systems  parallel processing  hypercube architecture  

@@ -1,0 +1,6 @@
+A comparison of rescheduling policies for online flow shops to minimize tardiness
+Henri Tokola;Lauri Ahlroth;Esko Niemi;
+Abstract
+In practical situations, flow shops usually have some policies on rescheduling previously scheduled jobs. This article compares three of these rescheduling policies: an unrestricted one where previously scheduled jobs can be moved freely, one where jobs can only be moved forward in the schedule, and one where jobs that have already been scheduled cannot be moved at all. The comparison is performed by considering the minimization of tardiness. While unrestricted rescheduling should generally give the best solution, moving jobs only forward can be more practical as in general production, material orders can be delayed but seldom advanced. This article points out that moving jobs only forward is not significantly worse than the unrestricted scheduling. When cases with small numbers of jobs and machines are analysed both policies give similar tardiness. Numerical experiments show that the differences between these two rescheduling policies are rather small in larger problems as well.
+Keywords
+flow shop, scheduling, rescheduling, tardiness 

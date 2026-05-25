@@ -1,0 +1,6 @@
+An Incremental Method for Solving Convex Finite Min-Max Problems
+Manlio Gaudioso;Giovanni Giallombardo;Giovanna Miglionico;
+Abstract
+We introduce a new approach to minimizing a function defined as the pointwise maximum over finitely many convex real functions (next referred to as the “component functions”), with the aim of working on the basis of “incomplete knowledge” of the objective function. A descent algorithm is proposed, which need not require at the current point the evaluation of the actual value of the objective function, namely, of all the component functions, thus extending to min-max problems the philosophy of the incremental approaches, widely adopted in the nonlinear least squares literature. Given the nonsmooth nature of the problem, we resort to the well-established machinery of “bundle methods.” We provide global convergence analysis of our method, and in addition, we study a subgradient aggregation scheme aimed at simplifying the problem of finding a tentative step. This paper is completed by the numerical results obtained on a set of standard test problems.
+Keywords
+unconstrained optimization incremental methods online algorithms convex minimization finite min-max cutting planes nonsmooth optimization bundle methods 

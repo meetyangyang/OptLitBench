@@ -1,0 +1,6 @@
+The 2-Coordinate Descent Method for Solving Double-Sided Simplex Constrained Minimization Problems
+Amir Beck;
+Abstract
+This paper considers the problem of minimizing a continuously differentiable function with a Lipschitz continuous gradient subject to a single linear equality constraint and additional bound constraints on the decision variables. We introduce and analyze several variants of a 2-coordinate descent method: a block descent method that performs an optimization step with respect to only two variables at each iteration. Based on two new optimality measures, we establish convergence to stationarity points for general nonconvex objective functions. In the convex case, when all the variables are lower bounded but not upper bounded, we show that the sequence of function values converges at a sublinear rate. Several illustrative numerical examples demonstrate the effectiveness of the method.
+Keywords
+Nonconvex optimization  Simplex-type constraints  Block descent method  Rate of convergence  

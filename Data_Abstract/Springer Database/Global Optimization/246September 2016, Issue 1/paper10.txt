@@ -1,0 +1,6 @@
+An implementation of exact knapsack separation
+Igor Vasilyev;Maurizio Boccia;Saïd Hanafi;
+Abstract
+Cutting planes have been used with great success for solving mixed integer programs. In recent decades, many contributions have led to successive improvements in branch-and-cut methods which incorporate cutting planes in branch and bound algorithm. Using advances that have taken place over the years on 0–1 knapsack problem, we investigate an efficient approach for 0–1 programs with knapsack constraints as local structure. Our approach is based on an efficient implementation of knapsack separation problem which consists of the four phases: preprocessing, row generation, controlling numerical errors and sequential lifting. This approach can be used independently to improve formulations with cutting planes generated or incorporated in branch and cut to solve a problem. We show that this approach allows us to efficiently solve large-scale instances of generalized assignment problem, multilevel generalized assignment problem, capacitated \(p\)-median problem and capacitated network location problem to optimality.
+Keywords
+Knapsack problem  Cutting plane  Exact separation   Generalized assignment problem  Multilevel generalized assignment problem  Capacitated \(p\)-median problem  Capacitated network location problem  

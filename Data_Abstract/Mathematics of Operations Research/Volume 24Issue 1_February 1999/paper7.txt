@@ -1,0 +1,6 @@
+Minimum-Aggregate-Concave-Cost Multicommodity Flows in Strong-Series-Parallel Networks
+Julie A. Ward;
+Abstract
+This work develops a polynomial-time dynamic-programming algorithm for minimum-aggregate-concave-cost multicommodity flow problems in strong-series-parallel networks. Many important problems from production and inventory management, capacity planning, network design and transportation can be formulated in these terms. Our results include a characterization of extreme flows in strong-series-parallel networks and an algorithm based on this characterization that searches extreme flows efficiently to find an optimal one. The algorithm runs in time proportional to A(N + K), where A, N and K are respectively the numbers of arcs, nodes and commodities in the network, and appears to be the first to solve the problem in polynomial time. When applied to the dynamic economic-order-quantity problem, the algorithm matches the performance of that of Wagner and Whitin (1958). Moreover, our algorithm has broader applications, including the multi-division capacity expansion problem and the generalization of the dynamic economic-order-quantity problem to series-parallel production processes in which subassemblies are assembled into a finished product.
+Keywords
+Dynamic programming network flows series-parallel multicommodity flows 

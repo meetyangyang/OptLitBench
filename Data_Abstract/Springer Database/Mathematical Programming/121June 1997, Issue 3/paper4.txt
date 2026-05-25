@@ -1,0 +1,6 @@
+Non-monotone trust-region algorithms for nonlinear optimization subject to convex constraints
+Philippe L. Toint;
+Abstract
+This paper presents two new trust-region methods for solving nonlinear optimization problems over convex feasible domains. These methods are distinguished by the fact that they do not enforce strict monotonicity of the objective function values at successive iterates. The algorithms are proved to be convergent to critical points of the problem from any starting point. Extensive numerical experiments show that this approach is competitive with the LANCELOT package.
+Keywords
+Non-monotone algorithms  Trust regions  Convex constraints  

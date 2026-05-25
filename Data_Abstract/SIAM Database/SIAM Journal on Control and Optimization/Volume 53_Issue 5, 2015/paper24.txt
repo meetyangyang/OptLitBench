@@ -1,0 +1,6 @@
+Kernels for Linear Time Invariant System Identification
+Francesco  Dinuzzo;
+Abstract
+In this paper, we study the problem of identifying the impulse response of a linear time invariant (LTI) dynamical system from the knowledge of the input signal and a finite set of noisy output observations. We adopt an approach based on regularization in a reproducing kernel Hilbert space (RKHS) that takes into account both continuous- and discrete-time systems. The focus of the paper is on designing spaces that are well suited for temporal impulse response modeling. To this end, we construct and characterize general families of kernels that incorporate system properties such as stability, relative degree, absence of oscillatory behavior, smoothness, or delay. In addition, we discuss the possibility of automatically searching over these classes by means of kernel learning techniques, so as to capture different modes of the system to be identified.
+Keywords
+system identification, regularization, reproducing kernel Hilbert spaces, 93B30, 47A52, 46E22, 

@@ -1,0 +1,6 @@
+A parallel descent algorithm for convex programming
+Masao Fukushima;Mounir Haddou;Hien Van Nguyen;Jean-Jacques Strodiot;Takanobu Sugimoto;Eiki Yamakawa;
+Abstract
+In this paper, we propose a parallel decomposition algorithm for solving a class of convex optimization problems, which is broad enough to contain ordinary convex programming problems with a strongly convex objective function. The algorithm is a variant of the trust region method applied to the Fenchel dual of the given problem. We prove global convergence of the algorithm and report some computational experience with the proposed algorithm on the Connection Machine Model CM-5.
+Keywords
+decomposition  parallel algorithm  descent method  convex programming  trust region method  

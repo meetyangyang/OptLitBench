@@ -1,0 +1,8 @@
+New Branch-and-Cut Algorithm for Bilevel Linear Programming
+C. Audet;G. Savard;W. Zghal;
+Abstract
+
+Linear mixed 0–1 integer programming problems may be reformulated as equivalent continuous bilevel linear programming (BLP) problems. We exploit these equivalences to transpose the concept of mixed 0–1 Gomory cuts to BLP. The first phase of our new algorithm generates Gomory-like cuts. The second phase consists of a branch-and-bound procedure to ensure finite termination with a global optimal solution. Different features of the algorithm, in particular, the cut selection and branching criteria are studied in details. We propose also a set of algorithmic tests and procedures to improve the method. Finally, we illustrate the performance through numerical experiments. Our algorithm outperforms pure branch-and-bound when tested on a series of randomly generated problems.
+
+Keywords
+Bilevel linear programming  Gomory cuts  Linear mixed 0–1 integer programming  Branch-and-cut algorithms  

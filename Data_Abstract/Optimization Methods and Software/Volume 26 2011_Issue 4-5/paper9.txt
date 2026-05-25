@@ -1,0 +1,6 @@
+A balanced truncation-based strategy for optimal control of evolution problems
+ Juan   Carlos   De Los Reyes ; Tatjana   Stykel ;
+Abstract
+ In this paper, we present a balanced truncation based strategy for the numerical solution of optimal control problems governed by nonlinear evolution partial differential equations. The idea consists in utilizing a balanced truncation model reduction method for the efficient solution of the semi-discretized adjoint system, while the nonlinear state equations are fully solved. Our strategy is analysed as a descent method in function spaces and global convergence results are presented. In combination with a Broyden–Fletcher–Goldfarb–Shanno update also superlinear convergence is verified. Numerical examples are given to illustrate the behaviour of the proposed method for different problems. 
+Keywords
+cs Subject Classification : 49J15, 49J20, 49M05, 65K05, 93C15Keywords: optimal control, adjoint equation, model reduction, balanced truncation 

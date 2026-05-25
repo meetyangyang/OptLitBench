@@ -1,0 +1,6 @@
+Scalar Correction Method for Solving Large Scale Unconstrained Minimization Problems
+Marko Miladinović;Predrag Stanimirović;Sladjana Miljković;
+Abstract
+We introduce a gradient descent algorithm for solving large scale unconstrained nonlinear optimization problems. The computation of the initial trial steplength is based on the usage of both the quasi-Newton property and the Hessian inverse approximation by an appropriate scalar matrix. The nonmonotone line search technique for the steplength calculation is applied later. The computational and storage complexity of the new method is equal to the computational and storage complexity of the Barzilai and Borwein method. On the other hand, the reported numerical results indicate improvements in favor of the new method with respect to the well known global Barzilai and Borwein method.
+Keywords
+Nonlinear programming  Nonmonotone line search  BB method  Quasi-Newton methods  Gradient descent methods  Convergence rate  

@@ -1,0 +1,6 @@
+Periodicity in optimal hierarchical checkpointing schemes for adjoint computations
+Guillaume Aupy;Julien Herrmann;
+Abstract
+We reexamine the work of Aupy et al. on optimal algorithms for hierarchical adjoint computations, where two levels of memories are available. The previous optimal algorithm had a quadratic execution time. Here, with structural arguments, namely periodicity, on the optimal solution, we provide an optimal algorithm in constant time and space, with appropriate pre-processing. We also provide an asymptotically optimal algorithm for the online problem, when the adjoint chain size is not known before-hand. Again, these algorithms rely on the proof that the optimal solution for hierarchical adjoint computations is weakly periodic. We conjecture a closed-form formula for the period. Finally, we assess the convergence speed of the approximation ratio for the online problem through simulations.
+Keywords
+optimal algorithms, online, asymptotic optimality, checkpointing, adjoint computation, program reversal, automatic differentiationAMS Subject Classifications: 65Y20, 68W40, 49N45, 90C30 

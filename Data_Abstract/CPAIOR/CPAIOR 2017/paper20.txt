@@ -1,0 +1,4 @@
+Minimum Makespan Vehicle Routing Problem with Compatibility Constraints
+Miao Yu;Viswanath Nagarajan;Siqian Shen;
+Abstract
+We study a multiple vehicle routing problem, in which a fleet of vehicles is available to serve different types of services demanded at locations. The goal is to minimize the makespan, i.e. the maximum length of any vehicle route. We formulate it as a mixed-integer linear program and propose a branch-cut-and-price algorithm. We also develop an efficient \(O(\log n)\)-approximation algorithm for this problem. We conduct numerical studies on Solomon’s instances with various demand distributions, network topologies, and fleet sizes. Results show that the approximation algorithm solves all the instances very efficiently and produces solutions with good practical bounds.

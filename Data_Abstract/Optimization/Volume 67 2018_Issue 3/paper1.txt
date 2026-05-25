@@ -1,0 +1,6 @@
+An alternative globalization strategy for unconstrained optimization
+Figen Öztoprak;Ş. İlker Birbil;
+Abstract
+We propose a new globalization strategy that can be used in unconstrained optimization algorithms to support rapid convergence from remote starting points. Our approach is based on using multiple points at each iteration to build a sequence of representative models of the objective function. Using the new information gathered from those multiple points, a local step is gradually improved by updating its direction as well as its length. We give a global convergence result and also provide the parallel implementation details accompanied with a numerical study. Our numerical study shows that the proposed algorithm is a promising alternative as a globalization strategy.
+Keywords
+Globalization strategy, unconstrained optimization, parallel implementation 

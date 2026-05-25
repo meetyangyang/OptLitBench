@@ -1,0 +1,6 @@
+Locating a median line with partial coverage distance
+Jack Brimberg;Robert Schieweck;Anita Schöbel;
+Abstract
+We generalize the classical median line location problem, where the sum of distances from a line to some given demand points is to be minimized, to a setting with partial coverage distance. In this setting, a demand point within a certain specified threshold distance \(r\) of the line is considered covered and its partial coverage distance is considered to be zero, while non-covered demand points are penalized an amount proportional to their distance to the coverage region. The sum of partial coverage distances is to be minimized. We consider general norm distances as well as the vertical distance and extend classical properties of the median line location problem to the partial coverage case. We are finally able to derive a finite dominating set. While a simple enumeration of the finite dominating set takes \(O(m^3)\) time, \(m\) being the number of demand points, we show that this can be reduced to \(O(m^2\log m)\) in the general case by plane sweeping techniques and even to \(O(m)\) for the vertical distance and block norm distances by linear programming.
+Keywords
+Median line location  Partial coverage  Finite dominating set   Plane sweeping  Block norm  

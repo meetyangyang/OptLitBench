@@ -1,0 +1,4 @@
+Cone-Based Hypervolume Indicators: Construction, Properties, and Efficient Computation
+Michael Emmerich;André Deutz;Johannes Kruisselbrink;Pradyumn Kumar Shukla;
+Abstract
+In this paper we discuss cone-based hypervolume indicators (CHI) that generalize the classical hypervolume indicator (HI) in Pareto optimization. A family of polyhedral cones with scalable opening angle γ is studied. These γ-cones can be efficiently constructed and have a number of favorable properties. It is shown that for γ-cones dominance can be checked efficiently and the CHI computation can be reduced to the computation of the HI in linear time with respect to the number of points μ in an approximation set. Besides, individual contributions to these can be computed using a similar transformation to the case of Pareto dominance cones.

@@ -1,0 +1,6 @@
+Exploring new tensegrity structures via mixed integer programming
+Yoshihiro Kanno;
+Abstract
+A tensegrity structure is a prestressed pin-jointed structure consisting of continuously connected tensile members (cables) and disjoint compressive members (struts). Many classical tensegrity structures are prestress stable, i.e., they are kinematically indeterminate but stabilized by introducing prestresses. This paper presents a procedure for generating various prestress stable tensegrity structures. This method is based on truss topology optimization and does not require connectivity relation of cables and struts of a tensegrity structure to be known in advance. Unlike the conventional form-finding methods, the locations of nodes are fixed throughout optimization. The optimization problem with the constraints expressing the definition of tensegrity structure, kinematical indeterminacy, and symmetry of configurations is formulated as a mixed integer linear programming (MILP) problem. Numerical experiments demonstrate that various tensegrity structures can be generated from one given initial structure by solving the presented MILP problems by using a few control parameters.
+Keywords
+Tensegrity  Prestressed structure  Topology optimization  Integer programming  Symmetry  

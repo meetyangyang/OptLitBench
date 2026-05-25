@@ -1,0 +1,6 @@
+Finite Element Methods in Local Active Control of Sound
+Alfredo  Bermúdez, Pablo  Gamallo, and Rodolfo  Rodríguez;
+Abstract
+The active control of sound is analyzed in the framework of the mathematical theory of optimal control. After setting the problem in the frequency domain, we deal with the state equation, which is a Helmholtz partial differential equation. We show the existence of a unique solution and analyze a finite element approximation when the source term is a Dirac delta measure. Two optimization problems are successively considered. The first one concerns the choice of phases and amplitudes of the actuators to minimize the noise at the sensors' location. The second one consists of determining the optimal actuators' placement. Both problems are then numerically solved. Error estimates are settled and numerical results for some tests are reported.
+Keywords
+dissipative acoustics, noise reduction, active control, optimal control problem, finite element approximation, 49J20, 49K20, 65N15, 

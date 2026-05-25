@@ -1,0 +1,6 @@
+A note on quasi-newton formulae for sparse second derivative matrices
+M. J. D. Powell;
+Abstract
+In order to apply quasi-Newton methods to solve unconstrained minimization calculations when the number of variables is very large, it is usually necessary to make use of any sparsity in the second derivative matrix of the objective function. Therefore, it is important to extend to the sparse case the updating formulae that occur in variable metric algorithms to revise the estimate of the second derivative matrix. Suitable extensions suggest themselves when the updating formulae are derived by variational methods [1, 3]. The purpose of the present paper is to give a new proof of a theorem of Dennis and Schnabel [1], that shows the effect of sparsity on updating formulae for second derivative estimates.
+Keywords
+Unconstrained Minimization  Quasi-Newton Methods  Sparsity  

@@ -1,0 +1,6 @@
+Numerical solution of equality-constrained quadratic programming problems on vector-parallel computers
+ Valeria   Ruggiero ;   G. W.   Stewart ;
+Abstract
+ This paper is concerned with the development of the method of multipliers combined with the conjugate gradient algorithm for solving the special linear system  where A is a real symmetric non negative definite (n × n) matrixB is a real (n × m) matrix with full column rank (m < n) and A and BT have no nontrivial null vector in common. We assume that A and BT are large and not extremely sparse. The proposed method is well suitable for parallel implementation on a multiprocessor system that can execute concurrently different tasks on a few vector processors with shared central memory, such as the CRAY Y-MP. The results of an extensive computer experimentation, which is aimed at evaluating the effectiveness of the method, are reported. 
+Keywords
+Equality-constrained quadratic programming problems, Indefinite systems Method of multipliers, Polynomial preconditioning, Parallel Computation 

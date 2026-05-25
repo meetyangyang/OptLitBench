@@ -1,0 +1,6 @@
+Discontinuous Optimization by Smoothing
+Israel Zang;
+Abstract
+We present a simple tool for solving many discontinuous optimization problems. The basic idea is to express discontinuities by means of a step function, and then to approximate the step function by a smooth one. This way, a smooth once or twice continuously differentiable approximate problem is obtained. This problem can be solved by any gradient technique. The approximations introduced contain a single parameter, which controls their accuracy so that the original problem is replaced only in some neighborhoods of the points of discontinuity. Some convergence properties are established, and numerical experiments with some test problems are reported.
+Keywords
+optimization nonlinear programming nondifferentiable optimization discontinuous optimization unconstrained optimization 

@@ -1,0 +1,6 @@
+On Decomposition Methods for a Class of Partially Separable Nonlinear Programs
+Victor DeMiguel;Francisco J. Nogales;
+Abstract
+We study two different decomposition algorithms for the general (nonconvex) partially separable nonlinear program (PSP): bilevel decomposition algorithms (BDAs) and Schur interior-point methods (SIPMs). BDAs solve the problem by breaking it into a master problem and a set of independent subproblems, forming a type of bilevel program. SIPMs, on the other hand, apply an interior-point technique to solve the problem in its original (integrated) form, but then use a Schur complement approach to solve the Newton system in a decentralized manner. Our first contribution is to establish a theoretical relationship between these two types of decomposition algorithms. This is a first step toward closing the gap between the incipient local convergence theory of BDAs and the mature local convergence theory of interior-point methods. Our second contribution is to show how SIPMs can be modified to solve problems for which the Schur complement matrix is not invertible in general. The importance of this contribution is that it substantially enlarges the class of problems that can be addressed with SIPMs.
+Keywords
+Bilevel programming Schur complement decomposition algorithms 

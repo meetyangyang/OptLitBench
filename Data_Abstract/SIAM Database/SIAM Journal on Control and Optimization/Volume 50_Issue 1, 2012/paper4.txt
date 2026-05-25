@@ -1,0 +1,6 @@
+Mean Field Games: Numerical Methods for the Planning Problem
+Yves  Achdou, Fabio  Camilli, and Italo  Capuzzo-Dolcetta;
+Abstract
+Mean field games describe the asymptotic behavior of differential games in which the number of players tends to $+\infty$. Here we focus on the optimal planning problem, i.e., the problem in which the positions of a very large number of identical rational agents, with a common value function, evolve from a given initial spatial density to a desired target density at the final horizon time. We propose a finite difference semi-implicit scheme for the optimal planning problem, which has an optimal control formulation. The latter leads to existence and uniqueness of the discrete control problem. We also study a penalized version of the semi-implicit scheme. For solving the resulting system of equations, we propose a strategy based on Newton iterations. We describe some numerical experiments.
+Keywords
+mean field games, optimal control, convex duality, numerical methods, 91A13, 91A23, 91-08, 65M06, 49A55, 

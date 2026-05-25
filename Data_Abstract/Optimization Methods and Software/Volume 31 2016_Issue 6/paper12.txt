@@ -1,0 +1,6 @@
+An exchange method with refined subproblems for convex semi-infinite programming problems
+Takayuki Okuno;Shunsuke Hayashi;Nobuo Yamashita;Kensuke Gomoto;
+Abstract
+In this paper, we propose a new exchange method for solving convex semi-infinite programming problems (SIPs). The traditional exchange method solves a sequence of finitely relaxed subproblems, that is, subproblems with finitely many constraints chosen from the original constraints. On the other hand, our exchange method solves a sequence of new subproblems, in which the traditional finite subproblems are refined by the quadratic approximation. Under mild assumptions, the refined subproblems approximate the original SIP more precisely than the traditional subproblems. Moreover, although those subproblems are still SIPs, they can be solved efficiently by reformulating them as certain optimization problems with finitely many constraints. We establish the global convergence property of the proposed algorithm. Finally, we examine the efficiency of the algorithm by some numerical experiments.
+Keywords
+convex semi-infinite programming problem, exchange method, Lipschitz constant, refined subproblems 

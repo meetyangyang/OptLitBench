@@ -1,0 +1,6 @@
+A limited memory descent Perry conjugate gradient method
+Ioannis E. Livieris;Panagiotis Pintelas;
+Abstract
+In this work, we present a new limited memory conjugate gradient method which is based on the study of Perry’s method. An attractive property of the proposed method is that it corrects the loss of orthogonality that can occur in ill-conditioned optimization problems, which can decelerate the convergence of the method. Moreover, an additional advantage is that the memory is only used to monitor the orthogonality relatively cheaply; and when orthogonality is lost, the memory is used to generate a new orthogonal search direction. Under mild conditions, we establish the global convergence of the proposed method provided that the line search satisfies the Wolfe conditions. Our numerical experiments indicate the efficiency and robustness of the proposed method.
+Keywords
+Unconstrained optimization  Conjugate gradient method   Limited memory  L-BFGS  Global convergence  

@@ -1,0 +1,6 @@
+A sufficient descent three-term conjugate gradient method via symmetric rank-one update for large-scale optimization
+Aliyu Usman Moyi;Wah June Leong;
+Abstract
+In this paper, we propose a three-term conjugate gradient method via the symmetric rank-one update. The basic idea is to exploit the good properties of the SR1 update in providing quality Hessian approximations to construct a conjugate gradient line search direction without the storage of matrices and possess the sufficient descent property. Numerical experiments on a set of standard unconstrained optimization problems showed that the proposed method is superior to many well-known conjugate gradient methods in terms of efficiency and robustness.
+Keywords
+unconstrained optimization, symmetric rank-one update, three-term conjugate gradient method, memoryless update, sufficient descentAMS Subject Classifications: 65K10, 90C06, 90C53 

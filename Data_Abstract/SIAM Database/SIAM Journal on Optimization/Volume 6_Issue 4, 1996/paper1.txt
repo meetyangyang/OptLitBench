@@ -1,0 +1,6 @@
+Condition Numbers, the Barrier Method, and the Conjugate-Gradient Method
+James  Renegar;
+Abstract
+We show that the condition numbers of the systems of linear equations arising during application of an interior-point method can be nicely bounded in terms of a quantity which is naturally interpreted as the condition number of the system of inequalities to which the method is being applied. We rely on the bound to analyze the efficiency of the conjugate-gradient method in approximately solving the linear equations.
+Keywords
+condition number, interior-point method, barrier method, conjugate-gradient method, linear programming, complexity theory, 15A12, 65F35, 68Q25, 90C05, 90C25, 

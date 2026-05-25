@@ -1,0 +1,6 @@
+On the convergence of Krylov linear equation solvers
+   C.G.   Broyden ; Maria-Terese   Vespucci ;
+Abstract
+ In this paper we show that the reduction in residual norm at each iteration of CG and GMRES is related to the first column of the inverse of an upper Hessenberg matrix that is obtained from the original coefficient matrix by way of an orthogonal transformation. The orthogonal transformation itself is uniquely defined by the coefficient matrix of the equations and the initial vector of residuals. We then apply this analysis to MINRES and show that, under certain circumstances, this algorithm can exhibit an unusual (and very slow) type of convergence that we refer to as oscillatory convergence.  
+Keywords
+Linear sovers, Krylov methods, Convergence rates 

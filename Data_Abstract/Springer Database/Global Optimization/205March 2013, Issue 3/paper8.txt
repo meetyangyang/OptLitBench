@@ -1,0 +1,6 @@
+New fitness sharing approach for multi-objective genetic algorithms
+Hyoungjin Kim;Meng-Sing Liou;
+Abstract
+A novel fitness sharing method for MOGA (Multi-Objective Genetic Algorithm) is proposed by combining a new sharing function and sided degradations in the sharing process, with preference to either of two close solutions. The modified MOGA adopting the new sharing approach is named as MOGAS. Three different variants of MOGAS are tested; MOGASc, MOGASp and MOGASd, favoring children over parents, parents over children and solutions closer to the ideal point, respectively. The variants of MOGAS are compared with MOGA and other state-of-the-art multi-objective evolutionary algorithms such as IBEA, HypE, NSGA-II and SPEA2. The new method shows significant performance improvements from MOGA and is very competitive against other Evolutionary Multi-objective Algorithms (EMOAs) for the ZDT and DTLZ test functions with two and three objectives. Among the three variants MOGASd is found to give the best results for the test problems.
+Keywords
+Genetic algorithms  Multi-objective optimization  Niching  Sharing Function  

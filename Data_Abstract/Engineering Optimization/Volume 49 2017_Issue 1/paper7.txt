@@ -1,0 +1,6 @@
+A bi-objective model for robust yard allocation scheduling for outbound containers
+Changchun Liu;Canrong Zhang;Li Zheng;
+Abstract
+This article examines the yard allocation problem for outbound containers, with consideration of uncertainty factors, mainly including the arrival and operation time of calling vessels. Based on the time buffer inserting method, a bi-objective model is constructed to minimize the total operational cost and to maximize the robustness of fighting against the uncertainty. Due to the NP-hardness of the constructed model, a two-stage heuristic is developed to solve the problem. In the first stage, initial solutions are obtained by a greedy algorithm that looks n-steps ahead with the uncertainty factors set as their respective expected values; in the second stage, based on the solutions obtained in the first stage and with consideration of uncertainty factors, a neighbourhood search heuristic is employed to generate robust solutions that can fight better against the fluctuation of uncertainty factors. Finally, extensive numerical experiments are conducted to test the performance of the proposed method.
+Keywords
+Seaport terminals, yard allocation, bi-objective, robustness 

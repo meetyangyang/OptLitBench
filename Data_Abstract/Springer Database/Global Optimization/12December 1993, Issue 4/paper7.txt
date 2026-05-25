@@ -1,0 +1,6 @@
+Experiments using interval analysis for solving a circuit design problem
+H. Ratschek;J. Rokne;
+Abstract
+An already classical attempt at solving a circuit design problem leads to a system of 9 nonlinear equations in 9 variables. The sensitivity of the problem to small perturbations is extraordinarily high. Since 1974 several investigations have been made into this problem and they hint at one solution in the restricted domain of the nonnegative reals. The investigations did not give error estimates nor did they present conclusive evidence that the solution found is the only one in the domain of the nonnegative reals. Our paper reports on experimental computations which used various kinds of interval analytic methods while also sometimes reflecting on Wright-Cutteridge's philosophy and theses. The computations resulted in a guarantee that in the domain of consideration, that is, the interval [0,10] for each of the 9 variables, exactly one solution did exist, which was near the solution known up to now. Finally, our solution could be localized within a parallelpiped with edge lengths between 10−6 and 3.2-10−4.
+Keywords
+Global optimization  least squares problems  global zero search  electrical circuits  transistor modeling  interval computations  branch-and-bound  

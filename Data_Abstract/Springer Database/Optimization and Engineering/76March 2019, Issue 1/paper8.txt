@@ -1,0 +1,6 @@
+Towards a lifecycle oriented design of infrastructure by mathematical optimization
+T. Kufner;G. Leugering;A. Martin;J. Medgenberg;J. Schelbert;L. Schewe;M. Stingl;C. Strohmeyer;M. Walther;
+Abstract
+Today’s infrastructures are mainly designed heuristically using state-of-the-art simulation software and engineering approaches. However, due to complexity, only part of the restrictions and costs that show up during the lifecycle can be taken into account. In this paper, we focus on a typical and important class of infrastructure problems, the design of high-pressure steam pipes in power plants, and describe a holistic approach taking all design, physical, and technical constraints and the costs over the full lifecycle into account. The problem leads to a large-scale mixed-integer optimization problem with partial differential equation (PDE) constraints which will be addressed hierarchically. The hierarchy consists of a combinatorial and a PDE-constrained optimization problem. The final design is evaluated with respect to damage, using beam models that are nonlinear with respect to kinematics as well as constitutive law. We demonstrate the success of our approach on a real-world instance from our industrial partner Bilfinger SE.
+Keywords
+Structural optimization  Lifecycle oriented design  Mixed integer nonlinear programming  

@@ -1,0 +1,6 @@
+Interactive model-based search for global optimization
+Yuting Wang;Alfredo Garcia;
+Abstract
+Single-thread algorithms for global optimization differ in the way computational effort between exploitation and exploration is allocated. This allocation ultimately determines overall performance. For example, if too little emphasis is put on exploration, the globally optimal solution may not be identified. Increasing the allocation of computational effort to exploration increases the chances of identifying a globally optimal solution but it also slows down convergence. Thus, in a single-thread implementation of model-based search exploration and exploitation are substitutes. In this paper we propose a new algorithmic design for global optimization based upon multiple interacting threads. In this design, each thread implements a model-based search in which the allocation of exploration versus exploitation effort does not vary over time. Threads interact through a simple acceptance-rejection rule preventing duplication of search efforts. We show the proposed design provides a speedup effect which is increasing in the number of threads. Thus, in the proposed algorithmic design, exploration is a complement rather than a substitute to exploitation.
+Keywords
+Model-based search  Multi-start local search  Parallel algorithms   Cross-entropy method  

@@ -1,0 +1,6 @@
+Lagrangian Duality and Related Multiplier Methods for Variational Inequality Problems
+Alfred  Auslender and Marc  Teboulle;
+Abstract
+We consider a new class of multiplier interior point methods for solving variational inequality problems with maximal monotone operators and explicit convex constraint inequalities. Developing a simple Lagrangian duality scheme which is combined with the recent logarithmic-quadratic proximal (LQP) theory introduced by the authors, we derive three algorithms for solving the variational inequality (VI) problem. This provides a natural extension of the methods of multipliers used in convex optimization and leads to smooth interior point multiplier algorithms. We prove primal, dual, and primal-dual convergence under very mild assumptions, eliminating all the usual assumptions used until now in the literature for related algorithms. Applications to complementarity problems are also discussed.
+Keywords
+Lagrangian duality, variational inequalities, interior proximal methods, complementarity problems, global convergence, Lagrangian multiplier methods, 49A29, 49A55, 90C33, 65K10, 

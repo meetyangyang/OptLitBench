@@ -1,0 +1,6 @@
+Scenario tree modeling for multistage stochastic programs
+Holger Heitsch;Werner Römisch;
+Abstract
+An important issue for solving multistage stochastic programs consists in the approximate representation of the (multivariate) stochastic input process in the form of a scenario tree. In this paper, we develop (stability) theory-based heuristics for generating scenario trees out of an initial set of scenarios. They are based on forward or backward algorithms for tree generation consisting of recursive scenario reduction and bundling steps. Conditions are established implying closeness of optimal values of the original process and its tree approximation, respectively, by relying on a recent stability result in Heitsch, Römisch and Strugarek (SIAM J Optim 17:511–525, 2006) for multistage stochastic programs. Numerical experience is reported for constructing multivariate scenario trees in electricity portfolio management.
+Keywords
+Stochastic programming  Multistage  Stability  Lr-distance  Filtration  Scenario tree  Scenario reduction  90C15  

@@ -1,0 +1,6 @@
+Unknown Input Estimation for Nonlinear Systems Using Sliding Mode Observers and Smooth Window Functions
+Ankush  Chakrabarty , Ann E.  Rundell, Stanisław H.  Żak, Fanglai  Zhu, and Gregery T.  Buzzard;
+Abstract
+While sliding mode observers (SMOs) using discontinuous relays are widely analyzed, most SMOs are implemented computationally using a continuous approximation of the discontinuous relays. This results in the formation of a boundary layer in a neighborhood of the sliding manifold in the observer error space. In this paper, a convex programming method for constructing boundary-layer SMOs (BL-SMOs) is presented for a wide class of nonlinear systems characterized by incremental quadratic constraints. Specifically, the observer gains are computed by solving a set of linear matrix inequalities and ultimate bounds on the state of a synthetic descriptor system. A novel application of filtering using smooth window functions is leveraged to reconstruct the unknown exogenous inputs to prescribed accuracy. Two numerical examples are presented to illustrate the effectiveness of our proposed approach.
+Keywords
+unknown input observers, low-pass filtering, incremental quadratic constraints, sliding mode, descriptor systems, multiplier matrix, linear matrix inequalities, 90C25, 93E11, 93B51, 

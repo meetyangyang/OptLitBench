@@ -1,0 +1,6 @@
+Optimal placement of stereo sensors
+Mohammad Al Hasan;Krishna K. Ramachandran;John E. Mitchell;
+Abstract
+Autonomous wireless devices such as sensor nodes and stereo cameras, due to their low cost of operation coupled with the potential for remote deployment, have found a plethora of applications ranging from monitoring air, soil and water to seismic detection and military surveillance. Typically, such a network spans a region of interest with the individual nodes cooperating to detect events and disseminate information. Given a deployment of sensors and targets over a region, a sensor pairing is desired for each target that optimizes the coverage under certain constraints. This problem can be modeled as an integer programming problem and solved using branch-and-cut. For larger problems, it is necessary to limit the number of variables, and a GRASP routine was developed for this purpose. Valid cutting planes are developed and computational results presented.
+Keywords
+Sensors  Integer programming  Branch-and-cut  GRASP  

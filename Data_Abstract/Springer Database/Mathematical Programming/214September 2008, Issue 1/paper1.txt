@@ -1,0 +1,6 @@
+New and old bounds for standard quadratic optimization: dominance, equivalence and incomparability
+Immanuel M. Bomze;Marco Locatelli;Fabio Tardella;
+Abstract
+A standard quadratic optimization problem (StQP) consists in minimizing a quadratic form over a simplex. Among the problems which can be transformed into a StQP are the general quadratic problem over a polytope, and the maximum clique problem in a graph. In this paper we present several new polynomial-time bounds for StQP ranging from very simple and cheap ones to more complex and tight constructions. The main tools employed in the conception and analysis of most bounds are Semidefinite Programming and decomposition of the objective function into a sum of two quadratic functions, each of which is easy to minimize. We provide a complete diagram of the dominance, incomparability, or equivalence relations among the bounds proposed in this and in previous works. In particular, we show that one of our new bounds dominates all the others. Furthermore, a specialization of such bound dominates Schrijver’s improvement of Lovász’s θ function bound for the maximum size of a clique in a graph.
+Keywords
+Standard quadratic optimization  Semidefinite programming  Quadratic programming  Maximum clique  Resource allocation  90C20  90C26  

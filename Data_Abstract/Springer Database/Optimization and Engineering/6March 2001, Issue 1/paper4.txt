@@ -1,0 +1,6 @@
+A Primer on Differentiation
+Mark S. Gockenbach;
+Abstract
+The central idea of differential calculus is that the derivative of a function defines the best local linear approximation to the function near a given point. This basic idea, together with some representation theorems from linear algebra, unifies the various derivatives—gradients, Jacobians, Hessians, and so forth—encountered in engineering and optimization. The basic differentiation rules presented in calculus classes, notably the product and chain rules, allow the computation of the gradients and Hessians needed by optimization algorithms, even when the underlying operators are quite complex. Examples include the solution operators of time-dependent and steady-state partial differential equations. Alternatives to the hand-coding of derivatives are finite differences and automatic differentiation, both of which save programming time at the possible cost of run-time efficiency.
+Keywords
+differentiation  solution operators  finite differences  automatic differentiation  

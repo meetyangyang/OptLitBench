@@ -1,0 +1,6 @@
+An optimal algorithm and superrelaxation for minimization of a quadratic function subject to separable convex constraints with applications
+Zdeněk Dostál;Tomáš Kozubek;
+Abstract
+We propose a modification of our MPGP algorithm for the solution of bound constrained quadratic programming problems so that it can be used for minimization of a strictly convex quadratic function subject to separable convex constraints. Our active set based algorithm explores the faces by conjugate gradients and changes the active sets and active variables by gradient projections, possibly with the superrelaxation steplength. The error estimate in terms of extreme eigenvalues guarantees that if a class of minimization problems has the spectrum of the Hessian matrix in a given positive interval, then the algorithm can find and recognize an approximate solution of any particular problem in a number of iterations that is uniformly bounded. We also show how to use the algorithm for the solution of separable and equality constraints. The power of our algorithm and its optimality are demonstrated on the solution of a problem of two cantilever beams in mutual contact with Tresca friction discretized by almost twelve millions nodal variables.
+Keywords
+QPQC with separable constraints  Spherical constraints  Rate of convergence  65K10  90C20  90C25  90C90  

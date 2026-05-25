@@ -1,0 +1,6 @@
+Theoretical Efficiency of the Algorithm “Capacity” for the Maximum Flow Problem
+Maurice Queyranne;
+Abstract
+The algorithm Capacity defined by Edmonds and Karp is an augmenting path algorithm which yields the maximum increase in flow value at each iteration. For networks with real capacities, we show that Capacity may require an infinite number of iterations, and an example of a “bad” network is produced. This result contrasts with the existence of other less “greedy” augmenting path algorithms which are always finite. However, we show that the sequence of flows constructed by Capacity converges toward a maximum flow. For networks with integer capacities, with a arcs and average capacity c̄, Edmonds and Karp’s upper bound of the order of O(a(log a + log c̄)) is derived and a class of networks is produced for which Capacity requires this number of iterations.
+Keywords
+network flows maximum flow problem algorithms computational complexity worst-case analysis 

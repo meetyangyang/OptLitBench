@@ -1,0 +1,6 @@
+Linear equalities in blackbox optimization
+Charles Audet;Sébastien Le Digabel;Mathilde Peyrega;
+Abstract
+The mesh adaptive direct search (Mads) algorithm is designed for blackbox optimization problems subject to general inequality constraints. Currently, Mads does not support equalities, neither in theory nor in practice. The present work proposes extensions to treat problems with linear equalities whose expression is known. The main idea consists in reformulating the optimization problem into an equivalent problem without equalities and possibly fewer optimization variables. Several such reformulations are proposed, involving orthogonal projections, QR or SVD decompositions, as well as simplex decompositions into basic and nonbasic variables. All of these strategies are studied within a unified convergence analysis, guaranteeing Clarke stationarity under mild conditions provided by a new result on the hypertangent cone. Numerical results on a subset of the CUTEst collection are reported.
+Keywords
+Derivative-free optimization  Blackbox optimization  Linear equality constraints  Convergence analysis  Mads  

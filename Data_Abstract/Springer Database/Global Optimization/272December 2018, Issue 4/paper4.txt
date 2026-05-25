@@ -1,0 +1,6 @@
+Equivalent Lipschitz surrogates for zero-norm and rank optimization problems
+Yulan Liu;Shujun Bi;Shaohua Pan;
+Abstract
+This paper proposes a mechanism to produce equivalent Lipschitz surrogates for zero-norm and rank optimization problems by means of the global exact penalty for their equivalent mathematical programs with an equilibrium constraint (MPECs). Specifically, we reformulate these combinatorial problems as equivalent MPECs by the variational characterization of the zero-norm and rank function, show that their penalized problems, yielded by moving the equilibrium constraint into the objective, are the global exact penalization, and obtain the equivalent Lipschitz surrogates by eliminating the dual variable in the global exact penalty. These surrogates, including the popular SCAD function in statistics, are also difference of two convex functions (D.C.) if the function and constraint set involved in zero-norm and rank optimization problems are convex. We illustrate an application by designing a multi-stage convex relaxation approach to the rank plus zero-norm regularized minimization problem.
+Keywords
+Zero-norm  Rank  Global exact penalty  Equivalent Lipschitz surrogates  90C27  90C33  49M20  

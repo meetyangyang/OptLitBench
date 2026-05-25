@@ -1,0 +1,6 @@
+An Extension of Karmarkar Type Algorithm to a Class of Convex Separable Programming Problems with Global Linear Rate of Convergence
+Renato D. C. Monteiro;Ilan Adler;
+Abstract
+We describe a primal-dual interior point algorithm for a class of convex separable programming problems subject to linear constraints. Each iteration updates a penalty parameter and finds a Newton step associated with the Karush-Kuhn-Tucker system of equations which characterizes a solution of the logarithmic barrier function problem for that parameter. It is shown that the duality gap is reduced at each iteration by a factor of (1 − δ/√n), where δ is positive and depends on some parameters associated with the objective function.
+Keywords
+interior-point methods convex separable programming Karmarkar's algorithm global rate of convergence barrier function path following 

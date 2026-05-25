@@ -1,0 +1,6 @@
+Distributionally robust multi-item newsvendor problems with multimodal demand distributions
+Grani A. Hanasusanto;Daniel Kuhn;Stein W. Wallace;Steve Zymler;
+Abstract
+We present a risk-averse multi-dimensional newsvendor model for a class of products whose demands are strongly correlated and subject to fashion trends that are not fully understood at the time when orders are placed. The demand distribution is known to be multimodal in the sense that there are spatially separated clusters of probability mass but otherwise lacks a complete description. We assume that the newsvendor hedges against distributional ambiguity by minimizing the worst-case risk of the order portfolio over all distributions that are compatible with the given modality information. We demonstrate that the resulting distributionally robust optimization problem is \(\mathrm{NP}\)-hard but admits an efficient numerical solution in quadratic decision rules. This approximation is conservative and computationally tractable. Moreover, it achieves a high level of accuracy in numerical tests. We further demonstrate that disregarding ambiguity or multimodality can lead to unstable solutions that perform poorly in stress test experiments.
+Keywords
+90C15  90C22  

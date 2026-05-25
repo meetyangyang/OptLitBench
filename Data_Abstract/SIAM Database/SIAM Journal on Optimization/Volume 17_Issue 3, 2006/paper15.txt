@@ -1,0 +1,6 @@
+Global Optimization of Polynomials Using Gradient Tentacles and Sums of Squares
+Markus   Schweighofer;
+Abstract
+We consider the problem of computing the global infimum of a real polynomial f on $\mathbb R^n$. Every global minimizer of f lies on its gradient variety, i.e., the algebraic subset of $\mathbb R^n$ where the gradient of f vanishes. If f attains a minimum on $\mathbb R^n$, it is therefore equivalent to look for the greatest lower bound of f on its gradient variety. Nie, Demmel, and Sturmfels proved recently a theorem about the existence of sums of squares certificates for such lower bounds. Based on these certificates, they find arbitrarily tight relaxations of the original problem that can be formulated as semidefinite programs and thus be solved efficiently. We deal here with the more general case when f is bounded from below but does not necessarily attain a minimum. In this case, the method of Nie, Demmel, and Sturmfels might yield completely wrong results. In order to overcome this problem, we replace the gradient variety by larger semialgebraic subsets of $\mathbb R^n$ which we call gradient tentacles. It now gets substantially harder to prove the existence of the necessary sums of squares certificates.
+Keywords
+global optimization, polynomial, preorder, sum of squares, semidefinite programming, 13J30, 90C26, 12Y05, 13P99, 14P10, 90C22, 

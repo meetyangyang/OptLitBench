@@ -1,0 +1,6 @@
+Limited memory discrete gradient bundle method for nonsmooth derivative-free optimization
+ N.   Karmitsa ; A.M.   Bagirov ;
+Abstract
+ Typically, practical nonsmooth optimization problems involve functions with hundreds of variables. Moreover, there are many practical problems where the computation of even one subgradient is either a difficult or an impossible task. In such cases derivative-free methods are the better (or only) choice since they do not use explicit computation of subgradients. However, these methods require a large number of function evaluations even for moderately large problems. In this article, we propose an efficient derivative-free limited memory discrete gradient bundle method for nonsmooth, possibly nonconvex optimization. The convergence of the proposed method is proved for locally Lipschitz continuous functions and the numerical experiments to be presented confirm the usability of the method especially for medium size and large-scale problems. 
+Keywords
+nondifferentiable optimization, derivative-free optimization, limited memory methods, bundle methods, discrete gradientAMS Subject Classifications:: 90C56, 49J52, 65K05 

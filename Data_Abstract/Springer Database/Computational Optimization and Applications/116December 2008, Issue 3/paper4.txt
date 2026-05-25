@@ -1,0 +1,8 @@
+A global continuation algorithm for solving binary quadratic programming problems
+Shaohua Pan;Tao Tan;Yuxi Jiang;
+Abstract
+
+In this paper, we propose a new continuous approach for the unconstrained binary quadratic programming (BQP) problems based on the Fischer-Burmeister NCP function. Unlike existing relaxation methods, the approach reformulates a BQP problem as an equivalent continuous optimization problem, and then seeks its global minimizer via a global continuation algorithm which is developed by a sequence of unconstrained minimization for a global smoothing function. This smoothing function is shown to be strictly convex in the whole domain or in a subset of its domain if the involved barrier or penalty parameter is set to be sufficiently large, and consequently a global optimal solution can be expected. Numerical results are reported for 0-1 quadratic programming problems from the OR-Library, and the optimal values generated are made comparisons with those given by the well-known SBB and BARON solvers. The comparison results indicate that the continuous approach is extremely promising by the quality of the optimal values generated and the computational work involved, if the initial barrier parameter is chosen appropriately.
+
+Keywords
+Binary quadratic programming  Fischer-Burmeister function  Logarithmic barrier function  Global continuation algorithm  

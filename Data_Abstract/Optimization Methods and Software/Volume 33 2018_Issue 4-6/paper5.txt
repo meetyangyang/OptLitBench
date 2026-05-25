@@ -1,0 +1,6 @@
+Validated computation of the local truncation error of Runge–Kutta methods with automatic differentiation
+Olivier Mullier;Alexandre Chapoutot;Julien Alexandre dit Sandretto;
+Abstract
+A novel approach to bound the local truncation error of explicit and implicit Runge–Kutta methods is presented. This approach takes its roots in the modern theory of Runge–Kutta methods, namely the order condition theorem, defined by John Butcher in the 1960s. More precisely, our work is an instance, for Runge–Kutta methods, of the generic algorithm defined by Ferenc Bartha and Hans Munthe-Kaas in 2014 which computes B-series with automatic differentiation techniques. In particular, this specialized algorithm is combined with set-membership framework to define validated numerical integration methods based on Runge–Kutta methods.
+Keywords
+automatic differentiation, interval analysis, affine arithmetic, validated numerical integration, Runge–Kutta methodsAMS Subject Classification: 65G40, 65D30, 65L06, 65Y20, 65L05, 65L70 

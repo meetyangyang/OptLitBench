@@ -1,0 +1,6 @@
+An NP-Hard Open Shop Scheduling Problem with Polynomial Average Time Complexity
+Lu Lu;Marc E. Posner;
+Abstract
+While the worst-case complexity of most scheduling problems is known, the average-case complexity has not been studied. This paper examines the average-case complexity of the following NP-hard open shop scheduling problem: minimize the makespan on two machines with two distinct release dates. We present a deterministic algorithm where the average-case complexity is polynomial in the number of jobs when the known deterministic processing times of jobs are generated for each machine as nonnegative i.i.d. random variables from certain classes of distributions. The classes of distributions include all bounded distributions and all distributions with exponential tails. Linear time algorithms for two variations of the two-machine open shop scheduling problem are also obtained. These problems are minimizing the weighted sum of machine completion times, and minimizing the makespan when one machine is initially unavailable for processing. A variation of the second problem can be used to solve the problem of minimizing the makespan when there is a rolling horizon.
+Keywords
+open shop release dates NP-hard average-case complexity 

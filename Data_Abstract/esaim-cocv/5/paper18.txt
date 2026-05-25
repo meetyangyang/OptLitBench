@@ -1,0 +1,7 @@
+Image deblurring, spectrum interpolation and application to satellite imaging
+Sylvain Durand1,2, François Malgouyres1 and Bernard Rougé3;
+Abstract
+This paper deals with two complementary methods in noisy imagedeblurring: a nonlinear shrinkage of wavelet-packets coefficients called FCNRand Rudin-Osher-Fatemi's variational method. The FCNR has for objective toobtain a restored image with a white noise. It will prove to be very efficientto restore an image after an invertible blur but limited in the oppositesituation. Whereas the Total Variation based method, with its ability toreconstruct the lost frequencies by interpolation, is very well adapted tonon-invertible blur, but that it tends to erase low contrast textures. Thiscomplementarity is highlighted when the methods are applied to the restorationof satellite SPOT images.
+Keywords
+Image restoration, deblurring, wavelet-packets, Total Variation, 
+spectrum interpolation

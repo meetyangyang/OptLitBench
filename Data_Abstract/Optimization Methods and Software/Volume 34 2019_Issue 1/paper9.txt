@@ -1,0 +1,6 @@
+A limited-memory quasi-Newton algorithm for bound-constrained non-smooth optimization
+N. Keskar;A. Wächter;
+Abstract
+We consider the problem of minimizing a continuous function that may be non-smooth and non-convex, subject to bound constraints. We propose an algorithm that uses the L-BFGS quasi-Newton approximation of the problem's curvature together with a variant of the weak Wolfe line search. The key ingredient of the method is an active-set selection strategy that defines the subspace in which search directions are computed. To overcome the inherent shortsightedness of the gradient for a non-smooth function, we propose two strategies. The first relies on an approximation of the ε-minimum norm subgradient, and the second uses an iterative corrective loop that augments the active set based on the resulting search directions. While theoretical convergence guarantees have been elusive even for the unconstrained case, we present numerical results on a set of standard test problems to illustrate the efficacy of our approach, using an open-source Python implementation of the proposed algorithm.
+Keywords
+Non-smooth optimization, bound constraints, quasi-Newton, L-BFGS, active-set method, active-set correctionAMS Subject Classification: 49M27, 65K05, 90C30, 90C53 

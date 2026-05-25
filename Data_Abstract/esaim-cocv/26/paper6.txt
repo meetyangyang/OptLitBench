@@ -1,0 +1,8 @@
+Removing holes in topological shape optimization
+Philippe Guillaume1 and Maatoug Hassine2;
+Abstract
+The gradient based topological optimization tools introduced during thelast ten years tend naturally to modify the topology of a domain by creating small holes inside the domain. Once these holes have been created, they usually remainunchanged, at least during the topological phase of the optimizationalgorithm. In this paper, a new asymptotic expansion is introduced which allows to decide whether an existing hole must be removed or not forimproving the cost function. Then, two numerical examples are presented:the first one compares topological optimization with standard shape optimization, and the second one, issued from a lake oxygenation problem, illustrates the use of the new asymptotic expansion.
+Keywords
+Topological optimization, topological sensitivity, 
+topological gradient, 
+shape optimization, Stokes equation

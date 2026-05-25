@@ -1,0 +1,6 @@
+Forcing strong convergence of proximal point iterations in a Hilbert space
+M.V. Solodov;B.F. Svaiter;
+Abstract
+This paper concerns with convergence properties of the classical proximal point algorithm for finding zeroes of maximal monotone operators in an infinite-dimensional Hilbert space. It is well known that the proximal point algorithm converges weakly to a solution under very mild assumptions. However, it was shown by Güler [11] that the iterates may fail to converge strongly in the infinite-dimensional case. We propose a new proximal-type algorithm which does converge strongly, provided the problem has a solution. Moreover, our algorithm solves proximal point subproblems inexactly, with a constructive stopping criterion introduced in [31]. Strong convergence is forced by combining proximal point iterations with simple projection steps onto intersection of two halfspaces containing the solution set. Additional cost of this extra projection step is essentially negligible since it amounts, at most, to solving a linear system of two equations in two unknowns.
+Keywords
+Key words: proximal point algorithm – Hilbert spaces – weak convergence – strong convergence Mathematics Subject Classification (1991): 49M45, 90C25, 90C33  

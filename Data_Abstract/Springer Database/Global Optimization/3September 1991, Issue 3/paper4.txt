@@ -1,0 +1,6 @@
+A parametric successive underestimation method for convex multiplicative programming problems
+Takahito Kuno;Hiroshi Konno;
+Abstract
+This paper addresses itself to the algorithm for minimizing the product of two nonnegative convex functions over a convex set. It is shown that the global minimum of this nonconvex problem can be obtained by solving a sequence of convex programming problems. The basic idea of this algorithm is to embed the original problem into a problem in a higher dimensional space and to apply a branch-and-bound algorithm using an underestimating function. Computational results indicate that our algorithm is efficient when the objective function is the product of a linear and a quadratic functions and the constraints are linear. An extension of our algorithm for minimizing the sum of a convex function and a product of two convex functions is also discussed.
+Keywords
+nonconvex minimization  global minimization  successive underestimation method  convex multiplicative function  branch-and-bound procedure  

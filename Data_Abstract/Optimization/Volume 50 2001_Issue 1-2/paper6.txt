@@ -1,0 +1,6 @@
+A continuous approch for globally solving linearly constrained quadratic
+ LE.   Thi Hoai An ; Pham.   Ding Tao ;
+Abstract
+ In a continuous approach we propose an efficient method for globally solving linearly constrained quadratic zero-one programming considered as a d.c. (difference of onvex functions) program. A combination of the d.c. optimization algorithm (DCA) which has a finite convergence, and the branch-and-bound scheme was studied. We use rectangular bisection in the branching procedure while the bounding one proceeded by applying d.c.algorithms from a current best feasible point (for the upper bound) and by minimizing a well tightened convex underestimation of the objective function on the current subdivided domain (for the lower bound). DCA generates a sequence of points in the vertex set of a new polytope containing the feasible domain of the problem being considered. Moreover if an iterate is integral then all following iterates are integral too.Our combined algorithm converges so quite often to an integer approximate solution.Finally, we present computational results of several test problems with up to 1800 variables which prove the efficiency of our method, in particular, for linear zero-one programming 
+Keywords
+Quadratic Zero-One Programming, Linear Zero-One Programming, D.c. Optimization, DCA, Branch-And-Bound 

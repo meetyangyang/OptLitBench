@@ -1,0 +1,6 @@
+A Sequential Convex Semidefinite Programming Algorithm with an Application to Multiple-Load Free Material Optimization
+M.  Stingl, M.  Kočvara, and G.  Leugering;
+Abstract
+A new method for the efficient solution of a class of convex semidefinite programming (SDP) problems is introduced. The method extends the sequential convex programming (SCP) concept to optimization problems with matrix variables. The basic idea of the new method is to approximate the original optimization problem by a sequence of subproblems, in which nonlinear functions (defined in matrix variables) are approximated by block separable convex functions. The subproblems are semidefinite programs with a favorable structure which can be efficiently solved by existing SDP software. The new method is shown to be globally convergent. The article is concluded by a series of numerical experiments with free material optimization problems demonstrating the effectiveness of the generalized SCP approach.
+Keywords
+structural optimization, material optimization, semidefinite programming, sequential convex programming, 74B05, 74P05, 90C90, 90C25, 90C22, 

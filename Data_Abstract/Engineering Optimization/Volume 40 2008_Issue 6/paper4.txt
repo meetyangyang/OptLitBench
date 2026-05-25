@@ -1,0 +1,6 @@
+Adaptive moving mesh level set method for structure topology optimization
+ Zhenyu   Liu ; Jan   G.   Korvink ;
+Abstract
+ The level set method is a promising approach to provide flexibility in dealing with topological changes during structural optimization. Normally, the level set surface, which depicts a structure's topology by a level contour set of a continuous scalar function embedded in space, is interpolated on a fixed mesh. The accuracy of the boundary positions is therefore largely dependent on the mesh density, a characteristic of any Eulerian expression when using a fixed mesh. This article combines the adaptive moving mesh method with a level set structure topology optimization method. The finite element mesh automatically maintains a high nodal density around the structural boundaries of the material domain, whereas the mesh topology remains unchanged. Numerical experiments demonstrate the effect of the combination of a Lagrangian expression for a moving mesh and a Eulerian expression for capturing the moving boundaries. 
+Keywords
+topology optimization, level set method, moving mesh method, finite element method 

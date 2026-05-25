@@ -1,0 +1,4 @@
+Matrix Interdiction Problem
+Shiva Prasad Kasiviswanathan;Feng Pan;
+Abstract
+In the matrix interdiction problem, a real-valued matrix and an integer k is given. The objective is to remove a set of k matrix columns that minimizes in the residual matrix the sum of the row values, where the value of a row is defined to be the largest entry in that row. This combinatorial problem is closely related to bipartite network interdiction problem that can be applied to minimize the probability that an adversary can successfully smuggle weapons. After introducing the matrix interdiction problem, we study the computational complexity of this problem. We show that the matrix interdiction problem is NP-hard and that there exists a constant γ such that it is even NP-hard to approximate this problem within an n  γ  additive factor. We also present an algorithm for this problem that achieves an (n − k) multiplicative approximation ratio.

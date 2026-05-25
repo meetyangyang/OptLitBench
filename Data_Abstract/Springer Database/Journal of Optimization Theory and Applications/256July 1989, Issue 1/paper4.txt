@@ -1,0 +1,6 @@
+Simulated annealing with noisy or imprecise energy measurements
+S. B. Gelfand;S. K. Mitter;
+Abstract
+The annealing algorithm (Ref. 1) is modified to allow for noisy or imprecise measurements of the energy cost function. This is important when the energy cannot be measured exactly or when it is computationally expensive to do so. Under suitable conditions on the noise/imprecision, it is shown that the modified algorithm exhibits the same convergence in probability to the globally minimum energy states as the annealing algorithm (Ref. 2). Since the annealing algorithm will typically enter and exit the minimum energy states infinitely often with probability one, the minimum energy state visited by the annealing algorithm is usually tracked. The effect of using noisy or imprecise energy measurements on tracking the minimum energy state visited by the modified algorithms is examined.
+Keywords
+Simulated annealing  combinatorial optimization  noisy measurements  Markov chains  

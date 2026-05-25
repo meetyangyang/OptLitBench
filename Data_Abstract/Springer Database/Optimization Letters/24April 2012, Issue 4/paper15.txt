@@ -1,0 +1,6 @@
+Discretization orders for distance geometry problems
+Carlile Lavor;Jon Lee;Audrey Lee-St. John;Leo Liberti;Antonio Mucherino;Maxim Sviridenko;
+Abstract
+Given a weighted, undirected simple graph G = (V, E, d) (where \({d:E\to\mathbb{R}_+}\)), the distance geometry problem (DGP) is to determine an embedding \({x:V\to\mathbb{R}^K}\) such that \({\forall \{i,j\} \in E\;\|x_i-x_j\|=d_{ij}}\) . Although, in general, the DGP is solved using continuous methods, under certain conditions the search is reduced to a discrete set of points. We give one such condition as a particular order on V. We formalize the decision problem of determining whether such an order exists for a given graph and show that this problem is NP-complete in general and polynomial for fixed dimension K. We present results of computational experiments on a set of protein backbones whose natural atomic order does not satisfy the order requirements and compare our approach with some available continuous space searches.
+Keywords
+Molecular distance geometry  Proteins  Sensor network localization  Graph drawing  

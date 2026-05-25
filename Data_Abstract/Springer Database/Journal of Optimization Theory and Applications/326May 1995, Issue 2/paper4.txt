@@ -1,0 +1,6 @@
+Parametrization of all stabilizing controllers via quadratic Lyapunov functions
+T. Iwasaki;R. E. Skelton;
+Abstract
+This paper presents a parametrization of all finite-dimensional, linear time-invariant controllers which asymptotically stabilize a given finite-dimensional, linear time-invariant system. Both continuous-time and discrete-time systems are considered. A potential advantage over existing parametrization schemes in the frequency domain is that the controller order can be fixed. Consequently, necessary and sufficient conditions for stabilizability via static output feedback controller are obtained and stated by the existence of a quadratic Lyapunov functionV(x):=x T Px such thatP satisfies a linear matrix inequality (LMI), whileP−1 satisfies another LMI. If the controller order is not fixed a priori, then the resulting computational problem can be made convex, and a controller of order less than or equal to the plant order may always be constructed.
+Keywords
+Stabilization  Lyapunov functions  linear matrix inequalities  convex programming  

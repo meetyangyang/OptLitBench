@@ -1,0 +1,6 @@
+Solving initial and boundary value problems using learning automata particle swarm optimization
+Kourosh Nemati;Siti Mariyam Shamsuddin;Maslina Darus;
+Abstract
+In this article, the particle swarm optimization (PSO) algorithm is modified to use the learning automata (LA) technique for solving initial and boundary value problems. A constrained problem is converted into an unconstrained problem using a penalty method to define an appropriate fitness function, which is optimized using the LA-PSO method. This method analyses a large number of candidate solutions of the unconstrained problem with the LA-PSO algorithm to minimize an error measure, which quantifies how well a candidate solution satisfies the governing ordinary differential equations (ODEs) or partial differential equations (PDEs) and the boundary conditions. This approach is very capable of solving linear and nonlinear ODEs, systems of ordinary differential equations, and linear and nonlinear PDEs. The computational efficiency and accuracy of the PSO algorithm combined with the LA technique for solving initial and boundary value problems were improved. Numerical results demonstrate the high accuracy and efficiency of the proposed method.
+Keywords
+particle swarm optimization, learning automata, initial and boundary value problems, unconstrained optimization, penalty method 

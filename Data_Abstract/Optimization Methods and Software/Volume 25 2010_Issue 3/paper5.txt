@@ -1,0 +1,6 @@
+Parallel implementation of a semidefinite programming solver based on CSDP on a distributed memory cluster
+ I.   D.   Ivanov ; E.   de Klerk ;
+Abstract
+ In this paper, we present the algorithmic framework and practical aspects of implementing a parallel version of a primal–dual semidefinite programming solver on a distributed memory computer cluster. Our implementation is based on the CSDP solver and uses a message passing interface and the ScaLAPACK library. A new feature is implemented to deal with problems that have rank-one constraint matrices. We show that significant improvement is obtained for a test set of problems with rank-one constraint matrices. Moreover, we show that very good parallel efficiency is obtained for large-scale problems where the number of linear equality constraints is very large compared to the block sizes of the positive semidefinite matrix variables. 
+Keywords
+semidefinite programming, interior-point methods, parallel computing, distributed memory cluster AMS Subject Classification : 90C22, 90C51 

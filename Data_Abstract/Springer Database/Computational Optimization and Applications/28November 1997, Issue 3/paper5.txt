@@ -1,0 +1,6 @@
+A Truncated Exponential Algorithm for the Lightly Constrained Assignment Problem
+Jeffery L. Kennington;Farin Mohammadi;
+Abstract
+This manuscript presents a truncated branch-and-bound algorithm toobtain a near optimal solution for the constrained assignment problemin which there are only a few side constraints. At each node of thebranch-and-bound tree a lower bound is obtained by solving a singlyconstrained assignment problem. If needed, Lagrangean relaxationtheory is applied in an attempt to improve this lower bound. Aspecialized branching rule is developed which exploits therequirement that every man be assigned to some job. A softwareimplementation of the algorithm has been tested on problems with fiveside constraints and up to 75,000 binary variables. Solutionsguaranteed to be within 10% of an optimum were obtained for these75,000 variable problems in from two to twenty minutes of CPU time ona Dec Alpha workstation. The behavior of the algorithm for variousproblem characteristics is also studied. This includes the tightnessof the side constraints, the stopping criteria, and the effect whenthe problems are unbalanced having more jobs than men.
+Keywords
+assignment problem  integer programming  Lagrangean relaxation  

@@ -1,0 +1,6 @@
+Reliability-based design optimization using a generalized subset simulation method and posterior approximation
+Yuan-Zhuo Ma;Hong-Shuang Li;Wei-Xing Yao;
+Abstract
+The evaluation of the probabilistic constraints in reliability-based design optimization (RBDO) problems has always been significant and challenging work, which strongly affects the performance of RBDO methods. This article deals with RBDO problems using a recently developed generalized subset simulation (GSS) method and a posterior approximation approach. The posterior approximation approach is used to transform all the probabilistic constraints into ordinary constraints as in deterministic optimization. The assessment of multiple failure probabilities required by the posterior approximation approach is achieved by GSS in a single run at all supporting points, which are selected by a proper experimental design scheme combining Sobol’ sequences and Bucher’s design. Sequentially, the transformed deterministic design optimization problem can be solved by optimization algorithms, for example, the sequential quadratic programming method. Three optimization problems are used to demonstrate the efficiency and accuracy of the proposed method.
+Keywords
+Probabilistic constraints, generalized subset simulation, posterior approximation 

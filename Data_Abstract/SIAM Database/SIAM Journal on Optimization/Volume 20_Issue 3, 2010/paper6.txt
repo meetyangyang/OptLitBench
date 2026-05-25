@@ -1,0 +1,6 @@
+A Matrix-Free Algorithm for Equality Constrained Optimization Problems with Rank-Deficient Jacobians
+Frank E.  Curtis, Jorge  Nocedal, and Andreas  Wächter;
+Abstract
+We present a line search algorithm for large-scale constrained optimization that is robust and efficient even for problems with (nearly) rank-deficient Jacobian matrices. The method is matrix-free (i.e., it does not require explicit storage or factorizations of derivative matrices), allows for inexact step computations, and is applicable for nonconvex problems. The main components of the approach are a trust region subproblem for handling ill-conditioned or inconsistent linear models of the constraints and a process for attaining a sufficient reduction in a local model of a penalty function. We show that the algorithm is globally convergent to first-order optimal points or to stationary points of an infeasibility measure. Numerical results are presented.
+Keywords
+large-scale optimization, constrained optimization, nonconvex programming, trust regions, inexact linear system solvers, Krylov subspace methods, 49M05, 49M37, 65K05, 90C06, 90C26, 90C30, 

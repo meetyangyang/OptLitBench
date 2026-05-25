@@ -1,0 +1,6 @@
+A branch-and-cut algorithm using polar cuts for solving nonconvex quadratic programming problems
+Zhibin Deng;Shu-Cherng Fang;Cheng Lu;Xiaoling Guo;
+Abstract
+In this paper, we propose a branch-and-cut algorithm for solving a nonconvex quadratically constrained quadratic programming (QCQP) problem with a nonempty bounded feasible domain. The problem is first transformed into a linear conic programming problem, and then approximated by semidefinite programming problems over different intervals. In order to improve the lower bounds, polar cuts, generated from corresponding cut-generation problems, are embedded in a branch-and-cut algorithm to yield a globally --optimal solution (with respect to feasibility and optimality, respectively) in a finite number of iterations. To enhance the computational speed, an adaptive branch-and-cut rule is adopted. Numerical experiments indicate that the number of explored nodes required for solving QCQP problems can be significantly reduced by employing the proposed polar cuts.
+Keywords
+Branch-and-cut algorithm, nonconvex quadratically constrained quadratic programming, polar cut, semidefinite relaxation 

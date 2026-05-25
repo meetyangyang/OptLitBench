@@ -1,0 +1,6 @@
+Convergence of the forward-backward sweep method in optimal control
+Michael McAsey;Libin Mou;Weimin Han;
+Abstract
+The Forward-Backward Sweep Method is a numerical technique for solving optimal control problems. The technique is one of the indirect methods in which the differential equations from the Maximum Principle are numerically solved. After the method is briefly reviewed, two convergence theorems are proved for a basic type of optimal control problem. The first shows that recursively solving the system of differential equations will produce a sequence of iterates converging to the solution of the system. The second theorem shows that a discretized implementation of the continuous system also converges as the iteration and number of subintervals increases. The hypotheses of the theorem are a combination of basic Lipschitz conditions and the length of the interval of integration. An example illustrates the performance of the method.
+Keywords
+Optimal control  Numerical solution  Convergence  Indirect method  

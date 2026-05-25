@@ -1,0 +1,6 @@
+A Novel Sampling Approach to Combinatorial Optimization Under Uncertainty
+Urmila M. Diwekar;
+Abstract
+The generalized approach to stochastic optimization involves two computationally intensive recursive loops: (1) the outer optimization loop, (2) the inner sampling loop. Furthermore, inclusion of discrete decision variables adds to the complexity. The focus of the current endeavor is to reduce the computational intensity of the two recursive loops. The study achieves the goals through an improved understanding and description of the sampling phenomena based on the concepts of fractal geometry and incorporating the knowledge of the accuracy of the sampling (fractal model) in the stochastic optimization framework thereby, automating and improving the combinatorial optimization algorithm. The efficiency of the algorithm is presented in the context of a large scale real world problem, related to the nuclear waste at Hanford, involving discrete and continuous decision variables, and uncertainties. These new developments reduced the computational intensity for solving this problem from an estimated 20 days of CPU time on a dedicated Alpha workstation to 18 hours of CPU time on the same machine.
+Keywords
+stochastic annealing  HSS technique  efficient sampling  nuclear waste  stochastic optimization  combinatorial optimization  

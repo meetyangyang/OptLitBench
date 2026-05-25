@@ -1,0 +1,6 @@
+On the approximate reanalysis technique in topology optimization
+Thadeu A. Senne;Francisco A. M. Gomes;Sandra A. Santos;
+Abstract
+A classical problem in topology optimization concerns the minimization of the compliance of a static structure, subject to a volume constraint upon the available material. Assuming that the structure is under small displacements and it is composed of a linear elastic material, the evaluation of the objective function demands the solution of a linear system. Hence, within the computational optimization process of addressing topology optimization problems, the cost of evaluating the objective function may be an issue, especially as the discretized mesh is refined. This work pursues the approximate reanalysis technique in combination with the Sequential Piecewise Linear Programming method for obtaining optimized structures. Numerical evidences are presented to corroborate the usage of this blend in a study composed by three distinct strategies in three benchmark test problems. A further analysis has been performed concerning the impact of the computation of the gradient vector of the objective function, pointing out room for additional savings.
+Keywords
+Topology optimization  Linear systems  Linear solvers  Approximate reanalysis  Nonlinear Programming  90C30  65K05  49M37  65F05  15A23  

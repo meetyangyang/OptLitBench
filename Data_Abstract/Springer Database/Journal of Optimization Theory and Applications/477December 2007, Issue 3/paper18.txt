@@ -1,0 +1,8 @@
+Approximate Toeplitz Matrix Problem Using Semidefinite Programming
+S. Al-Homidan;
+Abstract
+
+Given a data matrix, we find its nearest symmetric positive-semidefinite Toeplitz matrix. In this paper, we formulate the problem as an optimization problem with a quadratic objective function and semidefinite constraints. In particular, instead of solving the so-called normal equations, our algorithm eliminates the linear feasibility equations from the start to maintain exact primal and dual feasibility during the course of the algorithm. Subsequently, the search direction is found using an inexact Gauss-Newton method rather than a Newton method on a symmetrized system and is computed using a diagonal preconditioned conjugate-gradient-type method. Computational results illustrate the robustness of the algorithm.
+
+Keywords
+Primal-dual interior-point methods  Projection methods  Toeplitz matrices  Semidefinite programming  

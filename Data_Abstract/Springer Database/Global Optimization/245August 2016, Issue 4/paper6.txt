@@ -1,0 +1,6 @@
+Algorithms for the two-stage production-capacitated lot-sizing problem
+Hark-Chin Hwang;Hyun-Soo Ahn;Philip Kaminsky;
+Abstract
+We model the two-stage production-capacitated lot-sizing problem as a concave minimum cost network flow problem and characterize the possible patterns of flow between successive periods in which transportation occurs. We demonstrate that production and transportation decisions can be made based only on the local state of transportation patterns between successive transportation periods. Utilizing this observation together with the insight that it is not necessary to consider transportation decisions between transportation periods, we provide a novel improved \(O(T^6)\) algorithm (where T is the length of the planning horizon). We extend this approach to special cases, and develop an \(O(T^5)\) algorithm for the case with non-speculative costs, and an \(O(T^4)\) algorithm for the case with linear costs.
+Keywords
+Lot-sizing  Production capacity  Inventory and logistics  Algorithms  

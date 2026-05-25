@@ -1,0 +1,6 @@
+On the Optimal Control of Boolean Control Networks
+Qunxi  Zhu , Yang  Liu, Jianquan  Lu , and Jinde  Cao;
+Abstract
+In this paper, we study the optimal control problem of Boolean control networks (BCNs). An optimal input-state transfer graph (OISTG) is defined for BCNs with cost in every stage. Optimal controllers are designed to minimize (or maximize) a given cost (or payoff) function over finite and/or infinite time horizon. In finite time horizon, a sufficient condition is derived for the optimal control problem, and an algorithm with the method of binary decomposition is proposed. Moreover, we prove the existence of optimal control for discounted problems over an infinite time horizon, and a new algorithm is presented to design corresponding optimal controllers. Compared with some existing methods, the new algorithm with OISTG can be used to reduce both space complexity  and  computational complexity in finding optimal controllers. Numerical examples are presented to illustrate the efficiency of the obtained results.
+Keywords
+Boolean control networks, Floyd algorithm, input-state transfer graph, optimal control, semitensor product, 06E30, 49N05, 

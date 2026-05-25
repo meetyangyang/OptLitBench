@@ -1,0 +1,6 @@
+On the Global Convergence of a Filter--SQP Algorithm
+Roger  Fletcher, Sven  Leyffer, and Philippe L.  Toint;
+Abstract
+A mechanism for proving global convergence in SQP--filter methods for nonlinear programming (NLP) is described. Such methods are characterized by their use of thedominance concept of multiobjective optimization, instead of a penalty parameter whose adjustment can be problematic. The main point of interest is to demonstrate how convergence for NLP can be induced without forcing sufficient descent in a penalty-type merit function.The proof relates to a prototypical algorithm, within which is allowed a range of specific algorithm choices associated with the Hessian matrix representation, updating the trust region radius, and feasibility restoration.
+Keywords
+nonlinear programming, global convergence, filter, multiobjective optimization, SQP, 65K05, 49M37, 90C30, 90C26, 

@@ -1,0 +1,6 @@
+A Globally and Locally Superlinearly Convergent Non--Interior-Point Algorithm for P0 LCPs
+Yun-Bin  Zhao and Duan  Li;
+Abstract
+Based on the concept of the regularized central path, a new non--interior-point path-following algorithm is proposed for solving the P0 linear complementarity problem (P0 LCP). The condition ensuring the global convergence of the algorithm for P0 LCPs is weaker than most conditions previously used in the literature. This condition can be satisfied even when the strict feasibility condition, which has often been assumed in most existing non--interior-point algorithms, fails to hold. When the algorithm is applied to P* and monotone LCPs, the global convergence of this method requires no assumption other than the solvability of the problem. The local superlinear convergence of the algorithm can be achieved under a nondegeneracy assumption. The effectiveness of the algorithm is demonstrated by our numerical experiments.
+Keywords
+linear complementarity problem, non--interior-point algorithm, Tikhonov regularization, P$_0$ matrix, regularized central path, 90C30, 90C33, 90C51, 65K05, 

@@ -1,0 +1,6 @@
+A Newton-like method for solving a non-smooth elliptic equation
+ Jinping   Zeng ; Haixiong   Yu ;
+Abstract
+ In this paper, we use finite element method to discrete a non-smooth elliptic equation and present some error estimates. Non-smooth Newton-like method is applied to solve the discrete problem. Since Newton's equations have a very bad conditioner when the mesh-size is finer, multigrid technique is used to solve the subproblems. It is shown that if we use V-cycle or cascadic multigrid as an inner iterator, an (nearly) optimal property can be obtained. Numerical results are illustrated to confirm the error estimates we obtained and the efficiency of the non-smooth Newton-like method combining with multigrid technique. Especially, if the mesh-size h becomes much smaller, the method can save substantial computational work. 
+Keywords
+non-smooth equation, finite element method, non-smooth Newton method, multigrid technique AMS Subject Classificaton : 49M15, 65N30, 65N55 

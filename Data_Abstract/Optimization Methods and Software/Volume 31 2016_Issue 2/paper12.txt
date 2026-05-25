@@ -1,0 +1,6 @@
+Exploiting hardware capabilities in interior point methods
+Csaba Mészáros;
+Abstract
+The increase of computer performance continues to support the practice of large-scale optimization. Computers with multiple computing cores and vector processing capabilities are now widely available. We investigate how the recently introduced Advanced Vector Instruction (AVX) set on Intel-compatible architectures can be exploited in interior point methods for linear and nonlinear optimization. We focus on data structures and implementation techniques that utilize the new vector instructions. Our numerical experiments demonstrate that the AVX instruction set provides a significant performance boost in our implementation on large-scale problem that have significant fill-in in the sparse Cholesky factorization, achieving up to 100 gigaflops performance on a standard desktop computer on linear optimization problems for which the required Cholesky factorization is relatively dense.
+Keywords
+interior point methods, Cholesky factorization, high performance computing, linear programming 

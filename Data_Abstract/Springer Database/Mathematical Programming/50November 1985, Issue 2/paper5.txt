@@ -1,0 +1,6 @@
+Properties of a representation of a basis for the null space
+Philip E. Gill;Walter Murray;Michael A. Saunders;G. W. Stewart;Margaret H. Wright;
+Abstract
+Given a rectangular matrixA(x) that depends on the independent variablesx, many constrained optimization methods involve computations withZ(x), a matrix whose columns form a basis for the null space ofAT(x). WhenA is evaluated at a given point, it is well known that a suitableZ (satisfyingATZ = 0) can be obtained from standard matrix factorizations. However, Coleman and Sorensen have recently shown that standard orthogonal factorization methods may produce orthogonal bases that do not vary continuously withx; they also suggest several techniques for adapting these schemes so as to ensure continuity ofZ in the neighborhood of a given point.
+Keywords
+Nonlinear Optimization  Matrix Factorization  Null-Space Continuity  

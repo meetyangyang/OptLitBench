@@ -1,0 +1,6 @@
+An improved inexact Newton method
+Haibin Zhang;Naiyang Deng;
+Abstract
+For unconstrained optimization, an inexact Newton algorithm is proposed recently, in which the preconditioned conjugate gradient method is applied to solve the Newton equations. In this paper, we improve this algorithm by efficiently using automatic differentiation and establish a new inexact Newton algorithm. Based on the efficiency coefficient defined by Brent, a theoretical efficiency ratio of the new algorithm to the old algorithm is introduced. It has been shown that this ratio is greater than 1, which implies that the new algorithm is always more efficient than the old one. Furthermore, this improvement is significant at least for some cases. This theoretical conclusion is supported by numerical experiments.
+Keywords
+Cholesky factorization  Unconstrained optimization  Newton equation  Automatic differentiation  Preconditioned conjugate gradient method  90C30  65K05  

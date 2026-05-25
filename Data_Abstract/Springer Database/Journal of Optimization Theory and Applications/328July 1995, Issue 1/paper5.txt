@@ -1,0 +1,6 @@
+Primal-dual row-action method for convex programming
+A. N. Iusem;B. F. Svaiter;
+Abstract
+We present a primal-dual row-action method for the minimization of a convex function subject to general convex constraints. Constraints are used one at a time, no changes are made in the constraint functions and their Jacobian matrix (thus, the row-action nature of the algorithm), and at each iteration a subproblem is solved consisting of minimization of the objective function subject to one or two linear equations. The algorithm generates two sequences: one of them, called primal, converges to the solution of the problem; the other one, called dual, approximates a vector of optimal KKT multipliers for the problem. We prove convergence of the primal sequence for general convex constraints. In the case of linear constraints, we prove that the primal sequence converges at least linearly and obtain as a consequence the convergence of the dual sequence.
+Keywords
+Convex programming  row-action methods  iterative algorithms  

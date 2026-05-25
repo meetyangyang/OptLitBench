@@ -1,0 +1,6 @@
+A Trust Region Method for Solving Generalized Complementarity Problems
+Houyuan  Jiang, Masao  Fukushima, Liqun  Qi, and Defeng  Sun;
+Abstract
+Based on a semismooth equation reformulation using Fischer's function, a trust region algorithm is proposed for solving the generalized complementarity problem (GCP). The algorithm uses a generalized Jacobian of the function involved in the semismooth equation and adopts the squared natural residual of the semismooth equation as a merit function. The proposed algorithm is applicable to the nonlinear complementarity problem because the latter problem is a special case of the GCP. Global convergence and, under a nonsingularity assumption, local Q-superlinear (or quadratic) convergence of the algorithm are established. Moreover, calculation of a generalized Jacobian is discussed and numerical results are presented.
+Keywords
+generalized complementarity problem, nonlinear complementarity problem, semi-smooth equation, trust region method, global and superlinear convergence, 90C33, 65K10, 

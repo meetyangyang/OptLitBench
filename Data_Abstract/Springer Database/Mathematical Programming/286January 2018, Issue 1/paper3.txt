@@ -1,0 +1,6 @@
+Primal and dual predicted decrease approximation methods
+Amir Beck;Edouard Pauwels;Shoham Sabach;
+Abstract
+We introduce the notion of predicted decrease approximation (PDA) for constrained convex optimization, a flexible framework which includes as special cases known algorithms such as generalized conditional gradient, proximal gradient, greedy coordinate descent for separable constraints and working set methods for linear equality constraints with bounds. The new scheme allows the development of a unified convergence analysis for these methods. We further consider a partially strongly convex nonsmooth model and show that dual application of PDA-based methods yields new sublinear convergence rate estimates in terms of both primal and dual objectives. As an example of an application, we provide an explicit working set selection rule for SMO-type methods for training the support vector machine with an improved primal convergence analysis.
+Keywords
+Primal–dual methods  Approximate linear oracles  Conditional gradient algorithm  Working set methods  90C06  90C25  

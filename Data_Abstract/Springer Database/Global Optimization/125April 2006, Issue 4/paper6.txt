@@ -1,0 +1,6 @@
+Global Optimization using a Dynamical Systems Approach
+Stefan Sertl;Michael Dellnitz;
+Abstract
+We develop new algorithms for global optimization by combining well known branch and bound methods with multilevel subdivision techniques for the computation of invariant sets of dynamical systems. The basic idea is to view iteration schemes for local optimization problems – e.g. Newton’s method or conjugate gradient methods – as dynamical systems and to compute set coverings of their fixed points. The combination with bounding techniques allow for the computation of coverings of the global optima only. We show convergence of the new algorithms and present a particular implementation.
+Keywords
+Branch and bound optimization  Computation of fixed points  Dynamical systems  Global optimization  37N40  65K05  90C30  

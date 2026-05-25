@@ -1,0 +1,6 @@
+Asymptotic analysis of the exponential penalty trajectory in linear programming
+R. Cominetti;J. San Martín;
+Abstract
+We consider the linear program min{c′x: Ax⩽b} and the associated exponential penalty functionfr(x) = c′x + rΣexp[(Aix − bi)/r]. Forr close to 0, the unconstrained minimizerx(r) offr admits an asymptotic expansion of the formx(r) = x* + rd* + η(r) wherex* is a particular optimal solution of the linear program and the error termη(r) has an exponentially fast decay. Using duality theory we exhibit an associated dual trajectoryλ(r) which converges exponentially fast to a particular dual optimal solution. These results are completed by an asymptotic analysis whenr tends to ∞: the primal trajectory has an asymptotic ray and the dual trajectory converges to an interior dual feasible solution.
+Keywords
+90C05  90C25  90C31  49M30  Linear programming  Exponential penalty  Optimal trajectory  Asymptotic expansion  Interior point methods  

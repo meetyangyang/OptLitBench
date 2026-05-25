@@ -1,0 +1,6 @@
+Complexity estimates of some cutting plane methods based on the analytic barrier
+Yu. Nesterov;
+Abstract
+In this paper we establish the efficiency estimates for two cutting plane methods based on the analytic barrier. We prove that the rate of convergence of the second method is optimal uniformly in the number of variables. We present a modification of the second method. In this modified version each test point satisfies an approximate centering condition. We also use the standard strategy for updating approximate Hessians of the logarithmic barrier function. We prove that the rate of convergence of the modified scheme remains optimal and demonstrate that the number of Newton steps in the auxiliary minimization processes is bounded by an absolute constant. We also show that the approximate Hessian strategy significantly improves the total arithmetical complexity of the method.
+Keywords
+Nonsmooth optimization  Cutting plane methods  Analytic barrier  Self-concordant functions  

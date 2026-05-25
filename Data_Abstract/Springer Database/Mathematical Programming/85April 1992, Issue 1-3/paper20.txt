@@ -1,0 +1,6 @@
+A cutting plane algorithm for the windy postman problem
+M. Grötschel;Zaw Win;
+Abstract
+In this paper we describe a cutting plane algorithm for the (NP-hard) windy postman problem. This algorithm can also be applied to the mixed, directed, and undirected postman problems. It is based on a partial linear description of the windy postman polyhedron and on the simplex method. The partial linear description (together with cutting plane recognition strategies) provides new cutting planes and hence generates better and better linear programming relaxations of the windy postman polyhedron, and the simplex method solves these linear programs. We have investigated the performance of our algorithm with several test problems defined on graphs of up to 264 nodes. For most of these problems, we obtained optimal solutions in reasonable computation times.
+Keywords
+Computation Time  Mathematical Method  Test Problem  Simplex Method  Plane Algorithm  

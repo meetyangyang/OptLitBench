@@ -1,0 +1,6 @@
+A polynomial-time nearly-optimal algorithm for an edge coloring problem in outerplanar graphs
+Weifan Wang;Danjun Huang;Yanwen Wang;Yiqiao Wang;Ding-Zhu Du;
+Abstract
+Given a graph G, we study the problem of finding the minimum number of colors required for a proper edge coloring of G such that any pair of vertices at distance 2 have distinct sets consisting of colors of their incident edges. This minimum number is called the 2-distance vertex-distinguishing index, denoted by \(\chi '_{d2}(G)\). Using the breadth first search method, this paper provides a polynomial-time algorithm producing nearly-optimal solution in outerplanar graphs. More precisely, if G is an outerplanar graph with maximum degree \(\varDelta \), then the produced solution uses colors at most \(\varDelta +8\). Since \(\chi '_{d2}(G)\ge \varDelta \) for any graph G, our solution is within eight colors from optimal.
+Keywords
+Breadth first search  Tree  Outerplanar graph  Edge coloring  2-Distance vertex-distinguishing index  

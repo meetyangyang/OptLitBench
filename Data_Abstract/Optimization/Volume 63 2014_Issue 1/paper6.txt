@@ -1,0 +1,6 @@
+Computational aspects of simplex and MBU-simplex algorithms using different anti-cycling pivot rules
+Tibor Illés;Adrienn Nagy;
+Abstract
+Several variations of index selection rules for simplex-type algorithms for linear programming, like the Last-In-First-Out or the Most-Often-Selected-Variable are rules not only theoretically finite, but also provide significant flexibility in choosing a pivot element. Based on an implementation of the primal simplex and the monotonic build-up (MBU) simplex method, the practical benefit of the flexibility of these anti-cycling pivot rules is evaluated using public benchmark LP test sets. Our results also provide numerical evidence that the MBU-simplex algorithm is a viable alternative to the traditional simplex algorithm.
+Keywords
+monotonic build-up simplex algorithm, primal simplex method, index selection rules, linear programmingAMS Subject Classification: 90C05 

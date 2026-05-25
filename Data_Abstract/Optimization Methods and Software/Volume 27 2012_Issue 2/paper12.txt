@@ -1,0 +1,6 @@
+Algorithmic differentiation techniques for global optimization in the COCONUT environment
+ Hermann   Schichl ; Mihály   Csaba   Markót ;
+Abstract
+ We describe algorithmic differentiation as it can be used in algorithms for global optimization. We focus on the algorithmic differentiation methods implemented in the COCONUT Environment for global nonlinear optimization. The COCONUT Environment represents each factorable optimization problem as a directed acyclic graph (DAG). Various inference modules implemented in this software environment can serve as building blocks for solution algorithms. Many of them use techniques based on various forms of algorithmic differentiation for computing approximations or enclosures of functions or their derivatives. The algorithmic differentiation in the COCONUT Environment not only provides point evaluations but also range enclosures of derivatives up to order 3, as well as slopes up to order 2. Care is taken to ensure that rounding errors are treated correctly. The ranges of the enclosures can be tightened by combining the evaluation routines with constraint propagation. Advantages and pitfalls of this method are also outlined. 
+Keywords
+global optimization, directed acyclic graphs, automatic differentiation, slope, interval analysis AMS Subject Classification : 65G40, 90C26, 90C30 

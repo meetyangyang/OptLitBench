@@ -1,0 +1,6 @@
+Strong Duality for Semidefinite Programming
+Motakuri V.  Ramana, Levent  Tunçel, and Henry  Wolkowicz;
+Abstract
+It is well known that the duality theory for linear programming (LP) is powerful and elegant and lies behind algorithms such as simplex and interior-point methods. However, the standard Lagrangian for nonlinear programs requires constraint qualifications to avoid duality gaps.Semidefinite linear programming (SDP) is a generalization of LP where the nonnegativity constraints are replaced by a semidefiniteness constraint on the matrix variables. There are many applications, e.g., in systems and control theory and combinatorial optimization. However, the Lagrangian dual for SDP can have a duality gap. We discuss the relationships among various duals and give a unified treatment for strong duality in semidefinite programming. These duals guarantee strong duality, i.e., a zero duality gap and dual attainment. This paper is motivated by the recent paper by Ramana where one of these duals is introduced.
+Keywords
+semidefinite linear programming, strong duality, Löwner partial order, symmetric positive semidefinite matrices, 65K10, 90C25, 90M45, 15A45, 47D20, 

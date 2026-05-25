@@ -1,0 +1,6 @@
+An Inexact Accelerated Proximal Gradient Method and a Dual Newton-CG Method for the Maximal Entropy Problem
+Chengjing Wang;Aimin Xu;
+Abstract
+This paper describes an algorithm to solve large-scale maximal entropy problems. The algorithm employs an inexact accelerated proximal gradient method to generate an initial iteration point which is important; then it applies the Newton-CG method to the dual problem. Numerical experiments illustrate that the algorithm can supply an acceptable and even highly accurate solution, while algorithms without generating a good initial point may probably fail.
+Keywords
+Maximal entropy problem  Inexact accelerated proximal gradient method  Newton-CG method  Semi-smoothness  

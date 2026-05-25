@@ -1,0 +1,6 @@
+A Derivative-Free Trust-Region Method for Biobjective Optimization
+Jong-hyun  Ryu and Sujin  Kim;
+Abstract
+We consider unconstrained black-box biobjective optimization problems in which analytic forms of the objective functions are not available and function values can be obtained only through computationally expensive simulations. We propose a new algorithm to approximate the Pareto optimal solutions of such problems based on a trust-region approach. At every iteration, we identify a trust region, then sample and evaluate points from it. To determine nondominated solutions in the trust region, we employ a scalarization method to convert the two objective functions into one. We construct and optimize quadratic regression models for the two original objectives and the converted single objective. We then remove dominated points from the current Pareto approximation and construct a new trust region around the most isolated point in order to explore areas that have not been visited. We prove convergence of the method under general regularity conditions and present numerical results suggesting that the method efficiently generates well-distributed Pareto optimal solutions.
+Keywords
+biobjective optimization, multiobjective optimization, derivative-free algorithm, trust-region method, Pareto dominance, 90C29, 90C56, 

@@ -1,0 +1,6 @@
+Optimal control of elliptic equations with positive measures
+Christian Clason1 and Anton Schiela2;
+Abstract
+Optimal control problems without control costs in general do not possess solutions due to          the lack of coercivity. However, unilateral constraints together with the assumption of          existence of strictly positive solutions of a pre-adjoint state equation, are sufficient          to obtain existence of optimal solutions in the space of Radon measures. Optimality          conditions for these generalized minimizers can be obtained using Fenchel duality, which          requires a non-standard perturbation approach if the control-to-observation mapping is not          continuous (e.g., for Neumann boundary control in three dimensions).          Combining a conforming discretization of the measure space with a semismooth Newton method          allows the numerical solution of the optimal control problem.
+Keywords
+Optimal control, measure control, control constraints, Fenchel duality, unbounded operator

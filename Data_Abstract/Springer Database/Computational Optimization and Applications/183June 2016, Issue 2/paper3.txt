@@ -1,0 +1,6 @@
+Clustering-based preconditioning for stochastic programs
+Yankai Cao;Carl D. Laird;Victor M. Zavala;
+Abstract
+We present a clustering-based preconditioning strategy for KKT systems arising in stochastic programming within an interior-point framework. The key idea is to perform adaptive clustering of scenarios (inside-the-solver) based on their influence on the problem at hand. This approach thus contrasts with existing (outside-the-solver) approaches that cluster scenarios based on problem data alone. We derive spectral and error properties for the preconditioner and demonstrate that scenario compression rates of up to 94 % can be obtained, leading to dramatic computational savings. In addition, we demonstrate that the proposed preconditioner can avoid scalability issues of Schur decomposition in problems with large first-stage dimensionality.
+Keywords
+Preconditioning  Interior-point  Stochastic  Large-scale  Clustering  

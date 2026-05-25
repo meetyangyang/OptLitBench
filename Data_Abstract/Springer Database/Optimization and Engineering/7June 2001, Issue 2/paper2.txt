@@ -1,0 +1,6 @@
+A Technical Review of Column Generation in Integer Programming
+Wilbert E. Wilhelm;
+Abstract
+This paper provides a technical review of topics relevant to applying column generation methods to solve integer programs but emphasizes formulation issues as a means of achieving its goal, which is to bridge the gap between methodological development and application. Type I, II and III column generation approaches are described in detail and each is demonstrated by a set of prototypical formulations that provide a historical perspective of milestone contributions. Technical issues, including formulation, context, algorithm design and implementation are also related. Formulation issues encompass the restricted master problem (RMP) and subproblem (SP) structure, symmetry, complexity and the Integrality Property. Context issues comprise theoretical principles, dealing with binary or general integer variables and generating rows as well as columns. Algorithm design issues include branching strategies, SP solution strategies and problem-specific techniques. Implementation issues include determining an initial basic feasible solution, managing a pool of generated columns, optimizing the RMP at each iteration, and handling degeneracy and tailing off.
+Keywords
+column generation  integer programming  

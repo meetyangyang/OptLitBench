@@ -1,0 +1,6 @@
+Generalized coefficient strengthening cuts for mixed integer programming
+Wei-Kun Chen;Liang Chen;Mu-Ming Yang;Yu-Hong Dai;
+Abstract
+Cutting plane methods are an important component in solving the mixed integer programming (MIP). By carefully studying the coefficient strengthening method, which is originally a presolving method, we are able to generalize this method to generate a family of valid inequalities called generalized coefficient strengthening (GCS) inequalities. The invariant property of the GCS inequalities is established under bound substitutions. Furthermore, we develop a separation algorithm for finding the violated GCS inequalities for a general mixed integer set. The separation algorithm is proved to have the polynomial time complexity. Extensive numerical experiments are made on standard MIP test sets, which demonstrate the usefulness of the resulting GCS separator.
+Keywords
+Mixed integer programming  Cutting plane method  Separation algorithm  Coefficient strengthening  

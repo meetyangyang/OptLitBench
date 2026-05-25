@@ -1,0 +1,6 @@
+Normal-Boundary Intersection: A New Method for Generating the Pareto Surface in Nonlinear Multicriteria Optimization Problems
+Indraneel  Das and J. E.  Dennis;
+Abstract
+This paper proposes an alternate method for finding several Pareto optimal points for a general nonlinear multicriteria optimization problem. Such points collectively capture the trade-off among the various conflicting objectives. It is proved that this method is independent of the relative scales of the functions and is successful in producing an evenly distributed set of points in the Pareto set given an evenly distributed set of parameters, a property which the popular method of minimizing weighted combinations of objective functions lacks. Further, this method can handle more than two objectives while retaining the computational efficiency of continuation-type algorithms. This is an improvement over continuation techniques for tracing the trade-off curve since continuation strategies cannot easily be extended to handle more than two objectives.
+Keywords
+Pareto set, multicriteria optimization, multiobjective optimization, trade-off curve, 90C29, 

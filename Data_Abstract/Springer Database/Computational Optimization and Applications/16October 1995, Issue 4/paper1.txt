@@ -1,0 +1,6 @@
+Efficient decomposition and linearization methods for the stochastic transportation problem
+Kaj Holmberg;
+Abstract
+The stochastic transportation problem can be formulated as a convex transportation problem with nonlinear objective function and linear constraints. We compare several different methods based on decomposition techniques and linearization techniques for this problem, trying to find the most efficient method or combination of methods. We discuss and test a separable programming approach, the Frank-Wolfe method with and without modifications, the new technique of mean value cross decomposition and the more well known Lagrangean relaxation with subgradient optimization, as well as combinations of these approaches. Computational tests are presented, indicating that some new combination methods are quite efficient for large scale problems.
+Keywords
+transportation  decomposition methods  separable programming  the Frank-Wolfe method  

@@ -1,0 +1,6 @@
+A practical update criterion for SQP method
+ Tao-Wen   Liu ; Dong-Hui   Li ;
+Abstract
+ Sequential quadratic programming (SQP) algorithms have proven to be efficient for solving nonlinearly constrained optimization problems under some conditions. In analysis of global convergence for SQP algorithms, it is usually assumed that the quasi-Newton matrices, approximating the Hessian of Lagrangian function, are uniformly positive definite. However, it is not known whether this condition is satisfied for quasi-Newton matrices. In this paper, we present a new update criterion for the quasi-Newton matrix and a new update method for the penalty parameter. We establish the global convergence result of a modifying SQP algorithm for equality constrained optimization problems without any assumption on quasi-Newton matrix sequence. Moreover, if the second-order sufficient condition holds at an optimal solution, the new update criterion reduces to the ordinary BFGS update. The superlinear rate of convergence of the algorithm can be obtained if an additional step is performed. 
+Keywords
+Equality constrained optimization, Sequential quadratic programming algorithm, Update criterion, Global convergence 

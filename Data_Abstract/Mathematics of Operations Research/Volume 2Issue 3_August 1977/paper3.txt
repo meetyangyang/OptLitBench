@@ -1,0 +1,6 @@
+A Substitute Inverse for the Basis of a Staircase Structure Linear Program
+Richard D. Wollmer;
+Abstract
+The constraints of a staircase structure linear program are of the following form: A1x1 = d1; Bt−1 + Atxt = dt (t = 2, …, T). Letting mi be the number of constraints m period i the substitute inverse consists of the inverse of T matrices which are mi × mi = 1, …, T, as opposed to the actual inverse which is m × m, m = ∑mi. Updating the substitute inverse consists of updating some, but not necessarily all, of the T inverses. This may be done by appending one or more columns and pivoting on them or by adding a dyad matrix. Applications to the PILOT energy model will be discussed.
+Keywords
+large scale linear programs staircase linear programs substitute basis inverse 

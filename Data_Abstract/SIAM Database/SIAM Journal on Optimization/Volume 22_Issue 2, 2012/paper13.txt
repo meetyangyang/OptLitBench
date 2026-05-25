@@ -1,0 +1,6 @@
+Smoothing and First Order Methods: A Unified Framework
+Amir  Beck and Marc  Teboulle;
+Abstract
+We propose a unifying framework that combines smoothing approximation with fast first order algorithms for solving nonsmooth convex minimization problems. We prove that independently of the structure of the convex nonsmooth function involved,  and of the given fast first order iterative scheme, it is always possible to improve the complexity rate and reach an $O(\varepsilon^{-1})$ efficiency estimate by solving an adequately smoothed approximation counterpart. Our approach relies on the combination of the notion of smoothable functions that we introduce with a natural extension of the Moreau-infimal convolution technique along with its connection to the smoothing mechanism via asymptotic functions. This allows for clarification and unification of several issues on the design, analysis, and potential applications of smoothing methods when combined with fast first order algorithms.
+Keywords
+nonsmooth convex minimization, smoothing methods, convex minimization, first order proximal gradients, rate of convergence, infimal convolution, asymptotic functions, 90C25, 90C30, 

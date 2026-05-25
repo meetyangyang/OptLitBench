@@ -1,0 +1,6 @@
+Hamiltonian Cycles, Random Walks, and Discounted Occupational Measures
+Ali Eshragh;Jerzy Filar;
+Abstract
+We develop a new, random walk-based, algorithm for the Hamiltonian cycle problem. The random walk is on pairs of extreme points of two suitably constructed polytopes. The latter are derived from geometric properties of the space of discounted occupational measures corresponding to a given graph. The algorithm searches for a measure that corresponds to a common extreme point in these two specially constructed polyhedral subsets of that space. We prove that if a given undirected graph is Hamiltonian, then with probability one this random walk algorithm detects its Hamiltonicity in a finite number of iterations. We support these theoretical results by numerical experiments that demonstrate a surprisingly slow growth in the required number of iterations with the size of the given graph.
+Keywords
+Hamiltonian cycle problem discounted Markov decision processes random walks 

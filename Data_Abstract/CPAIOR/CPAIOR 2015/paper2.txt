@@ -1,0 +1,4 @@
+Rectangle Placement for VLSI Testing
+Merav Aharoni;Odellia Boni;Ari Freund;Lidor Goren;Wesam Ibraheem;Tamir Segev;
+Abstract
+We report our solution to the problem of designing test-site chips. This is a specific variation of the VLSI floorplanning problem where rectangular macros must be placed without overlap in a given area, but no wiring between the macros exists. Typically, industrial problems of this type require placing hundreds of macros of different sizes and shapes and include additional constraints such as fixing or grouping some of the macros. Many tools and techniques developed to solve similar problems proved unsuitable for this specific variation. We used constraint programming (CP) with additional heuristics, including sophisticated variable and value orderings, to produce floorplans for real test-sites. Our CP solution is successfully used in production by test-site designers.

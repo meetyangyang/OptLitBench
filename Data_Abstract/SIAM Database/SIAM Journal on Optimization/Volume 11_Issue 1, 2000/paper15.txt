@@ -1,0 +1,6 @@
+Eigenvalue Bounds Versus Semidefinite Relaxations for the Quadratic Assignment Problem
+K. M.  Anstreicher;
+Abstract
+It was recently demonstrated that a well-known eigenvalue bound for the quadratic assignment problem (QAP) actually corresponds to a semidefinite programming (SDP) relaxation. However, for this bound to be computationally useful, the assignment constraints of the QAP must first be eliminated and the bound then applied to a lower-dimensional problem. The resulting "projected eigenvalue bound" is one of the best available bounds for the QAP, especially when considering the quality of bounds relative to the complexity of obtaining them. In this paper we show that the projected eigenvalue bound is also related to an SDP relaxation of the original QAP. This "implicit" SDP relaxation is similar to SDP relaxations of the QAP proposed by Lin and Saigal [On Solving Large-scale Semidefinite Programming Problems---A Case Study of Quadratic Assignment Problem, Department of Industrial Engineering and Operations Research, University of Michigan, 1997] and Zhao et al. [J. Combin. Optim., 2 (1998), pp. 71-109].
+Keywords
+quadratic assignment problem, eigenvalue bounds, semidefinite programming, 90C09, 90C20, 

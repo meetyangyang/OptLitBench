@@ -1,0 +1,6 @@
+Second-Order Minimization Method for Nonsmooth Functions Allowing Convex Quadratic Approximations of the Augment
+M. E. Abbasov;
+Abstract
+Second-order methods play an important role in the theory of optimization. Due to the usage of more information about considered function, they give an opportunity to find the stationary point faster than first-order methods. Well-known and sufficiently studied Newton’s method is widely used to optimize smooth functions. The aim of this work is to obtain a second-order method for unconstrained minimization of nonsmooth functions allowing convex quadratic approximation of the augment. This method is based on the notion of coexhausters—new objects in nonsmooth analysis, introduced by V. F. Demyanov. First, we describe and prove the second-order necessary condition for a minimum. Then, we build an algorithm based on that condition and prove its convergence. At the end of the paper, a numerical example illustrating implementation of the algorithm is given.
+Keywords
+Nonsmooth analysis  Nondifferentiable optimization   Coexhausters  49J52  90C30  65K05  

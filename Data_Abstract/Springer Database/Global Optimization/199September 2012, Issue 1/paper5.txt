@@ -1,0 +1,6 @@
+Expected improvement in efficient global optimization through bootstrapped kriging
+Jack P. C. Kleijnen;Wim van Beers;Inneke van Nieuwenhuyse;
+Abstract
+This article uses a sequentialized experimental design to select simulation input combinations for global optimization, based on Kriging (also called Gaussian process or spatial correlation modeling); this Kriging is used to analyze the input/output data of the simulation model (computer code). This design and analysis adapt the classic “expected improvement” (EI) in “efficient global optimization” (EGO) through the introduction of an improved estimator of the Kriging predictor variance; this estimator uses parametric bootstrapping. Classic EI and bootstrapped EI are compared through various test functions, including the six-hump camel-back and several Hartmann functions. These empirical results demonstrate that in some applications bootstrapped EI finds the global optimum faster than classic EI does; in general, however, the classic EI may be considered to be a robust global optimizer.
+Keywords
+Simulation  Optimization  Kriging  Bootstrap  

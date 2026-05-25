@@ -1,0 +1,4 @@
+Service-Oriented Volunteer Computing for Massively Parallel Constraint Solving Using Portfolios
+Zeynep Kiziltan;Jacopo Mauro;
+Abstract
+Recent years have witnessed growing interest in parallelising constraint solving based on tree search (see [1] for a brief overview). One approach is search-space splitting in which different parts of the tree are explored in parallel (e.g. [2]). Another approach is the use of algorithm portfolios. This technique exploits the significant variety in performance observed between different algorithms and combines them in a portfolio [3]. In constraint solving, an algorithm can be a solver or a tuning of a solver. Portfolios have often been run in an interleaving fashion (e.g. [4]). Their use in a parallel context is more recent ([5], [1]).

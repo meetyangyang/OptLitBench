@@ -1,0 +1,6 @@
+Characterizations, bounds, and probabilistic analysis of two complexity measures for linear programming problems
+Michael J. Todd;Levent Tunçel;Yinyu Ye;
+Abstract
+This note studies \(\) A , a condition number used in the linear programming algorithm of Vavasis and Ye [14] whose running time depends only on the constraint matrix A∈ℝ m×n , and \(\)(A), a variant of another condition number due to Ye [17] that also arises in complexity analyses of linear programming problems. We provide a new characterization of \(\) A  and relate \(\) A  and \(\)(A). Furthermore, we show that if A is a standard Gaussian matrix, then E(ln\(\) A )=O(min{mlnn,n}). Thus, the expected running time of the Vavasis-Ye algorithm for linear programming problems is bounded by a polynomial in m and n for any right-hand side and objective coefficient vectors when A is randomly generated in this way. As a corollary of the close relation between \(\) A  and \(\)(A), we show that the same bound holds for E(ln\(\)(A)).
+Keywords
+Key words: linear programming – interior-point methods – probabilistic analysis  Mathematics Subject Classification (2000): 90C05, 90C51, 68Q25  

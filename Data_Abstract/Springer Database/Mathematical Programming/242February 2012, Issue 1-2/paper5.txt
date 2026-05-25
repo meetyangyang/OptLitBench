@@ -1,0 +1,6 @@
+Graph realizations associated with minimizing the maximum eigenvalue of the Laplacian
+Frank Göring;Christoph Helmberg;Susanna Reiss;
+Abstract
+In analogy to the absolute algebraic connectivity of Fiedler, we study the problem of minimizing the maximum eigenvalue of the Laplacian of a graph by redistributing the edge weights. Via semidefinite duality this leads to a graph realization problem in which nodes should be placed as close as possible to the origin while adjacent nodes must keep a distance of at least one. We prove three main results for a slightly generalized form of this embedding problem. First, given a set of vertices partitioning the graph into several or just one part, the barycenter of each part is embedded on the same side of the affine hull of the set as the origin. Second, there is an optimal realization of dimension at most the tree-width of the graph plus one and this bound is best possible in general. Finally, bipartite graphs possess a one dimensional optimal embedding.
+Keywords
+Spectral graph theory  Semidefinite programming  Eigenvalue optimization  Embedding  Graph partitioning  Tree-width  05C50  90C22  90C35  05C10  05C78  

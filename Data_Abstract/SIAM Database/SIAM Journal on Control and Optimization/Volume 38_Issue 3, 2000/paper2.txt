@@ -1,0 +1,6 @@
+A Max-Plus-Based Algorithm for a Hamilton--Jacobi--Bellman Equation of Nonlinear Filtering
+Wendell H.  Fleming and William M.  McEneaney;
+Abstract
+The Hamilton--Jacobi--Bellman (HJB) equation associated with the {robust/\hinfty} filter (as well as the Mortensen filter) is considered. These filters employ a model where the disturbances have finite power. The HJB equation for the filter information state is a first-order equation with a term that is quadratic in the gradient. Yet the solution operator is linear in the max-plus algebra. This property is exploited by the development of a numerical algorithm where the effect of the solution operator on a set of basis functions is computed off-line. The precomputed solutions are stored as vectors of coefficients of the basis functions. These coefficients are then used directly in the real-time computations.
+Keywords
+nonlinear filtering, robust, $\hboxH_\infty$, max-plus algebra, nonlinear HJB equations, 35F25, 49L25, 93B36, 93B99, 93C10, 93C90, 93E11, 

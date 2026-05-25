@@ -1,0 +1,6 @@
+ \(\mathcal O(n)\) working precision inverses for symmetric tridiagonal Toeplitz matrices with \(\mathcal O(1)\) floating point calculations
+Manuel Radons;
+Abstract
+A well known numerical task is the inversion of large symmetric tridiagonal Toeplitz matrices, i.e., matrices whose entries equal a on the diagonal and b on the extra diagonals (\(a, b\in \mathbb R\)). The inverses of such matrices are dense and there exist well known explicit formulas by which they can be calculated in \(\mathcal O(n^2)\). In this note we present a simplification of the problem that has proven to be rather useful in everyday practice: If \(\vert a\vert > 2\vert b\vert \), that is, if the matrix is strictly diagonally dominant, its inverse is a band matrix to working precision and the bandwidth is independent of n for sufficiently large n. Employing this observation, we construct a linear time algorithm for an explicit tridiagonal inversion that only uses \(\mathcal O(1)\) floating point operations. On the basis of this simplified inversion algorithm we outline the cornerstones for an efficient parallelizable approximative equation solver.
+Keywords
+Tridiagonal  Symmetric  Toeplitz  Explicit inverse  Working precision  Linear time  Equation solving  

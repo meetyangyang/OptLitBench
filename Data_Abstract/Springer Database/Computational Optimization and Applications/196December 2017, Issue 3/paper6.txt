@@ -1,0 +1,6 @@
+Inexact proximal stochastic gradient method for convex composite optimization
+Xiao Wang;Shuxiong Wang;Hongchao Zhang;
+Abstract
+We study an inexact proximal stochastic gradient (IPSG) method for convex composite optimization, whose objective function is a summation of an average of a large number of smooth convex functions and a convex, but possibly nonsmooth, function. Variance reduction techniques are incorporated in the method to reduce the stochastic gradient variance. The main feature of this IPSG algorithm is to allow solving the proximal subproblems inexactly while still keeping the global convergence with desirable complexity bounds. Different subproblem stopping criteria are proposed. Global convergence and the component gradient complexity bounds are derived for the both cases when the objective function is strongly convex or just generally convex. Preliminary numerical experiment shows the overall efficiency of the IPSG algorithm.
+Keywords
+Convex composite optimization  Empirical risk minimization  Stochastic gradient  Inexact methods  Global convergence  Complexity bound  47N10  65K10  

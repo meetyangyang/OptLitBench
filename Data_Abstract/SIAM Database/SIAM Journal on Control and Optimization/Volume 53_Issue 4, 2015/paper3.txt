@@ -1,0 +1,6 @@
+Networked Control Systems in the Presence of Scheduling Protocols and Communication Delays
+Kun  Liu, Emilia  Fridman, and Laurentiu  Hetel;
+Abstract
+This paper develops the time-delay approach to networked control systems in the presence of multiple sensor nodes, communication constraints, variable transmission delays, and sampling intervals. Due to communication constraints,  only one sensor node is allowed to transmit its packet at a time.  The scheduling of sensor information toward the controller is ruled by a weighted try-once-discard  or by round-robin protocols. A unified hybrid system model under both protocols for the closed-loop system is presented; it contains time-varying delays in the continuous dynamics and in the reset conditions.  A new Lyapunov--Krasovskii method, which is based on discontinuous in time Lyapunov functionals, is introduced for the stability analysis of the delayed hybrid systems. The resulting conditions can be applied to the system with polytopic type uncertainties. The efficiency of the  time-delay approach is illustrated on the examples of uncertain cart-pendulum and of batch reactor.
+Keywords
+networked control systems, time-delay approach, scheduling protocols, hybrid systems, Lyapunov--Krasovskii method, 93D15, 93D05, 

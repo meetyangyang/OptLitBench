@@ -1,0 +1,4 @@
+Not All Parents Are Equal for MO-CMA-ES
+Ilya Loshchilov;Marc Schoenauer;Michèle Sebag;
+Abstract
+The Steady State variants of the Multi-Objective Covariance Matrix Adaptation Evolution Strategy (SS-MO-CMA-ES) generate one offspring from a uniformly selected parent. Some other parental selection operators for SS-MO-CMA-ES are investigated in this paper. These operators involve the definition of multi-objective rewards, estimating the expectation of the offspring survival and its Hypervolume contribution. Two selection modes, respectively using tournament, and inspired from the Multi-Armed Bandit framework, are used on top of these rewards. Extensive experimental validation comparatively demonstrates the merits of these new selection operators on unimodal MO problems.

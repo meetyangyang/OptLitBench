@@ -1,0 +1,6 @@
+An effective hybrid PSO-based algorithm for planning UMTS terrestrial access networks
+ S.   Mehdi   Hashemi ; Mohsen   Rezapour ; Ahmad   Moradi ;
+Abstract
+ In this article, an effective hybrid algorithm based on Particle Swarm Optimization (PSO) is proposed for planning UMTS (Universal Mobile Telecommunication System) access networks. First, a new encoding scheme based on heuristics is developed, which converts the continuous position values of particles in PSO to multi-constrained and capacitated subnetwork trees with previously dedicated root nodes. Secondly, a local search strategy based on simulated annealing is incorporated in order to prevent premature convergence and concentrate computing effort on promising solutions. The proposed local search uses multi-neighbourhood structure guided by an adaptive meta-Lamarckian learning strategy. In particular, an iteration of the algorithm consists of a standard PSO iteration and a trial of simulated annealing applied to the best solution found so far, where the adaptive meta-Lamarckian learning strategy is employed to decide which neighbourhood is to be used. Simulation results on several networks with random topologies are used to illustrate the effectiveness of the proposed algorithm. 
+Keywords
+UMTS, particle swarm optimization, adaptive meta-Lamarckian learning, simulated annealing 

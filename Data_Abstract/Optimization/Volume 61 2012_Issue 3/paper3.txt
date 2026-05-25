@@ -1,0 +1,6 @@
+A class of stochastic optimization problems with application to selective data editing
+ Ignacio   Arbués ; Margarita   González ; Pedro   Revilla ;
+Abstract
+ We present a class of stochastic optimization problems with constraints expressed in terms of expectation and with partial knowledge of the outcome in advance to the decision. The constraints imply that the problem cannot be reduced to a deterministic one. Since the knowledge of the outcome is relevant to the decision, it is necessary to seek the solution in a space of random variables. We prove that under convexity conditions, a duality method can be used to solve the problem. An application to statistical data editing is also presented. The search for a good selective editing strategy is stated as an optimization problem in which the objective is to minimize the expected workload with the constraint that the expected error of the aggregates computed with the edited data is below a certain constant. We present the results of real data experimentation and a comparison with a well-known method. 
+Keywords
+stochastic programming, optimization in Banach spaces, selective editing, score functionAMS Subject Classifications:: 90C15, 90C46, 90C90 

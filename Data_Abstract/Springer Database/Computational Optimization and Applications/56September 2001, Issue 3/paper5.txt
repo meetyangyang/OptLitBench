@@ -1,0 +1,6 @@
+Metric-Based Parameterizations for Multi-Step Unconstrained Optimization
+I.A. Moghrabi;
+Abstract
+We consider multi-step quasi-Newton methods for unconstrained optimization. These methods were introduced by Ford and Moghrabi (Appl. Math., vol. 50, pp. 305–323, 1994; Optimization Methods and Software, vol. 2, pp. 357–370, 1993), who showed how interpolating curves could be used to derive a generalization of the Secant Equation (the relation normally employed in the construction of quasi-Newton methods). One of the most successful of these multi-step methods makes use of the current approximation to the Hessian to determine the parameterization of the interpolating curve in the variable-space and, hence, the generalized updating formula. In this paper, we investigate new parameterization techniques to the approximate Hessian, in an attempt to determine a better Hessian approximation at each iteration and, thus, improve the numerical performance of such algorithms.
+Keywords
+unconstrained optimization  quasi-Newton methods  multi-step methods  

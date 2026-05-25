@@ -1,0 +1,6 @@
+Sequencing and scheduling for filling lines in dairy production
+Torsten Gellert;Wiebke Höhn;Rolf H. Möhring;
+Abstract
+We consider an integrated sequencing and scheduling problem arising at filling lines in dairy industry. Even when a processing sequence is decided, still a scheduling problem has to be solved for the sequence. This incorporates typical side constraints as they occur also in other sequencing problems in practice. Previously, we proposed a framework for general sequencing and scheduling problems: A genetic algorithm is utilized for the sequencing, incorporating a problem specific algorithm for the fixed-sequence scheduling. In this paper, we investigate how this approach performs for filling lines. Based on insights into structural properties of the problem, we propose different scheduling algorithms. In cooperation with Sachsenmilch GmbH, the algorithm was implemented for their bottleneck filling line, and evaluated in an extensive computational study. For the real data from production, our algorithm computes almost optimal solutions. However, as a surprising result, our simple greedy algorithms outperform the more elaborate ones in many aspects, showing interesting directions for future research.
+Keywords
+Sequencing  Scheduling  Dairy production  Filling line  Setup  

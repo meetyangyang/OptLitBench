@@ -1,0 +1,6 @@
+Nonlinear Adaptive Tracking Using Kernel Estimators: Estimation and Test for Linearity
+Jean-Michel  Poggi and Bruno  Portier;
+Abstract
+We present some statistical results on nonlinear adaptive control using kernel estimators. We are concerned with a nonlinear autoregressive model of the form  $$ X_{n+1} = f(X_n) + U_n + \xi_{n+1}, \hskip 0.4cm n \in \mathbb{N}, $$ controlled using a nonparametric estimator of the unknown function f and derived from a tracking control policy. We prove an almost sure convergence result for the noise density estimator, a pointwise central limit theorem for f, and a test for linearity of the driving function f.
+Keywords
+adaptive control, central limit theorem, discrete-time stochastic nonlinear system, kernel estimation, test for linearity, 93C40, 62G07, 62G10, 62G20, 93C10, 93C55, 

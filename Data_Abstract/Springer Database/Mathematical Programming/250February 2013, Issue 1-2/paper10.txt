@@ -1,0 +1,8 @@
+An exact Jacobian SDP relaxation for polynomial optimization
+Jiawang Nie;
+Abstract
+Given polynomials f (x), g  i  (x), h  j  (x), we study how to minimize f (x) on the set
+$$S = \left\{ x \in \mathbb{R}^n:\, h_1(x) = \cdots = h_{m_1}(x) = 0,\\ g_1(x)\geq 0, \ldots, g_{m_2}(x) \geq 0 \right\}.$$Let f min be the minimum of f on S. Suppose S is nonsingular and f min is achievable on S, which are true generically. This paper proposes a new type semidefinite programming (SDP) relaxation which is the first one for solving this problem exactly. First, we construct new polynomials \({\varphi_1, \ldots, \varphi_r}\) , by using the Jacobian of f, h  i  , g  j  , such that the above problem is equivalent to
+$$\begin{gathered}\underset{x\in\mathbb{R}^n}{\min} f(x) \hfill \\ \, \, {\rm s.t.}\; h_i(x) = 0, \, \varphi_j(x) = 0, \, 1\leq i \leq m_1, 1 \leq j \leq r, \hfill \\ \quad \, \, \, g_1(x)^{\nu_1}\cdots g_{m_2}(x)^{\nu_{m_2}}\geq 0, \, \quad\forall\, \nu \,\in \{0,1\}^{m_2} .\hfill \end{gathered}$$Second, we prove that for all N big enough, the standard N-th order Lasserre’s SDP relaxation is exact for solving this equivalent problem, that is, its optimal value is equal to f min. Some variations and examples are also shown.
+Keywords
+Determinantal varieties  Ideals  Minors  Polynomials  Nonsingularity  Semidefinite programming  Sum of squares  65K05  90C22  

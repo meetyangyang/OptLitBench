@@ -1,0 +1,6 @@
+Solving the continuous multiple allocation p-hub median problem by the hyperbolic smoothing approach
+Adilson Elias Xavier;Claudio M. Gesteira;Vinicius Layter Xavier;
+Abstract
+Hub-and-spoke (HS) networks constitute an important approach for designing transportation and telecommunications systems. The continuous multiple allocation -hub median problem consists in finding the least expensive HS network, locating a given number of  hubs in planar space and assigning traffic to them, given the demands between each origin-destination pair and the respective transportation costs, where each demand centre can receive and send flow through more than one hub. The specification of the problem corresponds to a strongly non-differentiable min-sum-min formulation. The proposed method overcomes this difficulty with the hyperbolic smoothing strategy, which has been proven able to solve large instances of clustering problems quite efficiently. The solution is ultimately obtained by solving a sequence of differentiable unconstrained low-dimension optimization subproblems. The consistency of the method is shown through a set of computational experiments with large hub-and-spoke problems in continuous space with up to 1000 cities.
+Keywords
+hub location, multiple allocation, min-sum-min problems, hyperbolic smoothingAMS Subject Classifications: 90C30, 90C26, 26A27, 57R10 

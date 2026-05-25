@@ -1,0 +1,6 @@
+Norm descent conjugate gradient methods for solving symmetric nonlinear equations
+Yunhai Xiao;Chunjie Wu;Soon-Yi Wu;
+Abstract
+Nonlinear conjugate gradient method is very popular in solving large-scale unconstrained minimization problems due to its simple iterative form and lower storage requirement. In the recent years, it was successfully extended to solve higher-dimension monotone nonlinear equations. Nevertheless, the research activities on conjugate gradient method in symmetric equations are just beginning. This study aims to developing, analyzing, and validating a family of nonlinear conjugate gradient methods for symmetric equations. The proposed algorithms are based on the latest, and state-of-the-art descent conjugate gradient methods for unconstrained minimization. The series of proposed methods are derivative-free, where the Jacobian information is needless at the full iteration process. We prove that the proposed methods converge globally under some appropriate conditions. Numerical results with differentiable parameter’s values and performance comparisons with another solver CGD to demonstrate the superiority and effectiveness of the proposed algorithms are reported.
+Keywords
+Unconstrained optimization  Symmetric equations  Conjugate gradient method  Backtracking line search  65F22  65J22  65K05  90C06  90C25  90C30  

@@ -1,0 +1,6 @@
+A data-driven kernel method assimilation technique for geophysical modelling
+R.C. Gilbert;T.B. Trafalis;M.B. Richman;L.M. Leslie;
+Abstract
+Incorporating the quantity and variety of observations in atmospheric and oceanographic assimilation and prediction models has become an increasingly complex task. Data assimilation allows for uneven spatial and temporal data distribution and redundancy to be addressed so that the models can ingest massive data sets. Traditional data assimilation methods introduce Kalman filters and variational approaches. This study introduces a family of algorithms, motivated by advances in machine learning. These algorithms provide an alternative approach to incorporating new observations into the analysis forecast cycle. The application of kernel methods to processing the states of a quasi-geostrophic numerical model is intended to demonstrate the feasibility of the method as a proof-of-concept. The speed, efficiency, accuracy and scalability in recovering unperturbed state trajectories establishes the viability of machine learning for data assimilation.
+Keywords
+machine learning, geophysical modelling, data-driven model, data assimilationAMS Subject Classification: 68T, 82C 

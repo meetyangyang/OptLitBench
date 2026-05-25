@@ -1,0 +1,6 @@
+A two-stage approach for a multi-objective component assignment problem for a stochastic-flow network
+ Yi-Kuei   Lin ; Cheng-Ta   Yeh ;
+Abstract
+ Many real-life systems, such as computer systems, manufacturing systems and logistics systems, are modelled as stochastic-flow networks (SFNs) to evaluate network reliability. Here, network reliability, defined as the probability that the network successfully transmits d units of data/commodity from an origin to a destination, is a performance indicator of the systems. Network reliability maximization is a particular objective, but is costly for many system supervisors. This article solves the multi-objective problem of reliability maximization and cost minimization by finding the optimal component assignment for SFN, in which a set of multi-state components is ready to be assigned to the network. A two-stage approach integrating Non-dominated Sorting Genetic Algorithm II and simple additive weighting are proposed to solve this problem, where network reliability is evaluated in terms of minimal paths and recursive sum of disjoint products. Several practical examples related to computer networks are utilized to demonstrate the proposed approach. 
+Keywords
+stochastic-flow network, multi-objective optimization, Non-dominated Sorting Genetic Algorithm II 

@@ -1,0 +1,6 @@
+The volume algorithm revisited: relation with bundle methods
+L. Bahiense;N. Maculan;C. Sagastizábal;
+Abstract
+ We revise the Volume Algorithm (VA) for linear programming and relate it to bundle methods. When first introduced, VA was presented as a subgradient-like method for solving the original problem in its dual form. In a way similar to the serious/null steps philosophy of bundle methods, VA produces green, yellow or red steps. In order to give convergence results, we introduce in VA a precise measure for the improvement needed to declare a green or serious step. This addition yields a revised formulation (RVA) that is halfway between VA and a specific bundle method, that we call BVA. We analyze the convergence properties of both RVA and BVA. Finally, we compare the performance of the modified algorithms versus VA on a set of Rectilinear Steiner problems of various sizes and increasing complexity, derived from real world VLSI design instances.
+Keywords
+Real World  Original Problem  Precise Measure  Convergence Property  Convergence Result  

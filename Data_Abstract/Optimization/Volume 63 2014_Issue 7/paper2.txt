@@ -1,0 +1,6 @@
+A modified Newton direction for unconstrained optimization
+ Theodoula   N.   Grapsa ;
+Abstract
+ In this article, a modification on Newton's direction for solving problems of unconstrained optimization is presented. As it is known, a major disadvantage of Newton's method is its slowness or non-convergence for the initial point not being close to optima's neighbourhood. The proposed method generally guarantees the decrement of the norm of the gradient or the value of the objective function at every iteration, contributing to the efficiency of Newton's method. The quadratic convergence of the proposed iterative scheme and the enlargement of the radius of convergence area are proved. The proposed algorithm has been implemented and tested on several well-known test functions. 
+Keywords
+unconstrained optimization, multiobjective optimization, descent direction, Newton's method, line search strategies, quadratic convergence, initialization dependence, pivot pointsAMS Subject Classifications: 90C30, 49M37, 65K10, 65H10 

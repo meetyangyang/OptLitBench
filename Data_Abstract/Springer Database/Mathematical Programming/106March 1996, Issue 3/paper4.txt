@@ -1,0 +1,6 @@
+Extension of Karmarkar's algorithm onto convex quadratically constrained quadratic problems
+Arkadii Nemirovskii;Katya Scheinberg;
+Abstract
+Convex quadratically constrained quadratic problems are considered. It is shown that such problems can be transformed to aconic form. The feasible set of the conic form is the intersection of a direct product of standard quadratic cones intersected with a hyperplane (the analogue of a simplex), and a linear subspace. For a problem of such form, the analogue of Karmarkar's projective transformation and logarithmic barrier function are built. This allows us to extend “word by word” the method of Karmarkar for LP to QCQP and allows us to obtain a similar polynomial worst-case bound for the number of iterations.
+Keywords
+Convex quadratically constrained quadratic problem  Karmarkar's algorithm  Potential function  Projective transformation  Conic form  Interior point method  

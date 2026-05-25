@@ -1,0 +1,6 @@
+A descent method for regularization of ill-posed problems
+ Fabiana   Zama ; Elena   Loli   Piccolomini ;
+Abstract
+ In this paper, we describe an iterative algorithm, called descent-TCG, based on truncated conjugate gradients iterations to compute Tikhonov regularized solutions of linear ill-posed problems. The sequence of approximate solutions and regularization parameters, computed by the algorithm, is shown to decrease the value of the Tikhonov functional. Suitable termination criteria are built-up to define an inner–outer iteration scheme that computes a regularized solution. Numerical experiments are performed to compare this algorithm with other well established regularization methods. We observe that the best descent-TCG results occur for highly noised data and we always get fairly reliable solutions, thus it prevents the dangerous error growth often appearing in other well established regularization methods. Finally, the descent-TCG method is computationally advantageous especially for large size problems. 
+Keywords
+Tikhonov regularization, Conjugate gradients iterations, Ill-posed problems, Descent methods 

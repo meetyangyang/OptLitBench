@@ -1,0 +1,6 @@
+Optimization of the Local Search in the Training for SAMANN Neural Network
+Viktor Medvedev;Gintautas Dzemyda;
+Abstract
+In this paper, we discuss the visualization of multidimensional data. A well-known procedure for mapping data from a high-dimensional space onto a lower-dimensional one is Sammon’s mapping. This algorithm preserves as well as possible all interpattern distances. We investigate an unsupervised backpropagation algorithm to train a multilayer feed-forward neural network (SAMANN) to perform the Sammon’s nonlinear projection. Sammon mapping has a disadvantage. It lacks generalization, which means that new points cannot be added to the obtained map without recalculating it. The SAMANN network offers the generalization ability of projecting new data, which is not present in the original Sammon’s projection algorithm. To save computation time without losing the mapping quality, we need to select optimal values of control parameters. In our research the emphasis is put on the optimization of the learning rate. The experiments are carried out both on artificial and real data. Two cases have been analyzed: (1) training of the SAMANN network with full data set, (2) retraining of the network when the new data points appear.
+Keywords
+Learning rate  SAMANN neural network  Sammon’s mapping  Visualization  

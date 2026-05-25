@@ -1,0 +1,6 @@
+Optimization procedures for simultaneous road rehabilitation and bridge replacement decisions in highway networks
+ Manuel   Bonyuet ; Alberto   Garcia-DIAZ ; Illya   Hicks ;
+Abstract
+ A road-bridge rehabilitation model is formulated as a mixed non-linear programming problem with linear constraints. The purpose of the model is to minimize user travel costs under limited availability of funds. Two constraints are related to budget availability for road rehabilitation and bridge replacement (or rehabilitation). For a given set of replaced bridges, the problem is reduced to a continuous non-linear programming problem that can be further decomposed into a traffic assignment problem (TAP) and a road rehabilitation budget allocation problem (RBAP). The solution to the non-linear problem is found by iteratively solving the TAP and the RBAP. Since the TAP has a non-convex objective function, its solution is only guaranteed to be a local optimum. Several local optima are obtained at each branch of the search tree to estimate a lower confidence limit on the user cost of a global solution. 
+Keywords
+Pavement Management, Bridge Management, Highway Management, Network Optimization 

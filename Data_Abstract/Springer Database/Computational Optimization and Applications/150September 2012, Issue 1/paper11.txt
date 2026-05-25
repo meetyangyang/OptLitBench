@@ -1,0 +1,6 @@
+A hybrid ODE-based method for unconstrained optimization problems
+Yi-gui Ou;Guan-shu Wang;
+Abstract
+This paper presents a hybrid ODE-based method for unconstrained optimization problems, which combines the idea of IMPBOT with the subspace technique and a fixed step-length. The main characteristic of this method is that at each iteration, a lower dimensional system of linear equations is solved only once to obtain a trial step. Another is that when a trial step is not accepted, this proposed method uses minimization of a convex overestimation, thus avoiding performing a line search to compute a step-length. Under some reasonable assumptions, the method is proven to be globally convergent. Numerical results show the efficiency of this proposed method in practical computations, especially for solving small scale unconstrained optimization problems.
+Keywords
+Unconstrained optimization  Fixed step-length  ODE-based methods  IMPBOT algorithm  Global convergence  

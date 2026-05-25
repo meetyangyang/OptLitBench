@@ -1,0 +1,6 @@
+Worst-case topology optimization of self-weight loaded structures using semi-definite programming
+Erik Holmberg;Carl-Johan Thore;Anders Klarbring;
+Abstract
+The paper concerns worst-case compliance optimization by finding the structural topology with minimum compliance for the loading due to the worst possible acceleration of the structure and attached non-structural masses. A main novelty of the paper is that it is shown how this min-max problem can be formulated as a non-linear semi-definite programming (SDP) problem involving a small-size constraint matrix and how this problem is solved numerically. Our SDP formulation is an extension of an eigenvalue problem seen previously in the literature; however, multiple eigenvalues naturally arise which makes the eigenvalue problem non-smooth, whereas the SDP problem presented in this paper provides a computationally tractable problem. Optimized designs, where the uncertain loading is due to acceleration of applied masses and the weight of the structure itself, are shown in two and three dimensions and we show that these designs satisfy optimality conditions that are also presented.
+Keywords
+Topology optimization  Semi-definite programming  Worst-case compliance  Self-weight  Robust optimization  

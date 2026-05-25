@@ -1,0 +1,6 @@
+Arbogast: Higher order automatic differentiation for special functions with Modular C
+Isabelle Charpentier;Jens Gustedt;
+Abstract
+This high-level toolbox for the calculus with Taylor polynomials is named after L.F.A. Arbogast (1759–1803), a French mathematician from Strasbourg (Alsace), for his pioneering work in derivation calculus. Arbogast is based on a well-defined extension of the C programming language, Modular C, and places itself between tools that proceed by operator overloading on one side and by rewriting, on the other. The approach is best described as contextualization of C code because it permits the programmer to place his code in different contexts—usual math or automatic differentiation (AD)—to reinterpret it as a usual C function or as a differential operator. Because of the type generic features of modern C, all specializations can be delegated to the compiler. The higher order AD with arbogast is exemplified on families of functions of mathematical physics and on models for complex dielectric functions used in optics.
+Keywords
+automatic differentiation, differential operators, modular programming, C, contextualization, functions of mathematical physicsAMS Subject Classification: 41A58, 68N15, 68N19 

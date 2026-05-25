@@ -1,0 +1,7 @@
+Minimal concave cost rebalance of a portfolio to the efficient frontier
+Hiroshi Konno;Rei Yamamoto;
+Abstract
+One usually constructs a portfolio on the efficient frontier, but it may not be efficient after, say three months since the efficient frontier will shift as the elapse of time. We then have to rebalance the portfolio if the deviation is no longer acceptable. The method to be proposed in this paper is to find a portfolio on the new efficient frontier such that the total transaction cost required for this rebalancing is minimal. This problem results in a nonconvex minimization problem, if we use mean-variance model. In this paper we will formulate this problem by using absolute deviation as the measure of risk and solve the resulting linearly constrained concave minimization problem by a branch and bound algorithm successfully applied to portfolio optimization problem under concave transaction costs. It will be demonstrated that this method is efficient and that it leads to a significant reduction of transaction costs.
+
+Keywords
+Transaction Cost  Absolute Deviation  Minimization Problem  Portfolio Optimization  Efficient Frontier  

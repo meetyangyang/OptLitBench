@@ -1,0 +1,8 @@
+Clustering via minimum volume ellipsoids
+Romy Shioda;Levent Tunçel;
+Abstract
+
+We propose minimum volume ellipsoids (MVE) clustering as an alternative clustering technique to k-means for data clusters with ellipsoidal shapes and explore its value and practicality. MVE clustering allocates data points into clusters in a way that minimizes the geometric mean of the volumes of each cluster’s covering ellipsoids. Motivations for this approach include its scale-invariance, its ability to handle asymmetric and unequal clusters, and our ability to formulate it as a mixed-integer semidefinite programming problem that can be solved to global optimality. We present some preliminary empirical results that illustrate MVE clustering as an appropriate method for clustering data from mixtures of “ellipsoidal” distributions and compare its performance with the k-means clustering algorithm as well as the MCLUST algorithm (which is based on a maximum likelihood EM algorithm) available in the statistical package R.
+
+Keywords
+Semidefinite optimization  Mixed integer programming  Clustering  Inscribing ellipsoids  Interior-point methods  Learning theory  

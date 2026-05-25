@@ -1,0 +1,6 @@
+A Numerical Algorithm for Optimal Feedback Gains in High Dimensional Linear Quadratic Regulator Problems
+H. T.  Banks and K.  Ito;
+Abstract
+A hybrid method for computing the feedback gains in linear quadratic regulator problems is proposed. The method, which combines use of a Chandrasekhar type system with an iteration of the Newton–Kleinman form with variable acceleration parameter Smith schemes, is formulated to efficiently compute directly the feedback gains rather than solutions of an associated Riccati equation. The hybrid method is particularly appropirate when used with large dimensional systems such as those arising in approximating infinite-dimensional (distributed parameter) control systems (e.g., those governed by delay-differential and partial differential equations). Computational advantages of the proposed algorithm over the standard eigenvector (Potter, Laub–Schur) based techniques are discussed, and numerical evidence of the efficacy of these ideas is presented.
+Keywords
+linear quadratic regulator (LQR) problems, feedback gains, distributed parameter systems, computational algorithm, Chandrasekhar system, Newton–Kleinman scheme, Smith method, 65H10, 93B40, 93C20, 

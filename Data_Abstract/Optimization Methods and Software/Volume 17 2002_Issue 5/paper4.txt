@@ -1,0 +1,6 @@
+On constrained optimization by adjoint based quasi-Newton methods
+ Andreas   Griewank ; Andrea   Walther ;
+Abstract
+ In this article we propose a new approach to constrained optimization that is based on direct and adjoint vector-function evaluations in combination with secant updating. The main goal is the avoidance of constraint Jacobian evaluations and the reduction of the linear algebra cost per iteration to $ {\cal O}(n + m)^2 $ operations in the dense, unstructured case. A crucial building block is a transformation invariant two-sided-rank-one update (TR1) for approximations to the (active) constraint Jacobian. In this article we elaborate its basic properties and report preliminary numerical results for the new total quasi-Newton approach on some small equality constrained problems. A nullspace implementation under development is briefly described. The tasks of identifying active constraints, safeguarding convergence and many other important issues in constrained optimization are not addressed in detail. 
+Keywords
+Secant Updating, Quasi-Newton, Kkt System, Constrained Optimization, Lagrangian Gradient 

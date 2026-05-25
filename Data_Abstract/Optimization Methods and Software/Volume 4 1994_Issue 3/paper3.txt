@@ -1,0 +1,6 @@
+A modified auction algorithm for the shortest path problem
+ R.   Cerulli ; R.   De Leone ; G.   Piacente ;
+Abstract
+ A modified auction algorithm for solving the shortest path problem is presented and convergence is established. The proposed method differs from the standard auction algorithm in the way dual variables are updated. By relaxing the dual feasibility requirement we were able to reduce the total number of iterations required by the auction algorithm to compute the shortest path. Computational results show the advantage of this new approach, especially when the number of intermediate nodes in the shortest path from the origin to the destination is large. 
+Keywords
+Auction algorithm, shortest path 

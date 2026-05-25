@@ -1,0 +1,6 @@
+A generalized eigenvalues classifier with embedded feature selection
+Marco Viola;Mara Sangiovanni;Gerardo Toraldo;Mario R. Guarracino;
+Abstract
+Supervised classification is one of the most used methods in machine learning. In case of data characterized by a large number of features, a critical issue is to deal with redundant or irrelevant information. To this extent, an effective algorithm needs to identify a suitable subset of features, as small as possible, for the classification. In this work we present ReGEC_L1, a classifier with embedded feature selection based on the Regularized Generalized Eigenvalue Classifier (ReGEC) and equipped with a L1-norm regularization term. We detail the mathematical formulation and the numerical algorithm. Numerical results, obtained on some de facto standard benchmark data sets, show that the approach we propose produces a remarkable selection of the features, without losing accuracy in the classification. In that respect, our algorithm seems to compare favorably with the SVM_L1 method. A MATLAB implementation of ReGEC_L1 is available at http://www.na.icar.cnr.it/~mariog/regec_l1.html.
+Keywords
+Supervised classification  Feature selection  Embedded methods  

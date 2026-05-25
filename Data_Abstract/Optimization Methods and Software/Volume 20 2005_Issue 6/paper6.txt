@@ -1,0 +1,6 @@
+Semi-monotonic inexact augmented Lagrangians for quadratic programing with equality constraints
+ Z.   Dostál ;
+Abstract
+ A variant of the augmented Lagrangian algorithm for strictly convex quadratic programing problems with equality constraints is considered. An update rule for the penalty parameter is introduced that is related to an increase of the augmented Lagrangian. The algorithm exploits an adaptive precision control of the inexact solution of auxiliary unconstrained problems. Global convergence in primal variables is proved and an explicit bound on the penalty parameter independent of the constraints is given. A qualitatively new feature of our algorithm is a simple bound on the feasibility error that is independent of the conditioning of the constraints. The theoretical results are illustrated on numerical solution of a model problem. 
+Keywords
+Quadratic programing, Equality constraints, Augmented Lagrangians, Adaptive precision control 

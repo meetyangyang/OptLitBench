@@ -1,0 +1,6 @@
+Uniform parallel machine scheduling problems with fixed machine cost
+Kai Li;Hui-Juan Zhang;Ba-Yi Cheng;Panos M. Pardalos;
+Abstract
+This paper considers two uniform parallel machine scheduling problems with fixed machine cost under the background of cloud manufacturing. The goal is to minimize the makespan with a given budget of total cost, \(\hat{U}\). All the jobs are homogeneous, i.e., the processing times of the jobs are identical. Non-preemptive and preemptive problems are studied. For the non-preemptive problem, we give a \(2[1+1{/}(h-1)]\)-approximation algorithm, where h is the number of the machine which can not be selected the first time. For the preemptive problem, we give an algorithm whose worst-case bound equals to \(1+1{/}(h-1)\). Preliminary experimental results indicate that the proposed algorithms are reasonably accurate compared with the lower bounds.
+Keywords
+Uniform parallel machine scheduling  Preemptive  Non-preemptive  Heuristic  

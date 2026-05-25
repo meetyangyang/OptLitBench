@@ -1,0 +1,6 @@
+Exact and approximation algorithms for a soft rectangle packing problem
+ Armin   Fügenschuh ; Konstanty   Junosza-Szaniawski ; Zbigniew   Lonc ;
+Abstract
+ We consider the problem of finding an arrangement of rectangles with given areas that minimizes the total length of all inner and outer border lines. We present a polynomial time approximation algorithm and derive an upper bound estimation on its approximation ratio. Furthermore, we give a formulation of the problem as mixed-integer nonlinear program and show that it can be approximatively reformulated as linear mixed-integer program. On a test set of problem instances, we compare our approximation algorithm with another one from the literature. Using a standard numerical mixed-integer linear solver, we show that adding the solutions from the approximation algorithm as advanced starter helps to reduce the overall solution time for proven global optimality, or gives better primal and dual bounds if a certain time-limit is reached before. 
+Keywords
+partitioning, rectangle packing, soft rectangles, geometric arrangement problems, mixed-integer linear and nonlinear programmingAMS Subject Classifications:: 90C11, 90C25, 52C15, 68W25, 68W35, 68W40 

@@ -1,0 +1,4 @@
+Cloud Branching
+Timo Berthold;Domenico Salvagnin;
+Abstract
+Branch-and-bound methods for mixed-integer programming (MIP) are traditionally based on solving a linear programming (LP) relaxation and branching on a variable which takes a fractional value in the (single) computed relaxation optimum. In this paper we study branching strategies for mixed-integer programs that exploit the knowledge of multiple alternative optimal solutions (a cloud) of the current LP relaxation. These strategies naturally extend state-of-the-art methods like strong branching, pseudocost branching, and their hybrids.

@@ -1,0 +1,6 @@
+Incorporating Condition Measures into the Complexity Theory of Linear Programming
+James  Renegar;
+Abstract
+This work is an attempt, among other things, to begin developing a complexity theory in which problem instance data is allowed to consist of real, even irrational, numbers and yet computations are of finite precision.Complexity theory generally assumes that the exact data specifying a problem instance is used by algorithms. The efficiency of an algorithm is judged relative to the size of the input. For the Turing model of computation, size refers to the bit-length of the input, which is required to consist of integers (or rational numbers separated into numerators and denominators).We replace customary measures of size with condition measures. These measures reflect the amount of data accuracy necessary to achieve the desired computational goal. The measures are similar in spirit, and closely related, to condition numbers.
+Keywords
+linear programming, complexity theory, condition numbers, 90C05, 68Q25, 65Y20, 65G99, 

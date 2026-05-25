@@ -1,0 +1,6 @@
+A p-cone sequential relaxation procedure for 0-1 integer programs
+ Samuel   Burer ; Jieqiu   Chen ;
+Abstract
+ Several authors have introduced sequential relaxation techniques – based on linear and/or semi-definite programming – to generate the convex hull of 0-1 integer points in a polytope in at most n steps. In this paper, we introduce a sequential relaxation technique, which is based on p-order cone programming (1≤p≤∞). We prove that our technique generates the convex hull of 0-1 solutions asymptotically. In addition, we show that our method generalizes and subsumes several existing methods. For example, when p=∞, our method corresponds to the well-known procedure of Lovász and Schrijver based on linear programming. Although the p-order cone programs in general sacrifice some strength compared to the analogous linear and semi-definite programs, we show that for p=2 they enjoy a better theoretical iteration complexity. Computational considerations of our technique are discussed. 
+Keywords
+global optimization, 0-1 integer programming, second-order cone programming, cone programming, convex relaxation, successive convex relaxations 

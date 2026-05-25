@@ -1,0 +1,6 @@
+Nonparametric Estimation and Adaptive Control of Functional Autoregressive Models
+Bruno  Portier and Abderrahim  Oulidi;
+Abstract
+This paper deals with nonparametric estimation and adaptive control of nonlinear systems of the form $X_{n+1}\ =\ f(X_n)\ +\ U_n\ +\ \xi_{n+1}\ (n \in \bkN)$ where the state $X_n$ is observed, f is an unknown function, and the control Un is chosen in order to track a given reference trajectory. We estimate the function f using a nonparametric estimator and study two adaptive control laws built from this nonparametric estimator and derived from the self-tuning control. The first one can be used for open-loop stable systems and requires an additional exciting noise. The second one needs some a priori knowledge on function f but allows us to control open-loop unstable systems. We establish some general results on the nonparametric estimator of f like the uniform almost sure convergence over dilating sets and then prove that both adaptive control laws are asymptotically optimal in quadratic mean. In addition, we give a strongly consistent estimator of the covariance matrix of the unobservable white noise $\xi_n$.
+Keywords
+adaptive control, discrete-time stochastic nonlinear system, nonparametric estimation, optimal adaptive tracking, 93C40, 62G07, 93E20, 93C55, 93C10, 

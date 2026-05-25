@@ -1,0 +1,6 @@
+A primal—dual potential reduction method for problems involving matrix inequalities
+Lieven Vandenberghe;Stephen Boyd;
+Abstract
+We describe a potential reduction method for convex optimization problems involving matrix inequalities. The method is based on the theory developed by Nesterov and Nemirovsky and generalizes Gonzaga and Todd's method for linear programming. A worst-case analysis shows that the number of iterations grows as the square root of the problem size, but in practice it appears to grow more slowly. As in other interior-point methods the overall computational effort is therefore dominated by the least-squares system that must be solved in each iteration. A type of conjugate-gradient algorithm can be used for this purpose, which results in important savings for two reasons. First, it allows us to take advantage of the special structure the problems often have (e.g., Lyapunov or algebraic Riccati inequalities). Second, we show that the polynomial bound on the number of iterations remains valid even if the conjugate-gradient algorithm is not run until completion, which in practice can greatly reduce the computational effort per iteration.
+Keywords
+Interior point algorithms  Linear matrix inequalities  Semidefinite programming  

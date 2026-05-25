@@ -1,0 +1,6 @@
+A rapidly convergent five-point algorithm for univariate minimization
+Robert Mifflin;J. -J. Strodiot;
+Abstract
+This paper presents an algorithm for minimizing a function of one variable which uses function, but not derivative, values at five-points to generate each iterate. It employs quadratic and polyhedral approximations together with a safeguard. The basic method without the safeguard exhibits a type of better than linear convergence for certain piecewise twice continuously differentiable functions. The safeguard guarantees convergence to a stationary point for very general functions and preserves the better than linear convergence of the basic method.
+Keywords
+Nonsmooth optimization  nondifferentiable programming  univariate minimization  quadratic approximation  polyhedral approximation  

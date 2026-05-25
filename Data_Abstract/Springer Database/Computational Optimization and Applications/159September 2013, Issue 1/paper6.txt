@@ -1,0 +1,6 @@
+Algorithms for detecting optimal hereditary structures in graphs, with application to clique relaxations
+Svyatoslav Trukhanov;Chitra Balasubramaniam;Balabhaskar Balasundaram;Sergiy Butenko;
+Abstract
+Given a simple undirected graph, the problem of finding a maximum subset of vertices satisfying a nontrivial, interesting property Π that is hereditary on induced subgraphs, is known to be NP-hard. Many well-known graph properties meet the above conditions, making the problem widely applicable. This paper proposes a general purpose exact algorithmic framework to solve this problem and investigates key algorithm design and implementation issues that are helpful in tailoring the general framework for specific graph properties. The performance of the algorithms so derived for the maximum s-plex and the maximum s-defective clique problems, which arise in network-based data mining applications, is assessed through a computational study.
+Keywords
+Russian Doll Search  Clique relaxations  s-plex  s-defective clique  

@@ -1,0 +1,6 @@
+Optimal wire ordering and spacing in low power semiconductor design
+Peter Gritzmann;Michael Ritter;Paul Zuber;
+Abstract
+A key issue for high integration circuit design in the semiconductor industry are power constraints that stem from the need for heat removal and reliability or battery lifetime limitations. As the power consumption depends heavily on the capacitances between adjacent wires, determining the optimal ordering and spacing of parallel wires is an important issue in the design of low power chips. As it turns out, optimal wire spacing is a convex optimization problem, whereas the optimal wire ordering is combinatorial in nature, containing (a special class of) the Minimum Hamilton Path problem. While the latter is \({\mathcal{NP}}\)-hard in general, the present paper provides an \({\mathcal{O}{(N \log N)}}\) algorithm that solves the coupled ordering and spacing problem for N parallel wires to optimality.
+Keywords
+Optimal wire placement  Convex programming  Combinatorial optimization  Hamilton path  90C27  90C25  90C90  

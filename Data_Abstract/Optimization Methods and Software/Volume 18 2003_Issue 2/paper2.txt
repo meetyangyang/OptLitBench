@@ -1,0 +1,6 @@
+Independentand cooperative parallel search methods for the generalized assignment problem
+ Yuichi   Asahiro ; Masahiro   Ishibashi ; Masafumi   Yamashita ;
+Abstract
+ The generalized assignment problem is a representative NP-hard problem, for which many heuristic algorithms are known. In this article, two parallel heuristic algorithms are proposed, which are based on the ejection chain local search (EC) proposed by Yagiura et al. One is a simple parallelization called multistart parallel EC (MPEC) and the other is cooperative parallel EC (CPEC). In MPEC each search process independently explores search space while in CPEC search processes share partial information to cooperate with each other. The experimental results with 9 computers for large benchmark instances show that (1) MPEC and CPEC, respectively, run twice and 4 times faster than EC, and (2) compared to EC, the difference in quality between obtained solutions and theoretical lower bounds is reduced to [Formula: See Text] and [Formula: See Text] by MPEC and CPEC, respectively. It is said that these methods give us full benefit of parallelization, speedup and improvement for quality of solutions. 
+Keywords
+Generalized Assignment Problem, Heuristics, Local Search, Parallel Algorithm, Pc Cluster 

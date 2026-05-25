@@ -1,0 +1,4 @@
+Counting Weighted Spanning Trees to Solve Constrained Minimum Spanning Tree Problems
+Antoine Delaite;Gilles Pesant;
+Abstract
+Building on previous work about counting the number of spanning trees of an unweighted graph, we consider the case of edge-weighted graphs. We present a generalization of the former result to compute in pseudo-polynomial time the exact number of spanning trees of any given weight, and in particular the number of minimum spanning trees. We derive two ways to compute solution densities, one of them exhibiting a polynomial time complexity. These solution densities of individual edges of the graph can be used to sample weighted spanning trees uniformly at random and, in the context of constraint programming, to achieve domain consistency on the binary edge variables and, more importantly, to guide search through counting-based branching heuristics. We exemplify our contribution using constrained minimum spanning tree problems.

@@ -1,0 +1,6 @@
+Explicit general solution of the Quasi-Newton equation with sparsity and symmetry
+ Emilio   Spedicato ; Jinxi   Zhao ;
+Abstract
+ We consider the problem of solving the Quasi-Newton equation under the additional condition that some elements of the solution take prescribed values. The general solution is obtained in a straightforward way by using the Huang algorithm of the ABS class. It is given in explicit form without the need of solving intermediate linear systems. Particular cases include the general symmetric or unsymmetric full or sparse update. In the sparse symmetric case we show that while positive definiteness cannot generally be forced a weaker condition called quasi positive definiteness can be satisfied under a very mild condition. This condition guarantees that all eigenvalues, except at most two, are positive. 
+Keywords
+Quasi-Newton equation, secant equation, Quasi-Newton update, sparse Quasi-Newton updates, positive definiteness, quasi positive definiteness, diagonal dominance, quasi diagonal dominance 

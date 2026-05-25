@@ -1,0 +1,6 @@
+A computational study of primal heuristics inside an MI(NL)P solver
+Timo Berthold;
+Abstract
+Primal heuristics are a fundamental component of state-of-the-art global solvers for mixed integer linear programming (MIP) and mixed integer nonlinear programming (MINLP). In this paper, we investigate the impact of primal heuristics on the overall solution process. We present a computational study, in which we compare the performance of the MIP and MINLP solver SCIP with and without primal heuristics on six test sets with altogether 983 instances from academic and industrial sources. We analyze how primal heuristics affect the solver regarding seven different measures of performance and show that the impact differs by orders of magnitude. We further argue that the harder a problem is to solve to global optimality, the more important the deployment of primal heuristics becomes.
+Keywords
+Mixed integer nonlinear programming  Primal heuristics  Computational study  

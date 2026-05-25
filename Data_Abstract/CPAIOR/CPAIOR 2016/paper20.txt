@@ -1,0 +1,4 @@
+Constructions and In-Place Operations for MDDs Based Constraints
+Guillaume Perez;Jean-Charles Régin;
+Abstract
+This papers extends in three ways our previous work about efficient operations on Multi-valued Decision Diagrams (MDD) for building Constraint Programming models. First, we improve the existing methods for transforming a set of tuples, Global Cut Seeds or sequences of tuples into MDDs. Then, we present in-place algorithms for adding and deleting tuples from an MDD. Finally, we describe an incremental version of an algorithm which reduces an MDD. We show on a real-life application that in-place operations on MDDs combined with this incremental algorithm outperform classical operations. Furthermore, we give some experimental results showing that the creation algorithms we propose strongly improve upon existing ones.

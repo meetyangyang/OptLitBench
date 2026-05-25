@@ -1,0 +1,6 @@
+Markovian traffic equilibrium
+J.-B. Baillon;R. Cominetti;
+Abstract
+We analyze an equilibrium model for traffic networks based on stochastic dynamic programming. In this model passengers move towards their destinations by a sequential process of arc selection based on a discrete choice model at every intermediate node in their trip. Route selection is the outcome of this sequential process while network flows correspond to the invariant measures of the underlying Markov chains. The approach may handle different discrete choice models at every node, including the possibility of mixing deterministic and stochastic distribution rules. It can also be used over a multi-modal network in order to model the simultaneous selection of mode and route, as well as to treat the case of elastic demands. We establish the existence of a unique equilibrium, which is characterized as the solution of an unconstrained strictly convex minimization problem of low dimension. We report some numerical experiences comparing the performance of the method of successive averages (MSA) and Newton’s method on one small and one large network, providing a formal convergence proof for MSA.
+Keywords
+Traffic equilibrium  Stochastic assignment  Variational formulations  Numerical computation  90B15  90B20  90C40  90C90  90C25  65K10  

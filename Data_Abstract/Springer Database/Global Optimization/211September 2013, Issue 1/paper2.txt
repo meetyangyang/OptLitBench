@@ -1,0 +1,6 @@
+GloMIQO: Global mixed-integer quadratic optimizer
+Ruth Misener;Christodoulos A. Floudas;
+Abstract
+This paper introduces the global mixed-integer quadratic optimizer, GloMIQO, a numerical solver addressing mixed-integer quadratically-constrained quadratic programs to \({\varepsilon}\)-global optimality. The algorithmic components are presented for: reformulating user input, detecting special structure including convexity and edge-concavity, generating tight convex relaxations, partitioning the search space, bounding the variables, and finding good feasible solutions. To demonstrate the capacity of GloMIQO, we extensively tested its performance on a test suite of 399 problems of diverse size and structure. The test cases are taken from process networks applications, computational geometry problems, GLOBALLib, MINLPLib, and the Bonmin test set. We compare the performance of GloMIQO with respect to four state-of-the-art global optimization solvers: BARON 10.1.2, Couenne 0.4, LindoGLOBAL 6.1.1.588, and SCIP 2.1.0.
+Keywords
+Mixed-integer quadratically-constrained quadratic programs  Numerical optimization software  Mathematical programming reformulations  Branch-and-bound global optimization  

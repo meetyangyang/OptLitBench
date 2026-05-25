@@ -1,0 +1,7 @@
+A sensitivity-based extrapolation technique for the numerical solution of state-constrained optimal control problems
+Michael Hintermüller1,2 and Irwin Yousept3;
+Abstract
+Sensitivity analysis (with respect to the regularization parameter)of the solution of a class of regularized state constrainedoptimal control problems is performed. The theoretical results arethen used to establish an extrapolation-based numerical scheme forsolving the regularized problem for vanishing regularizationparameter. In this context, the extrapolation technique providesexcellent initializations along the sequence of reducingregularization parameters. Finally, the favorable numericalbehavior of the new method is demonstrated and a comparison toclassical continuation methods is provided.
+Keywords
+Extrapolation, mixed control-state constraints, PDE-constrained optimization, 
+semismooth Newton algorithm, sensitivity, state constraint

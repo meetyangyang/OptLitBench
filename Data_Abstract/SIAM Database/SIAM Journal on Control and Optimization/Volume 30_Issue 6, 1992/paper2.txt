@@ -1,0 +1,6 @@
+Verification of the Self-Stabilization Mechanism in Robust Stochastic Adaptive Control Using Lyapunov Function Arguments
+Miloje  Radenkovic and Anthony N.  Michel;
+Abstract
+The objective of this paper is to propose a new algorithm for self-tuning control in the presence of unmodeled dynamics. The algorithm is a modified version of the well-known stochastic gradient scheme. It is shown (with probability one) that the resulting closed-loop system is globally stable and the mean-square tracking error is proportional to the size of unmodeled dynamics. In the absence of unmodeled dynamics, the algorithm produces the minimum-variance self-timing control. It is analytically verified that the proposed algorithm has self-stabilization property; i.e., possible occurrence of instability results in mean-square bounded signals. Global stability of the adaptive system is achieved without imposing persistency exciting condition on the regressor and positive real assumption on the system noise dynamics.
+Keywords
+robust adaptive control, stochastic systems, self-stabilization, 93C40, 93E10, 

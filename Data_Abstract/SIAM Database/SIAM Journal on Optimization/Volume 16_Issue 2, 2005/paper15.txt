@@ -1,0 +1,6 @@
+Revisiting Asynchronous Parallel Pattern Search for Nonlinear Optimization
+Tamara G.  Kolda;
+Abstract
+We present a new asynchronous parallel pattern search (APPS) method which is different from that developed previously by Hough, Kolda, and Torczon. APPS efficiently uses parallel and distributed computing platforms to solve science and engineering design optimization problems where derivatives are unavailable and cannot be approximated. The original APPS was designed to be fault-tolerant as well as asynchronous and was based on a peer-to-peer design. Each process was in charge of a single, fixed search direction. Our new version is based instead on a manager-worker paradigm. Though less fault-tolerant, the resulting algorithm is more flexible in its use of distributed computing resources. We further describe how to incorporate a zero-order sufficient decrease condition and handle bound constraints. Convergence theory for all situations (unconstrained and bound constrained as well as simple and sufficient decrease) is developed. We close with a discussion of how the new APPS will better facilitate the future incorporation of linear and nonlinear constraints.
+Keywords
+asynchronous parallel optimization, pattern search, direct search, distributed computing, generating set search, 65K05, 90C56, 65Y05, 68W15, 90C90, 

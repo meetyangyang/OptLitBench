@@ -1,0 +1,6 @@
+Self-concordance and Decomposition-based Interior Point Methods for the Two-stage Stochastic Convex Optimization Problem
+Michael  Chen and Sanjay  Mehrotra;
+Abstract
+We study the two-stage stochastic convex optimization problem whose first- and second-stage feasible regions admit a self-concordant barrier. We show that the barrier recourse functions and the composite barrier functions for this problem form self-concordant families. These results are used to develop prototype primal interior point decomposition algorithms that are more suitable for a heterogeneous distributed computing environment. We show that the worst case iteration complexity of the proposed algorithms is the same as that for the short- and long-step primal interior algorithms applied to the extensive formulation of this problem. The generality of our results allows the possibility of using barriers other than the standard log-barrier in an algorithmic framework.
+Keywords
+stochastic programming, convex programming, conic programming, Benders' decomposition, interior point methods, 90Cxx, 90C15, 90C22, 90C25, 90C51, 

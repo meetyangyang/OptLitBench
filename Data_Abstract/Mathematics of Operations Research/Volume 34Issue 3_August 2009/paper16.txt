@@ -1,0 +1,6 @@
+Refined MDP-Based Branch-and-Fix Algorithm for the Hamiltonian Cycle Problem
+Vladimir Ejov;Jerzy A. Filar;Michael Haythorpe;Giang T. Nguyen;
+Abstract
+We consider the famous Hamiltonian cycle problem (HCP) embedded in a Markov decision process (MDP). More specifically, we consider the HCP as an optimisation problem over the space of occupation measures induced by the MDP's stationary policies. In recent years, this approach to the HCP has led to a number of alternative formulations and algorithmic approaches. In this paper, we focus on a specific embedding, because of the work of Feinberg. We present a “branch-and-fix” type algorithm that solves the HCP. At each branch of the algorithm, only a linear program needs to be solved and the dimensions of the successive linear programs are shrinking rather than expanding. Because the nodes of the branch-and-fix tree correspond to specially structured 1-randomised policies, we characterise the latter. This characterisation indicates that the total number of such policies is significantly smaller than the subset of all 1-randomised policies. Finally, we present some numerical results.
+Keywords
+Markov decision processes Hamiltonian cycles branch-and-bound algorithm 

@@ -1,0 +1,6 @@
+A variable neighborhood search algorithm for the multimode set covering problem
+Fabio Colombo;Roberto Cordone;Guglielmo Lulli;
+Abstract
+This paper introduces the multi-mode set covering problem, which consists of a plurality of set covering problems linked by cardinality constraints. We propose a variable neighborhood search algorithm and a greedy randomized adaptive search procedure based on a common local search routine. This routine applies a penalized relaxation of the covering constraints, tuned by self-adapting parameters, and visits a sequence of neighborhoods in a nested strategy. We compare the two heuristics with each other and with a time-limited run of a general-purpose integer linear programming solver, on a benchmark set of instances with heterogeneous structure. Both heuristics outperform the solver, though with interesting differences with respect to the various classes of instances. In particular, the variable neighborhood search algorithm proves more effective and less dependent on the specific features of the instances.
+Keywords
+Variable neighborhood search  Greedy randomized adaptive search procedure  Set covering problem  

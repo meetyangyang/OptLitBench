@@ -1,0 +1,6 @@
+EASY-FIT: a software system for data fitting in dynamical systems
+K. Schittkowski;
+Abstract
+EASY-FIT is an interactive software system to identify parameters in explicit model functions, steady-state systems, Laplace transformations, systems of ordinary differential equations, differential algebraic equations, or systems of one-dimensional time-dependent partial differential equations with or without algebraic equations. Proceeding from given experimental data, i.e. observation times and measurements, the minimum least squares distance of measured data from a fitting criterion is computed, that depends on the solution of the dynamical system. The software system is implemented in form of a Microsoft Access database running under MS-Windows 95/98/NT/2000. The underlying numerical algorithms are coded in Fortran and are executable independently from the interface. Model functions are either interpreted and evaluated symbolically by a Fortran-similar modeling language, that allows in addition automatic differentiation of nonlinear functions, or by user-provided Fortran subroutines.
+Keywords
+Key words: parameter estimation, data fitting, dynamical systems, ODE, DAE, PDE  

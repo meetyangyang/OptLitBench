@@ -1,0 +1,6 @@
+First order rejection tests for multiple-objective optimization
+Alexandre Goldsztejn;Ferenc Domes;Brice Chevalier;
+Abstract
+Three rejection tests for multi-objective optimization problems based on first order optimality conditions are proposed. These tests can certify that a box does not contain any local minimizer, and thus it can be excluded from the search process. They generalize previously proposed rejection tests in several regards: Their scope include inequality and equality constrained smooth or nonsmooth multiple objective problems. Reported experiments show that they allow quite efficiently removing the cluster effect in mono-objective and multi-objective problems, which is one of the key issues in continuous global deterministic optimization.
+Keywords
+Multi-objective deterministic global optimization  First order optimality conditions  Interval analysis  Branch and bound algorithm  Cluster effect  

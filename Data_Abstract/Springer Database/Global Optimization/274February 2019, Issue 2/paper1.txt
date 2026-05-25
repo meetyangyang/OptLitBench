@@ -1,0 +1,6 @@
+Global optimization issues in deep network regression: an overview
+Laura Palagi;
+Abstract
+The paper presents an overview of global issues in optimization methods for training feedforward neural networks (FNN) in a regression setting. We first recall the learning optimization paradigm for FNN and we briefly discuss global scheme for the joint choice of the network topologies and of the network parameters. The main part of the paper focuses on the core subproblem which is the continuous unconstrained (regularized) weights optimization problem with the aim of reviewing global methods specifically arising both in multi layer perceptron/deep networks and in radial basis networks. We review some recent results on the existence of non-global stationary points of the unconstrained nonlinear problem and the role of determining a global solution in a supervised learning paradigm. Local algorithms that are widespread used to solve the continuous unconstrained problems are addressed with focus on possible improvements to exploit the global properties. Hybrid global methods specifically devised for FNN training optimization problems which embed local algorithms are discussed too.
+Keywords
+Supervised learning  Deep networks  Feedforward neural networks  Global optimization  Weights optimization  Hybrid algorithms  

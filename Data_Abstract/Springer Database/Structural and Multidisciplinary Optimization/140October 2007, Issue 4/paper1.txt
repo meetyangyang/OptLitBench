@@ -1,0 +1,6 @@
+Sequential integer programming methods for stress constrained topology optimization
+Krister Svanberg;Mats Werme;
+Abstract
+This paper deals with topology optimization of load carrying structures defined on a discretized design domain where binary design variables are used to indicate material or void in the various finite elements. The main contribution is the development of two iterative methods which are guaranteed to find a local optimum with respect to a 1-neighbourhood. Each new iteration point is obtained as the optimal solution to an integer linear programming problem which is an approximation of the original problem at the previous iteration point. The proposed methods are quite general and can be applied to a variety of topology optimization problems defined by 0-1 design variables. Most of the presented numerical examples are devoted to problems involving stresses which can be handled in a natural way since the design variables are kept binary in the subproblems.
+Keywords
+Topology optimization  Stress constraints  Sequential integer programming  

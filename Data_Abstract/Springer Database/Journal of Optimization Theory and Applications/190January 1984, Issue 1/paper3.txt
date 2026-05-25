@@ -1,0 +1,6 @@
+Bayesian testing of nonparametric hypotheses and its application to global optimization
+B. Betro;
+Abstract
+Random distribution functions are the basic tool for solving nonparametric decision-theoretic problems. In 1974, Doksum introduced the family of distributions neutral to the right, that is, distributions such thatF(t1),[F(t2)−F(t1)]/[1 −F(t1)],...,[F(tk)−F(tk − 1)]/[1 −F(tk − 1)] are independent whenevert1 < ... <tkIn practice, application of distributions neutral to the right has been prevented by the lack of a manageable analytical expression for probabilities of the typeP(F(t)<q) for fixedt andq. A subclass of such distributions can be provided which allows for a close expression of the characteristic function of log[1−F(t)], given the sample. Then, thea posteriori distribution ofF(t) is obtained by numerical evaluation of a Fourier integral. As an application, the global optimization problem is formulated as a problem of inference about the quantiles of the distributionF(y) of the random variableY=f(X), wheref is the objective function andX is a random point in the search domain.
+Keywords
+Bayesian testing  nonparametric inference  random distribution functions  global optimization  

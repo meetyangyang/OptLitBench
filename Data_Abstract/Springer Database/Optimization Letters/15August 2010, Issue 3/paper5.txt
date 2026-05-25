@@ -1,0 +1,6 @@
+Adaptive energy efficient sensor scheduling for wireless sensor networks
+Yinying Yang;Mihaela Cardei;
+Abstract
+In this paper, we consider an adaptive energy efficient sensor scheduling mechanism. We consider a wireless sensor network where the sink sends queries form time to time, and sensors are equipped with one or more sensing components. Our goal is to design an adaptive sensor scheduling mechanism to choose sets of active sensors to work alternatively such that different types of queries are served, the global connectivity requirements can be met, and network lifetime is maximized. A connected dominating set (CDS) based localized mechanism is proposed. Initially, a basic backbone is constructed, then when a query is issued, new sensors are activated locally such that to meet the requirements of the query and global connectivity. When a query expires, some sensors return to sleep and the CDS is restored. Our simulation results show that the solution is effective and it improved network lifetime.
+Keywords
+Wireless sensor networks  Composite event detection  Coverage  Connectivity  Connected dominating set  

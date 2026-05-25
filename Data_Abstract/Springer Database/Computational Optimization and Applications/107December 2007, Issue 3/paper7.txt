@@ -1,0 +1,8 @@
+Efficient sampling in approximate dynamic programming algorithms
+Cristiano Cervellera;Marco Muselli;
+Abstract
+
+Dynamic Programming (DP) is known to be a standard optimization tool for solving Stochastic Optimal Control (SOC) problems, either over a finite or an infinite horizon of stages. Under very general assumptions, commonly employed numerical algorithms are based on approximations of the cost-to-go functions, by means of suitable parametric models built from a set of sampling points in the d-dimensional state space. Here the problem of sample complexity, i.e., how “fast” the number of points must grow with the input dimension in order to have an accurate estimate of the cost-to-go functions in typical DP approaches such as value iteration and policy iteration, is discussed. It is shown that a choice of the sampling based on low-discrepancy sequences, commonly used for efficient numerical integration, permits to achieve, under suitable hypotheses, an almost linear sample complexity, thus contributing to mitigate the curse of dimensionality of the approximate DP procedure.
+
+Keywords
+Stochastic optimal control problem  Dynamic programming  Sample complexity  Deterministic learning  Low-discrepancy sequences  

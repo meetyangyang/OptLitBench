@@ -1,0 +1,6 @@
+A distributed computing system used for concurrent optimization methods on a violin top
+P. Carlsson;M. Tinnsten;
+Abstract
+Concurrent optimization is performed with two optimization methods on a violin top. The optimization methods used are SA (Simulated Annealing) and MMA (Method of Moving Asymptotes). All calculations in this study are made in a distributed environment for arbitrary processing. The distributed environment is constructed using extended File Servers running on remote computers and clients on a local computer, which can transfer, start, terminate, and finally remove arbitrary Java RMI Servers from the remote computers. The required processing is performed with the RMI Servers. 
+Keywords
+client-server technique  remote calls  Java RMI  simulated annealing  method of moving asymptotes   

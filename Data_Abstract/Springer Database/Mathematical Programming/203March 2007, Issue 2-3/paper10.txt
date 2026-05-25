@@ -1,0 +1,6 @@
+On the solution of large-scale SDP problems by the modified barrier method using iterative solvers
+Michal Kočvara;Michael Stingl;
+Abstract
+The limiting factors of second-order methods for large-scale semidefinite optimization are the storage and factorization of the Newton matrix. For a particular algorithm based on the modified barrier method, we propose to use iterative solvers instead of the routinely used direct factorization techniques. The preconditioned conjugate gradient method proves to be a viable alternative for problems with a large number of variables and modest size of the constrained matrix. We further propose to avoid explicit calculation of the Newton matrix either by an implicit scheme in the matrix–vector product or using a finite-difference formula. This leads to huge savings in memory requirements and, for certain problems, to further speed-up of the algorithm.
+Keywords
+90C22 (primary)  65F10 (secondary)  

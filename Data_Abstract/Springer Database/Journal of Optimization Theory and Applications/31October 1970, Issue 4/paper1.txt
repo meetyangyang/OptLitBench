@@ -1,0 +1,6 @@
+Optimal control problems that test for envelope contacts
+H. Gardner Moyer;
+Abstract
+Systems are studied whose state vector x is governed by the usual set of first-order differential equations. When the extremals x(t) that originate at a fixed point inn-dimensional state-variable space are stopped at a fixed final time, the locus of their endpoints defines a hypersurface called the wavefront. The well-known adjoint vector is normal to the wavefront. The principal point of this paper is that a second wavefront normal can be constructed from the δx(t) vectors that are available if the test for Jacobi conjugate points is performed. Verifying that the two normals are almost collinear shows that the errors due to computer truncation and numerical integration are negligible. This check is particularly useful when using the finite-difference approximation δx(t) ≃x i (t) − x j (t), where x i (t) and x j (t) are close but nonneighboring extremals. This approximation can simplify considerably the analysis and computation required for a conjugate-point test, particularly if the extremals have corners.
+Keywords
+Differential Equation  Endpoint  Control Problem  State Vector  Optimal Control Problem  

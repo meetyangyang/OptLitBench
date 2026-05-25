@@ -1,0 +1,6 @@
+(Non) convergence results for the differential evolution method
+Marco Locatelli;Massimiliano Vasile;
+Abstract
+In this paper we deal with the convergence properties of the differential evolution (DE) algorithm, a rather popular stochastic method for solving global optimization problems. We are going to show there exist instances for which the basic version of DE has a positive probability not to converge (stagnation might occur), or converges to a single point which is not a local minimizer of the objective function, even when the objective function is convex. Next, some minimal corrections of the basic DE scheme are suggested in order to recover convergence with probability one to a local minimizer at least in the case of strictly convex functions.
+Keywords
+Differential evolution  Stagnation  Convergence  

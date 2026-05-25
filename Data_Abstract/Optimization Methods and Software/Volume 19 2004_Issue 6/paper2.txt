@@ -1,0 +1,6 @@
+New limited memory bundle method for large-scale nonsmooth optimization
+ M.   Haarala ; K.   Miettinen †  ; M. M.   Mäkelä ‡  ;
+Abstract
+ Many practical optimization problems involve nonsmooth (that is, not necessarily differentiable) functions of hundreds or thousands of variables. In such problems, the direct application of smooth gradient-based methods may lead to a failure due to the nonsmooth nature of the problem. On the other hand, none of the current general nonsmooth optimization methods is efficient in large-scale settings. In this article, we describe a new limited memory variable metric based bundle method for nonsmooth large-scale optimization. In addition, we introduce a new set of academic test problems for large-scale nonsmooth minimization. Finally, we give some encouraging results from numerical experiments using both academic and practical test problems.  
+Keywords
+Nondifferentiable programming, Large-scale optimization, Bundle methods, Variable metric methods, Limited memory methods, Test problems 

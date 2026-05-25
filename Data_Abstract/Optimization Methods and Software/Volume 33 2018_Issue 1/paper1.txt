@@ -1,0 +1,6 @@
+An extension of Chubanov's polynomial-time linear programming algorithm to second-order cone programming
+T. Kitahara;T. Tsuchiya;
+Abstract
+In this paper, we extend Chubanov's new polynomial-time algorithm for linear programming to second-order cone programming based on the idea of cutting plane method. The algorithm finds an -dimensional vector x which satisfies , where  and  is a direct product of n second-order cones and half lines. Like Chubanov's algorithm, one iteration of the proposed algorithm consists of two phases: execution of a basic procedure and scaling. Within  calls of the basic procedure, the algorithm either (i) finds an interior feasible solution, (ii) finds a non-zero dual feasible solution, or (iii) verifies that there is no interior feasible solution whose minimum eigenvalue is greater than or equal to ϵ. Each basic procedure requires  arithmetic operations, where  is the dimension of each second-order cone. If the problem is interior feasible, then the algorithm finds an interior feasible solution in  calls of the basic procedure, where  is a condition number associated with the system.
+Keywords
+Chubanov's algorithm, linear programming, second-order cone programmingAMS Subject Classification: 65K05, 65K10 

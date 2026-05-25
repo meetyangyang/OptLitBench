@@ -1,0 +1,6 @@
+Column generation bounds for numerical microaggregation
+Daniel Aloise;Pierre Hansen;Caroline Rocha;Éverton Santi;
+Abstract
+The biggest challenge when disclosing private data is to share information contained in databases while protecting people from being individually identified. Microaggregation is a family of methods for statistical disclosure control. The principle of microaggregation is that confidentiality rules permit the publication of individual records if they are partitioned into groups of size larger or equal to a fixed threshold value, where none is more representative than the others in the same group. The application of such rules leads to replacing individual values by those computed from small groups (microaggregates), before data publication. This work proposes a column generation algorithm for numerical microaggregation in which its pricing problem is solved by a specialized branch-and-bound. The algorithm is able to find, for the first time, lower bounds for instances of three real-world datasets commonly used in the literature. Furthermore, new best known solutions are obtained for these instances by means of a simple heuristic method with the columns generated.
+Keywords
+Microaggregation  Column generation  Cuts  Branch-and-bound  

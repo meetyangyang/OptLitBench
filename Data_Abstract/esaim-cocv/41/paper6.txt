@@ -1,0 +1,6 @@
+Numerical solution of an inverse initial boundary value problem for the wave equation in the presence of conductivity imperfections of small volume
+Mark Asch, Marion Darbas and Jean-Baptiste Duval;
+Abstract
+We consider the numerical solution, in two- and three-dimensionalbounded domains, of the inverse problem for identifying the locationof small-volume, conductivity imperfections in a medium with homogeneousbackground. A dynamic approach, based on the wave equation, permitsus to treat the important case of “limited-view” data. Our numericalalgorithm is based on the coupling of a finite element solution ofthe wave equation, an exact controllability method and finally a Fourierinversion for localizing the centers of the imperfections. Numericalresults, in 2- and 3-D, show the robustness and accuracy of the approachfor retrieving randomly placed imperfections from both complete andpartial boundary measurements.
+Keywords
+Wave equation, exact controllability, inverse problem, finite elements, Fourier inversio

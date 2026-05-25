@@ -1,0 +1,6 @@
+Computations with disjunctive cuts for two-stage stochastic mixed 0-1 integer programs
+Lewis Ntaimo;Matthew W. Tanner;
+Abstract
+Two-stage stochastic mixed-integer programming (SMIP) problems with recourse are generally difficult to solve. This paper presents a first computational study of a disjunctive cutting plane method for stochastic mixed 0-1 programs that uses lift-and-project cuts based on the extensive form of the two-stage SMIP problem. An extension of the method based on where the data uncertainty appears in the problem is made, and it is shown how a valid inequality derived for one scenario can be made valid for other scenarios, potentially reducing solution time. Computational results amply demonstrate the effectiveness of disjunctive cuts in solving several large-scale problem instances from the literature. The results are compared to the computational results of disjunctive cuts based on the subproblem space of the formulation and it is shown that the two methods are equivalently effective on the test instances.
+Keywords
+Stochastic programming  Integer programming  Disjunctive programming  Lift-and-project cuts  

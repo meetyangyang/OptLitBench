@@ -1,0 +1,6 @@
+Generalized stationary points and an interior-point method for mathematical programs with equilibrium constraints
+Xinwei Liu;Jie Sun;
+Abstract
+Generalized stationary points of the mathematical program with equilibrium constraints (MPEC) are studied to better describe the limit points produced by interior point methods for MPEC. A primal-dual interior-point method is then proposed, which solves a sequence of relaxed barrier problems derived from MPEC. Global convergence results are deduced under fairly general conditions other than strict complementarity or the linear independence constraint qualification for MPEC (MPEC-LICQ). It is shown that every limit point of the generated sequence is a strong stationary point of MPEC if the penalty parameter of the merit function is bounded. Otherwise, a point with certain stationarity can be obtained. Preliminary numerical results are reported, which include a case analyzed by Leyffer for which the penalty interior-point algorithm failed to find a stationary point.
+Keywords
+Global convergence  Interior-point methods  Mathematical programming with equilibrium constraints  Stationary point  

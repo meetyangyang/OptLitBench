@@ -1,0 +1,6 @@
+A branch-and-bound algorithm for makespan minimization in differentiation flow shops
+Yen-Cheng Liu;Kuei-Tang Fang;Bertrand Lin;
+Abstract
+This article considers a differentiation flow-shop model, where the jobs are divided into various categories, each of which consists of two stages of operations. All products should be processed first on the single common machine at stage 1. At the second stage, each individual product proceeds to a dedicated machine according to its type. The problem of makespan minimization under the setting with two product types is known to be strongly NP hard. This article considers an arbitrary number of job types by developing a lower bound and two dominance rules, based upon which branch-and-bound algorithms are designed. Computational experiments are carried out to examine the performance of the proposed properties. The statistics show that the proposed properties can substantially reduce the computing efforts required for finding optimal solutions.
+Keywords
+differentiation flow shop, makespan, branch-and-bound 

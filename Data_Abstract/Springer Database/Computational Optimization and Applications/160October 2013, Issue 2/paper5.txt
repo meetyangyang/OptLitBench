@@ -1,0 +1,6 @@
+A semismooth Newton method for a class of semilinear optimal control problems with box and volume constraints
+Samuel Amstutz;Antoine Laurain;
+Abstract
+In this paper we consider optimal control problems subject to a semilinear elliptic state equation together with the control constraints 0≤u≤1 and ∫u=m. Optimality conditions for this problem are derived and reformulated as a nonlinear, nonsmooth equation which is solved using a semismooth Newton method. A regularization of the nonsmooth equation is necessary to obtain the superlinear convergence of the semismooth Newton method. We prove that the solutions of the regularized problems converge to a solution of the original problem and a path-following technique is used to ensure a constant decrease rate of the residual. We show that, in certain situations, the optimal controls take 0–1 values, which amounts to solving a topology optimization problem with volume constraint.
+Keywords
+Optimal control  Topology optimization  Semilinear equation  Semismooth Newton method  Volume constraint  

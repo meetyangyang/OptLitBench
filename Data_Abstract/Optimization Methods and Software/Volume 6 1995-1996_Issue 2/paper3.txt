@@ -1,0 +1,6 @@
+Convergence properties of the inverse column-updating method
+ Vera L.R.   Lopes ; José Mario   Martínez ;
+Abstract
+ The inverse Column-Updating method is a secant algorithm for solving nonlinear systems of equations introduced recently by Martinez and Zambaldi (Optimization Methods and Software, 1 (1992), pp. 129-140). This method is one of the less expensive reliable quasi-Newton methods for solving nonlinear simultaneous equations, in terms of linear algebra work. Since it does not belong to the well-known LCSU (least-change secant-update) class, special arguments are used for proving local convergence. In this paper we prove that, if convergence is assumed, then R-superlinear convergence takes place. Moreover, we prove local convergence for a version of the method with (not necessarily Jacobian) restarts. Finally, we prove that local and R-superlinear convergence holds without restarts in the two-dimensional case. From a practical point of view, we show that, in some cases, the numerical performance of the inverse Column-Updating method is very good  
+Keywords
+Nonlinear Systems, Quasi-Newton Methods, Inverse Column-Updating Method 

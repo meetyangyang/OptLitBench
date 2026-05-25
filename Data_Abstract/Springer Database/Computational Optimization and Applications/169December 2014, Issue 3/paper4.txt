@@ -1,0 +1,6 @@
+Sequential quadratic programming methods for parametric nonlinear optimization
+Vyacheslav Kungurtsev;Moritz Diehl;
+Abstract
+Sequential quadratic programming (SQP) methods are known to be efficient for solving a series of related nonlinear optimization problems because of desirable hot and warm start properties—a solution for one problem is a good estimate of the solution of the next. However, standard SQP solvers contain elements to enforce global convergence that can interfere with the potential to take advantage of these theoretical local properties in full. We present two new predictor–corrector procedures for solving a nonlinear program given a sufficiently accurate estimate of the solution of a similar problem. The procedures attempt to trace a homotopy path between solutions of the two problems, staying within the local domain of convergence for the series of problems generated. We provide theoretical convergence and tracking results, as well as some numerical results demonstrating the robustness and performance of the methods.
+Keywords
+Parametric nonlinear programming  Nonlinear programming  Nonlinear constraints  Sequential quadratic programming  SQP methods   Stabilized SQP  Regularized methods  Model predictive control  49J20  49J15  49M37  49D37  65F05  65K05  90C30  

@@ -1,0 +1,6 @@
+Parallel algorithm for support vector machines training and quadratic optimization problems
+ Renato   de Leone ;
+Abstract
+ We consider an iterative algorithm, suitable for parallel implementation, to solve convex quadratic optimization problems with a single constraint and simple bounds on the variables. This approach can be used to effectively solve the quadratic optimization problem arising in training support vector machines. The proposed algorithm is a double iterative schema based on inexact matrix splitting and alternating direction method. 
+Keywords
+Support vector machines, Quadratic programming, Matrix splitting methods, Alternating direction methods 

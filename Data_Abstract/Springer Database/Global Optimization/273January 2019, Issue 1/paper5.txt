@@ -1,0 +1,6 @@
+Convergence-order analysis for differential-inequalities-based bounds and relaxations of the solutions of ODEs
+Spencer D. Schaber;Joseph K. Scott;Paul I. Barton;
+Abstract
+For the performance of global optimization algorithms, the rate of convergence of convex relaxations to the objective and constraint functions is critical. We extend results from Bompadre and Mitsos (J Glob Optim 52(1):1–28, 2012) to characterize the convergence rate of parametric bounds and relaxations of the solutions of ordinary differential equations (ODEs). Such bounds and relaxations are used for global dynamic optimization and are computed using auxiliary ODE systems that use interval arithmetic and McCormick relaxations. Two ODE relaxation methods (Scott et al. in Optim Control Appl Methods 34(2):145–163, 2013; Scott and Barton in J Glob Optim 57:143–176, 2013) are shown to give second-order convergence, yet they can behave very differently from each other in practice. As time progresses, the prefactor in the convergence-order bound tends to grow much more slowly for one of these methods, and can even decrease over time, yielding global optimization procedures that require significantly less computation time.
+Keywords
+Deterministic global optimization  Convergence-order analysis  Nonconvex optimization  Dynamic optimization  34A40  49M20  49M37  65L05  65L20  90C26  

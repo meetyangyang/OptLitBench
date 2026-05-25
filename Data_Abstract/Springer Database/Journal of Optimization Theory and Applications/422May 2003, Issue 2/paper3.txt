@@ -1,0 +1,6 @@
+Direct Shooting Method for the Numerical Solution of Higher-Index DAE Optimal Control Problems
+M. Gerdts;
+Abstract
+A method for the numerical solution of state-constrained optimal control problems subject to higher-index differential-algebraic equation (DAE) systems is introduced. For a broad and important class of DAE systems (semiexplicit systems with algebraic variables of different index), a direct multiple shooting method is developed. The multiple shooting method is based on the discretization of the optimal control problem and its transformation into a finite-dimensional nonlinear programming problem (NLP). Special attention is turned to the mandatory calculation of consistent initial values at the multiple shooting nodes within the iterative solution process of (NLP). Two different methods are proposed. The projection method guarantees consistency within each iteration, whereas the relaxation method achieves consistency only at an optimal solution. An illustrative example completes this article.
+Keywords
+Optimal control  higher-index DAE systems  direct shooting method  consistent initial values  sensitivity of DAE systems  

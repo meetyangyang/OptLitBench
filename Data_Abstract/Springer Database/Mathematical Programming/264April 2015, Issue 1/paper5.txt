@@ -1,0 +1,6 @@
+The two-level diameter constrained spanning tree problem
+Luis Gouveia;Markus Leitner;Ivana Ljubić;
+Abstract
+In this article, we introduce the two-level diameter constrained spanning tree problem (2-DMSTP), which generalizes the classical DMSTP by considering two sets of nodes with different latency requirements. We first observe that any feasible solution to the 2-DMSTP can be viewed as a DMST that contains a diameter constrained Steiner tree. This observation allows us to prove graph theoretical properties related to the centers of each tree which are then exploited to develop mixed integer programming formulations, valid inequalities, and symmetry breaking constraints. In particular, we propose a novel modeling approach based on a three-dimensional layered graph. In an extensive computational study we show that a branch-and-cut algorithm based on the latter model is highly effective in practice.
+Keywords
+Networks/graphs: tree algorithms  Integer programming: formulations  Layered graphs  90C11  90C27  90C57  

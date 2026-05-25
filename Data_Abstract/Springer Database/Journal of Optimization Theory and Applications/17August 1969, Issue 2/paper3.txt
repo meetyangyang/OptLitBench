@@ -1,0 +1,6 @@
+Optimal trajectories for quadratic variational processes via invariant imbedding
+H. Kagiwada;R. Kalaba;
+Abstract
+Consider minimizing the integral$$I = \int_0^T {[\dot w^2  + g(y)w^2 ] dy}$$ where$$w = w(y),     \dot w = dw/dy,     w(T) = 1,     w(0) = free$$ ForT sufficiently small, it is shown that$$w_{opt}  = x(t,T),     0 \leqslant t \leqslant T$$ where the functionx, viewed as a function ofT, is a solution of the Cauchy problem$$\begin{gathered}  x_T (t,T) = r(T)x(t,T),     T \geqslant t \hfill \\      x(t,t) = 1 \hfill \\\end{gathered}$$ and the auxiliary functionr satisfies the Riccati system$$\begin{gathered}    r_T  = ---g(T) + r^2 ,     T \geqslant 0 \hfill \\  r(0) = 0 \hfill \\\end{gathered}$$ In the derivation of the Cauchy problem, no use is made of Euler equations, dynamic programming, or Pontryagin's maximum principle. Only ordinary differential equations are employed. The Cauchy problem provides a one-sweep integration procedure; it is intimately connected with the theory of the second variation.
+Keywords
+Differential Equation  Ordinary Differential Equation  Cauchy Problem  Dynamic Programming  Maximum Principle  

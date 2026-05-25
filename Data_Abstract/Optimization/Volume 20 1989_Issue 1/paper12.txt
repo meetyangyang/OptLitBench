@@ -1,0 +1,6 @@
+Variants of the Hungarian method for solving linear programming problems
+   E.   Klafszky ;   T.   Teklaky ;
+Abstract
+ Our paper presents two new algorithms for solving linear programming problems. These algorithms are based on the convergent criss-cross method and on the idea of the “Hungarian Method”. Similarly to the primal-dual algorithm of Dantzig-Ford-Fulkerson, our algorithms improve a feasible (may be not basic) solution step by step, but we use Terlaky's convergent criss-cross method for solving the subproblems. Our algorithms solve linear programming problems in a finite number of steps (i.e. cycling cannot occur). We show that the primal and dual Simplex methods are special cases of our algorithms. In these Simplex methods we use Bland's pivoting rule only if the basic transformations are degenerate. By this we show how can one derive the primal or dual simplex method from Terlaky's criss-cross method.  
+Keywords
+Linear programming, complementarity, criss-cross method, pivoting, primal-dual algorithmAMS 1980 Subject Classifications: Primary: 90 C 05, Secondary: 49 D 35 

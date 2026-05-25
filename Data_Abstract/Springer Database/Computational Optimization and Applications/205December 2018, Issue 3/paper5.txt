@@ -1,0 +1,6 @@
+A new reduced gradient method for solving linearly constrained multiobjective optimization problems
+Mustapha El Moudden;Ahmed El Ghali;
+Abstract
+In this paper, we consider the linearly constrained multiobjective minimization, and we propose a new reduced gradient method for solving this problem. Our approach solves iteratively a convex quadratic optimization subproblem to calculate a suitable descent direction for all the objective functions, and then use a bisection algorithm to find an optimal stepsize along this direction. We prove, under natural assumptions, that the proposed algorithm is well-defined and converges globally to Pareto critical points of the problem. Finally, this algorithm is implemented in the MATLAB environment and comparative results of numerical experiments are reported.
+Keywords
+Multiobjective optimization  Reduced gradient methods  Pareto critical point  Bisection algorithm  Linear constraints  

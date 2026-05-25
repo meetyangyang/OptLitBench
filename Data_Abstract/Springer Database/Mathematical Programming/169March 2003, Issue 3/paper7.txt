@@ -1,0 +1,6 @@
+An augmented Lagrangian interior-point method using directions of negative curvature
+Javier M. Moguerza;Francisco J. Prieto;
+Abstract
+ We describe an efficient implementation of an interior-point algorithm for non-convex problems that uses directions of negative curvature. These directions should ensure convergence to second-order KKT points and improve the computational efficiency of the procedure. Some relevant aspects of the implementation are the strategy to combine a direction of negative curvature and a modified Newton direction, and the conditions to ensure feasibility of the iterates with respect to the simple bounds. The use of multivariate barrier and penalty parameters is also discussed, as well as the update rules for these parameters. We analyze the convergence of the procedure; both the linesearch and the update rule for the barrier parameter behave appropriately. As the main goal of the paper is the practical usage of negative curvature, a set of numerical results on small test problems is presented. Based on these results, the relevance of using directions of negative curvature is discussed.
+Keywords
+Test Problem  Computational Efficiency  Penalty Parameter  Relevant Aspect  Negative Curvature  

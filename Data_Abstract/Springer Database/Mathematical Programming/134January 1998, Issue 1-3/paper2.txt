@@ -1,0 +1,6 @@
+A variable-penalty alternating directions method for convex optimization
+Spyridon Kontogiorgis;Robert R. Meyer;
+Abstract
+We study a generalized version of the method of alternating directions as applied to the minimization of the sum of two convex functions subject to linear constraints. The method consists of solving consecutively in each iteration two optimization problems which contain in the objective function both Lagrangian and proximal terms. The minimizers determine the new proximal terms and a simple update of the Lagrangian terms follows. We prove a convergence theorem which extends existing results by relaxing the assumption of uniqueness of minimizers. Another novelty is that we allow penalty matrices, and these may vary per iteration. This can be beneficial in applications, since it allows additional tuning of the method to the problem and can lead to faster convergence relative to fixed penalties. As an application, we derive a decomposition scheme for block angular optimization and present computational results on a class of dual block angular problems.
+Keywords
+Alternating direction methods  Decomposition  Parallel computing  Block angular programs  

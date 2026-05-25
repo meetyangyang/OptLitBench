@@ -1,0 +1,6 @@
+The node capacitated graph partitioning problem: A computational study
+C. E. Ferreira;A. Martin;C. C. de Souza;R. Weismantel;L. A. Wolsey;
+Abstract
+In this paper we consider the problem ofk-partitioning the nodes of a graph with capacity restrictions on the sum of the node weights in each subset of the partition, and the objective of minimizing the sum of the costs of the edges between the subsets of the partition. Based on a study of valid inequalities, we present a variety of separation heuristics for cycle, cycle with ears, knapsack tree and path-block cycle inequalities among others. The separation heuristics, plus primal heuristics, have been implemented in a branch-and-cut routine using a formulation including variables for the edges with nonzero costs and node partition variables. Results are presented for three classes of problems: equipartitioning problems arising in finite element methods and partitioning problems associated with electronic circuit layout and compiler design. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Branch-and-cut algorithm  Clustering  Compiler design  Equipartitioning  Finite element method  Graph partitioning  Layout of electronic circuits  Separation heuristics  

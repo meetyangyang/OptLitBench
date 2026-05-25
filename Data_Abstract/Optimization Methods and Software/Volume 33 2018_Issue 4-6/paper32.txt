@@ -1,0 +1,6 @@
+Pattern graph for sparse Hessian matrix determination†† Presented at the 7th International Conference on Algorithmic Differentiation 2016, Christ Church, Oxford, UK.View all notes
+Shahadat Hossain;Nasrin Hakim Mithila;
+Abstract
+In a recent work, we have proposed the pattern graph as a unifying framework for methods that exploit sparsity by matrix compression: row compression, column compression or a combination of the two in sparse Jacobian matrix determination. Utilization of structural similarity between the matrix and its graph has been found to be beneficial. In this paper, we show that an important structural property, symmetry, can be exploited in the formulation of sparse Hessian matrix calculations using the pattern graph model. Using the notion of ‘direct cover’, we present a new general direct method for the determination of sparse Hessian matrices with fixed sparsity pattern and a multicolouring interpretation of it on the pattern graph associated with the matrix. A heuristic procedure for finding direct covers is sketched and some preliminary numerical test results are provided.
+Keywords
+compression–reconstruction, direct determination, sparse Hessian, multicolouringAMS Subject Classification: 90C27, 90C30, 65F50, 49M15, 68P05 

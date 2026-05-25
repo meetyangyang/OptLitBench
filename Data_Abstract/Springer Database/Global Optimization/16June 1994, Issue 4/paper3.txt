@@ -1,0 +1,6 @@
+A dynamic programming algorithm for dynamic lot size models with piecewise linear costs
+Hsin-Der Chen;Donald W. Hearn;Chung-Yee Lee;
+Abstract
+We propose a new algorithm for dynamic lot size models (LSM) in which production and inventory cost functions are only assumed to be piecewise linear. In particular, there are no assumptions of convexity, concavity or monotonicity. Arbitrary capacities on both production and inventory may occur, and backlogging is allowed. Thus the algorithm addresses most variants of the LSM appearing in the literature. Computational experience shows it to be very effective on NP-hard versions of the problem. For example, 48 period capacitated problems with production costs defined by eight linear segments are solvable in less than 2.5 minutes of Vax 8600 cpu time.
+Keywords
+Lot size models  dynamic programming  

@@ -1,0 +1,6 @@
+A quadratically convergent predictor—corrector method for solving linear programs from infeasible starting points
+Florian A. Potra;
+Abstract
+A predictor—corrector method for solving linear programs from infeasible starting points is analyzed. The method is quadratically convergent and can be combined with Ye's finite termination scheme under very general assumptions. If the starting points are large enough then the algorithm hasO(nL) iteration complexity. If the ratio between feasibility and optimality at the starting points is small enough then the algorithm has O(\(\sqrt {n L} \)) iteration complexity. For feasible starting points the algorithm reduces to the Mizuno—Todd—Ye predictor—corrector method.
+Keywords
+90C05  Linear programming  Primal—dual  Polynomial complexity  Infeasible  Interior-point  Exterior-point  

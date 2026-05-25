@@ -1,0 +1,6 @@
+Simplicial decomposition in nonlinear programming algorithms
+Balder Von Hohenbalken;
+Abstract
+Simplicial decomposition is a special version of the Dantzig—Wolfe decomposition principle, based on Carathéodory's theorem. The associated class of algorithms has the following features and advantages: The master and the subprogram are constructed without dual variables; the methods remain therefore well-defined for non-concave objective functions, and pseudo-concavity suffices for convergence to global maxima. The subprogram produces affinely independent sets of feasible generator points defining simplices, which the master program keeps minimal by dropping redundant generator points and finding maximizers in the relative interiors of the resulting subsimplices. The use of parallel subspaces allows the direct application of any unrestricted optimization method in the master program; thus the best unconstrained procedure for any type of objective function can be used to find constrained maximizers for it.
+Keywords
+Algorithm  APL-code  Barycentric representation  Decomposition  Nonlinear programming  Pseudo-concave objective  Simplex  

@@ -1,0 +1,6 @@
+Lagrangian heuristics for the Quadratic Knapsack Problem
+Jesus Ossian Cunha;Luidi Simonetti;Abilio Lucena;
+Abstract
+This paper investigates two Lagrangian heuristics for the Quadratic Knapsack Problem. They originate from distinct linear reformulations of the problem and follow the traditional approach of generating Lagrangian dual bounds and then using their corresponding solutions as an input to a primal heuristic. One Lagrangian heuristic, in particular, is a Non-Delayed Relax-and-Cut algorithm. Accordingly, it differs from the other heuristic in that it dualizes valid inequalities on-the-fly, as they become necessary. The algorithms are computationally compared here with two additional heuristics, taken from the literature. Comparisons being carried out over problem instances up to twice as large as those previously used. Three out of the four algorithms, including the Lagrangian heuristics, are CPU time intensive and typically return very good quality feasible solutions. A certificate of that being given by the equally good Lagrangian dual bounds we generate. Finally, this paper is intended as a contribution towards the investigation of more elaborated heuristics to the problem, an area that has been barely investigated so far.
+Keywords
+Quadratic Knapsack Problem  Lagrangian heuristics  Relax-and-Cut  Lower and upper bounds  

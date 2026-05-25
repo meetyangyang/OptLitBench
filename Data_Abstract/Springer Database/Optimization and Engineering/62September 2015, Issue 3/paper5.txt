@@ -1,0 +1,6 @@
+An integer programming approach for the 2-schemes strip cutting problem with a sequencing constraint
+Silvina Lucero;Javier Marenco;Federico Martínez;
+Abstract
+We study integer programming formulations for the 2-schemes strip cutting problem with a sequencing constraint (2-SSCPsc) considered by Rinaldi and Franz. The 2-SSCPsc arises in the context of corrugated cardboard production, which involves cutting strips of large lengths into rectangles of at most (usually) two different lengths. Because of buffer restrictions, in the 2-SSCPsc these strips must be sequenced in such a way that, at any moment, at most two types of items are in production and not completed yet. This problem is NP-hard. We present four integer programming formulations for this problem, and our computational experiments with real-life instances show that one of them has a very tight integrality gap. We propose a heuristic procedure based on this formulation and present computational experience showing that this procedure finds very good primal solutions in small running times.
+Keywords
+Corrugated cardboard  Integer programming  Sequencing  

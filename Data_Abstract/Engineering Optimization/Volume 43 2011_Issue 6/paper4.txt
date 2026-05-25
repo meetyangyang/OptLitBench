@@ -1,0 +1,6 @@
+Implementing co-evolution and parallelization in a multi-objective particle swarm optimizer
+ Miltiadis   Kotinis ;
+Abstract
+ A new multi-objective optimizer based on swarm intelligence is presented in this article. A distinctive feature of the proposed particle swarm optimizer (PSO) is the utilization of only social components, which are based on global guides, for the exploration and exploitation of the search space. Mutation and elitism are also employed in order to improve the effectiveness of the PSO. The algorithmic parameters are controlled via an on-line adaptive scheme. The algorithm is further developed to co-evolve multiple swarms. The investigation of various multi-objective optimization problems reveals that the proposed PSO is able to converge fast and in a robust manner towards the true Pareto-optimal front. Comparisons with results obtained from other multi-objective optimizers are presented. A parametric investigation is performed in order to exploit the potential of the proposed co-evolutionary algorithm for parallelization. The results obtained from a hydrofoil design optimization problem demonstrate near-linear speedup and high parallel efficiency. 
+Keywords
+multi-objective optimization, swarm intelligence, co-evolution, on-line adaptation, parallel algorithm 

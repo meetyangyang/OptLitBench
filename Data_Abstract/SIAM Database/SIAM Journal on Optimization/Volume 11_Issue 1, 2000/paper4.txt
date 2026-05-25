@@ -1,0 +1,6 @@
+On the Rate of Convergence of Optimal Solutions of Monte Carlo Approximations of Stochastic Programs
+Alexander  Shapiro and Tito  Homem-de-Mello;
+Abstract
+In this paper we discuss Monte Carlo simulation based approximations of astochastic programming problem. We show that if the corresponding random functions are convex piecewise linear and the distribution is discrete, then an optimal solution of the approximating problem provides an exact optimal solution of the true problem with probability one for sufficiently large sample size. Moreover, by using the theory of large deviations, we show that the probability of such an event approaches one exponentially fast with increase of the sample size. In particular, this happens in the case of linear two- (or multi-) stage stochastic programming with recourse if the corresponding distributions are discrete. The obtained results suggest that, in such cases, Monte Carlo simulation based methods could be very efficient. We present some numerical examples to illustrate the ideas involved.
+Keywords
+two-stage stochastic programming with recourse, Monte Carlo simulation, large deviations theory, convex analysis, 90C15, 90C25, 

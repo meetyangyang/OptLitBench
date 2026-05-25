@@ -1,0 +1,6 @@
+Numerical Exact Controllability of the 1D Heat Equation: Duality and Carleman Weights
+Enrique Fernández-Cara;Arnaud Münch;
+Abstract
+This article is devoted to the numerical computation of distributed null controls for the 1D heat equation. The goal is to compute a control that drives (a numerical approximation of) the solution from a prescribed initial state exactly to zero. We extend the earlier contribution of Carthel, Glowinski, and Lions, which is devoted to the computation of controls of minimal square-integrable norm. We start from some constrained extremal problems (involving unbounded weights in time), introduced by Fursikov and Imanuvilov, and we apply appropriate duality techniques. Then, we provide numerical approximations of the associated dual problems, and apply conjugate gradient algorithms. Finally, several experiments are presented, and we highlight the influence of the weights and analyze this approach in terms of robustness and efficiency. Also, the results are compared with others in a previous article of the authors, where primal methods were considered.
+Keywords
+Heat equation  Null controllability  Numerical solution  Duality  35K35  65M12  93B40  

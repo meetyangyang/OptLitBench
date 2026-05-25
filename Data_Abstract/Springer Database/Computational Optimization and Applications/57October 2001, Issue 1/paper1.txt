@@ -1,0 +1,6 @@
+SSVM: A Smooth Support Vector Machine for Classification
+Yuh-Jye Lee;O.L. Mangasarian;
+Abstract
+Smoothing methods, extensively used for solving important mathematical programming problems and applications, are applied here to generate and solve an unconstrained smooth reformulation of the support vector machine for pattern classification using a completely arbitrary kernel. We term such reformulation a smooth support vector machine (SSVM). A fast Newton–Armijo algorithm for solving the SSVM converges globally and quadratically. Numerical results and comparisons are given to demonstrate the effectiveness and speed of the algorithm. On six publicly available datasets, tenfold cross validation correctness of SSVM was the highest compared with four other methods as well as the fastest. On larger problems, SSVM was comparable or faster than SVM light  (T. Joachims, in Advances in Kernel Methods—Support Vector Learning, MIT Press: Cambridge, MA, 1999), SOR (O.L. Mangasarian and David R. Musicant, IEEE Transactions on Neural Networks, vol. 10, pp. 1032–1037, 1999) and SMO (J. Platt, in Advances in Kernel Methods—Support Vector Learning, MIT Press: Cambridge, MA, 1999). SSVM can also generate a highly nonlinear separating surface such as a checkerboard.
+Keywords
+classification  support vector machines  smoothing  

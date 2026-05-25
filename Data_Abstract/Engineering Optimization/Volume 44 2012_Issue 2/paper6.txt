@@ -1,0 +1,6 @@
+A hybrid dynamic harmony search algorithm for identical parallel machines scheduling
+ Jing   Chen ; Quan-Ke   Pan ; Ling   Wang ; Jun-Qing   Li ;
+Abstract
+ In this article, a dynamic harmony search (DHS) algorithm is proposed for the identical parallel machines scheduling problem with the objective to minimize makespan. First, an encoding scheme based on a list scheduling rule is developed to convert the continuous harmony vectors to discrete job assignments. Second, the whole harmony memory (HM) is divided into multiple small-sized sub-HMs, and each sub-HM performs evolution independently and exchanges information with others periodically by using a regrouping schedule. Third, a novel improvisation process is applied to generate a new harmony by making use of the information of harmony vectors in each sub-HM. Moreover, a local search strategy is presented and incorporated into the DHS algorithm to find promising solutions. Simulation results show that the hybrid DHS (DHS_LS) is very competitive in comparison to its competitors in terms of mean performance and average computational time. 
+Keywords
+parallel machines scheduling, makespan, harmony search algorithm, variable neighbourhood search, local search 

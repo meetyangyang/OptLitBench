@@ -1,0 +1,6 @@
+Finite strain topology optimization based on phase-field regularization
+Mathias Wallin;Matti Ristinmaa;
+Abstract
+In this paper the topology optimization problem is solved in a finite strain setting using a polyconvex hyperelastic material. Since finite strains is considered the definition of the stiffness is not unique. In the present contribution, the objective of the optimization is minimization of the end-displacement for a given amount of material. The problem is regularized using the phase-field approach which leads to that the optimality criterion is defined by a second order partial differential equation. Both the elastic boundary value problem and the optimality criterion is solved using the finite element method. To approach the optimal state a steepest descent approach is utilized. The interfaces between void and full material are resolved using an adaptive finite element scheme. The paper is closed by numerical examples that clearly illustrates that the presented method is able to find optimal solutions for finite strain topology optimization problems.
+Keywords
+Topology optimization  Finite strain  Phase field  

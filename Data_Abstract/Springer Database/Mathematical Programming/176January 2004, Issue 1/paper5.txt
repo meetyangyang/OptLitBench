@@ -1,0 +1,7 @@
+Epsilon-proximal decomposition method
+Adam Ouorou;
+Abstract
+We propose a modification of the proximal decomposition method investigated by Spingarn [30] and Mahey et al. [19] for minimizing a convex function on a subspace. For the method to be favorable from a computational point of view, particular importance is the introduction of approximations in the proximal step. First, we couple decomposition on the graph of the epsilon-subdifferential mapping and cutting plane approximations to get an algorithmic pattern that falls in the general framework of Rockafellar inexact proximal-point algorithms [26]. Recently, Solodov and Svaiter [27] proposed a new proximal point-like algorithm that uses improved error criteria and an enlargement of the maximal monotone operator defining the problem. We combine their idea with bundle mecanism to devise an inexact proximal decomposition method with error condition which is not hard to satisfy in practice. Then, we present some applications favorable to our development. First, we give a new regularized version of Benders decomposition method in convex programming called the proximal convex Benders decomposition algorithm. Second, we derive a new algorithm for nonlinear multicommodity flow problems among which the message routing problem in telecommunications data networks.
+
+Keywords
+convex optimization  proximal point algorithms  cutting planes  decomposition  multicommodity flows  large-scale programming  

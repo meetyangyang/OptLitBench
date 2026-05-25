@@ -1,0 +1,6 @@
+A proximal-based decomposition method for convex minimization problems
+Gong Chen;Marc Teboulle;
+Abstract
+This paper presents a decomposition method for solving convex minimization problems. At each iteration, the algorithm computes two proximal steps in the dual variables and one proximal step in the primal variables. We derive this algorithm from Rockafellar's proximal method of multipliers, which involves an augmented Lagrangian with an additional quadratic proximal term. The algorithm preserves the good features of the proximal method of multipliers, with the additional advantage that it leads to a decoupling of the constraints, and is thus suitable for parallel implementation. We allow for computing approximately the proximal minimization steps and we prove that under mild assumptions on the problem's data, the method is globally convergent and at a linear rate. The method is compared with alternating direction type methods and applied to the particular case of minimizing a convex function over a finite intersection of closed convex sets.
+Keywords
+90C25  Convex programming  Proximal methods  Augmented Lagrangian  Decomposition-splitting methods  

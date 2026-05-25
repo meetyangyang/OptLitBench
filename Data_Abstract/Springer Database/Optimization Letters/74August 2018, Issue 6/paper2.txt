@@ -1,0 +1,6 @@
+An interior penalty method for a finite-dimensional linear complementarity problem in financial engineering
+Song Wang;Kai Zhang;
+Abstract
+In this work we study an interior penalty method for a finite-dimensional large-scale linear complementarity problem (LCP) arising often from the discretization of stochastic optimal problems in financial engineering. In this approach, we approximate the LCP by a nonlinear algebraic equation containing a penalty term linked to the logarithmic barrier function for constrained optimization problems. We show that the penalty equation has a solution and establish a convergence theory for the approximate solutions. A smooth Newton method is proposed for solving the penalty equation and properties of the Jacobian matrix in the Newton method have been investigated. Numerical experimental results using three non-trivial test examples are presented to demonstrate the rates of convergence, efficiency and usefulness of the method for solving practical problems.
+Keywords
+Variational inequality  Stochastic optimal control  American option pricing  HJB equation  Linear complementarity problem  Interior penalty method  

@@ -1,0 +1,6 @@
+Fast Iterative Solution of Saddle Point Problems in Optimal Control Based on Wavelets
+Angela Kunoth;
+Abstract
+In this paper, wavelet techniques are employed for the fast numerical solution of a control problem governed by an elliptic boundary value problem with boundary control. A quadratic cost functional involving natural norms of the state and the control is to be minimized. Firstly the constraint, the elliptic boundary value problem, is formulated in an appropriate weak form that allows to handle varying boundary conditions explicitly: the boundary conditions are treated by Lagrange multipliers, leading to a saddle point problem. This is combined with a fictitious domain approach in order to cover also more complicated boundaries.
+Keywords
+optimal control  elliptic boundary value problem  Lagrange multiplier  saddle point problem  wavelets  infinite ℓ2-system  preconditioning  coupled system  convergence of iterative procedure  inexact gradient method  Uzawa algorithm  nested iteration  

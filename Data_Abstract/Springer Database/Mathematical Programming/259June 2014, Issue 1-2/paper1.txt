@@ -1,0 +1,6 @@
+Graver basis and proximity techniques for block-structured separable convex integer minimization problems
+Raymond Hemmecke;Matthias  Köppe;Robert Weismantel;
+Abstract
+We consider \(N\)-fold \(4\)-block decomposable integer programs, which simultaneously generalize \(N\)-fold integer programs and two-stage stochastic integer programs with \(N\) scenarios. In previous work (Hemmecke et al. in Integer programming and combinatorial optimization. Springer, Berlin, 2010), it was proved that for fixed blocks but variable \(N\), these integer programs are polynomial-time solvable for any linear objective. We extend this result to the minimization of separable convex objective functions. Our algorithm combines Graver basis techniques with a proximity result (Hochbaum and Shanthikumar in J. ACM 37:843–862,1990), which allows us to use convex continuous optimization as a subroutine.
+Keywords
+\(N\)-fold integer programs  Graver basis  Augmentation algorithm  Proximity  Polynomial-time algorithm  Stochastic multi-commodity flow   Stochastic integer programming  90C10  90C15  

@@ -1,0 +1,6 @@
+Expanding Neighborhood GRASP for the Traveling Salesman Problem
+Yannis Marinakis;Athanasios Migdalas;Panos M. Pardalos;
+Abstract
+In this paper, we present the application of a modified version of the well known Greedy Randomized Adaptive Search Procedure (GRASP) to the TSP. The proposed GRASP algorithm has two phases: In the first phase the algorithm finds an initial solution of the problem and in the second phase a local search procedure is utilized for the improvement of the initial solution. The local search procedure employs two different local search strategies based on 2-opt and 3-opt methods. The algorithm was tested on numerous benchmark problems from TSPLIB. The results were very satisfactory and for the majority of the instances the results were equal to the best known solution. The algorithm is also compared to the algorithms presented and tested in the DIMACS Implementation Challenge that was organized by David Johnson.
+Keywords
+Traveling Salesman Problem  Greedy Randomized Adaptive Search Procedure  local search  Meta-Heuristics  

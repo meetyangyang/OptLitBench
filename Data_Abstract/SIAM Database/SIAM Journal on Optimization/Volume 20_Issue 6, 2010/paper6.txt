@@ -1,0 +1,6 @@
+Computing Rational Points in Convex Semialgebraic Sets and Sum of Squares Decompositions
+Mohab Safey  El Din and Lihong  Zhi;
+Abstract
+Let $\mathcal{P}=\{h_1,\dots,h_s\}\subset\mathbb{Z}[Y_1,\dots,Y_k]$, $D\geq\deg(h_i)$ for $1\leq i\leq s$, $\sigma$ bounding the bit length of the coefficients of the $h_i$'s, and let $\Phi$ be a quantifier-free $\mathcal{P}$-formula defining a convex semialgebraic set. We design an algorithm returning a rational point in $\mathcal{S}$ if and only if $\mathcal{S}\cap\mathbb{Q}\neq\emptyset$. It requires $\sigma^{\mathrm{O}(1)}D^{\mathrm{O}(k^3)}$ bit operations. If a rational point is outputted, its coordinates have bit length dominated by $\sigma D^{\mathrm{O}(k^3)}$. Using this result, we obtain a procedure for deciding whether a polynomial $f\in\mathbb{Z}[X_1,\dots,X_n]$ is a sum of squares of polynomials in $\mathbb{Q}[X_1,\dots,X_n]$. Denote by d the degree of f, $\tau$ the maximum bit length of the coefficients in f, $D={n+d\choose n}$, and $k\leq D(D+1)-{n+2d\choose n}$. This procedure requires $\tau^{\mathrm{O}(1)}D^{\mathrm{O}(k^3)}$ bit operations, and the coefficients of the outputted polynomials have bit length dominated by $\tau D^{\mathrm{O}(k^3)}$.
+Keywords
+rational sum of squares, semidefinite programming, convex, complexity, 51M16, 52A40, 15B48, 13P25, 03C10, 

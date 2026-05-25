@@ -1,0 +1,6 @@
+Guided particle swarm optimization method to solve general nonlinear optimization problems
+Alyaa Abdelhalim;Kazuhide Nakata;Mahmoud El-Alem;Amr Eltawil;
+Abstract
+The development of hybrid algorithms is becoming an important topic in the global optimization research area. This article proposes a new technique in hybridizing the particle swarm optimization (PSO) algorithm and the Nelder–Mead (NM) simplex search algorithm to solve general nonlinear unconstrained optimization problems. Unlike traditional hybrid methods, the proposed method hybridizes the NM algorithm inside the PSO to improve the velocities and positions of the particles iteratively. The new hybridization considers the PSO algorithm and NM algorithm as one heuristic, not in a sequential or hierarchical manner. The NM algorithm is applied to improve the initial random solution of the PSO algorithm and iteratively in every step to improve the overall performance of the method. The performance of the proposed method was tested over 20 optimization test functions with varying dimensions. Comprehensive comparisons with other methods in the literature indicate that the proposed solution method is promising and competitive.
+Keywords
+Evolutionary computation, continuous optimization, particle swarm optimization, simplex search algorithm, nonlinear optimization 

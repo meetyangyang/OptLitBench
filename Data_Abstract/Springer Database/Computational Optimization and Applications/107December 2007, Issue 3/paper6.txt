@@ -1,0 +1,8 @@
+Scaled conjugate gradient algorithms for unconstrained optimization
+Neculai Andrei;
+Abstract
+
+In this work we present and analyze a new scaled conjugate gradient algorithm and its implementation, based on an interpretation of the secant equation and on the inexact Wolfe line search conditions. The best spectral conjugate gradient algorithm SCG by Birgin and Martínez (2001), which is mainly a scaled variant of Perry’s (1977), is modified in such a manner to overcome the lack of positive definiteness of the matrix defining the search direction. This modification is based on the quasi-Newton BFGS updating formula. The computational scheme is embedded in the restart philosophy of Beale–Powell. The parameter scaling the gradient is selected as spectral gradient or in an anticipative manner by means of a formula using the function values in two successive points. In very mild conditions it is shown that, for strongly convex functions, the algorithm is global convergent. Preliminary computational results, for a set consisting of 500 unconstrained optimization test problems, show that this new scaled conjugate gradient algorithm substantially outperforms the spectral conjugate gradient SCG algorithm.
+
+Keywords
+Unconstrained optimization  Conjugate gradient method  Spectral gradient method  BFGS formula  Numerical comparisons  

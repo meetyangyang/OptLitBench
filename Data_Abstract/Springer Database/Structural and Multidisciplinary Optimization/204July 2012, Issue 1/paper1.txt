@@ -1,0 +1,6 @@
+Solving stress constrained problems in topology and material optimization
+Michal Kočvara;Michael Stingl;
+Abstract
+This article is a continuation of the paper Kočvara and Stingl (Struct Multidisc Optim 33(4–5):323–335, 2007). The aim is to describe numerical techniques for the solution of topology and material optimization problems with local stress constraints. In particular, we consider the topology optimization (variable thickness sheet or “free sizing”) and the free material optimization problems. We will present an efficient algorithm for solving large scale instances of these problems. Examples will demonstrate the efficiency of the algorithm and the importance of the local stress constraints. In particular, we will argue that in certain topology optimization problems, the addition of stress constraints must necessarily lead not only to the change of optimal topology but also optimal geometry. Contrary to that, in material optimization problems the stress singularity is treated by the change in the optimal material properties.
+Keywords
+Topology optimization  Material optimization  Stress based design  Nonlinear semidefinite programming  

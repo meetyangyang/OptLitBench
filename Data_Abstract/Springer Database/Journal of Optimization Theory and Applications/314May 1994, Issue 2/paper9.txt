@@ -1,0 +1,6 @@
+Descent approaches for quadratic bilevel programming
+L. Vicente;G. Savard;J. Júdice;
+Abstract
+The bilevel programming problem involves two optimization problems where the data of the first one is implicitly determined by the solution of the second. In this paper, we introduce two descent methods for a special instance of bilevel programs where the inner problem is strictly convex quadratic. The first algorithm is based on pivot steps and may not guarantee local optimality. A modified steepest descent algorithm is presented to overcome this drawback. New rules for computing exact stepsizes are introduced and a hybrid approach that combines both strategies is discussed. It is proved that checking local optimality in bilevel programming is a NP-hard problem.
+Keywords
+Bilevel programming  nonconvex and nondifferentiable optimization  quadratic programming  computational complexity  

@@ -1,0 +1,6 @@
+A trust region algorithm for minimization of locally Lipschitzian functions
+Liqun Qi;Jie Sun;
+Abstract
+The classical trust region algorithm for smooth nonlinear programs is extended to the nonsmooth case where the objective function is only locally Lipschitzian. At each iteration, an objective function that carries both first and second order information is minimized over a trust region. The term that carries the first order information is an iteration function that may not explicitly depend on subgradients or directional derivatives. We prove that the algorithm is globally convergent. This convergence result extends the result of Powell for minimization of smooth functions, the result of Yuan for minimization of composite convex functions, and the result of Dennis, Li and Tapia for minimization of regular functions. In addition, compared with the recent model of Pang, Han and Rangaraj for minimization of locally Lipschitzian functions using a line search, this algorithm has the same convergence property without assuming positive definiteness and uniform boundedness of the second order term. Applications of the algorithm to various nonsmooth optimization problems are discussed.
+Keywords
+Trust region methods  Locally Lipschitzian functions  Global convergence  

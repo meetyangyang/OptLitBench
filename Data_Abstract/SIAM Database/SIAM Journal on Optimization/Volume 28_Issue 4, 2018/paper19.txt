@@ -1,0 +1,4 @@
+Stochastic Methods for Composite and Weakly Convex Optimization Problems
+John C.  Duchi and Feng  Ruan;
+Abstract
+We consider minimization of stochastic functionals that are compositions of a (potentially) nonsmooth convex function $h$ and smooth function $c$ and, more generally, stochastic weakly convex functionals. We develop a family of stochastic methods---including a stochastic prox-linear algorithm and a stochastic (generalized) subgradient procedure---and prove that, under mild technical conditions, each converges to first order stationary points of the stochastic objective. We provide experiments further investigating our methods on nonsmooth phase retrieval problems; the experiments indicate the practical effectiveness of the procedures.

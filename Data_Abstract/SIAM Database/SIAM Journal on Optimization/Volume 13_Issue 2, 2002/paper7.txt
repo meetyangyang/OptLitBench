@@ -1,0 +1,6 @@
+Convergent Infeasible Interior-Point Trust-Region Methods for Constrained Minimization
+Paul  Tseng;
+Abstract
+We study an infeasible primal-dual interior-point trust-region method for constrained minimization. This method uses a log-barrier function for the slack variables and updates the slack variables using second-order correction. We show that if a certain set containing the initial iterate is bounded and the origin is not in the convex hull of the nearly active constraint gradients everywhere on this set, then the iterates remain in this set, and any cluster point of the iterates is a first-order stationary point. Moreover, any subsequence of iterates converging to the cluster point has an asymptotic second-order stationarity property, which, when the constraint functions are affine or when the active constraint gradients are linearly independent, implies that the cluster point is a second-order stationary point. Preliminary numerical experience with the method is reported. A primal method and its extension to semidefinite nonlinear programming is also discussed.
+Keywords
+nonlinear program, log-barrier function, interior-point method, trust-region strategy, first- and second-order stationary points, semidefinite programming, 49M30, 49M37, 65K10, 90C22, 90C26, 90C30, 90C51, 

@@ -1,0 +1,6 @@
+The Development of Information Guided Evolution Algorithm for Global Optimization
+Chen-Wei Yeh;Shi-Shang Jang;
+Abstract
+Evolutionary algorithm (EA) has become popular in global optimization with applications widely used in many industrial areas. However, there exists probable premature convergence problem when rugged contour situation is encountered. As to the original genetic algorithm (GA), no matter single population or multi-population cases, the ways to prevent the problem of probable premature convergence are to implement various selection methods, penalty functions and mutation approaches. This work proposes a novel approach to perform very efficient mutation to prevent from premature convergence by introducing the concept of information theory. Information-guided mutation is implemented to several variables, which are selected based on the information entropy derived in this work. The areas of search are also determined on the basis of the information amount obtained from previous searches. Several benchmark problems are solved to show the superiority of this information-guided EA. An industrial scale problem is also presented in this work.
+Keywords
+Evolutionary algorithm  Premature convergence  Information entropy  Orthogonal design  

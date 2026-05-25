@@ -1,0 +1,8 @@
+An optimal algorithm for a class of equality constrained quadratic programming problems with bounded spectrum
+Z. Dostál;
+Abstract
+
+The implementation of the recently proposed semi-monotonic augmented Lagrangian algorithm for the solution of large convex equality constrained quadratic programming problems is considered. It is proved that if the auxiliary problems are approximately solved by the conjugate gradient method, then the algorithm finds an approximate solution of the class of problems with uniformly bounded spectrum of the Hessian matrix at O(1) matrix–vector multiplications. If applied to the class of problems with the Hessian matrices that are in addition either sufficiently sparse or can be expressed as a product of such sparse matrices, then the cost of the solution is proportional to the dimension of the problems. Theoretical results are illustrated by numerical experiments.
+
+Keywords
+Quadratic programming  Equality constraints  Saddle point problems  Inexact augmented Lagrangians  

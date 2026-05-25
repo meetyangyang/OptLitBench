@@ -1,0 +1,6 @@
+Toward Probabilistic Analysis of Interior-Point Algorithms for Linear Programming
+Yinyu Ye;
+Abstract
+We propose an approach based on interior-point algorithms for linear programming (LP). We show that the algorithm solves a class of LP problems in strongly polynomial time, O(√n log n)-iteration, where each iteration solves a system of linear equations with n variables. The recent statistical data of the solutions of the NETLIB LP problems seem to indicate that virtually all of these problems are in this class. Then, we show that some random LP problems, with high probability (probability converges to one as n approaches infinity), are in this class. These random LP problems include recent Todd's probabilistic models with the standard Gauss distribution.
+Keywords
+interior-point algorithms strongly polynomial time random linear programs probabilistic analysis 

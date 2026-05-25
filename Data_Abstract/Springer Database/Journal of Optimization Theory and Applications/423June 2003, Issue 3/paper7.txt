@@ -1,0 +1,6 @@
+An O(n) Algorithm for Projecting a Vector on the Intersection of a Hyperplane and a Box in Rn
+N. Maculan;C.P. Santiago;E.M. Macambira;M.H.C. Jardim;
+Abstract
+We consider the problem of projecting a vector on the intersection of a hyperplane and a box in Rn. This paper extends a previous result of Maculan, Minoux, and Plateau (Ref. 1) concerning the projection of a vector on the intersection of a hyperplane and Rn+. We present an O(n) time algorithm based on the linear-time median-finding algorithm. This algorithm determines the median of the components of the vector to be projected. Computational results are also presented in order to evaluate the algorithm and its time complexity. We consider two sets of instances which are randomly generated for any given n. The algorithm was successful in solving all the instances in a reasonable time.
+Keywords
+Orthogonal projections  linear-time algorithm  computational linear algebra  subgradient methods  

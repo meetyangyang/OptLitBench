@@ -1,0 +1,6 @@
+Truss topology optimization with discrete design variables by outer approximation
+Mathias Stolpe;
+Abstract
+Several variants of an outer approximation method are proposed to solve truss topology optimization problems with discrete design variables to proven global optimality. The objective is to minimize the volume of the structure while satisfying constraints on the global stiffness of the structure under the applied loads. We extend the natural problem formulation by adding redundant force variables and force equilibrium constraints. This guarantees that the designs suggested by the relaxed master problems are capable of carrying the applied loads, a property which is generally not satisfied for classical outer approximation approaches applied to optimal design problems. A set of two- and three-dimensional benchmark problems are solved and the numerical results suggest that the proposed approaches are competitive with other special-purpose global optimization methods for the considered class of problems. Numerical comparisons indicate that the suggested outer approximation algorithms can outperform standard approaches suggested in the literature, especially on difficult problem instances.
+Keywords
+Structural optimization  Truss topology optimization   Outer approximation  

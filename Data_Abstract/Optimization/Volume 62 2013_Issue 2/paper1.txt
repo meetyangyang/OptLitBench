@@ -1,0 +1,6 @@
+Simplified analysis for full-Newton step infeasible interior-point algorithm for semidefinite programming
+ Lipu   Zhang ; Liming   Sun ; Yinghong   Xu ;
+Abstract
+ We present an analysis of the full-Newton step infeasible interior-point algorithm for semidefinite optimization, which is an extension of the algorithm introduced by Roos [C. Roos, A full-Newton step 𝒪(n) infeasible interior-point algorithm for linear optimization, SIAM J. Optim. 16 (2006), pp. 1110–1136] for the linear optimization case. We use the proximity measure σ(V) = ‖I − V 2‖ to overcome the difficulty of obtaining an upper bound of updated proximity after one full-Newton step, where I is an identity matrix and V is a symmetric positive definite matrix. It turns out that the complexity analysis of the algorithm is simplified and the iteration bound obtained is improved slightly. 
+Keywords
+semidefinite optimization, full-Newton step, iteration bound, infeasible interior-point algorithmAMS Subject Classifications:: 65K05, 90C51 

@@ -1,0 +1,6 @@
+Solving nonlinear multicommodity flow problems by the analytic center cutting plane method
+J. -L. Goffin;J. Gondzio;R. Sarkissian;J. -P. Vial;
+Abstract
+The paper deals with nonlinear multicommodity flow problems with convex costs. A decomposition method is proposed to solve them. The approach applies a potential reduction algorithm to solve the master problem approximately and a column generation technique to define a sequence of primal linear programming problems. Each subproblem consists of finding a minimum cost flow between an origin and a destination node in an uncapacited network. It is thus formulated as a shortest path problem and solved with Dijkstra’s d-heap algorithm. An implementation is described that takes full advantage of the supersparsity of the network in the linear algebra operations. Computational results show the efficiency of this approach on well-known nondifferentiable problems and also large scale randomly generated problems (up to 1000 arcs and 5000 commodities).
+Keywords
+Master Problem  Short Path Problem  Bundle Method  Coupling Constraint  Minimum Cost Flow  

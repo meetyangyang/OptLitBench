@@ -1,0 +1,6 @@
+System-of-systems approach to air transportation design using nested optimization and direct search
+Gautam Marwaha;Michael Kokkolaras;
+Abstract
+Aircraft sizing, route network design, demand estimation and allocation of aircraft to routes are different facets of the air transportation optimization problem that can be viewed as individual “systems,” since they can be conducted independently. In fact, there is a large body of literature that investigates each of these as a stand-alone problem. In this regard, the air transportation design optimization problem can be viewed as an optimal system-of-systems (SoS) design problem. The resulting mixed variable programming problem may not be solvable using an all-in-one (AiO) approach because its size and complexity grow rapidly with increasing number of network nodes. In this work, we use a decomposition-based nested formulation and the Mesh Adaptive Direct Search (MADS) optimization algorithm to solve the optimal SoS design problem. The two-stage expansion of an regional Canadian airline’s network to enable national operations is considered as a demonstrating example.
+Keywords
+Systems of systems  Aircraft sizing  Network design  Route allocation  Derivative-free optimization  Mesh adaptive direct search  

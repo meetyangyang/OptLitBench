@@ -1,0 +1,6 @@
+A Rigorous Global Optimization Algorithm for Problems with Ordinary Differential Equations
+Ioannis Papamichail;Claire S. Adjiman;
+Abstract
+The optimization of systems which are described by ordinary differential equations (ODEs) is often complicated by the presence of nonconvexities. A deterministic spatial branch and bound global optimization algorithm is presented in this paper for systems with ODEs in the constraints. Upper bounds for the global optimum are produced using the sequential approach for the solution of the dynamic optimization problem. The required convex relaxation of the algebraic functions is carried out using well-known global optimization techniques. A convex relaxation of the time dependent information is obtained using the concept of differential inequalities in order to construct bounds on the space of solutions of parameter dependent ODEs as well as on their second-order sensitivities. This information is then incorporated in the convex lower bounding NLP problem. The global optimization algorithm is illustrated by applying it to four case studies. These include parameter estimation problems and simple optimal control problems. The application of different underestimation schemes and branching strategies is discussed.
+Keywords
+Global optimization  Ordinary differential equations  Convex underestimation  Differential inequalities  

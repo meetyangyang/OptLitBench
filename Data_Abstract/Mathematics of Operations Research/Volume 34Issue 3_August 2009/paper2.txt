@@ -1,0 +1,6 @@
+Stochastic Combinatorial Optimization with Controllable Risk Aversion Level
+Anthony Man-Cho So;Jiawei Zhang;Yinyu Ye;
+Abstract
+Most of the recent work on 2-stage stochastic combinatorial optimization problems has focused on minimization of the expected cost or the worst-case cost of the solution. Those two objectives can be viewed as two extreme ways of handling risk. In this paper we propose to use a one-parameter family of functionals to interpolate between them. Although such a family has been used in the mathematical finance and stochastic programming literature before, its use in the context of approximation algorithms seems new. We show that under standard assumptions, a broad class of risk-adjusted 2-stage stochastic programs can be efficiently treated by the sample average approximation (SAA) method. In particular, our result shows that it is computationally feasible to incorporate some degree of robustness even when the underlying distribution can only be accessed in a black-box fashion. We also show that when combined with suitable rounding procedures, our result yields new approximation algorithms for many risk-adjusted 2-stage stochastic combinatorial optimization problems under the black-box setting.
+Keywords
+stochastic optimization risk measure sample average approximation (SAA) approximation algorithm combinatorial optimization 

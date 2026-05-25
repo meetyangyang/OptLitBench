@@ -1,0 +1,6 @@
+On scenario aggregation to approximate robust combinatorial optimization problems
+André Chassein;Marc Goerigk;
+Abstract
+As most robust combinatorial min–max and min–max regret problems with discrete uncertainty sets are NP-hard, research in approximation algorithm and approximability bounds has been a fruitful area of recent work. A simple and well-known approximation algorithm is the midpoint method, where one takes the average over all scenarios, and solves a problem of nominal type. Despite its simplicity, this method still gives the best-known bound on a wide range of problems, such as robust shortest path or robust assignment problems. In this paper, we present a simple extension of the midpoint method based on scenario aggregation, which improves the current best K-approximation result to an \((\varepsilon K)\)-approximation for any desired \(\varepsilon > 0\). Our method can be applied to min–max as well as min–max regret problems.
+Keywords
+Robust combinatorial optimization  Approximation algorithms  Scenario aggregation  Min–max optimization  Min–max regret optimization  

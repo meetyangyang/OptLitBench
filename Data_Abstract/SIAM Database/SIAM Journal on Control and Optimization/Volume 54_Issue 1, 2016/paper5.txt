@@ -1,0 +1,6 @@
+Analysis of the Velocity Tracking Control Problem for the 3D Evolutionary Navier--Stokes Equations
+Eduardo  Casas and Konstantinos  Chrysafinos;
+Abstract
+The velocity tracking problem for the evolutionary Navier--Stokes equations in three dimensions is studied. The controls are of distributed type and are submitted to bound constraints. The classical cost functional is modified so that a full analysis of the control problem is possible. First and second order necessary and sufficient optimality conditions are proved. A fully discrete scheme based on a discontinuous (in time) Galerkin approach, combined with conforming finite element subspaces in space, is proposed and analyzed. Provided that the time and space discretization parameters, $\tau$ and $h,$ respectively, satisfy $\tau \leq Ch^2$, the $L^2(\Omega_T)$ error estimates of order $O(h)$ are proved for the difference between the locally optimal controls and their discrete approximations. Finally, combining these techniques and the approach of Casas, Herzog, and Wachsmuth [SIAM J. Optim., 22 (2012), pp. 795--820], we extend our results to the case of $L^1(\Omega_T)$ type functionals that allow sparse controls.
+Keywords
+evolution Navier--Stokes equations, optimal control, sparse controls, a priori error estimates, discontinuous Galerkin methods, 49J20, 49K20, 35K55, 65N30, 

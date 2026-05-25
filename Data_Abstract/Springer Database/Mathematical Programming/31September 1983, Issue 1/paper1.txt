@@ -1,0 +1,6 @@
+A numerically stable dual method for solving strictly convex quadratic programs
+D. Goldfarb;A. Idnani;
+Abstract
+An efficient and numerically stable dual algorithm for positive definite quadratic programming is described which takes advantage of the fact that the unconstrained minimum of the objective function can be used as a starting point. Its implementation utilizes the Cholesky and QR factorizations and procedures for updating them. The performance of the dual algorithm is compared against that of primal algorithms when used to solve randomly generated test problems and quadratic programs generated in the course of solving nonlinear programming problems by a successive quadratic programming code (the principal motivation for the development of the algorithm). These computational results indicate that the dual algorithm is superior to primal algorithms when a primal feasible point is not readily available. The algorithm is also compared theoretically to the modified-simplex type dual methods of Lemke and Van de Panne and Whinston and it is illustrated by a numerical example.
+Keywords
+Positive Definite Quadratic Programming  Matrix Factorizations  Dual Algorithms  Successive Quadratic Programming Methods  

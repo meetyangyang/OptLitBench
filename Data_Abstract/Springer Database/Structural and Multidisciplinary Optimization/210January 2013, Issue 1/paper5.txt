@@ -1,0 +1,6 @@
+Efficient generation of large-scale pareto-optimal topologies
+Krishnan Suresh;
+Abstract
+The objective of this paper is to introduce an efficient algorithm and implementation for large-scale 3-D topology optimization. The proposed algorithm is an extension of a recently proposed 2-D topological-sensitivity based method that can generate numerous pareto-optimal topologies up to a desired volume fraction, in a single pass. In this paper, we show how the computational challenges in 3-D can be overcome. In particular, we consider an arbitrary 3-D domain-space that is discretized via hexahedral/brick finite elements. Exploiting congruence between elements, we propose a matrix-free implementation of the finite element method. The latter exploits modern multi-core architectures to efficiently solve topology optimization problems involving millions of degrees of freedom. The proposed methodology is illustrated through numerical experiments; comparisons are made against previously published results.
+Keywords
+Topology optimization  Pareto  Large scale  

@@ -1,0 +1,6 @@
+Tight Bounds and Probabilistic Analysis of Two Heuristics for Parallel Processor Scheduling
+Richard Loulou;
+Abstract
+We study the partitioning problem, consisting in partitioning a sublist of n positive numbers into m disjoint sublists such that the maximum sublist is minimized. This is equivalent to minimizing the completion time of n jobs on m parallel identical processors. We establish upper bounds on the deviation from optimality of two heuristics: the well-known LPT heuristic, and the on-line RLP heuristic. These bounds serve to establish a probabilistic analysis of these heuristics; for both of them, the absolute deviation from optimality remains finite, when the size of the list of numbers becomes infinite. This is a stronger result than previous convergence theorems, and it is valid whenever the processing times are iid random variables with finite mean and arbitrary distributions.
+Keywords
+partitioning parallel processors heuristics probabilistic analysis asymptotic behaviour 

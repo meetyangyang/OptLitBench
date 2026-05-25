@@ -1,0 +1,6 @@
+A Derivative-Free Algorithm for Least-Squares Minimization
+Hongchao  Zhang, Andrew R.  Conn, and Katya  Scheinberg;
+Abstract
+We develop a framework for a class of derivative-free algorithms for the least-squares minimization problem. These algorithms are designed to take advantage of the problem structure by building polynomial interpolation models for each function in the least-squares minimization. Under suitable conditions, global convergence of the algorithm is established within a trust region framework. Promising numerical results indicate the algorithm is both efficient and robust. Numerical comparisons are made with standard derivative-free software packages that do not exploit the special structure of the least-squares problem or that use finite differences to approximate the gradients.
+Keywords
+derivative-free optimization, least-squares, trust region, Levenberg–Marquardt method, system of nonlinear equations, global convergence, 65K05, 90C30, 90C56, 

@@ -1,0 +1,6 @@
+Global Optimization Algorithm for the Nonlinear Sum of Ratios Problem
+H. P. Benson;
+Abstract
+This article presents a branch-and-bound algorithm for globally solving the nonlinear sum of ratios problem (P). The algorithm economizes the required computations by conducting the branch-and-bound search in ℛp, rather than in ℛn, where p is the number of ratios in the objective function of problem (P) and n is the number of decision variables in problem (P). To implement the algorithm, the main computations involve solving a sequence of convex programming problems for which standard algorithms are available.
+Keywords
+Global optimization  sum of ratios  fractional programming  branch-and-bound algorithms  

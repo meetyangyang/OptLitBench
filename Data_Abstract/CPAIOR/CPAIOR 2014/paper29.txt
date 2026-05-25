@@ -1,0 +1,4 @@
+The Markov Transition Constraint
+Michael Morin;Claude-Guy Quimper;
+Abstract
+We introduce a novel global Markov transition constraint (Mtc) to model finite state homogeneous Markov chains. We present two algorithms to filter the variable domains representing the imprecise probability distributions over the state space of the chain. The first filtering algorithm is based on the fractional knapsack problem and the second filtering algorithm is based on linear programming. Both of our filtering algorithms compare favorably to the filtering performed by solvers when decomposing an Mtc into arithmetic constraints. Cases where the fractional knapsack decomposition enforces bounds consistency are discussed whereas the linear programming filtering always perform bounds consistency. We use the Mtc constraint to model and solve a problem of path planning under uncertainty.

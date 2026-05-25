@@ -1,0 +1,6 @@
+Compression and denoising using l 0-norm
+Andy C. Yau;Xuecheng Tai;Michael K. Ng;
+Abstract
+In this paper, we deal with l 0-norm data fitting and total variation regularization for image compression and denoising. The l 0-norm data fitting is used for measuring the number of non-zero wavelet coefficients to be employed to represent an image. The regularization term given by the total variation is to recover image edges. Due to intensive numerical computation of using l 0-norm, it is usually approximated by other functions such as the l 1-norm in many image processing applications. The main goal of this paper is to develop a fast and effective algorithm to solve the l 0-norm data fitting and total variation minimization problem. Our idea is to apply an alternating minimization technique to solve this problem, and employ a graph-cuts algorithm to solve the subproblem related to the total variation minimization. Numerical examples in image compression and denoising are given to demonstrate the effectiveness of the proposed algorithm.
+Keywords
+Compression Ratio  Image Compression  Noisy Image  Image Domain  Wavelet Domain  

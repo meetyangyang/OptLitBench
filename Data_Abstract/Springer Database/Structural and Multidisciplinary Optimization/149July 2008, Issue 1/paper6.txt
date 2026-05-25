@@ -1,0 +1,6 @@
+Aero-structural optimization using adjoint coupled post-optimality sensitivities
+Ian R. Chittick;Joaquim R. R. A. Martins;
+Abstract
+A new subspace optimization method for performing aero-structural design is introduced. The method relies on a semi-analytic adjoint approach to the sensitivity analysis that includes post-optimality sensitivity information from the structural optimization subproblem. The resulting coupled post-optimality sensitivity approach is used to guide a gradient-based optimization algorithm. The new approach simplifies the system-level problem, thereby reducing the number of calls to a potentially costly aerodynamics solver. The aero-structural optimization of an aircraft wing is performed using linear aerodynamic and structural analyses, and a performance comparison is made between the new approach and the conventional multidisciplinary feasible method. The new asymmetric suboptimization method is found to be the more efficient approach when it adequately reduces the number of system evaluations or when there is a large enough discrepancy between disciplinary solution times.
+Keywords
+Aero-structural optimization  Subspace optimization  Asymmetric suboptimization  Coupled post-optimality sensitivity analysis  Coupled-adjoint sensitivity analysis  

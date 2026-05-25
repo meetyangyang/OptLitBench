@@ -1,0 +1,6 @@
+Convergent Lagrangian and Contour Cut Method for Nonlinear Integer Programming with a Quadratic Objective Function
+D.  Li, X. L.  Sun, and F. L.  Wang;
+Abstract
+In this paper we present an efficient exact solution method for solving nonlinear separable integer programming problems with a quadratic objective function. The proposed method combines the Lagrangian dual method with a duality reduction scheme using contour cut. At each iteration of the algorithm, lower and upper bounds of the problem are determined by the Lagrangian dual search. To eliminate the duality gap, a novel cut-and-partition scheme is derived by exploring the special structure of the quadratic contour. The method finds an exact solution of the problem in a finite number of iterations. Computational results are reported for problems with up to 2000 integer variables. Comparison results with other methods are also presented.
+Keywords
+nonlinear integer programming, quadratic integer programming, Lagrangian relaxation, duality theory, objective contour cut, 90C10, 90C26, 90C46, 

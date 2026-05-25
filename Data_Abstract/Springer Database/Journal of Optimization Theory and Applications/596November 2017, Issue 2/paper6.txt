@@ -1,0 +1,6 @@
+A Projected Subgradient Algorithm for Bilevel Equilibrium Problems and Applications
+Le Quang Thuy;Trinh Ngoc Hai;
+Abstract
+In this paper, we propose a new algorithm for solving a bilevel equilibrium problem in a real Hilbert space. In contrast to most other projection-type algorithms, which require to solve subproblems at each iteration, the subgradient method proposed in this paper requires only to calculate, at each iteration, two subgradients of convex functions and one projection onto a convex set. Hence, our algorithm has a low computational cost. We prove a strong convergence theorem for the proposed algorithm and apply it for solving the equilibrium problem over the fixed point set of a nonexpansive mapping. Some numerical experiments and comparisons are given to illustrate our results. Also, an application to Nash–Cournot equilibrium models of a semioligopolistic market is presented.
+Keywords
+Bilevel equilibrium problems  Subgradient method  Projection method  Strong monotonicity  Pseudoparamonotonicity  65 K10  65 K15  90 C25  90 C33  

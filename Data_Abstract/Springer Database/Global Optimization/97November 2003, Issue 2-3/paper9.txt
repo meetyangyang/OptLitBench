@@ -1,0 +1,6 @@
+Complexity of Workforce Scheduling in Transfer Lines
+George L. Vairaktarakis;Xiaoqiang Cai;
+Abstract
+Consider a production system that consists of m assembly stations arranged in series. All jobs enter the assembly line at station 1 and proceed with subsequent stations in the same order as in a flow shop. Each job spends a fixed amount of time c in each station, known as the production cycle. This production system is synchronous or paced because jobs move one station forward synchronously, every c time units. To ensure that all required work is performed in precisely c periods, the appropriate number of workers is assumed to be known for every task in each station. Hence, each job is specified by an m-tuple of workforce requirements. We are interested in ``level'' workforce schedules where workforce size fluctuations are minimal during the production horizon. In this article we define level workforce scheduling objectives and analyze the complexity status of the associated problems. We find that most of these problems are NP-complete even when m=2.
+Keywords
+Production System  Real Function  Assembly Line  Complexity Status  Production Cycle  

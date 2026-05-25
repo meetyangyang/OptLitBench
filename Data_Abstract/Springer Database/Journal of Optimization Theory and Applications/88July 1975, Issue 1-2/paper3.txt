@@ -1,0 +1,6 @@
+Use of dynamic programming to accelerate convergence of directional optimization algorithms
+W. C. Turner;P. M. Ghare;
+Abstract
+In mostdirectional algorithms for optimization of a mathematical function, thestep along each direction is chosen to optimize the function along the direction.Multistep procedures, determining several directions and steps along the directions, are more efficient than single-step procedures. This paper shows how dynamic programming can be used for the simultaneous determination of optimal steps for a given set of directions. This leads to accelerated convergence. Computational experience for two-step and three-step procedures is also described.
+Keywords
+Unconstrained minimization  dynamic programming  gradient methods  descent methods  functional minimization  

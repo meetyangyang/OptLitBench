@@ -1,0 +1,6 @@
+Affine Feedback Controllability of Constant Coefficient Differential Equations
+Dahlard L.  Lukes;
+Abstract
+This paper studies the constant coefficient (closed loop) differential equation $\dot x = (A + BK)x + Bv + f(t)$ in $[t_0 ,t_1 ] \times R^n $ which arises from substitution of the feedback controller $u = Kx + v$ into the (open loop) control equation $\dot x = Ax + Bu + f(t)$. The open loop system is assumed to be controllable. A classical result due to Kalman states that this assumption is equivalent to the condition that rank $[B,AB, \cdots ,A^{n - 1} B] = n$. Under mild restrictions on $f(t)$ we prove that for any states $x^0 $, $x^1 $ in $R^n $ there exists a constant matrix K and a constant vector v for which the closed loop system has a response satisfying the boundary conditions $x(t_0 ) = x^0 $ and $x(t_1 ) = x^1 $. An equivalence between open loop and closed loop controllability is thereby established: Ultimately based on the implicit function theorem, the approach taken lays the groundwork for computing feedback controllers that do the steering.
+Keywords
+control theory, ordinary differential equations, controllability, affine feedback controller, finite time, 

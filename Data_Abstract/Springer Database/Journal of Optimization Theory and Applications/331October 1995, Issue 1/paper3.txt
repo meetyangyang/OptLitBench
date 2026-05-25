@@ -1,0 +1,6 @@
+A Gauss-Seidel type solver for special convex programs, with application to frictional contact mechanics
+E. A. H. Vollebregt;
+Abstract
+An iterative method is described that solves the constrained minimization of a convex function, when the constraintsgj(x1,...,xn)≤0 are functions of only a few variables and can be partitioned in some way. A proof of convergence is given which is based on the fact that the function values that are generated decrease. The relation to the nonlinear equation solver TanGS is shown (Ref. 1), together with some new results for TanGS. Finally, the solver is applied to the solution of tangential traction in contact mechanics.
+Keywords
+Convex minimization  Gauss-Seidel method  decomposition method  contact mechanics  

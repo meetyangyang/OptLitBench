@@ -1,0 +1,6 @@
+Benchmarking multidisciplinary design optimization algorithms
+Nathan P. Tedford;Joaquim R. R. A. Martins;
+Abstract
+A comparison of algorithms for multidisciplinary design optimization (MDO) is performed with the aid of a new software framework. This framework, pyMDO, was developed in Python and is shown to be an excellent platform for comparing the performance of the various MDO methods. pyMDO eliminates the need for reformulation when solving a given problem using different MDO methods: once a problem has been described, it can automatically be cast into any method. In addition, the modular design of pyMDO allows rapid development and benchmarking of new methods. Results generated from this study provide a strong foundation for identifying the performance trends of various methods with several types of problems.
+Keywords
+Multidisciplinary design optimization  Decomposition algorithms  Nonlinear programming  Sensitivity analysis  

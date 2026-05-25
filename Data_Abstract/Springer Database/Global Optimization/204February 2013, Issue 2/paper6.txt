@@ -1,0 +1,6 @@
+Monotonic optimization based decoding for linear codes
+H. D. Tuan;T. T. Son;H. Tuy;P. T. Khoa;
+Abstract
+New efficient methods are developed for the optimal maximum-likelihood (ML) decoding of an arbitrary binary linear code based on data received from any discrete Gaussian channel. The decoding algorithm is based on monotonic optimization that is minimizing a difference of monotonic (d.m.) objective functions subject to the 0–1 constraints of bit variables. The iterative process converges to the global optimal ML solution after finitely many steps. The proposed algorithm’s computational complexity depends on input sequence length k which is much less than the codeword length n, especially for a codes with small code rate. The viability of the developed is verified through simulations on different coding schemes.
+Keywords
+Linear codes  Low density parity check (LDPC) codes  Maximum likelihood decoding  Global optimization  

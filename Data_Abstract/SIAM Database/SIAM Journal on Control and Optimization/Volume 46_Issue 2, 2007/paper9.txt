@@ -1,0 +1,6 @@
+Relatively Optimal Control: A Static Piecewise‐Affine Solution
+Franco   Blanchini and Felice Andrea   Pellegrino;
+Abstract
+A relatively optimal control is a stabilizing controller that, without initialization nor feedforwarding and tracking the optimal trajectory, produces the optimal (constrained) behavior for the nominal initial condition of the plant. In a previous work, for discrete‐time linear systems, we presented a linear dynamic relatively optimal control. Here we provide a static solution, namely a deadbeat piecewise‐affine state‐feedback controller based on a suitable partition of the state space into polyhedral sets. The vertices of the polyhedra are the states of the optimal trajectory; hence a bound for the complexity of the controller is known in advance. We also show how to obtain a controller that is not deadbeat by removing the zero terminal constraint while guaranteeing stability. Finally, we compare the proposed static compensator with the dynamic one.
+Keywords
+optimal control, linear systems, discrete‐time systems, invariance, 93B52, 93B51, 93C05, 49N35, 

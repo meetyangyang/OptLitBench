@@ -1,0 +1,6 @@
+Fastest-Path Planning for Direction-Dependent Speed Functions
+Irina S. Dolinskaya;Robert L. Smith;
+Abstract
+We discuss path planning in a direction-dependent environment illustrated by the fastest-path problem with anisotropic speed function. The difficulty of optimal-path finding in a direction-dependent medium comes from the fact that our travel-time function is asymmetric and, in general, violates the triangle inequality. We present an analytical form solution for the fastest-path finding problem in an obstacle-free domain without making any assumptions on the structure of the speed function. Subsequently, we merge these results with visibility graph search methods to develop an obstacle-avoiding fastest-path finding algorithm for an anisotropic speed function. Optimal routing of a vessel in a stationary random seaway is discussed throughout the paper to motivate and demonstrate applications of our work.
+Keywords
+Shortest path  Direction-dependent  Anisotropic medium  Obstacle-avoiding path  

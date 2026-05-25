@@ -1,0 +1,6 @@
+Armijo Newton method for convex best interpolation
+ Hou-Duo   Qi ; Xiao-Qi   Yang ;
+Abstract
+ Newton's method with Armijo line search (Armijo Newton method) has been practically known extremely efficient for the problem of convex best interpolation and numerical experiment strongly indicates its global convergence. However, similar to the classical Newton method, the Newton matrix far from the solution may be singular or near singular, posing a great deal of difficulties in proving the global convergence of Armijo Newton method. By employing the objective function of Lagrange dual problem, it is observed that whenever the Newton matrix is near singular at some point, one can easily [at cost of O(N), N is the dimension of the problem] find a nearby point which has a well-conditioned Newton matrix and lower function value. In this case, Armijo Newton method starts from this nearby point. We prove that this slightly modified Armijo Newton method is globally as well as locally quadratically convergent, and in an important case, it also has finite termination property. Numerical results demonstrate the efficiency of the proposed method. 
+Keywords
+Newton's method, Convex interpolation, Line search 

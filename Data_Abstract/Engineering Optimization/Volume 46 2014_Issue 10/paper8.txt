@@ -1,0 +1,6 @@
+An improved version of the multiple trajectory search for real value multi-objective optimization problems
+Chun Chen;Lin-Yu Tseng;
+Abstract
+Multi-objective optimization is widely used in science, engineering and business. In this article, an improved version of the multiple trajectory search (MTS) called MTS2 is presented and successfully applied to real-value multi-objective optimization problems. In the first step, MTS2 generates M initial solutions distributed over the solution space. These solutions are called seeds. Some seeds with good objective values are selected as foreground seeds. Then, MTS2 chooses a suitable region search method for each foreground seed according to the landscape of the neighbourhood of the seed. During the search, MTS2 focuses its search on some promising areas specified by the foreground seeds. The performance of MTS2 was examined by applying it to solve the benchmark problems provided by the Competition of Performance Assessment of Constrained/Bound Constrained Multi-Objective Optimization Algorithms held at the 2009 IEEE Congress on Evolutionary Computation.
+Keywords
+multi-objective optimization, real-value optimization, multiple trajectory search, region search, promising area 

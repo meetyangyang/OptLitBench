@@ -1,0 +1,6 @@
+An Efficient Algorithm for Minimizing a Sum of p-Norms
+Guoliang  Xue and Yinyu  Ye;
+Abstract
+We study the problem of minimizing a sum of p-norms where p is a fixed real number in the interval $[1, \infty]$. Several practical algorithms have been proposed to solve this problem. However, none of them has a known polynomial time complexity. In this paper, we transform the problem into standard conic form. Unlike those in most convex optimization problems, the cone for the p-norm problem is  not self-dual unless p=2. Nevertheless, we are able to construct two logarithmically homogeneous self-concordant barrier functions for this problem. The barrier parameter of the first barrier function does not depend on p. The barrier parameter of the second barrier function increases with p. Using both barrier functions, we present a primal-dual potential reduction algorithm to compute an $\epsilon$-optimal solution in polynomial time that is independent of p. Computational experiences with a Matlab implementation are also reported.
+Keywords
+shortest network under a given topology, facilities location, Steiner minimum trees, minimizing a sum of norms, primal-dual potential reduction algorithms, polynomial time algorithms, 68Q20, 68Q25, 90C25, 90C35, 

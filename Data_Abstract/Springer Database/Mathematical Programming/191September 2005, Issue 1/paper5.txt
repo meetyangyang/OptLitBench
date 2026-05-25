@@ -1,0 +1,6 @@
+The feasibility pump
+Matteo Fischetti;Fred Glover;Andrea Lodi;
+Abstract
+In this paper we consider the NP-hard problem of finding a feasible solution (if any exists) for a generic MIP problem of the form min{c  T  x:A x≥b,x  j  integer ∀j ∈  Open image in new window }. Trivially, a feasible solution can be defined as a point x* ∈ P:={x:A x≥b} that is equal to its rounding  Open image in new window , where the rounded point  Open image in new window  is defined by  Open image in new window  := x*  j  if j ∈  Open image in new window  and  Open image in new window  := x*  j  otherwise, and [·] represents scalar rounding to the nearest integer. Replacing “equal” with “as close as possible” relative to a suitable distance function Δ(x*,  Open image in new window ), suggests the following Feasibility Pump (FP) heuristic for finding a feasible solution of a given MIP.
+Keywords
+90C06  90C10  90C11  90C27  90C59  

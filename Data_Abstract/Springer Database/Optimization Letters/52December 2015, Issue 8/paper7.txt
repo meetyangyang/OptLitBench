@@ -1,0 +1,6 @@
+The multiple traveling salesmen problem with moving targets
+Anke Stieber;Armin Fügenschuh;Maria Epp;Matthias Knapp;Hendrik Rothe;
+Abstract
+The multiple weapons to multiple targets assignment problem can be seen as a multiple traveling salesmen problem with moving targets (MTSPMT), where the weapons play the role of the salesmen, and the cities to be visited are the targets. Approaches in the literature for the MTSPMT include complexity results and approximation algorithms, where additional restrictions on the targets’ trajectories and velocities are imposed. Our approach is based on a discretization of time, which leads to large-scale integer linear programming problems, that need to be solved in very short time. Our computational studies on a set of test problems demonstrate, that exact algorithms are able to solve instances of moderate size and that they improve solutions from a fast and simple first come, first served heuristic.
+Keywords
+Traveling salesmen problem  Moving targets  Integer linear programming  Heuristics  

@@ -1,0 +1,6 @@
+Depth-first simplicial partition for copositivity detection, with an application to MaxClique
+ Julius   Žilinskas ; Mirjam   Dür ;
+Abstract
+ Detection of copositivity plays an important role in combinatorial and quadratic optimization. Recently, an algorithm for copositivity detection by simplicial partition has been proposed. In this paper, we develop an improved depth-first simplicial partition algorithm which reduces memory requirements significantly and therefore enables copositivity checks of much larger matrices – of size up to a few thousands instead of a few hundreds. The algorithm has been investigated experimentally on a number of MaxClique problems as well as on generated random problems. We present numerical results showing that the algorithm is much faster than a recently published linear algebraic algorithm for copositivity detection based on traditional ideas – checking properties of principal sub-matrices. We also show that the algorithm works very well for solving MaxClique problems through copositivity checks. 
+Keywords
+simplicial partition, copositive matrices, MaxClique AMS Subject Classification : 65F30, 15A48, 90C27 

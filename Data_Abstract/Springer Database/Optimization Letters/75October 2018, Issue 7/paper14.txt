@@ -1,0 +1,6 @@
+An exact solution framework for the minimum cost dominating tree problem
+Eduardo Álvarez-Miranda;Martin Luipersbeck;Markus Sinnl;
+Abstract
+The minimum cost dominating tree problem is a recently introduced NP-hard problem, which consists of finding a tree of minimal cost in a given graph, such that for every node of the graph, the node or one of its neighbours is in the tree. We present an exact solution framework combining a primal–dual heuristic with a branch-and-cut approach based on a transformation of the problem into a Steiner arborescence problem with an additional constraint. The effectiveness of our approach is evaluated on testbeds proposed in literature containing instances with up to 500 nodes. Our framework manages to solve all but four instances from literature to proven optimality within 3 h (most of them in a few seconds). We provide optimal solution values for 69 instances from literature for which the optimal solution was previously unknown.
+Keywords
+Dominating tree  Primal–dual heuristic  Branch-and-cut  

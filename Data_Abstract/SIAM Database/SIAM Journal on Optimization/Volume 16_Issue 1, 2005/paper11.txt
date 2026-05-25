@@ -1,0 +1,6 @@
+Excessive Gap Technique in Nonsmooth Convex Minimization
+Yu.  Nesterov;
+Abstract
+In this paper we introduce a new primal-dual technique for convergence analysis of gradient schemes for nonsmooth convex optimization. As an example of its application, we derive a primal-dual gradient method for a special class of structured nonsmooth optimization problems, which ensures a rate of convergence of order O(1/k), where k is the iteration count. Another example is a gradient scheme, which minimizes a nonsmooth strongly convex function with known structure with rate of convergence O(1/k2 ). In both cases the efficiency of the methods is higher than the corresponding black-box lower complexity bounds by an order of magnitude.
+Keywords
+convex optimization, nonsmooth optimization, complexity theory, black-box oracle, optimal methods, structural optimization, 90C25, 90C47, 68Q25, 

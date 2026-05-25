@@ -1,0 +1,6 @@
+Optimal Repair Allocation in a Series System
+Michael N. Katehakis;Cyrus Derman;
+Abstract
+In this paper we consider a problem on the optimal assignment over time of a single repairman to failed components in a series system. The following assumptions are made. The component failure and repair times are random variables with exponential distributions, independent of the state of other components. Component failures can occur even while the system is not functioning and it is permissible to reassign the repairman among failed components without penalty. It is shown that the policy which always assigns the repairman to the failed component with the smallest failure rate, among the failed ones, maximizes the availability of the system, irrespective of the values of the repair rates.
+Keywords
+first passage times Markov decision processes alternating renewal process 

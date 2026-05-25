@@ -1,0 +1,6 @@
+Adjoint Estimation from a Direct Multiple Shooting Method
+W. Grimm;A. Markl;
+Abstract
+To solve the multipoint boundary-value problem (MPBVP) associated with a constrained optimal control problem, one needs a good guess not only for the state but also for the costate variables. A direct multiple shooting method is described, which yields approximations of the optimal state and control histories. The Kuhn–Tucker conditions for the optimal parametric control are rewritten using adjoint variables. From this representation, estimates for the adjoint variables at the multiple shooting nodes are derived. The estimates are proved to be consistent, in the sense that they converge toward the MPBVP solution if the parametrization is refined. An optimal aircraft maneuver demonstrates the transition from the direct to the indirect method.
+Keywords
+Optimal control problems  multiple shooting methods  direct methods  indirect methods  adjoint variables  

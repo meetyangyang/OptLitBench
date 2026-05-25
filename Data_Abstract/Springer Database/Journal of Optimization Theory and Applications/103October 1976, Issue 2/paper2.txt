@@ -1,0 +1,6 @@
+On quasi-Newton and pseudo-Newton algorithms
+S. S. Oren;
+Abstract
+This paper surveys some of the existing approaches to quasi-Newton methods and introduces a new way for constructing inverse Hessian approximations for such algorithms. This new approach is based on restricting Newton's method to subspaces over which the inverse Hessian is assumed to be known, while expanding this subspace using gradient information. It is shown that this approach can lead to some well-known formulas for updating the inverse Hessian approximation. Deriving such updates through this approach provides new understanding of these formulas and their relation to the pseudo-Newton-Raphson algorithm.
+Keywords
+Unconstrained minimization  pseudo-Newton-Raphson methods  quasi-Newton methods  variable-metric methods  nonlinear programming  

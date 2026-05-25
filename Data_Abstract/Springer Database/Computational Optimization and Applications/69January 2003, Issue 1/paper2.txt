@@ -1,0 +1,6 @@
+Multiple Cuts with a Homogeneous Analytic Center Cutting Plane Method
+Olivier Péton;Jean-Philippe Vial;
+Abstract
+This paper analyzes the introduction of multiple central cuts in a conic formulation of the analytic center cutting plane method (in short ACCPM). This work extends earlier work on the homogeneous ACCPM, and parallels the analysis of the multiple cut process in the standard ACCPM. The main issue is the calculation of a direction that restores feasibility after introducing p new cutting planes at the query point. We prove that the new analytic center can be recovered in O(p log ωp) damped Newton iterations, where ω is a parameter depending of the data. We also present two special cases where the complexity can be decreased to O (p log p). Finally, we show that the number of calls to the oracle is the same as in the single cut case, up to a factor \(\sqrt p \).
+Keywords
+cutting planes  analytic center  conic formulation  multiple cuts  

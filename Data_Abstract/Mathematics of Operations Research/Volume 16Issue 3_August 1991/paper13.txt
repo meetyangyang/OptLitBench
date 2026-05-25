@@ -1,0 +1,6 @@
+Stochastic Decomposition: An Algorithm for Two-Stage Linear Programs with Recourse
+Julia L. Higle;Suvrajeet Sen;
+Abstract
+We present a cutting plane algorithm for two-stage stochastic linear programs with recourse. Motivated by Benders' decomposition, our method uses randomly generated observations of random variables to construct statistical estimates of supports of the objective function. In general, the resulting piecewise linear approximations do not agree with the objective function in finite time. However, certain subsequences of the estimated supports are shown to accumulate at supports of the objective function, with probability one. From this, we establish the convergence of the algorithm under relatively mild assumptions.
+Keywords
+stochastic programming decomposition cutting plane methods 

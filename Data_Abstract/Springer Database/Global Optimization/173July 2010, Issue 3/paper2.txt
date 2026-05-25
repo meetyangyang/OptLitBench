@@ -1,0 +1,6 @@
+A polynomial path-following interior point algorithm for general linear complementarity problems
+Tibor Illés;Marianna Nagy;Tamás Terlaky;
+Abstract
+Linear Complementarity Problems (LCPs) belong to the class of \({\mathbb{NP}}\) -complete problems. Therefore we cannot expect a polynomial time solution method for LCPs without requiring some special property of the coefficient matrix. Our aim is to construct interior point algorithms which, according to the duality theorem in EP (Existentially Polynomial-time) form, in polynomial time either give a solution of the original problem or detects the lack of property \({\mathcal{P}_*(\tilde\kappa)}\) , with arbitrary large, but apriori fixed \({\tilde\kappa}\)). In the latter case, the algorithms give a polynomial size certificate depending on parameter \({\tilde{\kappa}}\) , the initial interior point and the input size of the LCP). We give the general idea of an EP-modification of interior point algorithms and adapt this modification to long-step path-following interior point algorithms.
+Keywords
+Linear complementarity problem  Sufficient matrix  \({\mathcal{P}_*}\) -matrix  Interior point method  Long-step method  

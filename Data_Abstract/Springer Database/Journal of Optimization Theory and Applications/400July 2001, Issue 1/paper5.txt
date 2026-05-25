@@ -1,0 +1,6 @@
+Shape Optimal Design Problem with Convective and Radiative Heat Transfer: Analysis and Implementation
+D. Chenais;J. Monnier;J. P. Vila;
+Abstract
+We present a study of an optimal design problem for a coupled system, governed by a steady-state potential flow equation and a thermal equation taking into account radiative phenomena with multiple reflections. The state equation is a nonlinear integro-differential system. We seek to minimize a cost function, depending on the temperature, with respect to the domain of the equations. First, we consider an optimal design problem in an abstract framework and, with the help of the classical adjoint state method, give an expression of the cost function differential. Then, we apply this result in the two-dimensional case to the nonlinear integro-differential system considered. We prove the differentiability of the cost function, introduce the adjoint state equation, and give an expression of its exact differential. Then, we discretize the equations by a finite-element method and use a gradient-type algorithm to decrease the cost function. We present numerical results as applied to the automotive industry.
+Keywords
+shape sensitivity  optimal design  radiative heat transfer  elliptic partial differential equations  finite-element method  

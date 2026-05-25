@@ -1,0 +1,6 @@
+Convergence analysis of the tabu-based real-coded small-world optimization algorithm
+Xin Zhao;Shuang-xin Wang;
+Abstract
+A novel, tabu-based real-coded small-world optimization algorithm (TR-SWA) is proposed. Tabu search is adopted to avoid duplicate searches of the real-coded small-world optimization algorithm (R-SWA). A crossover operator is introduced to construct search operators. The convergence behaviour of this TR-SWA scheme is shown by establishing the Markov model, and it is proved that TR-SWA meets the convergence theorem of a general random search algorithm proposed by Solis and Wets. Simultaneously, martingale convergence theorems are used to prove the nearly universal strong convergence of TR-SWA. Finally, five benchmark functions are introduced to evaluate the performance of TR-SWA: comparisons are made between TR-SWA, particle swarm optimization, binary-coded small-world optimization algorithm and R-SWA. Numerical experiments demonstrate that the addition of the tabu search improves the performance of R-SWA for most of the investigated optimization problems, and the global convergence of TR-SWA is guaranteed if the feasible set is bounded.
+Keywords
+small-world optimization algorithm, tabu search, Markov model, martingale, convergence 

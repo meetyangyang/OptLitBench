@@ -1,0 +1,6 @@
+A Quadratically Convergent Infeasible-Interior-Point Algorithm for LCP with Polynomial Complexity
+Rongqin  Sheng and Florian A.  Potra;
+Abstract
+A predictor--corrector algorithm is proposed for solving monotone linear complementarity problems (LCPs) from infeasible starting points. The algorithm terminates in $O(nL)$ steps either by finding a solution or by determining that the problem has no solution of norm less than a given number. The complexity of the algorithm depends on the quality of the starting point. If the problem is solvable and if a certain measure of feasibility at the starting point is small enough, then the algorithm finds a solution in $O(\sqrt{n}L)$ iterations. The algorithm requires two matrix factorizations and two backsolves per iteration. If the problem has a strictly complementary solution, then the algorithm is quadratically convergent, and, therefore, its asymptotic efficiency index is $\sqrt{2}$.
+Keywords
+linear complementarity problems, predictor--corrector, infeasible-interior-point algorithm, polynomiality, superlinear convergence, 90C05, 90C33, 49M35, 49M40, 65K05, 

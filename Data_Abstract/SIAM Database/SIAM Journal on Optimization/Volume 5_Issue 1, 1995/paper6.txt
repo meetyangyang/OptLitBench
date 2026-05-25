@@ -1,0 +1,6 @@
+On the Primal-Dual Steepest Descent Algorithm for Extended Linear-Quadratic Programming
+Ciyou  Zhu;
+Abstract
+The aim of this paper is two-fold. First, new variants are proposed for the primal-dual steepest descent algorithm as one in the family of primal-dual projected gradient algorithms developed by Zhu and Rockafellar [SIAM J. Optim., 3 (1993), pp. 751–783] for large-scale extended linear-quadratic programming. The variants include a second update scheme for the iterates, where the primal-dual feedback is arranged in a new pattern, as well as alternatives for the “perfect line search” in the original version of the reference. Second, new linear convergence results are proved for all these variants of the algorithm, including the original version as a special case, without the additional assumptions used by Zhu and Rockafellar. For the variants with the second update scheme, a much sharper estimation for the rate of convergence is obtained due to the new primal-dual feedback pattern.
+Keywords
+extended linear-quadratic programming, large-scale optimization, projected gradient, primal-dual feedback, 65K05, 65K10, 90C20, 

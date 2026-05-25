@@ -1,0 +1,6 @@
+Improving Hit-and-Run for global optimization
+Zelda B. Zabinsky;Robert L. Smith;J. Fred McDonald;H. Edwin Romeijn;David E. Kaufman;
+Abstract
+Improving Hit-and-Run is a random search algorithm for global optimization that at each iteration generates a candidate point for improvement that is uniformly distributed along a randomly chosen direction within the feasible region. The candidate point is accepted as the next iterate if it offers an improvement over the current iterate. We show that for positive definite quadratic programs, the expected number of function evaluations needed to arbitrarily well approximate the optimal solution is at most O(n5/2) wheren is the dimension of the problem. Improving Hit-and-Run when applied to global optimization problems can therefore be expected to converge polynomially fast as it approaches the global optimum.
+Keywords
+Random search  Monte Carlo optimization  algorithm complexity  global optimization  

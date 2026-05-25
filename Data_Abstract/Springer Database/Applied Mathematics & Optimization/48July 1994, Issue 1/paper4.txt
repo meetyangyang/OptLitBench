@@ -1,0 +1,6 @@
+How to count and guess well: Discrete adaptive filters
+R. J. Elliott;Hailiang Yang;
+Abstract
+A discrete state and time Markov chain is observed through a finite state function which is subject to random perturbations. Such a situation is often called a Hidden Markov Model. A general filter is obtained which provides recursive updates of estimates of processes related to the Markov chain given the observations. In the unnormalized, or Zakai, form this provides particularly simple equations. Specializing this result provides recursive estimates and smoothers for the state of the process, for the number of jumps from one state to another, for the occupation time in any state and for a process related to the observations. These results allow a re-estimation of the parameters of the model, so that our procedures are adaptive or “self tuning” to the data. The main contributions of this paper are the introduction of an equivalent measure under which the observation values are independent and identically distributed, and the use of the idempotent property when the state space of the Markov chain is identified with canonical unit vectors in a Euclidean space.
+Keywords
+Hidden Markov Model  Discrete adaptive filter  Martingale  representation  Girsanov theorem  Smoothed estimate  Zakai equation  Expectation maximization  93E11  93E12  60G35  

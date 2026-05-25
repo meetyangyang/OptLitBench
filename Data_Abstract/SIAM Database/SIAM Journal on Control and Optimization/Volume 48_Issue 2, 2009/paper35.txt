@@ -1,0 +1,6 @@
+Analysis and Design of Unconstrained Nonlinear MPC Schemes for Finite and Infinite Dimensional Systems
+Lars  Grüne;
+Abstract
+We present a technique for computing stability and performance bounds for unconstrained nonlinear model predictive control (MPC) schemes. The technique relies on controllability properties of the system under consideration, and the computation can be formulated as an optimization problem whose complexity is independent of the state space dimension. Based on the insight obtained from the numerical solution of this problem, we derive design guidelines for nonlinear MPC schemes which guarantee stability of the closed loop for small optimization horizons. These guidelines are illustrated by a finite and an infinite dimensional example.
+Keywords
+model predictive control, suboptimality, stability, controllability, linear programming, controller design, infinite dimensional system, 49N35, 93D15, 93B05, 

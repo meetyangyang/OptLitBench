@@ -1,0 +1,8 @@
+Approximate and exact algorithms for the double-constrained two-dimensional guillotine cutting stock problem
+M. Hifi;R. M’Hallah;T. Saadi;
+Abstract
+
+In this paper, we propose approximate and exact algorithms for the double constrained two-dimensional guillotine cutting stock problem (DCTDC). The approximate algorithm is a two-stage procedure. The first stage attempts to produce a starting feasible solution to DCTDC by solving a single constrained two dimensional cutting problem, CDTC. If the solution to CTDC is not feasible to DCTDC, the second stage is used to eliminate non-feasibility. The exact algorithm is a branch-and-bound that uses efficient lower and upper bounding schemes. It starts with a lower bound reached by the approximate two-stage algorithm. At each internal node of the branching tree, a tailored upper bound is obtained by solving (relaxed) knapsack problems. To speed up the branch and bound, we implement, in addition to ordered data structures of lists, symmetry, duplicate, and non-feasibility detection strategies which fathom some unnecessary branches. We evaluate the performance of the algorithm on different problem instances which can become benchmark problems for the cutting and packing literature.
+
+Keywords
+Combinatorial optimization  Cutting problems  Dynamic programming  Single constrained knapsack problem  

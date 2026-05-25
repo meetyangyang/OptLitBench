@@ -1,0 +1,6 @@
+Effect of transformations of numerical parameters in automatic algorithm configuration
+Alberto Franzin;Leslie Pérez Cáceres;Thomas Stützle;
+Abstract
+We study the impact of altering the sampling space of parameters in automatic algorithm configurators. We show that a proper transformation can strongly improve the convergence towards better configurations; at the same time, biases about good parameter values, possibly based on misleading prior knowledge, may lead to wrong choices in the transformations and be detrimental for the configuration process. To emphasize the impact of the transformations, we initially study their effect on configuration tasks with a single parameter in different experimental settings. We also propose a mechanism for how to adapt towards an appropriate transformation and give exemplary experimental results of that scheme.
+Keywords
+Automatic algorithm configuration  Numerical parameters  Parameter tuning  Parameter transformation  

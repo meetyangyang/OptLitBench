@@ -1,0 +1,6 @@
+Application of lower bound direct method to engineering structures
+Akoa François;Hachemi Abdelkader;Le Thi Hoai An;Mouhtamid Said;Pham Dinh Tao;
+Abstract
+Direct methods provide elegant and efficient approaches for the prediction of the long-term behaviour of engineering structures under arbitrary complex loading independent of the number of loading cycles. The lower bound direct method leads to a constrained non-linear convex problem in conjunction with finite element methods, which necessitates a very large number of optimization variables and a large amount of computer memory. To solve this large-scale optimization problem, we first reformulate it in a simpler equivalent convex program with easily exploitable sparsity structure. The interior point with DC regularization algorithm (IPDCA) using quasi definite matrix techniques is then used for its solution. The numerical results obtained by this algorithm will be compared with those obtained by general standard code Lancelot. They show the robustness, the efficiency of IPDCA and in particular its great superiority with respect to Lancelot.
+Keywords
+Engineering structures  Direct method  Finite element methods  DC programming  DC regularization algorithm  Interior point methods  DC regularization techniques  

@@ -1,0 +1,6 @@
+Probably certifiably correct k-means clustering
+Takayuki Iguchi;Dustin G. Mixon;Jesse Peterson;Soledad Villar;
+Abstract
+Recently, Bandeira (C R Math, 2015) introduced a new type of algorithm (the so-called probably certifiably correct algorithm) that combines fast solvers with the optimality certificates provided by convex relaxations. In this paper, we devise such an algorithm for the problem of k-means clustering. First, we prove that Peng and Wei’s semidefinite relaxation of k-means Peng and Wei (SIAM J Optim 18(1):186–205, 2007) is tight with high probability under a distribution of planted clusters called the stochastic ball model. Our proof follows from a new dual certificate for integral solutions of this semidefinite program. Next, we show how to test the optimality of a proposed k-means solution using this dual certificate in quasilinear time. Finally, we analyze a version of spectral clustering from Peng and Wei (SIAM J Optim 18(1):186–205, 2007) that is designed to solve k-means in the case of two clusters. In particular, we show that this quasilinear-time method typically recovers planted clusters under the stochastic ball model.
+Keywords
+65-XX  90-XX  46N10  68Q87  

@@ -1,0 +1,6 @@
+On convex optimization without convex representation
+Jean B. Lasserre;
+Abstract
+We consider the convex optimization problem \({{\rm {\bf P}}:{\rm min}_{\rm {\bf x}} \{f({\rm {\bf x}})\,:\,{\rm {\bf x}}\in{\rm {\bf K}}\}}\) where f is convex continuously differentiable, and \({{\rm {\bf K}}\subset{\mathbb R}^n}\) is a compact convex set with representation \({\{{\rm {\bf x}}\in{\mathbb R}^n\,:\,g_j({\rm {\bf x}})\geq0, j = 1,\ldots,m\}}\) for some continuously differentiable functions (g  j ). We discuss the case where the g  j ’s are not all concave (in contrast with convex programming where they all are). In particular, even if the g  j  are not concave, we consider the log-barrier function \({\phi_\mu}\) with parameter μ, associated with P, usually defined for concave functions (g  j ). We then show that any limit point of any sequence \({({\rm {\bf x}}_\mu)\subset{\rm {\bf K}}}\) of stationary points of \({\phi_\mu, \mu \to 0}\) , is a Karush–Kuhn–Tucker point of problem P and a global minimizer of f on K.
+Keywords
+Convex optimization  Convex programming  Log-barrier  

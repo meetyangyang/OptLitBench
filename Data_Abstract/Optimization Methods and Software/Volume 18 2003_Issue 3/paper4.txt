@@ -1,0 +1,6 @@
+Adjoint gradients compared to gradients from algorithmic differentiation in instantaneous control of the Navier-Stokes equations
+ Michael   Hinze ; Thomas   Slawig ;
+Abstract
+ Gradients computed via an adjoint equation and obtained algorithmically by automatic differentiation (AD) tools are compared with respect to accuracy and performance. As model application, the method of instantaneous control for the time-dependent incompressible Navier-Stokes equations with distributed control is used. The method of instantaneous control and both approaches to obtain the gradient are described in detail. Implementation issues of the AD process are given. Numerical results for gradient evaluations and complete control runs on different grids are presented. 
+Keywords
+Instantaneous Control, Adjoint Equation, Algorithmic Differentiation, Navier-Stokes Equations 

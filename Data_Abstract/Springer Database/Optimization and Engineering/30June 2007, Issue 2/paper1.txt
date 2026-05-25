@@ -1,0 +1,8 @@
+Modeling leakage power reduction in VLSI as optimization problems
+Wenxin Wang;Shawki Areibi;Mohab Anis;
+Abstract
+
+Reducing power dissipation is one of the most important issues in VLSI design today. Scaling causes subthreshold leakage currents to become a large component of total power dissipation. Multi-Threshold CMOS (MTCMOS) technology has emerged as a promising technique to reduce leakage power. This paper first introduces how to model the sleep transistor sizing problem in the MTCMOS circuits as a Bin-Packing Problem (BPP). The gate-clustering BPP and the First-Fit (FF) techniques are also introduced to further improve the solution quality. To take the circuit’s routing complexity into consideration which is critical for Deep Sub-Micron (technologies that are 0.25 μm and below) (DSM) implementations, a Set-Partitioning Problem (SPP) is then formed. However, this highly constrained model limits it’s application for large circuit design. A Set-Covering (SCP) model is therefore investigated to efficiently solve the problem.
+
+Keywords
+VLSI design  Combinatorial optimization  Low power design  MTCMOS  

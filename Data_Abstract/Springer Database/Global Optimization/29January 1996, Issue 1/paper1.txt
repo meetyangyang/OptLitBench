@@ -1,0 +1,6 @@
+Simulated Annealing for noisy cost functions
+Walter J. Gutjahr;Georg Ch. Pflug;
+Abstract
+We generalize a classical convergence result for the Simulated Annealing algorithm to a stochastic optimization context, i.e., to the case where cost function observations are disturbed by random noise. It is shown that for a certain class of noise distributions, the convergence assertion remains valid, provided that the standard deviation of the noise is reduced in the successive steps of cost function evaluation (e.g., by repeated observation) with a speed O(k -γ ), where γ is an arbitrary constant larger than one.
+Keywords
+Simulated Annealing  stochastic optimization  noisy cost functions  

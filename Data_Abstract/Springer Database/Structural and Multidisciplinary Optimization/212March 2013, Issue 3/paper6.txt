@@ -1,0 +1,6 @@
+Topology optimization to minimize the dynamic compliance of a bi-material plate in a thermal environment
+Xiongwei Yang;Yueming Li;
+Abstract
+Topology optimization to minimize the structural dynamic compliance in a thermal environment is carried out in this paper. A bi-material plate subjected to a uniform temperature rise is investigated. The structure is driven by a time-harmonic surface loading with prescribed excitation frequency and amplitude. The stress induced by the equivalent thermal force which is known as design-dependent load could reduce the stiffness of the structure, thus altering the optimal topology design. A way to carry out the optimization in the thermal environments is presented here. The thermal stress is first evaluated, and then considered as pre-stress in the subsequent dynamic analysis with the introduction of the geometric stiffness matrix. The sensitivity analysis is carried out through adjoint method which can save significant computational resources by avoiding the derivatives of the thermal displacement (or thermal stress) on the design variables. The cost to obtain these derivatives can be very high since each design variable affects all the nodal displacements. The structural damping is neglected. Several pre-buckling cases are investigated.
+Keywords
+Topology optimization  Dynamic compliance  Thermal environment  

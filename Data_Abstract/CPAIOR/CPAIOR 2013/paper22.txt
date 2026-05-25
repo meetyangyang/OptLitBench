@@ -1,0 +1,4 @@
+Mixed Integer Programming vs. Logic-Based Benders Decomposition for Planning and Scheduling
+André Ciré;Elvin Coban;John N. Hooker;
+Abstract
+A recent paper by Heinz and Beck (CPAIOR 2012) found that mixed integer software has become competitive with or superior to logic-based Benders decomposition for the solution of facility assignment and scheduling problems. Their implementation of Benders differs, however, from that described in the literature they cite and therefore results in much slower performance than previously reported. We find that when correctly implemented, the Benders method remains 2 to 3 orders of magnitude faster than the latest commercial mixed integer software on larger instances, thus reversing the conclusion of the earlier paper.

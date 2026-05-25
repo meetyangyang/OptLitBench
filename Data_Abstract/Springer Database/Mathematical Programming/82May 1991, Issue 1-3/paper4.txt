@@ -1,0 +1,6 @@
+On area-efficient drawings of rectangular duals for VLSI floor-plan
+Katsunori Tani;Shuji Tsukiyama;Shoji Shinoda;Isao Shirakawa;
+Abstract
+In this paper, we consider a problem to seek a rectangular dual\(\tilde D\) and its area-efficient drawing such that\(\tilde D\) can be drawn in the smallest area among all rectangular duals under the constraints imposed not only on the area and the minimum dimension of each face but also on the length of abutment between two adjacent faces. Since the problem is hard to solve, we tackle this problem in an exhaustive manner by using an algorithm to enumerate all the rectangular duals. In order to make this exhaustive method efficient, we propose the following two algorithms working under the constraints stated above; an algorithm to find an area-efficient drawing of a given rectangular dual, and an algorithm to estimate a lower bound to the area required to draw a given rectangular dual. We also show some esperimental results to demonstrate the effectiveness of the lower bound. The area-efficient drawing of\(\tilde D\) can be used as a VLSI floor-plan by regarding each inner face of\(\tilde D\) as an area for a block to be placed.
+Keywords
+VLSI-CAD  floor-plan  rectangular dual  drawing of a rectangular dual  lower bound estimation  

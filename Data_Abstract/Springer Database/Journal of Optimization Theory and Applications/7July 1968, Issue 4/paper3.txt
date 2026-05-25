@@ -1,0 +1,6 @@
+An integral equation and a representation for a Green's function
+H. H. Kagiwada;R. E. Kalaba;A. Schumitzky;R. Sridhar;
+Abstract
+The final step in the mathematical solution of many problems in mathematical physics and engineering is the solution of a linear, two-point boundary-value problem such as$$\begin{gathered}  \ddot u - q(t)u =  - g(t),              0< t< x \hfill \\             (0) = 0,       \dot u(x) = 0 \hfill \\ \end{gathered} $$ Such problems frequently arise in a variational context. In terms of the Green's functionG, the solution is$$u(t) = \int_0^x {G(t, y, x)g(y) dy} $$ It is shown that the Green's function may be represented in the form$$G(t,y,x) = m(t,y) - \int_y^x {q(s)m(t, s) m(y, s)}  ds,       0< t< y< x$$ wherem satisfies the Fredholm integral equation$$m(t,x) = k(t,x) - \int_0^x k (t,y) q(y) m(y, x) dy,             0< t<  x$$ and the kernelk is$$k(t, y) = min(t, y)$$
+Keywords
+Integral Equation  Mathematical Physic  Variational Context  Fredholm Integral Equation  Mathematical Solution  

@@ -1,0 +1,6 @@
+Local path-following property of inexact interior methods in nonlinear programming
+Paul Armand;Joël Benoist;Jean-Pierre Dussault;
+Abstract
+We study the local behavior of a primal-dual inexact interior point methods for solving nonlinear systems arising from the solution of nonlinear optimization problems or more generally from nonlinear complementarity problems. The algorithm is based on the Newton method applied to a sequence of perturbed systems that follows by perturbation of the complementarity equations of the original system. In case of an exact solution of the Newton system, it has been shown that the sequence of iterates is asymptotically tangent to the central path (Armand and Benoist in Math. Program. 115:199–222, 2008). The purpose of the present paper is to extend this result to an inexact solution of the Newton system. We give quite general conditions on the different parameters of the algorithm, so that this asymptotic property is satisfied. Some numerical tests are reported to illustrate our theoretical results.
+Keywords
+Constrained optimization  Interior methods  Nonlinear programming  Primal-dual methods  Nonlinear complementarity problems  Inexact Newton method  

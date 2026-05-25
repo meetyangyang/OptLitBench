@@ -1,0 +1,6 @@
+Modified subspace Barzilai-Borwein gradient method for non-negative matrix factorization
+Hongwei Liu;Xiangli Li;
+Abstract
+Non-negative matrix factorization (NMF) is a problem to obtain a representation of data using non-negativity constraints. Since the NMF was first proposed by Lee, NMF has attracted much attention for over a decade and has been successfully applied to numerous data analysis problems. Recent years, many variants of NMF have been proposed. Common methods are: iterative multiplicative update algorithms, gradient descent methods, alternating least squares (ANLS). Since alternating least squares has nice optimization properties, various optimization methods can be used to solve ANLS’s subproblems. In this paper, we propose a modified subspace Barzilai-Borwein for subproblems of ANLS. Moreover, we propose a modified strategy for ANLS. Global convergence results of our algorithm are established. The results of numerical experiments are reported to show the effectiveness of the proposed algorithm.
+Keywords
+Non-negative matrix factorization  Alternating least squares  Active sets  Non-monotone technique  

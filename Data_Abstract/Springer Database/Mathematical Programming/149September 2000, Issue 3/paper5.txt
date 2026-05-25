@@ -1,0 +1,6 @@
+A fast algorithm for computing minimum 3-way and 4-way cuts
+Hiroshi Nagamochi;Toshihide Ibaraki;
+Abstract
+For an edge-weighted graph G with n vertices and m edges, we present a new deterministic algorithm for computing a minimum k-way cut for k=3,4. The algorithm runs in O(n k-1 F(n,m))=O(mn k log(n 2 /m)) time and O(n2) space for k=3,4, where F(n,m) denotes the time bound required to solve the maximum flow problem in G. The bound for k=3 matches the current best deterministic bound Õ(mn3) for weighted graphs, but improves the bound Õ(mn3) to O(n2F(n,m))=O(min{mn8/3,m3/2n2}) for unweighted graphs. The bound Õ(mn4) for k=4 improves the previous best randomized bound Õ(n6) (for m=o(n2)). The algorithm is then generalized to the problem of finding a minimum 3-way cut in a symmetric submodular system.
+Keywords
+Key words: minimum cuts – graphs – hypergraphs –k-way cuts – polynomial algorithm – submodular function  

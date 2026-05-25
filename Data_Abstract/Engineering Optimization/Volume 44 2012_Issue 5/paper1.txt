@@ -1,0 +1,6 @@
+Applicability of surrogates to improve efficiency of particle swarm optimization for simulation-based problems
+ M.   D.   Parno ; T.   Hemker ; K.   R.   Fowler ;
+Abstract
+ Particle swarm optimization (PSO) is a population-based, heuristic technique based on social behaviour that performs well on a variety of problems including those with non-convex, non-smooth objective functions with multiple minima. However, the method can be computationally expensive in that a large number of function calls is required. This is a drawback when evaluations depend on an off-the-shelf simulation program, which is often the case in engineering applications. An algorithm is proposed which incorporates surrogates as a stand-in for the expensive objective function, within the PSO framework. Numerical results are presented on standard benchmarking problems and a simulation-based hydrology application to show that this hybrid can improve efficiency. A comparison is made between the application of a global PSO and a standard PSO to the same formulations with surrogates. Finally, data profiles, probability of success, and a measure of the signal-to-noise ratio of the the objective function are used to assess the use of a surrogate. 
+Keywords
+ surrogates, black-box optimization, particle swarm 

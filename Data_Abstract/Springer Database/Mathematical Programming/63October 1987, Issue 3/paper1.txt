@@ -1,0 +1,6 @@
+Approximation algorithms for combinatorial fractional programming problems
+Satoru Hashizume;Masao Fukushima;Naoki Katoh;Toshihide Ibaraki;
+Abstract
+We are concerned with a combinatorial optimization problem which has the ratio of two linear functions as the objective function. This type of problems can be solved by an algorithm that uses an auxiliary problem with a parametrized linear objective function. Because of its combinatorial nature, however, it is often difficult to solve the auxiliary problem exactly. In this paper, we propose an algorithm which assumes that the auxiliary problems are solved only approximately, and prove that it gives an approximate solution to the original problem, of which the accuracy is at least as good as that of approximate solutions to the auxiliary problems. It is also shown that the time complexity is bounded by the square of the computation time of the approximate algorithm for the auxiliary problem. As an example of the proposed algorithm, we present a fully polynomial time approximation scheme for the fractional 0–1 knapsack problem.
+Keywords
+Combinatorial optimization  approximation algorithm  approximation scheme  fractional programming  

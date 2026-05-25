@@ -1,0 +1,6 @@
+J-means and I-means for minimum sum-of-squares clustering on networks
+Alexey Nikolaev;Nenad Mladenović;Raca Todosijević;
+Abstract
+Given a graph, the Edge minimum sum-of-squares clustering problem requires finding p prototypes (cluster centres) by minimizing the sum of their squared distances from a set of vertices to their nearest prototype, where a prototype can be either a vertex or an inner point of an edge. In this paper we have implemented Variable neighborhood search based heuristic for solving it. We consider three different local search procedures, K-means, J-means, and a new I-means heuristic. Experimental results indicate that the implemented VNS-based heuristic produces the best known results in the literature.
+Keywords
+Minimum sum-of-squares clustering  K-means  J-means  Heuristic  Variable neighborhood search  

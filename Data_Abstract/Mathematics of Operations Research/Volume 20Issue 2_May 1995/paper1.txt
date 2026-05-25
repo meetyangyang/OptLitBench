@@ -1,0 +1,6 @@
+Fast Approximation Algorithms for Fractional Packing and Covering Problems
+Serge A. Plotkin;David B. Shmoys;Éva Tardos;
+Abstract
+This paper presents fast algorithms that find approximate solutions for a general class of problems, which we call fractional packing and covering problems. The only previously known algorithms for solving these problems are based on general linear programming techniques. The techniques developed in this paper greatly outperform the general methods in many applications, and are extensions of a method previously applied to find approximate solutions to multicommodity flow problems. Our algorithm is a Lagrangian relaxation technique; an important aspect of our results is that we obtain a theoretical analysis of the running time of a Lagrangian relaxation-based algorithm.We give several applications of our algorithms. The new approach yields several orders of magnitude of improvement over the best previously known running times for algorithms for the scheduling of unrelated parallel machines in both the preemptive and the nonpreemptive models, for the job shop problem, for the Held and Karp bound for the traveling salesman problem, for the cutting-stock problem, for the network embedding problem, and for the minimum-cost multicommodity flow problem.
+Keywords
+packing and covering approximation algorithm Lagrangian relaxation 

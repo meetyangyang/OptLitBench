@@ -1,0 +1,6 @@
+A modified scaling algorithm for LP
+   R.   Hettich ;   M.   Ries ;
+Abstract
+ In this paper we consider the use of the scaling algorithm for LP for generating good starting vertices for the simplex method. To this end the original scaling algorithm has been modified on several points. For instance to enable the identification of a vertex variables which tend to zero are eliminated. Besides a vertex the algorithm also gives a LU-decomposition of s corresponding basismatrix. The numerical results obtained so far are encouraging, often the generated vertex is already the optimal one. 
+Keywords
+Linear programming, interior point methods, scaling algorithmAMS 1980 Subject Classifications: Primary: 90 C 05, Secondary: 65 K 05 

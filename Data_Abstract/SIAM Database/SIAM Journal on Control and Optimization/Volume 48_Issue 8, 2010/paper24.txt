@@ -1,0 +1,6 @@
+Feedback Stabilization of a Fluid-Structure Model
+Jean-Pierre  Raymond;
+Abstract
+We study a system coupling the incompressible Navier–Stokes equations in a 2D rectangular-type domain with a damped Euler–Bernoulli beam equation, where the beam is a part of the upper boundary of the domain occupied by the fluid. Due to the deformation of the beam, the fluid domain depends on time. We prove that this system is exponentially stabilizable, locally about the null solution, with any prescribed decay rate, by a feedback control corresponding to a force term in the beam equation. The feedback is applied on the whole structure, and it is determined, via a Riccati equation, by solving an infinite time horizon control problem for the linearized model. A crucial step in this analysis consists of showing that this linearized system can be rewritten thanks to an analytic semigroup of which the infinitesimal generator has a compact resolvent.
+Keywords
+fluid-structure interaction, feedback control, stabilization, Navier–Stokes equations, beam equation, 93B52, 93C20, 93D15, 35Q30, 76D55, 76D05, 74F10, 

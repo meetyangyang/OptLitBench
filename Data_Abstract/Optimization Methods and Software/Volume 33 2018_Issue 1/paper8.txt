@@ -1,0 +1,6 @@
+A general system for heuristic minimization of convex functions over non-convex sets
+S. Diamond;R. Takapoui;S. Boyd;
+Abstract
+We describe general heuristics to approximately solve a wide variety of problems with convex objective and decision variables from a non-convex set. The heuristics, which employ convex relaxations, convex restrictions, local neighbour search methods, and the alternating direction method of multipliers, require the solution of a modest number of convex problems, and are meant to apply to general problems, without much tuning. We describe an implementation of these methods in a package called NCVX, as an extension of CVXPY, a Python package for formulating and solving convex optimization problems. We study several examples of well known non-convex problems, and show that our general purpose heuristics are effective in finding approximate solutions to a wide variety of problems.
+Keywords
+non-convex optimization, convex approximations, heuristics, alternating direction method of multipliers, modelling softwareAMS Subject Classification: 90C59, 90C25, 90C26 

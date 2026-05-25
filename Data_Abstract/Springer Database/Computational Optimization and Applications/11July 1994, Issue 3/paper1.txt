@@ -1,0 +1,6 @@
+Data parallel computing for network-structured optimization problems
+Stavros A. Zenios;
+Abstract
+Data level parallelism is a type of parallelism whereby operations are performed on many data elements concurrently, by many processors. These operations are (more or less) identical, and are executed in a synchronous, orderly fashion. This type of parallelism is used by massively parallel SIMD (i.e., Single Instruction, Multiple Data) architectures, like the Connection Machine CM-2, the AMT DAP and Masspar, and MIMD (i.e., Multiple Instruction, Multiple Data) architectures, like the Connection Machine CM-5. Data parallelism can also be described by a theoretical model of computation: the Vector-Random Access Machine (V-RAM).
+Keywords
+Parallel optimization  networks  data structures  large-scale computations  

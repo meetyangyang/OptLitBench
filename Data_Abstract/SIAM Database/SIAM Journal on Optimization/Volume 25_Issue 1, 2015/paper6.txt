@@ -1,0 +1,6 @@
+Duality Between Subgradient and Conditional Gradient Methods
+Francis  Bach;
+Abstract
+Given a convex optimization problem and its dual, there are many possible first-order algorithms. In this paper, we show the equivalence between mirror descent algorithms and algorithms generalizing the conditional gradient method. This is done through convex duality and implies notably that for certain problems, such as for supervised machine learning problems with nonsmooth losses or problems regularized by nonsmooth regularizers, the primal subgradient method and the dual conditional gradient method are formally equivalent. The dual interpretation leads to a form of line search for mirror descent, as well as guarantees of convergence for primal-dual certificates.
+Keywords
+subgradient, conditional gradient, nonsmooth optimization, 90C52, 90C46, 90C06, 

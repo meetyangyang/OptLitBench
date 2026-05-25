@@ -1,0 +1,6 @@
+On the convergence properties of the unmodified PRP method with a non-descent line search
+Weijun Zhou;Dong-Hui Li;
+Abstract
+In [Zhou, A short note on the global convergence of the unmodified PRP method, Optim. Lett. doi: 10.1007/s11590-012-0511-7, to appear], Zhou showed that the classical (unmodified) Polak–Ribière–Polyak (PRP) nonlinear conjugate gradient method converges globally in the sense that lim infk→∞‖∇f(xk)‖=0 for nonconvex minimization by the use of some nonmonotone line search. In this paper, we present a new non-descent backtracking type line search and show that the PRP method has strongly global convergence property (i.e. lim k→∞‖∇ f(xk)‖=0) and locally R-linear convergence rate for nonconvex optimization with the proposed line search by suitably choosing the initial stepsize. Some numerical results compared with existing descent type line searches are reported.
+Keywords
+the unmodified PRP method, strongly global convergence, non-descent line search, R-linear convergenceAMS Subject Classifications: 90C30, 65K05 

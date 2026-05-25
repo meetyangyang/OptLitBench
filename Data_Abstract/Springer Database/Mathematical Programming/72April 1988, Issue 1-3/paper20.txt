@@ -1,0 +1,6 @@
+Dual coordinate step methods for linear network flow problems
+Dimitri P. Bertsekas;Jonathan Eckstein;
+Abstract
+We review a class of recently-proposed linear-cost network flow methods which are amenable to distributed implementation. All the methods in the class use the notion ofε-complementary slackness, and most do not explicitly manipulate any “global” objects such as paths, trees, or cuts. Interestingly, these methods have stimulated a large number of newserial computational complexity results. We develop the basic theory of these methods and present two specific methods, theε-relaxation algorithm for the minimum-cost flow problem, and theauction algorithm for the assignment problem. We show how to implement these methods with serial complexities of O(N3 logNC) and O(NA logNC), respectively. We also discuss practical implementation issues and computational experience to date. Finally, we show how to implementε-relaxation in a completely asynchronous, “chaotic” environment in which some processors compute faster than others, some processors communicate faster than others, and there can be arbitrarily large communication delays.
+Keywords
+Network flows  relaxation  distributed algorithms  complexity  asynchronous algorithms  

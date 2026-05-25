@@ -1,0 +1,6 @@
+Adaptive Multilevel Inexact SQP Methods for PDE-Constrained Optimization
+J. Carsten  Ziems and Stefan  Ulbrich;
+Abstract
+We present a class of inexact adaptive multilevel trust-region SQP methods for the efficient solution of optimization problems governed by nonlinear PDEs. The algorithm starts with a coarse discretization of the underlying optimization problem and provides during the optimization process (1) implementable criteria for an adaptive refinement strategy of the current discretization based on local error estimators and (2) implementable accuracy requirements for iterative solvers of the linearized PDE and adjoint PDE on the current grid. We prove global convergence to a stationary point of the infinite-dimensional problem. Moreover, we illustrate how the adaptive refinement strategy of the algorithm can be implemented by using existing reliable a posteriori error estimators for the state and the adjoint equations. Numerical results are presented.
+Keywords
+optimal control, adaptive mesh refinement, partial differential equation constraints, finite elements, a posteriori error estimator, trust-region methods, inexact linear system solvers, 49M25, 65F20, 65M50, 65M60, 90C30, 90C55, 

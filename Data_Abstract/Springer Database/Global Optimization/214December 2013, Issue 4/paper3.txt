@@ -1,0 +1,6 @@
+On smooth reformulations and direct non-smooth computations for minimax problems
+Ralph Baker Kearfott;Sowmya Muniswamy;Yi Wang;Xinyu Li;Qian Wang;
+Abstract
+Minimax problems can be approached by reformulating them into smooth problems with constraints or by dealing with the non-smooth objective directly. We focus on verified enclosures of all globally optimal points of such problems. In smooth problems in branch and bound algorithms, interval Newton methods can be used to verify existence and uniqueness of solutions, to be used in eliminating regions containing such solutions, and point Newton methods can be used to obtain approximate solutions for good upper bounds on the global optimum. We analyze smooth reformulation approaches, show weaknesses in them, and compare reformulation to solving the non-smooth problem directly. In addition to analysis and illustrative problems, we exhibit the results of numerical computations on various test problems.
+Keywords
+Minimax  Verified computations  Fritz John equations  

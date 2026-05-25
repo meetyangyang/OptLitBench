@@ -1,0 +1,6 @@
+A New Method for Optimal Truss Topology Design
+Aharon  Ben-Tal and Martin P.  Bendsøe;
+Abstract
+Truss topology optimization formulated in terms of displacements and bar volumes results in a large, nonconvex optimization problem. For the case of maximization of stiffness for a prescribed volume,this paper presents a new equivalent, an unconstrained and convex minimization problem in displacements only, where the function to be minimized is the sum of terms, each of which is the maximum of two convex,quadratic functions. Existence of solutions is proved, as is the convergence of a nonsmooth steepest descent-type algorithm for solving the topology optimization problem. The algorithm is computationally attractive and has been tested on a large number of examples, some of which are presented.
+Keywords
+truss topology design, nonsmooth optimization, 90C31, 90C50, 73K40, 

@@ -1,0 +1,6 @@
+A specialized branch-and-bound algorithm for the Euclidean Steiner tree problem in n-space
+Marcia Fampa;Jon Lee;Wendel Melo;
+Abstract
+We present a specialized branch-and-bound (b&b) algorithm for the Euclidean Steiner tree problem (ESTP) in \(\mathbb {R}^n\) and apply it to a convex mixed-integer nonlinear programming (MINLP) formulation of the problem, presented by Fampa and Maculan. The algorithm contains procedures to avoid difficulties observed when applying a b&b algorithm for general MINLP problems to solve the ESTP. Our main emphasis is on isomorphism pruning, in order to prevent solving several equivalent subproblems corresponding to isomorphic Steiner trees. We introduce the concept of representative Steiner trees, which allows the pruning of these subproblems, as well as the implementation of procedures to fix variables and add valid inequalities. We also propose more general procedures to improve the efficiency of the b&b algorithm, which may be extended to the solution of other MINLP problems. Computational results demonstrate substantial gains compared to the standard b&b for convex MINLP.
+Keywords
+Euclidean Steiner tree problem  Mixed-integer nonlinear programming  Branch-and-bound  Isomorphism pruning  

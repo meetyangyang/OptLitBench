@@ -1,0 +1,6 @@
+A regularized Newton method without line search for unconstrained optimization
+Kenji Ueda;Nobuo Yamashita;
+Abstract
+In this paper, we propose a regularized Newton method without line search. The proposed method controls a regularization parameter instead of a step size in order to guarantee the global convergence. We show that the proposed algorithm has the following convergence properties. (a) The proposed algorithm has global convergence under appropriate conditions. (b) It has superlinear rate of convergence under the local error bound condition. (c) An upper bound of the number of iterations required to obtain an approximate solution \(x\) satisfying \(\Vert \nabla f(x) \Vert \le \varepsilon \) is \(O(\varepsilon ^{-2})\), where \(f\) is the objective function and \(\varepsilon \) is a given positive constant.
+Keywords
+Regularized Newton method  Global complexity bound    Global convergence  Superlinear convergence  

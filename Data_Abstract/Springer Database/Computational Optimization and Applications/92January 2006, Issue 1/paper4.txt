@@ -1,0 +1,8 @@
+A New Gradient Method with an Optimal Stepsize Property
+Y. H. Dai;X. Q. Yang;
+Abstract
+The gradient method for the symmetric positive definite linear system \(Ax=b\) is as follows
+$$x_{k + 1}=x_{k}-\alpha_{k} g_{k}$$ (1)
+where \(g_{k}=Ax_{k}-b\) is the residual of the system at x  k  and α k  is the stepsize. The stepsize \(\alpha_{k} = \frac{2}{{\lambda_{1}+\lambda_{n}}}\) is optimal in the sense that it minimizes the modulus \(||I - \alpha A||_{2}\), where λ1 and λ n  are the minimal and maximal eigenvalues of A respectively. Since λ1 and λ n  are unknown to users, it is usual that the gradient method with the optimal stepsize is only mentioned in theory. In this paper, we will propose a new stepsize formula which tends to the optimal stepsize as \(k \to \infty\). At the same time, the minimal and maximal eigenvalues, λ1 and λ n , of A and their corresponding eigenvectors can be obtained.
+Keywords
+linear system  gradient method  steepest descent method  (shifted) power method  

@@ -1,0 +1,6 @@
+An affine-scaling interior-point CBB method for box-constrained optimization
+William W. Hager;Bernard A. Mair;Hongchao Zhang;
+Abstract
+We develop an affine-scaling algorithm for box-constrained optimization which has the property that each iterate is a scaled cyclic Barzilai–Borwein (CBB) gradient iterate that lies in the interior of the feasible set. Global convergence is established for a nonmonotone line search, while there is local R-linear convergence at a nondegenerate local minimizer where the second-order sufficient optimality conditions are satisfied. Numerical experiments show that the convergence speed is insensitive to problem conditioning. The algorithm is particularly well suited for image restoration problems which arise in positron emission tomography where the cost function can be infinite on the boundary of the feasible set.
+Keywords
+Interior-point  Affine-scaling  Cyclic Barzilai–Borwein methods  CBB  PET  Image reconstruction  Global convergence  Local convergence  90C06  90C26  65Y20  

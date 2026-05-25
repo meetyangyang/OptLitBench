@@ -1,0 +1,6 @@
+Cyclic optimization algorithms for simultaneous structure and motion recovery in computer vision
+ Seok   Lee ; Frank   Chongwoo Park ;
+Abstract
+ With few exceptions, most previous approaches to the structure from motion (SFM) problem in computer vision have been based on a decoupling between motion and depth recovery, usually via the epipolar constraint. This article offers closed-form cyclic optimization algorithms for the simultaneous recovery of motion and depth in the discrete SFM problem. Cyclic coordinate descent (CCD) algorithms in which each stage admits closed-form solutions are developed for two widely used fitting criteria: the geometric error in one image, and the reprojection error criterion. As a by-product, analytic gradients that can be used in descent-based optimization methods are also obtained. The computational efficiency, statistical consistency, noise robustness, and accuracy of the algorithms are assessed via experiments with synthetic image data. 
+Keywords
+computer vision, structure from motion, cyclic coordinate descent 

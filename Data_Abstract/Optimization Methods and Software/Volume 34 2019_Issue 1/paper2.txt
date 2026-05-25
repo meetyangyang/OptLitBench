@@ -1,0 +1,6 @@
+A globally convergent BFGS method for pseudo-monotone variational inequality problems
+Fatemeh Abdi;Fatemeh Shakeri;
+Abstract
+In this paper, we propose a globally convergent BFGS method to solve Variational Inequality Problems (VIPs). In fact, a globalization technique on the basis of the hyperplane projection method is applied to the BFGS method. The technique, which is independent of any merit function, is applicable for pseudo-monotone problems. The proposed method applies the BFGS direction and tries to reduce the distance of iterates to the solution set. This property, called Fejer monotonicity of iterates with respect to the solution set, is the basis of the convergence analysis. The method applied to pseudo-monotone VIP is globally convergent in the sense that subproblems always have unique solutions, and the sequence of iterates converges to a solution to the problem without any regularity assumption. Finally, some numerical simulations are included to evaluate the efficiency of the proposed algorithm.
+Keywords
+variational inequality problem, quasi-Newton method, BFGS method, hyperplane projection techniqueAMS Subject Classification: 49M15, 90C33 

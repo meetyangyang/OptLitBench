@@ -1,0 +1,6 @@
+Global optimization with spline constraints: a new branch-and-bound method based on B-splines
+Bjarne Grimstad;Anders Sandnes;
+Abstract
+This paper discusses the use of splines as constraints in mathematical programming. By combining the mature theory of the B-spline and the widely used branch-and-bound framework a novel spatial branch-and-bound (sBB) method is obtained. The method solves nonconvex mixed-integer nonlinear programming (MINLP) problems with spline constraints to global optimality. A broad applicability follows from the fact that a spline may represent any (piecewise) polynomial and accurately approximate other nonlinear functions. The method relies on a reformulation–convexification technique which results in lifted polyhedral relaxations that are efficiently solved by an LP solver. The method has been implemented in the sBB solver Convex ENvelopes for Spline Optimization (CENSO). In this paper CENSO is compared to several state-of-the-art MINLP solvers on a set of polynomially constrained NLP problems. To further display the versatility of the method a realistic pump synthesis problem of class MINLP is solved with exact and approximated pump characteristics.
+Keywords
+Branch-and-bound  B-splines  Knot insertion  Piecewise polynomials  Nonconvex  Mixed-integer  Nonlinear  

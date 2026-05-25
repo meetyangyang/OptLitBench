@@ -1,0 +1,6 @@
+Piecewise-Linear Homotopy Algorithms for Sparse Systems of Nonlinear Equations
+Michael J.  Todd;
+Abstract
+When piecewise-linear homotopy algorithms are applied to the problem of approximating a zero of a sparse function $f:R^n  \to R^n $, a large piece of linearity can be traversed in one step by using a suitable linear system. The linear system has n rows and $n + 1$ columns, but is subject to a number of inequalities depending on the sparsity pattern of f. We show how an algorithm can be implemented using these large pieces; in particular, we demonstrate how to update the linear system corresponding to one large piece to obtain the appropriate system for an adjacent large piece. One measure of the complexity of such an implementation is the number of inequalities that may be required for any one piece. We prove that there can be no more than $O(n^{{3 / 2}} )$ such inequalities, and that this bound is essentially tight; the argument is purely combinatorial. Finally, we provide guidelines on when such a “large-piece implementation” should be used instead of much simpler “small-piece implementations” for piecewise-linear homotopy algorithms.
+Keywords
+piecewise-linear homotopy algorithms, solving nonlinear equations, sparsity, 

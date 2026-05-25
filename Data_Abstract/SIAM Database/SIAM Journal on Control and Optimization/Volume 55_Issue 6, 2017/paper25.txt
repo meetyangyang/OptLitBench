@@ -1,0 +1,6 @@
+On the Stability of Kalman--Bucy Diffusion Processes
+Adrian N.  Bishop and Pierre  Del Moral;
+Abstract
+The Kalman--Bucy filter is the optimal state estimator for an Ornstein--Uhlenbeck diffusion given that the system is partially observed via a linear diffusion-type (noisy) sensor. Under Gaussian assumptions, it provides a finite-dimensional exact implementation of the optimal Bayes filter. It is generally the only such finite-dimensional exact instance of the Bayes filter for continuous state-space models. Consequently, this filter has been studied extensively in the literature since the seminal 1961 paper of Kalman and Bucy. The purpose of this work is to review, re-prove and refine existing results concerning the dynamical properties of the Kalman--Bucy filter so far as they pertain to filter stability and convergence. The associated differential matrix Riccati equation is a focal point of this study with a number of bounds, convergence, and eigenvalue inequalities rigorously proven. New results are also given in the form of exponential and comparison inequalities for both the filter and the Riccati flow.
+Keywords
+differential Riccati equations, diffusion flows, Kalman--Bucy diffusion, Kalman--Bucy filter, transition semigroups, 62M20, 93E11, 60G99, 

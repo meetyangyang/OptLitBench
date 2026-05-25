@@ -1,0 +1,6 @@
+A Trust Region Method for the Solution of the Surrogate Dual in Integer Programming
+N. Boland;A. C. Eberhard;A. Tsoukalas;
+Abstract
+We propose an algorithm for solving the surrogate dual of a mixed integer program. The algorithm uses a trust region method based on a piecewise affine model of the dual surrogate value function. A new and much more flexible way of updating bounds on the surrogate dual’s value is proposed, in which numerical experiments prove to be advantageous. A proof of convergence is given and numerical tests show that the method performance is better than a state of the art subgradient solver. Incorporation of the surrogate dual value as a cut added to the integer program is shown to greatly reduce solution times of a standard commercial solver on a specific class of problems.
+Keywords
+Surrogate dual  Integer programming  Trust regions methods  Nonsmooth optimization  Primary 90C11  90C25  Secondary 90C08  

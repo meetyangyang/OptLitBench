@@ -1,0 +1,6 @@
+A Smoothing Function Approach to Joint Chance-Constrained Programs
+Feng Shan;Liwei Zhang;Xiantao Xiao;
+Abstract
+In this article, we consider a DC (difference of two convex functions) function approach for solving joint chance-constrained programs (JCCP), which was first established by Hong et al. (Oper Res 59:617–630, 2011). They used a DC function to approximate the probability function and constructed a sequential convex approximation method to solve the approximation problem. However, the DC function they used was nondifferentiable. To alleviate this difficulty, we propose a class of smoothing functions to approximate the joint chance-constraint function, based on which smooth optimization problems are constructed to approximate JCCP. We show that the solutions of a sequence of smoothing approximations converge to a Karush–Kuhn–Tucker point of JCCP under a certain asymptotic regime. To implement the proposed method, four examples in the class of smoothing functions are explored. Moreover, the numerical experiments show that our method is comparable and effective.
+Keywords
+Joint chance-constrained programs  Smoothing function    Sequential convex approximation method  DC function  90C15  90C26  90C30  

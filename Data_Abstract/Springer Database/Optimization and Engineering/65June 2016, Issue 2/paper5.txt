@@ -1,0 +1,6 @@
+An S\(\ell _1\)LP-active set approach for feasibility restoration in power systems
+Taedong Kim;Stephen J. Wright;
+Abstract
+We consider power networks in which it is not possible to satisfy all loads at the demand nodes, due to some attack or disturbance to the network. We formulate a model, based on AC power flow equations, to restore the network to feasibility by adjusting load at demand nodes or power production at generators, but doing so in a way that minimizes a weighted measure of the total power adjustment, and affects as few nodes as possible. Besides suggesting an optimal response to a given attack, our approach can be used to quantify disruption, thereby enabling “stress testing” to be performed and vulnerabilities to be identified. Optimization techniques including nonsmooth penalty functions, sequential linear programming, and active-set heuristics are used to solve this model. We describe an algorithmic framework and present convergence results, including a quadratic convergence result for the case in which the solution is fully determined by its constraints, a situation that arises frequently in the power systems application.
+Keywords
+AC power flow equations  Composite nonsmooth optimization  Sequential linear programming  Active-set methods  

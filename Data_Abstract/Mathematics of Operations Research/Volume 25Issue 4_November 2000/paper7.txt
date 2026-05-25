@@ -1,0 +1,6 @@
+A Near-Optimal Solution to a Two-Dimensional Cutting Stock Problem
+Claire Kenyon;Eric Rémila;
+Abstract
+We present an asymptotic fully polynomial approximation scheme for strip-packing, or packing rectangles into a rectangle of fixed width and minimum height, a classical NP-hard cutting-stock problem. The algorithm, based on a new linear-programming relaxation, finds a packing of n rectangles whose total height is within a factor of (1 + ε) of optimal (up to an additive term), and has running time polynomial both in n and in 1/ε.
+Keywords
+Cutting-stock strip-packing fully polynomial approximation scheme 

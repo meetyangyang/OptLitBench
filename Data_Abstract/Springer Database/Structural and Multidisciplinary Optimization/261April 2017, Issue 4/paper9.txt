@@ -1,0 +1,6 @@
+Topology optimization for hybrid additive-subtractive manufacturing
+Jikai Liu;Albert C. To;
+Abstract
+Hybrid additive-subtractive manufacturing is gaining popularity by making full use of geometry complexity produced by additive manufacturing and dimensional accuracy derived from subtractive machining. Part design for this hybrid manufacturing approach has been done by trial-and-error, and no dedicated design methodology exists for this manufacturing approach. To address this issue, this work presents a topology optimization method for hybrid additive and subtractive manufacturing. To be specific, the boundary segments of the input design domain are categorized into two types: (i) Freeform boundary segments freely evolve through the casting SIMP method, and (ii) shape preserved boundary segments suppress the freeform evolvement and are composed of machining features through a feature fitting algorithm. Given the manufacturing strategy, the topology design is produced through additive manufacturing and the shape preserved boundary segments will be processed by post-machining. This novel topology optimization algorithm is developed under a unified SIMP and level set framework. The effectiveness of the algorithm is proved through a few numerical case studies.
+Keywords
+Topology optimization  Hybrid manufacturing  Additive manufacturing  SIMP  Level set  

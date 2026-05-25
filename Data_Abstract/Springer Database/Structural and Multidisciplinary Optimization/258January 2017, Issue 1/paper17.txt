@@ -1,0 +1,6 @@
+An evaluation of constraint aggregation strategies for wing box mass minimization
+Andrew B. Lambe;Graeme J. Kennedy;Joaquim R. R. A. Martins;
+Abstract
+Constraint aggregation makes it feasible to solve large-scale stress-constrained mass minimization problems efficiently using gradient-based optimization where the gradients are computed using adjoint methods. However, it is not always clear which constraint aggregation method is more effective, and which values to use for the aggregation parameters. In this work, the accuracy and efficiency of several aggregation methods are compared for an aircraft wing design problem. The effect of the type of aggregation function, the number of constraints, and the value of the aggregation parameter are studied. Recommendations are provided for selecting a constraint aggregation scheme that balances computational effort with the accuracy of the computed optimal design. Using the recommended aggregation method and associated parameters, a mass of within 0.5 % of the true optimal design was obtained.
+Keywords
+Structural optimization  Constraint aggregation  Stress constraints  Kreisselmeier– Steinhauser function  Induced aggregation  

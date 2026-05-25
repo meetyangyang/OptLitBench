@@ -1,0 +1,6 @@
+Controlling the Running Maximum of a Diffusion Process and an Application to Queueing Systems
+Ananda  Weerasinghe;
+Abstract
+We consider a one-dimensional stochastic control problem in which an infinite-horizon discounted cost structure penalizes the growth rate of the running maximum of the one-dimensional state process and also imposes a convex control cost. To address this, we formulate a more general two-dimensional control problem using the state process and its running maximum. Our analysis leads to a two-dimensional, degenerate Hamilton--Jacobi--Bellman equation and we carefully construct a sufficiently smooth solution to this equation. Using this solution, we obtain a bounded, feedback type optimal control process. This problem is motivated by the optimal service rate control of an infinite-server processing system under heavy traffic conditions, where a control mechanism is enforced to control the required storage capacity. Using our solution to the stochastic control problem, we construct an asymptotically optimal, feedback type service rate perturbation for this motivating example.
+Keywords
+diffusion processes, Ornstein--Uhlenbeck process, running maximum, HJB equation, infinite-server processing systems, 93E20, 60H30, 

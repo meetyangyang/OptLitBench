@@ -1,0 +1,6 @@
+Compact LP bases for a class of IP problems
+Fred Glover;
+Abstract
+A variety of IP problems in location, logical design, and project selection contain collections of constraints of the form$$x_{ij}  \leqslant y_i ,j \in J_i ,i \in I$$ or more generally$$x_{ij}  \leqslant y_i ,j \in J_i ,i \in I$$ where all coefficients are nonnegative, and the setsS j ,j∈J i , are pairwise disjoint. We show how to solve the associated LP problem for these and other related structures (simultaneously including upper bound restrictions) while keeping the tableau the same size as if such constraints were absent. Our procedure not only reduces the effective size of such problems, but bypasses many of the calculations ordinarily required by the simplex method.
+Keywords
+Mathematical Method  Related Structure  Pairwise Disjoint  Simplex Method  Effective Size  

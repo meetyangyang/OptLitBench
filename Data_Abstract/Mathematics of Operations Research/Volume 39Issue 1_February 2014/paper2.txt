@@ -1,0 +1,6 @@
+Regret in Online Combinatorial Optimization
+Jean-Yves Audibert;Sébastien Bubeck;Gábor Lugosi;
+Abstract
+We address online linear optimization problems when the possible actions of the decision maker are represented by binary vectors. The regret of the decision maker is the difference between her realized loss and the minimal loss she would have achieved by picking, in hindsight, the best possible action. Our goal is to understand the magnitude of the best possible (minimax) regret. We study the problem under three different assumptions for the feedback the decision maker receives: full information, and the partial information models of the so-called “semi-bandit” and “bandit” problems. In the full information case we show that the standard exponentially weighted average forecaster is a provably suboptimal strategy. For the semi-bandit model, by combining the Mirror Descent algorithm and the INF (Implicitely Normalized Forecaster) strategy, we are able to prove the first optimal bounds. Finally, in the bandit case we discuss existing results in light of a new lower bound, and suggest a conjecture on the optimal regret in that case.
+Keywords
+online optimization combinatorial optimization mirror descent multi-armed bandits minimax regret 

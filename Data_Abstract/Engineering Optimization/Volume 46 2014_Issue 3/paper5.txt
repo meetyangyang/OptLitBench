@@ -1,0 +1,6 @@
+Co-evolutionary algorithm: An efficient approach for bilevel programming problems
+Hecheng Li;Lei Fang;
+Abstract
+The bilevel programming problem involves two optimization problems, which is hierarchical, strongly NP-hard and very challenging for most existing optimization approaches. An efficient universal co-evolutionary algorithm is developed in this article to deal with various bilevel programming problems. In the proposed algorithm, evolutionary algorithms are used to explore the leader's and the follower's decision-making spaces interactively. Unlike other existing approaches, in the suggested procedure the follower's problem is solved in two phases. First, an evolutionary algorithm is run for a few generations to obtain an approximation of lower level solutions. In the second phase, from all approximate solutions obtained above, only a small number of good points are selected and evolved again by a newly designed multi-criteria evolutionary algorithm. The technique refines some candidate solutions and can efficiently reduce the computational cost of obtaining feasible solutions. Proof-of-principle experiments demonstrate the efficiency of the proposed approach.
+Keywords
+co-evolutionary algorithm, bilevel programming problems, approximate solutions, optimal solutions 

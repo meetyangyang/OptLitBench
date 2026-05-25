@@ -1,0 +1,6 @@
+A new optimization framework using genetic algorithm and artificial neural network to reduce uncertainties in petroleum reservoir models
+Célio Maschio;Denis José Schiozer;
+Abstract
+In this article, a new optimization framework to reduce uncertainties in petroleum reservoir attributes using artificial intelligence techniques (neural network and genetic algorithm) is proposed. Instead of using the deterministic values of the reservoir properties, as in a conventional process, the parameters of the probability density function of each uncertain attribute are set as design variables in an optimization process using a genetic algorithm. The objective function (OF) is based on the misfit of a set of models, sampled from the probability density function, and a symmetry factor (which represents the distribution of curves around the history) is used as weight in the OF. Artificial neural networks are trained to represent the production curves of each well and the proxy models generated are used to evaluate the OF in the optimization process. The proposed method was applied to a reservoir with 16 uncertain attributes and promising results were obtained.
+Keywords
+numerical reservoir simulation, genetic algorithm, probabilistic history matching, artificial neural network, uncertainty reduction 

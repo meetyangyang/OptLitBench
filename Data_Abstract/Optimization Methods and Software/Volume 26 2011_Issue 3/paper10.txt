@@ -1,0 +1,6 @@
+A symmetric rank-one quasi-Newton line-search method using negative curvature directions
+ Figen   Öztoprak ; Ş.   İlker   Birbil ;
+Abstract
+ We propose a quasi-Newton line-search method that uses negative curvature directions for solving unconstrained optimization problems. In this method, the symmetric rank-one (SR1) rule is used to update the Hessian approximation. The SR1 update rule is known to have a good numerical performance; however, it does not guarantee positive definiteness of the updated matrix. We first discuss the details of the proposed algorithm and then concentrate on its practical behaviour. Our extensive computational study shows the potential of the proposed method from different angles, such as its performance compared with some other existing packages, the profile of its computations, and its large-scale adaptation. We then conclude the paper with the convergence analysis of the proposed method. 
+Keywords
+quasi-Newton, SR1 update, negative curvature, unconstrained AMS Subject Classification : 90C30, 90C53 

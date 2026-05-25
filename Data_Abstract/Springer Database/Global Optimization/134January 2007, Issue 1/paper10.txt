@@ -1,0 +1,6 @@
+Application of the cross-entropy method to clustering and vector quantization
+Dirk P. Kroese;Reuven Y. Rubinstein;Thomas Taimre;
+Abstract
+We apply the cross-entropy (CE) method to problems in clustering and vector quantization. The CE algorithm for clustering involves the following iterative steps: (a) generate random clusters according to a specified parametric probability distribution, (b) update the parameters of this distribution according to the Kullback–Leibler cross-entropy. Through various numerical experiments, we demonstrate the high accuracy of the CE algorithm and show that it can generate near-optimal clusters for fairly large data sets. We compare the CE method with well-known clustering and vector quantization methods such as K-means, fuzzy K-means and linear vector quantization, and apply each method to benchmark and image analysis data.
+Keywords
+Cross-entropy method  Clustering  Vector quantization  Simulation  Global optimization  

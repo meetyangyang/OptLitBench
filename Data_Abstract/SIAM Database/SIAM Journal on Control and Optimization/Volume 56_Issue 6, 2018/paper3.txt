@@ -1,0 +1,6 @@
+Distributed Continuous-Time Algorithms for Nonsmooth Extended Monotropic Optimization Problems
+Xianlin  Zeng, Peng  Yi, Yiguang  Hong, and Lihua  Xie;
+Abstract
+This paper studies distributed algorithms for the nonsmooth extended monotropic optimization problem, which is a general convex optimization problem with a certain separable structure. The considered nonsmooth objective function is the sum of local objective functions assigned to agents in a multiagent network, with local set constraints and affine equality constraints. Each agent only knows its local objective function, local set constraint, and the information exchanged between neighbors. To solve the constrained convex optimization problem, we propose two novel distributed continuous-time subgradient-based algorithms, with projected output feedback and derivative feedback, respectively. Moreover, we prove the convergence of proposed algorithms to the optimal solutions under some mild conditions and analyze convergence rates, with the help of the techniques of variational inequalities, decomposition methods, and differential inclusions. Finally, we give an example to illustrate the efficacy of the proposed algorithms.
+Keywords
+extended monotropic optimization, distributed algorithms, nonsmooth convex functions, decomposition methods, differential inclusions, 68W15, 34A60, 90C25, 90C06, 

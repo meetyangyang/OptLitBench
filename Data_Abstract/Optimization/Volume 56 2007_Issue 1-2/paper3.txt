@@ -1,0 +1,6 @@
+Characterization of optimal points in binary convex quadratic programming
+ Peter   Recht ;
+Abstract
+ In (Recht, P., 2001, Identifying non-active restrictions in convex quadratic programming. Mathematical Methods of Operations Research, 54, 53–61.) QP-problems with strict convex objective functions f were investigated in order to detect constraints that are not active at the optimal point x*. It turned out, that simple calculations performed in parallel with an QP-solver allows a decision to delete restrictions from the problem. The results can also be generalized to the case of positive semi-definite problems (Recht, P., 2003, Redundancies in positive semidefinite quadratic programming. JOTA, 119(3), 553–564.). In this article it is shown that the technique presented there allows to characterize optimal points of QP with 0–1 entries. This characterization essentially makes use of the fact that for the relaxed problem exactly one of the constraints xi  ≥ 0 or xi  ≤ 1, respectively, is superfluous. 
+Keywords
+Quadratic programming, Superfluous restrictionsKeywords:  Mathematics Subject Classifications 2000: 90C20, 90C25, 90C46, 90C09 

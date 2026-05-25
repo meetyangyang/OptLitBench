@@ -1,0 +1,6 @@
+A Superlinearly Convergent Polynomial Primal-Dual Interior-Point Algorithm for Linear Programming
+Yin  Zhang and Richard A.  Tapia;
+Abstract
+The choices of the centering parameter and the step-length parameter are the fundamental issues in primal-dual interior-point algorithms for linear programming. Various choices for these two parameters that lead to polynomial algorithms have been proposed. Recently, Zhang, Tapia, and Dennis derived conditions for the choices of the two parameters that were sufficient for superlinear or quadratic convergence. However, prior to this work it had not been shown that these conditions for fast convergence are compatible with the choices that lead to polynomiality; none of the existing polynomial primal-dual interior-point algorithms satisfy these fast convergence requirements. This paper gives an affirmative answer to the question: Can a primal-dual algorithm be both polynomial and superlinearly convergent for general problems? A “large step” algorithm that possesses both polynomiality and, under the assumption of the convergence of the iteration sequence, Q-superlinear convergence, is constructed and analyzed. For nondegenerate problems, the convergence is actually Q-quadratic.
+Keywords
+linear programming, primal-dual interior-point algorithms, quadratic and superlinear convergence, polynomiality, 90C05, 65K05, 

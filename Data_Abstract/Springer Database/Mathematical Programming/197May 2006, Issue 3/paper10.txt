@@ -1,0 +1,6 @@
+An approximation algorithm for the general max-min resource sharing problem
+Klaus Jansen;
+Abstract
+We propose an approximation algorithm for, the general max-min resource sharing problem with M nonnegative concave constraints on a convex set B. The algorithm is based on a Lagrangian decomposition method and it uses a c-approximation algorithm (called approximate block solver) for a simpler maximization problem over the convex set B. We show that our algorithm achieves within  Open image in new window  iterations or calls to the approximate block solver a solution for the general max-min resource sharing problem with approximation ratio  Open image in new window  The algorithm is faster and simpler than the previous known approximation algorithms for the problem [12, 13]
+Keywords
+Approximation Algorithm  Potential Function  Step Length  Approximation Ratio  Price Vector  

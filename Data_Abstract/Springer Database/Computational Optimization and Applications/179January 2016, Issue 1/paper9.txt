@@ -1,0 +1,6 @@
+Global optimization of trusses with constraints on number of different cross-sections: a mixed-integer second-order cone programming approach
+Yoshihiro Kanno;
+Abstract
+In design practice it is often that the structural components are selected from among easily available discrete candidates and a number of different candidates used in a structure is restricted to be small. Presented in this paper is a new modeling of the design constraints for obtaining the minimum compliance truss design in which only a limited number of different cross-section sizes are employed. The member cross-sectional areas are considered either discrete design variables that can take only predetermined values or continuous design variables. In both cases it is shown that the compliance minimization problem can be formulated as a mixed-integer second-order cone programming problem. The global optimal solution of this optimization problem is then computed by using an existing solver based on a branch-and-cut algorithm. Numerical experiments are performed to show that the proposed approach is applicable to moderately large-scale problems.
+Keywords
+Topology optimization  Global optimization   Mixed-integer programming  Second-order cone programming   Optimal standardization  

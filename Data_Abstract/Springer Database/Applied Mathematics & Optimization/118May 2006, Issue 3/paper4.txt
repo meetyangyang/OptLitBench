@@ -1,0 +1,10 @@
+Weberized Mumford-Shah Model with Bose-Einstein Photon Noise
+Jianhong Shen;Yoon-Mo Jung;
+Abstract
+Human vision works equally well in a large dynamic range of light intensities, from only a few photons to typical midday sunlight. Contributing to such remarkable flexibility is
+a famous law in perceptual (both visual and aural) psychology and psychophysics known as
+Weber's Law. The current paper develops a new segmentation model based on the
+integration of  Weber's Law and the celebrated Mumford-Shah segmentation model (Comm. Pure Appl. Math., vol. 42, pp. 577-685, 1989). Explained in detail  are issues concerning why the classical Mumford-Shah model lacks light adaptivity, and why its "weberized" version can  more faithfully reflect human vision's superior segmentation capability in a variety of illuminance conditions from dawn to dusk. It is also argued that the popular Gaussian noise model is physically inappropriate for the weberization procedure. As a result, the intrinsic thermal noise of photon ensembles is introduced based on Bose and Einstein's distributions in quantum statistics, which turns out to be compatible with weberization both analytically and computationally. The current paper focuses on both the theory and computation of the weberized Mumford-Shah model with Bose-Einstein noise. In particular, Ambrosio-Tortorelli's Γ-convergence approximation theory is adapted (Boll. Un. Mat. Ital. B, vol. 6, pp. 105-123, 1992), and stable numerical algorithms are developed for the associated pair of
+nonlinear Euler-Lagrange PDEs.
+Keywords
+Weber's Law  Light adaptivity  Retina  Mumford-Shah segmentation  Bose-Einstein distribution  Noise  Bayesian  Variational  Free boundary  Γ-convergence  Computational PDE  

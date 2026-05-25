@@ -1,0 +1,7 @@
+Asymptotic scheduling
+Paolo Serafini;
+Abstract
+We deal with the following scheduling problem: a finite set of jobs is given and each job consists in the execution of an infinite number of tasks. A task is a sequence of operations and each operation requires a specific machine. A machine can process only one operation at a time and preemption is not allowed. Performance measures of the processing system involve fixing a time horizon T, counting the number of tasks completed within T for each job and maximizing a specified function of these numbers to estimate the throughput of the schedule. Whilst computing the throughput for a given T is in general an extremely difficult problem, it is shown in this paper that the limit, as T tends to infinity, of the average throughput (i.e. the throughput divided by T) can be easily computed via Linear Programming under fairly mild conditions. This quantity, which may be called the asymptotic throughput, can be used to assess a bound on performance measures of real systems. Buffers play a crucial role and buffer sizes can be taken care of in assessing the system performance.
+
+Keywords
+scheduling  linear programming  production throughput  

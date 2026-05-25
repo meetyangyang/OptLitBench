@@ -1,0 +1,6 @@
+Some New Search Directions for Primal-Dual Interior Point Methods in Semidefinite Programming
+Kim-Chuan  Toh;
+Abstract
+Search directions for primal-dual path-following methods for semidefinite programming (SDP) are proposed. These directions have the properties that (1) under certain nondegeneracy and strict complementarity assumptions, the Jacobian matrix of the associated symmetrized Newton equation has a bounded condition number along the central path in the limit as the barrier parameter $\mu$ tends to zero; and (2) the Schur complement matrix of the symmetrized Newton equation is symmetric and the cost for computing this matrix is 2mn3  + 0.5m2n2  flops, where n and m are the dimension of the matrix and vector variables of the semidefinite program, respectively. These two properties imply that a path-following method using the proposed directions can achieve the high accuracy typically attained by methods employing the direction proposed by Alizadeh, Haeberly, and Overton (currently the best search direction in terms of accuracy), but each iteration requires at most half the amount of flops (to leading order).
+Keywords
+semidefinite programming, interior point methods, search directions, 90C05, 

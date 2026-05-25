@@ -1,0 +1,4 @@
+YIELDS: A Yet Improved Limited Discrepancy Search for CSPs
+Wafa Karoui;Marie-José Huguet;Pierre Lopez;Wady Naanaa;
+Abstract
+In this paper, we introduce a Yet ImprovEd Limited Discrepancy Search (YIELDS), a complete algorithm for solving Constraint Satisfaction Problems. As indicated in its name, YIELDS is an improved version of Limited Discrepancy Search (LDS). It integrates constraint propagation and variable order learning. The learning scheme, which is the main contribution of this paper, takes benefit from failures encountered during search in order to enhance the efficiency of variable ordering heuristic. As a result, we obtain a search which needs less discrepancies than LDS to find a solution or to state a problem is intractable. This method is then less redundant than LDS.

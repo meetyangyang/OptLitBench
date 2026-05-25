@@ -1,0 +1,6 @@
+A Sharp Bound on the Ratio Between Optimal Integer and Fractional Covers
+Egon Balas;
+Abstract
+The ratio between the values of optimal integer and fractional solutions to a set covering problem was shown by Johnson (Johnson, D. S. Approximation algorithms for combinatorial problems. J. Comput. System. Sci.9 256–278.) and Lovász (Lovász, L. On the ratio of optimal integral and fractional covers. Discrete Math.13 383–390.) to be bounded by B(d) = 1 + ln d, where d is the largest column sum. We show that if n is the number of variables, $$B(n)=\frac{1}{n} \left\lfloor\frac{n+1}{2}\right\rfloor \left\lceil\frac{n+1}{2}\right\rceil$$ is a best possible bound on this ratio. Furthermore, for every n > 20 there is a class of problems with O(2n) constraints, for which B(n) < (2/5)B(d). We also exhibit a heuristic that is guaranteed to find an integer solution such that the ratio of its value to that of an optimal fractional solution is bounded by B(n).
+Keywords
+set covering problem fractional cover 

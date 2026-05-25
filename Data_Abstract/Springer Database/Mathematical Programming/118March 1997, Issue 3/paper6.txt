@@ -1,0 +1,6 @@
+A trust region method for minimization of nonsmooth functions with linear constraints
+José Mario Martínez;Antonio Carlos Moretti;
+Abstract
+We introduce a trust region algorithm for minimization of nonsmooth functions with linear constraints. At each iteration, the objective function is approximated by a model function that satisfies a set of assumptions stated recently by Qi and Sun in the context of unconstrained nonsmooth optimization. The trust region iteration begins with the resolution of an “easy problem”, as in recent works of Martínez and Santos and Friedlander, Martínez and Santos, for smooth constrained optimization. In practical implementations we use the infinity norm for defining the trust region, which fits well with the domain of the problem. We prove global convergence and report numerical experiments related to a parameter estimation problem.
+Keywords
+Trust regions  Nonsmooth functions  Constrained optimization  

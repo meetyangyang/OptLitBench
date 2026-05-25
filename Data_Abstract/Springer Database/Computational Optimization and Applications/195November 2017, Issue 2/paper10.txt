@@ -1,0 +1,6 @@
+On the convergence of alternating minimization methods in variational PGD
+A. El Hamidi;H. Ossman;M. Jazar;
+Abstract
+The approximation of solutions to partial differential equations by tensorial separated representations is one of the most efficient numerical treatment of high dimensional problems. The key step of such methods is the computation of an optimal low-rank tensor to enrich the obtained iterative tensorial approximation. In variational problems, this step can be carried out by alternating minimization (AM) technics, but the convergence of such methods presents a real challenge. In the present work, the convergence of rank-one AM algorithms for a class of variational linear elliptic equations is studied. More precisely, we show that rank-one AM-sequences are in general bounded in the ambient Hilbert tensor space and are compact if a uniform non-orthogonality condition between iterates and the reaction term is fulfilled. In particular, if a rank-one AM-sequence is weakly convergent then it converges strongly and the common limit is a solution of the rank-one optimization problem.
+Keywords
+Proper generalized decomposition (PGD)  Alternate minimization  Tensor Hilbert spaces  65K10  49K30  

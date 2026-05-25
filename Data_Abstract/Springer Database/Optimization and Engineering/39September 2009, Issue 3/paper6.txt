@@ -1,0 +1,6 @@
+Data assimilation in weather forecasting: a case study in PDE-constrained optimization
+Mike Fisher;Jorge Nocedal;Yannick Trémolet;Stephen J. Wright;
+Abstract
+Variational data assimilation is used at major weather prediction centers to produce the initial conditions for 7- to 10-day weather forecasts. This technique requires the solution of a very large data-fitting problem in which the major element is a set of partial differential equations that models the evolution of the atmosphere over a time window for which observational data has been gathered. Real-time solution of this difficult computational problem requires sophisticated models of atmospheric physics and dynamics, effective use of supercomputers, and specialized algorithms for optimization and linear algebra. The optimization algorithm can be accelerated by using a spectral preconditioner based on the Lanczos method. This paper shows how practical demands of the application dictate the various algorithmic choices that are made in the nonlinear optimization solver, with particular reference to the system in operation at the European Centre for Medium-Range Weather Forecasts.
+Keywords
+Weather forecasting  Variational assimilation  PDE-constrained optimization  Large-scale optimization  

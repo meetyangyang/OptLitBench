@@ -1,0 +1,6 @@
+Algorithmic differentiation for piecewise smooth functions: a case study for robust optimization
+Sabrina Fiege;Andrea Walther;Kshitij Kulshreshtha;Andreas Griewank;
+Abstract
+This paper presents a minimization method for Lipschitz continuous, piecewise smooth objective functions based on algorithmic differentiation (AD). We assume that all nondifferentiabilities are caused by abs(), min(), and max(). The optimization method generates successively piecewise linearizations in abs-normal form and solves these local subproblems by exploiting the resulting kink structure. Both the generation of the abs-normal form and the exploitation of the kink structure are possible due to extensions of standard AD tools. This work presents corresponding drivers for the AD tool ADOL-C which are embedded in the nonsmooth solver LiPsMin. Finally, minimax problems from robust optimization are considered. Numerical results and a comparison of LiPsMin with other nonsmooth optimization methods are discussed.
+Keywords
+Piecewise linearization, algorithmic differentiation, nonsmooth optimization, robust optimizationAMS Subject Classification: 90C26, 90C30, 90C47 

@@ -1,0 +1,6 @@
+An Adaptive Partial Linearization Method for Optimization Problems on Product Sets
+Igor Konnov;
+Abstract
+We consider a general class of composite optimization problems where the goal function is the sum of a smooth function and a non-necessary smooth convex separable function associated with some space partition, whereas the feasible set is a Cartesian product concordant to this partition. We suggest an adaptive version of the partial linearization method, which makes selective component-wise steps satisfying some descent condition and utilizes a sequence of control parameters. This technique is destined to reduce the computational expenses per iteration and maintain the basic convergence properties. We also establish its convergence rates and describe some examples of applications. Preliminary results of computations illustrate usefulness of the new method.
+Keywords
+Composite optimization  Decomposable problems  Partial linearization method  Conditional gradient method  Tolerance control  90C30  90C06  65K05  

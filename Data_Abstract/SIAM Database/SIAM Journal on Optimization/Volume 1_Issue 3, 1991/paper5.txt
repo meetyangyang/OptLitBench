@@ -1,0 +1,6 @@
+Massively Parallel Row-Action Algorithms for Some Nonlinear Transportation Problems
+Stavros A.  Zenios and Yair  Censor;
+Abstract
+Row-action iterative algorithms are developed for two classes of nonlinear optimization problems with transportation constraints: entropy problems where the objective function is a sum of $x[\ln (x/a) - 1]$ terms, and quadratic problems where the objective function is a sum of $\frac{1}{2}wx^2  + cx$ terms. The algorithms are specialized to take advantage of both the structure of the transportation constraints and the special forms of the objective functions. Both generalized and pure networks are dealt with in this paper.The algorithms are well suited for parallel computing. Implementations are developed on a massively parallel Connection Machine CM-2 with up to 32K processing elements. The algorithms solve test problems with 4000 nodes and 4 million arcs in less than one minute of computer time. On a maximally configured machine with 64K processing elements, they achieve a peak computing rate of 3 GFLOPS.
+Keywords
+transportation models, nonlinear programming, row-action algorithms, parallel computation, 90-08, 90B06, 90C06, 65Y05, 

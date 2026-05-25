@@ -1,0 +1,4 @@
+Rapidly Solving an Online Sequence of Maximum Flow Problems with Extensions to Computing Robust Minimum Cuts
+Doug Altner;Özlem Ergun;
+Abstract
+We investigate how to rapidly solve an online sequence of maximum flow problems (MFPs). Such sequences arise in a diverse collection of settings including stochastic network programming and constraint programming. In this paper, we formalize the study of solving a sequence of MFPs, introduce a maximum flow algorithm designed for “warm starts” and extend our work to computing a robust minimum cut. We demonstrate that our algorithms reduce the running time by an order of magnitude when compared similar codes that use a black-box MFP solver. In particular, we show that our algorithm for robust minimum cuts can solve instances in seconds that would require over four hours using a black-box maximum flow solver.

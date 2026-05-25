@@ -1,0 +1,6 @@
+An Algorithm for Constrained Optimization with Semismooth Functions
+Robert Mifflin;
+Abstract
+We present an implementable algorithm for solving constrained optmization problems defined by functions that are not everywhere differenliable. The method is based on combining, modifying and extending the nonsmooth optimization work of Wolfe, Leraarechal, Feuer, Poljak and Merrill. It can be thought of as a generalized reset conjugate gradient algorithm.We also introduce the class of weakly upper semismooth functions. These functions are locally Lipschitz and have a semicontinuous relationship between their generalized gradient sets and their directional derivatives. The algorithm is shown to converge to stationary points of the optimization problem if the objective and constraint functions are weakly upper semismooth. Such points are optimal points if the problem functions are also semiconvex and a constraint qualification is satisfied. Under stronger convexity assumptions, bounds on the deviation from optimally of the algorithm iterates are given.
+Keywords
+nonlinear programming semismooth functions stationary points generalized reset conjugate gradient method 

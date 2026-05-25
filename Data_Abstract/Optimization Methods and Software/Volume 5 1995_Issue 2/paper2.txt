@@ -1,0 +1,6 @@
+A finite procedure for finding a point satisfying a system of inequalities
+ Ubaldo M.   García-Palomares ;
+Abstract
+ We describe an Armijo-Newton like procedure that locates a feasible point of a non empty system of nonlinear inequalities (and linear equations) in a finite number of operations. Assuming differentiability and Positive Linearly Independence (PLI) of the gradients of the most violated inequalities, the sequence of iterates converges to the relative interior of the given system. At each iteration a linear feasibility problem with a small number of constraints is solved. Preliminary numerical experiments on small systems are encouraging: Systems of up to 80 inequalities and 40 variables have been solved in fewer than 20 iterations. A Pseudocode and hints on how to choose the parameters involved are given  
+Keywords
+Feasibility, Inequalities, Armijo-Newton Methods 

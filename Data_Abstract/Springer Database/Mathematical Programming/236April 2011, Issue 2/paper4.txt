@@ -1,0 +1,6 @@
+A warm-start approach for large-scale stochastic linear programs
+Marco Colombo;Jacek Gondzio;Andreas Grothey;
+Abstract
+We describe a way of generating a warm-start point for interior point methods in the context of stochastic programming. Our approach exploits the structural information of the stochastic problem so that it can be seen as a structure-exploiting initial point generator. We solve a small-scale version of the problem corresponding to a reduced event tree and use the solution to generate an advanced starting point for the complete problem. The way we produce a reduced tree tries to capture the important information in the scenario space while keeping the dimension of the corresponding (reduced) deterministic equivalent small. We derive conditions which should be satisfied by the reduced tree to guarantee a successful warm-start of the complete problem. The implementation within the HOPDM and OOPS interior point solvers shows remarkable advantages.
+Keywords
+90C15  90C51  60C06  

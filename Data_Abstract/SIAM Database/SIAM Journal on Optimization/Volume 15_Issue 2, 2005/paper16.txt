@@ -1,0 +1,6 @@
+A Combined Smoothing and Regularization Method for Monotone Second-Order Cone Complementarity Problems
+Shunsuke  Hayashi, Nobuo  Yamashita, and Masao  Fukushima;
+Abstract
+The second-order cone complementarity problem (SOCCP) is a wide class of problems containing the nonlinear complementarity problem (NCP) and the second-order cone programming problem (SOCP). Recently, Fukushima, Luo, and Tseng [SIAM J. Optim., 12 (2001), pp. 436--460] extended some merit functions and their smoothing functions for NCP to SOCCP. Moreover, they derived computable formulas for the Jacobians of the smoothing functions and gave conditions for the Jacobians to be invertible. In this paper, we propose a globally and quadratically convergent algorithm, which is based on smoothing and regularization methods, for solving monotone SOCCP. In particular, we study strong semismoothness and Jacobian consistency, which play an important role in establishing quadratic convergence of the algorithm. Furthermore, we examine the effectiveness of the algorithm by means of numerical experiments.
+Keywords
+second-order cone, complementarity problem, smoothing method, regularization method, 90C33, 65K05, 

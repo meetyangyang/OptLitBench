@@ -1,0 +1,6 @@
+Estimating the complexity of a class of path-following methods for solving linear programs by curvature integrals
+G. Zhao;J. Stoer;
+Abstract
+In this paper we study a particular class of primal-dual path-following methods which try to follow a trajectory of interior feasible solutions in primal-dual space toward an optimal solution to the primal and dual problem. The methods investigated are so-called first-order methods: each iteration consists of a “long” step along the tangent of the trajectory, followed by explicit recentering steps to get close to the trajectory again. It is shown that the complexity of these methods, which can be measured by the number of points close to the trajectory which have to be computed in order to achieve a desired gain in accuracy, is bounded by an integral along the trajectory. The integrand is a suitably weighted measure of the second derivative of the trajectory with respect to a distinguished path parameter, so the integral may be loosely called a curvature integral.
+Keywords
+Complexity  Estimates by integrals  Analytic centers  Path-following method  Interior-point method  Linear programs  90C60  90C05  49M35  68Q25  

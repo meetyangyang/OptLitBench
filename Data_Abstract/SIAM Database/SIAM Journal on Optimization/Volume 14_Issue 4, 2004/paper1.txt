@@ -1,0 +1,6 @@
+On the Convergence of Asynchronous Parallel Pattern Search
+Tamara G.  Kolda and Virginia J.  Torczon;
+Abstract
+In this paper we prove global convergence for asynchronous parallel pattern search. In standard pattern search, decisions regarding the update ofthe iterate and the step-length control parameter are synchronized implicitly across all search directions. We lose this feature in asynchronous parallel pattern search since the search along each direction proceeds semiautonomously. By bounding the value of the step-length control parameter after any step that produces decrease along a single search direction, we can prove that all the processes share a common accumulation point and, if the function is continuously differentiable, that such a point is a stationary point of the standard nonlinear unconstrained optimization problem.
+Keywords
+asynchronous parallel optimization, pattern search, unconstrained optimization, global convergence analysis, 90C56, 90C30, 65K05, 65Y05, 68W15, 

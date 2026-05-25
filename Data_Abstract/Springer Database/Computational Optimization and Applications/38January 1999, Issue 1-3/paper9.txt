@@ -1,0 +1,6 @@
+A Shifted-Barrier Primal-Dual Algorithm Model for Linearly Constrained Optimization Problems
+Gianni Di Pillo;Stefano Lucidi;Laura Palagi;
+Abstract
+In this paper we describe a Newton-type algorithm model for solving smooth constrained optimization problems with nonlinear objective function, general linear constraints and bounded variables. The algorithm model is based on the definition of a continuously differentiable exact merit function that follows an exact penalty approach for the box constraints and an exact augmented Lagrangian approach for the general linear constraints. Under very mild assumptions and without requiring the strict complementarity assumption, the algorithm model produces a sequence of pairs \(\{ x^k ,\lambda ^k \} \) converging quadratically to a pair \((\bar x,\bar \lambda )\) where \(\bar x\) satisfies the first order necessary conditions and \(\bar \lambda \) is a KKT multipliers vector associated to the linear constraints. As regards the behaviour of the sequence xk alone, it is guaranteed that it converges at least superlinearly. At each iteration, the algorithm requires only the solution of a linear system that can be performed by means of conjugate gradient methods. Numerical experiments and comparison are reported.
+Keywords
+linearly constrained optimization  primal-dual algorithm  Penalty-Lagrangian merit function  

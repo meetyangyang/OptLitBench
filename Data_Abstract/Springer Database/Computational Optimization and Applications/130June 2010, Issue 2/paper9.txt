@@ -1,0 +1,6 @@
+A new line search inexact restoration approach for nonlinear programming
+Andreas Fischer;Ana Friedlander;
+Abstract
+A new general scheme for Inexact Restoration methods for Nonlinear Programming is introduced. After computing an inexactly restored point, the new iterate is determined in an approximate tangent affine subspace by means of a simple line search on a penalty function. This differs from previous methods, in which the tangent phase needs both a line search based on the objective function (or its Lagrangian) and a confirmation based on a penalty function or a filter decision scheme. Besides its simplicity the new scheme enjoys some nice theoretical properties. In particular, a key condition for the inexact restoration step could be weakened. To some extent this also enables the application of the new scheme to mathematical programs with complementarity constraints.
+Keywords
+Nonlinear programming  Inexact restoration  Line search  Penalty function  Complementarity constraints  

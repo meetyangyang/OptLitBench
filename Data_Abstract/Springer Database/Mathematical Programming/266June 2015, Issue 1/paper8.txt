@@ -1,0 +1,6 @@
+On mathematical programming with indicator constraints
+Pierre Bonami;Andrea Lodi;Andrea Tramontani;Sven Wiese;
+Abstract
+In this paper we review the relevant literature on mathematical optimization with logical implications, i.e., where constraints can be either active or disabled depending on logical conditions to hold. In the case of convex functions, the theory of disjunctive programming allows one to formulate these logical implications as convex nonlinear programming problems in a space of variables lifted with respect to its original dimension. We concentrate on the attempt of avoiding the issue of dealing with large NLPs. In particular, we review some existing results that allow to work in the original space of variables for two relevant special cases where the disjunctions corresponding to the logical implications have two terms. Then, we significantly extend these special cases in two different directions, one involving more general convex sets and the other with disjunctions involving three terms. Computational experiments comparing disjunctive programming formulations in the original space of variables with straightforward bigM ones show that the former are computationally viable and promising.
+Keywords
+Disjunctive programming  bigM method  Perspective reformulation  On/off constraints   Primary 90C11  Secondary 90C25  90C57  

@@ -1,0 +1,6 @@
+Two modified three-term conjugate gradient methods with sufficient descent property
+Saman Babaie-Kafaki;Reza Ghanbari;
+Abstract
+Based on the insight gained from the three-term conjugate gradient methods suggested by Zhang et al. (Optim Methods Softw 22:697–711, 2007) two nonlinear conjugate gradient methods are proposed, making modifications on the conjugate gradient methods proposed by Dai and Liao (Appl Math Optim 43:87–101, 2001), and Zhou and Zhang (Optim Methods Softw 21:707–714, 2006). The methods can be regarded as modified versions of two three-term conjugate gradient methods proposed by Sugiki et al. (J Optim Theory Appl 153:733–757, 2012) in which the search directions are computed using the secant equations in a way to achieve the sufficient descent property. One of the methods is shown to be globally convergent for uniformly convex objective functions while the other is shown to be globally convergent without convexity assumption on the objective function. Comparative numerical results demonstrating efficiency of the proposed methods are reported.
+Keywords
+Unconstrained optimization  Large-scale optimization    Conjugate gradient algorithm  Secant equation  Sufficient descent condition   Global convergence  

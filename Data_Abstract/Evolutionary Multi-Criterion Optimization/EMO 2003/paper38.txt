@@ -1,0 +1,4 @@
+Distributed Computing of Pareto-Optimal Solutions with Evolutionary Algorithms
+Kalyanmoy Deb;Pawan Zope;Abhishek Jain;
+Abstract
+In this paper, we suggest a distributed computing approach for finding multiple Pareto-optimal solutions. When the number of objective functions is large, the resulting Pareto-optimal front is of large dimension, thereby requiring a single processor multi-objective EA (MOEA) to use a large population size and run for a large number of generations. However, the task of finding a well-distributed set of solutions on the Pareto-optimal front can be distributed among a number of processors, each pre-destined to find a particular portion of the Pareto-optimal set. Based on the guided domination approach [1], here we propose a modified domination criterion for handling problems with a convex Pareto-optimal front. The proof-of-principle results obtained with a parallel version of NSGA-II shows the efficacy of the proposed approach.

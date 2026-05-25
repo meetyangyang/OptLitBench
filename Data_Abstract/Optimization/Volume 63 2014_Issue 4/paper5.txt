@@ -1,0 +1,6 @@
+Non-monotonous accelerated parallel subgradient projection algorithm for convex feasibility problem
+ Yazheng   Dang ; Yan   Gao ;
+Abstract
+ The usual projection methods for solving convex feasibility problem (CFP) may lead to slow convergence for some starting points due to the ‘tunnelling effect’, which is connected with the monotone behaviour of the sequence and the exact orthogonal projection used in algorithms. To overcome the effect, in this article, we apply the non-monotonous technique to the subgradient projection algorithm, instead of the exact orthogonal projection algorithm, to construct a non-monotonous parallel subgradient projection algorithm for solving CFP. Under some mild conditions, the convergence is shown. Preliminary numerical experiments also show that the proposed algorithm converges faster than that of the monotonous algorithm. 
+Keywords
+convex feasibility problem, subgradient, nonsmoothness, non-monotonous techniqueAMS Subject Classifications:: 49M37, 90C25, 90C90 

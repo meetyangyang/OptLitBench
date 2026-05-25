@@ -1,0 +1,6 @@
+Solving infinite horizon optimization problems through analysis of a one-dimensional global optimization problem
+Seksan Kiatsupaibul;Robert L. Smith;Zelda B. Zabinsky;
+Abstract
+Infinite horizon optimization (IHO) problems present a number of challenges for their solution, most notably, the inclusion of an infinite data set. This hurdle is often circumvented by approximating its solution by solving increasingly longer finite horizon truncations of the original infinite horizon problem. In this paper, we adopt a novel transformation that reduces the infinite dimensional IHO problem into an equivalent one dimensional optimization problem, i.e., minimizing a Hölder continuous objective function with known parameters over a closed and bounded interval of the real line. We exploit the characteristics of the transformed problem in one dimension and introduce an algorithm with a graphical implementation for solving the underlying infinite dimensional optimization problem.
+Keywords
+Infinite horizon optimization  Dynamic programming   Nonlinear programming  Hölder and Lipschitz continuous functions  

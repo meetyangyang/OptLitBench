@@ -1,0 +1,6 @@
+Probability of failure sensitivity with respect to decision variables
+Sylvain Lacaze;Loïc Brevault;Samy Missoum;Mathieu Balesdent;
+Abstract
+This note introduces a derivation of the sensitivities of a probability of failure with respect to decision variables. For instance, the gradient of the probability of failure with respect to deterministic design variables might be needed in RBDO. These sensitivities might also be useful for Uncertainty-based Multidisciplinary Design Optimization. The difficulty stems from the dependence of the failure domain on variations of the decision variables. This dependence leads to a derivative of the indicator function in the form of a Dirac distribution in the expression of the sensitivities. Based on an approximation of the Dirac, an estimator of the sensitivities is analytically derived in the case of Crude Monte Carlo first and Subset Simulation. The choice of the Dirac approximation is discussed.
+Keywords
+Probability of failure  Sensitivity  Decision variables  

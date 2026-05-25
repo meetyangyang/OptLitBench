@@ -1,0 +1,6 @@
+Design of compliant mechanism using hyper radial basis function network and reanalysis formulation
+Aditya P. Apte;Bo Ping Wang;
+Abstract
+The design of compliant mechanisms often involves multiple minima. Since non-gradient type global optimization techniques cannot handle as many design variables as the commonly used, gradient based SIMP method, a hyper radial basis function network is used in this paper for Particle Swarm Optimization. An exact reanalysis formulation is presented which computes the strain energy from the solution of the mutual energy problem. The design of motion inverter is presented to demonstrate the proposed approach. The use of hyper radial basis function network results in checkerboard-free, smooth topology using very crude finite element analysis mesh, whereas the reanalysis formulation cuts down the analysis time into half. Thus the design process is made computationally efficient and less dependent on human interpretation of the optimal topology.
+Keywords
+Compliant mechanism  Global optimal solution  Reanalysis formulation  

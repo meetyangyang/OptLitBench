@@ -1,0 +1,6 @@
+New general guidance method in constrained optimal control, part 1: Numerical method
+B. Kugelmann;H. J. Pesch;
+Abstract
+A very fast numerical method is developed for the computation of neighboring optimum feedback controls. This method is applicable to a general class of optimal control problems (for example, problems including inequality constraints and discontinuities) and needs no on-line computation, except for one matrix-vector multiplication. The method is based on the so-called accessory minimum problem. The necessary conditions for this auxiliary optimal control problem form a linear multipoint boundary-value problem with linear jump conditions, which is especially well suited for numerical treatment. In the second part of this paper, the performance of the guidance scheme is shown for the heating-constrained cross-range maximization problem of a space-shuttle-orbiter-type vehicle.
+Keywords
+Neighboring extremals  accessory minimum problem  feedback controls  closed-loop controls  inequality constraints  multiple shooting  

@@ -1,0 +1,6 @@
+Inexact Variants of the Proximal Point Algorithm without Monotonicity
+A. N.  Iusem, T.  Pennanen., and B. F.  Svaiter;
+Abstract
+This paper studies convergence properties of inexact variants of the proximal point algorithm when applied to a certain class of nonmonotone mappings. The presented algorithms allow for constant relative errors, in the line of the recently proposed hybrid proximal-extragradient algorithm. The main convergence result extends a recent work of the second author, where exact solutions for the proximal subproblems were required. We also show that the linear convergence property is preserved in the case when the inverse of the operator is locally Lipschitz continuous near the origin. As an application, we give a convergence analysis for an inexact version of the proximal method of multipliers for a rather general family of problems which includes variational inequalities and constrained optimization problems.
+Keywords
+proximal point algorithms, inexact iterates, hybrid proximal-extragradient algorithms, hypomonotone operators, multiplier methods, 90C25, 90C30, 

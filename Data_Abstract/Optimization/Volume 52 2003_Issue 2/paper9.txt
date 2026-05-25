@@ -1,0 +1,6 @@
+A Greedy Algorithm for Capacitated Lot-Sizing Problems
+ Eberhard   Girlich ; Michael   Höding ; Alexander   Zaporozhets ; Sergei   Chubanov ;
+Abstract
+ We show that the convex hull of the set of feasible solutions of single-item capacitated lot-sizing problem (CLSP) is a base polyhedron of a polymatroid. We present a greedy algorithm to solve CLSP with linear objective function. The proposed algorithm is an effective implementation of the classical Edmonds' algorithm for maximizing linear function over a polymatroid. We consider some special cases of CLSP with nonlinear objective function that can be solved by the proposed greedy algorithm in O ( n ) time. 
+Keywords
+Lot-sizing Problem, Greedy Algorithm, Polymatroid 

@@ -1,0 +1,6 @@
+A class of distributed optimization methods with event-triggered communication
+Martin Meinel;Michael Ulbrich;Sebastian Albrecht;
+Abstract
+We present a class of methods for distributed optimization with event-triggered communication. To this end, we extend Nesterov’s first order scheme to use event-triggered communication in a networked environment. We then apply this approach to generalize the proximal center algorithm (PCA) for separable convex programs by Necoara and Suykens. Our method uses dual decomposition and applies the developed event-triggered version of Nesterov’s scheme to update the dual multipliers. The approach is shown to be well suited for solving the active optimal power flow (DC-OPF) problem in parallel with event-triggered and local communication. Numerical results for the IEEE 57 bus and IEEE 118 bus test cases confirm that approximate solutions can be obtained with significantly less communication while satisfying the same accuracy estimates as solutions computed without event-triggered communication.
+Keywords
+Distributed optimization  Convex optimization  Non-differentiable optimization  Dual decomposition  Distributed regularization  Local communication  Event-triggered communication  DC-OPF problem  IEEE test cases  

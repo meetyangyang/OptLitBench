@@ -1,0 +1,6 @@
+Multi-funnel optimization using Gaussian underestimation
+Roummel F. Marcia;Julie C. Mitchell;J. Ben Rosen;
+Abstract
+In several applications, underestimation of functions has proven to be a helpful tool for global optimization. In protein–ligand docking problems as well as in protein structure prediction, single convex quadratic underestimators have been used to approximate the location of the global minimum point. While this approach has been successful for basin-shaped functions, it is not suitable for energy functions with more than one distinct local minimum with a large magnitude. Such functions may contain several basin-shaped components and, thus, cannot be underfitted by a single convex underestimator. In this paper, we propose using an underestimator composed of several negative Gaussian functions. Such an underestimator can be computed by solving a nonlinear programming problem, which minimizes the error between the data points and the underestimator in the L 1 norm. Numerical results for simulated and actual docking energy functions are presented.
+Keywords
+Gaussian functions  Underestimators  Nonlinear programming  Protein docking  

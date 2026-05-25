@@ -1,0 +1,6 @@
+Fast higher-order derivative tensors with Rapsodia
+ I.   Charpentier ; J.   Utke ;
+Abstract
+ A number of practical problems in physics can be solved by using accurate higher-order derivatives. Such derivatives can be obtained with automatic differentiation. However, one has to be concerned with the complexity of computing higher-order derivative tensors even for a modest order and number of independents. Initial experiments using univariate Taylor polynomials with interpolation and operator overloading with unrolled loops showed better runtimes than using other automatic differentiation tools. Motivated by these results, we developed the Rapsodia code generator that produces Fortran and C++libraries for the most common intrinsics. Here we explain the algorithmic approach, implementation, and present test results on a select set of applications. Further details on the Rapsodia tool, and an example for user extensions are given in the Appendix. 
+Keywords
+higher-order derivatives, automatic differentiation, code generator AMS Subject Classification : 46G05, 68N19, 65-04, 65Z05 

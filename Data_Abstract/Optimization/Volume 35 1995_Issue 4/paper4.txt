@@ -1,0 +1,6 @@
+A Primal-dual affine scaling algorithm with necessary centering as a safeguard
+ Gongyun.   Zhao ; Jie.   Sun ; Jishan.   Zhu ;
+Abstract
+ An interior point algorithm for linear programming is proposed and analysed. At each iteration this algorithm finds a point in a wide neighborhood along a primal-dual affine scaling direction, and it adds a centering step only if the step along the affine scaling direction is too short. Moreover, the centering direction is computed with the old projection matrix which was obtained in the computation of the affine scaling direction. The best complexity upper bound to date is achieved by this algorithm  
+Keywords
+Complexity, linear programming, interior point method, predictor-corrector algorithm 

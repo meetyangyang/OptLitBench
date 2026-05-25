@@ -1,0 +1,6 @@
+Uniformly exponentially or polynomially stable approximations for second order evolution equations and some applications
+Farah Abdallah1,*, Serge Nicaise2, Julie Valein3 and Ali Wehbe4;
+Abstract
+In this paper, we consider the approximation of second order evolution equations. It is well known that the approximated system by finite element or finite difference is not uniformly exponentially or polynomially stable with respect to the discretization parameter, even if the continuous system has this property. Our goal is to damp the spurious high frequency modes by introducing numerical viscosity terms in the approximation scheme. With these viscosity terms, we show the exponential or polynomial decay of the discrete scheme when the continuous problem has such a decay and when the spectrum of the spatial operator associated with the undamped problem satisfies the generalized gap condition. By using the Trotter–Kato Theorem, we further show the convergence of the discrete solution to the continuous one. Some illustrative examples are also presented.
+Keywords
+Stability, wave equation, numerical approximation

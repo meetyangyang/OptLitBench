@@ -1,0 +1,6 @@
+Approximate Maximum Likelihood Estimation of Circle Parameters
+Y. T. Chan;B. H. Lee;S. M. Thomas;
+Abstract
+The estimation of a circle’s centre and radius from a set of noisy measurements of its circumference has many applications. It is a problem of fitting a circle to the measurements and the fit can be in algebraic or geometric distances. The former gives linear equations, while the latter yields nonlinear equations. Starting from estimation theory, this paper first proves that the maximum likelihood (ML), i.e., the optimal estimation of the circle parameters, is equivalent to the minimization of the geometric distances. It then derives a pseudolinear set of ML equations whose coefficients are functions of the unknowns. An approximate ML algorithm updates the coefficients from the previous solution and selects the solution that gives the minimum cost. Simulation results show that the ML algorithm attains the Cramer-Rao lower bound (CRLB) for arc sizes as small as 90°. For arc sizes of 15° and 5° the ML algorithm errors are slightly above the CRLB, but lower than those of other linear estimators.
+Keywords
+Circle fitting  nonlinear estimation  maximum likelihood function  

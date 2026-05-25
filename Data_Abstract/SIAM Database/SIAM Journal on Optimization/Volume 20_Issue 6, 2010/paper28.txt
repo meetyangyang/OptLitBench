@@ -1,0 +1,6 @@
+A Primal-Dual Exterior Point Method for Nonlinear Optimization
+Hiroshi  Yamashita and Takahito  Tanabe;
+Abstract
+In this paper, primal-dual methods for general nonconvex nonlinear optimization problems are considered. The proposed methods are exterior point type methods that permit primal variables to violate inequality constraints during the iterations. The methods are based on the exact penalty type transformation of inequality constraints and use a smooth approximation of the problem to form primal-dual iteration based on Newton's method as in usual primal-dual interior point methods. Global convergence and local superlinear/quadratic convergence of the proposed methods are proved. For global convergence, methods using line searches and trust region type searches are proposed. The trust region type method is tested with CUTEr problems and is shown to have similar efficiency to the primal-dual interior point method code IPOPT. It is also shown that the methods can be warm started easily, unlike interior point methods, and that the methods can be efficiently used in parametric programming problems.
+Keywords
+primal-dual method, exterior point method, warm start, parametric programming, 49M37, 90C30, 

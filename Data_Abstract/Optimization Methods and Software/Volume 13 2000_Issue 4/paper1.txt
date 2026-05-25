@@ -1,0 +1,6 @@
+Penalty/Barrier multiplier algorthm for semidefinit programming ∗  
+ Leonid   Mosheyev ; Zibulevsky   Michael ;
+Abstract
+ We present a generalization of the Penalty/Barrier Multiplier algorithm for semidefinite programming, based on a matrix form of Lagrange multipliers. Our approach allows to use among others logarithmic, shifted logarithmic, exponential and a very effective quadratic-logarithmic penalty/Barrier functions. We present a dual analysis of the method, based on its correspondence to a proximal point algorithm with a nonquadratic distance-like function. We give computationally tractable dual bounds, which are produced by the Legendre transformation of the penalty function. Numerical results for large-scale problems from robust control, robust truss topology design and free material design demonstrate high efficiency of the algorithm  
+Keywords
+Semidefinite Programming, Method of Multipliers, Augmented Lagrangian 

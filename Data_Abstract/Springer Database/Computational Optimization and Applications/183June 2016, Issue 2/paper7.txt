@@ -1,0 +1,6 @@
+On how to solve large-scale log-determinant optimization problems
+Chengjing Wang;
+Abstract
+We propose a proximal augmented Lagrangian method and a hybrid method, i.e., employing the proximal augmented Lagrangian method to generate a good initial point and then employing the Newton-CG augmented Lagrangian method to get a highly accurate solution, to solve large-scale nonlinear semidefinite programming problems whose objective functions are a sum of a convex quadratic function and a log-determinant term. We demonstrate that the algorithms can supply a high quality solution efficiently even for some ill-conditioned problems.
+Keywords
+Quadratic programming  Log-determinant optimization problem  Proximal augmented Lagrangian method  Augmented Lagrangian method  Newton-CG method  

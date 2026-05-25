@@ -1,0 +1,6 @@
+Cut search methods in integer programming
+Fred Glover;
+Abstract
+Cut search is a new approach for solving integer programs based on extending edges of a cone to probe the solution space for sets of hyperplanes that are “proxies” for solution points in the space. Once all proxy hyperplanes associated with a given point have been intersected by at least one of the extended edges, this point is included in a set of points to be examined for feasibility (algorithmically or by inspection). Thereupon, all edges of the cone are extended an additional distance to create a cut by passing a hyperplane through the endpoints of these extended edges.
+Keywords
+Coordinate System  Endpoint  Mathematical Method  Search Method  Solution Space  

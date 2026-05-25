@@ -1,0 +1,6 @@
+An algorithm for generating optimal constrained one-stage homogenous strip cutting patterns
+ Yaodong   Cui ; Yuli   Yang ;
+Abstract
+ The cutting and stamping process is often used to divide a stock plate into items to make products. It includes two phases. A guillotine machine cuts the plate orthogonally into homogenous strips at the cutting phase; then a stamping press stamps out the items from the strips at the stamping phase. A homogenous strip contains items of the same type. A one-stage homogenous strip cutting pattern (OSHSCP) contains parallel homogenous strips of the same length. The OSHSCP is useful because it can be used independently or as elements to compose other types of cutting patterns. This article presents a dynamic programming algorithm for generating the optimal constrained OSHSCP, where the maximum demand for each item type is specified and the objective is to maximize the total value of items included in the pattern. The computational results indicate that the computation time is reasonable. 
+Keywords
+cutting stock, two-dimensional cutting, homogenous strips 

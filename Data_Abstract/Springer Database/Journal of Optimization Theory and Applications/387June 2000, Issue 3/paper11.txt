@@ -1,0 +1,6 @@
+Heuristic and Exact Algorithms for the Precedence-Constrained Knapsack Problem
+N. Samphaiboon;Y. Yamada;
+Abstract
+The knapsack problem (KP) is generalized taking into account a precedence relation between items. Such a relation can be represented by means of a directed acyclic graph, where nodes correspond to items in a one-to-one way. As in ordinary KPs, each item is associated with profit and weight, the knapsack has a fixed capacity, and the problem is to determine the set of items to be included in the knapsack. However, each item can be adopted only when all of its predecessors have been included in the knapsack. The knapsack problem with such an additional set of constraints is referred to as the precedence-constrained knapsack problem (PCKP). We present some dynamic programming algorithms that can solve small PCKPs to optimality, as well as a preprocessing method to reduce the size of the problem. Combining these, we are able to solve PCKPs with up to 2000 items in less than a few minutes of CPU time.
+Keywords
+combinatorial optimization  dynamic programming  knapsack problem  precedence constraints  

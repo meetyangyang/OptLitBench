@@ -1,0 +1,6 @@
+Optimal material properties for transient problems
+S. Turteltaub;
+Abstract
+The aim of this article is to analyze the problem of optimizing material properties within the context of a time-dependent problem. The objective is to minimize the difference between the actual values of a field variable and a desired “target” distribution after a prescribed time T. The field variable is related to a transient physical phenomenon with given initial and boundary conditions. The time-independent material properties are taken as the design variables. For simplicity, only the case of transient heat conduction is analyzed, though the method can be naturally extended to elastodynamics. Examples and test cases are solved numerically for different types of boundary conditions and target functions using a scaled-gradient method. The scaling function serves the purpose of satisfying constraints, but can also be used as an implicit penalty formulation to obtain optimal topologies by introducing an additional bias in the scaling. Its performance is compared to the unbiased method.
+Keywords
+Key words: transient problems, time-dependence, material properties, heat conduction, SIMP method  

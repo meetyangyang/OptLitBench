@@ -1,0 +1,6 @@
+Analysis of a Cutting Plane Method That Uses Weighted Analytic Center and Multiple Cuts
+Zhi-Quan  Luo;
+Abstract
+We consider the analytic center cutting plane (or column generation) algorithm for solving general convex problems defined by a separation oracle. The oracle is called at an approximate analytic center of a polytope which contains the solution set and is given by the intersection of the linear inequalities previously generated from the oracle. If the approximate center is not in the solution set, separating hyperplanes will be placed through the approximate center, and a new approximate analytic center will be found for the shrunken polytope. In this paper, we consider using approximate weighted analytic centers in the cutting plane method and show that the method, with multiple cuts added in each step, has a complexity of $O(\eta m^2/\epsilon^2)$, where $\eta$ is the maximum number of cuts that can be added in each step and m is the dimension of the problem.
+Keywords
+convex feasibility problem, analytic center, potential reduction, column generation, cutting planes, 90C25, 90C26, 90C60, 

@@ -1,0 +1,6 @@
+Truncated aggregate homotopy method for nonconvex nonlinear programming
+Y. Xiao;H.J. Xiong;B. Yu;
+Abstract
+In this paper, an efficient implementation of aggregate homotopy method for nonconvex nonlinear programming problems is proposed. Adopting truncated aggregate technique, only a small subset of the constraints is aggregated at each iteration, hence the number of gradient and Hessian calculations is reduced dramatically. The subset is adaptively updated with some cheaply implementable truncating criterions, to guarantee the locally quadratic convergence of the correction process with as few computation cost as possible. Numerical tests with comparison to some other methods show that the new method is very efficient, especially for the problems with large amount of constraints and {computationally expensive} gradients or Hessians.
+Keywords
+nonlinear programming, nonconvex programming, truncated aggregate function, aggregate homotopy methodKeywords: 90C34, 90C46, 49J52, 90C51, 90C90 

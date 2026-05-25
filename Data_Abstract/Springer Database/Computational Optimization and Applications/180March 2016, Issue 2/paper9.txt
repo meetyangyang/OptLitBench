@@ -1,0 +1,6 @@
+Reliable updates of the transformation in the iterative closest point algorithm
+Per Bergström;
+Abstract
+The update of the rigid body transformation in the iterative closest point (ICP) algorithm is considered. The ICP algorithm is used to solve surface registration problems where a rigid body transformation is to be found for fitting a set of data points to a given surface. Two regions for constraining the update of the rigid body transformation in its parameter space to make it reliable are introduced. One of these regions gives a monotone convergence with respect to the value of the mean square error and the other region gives an upper bound for this value. Point-to-plane distance minimization is then used to obtain the update of the transformation such that it satisfies the used constraint.
+Keywords
+Convergence  Iterative closest point  Point-to-plane  Point-to-point  Registration  

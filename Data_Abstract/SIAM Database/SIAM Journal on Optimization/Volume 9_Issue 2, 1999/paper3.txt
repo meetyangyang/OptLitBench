@@ -1,0 +1,6 @@
+Estimates for the Nash--Sofer Preconditioner for the Reduced Hessian for Some Elliptic Variational Inequalities
+T. D.  Choi and C. T.  Kelley;
+Abstract
+The purpose of this paper is to present a class of examples to show how the quality of the Nash--Sofer preconditioner can be directly estimated. This class of examples includes certain discretized elliptic variational inequalities. We use sparsity and locality properties of discretizations of elliptic operators and smoothing properties of their inverses to estimate the quality of the preconditioner. One consequence of our results is that if the Hessian is the five-point discretization of a certain type of strongly elliptic operator with homogeneous Dirichlet boundary conditions on an $n \times n$ mesh and the preconditioner is a fast Poisson solver for that discretization, then the condition number of the reduced Hessian can be lowered from O(n2 ) to O(n ln(n)). We illustrate these theoretical results with calculations.
+Keywords
+preconditioners, reduced Hessian, elliptic variational inequalities, 65J15, 65J10, 65K05, 65K10, 65N22, 

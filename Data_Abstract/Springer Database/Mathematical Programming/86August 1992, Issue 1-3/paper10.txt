@@ -1,0 +1,6 @@
+A globally and quadratically convergent affine scaling method for linearℓ1 problems
+Thomas F. Coleman;Yuying Li;
+Abstract
+Recently, various interior point algorithms related to the Karmarkar algorithm have been developed for linear programming. In this paper, we first show how this “interior point” philosophy can be adapted to the linear ℓ1 problem (in which there are no feasibility constraints) to yield a globally and linearly convergent algorithm. We then show that the linear algorithm can be modified to provide aglobally and ultimatelyquadratically convergent algorithm. This modified algorithm appears to be significantly more efficient in practise than a more straightforward interior point approach via a linear programming formulation: we present numerical results to support this claim.
+Keywords
+65H10  65K05  65K10  Linearℓ1 estimation  linear programming  interior-point algorithm  simplex method  least absolute value regression  affine scaling method  Karmarkar  

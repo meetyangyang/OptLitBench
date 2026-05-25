@@ -1,0 +1,8 @@
+An alternative approach for non-linear optimal control problems based on the method of moments
+René Meziat;Diego Patiño;Pablo Pedregal;
+Abstract
+
+We propose an alternative method for computing effectively the solution of non-linear, fixed-terminal-time, optimal control problems when they are given in Lagrange, Bolza or Mayer forms. This method works well when the nonlinearities in the control variable can be expressed as polynomials. The essential of this proposal is the transformation of a non-linear, non-convex optimal control problem into an equivalent optimal control problem with linear and convex structure. The method is based on global optimization of polynomials by the method of moments. With this method we can determine either the existence or lacking of minimizers. In addition, we can calculate generalized solutions when the original problem lacks of minimizers. We also present the numerical schemes to solve several examples arising in science and technology.
+
+Keywords
+Optimal control  Moments method  Semidefinite programming  

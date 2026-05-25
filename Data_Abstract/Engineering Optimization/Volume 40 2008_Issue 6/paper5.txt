@@ -1,0 +1,6 @@
+VLSI floorplan repair using dynamic white-space management, constraint graphs, and linear programming
+ Kristoffer   Vorwerk ; Andrew   Kennings ; Miguel   F.   Anjos ;
+Abstract
+ In VLSI layout, floorplanning refers to the task of placing macrocells on a chip without overlap while minimizing design objectives such as timing, congestion, and wire length. Experienced VLSI designers have traditionally been able to produce more efficient floorplans than automated methods. However, with the increasing complexity of modern circuits, manual design flows have become infeasible. An efficient top-down strategy for overlap removal which repairs overlaps in floorplans produced by placement algorithms or rough floorplanning methodologies is presented in this article. The algorithmic framework proposed incorporates a novel geometric shifting technique coupled with topological constraint graphs and linear programming within a top-down flow. The effectiveness of this framework is quantified across a broad range of floorplans produced by multiple tools. The method succeeds in producing valid placements in almost all cases; moreover, compared with leading methods, it requires only one-fifth of the run-time and produces placements with 4–13% less wire length and up to 43% less cell movement. 
+Keywords
+VLSI layout, floorplanning, placement, facilities planning and design 

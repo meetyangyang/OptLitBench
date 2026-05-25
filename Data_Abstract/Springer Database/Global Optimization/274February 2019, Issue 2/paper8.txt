@@ -1,0 +1,6 @@
+An inexact splitting method for the subspace segmentation from incomplete and noisy observations
+Renli Liang;Yanqin Bai;Hai Xiang Lin;
+Abstract
+Subspace segmentation is a fundamental issue in computer vision and machine learning, which segments a collection of high-dimensional data points into their respective low-dimensional subspaces. In this paper, we first propose a model for segmenting the data points from incomplete and noisy observations. Then, we develop an inexact splitting method for solving the resulted model. Moreover, we prove the global convergence of the proposed method. Finally, the inexact splitting method is implemented on the clustering problems in synthetic and benchmark data, respectively. Numerical results demonstrate that the proposed method is computationally efficient, robust as well as more accurate compared with the state-of-the-art algorithms.
+Keywords
+Subspace segmentation  Low rank representation  Inexact augmented Lagrange multiplier method  65K05  90C25  90C30  94A08  

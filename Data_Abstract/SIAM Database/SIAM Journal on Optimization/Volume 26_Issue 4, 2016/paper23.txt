@@ -1,0 +1,6 @@
+A Convex Matrix Optimization for the Additive Constant Problem in Multidimensional Scaling with Application to Locally Linear Embedding
+Hou-Duo  Qi;
+Abstract
+The additive constant problem has a long history in multidimensional scaling and it has recently been used to resolve the issue of indefiniteness of the geodesic distance matrix in ISOMAP. But it would lead to a large positive constant being added to all eigenvalues of the centered geodesic distance matrix, often causing significant distortion of the original distances. In this paper, we reformulate the problem as a convex  optimization of almost negative semidefinite matrix so as to achieve minimal variation of the original distances. We then develop a Newton-CG method and further prove its quadratic convergence. Finally, we include a novel application to the famous LLE (locally linear embedding in nonlinear dimensionality reduction), addressing the issue when the input of LLE has missing values. We justify the use of the developed method to tackle this issue by establishing that the local Gram matrix used in LLE can be obtained through a local Euclidean distance matrix. The effectiveness of our method is demonstrated by numerical experiments.
+Keywords
+Euclidean distance matrix, semismooth Newton method, quadratic convergence, dimensionality reduction, LLE, 49M45, 90C25, 90C33, 

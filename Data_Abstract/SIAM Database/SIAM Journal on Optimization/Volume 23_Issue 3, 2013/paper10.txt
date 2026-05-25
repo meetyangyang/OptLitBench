@@ -1,0 +1,6 @@
+Accelerated and Inexact Forward-Backward Algorithms
+Silvia  Villa, Saverio  Salzo, Luca  Baldassarre, and Alessandro  Verri;
+Abstract
+We propose a convergence analysis of accelerated forward-backward splitting methods for  composite function minimization, when the proximity operator is not available in closed form, and can only be computed up to a certain precision. We prove that the  $1/k^2$ convergence rate for the function values can be achieved if the admissible errors are of a certain type and satisfy a sufficiently fast decay condition. Our analysis is based on the machinery of estimate sequences  first introduced by Nesterov for the study of accelerated gradient descent algorithms. Furthermore, we  give a global complexity analysis, taking into account the cost of computing admissible approximations of the proximal point. An experimental analysis is also presented.
+Keywords
+convex optimization, accelerated forward-backward splitting, inexact proximity operator, estimate sequences, total variation, 90C25, 49M07, 65K10, 94A08, 

@@ -1,0 +1,6 @@
+On recursive computation of minimum spanning trees for special partial graphs
+   G.   Scheithauer ;
+Abstract
+ Let G = (E N) be an undirected graph and T be a minimum spanning tree. If one edge e of T is removed from G then a new minimum spanning tree Te  can be obtained from T recursively. In this paper an algorithm is proposed to determine n— 1 =card (T) new minimum spanning trees Te , one for each edge e, of T. with a total expense of O (card (N)2) computational operations. In addition an application to the symmetric traveling salesman problem is given.  
+Keywords
+Graph theory, undirected graphs, computation of minimum spanning trees, traveling salesman problemAMS 1980 Subject Classifications: Primary: 05C20, Secondary: 94C15 

@@ -1,0 +1,6 @@
+The Value Iteration Algorithm in Risk-Sensitive Average Markov Decision Chains with Finite State Space
+Rolando Cavazos-Cadena;Raúl Montes-de-Oca;
+Abstract
+This work concerns discrete-time Markov decision chains with finite state space and bounded costs. The controller has constant risk sensitivity λ, and the performance of a control policy is measured by the corresponding risk-sensitive average cost criterion. Assuming that the optimality equation has a solution, it is shown that the value iteration scheme can be implemented to obtain, in a finite number of steps, (1) an approximation to the optimal λ-sensitive average cost with an error less than a given tolerance, and (2) a stationary policy whose performance index is arbitrarily close to the optimal value. The argument used to establish these results is based on a modification of the original model, which is an extension of a transformation introduced by Schweitzer (1971) to analyze the the risk-neutral case.
+Keywords
+Successive approximations method Schweitzer's transformation risk-sensitive average optimality equation stopping rule for the value iteration scheme 

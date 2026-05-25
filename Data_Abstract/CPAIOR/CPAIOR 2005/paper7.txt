@@ -1,0 +1,4 @@
+The tree Constraint
+Nicolas Beldiceanu;Pierre Flener;Xavier Lorca;
+Abstract
+This article presents an arc-consistency algorithm for the tree constraint, which enforces the partitioning of a digraph \(\mathcal{G}\) = (\(\mathcal{V},\mathcal{E}\)) into a set of vertex-disjoint anti-arborescences. It provides a necessary and sufficient condition for checking the tree constraint in \(\mathcal{O}(|\mathcal{V}| + |\mathcal{E}|)\) time, as well as a complete filtering algorithm taking \(\mathcal{O}(|\mathcal{V}| \cdot |\mathcal{E}|)\) time.

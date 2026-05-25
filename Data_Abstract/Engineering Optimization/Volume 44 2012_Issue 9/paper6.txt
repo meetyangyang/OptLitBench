@@ -1,0 +1,6 @@
+Handling high-dimensional problems with multi-objective continuation methods via successive approximation of the tangent space
+ Maik   Ringkamp ; Sina   Ober-Blöbaum ; Michael   Dellnitz ; Oliver   Schütze ;
+Abstract
+ In many applications, several conflicting objectives have to be optimized concurrently leading to a multi-objective optimization problem. Since the set of solutions, the so-called Pareto set, typically forms a (k−1)-dimensional manifold, where k is the number of objectives considered in the model, continuation methods such as predictor–corrector (PC) methods are in certain cases very efficient tools for rapidly computing a finite size representation of the set of interest. However, their classical implementation leads to trouble when considering higher-dimensional models (i.e. for dimension n>1000 of the parameter space). In this work, it is proposed to perform a successive approximation of the tangent space which allows one to find promising predictor points with less effort in particular for high-dimensional models since no Hessians of the objectives have to be calculated. The applicability of the resulting PC variant is demonstrated on a benchmark model for up to n=100, 000 parameters. 
+Keywords
+multi-objective optimization, continuation, tangent space approximation, high-dimensional problems 

@@ -1,0 +1,8 @@
+Further development of multiple centrality correctors for interior point methods
+Marco Colombo;Jacek Gondzio;
+Abstract
+
+This paper addresses the role of centrality in the implementation of interior point methods. We provide theoretical arguments to justify the use of a symmetric neighbourhood, and translate them into computational practice leading to a new insight into the role of re-centering in the implementation of interior point methods. Second-order correctors, such as Mehrotra’s predictor–corrector, can occasionally fail: we derive a remedy to such difficulties from a new interpretation of multiple centrality correctors. Through extensive numerical experience we show that the proposed centrality correcting scheme leads to noteworthy savings over second-order predictor–corrector technique and previous implementations of multiple centrality correctors.
+
+Keywords
+Implementation of interior point methods  Symmetric neighbourhood  Multiple centrality correctors  Higher order methods  

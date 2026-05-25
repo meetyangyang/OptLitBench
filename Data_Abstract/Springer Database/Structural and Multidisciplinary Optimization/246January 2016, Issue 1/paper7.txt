@@ -1,0 +1,6 @@
+Dynamic response topology optimization in the time domain using model reduction method
+Junpeng Zhao;Chunjie Wang;
+Abstract
+The dynamic response topology optimization problems are usually computationally expensive, so it is necessary to employ the model reduction methods to reduce computational cost. This work will investigate the effectiveness of the mode displacement method(MDM) and mode acceleration method(MAM) for time-domain response problems within the framework of density-based topology optimization. Three objective functions, the mean dynamic compliance, mean strain energy and mean squared displacement are considered. It is found that, in general cases, MDM is not suitable for time-domain response topology optimization problems due to its low accuracy of approximation, while MAM works well for problems of a wide range, and when there are many time steps, the MAM based topology optimization approach is more efficient than the direct integration based approach. So for practical applications, when the problem needs many time steps, the MAM based approach is preferred and otherwise, the direct integration based approach is suggested.
+Keywords
+Dynamic response  Topology optimization  Mode displacement method  Mode acceleration method  

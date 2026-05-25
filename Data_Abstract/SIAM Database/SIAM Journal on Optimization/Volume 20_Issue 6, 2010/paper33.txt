@@ -1,0 +1,6 @@
+Trace Norm Regularization: Reformulations, Algorithms, and Multi-Task Learning
+Ting Kei  Pong, Paul  Tseng, Shuiwang  Ji, and Jieping  Ye;
+Abstract
+We consider a recently proposed optimization formulation of multi-task learning based on trace norm regularized least squares. While this problem may be formulated as a semidefinite program (SDP), its size is beyond general SDP solvers. Previous solution approaches apply proximal gradient methods to solve the primal problem. We derive new primal and dual reformulations of this problem, including a reduced dual formulation that involves minimizing a convex quadratic function over an operator-norm ball in matrix space. This reduced dual problem may be solved by gradient-projection methods, with each projection involving a singular value decomposition. The dual approach is compared with existing approaches and its practical effectiveness is illustrated on simulations and an application to gene expression pattern analysis.
+Keywords
+multi-task learning, gene expression pattern analysis, trace norm regularization, convex optimization, duality, semidefinite programming, proximal gradient method, 90C06, 90C22, 90C25, 90C90, 92D20, 

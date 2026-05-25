@@ -1,0 +1,6 @@
+Large Step Path-Following Methods for Linear Programming, Part II: Potential Reduction Method
+Clovis C.  Gonzaga;
+Abstract
+The algorithm proposed in this paper is the affine polynomial potential reduction method, with new procedures for updating the lower bounds for an optimal solution of the linear programming problem. A method is developed for updating the lower bounds by large steps, with strict control over the duality gaps associated with each iterate. Two algorithms are obtained by this approach: the first one has complexity $O(nL)$ iterations, and a very simple updating procedure; the second one updates the lower bounds at points very near the central trajectory and achieves a complexity of $O(\sqrt{n} L)$ iterations.
+Keywords
+interior point methods, linear programming, potential reduction methods, Karmarkar’s algorithm, 49D, 

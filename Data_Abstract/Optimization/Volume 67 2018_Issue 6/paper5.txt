@@ -1,0 +1,6 @@
+Outer-approximation algorithms for nonsmooth convex MINLP problems
+A. Delfino;W. de Oliveira;
+Abstract
+In this work, we combine outer-approximation (OA) and bundle method algorithms for dealing with mixed-integer non-linear programming (MINLP) problems with nonsmooth convex objective and constraint functions. As the convergence analysis of OA methods relies strongly on the differentiability of the involved functions, OA algorithms may fail to solve general nonsmooth convex MINLP problems. In order to obtain OA algorithms that are convergent regardless the structure of the convex functions, we solve the underlying OA’s non-linear subproblems by a specialized bundle method that provides necessary information to cut off previously visited (non-optimal) integer points. This property is crucial for proving (finite) convergence of OA algorithms. We illustrate the numerical performance of the given proposal on a class of hybrid robust and chance-constrained problems that involve a random variable with finite support.
+Keywords
+Mixed-integer programming, nonsmooth optimization, chance-constrained programming 

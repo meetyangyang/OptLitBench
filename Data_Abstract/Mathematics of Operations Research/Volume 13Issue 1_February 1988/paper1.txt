@@ -1,0 +1,6 @@
+Probabilistic Analysis of a Relaxation for the k-Median Problem
+Sang Ahn;Colin Cooper;Gérard Cornuéjols;Alan Frieze;
+Abstract
+This paper provides a probabilistic analysis of the so-called “strong” linear programming relaxation of the k-median problem when the number of points, say n, goes to infinity. The analysis is performed under four classical models in location theory, the Euclidean, network, tree and uniform cost models. For example, we show that, for the Euclidean model and k → ∞, k = o(n/log n), the value of the relaxation is almost surely within 0.3 percent of the optimum k-median value. For the uniform cost model and the same conditions on k, we show that the value of the relaxation is almost surely 50 percent of the optimum k-median value. We also show that, under various assumptions, branch and bound algorithms that use the strong linear programming relaxation as a bound must almost surely expand a nonpolynomial number of nodes to solve the k-median problem to optimality. Finally, we report extensive computational experiments. As predicted by the probabilistic analysis, the relaxation was not as tight for the problem instances drawn from the uniform cost model as for the other models.
+Keywords
+probabilistic analysis location k-median problem branch and bound algorithm 

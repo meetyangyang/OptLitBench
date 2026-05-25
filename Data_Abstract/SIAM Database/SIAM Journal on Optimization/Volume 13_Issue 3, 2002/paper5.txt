@@ -1,0 +1,6 @@
+Active Sets, Nonsmoothness, and Sensitivity
+A. S.  Lewis;
+Abstract
+Nonsmoothness pervades optimization, but the way it typically arises is highly structured. Nonsmooth behavior of an objective function is usually associated, locally, with an active manifold: on this manifold the function is smooth, whereas in normal directions it is "vee-shaped." Active set ideas in optimization depend heavily on this structure. Important examples of such functions include the pointwise maximum of some smooth functions and the maximum eigenvalue of a parametrized symmetric matrix. Among possible foundations for practical nonsmooth optimization, this broad class of "partly smooth" functions seems a promising candidate, enjoying a powerful calculus and sensitivity theory. In particular, we show under a natural regularity condition that critical points of partly smooth functions are stable: small perturbations to the function cause small movements of the critical point on the active manifold.
+Keywords
+active set, nonsmooth analysis, subdifferential, generalized gradient, sensitivity, \mbox${\cal U}$-Lagrangian, eigenvalue optimization, spectral abscissa, identifiable surface, 90C31, 49K40, 65K10, 15A42, 

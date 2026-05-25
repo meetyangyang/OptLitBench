@@ -1,0 +1,6 @@
+Finite master programs in regularized stochastic decomposition
+Julia L. Higle;Suvrajeet Sen;
+Abstract
+Stochastic decomposition is a stochastic analog of Benders' decomposition in which randomly generated observations of random variables are used to construct statistical estimates of supports of the objective function. In contrast to deterministic Benders' decomposition for two stage stochastic programs, the stochastic version requires infinitely many inequalities to ensure convergence. We show that asymptotic optimality can be achieved with a finite master program provided that a quadratic regularizing term is included. Our computational results suggest that the elimination of the cutting planes impacts neither the number of iterations required nor the statistical properties of the terminal solution.
+Keywords
+Stochastic programming  Decomposition  Cutting plane methods  

@@ -1,0 +1,6 @@
+Self-calibration for kinematic parameters of a redundant planar two-degree-of-freedom parallel manipulator using evolutionary algorithms
+ Chunshi   Feng ; Shuang   Cong ; He   Shan ; Weiwei   Shang ; Yaoxin   Zhang ;
+Abstract
+ In this article, the self-calibration problem of a planar two-degree-of-freedom (2-DoF) parallel manipulator with a redundant joint sensor is studied. By eliminating the passive joint positions, a new error function is proposed. Furthermore, by decoupling the kinematic parameters of the error function, the minimization process is simplified. In order to obtain the global optimum, three evolutionary algorithms including genetic algorithm, particle swarm optimization, and differential evolution are applied to minimize the error function. In the application, the performances and effectiveness of the applied algorithms on this specific problem are compared under three different error functions, and the results show that the differential-evolution method under the decoupled error function produces the best result. Finally, actual calibration is carried out based on differential evolution under the decoupled error function, and the result demonstrates that all of the 12 parameters of the manipulator are calibrated with high accuracy. 
+Keywords
+evolutionary algorithms, parallel manipulator, self-calibration 

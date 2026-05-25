@@ -1,0 +1,6 @@
+Robust Feedback Switching Control: Dynamic Programming and Viscosity Solutions
+Erhan  Bayraktar, Andrea  Cosso, and Huyên  Pham;
+Abstract
+We consider a robust switching control problem.  The controller only observes the evolution of the state process, and thus uses feedback (closed-loop) switching strategies, a nonstandard class of switching controls introduced  in this paper.  The adverse player (nature) chooses open-loop controls that represent  the so-called Knightian uncertainty, i.e., misspecifications of the model. The (half) game switcher versus nature is then formulated as a two-step (robust)  optimization problem. We develop the stochastic Perron's method in this framework, and  prove that it produces a viscosity subsolution and supersolution to a system of  HJB  variational inequalities, which envelop the value function.  Together with a comparison principle, this characterizes the value function of the game as the unique viscosity solution to the HJB equation, and shows as a by-product the dynamic programming principle for the robust feedback switching control problem.
+Keywords
+model uncertainty, optimal switching, feedback strategies, stochastic games, stochastic Perron's method, viscosity solutions, 60G40, 91A05, 49L20, 49L25, 

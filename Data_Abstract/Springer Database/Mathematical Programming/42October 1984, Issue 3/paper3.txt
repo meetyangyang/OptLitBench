@@ -1,0 +1,6 @@
+Stable modification of explicitLU factors for simplex updates
+R. Fletcher;S. P. J. Matthews;
+Abstract
+This paper presents a method for modifying anLU factorization of a matrixA when a Simplex update is performed onA. At each stage of the algorithm, two options are allowed, and in one of these a row permutation ofL is made so that theLU structure is always maintained. The expanding file of operators used in other methods is not required. The result, of an error analysis is presented in which the error is bounded by the growth in the partial sums ofLU. Various pivotal strategies which minimize a growth bound are discussed and an example is given in which the worst case for growth occurs repeatedly. Numerical results from experiments on ill-conditioned problems show no tendency for error growth.
+Keywords
+Simplex Update  LU Factors  Explicit Modification  Stable  

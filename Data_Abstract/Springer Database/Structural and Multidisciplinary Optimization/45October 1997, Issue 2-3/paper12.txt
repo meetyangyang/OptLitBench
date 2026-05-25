@@ -1,0 +1,6 @@
+On the computer implementation of feasible direction interior point algorithms for nonlinear optimization
+J. Herskovits;G. Santos;
+Abstract
+The paper discusses the computer implementation of a class of interior point algorithms for the minimization of nonlinear functions with equality and inequality constraints. These algorithms consist of fixed point iterations to solve KKT firstorder optimality conditions. At each iteration a descent direction is defined by solving a linear system. Then, the linear system is perturbed in such a way as to deflect the descent direction and obtain a feasible descent direction. A line search is finally performed to obtain a new interior point with a lower objective. Newton, quasi-Newton, or first-order versions of the algorithm can be obtained. This paper is mainly concerned with the solution of the internal linear systems, the algorithms that are employed for the constrained line search and also with the quasi-Newton matrix updating. Some numerical results obtained with a quasi Newton algorithm are also presented. A set of test problems were solved very efficiently with the same values of the internal parameters.
+Keywords
+Linear System  Nonlinear Optimization  Inequality Constraint  Line Search  Descent Direction  

@@ -1,0 +1,6 @@
+Bounds tightening based on optimality conditions for nonconvex box-constrained optimization
+Yash Puranik;Nikolaos V. Sahinidis;
+Abstract
+First-order optimality conditions have been extensively studied for the development of algorithms for identifying locally optimal solutions. In this work, we propose two novel methods that directly exploit these conditions to expedite the solution of box-constrained global optimization problems. These methods carry out domain reduction by application of bounds tightening methods on optimality conditions. This scheme is implicit and avoids explicit generation of optimality conditions through symbolic differentation, which can be memory and time intensive. The proposed bounds tightening methods are implemented in the global solver BARON. Computational results on a test library of 327 problems demonstrate the value of our proposed approach in reducing the computational time and number of nodes required to solve these problems to global optimality.
+Keywords
+Global optimization  Bounds tightening  Optimality conditions  Box-constrained optimization  

@@ -1,0 +1,6 @@
+A nonlinear interval-based optimization method with local-densifying approximation technique
+Ziheng Zhao;Xu Han;Chao Jiang;Xingxing Zhou;
+Abstract
+In this paper, a new method is proposed to promote the efficiency and accuracy of nonlinear interval-based programming (NIP) based on approximation models and a local-densifying method. In conventional NIP methods, searching for the response bounds of objective and constraints are required at each iteration step, which forms a nested optimization and leads to extremely low efficiency. In order to reduce the computational cost, approximation models based on radial basis functions (RBF) are used to replace the actual computational models. A local-densifying method is suggested to guarantee the accuracy of the approximation models by reconstructing them with densified samples in iterations. Thus, through a sequence of optimization processes, an optimal result with fine accuracy can be finally achieved. Two numerical examples are used to test the effectiveness of the present method, and it is then applied to a practical engineering problem.
+Keywords
+Uncertain optimization  Nonlinear interval-based programming  Approximation model  Radial basis functions  Local-densifying  

@@ -1,0 +1,6 @@
+On Counting Integral Points in a Convex Rational Polytope
+Jean B. Lasserre;Eduardo S. Zeron;
+Abstract
+Given a convex rational polytope Ω(b) ≔ {x ∈ ℝn+ | Ax = b}, we consider the function b ↦ f(b), which counts the nonnegative integral points of Ω(b). A closed form expression of its ℤ-transform z ↦ ℱ(z) is easily obtained so that f(b) can be computed as the inverse ℤ-transform of ℱ. We then provide two variants of an inversion algorithm. As a by-product, one of the algorithms provides the Ehrhart polynomial of a convex integer polytope Ω. We also provide an alternative that avoids the complex integration of ℱ(z) and whose main computational effort is to solve a linear system. This latter approach is particularly attractive for relatively small values of m, where m is the number of nontrivial constraints (or rows of A).
+Keywords
+Counting integral point polytope Ehrhart polynomial 

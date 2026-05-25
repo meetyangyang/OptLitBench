@@ -1,0 +1,6 @@
+Space mapping techniques for a structural optimization problem governed by the  p -Laplace equation
+ O.   Lass ; C.   Posch ; G.   Scharrer ; S.   Volkwein ;
+Abstract
+ Solving optimal control problems for real-world applications are hard to tackle numerically due to the large size and the complex underlying (partial differential equations based) models. In this paper, a structural optimization problem governed by the p-Laplace equation (fine model) is considered. A surrogate optimization is utilized to develop an efficient numerical optimization method. Here the p-Laplace equation is replaced by a simplified (coarse) model, a space mapping attempts to match, in the coarse model, the values of the p-Laplace equation. Numerical examples illustrate the presented approach. 
+Keywords
+ p-Laplace equation, optimal control, space mapping, surrogate optimization, globalized Newton-CG method 

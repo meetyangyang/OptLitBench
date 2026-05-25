@@ -1,0 +1,6 @@
+Global optimization of robust chance constrained problems
+Panos Parpas;Berç Rustem;Efstratios N. Pistikopoulos;
+Abstract
+We propose a stochastic algorithm for the global optimization of chance constrained problems. We assume that the probability measure with which the constraints are evaluated is known only through its moments. The algorithm proceeds in two phases. In the first phase the probability distribution is (coarsely) discretized and solved to global optimality using a stochastic algorithm. We only assume that the stochastic algorithm exhibits a weak* convergence to a probability measure assigning all its mass to the discretized problem. A diffusion process is derived that has this convergence property. In the second phase, the discretization is improved by solving another nonlinear programming problem. It is shown that the algorithm converges to the solution of the original problem. We discuss the numerical performance of the algorithm and its application to process design.
+Keywords
+Probability Measure  Global Optimization  Stochastic Differential Equation  Nonlinear Programming Problem  Chance Constraint  

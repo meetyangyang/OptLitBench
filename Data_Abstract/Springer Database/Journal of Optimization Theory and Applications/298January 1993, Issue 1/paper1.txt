@@ -1,0 +1,6 @@
+Bounded controllers for robust exponential convergence
+M. Corless;G. Leitmann;
+Abstract
+We consider the problem of stabilizing an uncertain system when the norm of the control input is bounded by a prespecified constant. We treat continuous-time dynamical systems whose nominal part is linear and whose uncertain part is norm-bounded by a known affine function of the norm of the system state and the norm of the control input. Given a prespecified rate of convergence and a ball containing the origin of the state space, we present controllers which guarantee that, for all allowable uncertainties and nonlinearities, there is a region of attraction from which all solutions converge to the given ball with the prespecified convergence rate.
+Keywords
+Robust control  bounded control  uncertain systems  Lyapunov techniques  

@@ -1,0 +1,6 @@
+A Time-Stepping Complementarity Approach for Frictionless 	Systems of Rigid Bodies
+James A.  Tzitzouris and Jong-Shi  Pang;
+Abstract
+This paper presents a time-stepping complementarity approach for computing a numerical trajectory of a system of rigid bodies under frictionless contact. Such a system is formulated as a time-dependent (ordinary) differential complementarity problem (DCP), which consists of an ordinary differential equation (ODE) coupled with a complementarity condition. The phenomenon of impact plays an essential role when modeling a mechanical system of this type. Within the time-stepping scheme, which uses a high-order ODE discretization, we include an impact detection routine and an impact law governing the behavior of the system over the duration of an impact. We report computational results for the application of the overall numerical scheme to computing the solution trajectories of several realistic mechanical systems.
+Keywords
+contact problems, complementarity, numerical methods, time-stepping, 74M15, 74M10, 74M20, 90C33, 74S20, 

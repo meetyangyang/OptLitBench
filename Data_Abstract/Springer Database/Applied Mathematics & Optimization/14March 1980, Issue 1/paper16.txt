@@ -1,0 +1,6 @@
+Two backtrack algorithms for the radio frequency intermodulation problem
+Susumu Morito;Harvey M. Salkin;David E. Williams;
+Abstract
+Two or more radio signals, transmitted from a small platform (e.g., a ship, satellite, or airplane, etc.), tend to produce an intermodulation product which could distort a receive signal. The intensity of intermodulation interference due to a given intermodulation frequency is known to be closely related to the lowest order, or simply the order, of the intermodulation product which can be found by solving a single constraint integer program with variables unrestricted in sign, where coefficients of the constraint equation correspond to frequencies. Two variations of backtrack, or search enumeration, algorithms, called the primal and dual backtrack algorithms, are developed to find the order of intermodulation. Extensive computational experience with these algorithms, reflecting data from naval fleet communication scenarios and potential ramifications, are given together with another application of the dual algorithm.
+Keywords
+Integer programming  Backtrack algorithm  Combinatorics  Radio frequency intermodulation interference CR Categories: 3.24, 5.30, 5.40  

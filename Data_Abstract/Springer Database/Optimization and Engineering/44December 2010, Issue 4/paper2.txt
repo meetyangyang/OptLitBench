@@ -1,0 +1,6 @@
+A method for simulation based optimization using radial basis functions
+Stefan Jakobsson;Michael Patriksson;Johan Rudholm;Adam Wojciechowski;
+Abstract
+We propose an algorithm for the global optimization of expensive and noisy black box functions using a surrogate model based on radial basis functions (RBFs). A method for RBF-based approximation is introduced in order to handle noise. New points are selected to minimize the total model uncertainty weighted against the surrogate function value. The algorithm is extended to multiple objective functions by instead weighting against the distance to the surrogate Pareto front; it therefore constitutes the first algorithm for expensive, noisy and multiobjective problems in the literature. Numerical results on analytical test functions show promise in comparison to other (commercial) algorithms, as well as results from a simulation based optimization problem.
+Keywords
+Simulation based optimization  Radial basis functions  Multiobjective  Noise  Response surface  Surrogate model  Black box function  

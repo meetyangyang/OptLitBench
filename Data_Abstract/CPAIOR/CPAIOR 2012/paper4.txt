@@ -1,0 +1,4 @@
+Graph Coloring Facets from All-Different Systems
+David Bergman;John N. Hooker;
+Abstract
+We explore the idea of obtaining valid inequalities for a 0-1 model from a constraint programming formulation of the problem. In particular, we formulate a graph coloring problem as a system of all-different constraints. By analyzing the polyhedral structure of alldiff systems, we obtain facet-defining inequalities that can be mapped to valid cuts in the classical 0-1 model of the problem. We focus on cuts corresponding to cyclic structures and show that they are stronger than known cuts. For example, when an existing separation algorithm identifies odd hole cuts, we can supply stronger cuts with no additional calculation. In addition, we generalize odd hole cuts to odd cycle cuts that are stronger than any collection of odd hole cuts.

@@ -1,0 +1,6 @@
+Closed-form solution of a maximization problem
+Richard W. Cottle;Ingram Olkin;
+Abstract
+According to the characterization of eigenvalues of a real symmetric matrix A, the largest eigenvalue is given by the maximum of the quadratic form 〈xA, x〉 over the unit sphere; the second largest eigenvalue of A is given by the maximum of this same quadratic form over the subset of the unit sphere consisting of vectors orthogonal to an eigenvector associated with the largest eigenvalue, etc. In this study, we weaken the conditions of orthogonality by permitting the vectors to have a common inner product r where 0 ≤ r < 1. This leads to the formulation of what appears—from the mathematical programming standpoint—to be a challenging problem: the maximization of a convex objective function subject to nonlinear equality constraints. A key feature of this paper is that we obtain a closed-form solution of the problem, which may prove useful in testing global optimization software. Computational experiments were carried out with a number of solvers.
+Keywords
+Constrained optimization  Test problem  Quadratic forms  Intraclass correlation matrices  Eigenvalues  Eigenvectors  15A18  15A23  15A63  90C30  90C90  

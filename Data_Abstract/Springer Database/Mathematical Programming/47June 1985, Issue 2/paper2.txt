@@ -1,0 +1,6 @@
+A unified framework for primal-dual methods in minimum cost network flow problems
+Dimitri P. Bertsekas;
+Abstract
+We introduce a broad class of algorithms for finding a minimum cost flow in a capacitated network. The algorithms are of the primal-dual type. They maintain primal feasibility with respect to capacity constraints, while trying to satisfy the conservation of flow equation at each node by means of a wide variety of procedures based on flow augmentation, price adjustment, and ascent of a dual functional. The manner in which these procedures are combined is flexible thereby allowing the construction of algorithms that can be tailored to the problem at hand for maximum effectiveness. Particular attention is given to methods that incorporate features from classical relaxation procedures. Experimental codes based on these methods outperform by a substantial margin the fastest available primal-dual and primal simplex codes on standard benchmark problems.
+Keywords
+Primal-Dual  Out-of-Kilter  Relaxation  Network Flow  

@@ -1,0 +1,6 @@
+ Topology optimization of trusses with stress and local constraints on nodal stability and member intersection
+M. Ohsaki;N. Katoh;
+Abstract
+A truss topology optimization problem under stress constraints is formulated as a Mixed Integer Programming (MIP) problem with variables indicating the existence of nodes and members. The local constraints on nodal stability and intersection of members are considered, and a moderately large lower bound is given for the cross-sectional area of an existing member. A lower-bound objective value is found by neglecting the compatibility conditions, where linear programming problems are successively solved based on a branch-and-bound method. An upper-bound solution is obtained as a solution of a Nonlinear Programming (NLP) problem for the topology satisfying the local constraints. It is shown in the examples that upper- and lower-bound solutions with a small gap in the objective value can be found by the branch-and-bound method, and the computational cost can be reduced by using the local constraints. 
+Keywords
+Branch-and-bound method  Local constraints  Mixed integer programming  Stress constraints  Topology optimization  Truss  

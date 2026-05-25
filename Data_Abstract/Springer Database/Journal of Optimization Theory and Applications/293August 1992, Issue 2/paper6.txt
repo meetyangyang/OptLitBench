@@ -1,0 +1,6 @@
+On geometric programming and complementary slackness
+J. R. McNamara;
+Abstract
+When the terms in a convex primal geometric programming (GP) problem are multiplied by slack variables whose values must be at least unity, the invariance conditions may be solved as constraints in a linear programming (LP) problem in logarithmically transformed variables. The number of transformed slack variables included in the optimal LP basis equals the degree of difficulty of the GP problem, and complementary slackness conditions indicate required changes in associated GP dual variables. A simple, efficient search procedure is used to generate a sequence of improving primal feasible solutions without requiring the use of the GP dual objective function. The solution procedure appears particularly advantageous when solving very large geometric programming problems, because only the right-hand constants in a system of linear equations change at each iteration.
+Keywords
+Geometric programming  linear programming  complementary slackness  Lagrange multipliers  

@@ -1,0 +1,6 @@
+Orthogonal and conjugate basis methods for solving equality constrained minimization problems
+M. C. Bartholomew-Biggs;T. T. Nguyen;
+Abstract
+This paper deals with methods for choosing search directions in the iterative solution of constrained minimization problems. The popular technique of calculating orthogonal components of the search direction (i.e., tangential and normal to the constraints) is discussed and contrasted with the idea of constructing the search direction from two moves which are conjugate with respect to the Hessian of the Lagrangian function. Minimization algorithms which use search directions obtained by these two approaches are described, and their local convergence properties are studied. This analysis, coupled with some numerical results, suggests that the benefits of building steps from conjugate components are well deserving of further investigation.
+Keywords
+constrained optimization  conjugate base  orthogonal base  sequential quadratic programming  

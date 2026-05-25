@@ -1,0 +1,6 @@
+Variance reduction in Monte Carlo sampling-based optimality gap estimators for two-stage stochastic linear programming
+Rebecca Stockbridge;Güzin Bayraksan;
+Abstract
+This paper presents a comparative computational study of the variance reduction techniques antithetic variates and Latin hypercube sampling when used for assessing solution quality in stochastic programming. Three Monte Carlo sampling-based procedures that provide point and interval estimators of optimality gap are considered: one that uses multiple replications, and two others with an alternative sample variance estimator that use single or two replications. Theoretical justification for using these alternative sampling techniques is discussed. In particular, we discuss asymptotic properties of the resulting estimators using Latin hypercube sampling for single- and two-replication procedures in detail. These theoretical considerations result in some subtle changes in the implementation of the procedures. A collection of two-stage stochastic linear test problems with different characteristics is used to empirically compare the three procedures for assessing solution quality with these variance reduction techniques.
+Keywords
+Variance reduction  Antithetic variates  Latin hypercube sampling  Optimality gap estimation  Two-stage stochastic programming  Monte Carlo sampling  

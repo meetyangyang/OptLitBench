@@ -1,0 +1,6 @@
+Convergence of a Class of Semi-Implicit Time-Stepping Schemes for Nonsmooth Rigid Multibody Dynamics
+Bogdan I.  Gavrea, Mihai  Anitescu, and Florian A.  Potra;
+Abstract
+In this work we present a framework for the convergence analysis in a measure differential inclusion sense of a class of time-stepping schemes for multibody dynamics with contacts, joints, and friction. This class of methods solves one linear complementarity problem per step and contains the semi-implicit Euler method, as well as trapezoidal-like methods for which second-order convergence was recently proved under certain conditions. By using the concept of a reduced friction cone, the analysis includes, for the first time, a convergence result for the case that includes joints. An unexpected intermediary result is that we are able to define a discrete velocity function of bounded variation, although the natural discrete velocity function produced by our algorithm may have unbounded variation.
+Keywords
+rigid body, contact dynamics, friction, measure differential inclusion, complementarity problems, 65K10, 90C33, 

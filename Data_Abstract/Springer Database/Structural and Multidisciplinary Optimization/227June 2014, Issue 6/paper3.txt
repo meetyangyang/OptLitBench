@@ -1,0 +1,6 @@
+A reanalysis method for local modification and the application in large-scale problems
+Guanxin Huang;Hu Wang;Guangyao Li;
+Abstract
+A novel reanalysis method, named independent coefficients (IC) method is suggested in this study. This method is proposed to reanalyze structures with local modification which leads to a low-rank change in the stiffness matrix. IC method requires only initial solution as input, and can determine the independent coefficients for each degree of freedoms (DOFs) influenced by structural modifications. Since any extra operations such as decomposition of the initial stiffness matrix is not involved in computation procedure, the IC is a “cheap” algorithm and can be an alternative choice for reanalysis. In order to verify the performance of IC method, several large scale numerical examples are tested. The results demonstrate that the IC method has high accuracy as well as efficiency when the modification is local. The cases involving beyond 1,500,000 DOFs and 3,000,000 DOFs show that IC method has low demands on computer storage, and large scale problems can be easily reanalyzed by this method.
+Keywords
+Independent coefficients  Reanalysis  Computer storage spaces  Large-scale  

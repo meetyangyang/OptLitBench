@@ -1,0 +1,6 @@
+An extension of Karmarkar's projective algorithm for convex quadratic programming
+Yinyu Ye;Edison Tse;
+Abstract
+We present an extension of Karmarkar's linear programming algorithm for solving a more general group of optimization problems: convex quadratic programs. This extension is based on the iterated application of the objective augmentation and the projective transformation, followed by optimization over an inscribing ellipsoid centered at the current solution. It creates a sequence of interior feasible points that converge to the optimal feasible solution in O(Ln) iterations; each iteration can be computed in O(Ln3) arithmetic operations, wheren is the number of variables andL is the number of bits in the input. In this paper, we emphasize its convergence property, practical efficiency, and relation to the ellipsoid method.
+Keywords
+Convex quadratic programming  Karmarkar's LP algorithm  ellipsoid method  primal and dual  

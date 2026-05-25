@@ -1,0 +1,6 @@
+Optimal Stopping with a Probabilistic Constraint
+Aaron Zeff Palmer;Alexander Vladimirsky;
+Abstract
+We present an efficient method for solving optimal stopping problems with a probabilistic constraint. The goal is to optimize the expected cumulative cost, but constrained by an upper bound on the probability that the cost exceeds a specified threshold. This probabilistic constraint causes optimal policies to be time-dependent and randomized, however, we show that an optimal policy can always be selected with “piecewise-monotonic” time-dependence and “nearly-deterministic” randomization. We prove these properties using the Bellman optimality equations for a Lagrangian relaxation of the original problem. We present an algorithm that exploits these properties for computational efficiency. Its performance and the structure of optimal policies are illustrated on two numerical examples.
+Keywords
+Stochastic optimal control  Stopping-times  Dynamic programming  Chance constraint  49L20  65K15  60G40  

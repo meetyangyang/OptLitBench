@@ -1,0 +1,6 @@
+The Analytic Center Cutting Plane Method with Semidefinite Cuts
+Mohammad R.  Oskoorouchi and Jean-Louis  Goffin;
+Abstract
+We analyze an analytic center cutting plane algorithm for convex feasibility problems with semidefinite cuts. The problem of interest seeks a feasible point in a bounded convex set, which contains a full-dimensional ball with $\varepsilon$ $(<1)$ radius and is contained in a compact convex set described by matrix inequalities, known as the set of localization. At each iteration, an approximate analytic center of the set of localization is computed. If this point is not in the solution set, an oracle is called to return a p-dimensional semidefinite cut. The set of localization is then updated by adding the semidefinite cut through the center. We prove that the analytic center is recovered after adding a pk-dimensional semidefinite cut in O(pk log(pk+1)) damped Newton's iteration and that the algorithmstops with a point in the solution set when the dimension of the accumulated block diagonal cut matrix reaches the bound of $O^*(\frac{p^2m^3}{{\mu^2\varepsilon}^2})$, where p is the maximum dimension of the cut matrices and $\mu>0$ is a condition number of the field of cuts.
+Keywords
+analytic center, cutting plane method, semidefinite programming, semidefinite cut, 90C22, 90C25, 

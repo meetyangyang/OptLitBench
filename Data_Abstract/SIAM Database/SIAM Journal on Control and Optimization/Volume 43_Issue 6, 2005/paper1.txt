@@ -1,0 +1,6 @@
+Efficient Solution of Optimal Control Problems Using Hybrid Systems
+Mireille  Broucke, Maria Domenica  Di Benedetto, Stefano  Di Gennaro, and Alberto  Sangiovanni-Vincentelli;
+Abstract
+We consider the synthesis of optimal controls for continuous feedback systems by recasting the problem to a hybrid optimal control problem: synthesize optimal enabling conditions for switching between locations in which the control is constant. An algorithmic solution is obtained by translating the hybrid automaton to a finite automaton using a bisimulation and formulating a dynamic programming problem with extra conditions to ensure non-Zenoness of trajectories. We show that the discrete value function converges to the viscosity solution of the Hamilton--Jacobi--Bellman equation as a discretization parameter tends to zero.
+Keywords
+optimal control, hybrid systems, bisimulation, 49L20, 49L25, 65N99, 

@@ -1,0 +1,6 @@
+On Time-Optimal Trajectories in Non-Uniform Mediums
+André Berger;Alexander Grigoriev;Ralf Peeters;Natalya Usotskaya;
+Abstract
+This paper addresses the problem of finding time-optimal trajectories in two-dimensional space, where the mover’s speed monotonically decreases or increases in one of the space’s coordinates. We address such problems in different settings for the velocity function and in the presence of obstacles. First, we consider the problem without any obstacles. We show that the problem with linear speed decrease is reducible to the de l’Hôpital’s problem, and that, for this case, the time-optimal trajectory is a circular segment. Next, we show that the problem with linear speed decreases and rectilinear obstacles can be solved in polynomial time by a dynamic program. Finally, we consider the case without obstacles, where the medium is non-uniform and the mover’s velocity is a piecewise linear function. We reduce this problem to that of solving a system of polynomial equations of fixed degree, for which algebraic elimination theory allows us to solve the problem to optimality.
+Keywords
+Time-optimal trajectory  Dynamic programming  Algebraic elimination theory   49-XX Calculus of variations and optimal control; optimization   49K30 Optimal solutions belonging to restricted classes   90C39 Dynamic programming  

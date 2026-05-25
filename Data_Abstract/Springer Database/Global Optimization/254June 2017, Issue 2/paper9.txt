@@ -1,0 +1,6 @@
+Chebyshev model arithmetic for factorable functions
+Jai Rajyaguru;Mario E. Villanueva;Boris Houska;Benoît Chachuat;
+Abstract
+This article presents an arithmetic for the computation of Chebyshev models for factorable functions and an analysis of their convergence properties. Similar to Taylor models, Chebyshev models consist of a pair of a multivariate polynomial approximating the factorable function and an interval remainder term bounding the actual gap with this polynomial approximant. Propagation rules and local convergence bounds are established for the addition, multiplication and composition operations with Chebyshev models. The global convergence of this arithmetic as the polynomial expansion order increases is also discussed. A generic implementation of Chebyshev model arithmetic is available in the library MC++. It is shown through several numerical case studies that Chebyshev models provide tighter bounds than their Taylor model counterparts, but this comes at the price of extra computational burden.
+Keywords
+Global optimization  Factorable functions  Chebyshev models  Taylor models  Interval analysis  Convergence rate  

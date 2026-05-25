@@ -1,0 +1,6 @@
+Variable neighbourhood simulated annealing algorithm for capacitated vehicle routing problems
+Yiyong Xiao;Qiuhong Zhao;Ikou Kaku;Nenad Mladenovic;
+Abstract
+This article presents the variable neighbourhood simulated annealing (VNSA) algorithm, a variant of the variable neighbourhood search (VNS) combined with simulated annealing (SA), for efficiently solving capacitated vehicle routing problems (CVRPs). In the new algorithm, the deterministic ‘Move or not’ criterion of the original VNS algorithm regarding the incumbent replacement is replaced by an SA probability, and the neighbourhood shifting of the original VNS (from near to far by k← k+1) is replaced by a neighbourhood shaking procedure following a specified rule. The geographical neighbourhood structure is introduced in constructing the neighbourhood structures for the CVRP of the string model. The proposed algorithm is tested against 39 well-known benchmark CVRP instances of different scales (small/middle, large, very large). The results show that the VNSA algorithm outperforms most existing algorithms in terms of computational effectiveness and efficiency, showing good performance in solving large and very large CVRPs.
+Keywords
+metaheuristics, capacitated vehicle routing problem (CVRP), variable neighbourhood simulated annealing (VNSA) algorithm, neighbourhood shaking rule (NSR) 

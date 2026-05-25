@@ -1,0 +1,6 @@
+Speed-up for the expectation-maximization algorithm for clustering categorical data
+F. -X. Jollois;M. Nadif;
+Abstract
+In model-based cluster analysis, the expectation-maximization (EM) algorithm has a number of desirable properties, but in some situations, this algorithm can be slow to converge. Some variants are proposed to speed-up EM in reducing the time spent in the E-step, in the case of Gaussian mixture. The main aims of such methods is first to speed-up convergence of EM, and second to yield same results (or not so far) than EM itself. In this paper, we compare these methods from categorical data, with the latent class model, and we propose a new variant that sustains better results on synthetic and real data sets, in terms of convergence speed-up and number of misclassified objects.
+Keywords
+Mixture model  Expectation-maximization algorithm  Clustering  Acceleration  Categorical data  

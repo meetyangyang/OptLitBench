@@ -1,0 +1,6 @@
+Global Solution of Optimization Problems with Parameter-Embedded Linear Dynamic Systems
+A. B. Singer;P. I. Barton;
+Abstract
+This paper develops a theory for the global solution of nonconvex optimization problems with parameter-embedded linear dynamic systems. A quite general problem formulation is introduced and a solution is shown to exists. A convexity theory for integrals is then developed to construct convex relaxations for utilization in a branch-and-bound framework to calculate a global minimum. Interval analysis is employed to generate bounds on the state variables implied by the bounds on the embedded parameters. These bounds, along with basic integration theory, are used to prove convergence of the branch-and-bound algorithm to the global minimum of the optimization problem. The implementation of the algorithm is then considered and several numerical case studies are examined thoroughly
+Keywords
+Deterministic global optimization  convex underestimators  linear systems theory  interval analysis  

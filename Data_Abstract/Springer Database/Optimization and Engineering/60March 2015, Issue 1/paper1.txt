@@ -1,0 +1,6 @@
+Recursive least squares with linear inequality constraints
+Konrad Engel;Sebastian Engel;
+Abstract
+A new recursive algorithm for the least squares problem subject to linear equality and inequality constraints is presented. It is applicable for problems with a large number of inequalities. The algorithm combines three types of recursion: time-, order-, and active-set-recursion. Each recursion step has time-complexity \(O(d^2)\), where \(d\) is the dimension of the data vectors. An \(O(d^2)\)-refreshment of the corresponding inverse matrices after each time-period of length \(d\) makes the algorithm numerically very stable, such that it can handle arbitrarily many data vectors without significant rounding errors. Processing a new data vector (which usually only slightly changes the instance of the optimization problem) has time complexity \(O(d^2)\), provided that the active set method only requires \(O(1)\) steps for the update until the optimum is found. In a series of examples with randomly generated data sets and with either convex constraints or with randomly generated linear constraints, the set of active constraints remains relatively stable after the inclusion of each new data vector.
+Keywords
+Recursive least squares algorithm  Linear constraints   Active set method  Convex constraints  MSC 93E24  MSC 90C25  MSC 68W25  

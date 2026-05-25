@@ -1,0 +1,6 @@
+A branch-and-bound method for absolute value programs
+ Shota   Yamanaka ; Masao   Fukushima ;
+Abstract
+ In recent years, the absolute value equation (AVE) has attracted growing attention. The absolute value program (AVP) is an extension of AVE, which contains absolute values of variables in its objective function and constraints. In this article, we propose an algorithm for the AVP, which is based on the branch-and-bound method. In the branching procedure, we generate two subproblems by restricting the sign of a variable to be nonnegative or nonpositive. In the bounding procedure, we utilize the duality results for AVP. Furthermore, we carry out numerical experiments for nonconvex multi-facility location problems to show the validity of the proposed algorithm. 
+Keywords
+absolute value program, absolute value equation, branch-and-bound method, nonconvex facility location problemAMS Subject Classifications:: 90C30, 65K05, 90C57 

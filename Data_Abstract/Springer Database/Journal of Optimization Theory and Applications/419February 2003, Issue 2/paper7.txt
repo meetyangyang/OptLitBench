@@ -1,0 +1,6 @@
+Frame-Based Ray Search Algorithms in Unconstrained Optimization
+C.J. Price;I.D. Coope;
+Abstract
+This paper describes a class of frame-based direct search methods for unconstrained optimization without derivatives. A template for convergent direct search methods is developed, some requiring only the relative ordering of function values. At each iteration, the template considers a number of search steps which form a positive basis and conducts a ray search along a step giving adequate decrease. Various ray search strategies are possible, including discrete equivalents of the Goldstein–Armijo and one-sided Wolfe–Powell ray searches. Convergence is shown under mild conditions which allow successive frames to be rotated, translated, and scaled relative to one another.
+Keywords
+Derivative-free optimization  positive basis methods  convergence analysis  frame-based methods  ray search  

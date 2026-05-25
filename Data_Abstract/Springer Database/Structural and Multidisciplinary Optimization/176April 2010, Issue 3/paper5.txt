@@ -1,0 +1,6 @@
+Topological optimization of structures subject to Von Mises stress constraints
+Samuel Amstutz;Antonio A. Novotny;
+Abstract
+The topological asymptotic analysis provides the sensitivity of a given shape functional with respect to an infinitesimal domain perturbation. Therefore, this sensitivity can be naturally used as a descent direction in a structural topology design problem. However, according to the literature concerning the topological derivative, only the classical approach based on flexibility minimization for a given amount of material, without control on the stress level supported by the structural device, has been considered. In this paper, therefore, we introduce a class of penalty functionals that mimic a pointwise constraint on the Von Mises stress field. The associated topological derivative is obtained for plane stress linear elasticity. Only the formal asymptotic expansion procedure is presented, but full justifications can be deduced from existing works. Then, a topology optimization algorithm based on these concepts is proposed, that allows for treating local stress criteria. Finally, this feature is shown through some numerical examples.
+Keywords
+Topological sensitivity  Topological derivative  Topology optimization  Local stress criteria  Von Mises stress  

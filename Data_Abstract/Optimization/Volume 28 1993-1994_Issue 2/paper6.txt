@@ -1,0 +1,6 @@
+A branch and bound algorithm for minimizing weighted completion times with deadlines
+   F.   Werner ;
+Abstract
+ We consider the one-machine scheduling problem with the weighted sum of completion times as objective function. Each job must be completed by a given deadline. The problem is NP-hard. Therefore, various branch and bound algorithms have been developed. We present new criteria for eliminating nodes which are based on the well-known block interchange lemma for estimating the objective function difference when two adjacent blocks of jobs of a sequence are interchanged. Computational results on problems with up to 50 jobs are given. Furthermore, we give a new type of local search algorithm which can be used for improving the upper bound 
+Keywords
+One-Machine Scheduling, Branch and Bound Algorithms 

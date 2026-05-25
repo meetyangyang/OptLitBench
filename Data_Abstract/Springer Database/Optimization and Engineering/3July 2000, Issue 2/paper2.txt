@@ -1,0 +1,6 @@
+Low Cost Optimization Techniques for Solving the Nonlinear Seismic Reflection Tomography Problem
+Zaulida Castillo;Debora Cores;Marcos Raydan;
+Abstract
+The nonlinear seismic reflection tomography problem consists on minimizing the function g(p) = ∥T − f(p)∥22, where p is a vector containing the velocity model parameters and depth position of the reflectors, T contains the travel time of the rays, and f(p) is a highly nonlinear function that depends on the velocity of the subsurfaces. This problem has been solved using the Gauss-Newton method, and reconstruction techniques. These methods require either too many storage locations or too many iterations to converge. We present a different approach. We apply recently developed low storage minimization techniques directly on the function g(p). In particular, we use the recent global version of the spectral gradient method, and recent implementations of the conjugate gradient method. We present encouraging preliminary numerical results that indicate that our new approach clearly outperforms the classical techniques in CPU time and accuracy of the approximate solutions.
+Keywords
+spectral gradient method  Polak Ribiere method  inverse problems  3D seismic tomography  

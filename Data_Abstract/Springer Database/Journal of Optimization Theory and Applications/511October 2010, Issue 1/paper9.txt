@@ -1,0 +1,6 @@
+Optimization Problem Coupled with Differential Equations: A Numerical Algorithm Mixing an Interior-Point Method and Event Detection
+A. Caboussat;C. Landry;J. Rappaz;
+Abstract
+The numerical analysis of a dynamic constrained optimization problem is presented. It consists of a global minimization problem that is coupled with a system of ordinary differential equations. The activation and the deactivation of inequality constraints induce discontinuity points in the time evolution. A numerical method based on an operator splitting scheme and a fixed point algorithm is advocated. The ordinary differential equations are approximated by the Crank-Nicolson scheme, while a primal-dual interior-point method with warm-starts is used to solve the minimization problem. The computation of the discontinuity points is based on geometric arguments, extrapolation polynomials and sensitivity analysis. Second order convergence of the method is proved when an inequality constraint is activated. Numerical results for atmospheric particles confirm the theoretical investigations.
+Keywords
+Initial value problem  Constrained optimization  Warm-starts  Discontinuity points  Sensitivity analysis  

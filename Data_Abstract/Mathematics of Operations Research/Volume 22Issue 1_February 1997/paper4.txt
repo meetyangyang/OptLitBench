@@ -1,0 +1,6 @@
+Scaling Methods for Finding a Maximum Free Multiflow of Minimum Cost
+Andrew V. Goldberg;Alexander V. Karzanov;
+Abstract
+Suppose we are given an undirected graph with nonnegative integer-valued edge capacities and costs in which a subset of nodes is specified. We consider the problem of finding a collection of flows between arbitrary pairs of specified nodes such that the capacity constraints are satisfied and the sum of costs of flows is minimum, provided that the sum of values of flows is maximum. It is known that this problem has a half-integer optimal solution and such a solution can be found in strongly polynomial time using the ellipsoid method.In this paper we give two “purely combinatorial” polynomial algorithms for finding a half-integer optimal solution. These are based on capacity and cost scaling techniques and use the double covering method earlier worked out for the problem.
+Keywords
+multicommodity flow minimum cost scaling 

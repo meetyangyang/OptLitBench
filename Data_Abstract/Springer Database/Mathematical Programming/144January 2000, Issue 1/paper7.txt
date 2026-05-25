@@ -1,0 +1,6 @@
+Improving the robustness of descent-based methods for semismooth equations using proximal perturbations
+Stephen C. Billups;
+Abstract
+A common difficulty encountered by descent-based equation solvers is convergence to a local (but not global) minimum of an underlying merit function. Such difficulties can be avoided by using a proximal perturbation strategy, which allows the iterates to escape the local minimum in a controlled fashion. This paper presents the proximal perturbation strategy for a general class of methods for solving semismooth equations and proves subsequential convergence to a solution based upon a pseudomonotonicity assumption. Based on this approach, two sample algorithms for solving mixed complementarity problems are presented. The first uses an extremely simple (but not very robust) basic algorithm enhanced by the proximal perturbation strategy. The second uses a more sophisticated basic algorithm based on the Fischer-Burmeister function. Test results on the MCPLIB and GAMSLIB complementarity problem libraries demonstrate the improvement in robustness realized by employing the proximal perturbation strategy.
+Keywords
+Key words: proximal perturbations – pseudomonotonicity – semismooth equations – complementarity problems  

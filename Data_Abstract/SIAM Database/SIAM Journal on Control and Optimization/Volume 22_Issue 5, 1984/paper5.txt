@@ -1,0 +1,5 @@
+Optimality of Piecewise-Constant Policies in Semi-Markov Decision Chains
+Laurent  Cantaluppi;
+Abstract
+The control of a finite-state semi-Markov process is investigated. In each state, a finite number of actions is available. Each action determines reward rates and transition rates to the other states. These rates depend on the holding time in the state and the actions can be changed at any point in time—not just at transition times. The goal is to find a policy that maximizes the expected total or discounted reward.In the infinite-horizon case, necessary and sufficient conditions for the optimality of a stationary policy  in the class of nonstationary policies is given. A stationary policy is shown to be optimal in that class, and this policy can be chosen piecewise-constant in the holding time in each state if the rates are piecewise-analytic in the holding time. Several applications are examined in the domains of queueing, inventory and reliability.In the finite-horizon case, necessary and sufficient conditions for optimality are given.
+Keywords

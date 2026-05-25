@@ -1,0 +1,6 @@
+A finite branch-and-bound algorithm for nonconvex quadratic programming via semidefinite relaxations
+Samuel Burer;Dieter Vandenbussche;
+Abstract
+Existing global optimization techniques for nonconvex quadratic programming (QP) branch by recursively partitioning the convex feasible set and thus generate an infinite number of branch-and-bound nodes. An open question of theoretical interest is how to develop a finite branch-and-bound algorithm for nonconvex QP. One idea, which guarantees a finite number of branching decisions, is to enforce the first-order Karush-Kuhn-Tucker (KKT) conditions through branching. In addition, such an approach naturally yields linear programming (LP) relaxations at each node. However, the LP relaxations are unbounded, a fact that precludes their use. In this paper, we propose and study semidefinite programming relaxations, which are bounded and hence suitable for use with finite KKT-branching. Computational results demonstrate the practical effectiveness of the method, with a particular highlight being that only a small number of nodes are required.
+Keywords
+Nonconcave quadratic maximization  Nonconvex quadratic programming  Branch-and-bound  Lift-and-project relaxations  Semidefinite programming  

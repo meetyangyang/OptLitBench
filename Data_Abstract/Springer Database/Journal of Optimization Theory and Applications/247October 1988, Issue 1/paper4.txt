@@ -1,0 +1,6 @@
+A projected Newton method in a Cartesian product of balls
+M. Gawande;J. C. Dunn;
+Abstract
+We formulate a locally superlinearly convergent projected Newton method for constrained minimization in a Cartesian product of balls. For discrete-time,N-stage, input-constrained optimal control problems with Bolza objective functions, we then show how the required scaled tangential component of the objective function gradient can be approximated efficiently with a differential dynamic programming scheme; the computational cost and the storage requirements for the resulting modified projected Newton algorithm increase linearly with the number of stages. In calculations performed for a specific control problem with 10 stages, the modified projected Newton algorithm is shown to be one to two orders of magnitude more efficient than a standard unscaled projected gradient method.
+Keywords
+Constrained minimization  projected Newton method  optimal control  differential dynamic programming  

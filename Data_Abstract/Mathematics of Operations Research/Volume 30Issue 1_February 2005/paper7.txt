@@ -1,0 +1,6 @@
+An Interior Point Cutting Plane Method for the Convex Feasibility Problem with Second-Order Cone Inequalities
+Mohammad R. Oskoorouchi;Jean-Louis Goffin;
+Abstract
+The convex feasibility problem in general is a problem of finding a point in a convex set that contains a full dimensional ball and is contained in a compact convex set. We assume that the outer set is described by second-order cone inequalities and propose an analytic center cutting plane technique to solve this problem. We discuss primal and dual settings simultaneously. Two complexity results are reported: the complexity of restoration procedure and complexity of the overall algorithm. We prove that an approximate analytic center is updated after adding a second-order cone cut (SOCC) in O(1) Newton step, and that the analytic center cutting plane method (ACCPM) with SOCC is a fully polynomial algorithm.
+Keywords
+cutting plane algorithm nondifferentiable optimization analytic center second-order cone 

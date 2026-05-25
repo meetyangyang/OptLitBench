@@ -1,0 +1,6 @@
+New stopping criteria for detecting infeasibility in conic optimization
+Imre Pólik;Tamás Terlaky;
+Abstract
+Detecting infeasibility in conic optimization and providing certificates for infeasibility pose a bigger challenge than in the linear case due to the lack of strong duality. In this paper we generalize the approximate Farkas lemma of Todd and Ye (Math Program 81:1–22, 1998) from the linear to the general conic setting, and use it to propose stopping criteria for interior point algorithms using self-dual embedding. The new criteria can identify if the solutions have large norm, thus they give an indication of infeasibility. The modified algorithms enjoy the same complexity bounds as the original ones, without assuming that the problem is feasible. Issues about the practical application of the criteria are also discussed.
+Keywords
+Approximate Farkas theorem  Stopping criteria  Conic optimization  Infeasibility  

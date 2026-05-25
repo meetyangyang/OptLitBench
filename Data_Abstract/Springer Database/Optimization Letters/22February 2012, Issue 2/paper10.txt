@@ -1,0 +1,6 @@
+Globally solving a nonlinear UAV task assignment problem by stochastic and deterministic optimization approaches
+Hoai An Le Thi;Duc Manh Nguyen;Tao Pham Dinh;
+Abstract
+In this paper, we consider a task allocation model that consists of assigning a set of m unmanned aerial vehicles (UAVs) to a set of n tasks in an optimal way. The optimality is quantified by target scores. The mission is to maximize the target score while satisfying capacity constraints of both the UAVs and the tasks. This problem is known to be NP-hard. Existing algorithms are not suitable for the large scale setting. Scalability and robustness are recognized as two main issues. We deal with these issues by two optimization approaches. The first approach is the Cross-Entropy (CE) method, a generic and practical tool of stochastic optimization for solving NP-hard problem. The second one is Branch and Bound algorithm, an efficient classical tool of global deterministic optimization. The numerical results show the efficiency of our approaches, in particular the CE method for very large scale setting.
+Keywords
+UAV  Task assignment problem  Stochastic programming  Binary nonlinear programming  Cross-entropy (CE) method  Brand and bound algorithm  

@@ -1,0 +1,6 @@
+Globally Convergent Interior-Point Algorithm for Nonlinear Programming
+I. Akrotirianakis;B. Rustem;
+Abstract
+This paper presents a primal-dual interior-point algorithm for solving general constrained nonlinear programming problems. The inequality constraints are incorporated into the objective function by means of a logarithmic barrier function. Also, satisfaction of the equality constraints is enforced through the use of an adaptive quadratic penalty function. The penalty parameter is determined using a strategy that ensures a descent property for a merit function. Global convergence of the algorithm is achieved through the monotonic decrease of a merit function. Finally, extensive computational results show that the algorithm can solve large and difficult problems in an efficient and robust way.
+Keywords
+Primal-dual interior-point algorithms  merit functions  convergence theory  

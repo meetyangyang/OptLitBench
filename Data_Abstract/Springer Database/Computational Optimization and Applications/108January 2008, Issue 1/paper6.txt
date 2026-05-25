@@ -1,0 +1,8 @@
+Hybrid evolutionary algorithm with Hermite radial basis function interpolants for computationally expensive adjoint solvers
+Y. S. Ong;K. Y. Lum;P. B. Nair;
+Abstract
+
+In this paper, we present an evolutionary algorithm hybridized with a gradient-based optimization technique in the spirit of Lamarckian learning for efficient design optimization. In order to expedite gradient search, we employ local surrogate models that approximate the outputs of a computationally expensive Euler solver. Our focus is on the case when an adjoint Euler solver is available for efficiently computing the sensitivities of the outputs with respect to the design variables. We propose the idea of using Hermite interpolation to construct gradient-enhanced radial basis function networks that incorporate sensitivity data provided by the adjoint Euler solver. Further, we conduct local search using a trust-region framework that interleaves gradient-enhanced surrogate models with the computationally expensive adjoint Euler solver. This ensures that the present hybrid evolutionary algorithm inherits the convergence properties of the classical trust-region approach. We present numerical results for airfoil aerodynamic design optimization problems to show that the proposed algorithm converges to good designs on a limited computational budget.
+
+Keywords
+Hybrid evolutionary algorithm  Hermite radial basis function  Gradient-based approximation  Computationally expensive adjoint solver  

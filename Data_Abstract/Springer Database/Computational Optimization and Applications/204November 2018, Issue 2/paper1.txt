@@ -1,0 +1,6 @@
+A progressive barrier derivative-free trust-region algorithm for constrained optimization
+Charles Audet;Andrew R. Conn;Sébastien Le Digabel;Mathilde Peyrega;
+Abstract
+We study derivative-free constrained optimization problems and propose a trust-region method that builds linear or quadratic models around the best feasible and around the best infeasible solutions found so far. These models are optimized within a trust region, and the progressive barrier methodology handles the constraints by progressively pushing the infeasible solutions toward the feasible domain. Computational experiments on 40 smooth constrained problems indicate that the proposed method is competitive with COBYLA, and experiments on two nonsmooth multidisciplinary optimization problems from mechanical engineering show that it can be competitive with the NOMAD software.
+Keywords
+Derivative-free optimization  Trust-region algorithms  Progressive barrier  90C30  90C56  

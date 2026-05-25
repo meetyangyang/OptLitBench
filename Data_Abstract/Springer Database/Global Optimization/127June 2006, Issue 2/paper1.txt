@@ -1,0 +1,6 @@
+A Branch-and-Bound Based Method for Solving Monotone Optimization Problems
+X. L. Sun;J. L. Li;
+Abstract
+Monotone optimization problems are an important class of global optimization problems with various applications. In this paper, we propose a new exact method for monotone optimization problems. The method is of branch-and-bound framework that combines three basic strategies: partition, convexification and local search. The partition scheme is used to construct a union of subboxes that covers the boundary of the feasible region. The convexification outer approximation is then applied to each subbox to obtain an upper bound of the objective function on the subbox. The performance of the method can be further improved by incorporating the method with local search procedure. Illustrative examples describe how the method works. Computational results for small randomly generated problems are reported.
+Keywords
+global optimization  monotone optimization  branch-and-bound method  partition  convexification  local search  

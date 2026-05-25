@@ -1,0 +1,6 @@
+Data based modelling of driveability for internal combustion engines
+Nico Didcock;Stefan Jakubek;Christoph Hametner;Nikolaus Keuth;
+Abstract
+Non-convex hull concepts are used to describe shapes or images in data processing. The most widely used non-convex hull methods were introduced to visualize two- or three-dimensional data obtained via 3D scans or GPS signals. Data hulls have also been used as feasibility models in automotive control systems. For these higher-dimensional problems the computational complexity bears an important factor for data processing software. Commonly used methods, such as the convex hull, involve triangulations, which are numerically intractable in practice for dimensions above 10. Simple, spatial models can be computed and evaluated fast, using  and  floating point operations, respectively, but they perform poorly as feasibility classifiers if the data is close to infeasible regions. This article introduces a class of conic hulls that can be calculated for any input dimension with sub-quadratic, and evaluated with sub-linear, CPU complexity, respectively. These hulls are designed to include screening information of the measurement procedures embedded in the data generating processes.
+Keywords
+Non-convex hulls, high-dimensional hulls, feasibility models, data extrapolation 

@@ -1,0 +1,6 @@
+Online heuristic for the preemptive single machine scheduling problem of minimizing the total weighted completion time
+Mikhail Batsyn;Boris Goldengorin;Panos M. Pardalos;Pavel Sukhov;
+Abstract
+The preemptive single machine scheduling problem of minimizing the total weighted completion time with arbitrary processing times and release dates is an important NP-hard problem in scheduling theory. In this paper we present an efficient high-quality heuristic for this problem based on the Weighted Shortest Remaining Processing Time (WSRPT) rule. The running time of the suggested algorithm increases only as a square of the number of jobs. Our computational study shows that very large size instances might be treated within extremely small CPU times and the average error is always less than 0.1%.
+Keywords
+single machine scheduling, weighted shortest remaining processing time, WSRPT rule, efficient heuristicAMS Subject Classifications: 90B35, 90C59, 68M20 

@@ -1,0 +1,6 @@
+A new warmstarting strategy for the primal-dual column generation method
+Jacek Gondzio;Pablo González-Brevis;
+Abstract
+This paper presents a new warmstarting technique in the context of a primal-dual column generation method applied to solve a particular class of combinatorial optimization problems. The technique relies on calculating an initial point and on solving auxiliary linear optimization problems to determine the step direction needed to fully restore primal and dual feasibilities after new columns arrive. Conditions on the maximum size of the cuts and on a suitable initial point are discussed. Additionally, the strategy ensures that the duality gap of the warmstart is bounded by the old duality gap multiplied with a (small) constant, which depends on the relation between the old and modified problems. Computational experiments demonstrate the gains achieved when compared to a coldstart approach.
+Keywords
+Interior point methods  Warmstarting  Column generation  Linear programming  Cutting stock problem  Vehicle routing problem with time windows   90C51  90C05  65K05  49M20  

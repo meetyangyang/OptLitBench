@@ -1,0 +1,8 @@
+Convergence of Conjugate Gradient Methods with a Closed-Form Stepsize Formula
+C. Labat;J. Idier;
+Abstract
+
+Conjugate gradient methods are efficient methods for minimizing differentiable objective functions in large dimension spaces. However, converging line search strategies are usually not easy to choose, nor to implement. Sun and colleagues (Ann. Oper. Res. 103:161–173, 2001; J. Comput. Appl. Math. 146:37–45, 2002) introduced a simple stepsize formula. However, the associated convergence domain happens to be overrestrictive, since it precludes the optimal stepsize in the convex quadratic case. Here, we identify this stepsize formula with one iteration of the Weiszfeld algorithm in the scalar case. More generally, we propose to make use of a finite number of iterates of such an algorithm to compute the stepsize. In this framework, we establish a new convergence domain, that incorporates the optimal stepsize in the convex quadratic case.
+
+Keywords
+Conjugate gradient methods  Convergence  Stepsize formulas  Weiszfeld method  

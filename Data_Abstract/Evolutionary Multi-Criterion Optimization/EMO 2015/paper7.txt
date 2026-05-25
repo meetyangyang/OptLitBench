@@ -1,0 +1,4 @@
+MOEA/D-HH: A Hyper-Heuristic for Multi-objective Problems
+Richard A. Gonçalves;Josiel N. Kuk;Carolina P. Almeida;Sandra M. Venske;
+Abstract
+Hyper-Heuristics is a high-level methodology for selection or automatic generation of heuristics for solving complex problems. Despite the hyper-heuristics success, there is still only a few multi-objective hyper-heuristics. Our approach, MOEA/D-HH, is a multi-objective selection hyper-heuristic that expands the MOEA/D framework. It uses an innovative adaptive choice function proposed in this work to determine the low level heuristic (Differential Evolution mutation strategy) that should be applied to each individual during a MOEA/D execution. We tested MOEA/D-HH in a well established set of 10 instances from the CEC 2009 MOEA Competition. MOEA/D-HH is compared with some important multi-objective optimization algorithms and the resultsobtained are promising.

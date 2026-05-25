@@ -1,0 +1,6 @@
+Numerical Comparison of Augmented Lagrangian Algorithms for Nonconvex Problems
+E. G. Birgin;R. A. Castillo;J. M. MartÍnez;
+Abstract
+Augmented Lagrangian algorithms are very popular tools for solving nonlinear programming problems. At each outer iteration of these methods a simpler optimization problem is solved, for which efficient algorithms can be used, especially when the problems are large. The most famous Augmented Lagrangian algorithm for minimization with inequality constraints is known as Powell-Hestenes-Rockafellar (PHR) method. The main drawback of PHR is that the objective function of the subproblems is not twice continuously differentiable. This is the main motivation for the introduction of many alternative Augmented Lagrangian methods. Most of them have interesting interpretations as proximal point methods for solving the dual problem, when the original nonlinear programming problem is convex. In this paper a numerical comparison between many of these methods is performed using all the suitable problems of the CUTE collection.
+Keywords
+nonlinear programming  Augmented Lagrangian methods  inequality constraints  benchmarking  algorithms  

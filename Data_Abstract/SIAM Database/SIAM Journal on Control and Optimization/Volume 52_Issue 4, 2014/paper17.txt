@@ -1,0 +1,6 @@
+Continuous-Time Dynamic Shortest Path Problems with Negative Transit Times
+Ronald  Koch and Ebrahim  Nasrabadi;
+Abstract
+We study the dynamic shortest path problem in a continuous-time model.  This problem arises as a subproblem in dynamic network flows, for instance when one wishes to test the presence of negative cycles in a residual network in order to develop continuous-time analogous equivalents of the theory and algorithms that exist for the static network flows. But, in general, the residual network contains backward arcs with negative transit times, and hence the results in the literature are useless for these purposes since all existing results are based on the assumption of positive transit times. In this paper, we extend the work of Philpott [SIAM J. Control Optim., 32 (1994), pp. 538--552] to the case of negative transit times. We consider a corresponding linear program in a space of measures and give a full characterization of its extreme points. We show a one-to-one correspondence between extreme points and dynamic paths. Further, we study a dual problem and derive necessary and sufficient conditions under which an optimal primal-dual solution pair exists with zero duality gap.
+Keywords
+shortest path, linear programming, measure theory, extreme points, duality, 05C21, 28A25, 49J27, 49K27, 90C35, 90C49, 

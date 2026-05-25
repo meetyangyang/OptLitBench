@@ -1,0 +1,6 @@
+Two Methods for Solving Optimization Problems Arising in Electronic Measurements and Electrical Engineering
+Ya. D.  Sergeyev, P.  Daponte, D.  Grimaldi, and A.  Molinaro;
+Abstract
+In this paper we introduce a common problem in electronic measurements and electrical engineering: finding the first root from the left of an equation in the presence of some initial conditions. We present examples of electrotechnical devices (analog signal filtering), where it is necessary to solve it. Two new methods for solving this problem, based on global optimization ideas, are introduced. The first uses the exact a priori given global Lipschitz constant for the first derivative. The second method adaptively estimates local Lipschitz constants during the search. Both algorithms either find the first root from the left or determine the global minimizers (in the case when the objective function has no roots). Sufficient conditions for convergence of the new methods to the desired solution are established in both cases. The results of numerical experiments for real problems and a set of test functions are also presented.
+Keywords
+global optimization, numerical algorithms, electronic measurements, electrical engineering, 90C30, 94A12, 

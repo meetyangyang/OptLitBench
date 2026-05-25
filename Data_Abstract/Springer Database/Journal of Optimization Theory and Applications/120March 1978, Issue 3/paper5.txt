@@ -1,0 +1,6 @@
+A method for solving two-point boundary-value problems of difference equations
+P. J. Orava;P. A. J. Lautala;
+Abstract
+The paper proposes an iterative solution method for discrete-time, nonlinear, two-point boundary-value problems (TPBVP) of the form:$$\begin{gathered}  x(k) - x(k - 1) = f(k, x(k - 1), p(k)), \hfill \\  p(k) - p(k - 1) = g(k, x(k - 1), p(k)), \hfill \\ \end{gathered} $$ subject to$$h(x(0), p(0)) = 0,e(x(N), p(N)) = 0.$$ It is a counterpart of a method recently proposed by the authors for similar continuous-time TPBVPs with ordinary differential equations. The method, based on invariant imbedding and a generalized Riccati transformation, reduces the TPBVP to a pair of approximate initial-value problems with ordinary difference equations. Numerical tests are run on two examples originating in optimal control problems.
+Keywords
+Two-point boundary-value problems  difference equations  invariant imbedding  Riccati transformation  iterative methods  

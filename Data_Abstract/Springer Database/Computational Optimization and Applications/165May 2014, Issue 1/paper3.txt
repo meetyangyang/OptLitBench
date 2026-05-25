@@ -1,0 +1,6 @@
+On R-linear convergence of semi-monotonic inexact augmented Lagrangians for saddle point problems
+Zdeněk Dostál;David Horák;Petr Vodstrčil;
+Abstract
+A variant of the inexact augmented Lagrangian algorithm called SMALE (Dostál in Comput. Optim. Appl. 38:47–59, 2007) for the solution of saddle point problems with a positive definite left upper block is studied. The algorithm SMALE-M presented here uses a fixed regularization parameter and controls the precision of the solution of auxiliary unconstrained problems by a multiple of the norm of the residual of the second block equation and a constant which is updated in order to enforce increase of the Lagrangian function. A nice feature of SMALE-M inherited from SMALE is its capability to find an approximate solution in a number of iterations that is bounded in terms of the extreme eigenvalues of the left upper block and does not depend on the off-diagonal blocks. Here we prove the R-linear rate of convergence of the outer loop of SMALE-M for any regularization parameter. The theory is illustrated by numerical experiments.
+Keywords
+Quadratic programming  Equality constraints  Augmented Lagrangians  Adaptive precision control  Error bounds  Periodic boundary conditions  

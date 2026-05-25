@@ -1,0 +1,6 @@
+Quadratic programming formulations for classificationand regression
+ Robin   C.   Gilbert ; Theodore   B.   Trafalis ;
+Abstract
+ We reformulate the support vector machine approach to classification and regression problems using a different methodology than the classical ‘largest margin’ paradigm. From this, we are able to derive extremely simple quadratic programming problems that allow for general symbolic solutions to the classical problems of geometric classification and regression. We obtain a new class of learning machines that are also robust to the presence of small perturbations and/or corrupted or missing data in the training sets (provided that information about the amplitude of the perturbations is known approximately). A high performance framework for very large-scale classification and regression problems based on a Voronoi tessellation of the input space is also introduced in this work. Our approach has been tested on seven benchmark databases with noticeable gain in computational time in comparison with standard decomposition techniques such as SVM light . 
+Keywords
+classification, nonlinear regression, pattern recognition AMS Subject Classification: 62G08, 62H30, 62J02, 68T10 

@@ -1,0 +1,6 @@
+A Globally and Superlinearly Convergent SQP Algorithm for Nonlinear Constrained Optimization
+Liqun Qi;Yu-Fei Yang;
+Abstract
+Based on a continuously differentiable exact penalty function and a regularization technique for dealing with the inconsistency of subproblems in the SQP method, we present a new SQP algorithm for nonlinear constrained optimization problems. The proposed algorithm incorporates automatic adjustment rules for the choice of the parameters and makes use of an approximate directional derivative of the merit function to avoid the need to evaluate second order derivatives of the problem functions. Under mild assumptions the algorithm is proved to be globally convergent, and in particular the superlinear convergence rate is established without assuming that the strict complementarity condition at the solution holds. Numerical results reported show that the proposed algorithm is promising.
+Keywords
+SQP method  constrained optimization  exact penalty function  global convergence  superlinear convergence  

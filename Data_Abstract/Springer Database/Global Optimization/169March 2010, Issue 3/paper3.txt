@@ -1,0 +1,6 @@
+A primal dual modified subgradient algorithm with sharp Lagrangian
+Regina S. Burachik;Alfredo N. Iusem;Jefferson G. Melo;
+Abstract
+We apply a modified subgradient algorithm (MSG) for solving the dual of a nonlinear and nonconvex optimization problem. The dual scheme we consider uses the sharp augmented Lagrangian. A desirable feature of this method is primal convergence, which means that every accumulation point of a primal sequence (which is automatically generated during the process), is a primal solution. This feature is not true in general for available variants of MSG. We propose here two new variants of MSG which enjoy both primal and dual convergence, as long as the dual optimal set is nonempty. These variants have a very simple choice for the stepsizes. Moreover, we also establish primal convergence when the dual optimal set is empty. Finally, our second variant of MSG converges in a finite number of steps.
+Keywords
+Nonsmooth optimization  Nonconvex optimization  Duality scheme  Sharp Lagrangian  Modified subgradient algorithm  90C26  49M29  49M37  

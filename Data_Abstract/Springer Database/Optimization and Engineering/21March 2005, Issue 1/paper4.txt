@@ -1,0 +1,6 @@
+A Coupled-Adjoint Sensitivity Analysis Method for High-Fidelity Aero-Structural Design
+Joaquim R.R.A. Martins;Juan J. Alonso;James J. Reuther;
+Abstract
+This paper presents an adjoint method for sensitivity analysis that is used in an aero-structural aircraft design framework. The aero-structural analysis uses high-fidelity models of both the aerodynamics and the structures. Aero-structural sensitivities are computed using a coupled-adjoint approach that is based on previously developed single discipline sensitivity analysis. Alternative strategies for coupled sensitivity analysis are also discussed. The aircraft geometry and a structure of fixed topology are parameterized using a large number of design variables. The aero-structural sensitivities of aerodynamic and structural functions with respect to these design variables are computed and compared with results given by the complex-step derivative approximation. The coupled-adjoint procedure is shown to yield very accurate sensitivities and to be computationally efficient, making high-fidelity aero-structural design feasible for problems with thousands of design variables.
+Keywords
+sensitivity analysis  adjoint method  aero-structural design  complex-step method  

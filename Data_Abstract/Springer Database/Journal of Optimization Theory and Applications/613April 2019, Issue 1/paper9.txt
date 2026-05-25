@@ -1,0 +1,6 @@
+Power Diagram Detection with Applications to Information Elicitation
+Steffen Borgwardt;Rafael M. Frongillo;
+Abstract
+Power diagrams, a type of weighted Voronoi diagram, have many applications throughout operations research. We study the problem of power diagram detection: determining whether a given finite partition of \({\mathbb {R}}^d\) takes the form of a power diagram. This detection problem is particularly prevalent in the field of information elicitation, where one wishes to design contracts to incentivize self-minded agents to provide honest information. We devise a simple linear program to decide whether a polyhedral cell complex can be described as a power diagram. For positive instances, a representation of the cell complex as a power diagram is returned. Further, we discuss applications to property elicitation, peer prediction, and mechanism design, where this question arises. Our model can efficiently decide the question for complexes of \({\mathbb {R}}^d\) or of a convex subset thereof. The approach is based on the use of an alternative representation of power diagrams and invariance of a power diagram under uniform scaling of the parameters in this representation.
+Keywords
+Power diagram  Information elicitation  Linear programming  90C05  90C90  91B06  62C05  

@@ -1,0 +1,6 @@
+A Revised Dual Projective Pivot Algorithm for Linear Programming
+Ping-Qi  Pan;
+Abstract
+We revise the dual projective pivot algorithm using sparse rectangular LU factors. In each iteration, the proposed algorithm solves at most three triangular systems, while simplex algorithms solve four. Instead of the classical basis, it uses a so-called pseudobasis (a rectangular matrix having fewer columns than rows), thereby solving smaller linear systems with a potentially improved stability compared to simplex algorithms. Most importantly, it generates good search directions at a low cost. We report encouraging computational results on a set of 50 Netlib standard test problems as well as a set of 15 much larger real-world problems. A code named RDPPA 1.10 based on the proposed algorithm outperformed MINOS 5.51 significantly in terms of both iterations and run time. In particular, it appears that a high proportion of degenerate iterations need not imply many total iterations (contradicting the common belief).
+Keywords
+large-scale linear programming, dual algorithm, projection, pivot, pseudobasis, deficient basis, LU factorization, 65K05, 90C05, 

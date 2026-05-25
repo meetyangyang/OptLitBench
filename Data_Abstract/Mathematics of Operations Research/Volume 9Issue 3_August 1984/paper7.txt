@@ -1,0 +1,6 @@
+Permuting Elements Within Columns of a Matrix in Order to Minimize Maximum Row Sum
+E. G. Coffman, Jr.;M. Yannakakis;
+Abstract
+We study the problem of permuting the elements within columns of a given m × n matrix A so as to minimize its maximum row sum (sum of the elements in a row). We introduce and analyze an approximation algorithm of greedy type for this NP-complete problem. We prove that our algorithm produces matrices with maximum row sums no more than 3/2 − 1/2m times greater than those found by an optimization rule. Moreover, examples are presented which achieve this relative performance. Thus, our algorithm represents a substantial improvement in that all earlier algorithms have a worst-case performance that is asymptotically twice that of an optimization rule. We verify that our algorithm requires at most O(m2n) time, which is a modest increase over the earlier algorithms requiring Θ(mn log n) time in the worst-case.
+Keywords
+scheduling assignment heuristics 

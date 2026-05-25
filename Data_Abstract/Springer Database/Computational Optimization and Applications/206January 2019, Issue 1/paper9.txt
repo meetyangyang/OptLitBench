@@ -1,0 +1,6 @@
+On the optimal solution set in interval linear programming
+Elif Garajová;Milan Hladík;
+Abstract
+Determining the set of all optimal solutions of a linear program with interval data is one of the most challenging problems discussed in interval optimization. In this paper, we study the topological and geometric properties of the optimal set and examine sufficient conditions for its closedness, boundedness, connectedness and convexity. We also prove that testing boundedness is co-NP-hard for inequality-constrained problems with free variables. Furthermore, we prove that computing the exact interval hull of the optimal set is NP-hard for linear programs with an interval right-hand-side vector. We then propose a new decomposition method for approximating the optimal solution set based on complementary slackness and show that the method provides the exact description of the optimal set for problems with a fixed coefficient matrix. Finally, we conduct computational experiments to compare our method with the existing orthant decomposition method.
+Keywords
+Interval linear programming  Optimal solution set  Decomposition methods  Topological properties  

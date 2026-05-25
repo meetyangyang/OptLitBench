@@ -1,0 +1,6 @@
+Iterated greedy algorithms to minimize the total family flow time for job-shop scheduling with job families and sequence-dependent set-ups
+Ji-Su Kim;Jung-Hyeon Park;Dong-Ho Lee;
+Abstract
+This study addresses a variant of job-shop scheduling in which jobs are grouped into job families, but they are processed individually. The problem can be found in various industrial systems, especially in reprocessing shops of remanufacturing systems. If the reprocessing shop is a job-shop type and has the component-matching requirements, it can be regarded as a job shop with job families since the components of a product constitute a job family. In particular, sequence-dependent set-ups in which set-up time depends on the job just completed and the next job to be processed are also considered. The objective is to minimize the total family flow time, i.e. the maximum among the completion times of the jobs within a job family. A mixed-integer programming model is developed and two iterated greedy algorithms with different local search methods are proposed. Computational experiments were conducted on modified benchmark instances and the results are reported.
+Keywords
+Job-shop scheduling with job families, sequence-dependent set-ups, total family flow time, iterated greedy algorithms 

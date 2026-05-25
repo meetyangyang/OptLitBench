@@ -1,0 +1,6 @@
+Dijkstra’s algorithm and L-concave function maximization
+Kazuo Murota;Akiyoshi Shioura;
+Abstract
+Dijkstra’s algorithm is a well-known algorithm for the single-source shortest path problem in a directed graph with nonnegative edge length. We discuss Dijkstra’s algorithm from the viewpoint of discrete convex analysis, where the concept of discrete convexity called L-convexity plays a central role. We observe first that the dual of the linear programming (LP) formulation of the shortest path problem can be seen as a special case of L-concave function maximization. We then point out that the steepest ascent algorithm for L-concave function maximization, when applied to the LP dual of the shortest path problem and implemented with some auxiliary variables, coincides exactly with Dijkstra’s algorithm.
+Keywords
+Shortest path problem  Dijkstra’s algorithm  Discrete concave function  Steepest ascent algorithm  90C27  68Q25  

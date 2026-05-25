@@ -1,0 +1,6 @@
+On the bigℳ in the affine scaling algorithm
+Tohru Ishihara;Masakazu Kojima;
+Abstract
+When we apply the affine scaling algorithm to a linear program, we usually construct an artificial linear program having an interior feasible solution from which the algorithm starts. The artificial linear program involves a positive number called the bigℳ. Theoretically, there exists anℳ* such that the original problem to be solved is equivalent to the artificial linear program ifℳ >ℳ*. Practically, however, such anℳ* is unknown and a safe estimate ofℳ is often too large. This paper proposes a method of updatingℳ to a suitable value during the iteration of the affine scaling algorithm. Asℳ becomes large, the method gives information on infeasibility of the original problem or its dual.
+Keywords
+Bigℳ  affine scaling algorithm  linear program  interior point algorithm  infeasibility  global convergence  

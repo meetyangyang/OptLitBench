@@ -1,0 +1,6 @@
+Single machine scheduling with flow time and earliness penalties
+Jonathan F. Bard;Krishnamurthi Venkatraman;Thomas A. Feo;
+Abstract
+This paper considers the problem of schedulingn jobs on a single machine to minimize the total cost incurred by their respective flow time and earliness penalties. It is assumed that each job has a due date that must be met, and that preemptions are not allowed. The problem is formulated as a dynamic program (DP) and solved with a reaching algorithm that exploits a series of dominance properties and efficiently generated bounds. A major factor underlying the effectiveness of the approach is the use of a greedy randomized adaptive search procedure (GRASP) to construct high quality feasible solutions. These solutions serve as upper bounds on the optimum, and permit a predominant portion of the state space to be fathomed during the DP recursion.
+Keywords
+Single machine scheduling  dynamic programming  greedy heuristics  bicriteria optimization  branch and bound  

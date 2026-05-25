@@ -1,0 +1,6 @@
+The Rate of Convergence of Nesterov's Accelerated Forward-Backward Method is Actually Faster Than $1/k^2$
+Hedy  Attouch and Juan  Peypouquet;
+Abstract
+The forward-backward algorithm is a powerful tool for solving optimization problems with an additively separable and smooth plus nonsmooth structure. In the convex setting, a simple but ingenious acceleration scheme developed by Nesterov improves the theoretical rate of convergence for the function values from the standard $\mathcal O(k^{-1})$ down to $\mathcal O(k^{-2})$. In this short paper, we prove that the rate of convergence of a slight variant of Nesterov's accelerated forward-backward method, which produces convergent sequences, is actually $o(k^{-2})$, rather than $\mathcal O(k^{-2})$. Our arguments rely on the connection between this algorithm and a second-order differential inclusion with vanishing damping.
+Keywords
+convex optimization, fast convergent methods, Nesterov method, 49M37, 65K05, 90C25, 

@@ -1,0 +1,6 @@
+Optimal toll design: a lower bound framework for the asymmetric traveling salesman problem
+Alejandro Toriello;
+Abstract
+We propose a framework of lower bounds for the asymmetric traveling salesman problem (TSP) based on approximating the dynamic programming formulation with different basis vector sets. We discuss how several well-known TSP lower bounds correspond to intuitive basis vector choices and give an economic interpretation wherein the salesman must pay tolls as he travels between cities. We then introduce an exact reformulation that generates a family of successively tighter lower bounds, all solvable in polynomial time. We show that the base member of this family yields a bound greater than or equal to the well-known Held-Karp bound, obtained by solving the linear programming relaxation of the TSP’s integer programming arc-based formulation.
+Keywords
+Traveling salesman problem  Dynamic program  Approximate linear program  Integer program  Lower bound technique  90C10  90C27  90C35  90C39  

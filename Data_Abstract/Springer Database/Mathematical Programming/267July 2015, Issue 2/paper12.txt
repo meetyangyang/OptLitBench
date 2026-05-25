@@ -1,0 +1,6 @@
+Cutting planes for RLT relaxations of mixed 0–1 polynomial programs
+Franklin Djeumou Fomeni;Konstantinos Kaparis;Adam N. Letchford;
+Abstract
+The reformulation–linearization technique, due to Sherali and Adams, can be used to construct hierarchies of linear programming relaxations of mixed 0–1 polynomial programs. As one moves up the hierarchy, the relaxations grow stronger, but the number of variables increases exponentially. We present a procedure that generates cutting planes at any given level of the hierarchy, by optimally weakening linear inequalities that are valid at any given higher level. Computational experiments, conducted on instances of the quadratic knapsack problem, indicate that the cutting planes can close a significant proportion of the integrality gap.
+Keywords
+Polynomial optimisation  Cutting planes   Mixed-integer nonlinear programming  Quadratic knapsack problem  90C26  90C27  

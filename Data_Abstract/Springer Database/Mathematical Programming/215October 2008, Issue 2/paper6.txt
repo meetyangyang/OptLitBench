@@ -1,0 +1,6 @@
+Modified Cholesky algorithms: a catalog with new approaches
+Haw-ren Fang;Dianne P. O’Leary;
+Abstract
+Given an n ×  n symmetric possibly indefinite matrix A, a modified Cholesky algorithm computes a factorization of the positive definite matrix A +  E, where E is a correction matrix. Since the factorization is often used to compute a Newton-like downhill search direction for an optimization problem, the goals are to compute the modification without much additional cost and to keep A +  E well-conditioned and close to A. Gill, Murray and Wright introduced a stable algorithm, with a bound of ||E||2 =  O(n 2). An algorithm of Schnabel and Eskow further guarantees ||E||2 =  O(n). We present variants that also ensure ||E||2 =  O(n). Moré and Sorensen and Cheng and Higham used the block LBL  T  factorization with blocks of order 1 or 2. Algorithms in this class have a worst-case cost O(n 3) higher than the standard Cholesky factorization. We present a new approach using a sandwiched LTL  T -LBL  T  factorization, with T tridiagonal, that guarantees a modification cost of at most O(n 2).
+Keywords
+Search Direction  Random Matrice  Maximum Magnitude  Cholesky Factorization  Lower Triangular Matrix  

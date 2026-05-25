@@ -1,0 +1,8 @@
+Damage assessment on plate-like structures using a global-local optimization approach
+Michele Meo;G. Zumpano;
+Abstract
+
+A new method for finite element model updating using simulated data is presented. A global-local optimization (GLO) approach was adopted to adjust the uncertain properties of the FE model by minimizing iteratively the differences between the measured dynamic modal parameters and the corresponding analytical predictions. In contrast with most of the existing updating techniques, which minimize modal force errors, objective functions based on Coordinate Modal Assurance Criterion (COMAC) and Frequency Response Assurance Criterion (FRAC) were employed. The GLO procedure was employed to minimize the norm of these vectors by updating the physical model variables (thickness, Young modulus, etc.). The proposed model updating procedure was applied to damage localization and quantification of structures, whose damage characteristics can be represented by a reduction of the element bending and axial stiffness. Results showed that a significant reduction in terms of computer run-time and improved damage assessment can be achieved. The procedure is illustrated on a plate-like structure by measuring dynamic properties before and after structural changes for four different damage cases.
+
+Keywords
+Damage detection  Global-local optimization  Coordinate Modal Assurance Criterion (COMAC)  Frequency Response Assurance Criterion (FRAC)  

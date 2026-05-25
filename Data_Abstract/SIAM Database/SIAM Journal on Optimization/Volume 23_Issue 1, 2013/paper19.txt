@@ -1,0 +1,6 @@
+Second-Order-Cone Constraints for Extended Trust-Region Subproblems
+Samuel  Burer and Kurt M.  Anstreicher;
+Abstract
+The classical trust-region subproblem (TRS) minimizes a nonconvex quadratic objective over the unit ball. In this paper, we consider extensions of TRS having extra constraints. When two parallel cuts are added to TRS, we show that the resulting nonconvex problem has an exact representation as a semidefinite program with additional linear and second-order-cone (SOC) constraints. For the case where an additional ellipsoidal constraint is added to TRS, resulting in the “two trust-region subproblem" (TTRS), we provide a new relaxation including SOC constraints that strengthens the usual semidefinite programming (SDP) relaxation.
+Keywords
+trust-region subproblem, second-order-cone programming, semidefinite programming, nonconvex quadratic programming, 90C20, 90C22, 90C25, 90C26, 90C30, 

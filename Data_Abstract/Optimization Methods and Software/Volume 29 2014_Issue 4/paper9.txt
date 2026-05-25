@@ -1,0 +1,6 @@
+The spectral bundle method with second-order information
+C. Helmberg;M.L. Overton;F. Rendl;
+Abstract
+The spectral bundle (SB) method was introduced by Helmberg and Rend [A spectral bundle method for semidefinite programming. SIAM J. Optim. 10 (2000), pp. 673–696] to solve a class of eigenvalue optimization problems that is equivalent to the class of semidefinite programs with the constant trace property. We investigate the feasibility and effectiveness of including full or partial second-order information in the SB method, building on work of Overton [On minimizing the maximum eigenvalue of a symmetric matrix. SIAM J. Matrix Anal. Appl. 9(2) (1988), pp. 256–268] and Overton and Womersley [Second derivatives for optimizing eigenvalues of symmetric matrices. SIAM J. Matrix Anal. Appl. 16 (1995), pp. 697–718]. We propose several variations that include second-order information in the SB method and describe efficient implementations. One of these, namely diagonal scaling based on a low-rank approximation of the second-order model for λmax, improves the standard SB method both with respect to accuracy requirements and computation time.
+Keywords
+semidefinite optimization, bundle methods, eigenvalue optimization 

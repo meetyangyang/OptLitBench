@@ -1,0 +1,6 @@
+Integer Solution to Synthesis of Communication Networks
+S. Sridhar;R. Chandrasekaran;
+Abstract
+This paper describes a polynomial-time algorithm for the following problem: Let ri,j be the given requirements for all i, j ∈ {1, …, n}, with ri,j = rj,i for i, j. Find integer capacities ci,j for all i, j ∈ {1, …, n} such that (considering 1, …, n as the vertices of an undirected network N, with capacities ci,j):(i) for for all i ≠ j there exists a flow in N from i to j of value, at least ri,j;(ii) ∑i<jci,j is minimized.This is the integer version of Gomory and Hu's problem to synthesize an undirected network. It is shown that rounding holds when there is no node with unit potential.
+Keywords
+networks synthesis integer programming multiterminal maxiflow problem 

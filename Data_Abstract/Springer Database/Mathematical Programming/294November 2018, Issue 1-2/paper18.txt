@@ -1,0 +1,6 @@
+Constant factor approximation for ATSP with two edge weights
+Ola Svensson;Jakub Tarnawski;László A. Végh;
+Abstract
+We give a constant factor approximation algorithm for the Asymmetric Traveling Salesman Problem on shortest path metrics of directed graphs with two different edge weights. For the case of unit edge weights, the first constant factor approximation was given recently by Svensson. This was accomplished by introducing an easier problem called Local-Connectivity ATSP and showing that a good solution to this problem can be used to obtain a constant factor approximation for ATSP. In this paper, we solve Local-Connectivity ATSP for two different edge weights. The solution is based on a flow decomposition theorem for solutions of the Held–Karp relaxation, which may be of independent interest.
+Keywords
+68W25  05C85  90C05  90C27  

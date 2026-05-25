@@ -1,0 +1,6 @@
+A projected gradient method for optimization over density matrices
+D.S. Gonçalves;M.A. Gomes-Ruggiero;C. Lavor;
+Abstract
+An ensemble of quantum states can be described by a Hermitian, positive semidefinite and unit trace matrix called density matrix. Thus, the study of methods for optimizing a certain function (energy, entropy) over the set of density matrices has a direct application to important problems in quantum information and computation. We propose a projected gradient method for solving such problems. By exploiting the geometry of the feasible set, which is the intersection of the cone of Hermitian positive semidefinite matrices with the hyperplane defined by the unit trace constraint, we describe an efficient procedure to compute the projection onto this set using the Frobenius norm. Some important applications, such as quantum state tomography, are described and numerical experiments illustrate the effectiveness of the method when compared to previous methods based on fixed-point iterations or semidefinite programming.
+Keywords
+projected gradient, semidefinite programming, quantum state estimationAMS Subject Classification: 65K, 65Z05, 81P50, 90C22, 90C90 

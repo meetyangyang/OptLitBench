@@ -1,0 +1,6 @@
+Combination of General Antithetic Transformations and Control Variables
+Hatem Ben-Ameur;Pierre L'Ecuyer;Christiane Lemieux;
+Abstract
+Several methods for reducing the variance in the context of Monte Carlo simulation are based on correlation induction. This includes antithetic variates, Latin hypercube sampling, and randomized version of quasi-Monte Carlo methods such as lattice rules and digital nets, where the resulting estimators are usually weighted averages of several dependent random variables that can be seen as function evaluations at a finite set of random points in the unit hypercube. In this paper, we consider a setting where these methods can be combined with the use of control variates and we provide conditions under which we can formally prove that the variance is minimized by choosing equal weights and equal control variate coefficients across the different points of evaluation, regardless of the function (integrand) that is evaluated.
+Keywords
+variance reduction control variates antithetic variates quasi-Monte Carlo lattice rules digital nets Latin hypercube sampling 

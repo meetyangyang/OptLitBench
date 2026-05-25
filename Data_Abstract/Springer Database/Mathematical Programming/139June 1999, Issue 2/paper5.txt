@@ -1,0 +1,6 @@
+Proximal quasi-Newton methods for nondifferentiable convex optimization
+Xiaojun Chen;Masao Fukushima;
+Abstract
+. The method is based on Rockafellar’s proximal point algorithm and a cutting-plane technique. At each step, we use an approximate proximal point pa(xk) of xk to define a vk∈∂εkf(pa(xk)) with εk≤α∥vk∥, where α is a constant. The method monitors the reduction in the value of ∥vk∥ to identify when a line search on f should be used. The quasi-Newton step is used to reduce the value of ∥vk∥. Without the differentiability of f, the method converges globally and the rate of convergence is Q-linear. Superlinear convergence is also discussed to extend the characterization result of Dennis and Moré. Numerical results show the good performance of the method.
+Keywords
+Key words: nondifferentiable convex optimization – proximal point – quasi-Newton method – cutting-plane method – bundle methods Mathematics Subject Classification (1991): 65K05, 90C30  

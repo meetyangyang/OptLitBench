@@ -1,0 +1,6 @@
+On the Nesterov--Todd Direction in Semidefinite Programming
+M. J.  Todd, K. C.  Toh, and R. H.  Tütüncü;
+Abstract
+We study different choices of search direction for primal-dual interior-point methods for semidefinite programming problems. One particular choice we consider comes from a specialization of a class of algorithms developed by Nesterov and Todd for certain convex programming problems. We discuss how the search directions for the Nesterov--Todd (NT) method can be computed efficiently and demonstrate how they can be viewed as Newton directions. This last observation also leads to convenient computation of accelerated steps, using the Mehrotra predictor-corrector approach, in the NT framework. We also provide an analytical and numerical comparison of several methods using different search directions, and suggest that the method using the NT direction is more robust than alternative methods.
+Keywords
+semidefinite programming, Newton direction, predictor-corrector interior-point method, 90C05, 

@@ -1,0 +1,6 @@
+An Inner-Outer Approximation Approach to Chance Constrained Optimization
+Abebe  Geletu, Armin  Hoffmann, Michael  Klöppel, and Pu  Li;
+Abstract
+Nonlinear chance constrained optimization (CCOPT) problems are known to be difficult to solve. This work proposes a smooth approximation approach consisting of an inner and an outer analytic approximation of chance constraints. In this way, CCOPT is approximated by two parametric nonlinear programming (NLP) problems which can be readily solved by an NLP solver. Any optimal solution of the inner approximation problem is a priori feasible to the CCOPT. The solutions of the inner and outer problems, respectively, converge asymptotically to the optimal solution of the CCOPT.
+Keywords
+chance constrained optimization, inner approximation, outer approximation, a priori feasibility, nonconvex optimization, 49M37, 65K05, 90C15, 

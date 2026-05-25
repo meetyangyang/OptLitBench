@@ -1,0 +1,6 @@
+Randomized line search techniques in combined GA for discrete sizing optimization of truss structures
+Kiichiro Sawada;Akira Matsuo;Hitoshi Shimizu;
+Abstract
+This paper presents two randomized line search techniques, each combined with a genetic algorithm (GA), to improve the convergence and the accuracy ratio for discrete sizing optimization of truss structures. The first technique is a simple one-dimensional line search in which design variable axes are selected randomly as search directions. The second is a line search technique whose search direction is determined randomly by fitness function values and differences in the genotypes of individuals. To apply the above-mentioned line search techniques without difficulty, real coding is adopted for discrete problems. The line search techniques are applied to discrete optimization problems of minimum-weight truss structures subjected to stress and displacement constraints. The proposed techniques provide convergence to better solutions than a conventional GA.
+Keywords
+Genetic algorithm  Randomized line search technique  Discrete truss optimization  

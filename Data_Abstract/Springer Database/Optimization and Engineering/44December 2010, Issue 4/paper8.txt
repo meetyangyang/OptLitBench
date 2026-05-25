@@ -1,0 +1,6 @@
+Scheduling UET-UCT tasks: branch-and-bound search in the priority space
+Yakov Zinder;Bo Su;Gaurav Singh;Ron Sorli;
+Abstract
+The paper is concerned with the problem of scheduling partially ordered unit execution time tasks on parallel processors with unit communication delays and release times. Two criteria are considered, the maximum lateness and its particular case, the makespan. This problem plays an important role in scheduling theory and was originally inspired by the applications to multi-processor computer systems. It is well known that for both criteria the problem is NP-hard in the strong sense. The paper presents an implementation of the branch-and-bound method which does not partition the feasible region explicitly. The theoretical results are complemented by computational experiments.
+Keywords
+Scheduling  Parallel processors  Partially ordered tasks  Unit communication delay  Maximum lateness  Release times  

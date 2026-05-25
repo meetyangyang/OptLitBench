@@ -1,0 +1,6 @@
+Incomplete inference for graph problems
+F. Heras;D. Baneres;
+Abstract
+Recently, a resolution-based transformation has been introduced for the usual Max-SAT encoding of several graph problems such as the Minimum Vertex Covering, Maximum Clique and Combinatorial Auctions which consists in iteratively applying specific inference rules to transform and simplify the original formula. Such transformation was shown suitable to improve the performance of local and systematic search procedures. In this paper, we present several refinements for such transformation. In particular, we introduce a more suitable transformation for the Minimum Vertex Covering problem, specially for its weighted version, and we extend its use for the Maximum Cut problem. Empirical results indicate that systematic Max-SAT solvers improve substantially their performance.
+Keywords
+Max-SAT  Inference  Minimum Vertex Covering  Max-Cut  

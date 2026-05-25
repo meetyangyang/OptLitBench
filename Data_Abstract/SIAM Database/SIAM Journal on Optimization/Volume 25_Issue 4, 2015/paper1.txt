@@ -1,0 +1,6 @@
+A Hybrid Proximal Extragradient Self-Concordant Primal Barrier Method for Monotone Variational Inequalities
+Renato D. C.  Monteiro, Mauricio R.  Sicre, and B. F.  Svaiter;
+Abstract
+This paper presents a hybrid proximal extragradient (HPE) self-concordant primal barrier method for solving a monotone variational inequality over a closed convex set endowed with a self-concordant barrier and with an underlying map that has Lipschitz continuous derivative. In contrast to the iteration of a previous method developed by the first and third authors that has to compute an approximate solution of a linearized variational inequality, the one of the present method solves a simpler Newton system of linear equations. The method performs two types of iterations, namely, those that follow ever changing interior paths and those that correspond to  large-step HPE iterations. Due to its first-order nature, the present method is shown to have a better iteration-complexity than its zeroth order counterparts such as Korpelevich's algorithm and Tseng's modified forward-backward splitting method, although its work per iteration is larger than the one for the latter methods.
+Keywords
+self-concordant barriers, hybrid proximal extragradient, interior-point methods, monotone variational inequality, complexity, Newton method, 90C60, 90C30, 90C51, 47H05, 47J20, 65K10, 65K05, 49M15, 

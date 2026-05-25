@@ -1,0 +1,6 @@
+New formulations for Variable Cost and Size Bin Packing Problems with Item Fragmentation
+Marco Casazza;
+Abstract
+In the Bin Packing Problem with Item Fragmentation a set of items of known weight and a set of bins of limited capacity are given; the task is to find the minimum cost assignment of items to bins without exceeding their capacity. However, contrary to the classical Bin Packing Problem, items can be split and fractionally assigned to different bins at a cost. In this paper we generalize models and properties from the literature by considering a set of heterogeneous bins, possibly having different cost and capacity. We prove that such a natural extension changes substantial features of the problem. We propose both compact and extended formulations and a branch-and-price algorithm that combines column generation techniques and implicit enumeration strategies to achieve guarantees on the optimality of the solutions. We present the results of an extensive experimental campaign proving that our algorithm outperforms general purpose commercial solvers by orders of magnitude.
+Keywords
+Bin Packing  Item Fragmentation  Variable Cost and Size  Column generation  

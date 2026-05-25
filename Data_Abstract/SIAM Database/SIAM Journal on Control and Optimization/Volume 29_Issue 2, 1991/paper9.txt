@@ -1,0 +1,6 @@
+On the Convergence of the Proximal Point Algorithm for Convex Minimization
+Osman  Güler;
+Abstract
+The proximal point algorithm (PPA) for the convex minimization problem $\min _{x \in H} f(x)$, where $f:H \to R \cup \{ \infty \} $ is a proper, lower semicontinuous (lsc) function in a Hilbert space H is considered. Under this minimal assumption on f, it is proved that the PPA, with positive parameters $\{ \lambda _k \} _{k = 1}^\infty  $, converges in general if and only if $\sigma _n  = \sum_{k = 1}^n {\lambda _k  \to \infty } $. Global convergence rate estimates for the residual $f(x_n ) - f(u)$, where $x_n $ is the nth iterate of the PPA and $ u \in H $ is arbitrary are given. An open question of Rockafellar is settled by giving an example of a PPA for which $x_n $ converges weakly but not strongly to a minimizes of f.
+Keywords
+proximal point algorithm, convex programming, strong convergence, 90C25, 49D45, 49D37, 

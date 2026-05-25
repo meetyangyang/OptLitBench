@@ -1,0 +1,6 @@
+Solving proximal split feasibility problems without prior knowledge of operator norms
+A. Moudafi;B. S. Thakur;
+Abstract
+In this paper our interest is in investigating properties and numerical solutions of Proximal Split feasibility Problems. First, we consider the problem of finding a point which minimizes a convex function \(f\) such that its image under a bounded linear operator \(A\) minimizes another convex function \(g\). Based on an idea introduced in Lopez (Inverse Probl 28:085004, 2012), we propose a split proximal algorithm with a way of selecting the step-sizes such that its implementation does not need any prior information about the operator norm. Because the calculation or at least an estimate of the operator norm \(\Vert A\Vert \) is not an easy task. Secondly, we investigate the case where one of the two involved functions is prox-regular, the novelty of this approach is that the associated proximal mapping is not nonexpansive any longer. Such situation is encountered, for instance, in numerical solution to phase retrieval problem in crystallography, astronomy and inverse scattering Luke (SIAM Rev 44:169–224, 2002) and is therefore of great practical interest.
+Keywords
+Proximal split feasibility problems  Moreau–Yosida approximate  Prox-regularity  49J53  65K10  49M37  90C25  

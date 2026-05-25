@@ -1,0 +1,6 @@
+The discretizable molecular distance geometry problem
+Carlile Lavor;Leo Liberti;Nelson Maculan;Antonio Mucherino;
+Abstract
+Given a simple weighted undirected graph G=(V,E,d) with d:E→ℝ+, the Molecular Distance Geometry Problem (MDGP) consists in finding an embedding x:V→ℝ3 such that ‖x  u −x  v ‖=d  uv  for each {u,v}∈E. We show that under a few assumptions usually satisfied in proteins, the MDGP can be formulated as a search in a discrete space. We call this MDGP subclass the Discretizable MDGP (DMDGP). We show that the DMDGP is NP-hard and we propose a solution algorithm called Branch-and-Prune (BP). The BP algorithm performs remarkably well in practice in terms of speed and solution accuracy, and can be easily modified to find all incongruent solutions to a given DMDGP instance. We show computational results on several artificial and real-life instances.
+Keywords
+Distance geometry  Branch-and-prune  Molecular conformation  Protein  NMR  

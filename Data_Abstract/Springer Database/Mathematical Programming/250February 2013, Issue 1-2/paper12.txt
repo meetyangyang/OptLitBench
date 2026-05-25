@@ -1,0 +1,6 @@
+On the use of piecewise linear models in nonlinear programming
+Richard H. Byrd;Jorge Nocedal;Richard A. Waltz;Yuchen Wu;
+Abstract
+This paper presents an active-set algorithm for large-scale optimization that occupies the middle ground between sequential quadratic programming and sequential linear-quadratic programming methods. It consists of two phases. The algorithm first minimizes a piecewise linear approximation of the Lagrangian, subject to a linearization of the constraints, to determine a working set. Then, an equality constrained subproblem based on this working set and using second derivative information is solved in order to promote fast convergence. A study of the local and global convergence properties of the algorithm highlights the importance of the placement of the interpolation points that determine the piecewise linear model of the Lagrangian.
+Keywords
+49M37  65K05  90C06  90C30  90C55  

@@ -1,0 +1,6 @@
+A GLOBAL FLOOR PLANNING TECHNIQUE FOR VLSI LAYOUT
+ A.   HERRIGEL ;
+Abstract
+ Over the years, many CAD tools for VLSI macrocelf design have become available that automatically perform some of the physical synthesis phases to reduce development costs. Although floor planning imposes global constraints on the quality of the final layout, state-of-the-art tools do not completely support floor planning synthesis. A new floor planning method for macrocell layout style is presented. The floor plan state space is characterized by an equivalence relation to apply efficient solution techniques. A new pseudo-polynomial area optimization algorithm is proposed that derives from a given hierarchical floor plan tree the optimal slicing tree. The order of this floor plan tree is at least 2 and at most 5. Extensions of this approach to cover non-slicing floor plans are also described. Since floor planning and routing are interdependent tasks, an improved dynamic updating scheme is proposed to consider the interconnection area around each cell during the floor plan assembly. The method has been successfully applied to an industrial design with about 260,000 transistors. 
+Keywords
+ VLSI, floor planning, macrocell, divide-and-conquer paradigm 

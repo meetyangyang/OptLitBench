@@ -1,0 +1,6 @@
+Min-Max Moving-Horizon Estimation for Uncertain Discrete-Time Linear Systems
+A.  Alessandri, M.  Baglietto, and G.  Battistelli;
+Abstract
+Moving-horizon state estimation is addressed for a class of uncertain discrete-time linear systems with disturbances acting on the dynamic and measurement equations. The estimates are obtained by minimizing a least-squares cost function in the worst case. The resulting min-max problem can be solved by using semidefinite programming or Lagrangian relaxation, which allows one to determine approximate estimates with a reduced computational burden. Assuming a certain error in the solution of such min-max optimization problems, the stability of the estimation error in the presence of bounded disturbances is guaranteed under suitable conditions. Explicit bounding sequences on the estimation are derived. Simulation results are reported showing benefits of the proposed approach in terms of computational tractability and performances as compared with alternative methodologies.
+Keywords
+moving-horizon state estimation, min-max least squares, stability, semidefinite programming, Lagrangian relaxation, 90C47, 93E24, 90C22, 93C55, 93D05, 90C90, 

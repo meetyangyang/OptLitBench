@@ -1,0 +1,6 @@
+Numerical Solution of Fractional Optimal Control
+Wen Li;Song Wang;Volker Rehbock;
+Abstract
+This paper presents a numerical algorithm for solving a class of nonlinear optimal control problems subject to a system of fractional differential equations. We first propose a robust second-order numerical integration scheme for the system. The objective is approximated by the trapezoidal rule. We then apply a gradient-based optimization method to the discretized problem. Formulas for calculating the gradients are derived. Computational results demonstrate that our method is able to generate accurate numerical approximations for problems with multiple states and controls. It is also robust with respect to the fractional orders of derivatives.
+Keywords
+Fractional nonlinear optimal control  Numerical solution of fractional ODEs  Gradient-based algorithm  Gradient formula  49M15  49J15  65L06  

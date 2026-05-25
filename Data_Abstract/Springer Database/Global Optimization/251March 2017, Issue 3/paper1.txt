@@ -1,0 +1,6 @@
+Enclosure of all index-1 saddle points of general nonlinear functions
+Dimitrios Nerantzis;Claire S. Adjiman;
+Abstract
+Transition states (index-1 saddle points) play a crucial role in determining the rates of chemical transformations but their reliable identification remains challenging in many applications. Deterministic global optimization methods have previously been employed for the location of transition states (TSs) by initially finding all stationary points and then identifying the TSs among the set of solutions. We propose several regional tests, applicable to general nonlinear, twice continuously differentiable functions, to accelerate the convergence of such approaches by identifying areas that do not contain any TS or that may contain a unique TS. The tests are based on the application of the interval extension of theorems from linear algebra to an interval Hessian matrix. They can be used within the framework of global optimization methods with the potential of reducing the computational time for TS location. We present the theory behind the tests, discuss their algorithmic complexity and show via a few examples that significant gains in computational time can be achieved by using these tests.
+Keywords
+Global optimization  Transition states  Interval matrix  Eigenvalue bounding  NP-Hard  

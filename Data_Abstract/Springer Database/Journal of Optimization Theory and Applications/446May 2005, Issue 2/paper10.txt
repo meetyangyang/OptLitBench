@@ -1,0 +1,6 @@
+Using Selective Orthonormalization to Update the Analytic Center after Addition of Multiple Cuts
+J. E. Mitchell;S. Ramaswamy;
+Abstract
+We study the issue of updating the analytic center after multiple cutting planes have been added through the analytic center of the current polytope. This is an important issue that arises at every stage of cutting-plane algorithms. If q≤ n cuts are to be added, we show that we can use a selective orthonormalization procedure to modify the cuts before adding them; it is then easy to identify a direction for an affine step into the interior of the new polytope and the next analytic center is then found in O(qlog q) Newton steps. Further, we show that multiple cut variants with selective orthonormalization of standard interior-point cutting-plane algorithms have the same complexity as the original algorithms.
+Keywords
+Cutting plane  analytic centers  selective orthonormalization  linear programming  convex programming  

@@ -1,0 +1,6 @@
+Parallel algorithms for solving nonlinear two-point boundary-value problems which arise in optimal control
+R. Travassos;H. Kaufman;
+Abstract
+This paper describes a collection of parallel optimal control algorithms which are suitable for implementation on an advanced computer with the facility for large-scale parallel processing. Specifically, a parallel nongradient algorithm and a parallel variablemetric algorithm are used to search for the initial costate vector that defines the solution to the optimal control problem. To avoid the computational problems sometimes associated with simultaneous forward integration of both the state and costate equations, a parallel shooting procedure based upon partitioning of the integration interval is considered. To further speed computations, parallel integration methods are proposed. Application of this all-parallel procedure to a forced Van der Pol system indicates that convergence time is significantly less than that required by highly efficient serial procedures.
+Keywords
+Parallel processing  nonlinear two-point boundary-value problems  optimal control  parallel shooting  parallel integration  parallel minimization algorithms  

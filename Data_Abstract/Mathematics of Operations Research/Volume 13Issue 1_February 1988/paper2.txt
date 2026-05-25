@@ -1,0 +1,6 @@
+NP-Hard, Capacitated, Balanced p-Median Problems on a Chain Graph with a Continuum of Link Demands
+Hanif D. Sherali;Frederick L. Nordai;
+Abstract
+This paper introduces the analysis of capacitated p-median location-allocation problems on networks in which there may exist a continuum of demand on the links characterized by some demand distribution or density functions. We address the particular case of locating a given set of p capacitated facilities on a chain graph for which the total supply is equal to the total expected demand. This problem is demonstrated to be NP-hard, even when the demand is discrete and restricted to occur only at the nodes of the chain graph, or when the demand density function is symmetric and unimodal. However, the separate location and allocation subproblems are efficiently solvable, and provide a useful characterization for an optimal solution to the p-median problem. Based on this characterization, we analyze the monotone demand distribution case which admits a closed form greedy solution, and we also analyze problems having nonsymmetric or symmetric unimodal demand distributions. This analysis lays the groundwork for an enumerative type of algorithm for problems with more general demand distribution functions.
+Keywords
+location-allocation problems location on graphs capacitated location problems 

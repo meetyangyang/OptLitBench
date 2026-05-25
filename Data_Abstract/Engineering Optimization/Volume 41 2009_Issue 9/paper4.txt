@@ -1,0 +1,6 @@
+Determining heat transfer coefficients using evolutionary algorithms
+ K.   Tesch ; M.   A.   Atherton ; T.   G.   Karayiannis ; M.   W.   Collins ; P.   Edwards ;
+Abstract
+ This article presents a way of determining heat transfer calibrations for multi-objective and single-objective optimization by means of genetic algorithms. The need for optimization arises from the necessity for mathematical model validation and is very relevant to practical applications. The SPEA algorithm is used for multi-objective optimization. Scalarization of the fitness function is also addressed in combination with a small population size in order to keep the computational cost of the problem to a minimum. This is because of the time spent for a fitness function evaluation which comes from numerical solution of the nonlinear partial differential equations. The result is that a value of the heat transfer coefficient is determined that produces minimal difference between experimental results and numerical predictions. 
+Keywords
+heat transfer coefficient, air-fed pressurized suits, single-objective, multiple objective, Strength Pareto Evolutionary Algorithm 

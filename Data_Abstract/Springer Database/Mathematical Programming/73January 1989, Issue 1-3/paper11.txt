@@ -1,0 +1,6 @@
+A bracketing technique to ensure desirable convergence in univariate minimization
+Robert Mifflin;J. -J. Strodiot;
+Abstract
+This paper gives a general safeguarded bracketing technique for minimizing a function of a single variable. In certain cases the technique guarantees convergence to a stationary point and, when combined with sequential polynomial and/or polyhedral fitting algorithms, preserves rapid convergence. Each bracket has an interior point whose function value does not exceed those of the two bracket endpoints. The safeguarding technique consists of replacing the fitting algorithm's iterate candidate by a close point whose distance from the three bracket points exceeds a positive multiple of the square of the bracket length. It is shown that a given safeguarded quadratic fitting algorithm converges in a certain better than linear manner with respect to the bracket endpoints for a strongly convex twice continuously differentiable function.
+Keywords
+Univariate minimization  safeguarded bracketing algorithms  better than linear convergence  quadratic approximation  lower semicontinuous functions  

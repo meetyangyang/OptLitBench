@@ -1,0 +1,6 @@
+A Bundle Method for a Class of Bilevel Nonsmooth Convex Minimization Problems
+Mikhail V.   Solodov;
+Abstract
+We consider the bilevel problem of minimizing a nonsmooth convex function over the set of minimizers of another nonsmooth convex function. Standard convex constrained optimization is a particular case in this framework, corresponding to taking the lower level function as a penalty of the feasible set. We develop an explicit bundle‐type algorithm for solving the bilevel problem, where each iteration consists of making one descent step for a weighted sum of the upper and lower level functions, after which the weight can be updated immediately. Convergence is shown under very mild assumptions. We note that in the case of standard constrained optimization, the method does not require iterative solution of any penalization subproblems—not even approximately—and does not assume any regularity of constraints (e.g., the Slater condition). We also present some computational experiments for minimizing a nonsmooth convex function over a set defined by linear complementarity constraints.
+Keywords
+bilevel optimization, convex optimization, nonsmooth optimization, bundle methods, penalty methods, 90C30, 65K05, 49D27, 

@@ -1,0 +1,6 @@
+Automatic differentiation of explicit Runge-Kutta methods for optimal control
+Andrea Walther;
+Abstract
+This paper considers the numerical solution of optimal control problems based on ODEs. We assume that an explicit Runge-Kutta method is applied to integrate the state equation in the context of a recursive discretization approach. To compute the gradient of the cost function, one may employ Automatic Differentiation (AD). This paper presents the integration schemes that are automatically generated when differentiating the discretization of the state equation using AD. We show that they can be seen as discretization methods for the sensitivity and adjoint differential equation of the underlying control problem. Furthermore, we prove that the convergence rate of the scheme automatically derived for the sensitivity equation coincides with the convergence rate of the integration scheme for the state equation. Under mild additional assumptions on the coefficients of the integration scheme for the state equation, we show a similar result for the scheme automatically derived for the adjoint equation. Numerical results illustrate the presented theoretical results.
+Keywords
+Optimal control  Automatic differentiation  Sensitivity equation  Adjoint equation  

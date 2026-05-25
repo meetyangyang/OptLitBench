@@ -1,0 +1,6 @@
+A Hybrid Smoothing Method for Mixed Nonlinear Complementarity Problems
+Steven A. Gabriel;
+Abstract
+In this paper, we describe a new, integral-based smoothing method for solving the mixed nonlinear complementarity problem (MNCP). This approach is based on recasting MNCP as finding the zero of a nonsmooth system and then generating iterates via two types of smooth approximations to this system. Under weak regularity conditions, we establish that the sequence of iterates converges to a solution if the limit point of this sequence is regular. In addition, we show that the rate is Q-linear, Q-superlinear, or Q-quadratic depending on the level of inexactness in the subproblem calculations and we make use of the inexact Newton theory of Dembo, Eisenstat, and Steihaug. Lastly, we demonstrate the viability of the proposed method by presenting the results of numerical tests on a variety of complementarity problems.
+Keywords
+nonlinear complementarity problem  smoothing  Newton's method  

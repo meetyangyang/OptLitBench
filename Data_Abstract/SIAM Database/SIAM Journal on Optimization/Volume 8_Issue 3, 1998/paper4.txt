@@ -1,0 +1,6 @@
+On the Implementation of an Algorithm for Large-Scale Equality Constrained Optimization
+Marucha  Lalee, Jorge  Nocedal, and Todd  Plantenga;
+Abstract
+This paper describes a software implementation of Byrd and Omojokun's trust region algorithm for solving nonlinear equality constrained optimization problems. The code is designed for the efficient solution of large problems and provides the user with a variety of linear algebra techniques for solving the subproblems occurring in the algorithm. Second derivative information can be used, but when it is not available, limited memory quasi-Newton approximations are made. The performance of the code is studied using a set of difficult test problems from the CUTE collection.
+Keywords
+minimization, nonlinear optimization, large-scale optimization, constrained optimization, trust region methods, quasi-Newton methods, 65K05, 90C30, 

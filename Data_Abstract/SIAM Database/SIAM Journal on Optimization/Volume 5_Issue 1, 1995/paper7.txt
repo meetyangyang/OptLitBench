@@ -1,0 +1,6 @@
+A Positive Algorithm for the Nonlinear Complementarity Problem
+Renato D. C.  Monteiro, Jong-Shi  Pang, and Tao  Wang;
+Abstract
+In this paper, the authors describe and establish the convergence of a new iterative method for solving the (nonmonotone) nonlinear complementarily problem (NCP). The method utilizes ideas from two distinct pproaches for solving this problem and combines them into one unified framework. One of these is the infeasible-interior-point approach that computes an approximate solution to the NCP by staying in the interior of the nonnegative orthant; the other approach is typified by the NE/SQP method which is based on a generalized Gauss–Newton scheme applied to a constrained nonsmooth-equations formulation of the complementarily problem. The new method, called a positive algorithm for the NCP, generates a sequence of positive vectors by solving a sequence of linear equations (as in a typical interior-point method) whose solutions (if nonzero) provide descent directions for a certain merit function that is derived from the NE/SQP iteration function modified for use in an interior-point context.
+Keywords
+complementarity problems, interior-point methods, nonsmooth equations, 90C30, 90C33, 49M37, 

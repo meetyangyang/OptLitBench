@@ -1,0 +1,6 @@
+An improved inexact Newton's method for unary optimization
+ Naiyang   Deng ; Zhaozhi   Wang ; Jianzhong   zhang ;
+Abstract
+ In this paper, we consider the unary optimization problem: min  , where U(.) is a function of a single argument and  . As an extension of the algorithm given by Goldfarb and Wang, an inexact Newton method is proposed. The new algorithm is as good as Newton's method in the sense that it enjoys local quadratic convergence, but in contrast to Goldfarb and Wang's algorithm, it has the advantage that a theoretical estimation of its computational cost per iteration is lower under resonable assumptions. This algorithm is the first algorithm for unary optimization which is proved to be more efficient from theoretical point of view than Newton's method with Cholesky factorization. 
+Keywords
+Unary optimization, Inexact Newton method, Cholesky factorization, Preconditioned conjugate gradient method 

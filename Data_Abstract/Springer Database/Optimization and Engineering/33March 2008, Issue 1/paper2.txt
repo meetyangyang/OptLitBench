@@ -1,0 +1,8 @@
+Model calibration for optical lithography via semidefinite programming
+Mehrdad Nouralishahi;Clive Wu;Lieven Vandenberghe;
+Abstract
+
+We apply semidefinite programming to an estimation problem in optical lithography. In this problem, an approximate model of the imaging system is modified so that it satisfies a set of calibration measurements, with the purpose of incorporating into the model distortion effects due to diffusion and etching. The estimation problem is formulated as a semidefinite program, and several techniques are presented for exploiting problem structure in an interior-point method for solving it. These include efficient methods for handling upper bounds on the matrix variables, symmetry constraints on the variables, and low-rank structure in the coefficient matrices.
+
+Keywords
+Semidefinite programming  Interior-point methods  Optical lithography  

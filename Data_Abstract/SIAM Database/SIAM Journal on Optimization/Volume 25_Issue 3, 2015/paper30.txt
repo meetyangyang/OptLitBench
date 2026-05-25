@@ -1,0 +1,6 @@
+Ellipsoidal Relaxations of the Stable Set Problem: Theory and Algorithms
+Monia  Giandomenico, Adam N.  Letchford, Fabrizio  Rossi, and Stefano  Smriglio;
+Abstract
+A new exact approach to the stable set problem is presented, which attempts to avoid the pitfalls of existing approaches based on linear and semidefinite programming. The method begins by constructing an ellipsoid that contains the stable set polytope and has the property that the upper bound obtained by optimizing over it is equal to the Lovász theta number. This ellipsoid can then be used to construct useful convex relaxations of the stable set problem, which can be embedded within a branch-and-bound framework. Extensive computational results are given, which indicate the potential of the approach.
+Keywords
+combinatorial optimisation, stable set problem, semidefinite programming, 90C27, 90C57, 

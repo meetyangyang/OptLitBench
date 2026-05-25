@@ -1,0 +1,6 @@
+A new algorithm for minimizing convex functions over convex sets
+Pravin M. Vaidya;
+Abstract
+Let\(S \subseteq \mathbb{R}^n \) be a convex set for which there is an oracle with the following property. Given any pointz∈ℝ n  the oracle returns a “Yes” ifz∈S; whereas ifz∉S then the oracle returns a “No” together with a hyperplane that separatesz fromS. The feasibility problem is the problem of finding a point inS; the convex optimization problem is the problem of minimizing a convex function overS. We present a new algorithm for the feasibility problem. The notion of a volumetric center of a polytope and a related ellipsoid of maximum volume inscribable in the polytope are central to the algorithm. Our algorithm has a significantly better global convergence rate and time complexity than the ellipsoid algorithm. The algorithm for the feasibility problem easily adapts to the convex optimization problem.
+Keywords
+Convex programming  Linear programming  Optimization  Complexity  

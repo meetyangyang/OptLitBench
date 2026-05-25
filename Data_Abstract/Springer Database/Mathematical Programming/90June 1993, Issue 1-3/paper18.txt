@@ -1,0 +1,6 @@
+Polynomial dual network simplex algorithms
+James B. Orlin;Serge A. Plotkin;Éva Tardos;
+Abstract
+We show how to use polynomial and strongly polynomial capacity scaling algorithms for the transshipment problem to design a polynomial dual network simplex pivot rule. Our best pivoting strategy leads to an O(m2 logn) bound on the number of pivots, wheren andm denotes the number of nodes and arcs in the input network. If the demands are integral and at mostB, we also give an O(m(m+n logn) min(lognB, m logn))-time implementation of a strategy that requires somewhat more pivots.
+Keywords
+Strongly polynomial  dual simplex algorithm  network simplex algorithm  minimum cost network flows  

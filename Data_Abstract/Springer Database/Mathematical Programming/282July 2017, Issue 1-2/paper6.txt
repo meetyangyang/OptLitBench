@@ -1,0 +1,6 @@
+An \(\mathcal{O}(m\log n)\) algorithm for the weighted stable set problem in claw-free graphs with \(\alpha ({G}) \le 3\) 
+Paolo Nobili;Antonio Sassano;
+Abstract
+In this paper we show how to solve the Maximum Weight Stable Set Problem in a claw-free graph G(V, E) with \(\alpha (G) \le 3\) in time \(\mathcal{O}(|E|\log |V|)\). More precisely, in time \(\mathcal{O}(|E|)\) we check whether \(\alpha (G) \le 3\) or produce a stable set with cardinality at least 4; moreover, if \(\alpha (G) \le 3\) we produce in time \(\mathcal{O}(|E|\log |V|)\) a maximum weight stable set of G. This improves the bound of \(\mathcal{O}(|E||V|)\) due to Faenza, Oriolo and Stauffer.
+Keywords
+Claw-free graphs  Stable set  Algorithms  05C69  05C85  90C35  

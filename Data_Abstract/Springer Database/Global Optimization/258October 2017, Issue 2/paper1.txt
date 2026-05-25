@@ -1,0 +1,6 @@
+Global optimization of disjunctive programs
+Peter Kirst;Fabian Rigterink;Oliver Stein;
+Abstract
+We propose a new branch-and-bound framework for global optimization of disjunctive programs with general logical expressions. We do not assume the logical expressions to be in any normal form, and, under slightly stronger assumptions, we allow the use of negations and implications. In contrast to the widely used reformulation as a mixed-integer program, we compute the lower bounds and evaluate the logical expression in one step. Thus, we reduce the size of the problem and work exclusively with continuous variables, which is computationally advantageous. We present preliminary numerical results as proof of concept.
+Keywords
+Global optimization  Disjunctive programming  Generalized disjunctive programming  Branch-and-bound  90C26  90C30  

@@ -1,0 +1,6 @@
+The Minimum Covering l pb -Hypersphere Problem
+B. Pelegrín;L. Cánovas;
+Abstract
+The minimu vering hypersphere problem is defined as to find a hypersphere of minimum radius enclosing a finite set of given points in ℝn. A hypersphere is a set S(c,r)={x ∈ ℝn : d(x,c) ≤ r}, where c is the center of S, r is the radius of S and d(x,c) is the Euclidean distance between x and c, i.e.,d(x,c)=l2(x-c). We consider the extension of this problem when d(x, c) is given by any l pb -norm, where 1<p ∞ and b=(b1,...,b n ) with b j >0, j=1,...,n, then S(c,r) is called an l pb -hypersphere, in particular for p=2 and b j =1, j=1,..., n, we obtain the l2-norm. We study some properties and propose some primal and dual algorithms for the extended problem , which are based on the feasible directions method and on the Wolfe duality theory. By computational experiments, we compare the proposed algorithms and show that they can be used to approximate the smallest l pb -hypersphere enclosing a large set of points in ℝn.
+Keywords
+Minimum Covering  1-center problem  Convex Programming  

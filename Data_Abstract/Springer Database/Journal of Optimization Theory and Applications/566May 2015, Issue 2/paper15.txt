@@ -1,0 +1,6 @@
+An Improved Receding Horizon Control for Time-Delay Systems
+Young Sam Lee;Soohee Han;
+Abstract
+In this paper, we propose an improved version of receding horizon control for systems with state delays. The proposed control guarantees closed-loop stability for a wider class of state-delay systems than the existing one. For expanded applications, a more generalized cost function, with three terminal weighting terms, is employed and minimized. Terminal weighting matrices are chosen to achieve the property that the optimal cost monotonically decreases with time. It turns out that the stability condition depends on the delay size and then it is less conservative than the existing delay-independent one. The simulation study shows that the proposed control scheme guarantees closed-loop stability even for state-delay systems that cannot be stabilized by the existing receding horizon control.
+Keywords
+Calculus of variations and optimal control  Receding horizon control (RHC)  Delay-dependent controls  Linear matrix inequality (LMI)  State-delay systems  Terminal weighting matrices  49J15  49N05  

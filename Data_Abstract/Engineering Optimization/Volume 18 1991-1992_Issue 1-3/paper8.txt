@@ -1,0 +1,6 @@
+NON-LINEAR PROGRAMMING IN GROUNDWATER DECONTAMINATION PROBLEMS
+ CHRISTIAN   MERCKX ;
+Abstract
+ The contaminant distribution into an aquifer is simulated through steady state groundwater flow and transient convective-dispersive transport. A minimal cost pumpage strategy for groundwater decontamination is found as the solution of a non-linearly constrained optimization problem. The exact gradient of the constrains is computed at a minimal cost through the introduction of the discrete sensitivity equations or the discrete adjoint sensitivity equations. We propose a new initialization procedure of the Lagrangian function Hessian for the Sequential Quadratic Programming method (SQP). For this peculiar application, it appears to be very efficient when combined with the SQP implementation of Schittkowski and the discrete gradient compulation. Numerical experiments with problems with up to thirty-five extraction wells have been solved in a computer time equivalent to less than one hundred state equations simulations. 
+Keywords
+ Groundwater flow, advective-dispersive transport, non-linear programming, sequential quadratic programming, sensitivity analysis, optimal control 

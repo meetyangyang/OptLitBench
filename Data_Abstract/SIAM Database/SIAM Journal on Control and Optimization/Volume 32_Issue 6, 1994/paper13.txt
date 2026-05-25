@@ -1,0 +1,6 @@
+On Convergence of Iterated Random Maps
+John R.  Liukkonen and Arnold  Levine;
+Abstract
+Let K be a compact subset of ${\bf R}^N $ consisting of an open subset of ${\bf R}^N $ and smooth boundary. Many stochastic optimization algorithms can be viewed as iterations of independent and identically distributed random elements of the continuous self-maps of such a K. In case the target of the algorithm is a single point ${\bf p}$, a near dichotomy for the convergence to ${\bf p}$ is given; roughly, if ${\bf M}_1 $ is one of the random elements, then there will be no convergence in probability if $E(\log \| {{\bf M}'_1 ({\bf p})} \|) > 0$, but there will be almost sure convergence if $E(\log \| {M'_1 ({\bf p})} \|) < 0$ and an accessibility condition holds. Similar conclusions are reached if the algorithm has an entire closed set of target points. Illustrative applications of these algorithms to the analysis of algorithms are given, and tochastic order of convergence and expected number of steps to stopping are discussed.
+Keywords
+stochastic optimization, iterated random maps, almost sure convergence, convergence in probability, 93E20, 93E23, 60J20, 62L20, 

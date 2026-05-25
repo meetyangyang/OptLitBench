@@ -1,0 +1,6 @@
+An online 2-dimensional clustering problem with variable sized clusters
+Gabriella Divéki;Csanád Imreh;
+Abstract
+In the online clustering problems, the classification of points into sets (called clusters) is done in an online fashion. Points arrive one by one at arbitrary locations, and we have to assign them to clusters at the time of arrival without any information about the further points. A point can be assigned to an existing cluster, or a new cluster can be opened for it. We study two-dimensional variants in the l ∞ norm, thus clusters are actually squares. The cost of a cluster is the sum of a fixed setup cost and the area of the square. The goal is to minimize the sum of the costs of the clusters used by the algorithm.
+Keywords
+Online algorithms  Competitive analysis  Clustering problems  

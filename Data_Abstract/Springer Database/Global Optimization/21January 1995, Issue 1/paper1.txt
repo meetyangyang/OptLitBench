@@ -1,0 +1,6 @@
+An adaptive simulated annealing algorithm for global optimization over continuous variables
+Andrew E. W. Jones;G. W. Forbes;
+Abstract
+A method is presented for attempting global minimization for a function of continuous variables subject to constraints. The method, calledAdaptive Simulated Annealing (ASA), is distinguished by the fact that the fixed temperature schedules and step generation routines that characterize other implementations are here replaced by heuristic-based methods that effectively eliminate the dependence of the algorithm's overall performance on user-specified control parameters. A parallelprocessing version of ASA that gives increased efficiency is presented and applied to two standard problems for illustration and comparison.
+Keywords
+Global optimization  simulated annealing  Monte Carlo optimization  

@@ -1,0 +1,6 @@
+A Note on K-Best Solutions to the Chinese Postman Problem
+Yasufumi  Saruwatari and Tomomi  Matsui;
+Abstract
+The K-best problems on combinatorial optimization problems, in which K-best solutions are considered instead of an optimal solution under the same conditions, have been widely studied. In this paper, the K-best problem on the famous Chinese postman problem is considered and an algorithm that finds K-best solutions is developed. The time complexity of the algorithm is $O( S( n,m ) + K( n + m + \log K + nT( n + m,m ) ) )$ where $S( s,t )$ denotes the time complexity of an algorithm for ordinary Chinese postman problems and $T( s,t )$ denotes the time complexity of a post-optimal algorithm for non-bipartite matching problems defined on a graph with s vertices and t edges.
+Keywords
+combinatorial optimization, Chinese postman problem, K-best problem, T-join problem, matching theory, graph theory, 05C38, 05C45, 

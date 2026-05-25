@@ -1,0 +1,6 @@
+Convex and concave relaxations of implicit functions
+Matthew D. Stuber;Joseph K. Scott;Paul I. Barton;
+Abstract
+A deterministic algorithm for solving nonconvex NLPs globally using a reduced-space approach is presented. These problems are encountered when real-world models are involved as nonlinear equality constraints and the decision variables include the state variables of the system. By solving the model equations for the dependent (state) variables as implicit functions of the independent (decision) variables, a significant reduction in dimensionality can be obtained. As a result, the inequality constraints and objective function are implicit functions of the independent variables, which can be estimated via a fixed-point iteration. Relying on the recently developed ideas of generalized McCormick relaxations and McCormick-based relaxations of algorithms and subgradient propagation, the development of McCormick relaxations of implicit functions is presented. Using these ideas, the reduced space, implicit optimization formulation can be relaxed. When applied within a branch-and-bound framework, finite convergence to ε-optimal global solutions is guaranteed.
+Keywords
+global optimization, McCormick relaxations, nonconvex programmingAMS Subject Classifications: 65K05, 65H10, 90C26 

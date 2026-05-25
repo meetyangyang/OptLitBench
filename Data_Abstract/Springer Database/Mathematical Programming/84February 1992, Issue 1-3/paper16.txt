@@ -1,0 +1,6 @@
+An interior point potential reduction algorithm for the linear complementarity problem
+Masakazu Kojima;Nimrod Megiddo;Yinyu Ye;
+Abstract
+The linear complementarity problem (LCP) can be viewed as the problem of minimizingxTy subject toy=Mx+q andx, y⩾0. We are interested in finding a point withxTy <ε for a givenε > 0. The algorithm proceeds by iteratively reducing the potential function$$f(x,y) = \rho  \ln  x^T y - \Sigma \ln  x_j y_j ,$$ where, for example,ρ=2n. The direction of movement in the original space can be viewed as follows. First, apply alinear scaling transformation to make the coordinates of the current point all equal to 1. Take a gradient step in the transformed space using the gradient of the transformed potential function, where the step size is either predetermined by the algorithm or decided by line search to minimize the value of the potential. Finally, map the point back to the original space.
+Keywords
+Linear complementarity  P-matrix  interior point  potential function  linear programming  quadratic programming  

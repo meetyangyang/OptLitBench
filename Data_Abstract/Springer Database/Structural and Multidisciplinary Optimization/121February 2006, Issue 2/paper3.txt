@@ -1,0 +1,8 @@
+Adaptive weighted sum method for multiobjective optimization: a new method for Pareto front generation
+I. Y. Kim;O. L. de Weck;
+Abstract
+This paper presents an adaptive weighted sum (AWS) method for multiobjective optimization problems. The method extends the previously developed biobjective AWS method to problems with more than two objective functions. In the first phase, the usual weighted sum method is performed to approximate the Pareto surface quickly, and a mesh of Pareto front patches is identified. Each Pareto front patch is then refined by imposing additional equality constraints that connect the pseudonadir point and the expected Pareto optimal solutions on a piecewise planar hypersurface in the \(
+{m}
+\)-dimensional objective space. It is demonstrated that the method produces a well-distributed Pareto front mesh for effective visualization, and that it finds solutions in nonconvex regions. Two numerical examples and a simple structural optimization problem are solved as case studies.
+Keywords
+NBI  AWS  Multiobjective optimization  Adaptive weighted sum  Pareto front  

@@ -1,0 +1,6 @@
+Distributed robust optimization (DRO), part I: framework and example
+Kai Yang;Jianwei Huang;Yihong Wu;Xiaodong Wang;Mung Chiang;
+Abstract
+Robustness of optimization models for network problems in communication networks has been an under-explored topic. Most existing algorithms for solving robust optimization problems are centralized, thus not suitable for networking problems that demand distributed solutions. This paper represents a first step towards a systematic theory for designing distributed and robust optimization models and algorithms. We first discuss several models for describing parameter uncertainty sets that can lead to decomposable problem structures and thus distributed solutions. These models include ellipsoid, polyhedron, and D-norm uncertainty sets. We then apply these models in solving a robust rate control problem in wireline networks. Three-way tradeoffs among performance, robustness, and distributiveness are illustrated both analytically and through simulations. In Part II of this two-part paper, we will present applications to wireless power control using the framework of distributed robust optimization.
+Keywords
+Robust optimization  Distributed algorithms  Resource allocation  Communication  Networks  Wireless communications  Rate control  Service realiability  

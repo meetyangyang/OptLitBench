@@ -1,0 +1,6 @@
+A variable-complexity approach to second-order reliability-based optimization
+S.A. Burton;P. Hajela;
+Abstract
+This paper outlines a new methodology for second-order reliability-based optimization (RBO). A variable-complexity (VC) approach is used to implement a computationally efficient VCRBO algorithm, which reduces the number of costly second-order reliability analyses by using a lower fidelity, scaled mean-value technique during the majority of the constraint assessments. Two numerical examples are presented, which provide a comparison of several standard RBO approaches with the proposed algorithm. The examples include both Gaussian and non-Gaussian uncertainty to introduce significant nonlinearities in the limit state functions (LSFs). The design spaces and LSFs for both examples are presented, along with a discussion of the computational cost associated with the different RBO approaches.  
+Keywords
+optimization  reliability-based optimization  second-order reliability  structural reliability  variable-complexity   

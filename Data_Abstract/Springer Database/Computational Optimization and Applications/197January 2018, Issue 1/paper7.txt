@@ -1,0 +1,6 @@
+The min-cut and vertex separator problem
+Fanz Rendl;Renata Sotirov;
+Abstract
+We consider graph three-partitions with the objective of minimizing the number of edges between the first two partition sets while keeping the size of the third block small. We review most of the existing relaxations for this min-cut problem and focus on a new class of semidefinite relaxations, based on matrices of order \(2n+1\) which provide a good compromise between quality of the bound and computational effort to actually compute it. Here, n is the order of the graph. Our numerical results indicate that the new bounds are quite strong and can be computed for graphs of medium size (\(n \approx 300\)) with reasonable effort of a few minutes of computation time. Further, we exploit those bounds to obtain bounds on the size of the vertex separators. A vertex separator is a subset of the vertex set of a graph whose removal splits the graph into two disconnected subsets. We also present an elegant way of convexifying non-convex quadratic problems by using semidefinite programming. This approach results with bounds that can be computed with any standard convex quadratic programming solver.
+Keywords
+Vertex separator  Minimum cut  Semidefinite programming  Convexification  

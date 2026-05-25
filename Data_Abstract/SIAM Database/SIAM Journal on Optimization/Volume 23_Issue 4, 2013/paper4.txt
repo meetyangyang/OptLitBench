@@ -1,0 +1,6 @@
+A Primal-Dual Splitting Algorithm for Finding Zeros of Sums of Maximal Monotone Operators
+Radu Ioan  Boţ, Ernö Robert  Csetnek, and André  Heinrich;
+Abstract
+We consider the primal problem of finding the zeros of the sum of a maximal monotone operator and the composition of another maximal monotone operator with a linear continuous operator. By formulating its Attouch--Théra-type dual inclusion problem, a primal-dual splitting algorithm which simultaneously solves the two problems in finite-dimensional spaces is presented. The proposed scheme uses at each iteration the resolvents of the maximal monotone operators involved in separate steps and aims to overcome the shortcoming of classical splitting algorithms when dealing with compositions of maximal monotone and linear continuous operators. The iterative algorithm is used for solving nondifferentiable convex optimization problems arising in image processing and in location theory.
+Keywords
+maximal monotone operator, resolvent, operator splitting, subdifferential, minimization algorithm, duality, 47H05, 65K05, 90C25, 

@@ -1,0 +1,6 @@
+Solving nearly-separable quadratic optimization problems as nonsmooth equations
+Frank E. Curtis;Arvind U. Raghunathan;
+Abstract
+An algorithm for solving nearly-separable quadratic optimization problems (QPs) is presented. The approach is based on applying a semismooth Newton method to solve the implicit complementarity problem arising as the first-order stationarity conditions of such a QP. An important feature of the approach is that, as in dual decomposition methods, separability of the dual function of the QP can be exploited in the search direction computation. Global convergence of the method is promoted by enforcing decrease in component(s) of a Fischer–Burmeister formulation of the complementarity conditions, either via a merit function or through a filter mechanism. The results of numerical experiments when solving convex and nonconvex instances are provided to illustrate the efficacy of the method.
+Keywords
+Quadratic optimization problems  Dual decomposition  Complementarity problems  Semismooth Newton methods  Fischer–Burmeister function  49M05  49M15  49M27  49M29  65K05  65K10  90C20  90C33  

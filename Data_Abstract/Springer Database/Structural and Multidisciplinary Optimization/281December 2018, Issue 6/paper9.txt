@@ -1,0 +1,6 @@
+On reducing computational effort in topology optimization: we can go at least this far!
+Asger Limkilde;Anton Evgrafov;Jens Gravesen;
+Abstract
+In this work, we attempt to answer the question posed in Amir O., Sigmund O.: On reducing computational effort in topology optimization: how far can we go? (Struct. Multidiscip. Optim. 44(1):25–29 2011). Namely, we are interested in assessing how inaccurately we can solve the governing equations during the course of a topology optimization process while still obtaining accurate results. We consider this question from a “PDE-based” angle, using a posteriori residual estimates to gain insight into the behavior of the residuals over the course of Krylov solver iterations. Our main observation is that the residual estimates are dominated by discretization error after only a few iterations of an iterative solver. This provides us with a quantitative measure for early termination of iterative solvers. We illustrate this approach using benchmark examples from linear elasticity and demonstrate that the number of Krylov solver iterations can be significantly reduced, even when compared to previous heuristic recommendations, although each Krylov iteration becomes considerably more expensive.
+Keywords
+Topology optimization  Approximation  Iterative solvers  A posteriori estimates  

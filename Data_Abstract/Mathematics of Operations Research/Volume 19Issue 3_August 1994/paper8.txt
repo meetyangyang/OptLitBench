@@ -1,0 +1,6 @@
+Parallel Constraint Distribution in Convex Quadratic Programming
+Michael C. Ferris;
+Abstract
+We consider convex quadratic programs with large numbers of constraints. We distribute these constraints among several parallel processors and modify the objective function for each of these subproblems with Lagrange multiplier information from the other processors. New Lagrange multiplier information is aggregated in a master processor and the whole process is repeated Linear convergence is established for strongly convex quadratic programs by formulating the algorithm in an appropriate dual space. The algorithm corresponds to a step of an iterative matrix splitting algorithm for a symmetric linear complementarity problem followed by a projection onto a subspace.
+Keywords
+parallel optimization augmented Lagrangians quadratic programs matrix splitting linear convergence 

@@ -1,0 +1,6 @@
+An edge-swap heuristic for generating spanning trees with minimum number of branch vertices
+Ricardo M. A. Silva;Diego M. Silva;Mauricio G. C. Resende;Geraldo R. Mateus;José F. Gonçalves;Paola Festa;
+Abstract
+This paper presents a new edge-swap heuristic for generating spanning trees with a minimum number of branch vertices, i.e. vertices of degree greater than two. This problem was introduced in Gargano et al. (Lect Notes Comput Sci 2380:355–365, 2002) and has been called the minimum branch vertices problem by Cerulli et al. (Comput Optim Appl 42:353–370, 2009). The heuristic starts with a random spanning tree and iteratively reduces the number of branch vertices by swapping tree edges with edges not currently in the tree. It can be easily implemented as a multi-start heuristic. We report on extensive computational experiments comparing single-start and multi-start variants on our heuristic with other heuristics previously proposed in the literature.
+Keywords
+Constrained spanning trees  Branch vertices  Minimum branch vertices problem  Heuristic  Multi-start heuristic  Edge swapping  

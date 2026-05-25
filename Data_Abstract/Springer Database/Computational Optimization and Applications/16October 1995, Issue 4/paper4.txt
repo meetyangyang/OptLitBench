@@ -1,0 +1,6 @@
+Parallel structural optimization applied to bone remodeling on distributed memory machines
+Shirish Chinchalkar;Thomas F. Coleman;
+Abstract
+In this paper, we investigate parallel structural optimization methods on distributed memory MIMD machines. We have restricted ourselves to the case of minimizing a multivariate non-linear function subject to bounds on the independent variables, when the objective function is expensive to evaluate as compared to the linear algebra portion of the optimization. This is the case in structural applications, when a large three-dimensional finite element mesh is used to model the structure.
+Keywords
+structural optimization  parallel FEM  

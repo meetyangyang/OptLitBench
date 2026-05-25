@@ -1,0 +1,6 @@
+On the Ball-Constrained Weighted Maximin Dispersion Problem
+Shu  Wang and Yong  Xia;
+Abstract
+The ball-constrained weighted maximin dispersion problem $(P_ball)$ is to find a point in an $n$-dimensional Euclidean ball such that the minimum of the weighted Euclidean distance from given $m$ points is maximized. We propose a new second-order cone programming relaxation for $(P_ball)$. Under the condition $m\le n$, $(P_ball)$ is polynomial-time solvable since the new relaxation is shown to be tight. In general, we prove that $(P_ball)$ is NP-hard. Then, we propose a new  randomized approximation algorithm for solving $(P_ball)$, which provides a new approximation bound of $\frac{1-O(\sqrt{\ln(m)/n})}{2}$.
+Keywords
+maximin dispersion, convex relaxation, second-order cone programming, approximation algorithm, 90C22, 90C26, 90C59, 

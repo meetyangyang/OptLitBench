@@ -1,0 +1,6 @@
+A method for solving d.c. programming problems. Application to fuel mixture nonconvex optimization problem
+Thai Quynh Phong;Pham Dinh Tao;Thi Hoai Le An;
+Abstract
+We present a numerical method for solving the d.c. programming problem$$c^*  = \min \{ \langle c,x\rangle   s.t.  f_i (x) \leqslant 0, i = 1,...,m, x \in D\} $$ wherefi, i=1,...,m are d.c. (difference of two convex functions) and D is a convex set in ℝn. An (ɛ, η)-solutionx(ɛ, η) satisfying$$x(\varepsilon ,\eta ) \in D,  \langle c,x(\varepsilon ,\eta )\rangle  \leqslant c^*  + \varepsilon ,  f_i (x(\varepsilon ,\eta )) \leqslant \eta ,  i = 1,...,m,$$ can be found after a finite number of iterations. This algorithm combines an outer approximation procedure for solving a system of d.c. inequalities with a simple general scheme for minimizing a linear function over a compact set. As an application we discuss the numerical solution of a fuel mixture problem (encountered in the oil industry).
+Keywords
+Nonlinear programming  global optimization  d.c. programming  outer approximation  system of d.c. inequalities  (ɛ, η)-solution  fuel mixture problem  

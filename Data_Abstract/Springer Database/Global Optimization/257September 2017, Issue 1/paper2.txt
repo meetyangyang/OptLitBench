@@ -1,0 +1,6 @@
+Geodesic and contour optimization using conformal mapping
+Ricky Fok;Aijun An;Xiaogong Wang;
+Abstract
+We propose a novel optimization algorithm for differentiable functions utilizing geodesics and contours under conformal mapping. The algorithm can locate multiple optima by first following a geodesic curve to a local optimum then traveling to the next search area by following a contour curve. Alongside we implement a jumping mechanism which we call shadow casting to help geodesics jump to locations closer to the global optimum. To improve the efficiency, local search methods such as the Newton–Raphson algorithm are also employed. For functions with many optima or when the global optimum is very close to a local one, numerical analyses have shown that the resulting algorithm, SGEO-QN, can outperform recent derivative-free DIRECT variants in number of function/gradient evaluations. The results also indicate that under certain conditions, number of function/gradient evaluations for SGEO-QN scales nearly linearly with increasing dimensionality. Lastly, SGEO-QN appears to be less affected by rotational transforms of the objective functions than the variants of DIRECT compared.
+Keywords
+Large scale  Black box global optimization  Box constrained  Multistart  Trajectory method  

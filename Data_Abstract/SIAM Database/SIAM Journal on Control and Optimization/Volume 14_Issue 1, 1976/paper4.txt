@@ -1,0 +1,5 @@
+Efficiently Converging Minimization Methods Based on the Reduced Gradient
+Daniel  Gabay and David G.  Luenberger;
+Abstract
+This paper presents three computational methods which extend to nonlinearly constrained minimization problems the efficient convergence properties of, respectively, the method of steepest descent, the variable metric method, and Newton’s method for unconstrained minimization. Development of the algorithms is based on use of the implicit function theorem to essentially convert the original constrained problem to an unconstrained one. This approach leads to practical and efficient algorithms in the framework of Abadie’s generalized reduced gradient method. To achieve efficiency, it is shown that it is necessary to construct a sequence of approximations to the Lagrange multipliers of the problem simultaneously with the approximations to the solution itself. In particular, the step size of each iteration must be determined by a linesearch for a minimum of an approximate Lagrangian function.
+Keywords

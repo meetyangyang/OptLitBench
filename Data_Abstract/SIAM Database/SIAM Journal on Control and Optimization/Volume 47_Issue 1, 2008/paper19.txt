@@ -1,0 +1,6 @@
+Finite Horizon Robust State Estimation for Uncertain Finite-Alphabet Hidden Markov Models with Conditional Relative Entropy Constraints
+Li  Xie, Valery A.  Ugrinovskii, and Ian R.  Petersen;
+Abstract
+We consider a robust state estimation problem for time-varying uncertain discrete-time, homogeneous, first-order, finite-state finite-alphabet hidden Markov models (HMMs). A class of time-varying uncertain HMMs is considered in which the uncertainty is sequentially described by a conditional relative entropy constraint on perturbed conditional probability measures given a realized observation sequence. For this class of uncertain HMMs, the robust state estimation problem is formulated as a constrained optimization problem. Using a Lagrange multiplier technique and a variational formula for conditional relative entropy, the above problem is converted into an unconstrained optimization problem and a problem related to partial information risk-sensitive filtering. A measure transformation technique and an information state method are employed to solve this equivalent problem related to risk-sensitive filtering. A characterization of the solution to the robust state estimation problem is also presented.
+Keywords
+finite-alphabet hidden Markov models, robust state estimation, conditional relative entropy constraints, finite horizon, 93E03, 93E10, 93E11, 62M05, 

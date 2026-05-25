@@ -1,0 +1,6 @@
+Vertex packings: Structural properties and algorithms
+G. L. Nemhauser;L. E. TrotterJr.;
+Abstract
+We consider a binary integer programming formulation (VP) for the weighted vertex packing problem in a simple graph. A sufficient “local” optimality condition for (VP) is given and this result is used to derive relations between (VP) and the linear program (VLP) obtained by deleting the integrality restrictions in (VP). Our most striking result is that those variables which assume binary values in an optimum (VLP) solution retain the same values in an optimum (VP) solution. This result is of interest because variables are (0, 1/2, 1). valued in basic feasible solutions to (VLP) and (VLP) can be solved by a “good” algorithm. This relationship and other optimality conditions are incorporated into an implicit enumeration algorithm for solving (VP). Some computational experience is reported.
+Keywords
+Optimality Condition  Feasible Solution  Integer Programming  Computational Experience  Programming Formulation  

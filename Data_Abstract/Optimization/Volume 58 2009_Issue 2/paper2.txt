@@ -1,0 +1,6 @@
+Global convergence of conjugate gradient method
+ Zhen-Jun   Shi ; Jinhua   Guo ;
+Abstract
+ In this article, we consider the global convergence of the Polak–Ribiére–Polyak conjugate gradient method (abbreviated PRP method) for minimizing functions that have Lipschitz continuous partial derivatives. A novel form of non-monotone line search is proposed to guarantee the global convergence of the PRP method. It is also shown that the PRP method has linear convergence rate under some mild conditions when the non-monotone line search reduces to a related monotone line search. The new non-monotone line search needs to estimate the Lipschitz constant of the gradients of objective functions, for which two practical estimations are proposed to help us to find a suitable initial step size for the PRP method. Numerical results show that the new line search approach is efficient in practical computation. 
+Keywords
+unconstrained optimization, conjugate gradient method, non-monotone line search, global convergenceAMS Subject Classifications: 90C30, 65K05, 49M37 

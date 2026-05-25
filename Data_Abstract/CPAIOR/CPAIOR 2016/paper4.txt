@@ -1,0 +1,4 @@
+Decomposition Based on Decision Diagrams
+David Bergman;Andre A. Cire;
+Abstract
+In recent years, decision diagrams (DDs) have proven useful for solving a variety of optimization problems, often closing long-standing instances from classical benchmarks. This success is primarily driven by a DDs ability to capture structure. This paper exploits this characteristic and proposes a novel solution method which decomposes a problem into highly-structured portions, where the solution set of each portion can be compactly represented using a DD. This technique is applied to a special case of the independent set problem and to unconstrained binary quadratic programming. Preliminary computational results suggest that the proposed decomposition approach can improve upon both standard integer programming models and a single DD approach.

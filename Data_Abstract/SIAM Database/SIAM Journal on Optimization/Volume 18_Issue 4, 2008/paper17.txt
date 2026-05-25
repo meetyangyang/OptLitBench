@@ -1,0 +1,6 @@
+Improved Approximation Algorithms for Weighted Hypergraph Embedding in a Cycle
+Hann-Jang  Ho and SingLing  Lee;
+Abstract
+We consider the problem of embedding weighted hyperedges of a hypergraph as paths in a cycle on the same number of vertices, such that the maximum congestion of any physical link of the cycle is minimized. The problem, called weighted hypergraph embedding in a cycle (WHEC), is known to be NP-complete even when each hyperedge is unweighted or each weighted hyperedge contains exactly two vertices. In this paper, we propose an improved rounding algorithm for the WHEC problem to provide a solution with an approximation bound of $1.5(opt+w_{max})$, where $opt$ represents the optimal value of the problem and $w_{max}$ denotes the largest weight of hyperedges. For any fixed $\varepsilon > 0$, we also present a polynomial time algorithm to provide an embedding whose congestion is at most $(1.5+\varepsilon)$ times the optimum. This improves previous results for the general WHEC problem.
+Keywords
+weighted hypergraph embedding in a cycle, linear programming, approximation algorithm, hypergraph, NP-complete, 05C65, 68W25, 90C05, 90C27, 

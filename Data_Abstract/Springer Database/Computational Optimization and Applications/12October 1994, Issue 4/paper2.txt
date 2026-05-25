@@ -1,0 +1,6 @@
+Stable barrier-projection and barrier-Newton methods in linear programming
+Yuri G. Evtushenko;Vitali G. Zhadan;
+Abstract
+The present paper is devoted to the application of the space transformation techniques for solving linear programming problems. By using a surjective mapping the original constrained optimization problem is transformed to a problem in a new space with only equality constraints. For the numerical solution of the latter problem the stable version of the gradient-projection and Newton's methods are used. After an inverse transformation to the original space a family of numerical methods for solving optimization problems with equality and inequality constraints is obtained. The proposed algorithms are based on the numerical integration of the systems of ordinary differential equations. These algorithms do not require feasibility of the starting and current points, but they preserve feasibility. As a result of a space transformation the vector fields of differential equations are changed and additional terms are introduced which serve as a barrier preventing the trajectories from leaving the feasible set. A proof of a convergence is given.
+Keywords
+Linear programming  space transformation  gradient-projection method  Newton's method  interior point technique  barrier function  Karmarkar's method  

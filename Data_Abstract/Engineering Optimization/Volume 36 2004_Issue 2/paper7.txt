@@ -1,0 +1,6 @@
+Efficient evolutionary optimization through the use of a cultural algorithm 
+ Carlos A.   Coello Coello ; Ricardo Landa   Becerra ;
+Abstract
+ This paper introduces a cultural algorithm that uses domain knowledge to improve the performance of an evolutionary programming technique adopted for constrained optimization. The proposed approach extracts domain knowledge during the evolutionary process and builds a map of the feasible region to guide the search more efficiently. Additionally, in order to have a more efficient memory management scheme, the current implementation uses 2 n -trees to store this map of the feasible region. Results indicate that the approach is able to produce very competitive results with respect to other optimization techniques at a considerably lower computational cost. 
+Keywords
+Cultural algorithms, Evolutionary programming, Constrained optimization 

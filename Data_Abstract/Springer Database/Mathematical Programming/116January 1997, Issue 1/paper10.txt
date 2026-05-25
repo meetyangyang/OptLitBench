@@ -1,0 +1,6 @@
+Predictor-corrector algorithm for solvingP *(κ)-matrix LCP from arbitrary positive starting points
+Florian A. Potra;Rongqin Sheng;
+Abstract
+A new predictor-corrector algorithm is proposed for solvingP *(κ)-matrix linear complementarity problems. If the problem is solvable, then the algorithm converges from an arbitrary positive starting point (x 0,s 0). The computational complexity of the algorithm depends on the quality of the starting point. If the starting point is feasible or close to being feasible, it has\(O((1 + \kappa )\sqrt {n/\rho _0 } L)\)-iteration complexity, whereρ 0 is the ratio of the smallest and average coordinate ofX 0 s 0. With appropriate initialization, a modified version of the algorithm terminates in O((1+κ)2(n/ρ 0)L) steps either by finding a solution or by determining that the problem has no solution in a predetermined, arbitrarily large, region. The algorithm is quadratically convergent for problems having a strictly complementary solution. We also propose an extension of a recent algorithm of Mizuno toP *(κ)-matrix linear complementarity problems such that it can start from arbitrary positive points and has superlinear convergence without a strictly complementary condition.
+Keywords
+Linear complementarity problems  P*-matrices  Interior-point algorithm  Superlinear convergence  

@@ -1,0 +1,6 @@
+Stochastic Hamilton–Jacobi–Bellman Equations
+Shige  Peng;
+Abstract
+This paper studies the following form of nonlinear stochastic partial differential equation: \[ \begin{gathered}    - d\Phi _t  = \mathop {\inf }_{v \in U} \left\{ {\frac{1}{2}\sum_{i,j} {\left[ {\sigma \sigma ^ *  } \right]_{ij} (x,v,t)} \partial _{x_i x_j }  \Phi _t (x) + \sum_i {b_i (x,v,t)} \partial _{x_i } \Phi _t (x)  + L(x,v,t)} \right. \hfill \\   \qquad \qquad \left. { + \sum_{i,j} {\sigma_{ij}(x,v,t)\partial _{x_i } \Psi _{j,t} (x)} } \right\}dt - \Psi _t (x)dW_t ,\quad \Phi _T (x) = h(x), \hfill \\ \end{gathered}\] where the coefficients $\sigma _{ij} $, $b_i $, L, and the final datum h may be random. The problem is to find an adapted pair $(\Phi ,\Psi )(x,t)$ uniquely solving the equation. The classical Hamilton–Jacobi–Bellman (HJB) equation can be regarded as a special case of the above problem. An existence and uniqueness theorem is obtained for the case where $\sigma $ does not contain the control variable v. An optimal control interpretation is given. The linear quadratic case is discussed as well.
+Keywords
+stochastic control, dynamic programming, Riccati equation, backward stochastic differential equation, stochastic partial differential equation, 93E, 60H, 35K, 

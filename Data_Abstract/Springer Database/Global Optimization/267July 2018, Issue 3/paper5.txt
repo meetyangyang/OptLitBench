@@ -1,0 +1,6 @@
+Feasibility pump for aircraft deconfliction with speed regulation
+Sonia Cafieri;Claudia D’Ambrosio;
+Abstract
+We propose Feasibility Pump heuristics for the crucial problem of aircraft conflict avoidance arising in air traffic management. This problem can be modeled as a mixed integer nonlinear optimization problem, whose solution can be very computationally demanding. Feasibility Pump is an iterative algorithm that, at each iteration, solves alternatively two easier subproblems represented by relaxations of the original problem, minimizing the distance between their solutions. We propose in this paper specific formulations for the subproblems to be handled, tailored to the problem at hand. Numerical results show that, on the considered test problems, good-quality, in some cases optimal, feasible solutions are always obtained.
+Keywords
+Mixed integer nonlinear programming  Feasibility pump  Aircraft conflict avoidance  Mathematical programming  Reformulations  Heuristic algorithm  

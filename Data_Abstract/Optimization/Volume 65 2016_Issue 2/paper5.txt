@@ -1,0 +1,6 @@
+Fast inexact decomposition algorithms for large-scale separable convex optimization
+Q. Tran-Dinh;I. Necoara;M. Diehl;
+Abstract
+In this paper, we propose a new inexact dual decomposition algorithm for solving separable convex optimization problems. This algorithm is a combination of three techniques: dual Lagrangian decomposition, smoothing and excessive gap. The algorithm has low computational complexity since it consists in only one primal step and two dual steps at each iteration and allows one to solve the subproblem of each component inexactly and in parallel. Moreover, the algorithmic parameters are updated automatically without any tuning strategy as it happens in augmented Lagrangian approaches. We analyse the convergence of the algorithm and estimate its  analytical worst-case complexity for both the primal–dual suboptimality and the primal feasibility violation, where  is a given accuracy. Extensive numerical tests confirm that our method is numerically more efficient than the classical decomposition methods from the literature.
+Keywords
+primal–dual algorithm, smoothing technique, excessive gap, Lagrangian decomposition, distributed and parallel algorithm, separable convex optimizationAMS Subject Classifications: 90C06, 90C25, 90-08 

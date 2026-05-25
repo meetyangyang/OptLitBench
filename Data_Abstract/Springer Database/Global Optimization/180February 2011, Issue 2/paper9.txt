@@ -1,0 +1,6 @@
+Comments on “Competitive analysis of a better on-line algorithm to minimize total completion time on a single-machine”
+Jiping Tao;Zhijun Chao;Yugeng Xi;
+Abstract
+For the single machine scheduling problem of minimizing the total completion time, Montoya Torres (J Glob Opt 27:97–103, 2003) presented a semi-online algorithm under the assumption that release dates are known in advance, and showed that it was \({\sqrt{3}}\)-competitive. However, there are flaws in the proof, and the conclusion about the competitive ratio is not correct. In this note, we show that the semi-online algorithm cannot perform better than the best non-clairvoyant online algorithm with a competitive ratio of 2.
+Keywords
+Single-machine scheduling  Total completion time  Competitive analysis  

@@ -1,0 +1,6 @@
+Upper Bounds of the Pursuer Control Based on a Linear-Quadratic Differential Game
+V. Turetsky;
+Abstract
+Differential game formulations provide an adequate basis for a guidance law synthesis against highly maneuvering targets. This paper deals with a guidance law based on a linear-quadratic differential game formulation. This guidance law has many attractive properties: it is continuous, linear with respect to the state variables, and its gain coefficients can be precalculated offline. Nevertheless, due to the lack of hard control constraints in the formulation, the magnitude of the control can exceed the admissible level imposed by the nature of the problem. In this paper, the upper bound of the interceptor control is obtained depending on the system parameters and the penalty coefficients of the game performance index. It is shown that the interceptor can guarantee an arbitrarily small miss distance without exceeding the control constraints if it has sufficient maneuverability and if the penalty coefficients are chosen properly. By manipulating the penalty coefficients, it is possible to reduce significantly the maneuverability requirements compared to the case of zero interceptor penalty coefficient.
+Keywords
+Guidance laws  robust control  differential games  

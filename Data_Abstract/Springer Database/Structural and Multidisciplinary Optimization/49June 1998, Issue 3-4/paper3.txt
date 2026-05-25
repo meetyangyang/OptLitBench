@@ -1,0 +1,6 @@
+Motion control and shape optimization of a suitlike flexible arm
+H. Nishigaki;K. Kawashima;
+Abstract
+A method of motion control as well as shape optimization is proposed for the preliminary design of a suitlike flexible arm, which is composed of some variable-length and fixed-length beams. The large deformation, variable geometry and motion of the flexible structure are calculated by dynamic finite element analysis (FEA) using the step by step time integration method. A neural-networks-inverse-model, which learns nonlinear behaviour of the flexible structure, has been applied for the motion control as an inverse model of the flexible arm. For this geometrically nonlinear structure and time response problem, the optimum shape of the cross-section has been calculated under constraints of stress, stiffness and minimum weight with FEA and sensitivity analysis combined with fuzzy rules. This method has been applied for the design of a flexible arm, which simulates a process of lifting a human body and moving it. The calculated optimum shape has a much higher stiffness with decrease in weight in comparison with the initial shape. Moreover, the calculated motion agrees well with the one aimed for and the flexible arm reduces the impact force.
+Keywords
+Finite Element Analysis  Design Variable  Motion Control  Beam Element  Optimum Shape  

@@ -1,0 +1,6 @@
+Deterministic approximation algorithms for sphere constrained homogeneous polynomial optimization problems
+Anthony Man-Cho So;
+Abstract
+Due to their fundamental nature and numerous applications, sphere constrained polynomial optimization problems have received a lot of attention lately. In this paper, we consider three such problems: (i) maximizing a homogeneous polynomial over the sphere; (ii) maximizing a multilinear form over a Cartesian product of spheres; and (iii) maximizing a multiquadratic form over a Cartesian product of spheres. Since these problems are generally intractable, our focus is on designing polynomial-time approximation algorithms for them. By reducing the above problems to that of determining the L 2-diameters of certain convex bodies, we show that they can all be approximated to within a factor of Ω((log n/n)d/2–1) deterministically, where n is the number of variables and d is the degree of the polynomial. This improves upon the currently best known approximation bound of Ω((1/n)d/2–1) in the literature. We believe that our approach will find further applications in the design of approximation algorithms for polynomial optimization problems with provable guarantees.
+Keywords
+Polynomial optimization  Approximation algorithms  Diameters of convex bodies  Convex programming  52A41  52B55  68W25  68W40  90C26  

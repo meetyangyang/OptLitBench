@@ -1,0 +1,6 @@
+Solutions to Affine Generalized Equations Using Proximal Mappings
+Stephen C. Billups;Michael C. Ferris;
+Abstract
+The normal map has proven to be a powerful tool for solving generalized equations of the form: find z ∈ C, with 0 ∈ F(z) + Nc(z), where C is a convex set and Nc(z) is the normal cone to C at z. In this paper, we use the T-map, a generalization of the normal map, to solve equations of the more general form: find z ∈ dom(T), with 0 ∈ F(z) + T(z), where T is a maximal monotone multifunction. We present a path-following algorithm that determines zeros of coherently oriented piecewise-affine functions, and we use this algorithm, together with the T-map, to solve the generalized equation for affine, coherently oriented functions F, and polyhedral multifunctions T. The path-following algorithm we develop here extends the piecewise-linear homotopy framework of Eaves to the case where a representation of a subdivided manifold is unknown.
+Keywords
+Normal map generalized equations homotopy piecewise affine 

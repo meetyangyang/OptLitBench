@@ -1,0 +1,6 @@
+A Feasible Active Set Method for Strictly Convex Quadratic Problems with Simple Bounds
+P.  Hungerländer and F.  Rendl;
+Abstract
+A primal-dual active set method for quadratic problems with bound constraints is presented which extends the infeasible active set approach of Kunisch and Rendl [SIAM J. Optim., 14 (2003), pp. 35--52]. Based on a guess of the active set, a primal-dual pair ($x$,$\alpha$) is computed that satisfies stationarity and the complementary condition. If $x$ is not feasible, the variables connected to the infeasibilities are added to the active set, and a new primal-dual pair ($x$,$\alpha$) is computed. This process is iterated until a primal feasible solution is generated. Then a new active set is determined based on the feasibility information of the dual variable $\alpha$. Strict convexity of the quadratic problem is sufficient for the algorithm to stop after a finite number of steps with an optimal solution. Computational experience indicates that this approach also performs well in practice.
+Keywords
+primal-dual active set methods, quadratic programming, box constraints, convex programming, 90C20, 90C25, 90C53, 

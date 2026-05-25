@@ -1,0 +1,6 @@
+Convergence Properties of a Self-adaptive Levenberg-Marquardt Algorithm Under Local Error Bound Condition
+Jinyan Fan;Jianyu Pan;
+Abstract
+We propose a new self-adaptive Levenberg-Marquardt algorithm for the system of nonlinear equations F(x) = 0. The Levenberg-Marquardt parameter is chosen as the product of ‖F k ‖δ with δ being a positive constant, and some function of the ratio between the actual reduction and predicted reduction of the merit function. Under the local error bound condition which is weaker than the nonsingularity, we show that the Levenberg-Marquardt method converges superlinearly to the solution for δ∈ (0, 1), while quadratically for δ∈ [1, 2]. Numerical results show that the new algorithm performs very well for the nonlinear equations with high rank deficiency.
+Keywords
+singular nonlinear equations  Levenberg-Marquardt method  trust region method  

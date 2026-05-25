@@ -1,0 +1,6 @@
+QPCOMP: A quadratic programming based solver for mixed complementarity problems
+Stephen C. Billups;Michael C. Ferris;
+Abstract
+QPCOMP is an extremely robust algorithm for solving mixed nonlinear complementarity problems that has fast local convergence behavior. Based in part on the NE/SQP method of Pang and Gabriel [14], this algorithm represents a significant advance in robustness at no cost in efficiency. In particular, the algorithm is shown to solve any solvable Lipschitz continuous, continuously differentiable, pseudo-monotone mixed nonlinear complementarity problem. QPCOMP also extends the NE/SQP method for the nonlinear complementarity problem to the more general mixed nonlinear complementarity problem. Computational results are provided, which demonstrate the effectiveness of the algorithm.
+Keywords
+Complementarity problems  Variational inequalities  Proximal perturbations  Pseudomonotonicity  

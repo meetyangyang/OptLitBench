@@ -1,0 +1,6 @@
+A smoothing augmented Lagrangian method for solving simple bilevel programs
+Mengwei Xu;Jane J. Ye;
+Abstract
+In this paper, we design a numerical algorithm for solving a simple bilevel program where the lower level program is a nonconvex minimization problem with a convex set constraint. We propose to solve a combined problem where the first order condition and the value function are both present in the constraints. Since the value function is in general nonsmooth, the combined problem is in general a nonsmooth and nonconvex optimization problem. We propose a smoothing augmented Lagrangian method for solving a general class of nonsmooth and nonconvex constrained optimization problems. We show that, if the sequence of penalty parameters is bounded, then any accumulation point is a Karush-Kuch-Tucker (KKT) point of the nonsmooth optimization problem. The smoothing augmented Lagrangian method is used to solve the combined problem. Numerical experiments show that the algorithm is efficient for solving the simple bilevel program.
+Keywords
+Bilevel program  Value function  Smoothing method  Augmented Lagrangian method  Partial calmness  Principal-agent problem  

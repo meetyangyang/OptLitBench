@@ -1,0 +1,6 @@
+An active set algorithm for tracing parametrized optima
+J. Rakowska;R. T. Haftka;L. T. Watson;
+Abstract
+Optimization problems often depend on parameters that define constraints or objective functions. It is often necessary to know the effect of a change in a parameter on the optimum solution. An algorithm is presented here for tracking paths of optimal solutions of inequality constrained nonlinear programming problems as a function of a parameter. The proposed algorithm employs homotopy zero-curve tracing techniques to track segments where the set of active constraints is unchanged. The transition between segments is handled by considering all possible sets of active constraints and eliminating nonoptimal ones based on the signs of the Lagrange multipliers and the derivatives of the optimal solutions with respect to the parameter. A spring-mass problem is used to illustrate all possible kinds of transition events, and the algorithm is applied to a well-known ten-bar truss structural optimization problem.
+Keywords
+Objective Function  Civil Engineer  Lagrange Multiplier  Parametrized Optimum  Programming Problem  

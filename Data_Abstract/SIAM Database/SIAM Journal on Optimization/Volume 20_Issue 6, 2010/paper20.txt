@@ -1,0 +1,6 @@
+Global Descent Method for Global Optimization
+Chi-Kong  Ng, Duan  Li, and Lian-Sheng  Zhang;
+Abstract
+This paper develops a novel method—the global descent method—for solving a general class of global optimization problems. This method moves from one local minimizer of the objective function f to a better one at each iteration with the help of an auxiliary function termed the global descent function. The global descent function is not only guaranteed to have a local minimizer $x'$ over the problem domain in $\mathbb{R}^n$ but also ensures that each of its local minimizers is located in some neighborhoods of a better minimizer of f with $f(x')<f(x^*)$. These features of the global descent function enable a global descent to be achieved at each iteration using only local descent methods. Computational experiments conducted on several test problems with up to 1000 variables demonstrate the applicability of the proposed method. Furthermore, numerical comparison experiments carried out with GAMS/BARON on several test problems also justify the efficiency and effectiveness of the proposed method.
+Keywords
+global descent method, global optimization, nonlinear programming, nonconvex optimization, mathematical programming, 49M30, 90C26, 

@@ -1,0 +1,6 @@
+Trajectory optimization for unmanned aerial vehicle formation reconfiguration
+Hyoung-seok Kim;Youdan Kim;
+Abstract
+The results of trajectory optimization to reconfigure unmanned aerial vehicle (UAV) formation in the event of a critical failure are presented. The formation reconfiguration process includes two distinct manoeuvres: an escape manoeuvre for a malfunctioning UAV and a replacement movement for an alternative UAV related to its position. This article deals with both manoeuvres but focuses more on the replacement movement. The trajectory optimization problem of the escape manoeuvre is formulated as a minimum-time problem to reduce the possibility of collisions resulting from a failure, whereas the problem of the replacement movement is formulated as a final-time fixed minimum-fuel problem to secure the durability of the group of UAVs. These problems are solved by means of sequential quadratic programming. To evaluate the performance of the optimization results, fuel consumption for the replacement movement is considered and optimization of a three-phase reference trajectory is performed. The results show that the trajectory optimization reduces the fuel consumption and saves time.
+Keywords
+UAV, formation reconfiguration, trajectory optimization, escape manoeuvre, replacement movements 

@@ -1,0 +1,6 @@
+The projection method of optimization applied to engineering plasticity problems
+M. J. Best;N. A. McFall;
+Abstract
+In engineering plasticity, the behavior of a structure (e.g., a frame or truss) under a variety of loading conditions is studied. Two primary types of analysis are generally conducted. Limit analysis determines the rigid plastic collapse load for a structure and can be formulated as a linear program (LP). Deformation analysis at plastic collapse can be formulated as a quadratic program (QP). The constraints of the two optimization problems are closely related. This paper presents a specialization of the projection method for linear programming for the limit-load analysis problem. The algorithm takes advantage of the relationship between the LP constraints and QP constraints to provide advantageous starting data for the projection method applied to the QP problem. An important feature of the method is that it avoids problems of apparent infeasibility due to roundoff errors. Experimental results are given for two medium-sized problems.
+Keywords
+Quadratic programming  linear programming  engineering plasticity  limit-load analysis  displacement analysis  

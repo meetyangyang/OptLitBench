@@ -1,0 +1,6 @@
+Second Order Forward-Backward Dynamical Systems For Monotone Inclusion Problems
+Radu Ioan  Boţ and Ernö Robert  Csetnek;
+Abstract
+We begin by considering second order dynamical systems of the from $\ddot x(t) + \gamma(t)\dot x(t) + \lambda(t)B(x(t))=0$, where $B: {\cal H}\rightarrow{\cal H}$ is a cocoercive operator defined on a real Hilbert space ${\cal H}$, $\lambda:[0,+\infty)\rightarrow [0,+\infty)$ is a relaxation function, and $\gamma:[0,+\infty)\rightarrow [0,+\infty)$ is a damping function, both depending on time. For the generated trajectories, we show existence and uniqueness of the generated trajectories as well as their weak asymptotic convergence to a zero of the operator $B$. The framework allows us to address from similar perspectives second order dynamical systems associated with the problem of finding zeros of the sum of a maximally monotone operator and a cocoercive one. This captures as a particular case the minimization of the sum of a nonsmooth convex function with a smooth convex one. Furthermore, we prove that when $B$ is the gradient of a smooth convex function the value of the latter converges along the ergodic trajectory to its minimal value with a rate of ${\cal O}(1/t)$.
+Keywords
+dynamical systems, monotone inclusions, convex optimization problems, continuous forward-backward method, 34G25, 47J25, 47H05, 90C25, 

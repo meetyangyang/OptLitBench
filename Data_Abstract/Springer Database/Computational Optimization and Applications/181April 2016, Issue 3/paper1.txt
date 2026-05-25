@@ -1,0 +1,6 @@
+On an inexact trust-region SQP-filter method for constrained nonlinear optimization
+Andrea Walther;Lorenz Biegler;
+Abstract
+A class of trust-region algorithms is developed and analyzed for the solution of optimization problems with nonlinear equality and inequality constraints. These algorithms are developed for problem classes where the constraints are not available in an open, equation-based form, and constraint Jacobians are of high dimension and are expensive to calculate. Based on composite-step trust region methods and a filter approach, the resulting algorithms do not require the computation of exact Jacobians; only Jacobian vector products are used along with approximate Jacobian matrices. With these modifications, we show that the algorithm is globally convergent. Also, as demonstrated on numerical examples, our algorithm avoids direct computation of exact Jacobians and has significant potential benefits on problems where Jacobian calculations are expensive.
+Keywords
+Inexact trust region methods  Filter approach  General constrained nonlinear optimization  

@@ -1,0 +1,6 @@
+A multilevel algorithm for solving the trust-region subproblem
+ Philippe   L.   Toint ; D.   Tomanos ; M.   Weber-Mendonça ;
+Abstract
+ We present a multilevel numerical algorithm for the exact solution of the Euclidean trust-region subproblem. This particular subproblem typically arises when optimizing a nonlinear (possibly non-convex) objective function whose variables are discretized continuous functions, in which case the different levels of discretization provide a natural multilevel context. The trust-region problem is considered at the highest level (corresponding to the finest discretization), but information on the problem curvature at lower levels is exploited for improved efficiency. The algorithm is inspired by the method described in [J.J. Moré and D.C. Sorensen, On the use of directions of negative curvature in a modified Newton method, Math. Program. 16(1) (1979), pp. 1–20], for which two different multilevel variants will be analysed. Some preliminary numerical comparisons are also presented. 
+Keywords
+nonlinear optimization, trust-region subproblem, numerical algorithms, multilevel methods 

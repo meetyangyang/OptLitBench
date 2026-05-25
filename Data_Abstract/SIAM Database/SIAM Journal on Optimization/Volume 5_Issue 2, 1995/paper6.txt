@@ -1,0 +1,6 @@
+A Reduced Hessian Method for Large-Scale Constrained Optimization
+Lorenz T.  Biegler, Jorge  Nocedal, and Claudia  Schmid;
+Abstract
+We propose a quasi-Newton algorithm for solving large optimization problems with nonlinear equality constraints. It is designed for problems with few degrees of freedom and is motivated by the need to use sparse matrix factorizations. The algorithm incorporates a correction vector that approximates the cross term $Z^T WY{p_Y} $ in order to estimate the curvature in both the range and null spaces of the constraints. The algorithm can be considered to be, in some sense, a practical implementation of an algorithm of Coleman and Conn. We give conditions under which local and superlinear convergence is obtained.
+Keywords
+successive quadratic programming, reduced Hessian methods, constrained optimization, quasi-Newton method, large-scale optimization, 65, 49, 

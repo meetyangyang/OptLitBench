@@ -1,0 +1,6 @@
+A Three-Term Conjugate Gradient Method with Sufficient Descent Property for Unconstrained Optimization
+Yasushi  Narushima, Hiroshi  Yabe, and John A.  Ford;
+Abstract
+Conjugate gradient methods are widely used for solving large-scale unconstrained optimization problems because they do not need the storage of matrices. In this paper, we propose a general form of three-term conjugate gradient methods which always generate a sufficient descent direction. We give a sufficient condition for the global convergence of the proposed method. Moreover, we present a specific three-term conjugate gradient method based on the multistep quasi-Newton method. Finally, some numerical results of the proposed method are given.
+Keywords
+unconstrained optimization, three-term conjugate gradient method, sufficient descent condition, global convergence, 90C30, 90C06, 

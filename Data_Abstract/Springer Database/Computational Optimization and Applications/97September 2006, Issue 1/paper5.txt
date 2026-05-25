@@ -1,0 +1,6 @@
+An Algorithm for Approximate Multiparametric Convex Programming
+Alberto Bemporad;Carlo Filippi;
+Abstract
+For multiparametric convex nonlinear programming problems we propose a recursive algorithm for approximating, within a given suboptimality tolerance, the value function and an optimizer as functions of the parameters. The approximate solution is expressed as a piecewise affine function over a simplicial partition of a subset of the feasible parameters, and it is organized over a tree structure for efficiency of evaluation. Adaptations of the algorithm to deal with multiparametric semidefinite programming and multiparametric geometric programming are provided and exemplified. The approach is relevant for real-time implementation of several optimization-based feedback control strategies.
+Keywords
+multiparametric programming  convex programming  sensitivity analysis  

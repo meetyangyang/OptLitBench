@@ -1,0 +1,6 @@
+The Bound-Constrained Conjugate Gradient Method for Non-negative Matrices
+Edwin A. H. Vollebregt;
+Abstract
+Existing conjugate gradient (CG)-based methods for convex quadratic programs with bound constraints require many iterations for solving elastic contact problems. These algorithms are too cautious in expanding the active set and are hampered by frequent restarting of the CG iteration. We propose a new algorithm called the Bound-Constrained Conjugate Gradient method (BCCG). It combines the CG method with an active-set strategy, which truncates variables crossing their bounds and continues (using the Polak–Ribière formula) instead of restarting CG. We provide a case with n=3 that demonstrates that this method may fail on general cases, but we conjecture that it always works if the system matrix A is non-negative. Numerical results demonstrate the effectiveness of the method for large-scale elastic contact problems.
+Keywords
+Quadratic program  Bound constraints  Conjugate gradients method  Active set algorithm  Elastic contact problem  

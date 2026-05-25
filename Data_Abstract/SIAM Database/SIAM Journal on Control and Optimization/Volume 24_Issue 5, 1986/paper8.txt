@@ -1,0 +1,6 @@
+Diffusions for Global Optimization
+Stuart  Geman and Chii-Ruey  Hwang;
+Abstract
+We seek a global minimum of $U:[0,1]^n  \to R$. The solution to $({d / {dt}})x_t  =  - \nabla U(x_t )$ will find local minima. The solution to $dx_t  =  - \nabla U(x_t )dt + \sqrt {2T} dw_t $, where w is standard (n-dimensional) Brownian motion and the boundaries are reflecting, will concentrate near the global minima of U, at least when “temperature” T is small: the equilibrium distribution for $x_t $, is Gibbs with density $\pi _T (x)\alpha \exp \{  - {{U(x)} / T}\} $. This suggests setting $T = T(t) \downarrow 0$, to find the global minima of U. We give conditions on $U(x)$ and $T(t)$ such that the solution to $dx_t  =  - \nabla U(x_t )dt + \sqrt {2T} dw_t $ converges weakly to a distribution concentrated on the global minima of U.
+Keywords
+global optimization, simulated annealing, diffusion, reflecting boundaries, 60J60, 60J70, 

@@ -1,0 +1,6 @@
+Self-tuning of the noising methods
+ Irène   Charon ; Olivier   Hudry ;
+Abstract
+ The noising methods (NM) constitute a family of metaheuristics and generalize the simulated annealing and the threshold accepting methods. One main difficulty with NM and more generally with metaheuristics lies in the necessity to tune several parameters. This article details a way to design NM which can tune their parameters themselves, so that there remains only one parameter that the user provides: the CPU time that he or she wants to spend in order to solve his or her problem. Experimental results obtained for four problems show that these self-tuned NM succeed in finding good tunings and in providing good results to the studied problems. 
+Keywords
+metaheuristics, noising methods, simulated annealing, threshold accepting algorithms, automatic tuning, combinatorial optimizationAMS Subject Classifications:: 90C15, 90C27, 90C31, 90C35, 90C59 

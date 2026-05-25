@@ -1,0 +1,6 @@
+Efficient multicriterial optimization based on intensive reuse of search information
+Victor Gergel;Evgeny Kozinov;
+Abstract
+This paper proposes an efficient method for solving complex multicriterial optimization problems, for which the optimality criteria may be multiextremal and the calculations of the criteria values may be time-consuming. The approach involves reducing multicriterial problems to global optimization ones through minimax convolution of partial criteria, reducing dimensionality by using Peano curves and implementing efficient information-statistical methods for global optimization. To efficiently find the set of Pareto-optimal solutions, it is proposed to reuse all the search information obtained in the course of optimization. The results of computational experiments indicate that the proposed approach greatly reduces the computational complexity of solving multicriterial optimization problems.
+Keywords
+Decision making  Multicriterial optimization  Scalarization  Dimensionality reduction  Global optimization algorithm  Search information  Computational complexity  

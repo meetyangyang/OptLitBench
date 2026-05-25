@@ -1,0 +1,6 @@
+A Note on the Recursive and Parallel Structure of the Birge and Qi Factorization for Tree Structured Linear Programs
+Georg Ch. Pflug;Ladislav Halada;
+Abstract
+In this note, we derive the complete recursive structure of the Birge and Qi factorization for interior point methods (IPM) for tree structured linear programs as they appear in multistage stochastic programs. This recursive structure allows for an elegant implementation on parallel hardware, since multiple versions of the same program may be run on on different processors. Our preliminary computational experiment, conducted on a Beowulf cluster, demonstrates the scalability of this approach.
+Keywords
+linear programming  interior point method  tree-structured problems  recursive and parallel algorithms  

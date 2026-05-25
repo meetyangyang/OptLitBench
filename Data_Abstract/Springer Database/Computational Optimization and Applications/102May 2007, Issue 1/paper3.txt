@@ -1,0 +1,8 @@
+Progress in the dual simplex method for large scale LP problems: practical dual phase 1 algorithms
+Achim Koberstein;Uwe H. Suhl;
+Abstract
+
+The dual simplex algorithm has become a strong contender in solving large scale LP problems. One key problem of any dual simplex algorithm is to obtain a dual feasible basis as a starting point. We give an overview of methods which have been proposed in the literature and present new stable and efficient ways to combine them within a state-of-the-art optimization system for solving real world linear and mixed integer programs. Furthermore, we address implementation aspects and the connection between dual feasibility and LP-preprocessing. Computational results are given for a large set of large scale LP problems, which show our dual simplex implementation to be superior to the best existing research and open-source codes and competitive to the leading commercial code on many of our most difficult problem instances.
+
+Keywords
+Dual simplex algorithm  Mathematical optimization system (MOPS)  Linear programming  

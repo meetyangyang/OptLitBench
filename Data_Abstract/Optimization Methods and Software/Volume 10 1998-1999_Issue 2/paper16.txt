@@ -1,0 +1,6 @@
+The complexity of high-order predictor-corrector methods for solving sufficient linear complementarity problems
+ Josef   Stoer ; Martin   Wechs ;
+Abstract
+ Recently the authors of this paper and S. Mizuno described a class of infeasible-interiorpoint methods for solving linear complementarity problems that are sufficient in the sense of R.W. Cottle, J.-S. Pang and V. Venkateswaran (1989) Sufficient matrices and the linear complementarity problemLinear Algebra AppL  114/115,231-249. It was shown that these methods converge superlinearly with an arbitrarily high order even for degenerate problems or problems without strictly complementary solution. In this paper the complexity of these methods is investigated. It is shown that all these methods, if started appropriately, need  predictor-corrector steps to find an e-solution, and only  steps, if the problem has strictly interior points. HereK is the sufficiency parameter of the complementarity problem. 
+Keywords
+Horizontal linear complementarity problems, sufficient matrices, infeasible interior-point-paths 

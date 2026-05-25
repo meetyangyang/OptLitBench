@@ -1,0 +1,4 @@
+Connections in Networks: A Hybrid Approach
+Carla P. Gomes;Willem-Jan van Hoeve;Ashish Sabharwal;
+Abstract
+This paper extends our previous work by exploring the use of a hybrid solution method for solving the connection subgraph problem. We employ a two phase solution method, which drastically reduces the cost of testing for infeasibility and also helps prune the search space for MIP-based optimization. Overall, this provides a much more scalable solution than simply optimizing a MIP model of the problem with Cplex. We report results for semi-structured lattice instances as well as on real data used for the construction of a wildlife corridor for grizzly bears in the Northern Rockies region.

@@ -1,0 +1,6 @@
+Parallel Implementation of Synchronous Type Artificial Bee Colony Algorithm for Global Optimization
+Alper Basturk;Rustu Akay;
+Abstract
+Evolutionary algorithms often need huge running times when solving large-scale optimization problems. One of the solutions for this issue is to introduce parallelization into the algorithm. To benefit from this approach for the artificial bee colony optimization algorithm, we present a new synchronous and parallel version of the algorithm. Performances of the proposed version and the original asynchronous algorithm are compared in terms of efficiency and speedup. Algorithms are competed to solve 20 large-scale global optimization problems. Comparative results show that the proposed parallel algorithm is still efficient as asynchronous version while it requires much less time to solve complex and large problems.
+Keywords
+Parallel algorithms  Parallel computing  Artificial bee colony optimization algorithm  Global optimization  

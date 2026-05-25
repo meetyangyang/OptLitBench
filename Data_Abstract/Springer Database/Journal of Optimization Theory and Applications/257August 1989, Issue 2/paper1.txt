@@ -1,0 +1,6 @@
+A locally computed suboptimal control strategy for a class of interconnected systems
+L. Acar;Ü. Özgüner;
+Abstract
+In this paper, a locally computed suboptimal control strategy for a class of interconnected systems is introduced. First, optimal statefeedback control equations are derived for a finite-horizon quadratic cost. Then, the control for each subsystem is separated into two portions. The first portion stabilizes the isolated subsystem, and the second portion corresponds to the interactions. To achieve a locally calculable control, an approximation to the optimal control equations is introduced, and two iterative suboptimal control algorithms are developed. In the first algorithm, the initial conditions of subsystems are assumed to be known; in the second algorithm, this information is replaced by statistical distributions. The orders of errors in the iterations of the algorithm and in the suboptimality are given in terms of interconnections. An example with comparisons is also included to show the performance of the approach.
+Keywords
+Decentralized control  suboptimal control  interconnected systems  quadratic cost functions  

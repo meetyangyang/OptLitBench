@@ -1,0 +1,6 @@
+The robot sequencing problem: polynomial algorithm and complexity
+   K.   Richter ;
+Abstract
+ An industrial robot is to perform n tasks, Each task will be executed by exactly one of robot's m grabs. Precedence relations are given by a finite directed acyclic-graph such that some tasks can be performed only after other tasks have been completed. The problem is to find a sequence of tasks which fits the precedence relations and minimizes the number of grab's changes, The problem is shown to be NP-hard and a polynomial algorithm for a special case including the two-grab-problem is presented. 
+Keywords
+Directed graphs, vertex packing problem, robot sequencing problem, complexityAMS 1980 Subject Classification: Primary: 05 C 35, Secondary: 94 C 15, Secondary: 05 C 30, Secondary: 90 B 35 

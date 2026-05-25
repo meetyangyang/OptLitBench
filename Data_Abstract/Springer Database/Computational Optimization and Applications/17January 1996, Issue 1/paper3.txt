@@ -1,0 +1,6 @@
+An investigation of interior-point and block pivoting algorithms for large-scale symmetric monotone linear complementarity problems
+L. Fernandes;J. Júdice;J. Patrício;
+Abstract
+In this paper we describe a computational study of block principal pivoting (BP) and interior-point predictor-corrector (PC) algorithms for the solution of large-scale linear complementarity problems (LCP) with symmetric positive definite matrices. This study shows that these algorithms are in general quite appropriate for this type of LCPs. The BP algorithm does not seem to be sensitive to bad scaling and degeneracy of the unique solution of the LCP, while these aspects have some effect on the performance of the PC algorithm. On the other hand, the BP method has not performed well in two LCPs with ill-conditioned matrices for which the PC algorithm has behaved quite well.
+Keywords
+linear complementarity problem  convex quadratic programming  large-scale problems  sparse matrices  

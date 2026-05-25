@@ -1,0 +1,6 @@
+The Correlated Knowledge Gradient for Simulation Optimization of Continuous Parameters using Gaussian Process Regression
+Warren  Scott, Peter  Frazier, and Warren  Powell;
+Abstract
+We extend the concept of the correlated knowledge-gradient policy for the ranking and selection of a finite set of alternatives to the case of continuous decision variables. We propose an approximate knowledge gradient for problems with continuous decision variables in the context of a Gaussian process regression model in a Bayesian setting, along with an algorithm to maximize the approximate knowledge gradient. In the problem class considered, we use the knowledge gradient for continuous parameters to sequentially choose where to sample an expensive noisy function in order to find the maximum quickly. We show that the knowledge gradient for continuous decisions is a generalization of the efficient global optimization algorithm proposed in [D. R. Jones, M. Schonlau and W. J. Welch, J. Global Optim., 13 (1998), pp. 455–492].
+Keywords
+model calibration, Bayesian global optimization, Gaussian process regression, knowledge gradient, expected improvement, 62L05, 62L10, 62L20, 

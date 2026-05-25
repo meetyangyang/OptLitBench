@@ -1,0 +1,8 @@
+Optimization-based design of plant-friendly multisine signals using geometric discrepancy criteria
+Hans D. Mittelmann;Gautam Pendse;Daniel E. Rivera;Hyunjin Lee;
+Abstract
+
+System identification is an important means for obtaining dynamical models for process control applications; experimental testing represents the most time-consuming step in this task. The design of constrained, “plant-friendly” multisine input signals that optimize a geometric discrepancy criterion arising from Weyl’s Theorem is examined in this paper. Such signals are meaningful for data-centric estimation methods, where uniform coverage of the output state-space is critical. The usefulness of this problem formulation is demonstrated by applying it to a linear problem example and to the nonlinear, highly interactive distillation column model developed by Weischedel and McAvoy. The optimization problem includes a search for both the Fourier coefficients and phases in the multisine signal, resulting in an uniformly distributed output signal displaying a desirable balance between high and low gain directions. The solution involves very little user intervention (which enhances its practical usefulness) and has great benefits compared to multisine signals that minimize crest factor. The constrained nonlinear optimization problems that are solved represent challenges even for high-performance optimization software.
+
+Keywords
+System identification  Process control  Constrained optimization  

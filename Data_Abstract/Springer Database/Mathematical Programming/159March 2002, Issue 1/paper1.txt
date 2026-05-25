@@ -1,0 +1,6 @@
+A new rounding procedure for the assignment problem with applications to dense graph arrangement problems
+Sanjeev Arora;Alan Frieze;Haim Kaplan;
+Abstract
+We present a randomized procedure for rounding fractional perfect matchings to (integral) matchings. If the original fractional matching satisfies any linear inequality, then with high probability, the new matching satisfies that linear inequality in an approximate sense. This extends the well-known LP rounding procedure of Raghavan and Thompson, which is usually used to round fractional solutions of linear programs.¶We use our rounding procedure to design an additive approximation algorithm to the Quadratic Assignment Problem. The approximation error of the algorithm is εn2 and it runs in n O (log n /ε2) time.¶We also describe Polynomial Time Approximation Schemes (PTASs) for dense subcases of many well-known NP-hard arrangement problems, including MINIMUM LINEAR ARRANGEMENT, MINIMUM CUT LINEAR ARRANGEMENT, MAXIMUM ACYCLIC SUBGRAPH, and BETWEENNESS.
+Keywords
+Perfect Matchings  Assignment Problem  Linear Inequality  Arrangement Problem  Quadratic Assignment Problem  

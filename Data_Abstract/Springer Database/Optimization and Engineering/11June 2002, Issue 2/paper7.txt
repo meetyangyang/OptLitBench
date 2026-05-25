@@ -1,0 +1,6 @@
+Simulation-Based Optimization Using Computational Intelligence
+Hirotaka Nakayama;Masao Arakawa;Rie Sasaki;
+Abstract
+In many practical engineering design problems, the form of objective functions is not given explicitly in terms of design variables. Given the value of design variables, under this circumstance, the value of objective functions is obtained by some analysis such as structural analysis, fluidmechanic analysis, thermodynamic analysis, and so on. Usually, these analyses are considerably time consuming to obtain a value of objective functions. In order to make the number of analyses as few as possible, we suggest a method by which optimization is performed in parallel with predicting the form of objective functions. In this paper, radial basis function networks (RBFN) are employed in predicting the form of objective functions, and genetic algorithms (GA) are adopted in searching the optimal value of the predicted objective function. The effectiveness of the suggested method will be shown through some numerical examples.
+Keywords
+RBF networks  genetic algorithms  prediction of objective functions  

@@ -1,0 +1,6 @@
+A Polynomial-Time Descent Method for Separable Convex Optimization Problems with Linear Constraints
+Sergei  Chubanov;
+Abstract
+We propose a polynomial algorithm for a separable convex optimization problem with linear constraints. We do not make any additional assumptions about the structure of the objective function except for polynomial computability. That is, the objective function can be non-differentiable. The running time of our algorithm is polynomial in the  size of the input consisting of an instance of the problem and the accuracy with which the problem is to be solved. Our algorithm uses an oracle for solving auxiliary systems of linear inequalities. This oracle can be any polynomial algorithm for linear programming.
+Keywords
+convex optimization, separable convex function, polynomial algorithm, 90C25, 

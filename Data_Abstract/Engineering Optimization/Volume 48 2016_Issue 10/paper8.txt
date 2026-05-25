@@ -1,0 +1,6 @@
+Dual-mode nested search method for categorical uncertain multi-objective optimization
+Long Tang;Hu Wang;
+Abstract
+Categorical multi-objective optimization is an important issue involved in many matching design problems. Non-numerical variables and their uncertainty are the major challenges of such optimizations. Therefore, this article proposes a dual-mode nested search (DMNS) method. In the outer layer, kriging metamodels are established using standard regular simplex mapping (SRSM) from categorical candidates to numerical values. Assisted by the metamodels, a k-cluster-based intelligent sampling strategy is developed to search Pareto frontier points. The inner layer uses an interval number method to model the uncertainty of categorical candidates. To improve the efficiency, a multi-feature convergent optimization via most-promising-area stochastic search (MFCOMPASS) is proposed to determine the bounds of objectives. Finally, typical numerical examples are employed to demonstrate the effectiveness of the proposed DMNS method.
+Keywords
+categorical optimization, uncertain optimization, multi-objective optimization 

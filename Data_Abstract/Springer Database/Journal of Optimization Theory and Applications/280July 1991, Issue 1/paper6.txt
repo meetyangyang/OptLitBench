@@ -1,0 +1,6 @@
+Decomposition algorithm for convex differentiable minimization
+P. Tseng;
+Abstract
+In this paper, we propose a decomposition algorithm for convex differentiable minimization. This algorithm at each iteration solves a variational inequality problem obtained by adding to the gradient of the cost function a strongly proximal related function. A line search is then performed in the direction of the solution to this variational inequality (with respect to the original cost). If the constraint set is a Cartesian product ofm sets, the variational inequality decomposes intom coupled variational inequalities, which can be solved in either a Jacobi manner or a Gauss-Seidel manner. This algorithm also applies to the minimization of a strongly convex (possibly nondifferentiable) cost subject to linear constraints. As special cases, we obtain the GP-SOR algorithm of Mangasarian and De Leone, a diagonalization algorithm of Feijoo and Meyer, the coordinate descent method, and the dual gradient method. This algorithm is also closely related to a splitting algorithm of Gabay and a gradient projection algorithm of Goldstein and of Levitin-Poljak, and has interesting applications to separable convex programming and to solving traffic assignment problems.
+Keywords
+Convex programming  decomposition  linear complementarity  variational inequalities  

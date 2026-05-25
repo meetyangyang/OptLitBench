@@ -1,0 +1,6 @@
+Computing the nadir point for multiobjective discrete optimization problems
+Gokhan Kirlik;Serpil Sayın;
+Abstract
+We investigate the problem of finding the nadir point for multiobjective discrete optimization problems (MODO). The nadir point is constructed from the worst objective values over the efficient set of a multiobjective optimization problem. We present a new algorithm to compute nadir values for MODO with \(p\) objective functions. The proposed algorithm is based on an exhaustive search of the \((p-2)\)-dimensional space for each component of the nadir point. We compare our algorithm with two earlier studies from the literature. We give numerical results for all algorithms on multiobjective knapsack, assignment and integer linear programming problems. Our algorithm is able to obtain the nadir point for relatively large problem instances with up to five-objectives.
+Keywords
+Nadir point  Multiobjective optimization  Multiobjective discrete optimization  

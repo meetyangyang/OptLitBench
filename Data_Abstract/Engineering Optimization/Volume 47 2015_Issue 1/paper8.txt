@@ -1,0 +1,6 @@
+Self-regulating and self-evolving particle swarm optimizer
+Hui-Min Wang;Zhao-Wei Qiao;Chang-Liang Xia;Liang-Yu Li;
+Abstract
+In this article, a novel self-regulating and self-evolving particle swarm optimizer (SSPSO) is proposed. Learning from the idea of direction reversal, self-regulating behaviour is a modified position update rule for particles, according to which the algorithm improves the best position to accelerate convergence in situations where the traditional update rule does not work. Borrowing the idea of mutation from evolutionary computation, self-evolving behaviour acts on the current best particle in the swarm to prevent the algorithm from prematurely converging. The performance of SSPSO and four other improved particle swarm optimizers is numerically evaluated by unimodal, multimodal and rotated multimodal benchmark functions. The effectiveness of SSPSO in solving real-world problems is shown by the magnetic optimization of a Halbach-based permanent magnet machine. The results show that SSPSO has good convergence performance and high reliability, and is well matched to actual problems.
+Keywords
+particle swarm optimization, self-regulating, self-evolving, direction reversal, mutation 

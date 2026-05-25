@@ -1,0 +1,6 @@
+Addressing Rank Degeneracy in Constraint-Reduced Interior-Point Methods for Linear Optimization
+Luke B. Winternitz;André L. Tits;P.-A. Absil;
+Abstract
+In earlier works (Tits et al. SIAM J. Optim., 17(1):119–146, 2006; Winternitz et al. Comput. Optim. Appl., 51(3):1001–1036, 2012), the present authors and their collaborators proposed primal–dual interior-point (PDIP) algorithms for linear optimization that, at each iteration, use only a subset of the (dual) inequality constraints in constructing the search direction. For problems with many more variables than constraints in primal form, this can yield a major speedup in the computation of search directions. However, in order for the Newton-like PDIP steps to be well defined, it is necessary that the gradients of the constraints included in the working set span the full dual space. In practice, in particular in the case of highly sparse problems, this often results in an undesirably large working set—or in an expensive trial-and-error process for its selection. In this paper, we present two approaches that remove this non-degeneracy requirement, while retaining the convergence results obtained in the earlier work.
+Keywords
+Linear programming  Linear optimization  Constraint reduction  Primal–dual interior point  Regularization  

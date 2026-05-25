@@ -1,0 +1,6 @@
+A Dynamic Domain Contraction Algorithm for Nonconvex Piecewise Linear Network Flow Problems*
+Dukwon Kim;Panos M. Pardalos;
+Abstract
+We consider the Nonconvex Piecewise Linear Network Flow Problem (NPLNFP) which is known to be \(\mathcal{N}{\text{ }}P\)-hard. Although exact methods such as branch and bound have been developed to solve the NPLNFP, their computational requirements increase exponentially with the size of the problem. Hence, an efficient heuristic approach is in need to solve large scale problems appearing in many practical applications including transportation, production-inventory management, supply chain, facility expansion and location decision, and logistics. In this paper, we present a new approach for solving the general NPLNFP in a continuous formulation by adapting a dynamic domain contraction. A Dynamic Domain Contraction (DDC) algorithm is presented and preliminary computational results on a wide range of test problems are reported. The results show that the proposed algorithm generates solutions within 0 to 0.94 % of optimality in all instances that the exact solutions are available from a branch and bound method.
+Keywords
+Domain contraction  Dynamic slope scaling procedure  Fixed charge  Nonconvex piecewise linear network flow problem  

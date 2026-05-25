@@ -1,0 +1,6 @@
+An exact algorithm for the minimum dilation triangulation problem
+Sattar Sattari;Mohammad Izadi;
+Abstract
+Given a triangulation of a point set on the plane, dilation of any pair of the points is the ratio of their shortest path length to their Euclidean distance. The maximum dilation over all pairs of points is called the dilation of this triangulation. Minimum dilation triangulation problem seeks a triangulation with the least possible dilation of an input point set. For this problem no polynomial time algorithm is known. We present an exact algorithm based on a branch and bound method for finding minimum dilation triangulations. This deterministic algorithm after generating an initial solution, iteratively computes a lower bound for the answer and then applies a branch and bound method to find a better solution. It also uses a local search method to improve the initial solution and the obtained solution of the branch and bound method. We implemented our algorithm and conducted computational experiments on some benchmark instances. The efficacy of the approach is demonstrated by comparing its results with two other published methods.
+Keywords
+Triangulation  Dilation  Branch and bound  

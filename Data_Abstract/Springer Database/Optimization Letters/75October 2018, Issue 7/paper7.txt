@@ -1,0 +1,6 @@
+Easy knapsacks and the complexity of energy allocation problems in the smart grid
+Theo Karaboghossian;Michele Zito;
+Abstract
+Motivated by the growing interest in the smart grid and intelligent energy management mechanisms we study two classes of domestic energy allocation problems. In the first case we work with a system that is tasked with scheduling the work on a number of appliances over a given time window. In the second one a collection of air conditioning appliances is used to control the temperature of a given domestic environment. Our framework for this case includes a simplified mechanism for modelling the heat exchange between the interior and the exterior of the given environment. We present various polynomial time algorithms and NP-hardness proofs. In particular the main result of the paper is a proof that although it is NP-hard to schedule the operation of a single air-conditioning unit, working at various temperature levels in a variable energy price regime, there is a polynomial time algorithm for controlling one such device working at a single temperature level, for houses with low thermal inertia. The algorithm analysis hinges on the properties of a polynomial time variant of the minimisation version of the knapsack problem which may be of independent interest.
+Keywords
+Complexity  Optimization  Dynamic programming  Algorithms  

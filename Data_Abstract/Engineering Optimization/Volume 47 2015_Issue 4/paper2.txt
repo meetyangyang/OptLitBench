@@ -1,0 +1,6 @@
+A genetic algorithm for slope stability analyses with concave slip surfaces using custom operators
+Rafael Jurado-Piña;Rafael Jimenez;
+Abstract
+Heuristic methods are popular tools to find critical slip surfaces in slope stability analyses. A new genetic algorithm (GA) is proposed in this work that has a standard structure but a novel encoding and generation of individuals with custom-designed operators for mutation and crossover that produce kinematically feasible slip surfaces with a high probability. In addition, new indices to assess the efficiency of operators in their search for the minimum factor of safety (FS) are proposed. The proposed GA is applied to traditional benchmark examples from the literature, as well as to a new practical example. Results show that the proposed GA is reliable, flexible and robust: it provides good minimum FS estimates that are not very sensitive to the number of nodes and that are very similar for different replications.
+Keywords
+slope stability, evolutionary algorithms, heuristic methods, limit equilibrium, Spencer method 

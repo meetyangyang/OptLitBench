@@ -1,0 +1,6 @@
+Second-order shape design sensitivity using P-version finite element analysis
+H. -Y. Hwang;K. K. Choi;K. -H. Chang;
+Abstract
+Thep-version finite element analysis (FEA) approach is attractive for design sensitivity analysis (DSA) and optimization due to its high accuracy of analysis results, even with coarse mesh; insensitivity to finite element mesh distortion and aspect ratio; and tolerance for large shape design changes during design iterations. A continuum second-order shape DSA formulation is derived and implemented usingp-version FEA. The second-order shape design sensitivity can be used for reliability based analysis and design optimization by incorporating it with the second-order reliability analysis method (SORM). Both the second-order shape DSA formulations with respect to the single and mixed shape design parameters are derived for elastic solids using the material derivative concept. Both the direct differentiation and hybrid methods are presented in this paper. A shape DSA is implemented by using an establishedp-version FEA code, STRESS CHECK. Two numerical examples, a connecting rod and bracket, are presented to demonstrate the feasibility and accuracy of the proposed seond-order shape DSA approach.
+Keywords
+Finite Element Analysis  Coarse Mesh  Finite Element Mesh  Design Change  Elastic Solid  

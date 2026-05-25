@@ -1,0 +1,6 @@
+A multi-objective variable-fidelity optimization method for genetic algorithms
+Jiandao Zhu;Yi-Jen Wang;Matthew Collette;
+Abstract
+A novel variable-fidelity optimization (VFO) scheme is presented for multi-objective genetic algorithms. The technique uses a low- and high-fidelity version of the objective function with a Kriging scaling model to interpolate between them. The Kriging model is constructed online through a fixed updating schedule. Results for three standard genetic algorithm test cases and a two-objective stiffened panel optimization problem are presented. For the stiffened panel problem, statistical analysis of four performance metrics are used to compare the Pareto fronts between the VFO method, full high-fidelity optimizer runs, and Pareto fronts developed by enumeration. The fixed updating approach is shown to reduce the number of high-fidelity calls significantly while approximating the Pareto front in an efficient manner.
+Keywords
+genetic algorithm, optimization, stiffened panel, variable fidelity, Kriging 

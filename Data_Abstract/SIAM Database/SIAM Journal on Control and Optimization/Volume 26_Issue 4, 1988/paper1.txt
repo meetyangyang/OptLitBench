@@ -1,0 +1,6 @@
+The Identification of a Distributed Parameter Model for a Flexible Structure
+H. T.  Banks, S. S.  Gates, I. G.  Rosen, and Y.  Wang;
+Abstract
+We develop a computational method for the estimation of parameters in a distributed model for a flexible structure. The structure we consider (part of the “RPL experiment”) consists of a cantilevered beam with a thruster and linear accelerometer at the free end. The thruster is fed by a pressurized hose whose horizontal motion effects the transverse vibration of the beam. We use the Euler-Bernoulli theory to model the vibration of the beam and treat the hose-thruster assembly as a lumped or point-mass-dashpotspring system at the tip. Using measurements of linear acceleration at the tip, we estimate the hose parameters (mass, stiffness, damping) and a Voigt-Kelvin viscoelastic structural damping parameter for the beam using a least-squares fit to the data.We consider spline based approximations to the hybrid (coupled ordinary and partial differential equations) system; theoretical convergence results and numerical studies with both simulation and actual experimental data obtained from the structure are presented and discussed.
+Keywords
+identification, distributed parameter systems, approximation, flexibly structures, 35, 65, 73D50, 93B30, 

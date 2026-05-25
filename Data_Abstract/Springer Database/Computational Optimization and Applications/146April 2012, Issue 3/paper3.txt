@@ -1,0 +1,6 @@
+Inexact trust region PGC method for large sparse unconstrained optimization
+Junxiang Li;Limei Yan;Shudong Li;Jiazhen Huo;
+Abstract
+We present an algorithm, partitioning group correction (PGC) algorithm based on trust region and conjugate gradient method, for large-scale sparse unconstrained optimization. In large sparse optimization, computing the whole Hessian matrix and solving the Newton-like equations at each iteration can be considerably expensive when a trust region method is adopted. The method depends on a symmetric consistent partition of the columns of the Hessian matrix and an inaccurate solution to the Newton-like equations by conjugate gradient method. And we allow that the current direction exceeds the trust region bound if it is a good descent direction. Besides, we studies a method dealing with some sparse matrices having a dense structure part. Some good convergence properties are kept and we contrast the computational behavior of our method with that of other algorithms. Our numerical tests show that the algorithm is promising and quite effective, and that its performance is comparable to or better than that of other algorithms available.
+Keywords
+Unconstrained optimization  Negative curvature  Inexact  Sparsity  Partition  Locally constrained steps  

@@ -1,0 +1,6 @@
+One-Processor Scheduling with Symmetric Earliness and Tardiness Penalties
+Michael R. Garey;Robert E. Tarjan;Gordon T. Wilfong;
+Abstract
+We consider one-processor scheduling problems having the following form: Tasks T1, T2, …, TN are given, with each Ti having a specified length li and a preferred starting time ai (or, equivalently, a preferred completion time bi). The tasks are to be scheduled nonpreemptively (i.e., a task cannot be split) on a single processor to begin as close to their preferred starting times as possible. We examine two different cost measures for such schedules, the sum of the absolute discrepancies from the preferred starting times and the maximum such discrepancy. For the first of these, we show that the problem of finding minimum cost schedules is NP-complete; however, we give an efficient algorithm that finds minimum cost schedules whenever the tasks either all have the same length or are required to be executed in a given fixed sequence. For the second cost measure, we give an efficient algorithm that finds minimum cost schedules in general, with no constraints on the ordering or lengths of the tasks.
+Keywords
+scheduling nonpreemptive earliness penalty lateness penalty 

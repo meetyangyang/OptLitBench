@@ -1,0 +1,4 @@
+Design and Implementation of Bounded-Length Sequence Variables
+Joseph D. Scott;Pierre Flener;Justin Pearson;Christian Schulte;
+Abstract
+We present the design and implementation of bounded length sequence (BLS) variables for a CP solver. The domain of a BLS variable is represented as the combination of a set of candidate lengths and a sequence of sets of candidate characters. We show how this representation, together with requirements imposed by propagators, affects the implementation of BLS variables for a copying CP solver, most importantly the closely related decisions of data structure, domain restriction operations, and propagation events. The resulting implementation outperforms traditional bounded-length string representations for CP solvers, which use a fixed-length array of candidate characters and a padding symbol.

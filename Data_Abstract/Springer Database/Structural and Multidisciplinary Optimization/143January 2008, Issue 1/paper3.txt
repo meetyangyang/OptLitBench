@@ -1,0 +1,6 @@
+Derivative and GA-based methods in metamodeling of back-propagation neural networks for constrained approximate optimization
+Jongsoo Lee;Heeseok Jeong;Seongkyu Kang;
+Abstract
+Artificial neural networks (ANN) have been extensively used as global approximation tools in the context of approximate optimization. ANN traditionally minimizes the absolute difference between target outputs and approximate outputs thereby resulting in approximate optimal solutions being sometimes actually infeasible when it is used as a metamodel for inequality constraint functions. The paper explores the development of the efficient back-propagation neural network (BPN)-based metamodel that ensures the constraint feasibility of approximate optimal solution. The BPN architecture is optimized via two approaches of both derivative-based method and genetic algorithm (GA) to determine interconnection weights between layers in the network. The verification of the proposed approach is examined by adopting a standard ten-bar truss problem. Finally, a GA-based approximate optimization of suspension with an optical flying head is conducted to enhance the shock resistance capability in addition to dynamic characteristics.
+Keywords
+Constrained approximate optimization  Back-propagation neural network  Inequality constraints  Genetic algorithm  

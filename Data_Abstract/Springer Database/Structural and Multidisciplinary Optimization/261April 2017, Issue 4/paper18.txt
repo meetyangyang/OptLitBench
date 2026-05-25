@@ -1,0 +1,6 @@
+A sequential sampling strategy for adaptive classification of computationally expensive data
+Prashant Singh;Joachim van der Herten;Dirk Deschrijver;Ivo Couckuyt;Tom Dhaene;
+Abstract
+Many real-world problems in engineering can be represented and solved as a data-driven classification problem, where the goal is to build a classifier that maps a given set of input parameters onto a corresponding class or label. In some cases, the collection of data samples can be computationally expensive. It is therefore crucial to solve the problem using as little data as possible. To this end, a novel sequential sampling algorithm is proposed that begins with a very small training set and supplements it in each iteration by a small batch of additional (expensive) data points. The outcome is a representative set of data samples that focuses the sampling on those locations in the input space where the class labels are changing more rapidly, while making sure that no class regions are missed.
+Keywords
+Adaptive sampling  Surrogate models  Simulations  Expensive data  

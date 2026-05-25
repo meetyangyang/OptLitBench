@@ -1,0 +1,6 @@
+A family of variable metric methods in function space, without exact line searches
+R. V. Mayorga;V. H. Quintana;
+Abstract
+The purpose of this paper is to extend a family of variable metric methods, of which the BFGS algorithm (Ref. 1) is a member, into function space, in particular, for the solution of unconstrained optimal control problems. An inexact one-dimensional minimization as suggested by Fletcher (ref. 2) is used. It is shown that, with this stepsize rule and under some mild assumptions, the sequence constructed by this family of methods converges superlinearly for a strictly convex functional defined on a suitable Banach space. This result is shown to remain valid on a Hilbert space and on a Euclidean space under more relaxed assumptions. The BFGS method without line searches is used to solve several standard numerical examples, and excellent performance is observed.
+Keywords
+Variable metric methods  quasi-Newton methods  optimal control problems  Banach spaces  convergence  exact line searches  control theory  

@@ -1,0 +1,6 @@
+A Multiperiod Newsvendor Problem with Partially Observed Demand
+Alain Bensoussan;Metin Çakanyıldırım;Suresh P. Sethi;
+Abstract
+We consider a newsvendor problem with partially observed Markovian demand. Demand is observed if it is less than the inventory. Otherwise, only the event that it is larger than or equal to the inventory is observed. These observations are used to update the demand distribution from one period to the next. The state of the resulting dynamic programming equation is the current demand distribution, which is generally infinite dimensional. We use unnormalized probabilities to convert the nonlinear state transition equation to a linear one. This helps in proving the existence of an optimal feedback ordering policy. So as to learn more about the demand, the optimal order is set to exceed the myopic optimal order. The optimal cost decreases as the demand distribution decreases in the hazard rate order. In a special case with finitely many demand values, we characterize a near-optimal solution by establishing that the value function is piecewise linear.
+Keywords
+unobserved unmet demand Markovian demand newsvendor problem 

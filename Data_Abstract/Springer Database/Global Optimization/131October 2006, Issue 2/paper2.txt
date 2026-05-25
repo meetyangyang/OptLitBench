@@ -1,0 +1,6 @@
+Linearly Constrained Global Optimization and Stochastic Differential Equations
+Panos Parpas;Berç Rustem;Efstratios N. Pistikopoulos;
+Abstract
+A stochastic algorithm is proposed for the global optimization of nonconvex functions subject to linear constraints. Our method follows the trajectory of an appropriately defined Stochastic Differential Equation (SDE). The feasible set is assumed to be comprised of linear equality constraints, and possibly box constraints. Feasibility of the trajectory is achieved by projecting its dynamics onto the set defined by the linear equality constraints. A barrier term is used for the purpose of forcing the trajectory to stay within the box constraints. Using Laplace’s method we give a characterization of a probability measure (Π) that is defined on the set of global minima of the problem. We then study the transition density associated with the projected diffusion process and show that its weak limit is given by Π. Numerical experiments using standard test problems from the literature are reported. Our results suggest that the method is robust and applicable to large-scale problems.
+Keywords
+Stochastic global optimization  Simulated annealing  Stochastic differential equations  Fokker–Planck equation  Laplace’s method  Projection algorithms  

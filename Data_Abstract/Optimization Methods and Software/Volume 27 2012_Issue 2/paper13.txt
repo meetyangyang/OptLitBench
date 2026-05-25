@@ -1,0 +1,6 @@
+A first-order convergence analysis of trust-region methods with inexact Jacobians and inequality constraints
+ Andrea   Walther ; Sree   Rama   Raju   Vetukuri ; Lorenz   T.   Biegler ;
+Abstract
+ A class of trust-region algorithms is developed and analyzed for the solution of minimization problems with nonlinear inequality constraints. Based on composite-step trust-region methods with barrier functions, the resulting algorithm also does not require the computation of exact Jacobians; only Jacobian vector products are used along with approximate Jacobian matrices. Therefore, the proposed method is targeted on small or medium size problems with dense Jacobians of the constraints. As demonstrated on small numerical examples, this feature has significant potential benefits for problems where Jacobian calculations are expensive. 
+Keywords
+trust-region algorithms, inexact Jacobians, inequality constraints, global convergence 

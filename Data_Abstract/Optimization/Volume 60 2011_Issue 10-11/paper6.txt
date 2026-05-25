@@ -1,0 +1,6 @@
+Interior point filter method for semi-infinite programming problems
+ Ana   I.   Pereira ; M.   Fernanda P.   Costa ; Edite   M.G.P.   Fernandes ;
+Abstract
+ Semi-infinite programming (SIP) problems can be efficiently solved by reduction-type methods. Here, we present a new reduction method for SIP, where the multi-local optimization is carried out with a stretched simulated annealing algorithm, the reduced (finite) problem is approximately solved by a Newton's primal–dual interior point method that uses a novel two-dimensional filter line search strategy to guarantee the convergence to a KKT point that is a minimizer, and the global convergence of the overall reduction method is promoted through the implementation of a classical two-dimensional filter line search. Numerical experiments with a set of well-known problems are shown. 
+Keywords
+nonlinear optimization, semi-infinite programming, interior point, filter method, line searchAMS Subject Classifications:: 90C30, 90C34, 90C51 

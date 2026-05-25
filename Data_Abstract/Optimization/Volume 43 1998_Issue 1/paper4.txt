@@ -1,0 +1,6 @@
+Distribution-routes stability analysis of the transportation problem
+   V.G.   Adlakha ;   H.   Arsham ;
+Abstract
+ This paper presents an approach to the optimal distribution-route stability analysis of the transportation problem (TP), and deals with the difficulty arising from redundancy in the underlying system of equalities. Formulation of the TP as a linear program (LP) provides simplex as a solution algorithm. thereby performing stability analysis (SA).Deleting, however. a constraint to remove redundancy caused by the balanced condition, involves an arbitrary choice with no effect upon the solution but a drastic effect upon the SA. This raises several questions: Why does the SA change under an arbitrary choice? How do we obtain a definitive SA? How do we get information for the right-hand-side (RHS) of the deleted constraint? We explain this paradox in terms of the effects ofarbitrary choice to delete a constraint upon the dual problem. The choice defines thesame primal solution but generates a different dual solution. leading to a drasticallydifferent SA. The findings are applicable to any LP with redundant constraints  
+Keywords
+Balanced Transportation Problem, Supply and Demand Sensitivity Analysis, Distribution-route Stability Analysis, Linear Program, Dual Problems 

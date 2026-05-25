@@ -1,0 +1,6 @@
+Nonconvex optimization over a polytope using generalized capacity improvement
+B. W. Lamar;
+Abstract
+Capacity improvement involves the reduction of the size of the feasible region of an optimization problem without ‘cutting-off’ the optimal solution point(s). Capacity improvement can be used in a branch-and-bound procedure to produce tighter relaxations to subproblems in the enumeration tree. Previous capacity improvement work has concentrated on tightening the simple lower and upper bounds on variables. In this paper, the capacity improvement procedure is generalized to apply toall constraints that form the feasible region. For the minimization of a separable concave function over a bounded polytope, the method of calculating the capacity improvement parameters is very straightforward. Computational results for fixed-charge and quadratic concave minimization problems demonstrate the effectiveness of this procedure.
+Keywords
+Capacity improvement  domain reduction  nonconvex optimization  branch-and-bound  

@@ -1,0 +1,6 @@
+Descentwise inexact proximal algorithms for smooth optimization
+Marc Fuentes;Jérôme Malick;Claude Lemaréchal;
+Abstract
+The proximal method is a standard regularization approach in optimization. Practical implementations of this algorithm require (i) an algorithm to compute the proximal point, (ii) a rule to stop this algorithm, (iii) an update formula for the proximal parameter. In this work we focus on (ii), when smoothness is present—so that Newton-like methods can be used for (i): we aim at giving adequate stopping rules to reach overall efficiency of the method.
+Keywords
+Proximal algorithm  Quasi-Newton algorithms  Convex analysis  

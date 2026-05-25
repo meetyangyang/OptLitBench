@@ -1,0 +1,6 @@
+The smoothed Monte Carlo method in robustness optimization
+ Eligius M.T.   Hendrix ; Niels   J.   Olieman ;
+Abstract
+ The concept of robustness as the probability mass of a design-dependent set has been introduced in the literature. Optimization of robustness can be seen as finding the design that has the highest robustness. The reference method for estimating the robustness is the Monte Carlo (MC) simulation, and the drawback for its direct use in nonlinear optimization is the lack of derivative information and the appearance of discontinuities. An alternative for MC is presented, called the smoothed Monte Carlo estimation. It is proved that the resulting estimate function is made continuous in relevant design points and facilitates the use of standard nonlinear optimization algorithms. The whole procedure is illustrated numerically. 
+Keywords
+Monte Carlo, robustness, non-smooth optimization, stochastic programming AMS Subject Classification : 62G35, 90C15, 65C05 

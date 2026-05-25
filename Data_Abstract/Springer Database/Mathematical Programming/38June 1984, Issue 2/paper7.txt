@@ -1,0 +1,6 @@
+A note on the computation of an orthonormal basis for the null space of a matrix
+Thomas F. Coleman;Danny C. Sorensen;
+Abstract
+A highly regarded method to obtain an orthonormal basis,Z, for the null space of a matrixA T is theQR decomposition ofA, whereQ is the product of Householder matrices. In several optimization contextsA(x) varies continuously withx and it is desirable thatZ(x) vary continuously also. In this note we demonstrate that thestandard implementation of theQR decomposition doesnot yield an orthonormal basisZ(x) whose elements vary continuously withx. We suggest three possible remedies.
+Keywords
+Orthonormal Basis  QR Decomposition  Constrained Optimization  

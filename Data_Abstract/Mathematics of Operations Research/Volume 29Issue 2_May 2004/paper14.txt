@@ -1,0 +1,6 @@
+On Hochbaum's Proximity-Scaling Algorithm for the General Resource Allocation Problem
+Satoko Moriguchi;Akiyoshi Shioura;
+Abstract
+It is pointed out that the polynomial-time scaling algorithm by Hochbaum does not work correctly for the general resource allocation problem. Hochbaum's algorithm increases a variable by one unit if the variable cannot feasibly be increased by the scaling unit. We modify the algorithm to increase such a variable by the largest possible amount and show that with this modification the algorithm works correctly. The effect is to modify the factor F in the running time of Hochbaum's algorithm for finding whether a certain solution is feasible by the factor F̃ of finding the maximum feasible increment (also called the saturation capacity). Therefore, the corrected algorithm runs in O(n(log n + F̃) log(B/n)) time.
+Keywords
+resource allocation discrete optimization combinatorial optimization concave function 

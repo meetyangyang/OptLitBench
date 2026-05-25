@@ -1,0 +1,6 @@
+Newton's method for constrained optimization
+Jonathan Goodman;
+Abstract
+We derive a quadratically convergent algorithm for minimizing a nonlinear function subject to nonlinear equality constraints. We show, following Kaufman [4], how to compute efficiently the derivative of a basis of the subspace tangent to the feasible surface. The derivation minimizes the use of Lagrange multipliers, producing multiplier estimates as a by-product of other calculations. An extension of Kantorovich's theorem shows that the algorithm maintains quadratic convergence even if the basis of the tangent space changes abruptly from iteration to iteration. The algorithm and its quadratic convergence are known but the drivation is new, simple, and suggests several new modifications of the algorithm.
+Keywords
+Constrained Optimization  Newton's Method  Quadratic Convergence  

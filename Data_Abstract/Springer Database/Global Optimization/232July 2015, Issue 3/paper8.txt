@@ -1,0 +1,6 @@
+SymNMF: nonnegative low-rank approximation of a similarity matrix for graph clustering
+Da Kuang;Sangwoon Yun;Haesun Park;
+Abstract
+Nonnegative matrix factorization (NMF) provides a lower rank approximation of a matrix by a product of two nonnegative factors. NMF has been shown to produce clustering results that are often superior to those by other methods such as K-means. In this paper, we provide further interpretation of NMF as a clustering method and study an extended formulation for graph clustering called Symmetric NMF (SymNMF). In contrast to NMF that takes a data matrix as an input, SymNMF takes a nonnegative similarity matrix as an input, and a symmetric nonnegative lower rank approximation is computed. We show that SymNMF is related to spectral clustering, justify SymNMF as a general graph clustering method, and discuss the strengths and shortcomings of SymNMF and spectral clustering. We propose two optimization algorithms for SymNMF and discuss their convergence properties and computational efficiencies. Our experiments on document clustering, image clustering, and image segmentation support SymNMF as a graph clustering method that captures latent linear and nonlinear relationships in the data.
+Keywords
+Symmetric nonnegative matrix factorization  Low-rank approximation  Graph clustering  Spectral clustering  

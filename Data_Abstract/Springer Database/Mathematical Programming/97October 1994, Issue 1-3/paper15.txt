@@ -1,0 +1,6 @@
+Some properties of the Hessian of the logarithmic barrier function
+Margaret H. Wright;
+Abstract
+More than twenty years ago, Murray and Lootsma showed that Hessian matrices of the logarithmic barrier function become increasingly ill-conditioned at points on the barrier trajectory as the solution is approached. This paper explores some further characteristics of the barrier Hessian. We first show that, except in two special cases, the barrier Hessian is ill-conditioned in an entire region near the solution. At points in a more restricted region (including the barrier trajectory itself), this ill-conditioning displays a special structure connected with subspaces defined by the Jacobian of the active constraints. We then indicate how a Cholesky factorization with diagonal pivoting can be used to detect numerical rank-deficiency in the barrier Hessian, and to provide information about the underlying subspaces without making an explicit prediction of the active constraints. Using this subspace information, a close approximation to the Newton direction can be calculated by solving linear systems whose condition reflects that of the original problem.
+Keywords
+Barrier methods  Interior methods  Barrier Hessian  Ill-conditioning  Rank-revealing Cholesky factorization  

@@ -1,0 +1,6 @@
+Gradient-free method for nonsmooth distributed optimization
+Jueyou Li;Changzhi Wu;Zhiyou Wu;Qiang Long;
+Abstract
+In this paper, we consider a distributed nonsmooth optimization problem over a computational multi-agent network. We first extend the (centralized) Nesterov’s random gradient-free algorithm and Gaussian smoothing technique to the distributed case. Then, the convergence of the algorithm is proved. Furthermore, an explicit convergence rate is given in terms of the network size and topology. Our proposed method is free of gradient, which may be preferred by practical engineers. Since only the cost function value is required, our method may suffer a factor up to \(d\) (the dimension of the agent) in convergence rate over that of the distributed subgradient-based methods in theory. However, our numerical simulations show that for some nonsmooth problems, our method can even achieve better performance than that of subgradient-based methods, which may be caused by the slow convergence in the presence of subgradient.
+Keywords
+Distributed algorithm  Gaussian smoothing  Gradient-free method   Convex optimization  

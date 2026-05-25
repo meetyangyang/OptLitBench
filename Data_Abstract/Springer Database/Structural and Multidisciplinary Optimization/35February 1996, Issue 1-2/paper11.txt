@@ -1,0 +1,6 @@
+A modification to the sensitivity analysis algorithm for known target displacements
+H. Miura;M. Chargin;
+Abstract
+The purpose of this note is to show that a secant approximation of the displacement state can be obtained by a simple modification of the sensitivity analysis algorithm for static displacements and frequency responses, if the displacement state of the target design is known. When applied to the discretized equilibrium equations obtained by the finite element method, this new approximation contains the target design exactly, if the system matrices are linear functions of the design variables and all components of the displacement vector are known at the target design. Therefore, a single application of a numerical search process to this approximation will reach the target design.
+Keywords
+Finite Element Method  Design Variable  System Matrice  Displacement Vector  Search Process  

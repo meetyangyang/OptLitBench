@@ -1,0 +1,6 @@
+A Trust-Region Approach to Nonlinear Systems of Equalities and Inequalities
+J. E.  Dennis, Jr., Mahmoud  El-Alem, and Karen  Williamson;
+Abstract
+In this paper, two new trust-region algorithms for the numerical solution of systems of nonlinear equalities and inequalities are introduced. The formulation is free of arbitrary parameters and possesses sufficient smoothness to exploit the robustness of the trust-region approach. The proposed algorithms are one-sided least-squares trust-region algorithms. The first algorithm is a single-model algorithm, and the second one is a multimodel algorithm where the Cauchy point computation is a model selection procedure.Global convergence analysis for the two algorithms is presented. Our analysis generalizes to nonlinear systems of equalities and inequalities the well-developed theory for nonlinear least-squares problems.Numerical experiments on the two algorithms are also presented. The performance of the two algorithms is reported. The numerical results validate the effectiveness of our approach.
+Keywords
+fraction of Cauchy decrease, global convergence, multimodel algorithm, nonlinear systems, nonlinear least squares, one-sided least squares, system of inequalities, trust-region methods, active-set strategies, 65K05, 49D37, 

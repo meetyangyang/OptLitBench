@@ -1,0 +1,6 @@
+Cross decomposition for mixed integer programming
+Tony J. Van Roy;
+Abstract
+Many methods for solving mixed integer programming problems are based either on primal or on dual decomposition, which yield, respectively, a Benders decomposition algorithm and an implicit enumeration algorithm with bounds computed via Lagrangean relaxation. These methods exploit either the primal or the dual structure of the problem. We propose a new approach, cross decomposition, which allows exploiting simultaneously both structures. The development of the cross decomposition method captures profound relationships between primal and dual decomposition. It is shown that the more constraints can be included in the Langrangean relaxation (provided the duality gap remains zero), the fewer the Benders cuts one may expect to need. If the linear programming relaxation has no duality gap, only one Benders cut is needed to verify optimality.
+Keywords
+Mixed Integer Programming  Cross Decomposition  Lagrangean Relaxation  Benders Decomposition  Decomposition  

@@ -1,0 +1,6 @@
+Optimal equi-partition of rectangular domains for parallel computation
+Ioannis T. Christou;Robert R. Meyer;
+Abstract
+We present an efficient method for the partitioning of rectangular domains into equi-area sub-domains of minimum total perimeter. For a variety of applications in parallel computation, this corresponds to a load-balanced distribution of tasks that minimize interprocessor communication. Our method is based on utilizing, to the maximum extent possible, a set of optimal shapes for sub-domains. We prove that for a large class of these problems, we can construct solutions whose relative distance from a computable lower bound converges to zero as the problem size tends to infinity. PERIX-GA, a genetic algorithm employing this approach, has successfully solved to optimality million-variable instances of the perimeter-minimization problem and for a one-billion-variable problem has generated a solution within 0.32% of the lower bound. We report on the results of an implementation on a CM-5 supercomputer and make comparisons with other existing codes.
+Keywords
+Graph partitioning  parallel computation  genetic algorithms  

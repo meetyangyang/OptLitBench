@@ -1,0 +1,6 @@
+Maximum Entropy Derivation of Quasi-Newton Methods
+Steven H.  Waldrip and Robert K.  Niven;
+Abstract
+This paper presents a maximum-entropy (MaxEnt) derivation of many commonly used quasi-Newton rules. (i) This derivation interprets the elements of the Jacobian or Hessian as means of a multivariate probability distribution; (ii) the variance is chosen to represent the uncertainty about the mean. This interpretation is more intuitive than previous maximum-entropy formulations of quasi-Newton rules, in which the Jacobian or Hessian elements are variances while the mean is fixed to zero. The current formulation also gives an alternative theoretical foundation for quasi-Newton methods based on the combinatorial and axiomatic justifications of the MaxEnt method. We also present an equivalent linear system to the MaxEnt solution for a Gaussian prior distribution and diagonal covariance matrix. A new family of symmetrical quasi-Newton rules are derived using additional constraints which guarantee Jacobian or Hessian symmetry, even if the prior means are not symmetric. The analysis gives new insights into quasi-Newton methods, including guidance for the relative change of elements in each row of the Jacobian or Hessian.
+Keywords
+maximum entropy method, quasi-Newton methods, optimization, probability, 90C53, 49M15, 

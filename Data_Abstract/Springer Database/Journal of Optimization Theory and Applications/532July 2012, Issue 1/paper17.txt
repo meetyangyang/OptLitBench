@@ -1,0 +1,6 @@
+Applying a Power Penalty Method to Numerically Pricing American Bond Options
+K. Zhang;
+Abstract
+In this paper, we aim to develop a numerical scheme to price American options on a zero-coupon bond based on a power penalty approach. This pricing problem is formulated as a variational inequality problem (VI) or a complementarity problem (CP). We apply a fitted finite volume discretization in space along with an implicit scheme in time, to the variational inequality problem, and obtain a discretized linear complementarity problem (LCP). We then develop a power penalty approach to solve the LCP by solving a system of nonlinear equations. The unique solvability and convergence of the penalized problem are established. Finally, we carry out numerical experiments to examine the convergence of the power penalty method and to testify the efficiency and effectiveness of our numerical scheme.
+Keywords
+Variational inequality problem  Option pricing  Penalty method  Finite volume method  

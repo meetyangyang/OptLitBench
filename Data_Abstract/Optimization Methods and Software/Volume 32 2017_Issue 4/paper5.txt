@@ -1,0 +1,6 @@
+On the polynomial solvability of distributionally robust k-sum optimization
+Anulekha Dhara;Karthik Natarajan;
+Abstract
+In this paper, we define a distributionally robust k-sum optimization problem as the problem of finding a solution that minimizes the worst-case expected sum of up to the k largest costs of the elements in the solution. The costs are random with a joint probability distribution that is not completely specified but rather assumed to be known to lie in a set of probability distributions. For k=1, this reduces to a distributionally robust bottleneck optimization problem while for k=n, this reduces to distributionally robust minimum sum optimization problem. Our main result is that for a Fréchet class of discrete marginal distributions with finite support, the distributionally robust k-sum combinatorial optimization problem is solvable in polynomial time if the deterministic minimum sum problem is solvable in polynomial time. This extends the result of Punnen and Aneja [On k-sum optimization, Oper. Res. Lett. 18(5)(1996), pp. 233–236] from the deterministic to the robust case. We show that this choice of the set of distributions helps preserve the submodularity of the k-sum objective function which is an useful structural property for optimization problems.
+Keywords
+robust optimization, k sum optimization, distributions 

@@ -1,0 +1,6 @@
+An adaptive reliability method combining relevance vector machine and importance sampling
+Zhou Changcong;Lu Zhenzhou;Zhang Feng;Yue Zhufeng;
+Abstract
+In this work, a new reliability method is proposed by combining the relevance vector machine (RVM) and importance sampling in a proper way. A modified Metropolis algorithm is utilized to generate the training data that covers the important area. With the training data, a surrogate model is built with RVM to approximate the limit state surface. Then importance sampling is introduced to make sure that the surrogate model can be used in the area where it is built. In addition, a small portion of the importance samples in the vicinity of the limit state are selected and then evaluated with the original performance function to update the estimate of failure probability. These measures are integrated into a double-loop iteration by the proposed method. Discussions with numerical and engineering examples have evidenced the applicability and adaptability of the proposed method, even for cases involving non-normal variables or rare failure probabilities. It proves to be very economic in terms of the number of calls to the original performance function while ensuring an acceptable level of accuracy.
+Keywords
+Failure probability  Surrogate model  Relevance vector machine  Importance sampling  Random variable  

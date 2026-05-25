@@ -1,0 +1,6 @@
+Shortest Path Auction Algorithm Without Contractions Using Virtual Source Concept
+Raffaele Cerulli;Paola Festa;Giancarlo Raiconi;
+Abstract
+In this paper, the problem of finding a shortest path tree rooted at a given source node on a directed graph (SPT) is considered. A new efficient algorithm based on a primal-dual approach is presented, which improves both the convergence and the complexity of the best known auction-like algorithm. It uses the virtual source (VS) concept based on the following consideration: when a node i is visited for the first time by any algorithm which preserves verified the dual admissibility conditions, then the shortest path (SP) from the source node to i is found. Therefore, the SP from the source to the remaining nodes may be computed by considering i as a “virtual source”.
+Keywords
+shortest path  network optimization  auction technique  

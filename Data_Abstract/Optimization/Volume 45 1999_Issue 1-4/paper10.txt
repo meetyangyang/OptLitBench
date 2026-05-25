@@ -1,0 +1,6 @@
+Minimum-support solutions of polyhedral concave programs *  
+   O.L.   Mangasarian ;
+Abstract
+ Motivated by the successful application of mathematical programming techniques to difficult machine learning problems, we seek solutions of concave minimization problems over polyhedral sets with minimum number of nonzero components. We that if  such problems have a solution, they have a vertex solution with a minimal number of zeros. This includes linear programs and general linear complementarity problems. A smooth concave exponential approximation to a step function solves the minimumsupport problem exactly for a finite value of the smoothing parameter. A fast finite linear-programming-based iterative method terminates at a stationary point, which for many important real world problems provides very useful answers. Utilizing the  complementarity property of linear programs and linear complementarity problems, an upper bound on the number of nonzeros can be obtained by solving a single convex minimization problem on a polyhedral set  
+Keywords
+Concave minimization, linear Programs, linear complewmentarity problems, minimum-support solutions 

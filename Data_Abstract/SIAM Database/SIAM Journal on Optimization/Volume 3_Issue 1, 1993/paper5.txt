@@ -1,0 +1,6 @@
+Mesh Independence for Nonlinear Least Squares Problems with Norm Constraints
+Matthias  Heinkenschloss;
+Abstract
+If one solves an infinite-dimensional optimization problem by introducing discretizations and applying a solution method to the resulting finite-dimensional problem, one often observes the very stable behavior of this method with respect to varying discretizations. The most striking observation is the constancy of the number of iterations needed to satisfy a given stopping criterion. In this paper an analysis of these phenomena is given and the so-called mesh independence for non-linear least squares problems with norm constraints (NCNLLS) is proved. A Gauss–Newton method for the solution of NCNLLS is discussed and its convergence properties are analyzed. The mesh independence is proven in its sharpest formulation. Sufficient conditions for the mesh independence to hold are related to conditions guaranteeing convergence of the Gauss-Newton method. The results are demonstrated on a two-point boundary value problem.
+Keywords
+nonlinear least squares, Gauss-Newton method, mesh independence, parameter identification, 65K10, 35R30, 65L50, 65M50, 

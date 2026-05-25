@@ -1,0 +1,6 @@
+A Revision of the Trapezoidal Branch-and-Bound Algorithm for Linear Sum-of-Ratios Problems
+Takahito Kuno;
+Abstract
+In this paper, we point out a theoretical flaw in Kuno [(2002)Journal of Global Optimization 22, 155–174] which deals with the linear sum-of-ratios problem, and show that the proposed branch-and-bound algorithm works correctly despite the flaw. We also note a relationship between a single ratio and the overestimator used in the bounding operation, and develop a procedure for tightening the upper bound on the optimal value. The procedure is not expensive, but the revised algorithms incorporating it improve significantly in efficiency. This is confirmed by numerical comparisons between the original and revised algorithms.
+Keywords
+Branch-and-bound algorithm  Fractional programming  Global optimization  Nonconvex optimization  Sum-of-ratios problem  

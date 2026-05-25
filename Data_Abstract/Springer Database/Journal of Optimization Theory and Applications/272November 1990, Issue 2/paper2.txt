@@ -1,0 +1,6 @@
+Recursive quadratic programming algorithm that uses an exact augmented Lagrangian function
+S. Lucidi;
+Abstract
+An algorithm for nonlinear programming problems with equality constraints is presented which is globally and superlinearly convergent. The algorithm employs a recursive quadratic programming scheme to obtain a search direction and uses a differentiable exact augmented Lagrangian as line search function to determine the steplength along this direction. It incorporates an automatic adjustment rule for the selection of the penalty parameter and avoids the need to evaluate second-order derivatives of the problem functions. Some numerical results are reported.
+Keywords
+Recursive quadratic programming  exact augmented Lagrangians  nonlinear programming  constrained optimization  

@@ -1,0 +1,6 @@
+Fully connected particle swarm optimizer
+ Y.   Sun ; K.   Djouani ; G.   Qi ; B.   J.   van Wyk ; Z.   Wang ;
+Abstract
+ In this article, a new model for particle swarm optimization (PSO) is proposed. In this model, each particle's behaviour is influenced by the best experience among its neighbours, its own best experience and all its components. The influence among different components of particles is implemented by the online training of a multi-input single-output back propagation (BP) neural network. The inputs and outputs of the BP neural network are the particle position and its tendency to the best position, respectively. Therefore, the new structured PSO model is called a fully connected particle swarm optimizer (FCPSO). Simulation results and comparisons with exiting PSOs demonstrate that the proposed FCPSO effectively enhances the search efficiency and improves the search quality. 
+Keywords
+particle swarm optimization, BP network, fully connected 

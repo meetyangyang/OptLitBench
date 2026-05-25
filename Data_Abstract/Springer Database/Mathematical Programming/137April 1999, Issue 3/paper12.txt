@@ -1,0 +1,6 @@
+Parallel and fast sequential algorithms for undirected edge connectivity augmentation
+András A. Benczúr;
+Abstract
+,E2,..., such that ⋃i≤τEi optmially increases the connectivity by τ, for any integer τ. The main result of the paper is that this sequence of edge sets can be divided into O(n) groups such that within one group, all Ei are basically the same. Using this result, we improve on the running time of edge connectivity augmentation, as well as we give the first parallel (RNC) augmentation algorithm. We also present new efficient subroutines for finding the so-called extreme sets and the cactus representation of min-cuts required in our algorithms. Augmenting the connectivity of hypergraphs with ordinary edges is known to be structurally harder than that of ordinary graphs. In a weaker version when one exceptional hyperedge is allowed in the augmenting edge set, we derive similar results as for ordinary graphs.
+Keywords
+Key words: graph augmentation – edge connectivity – hypergraphs – randomized algorithms – parallel algorithms – combinatorial optimization  

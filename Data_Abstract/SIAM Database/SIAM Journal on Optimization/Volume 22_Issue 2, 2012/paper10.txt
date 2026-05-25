@@ -1,0 +1,6 @@
+A Sequential Quadratic Programming Algorithm for Nonconvex, Nonsmooth Constrained Optimization
+Frank E.  Curtis and Michael L.  Overton;
+Abstract
+We consider optimization problems with objective and constraint functions that may be nonconvex and nonsmooth. Problems of this type arise in important applications, many having solutions at points of nondifferentiability of the problem functions. We present a line search algorithm for situations when the objective and constraint functions are locally Lipschitz and continuously differentiable on open dense subsets of $\mathbb{R}^{n}$. Our method is based on a sequential quadratic programming (SQP) algorithm that uses an $\ell_1$ penalty to regularize the constraints. A process of gradient sampling (GS) is employed to make the search direction computation effective in nonsmooth regions. We prove that our SQP-GS method is globally convergent to stationary points with probability one and illustrate its performance with a MATLAB implementation.
+Keywords
+nonconvex optimization, nonsmooth optimization, constrained optimization, sequential quadratic programming, gradient sampling, exact penalization, 49M37, 65K05, 65K10, 90C26, 90C30, 90C55, 

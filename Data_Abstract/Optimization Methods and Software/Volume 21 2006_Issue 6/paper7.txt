@@ -1,0 +1,6 @@
+Coupling quadrature and continuous Runge–Kutta methods for optimal control problems
+ F.   Diele ; C.   Marangi ; S.   Ragni ;
+Abstract
+ This article deals with the numerical solution of optimal control problems for ordinary differential equations. The approach is based on the coupling between quadrature rules and continuous Runge–Kutta solvers, and it lies in the framework of direct optimization methods and recursive discretization techniques. The analysis of discrete solution accuracy has been carried out and coupling criteria are established to have global methods featured by a given accuracy order. Consequently, numerical schemes are built up to high orders. The effectiveness of the proposed schemes has been validated on several test problems arising in the field of economic applications. Results have been compared with the ones by classical Runge–Kutta methods, in terms of single function evaluations and average CPU time of the optimization process. The search for optimal solutions has been performed by standard algorithms in Matlab environment. 
+Keywords
+Optimal control, Continuous Runge–Kutta methods, Gaussian quadrature 

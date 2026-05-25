@@ -1,0 +1,6 @@
+A parallel build-up algorithm for global energy minimizations of molecular clusters using effective energy simulated annealing
+Thomas Coleman;David Shalloway;Zhijun Wu;
+Abstract
+This work studies the build-up method for the global minimization problem for molecular conformation, especially protein folding. The problem is hard to solve for large molecules using general minimization approaches because of the enormous amount of required computation. We therefore propose a build-up process to systematically “construct” the optimal molecular structures. A prototype algorithm is designed using the anisotropic effective energy simulated annealing method at each build-up stage. The algorithm has been implemented on the Intel iPSC/860 parallel computer, and tested with the Lennard-Jones microcluster conformation problem. The experiments showed that the algorithm was effective for relatively large test problems, and also very suitable for massively parallel computation. In particular, for the 72-atom Lennard-Jones microcluster, the algorithm found a structure whose energy is lower than any others found in previous studies.
+Keywords
+Global/local minimization  effective energy simulated annealing  parallel computation  protein folding  

@@ -1,0 +1,6 @@
+An effective adaptive trust region algorithm for nonsmooth minimization
+Zhou Sheng;Gonglin Yuan;
+Abstract
+In this paper, an adaptive trust region algorithm that uses Moreau–Yosida regularization is proposed for solving nonsmooth unconstrained optimization problems. The proposed algorithm combines a modified secant equation with the BFGS update formula and an adaptive trust region radius, and the new trust region radius utilizes not only the function information but also the gradient information. The global convergence and the local superlinear convergence of the proposed algorithm are proven under suitable conditions. Finally, the preliminary results from comparing the proposed algorithm with some existing algorithms using numerical experiments reveal that the proposed algorithm is quite promising for solving nonsmooth unconstrained optimization problems.
+Keywords
+Nonsmooth problems  Moreau–Yosida regularization  Trust region algorithm  Global convergence  Superlinear convergence  65K05  90C26  

@@ -1,0 +1,6 @@
+Simulated annealing for constrained global optimization
+H. Edwin Romeijn;Robert L. Smith;
+Abstract
+Hide-and-Seek is a powerful yet simple and easily implemented continuous simulated annealing algorithm for finding the maximum of a continuous function over an arbitrary closed, bounded and full-dimensional body. The function may be nondifferentiable and the feasible region may be nonconvex or even disconnected. The algorithm begins with any feasible interior point. In each iteration it generates a candidate successor point by generating a uniformly distributed point along a direction chosen at random from the current iteration point. In contrast to the discrete case, a single step of this algorithm may generateany point in the feasible region as a candidate point. The candidate point is then accepted as the next iteration point according to the Metropolis criterion parametrized by anadaptive cooling schedule. Again in contrast to discrete simulated annealing, the sequence of iteration points converges in probability to a global optimum regardless of how rapidly the temperatures converge to zero. Empirical comparisons with other algorithms suggest competitive performance by Hide-and-Seek.
+Keywords
+Continuous simulated annealing  adaptive cooling  random search  global optimization  Monte Carlo optimization  

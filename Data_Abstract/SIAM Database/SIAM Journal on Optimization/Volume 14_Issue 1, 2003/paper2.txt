@@ -1,0 +1,6 @@
+An Infeasible Active Set Method for Quadratic Problems with Simple Bounds
+K.  Kunisch and F.  Rendl;
+Abstract
+A primal-dual active set method for quadratic problems with bound constraints is presented. Based on a guess on the active set, a primal-dual pair (x,s) is computed that satisfies the first order optimality condition and the complementarity condition. If (x,s) is not feasible, a new active set is determined, and the process is iterated. Sufficient conditions for the iterations to stop in a finite number of steps with an optimal solution are provided. Computational experience indicates that this approach often requires only a few (less than 10) iterations to find the optimal solution.
+Keywords
+primal-dual active set method, convex programming, 90C06, 90C20, 90C99, 

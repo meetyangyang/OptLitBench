@@ -1,0 +1,6 @@
+Optimization of Polynomials on Compact Semialgebraic Sets
+Markus  Schweighofer;
+Abstract
+A basic closed semialgebraic subset S of $\R^n$ is defined by simultaneous polynomial inequalities $g_1\ge 0,\dotsc,g_m\ge 0$. We give a short introduction to Lasserre's method for minimizing a polynomial f on a compact set S of this kind. It consists of successively solving tighter and tighter convex relaxations of this problem which can be formulated as semidefinite programs. We give a new short proof for the convergence of the optimal values of these relaxations to the infimum $f^\ast$ of f on S which is constructive and elementary. In the case where f possesses a unique minimizer $x^\ast$, we prove that every sequence of "nearly" optimal solutions of the successive relaxations gives rise to a sequence of points in $\R^n$ converging to $x^\ast$.
+Keywords
+nonconvex optimization, positive polynomial, sum of squares, moment problem, Positivstellensatz, semidefinite programming, 90C26, 13J30, 44A60, 14P10, 11E25, 

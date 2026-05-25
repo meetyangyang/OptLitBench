@@ -1,0 +1,6 @@
+An Interior Point Column Generation Method for Linear Programming Using Shifted Barriers
+John E.  Mitchell;
+Abstract
+A column generation method for linear programming problems is described. This method is based on Freund’s shifted barrier method for linear programming. The use of shifts makes it possible to give new primal variables the value zero, with the resulting point being both feasible and interior in the shifted or relaxed formulation. The algorithm takes $O( nL )$ iterations. It is shown that the direction obtained when using the shifted barrier column generation method is related to one proposed by Mitchell and Todd. Preliminary computational results are included, which show that the method may be useful when small numbers of variables are added.
+Keywords
+linear programming, column generation, interior point algorithms, shifted barriers, polynomiality, 90C05, 65K05, 49M27, 

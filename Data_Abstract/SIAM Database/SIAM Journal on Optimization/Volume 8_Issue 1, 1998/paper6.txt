@@ -1,0 +1,6 @@
+Global Linear and Local Quadratic Convergence of a Long-Step Adaptive-Mode Interior Point Method for Some Monotone Variational Inequality Problems
+Jie  Sun and Gongyun  Zhao;
+Abstract
+An interior point (IP) method is proposed to solve variational inequality problems for monotone functions and polyhedral sets. The method has the following advantages: 1. Given an initial interior feasible solution with duality gap $\mu_0$, the algorithm requires at most $O[n\log(\mu_0/\ep)]$ iterations to obtain an ep-optimal solution. 2. The rate of convergence of the duality gap is q-quadratic. 3. At each iteration, a long-step improvement is allowed. 4. The algorithm can automatically transfer from a linear mode to a quadratic mode to accelerate the local convergence.
+Keywords
+polynomial complexity of algorithms, interior point methods, monotone variational inequality problems, rate of convergence, 49J35, 65K10, 90C06, 90C15, 90C33, 

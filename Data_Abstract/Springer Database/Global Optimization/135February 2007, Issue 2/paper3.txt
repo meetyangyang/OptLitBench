@@ -1,0 +1,6 @@
+Symbolic Interval Inference Approach for Subdivision Direction Selection in Interval Partitioning Algorithms
+Chandra Sekhar Pedamallu;Linet Özdamar;Tibor Csendes;
+Abstract
+In bound constrained global optimization problems, partitioning methods utilizing Interval Arithmetic are powerful techniques that produce reliable results. Subdivision direction selection is a major component of partitioning algorithms and it plays an important role in convergence speed. Here, we propose a new subdivision direction selection scheme that uses symbolic computing in interpreting interval arithmetic operations. We call this approach symbolic interval inference approach (SIIA). SIIA targets the reduction of interval bounds of pending boxes directly by identifying the major impact variables and re-partitioning them in the next iteration. This approach speeds up the interval partitioning algorithm (IPA) because it targets the pending status of sibling boxes produced. The proposed SIIA enables multi-section of two major impact variables at a time. The efficiency of SIIA is illustrated on well-known bound constrained test functions and compared with established subdivision direction selection methods from the literature.
+Keywords
+Box-constrained global optimization  Interval branch and bound methods  Symbolic computing  Subdivision direction selection  

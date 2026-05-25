@@ -1,0 +1,6 @@
+A new algorithm for the solution of the linear minimax approximation problem
+   N.   Papamarkos ;   G.   Vachtsevanos ;
+Abstract
+ This paper introduces an efficient approach to the solution of the linear mini-max approximation problem. The classical nonlinear minimax problem is cast into a linear formulation. The proposed optimization procedure consists of specifying first a feasible point belonging to the feasible boundary surface. Next, feasible directions of decreasing values of the objective function are determined. The algorithm proceeds iteratively and terminates when the absolute minimum value of the objective function is reached. The initial point May be selected arbitrarily or it May be optimally determined through a linear method to speed up algorithmic convergence. The algorithm was applied to a number of approximation problems and results were compared to those derived using the revised simplex method. The new algorithm is shown to speed up the problem solution by at least on order of magnitude.  
+Keywords
+Minimax approximation, linear programming, combinatorial optimization, parameter estimationAMS 1980 Subject Classifications: Primary: 49 A 40, Secondary: 90 C 05, Secondary: 90 C 06 

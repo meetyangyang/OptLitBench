@@ -1,0 +1,6 @@
+Method for solving generalized convex nonsmooth mixed-integer nonlinear programming problems
+Ville-Pekka Eronen;Jan Kronqvist;Tapio Westerlund;Marko M. Mäkelä;Napsu Karmitsa;
+Abstract
+In this paper, we generalize the extended supporting hyperplane algorithm for a convex continuously differentiable mixed-integer nonlinear programming problem to solve a wider class of nonsmooth problems. The generalization is made by using the subgradients of the Clarke subdifferential instead of gradients. Consequently, all the functions in the problems are assumed to be locally Lipschitz continuous. The algorithm is shown to converge to a global minimum of an MINLP problem if the objective function is convex and the constraint functions are \(f^{\circ }\)-pseudoconvex. With some additional assumptions, the constraint functions may be \(f^{\circ }\)-quasiconvex.
+Keywords
+MINLP  Extended supporting hyperplane method  Convex optimization  Nonsmooth optimization  Clarke subdifferential  Generalized convexities  90C11  90C25  

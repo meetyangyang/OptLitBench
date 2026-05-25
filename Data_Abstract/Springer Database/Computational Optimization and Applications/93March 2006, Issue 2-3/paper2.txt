@@ -1,0 +1,6 @@
+The Complexity of Self-Regular Proximity Based Infeasible IPMs
+Maziar Salahi;Tamás Terlaky;Guoqing Zhang;
+Abstract
+Primal-Dual Interior-Point Methods (IPMs) have shown their power in solving large classes of optimization problems. In this paper a self-regular proximity based Infeasible Interior Point Method (IIPM) is proposed for linear optimization problems. First we mention some interesting properties of a specific self-regular proximity function, studied recently by Peng and Terlaky, and use it to define infeasible neighborhoods. These simple but interesting properties of the proximity function indicate that, when the current iterate is in a large neighborhood of the central path, large-update IIPMs emerge as the only natural choice. Then, we apply these results to design a specific self-regularity based dynamic large-update IIPM in large neighborhood. The new dynamic IIPM always takes large-updates and does not utilize any inner iteration to get centered. An \(O(n^{2}\log{\frac{n}{\epsilon}})\) worst-case iteration bound of the algorithm is established. Finally, we report the main results of our computational experiments.
+Keywords
+linear optimization  infeasible interior point method  self-regular proximity function  polynomial complexity  

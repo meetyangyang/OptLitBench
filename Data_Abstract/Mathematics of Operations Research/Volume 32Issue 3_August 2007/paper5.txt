@@ -1,0 +1,6 @@
+The Demand-Matching Problem
+F. B. Shepherd;A. Vetta;
+Abstract
+We examine formulations for the well-known b-matching problem in the presence of integer demands on the edges. A subset M of edges is feasible if for each node v the total demand of edges in M incident to v is at most bv. We examine the system of star inequalities for this problem. This system yields an exact linear description for b-matchings in bipartite graphs. For the demand version, we show that the integrality gap for this system is at least 2.5 and at most 2.764. For general graphs, the gap lies between 3 and 3.264. We also describe a 3-approximation algorithm (2.5 for bipartite graphs) for the cardinality version of the problem. A fully polynomial approximation scheme is also presented for the problem on a tree, thus generalising a well-known result for the knapsack problem. Recently, the notion of demand matching has arisen in the design of Clos network switches.
+Keywords
+b-matching linear programming integrality gap approximation algorithm 

@@ -1,0 +1,6 @@
+DISCRETE COST OPTIMIZATION OF COMPOSITE FLOORS USING A FLOATING-POINT GENETIC ALGORITHM
+ HONGJIN   KIM ; HOJJAT   ADELI ;
+Abstract
+ The biologically-inspired genetic algorithm (GA) is usually implemented by binary representation of parameters, which is simple to create and manipulate. The binary representation, however, requires excessive computational resources when the number of variables is large or a high level of precision is required. An alternative to the popular binary genetic algorithm is a floating-point parameter GA where each variable is represented by a floating point number and linear interpolation is used to combine variable values to crossover from parents to an offspring. This article presents cost optimization of composite floors using a floating point genetic algorithm. The total cost function includes the costs of (a) concrete, (b) steel beam, and (c) shear studs. The design is based on the AISC Load and Resistance Factor Design (LRFD) specifications and plastic design concepts. Based on a comparison with example designs presented in the literature it is concluded that a formal cost optimization can result in substantial cost savings. 
+Keywords
+Composite floor, Cost optimization, Genetic algorithm, Evolutionary algorithm, Load and resistance factor design, Minimum weight design, Optimization, Structures 

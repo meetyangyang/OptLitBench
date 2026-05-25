@@ -1,0 +1,6 @@
+Surrogate modelling and optimization using shape-preserving response prediction: A review
+Leifur Leifsson;Slawomir Koziel;
+Abstract
+Computer simulation models are ubiquitous in modern engineering design. In many cases, they are the only way to evaluate a given design with sufficient fidelity. Unfortunately, an added computational expense is associated with higher fidelity models. Moreover, the systems being considered are often highly nonlinear and may feature a large number of designable parameters. Therefore, it may be impractical to solve the design problem with conventional optimization algorithms. A promising approach to alleviate these difficulties is surrogate-based optimization (SBO). Among proven SBO techniques, the methods utilizing surrogates constructed from corrected physics-based low-fidelity models are, in many cases, the most efficient. This article reviews a particular technique of this type, namely, shape-preserving response prediction (SPRP), which works on the level of the model responses to correct the underlying low-fidelity models. The formulation and limitations of SPRP are discussed. Applications to several engineering design problems are provided.
+Keywords
+shape-preserving response prediction, surrogate modelling, surrogate-based optimization, microwave engineering, aerodynamic shape optimization 

@@ -1,0 +1,6 @@
+A Constraint-Reduced Algorithm for Semidefinite Optimization Problems with Superlinear Convergence 
+Sungwoo Park;
+Abstract
+Constraint reduction is an essential method because the computational cost of the interior point methods can be effectively saved. Park and O’Leary proposed a constraint-reduced predictor–corrector algorithm for semidefinite programming with polynomial global convergence, but they did not show its superlinear convergence. We first develop a constraint-reduced algorithm for semidefinite programming having both polynomial global and superlinear local convergences. The new algorithm repeats a corrector step to have an iterate tangentially approach a central path, by which superlinear convergence can be achieved. This study proves its convergence rate and shows its effective cost saving in numerical experiments.
+Keywords
+Semidefinite programming  Interior point methods   Constraint reduction  Primal dual infeasible  Local convergence  90C22  65K05  90C51  

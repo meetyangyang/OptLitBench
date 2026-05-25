@@ -1,0 +1,6 @@
+Local search algorithm for universal facility location problem with linear penalties
+Yicheng Xu;Dachuan Xu;Donglei Du;Chenchen Wu;
+Abstract
+The universal facility location problem generalizes several classical facility location problems, such as the uncapacitated facility location problem and the capacitated location problem (both hard and soft capacities). In the universal facility location problem, we are given a set of demand points and a set of facilities. We wish to assign the demands to facilities such that the total service as well as facility cost is minimized. The service cost is proportional to the distance that each unit of the demand has to travel to its assigned facility. The open cost of facility i depends on the amount z of demand assigned to i and is given by a cost function \(f_i(z)\). In this work, we extend the universal facility location problem to include linear penalties, where we pay certain penalty cost whenever we refuse serving some demand points. As our main contribution, we present a (\(7.88+\epsilon \))-approximation local search algorithm for this problem.
+Keywords
+Approximation algorithm  Universal facility location problem   Linear penalty  Local search  

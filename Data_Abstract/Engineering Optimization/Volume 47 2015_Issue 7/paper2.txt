@@ -1,0 +1,6 @@
+Improving variable-fidelity modelling by exploring global design space and radial basis function networks for aerofoil design
+Maxim Tyan;Nhu Van Nguyen;Jae-Woo Lee;
+Abstract
+The global variable-fidelity modelling (GVFM) method presented in this article extends the original variable-complexity modelling (VCM) algorithm that uses a low-fidelity and scaling function to approximate a high-fidelity function for efficiently solving design-optimization problems. GVFM uses the design of experiments to sample values of high- and low-fidelity functions to explore global design space and to initialize a scaling function using the radial basis function (RBF) network. This approach makes it possible to remove high-fidelity-gradient evaluation from the process, which makes GVFM more efficient than VCM for high-dimensional design problems. The proposed algorithm converges with 65% fewer high-fidelity function calls for a one-dimensional problem than VCM and approximately 80% fewer for a two-dimensional numerical problem. The GVFM method is applied for the design optimization of transonic and subsonic aerofoils. Both aerofoil design problems show design improvement with a reasonable number of high- and low-fidelity function evaluations.
+Keywords
+variable-fidelity modelling (VFM), RBF network, trust region, aerofoil design, class shape function transformations (CSTs) 

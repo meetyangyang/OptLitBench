@@ -1,0 +1,6 @@
+An LP-based metaheuristic procedure for the k-sequential generalized assignment problem
+ A.   P.   French ; B.   Nygreen ; J.   M.   Wilson ;
+Abstract
+ The k-sequential generalized assignment problem (GAPkSeq) is a problem of allocating tasks to time periods, where each of n tasks must be assigned to k sequential time periods out of a total of m. Using standard mathematical programming software, GAPkSeq becomes intractable for relatively small values of k, m and n; hence there is a need for heuristic algorithms to solve such problems. It is shown how a heuristic combining both divide-and-conquer and a linear programming-based heuristic developed previously for the generalized assignment problem with special ordered sets can be modified and extended to solve GAPkSeq. Encouraging results in terms of speed and accuracy are described. 
+Keywords
+generalized assignment problem, metaheuristics, local search, linear programming, divide and conquer AMS Subject Classification : 90B80, 90C05, 90C59, 90C90 

@@ -1,0 +1,6 @@
+Minimum Inter-Particle Distance at Global Minimizers of Lennard-Jones Clusters
+G.L. Xue;
+Abstract
+In computer simulations of molecular conformation and protein folding, a significant part of computing time is spent in the evaluation of potential energy functions and force fields. Therefore many algorithms for fast evaluation of potential energy functions and force fields are proposed in the literature. However, most of these algorithms assume that the particles are uniformly distributed in order to guarantee good performance. In this paper, we prove that the minimum inter-particle distance at any global minimizer of Lennard-Jones clusters is bounded away from zero by a positive constant which is independent of the number of particles. As a by-product, we also prove that the global minimum of an n particle Lennard-Jones cluster is bounded between two linear functions. Our first result is useful in the design of fast algorithms for potential function and force field evaluation. Our second result can be used to decide how good a local minimizer is.
+Keywords
+Minimum inter-particle distance  global minimizers  Lennard-Jones cluster  

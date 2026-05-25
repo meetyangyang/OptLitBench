@@ -1,0 +1,6 @@
+Algorithms for Unconstrained Optimization Problems via Control Theory
+B. S. Goh;
+Abstract
+Existing algorithms for solving unconstrained optimization problems are generally only optimal in the short term. It is desirable to have algorithms which are long-term optimal. To achieve this, the problem of computing the minimum point of an unconstrained function is formulated as a sequence of optimal control problems. Some qualitative results are obtained from the optimal control analysis. These qualitative results are then used to construct a theoretical iterative method and a new continuous-time method for computing the minimum point of a nonlinear unconstrained function. New iterative algorithms which approximate the theoretical iterative method and the proposed continuous-time method are then established. For convergence analysis, it is useful to note that the numerical solution of an unconstrained optimization problem is none other than an inverse Lyapunov function problem. Convergence conditions for the proposed continuous-time method and iterative algorithms are established by using the Lyapunov function theorem.
+Keywords
+Algorithms  unconstrained optimization  Lyapunov functions  convergence  

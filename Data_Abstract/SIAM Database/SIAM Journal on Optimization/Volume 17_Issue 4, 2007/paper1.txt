@@ -1,0 +1,6 @@
+Stationarity Results for Generating Set Search for Linearly Constrained Optimization
+Tamara G.   Kolda, Robert Michael   Lewis, and Virginia   Torczon;
+Abstract
+We present a new generating set search (GSS) approach for minimizing functions subject to linear constraints. GSS is a class of direct search optimization methods that includes generalized pattern search. One of our main contributions in this paper is a new condition to define the set of conforming search directions that admits several computational advantages. For continuously differentiable functions we also derive a bound relating a measure of stationarity, which is equivalent to the norm of the gradient of the objective in the unconstrained case, and a parameter used by GSS algorithms to control the lengths of the steps. With the additional assumption that the derivative is Lipschitz, we obtain a big‐O bound. As a consequence of this relationship, we obtain subsequence convergence to a KKT point, even though GSS algorithms lack explicit gradient information. Numerical results indicate that the bound provides a reasonable estimate of stationarity.
+Keywords
+constrained optimization, linear constraints, global convergence analysis, direct search, generating set search, generalized pattern search, derivative‐free methods, stopping criteria, 90C56, 90C30, 65K05, 

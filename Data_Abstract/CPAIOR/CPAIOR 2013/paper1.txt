@@ -1,0 +1,4 @@
+Stronger Inference through Implied Literals from Conflicts and Knapsack Covers
+Tobias Achterberg;Ashish Sabharwal;Horst Samulowitz;
+Abstract
+Implied literals detection has been shown to improve performance of Boolean satisfiability (SAT) solvers for certain problem classes, in particular when applied in an efficient dynamic manner on learned clauses derived from conflicts during backtracking search. We explore this technique further and extend it to mixed integer linear programs (MIPs) in the context of conflict constraints. This results in stronger inference from clique tables and implication tables already commonly maintained by MIP solvers. Further, we extend the technique to knapsack covers and propose an efficient implementation. Our experiments show that implied literals, in particular through stronger inference from knapsack covers, improve the performance of the MIP engine of IBM ILOG CPLEX Optimization Studio 12.5, especially on harder instances.

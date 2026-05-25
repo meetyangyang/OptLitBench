@@ -1,0 +1,6 @@
+On the Kronecker Canonical Form of Singular Mixed Matrix Pencils
+Satoru  Iwata and Mizuyo  Takamatsu;
+Abstract
+Consider a linear time-invariant dynamical system that can be described as $F\dot{x}(t) =A{x}(t)+B{u}(t)$, where $A$, $B$, and $F$ are mixed matrices, i.e., matrices having two kinds of nonzero coefficients: fixed constants that account for conservation laws and independent parameters that represent physical characteristics. The controllable subspace of the system is closely related to the Kronecker canonical form of the mixed matrix pencil $\begin{pmatrix}A-sF\mid B\end{pmatrix}$. Under a physically meaningful assumption justified by the dimensional analysis, we provide a combinatorial characterization of the sums of the minimal row/column indices of the Kronecker canonical form of mixed matrix pencils. The characterization leads to a matroid-theoretic algorithm for efficiently computing the dimension of the controllable subspace for the system with nonsingular $F$.
+Keywords
+structural controllability, controllable subspace, Kronecker canonical form, matrix pencil, matroid theory, mixed matrix, 93B05, 93B25, 15A22, 05C50, 

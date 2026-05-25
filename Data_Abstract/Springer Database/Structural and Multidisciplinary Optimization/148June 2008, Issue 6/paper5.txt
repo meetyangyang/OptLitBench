@@ -1,0 +1,6 @@
+Structural optimization of as-built parts using reverse engineering and evolution strategies
+Manuel J. García;Pierre Boulanger;Miguel Henao;
+Abstract
+In industry, some parts are prone to failures or their design is simply sub-optimal. In those critical situations, one would like to be able to make changes to the part, making it lighter or improving its mechanical resistance. The problem of as-built parts is that the original computer-aided design (CAD) model is not available or is lost. To optimize them, a reverse engineering process is necessary to capture the shape and topology of the original design. This paper describes how to capture the original design geometry using a semi-automated reverse engineering process based on measurement provided by an optical 3D sensor. Following this reverse engineering process, a Fixed Grid Finite Element method and evolutionary algorithms are used to find the optimum shape that will minimize stress and weight. Several examples of industrial parts are presented. These examples show the advantages and disadvantages of the proposed method in an industrial scenario.
+Keywords
+Reverse engineering  Shape optimization  Fixed grid  Finite element analysis  Evolution strategies  Genetic algorithms  

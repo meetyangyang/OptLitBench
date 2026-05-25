@@ -1,0 +1,6 @@
+Piecewise-Linear Pathways to the Optimal Solution Set in Linear Programming
+M. Ç. Pinar;
+Abstract
+This paper takes a fresh look at the application of quadratic penalty functions to linear programming. Recently, Madsen et al. (Ref. 1) described a continuation algorithm for linear programming based on smoothing a dual l1-formulation of a linear program with unit bounds. The present paper is prompted by the observation that this is equivalent to applying a quadratic penalty function to the dual of a linear program in standard canonical form, in the sense that both approaches generate continuous, piecewise-linear paths leading to the optimal solution set. These paths lead to new characterizations of optimal solutions in linear programming. An important product of this analysis is a finite penalty algorithm for linear programming closely related to the least-norm algorithm of Mangasarian (Ref. 2) and to the continuation algorithm of Madsen et al. (Ref. 1). The algorithm is implemented, and promising numerical results are given.
+Keywords
+Quadratic penalty functions  linear programming  piece-wise-linear path-following algorithms  characterization of optimal solutions  finiteness  

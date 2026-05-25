@@ -1,0 +1,6 @@
+Interior-point methods for nonconvex nonlinear programming: Jamming and numerical testing
+Hande Y. Benson;David F. Shanno;Robert J. Vanderbei;
+Abstract
+The paper considers an example of Wächter and Biegler which is shown to converge to a nonstationary point for the standard primal–dual interior-point method for nonlinear programming. The reason for this failure is analyzed and a heuristic resolution is discussed. The paper then characterizes the performance of LOQO, a line-search interior-point code, on a large test set of nonlinear programming problems. Specific types of problems which can cause LOQO to fail are identified.
+Keywords
+interior-point methods  nonconvex optimization  nonlinear programming  jamming  

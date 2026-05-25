@@ -1,0 +1,6 @@
+A Large-Step Analytic Center Method for a Class of Smooth Convex Programming Problems
+D.  den Hertog, C.  Roos, and T.  Terlaky;
+Abstract
+In this paper, a large-step analytic center method for smooth convex programming is proposed. The method is a natural implementation of the classical method of centers. It is assumed that the objective and constraint functions fulfil the so-called Relative Lipschitz Condition, with Lipschitz constant $M > 0$. A great advantage of the method, over the existing path-following methods, is that the steps can be made long by performing linesearches. In this method linesearches are performed along the Newton direction with respect to a strictly convex potential function when located far away from the central path. When sufficiently close to this path a lower bound for the optimal value is updated. It is proven that the number of iterations required by the algorithm to converge to an $\epsilon $-optimal solution is $O((1 + M^2 )\sqrt{n} | \ln \epsilon  |)$ or $O((1 + M^2 )n | \ln \epsilon |)$, depending on the updating scheme for the lower bound.
+Keywords
+convex programming, analytic center method, Newton method, 90C25, 

@@ -1,0 +1,6 @@
+A parallel algorithm for two-staged two-dimensional fixed-orientation cutting problems
+Mhand Hifi;Toufik Saadi;
+Abstract
+In this paper, we study the two-staged two-dimensional fixed-orientation cutting problem. We investigate the use of the parallel beam search algorithm for approximately solving the problem. The beam-search can be viewed as a truncated tree-search in which a subset of generated nodes are investigated. The proposed approach tries to explore some of these nodes in parallel by applying a master-slave paradigm. The master processor serves to guide the search-resolution by using a best-first search strategy for selecting the successive sets of nodes, called elite nodes. Whereas each slave processor develops the search tree and updates the global list of the master processor in an asynchronous manner. Each processor is based on combining a partial lower bound and a complementary upper bound, obtained by solving a series of bounded knapsack problems. The proposed method is analyzed computationally on a set of benchmark instances of the literature and their results are compared to those provided by existing algorithms. Encouraging and new results have been obtained.
+Keywords
+Beam-search  Branch-and-bound  Dynamic programming  Heuristics  Integer programming  Master-slave paradigm  Optimization  

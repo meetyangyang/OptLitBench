@@ -1,0 +1,6 @@
+A fast heuristic algorithm for the maximum concurrent k-splittable flow problem
+Massimiliano Caramia;Antonino Sgalambro;
+Abstract
+In this paper, we propose a fast heuristic algorithm for the maximum concurrent k-splittable flow problem. In such an optimization problem, one is concerned with maximizing the routable demand fraction across a capacitated network, given a set of commodities and a constant k expressing the number of paths that can be used at most to route flows for each commodity. Starting from known results on the k-splittable flow problem, we design an algorithm based on a multistart randomized scheme which exploits an adapted extension of the augmenting path algorithm to produce starting solutions for our problem, which are then enhanced by means of an iterative improvement routine. The proposed algorithm has been tested on several sets of instances, and the results of an extensive experimental analysis are provided in association with a comparison to the results obtained by a different heuristic approach and an exact algorithm based on branch and bound rules.
+Keywords
+k-Splittable flow  Heuristic  Maximum concurrent flow  Multicommodity  Throughput  

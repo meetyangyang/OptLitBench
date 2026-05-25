@@ -1,0 +1,6 @@
+The application of the genetic algorithm to the minimization of potential energy functions
+Scott M. Le Grand;Kenneth M. MerzJr.;
+Abstract
+We adapted the genetic algorithm to minimize the AMBER potential energy function. We describe specific recombination and mutation operators for this task. Next we use our algorithm to locate low energy conformation of three polypeptides (AGAGAGAGA, A9, and [Met]-enkephalin) which are probably the global minimum conformations. Our potential energy minima are −94.71, −98.50, and −48.94 kcal/mol respectively. Next, we applied our algorithm to the 46 amino acid protein crambin and located a non-native conformation which had an AMBER potential energy ∼150 kcal/mol lower than the native conformation. This is not necessarily the global minimum conformation, but it does illustrate problems with the AMBER potential energy function. We believe this occurred because the AMBER potential energy function does not account for hydration.
+Keywords
+Genetic algorithms  protein folding  AMBER  minimization  

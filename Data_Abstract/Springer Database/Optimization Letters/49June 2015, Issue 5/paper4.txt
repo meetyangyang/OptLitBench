@@ -1,0 +1,6 @@
+Convex risk minimization via proximal splitting methods
+Radu Ioan Boţ;Christopher Hendrich;
+Abstract
+In this paper we investigate the applicability of a recently introduced primal-dual splitting method in the context of solving portfolio optimization problems which assume the minimization of risk measures associated to different convex utility functions. We show that, due to the splitting characteristic of the used primal-dual method, the main effort in implementing it constitutes in the calculation of the proximal points of the utility functions, which assume explicit expressions in a number of cases. When quantifying risk via the meanwhile classical conditional value-at-risk, an alternative approach relying on the use of its dual representation is presented as well. The theoretical results are finally illustrated via some numerical experiments on real and synthetic data sets.
+Keywords
+Portfolio optimization  Convex risk measure  Utility function  Primal-dual proximal splitting algorithm  

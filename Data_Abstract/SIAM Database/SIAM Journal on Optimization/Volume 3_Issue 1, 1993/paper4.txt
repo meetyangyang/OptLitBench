@@ -1,0 +1,6 @@
+Black-Box Complexity of Local Minimization
+Stephen A.  Vavasis;
+Abstract
+The complexity of local minimization in the black-box model, that is, the model in which the objective function and its gradient are available as external subroutines, is studied. The black-box model is used, for example, in all the optimization algorithms in Dennis and Schnabel [Numerical Methods for Unconstrained Optimization and Nonlinear Equations, Prentice-Hall, Englewood Cliffs, NJ, 1983]. The first main result is that the complexity grows polynomially with the number of variables n, in contrast to other related black-box problems (global minimization and Brouwer fixed points) for which the worst-case complexity is exponential in n.The second contribution is the construction of a family of functions that are bad cases for all possible black-box local optimization algorithms.
+Keywords
+optimization, local optimality, black-box model, information-based, complexity, 90C60, 65K10, 65Y20, 68Q25, 

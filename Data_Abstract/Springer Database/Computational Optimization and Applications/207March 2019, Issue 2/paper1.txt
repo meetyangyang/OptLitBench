@@ -1,0 +1,6 @@
+Cholesky QR-based retraction on the generalized Stiefel manifold
+Hiroyuki Sato;Kensuke Aihara;
+Abstract
+When optimizing on a Riemannian manifold, it is important to use an efficient retraction, which maps a point on a tangent space to a point on the manifold. In this paper, we prove a map based on the QR factorization to be a retraction on the generalized Stiefel manifold. In addition, we propose an efficient implementation of the retraction based on the Cholesky QR factorization. Numerical experiments show that the proposed retraction is more efficient than the existing one based on the polar factorization.
+Keywords
+Riemannian optimization  Generalized Stiefel manifold  Retraction  Cholesky QR factorization  90C30  65K05  65F30  

@@ -1,0 +1,6 @@
+A retrospective trust-region method for unconstrained optimization
+Fabian Bastin;Vincent Malmedy;Mélodie Mouffe;Philippe L. Toint;Dimitri Tomanos;
+Abstract
+We introduce a new trust-region method for unconstrained optimization where the radius update is computed using the model information at the current iterate rather than at the preceding one. The update is then performed according to how well the current model retrospectively predicts the value of the objective function at last iterate. Global convergence to first- and second-order critical points is proved under classical assumptions and preliminary numerical experiments on CUTEr problems indicate that the new method is very competitive.
+Keywords
+Unconstrained minimization  Trust-region methods  Convergence theory  Numerical experiments  65K05  65K10  90C26  90C30  

@@ -1,0 +1,6 @@
+Learning in games with continuous action sets and unknown payoff functions
+Panayotis Mertikopoulos;Zhengyuan Zhou;
+Abstract
+This paper examines the convergence of no-regret learning in games with continuous action sets. For concreteness, we focus on learning via “dual averaging”, a widely used class of no-regret learning schemes where players take small steps along their individual payoff gradients and then “mirror” the output back to their action sets. In terms of feedback, we assume that players can only estimate their payoff gradients up to a zero-mean error with bounded variance. To study the convergence of the induced sequence of play, we introduce the notion of variational stability, and we show that stable equilibria are locally attracting with high probability whereas globally stable equilibria are globally attracting with probability 1. We also discuss some applications to mixed-strategy learning in finite games, and we provide explicit estimates of the method’s convergence speed.
+Keywords
+Continuous games  Dual averaging  Variational stability  Fenchel coupling  Nash equilibrium  Primary 91A26  90C15  Secondary 90C33  68Q32  

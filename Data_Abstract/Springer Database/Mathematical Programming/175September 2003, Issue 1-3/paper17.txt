@@ -1,0 +1,7 @@
+Detecting symmetries by branch & cut
+Christoph Buchheim;Michael Jünger;
+Abstract
+The NP-hard problem of finding symmetries in an abstract graph plays an important role in automatic graph drawing and other applications. In this paper, we present an exact algorithm for automorphism and symmetry detection based on the branch & cut technique. We introduce IP-models for these problems and investigate the structure of the corresponding polytopes. For automorphisms, a complete description of the polytope is derived from a given set of generators of the automorphism group. The rotation polytopes are shown to be related to the asymmetric traveling salesman polytope, while the reflection polytope is related to the matching polytope. The algorithm was implemented within the ABACUS-framework and proves to run fast in practice.
+
+Keywords
+Symmetry  integer programming  branch & cut  

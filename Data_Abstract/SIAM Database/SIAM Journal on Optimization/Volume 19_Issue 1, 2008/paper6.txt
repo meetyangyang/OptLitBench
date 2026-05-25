@@ -1,0 +1,6 @@
+Primal-Dual Affine Scaling Interior Point Methods for Linear Complementarity Problems
+Florian A.  Potra;
+Abstract
+A first order affine scaling method and two mth order affine scaling methods for solving monotone linear complementarity problems (LCPs) are presented. All three methods produce iterates in a wide neighborhood of the central path. The first order method has $O(nL^2(\lognL^2) (\log\lognL^2))$ iteration complexity. If the LCP admits a strict complementary solution, then both the duality gap and the iteration sequence converge superlinearly with Q-order two. If $m=\Omega(\log(\sqrt{n}L))$, then both higher order methods have $O(\sqrt{n})L$ iteration complexity. The Q-order of convergence of one of the methods is $(m+1)$ for problems that admit a strict complementarity solution, while the Q-order of convergence of the other method is $(m+1)/2$ for general monotone LCPs.
+Keywords
+linear complementarity, interior point, affine scaling, large neighborhood, superlinear convergence, 90C51, 65K05, 49M15, 90C05, 90C20, 

@@ -1,0 +1,4 @@
+A Complete Semidefinite Algorithm for Detecting Copositive Matrices and Tensors
+Jiawang  Nie, Zi  Yang, and Xinzhen  Zhang;
+Abstract
+A real symmetric tensor is said to be copositive if the associated homogeneous form is greater than or equal to zero over the nonnegative orthant. The problem of detecting tensor copositivity is NP-hard. This paper proposes a complete semidefinite relaxation algorithm for detecting the copositivity of a symmetric tensor. If it is copositive, the algorithm can get a certificate for the copositivity. If it is not, the algorithm can get a point that refutes the copositivity. We show that the detection can be done by solving a finite number of semidefinite relaxations for all tensors. As a special case, the algorithm can also be applied to detect matrix copositivity.

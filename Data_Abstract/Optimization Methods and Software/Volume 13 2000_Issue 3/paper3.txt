@@ -1,0 +1,6 @@
+Comparison of public-domain software for black box global optimization ∗  
+   M.   Mongeau ;   H.   Karsenty ;   V.   Rouzé ;   J.B.   Hiriart-Urruty ;
+Abstract
+ We instance our experience with six public-domain global optimization software products and report comparative computational results obtained on a set of eleven test problems. The techniques used by the software under study include integral global optimization, genetic algorithms, simulated annealing, clustering, random search, continuation, Bayesian, tunneling, and multi-level methods. The test set contains practical problems: least median of squares regression, protein folding, and multidimensional scaling. These include non-differentiable, and also discontinuous objective functions, some with an exponential number of local minima. The dimension of the search space ranges from 1 to 20. We evaluate the software in view of engineers addressing black box global optimization problems, i.e. problems with an objective function whose explicit form is unknown and whose evaluation is costly. Such an objective function is common in industry. It is for instance given under the form of computer programmes involving a simulation  
+Keywords
+Global Optimization, Software, Test Problems, Black Box, Direct Methods, Genetic Algorithms, Simulated Annealing, Clustering, Non-Convex Optimization 

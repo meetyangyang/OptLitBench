@@ -1,0 +1,4 @@
+More Robust Counting-Based Search Heuristics with Alldifferent Constraints
+Alessandro Zanarini;Gilles Pesant;
+Abstract
+Exploiting solution counting information from individual constraints has led to some of the most efficient search heuristics in constraint programming. However, evaluating the number of solutions for the alldifferent constraint still presents a challenge: even though previous approaches based on sampling were extremely effective on hard instances, they are not competitive on easy to medium difficulty instances due to their significant computational overhead. In this paper we explore a new approach based on upper bounds, trading counting accuracy for a significant speedup of the procedure. Experimental results show a marked improvement on easy instances and even some improvement on hard instances. We believe that the proposed method is a crucial step to broaden the applicability of solution counting-based search heuristics.

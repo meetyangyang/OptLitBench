@@ -1,0 +1,6 @@
+Algorithms for the vector maximization problem
+Johan Philip;
+Abstract
+We consider a convex setB inRn described as the intersection of halfspacesaiTx ≦bi(i ∈ I) and a set of linear objective functionsfj =cjTx (j ∈ J). The index setsI andJ are allowed to be infinite in one of the algorithms. We give the definition of theefficient points ofB (also called functionally efficient or Pareto optimal points) and present the mathematical theory which is needed in the algorithms. In the last section of the paper, we present algorithms that solve the following problems:I. To decide if a given point inB is efficient.  II. To find an efficient point inB.  III. To decide if a given efficient point is the only one that exists, and if not, find other ones.  IV. The solutions of the above problems do not depend on the absolute magnitudes of thecj. They only describe the relative importance of the different activitiesxi. Therefore we also consider$$\begin{gathered}        \max  G^T x \hfill \\  x efficient \hfill \\ \end{gathered} $$ for some vectorG.  
+Keywords
+Mathematical Method  Mathematical Theory  setB  Maximization Problem  Optimal Point  

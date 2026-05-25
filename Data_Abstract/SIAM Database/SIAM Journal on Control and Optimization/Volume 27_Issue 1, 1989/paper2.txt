@@ -1,0 +1,6 @@
+Convergence of SQP-Like Methods for Constrained Optimization
+Stephen  Wright;
+Abstract
+The problem of constrained optimization \[\min f(x)\quad {\text{s.t.}}x \in \Omega \] is sometimes solved by an iterative method, in which $\Omega $ is replaced by some other set $\Omega (x_k )$ with simple geometry at each iteration $x_k $. Sequential quadratic programming methods for nonlinear programming are the most obvious examples of this. The convergence behavior of such methods is examined by comparing the sequence of iterates $\{ x_k \} $ with a sequence $\{ y_k \} $ of local minimizers for f in $\Omega (x_k )$. Issues of active constraint identification are also discussed in terms of the geometry of the sets $\Omega (x_k )$; conditions are given for $x_{k + 1} $ and $y_k $ to lie on the same face of $\Omega (x_k )$.
+Keywords
+constrained optimization, sequential quadratic programming, local convergence, 49D37, 90C30, 

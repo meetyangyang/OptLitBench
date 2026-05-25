@@ -1,0 +1,6 @@
+Optimizing fiber orientation in fiber-reinforced materials using efficient upscaling
+S. Frei;H. Andrä;R. Pinnau;O. Tse;
+Abstract
+We present an efficient algorithm to find an optimal fiber orientation in composite materials. Within a two-scale setting fiber orientation is regarded as a function in space on the macrolevel. The optimization problem is formulated within a function space setting which makes the imposition of smoothness requirements straightforward and allows for rather general convex objective functionals. We show the existence of a global optimum in the Sobolev space H 1(Ω). The algorithm we use is a one level optimization algorithm which optimizes with respect to the fiber orientation directly. The costly solve of a big number of microlevel problems is avoided using coordinate transformation formulas. We use an adjoint-based gradient type algorithm, but generalizations to higher-order schemes are straightforward. The algorithm is tested for a prototypical numerical example and its behaviour with respect to mesh independence and dependence on the regularization parameter is studied.
+Keywords
+Pde constrained optimization  Adjoint-based optimization  Microstructural optimization  Fiber-reinforced materials  Fiber orientation  Linear elasticity  Upscaling  

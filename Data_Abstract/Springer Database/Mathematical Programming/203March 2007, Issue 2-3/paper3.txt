@@ -1,0 +1,6 @@
+Strengthened semidefinite programming bounds for codes
+Monique Laurent;
+Abstract
+We give a hierarchy of semidefinite upper bounds for the maximum size A(n,d) of a binary code of word length n and minimum distance at least d. At any fixed stage in the hierarchy, the bound can be computed (to an arbitrary precision) in time polynomial in n; this is based on a result of de Klerk et al. (Math Program, 2006) about the regular ∗-representation for matrix ∗-algebras. The Delsarte bound for A(n,d) is the first bound in the hierarchy, and the new bound of Schrijver (IEEE Trans. Inform. Theory 51:2859–2866, 2005) is located between the first and second bounds in the hierarchy. While computing the second bound involves a semidefinite program with O(n 7) variables and thus seems out of reach for interesting values of n, Schrijver’s bound can be computed via a semidefinite program of size O(n 3), a result which uses the explicit block-diagonalization of the Terwilliger algebra. We propose two strengthenings of Schrijver’s bound with the same computational complexity.
+Keywords
+Stability number  Binary code  Semidefinite programming  Terwilliger algebra  Regular ∗-representation  90C27  90C22  05E20  94B65  

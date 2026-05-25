@@ -1,0 +1,6 @@
+A non-monotone trust region algorithm for unconstrained optimization with dynamic reference iteration updates using filter
+ Masoud   Fatemi ; Nezam   Mahdavi-Amiri ;
+Abstract
+ We present a non-monotone trust region algorithm for unconstrained optimization. Using the filter technique of Fletcher and Leyffer, we introduce a new filter acceptance criterion and use it to define reference iterations dynamically. In contrast with the early filter criteria, the new criterion ensures that the size of the filter is finite. We also show a correlation between problem dimension and the filter size. We prove the global convergence of the proposed algorithm to first- and second-order critical points under suitable assumptions. It is significant that the global convergence analysis does not require the common assumption of monotonicity of the sequence of objective function values in reference iterations, as assumed by the standard non-monotone trust region algorithms. Numerical experiments on the CUTEr problems indicate that the new algorithm is competitive compared to some representative non-monotone trust region algorithms. 
+Keywords
+unconstrained optimization, filter methods, non-monotone trust region algorithmsAMS Subject Classifications:: 90C30, 65K05 

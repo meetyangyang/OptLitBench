@@ -1,0 +1,6 @@
+Piecewise-linear programming: The compact (CPLP) algorithm
+Amedeo Premoli;
+Abstract
+A compact algorithm is presented for solving the convex piecewise-linear-programming problem, formulated by means of a separable convex piecewise-linear objective function (to be minimized) and a set of linear constraints. This algorithm consists of a finite sequence of cycles, derived from the simplex method, characteritic of linear programming, and the line search, characteristic of nonlinear programming. Both the required storage and amount of calculation are reduced with respect to the usual approach, based on a linear-programming formulation with an expanded tableau. The tableau dimensions arem×(n+1), wherem is the number of constraints andn the number of the (original) structural variables, and they do not increase with the number of breakpoints of the piecewise-linear terms constituting the objective function.
+Keywords
+Piecewise-linear programming  simplex method  line search  degeneracy  

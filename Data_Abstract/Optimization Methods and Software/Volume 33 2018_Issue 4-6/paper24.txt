@@ -1,0 +1,6 @@
+Integrating Lipschitzian dynamical systems using piecewise algorithmic differentiation
+Andreas Griewank;Richard Hasenfelder;Manuel Radons;Lutz Lehmann;Tom Streubel;
+Abstract
+In this article we analyse a generalized trapezoidal rule for initial value problems with piecewise smooth right-hand side  based on a generalization of algorithmic differentiation. When applied to such a problem, the classical trapezoidal rule suffers from a loss of accuracy if the solution trajectory intersects a nondifferentiability of F. The advantage of the proposed generalized trapezoidal rule is threefold: Firstly, we can achieve a higher convergence order than with the classical method. Moreover, the method is energy preserving for piecewise linear Hamiltonian systems. Finally, in analogy to the classical case we derive a third-order interpolation polynomial for the numerical trajectory. In the smooth case, the generalized rule reduces to the classical one. Hence, it is a proper extension of the classical theory. An error estimator is given and numerical results are presented.
+Keywords
+Automatic differentiation, Lipschitz continuity, piecewise linearization, nonsmooth, Trapezoidal rule, energy preservation, dense outputMSC 2010: 65L05, 65L06, 65L70, 65L99, 65P10 

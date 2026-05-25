@@ -1,0 +1,6 @@
+The solution of euclidean norm trust region SQP subproblems via second-order cone programs: an overview and elementary introduction
+Florian Jarre;Felix Lieder;
+Abstract
+It is well known that convex sequential quadratic programming (SQP) subproblems with an Euclidean norm trust region constraint can be reduced to second-order cone programs for which the theory of Euclidean Jordan algebras leads to efficient interior-point algorithms. Here, a brief and self-contained outline of the principles of such an implementation is given and the application to SQP subproblems as well as to cubic regularization problems is discussed. All identities relevant for the implementation are derived from scratch and are compared to interior-point methods for linear programs (LPs). Sparsity of the data of the SQP subproblem can be maintained essentially in the same way as for interior-point methods for LPs. The presentation is intended as an introduction for students and for colleagues who may have heard about Jordan algebras but did not yet find the time to get involved with them. A simple Matlab implementation is made available and the discussion of implementational aspects addresses a scaling property that is critical for SQP subproblems.
+Keywords
+second-order cone program, Jordan algebra, SQP subproblem 

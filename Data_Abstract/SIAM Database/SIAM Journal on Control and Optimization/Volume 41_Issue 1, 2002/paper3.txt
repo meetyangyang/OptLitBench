@@ -1,0 +1,6 @@
+Efficient Constrained Model Predictive Control with Asymptotic Optimality
+Mark  Cannon and Basil  Kouvaritakis;
+Abstract
+A computationally inexpensive model predictive control strategy for constrained linear systems is presented. We describe an efficiently computed suboptimal control law which is exponentially stabilizing in the presence of constraints and which converges asymptotically to the conditions for constrained optimality with respect to the receding horizon optimization. The free parameters in input predictions are adapted online on the basis of the gradient of the predicted performance index and the boundary of the admissible set for an autonomous prediction system. A differential description of the admissible set boundary enables efficient detection of active constraints. The approach is illustrated via simulation examples.
+Keywords
+receding horizon control, constrained control, optimality conditions, asymptotic convergence, 49N35, 90C46, 93D05, 65K10, 

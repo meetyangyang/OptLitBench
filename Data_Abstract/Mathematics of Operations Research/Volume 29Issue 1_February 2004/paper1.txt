@@ -1,0 +1,6 @@
+Interior Gradient and Epsilon-Subgradient Descent Methods for Constrained Convex Minimization
+A. Auslender;M. Teboulle;
+Abstract
+We extend epsilon-subgradient descent methods for unconstrained nonsmooth convex minimization to constrained problems over polyhedral sets, in particular over ℝp+. This is done by replacing the usual squared quadratic regularization term used in subgradient schemes by the logarithmic-quadratic distancelike function recently introduced by the authors. We then obtain interior ε-subgradient descent methods, which allow us to provide a natural extension of bundle methods and Polyak's subgradient projection methods for nonsmooth convex minimization. Furthermore, similar extensions are considered for smooth constrained minimization to produce interior gradient descent methods. Global convergence as well as an improved global efficiency estimate are established for these methods within a unifying principle and minimal assumptions on the problem's data.
+Keywords
+nondifferentiable convex optimization subgradient algorithms bundle methods logarithmic-quadratic proximal methods projected gradient methods convex programming 

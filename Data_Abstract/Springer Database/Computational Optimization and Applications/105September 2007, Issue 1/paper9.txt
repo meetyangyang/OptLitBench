@@ -1,0 +1,8 @@
+A combined procedure for discrete simulation–optimization problems based on the simulated annealing framework
+Gianpaolo Ghiani;Pasquale Legato;Roberto Musmanno;Francesca Vocaturo;
+Abstract
+
+This paper addresses the problem of optimizing a function over a finite or countable infinite set of alternatives, whenever the objective function cannot be evaluated exactly, but has to be estimated via simulation. We present an iterative method, based on the simulated annealing framework, for solving such discrete stochastic optimization problems. In the proposed method, we combine the robustness of this metaheuristic method with a statistical procedure for comparing the solutions that are generated. The focus of our work is on devising an effective procedure rather than addressing theoretical issues. In fact, in our opinion, although significant progresses have been made in studying the convergence of a number of simulation–optimization algorithms, at present there is no procedure able to consistently provide good results in a reasonable amount of time. In addition, we present a parallelization strategy for allocating simulation runs on computing resources.
+
+Keywords
+Simulation–optimization  Ranking and selection  Simulated annealing  Parallelization strategy  

@@ -1,0 +1,6 @@
+An extended continuous estimation of distribution algorithm for solving the permutation flow-shop scheduling problem
+Zhongshi Shao;Dechang Pi;Weishi Shao;
+Abstract
+This article proposes an extended continuous estimation of distribution algorithm (ECEDA) to solve the permutation flow-shop scheduling problem (PFSP). In ECEDA, to make a continuous estimation of distribution algorithm (EDA) suitable for the PFSP, the largest order value rule is applied to convert continuous vectors to discrete job permutations. A probabilistic model based on a mixed Gaussian and Cauchy distribution is built to maintain the exploration ability of the EDA. Two effective local search methods, i.e. revolver-based variable neighbourhood search and Hénon chaotic-based local search, are designed and incorporated into the EDA to enhance the local exploitation. The parameters of the proposed ECEDA are calibrated by means of a design of experiments approach. Simulation results and comparisons based on some benchmark instances show the efficiency of the proposed algorithm for solving the PFSP.
+Keywords
+Extended continuous estimation of distribution algorithm, local search, hybrid algorithm, permutation flow-shop scheduling problem 

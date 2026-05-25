@@ -1,0 +1,6 @@
+A New Degeneracy Method and Steepest-Edge--Based Conditioning for LP
+Roger  Fletcher;
+Abstract
+A new recursive method for resolving degeneracy in simplex-like methods for linear programming (LP) is described. The method provides a guarantee of termination, even in the presence of round-off errors, and is readily implemented. In contrast to a previous method of the author, this method works throughout in the primal space. One consequence is that the steepest-edge criterion can be used on all iterations and at all levels of recursion.It is also shown that the associated steepest-edge coefficients provide information from which the expected condition of the current LP basis can be calculated cheaply. This provides a more accurate indication of the actual condition of a system than is obtained from norm-based condition numbers. This idea also enables the condition of null space matrices to be estimated.
+Keywords
+steepest-edge method, degeneracy, linear programming, conditioning, simplex method, active set method, null space, 65K, 90C, 

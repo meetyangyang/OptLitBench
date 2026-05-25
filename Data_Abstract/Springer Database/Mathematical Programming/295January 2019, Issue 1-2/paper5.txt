@@ -1,0 +1,6 @@
+Ambiguous risk constraints with moment and unimodality information
+Bowen Li;Ruiwei Jiang;Johanna L. Mathieu;
+Abstract
+Optimization problems face random constraint violations when uncertainty arises in constraint parameters. Effective ways of controlling such violations include risk constraints, e.g., chance constraints and conditional Value-at-Risk constraints. This paper studies these two types of risk constraints when the probability distribution of the uncertain parameters is ambiguous. In particular, we assume that the distributional information consists of the first two moments of the uncertainty and a generalized notion of unimodality. We find that the ambiguous risk constraints in this setting can be recast as a set of second-order cone (SOC) constraints. In order to facilitate the algorithmic implementation, we also derive efficient ways of finding violated SOC constraints. Finally, we demonstrate the theoretical results via computational case studies on power system operations.
+Keywords
+Ambiguity  Chance constraints  Conditional Value-at-Risk  Second-order cone representation  Separation  Golden section search  90C15 Stochastic programming  90C22 Semidefinite programming  90C34 Semi-infinite programming  

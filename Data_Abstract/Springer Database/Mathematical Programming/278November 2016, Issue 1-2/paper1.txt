@@ -1,0 +1,6 @@
+Block coordinate proximal gradient methods with variable Bregman functions for nonsmooth separable optimization
+Xiaoqin Hua;Nobuo Yamashita;
+Abstract
+In this paper, we propose a class of block coordinate proximal gradient (BCPG) methods for solving large-scale nonsmooth separable optimization problems. The proposed BCPG methods are based on the Bregman functions, which may vary at each iteration. These methods include many well-known optimization methods, such as the quasi-Newton method, the block coordinate descent method, and the proximal point method. For the proposed methods, we establish their global convergence properties when the blocks are selected by the Gauss–Seidel rule. Further, under some additional appropriate assumptions, we show that the convergence rate of the proposed methods is R-linear. We also present numerical results for a new BCPG method with variable kernels for a convex problem with separable simplex constraints.
+Keywords
+Nonsmooth optimization  Block coordinate proximal gradient methods  Linear convergence  Error bounds  49M27  65K05  90C06  90C25  90C26  90C30  

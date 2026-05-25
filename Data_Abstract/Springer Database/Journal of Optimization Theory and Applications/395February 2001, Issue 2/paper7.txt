@@ -1,0 +1,6 @@
+Online Surrogate Problem Methodology for Stochastic Discrete Resource Allocation Problems
+K. Gokbayrak;C. G. Cassandras;
+Abstract
+We consider stochastic discrete optimization problems where the decision variables are nonnegative integers. We propose and analyze an online control scheme which transforms the problem into a surrogate continuous optimization problem and proceeds to solve the latter using standard gradient-based approaches, while simultaneously updating both the actual and surrogate system states. It is shown that the solution of the original problem is recovered as an element of the discrete state neighborhood of the optimal surrogate state. For the special case of separable cost functions, we show that this methodology becomes particularly efficient. Finally, convergence of the proposed algorithm is established under standard technical conditions; numerical results are included in the paper to illustrate the fast convergence of this approach.
+Keywords
+optimization  discrete resource allocation  stochastic approximation  perturbation analysis  concurrent estimation  

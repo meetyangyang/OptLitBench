@@ -1,0 +1,6 @@
+Solving Mathematical Programs with Equilibrium Constraints
+Lei Guo;Gui-Hua Lin;Jane J. Ye;
+Abstract
+This paper aims at developing effective numerical methods for solving mathematical programs with equilibrium constraints. Due to the existence of complementarity constraints, the usual constraint qualifications do not hold at any feasible point, and there are various stationarity concepts such as Clarke, Mordukhovich, and strong stationarities that are specially defined for mathematical programs with equilibrium constraints. However, since these stationarity systems contain some unknown index sets, there has been no numerical method for solving them directly. In this paper, we remove the unknown index sets from these stationarity systems successfully, and reformulate them as smooth equations with box constraints. We further present a modified Levenberg–Marquardt method for solving these constrained equations. We show that, under some weak local error bound conditions, the method is locally and superlinearly convergent. Furthermore, we give some sufficient conditions for local error bounds, and show that these conditions are not very stringent by a number of examples.
+Keywords
+Mathematical program with equilibrium constraints  Clarke/Mordukhovich/strong stationarity  Levenberg–Marquardt method  Error bound  90C26  90C30  90C33  

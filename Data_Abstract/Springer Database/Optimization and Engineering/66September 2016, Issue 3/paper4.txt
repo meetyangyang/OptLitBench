@@ -1,0 +1,6 @@
+An illumination problem with tradeoff between coverage of a dataset and aperture angle of a conic light beam
+Annabella Astorino;Manlio Gaudioso;Alberto Seeger;
+Abstract
+Let \(\{a_i:i\in I\}\) be a finite set in \({\mathbb{R}}^n\). The illumination problem addressed in this work concerns the optimal location and orientation of a conic light beam $$ R\big (z,y,s\big )= \left\{ x \in {\mathbb{R}}^n : s\,\Vert x-z\Vert - \langle y, x-z\rangle \le 0\right\} .$$The aperture angle \(\vartheta = 2\arccos s\) of the conic light beam is a decreasing function of the sharpness coefficient \( s\in [0,1]\). The problem at hand is to select an apex z in a prescribed compact region \(Z\subseteq {\mathbb{R}}^n\) and a unit vector \(y\in {\mathbb{R}}^n\) so that the conic light beam R(z, y, s) fulfils two conflicting requirements: it captures as many points \(a_i\) as possible and, at the same time, it has a sharpness coefficient s as large as possible.
+Keywords
+Illumination problem  Conic light beam  Aperture angle  Sharpness coefficient  Nonsmooth optimization  90C25  90C26  90C40  

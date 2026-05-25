@@ -1,0 +1,6 @@
+A Simple Variant of the Mizuno--Todd--Ye Predictor-Corrector Algorithm and Its Objective-Function-Free Complexity
+Tomonari  Kitahara and Takashi  Tsuchiya;
+Abstract
+In this paper, we propose a simple variant of the Mizuno--Todd--Ye predictor-corrector algorithm for linear programming. Our variant employs a simple and a natural scaling-invariant search direction aiming at finite-termination, and, even if finite-termination fails, the same direction is occasionally used instead of the ordinary predictor step. Our algorithm is scaling-invariant, is easy to implement, and enjoys an objective-function-free polynomial-time complexity for a linear program with bounded feasible region.
+Keywords
+linear programming problem, interior point method, layered least squares interior point method, iteration complexity, strong polynomiality, 90C05, 

@@ -1,0 +1,6 @@
+A distributed algorithm for fitting generalized additive models
+Eric Chu;Arezou Keshavarz;Stephen Boyd;
+Abstract
+Generalized additive models are an effective regression tool, popular in the statistics literature, that provides an automatic extension of traditional linear models to nonlinear systems. We present a distributed algorithm for fitting generalized additive models, based on the alternating direction method of multipliers (ADMM). In our algorithm the component functions of the model are fit independently, in parallel; a simple iteration yields convergence to the optimal generalized additive model. This is in contrast to the traditional approach of backfitting, where the component functions are fit sequentially. We illustrate the method on different classes of problems such as generalized additive, logistic, and piecewise constant models, with various types of regularization, including those that promote smoothness and sparsity.
+Keywords
+Convex optimization  Distributed optimization  Generalized additive models  

@@ -1,0 +1,6 @@
+Index information algorithm with local tuning for solving multidimensional global optimization problems with multiextremal constraints
+Yaroslav D. Sergeyev;Paolo Pugliese;Domenico Famularo;
+Abstract
+ Multidimensional optimization problems where the objective function and the constraints are multiextremal non-differentiable Lipschitz functions (with unknown Lipschitz constants) and the feasible region is a finite collection of robust nonconvex subregions are considered. Both the objective function and the constraints may be partially defined. To solve such problems an algorithm is proposed, that uses Peano space-filling curves and the index scheme to reduce the original problem to a Hölder one-dimensional one. Local tuning on the behaviour of the objective function and constraints is used during the work of the global optimization procedure in order to accelerate the search. The method neither uses penalty coefficients nor additional variables. Convergence conditions are established. Numerical experiments confirm the good performance of the technique.
+Keywords
+Objective Function  Global Optimization  Optimization Procedure  Original Problem  Additional Variable  

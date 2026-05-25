@@ -1,0 +1,6 @@
+Branch-and-cut-and-price algorithms for the Degree Constrained Minimum Spanning Tree Problem
+Luis Henrique Bicalho;Alexandre Salles da Cunha;Abilio Lucena;
+Abstract
+Assume that a connected undirected edge weighted graph G is given. The Degree Constrained Minimum Spanning Tree Problem (DCMSTP) asks for a minimum cost spanning tree of G where vertex degrees do not exceed given pre-defined upper bounds. In this paper, three exact solution algorithms are investigated for the problem. All of them are Branch-and-cut based and rely on the strongest formulation currently available for the problem. Additionally, to speed up the computation of dual bounds, they all use column generation, in one way or another. To test the algorithms, new hard to solve DCMSTP instances are proposed here. These instances, combined with additional ones taken from the literature, are then used in computational experiments. The experiments compare the new algorithms among themselves and also against the best algorithms currently available in the literature. As an outcome of them, one of the new algorithms stands out on top.
+Keywords
+Degree Constrained Spanning Tree  Branch-and-cut   Branch-and-cut-and-price   

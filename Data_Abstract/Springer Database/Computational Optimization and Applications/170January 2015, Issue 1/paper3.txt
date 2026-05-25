@@ -1,0 +1,6 @@
+Comparative study of RPSALG algorithm for convex semi-infinite programming
+A. Auslender;A. Ferrer;M. A. Goberna;M. A. López;
+Abstract
+The Remez penalty and smoothing algorithm (RPSALG) is a unified framework for penalty and smoothing methods for solving min-max convex semi-infinite programing problems, whose convergence was analyzed in a previous paper of three of the authors. In this paper we consider a partial implementation of RPSALG for solving ordinary convex semi-infinite programming problems. Each iteration of RPSALG involves two types of auxiliary optimization problems: the first one consists of obtaining an approximate solution of some discretized convex problem, while the second one requires to solve a non-convex optimization problem involving the parametric constraints as objective function with the parameter as variable. In this paper we tackle the latter problem with a variant of the cutting angle method called ECAM, a global optimization procedure for solving Lipschitz programming problems. We implement different variants of RPSALG which are compared with the unique publicly available SIP solver, NSIPS, on a battery of test problems.
+Keywords
+Convex semi-infinite programming  Remez-type methods   Penalty methods  Smoothing methods  Cutting angle method  

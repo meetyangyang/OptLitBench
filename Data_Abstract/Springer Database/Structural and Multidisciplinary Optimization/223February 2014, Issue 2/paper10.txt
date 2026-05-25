@@ -1,0 +1,6 @@
+High resolution topology optimization using graphics processing units (GPUs)
+Vivien J. Challis;Anthony P. Roberts;Joseph F. Grotowski;
+Abstract
+We present a Graphics Processing Unit (GPU) implementation of the level set method for topology optimization. The solution of three-dimensional topology optimization problems with millions of elements becomes computationally tractable with this GPU implementation and NVIDIA supercomputer-grade GPUs. We demonstrate this by solving the inverse homogenization problem for the design of isotropic materials with maximized bulk modulus. We trace the maximum bulk modulus optimization results to very high porosities to demonstrate the detail achievable with a high computational resolution. By utilizing a parallel GPU implementation rather than a sequential CPU implementation, similar increases in tractable computational resolution would be expected for other topology optimization problems.
+Keywords
+Topology optimization  Inverse homogenization  Graphics Processing Unit(GPU) computing  

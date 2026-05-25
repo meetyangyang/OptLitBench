@@ -1,0 +1,6 @@
+A Strongly Convergent Primal Simplex Algorithm for Generalized Networks
+Joyce Elam;Fred Glover;Darwin Klingman;
+Abstract
+A major computational problem that arises in the attempt to solve generalized network and network-related problems is degeneracy. In fact, using primal simplex solution techniques, the number of degenerate pivots performed frequently ranges as high as 90% in large-scale applications. The purpose of this paper is to develop a special set of structural and logical relationships for generalized network problems with positive “gains” that yields a new primal simplex algorithm which exploits degeneracy. The major mathematical differences between this new algorithm and the original simplex method are (1) each basis examined is restricted to have a special topology, (2) the algorithm is finitely convergent without reliance upon “external” techniques such as lexicography or perturbation, and (3) a special screening criterion for nondegenerate basis exchanges is available that allows some of these exchanges to be recognized prior to finding the representation of an incoming arc.
+Keywords
+network flows with gains primal simplex method degeneracy 

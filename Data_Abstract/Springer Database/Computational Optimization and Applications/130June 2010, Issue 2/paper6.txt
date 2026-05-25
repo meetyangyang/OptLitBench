@@ -1,0 +1,6 @@
+Incorporating minimum Frobenius norm models in direct search
+A. L. Custódio;H. Rocha;L. N. Vicente;
+Abstract
+The goal of this paper is to show that the use of minimum Frobenius norm quadratic models can improve the performance of direct-search methods. The approach taken here is to maintain the structure of directional direct-search methods, organized around a search and a poll step, and to use the set of previously evaluated points generated during a direct-search run to build the models. The minimization of the models within a trust region provides an enhanced search step. Our numerical results show that such a procedure can lead to a significant improvement of direct search for smooth, piecewise smooth, and noisy problems.
+Keywords
+Derivative-free optimization  Minimum Frobenius norm models  Direct search  Generalized pattern search  Search step  Data profiles  

@@ -1,0 +1,6 @@
+The Application of Preprocessing and Cutting Plane Techniques for a Class of Production Planning Problems
+Ken Darby-Dowman;Socorro Rangel;
+Abstract
+This paper investigates properties of integer programming models for a class of production planning problems. The models are developed within a decision support system to advise a sales team of the products on which to focus their efforts in gaining new orders in the short term. The products generally require processing on several manufacturing cells and involve precedence relationships. The cells are already (partially) committed with products for stock and to satisfy existing orders and therefore only the residual capacities of each cell in each time period of the planning horizon are considered. The determination of production recommendations to the sales team that make use of residual capacities is a nontrivial optimization problem. Solving such models is computationally demanding and techniques for speeding up solution times are highly desirable. An integer programming model is developed and various preprocessing techniques are investigated and evaluated. In addition, a number of cutting plane approaches have been applied. The performance of these approaches which are both general and application specific is examined.
+Keywords
+integer programming  production planning  preprocessing  cutting planes  

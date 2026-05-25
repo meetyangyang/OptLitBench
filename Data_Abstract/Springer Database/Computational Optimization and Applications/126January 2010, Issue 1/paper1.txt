@@ -1,0 +1,6 @@
+An inexact modified subgradient algorithm for nonconvex optimization
+Regina S. Burachik;C. Yalçın Kaya;Musa Mammadov;
+Abstract
+We propose and analyze an inexact version of the modified subgradient (MSG) algorithm, which we call the IMSG algorithm, for nonsmooth and nonconvex optimization over a compact set. We prove that under an approximate, i.e. inexact, minimization of the sharp augmented Lagrangian, the main convergence properties of the MSG algorithm are preserved for the IMSG algorithm. Inexact minimization may allow to solve problems with less computational effort. We illustrate this through test problems, including an optimal bang-bang control problem, under several different inexactness schemes.
+Keywords
+Nonconvex optimization  Nonsmooth optimization  Sharp augmented Lagrangian  Modified subgradient method  Inexact minimization  Bang-bang control  

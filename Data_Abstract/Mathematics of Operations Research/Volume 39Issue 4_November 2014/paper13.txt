@@ -1,0 +1,6 @@
+A Note on Appointment Scheduling with Piecewise Linear Cost Functions
+Dongdong Ge;Guohua Wan;Zizhuo Wang;Jiawei Zhang;
+Abstract
+We consider the problem of determining the optimal schedules for a given sequence of jobs on a single processor. The objective is to minimize the expected total cost incurred by job waiting and processor idling, where the job processing times are random variables. It is known in the prior literature that if the processing times are integers and the costs are linear functions satisfying a mild condition, then the problem can be solved in a polynomial number of expected cost evaluations. In this work, we extend the result to piecewise linear cost functions, which include many useful objective functions in practice. Our analysis explores the (hidden) dual network flow structure of the appointment scheduling problem and thus greatly simplifies that of prior work. We also find the number of samples needed to compute a near optimal solution when only some independent samples of processing times are known.
+Keywords
+scheduling stochastic programming convex relaxation sampling duality 

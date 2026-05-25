@@ -1,0 +1,6 @@
+Incremental Least Squares Methods and the Extended Kalman Filter
+Dimitri P.  Bertsekas;
+Abstract
+In this paper we propose and analyze nonlinear least squares methods which process the data incrementally, one data block at a time. Such methods are well suited for large data sets and real time operation and have received much attention in the context of neural network training problems. We focus on the extended Kalman filter, which may be viewed as an incremental version of the Gauss–Newton method. We provide a nonstochastic analysis of its convergence properties, and we discuss variants aimed at accelerating its convergence.
+Keywords
+optimization, least squares, Kalman filter, 93-11, 90C30, 65K10, 

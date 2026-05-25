@@ -1,0 +1,6 @@
+Exploiting special structure in Karmarkar's linear programming algorithm
+Michael J. Todd;
+Abstract
+We propose methods to take advantage of specially-structured constraints in a variant of Karmarkar's projective algorithm for standard form linear programming problems. We can use these constraints to generate improved bounds on the optimal value of the problem and also to compute the necessary projections more efficiently, while maintaining the theoretical bound on the algorithm's performance. It is shown how various upper-bounding constraints can be handled implicitly in this way. Unfortunately, the situation for network constraints appears less favorable.
+Keywords
+Linear programming  Karmarkar's algorithm  special structure  

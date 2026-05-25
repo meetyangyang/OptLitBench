@@ -1,0 +1,6 @@
+Approximate iterations in Bregman-function-based proximal algorithms
+Jonathan Eckstein;
+Abstract
+This paper establishes convergence of generalized Bregman-function-based proximal point algorithms when the iterates are computed only approximately. The problem being solved is modeled as a general maximal monotone operator, and need not reduce to minimization of a function. The accuracy conditions on the iterates resemble those required for the classical “linear” proximal point algorithm, but are slightly stronger; they should be easier to verify or enforce in practice than conditions given in earlier analyses of approximate generalized proximal methods. Subjects to these practically enforceable accuracy restrictions, convergence is obtained under the same conditions currently established for exact Bregman-function-based proximal methods.
+Keywords
+Proximal algorithms  Bregman functions  Monotone operators  

@@ -1,0 +1,6 @@
+A particular timetable problem: terminal scheduling
+   A.   Sebö ;
+Abstract
+ A timetable has to be constructed for I identical machines, m users and n disjoint hours under the following conditions:  a)Each machine has its working hours, a subset of the n disjoint hours. To each user belongs a number, the number of hours he would like to work and also the subset of hours he is able to work on a machine, If there Is no feasible solution meeting each user's requests, a fair modification of the data is needed.  b)The users have other wishes: the set of hours is the ordered set of the hours of the week, and some of the users would like long intervals of time, some others may want their- time to be uniformly distributed within the week, etc.  A quick polynomial algorithm that provides a solution that meets the practical needs is provided.  
+Keywords
+Timetable, network flow, alternating path, Hungarian method, shortest pathAMS 1980 Subject Classification: Primary: 60B10, Secondary: 90C35 

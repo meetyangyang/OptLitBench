@@ -1,0 +1,6 @@
+Sequential quadratic programming-based fast path planning algorithm subject to no-fly zone constraints
+Wei Liu;Shunjian Ma;Mingwei Sun;Haidong Yi;Zenghui Wang;Zengqiang Chen;
+Abstract
+Path planning plays an important role in aircraft guided systems. Multiple no-fly zones in the flight area make path planning a constrained nonlinear optimization problem. It is necessary to obtain a feasible optimal solution in real time. In this article, the flight path is specified to be composed of alternate line segments and circular arcs, in order to reformulate the problem into a static optimization one in terms of the waypoints. For the commonly used circular and polygonal no-fly zones, geometric conditions are established to determine whether or not the path intersects with them, and these can be readily programmed. Then, the original problem is transformed into a form that can be solved by the sequential quadratic programming method. The solution can be obtained quickly using the Sparse Nonlinear OPTimizer (SNOPT) package. Mathematical simulations are used to verify the effectiveness and rapidity of the proposed algorithm.
+Keywords
+path planning, SNOPT, nonlinear programming, no-fly zone, polygon, intersection point 

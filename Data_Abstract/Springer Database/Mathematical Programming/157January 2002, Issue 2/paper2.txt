@@ -1,0 +1,6 @@
+Fast and simple approximation schemes for generalized flow
+Lisa K. Fleischer;Kevin D. Wayne;
+Abstract
+We present fast and simple fully polynomial-time approximation schemes (FPTAS) for generalized versions of maximum flow, multicommodity flow, minimum cost maximum flow, and minimum cost multicommodity flow. We extend and refine fractional packing frameworks introduced in FPTAS’s for traditional multicommodity flow and packing linear programs. Our FPTAS’s dominate the previous best known complexity bounds for all of these problems, some by more than a factor of n2, where n is the number of nodes. This is accomplished in part by introducing an efficient method of solving a sequence of generalized shortest path problems. Our generalized multicommodity FPTAS’s are now as fast as the best non-generalized ones. We believe our improvements make it practical to solve generalized multicommodity flow problems via combinatorial methods.
+Keywords
+Short Path  Minimum Cost  Approximation Scheme  Maximum Flow  Combinatorial Method  

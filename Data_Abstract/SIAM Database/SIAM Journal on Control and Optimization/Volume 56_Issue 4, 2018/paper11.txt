@@ -1,0 +1,6 @@
+The Convex Feasible Set Algorithm for Real Time Optimization in Motion Planning
+Changliu  Liu, Chung-Yen  Lin, and Masayoshi  Tomizuka;
+Abstract
+With the development of robotics, there are growing needs for real time motion planning. However, due to obstacles in the environment, the planning problem is highly nonconvex, which makes it difficult to achieve real time computation using existing nonconvex optimization algorithms. This paper introduces the convex feasible set algorithm,  which is a fast algorithm for nonconvex optimization problems that have convex costs and nonconvex constraints. The idea is to find a convex feasible set for the original problem and iteratively solve a sequence of subproblems using the convex constraints. The feasibility and the convergence of the proposed algorithm are proved in the paper. The application of this method on motion planning for mobile robots is discussed. The simulations demonstrate the effectiveness of the proposed algorithm.
+Keywords
+nonconvex optimization, nondifferentiable optimization, robot motion planning, 90C55, 90C26, 68T40, 93C85, 

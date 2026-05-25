@@ -1,0 +1,6 @@
+Solving semi-infinite programs by smoothing projected gradient method
+Mengwei Xu;Soon-Yi Wu;Jane J. Ye;
+Abstract
+In this paper, we study a semi-infinite programming (SIP) problem with a convex set constraint. Using the value function of the lower level problem, we reformulate SIP problem as a nonsmooth optimization problem. Using the theory of nonsmooth Lagrange multiplier rules and Danskin’s theorem, we present constraint qualifications and necessary optimality conditions. We propose a new numerical method for solving the problem. The novelty of our numerical method is to use the integral entropy function to approximate the value function and then solve SIP by the smoothing projected gradient method. Moreover we study the relationships between the approximating problems and the original SIP problem. We derive error bounds between the integral entropy function and the value function, and between locally optimal solutions of the smoothing problem and those for the original problem. Using certain second order sufficient conditions, we derive some estimates for locally optimal solutions of problem. Numerical experiments show that the algorithm is efficient for solving SIP.
+Keywords
+Nonlinear semi-infinite programming problem  Value function  Integral entropy function  Smoothing projected gradient algorithm  Locally optimal solution  65K05  90C34  

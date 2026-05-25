@@ -1,0 +1,6 @@
+Newton Methods For Large-Scale Linear Inequality-Constrained Minimization
+Anders  Forsgren and Walter  Murray;
+Abstract
+Newton methods of the linesearch type for large-scale minimization subject to linear inequality constraints are discussed. The purpose of the paper is twofold: (i) to give an active--set-type method with the ability to delete multiple constraints simultaneously and (ii) to give a relatively short general convergence proof for such a method. It is also discussed how multiple constraints can be added simultaneously. The approach is an extension of a previous work by the same authors for equality-constrained problems. It is shown how the search directions can be computed without the need to compute the reduced Hessian of the objective function. The convergence analysis states that every limit point of a sequence of iterates satisfies thesecond-order necessary optimality conditions.
+Keywords
+linear inequality-constrained minimization, negative curvature, modified Newton method, symmetric indefinite factorization, large-scale minimization, linesearch method, 49M37, 65K05, 90C30, 

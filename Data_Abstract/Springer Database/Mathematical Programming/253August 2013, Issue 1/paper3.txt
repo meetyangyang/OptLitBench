@@ -1,0 +1,6 @@
+Testing copositivity with the help of difference-of-convex optimization
+Mirjam Dür;Jean-Baptiste Hiriart-Urruty;
+Abstract
+We consider the problem of minimizing an indefinite quadratic form over the nonnegative orthant, or equivalently, the problem of deciding whether a symmetric matrix is copositive. We formulate the problem as a difference of convex functions problem. Using conjugate duality, we show that there is a one-to-one correspondence between their respective critical points and minima. We then apply a subgradient algorithm to approximate those critical points and obtain an efficient heuristic to verify non-copositivity of a matrix.
+Keywords
+Copositive matrices  Difference-of-convex (d.c.)  Legendre–Fenchel transforms  Nonconvex duality  Subgradient algorithms for d.c. functions  90C26  46N10  15A63  

@@ -1,0 +1,6 @@
+Convergence of the Gradient Sampling Algorithm for Nonsmooth Nonconvex Optimization
+Krzysztof C.   Kiwiel;
+Abstract
+We study the gradient sampling algorithm of Burke, Lewis, and Overton for minimizing a locally Lipschitz function f on $\mathbb{R}^n$ that is continuously differentiable on an open dense subset. We strengthen the existing convergence results for this algorithm and introduce a slightly revised version for which stronger results are established without requiring compactness of the level sets of f. In particular, we show that with probability 1 the revised algorithm either drives the f‐values to $-\infty$, or each of its cluster points is Clarke stationary for f. We also consider a simplified variant in which the differentiability check is skipped and the user can control the number of f‐evaluations per iteration.
+Keywords
+generalized gradient, nonsmooth optimization, subgradient, gradient sampling, nonconvex, 65K10, 90C26, 

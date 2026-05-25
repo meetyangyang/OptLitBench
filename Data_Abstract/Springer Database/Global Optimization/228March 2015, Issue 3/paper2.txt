@@ -1,0 +1,6 @@
+Branching and bounding improvements for global optimization algorithms with Lipschitz continuity properties
+Coralia Cartis;Jaroslav M. Fowkes;Nicholas I. M. Gould;
+Abstract
+We present improvements to branch and bound techniques for globally optimizing functions with Lipschitz continuity properties by developing novel bounding procedures and parallelisation strategies. The bounding procedures involve nonconvex quadratic or cubic lower bounds on the objective and use estimates of the spectrum of the Hessian or derivative tensor, respectively. As the nonconvex lower bounds are only tractable if solved over Euclidean balls, we implement them in the context of a recent branch and bound algorithm (Fowkes et al. in J Glob Optim 56:1791–1815, 2013) that uses overlapping balls. Compared to the rectangular tessellations of traditional branch and bound, overlapping ball coverings result in an increased number of subproblems that need to be solved and hence makes the need for their parallelization even more stringent and challenging. We develop parallel variants based on both data- and task-parallel paradigms, which we test on an HPC cluster on standard test problems with promising results.
+Keywords
+Global optimization  Lipschitzian optimization  Parallel branch and bound  Nonconvex programming  

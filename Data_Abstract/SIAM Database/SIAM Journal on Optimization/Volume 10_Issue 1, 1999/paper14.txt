@@ -1,0 +1,6 @@
+Penalty and Barrier Methods: A Unified Framework
+A.  Auslender;
+Abstract
+It is established that many optimization problems may be formulated in terms of minimizing a function $x\rightarrow f_0 (x) + H_\infty (f_1 (x), f_2 (x),\ldots,f_m (x)) + L_\infty (Ax-b)$, where the $f_i$ are closed functions defined on $\mathbb{R}^N$, and where $H_\infty$ and $L_\infty$ are the recession functions of closed, proper, convex functions H and L. A is a linear transformation from $\mathbb{R}^N$ to a finite dimensional vector space Y with $b\in Y$. A generic algorithm, based on the properties of recession functions, is proposed. This algorithm not only encompasses almost all penalty and barrier methods in nonlinear programming and in semidefinite programming, but also generates new types of methods. Primal and dual convergence theorems are given.
+Keywords
+convex and nonlinear programming, semidefinite programming, penalty and barrier methods, 90C05, 90C25, 90C31, 65F15, 90C48, 

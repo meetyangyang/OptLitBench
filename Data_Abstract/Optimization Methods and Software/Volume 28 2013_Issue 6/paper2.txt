@@ -1,0 +1,6 @@
+New complexity analysis of a Mehrotra-type predictor–corrector algorithm for semidefinite programming
+ Hongwei   Liu ; Changhe   Liu ; Ximei   Yang ;
+Abstract
+ In this paper, we propose a new Mehrotra-type predictor–corrector interior-point algorithm for semidefinite programming. This algorithm is an extension of the variant of Mehrotra-type algorithm that was proposed by Salahi et al. [On Mehrotra-type predictor–corrector algorithms, SIAM J. Optim. 18 (2007), pp. 1377–1397] for linear programming problems. We modify the step sizes lightly in the predictor step of Koulaei and Terlaky [On the complexity analysis of a Mehrotra-type primal–dual feasible algorithm for semidefinite optimization, Optim. Methods Softw. 25 (2010), pp. 467–485]. In such a way, we obtain O(nlog(Tr(X 0 S 0)/ϵ)) iteration complexity of the algorithm, where (X 0, y 0, S 0) is the initial feasible point and ϵ is the required precision. 
+Keywords
+semidefinite programming, interior-point methods, predictor–corrector algorithm, Mehrotra-type algorithm, polynomial complexityAMS Subject Classification: 65K05, 90C22, 90C51 

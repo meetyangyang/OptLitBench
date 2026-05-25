@@ -1,0 +1,6 @@
+Extensions of CGS algorithms: Generalized least-square solutions
+R. F. Dennemeyer;
+Abstract
+The CGS (conjugate Gram-Schmidt) algorithms of Hestenes and Stiefel are formulated so as to obtain least-square solutions of a system of equationsg(x)=0 inn independent variables. Both the linear caseg(x)=Ax−h and the nonlinear case are discussed. In the linear case, a least-square solution is obtained in no more thann steps, and a method of obtaining the least-square solution of minimum length is given. In the nonlinear case, the CGS algorithm is combined with the Gauss-Newton process to minimize sums of squares of nonlinear functions. Results of numerical experiments with several versions of CGS on test functions indicate that the algorithms are effective.
+Keywords
+Numerical methods  conjugate directions  conjugate Gram-Schmidt algorithms  least-square solutions  function minimization  

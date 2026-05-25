@@ -1,0 +1,6 @@
+Convergence Rate of the Augmented Lagrangian SQP Method
+D. Kleis;E. W. Sachs;
+Abstract
+In this paper, the augmented Lagrangian SQP method is considered for the numerical solution of optimization problems with equality constraints. The problem is formulated in a Hilbert space setting. Since the augmented Lagrangian SQP method is a type of Newton method for the nonlinear system of necessary optimality conditions, it is conceivable that q-quadratic convergence can be shown to hold locally in the pair (x, λ). Our interest lies in the convergence of the variable x alone. We improve convergence estimates for the Newton multiplier update which does not satisfy the same convergence properties in x as for example the least-square multiplier update. We discuss these updates in the context of parameter identification problems. Furthermore, we extend the convergence results to inexact augmented Lagrangian methods. Numerical results for a control problem are also presented.
+Keywords
+SQP methods  infinite-dimensional optimization  convergence rate  parameter identification  

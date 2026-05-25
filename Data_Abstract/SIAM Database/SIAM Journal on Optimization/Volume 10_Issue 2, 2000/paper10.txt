@@ -1,0 +1,6 @@
+Primal-Dual Interior-Point Methods for Semidefinite Programming in Finite Precision
+Ming  Gu;
+Abstract
+Recently, a number of primal-dual interior-point methods for semidefinite programming have been developed. To reduce the number of floating point operations, each iteration of these methods typically performs block Gaussian elimination with block pivots that are close to singular near the optimal solution. As a result, these methods often exhibit complex numerical properties in practice.We consider numerical issues related to some of these methods. Our error analysis indicates that these methods could be numerically stable if certain coefficient matrices associated with the iterations are well-conditioned, but are unstable otherwise. With this result, we explain why one particular method, the one introduced by Alizadeh, Haeberly, and Overton is in general more stable than others. We also explain why the so-called least squares variation, introduced for some of these methods, does not yield more numerical accuracy in general. Finally, we present results from our numerical experiments to support our analysis.
+Keywords
+semidefinite programming, primal-dual, interior-point method, error analysis, 49M15, 65K05, 90C3, 15A06, 65F05, 65G05, 

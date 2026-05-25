@@ -1,0 +1,6 @@
+Newton's method for the nonlinear complementarity problem: A B-differentiable equation approach
+Patrick T. Harker;Baichun Xiao;
+Abstract
+This paper describes a damped-Newton method for solving the nonlinear complementarity problem when it is formulated as a system of B-differentiable equations through the use of the Minty-map. This general Newton algorithm contains a one-dimensional line search and possesses a global convergence property under certain conditions; modifications and heuristic implementations of the algorithm for the case when these conditions do not hold are also discussed. The numerical experiments show that, in general, this new scheme is more efficient and robust than the traditional Josephy-Newton algorithm.
+Keywords
+B-differentiable function  nonlinear complementarity  global-Newton method  

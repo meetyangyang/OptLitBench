@@ -1,0 +1,6 @@
+A hybrid water flow algorithm for multi-objective flexible flow shop scheduling problems
+ Trung   Hieu   Tran ; Kien   Ming   Ng ;
+Abstract
+ In this article, the multi-objective flexible flow shop scheduling problem with limited intermediate buffers is addressed. The objectives considered in this problem consist of minimizing the completion time of jobs and minimizing the total tardiness time of jobs. A hybrid water flow algorithm for solving this problem is proposed. Landscape analysis is performed to determine the weights of objective functions, which guide the exploration of feasible regions and movement towards the optimal Pareto solution set. Local and global neighbourhood structures are integrated in the erosion process of the algorithm, while evaporation and precipitation processes are included to enhance the solution exploitation capability of the algorithm in unexplored neighbouring regions. An improvement process is used to reinforce the final Pareto solution set obtained. The performance of the proposed algorithm is tested with benchmark and randomly generated instances. The computational results and comparisons demonstrate the effectiveness and efficiency of the proposed algorithm. 
+Keywords
+flexible flow shop scheduling, multi-objective optimization, metaheuristics, nature-inspired optimization, water flow algorithm 

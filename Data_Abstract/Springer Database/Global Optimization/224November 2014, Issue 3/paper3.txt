@@ -1,0 +1,6 @@
+Branch-and-Sandwich: a deterministic global optimization algorithm for optimistic bilevel programming problems. Part I: Theoretical development
+Polyxeni-Margarita Kleniati;Claire S. Adjiman;
+Abstract
+We present a global optimization algorithm, Branch-and-Sandwich, for optimistic bilevel programming problems that satisfy a regularity condition in the inner problem. The functions involved are assumed to be nonconvex and twice continuously differentiable. The proposed approach can be interpreted as the exploration of two solution spaces (corresponding to the inner and the outer problems) using a single branch-and-bound tree. A novel branching scheme is developed such that classical branch-and-bound is applied to both spaces without violating the hierarchy in the decisions and the requirement for (global) optimality in the inner problem. To achieve this, the well-known features of branch-and-bound algorithms are customized appropriately. For instance, two pairs of lower and upper bounds are computed: one for the outer optimal objective value and the other for the inner value function. The proposed bounding problems do not grow in size during the algorithm and are obtained from the corresponding problems at the parent node.
+Keywords
+Bilevel programming  Nonconvex inner problem  Branch and bound  

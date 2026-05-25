@@ -1,0 +1,6 @@
+A Branch and Contract Algorithm for Problems with Concave Univariate, Bilinear and Linear Fractional Terms
+Juan M. Zamora;Ignacio E. Grossmann;
+Abstract
+A new deterministic branch and bound algorithm is presented in this paper for the global optimization of continuous problems that involve concave univariate, bilinear and linear fractional terms. The proposed algorithm, the branch and contract algorithm, relies on the use of a bounds-contraction subproblem that aims at reducing the size of the search region by eliminating portions of the domain in which the objective function takes only values above a known upper bound. The solution of contraction subproblems at selected branch and bound nodes is performed within a finite contraction operation that helps reducing the total number of nodes in the branch and bound solution tree. The use of the proposed algorithm is illustrated with several numerical examples.
+Keywords
+Bilinear terms  Bounds contraction  Branch and contract  Concave separable functions  Continuous global optimization  Linear fractional terms  

@@ -1,0 +1,6 @@
+Numerical solution of a class of integral equations arising in two-dimensional aerodynamics
+J. Fromme;M. A. Golberg;
+Abstract
+We consider the numerical solution of a class of integral equations arising in the determination of the compressible flow about a thin airfoil in a ventilated wind tunnel. The integral equations are of the first kind with kernels having a Cauchy singularity. Using appropriately chosen Hilbert spaces, it is shown that the kernel gives rise to a mapping which is the sum of a unitary operator and a compact operator. This enables us to study the problem in terms of an equivalent integral equation of the second kind. Using Galerkin's method, we are able to derive a convergent numerical algorithm for its solution. It is shown that this algorithm is numerically equivalent to Bland's collocation method, which is then used as our method of computation. Extensive numerical calculations are presented establishing the validity of the theory.
+Keywords
+Aerodynamics  integral equation of the first kind  singular kernels  Galerkin's method  collocation method  

@@ -1,0 +1,8 @@
+A second-order cone cutting surface method: complexity and application
+Mohammad R. Oskoorouchi;John E. Mitchell;
+Abstract
+
+We present an analytic center cutting surface algorithm that uses mixed linear and multiple second-order cone cuts. Theoretical issues and applications of this technique are discussed. From the theoretical viewpoint, we derive two complexity results. We show that an approximate analytic center can be recovered after simultaneously adding p second-order cone cuts in O(plog (p+1)) Newton steps, and that the overall algorithm is polynomial. From the application viewpoint, we implement our algorithm on mixed linear-quadratic-semidefinite programming problems with bounded feasible region and report some computational results on randomly generated fully dense problems. We compare our CPU time with that of SDPLR, SDPT3, and SeDuMi and show that our algorithm outperforms these software packages on problems with fully dense coefficient matrices. We also show the performance of our algorithm on semidefinite relaxations of the maxcut and Lovasz theta problems.
+
+Keywords
+Second-order cone  Semidefinite inequality  Cutting plane techniques  Semidefinite programming  

@@ -1,0 +1,6 @@
+Superlinearly Convergent $O ( \sqrt{n} L )$-Iteration Interior-Point Algorithms for Linear Programming and the Monotone Linear Complementarity Problem
+Kevin  McShane;
+Abstract
+Zhang and Tapia have recently developed an interior-point algorithm for the linear programming problem that has the property that the duality gap converges to zero q-quadratically in the nondegenerate case and (if the iterates converge) q-superlinearly in the degenerate case. Their algorithm also solves the integer model for LP in $O ( nL )$ iterations, where L is the input length of the LP This paper presents an algorithm which maintains the quadratic (superlinear) convergence property but solves LP in $O ( \sqrt{n} L )$ iterations in the integer model. Also, the algorithm is generalized into an algorithm which solves LCP. The LCP algorithm (which is similar to an adaptive path-following algorithm proposed by Mizuno, Yoshise, and Kikuchi) has similar local convergence properties if we assume that the iterates converge to a strictly complementary solution.
+Keywords
+linear programming, linear complementarily problem, primal-dual interior-point algorithms, super-linear convergence, quadratic convergence, polynomiality, 90C05, 65K05, 

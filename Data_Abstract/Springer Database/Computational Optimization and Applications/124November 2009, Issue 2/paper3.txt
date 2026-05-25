@@ -1,0 +1,8 @@
+Using ACCPM in a simplicial decomposition algorithm for the traffic assignment problem
+Dulce Rosas;Jordi Castro;Lídia Montero;
+Abstract
+
+The purpose of the traffic assignment problem is to obtain a traffic flow pattern given a set of origin-destination travel demands and flow dependent link performance functions of a road network. In the general case, the traffic assignment problem can be formulated as a variational inequality, and several algorithms have been devised for its efficient solution. In this work we propose a new approach that combines two existing procedures: the master problem of a simplicial decomposition algorithm is solved through the analytic center cutting plane method. Four variants are considered for solving the master problem. The third and fourth ones, which heuristically compute an appropriate initial point, provided the best results. The computational experience reported in the solution of real large-scale diagonal and difficult asymmetric problems—including a subset of the transportation networks of Madrid and Barcelona—show the effectiveness of the approach.
+
+Keywords
+Traffic assignment problem  Variational inequalities  Simplicial decomposition  Analytic center cutting plane method  

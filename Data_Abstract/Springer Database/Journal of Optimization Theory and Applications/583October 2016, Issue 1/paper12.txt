@@ -1,0 +1,6 @@
+New Augmented Lagrangian-Based Proximal Point Algorithm for Convex Optimization with Equality Constraints
+Yuan Shen;Hongyong Wang;
+Abstract
+The augmented Lagrangian method is a classic and efficient method for solving constrained optimization problems. However, its efficiency is still, to a large extent, dependent on how efficient the subproblem be solved. When an accurate solution to the subproblem is computationally expensive, it is more practical to relax the subproblem. Specifically, when the objective function has a certain favorable structure, the relaxed subproblem yields a closed-form solution that can be solved efficiently. However, the resulting algorithm usually suffers from a slower convergence rate than the augmented Lagrangian method. In this paper, based on the relaxed subproblem, we propose a new algorithm with a faster convergence rate. Numerical results using the proposed approach are reported for three specific applications. The output is compared with the corresponding results from state-of-the-art algorithms, and it is shown that the efficiency of the proposed method is superior to that of existing approaches.
+Keywords
+Convex optimization  Proximal point algorithm  Augmented Lagrangian  Sparse optimization  Compressed sensing  65K05  90C25  

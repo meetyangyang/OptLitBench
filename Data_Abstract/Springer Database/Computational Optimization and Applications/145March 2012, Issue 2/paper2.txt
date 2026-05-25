@@ -1,0 +1,6 @@
+On the local convergence of a derivative-free algorithm for least-squares minimization
+Hongchao Zhang;Andrew R. Conn;
+Abstract
+In Zhang et al. (accepted by SIAM J. Optim., 2010), we developed a class of derivative-free algorithms, called DFLS, for least-squares minimization. Global convergence of the algorithm as well as its excellent numerical performance within a limited computational budget was established and discussed in the same paper. Here we would like to establish the local quadratic convergence of the algorithm for zero residual problems. Asymptotic convergence performance of the algorithm for both zero and nonzero problems is tested. Our numerical experiments indicate that the algorithm is also very promising for achieving high accuracy solutions compared with software packages that do not exploit the special structure of the least-squares problem or that use finite differences to approximate the gradients.
+Keywords
+Derivative-free optimization  Least-squares  Trust region  Levenberg-Marquardt method  System of nonlinear equations  Local convergence  Asymptotic convergence  

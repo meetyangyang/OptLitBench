@@ -1,0 +1,6 @@
+Impact of Partial Separability on Large-Scale Optimization
+Ali Bouaricha;Jorge J. Morè;
+Abstract
+ELSO is an environment for the solution oflarge-scale optimization problems. With ELSO the user is required to provide only code for the evaluation of a partially separable function. ELSO exploits the partialseparability structure of the function to computethe gradient efficiently using automatic differentiation.We demonstrate ELSO's efficiency by comparing thevarious options available in ELSO.Our conclusion is that the hybrid option in ELSOprovides performance comparable to the hand-coded option, while having the significantadvantage of not requiring a hand-coded gradient orthe sparsity pattern of the partially separable function.In our test problems, which have carefully coded gradients,the computing time for the hybrid AD option is within a factor of two of thehand-coded option.
+Keywords
+large-scale optimization  partial separability  automatic differentiation  

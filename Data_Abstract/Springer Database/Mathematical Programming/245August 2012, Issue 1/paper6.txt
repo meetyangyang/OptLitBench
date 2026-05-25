@@ -1,0 +1,6 @@
+Sample size selection in optimization methods for machine learning
+Richard H. Byrd;Gillian M. Chin;Jorge Nocedal;Yuchen Wu;
+Abstract
+This paper presents a methodology for using varying sample sizes in batch-type optimization methods for large-scale machine learning problems. The first part of the paper deals with the delicate issue of dynamic sample selection in the evaluation of the function and gradient. We propose a criterion for increasing the sample size based on variance estimates obtained during the computation of a batch gradient. We establish an \({O(1/\epsilon)}\) complexity bound on the total cost of a gradient method. The second part of the paper describes a practical Newton method that uses a smaller sample to compute Hessian vector-products than to evaluate the function and the gradient, and that also employs a dynamic sampling technique. The focus of the paper shifts in the third part of the paper to L 1-regularized problems designed to produce sparse solutions. We propose a Newton-like method that consists of two phases: a (minimalistic) gradient projection phase that identifies zero variables, and subspace phase that applies a subsampled Hessian Newton iteration in the free variables. Numerical tests on speech recognition problems illustrate the performance of the algorithms.
+Keywords
+49M15  49M37  65K05  

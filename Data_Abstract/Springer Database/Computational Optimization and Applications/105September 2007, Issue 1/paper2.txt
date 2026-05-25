@@ -1,0 +1,8 @@
+Some iterative methods for the solution of a symmetric indefinite KKT system
+Silvia Bonettini;Valeria Ruggiero;
+Abstract
+
+This paper is concerned with the numerical solution of a Karush–Kuhn–Tucker system. Such symmetric indefinite system arises when we solve a nonlinear programming problem by an Interior-Point (IP) approach. In this framework, we discuss the effectiveness of two inner iterative solvers: the method of multipliers and the preconditioned conjugate gradient method. We discuss the implementation details of these algorithms in an IP scheme and we report the results of a numerical comparison on a set of large scale test-problems arising from the discretization of elliptic control problems.
+
+Keywords
+Indefinite symmetric KKT system  Large scale nonlinear programming problems  Interior-point method  Hestenes’ multipliers method  Preconditioned conjugate gradient method  Elliptic control problems  

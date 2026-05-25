@@ -1,0 +1,6 @@
+Symmetric minimum-norm updates for use in gibbs free energy calculations
+Douglas E. Salane;
+Abstract
+This paper examines a type of symmetric quasi-Newton update for use in nonlinear optimization algorithms. The updates presented here impose additional properties on the Hessian approximations that do not result if the usual quasi-Newton updating schemes are applied to certain Gibbs free energy minimization problems. The updates derived in this paper are symmetric matrices that satisfy a given matrix equation and are least squares solutions to the secant equation. A general representation for this class of updates is given. The update in this class that has the minimum weighted Frobenius norm is also presented.
+Keywords
+Gibbs free energy  Symmetric updates  nonlinear optimization  

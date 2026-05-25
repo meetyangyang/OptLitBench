@@ -1,0 +1,6 @@
+A new Lagrangean approach to the pooling problem
+Hossa Almutairi;Samir Elhedhli;
+Abstract
+We present a new Lagrangean approach for the pooling problem. The relaxation targets all nonlinear constraints, and results in a Lagrangean subproblem with a nonlinear objective function and linear constraints, that is reformulated as a linear mixed integer program. Besides being used to generate lower bounds, the subproblem solutions are exploited within Lagrangean heuristics to find feasible solutions. Valid cuts, derived from bilinear terms, are added to the subproblem to strengthen the Lagrangean bound and improve the quality of feasible solutions. The procedure is tested on a benchmark set of fifteen problems from the literature. The proposed bounds are found to outperform or equal earlier bounds from the literature on 14 out of 15 tested problems. Similarly, the Lagrangean heuristics outperform the VNS and MALT heuristics on 4 instances. Furthermore, the Lagrangean lower bound is equal to the global optimum for nine problems, and on average is 2.1% from the optimum. The Lagrangean heuristics, on the other hand, find the global solution for ten problems and on average are 0.043% from the optimum.
+Keywords
+Pooling problem  Lagrangean relaxation  

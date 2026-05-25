@@ -1,0 +1,6 @@
+On-line SVM learning via an incremental primal–dual technique
+ Nicolas   P.   Couellan ; Theodore   B.   Trafalis ;
+Abstract
+ Support vector machines (SVMs) are very powerful tools for data classification and pattern recognition problems. They have been proven to have very good generalization performance in practice. In many real-life situations, the data to be trained are available on-line and batch training methods are not suitable. Here, we propose a new algorithm to efficiently train SVMs in such situations. The training problem is expressed as a general nonlinear optimization problem with special decomposition properties. The idea of incremental gradient technique is used and applied to interior-point methods and more precisely to a primal–dual technique. Computational results are given for various training data sets and the results are compared with those of the other state-of-the-art on-line training algorithms as well as of the batch training method. It is shown that the proposed algorithm achieves good results in terms of prediction accuracy as well as CPU time performance. 
+Keywords
+SVM, machine learning, interior-point methods, incremental gradient technique, primal–dual method, quadratic programming, nonlinear programming AMS Subject Classifications: : 65K05, 68T05, 90C20, 90C30, 90C51, 90C90 

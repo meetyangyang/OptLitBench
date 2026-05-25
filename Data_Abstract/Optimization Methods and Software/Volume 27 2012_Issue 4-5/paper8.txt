@@ -1,0 +1,6 @@
+Euclidean distance matrix completion problems
+ Haw-ren   Fang ; Dianne   P.   O'Leary ;
+Abstract
+ A Euclidean distance matrix (EDM) is one in which the (i, j) entry specifies the squared distance between particle i and particle j. Given a partially specified symmetric matrix A with zero diagonal, the Euclidean distance matrix completion problem (EDMCP) is to determine the unspecified entries to make A an EDM. We survey three different approaches to solving the EDMCP. We advocate expressing the EDMCP as a non-convex optimization problem using the particle positions as variables and solving using a modified Newton or quasi-Newton method. To avoid local minima, we develop a randomized initialization technique that involves a nonlinear version of the classical multidimensional scaling, and a dimensionality relaxation scheme with optional weighting. Our experiments show that the method easily solves the artificial problems introduced by Moré and Wu. It also solves the 12 much more difficult protein fragment problems introduced by Hendrickson, and the six larger protein problems introduced by Grooms, Lewis and Trosset. 
+Keywords
+distance geometry, Euclidean distance matrices, global optimization, dimensionality relaxation, modified Cholesky factorizations, molecular conformation AMS Subject Classifications : 49M15, 65K05, 90C26, 92E10 

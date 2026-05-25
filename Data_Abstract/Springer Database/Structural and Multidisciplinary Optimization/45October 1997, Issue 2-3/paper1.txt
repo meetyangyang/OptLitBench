@@ -1,0 +1,6 @@
+Optimal discrete sizing of truss structures subject to buckling constraints
+A. A. Groenwold;N. Stander;
+Abstract
+The selective dynamic rounding (SDR) algorithm previously developed by the authors, and based on a dual step rounding approach, is used for the optimal sizing design of truss structures subject to linear buckling constraints. The algorithm begins with a continuous optimum followed by a progressive freezing of individual variables while solving the remaining continuous problems. The allowable member stresses are predicted by the linear regression of the tabular section properties, while the exact allowable compressive stresses are back-substituted for those variables fixed on discrete values in each intermediate mixed-discrete nonlinear problem. It is shown that a continuous design based on the regression analysis of section effectiveness vs. area is effective as a starting point for the dual step discrete optimization phase. A range of examples is used to illustrate that with “conservative” regression, discrete designs can be achieved which are significantly lighter than those in which the variables have been rounded up.
+Keywords
+Regression Analysis  Compressive Stress  Nonlinear Problem  Discrete Optimization  Continuous Problem  

@@ -1,0 +1,6 @@
+On the integration of row and column uncertainty in robust linear programming
+A. L. Soyster;F. H. Murphy;
+Abstract
+The usual formulation of a linear program is max \(c\cdot x{:}Ax \le b, x \ge 0\). The core part of this linear program is the \(A\) matrix since the columns define the variables and the rows define the constraints. The \(A\) matrix is constructed by populating columns or populating rows, or some of both, depending on the nature of the data and how it is collected. This paper addresses the construction of the \(A\) matrix and solution procedures when there are separate data sources for the columns and for the rows and, moreover, the data is uncertain. The \(A\) matrices which are “realizable” are only those which are considered possible from both sources. These realizable matrices then form an uncertainty set \(U\) for a robust linear program. We show how to formulate and solve linear programs which provide lower and upper bounds to the robust linear program defined by \(U\). We also show how to use ordinary linear programming duality to share and divide the “credit/responsibility” of the optimal value of the robust linear program between the two alternative data sources.
+Keywords
+Linear programming  Robust  Duality  Alternative data sources  Row and column uncertainty  

@@ -1,0 +1,6 @@
+Global optimization of bounded factorable functions with discontinuities
+Achim Wechsung;Paul I. Barton;
+Abstract
+A deterministic global optimization method is developed for a class of discontinuous functions. McCormick’s method to obtain relaxations of nonconvex functions is extended to discontinuous factorable functions by representing a discontinuity with a step function. The properties of the relaxations are analyzed in detail; in particular, convergence of the relaxations to the function is established given some assumptions on the bounds derived from interval arithmetic. The obtained convex relaxations are used in a branch-and-bound scheme to formulate lower bounding problems. Furthermore, convergence of the branch-and-bound algorithm for discontinuous functions is analyzed and assumptions are derived to guarantee convergence. A key advantage of the proposed method over reformulating the discontinuous problem as a MINLP or MPEC is avoiding the increase in problem size that slows global optimization. Several numerical examples for the global optimization of functions with discontinuities are presented, including ones taken from process design and equipment sizing as well as discrete-time hybrid systems.
+Keywords
+Global optimization  Discontinuous functions  Convex relaxations  McCormick relaxations  Nonconvex optimization  90C26  49M20  65K05  

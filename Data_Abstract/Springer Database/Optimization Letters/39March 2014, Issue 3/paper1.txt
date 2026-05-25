@@ -1,0 +1,6 @@
+An algorithm to solve the proportional network flow problem
+David R. Morrison;Jason J. Sauppe;Sheldon H. Jacobson;
+Abstract
+The proportional network flow problem is a generalization of the equal flow problem on a generalized network in which the flow on arcs in given sets must all be proportional. This problem appears in several natural contexts, including processing networks and manufacturing networks. This paper describes a transformation on the underlying network that reduces the problem to the equal flow problem; this transformation is used to show that algorithms that solve the equal flow problem can be directly applied to the proportional network flow problem as well, with no increase in asymptotic running time. Additionally, computational results are presented for the proportional network flow problem demonstrating equivalent performance to the same algorithm for the equal flow problem.
+Keywords
+Generalized network flows  Equal flow sets  Proportional flow sets  Side constraints  Optimization  Linear programming  

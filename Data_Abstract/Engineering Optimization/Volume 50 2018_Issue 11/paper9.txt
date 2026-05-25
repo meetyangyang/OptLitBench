@@ -1,0 +1,6 @@
+Mixed-integer linear programming method for multi-degree and multi-hoist cyclic scheduling with time windows
+Yong-nian Mao;Qiu-hua Tang;Zi-xiang Li;Li-ping Zhang;
+Abstract
+Multi-degree cyclic hoist scheduling and multi-hoist cyclic scheduling are both capable of improving the throughput in an automatic electroplating line. However, previous research on integrated multi-degree and multi-hoist cyclic scheduling is rather limited. This article develops an optimal mixed-integer linear programming model for the integrated multi-degree and multi-hoist cyclic scheduling with time window constraints. This model permits overlap on hoist coverage ranges, and it proposes new formulations to avoid hoist collisions, by which time window constraints and tank capacity constraints are also formulated. A set of available benchmark instances and newly generated instances are solved using the CPLEX solver to test the performance of the proposed method. Computational results demonstrate that the proposed method outperforms the zone partition heuristic without overlapping, and the throughputs are improved by a significant margin using the proposed method, especially for large-size instances.
+Keywords
+Multi-degree cyclic scheduling, multi-hoist scheduling, mixed-integer linear programming, time windows 

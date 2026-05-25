@@ -1,0 +1,6 @@
+A Conjugate Duality Scheme Generating a New Class of Differentiable Duals
+Aharon  Ben-Tal and Marc  Teboulle;
+Abstract
+We construct a mechanism to generate a large class of duality schemes for (not necessarily differentiable) convex optimization problems, for which the dual problem is continuously differentiable. We use the conjugate duality framework of Rockafellar; the original primal problem is embedded in a family of perturbed problems. The perturbation function is constructed in terms of two perturbation vectors and a single-variable function q. The differentiability is a consequence of the dual objective function’s being a kind of “proximal regularization,” but one which is expressed in terms of a nonquadratic regularizing term associated with the function q.
+Keywords
+conjugate duality, convex optimization, augmented Lagrangians, entropic proximal mappings, 90C25, 90C30, 

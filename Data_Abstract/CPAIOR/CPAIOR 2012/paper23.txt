@@ -1,0 +1,4 @@
+Guiding Combinatorial Optimization with UCT
+Ashish Sabharwal;Horst Samulowitz;Chandra Reddy;
+Abstract
+We propose a new approach for search tree exploration in the context of combinatorial optimization, specifically Mixed Integer Programming (MIP), that is based on UCT, an algorithm for the multi-armed bandit problem designed for balancing exploration and exploitation in an online fashion. UCT has recently been highly successful in game tree search. We discuss the differences that arise when UCT is applied to search trees as opposed to bandits or game trees, and provide initial results demonstrating that the performance of even a highly optimized state-of-the-art MIP solver such as CPLEX can be boosted using UCT’s guidance on a range of problem instances.

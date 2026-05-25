@@ -1,0 +1,4 @@
+A Search-Infer-and-Relax Framework for Integrating Solution Methods
+J. N. Hooker;
+Abstract
+We present an algorithmic framework for integrating solution methods that is based on search, inference, and relaxation and their interactions. We show that the following are special cases: branch and cut, CP domain splitting with propagation, popular global optimization methods, DPL methods for SAT with conflict clauses, Benders decomposition and other nogood-based methods, partial-order dynamic backtracking, various local search metaheuristics, and GRASPs (greedy randomized adaptive search procedures). The framework allows elements of different solution methods to be combined at will, resulting in a variety of integrated methods. These include continuous relaxations for global constraints, the linking of integer and constraint programming via Benders decomposition, constraint propagation in global optimization, relaxation bounds in local search and GRASPs, and many others.

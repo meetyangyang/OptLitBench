@@ -1,0 +1,6 @@
+THE USE OF MODULAR PROGRAMMING IN OPTIMIZING COMBINED SYSTEMS
+ J. N.   SIDDALL ; CHEN   ZEHONG ;
+Abstract
+ A procedure is proposed for optimizing devices or systems by “plugging in” existing library software modules that have been developed for optimization of components. The component modules are nested into a primary subsystem, by interfacing them through shared parameters or adjoint specifications. For every primary optimization, the secondaries are given a full optimization run, the results of which are fed into the primary and used for its current iteration. The availability of large disk storage computers in modern computer systems makes modular programming possible. The procedure will provide an automatic best trade-off solution of the overall system. Three examples are presented. 
+Keywords
+Mechanical design, computation, modular programming, hierarchical subsystems 

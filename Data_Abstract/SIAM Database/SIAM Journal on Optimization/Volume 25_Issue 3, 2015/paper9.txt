@@ -1,0 +1,6 @@
+Exact Duality in Semidefinite Programming Based on Elementary Reformulations
+Minghui  Liu and Gábor  Pataki;
+Abstract
+In semidefinite programming (SDP), unlike in linear programming, Farkas' lemma may fail to prove infeasibility. Here we obtain an exact, short certificate of infeasibility in SDP by an elementary approach: we reformulate any equality constrained semidefinite system using only elementary row operations, and rotations. When a system is infeasible, the reformulated system is trivially infeasible. When a system is feasible, the reformulated system has strong duality with its Lagrange dual for all objective functions. As a corollary, we obtain algorithms to generate the constraints of all infeasible SDPs and the constraints of all feasible SDPs with a fixed rank maximal solution. Our elementary reformulations can be constructed either by a direct method, or by adapting the Waki-Muramatsu facial reduction algorithm. In different language, the reformulations provide a standard form of spectrahedra, to easily verify either their emptiness, or a tight upper bound on the rank of feasible solutions.
+Keywords
+semidefinite programming, duality, elementary reformulations, infeasibility certificates, strong duality, spectrahedra, 90C46, 49N15, 52A40, 

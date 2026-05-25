@@ -1,0 +1,6 @@
+A new strongly polynomial dual network simplex algorithm
+Ronald D. Armstrong;Zhiying Jin;
+Abstract
+This paper presents a new dual network simplex algorithm for the minimum cost network flow problem. The algorithm works directly on the original capacitated network and runs in O(mn(m +n logn) logn) time for the network withn nodes andm arcs. This complexity is better than the complexity of Orlin, Plotkin and Tardos’ (1993) dual network simplex algorithm by a factor ofm/n.
+Keywords
+Dual simplex algorithm  Minimum cost network flow problem  Network simplex algorithm  

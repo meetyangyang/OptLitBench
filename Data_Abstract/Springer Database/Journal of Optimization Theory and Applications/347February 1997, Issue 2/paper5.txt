@@ -1,0 +1,6 @@
+Self-Tuning Norm-Relaxed Method of Feasible Directions
+J. Korycki;M. Kostreva;
+Abstract
+This paper presents three updating techniques for the scaling matrix or the scalar weight used in the norm-relaxed method of feasible directions, a generalization of the popular Pironneau–Polak algorithm. These techniques include variable metric updates and tuning of a scalar weight in a way characteristic of trust-region methods, and also techniques based on the idea of multiple directions, where the update decision is made by comparing results of searching along several directions determined by distinct values of weights. Numerical results obtained on a standard test set are provided. These results indicate that the updating techniques allow considerable computational savings when compared with the original Pironneau-Polak method.
+Keywords
+Nonlinear programming  methods of feasible directions  numerical methods  computational experiments  

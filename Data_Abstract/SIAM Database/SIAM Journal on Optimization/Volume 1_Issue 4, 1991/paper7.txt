@@ -1,0 +1,6 @@
+A General-Purpose Parallel Algorithm for Unconstrained Optimization
+Stephen G.  Nash and Ariela  Sofer;
+Abstract
+This paper describes a general-purpose algorithm for unconstrained optimization that is suitable for a parallel computer. It is designed to be as easy to use as traditional algorithms for this problem, requiring only that a (scalar) subroutine be provided to evaluate the objective function and its gradient vector of first derivatives. The algorithm used is a block truncated-Newton method. Truncated-Newton methods are a class of methods that compromise on Newton’s method so that large problems can be solved. Enhancements to the basic method suitable for a parallel computer are described. These include a revised data storage scheme, new preconditioning and initialization strategies to accelerate the method, a parallel line search, revised stopping rules for the inner algorithm, and a new “nonlinearity” test to determine the adequacy of the quadratic model. Numerical results are presented to illustrate the performance of the method, and comparisons are made with other scalar and parallel algorithms.
+Keywords
+nonlinear optimization, truncated Newton method, parallel computing, conjugate-gradient method, 90C06, 65Y05, 

@@ -1,0 +1,6 @@
+Decomposition and Dynamic Cut Generation in Integer Linear Programming
+Ted K. Ralphs;Matthew V. Galati;
+Abstract
+Decomposition algorithms such as Lagrangian relaxation and Dantzig-Wolfe decomposition are well-known methods that can be used to generate bounds for mixed-integer linear programming problems. Traditionally, these methods have been viewed as distinct from polyhedral methods, in which bounds are obtained by dynamically generating valid inequalities to strengthen an initial linear programming relaxation. Recently, a number of authors have proposed methods for integrating dynamic cut generation with various decomposition methods to yield further improvement in computed bounds. In this paper, we describe a framework within which most of these methods can be viewed from a common theoretical perspective. We then discuss how the framework can be extended to obtain a decomposition-based separation technique we call decompose and cut. As a by-product, we describe how these methods can take advantage of the fact that solutions with known structure, such as those to a given relaxation, can frequently be separated much more easily than arbitrary real vectors.
+Keywords
+Integer Programming  Dantzig-Wolfe Decomposition  Lagrangian Relaxation  Branch and Cut  Branch and Price  Decomposition Algorithms  

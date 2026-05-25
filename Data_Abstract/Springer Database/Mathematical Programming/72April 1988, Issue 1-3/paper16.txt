@@ -1,0 +1,6 @@
+An algorithm for maximizing entropy subject to simple bounds
+M. J. D. Powell;
+Abstract
+An unusual form of the maximum entropy problem is considered, that includes simple bound constraints on the Fourier coefficients of the required image, as well as nonnegativity conditions on the image intensities. The algorithm avoids mixing these constraints by introducing a parameter into the objective function that is adjusted by an outer iteration. For each parameter value an inner iteration solves a large optimization calculation, whose constraints are just the simple bounds, by a combination of the conjugate gradient procedure and an active set method. An important feature is the ability to make many changes to the active set at once. The outer iteration includes a test for inconsistency of all the given constraints. The algorithm is described, a proof of convergence is given, and there are some second-hand remarks on numerical results.
+Keywords
+Active sets  bound constraints  conjugate gradients  maximum entropy  nonlinear optimization  

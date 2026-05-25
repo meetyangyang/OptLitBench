@@ -1,0 +1,6 @@
+An outer approximation based branch and cut algorithm for convex 0-1 MINLP problems
+ Berc   Rustem ; Ioannis   Akrotirianakis ; Istvan   Maros ;
+Abstract
+ A branch and cut algorithm is developed for solving convex 0-1 Mixed Integer Nonlinear Programming (MINLP) problems. The algorithm integrates Branch and Bound, Outer Approximation and Gomory Cutting Planes. Only the initial Mixed Integer Linear Programming (MILP) master problem is considered. At integer solutions Nonlinear Programming (NLP) problems are solved, using a primal-dual interior point algorithm. The objective and constraints are linearized at the optimum solution of these NLP problems and the linearizations are added to all the unsolved nodes of the enumeration tree. Also, Gomory cutting planes, which are valid throughout the tree, are generated at selected nodes. These cuts help the algorithm to locate integer solutions quickly and consequently improve the linear approximation of the objective and constraints held at the unsolved nodes of the tree. Numerical results show that the addition of Gomory cuts can reduce the number of nodes in the enumeration tree.  
+Keywords
+Integer Programming, Nonlinear Programming, Outer Approximation, Branch and Cut, Gomory Cuts 

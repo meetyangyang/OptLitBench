@@ -1,0 +1,6 @@
+Parallel alternating direction multiplier decomposition of convex programs
+J. Eckstein;
+Abstract
+This paper describes two specializations of the alternating direction method of multipliers: the alternating step method and the epigraphic projection method. The alternating step method applies to monotropic programs, while the epigraphic method applies to general block-separable convex programs, including monotropic programs as a special case. The epigraphic method resembles an earlier parallel method due to Spingarn, but solves a larger number of simpler subproblems at each iteration. This paper gives convergence results for both the alternating step and epigraphic methods, and compares their performance on random dense separable quadratic programs.
+Keywords
+Parallel algorithms  decomposition  alternating direction methods  convex programming  

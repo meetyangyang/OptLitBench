@@ -1,0 +1,6 @@
+A New Active Set Algorithm for Box Constrained Optimization
+William W.   Hager and Hongchao   Zhang;
+Abstract
+An active set algorithm (ASA) for box constrained optimization is developed. The algorithm consists of a nonmonotone gradient projection step, an unconstrained optimization step, and a set of rules for branching between the two steps. Global convergence to a stationary point is established. For a nondegenerate stationary point, the algorithm eventually reduces to unconstrained optimization without restarts. Similarly, for a degenerate stationary point, where the strong second‐order sufficient optimality condition holds, the algorithm eventually reduces to unconstrained optimization without restarts. A specific implementation of the ASA is given which exploits the recently developed cyclic Barzilai–Borwein (CBB) algorithm for the gradient projection step and the recently developed conjugate gradient algorithm CG_DESCENT for unconstrained optimization. Numerical experiments are presented using box constrained problems in the CUTEr and MINPACK‐2 test problem libraries.
+Keywords
+nonmonotone gradient projection, box constrained optimization, active set algorithm, ASA, cyclic BB method, CBB, conjugate gradient method, CG_DESCENT, degenerate optimization, 90C06, 90C26, 65Y20, 

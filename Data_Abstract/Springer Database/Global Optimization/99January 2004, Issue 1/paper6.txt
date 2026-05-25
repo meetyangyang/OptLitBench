@@ -1,0 +1,6 @@
+Solving Variational Inequality Problems with Linear Constraints by a Proximal Decomposition Algorithm
+Deren Han;Hong K. Lo;
+Abstract
+The alternating direction method solves large scale variational inequality problems with linear constraints via solving a series of small scale variational inequality problems with simple constraints. The algorithm is attractive if the subproblems can be solved efficiently and exactly. However, the subproblem is itself variational inequality problem, which is structurally also difficult to solve. In this paper, we develop a new decomposition algorithm, which, at each iteration, just solves a system of well-conditioned linear equations and performs a line search. We allow to solve the subproblem approximately and the accuracy criterion is the constructive one developed recently by Solodov and Svaiter. Under mild assumptions on the problem's data, the algorithm is proved to converge globally. Some preliminary computational results are also reported to illustrate the efficiency of the algorithm.
+Keywords
+Decomposition algorithms  Global convergence  Inexact method  Monotone mappings  Variational inequality problems  

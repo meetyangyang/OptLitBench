@@ -1,0 +1,6 @@
+Solution Bases of Multiterminal Cut Problems
+Refael Hassin;
+Abstract
+Gomory and Hu proved that the  maxflow problems in an undirected network have at most n − 1 distinct solution values. We generalize their theorems in several ways. An interesting special case is that the O(n4) 2-commodity maxflow problems on an undirected network have at most  distinct solution values. These results follow from general theorems on the number of distinct solution values to sets of optimization problems. We then show how the solutions can be compactly represented by a basis of the solution matrix A, where aij = 1 if solution j is feasible for problem i, and aij = 0 otherwise. For the special case of the 2-cut problem we also show how to construct such a representation efficiently.
+Keywords
+networks maxflow problem 

@@ -1,0 +1,6 @@
+A leapfrog semi-smooth Newton-multigrid method for semilinear parabolic optimal control problems
+Jun Liu;Mingqing Xiao;
+Abstract
+A new semi-smooth Newton multigrid algorithm is proposed for solving the discretized first order necessary optimality systems that characterizing the optimal solutions of a class of two dimensional semi-linear parabolic PDE optimal control problems with control constraints. A new computational scheme (leapfrog scheme) in time associated with the standard five-point stencil in space is established to achieve the second-order finite difference discretization. The convergence (or unconditional stability) of the proposed scheme is proved when assuming time-periodic solutions. Moreover, the derived well-structured discretized Jacobian matrices greatly facilitate the development of effective smoother in our multigrid algorithm. Numerical simulations are provided to illustrate the effectiveness of the proposed method, which validates the second-order accuracy in solution approximations and the optimal linear complexity of computing time.
+Keywords
+Parabolic PDE control  Leapfrog scheme  Multigrid method  

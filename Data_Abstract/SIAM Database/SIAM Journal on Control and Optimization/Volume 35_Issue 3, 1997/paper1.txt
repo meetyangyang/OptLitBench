@@ -1,0 +1,6 @@
+Asymptotically Efficient Adaptive Choice of Control Laws inControlled Markov Chains
+Todd L.  Graves and Tze Leung  Lai;
+Abstract
+We consider a controlled Markov chain on a general state space whose transition probabilities are parameterized by an unknown parameter belonging to a compact metric space. There is a one-step reward associated with each pair of control and the following state of the process. Given a finite set of stationary control laws, under each of which the Markov chain is uniformly recurrent, an optimal control law is this set is one that maximizes the long-run average reward. In ignorance of the parameter value, we construct an adaptive control rule which uses the optimal control law(s) at a relative frequency of 1 - O(n-1 log n) and show that this relative frequency gives an asymptotically optimal balance between the control objective and the amount of information needed to learn about the unknown parameter. The basic idea underlying this construction is to introduce suitable "uncertainty adjustments" via sequential testing theory into the certainty-equivalence rule, thus resolving the apparent dilemma between control and information.
+Keywords
+adaptive control of Markov chains, martingales, likelihood ratios, stationary distributions, certaintyequivalence, sequential testing, multiarmed bandits, 93C40, 93E20, 93E35, 60J20, 62L10, 

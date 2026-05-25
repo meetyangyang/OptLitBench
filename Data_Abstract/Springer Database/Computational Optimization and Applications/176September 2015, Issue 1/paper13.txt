@@ -1,0 +1,6 @@
+Adaptive discontinuous Galerkin methods for state constrained optimal control problems governed by convection diffusion equations
+Hamdullah Yücel;Peter Benner;
+Abstract
+We study a posteriori error estimates for the numerical approximations of state constrained optimal control problems governed by convection diffusion equations, regularized by Moreau–Yosida and Lavrentiev-based techniques. The upwind Symmetric Interior Penalty Galerkin (SIPG) method is used as a discontinuous Galerkin (DG) discretization method. We derive different residual-based error indicators for each regularization technique due to the regularity issues. An adaptive mesh refinement indicated by a posteriori error estimates is applied. Numerical examples are presented to illustrate the effectiveness of the adaptivity for both regularization techniques.
+Keywords
+Optimal control problem  State constraints  Discontinuous Galerkin methods  Convection diffusion equations   A posteriori error estimates  

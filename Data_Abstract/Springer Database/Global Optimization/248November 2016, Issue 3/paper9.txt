@@ -1,0 +1,6 @@
+A primal–dual prediction–correction algorithm for saddle point optimization
+Hongjin He;Jitamitra Desai;Kai Wang;
+Abstract
+In this paper, we introduce a new primal–dual prediction–correction algorithm for solving a saddle point optimization problem, which serves as a bridge between the algorithms proposed in Cai et al. (J Glob Optim 57:1419–1428, 2013) and He and Yuan (SIAM J Imaging Sci 5:119–149, 2012). An interesting byproduct of the proposed method is that we obtain an easily implementable projection-based primal–dual algorithm, when the primal and dual variables belong to simple convex sets. Moreover, we establish the worst-case \({\mathcal {O}}(1/t)\) convergence rate result in an ergodic sense, where t represents the number of iterations.
+Keywords
+Saddle point problem  Primal–dual algorithm  Prediction–correction algorithm  Projection method  Convergence rate  

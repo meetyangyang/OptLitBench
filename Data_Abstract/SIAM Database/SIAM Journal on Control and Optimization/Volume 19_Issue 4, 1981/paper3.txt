@@ -1,0 +1,5 @@
+Reflected Brownian Motion in the “Bang-Bang” Control of Brownian Drift
+Steven E.  Shreve;
+Abstract
+Let $w(t)$ be a standard one-dimensional Brownian motion, and define the Brownian motion $z_x (t) = \int_0^t { - \operatorname{sgn} (w(s) + x)dw(s)} $. It is shown that a reflecting Brownian motion related to $\{ z_x (s),s \geqq 0\} $ coincides with $| {w(t) + x} |$. A related computation yields the joint distribution of $w(t)$ and its local time. These results are applied to the control problem of minimization of $Ey^2 (T)$ subject to \[y(0) = x,\quad dy(t) = udt + dw(t).\] The optimal control law is known to be $u =  - \operatorname{sgn} y(t)$. We compute the optimal transition density and value function.
+Keywords

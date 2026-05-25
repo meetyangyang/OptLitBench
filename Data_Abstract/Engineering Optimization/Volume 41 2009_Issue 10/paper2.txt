@@ -1,0 +1,6 @@
+A multi-objective metamodel-assisted memetic algorithm with strength-based local refinement
+ Chariklia   A.   Georgopoulou ; Kyriakos   C.   Giannakoglou ;
+Abstract
+ Metamodel-assisted evolutionary algorithms are low-cost optimization methods for CPU-demanding problems. Memetic algorithms combine global and local search methods, aiming at improving the quality of promising solutions. This article proposes a metamodel-assisted memetic algorithm which combines and extends the capabilities of the aforementioned techniques. Herein, metamodels undertake a dual role: they perform a low-cost pre-evaluation of population members during the global search and the gradient-based refinement of promising solutions. This reduces significantly the number of calls to the evaluation tool and overcomes the need for computing the objective function gradients. In multi-objective problems, the selection of individuals for refinement is based on domination and distance criteria. During refinement, a scalar strength function is maximized and this proves to be beneficial in constrained optimization. The proposed metamodel-assisted memetic algorithm employs principles of Lamarckian learning and is demonstrated on mathematical and engineering applications. 
+Keywords
+metamodel-assisted memetic algorithms, fitness function, strength, multi-objective optimization 

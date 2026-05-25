@@ -1,0 +1,6 @@
+A cutting plane algorithm for convex programming that uses analytic centers
+David S. Atkinson;Pravin M. Vaidya;
+Abstract
+Anoracle for a convex setS ⊂ ℝ n  accepts as input any pointz in ℝ n , and ifz ∈S, then it returns ‘yes’, while ifz ∉S, then it returns ‘no’ along with a separating hyperplane. We give a new algorithm that finds a feasible point inS in cases where an oracle is available. Our algorithm uses the analytic center of a polytope as test point, and successively modifies the polytope with the separating hyperplanes returned by the oracle. The key to establishing convergence is that hyperplanes judged to be ‘unimportant’ are pruned from the polytope. If a ball of radius 2−L is contained inS, andS is contained in a cube of side 2L+1, then we can show our algorithm converges after O(nL2) iterations and performs a total of O(n4L3+TnL2) arithmetic operations, whereT is the number of arithmetic operations required for a call to the oracle. The bound is independent of the number of hyperplanes generated in the algorithm. An important application in which an oracle is available is minimizing a convex function overS.
+Keywords
+Mathematical programming  Cutting planes  Analytic center  

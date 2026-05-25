@@ -1,0 +1,6 @@
+Analysis of a Symmetric Rank-One Trust Region Method
+Richard H.  Byrd, Humaid Fayez  Khalfan, and Robert B.  Schnabel;
+Abstract
+Several recent computational studies have shown that the symmetric rank-one (SR1) update is a very competitive quasi-Newton update in optimization algorithms. This paper gives a new analysis of a trust region SR1 method for unconstrained optimization and shows that the method has an $n + 1$ step q-superlinear rate of convergence. The analysis makes neither of the assumptions of uniform linear independence of the iterates nor positive definiteness of the Hessian approximations that have been made in other recent analyses of SR1 methods. The trust region method that is analyzed is fairly standard, except that it includes the feature that the Hessian approximation is updated after all steps, including rejected steps. We also present computational results that show that this feature, safeguarded in a way that is consistent with the convergence analysis, does not harm the efficiency of the SR1 trust region method.
+Keywords
+quasi-Newton method, symmetric rank-one update, superlinear convergence, 65, 49, 

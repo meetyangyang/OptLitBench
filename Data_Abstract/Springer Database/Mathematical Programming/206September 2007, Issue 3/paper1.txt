@@ -1,0 +1,6 @@
+Active-constraint variable ordering for faster feasibility of mixed integer linear programs
+Jagat Patel;John W. Chinneck;
+Abstract
+The selection of the branching variable can greatly affect the speed of the branch and bound solution of a mixed-integer or integer linear program. Traditional approaches to branching variable selection rely on estimating the effect of the candidate variables on the objective function. We present a new approach that relies on estimating the impact of the candidate variables on the active constraints in the current LP relaxation. We apply this method to the problem of finding the first feasible solution as quickly as possible. Empirical experiments demonstrate a significant improvement compared to a state-of-the art commercial MIP solver.
+Keywords
+Child Node  Mixed Integer Linear Program  Candidate Variable  Integer Variable  Active Constraint  

@@ -1,0 +1,6 @@
+Robust inversion, dimensionality reduction, and randomized sampling
+Aleksandr Aravkin;Michael P. Friedlander;Felix J. Herrmann;Tristan van Leeuwen;
+Abstract
+We consider a class of inverse problems in which the forward model is the solution operator to linear ODEs or PDEs. This class admits several dimensionality-reduction techniques based on data averaging or sampling, which are especially useful for large-scale problems. We survey these approaches and their connection to stochastic optimization. The data-averaging approach is only viable, however, for a least-squares misfit, which is sensitive to outliers in the data and artifacts unexplained by the forward model. This motivates us to propose a robust formulation based on the Student’s t-distribution of the error. We demonstrate how the corresponding penalty function, together with the sampling approach, can obtain good results for a large-scale seismic inverse problem with 50 % corrupted data.
+Keywords
+Inverse problems  Seismic inversion  Stochastic optimization  Robust estimation  90C06  49N45  

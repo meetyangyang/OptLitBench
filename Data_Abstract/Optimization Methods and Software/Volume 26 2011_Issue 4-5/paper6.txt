@@ -1,0 +1,6 @@
+Implementation of sparse forward mode automatic differentiation with application to electromagnetic shape optimization
+ Jukka   I.   Toivanen ; Raino A. E.   Mäkinen ;
+Abstract
+ In this paper, we present the details of a simple lightweight implementation of the so-called sparse forward mode automatic differentiation (AD) in the C++programming language. Our implementation and the well-known ADOL-C tool (which utilizes taping and compression techniques) are used to compute Jacobian matrices of two nonlinear systems of equations from the MINPACK-2 test problem collection. Timings of the computations are presented and discussed. Moreover, we perform the shape sensitivity analysis of a time-harmonic Maxwell equation solver using our implementation and the tapeless mode of ADOL-C, which implements the dense forward mode AD. It is shown that the use of the sparse forward mode can save computation time even though the total number of independent variables in this example is quite small. Finally, numerical solution of an electromagnetic shape optimization problem is presented. 
+Keywords
+automatic differentiation, shape sensitivity analysis, shape optimization AMS Subject Classification : 65D25, 65Y20, 49Q10 

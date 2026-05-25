@@ -1,0 +1,6 @@
+Concavity cuts for disjoint bilinear programming
+Stéphane Alarie;Charles Audet;Brigitte Jaumard;Gilles Savard;
+Abstract
+We pursue the study of concavity cuts for the disjoint bilinear programming problem. This optimization problem has two equivalent symmetric linear maxmin reformulations, leading to two sets of concavity cuts. We first examine the depth of these cuts by considering the assumptions on the boundedness of the feasible regions of both maxmin and bilinear formulations. We next propose a branch and bound algorithm which make use of concavity cuts. We also present a procedure that eliminates degenerate solutions. Extensive computational experiences are reported. Sparse problems with up to 500 variables in each disjoint sets and 100 constraints, and dense problems with up to 60 variables again in each sets and 60 constraints are solved in reasonable computing times.
+Keywords
+Key words: concavity cuts   disjoint bilinear programming   linear maxmin programming   branch and bound algorithm   global optimization  

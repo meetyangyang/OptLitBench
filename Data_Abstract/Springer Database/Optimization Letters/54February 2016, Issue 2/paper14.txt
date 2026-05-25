@@ -1,0 +1,6 @@
+Inscribed ball and enclosing box methods for the convex maximization problem
+Guillaume Guérard;Ider Tseveendorj;
+Abstract
+Many important classes of decision models give rise to the problem of finding a global maximum of a convex function over a convex set. This problem is known also as concave minimization, concave programming or convex maximization. Such problems can have many local maxima, therefore finding the global maximum is a computationally difficult problem, since standard nonlinear programming procedures fail. In this article, we provide a very simple and practical approach to find the global solution of quadratic convex maximization problems over a polytope. A convex function achieves its global maximum at extreme points of the feasible domain. Since an inscribed ball does not contain any extreme points of the domain, we use the largest inscribed ball for an inner approximation while a minimal enclosing box is exploited for an outer approximation of the domain. The approach is based on the use of these approximations along with the standard local search algorithm and cutting plane techniques.
+Keywords
+Local search algorithm  Non-convex optimization   Convex maximization  Inscribed ball  

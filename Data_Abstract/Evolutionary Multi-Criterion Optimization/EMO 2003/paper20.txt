@@ -1,0 +1,4 @@
+MOPED: A Multi-objective Parzen-Based Estimation of Distribution Algorithm for Continuous Problems
+Mario Costa;Edmondo Minisci;
+Abstract
+An evolutionary multi-objective optimization tool based on an estimation of distribution algorithm is proposed. The algorithm uses the ranking method of non-dominated sorting genetic algorithm-II and the Parzen estimator to approximate the probability density of solutions lying on the Pareto front. The proposed algorithm has been applied to different types of test case problems and results show good performance of the overall optimization procedure in terms of the number of function evaluations. An alternative spreading technique that uses the Parzen estimator in the objective function space is proposed as well. When this technique is used, achieved results appear to be qualitatively equivalent to those previously obtained by adopting the crowding distance described in non-dominated sorting genetic algorithm-II.

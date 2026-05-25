@@ -1,0 +1,6 @@
+Parallel algorithms for continuous competitive location problems
+ Juana   L.   Redondo ; José   Fernández ; Inmaculada   García ; Pilar   M.   Ortigosa ;
+Abstract
+ A continuous location problem in which a firm wants to set up a single new facility in a competitive environment is considered. Other facilities offering the same product or service already exist in the area. Both the location and the quality of the new facility are to be found so as to maximize the profit obtained by the firm. This is a hard-to-solve global optimization problem. An evolutionary algorithm called Universal Evolutionary Global Optimizer (UEGO) seems to be the best procedure to cope with it, but the algorithm needs several hours of CPU time for solving large instances. In this paper, four parallelizations of UEGO are presented. They all are coarse-grain methods which differ in their migratory policies. A computational study is carried out to compare the performance of the parallel algorithms. The results show that one of the parallelizations always gives the best objective function value and has an almost linear speed-up for up to 16 processing elements for large instances. 
+Keywords
+parallel algorithm, coarse-grain method, migratory policy, evolutionary algorithm, continuous location, computational study 

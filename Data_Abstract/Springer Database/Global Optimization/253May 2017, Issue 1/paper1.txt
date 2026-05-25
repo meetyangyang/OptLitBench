@@ -1,0 +1,6 @@
+A branch and bound algorithm for quantified quadratic programming
+F. Domes;A. Goldsztejn;
+Abstract
+The aim of this paper is to find the global solutions of uncertain optimization problems having a quadratic objective function and quadratic inequality constraints. The bounded epistemic uncertainties in the constraint coefficients are represented using either universal or existential quantified parameters and interval parameter domains. This approach allows to model non-controlled uncertainties by using universally quantified parameters and controlled uncertainties by using existentially quantified ones. While existentially quantified parameters could be equivalently considered as additional variables, keeping them as parameters allows maintaining the quadratic problem structure, which is essential for the proposed algorithm. The branch and bound algorithm presented in the paper handles both universally and existentially quantified parameters in a homogeneous way, without branching on their domains, and uses some dedicated numerical constraint programming techniques for finding a robust, global solution. Several examples clarify the theoretical parts and the tests demonstrate the usefulness of the proposed method.
+Keywords
+Branch and bound  Robust optimization  Quadratic problem  First order conditions  

@@ -1,0 +1,6 @@
+A heuristic for constrained T-shape cutting patterns of circular items
+ Yaodong   Cui ; Baixiong   Huang ;
+Abstract
+ The cutting and stamping process is often used to divide metal plate into circular items. It contains the cutting and stamping stages. A guillotine machine divides the plate into strips at the cutting stage. Each strip contains items of the same type. A press stamps out the items from the strips at the stamping stage. T-shape patterns are often used at the cutting stage. A cut divides a T-shape pattern into an X-segment of horizontal strips and a Y-segment of vertical strips. The position of the dividing cut should be determined such that the pattern value is maximized. A heuristic for constrained T-shape patterns is presented. For each position of the dividing cut, it generates an optimal strip layout on the Y-segment using all items, and generates another optimal strip layout on the X-segment using the remaining items. Computational results indicate that the algorithm is efficient in improving material utilization. 
+Keywords
+cutting stock, two-dimensional cutting, circular items, cutting and stamping 

@@ -1,0 +1,6 @@
+An adaptive radial basis algorithm (ARBF) for expensive black-box global optimization
+Kenneth Holmström;
+Abstract
+Powerful response surface methods based on kriging and radial basis function (RBF) interpolation have been developed for expensive, i.e. computationally costly, global nonconvex optimization. We have implemented some of these methods in the solvers rbfSolve and EGO in the TOMLAB Optimization Environment (http://www.tomopt.com/tomlab/). In this paper we study algorithms based on RBF interpolation. The practical performance of the RBF algorithm is sensitive to the initial experimental design, and to the static choice of target values. A new adaptive radial basis interpolation (ARBF) algorithm, suitable for parallel implementation, is presented. The algorithm is described in detail and its efficiency is analyzed on the standard test problem set of Dixon–Szegö. Results show that it outperforms the published results of rbfSolve and several other solvers.
+Keywords
+Global optimization  Expensive function  CPU-intensive  Costly function  Mixed-integer  Nonconvex  Software  Black-box  Derivative-free  Response surface  Radial basis functions  Surrogate model  Response surface  Splines  

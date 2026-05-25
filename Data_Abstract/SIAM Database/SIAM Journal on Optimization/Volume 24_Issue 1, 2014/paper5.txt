@@ -1,0 +1,6 @@
+The Length of the Primal-Dual Path in Moreau--Yosida-Based Path-Following Methods for State Constrained Optimal Control
+Michael  Hintermüller, Anton  Schiela, and Winnifried  Wollner;
+Abstract
+A priori estimates of the length of the primal-dual path resulting from a Moreau--Yosida approximation of the feasible set for state constrained optimal control problems are derived. These bounds depend on the regularity of the state and the dimension of the problem. Numerical results indicate that the bounds are indeed sharp and are typically attained in cases where the active set consists of isolated active points. Further conditions on the multiplier approximation are identified which guarantee higher convergence rates for the feasibility violation due to the Moreau--Yosida approximation process. Numerical experiments show again that the results are sharp and accurately predict the convergence behavior.
+Keywords
+Moreau--Yosida regularization, PDE constrained optimization, path-following, pointwise state constraints, regularization error, 49M30, 49J52, 49J20, 

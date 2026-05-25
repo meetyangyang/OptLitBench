@@ -1,0 +1,6 @@
+Separation of Partition Inequalities
+Mourad Baïou;Francisco Barahona;Ali Ridha Mahjoub;
+Abstract
+Given a graph G = (V, E) with nonnegative weights x(e) for each edge e, a partition inequality is of the form x(δ(S1,…,Sp)) ≥ ap + b. Here δ(S1,…,Sp) denotes the multicut defined by a partition S1,…,Sp of V. Partition inequalities arise as valid inequalities for optimization problems related to k-connectivity. We give a polynomial algorithm for the associated separation problem. This is based on an algorithm for finding the minimum of x(δ(S1,…,Sp)) − p that reduces to minimizing a symmetric submodular function. This is handled with the recent algorithm of Queyranne. We also survey some applications of partition inequalities.
+Keywords
+Partition inequalities separation problem submodular functions k-connected subgraphs 

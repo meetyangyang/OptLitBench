@@ -1,0 +1,6 @@
+Complexity of Scheduling Problem in Single-Machine Flexible Manufacturing System with Cyclic Transportation and Unlimited Buffers
+Marie-Laure Espinouse;Grzegorz Pawlak;Malgorzata Sterna;
+Abstract
+The paper concerns complexity studies on the scheduling problem arising in a simple flexible manufacturing system. The system consists of a single machine, one depot (both with unlimited buffers), and one vehicle (automated guided vehicle). The vehicle operates according to the regular metro strategy. This means that it travels in cycles of the constant length, without stops, transporting at most one job at a time between the depot and the machine. The machine executes available jobs in the non-preemptive way. The goal is to minimize the schedule length, i.e., to minimize the number of vehicle cycles necessary to transport and execute all jobs in the system. We prove the strong NP-hardness of this problem and show that any list algorithm has the worst-case performance ratio equal to 2. Moreover, we mention that special cases of the considered problem, with zero transportation times from the depot to the machine and from the machine to the depot, are polynomially solvable.
+Keywords
+Flexible manufacturing system  Single machine  One depot  One vehicle  NP-hardness proof  Approximation algorithm  90B35  11Y16  

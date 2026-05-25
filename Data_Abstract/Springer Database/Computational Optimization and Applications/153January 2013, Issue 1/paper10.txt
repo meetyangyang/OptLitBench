@@ -1,0 +1,6 @@
+A lifting method for generalized semi-infinite programs based on lower level Wolfe duality
+M. Diehl;B. Houska;O. Stein;P. Steuermann;
+Abstract
+This paper introduces novel numerical solution strategies for generalized semi-infinite optimization problems (GSIP), a class of mathematical optimization problems which occur naturally in the context of design centering problems, robust optimization problems, and many fields of engineering science. GSIPs can be regarded as bilevel optimization problems, where a parametric lower-level maximization problem has to be solved in order to check feasibility of the upper level minimization problem. The current paper discusses several strategies to reformulate this class of problems into equivalent finite minimization problems by exploiting the concept of Wolfe duality for convex lower level problems. Here, the main contribution is the discussion of the non-degeneracy of the corresponding formulations under various assumptions. Finally, these non-degenerate reformulations of the original GSIP allow us to apply standard nonlinear optimization algorithms.
+Keywords
+Semi-infinite optimization  Lower level duality  Lifting approach  Adaptive convexification  Mathematical program with complementarity constraints  

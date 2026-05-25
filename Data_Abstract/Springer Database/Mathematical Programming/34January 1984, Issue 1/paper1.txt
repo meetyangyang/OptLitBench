@@ -1,0 +1,6 @@
+On the existence and approximation of zeroes
+Gerard van der Laan;
+Abstract
+In this paper we consider the problem of finding zeroes of a continuous functionf from a convex, compact subsetU of ℝ n  to ℝ n . In the first part of the paper it is proved thatf has a computable zero iff:C  n →ℝ n  satisfies the nonparallel condition for any two antipodal points on bdC n, i.e. if for anyx∈bdC  n ,f(x)≠αf(−x), α≥0, holds. Therefore we describe a simplicial algorithm to approximate such a zero. It is shown that generally the degree of the approximate zero depends on the number of reflection steps made by the algorithm, i.e. the number of times the algorithm switches from a face τ on bdC  n  to the face −τ. Therefore the index of a terminal simplex σ is defined which equals the local Brouwer degree of the function if σ is full-dimensional. In the second part of the paper the algorithm is used to generate possibly several approximate zeroes off. Two sucessive solutions may have both the same or opposite degrees, again depending on the number of reflection steps. By extendingf:U→ℝ n  to a function g from a cube containingU to ℝ n , the procedure can be applied to any continuous functionf without having any information about the global and local Brouwer degrees a priori.
+Keywords
+Simplical Approximation  Complementary 1-Simplex  Variable Dimension Algorithm  

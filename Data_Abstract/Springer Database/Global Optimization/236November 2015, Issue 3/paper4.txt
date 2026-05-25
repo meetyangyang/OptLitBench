@@ -1,0 +1,6 @@
+Fitting censored quantile regression by variable neighborhood search
+Rima Sheikh Rajab;Milan Dražić;Nenad Mladenović;Pavle Mladenović;Keming Yu;
+Abstract
+Quantile regression is an increasingly important topic in statistical analysis. However, fitting censored quantile regression is hard to solve numerically because the objective function to be minimized is not convex nor concave in regressors. Performance of standard methods is not satisfactory, particularly if a high degree of censoring is present. The usual approach is to simplify (linearize) estimator function, and to show theoretically that such approximation converges to optimal values. In this paper, we suggest a new approach, to solve optimization problem (nonlinear, nonconvex, and nondifferentiable) directly. Our method is based on variable neighborhood search approach, a recent successful technique for solving global optimization problems. The presented results indicate that our method can improve quality of censored quantizing regressors estimator considerably.
+Keywords
+Censored regression  Powell estimator  Quantile regression  Global optimization  Metaheuristics  Variable neighborhood search  

@@ -1,0 +1,6 @@
+A New Projection Method for Variational Inequality Problems
+M. V.  Solodov and B. F.  Svaiter;
+Abstract
+We propose a new projection algorithm for solving the variational inequality problem, where the underlying function is continuous and satisfies a certain generalized monotonicity assumption (e.g., it can be pseudomonotone). The method is simple and admits a nice geometric interpretation. It consists of two steps. First, we construct an appropriate hyperplane which strictly separates the current iterate from the solutions of the problem. This procedure requires a single projection onto the feasible set and employs an Armijo-type linesearch along a feasible direction. Then the next iterate is obtained as the projection of the current iterate onto the intersection of the feasible set with the halfspace containing the solution set. Thus, in contrast with most other projection-type methods, only two projection operations per iteration are needed. The method is shown to be globally convergent to a solution of the variational inequality problem under minimal assumptions. Preliminary computational experience is also reported.
+Keywords
+variational inequalities, projection methods, pseudomonotone maps, 49M45, 90C25, 90C33, 

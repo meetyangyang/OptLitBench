@@ -1,0 +1,6 @@
+Optimization Techniques for Solving Elliptic Control Problems with Control and State Constraints: Part 1. Boundary Control
+Helmut Maurer;Hans D. Mittelmann;
+Abstract
+We study optimal control problems for semilinear elliptic equations subject to control and state inequality constraints. In a first part we consider boundary control problems with either Dirichlet or Neumann conditions. By introducing suitable discretization schemes, the control problem is transcribed into a nonlinear programming problem. It is shown that a recently developed interior point method is able to solve these problems even for high discretizations. Several numerical examples with Dirichlet and Neumann boundary conditions are provided that illustrate the performance of the algorithm for different types of controls including bang-bang and singular controls. The necessary conditions of optimality are checked numerically in the presence of active control and state constraints.
+Keywords
+elliptic control problems  boundary control  control and state constraints  discretization techniques  interior point optimization methods  

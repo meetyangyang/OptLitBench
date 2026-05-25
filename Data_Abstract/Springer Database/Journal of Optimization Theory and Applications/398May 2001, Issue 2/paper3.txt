@@ -1,0 +1,6 @@
+Temporal Difference Methods for the Maximal Solution of Discrete-Time Coupled Algebraic Riccati Equations
+O. L. V. COSTA;J. C. C. AYA;
+Abstract
+In this paper, we present an iterative technique for deriving the maximal solution of a set of discrete-time coupled algebraic Riccati equations, based on temporal difference methods, which are related to the optimal control of Markovian jump linear systems and have been studied extensively over the last few years. We trace a parallel with the theory of temporal difference algorithms for Markovian decision processes to develop a λ-policy iteration like algorithm for the maximal solution of these equations. For the special cases in which λ=0 and λ=1, we have the situation in which the algorithm reduces to the iterations of the Riccati difference equations (value iteration) and quasilinearization method (policy iteration), respectively. The advantage of the proposed method is that an appropriate choice of λ between 0 and 1 can speed up the convergence of the policy evaluation step of the policy iteration method by using value iteration.
+Keywords
+temporal difference methods  jump systems  Markov parameters  optimal control  

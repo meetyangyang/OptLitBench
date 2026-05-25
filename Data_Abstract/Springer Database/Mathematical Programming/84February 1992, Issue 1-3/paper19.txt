@@ -1,0 +1,6 @@
+Finite dimensional approximation in infinite dimensional mathematical programming
+Irwin E. Schochetman;Robert L. Smith;
+Abstract
+We consider the problem of approximating an optimal solution to a separable, doubly infinite mathematical program (P) with lower staircase structure by solutions to the programs (P(N)) obtained by truncating after the firstN variables andN constraints of (P). Viewing the surplus vector variable associated with theNth constraint as a state, and assuming that all feasible states are eventually reachable from any feasible state, we show that the efficient set of all solutions optimal to all possible feasible surplus states for (P(N)) converges to the set of optimal solutions to (P). A tie-breaking algorithm which selects a nearest-point efficient solution for (P(N)) is shown (for convex programs) to converge to an optimal solution to (P). A stopping rule is provided for discovering a value ofN sufficiently large to guarantee any prespecified level of accuracy. The theory is illustrated by an application to production planning.
+Keywords
+Value convergence  reachability  solution set convergence  tie-breaking  stopping rule  infinite horizon optimization  production planning  

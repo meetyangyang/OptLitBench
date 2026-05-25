@@ -1,0 +1,6 @@
+Survivable network design under optimal and heuristic interdiction scenarios
+J. Cole. Smith;Churlzu Lim;Fransisca Sudargho;
+Abstract
+We examine the problem of building or fortifying a network to defend against enemy attacks in various scenarios. In particular, we examine the case in which an enemy can destroy any portion of any arc that a designer constructs on the network, subject to some interdiction budget. This problem takes the form of a three-level, two-player game, in which the designer acts first to construct a network and transmit an initial set of flows through the network. The enemy acts next to destroy a set of constructed arcs in the designer’s network, and the designer acts last to transmit a final set of flows in the network. Most studies of this nature assume that the enemy will act optimally; however, in real-world scenarios one cannot necessarily assume rationality on the part of the enemy. Hence, we prescribe optimal network design algorithms for three different profiles of enemy action: an enemy destroying arcs based on capacities, based on initial flows, or acting optimally to minimize our maximum profits obtained from transmitting flows.
+Keywords
+Network design  Integer programming  Network interdiction  Game theory  

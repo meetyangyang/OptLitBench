@@ -1,0 +1,6 @@
+Proximal Bundle Algorithms for Nonlinearly Constrained Convex Minimax Fractional Programs
+Smail Addoune;Karima Boufi;Ahmed Roubi;
+Abstract
+A generalized fractional programming problem is defined as the problem of minimizing a nonlinear function, defined as the maximum of several ratios of functions on a feasible domain. In this paper, we propose new methods based on the method of centers, on the proximal point algorithm and on the idea of bundle methods, for solving such problems. First, we introduce proximal point algorithms, in which, at each iteration, an approximate prox-regularized parametric subproblem is solved inexactly to obtain an approximate solution to the original problem. Based on this approach and on the idea of bundle methods, we propose implementable proximal bundle algorithms, in which the objective function of the last mentioned prox-regularized parametric subproblem is replaced by an easier one, typically a piecewise linear function. The methods deal with nondifferentiable nonlinearly constrained convex minimax fractional problems. We prove the convergence, give the rate of convergence of the proposed procedures and present numerical tests to illustrate their behavior.
+Keywords
+Generalized fractional programs  Method of centers  Proximal point algorithm  Bundle methods  Quadratic programming  90C32  90C25  49K35  49M37  

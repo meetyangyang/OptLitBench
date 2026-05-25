@@ -1,0 +1,6 @@
+Model-based process optimization in the presence of parameter uncertainty
+ Antti   Solonen ; Heikki   Haario ;
+Abstract
+ In model-based process optimization one uses a mathematical model to optimize a certain criterion, for example the product yield of a chemical process. Models often contain parameters that have to be estimated from data. Typically, a point estimate (e.g. the least squares estimate) is used to fix the model for the optimization stage. However, parameter estimates are uncertain due to incomplete and noisy data. In this article, it is shown how parameter uncertainty can be taken into account in process optimization. To quantify the uncertainty, Markov Chain Monte Carlo (MCMC) sampling, an emerging standard approach in Bayesian estimation, is used. In the Bayesian approach, the solution to the parameter estimation problem is given as a distribution, and the optimization criteria are functions of that distribution. The formulation and implementation of the optimization is studied, and numerical examples are used to show that parameter uncertainty can have a large effect in optimization results. 
+Keywords
+process optimization, Bayesian estimation, MCMC, stochastic optimization 

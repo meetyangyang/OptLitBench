@@ -1,0 +1,6 @@
+A globally convergent version of the Polak-Ribière conjugate gradient method
+L. Grippo;S. Lucidi;
+Abstract
+In this paper we propose a new line search algorithm that ensures global convergence of the Polak-Ribière conjugate gradient method for the unconstrained minimization of nonconvex differentiable functions. In particular, we show that with this line search every limit point produced by the Polak-Ribière iteration is a stationary point of the objective function. Moreover, we define adaptive rules for the choice of the parameters in a way that the first stationary point along a search direction can be eventually accepted when the algorithm is converging to a minimum point with positive definite Hessian matrix. Under strong convexity assumptions, the known global convergence results can be reobtained as a special case. From a computational point of view, we may expect that an algorithm incorporating the step-size acceptance rules proposed here will retain the same good features of the Polak-Ribière method, while avoiding pathological situations.
+Keywords
+Unconstrained optimization  Conjugate gradient method  Polak-Ribière method  

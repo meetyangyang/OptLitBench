@@ -1,0 +1,6 @@
+A Fair Policy for the G/GI/N Queue with Multiple Server Pools
+Josh Reed;Yair Shaki;
+Abstract
+We consider the G/GI/N queue with multiple server pools, each possessing a pool-specific service time distribution. The class of nonidling routing policies that we consider are referred to as u-greedy policies. These policies route incoming customers to the server pool with the longest weighted cumulative idle time to equitably spread incoming work amongst the server pools in the system. Our first set of results demonstrates that asymptotically in the Halfin-Whitt regime and under any u-greedy policy, the diffusion scaled cumulative idle time processes of each of the server pools are held in fixed proportion to one another. We next provide a heavy traffic limit theorem for the process keeping track of the total number of customers in the system. Our limit may be characterized as the solution to a stochastic convolution equation that is driven by a Gaussian process. To prove our main results, we introduce a new methodology for studying the G/GI/N queue in the Halfin-Whitt regime that has as its starting point a simple conservation of flow identity.
+Keywords
+diffusion limits Halfin-Whitt regime fairness many-server systems Gaussian processes 

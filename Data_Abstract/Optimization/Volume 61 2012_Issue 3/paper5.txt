@@ -1,0 +1,6 @@
+Alternating proximal algorithms with asymptotically vanishing coupling. Application to domain decomposition for PDE's
+ A.   Cabot ; P.   Frankel ;
+Abstract
+ Let 𝒳, 𝒴, 𝒵 be real Hilbert spaces, let f : 𝒳 → ℝ ∪ {+∞}, g : 𝒴 → ℝ ∪ {+∞} be closed convex functions and let A : 𝒳 → 𝒵, B : 𝒴 → 𝒵 be linear continuous operators. Given a sequence (γ n ) which increases towards infinity as n → +∞, we study the following alternating proximal algorithm:    where α and ν are positive parameters. If the sequence (γ n ) increases moderately slowly towards infinity, the algorithm (𝒜) tends to minimize the function  over the set C = argmin f × argmin g (assumed to be nonempty). An illustration of this result is given in the area of domain decomposition for PDE's. 
+Keywords
+convex minimization, alternating minimization, proximal algorithm, hierarchical minimization, domain decomposition for PDE'sAMS Subject Classifications:: 65K05, 65K10, 49J40, 90C25 

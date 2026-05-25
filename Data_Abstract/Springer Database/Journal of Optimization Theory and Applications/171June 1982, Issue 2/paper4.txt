@@ -1,0 +1,6 @@
+Minimizing a differentiable function over a differential manifold
+D. Gabay;
+Abstract
+To generalize the descent methods of unconstrained optimization to the constrained case, we define intrinsically the gradient field of the objective function on the constraint manifold and analyze descent methods along geodesics, including the gradient projection and reduced gradient methods for special choices of coordinate systems. In particular, we generalize the quasi-Newton methods and establish their superlinear convergence; we show that they only require the updating of a reduced size matrix. In practice, the geodesic search is approximated by a tangent step followed by a constraints restoration or by a simple arc search again followed by a restoration step.
+Keywords
+Nonlinearly constrained optimization  differential geometry  Riemannian manifolds  iterative methods  convergence theorems  rate of convergence  

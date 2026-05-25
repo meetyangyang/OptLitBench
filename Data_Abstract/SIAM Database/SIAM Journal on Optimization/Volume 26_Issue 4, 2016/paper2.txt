@@ -1,0 +1,6 @@
+A Globally Convergent LP-Newton Method
+Andreas  Fischer, Markus  Herrich, Alexey F.  Izmailov, and Mikhail V.  Solodov;
+Abstract
+We develop a globally convergent algorithm based on the LP-Newton method, which has been recently proposed for solving constrained equations, possibly nonsmooth and possibly with nonisolated solutions. The new algorithm makes use of linesearch for the natural merit function and preserves the strong local convergence properties of the original LP-Newton scheme. We also present computational experiments on a set of generalized Nash equilibrium problems, and a comparison of our approach with the previous hybrid globalization employing the potential reduction method.
+Keywords
+constrained equations, LP-Newton method, global convergence, quadratic convergence, generalized Nash equilibrium problems, 90C33, 91A10, 49M05, 49M15, 

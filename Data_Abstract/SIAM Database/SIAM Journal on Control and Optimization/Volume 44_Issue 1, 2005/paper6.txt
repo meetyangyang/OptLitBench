@@ -1,0 +1,6 @@
+Time-Optimal Synthesis for Left-Invariant Control Systems on SO(3)
+Ugo  Boscain and Yacine  Chitour;
+Abstract
+Consider the control system $(\Sigma)$ given by $\dot x=x(f+ug)$, where $x\in SO(3)$, $|u|\leq 1$, and $f,g\in so(3)$ define two perpendicular left-invariant vector fields normalized so that $\|f\|=\cos(\al)$ and $\|g\|=\sin(\al)$, $\al\in ]0,\pi/4[$. In this paper, we provide an upper bound and a lower bound for $N(\alpha)$, the maximum number of switchings for time-optimal trajectories of $(\Sigma)$. More precisely, we show that $N_S(\al)\leq N(\al)\leq N_S(\al)+4$, where $N_S(\al)$ is a suitable integer function of $\al$ such that $N_S(\al)\stackrel{\lower2pt\hbox{{\smash{~}}}}{\mbox{{\tiny $\al\to 0$}}}\pi/(4\alpha).$ The result is obtained by studying the time-optimal synthesis of a projected control problem on $\RR P^2$, where the projection is defined by an appropriate Hopf fibration. Finally, we study the projected control problem on the unit sphere $S^2$. It exhibits interesting features which will be partly rigorously derived and partially described by numerical simulations.
+Keywords
+optimal control, optimal synthesis, minimum time, SO(3), 49k15, 

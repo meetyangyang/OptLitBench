@@ -1,0 +1,6 @@
+An arc-search \({\mathcal {O}}(nL)\) infeasible-interior-point algorithm for linear programming
+Yaguang Yang;Makoto Yamashita;
+Abstract
+Arc-search interior-point methods have been proposed to capture the curvature of the central path using an approximation based on ellipse. Yang et al. (J Appl Math Comput 51(1–2):209–225, 2016) proved that an arc-search algorithm has the computational order of \({\mathcal {O}}(n^{5/4}L)\). In this paper, we propose an arc-search infeasible-interior-point algorithms and discuss its convergence analysis. We improve the polynomial bound from \({\mathcal {O}}(n^{5/4}L)\) to \({\mathcal {O}}(nL)\), which is at least as good as the best existing bound for infeasible-interior-point algorithms for linear programming. Numerical results indicate that the proposed method solved LP instances faster than the existing \({\mathcal {O}}(n^{5/4}L)\) method.
+Keywords
+Polynomial algorithm  Infeasible-interior-point method  Linear programming  

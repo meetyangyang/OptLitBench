@@ -1,0 +1,6 @@
+A recursive algorithm for the rectangular guillotine strip packing problem
+ Y.   Cui ; T.   Gu ; Y.   Zhong ;
+Abstract
+ This article presents a recursive heuristic algorithm to generate cutting patterns for the rectangular guillotine strip packing problem in which a set of rectangular items must be cut from the strip such that the consumed strip length is minimized. The strip is placed with its length along the horizontal direction, and is divided into several segments with vertical cuts. The length of a segment is determined by the item placed at the bottom. Orthogonal cuts divide the segments into blocks and finished items. For the current block considered, the algorithm selects an item, puts it at the bottom-left corner of the block, and divides the unoccupied region into two smaller blocks with an orthogonal cut. Rotation of the items by 90 is allowed. Both lower and upper bounds are used to prune unpromising branches. The computational results indicate that the algorithm performs better than several recently published algorithms. 
+Keywords
+strip packing, cutting stock, recursive algorithm, branch and bound 

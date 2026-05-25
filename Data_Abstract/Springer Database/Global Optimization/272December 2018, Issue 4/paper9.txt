@@ -1,0 +1,6 @@
+Methods to compare expensive stochastic optimization algorithms with random restarts
+Warren Hare;Jason Loeppky;Shangwei Xie;
+Abstract
+We consider the challenge of numerically comparing optimization algorithms that employ random-restarts under the assumption that only limited test data is available. We develop a bootstrapping technique to estimate the incumbent solution of the optimization problem over time as a stochastic process. The asymptotic properties of the estimator are examined and the approach is validated by an out-of-sample test. Finally, three methods for comparing the performance of different algorithms based on the estimator are proposed and demonstrated with data from a real-world optimization problem.
+Keywords
+Random restarts  Stochastic optimization  Benchmarking  Nonconvex optimization  

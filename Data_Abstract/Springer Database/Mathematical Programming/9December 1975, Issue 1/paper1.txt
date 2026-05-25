@@ -1,0 +1,6 @@
+Optimally conditioned optimization algorithms without line searches
+William C. Davidon;
+Abstract
+New variable metric algorithms are presented with three distinguishing features:(1) They make no line searches and allow quite arbitrary step directions while maintaining quadratic termination and positive updates for the matrixH, whose inverse is the hessian matrix of second derivatives for a quadratic approximation to the objective function.  (2) The updates fromH toH+ are optimally conditioned in the sense that they minimize the ratio of the largest to smallest eigenvalue ofH−1H+.  (3) Instead of working with the matrixH directly, these algorithms represent it asJJT, and only store and update the Jacobian matrix J. A theoretical basis is laid for this family of algorithms and an example is given along with encouraging numerical results obtained with several standard test functions.  
+Keywords
+Objective Function  Optimization Algorithm  Mathematical Method  Standard Test  Theoretical Basis  

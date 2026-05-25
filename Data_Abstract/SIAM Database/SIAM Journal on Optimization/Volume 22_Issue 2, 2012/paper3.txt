@@ -1,0 +1,6 @@
+Alternating Direction Method with Gaussian Back Substitution for Separable Convex Programming
+Bingsheng  He, Min  Tao, and Xiaoming  Yuan;
+Abstract
+We consider the linearly constrained separable convex minimization problem whose objective function is separable into m individual convex functions with nonoverlapping variables. A Douglas–Rachford alternating direction method of multipliers (ADM) has been well studied in the literature for the special case of $m=2$. But the convergence of extending ADM to the general case of $m\ge 3$ is still open. In this paper, we show that the straightforward extension of ADM is valid for the general case of $m\ge 3$ if it is combined with a Gaussian back substitution procedure. The resulting ADM with Gaussian back substitution is a novel approach towards the extension of ADM from $m=2$ to $m\ge 3$, and its algorithmic framework is new in the literature. For the ADM with Gaussian back substitution, we prove its convergence via the analytic framework of contractive-type methods, and we show its numerical efficiency by some application problems.
+Keywords
+alternating direction method, convex programming, Gaussian back substitution, separable structure, 90C25, 65K05, 94A08, 

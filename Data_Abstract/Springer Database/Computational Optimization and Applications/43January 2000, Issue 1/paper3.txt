@@ -1,0 +1,6 @@
+Numerical Experience with a Reduced Hessian Method for Large Scale Constrained Optimization
+Lorenz T. Biegler;Jorge Nocedal;Claudia Schmid;David Ternet;
+Abstract
+The reduced Hessian SQP algorithm presented in Biegler et al. [SIAM J. Optimization, Vol. 5, no. 2, pp. 314–347, 1995.] is developed in this paper into a practical method for large-scale optimization. The novelty of the algorithm lies in the incorporation of a correction vector that approximates the cross term ZTWYpY. This improves the stability and robustness of the algorithm without increasing its computational cost. The paper studies how to implement the algorithm efficiently, and presents a set of tests illustrating its numerical performance. An analytic example, showing the benefits of the correction term, is also presented.
+Keywords
+Successive Quadratic Programming  reduced Hessian methods  constrained optimization  quasi-Newton method  large-scale optimization  

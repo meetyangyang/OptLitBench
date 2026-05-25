@@ -1,0 +1,6 @@
+A new tool for efficient optimization by automatic differentiation and program transparency
+ Rainer   Mehlhorn ; Gottfried   Sachs ;
+Abstract
+ A method for improving the productivity of users for solving optimal control problems is proposed. This method basically consists of two elements of which one is an automatic differentiation algorithm and the other is a dedicated compiler for providing more problem transparency. The first element of the proposed method is used for automatic evaluation of necessary optimality conditions. The differential equations for the adjoint variables can be computed automatically with a gradient operator. This operator is evaluated with an algorithm using automatic differentiation in reverse mode. The second element of the proposed method is concerned with making the optimization problem more transparent. For this purpose, the formal description of the optimal control problem can be expanded with a document software program like TEX or LATEX 
+Keywords
+TEX, LATEX, Automatic Differentiation, Transparent Programming, Maximum Principle, Optimal Control 

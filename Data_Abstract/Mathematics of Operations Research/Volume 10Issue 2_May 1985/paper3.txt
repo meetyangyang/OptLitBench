@@ -1,0 +1,6 @@
+A Linearization Algorithm for Nonsmooth Minimization
+Krzysztof Czesław Kiwiel;
+Abstract
+We present a readily implementable algorithm for finding stationary points for locally Lipschitzian functions that are not necessarily convex or differentiable. The algorithm is an extension to the nonconvex case of the aggregate subgradient method. The user can impose an upper bound on storage and work per iteration, whereas no such uniform bound exists for the algorithms due to Lemarechal and Mifflin on which our method is based. The algorithm is globally convergent in the sense that all its accumulation points are stationary. Moreover, the algorithm converges when the objective function happens to be convex. This seems to be the first such result for descent methods for nonsmooth minimization.
+Keywords
+nonlinear programming mathematical programming nonsmooth optimization locally Lipschitz functions semismooth functions stationary points 

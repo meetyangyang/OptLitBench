@@ -1,0 +1,6 @@
+A Generalized Conjugate Gradient Algorithm
+S. Sanmatías;E. Vercher;
+Abstract
+We present modifications of the generalized conjugate gradient algorithm of Liu and Storey for unconstrained optimization problems (Ref. 1), extending its applicability to situations where the search directions are not defined. The use of new search directions is proposed and one additional condition is imposed on the inexact line search. The convergence of the resulting algorithm can be established under standard conditions for a twice continuously differentiable function with a bounded level set. Algorithms based on these modifications have been tested on a number of problems, showing considerable improvements. Comparisons with the BFGS and other quasi-Newton methods are also given.
+Keywords
+Nonlinear programming  unconstrained optimization  conjugate gradient methods  inexact line searches  

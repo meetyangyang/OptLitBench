@@ -1,0 +1,6 @@
+Improved Steplength by More Practical Information in the Extragradient Method for Monotone Variational Inequalities
+X. Wang;
+Abstract
+The extragradient method uses only the values of the function in the variational inequality to solve it. In many real-life problems, the functions do not have explicit expressions and their evaluations are expensive. Therefore, it is important and practical to reduce the number of function evaluations used in these problems. In order to do this, we present some modifications to one existing extragradient method. First, we analyze the limit of the projection along a direction onto a closed convex set. Then, using the obtained result, we give a horizontal asymptotic property of an estimated function to the one measuring the progress in each iteration. From this property, a Newton search as well a self-adjusted relaxation procedure are introduced with an improved steplength into the extragradient method. Besides the theoretical background, numerical results are given to show the progress of the modified method.
+Keywords
+Monotone variational inequalities  Limit of projection  Horizontal asymptote  Newton’s method  Relaxation method  

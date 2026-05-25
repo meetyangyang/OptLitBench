@@ -1,0 +1,6 @@
+A GLOBAL APPROACH FOR NONLINEAR MIXED DISCRETE PROGRAMMING IN DESIGN OPTIMIZATION
+ HAN-LIN   LI ; CHIH-TAN   CHOU ;
+Abstract
+ Most current nonlinear mixed discrete programs can only find locally optimal solutions. This paper proposes an optimization method to find the global solution of a nonlinear mixed discrete program. Based on the fact that: “For a discrete variable xi  iff xi ∊{k1, k1, k2…,km } then (xi −k 1) (xi  k 2)(xi  km  =0”, the original mixed discrete program is transformed into a penalty optimization program with continuous variables. This penalty optimization program is then solved to find a local optimum. Utilizing the Multi-Level Single Linkage technique, enough starting points are systematically generated to search for most local optima within the feasible region. A global optimum is then found at a pre-specified sufficiently high confidence level such as 99.5%. Some examples of design optimization in literature are tested, which demonstrate that the proposed method is superior to current methods for finding the global optimum. 
+Keywords
+ Global optimization, nonlinear mixed discrete program, multi-level single linkage technique 

@@ -1,0 +1,6 @@
+Semidefinite Programming in the Space of Partial Positive Semidefinite Matrices
+Samuel  Burer;
+Abstract
+We build upon the work of Fukuda et al. [SIAM J. Optim., 11 (2001), pp. 647--674] and Nakata et al. [Math. Program., 95 (2003), pp. 303--327], in which the theory of partial positive semidefinite matrices was applied to the semidefinite programming (SDP) problem as a technique for exploiting sparsity in the data. In contrast to their work, which improved an existing algorithm based on a standard search direction, we present a primal-dual path-following algorithm that is based on a new search direction, which, roughly speaking, is defined completely within the space of partial symmetric matrices. We show that the proposed algorithm computes a primal-dual solution to the SDP problem having duality gap less than a fraction $\varepsilon > 0$ of the initial duality gap in ${\cal O}(n \log(\varepsilon^{-1}))$ iterations, where n is the size of the matrices involved. Moreover, we present computational results showing that the algorithm possesses several advantages over other existing implementations.
+Keywords
+semidefinite programming, sparsity, matrix completion, numerical experiments, 90C06, 90C22, 90C51, 

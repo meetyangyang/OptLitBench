@@ -1,0 +1,6 @@
+Universal gradient methods for convex optimization problems
+Yu Nesterov;
+Abstract
+In this paper, we present new methods for black-box convex minimization. They do not need to know in advance the actual level of smoothness of the objective function. Their only essential input parameter is the required accuracy of the solution. At the same time, for each particular problem class they automatically ensure the best possible rate of convergence. We confirm our theoretical results by encouraging numerical experiments, which demonstrate that the fast rate of convergence, typical for the smooth optimization problems, sometimes can be achieved even on nonsmooth problem instances.
+Keywords
+Convex optimization  Black-box methods  Complexity bounds  Optimal methods  Weakly smooth functions  90C25  90C47  68Q25  

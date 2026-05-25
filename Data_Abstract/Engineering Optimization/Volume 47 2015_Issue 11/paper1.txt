@@ -1,0 +1,6 @@
+A global optimization algorithm for simulation-based problems via the extended DIRECT scheme
+Haitao Liu;Shengli Xu;Xiaofang Wang;Junnan Wu;Yang Song;
+Abstract
+This article presents a global optimization algorithm via the extension of the DIviding RECTangles (DIRECT) scheme to handle problems with computationally expensive simulations efficiently. The new optimization strategy improves the regular partition scheme of DIRECT to a flexible irregular partition scheme in order to utilize information from irregular points. The metamodelling technique is introduced to work with the flexible partition scheme to speed up the convergence, which is meaningful for simulation-based problems. Comparative results on eight representative benchmark problems and an engineering application with some existing global optimization algorithms indicate that the proposed global optimization strategy is promising for simulation-based problems in terms of efficiency and accuracy.
+Keywords
+DIRECT, Voronoi, metamodel, global optimization, simulation-based problems 

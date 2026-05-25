@@ -1,0 +1,6 @@
+Nonlinear Gossip
+Adwaitvedant S.  Mathkar and Vivek S.  Borkar;
+Abstract
+We consider a gossip-based distributed stochastic approximation scheme wherein processors situated at the nodes of a connected graph perform stochastic approximation algorithms, modified further by an additive interaction term equal to a weighted average of iterates at neighboring nodes along the lines of “gossip" algorithms. We allow these averaging weights to be modulated by the iterates themselves. The main result is a Benaim-type meta-theorem characterizing the possible asymptotic behavior in terms of a limiting o.d.e. In particular, this ensures “consensus," which we further strengthen to a form of “dynamic consensus" which implies that they asymptotically track a single common trajectory belonging to an internally chain transitive invariant set of a common o.d.e. that we characterize. We also consider a situation where this averaging is replaced by a fully nonlinear operation and extend the results to this case, which in particular allows us to handle certain projection schemes.
+Keywords
+gossip algorithms, distributed algorithms, stochastic approximation, two time scales, Benaim theorem, Primary, 62L20; Secondary, 68W15, 68T05, 

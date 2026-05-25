@@ -1,0 +1,6 @@
+On a single machine-scheduling problem with separated position and resource effects
+Adam Janiak;Mikhail Y. Kovalyov;Maciej Lichtenstein;
+Abstract
+Rudek and Rudek [1] studied a single machine-scheduling problem to minimize the makespan, in which the processing time of each job depends on its position and an amount of a common non-renewable limited resource allocated to it. For this problem, the two effects are separated in the sense that an optimal decision with respect to the job positions can be taken independently of that with respect to the resource allocation. The authors suggested an  time algorithm to find an optimal resource allocation. We show that the proof of optimality of this algorithm is incorrect. Further, we demonstrate that the resource allocation problem is equivalent to the well-known fractional knapsack problem, for which there exist  and O(n) time algorithms.
+Keywords
+machine scheduling, single machine, aging effect, resource allocation, fractional knapsackAMS Subject Classifications: 90B99, 68R05 

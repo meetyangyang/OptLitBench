@@ -1,0 +1,6 @@
+An efficient algorithm for the single facility location problem with polyhedral norms and disk-shaped demand regions
+André Berger;Alexander Grigoriev;Andrej Winokurow;
+Abstract
+The single facility location problem with demand regions seeks for a facility location minimizing the sum of the distances from n demand regions to the facility. The demand regions represent sales markets where the transportation costs are negligible. In this paper, we assume that all demand regions are disks of the same radius, and the distances are measured by a rectilinear norm, e.g. \(\ell _1\) or \(\ell _\infty \). We develop an exact combinatorial algorithm running in time \(O(n\log ^c n)\) for some c dependent only on the space dimension. The algorithm is generalizable to the other polyhedral norms.
+Keywords
+1-median  Single facility location problem  Rectilinear norm  Polyhedral norm  Exact algorithm  

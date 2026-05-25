@@ -1,0 +1,4 @@
+Computing Tight Time Windows for RCPSPWET with the Primal-Dual Method
+András Kéri;Tamás Kis;
+Abstract
+In this paper we combine OR and CP techniques to solve the Resource-Constrained Project Scheduling Problem with Earliness-Tardiness costs and general temporal constraints. Namely, we modify the Primal-Dual algorithm for solving the maximum-cost flow problem in a network to deduce tight time windows for activities with respect to a finite upper bound on the optimal objective function value. We compare our method to the only exact method in the literature. Our results show that time window computations and additional domain filtering techniques may improve the performance of tree-search based methods.

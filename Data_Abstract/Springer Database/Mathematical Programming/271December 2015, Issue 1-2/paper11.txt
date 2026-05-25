@@ -1,0 +1,6 @@
+The all-or-nothing flow problem in directed graphs with symmetric demand pairs
+Chandra Chekuri;Alina Ene;
+Abstract
+We study the approximability of the All-or-Nothing multicommodity flow problem in directed graphs with symmetric demand pairs (SymANF). The input consists of a directed graph \(G = (V, E)\) and a collection of (unordered) pairs of nodes \(\mathcal {M}= \left\{ s_1t_1, s_2t_2, \ldots , s_kt_k\right\} \). A subset \(\mathcal {M}'\) of the pairs is routable if there is a feasible multicommodity flow in \(G\) such that, for each pair \(s_it_i \in \mathcal {M}'\), the amount of flow from \(s_i\) to \(t_i\) is at least one and the amount of flow from \(t_i\) to \(s_i\) is at least one. The goal is to find a maximum cardinality subset of the given pairs that can be routed. Our main result is a poly-logarithmic approximation with constant congestion for SymANF. We obtain this result by extending the well-linked decomposition framework of Chekuri et al. (2005) to the directed graph setting with symmetric demand pairs. We point out the importance of studying routing problems in this setting and the relevance of our result to future work.
+Keywords
+68W25  

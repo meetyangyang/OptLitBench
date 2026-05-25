@@ -1,0 +1,6 @@
+-norm Twin Support Vector Machine-based Regression
+Reshma Rastogi (nee Khemchandani);Pritam Anand;Suresh Chandra;
+Abstract
+This paper presents two variants of -norm Twin Support Vector Machine-based Regression (-norm TWSVR) model. The proposed methods are robust, efficient and own better generalization ability. The first method, termed as -norm TWSVR via QPP, results into the solution of a pair of QPPs. -norm TWSVR via QPP does not require the inversion of the kernel matrices during the learning process which makes it suitable for the large-scale problems. The second method, termed as -norm TWSVR via LPP, results into the solution of a pair of linear programs. The solution vectors of the -norm TWSVR via LPP is sparse which increases its prediction speed significantly. The experimental results on several artificial and UCI benchmark data-sets show that the use of -norm distances enables the proposed methods to perform better than the existing methods.
+Keywords
+Support Vector Machine, Regression, Twin Support Vector Machine, Twin Support Vector Regression, -norm 

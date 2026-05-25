@@ -1,0 +1,6 @@
+Level set topology optimization considering damage
+Lise Noël;Pierre Duysinx;Kurt Maute;
+Abstract
+This paper provides a level set based topology optimization approach to design structures exhibiting resistance to damage. The geometry of the structures is represented by the level set method. The design domains are discretized by the extended finite element method allowing for fixed non conforming meshes. The mechanical model represents quasi-brittle materials. Undamaged material behavior is assumed linear elastic while a loss of stiffness is introduced through a non-local damage model. Small strains are assumed. The sensitivities are evaluated by an analytical derivation of the discretized governing equations of the system and considering the adjoint approach. As the damage process is irreversible, the structural responses are path-dependent and this dependency is accounted for in the sensitivity analysis. The optimization problems are solved by mathematical programming algorithms, in particular using the GCMMA scheme. The proposed approach is illustrated with two dimensional examples that highlight the influence of degradation on the optimized designs.
+Keywords
+Structural optimization  Damage  Level set  XFEM  Non-local damage model  

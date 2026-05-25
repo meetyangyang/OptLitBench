@@ -1,0 +1,6 @@
+Numerical experience with a recursive trust-region method for multilevel nonlinear bound-constrained optimization
+ Serge   Gratton ; Mélodie   Mouffe ; Annick   Sartenaer ; Philippe   L.   Toint ; Dimitri   Tomanos ;
+Abstract
+ We consider an implementation of the recursive multilevel trust-region algorithm proposed by Gratton et al. (A recursive trust-region method in infinity norm for bound-constrained nonlinear optimization, IMA J. Numer. Anal. 28(4) (2008), pp. 827–861) for bound-constrained nonlinear problems, and provide numerical experience on multilevel test problems. A suitable choice of the algorithm's parameters is identified on these problems, yielding a satisfactory compromise between reliability and efficiency. The resulting default algorithm is then compared with alternative optimization techniques such as mesh refinement and direct solution of the fine-level problem. It is also shown that its behaviour is similar to that of multigrid algorithms for linear systems. 
+Keywords
+nonlinear optimization, bound-constrained problems, multilevel problems, simplified models, recursive algorithms, numerical performance 

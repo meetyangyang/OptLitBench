@@ -1,0 +1,6 @@
+An Exact Algorithm for Nonconvex Quadratic Integer Minimization Using Ellipsoidal Relaxations
+C.  Buchheim, M.  De Santis, L.  Palagi, and M.  Piacentini;
+Abstract
+We propose a branch-and-bound algorithm for minimizing a not necessarily convex quadratic function over integer variables. The algorithm is based on lower bounds computed as continuous minima of the objective function over appropriate ellipsoids. In the nonconvex case, we use ellipsoids enclosing the feasible region of the problem. In spite of the nonconvexity, these minima can be computed quickly; the corresponding optimization problems are equivalent to trust-region subproblems. We present several ideas that allow us to accelerate the solution of the continuous relaxation within a branch-and-bound scheme and examine the performance of the overall algorithm by computational experiments. Good computational performance is shown especially for ternary instances.
+Keywords
+integer programming, quadratic programming, nonconvex programming, global optimization, 90C10, 90C20, 90C26, 

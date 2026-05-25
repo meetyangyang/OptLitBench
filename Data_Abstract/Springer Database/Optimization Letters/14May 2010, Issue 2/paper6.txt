@@ -1,0 +1,6 @@
+An optimal online algorithm for two-machine open shop preemptive scheduling with bounded processing times
+Ming Liu;Chengbin Chu;Yinfeng Xu;Feifeng Zheng;
+Abstract
+This paper deals with a two-machine open shop scheduling problem. The objective is to minimize the makespan. Jobs arrive over time. We study preemption-resume model, i.e., the currently processed job may be preempted at any moment in necessary and be resumed some time later. Let p 1, j  and p 2, j  denote the processing time of a job J  j  on the two machines M 1 and M 2, respectively. Bounded processing times mean that 1 ≤ p i, j ≤ α (i = 1, 2) for each job J  j , where α ≥ 1 is a constant number. We propose an optimal online algorithm with a competitive ratio \({\frac{5\alpha-1}{4\alpha}}\) .
+Keywords
+Open shop scheduling  Bounded processing times  Competitive analysis  Online algorithm  

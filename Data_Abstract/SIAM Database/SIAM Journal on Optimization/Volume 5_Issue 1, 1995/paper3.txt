@@ -1,0 +1,6 @@
+Infeasible-Interior-Point Primal-Dual Potential-Reduction Algorithms for Linear Programming
+Shinji  Mizuno, Masakazu  Kojima, and Michael J.  Todd;
+Abstract
+In this paper, primal-dual potential-reduction algorithms are proposed that can start from an infeasible interior point. The authors first describe two such algorithms and show that both are polynomial-time bounded. One of the algorithms decreases the Tanabe–Todd–Ye primal-dual potential function by a constant at each iteration under the condition that the duality gap decreases by at most the same ratio as the infeasibility. The other algorithm reduces a new potential function, which has one more term in the Tanabe–Todd–Ye potential function, by a fixed constant at each iteration without any other conditions on the step size. Finally, modifications of these methods are described (incorporating centering steps) that dramatically decrease their computational complexity. The algorithms also extend to the case of monotone linear complementarily problems.
+Keywords
+polynomial time, linear programming, primal-dual, infeasible-interior-point algorithm, potential function, 90C05, 65K05, 

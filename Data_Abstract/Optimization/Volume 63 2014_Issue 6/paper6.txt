@@ -1,0 +1,6 @@
+Alternating direction method of multipliers for real and complex polynomial optimization models
+Bo Jiang;Shiqian Ma;Shuzhong Zhang;
+Abstract
+In this paper, we propose a new method for polynomial optimization with real or complex decision variables. The main ingredient of the approach is to apply the classical alternating direction method of multipliers based on the augmented Lagrangian function. In this particular case, this allows us to fully exploit the multi-block structure of the polynomial functions, even though the optimization model encountered is highly non-linear and non-convex. The new method is shown to be convergent under some conditions, and the numerical results show that the algorithm returns high quality solutions and runs much faster than the two other competing algorithms.
+Keywords
+polynomial optimization, optimization with complex variables, alternating direction method of multipliersAMS Subject Classifications: 90C30, 90C26, 15A69, 65F30 

@@ -1,0 +1,6 @@
+Complexity Analysis of a Trust Funnel Algorithm for Equality Constrained Optimization
+Frank E.  Curtis , Daniel P.  Robinson , and Mohammadreza  Samadi;
+Abstract
+A method is proposed for solving equality constrained nonlinear optimization problems involving twice continuously differentiable functions. The method employs a trust funnel approach consisting of two phases: a first phase to locate an $\epsilon$-feasible point and a second phase to seek optimality while maintaining at least $\epsilon$-feasibility. Two-phase approaches of this kind based on a cubic regularization methodology have recently been proposed along with supporting worst-case iteration complexity analyses. Notably, in these approaches, the objective function is completely ignored in the first phase when $\epsilon$-feasibility is sought. The main contribution of the method proposed in this paper is that the same worst-case iteration complexity is achieved, but with a first phase that also accounts for improvements in the objective function. As such, the method attempts to put significantly less burden on the second phase for seeking optimality.
+Keywords
+equality constrained optimization, nonlinear optimization, nonconvex optimization, trust funnel methods, worst-case iteration complexity, 49M15, 49M37, 65K05, 65K10, 65Y20, 68Q25, 90C30, 90C60, 

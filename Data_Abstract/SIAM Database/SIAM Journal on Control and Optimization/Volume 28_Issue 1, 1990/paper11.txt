@@ -1,0 +1,6 @@
+Dual Ascent Methods for Problems with Strictly Convex Costs and Linear Constraints: A Unified Approach
+Paul  Tseng;
+Abstract
+Consider problems of the form \[({\text{P}})\qquad min \{ . {f(x)} |Ex \geqq b\} ,\] where f	 is a strictly convex (possibly nondifferentiable) function and E and b are, respectively, a matrix and a vector. A popular method for solving special cases of (P) (e.g., network flow, entropy maximization, quadratic program) is to dualize the constraints $Ex \geqq b$ to obtain a differentiable maximization problem and then apply an iterative ascent method to solve it. This method is simple and can exploit sparsity, thus making it ideal for large-scale optimization and, in certain cases, for parallel computation. Despite its simplicity, however, convergence of this method has been shown only under certain very restrictive conditions and only for certain special cases of (P). In this paper a block coordinate ascent method is presented for solving (P) that contains as special cases both dual coordinate ascent methods and dual gradient methods. It is shown, under certain mild assumptions on f and (P), that this method converges. Also the line searches are allowed to be inexact and, when f	 is separable, can be done in parallel.
+Keywords
+block coordinate ascent, strict convexity, convex program, 49, 90, 

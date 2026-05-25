@@ -1,0 +1,6 @@
+An Optimal Way of Moving a Sequence of Points onto a Curve in Two Dimensions
+M.J.D. Powell;
+Abstract
+Let \(\underline s \)(t), 0 ≤ t ≤ T, be a smooth curve and let \(\underline x \)i , i = 1, 2, \( \ldots \), n, be a sequence of points in two dimensions. An algorithm is given that calculates the parameters ti, i = 1, 2, \( \ldots \) , n, that minimize the function max{‖\(\underline x \)i − \(\underline s \) (ti) ‖2 : i = 1, 2, \( \ldots \), n } subject to the constraints 0 ≤ t1 ≤ t2 ≤ \( \cdots \) ≤ tn ≤ T. Further, the final value of the objective function is best lexicographically, when the distances ‖\(\underline x \)i − \(\underline s \) (ti)‖2, i = 1, 2, \( \ldots \), n, are sorted into decreasing order. The algorithm finds the global solution to this calculation. Usually the magnitude of the total work is only about n when the number of data points is large. The efficiency comes from techniques that use bounds on the final values of the parameters to split the original problem into calculations that have fewer variables. The splitting techniques are analysed, the algorithm is described, and some numerical results are presented and discussed.
+Keywords
+curve fitting  image registration  minimax appropriation  sequence constraints  

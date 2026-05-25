@@ -1,0 +1,6 @@
+On the solution of the KKT conditions of generalized Nash equilibrium problems
+Axel  Dreves, Francisco  Facchinei, Christian  Kanzow, and Simone  Sagratella;
+Abstract
+We consider the solution of generalized Nash equilibrium problems by concatenating the KKT optimality conditions of each player’s optimization problem into a single KKT-like system. We then propose two approaches for solving this KKT system. The first approach is rather simple and uses a merit-function/equation-based technique for the solution of the KKT system. The second approach, partially motivated by the shortcomings of the first one, is an interior-point-based method. We show that this second approach has strong theoretical properties and, in particular, that it is possible to establish global convergence under sensible conditions, this probably being the first result of its kind in the literature. We discuss the results of an extensive numerical testing on four KKT-based solution algorithms, showing that the new interior-point method is efficient and very robust.
+Keywords
+generalized Nash equilibrium problem, KKT conditions, merit function, interior-point method, global convergence, 90C30, 90C51, 91A10, 65K05, 

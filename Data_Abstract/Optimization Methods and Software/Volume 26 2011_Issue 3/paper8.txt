@@ -1,0 +1,6 @@
+Solving quadratically constrained convex optimization problems with an interior-point method
+ Csaba   Mészáros ;
+Abstract
+ The paper describes the design of our interior-point implementation to solve large-scale quadratically constrained convex optimization problems. We outline the details of the implemented algorithm, which is based on the primal-dual interior-point method. Our discussion includes topics related to starting point strategies and to the implementation of the numerical algebra employed, with emphasis on sparsity and stability issues. Computational results are given on a demonstrative set of convex quadratically constrained quadratic problems. 
+Keywords
+interior-point methods, convex optimization, quadratic programming AMS Subject Classification : 90-08, 90C20, 90C51 

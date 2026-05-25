@@ -1,0 +1,6 @@
+A hybrid method fur linearly constrained optimisation problems
+   K.   Sohönefelr ;
+Abstract
+ This paper presents a hybrid method for the minimization of a nonlinear objective function subject to linear constraints, i.e., a method to determine Kuhn-Tucker points of that problem is proposed. The idea of the used hybridization is to initiate a local Wilson-type algorithm with the help of suitable points computed by a P2-type feasible directions method. These feasible directions are determined by use of the constraints being actually ∊-active. A procedure to decrease e and suitable tests to switch over to the other of the both methods guarantee that after at most finitely many steps all further iterates are computed by instructions of the local method exclusively. Thus the algorithm is shown to be globally and superlinearly convergent. 
+Keywords
+Nonlinear optimization problems, linear constraints, numerical methods, hybrid methods, Kuhn-Tucker points, global and locally superlinear convergenceAMS Subject Classifications: Primary: 65 K 05, Secondary: 90 C 30 

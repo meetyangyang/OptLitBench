@@ -1,0 +1,6 @@
+Modified Newton methods for solving a semismooth reformulation of monotone complementarity problems
+Nobuo Yamashita;Masao Fukushima;
+Abstract
+In this paper, we propose a Newton-type method for solving a semismooth reformulation of monotone complementarity problems. In this method, a direction-finding subproblem, which is a system of linear equations, is uniquely solvable at each iteration. Moreover, the obtained search direction always affords a direction of sufficient decrease for the merit function defined as the squared residual for the semismooth equation equivalent to the complementarity problem. We show that the algorithm is globally convergent under some mild assumptions. Next, by slightly modifying the direction-finding problem, we propose another Newton-type method, which may be considered a restricted version of the first algorithm. We show that this algorithm has a superlinear, or possibly quadratic, rate of convergence under suitable assumptions. Finally, some numerical results are presented.
+Keywords
+Nonlinear complementarity problems  Merit functions  Generalized Newton method  Semismooth functions  

@@ -1,0 +1,6 @@
+Avoiding numerical cancellation in the interior point method for solving semidefinite programs
+Jos F. Sturm;
+Abstract
+ The matrix variables in a primal-dual pair of semidefinite programs are getting increasingly ill-conditioned as they approach a complementary solution. Multiplying the primal matrix variable with a vector from the eigenspace of the non-basic part will therefore result in heavy numerical cancellation. This effect is amplified by the scaling operation in interior point methods. A complete example illustrates these numerical issues. In order to avoid numerical problems in interior point methods, we propose to maintain the matrix variables in a Cholesky form. We discuss how the factors of the v-space Cholesky form can be updated after a main iteration of the interior point method with Nesterov-Todd scaling. An analogue for second order cone programming is also developed. Numerical results demonstrate the success of this approach.
+Keywords
+Interior Point  Point Method  Numerical Problem  Matrix Variable  Interior Point Method  

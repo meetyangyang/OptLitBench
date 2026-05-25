@@ -1,0 +1,6 @@
+Distributionally robust chance constrained optimization for economic dispatch in renewable energy integrated systems
+Xiaojiao Tong;Hailin Sun;Xiao Luo;Quanguo Zheng;
+Abstract
+Distributionally robust optimization (DRO) has become a popular research topic since it can solve stochastic programs with ambiguous distribution information. In this paper, as the background of economic dispatch (ED) in renewable integration systems, we present a new DRO-based ED optimization framework (DRED). The new DRED is addressed with a coupled format of distribution uncertainty for objective and chance constraints, which is different from most existing DRO frameworks. Some approximation strategies are adopted to handle the complicated DRED: the data-driven approach, the approximation of chance constraints by conditional value-at-risk, and the discrete scheme. The approximate reformulations are solvable nonconvex nonlinear programming problems. The approximation error analysis and convergence analysis are also established. Numerical results using an IEEE-30 buses system are presented to demonstrate the approach proposed in this paper.
+Keywords
+Economic dispatch  Renewable energy integrated systems  Distributionally robust optimization  Chance constraint  CVaR approximation  

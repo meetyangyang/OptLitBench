@@ -1,0 +1,6 @@
+Dynamic factorization in large-scale optimization
+Gerald G. Brown;Michael P. Olson;
+Abstract
+Factorization of linear programming (LP) models enables a large portion of the LP tableau to be represented implicitly and generated from the remaining explicit part. Dynamic factorization admits algebraic elements which change in dimension during the course of solution. A unifying mathematical framework for dynamic row factorization is presented with three algorithms which derive from different LP model row structures: generalized upper bound rows, pure network rows, and generalized network rows. Each of these structures is a generalization of its predecessors, and each corresponding algorithm exhibits just enough additional richness to accommodate the structure at hand within the unified framework. Implementation and computational results are presented for a variety of real-world models. These results suggest that each of these algorithms is superior to the traditional, non-factorized approach, with the degree of improvement depending upon the size and quality of the row factorization identified.
+Keywords
+Factorization  Linear programming  Generalized upper bounds  Pure networks  Generalized networks  

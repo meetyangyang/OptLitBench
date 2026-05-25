@@ -1,0 +1,6 @@
+A Tight 2-Approximation for Preemptive Stochastic Scheduling
+Nicole Megow;Tjark Vredeveld;
+Abstract
+We consider dynamic stochastic scheduling of preemptive jobs with processing times that follow independent discrete probability distributions. We derive a policy with a guaranteed performance ratio of 2 for the problem of minimizing the sum of weighted completion times on identical parallel machines subject to release dates. The analysis is tight. Our policy as well as their analysis applies also to the more general model of stochastic online scheduling.In contrast to previous results for nonpreemptive stochastic scheduling, our preemptive policy yields an approximation guarantee that is independent of the processing time distributions. However, our policy extensively utilizes information on the distributions other than the first (and second) moments. We also introduce a new nontrivial lower bound on the expected value of an unknown optimal policy. It relies on a relaxation to the basic problem on a single machine without release dates, which is known to be solved optimally by the Gittins index priority rule. This dynamic priority index is crucial to the analysis and also inspires the design of our policy.
+Keywords
+scheduling stochastic approximation algorithm total weighted completion time 

@@ -1,0 +1,6 @@
+A reduced basis Kalman filter for parametrized partial differential equations
+Markus Dihlmann and Bernard Haasdonk;
+Abstract
+The Kalman filter is a widely known tool in control theory for estimating the state of a          linear system disturbed by noise. However, when applying the Kalman filter on systems          described by parametrerized partial differential equations (PPDEs) the calculation of          state estimates can take an excessive amount of time and real-time state estimation may be          infeasible. In this work we derive a low dimensional representation of a parameter          dependent Kalman filter for PPDEs via the reduced basis method. Thereby          rapid state estimation, and in particular the rapid estimation of a linear output of          interest, will be feasible. We will also derive a posteriori error bounds          for evaluating the quality of the output estimations. Furthermore we will show how to          verify the stability of the filter using an observability condition. We will demonstrate          the performance of the reduced order Kalman filter and the error bounds with a numerical          example modeling the heat transfer in a plate.
+Keywords
+Kalman filter, reduced order filter, partial differential equation, parameter dependent, model order reduction, error estimation, optimal filter, state estimatio

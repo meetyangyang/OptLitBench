@@ -1,0 +1,6 @@
+An asymptotically optimal gradient algorithm for quadratic optimization with low computational cost
+Anatoly Zhigljavsky;Luc Pronzato;Elena Bukina;
+Abstract
+We consider gradient algorithms for minimizing a quadratic function in \({\mathbb{R}^n}\) with large n. We suggest a particular sequence of step-sizes and demonstrate that the resulting gradient algorithm has a convergence rate comparable with that of Conjugate Gradients and other methods based on the use of Krylov spaces. When the matrix is large and sparse, the proposed algorithm can be more efficient than the Conjugate Gradient algorithm in terms of computational cost, as k iterations of the proposed algorithm only require the computation of O(log k) inner products.
+Keywords
+Quadratic optimization  Gradient algorithms  Conjugate gradient  Arcsine distribution  Fibonacci numbers  Estimation of leading eigenvalues  

@@ -1,0 +1,6 @@
+A non-monotone linear search algorithm with mixed direction on Stiefel manifold
+Harry Oviedo;Hugo Lara;Oscar Dalmau;
+Abstract
+In this paper, we propose a non-monotone line search method for solving optimization problems on Stiefel manifold. The main novelty of our approach is that our method uses a search direction based on a linear combination of descent directions and a Barzilai–Borwein line search. The feasibility is guaranteed by projecting each iterate on the Stiefel manifold through SVD (singular value decomposition) factorizations. Some theoretical results for analysing the algorithm are presented. Finally, we provide numerical experiments for comparing our algorithm with other state-of-the-art procedures. The code is available online. The experimental results show that the proposed algorithm is competitive with other approaches and for particular problems, the computational performance is better than the state-of-the-art algorithms.
+Keywords
+optimization on manifolds, Stiefel manifold, non-monotone algorithm, linear search methodsAMS Subject Classification: 49K99, 49Q99, 49M30, 49M37, 90C30, 68W01 

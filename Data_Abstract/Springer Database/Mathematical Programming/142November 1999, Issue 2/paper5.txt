@@ -1,0 +1,6 @@
+bc–opt: a branch-and-cut code for mixed integer programs 
+Cécile Cordier;Hugues Marchand;Richard Laundy;Laurence A. Wolsey;
+Abstract
+A branch-and-cut mixed integer programming system, called bc–opt, is described, incorporating most of the valid inequalities that have been used or suggested for such systems, namely lifted 0-1 knapsack inequalities, 0-1 gub knapsack and integer knapsack inequalities, flowcover and continuous knapsack inequalities, path inequalities for fixed charge network flow structure and Gomory mixed integer cuts. The principal development is a set of interface routines allowing these cut routines to generate cuts for new subsets or aggregations of constraints.
+Keywords
+Mixed Integer  Mixed Integer Program  Network Flow  Valid Inequality  Fixed Charge  

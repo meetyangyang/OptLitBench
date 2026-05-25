@@ -1,0 +1,6 @@
+Hessian distances and their applications in the complexity analysis of interior-point methods
+ Yurii   Nesterov ; Yu   Xia ;
+Abstract
+ For interior points in convex cones, we introduce the Hessian distance function, and show that it is convenient for complexity analysis of polynomial-time interior-point methods (IPMs). As an example of its application, we develop new infeasible-start IPM for the linear conic optimization problem. In our setting, the primal and dual cones need not to be self-dual. We can start from any primal–dual point in the interior of the cones. Then, the damped Newton's method can be used for obtaining an approximate solution for the strictly feasible case, or for detecting primal/dual infeasibility. The complexity of these cases depends on the Hessian distance between the starting point and the feasibility/infeasibility certificates. We also present some numerical results. 
+Keywords
+conic optimization problems, interior-point methods, polynomial-time methods, infeasible-start schemes 

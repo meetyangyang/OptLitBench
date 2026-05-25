@@ -1,0 +1,4 @@
+A New Analysis of the LebMeasure Algorithm for Calculating Hypervolume
+Lyndon While;
+Abstract
+We present a new analysis of the LebMeasure algorithm for calculating hypervolume. We prove that although it is polynomial in the number of points, LebMeasure is exponential in the number of objectives in the worst case, not polynomial as has been claimed previously. This result has important implications for anyone planning to use hypervolume, either as a metric to compare optimisation algorithms, or as part of a diversity mechanism in an evolutionary algorithm.

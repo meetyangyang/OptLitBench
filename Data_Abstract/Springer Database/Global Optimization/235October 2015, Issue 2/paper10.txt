@@ -1,0 +1,6 @@
+Optimal learning with a local parametric belief model
+Bolong Cheng;Arta Jamshidi;Warren B. Powell;
+Abstract
+We are interested in maximizing smooth functions where observations are noisy and expensive to compute, as might arise in computer simulations or laboratory experimentations. We derive a knowledge gradient policy, which chooses measurements which maximize the expected value of information, while using a locally parametric belief model that uses linear approximations with radial basis functions. The method uses a compact representation of the function which avoids storing the entire history, as is typically required by nonparametric methods. Our technique uses the expected value of a measurement in terms of its ability to improve our estimate of the optimum, capturing correlations in our beliefs about neighboring regions of the function, without posing any assumptions on the global shape of the underlying function a priori. Experimental work suggests that the method adapts to a range of arbitrary, continuous functions, and appears to reliably find the optimal solution. Moreover, the policy is shown to be asymptotically optimal.
+Keywords
+Ranking and selection  Optimal learning  Local parametric model  Stochastic search  

@@ -1,0 +1,8 @@
+An Algorithm for Portfolio Optimization with Variable Transaction Costs, Part 1: Theory
+M. J. Best;J. Hlouskova;
+Abstract
+
+A portfolio optimization problem consists of maximizing an expected utility function of n assets. At the end of a typical time period, the portfolio will be modified by buying and selling assets in response to changing conditions. Associated with this buying and selling are variable transaction costs that depend on the size of the transaction. A straightforward way of incorporating these costs can be interpreted as the reduction of portfolios’ expected returns by transaction costs if the utility function is the mean-variance or the power utility function. This results in a substantially higher-dimensional problem than the original n-dimensional one, namely (2K+1)n-dimensional optimization problem with (4K+1)n additional constraints, where 2K is the number of different transaction costs functions. The higher-dimensional problem is computationally expensive to solve. This two-part paper presents a method for solving the (2K+1)n-dimensional problem by solving a sequence of n-dimensional optimization problems, which account for the transaction costs implicitly rather than explicitly. The key idea of the new method in Part 1 is to formulate the optimality conditions for the higher-dimensional problem and enforce them by solving a sequence of lower-dimensional problems under the nondegeneracy assumption. In Part 2, we propose a degeneracy resolving rule, address the efficiency of the new method and present the computational results comparing our method with the interior-point optimizer of Mosek.
+
+Keywords
+Convex programming  Portfolio optimization  Variable transaction costs  

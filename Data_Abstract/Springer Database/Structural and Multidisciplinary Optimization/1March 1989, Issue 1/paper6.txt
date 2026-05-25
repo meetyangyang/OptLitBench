@@ -1,0 +1,6 @@
+Simulation approach to structural optimization
+V. V. Toropov;
+Abstract
+A unified approach to various problems of structural optimization is presented. It is based on a combination of mathematical models of different complexity. The models describe the behaviour of a designed structure. From the computational point of view, it is connected with the sequential approximation of design problem constraints and/or an objective function. In each step, a subregion of the initial search region in the space of design variables is chosen. In this subregion, various points (designs) are selected, for which response analyses are carried out using a numerical method (mostly FEM). Using the least-squares method, analytical expressions are formulated, which then replace the initial problem functions. They are used as functions of a particular mathematical programming problem. The size and location of sequential subregions may be changed according to the result of the search. The choice of one particular form of the analytical expressions is described. The application of the approach is shown by means of test examples and comparison with other optimization techniques is presented.
+Keywords
+Objective Function  Design Variable  Programming Problem  Design Problem  Optimization Technique  

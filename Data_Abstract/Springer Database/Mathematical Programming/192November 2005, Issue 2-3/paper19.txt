@@ -1,0 +1,6 @@
+A  Open image in new window -algorithm for convex minimization
+Robert Mifflin;Claudia Sagastizábal;
+Abstract
+For convex minimization we introduce an algorithm based on  Open image in new window -space decomposition. The method uses a bundle subroutine to generate a sequence of approximate proximal points. When a primal-dual track leading to a solution and zero subgradient pair exists, these points approximate the primal track points and give the algorithm's  Open image in new window , or corrector, steps. The subroutine also approximates dual track points that are  Open image in new window -gradients needed for the method's  Open image in new window -Newton predictor steps. With the inclusion of a simple line search the resulting algorithm is proved to be globally convergent. The convergence is superlinear if the primal-dual track points and the objective's  Open image in new window -Hessian are approximated well enough.
+Keywords
+Convex Minimization  Proximal Points  Bundle methods  Open image in new window-decomposition  Superlinear convergence  65K05  90C25  

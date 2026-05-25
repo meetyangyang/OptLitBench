@@ -1,0 +1,6 @@
+A class of quasi-variational inequalities for adaptive image denoising and decomposition
+Frank Lenzen;Florian Becker;Jan Lellmann;Stefania Petra;Christoph Schnörr;
+Abstract
+We introduce a class of adaptive non-smooth convex variational problems for image denoising in terms of a common data fitting term and a support functional as regularizer. Adaptivity is modeled by a set-valued mapping with closed, compact and convex values, that defines and steers the regularizer depending on the variational solution. This extension gives rise to a class of quasi-variational inequalities. We provide sufficient conditions for the existence of fixed points as solutions, and an algorithm based on solving a sequence of variational problems. Denoising experiments with spatial and spatio-temporal image data and an adaptive total variation regularizer illustrate our approach.
+Keywords
+Quasi-variational inequalities  Adaptive image denoising  Total variation regularization  Solution-dependent adaptivity  

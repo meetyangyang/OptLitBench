@@ -1,0 +1,6 @@
+Exploiting special structure in a primal—dual path-following algorithm
+In Chan Choi;Donald Goldfarb;
+Abstract
+A primal-dual path-following algorithm that applies directly to a linear program of the form, min{c t x∣Ax = b, Hx ⩽u, x ⩾ 0,x ∈ ℝ n }, is presented. This algorithm explicitly handles upper bounds, generalized upper bounds, variable upper bounds, and block diagonal structure. We also show how the structure of time-staged problems and network flow problems can be exploited, especially on a parallel computer. Finally, using our algorithm, we obtain a complexity bound of O(\(\sqrt n \)ds2 log(nk)) fortransportation problems withs origins,d destinations (s <d), andn arcs, wherek is the maximum absolute value of the input data.
+Keywords
+Interior point method  primal—dual path-following algorithm  structured linear programs  

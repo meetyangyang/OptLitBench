@@ -1,0 +1,6 @@
+Superlinear convergence of the affine scaling algorithm
+T. Tsuchiya;R. D. C. Monteiro;
+Abstract
+In this paper we show that a variant of the long-step affine scaling algorithm (with variable stepsizes) is two-step superlinearly convergent when applied to general linear programming (LP) problems. Superlinear convergence of the sequence of dual estimates is also established. For homogeneous LP problems having the origin as the unique optimal solution, we also show that 2/3 is a sharp upper bound on the (fixed) stepsize that provably guarantees that the sequence of primal iterates converge to the optimal solution along a unique direction of approach. Since the point to which the sequence of dual estimates converge depend on the direction of approach of the sequence of primal iterates, this result gives a plausible (but not accurate) theoretical explanation for why 2/3 is a sharp upper bound on the (fixed) stepsize that guarantees the convergence of the dual estimates.
+Keywords
+Interior point algorithms  Affine scaling algorithm  Linear programming  Superlinear convergence  Global convergence  

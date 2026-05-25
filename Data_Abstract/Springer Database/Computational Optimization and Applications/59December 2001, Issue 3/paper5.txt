@@ -1,0 +1,6 @@
+Selective Search for Global Optimization of Zero or Small Residual Least-Squares Problems: A Numerical Study
+L. Velázquez;G.N. PhillipsJr.;R.A. Tapia;Y. Zhang;
+Abstract
+In this paper, we consider approximating global minima of zero or small residual, nonlinear least-squares problems. We propose a selective search approach based on the concept of selective minimization recently introduced in Zhang et al. (Technical Report TR99-12, Rice University, Department of Computational and Applied Mathematics MS-134, Houston, TX 77005, 1999). To test the viability of the proposed approach, we construct a simple implementation using a Levenberg-Marquardt type method combined with a multi-start scheme, and compare it with several existing global optimization techniques. Numerical experiments were performed on zero residual nonlinear least-squares problems chosen from structural biology applications and from the literature. On the problems of significant sizes, the performance of the new approach compared favorably with other tested methods, indicating that the new approach is promising for the intended class of problems.
+Keywords
+global minimization  zero or small residual least-squares problems  selective minimization  Levenberg-Marquardt method  multi-start  

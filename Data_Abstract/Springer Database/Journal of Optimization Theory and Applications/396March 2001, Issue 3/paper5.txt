@@ -1,0 +1,6 @@
+Inexact Perturbed Newton Methods and Applications to a Class of Krylov Solvers
+E. CĂTINAŞ;
+Abstract
+Inexact Newton methods are variant of the Newton method in which each step satisfies only approximately the linear system (Ref. 1). The local convergence theory given by the authors of Ref. 1 and most of the results based on it consider the error terms as being provided only by the fact that the linear systems are not solved exactly. The few existing results for the general case (when some perturbed linear systems are considered, which in turn are not solved exactly) do not offer explicit formulas in terms of the perturbations and residuals. We extend this local convergence theory to the general case, characterizing the rate of convergence in terms of the perturbations and residuals.
+Keywords
+Nonlinear systems  (inexact) Newton methods  (inexact) perturbed Newton methods  convergence orders  linear systems  backward errors  Krylov methods (GMRES, GMBACK, MINPERT)  Newton–Krylov methods  

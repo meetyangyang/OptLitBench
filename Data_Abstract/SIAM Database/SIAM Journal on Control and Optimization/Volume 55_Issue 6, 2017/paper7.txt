@@ -1,0 +1,6 @@
+Observers and Dynamic Controllers for Linear Differential-Algebraic Systems
+Thomas  Berger and Timo  Reis;
+Abstract
+In the present paper we study state-estimation and stabilization by dynamic feedback for linear differential-algebraic systems which are not necessarily regular. We show that the observer synthesis approach for behavioral systems in [M.E. Valcher and J.C. Willems, IEEE Trans. Automat. Control, 44 (1999), pp. 2297--2307] can be applied to differential-algebraic systems in a closed form; i.e., the observers and dynamic controllers are again differential-algebraic systems. The concept of an (asymptotic, exact) observer is introduced, and existence is characterized. Since initialization of the observer is an important issue, we investigate regular and freely initializable observers, whose existence can be guaranteed by impulse observability of the plant. The observers are then exploited for the construction of dynamic controllers. We show that there exists a stabilizing controller if and only if the given system is both behaviorally stabilizable and behaviorally detectable.
+Keywords
+differential-algebraic systems, descriptor systems, observer, dynamic controller, 34A09, 93C05, 93B05, 93B07, 93B52, 

@@ -1,0 +1,6 @@
+Input Constrained Adaptive Tracking with Applications to Exothermic Chemical Reaction Models
+Achim  Ilchmann, Mosalagae  Thuto, and Stuart  Townley;
+Abstract
+We consider input constrained adaptive output feedback control for a class of nonlinear systems which are prototype models for controlled exothermic chemical reactions. Our objective is set-point control of the output, i.e., the temperature of the reaction. In the context of chemical reactions, practical considerations lead us to work in the presence of input constraints. We adopt an approach based on modified $\lambda$-tracking controllers, whereby prespecified asymptotic tracking accuracy, quantified by $\lambda>0$ set by the designer, is ensured. The adaptive control strategy does not require any knowledge of the system's parameters and does not invoke an internal model. Only a feasibility assumption in terms of the reference temperature and the input constraints is assumed.
+Keywords
+adaptive control, exothermic chemical reaction models, global stabilization, input saturation, tracking, 93C20, 93D40, 

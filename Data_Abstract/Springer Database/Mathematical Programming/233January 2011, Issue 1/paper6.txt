@@ -1,0 +1,6 @@
+Orbital branching
+James Ostrowski;Jeff Linderoth;Fabrizio Rossi;Stefano Smriglio;
+Abstract
+We introduce orbital branching, an effective branching method for integer programs containing a great deal of symmetry. The method is based on computing groups of variables that are equivalent with respect to the symmetry remaining in the problem after branching, including symmetry that is not present at the root node. These groups of equivalent variables, called orbits, are used to create a valid partitioning of the feasible region that significantly reduces the effects of symmetry while still allowing a flexible branching rule. We also show how to exploit the symmetries present in the problem to fix variables throughout the branch-and-bound tree. Orbital branching can easily be incorporated into standard integer programming software. Through an empirical study on a test suite of symmetric integer programs, the question as to the most effective orbit on which to base the branching decision is investigated. The resulting method is shown to be quite competitive with a similar method known as isomorphism pruning and significantly better than a state-of-the-art commercial solver on symmetric integer programs.
+Keywords
+Integer programming  Symmetry  Branch-and-bound algorithms  90C10  

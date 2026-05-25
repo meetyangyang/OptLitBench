@@ -1,0 +1,6 @@
+Symmetric Perry conjugate gradient method
+Dongyi Liu;Genqi Xu;
+Abstract
+A family of new conjugate gradient methods is proposed based on Perry’s idea, which satisfies the descent property or the sufficient descent property for any line search. In addition, based on the scaling technology and the restarting strategy, a family of scaling symmetric Perry conjugate gradient methods with restarting procedures is presented. The memoryless BFGS method and the SCALCG method are the special forms of the two families of new methods, respectively. Moreover, several concrete new algorithms are suggested. Under Wolfe line searches, the global convergence of the two families of the new methods is proven by the spectral analysis for uniformly convex functions and nonconvex functions. The preliminary numerical comparisons with CG_DESCENT and SCALCG algorithms show that these new algorithms are very effective algorithms for the large-scale unconstrained optimization problems. Finally, a remark for further research is suggested.
+Keywords
+Conjugate gradient method  Descent property  Spectral analysis  Global convergence  

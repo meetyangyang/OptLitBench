@@ -1,0 +1,6 @@
+A linear-time algorithm for trust region problems
+Elad Hazan;Tomer Koren;
+Abstract
+We consider the fundamental problem of minimizing a general quadratic function over an ellipsoidal domain, also known as the trust region (sub)problem. We give the first provable linear-time (in the number of non-zero entries of the input) algorithm for approximately solving this problem. Specifically, our algorithm returns an \(\epsilon \)-approximate solution in runtime of order N/\(\sqrt{\epsilon }\), where N is the number of non-zero entries in the input. This matches the runtime of Nesterov’s accelerated gradient descent, suitable for the special case in which the quadratic objective is convex, and the runtime of the Lanczos method which is applicable when the problem is purely quadratic.
+Keywords
+Trust region subproblem  Trust region methods  Semidefinite programming  Linear time complexity  Approximation algorithms  90C20  90C22  90C26  68W25  

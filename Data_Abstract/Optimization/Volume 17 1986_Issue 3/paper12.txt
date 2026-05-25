@@ -1,0 +1,6 @@
+A class of algorithms for computing the minimal value of a convex function f over[0 1] k  within accuracy ∊, when the evaluations of f are made within accuracy ∊
+   T.   Fiala ;   G.   Sonnevend ;
+Abstract
+ In this paper an algorithm is presented for the computation of the minimal value of a convex function f-over the unit cube in Rk -within prescribed accuracy ∊=γ∊0γ when the values of f can be computed within accuracy ∊0 only. This algorithm is a generalization of the golden section search and allows to choose γ arbitrarily near to one; its requirements for memory (working space) and for the number of arithmetical operations (per one function evaluation) are independent of (k, γf). 
+Keywords
+Nonsmooth, convex, sequential minimization, stability and complexity of algorithms, golden section searchAMS 1980 Subject Classifications: Primary: 65 K 05, Secondary: 90 C 25 

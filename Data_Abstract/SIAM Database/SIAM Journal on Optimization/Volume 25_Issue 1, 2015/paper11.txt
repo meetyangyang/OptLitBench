@@ -1,0 +1,6 @@
+Probabilistic Interpretation of Linear Solvers
+Philipp  Hennig;
+Abstract
+This paper proposes a probabilistic framework for algorithms that iteratively solve unconstrained linear problems $Bx = b$ with positive definite $B$ for $x$. The goal is to replace the point estimates returned by existing methods with a Gaussian posterior belief over the elements of the inverse of $B$, which can be used to estimate errors. Recent probabilistic interpretations of the secant family of quasi-Newton optimization algorithms are extended. Combined with properties of the conjugate gradient algorithm, this leads to uncertainty-calibrated methods with very limited cost overhead over conjugate gradients, a self-contained novel interpretation of the quasi-Newton and conjugate gradient algorithms, and a foundation for new nonlinear optimization methods.
+Keywords
+linear programming, quasi-Newton methods, conjugate gradient, Gaussian inference, 49M15, 65K05, 60G15, 

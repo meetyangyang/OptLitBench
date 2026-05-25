@@ -1,0 +1,6 @@
+A proximal bundle method for nonsmooth nonconvex functions with inexact information
+W. Hare;C. Sagastizábal;M. Solodov;
+Abstract
+For a class of nonconvex nonsmooth functions, we consider the problem of computing an approximate critical point, in the case when only inexact information about the function and subgradient values is available. We assume that the errors in function and subgradient evaluations are merely bounded, and in principle need not vanish in the limit. We examine the redistributed proximal bundle approach in this setting, and show that reasonable convergence properties are obtained. We further consider a battery of difficult nonsmooth nonconvex problems, made even more difficult by introducing inexactness in the available information. We verify that very satisfactory outcomes are obtained in our computational implementation of the inexact algorithm.
+Keywords
+Nonsmooth optimization  Nonconvex optimization  Bundle method  Inexact information  Locally Lipschitz functions   Proximal point  90C25  49J52  65K10  49M05  

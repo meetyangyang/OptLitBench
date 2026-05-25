@@ -1,0 +1,6 @@
+Exact approaches for integrated aircraft fleeting and routing at TunisAir
+Mohamed Haouari;Hanif D. Sherali;Farah Zeghal Mansour;Najla Aissaoui;
+Abstract
+We describe models and exact solutions approaches for an integrated aircraft fleeting and routing problem arising at TunisAir. Given a schedule of flights to be flown, the problem consists of determining a minimum cost route assignment for each aircraft so as to cover each flight by exactly one aircraft while satisfying maintenance activity constraints. We investigate two tailored approaches for this problem: Benders decomposition and branch-and-price. Computational experiments conducted on real-data provide evidence that the branch-and-price approach outperforms the Benders decomposition approach and delivers optimal solutions within moderate CPU times. On the other hand, the Benders algorithm yields very quickly high quality near-optimal solutions.
+Keywords
+OR in airlines  Airline fleet assignment  Aircraft routing  Benders decomposition  Branch-and-bound  Column generation  Branch-and-price  

@@ -1,0 +1,6 @@
+On strongly polynomial variants of the MBU-simplex algorithm for a maximum flow problem with non-zero lower bounds
+Tibor Illés;Richárd Molnár-Szipai;
+Abstract
+In this paper, we are concerned with maximum flow problems with non-zero lower bounds. The common approach to this problem is transforming the network into a bigger one with zero lower bounds, whose optimal solution yields a feasible solution to the original problem and then using one of the established methods for maximum flow problems with little to no modifications. Expanding upon the labelling techniques of Goldfarb and Hao we show that a variant of the monotonic build-up simplex algorithm runs in strongly polynomial time on the original network. The main characteristic of the MBU algorithm is that starting from an arbitrary basis solution it decreases the number of infeasible variables monotonically, without letting any feasible variables turn infeasible in the process. We show that this algorithm terminates after at most  pivots which makes it the first strongly polynomial pivot algorithm that solves the problem without transforming the network.
+Keywords
+network flows, maximum flow problem, pivot algorithm, MBU algorithmAMS Subject Classifications: 05C21, 90C05, 90C35, 90C49 

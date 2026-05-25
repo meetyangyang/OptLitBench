@@ -1,0 +1,6 @@
+An iterative rounding search-based algorithm for the disjunctively constrained knapsack problem
+Mhand Hifi;
+Abstract
+This article proposes an iterative rounding search-based algorithm for approximately solving the disjunctively constrained knapsack problem. The problem can be viewed as a variant of the well-known knapsack problem with some sets of incompatible items. The algorithm considers two key features: a rounding strategy applied to the fractional variables of a linear relaxation and a neighbouring strategy used for improving the quality of the solutions at hand. Both strategies are iterated into a process based on adding a series of (i) valid cardinality constraints and (ii) lower bounds used for bounding the objective function. The proposed algorithm is analysed computationally on a set of benchmark instances of the literature. The proposed algorithm outperforms the Cplex solver and the results obtained improve on most existing solutions.
+Keywords
+combinatorial optimization, heuristics, knapsack, optimization, rounding strategy 

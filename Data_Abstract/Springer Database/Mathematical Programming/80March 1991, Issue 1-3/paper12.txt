@@ -1,0 +1,6 @@
+The global convergence of partitioned BFGS on problems with convex decompositions and Lipschitzian gradients
+Andreas Griewank;
+Abstract
+The main purpose of this paper is the extension of Powell's (1976) global convergence result to the partitioned BFGS method introduced by Griewank and Toint (1982). Even in the unpartitioned case the original result is strengthened because the search directions need not be computed exactly and the gradient is only required to be Lipschitzian rather than differentiable. Using theΨ-functional of Byrd and Nocedal (1987) a strong form of R-superlinear convergence is obtained if the element functions are uniformly convex and their gradients are strictly differentiable at the minimizerx* only. In order to deal with the possibility of singular functions we utilize a damping of the BFGS update that becomes inactive if the problem turns out to be regular nearx*.
+Keywords
+Global convergence  R-linear or R-superlinear convergence  partial separability  partitioned updating  uniform convexity  

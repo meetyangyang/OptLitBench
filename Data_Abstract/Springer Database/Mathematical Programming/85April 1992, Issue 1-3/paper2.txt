@@ -1,0 +1,6 @@
+A parallel branch and bound algorithm for solving large asymmetric traveling salesman problems
+J. F. Pekny;D. L. Miller;
+Abstract
+A parallel branch and bound algorithm that solves the asymmetric traveling salesman problem to optimality is described. The algorithm uses an assignment problem based lower bounding technique, subtour elimination branching rules, and a subtour patching algorithm as an upper bounding procedure. The algorithm is organized around a data flow framework for parallel branch and bound. The algorithm begins by converting the cost matrix to a sparser version in such a fashion as to retain the optimality of the final solution. Computational results are presented for three different classes of problem instances: (1) matrix elements drawn from a uniform distribution of integers for instances of size 250 to 10 000 cities, (2) instances of size 250 to 1000 cities that concentrate small elements in the upper left portion of the cost matrix, and (3) instances of size 300 to 3000 cities that are designed to confound neighborhood search heuristics.
+Keywords
+Parallel computing  traveling salesman problem  branch and bound  

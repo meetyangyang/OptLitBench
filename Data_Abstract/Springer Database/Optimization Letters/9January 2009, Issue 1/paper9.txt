@@ -1,0 +1,6 @@
+Optimal kernel selection in twin support vector machines
+Reshma Khemchandani;Jayadeva;Suresh Chandra;
+Abstract
+In twin support vector machines (TWSVMs), we determine pair of non-parallel planes by solving two related SVM-type problems, each of which is smaller than the one in a conventional SVM. However, similar to other classification methods, the performance of the TWSVM classifier depends on the choice of the kernel. In this paper we treat the kernel selection problem for TWSVM as an optimization problem over the convex set of finitely many basic kernels, and formulate the same as an iterative alternating optimization problem. The efficacy of the proposed classification algorithm is demonstrated with some UCI machine learning benchmark datasets.
+Keywords
+Kernel methods  Learning kernels  Twin support vector machines  Convex optimization  

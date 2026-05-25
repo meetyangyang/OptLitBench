@@ -1,0 +1,6 @@
+Local Linear Convergence of the Alternating Direction Method of Multipliers on Quadratic or Linear Programs
+Daniel  Boley;
+Abstract
+We introduce a novel matrix recurrence yielding a new spectral analysis of the local transient convergence behavior of the alternating direction method of multipliers (ADMM), for the particular case of a quadratic program or a linear program. We identify a particular combination of vector iterates whose convergence can be analyzed via a spectral analysis. The theory predicts that ADMM should go through up to four convergence regimes, such as constant step convergence or linear convergence, ending with the latter when close enough to the optimal solution if the optimal solution is unique and satisfies strict complementarity.
+Keywords
+ADMM, linear programming, quadratic programming, 65K05, 90C05, 90C20, 

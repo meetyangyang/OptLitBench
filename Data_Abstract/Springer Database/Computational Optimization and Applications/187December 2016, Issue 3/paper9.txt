@@ -1,0 +1,6 @@
+A modified Levenberg–Marquardt method with line search for nonlinear equations
+Liang Chen;
+Abstract
+In this paper, we propose a new modified Levenberg–Marquardt method for nonlinear equations. At every iteration, not only a general LM step, but also two additional approximate LM steps which save the Jacobian calculation and employ line search for the step size, are computed. Under the error bound condition which is weaker than nonsingularity, this method is shown to be of fourth convergence order. Numerical results show that the new method is very efficient and could save many calculations of the Jacobian.
+Keywords
+Unconstrained optimization  Nonlinear equations  Levenberg–Marquardt method  Local error bound  Line search  65K05  90C30  

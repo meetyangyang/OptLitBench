@@ -1,0 +1,6 @@
+A quadratic programming algorithm using conjugate search directions
+Regina Benveniste;
+Abstract
+A quadratic programming algorithm is presented, resembling Beale's 1955 quadratic programming algorithm and Wolfe's Reduced Gradient method. It uses conjugate search directions. The algorithm is conceived as being particularly appropriate for problems with a large Hessian matrix. An experimental computer program has been written to validate the concepts, and has performed adequately, although it has not been used on very large problems. An outline of the solution to the quadratic capacity-constrained transportation problem using the above method is also presented.
+Keywords
+Quadratic Programming  Reduced Gradient  Conjugate Directions  Transformation of Search Directions  Transportation Problem  

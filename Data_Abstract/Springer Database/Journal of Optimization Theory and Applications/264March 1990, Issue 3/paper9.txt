@@ -1,0 +1,6 @@
+Convex minimization under Lipschitz constraints
+P. T. Thach;
+Abstract
+We consider the problem of minimizing a convex functionf(x) under Lipschitz constraintsf i (x)≤0,i=1,...,m. By transforming a system of Lipschitz constraintsf i (x)≤0,i=l,...,m, into a single constraints of the formh(x)-∥x∥2≤0, withh(·) being a closed convex function, we convert the problem into a convex program with an additional reverse convex constraint. Under a regularity assumption, we apply Tuy's method for convex programs with an additional reverse convex constraint to solve the converted problem. By this way, we construct an algorithm which reduces the problem to a sequence of subproblems of minimizing a concave, quadratic, separable function over a polytope. Finally, we show how the algorithm can be used for the decomposition of Lipschitz optimization problems involving relatively few nonconvex variables.
+Keywords
+Global optimization  convex minimization  Lipschitz constraints  reverse convex constraints  

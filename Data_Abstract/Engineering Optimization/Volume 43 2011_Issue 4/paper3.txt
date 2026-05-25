@@ -1,0 +1,6 @@
+Constrained multi-objective optimization algorithm with an ensemble of constraint handling methods
+ B.   Y.   Qu ; P.   N.   Suganthan ;
+Abstract
+ Different constraint handling techniques have been used with multi-objective evolutionary algorithms (MOEA) to solve constrained multi-objective optimization problems. It is impossible for a single constraint handling technique to outperform all other constraint handling techniques always on every problem irrespective of the exhaustiveness of the parameter tuning. To overcome this selection problem, an ensemble of constraint handling methods (ECHM) is used to tackle constrained multi-objective optimization problems. The ECHM is integrated with a multi-objective differential evolution (MODE) algorithm. The performance is compared between the ECHM and the same single constraint handling methods using the same MODE (using codes available from http://www3.ntu.edu.sg/home/EPNSugan/index.htm). The results show that ECHM overall outperforms the single constraint handling methods. 
+Keywords
+multi-objective evolutionary algorithm, multi-objective differential evolution, constrained multi-objective optimization, ensemble of constraint handling methods 

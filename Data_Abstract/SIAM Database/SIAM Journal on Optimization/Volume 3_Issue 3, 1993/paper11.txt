@@ -1,0 +1,6 @@
+A Collinear Scaling Interpretation of Karmarkar’s Linear Programming Algorithm
+J. C.  Lagarias;
+Abstract
+In 1980 W. C. Davidon proposed a class of unconstrained minimization methods, called collinear scaling algorithms, that are invariant under projective transformations. In these methods the nonlinear function f to be minimized is approximated near a point $x_0 $ by a suitable conic function $q( x_0  + p ) = f_0  + \langle g,p \rangle / ( 1 + \langle d,p \rangle ) + \frac{1}{2}\langle p,Ap \rangle / ( 1 + \langle d,p \rangle )^2 $ and the conic search direction is the global minimizer of $q ( x_0  + p )$. The full-dimensional version of Karmarkar’s 1984 linear programming algorithm is shown to be a collinear scaling method for minimizing Karmarkar’s potential function $g_K$, where the denominator $1 + \langle d,p \rangle $ of the conic function is chosen as the normalized linear program objective function and the Taylor series expansions of $g_K( x_0  + p )$ and $q( x_0  + p )$ agree to second order.
+Keywords
+Karmarkar’s algorithm, collinear scaling, conic approximation, 65K05, 90C05, 90C30, 

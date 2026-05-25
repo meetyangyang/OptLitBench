@@ -1,0 +1,6 @@
+A multi-objective genetic algorithm for the design of pressure swing adsorption
+ Giovanna   Fiandaca ; Eric   S.   Fraga ; Stefano   Brandani ;
+Abstract
+ Pressure Swing Adsorption (PSA) is a cyclic separation process, with advantages over other separation options for middle-scale processes. Automated tools for the design of PSA processes would be beneficial for the development of the technology, but their development is a difficult task due to the complexity of the simulation of PSA cycles and the computational effort needed to detect the performance in the cyclic steady state. A preliminary investigation is presented of the performance of a custom multi-objective genetic algorithm (MOGA) for the optimization of a fast cycle PSA operation – the separation of air for N2 production. The simulation requires a detailed diffusion model, which involves coupled nonlinear partial differential and algebraic equations (PDAEs). The efficiency of MOGA to handle this complex problem has been assessed by comparison with direct search methods. An analysis of the effect of MOGA parameters on the performance is also presented. 
+Keywords
+PSA, air separation, diffusion, multi-objective optimization genetic algorithms 

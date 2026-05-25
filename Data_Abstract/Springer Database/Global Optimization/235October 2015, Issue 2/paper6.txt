@@ -1,0 +1,6 @@
+Separable cubic modeling and a trust-region strategy for unconstrained minimization with impact in global optimization
+J. M. Martínez;M. Raydan;
+Abstract
+A separable cubic model, for smooth unconstrained minimization, is proposed and evaluated. The cubic model uses some novel secant-type choices for the parameters in the cubic terms. A suitable hard-case-free trust-region strategy that takes advantage of the separable cubic modeling is also presented. For the convergence analysis of our specialized trust region strategy we present as a general framework a model \(q\)-order trust region algorithm with variable metric and we prove its convergence to \(q\)-stationary points. Some preliminary numerical examples are also presented to illustrate the tendency of the specialized trust region algorithm, when combined with our cubic modeling, to escape from local minimizers.
+Keywords
+Smooth unconstrained minimization  Cubic modeling  Trust-region strategies  Newton-type methods  

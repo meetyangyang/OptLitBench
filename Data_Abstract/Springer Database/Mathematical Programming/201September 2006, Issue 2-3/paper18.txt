@@ -1,0 +1,6 @@
+A branch-reduce-cut algorithm for the global optimization of probabilistically constrained linear programs
+Myun-Seok Cheon;Shabbir Ahmed;Faiz Al-Khayyal;
+Abstract
+We consider probabilistically constrained linear programs with general distributions for the uncertain parameters. These problems involve non-convex feasible sets. We develop a branch-and-bound algorithm that searches for a global optimal solution to this problem by successively partitioning the non-convex feasible region and by using bounds on the objective function to fathom inferior partition elements. This basic algorithm is enhanced by domain reduction and cutting plane strategies to reduce the size of the partition elements and hence tighten bounds. The proposed branch-reduce-cut algorithm exploits the monotonicity properties inherent in the problem, and requires solving linear programming subproblems. We provide convergence proofs for the algorithm. Some illustrative numerical results involving problems with discrete distributions are presented.
+Keywords
+Probabilistically Constrained Linear Programs  Chance Constrained Programs  Global Optimization  Branch-and-bound  

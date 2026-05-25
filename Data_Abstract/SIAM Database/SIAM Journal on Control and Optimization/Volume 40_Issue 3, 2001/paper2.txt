@@ -1,0 +1,6 @@
+Learning Algorithms for Markov Decision Processes with Average Cost
+J.  Abounadi, D.  Bertsekas, and V. S.  Borkar;
+Abstract
+This paper gives the first rigorous convergence analysis of analogues of Watkins's Q-learning algorithm, applied to average cost control of finite-state Markov chains. We discuss two algorithms which may be viewed as stochastic approximation counterparts of two existing algorithms for recursively computing the value function of the average cost problem---the traditional relative value iteration (RVI) algorithm and a recent algorithm of Bertsekas based on the stochastic shortest path (SSP) formulation of the problem. Both synchronous and asynchronous implementations are considered and analyzed using the ODE method. This involves establishing asymptotic stability of associated ODE limits. The SSP algorithm also uses ideas fromtwo-time-scale stochastic approximation.
+Keywords
+simulation-based algorithms, Q-learning, controlled Markov chains, average cost control, stochastic approximation, dynamic programming, 93E20, 

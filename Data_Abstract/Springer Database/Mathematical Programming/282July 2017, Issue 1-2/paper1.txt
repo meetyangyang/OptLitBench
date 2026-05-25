@@ -1,0 +1,6 @@
+Linearly convergent away-step conditional gradient for non-strongly convex functions
+Amir Beck;Shimrit Shtern;
+Abstract
+We consider the problem of minimizing the sum of a linear function and a composition of a strongly convex function with a linear transformation over a compact polyhedral set. Jaggi and Lacoste-Julien (An affine invariant linear convergence analysis for Frank-Wolfe algorithms. NIPS 2013 Workshop on Greedy Algorithms, Frank-Wolfe and Friends, 2014) show that the conditional gradient method with away steps — employed on the aforementioned problem without the additional linear term — has a linear rate of convergence, depending on the so-called pyramidal width of the feasible set. We revisit this result and provide a variant of the algorithm and an analysis based on simple linear programming duality arguments, as well as corresponding error bounds. This new analysis (a) enables the incorporation of the additional linear term, and (b) depends on a new constant, that is explicitly expressed in terms of the problem’s parameters and the geometry of the feasible set. This constant replaces the pyramidal width, which is difficult to evaluate.
+Keywords
+90-08  90C25  65K10  

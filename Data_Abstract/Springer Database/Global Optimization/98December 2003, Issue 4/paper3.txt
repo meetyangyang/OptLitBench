@@ -1,0 +1,6 @@
+Improved Approximation Algorithms for MAX \(\frac{n}{{\text{2}}}\)-DIRECTED-BISECTION and MAX \(\frac{n}{{\text{2}}}\)-DENSE-SUBGRAPH
+Dachuan Xu;Jiye Han;Zhenghai Huang;Liping Zhang;
+Abstract
+We consider the MAX \(\frac{n}{{\text{2}}}\)-DIRECTED-BISECTION problem, i.e., partitioning the vertices of a directed graph into two blocks of equal cardinality so as to maximize the total weight of the edges in the directed cut. A polynomial approximation algorithm using a semidefinite relaxation with 0.6458 performance guarantee is presented for the problem. The previous best-known results for approximating this problem are 0.5 using a linear programming relaxation, 0.6440 using a semidefinite relaxation. We also consider the MAX \(\frac{n}{{\text{2}}}\)-DENSE-SUBGRAPH problem, i.e., determine a block of half the number of vertices from a weighted undirected graph such that the sum of the edge weights, within the subgraph induced by the block, is maximized. We present an 0.6236 approximation of the problem as opposed to 0.6221 of Halperin and Zwick.
+Keywords
+MAX \(\frac{n}{{\text{2}}}\)-DIRECTED-BISECTION  MAX \(\frac{n}{{\text{2}}}\)-DENSE-SUBGRAPH  Polynomial-time approximation algorithm  Semidefinite programming  

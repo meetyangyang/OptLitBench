@@ -1,0 +1,6 @@
+On A Class of Limited Memory Preconditioners For Large Scale Linear Systems With Multiple Right-Hand Sides
+S.  Gratton, A.  Sartenaer, and J.  Tshimanga;
+Abstract
+This work studies a class of limited memory preconditioners (LMPs) for solving linear (positive-definite) systems of equations with multiple right-hand sides. We propose a class of (LMPs), whose construction requires a small number of linearly independent vectors. After exploring the theoretical properties of the preconditioners, we focus on three particular members: spectral-LMP, quasi-Newton-LMP, and Ritz-LMP. We show that the first two are well known, while the third is new. Numerical tests indicate that the Ritz-LMP is efficient on a real-life nonlinear optimization problem arising in a data assimilation system for oceanography.
+Keywords
+preconditioners, linear systems, conjugate gradient, limited memory, 65K05, 65K10, 15A09, 15A15, 15A29, 

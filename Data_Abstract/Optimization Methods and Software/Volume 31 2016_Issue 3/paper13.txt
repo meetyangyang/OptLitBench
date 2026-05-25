@@ -1,0 +1,6 @@
+Iteration complexity analysis of dual first-order methods for conic convex programming
+I. Necoara;A. Patrascu;
+Abstract
+In this paper we provide a detailed analysis of the iteration complexity of dual first-order methods for solving conic convex problems. When it is difficult to project on the primal feasible set described by conic and convex constraints, we use the Lagrangian relaxation to handle the conic constraints and then, we apply dual first-order algorithms for solving the corresponding dual problem. We give convergence analysis for dual first-order algorithms (dual gradient and fast gradient algorithms): we provide sublinear or linear estimates on the primal suboptimality and feasibility violation of the generated approximate primal solutions. Our analysis relies on the Lipschitz property of the gradient of the dual function or an error bound property of the dual. Furthermore, the iteration complexity analysis is based on two types of approximate primal solutions: the last primal iterate or an average primal sequence.
+Keywords
+conic convex problem, smooth dual function, dual first-order methods, aproximate primal feasible and suboptimal solution, rate of convergenceAMS Subject Classification: 90C25, 90C46, 49N15, 65K05 

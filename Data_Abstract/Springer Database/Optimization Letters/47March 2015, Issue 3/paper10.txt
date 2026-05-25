@@ -1,0 +1,6 @@
+An improved algorithm for integrated production and distribution scheduling problem with committed delivery dates
+Weiya Zhong;
+Abstract
+In this paper, we study a machine scheduling problem with job transportation coordination. The orders including different amount of the same product will be delivered to their customers after being completed on a single machine and each order has a delivery due date which is promised by the manufacturer to its customer. A third-party logistics provider picks up the finished orders at the end of each day and charges each order a delivery cost, which is linearly decreasing with the delivery time and linearly increasing with its quantity. The goal is to find a schedule minimizing total delivery cost under the constraint that all the orders are delivered to the customers before the due dates. The problem is strongly NP-hard. We propose an improved approximate algorithm with worst-case ratio of \(5/3\), which improves the existing one with worst-case ratio of \(2\).
+Keywords
+Scheduling  Approximate algorithm  

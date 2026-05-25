@@ -1,0 +1,6 @@
+Least-Squares Approximations in Geometric Buildup for Solving Distance Geometry Problems
+Xin-long Luo;Zhi-jun Wu;
+Abstract
+In this article, we investigate some theoretical and computational issues of the geometric buildup algorithm proposed by Sit, Wu and Yuan (Bull. Math. Biol. 71:1914–1933, 2009) for the solution of the distance geometry problem with sparse and inexact distances. This algorithm repeatedly uses a least-squares approximation to determine the position of an undetermined atom, using the distances from this atom to a set of previously determined ones. The least-squares approximation, obtained from the singular value decomposition of a distance-induced matrix, can find the best possible position for the atom, even if the distances have small errors, as they usually do in practice, and therefore make the geometric buildup algorithm more stable than its previous versions that relied on linear system solvers. We estimate its numerical errors and prove some of its key mathematical properties. We also present some numerical results with varying some of the parameters in the algorithm and show how they may be used to improve its performance and computational accuracy.
+Keywords
+Biomolecular modeling  Distance geometry  Nonlinear least squares  Singular value decomposition  

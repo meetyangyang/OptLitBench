@@ -1,0 +1,6 @@
+Boundary Feedback Stabilization of an Unstable Heat Equation
+Weijiu  Liu;
+Abstract
+In this paper we study the problem of boundary feedback stabilization for the unstable heat equation ut(x,t) = uxx(x,t)+a(x) u(x,t).  This equation can be viewed as a model of a heat conducting rod in which not only is the heat being diffused (mathematically due to the diffusive term uxx) but also the destabilizing heat is generating (mathematically due to the term a u with a >0). We show that for any given continuously differentiable function a and any given positive constant $\l$ we can explicitly construct a boundary feedback control law such that the solution of the equation with the control law converges to zero exponentially at the rate of $\l$. This is a continuation of the recent work of Boskovic, Krstic, and Liu [IEEE Trans. Automat. Control, 46 (2001), pp. 2022--2028] and Balogh and Krstic [European J. Control, 8 (2002), pp. 165--176].
+Keywords
+heat equation, boundary control, stabilization, 35K05, 93D15, 

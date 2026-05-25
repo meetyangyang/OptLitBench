@@ -1,0 +1,6 @@
+A New Finite Continuation Algorithm for Linear Programming
+Kaj  Madsen, Hans Bruun  Nielsen, and Mustafa Ç  Pinar;
+Abstract
+We describe a new finite continuation algorithm for linear programming. The dual of the linear programming problem with unit lower and upper bounds is formulated as an $\ell_1 $ minimization problem augmented with the addition of a linear term. This nondifferentiable problem is approximated by a smooth problem. It is shown that the minimizers of the smooth problem define a family of piecewise-linear paths as a function of a smoothing parameter. Based on this property, a finite algorithm that traces these paths to arrive at an optimal solution of the linear program is developed. The smooth problems are solved by a Newton-type algorithm. Preliminary numerical results indicate that the new algorithm is promising.
+Keywords
+finite algorithms, continuation methods, linear programming, ℓ1 optimization, Huber function, Newton’s method, 90C05, 65K05, 

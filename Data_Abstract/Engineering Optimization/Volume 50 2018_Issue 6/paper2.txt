@@ -1,0 +1,6 @@
+An innovative artificial bee colony algorithm and its application to a practical intercell scheduling problem
+Dongni Li;Rongtao Guo;Rongxin Zhan;Yong Yin;
+Abstract
+In this article, an innovative artificial bee colony (IABC) algorithm is proposed, which incorporates two mechanisms. On the one hand, to provide the evolutionary process with a higher starting level, genetic programming (GP) is used to generate heuristic rules by exploiting the elements that constitute the problem. On the other hand, to achieve a better balance between exploration and exploitation, a leading mechanism is proposed to attract individuals towards a promising region. To evaluate the performance of IABC in solving practical and complex problems, it is applied to the intercell scheduling problem with limited transportation capacity. It is observed that the GP-generated rules incorporate the elements of the most competing human-designed rules, and they are more effective than the human-designed ones. Regarding the leading mechanism, the strategies of the ageing leader and multiple challengers make the algorithm less likely to be trapped in local optima.
+Keywords
+Swarm intelligence, artificial bee colony, genetic programming, leading mechanism 

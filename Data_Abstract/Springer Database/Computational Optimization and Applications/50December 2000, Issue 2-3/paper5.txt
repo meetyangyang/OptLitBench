@@ -1,0 +1,6 @@
+A Complexity Analysis of a Smoothing Method Using CHKS-functions for Monotone Linear Complementarity Problems
+Keisuke Hotta;Masatora Inaba;Akiko Yoshise;
+Abstract
+We consider the standard linear complementarity problem (LCP): Find (x, y) ∈ R2n such that y = Mx + q, (x, y) ≥ 0 and xiyi = 0 (i = 1, 2, ... , n), where M is an n × n matrix and q is an n-dimensional vector. Recently several smoothing methods have been developed for solving monotone and/or P0 LCPs. The aim of this paper is to derive a complexity bound of smoothing methods using Chen-Harker-Kanzow-Smale functions in the case where the monotone LCP has a feasible interior point. After a smoothing method is provided, some properties of the CHKS-function are described. As a consequence, we show that the algorithm terminates in \(O\left( {\frac{{\gamma ^{ - 6} n}}{{\varepsilon ^6 }}\log \frac{{\gamma ^{ - 2} n}}{{\varepsilon ^2 }}} \right)\) Newton iterations where \({\bar \gamma }\) is a number which depends on the problem and the initial point. We also discuss some relationships between the interior point methods and the smoothing methods.
+Keywords
+smoothing method  complexity bound  linear complementarity problem  monotonicity  

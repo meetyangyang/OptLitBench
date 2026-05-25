@@ -1,0 +1,6 @@
+Piecewise linear secant approximation via algorithmic piecewise differentiation
+Andreas Griewank;Tom Streubel;Lutz Lehmann;Manuel Radons;Richard Hasenfelder;
+Abstract
+It is shown how piecewise differentiable functions F:ℝn↦ℝm that are defined by evaluation programmes can be approximated locally by a piecewise linear model based on a pair of sample points . We show that the discrepancy between function and model at any point x is of the bilinear order . As an application of the piecewise linearization procedure we devise a generalized Newton's method based on successive piecewise linearization and prove for it sufficient conditions for convergence and convergence rates equalling those of semismooth Newton. We conclude with the derivation of formulas for the numerically stable implementation of the aforedeveloped piecewise linearization methods.
+Keywords
+Automatic differentiation, stable piecewise linearization, generalized Newton's method, Lipschitz continuity, generalized hermite interpolation, ADOL-CMSC2010: 65D25, 65K10, 49J52 

@@ -1,0 +1,6 @@
+An extension of the simplex algorithm for semi-infinite linear programming
+E. J. Anderson;A. S. Lewis;
+Abstract
+We present a primal method for the solution of the semi-infinite linear programming problem with constraint index setS. We begin with a detailed treatment of the case whenS is a closed line interval in ℝ. A characterization of the extreme points of the feasible set is given, together with a purification algorithm which constructs an extreme point from any initial feasible solution. The set of points inS where the constraints are active is crucial to the development we give. In the non-degenerate case, the descent step for the new algorithm takes one of two forms: either an active point is dropped, or an active point is perturbed to the left or right. We also discuss the form of the algorithm when the extreme point solution is degenerate, and in the general case when the constraint index set lies in ℝ p . The method has associated with it some numerical difficulties which are at present unresolved. Hence it is primarily of interest in the theoretical context of infinite-dimensional extensions of the simplex algorithm.
+Keywords
+Linear programs  semi-infinite programs  extreme points  simplex algorithm  

@@ -1,0 +1,4 @@
+The Support of Integer Optimal Solutions
+I.  Aliev, J. A.  De Loera, F.  Eisenbrand, T.  Oertel, and R.  Weismantel;
+Abstract
+The support of a vector is the number of nonzero components. We show that given an integral $m\times n$ matrix $A$, the integer linear optimization problem $\max\{c^Tx : Ax = b, x \ge 0, x \in \mathbb{Z}^n\}$ has an optimal solution whose support is bounded by $2m \, \log (2 \sqrt{m} \| A \|_\infty)$, where $ \| A \|_\infty$ is the largest absolute value of an entry of $A$. Compared to previous bounds, the one presented here is independent of the objective function. We furthermore provide a nearly matching asymptotic lower bound on the support of optimal solutions.

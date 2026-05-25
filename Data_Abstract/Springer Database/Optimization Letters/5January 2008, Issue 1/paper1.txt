@@ -1,0 +1,6 @@
+A global minimization algorithm for Lipschitz functions
+M. Gaviano;D. Lera;
+Abstract
+The global optimization problem \({ \min_{x \in S} f(x)}\) with \({S=[a,b], a, b \in {\bf R}^n}\) and f(x) satisfying the Lipschitz condition \({|f(x) - f(y)| \leq l\|x-y\|_\infty, \enspace\forall x,y \,{\in}\, S, \ l > 0}\) , is considered. To solve it a region-search algorithm is introduced. This combines a local minimum algorithm with a procedure that at the ith iteration finds a region S  i  where the global minimum has to be searched for. Specifically, by making use of the Lipschitz condition, S  i , which is a sequence of intervals, is constructed by leaving out from S  i-1 an interval where the global minimum cannot be located. A convergence property of the algorithm is given. Further, the ratio between the measure of the initial feasible region and that of the unexplored region may be used as stop rule. Numerical experiments are carried out; these show that the algorithm works well in finding and reducing the measure of the unexplored region.
+Keywords
+Random search  Global optimization  Lipschitz function  

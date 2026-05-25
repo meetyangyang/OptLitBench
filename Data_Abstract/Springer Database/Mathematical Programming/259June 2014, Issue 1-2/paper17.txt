@@ -1,0 +1,6 @@
+Lattice-free sets, multi-branch split disjunctions, and mixed-integer programming
+Sanjeeb Dash;Neil B. Dobbs;Oktay Günlük;Tomasz J. Nowicki;Grzegorz M. Świrszcz;
+Abstract
+In this paper we study the relationship between valid inequalities for mixed-integer sets, lattice-free sets associated with these inequalities and the multi-branch split cuts introduced by Li and Richard (Discret Optim 5:724–734, 2008). By analyzing \(n\)-dimensional lattice-free sets, we prove that for every integer \(n\) there exists a positive integer \(t\) such that every facet-defining inequality of the convex hull of a mixed-integer polyhedral set with \(n\) integer variables is a \(t\)-branch split cut. We use this result to give a finite cutting-plane algorithm to solve mixed-integer programs. We also show that the minimum value \(t\), for which all facets of polyhedral mixed-integer sets with \(n\) integer variables can be generated as \(t\)-branch split cuts, grows exponentially with \(n\). In particular, when \(n=3\), we observe that not all facet-defining inequalities are 6-branch split cuts.
+Keywords
+90C11  90C60  

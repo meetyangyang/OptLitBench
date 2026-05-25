@@ -1,0 +1,6 @@
+A class of nonmonotone Armijo-type line search method for unconstrained optimization
+ Masoud   Ahookhosh ; Keyvan   Amini ; Somayeh   Bahrami ;
+Abstract
+ In this article, we propose a new line search method for solving unconstrained optimization problems in that we combine a nonmonotone strategy into a modified Armijo rule and design a new algorithm that possibly chooses a larger steplength. This can decrease the number of iterations and function evaluations and can improve the efficiency of the algorithm. The global convergence and convergence rate are analysed under some suitable conditions. Preliminary numerical experiments establish that the new approach is robust and efficient for unconstrained optimization problems. 
+Keywords
+unconstrained optimization, line search method, nonmonotone strategy, global convergenceAMS Subject Classifications:: 90C30, 65k05, 65k10 

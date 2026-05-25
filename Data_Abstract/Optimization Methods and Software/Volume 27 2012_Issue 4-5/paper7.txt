@@ -1,0 +1,6 @@
+A robust algorithm for semidefinite programming
+ Xuan   Vinh   Doan ; Serge   Kruk ; Henry   Wolkowicz ;
+Abstract
+ Current successful methods for solving semidefinite programs (SDPs) are based on primal–dual interior-point approaches. These usually involve a symmetrization step to allow for application of Newton's method followed by block elimination to reduce the size of the Newton equation. Both these steps create ill-conditioning in the Newton equation and singularity of the Jacobian of the optimality conditions at the optimum. In order to avoid the ill-conditioning, we derive and test a backwards stable primal–dual interior-point method for SDP. Relative to current public domain software, we realize both a distinct improvement in the accuracy of the optimum and a reduction in the number of iterations. This is true for random problems as well as for problems of special structure. Our algorithm is based on a Gauss–Newton approach applied to a single bilinear form of the optimality conditions. The well-conditioned Jacobian allows for a preconditioned (matrix-free) iterative method for finding the search direction at each iteration. 
+Keywords
+semidefinite programming, robust algorithm, matrix-free formulation, preconditioning AMS Subject Classifications : 90C22, 90C51, 65F08 

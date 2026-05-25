@@ -1,0 +1,6 @@
+A Perturbed Parallel Decomposition Method for a Class of Nonsmooth Convex Minimization Problems
+Khalil  Mouallif, Van Hien  Nguyen, and Jean-Jacques  Strodiot;
+Abstract
+A perturbed parallel decomposition method for solving the following model problem is presented: minimize $f_0 (x) + \sum_{i = 1}^m {f_i (x)} $ over all x in $\mathbb{R}^n $, where $f_0 $ is differentiable and strongly convex, and the $f_i $’s are closed, proper, and convex (but not necessarily differentiable). An important feature of the proposed method is the ability to split the given problem into independent subproblems that contain only individual functions; in that way the algorithm is suitable for parallel computation. The approach also allows for inaccuracies and duality gaps during the iterative process. Furthermore, convergence is established under perturbations on the $f_i $’s in the epiconvergence sense (and under inexact minimizations at each iteration). Relations of the method with the recent work of Han and Lou on the same model problem are also discussed. From the theoretical point of view, this paper represents a significant improvement on the parallel decomposition algorithms of Han and Lou.
+Keywords
+decomposition technique, parallel optimization algorithm, nonsmooth convex programming, variational convergence, 65K05, 65K10, 90C25, 90C30, 

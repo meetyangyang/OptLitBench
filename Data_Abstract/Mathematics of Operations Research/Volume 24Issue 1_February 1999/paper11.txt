@@ -1,0 +1,6 @@
+Ellipsoidal Approximations of Convex Sets Based on the Volumetric Barrier
+K. M. Anstreicher;
+Abstract
+Let C ⊂Rn be a convex set. We assume that ‖x‖∞ ≤ 1 for all x ∈ C, and that C contains a ball of radius 1/R. For x ∈ Rn, r ∈ R, and B and n × n symmetric positive definite matrix, let E(x, B, r) = {y|(y − x)TB(y − x) ≤ r2}. A β-rounding of C is an ellipsoid E(x, B, r) such that E(x, B, r/β) ⊂ C ⊂ E(x, B, r). In the case that C is characterized by a separation oracle, it is well known that an O(n3/2)-rounding of C can be obtained using the shallow cut ellipsoid method in O(n3 ln(nR)) oracle calls. We show that a modification of the volumetric cutting plane method obtains an O(n3/2)-rounding of C in O(n2 ln(nR)) oracle calls. We also consider the problem of obtaining an O(n)-rounding of C when C has an explicit polyhedral description. Our analysis uses a new characterization of circumscribing ellipsoids centered at, or near, the volumetric center of a polyhedral set.
+Keywords
+Volumetric barrier shallow-cut ellipsoid algorithm rounding 

@@ -1,0 +1,6 @@
+Greedy Gauss-Newton algorithms for finding sparse solutions to nonlinear underdetermined systems of equations
+M. Gulliksson;A. Oleynik;
+Abstract
+We consider the problem of finding sparse solutions to a system of underdetermined non-linear system of equations. The methods are based on a Gauss–Newton approach with line search where the search direction is found by solving a linearized problem using only a subset of the columns in the Jacobian. The choice of columns in the Jacobian is made through a greedy approach looking at either maximum descent or an approach corresponding to orthogonal matching for linear problems. The methods are shown to be convergent and efficient and outperform the l1 approach on the test problems presented.
+Keywords
+Non-linear equations, least squares, Gauss–Newton, sparse optimization, line search 

@@ -1,0 +1,6 @@
+A Damped Gauss-Newton Method for the Second-Order Cone Complementarity Problem
+Shaohua Pan;Jein-Shan Chen;
+Abstract
+We investigate some properties related to the generalized Newton method for the Fischer-Burmeister (FB) function over second-order cones, which allows us to reformulate the second-order cone complementarity problem (SOCCP) as a semismooth system of equations. Specifically, we characterize the B-subdifferential of the FB function at a general point and study the condition for every element of the B-subdifferential at a solution being nonsingular. In addition, for the induced FB merit function, we establish its coerciveness and provide a weaker condition than Chen and Tseng (Math. Program. 104:293–327, 2005) for each stationary point to be a solution, under suitable Cartesian P-properties of the involved mapping. By this, a damped Gauss-Newton method is proposed, and the global and superlinear convergence results are obtained. Numerical results are reported for the second-order cone programs from the DIMACS library, which verify the good theoretical properties of the method.
+Keywords
+Second-order cones  Complementarity  Fischer-Burmeister function  B-subdifferential  Generalized Newton method  

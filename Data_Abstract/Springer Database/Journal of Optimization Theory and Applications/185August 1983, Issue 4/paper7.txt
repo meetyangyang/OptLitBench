@@ -1,0 +1,6 @@
+Implementation of sensitivity calculations on a monte carlo experiment
+R. Suri;
+Abstract
+A new approach to the optimization of discrete-event dynamic systems has recently been developed (Refs. 1–4). The implementation of this approach requires answering the following question: given an observed value of the outcome of a random variable, what would have been the outcome if the parameters of the random variable had been different? The answer to this question would traditionally involve the value of an outcome in an underlying sample space. However, this underlying value cannot normally be observed. In this note, we give a framework for answering this question, in terms of the observed value alone. This point had not been considered rigorously in the new approach of Refs. 1–4, and our note derives a basic equation required for that approach.
+Keywords
+Discrete event systems  Monte Carlo methods  stochastic processes  queueing theory  simulation  perturbation analysis  sensitivity analysis  

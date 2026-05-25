@@ -1,0 +1,6 @@
+A polynomial projection algorithm for linear feasibility problems
+Sergei Chubanov;
+Abstract
+We propose a polynomial algorithm for linear feasibility problems. The algorithm represents a linear problem in the form of a system of linear equations and non-negativity constraints. Then it uses a procedure which either finds a solution for the respective homogeneous system or provides the information based on which the algorithm rescales the homogeneous system so that its feasible solutions in the unit cube get closer to the vector of all ones. In a polynomial number of calls to the procedure the algorithm either proves that the original system is infeasible or finds a solution in the relative interior of the feasible set.
+Keywords
+Linear programming  Systems of linear inequalities  Polynomial algorithm  90C05 Linear programming  

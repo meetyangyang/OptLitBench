@@ -1,0 +1,6 @@
+ tttplots-compare: a perl program to compare time-to-target plots or general runtime distributions of randomized algorithms
+Celso C. Ribeiro;Isabel Rosseti;
+Abstract
+Run time distributions or time-to-target plots display on the ordinate axis the probability that an algorithm will find a solution at least as good as a given target value within a given running time, shown on the abscissa axis. Given a pair of different randomized algorithms \(A_1\) and \(A_2\), we describe a numerical method that gives the probability that \(A_1\) finds a solution at least as good as a given target value in a smaller computation time than \(A_2\), for the case where the runtimes of each of the two algorithms follow any runtime distribution. An illustrative example of a numerical application is also reported. We describe the perl program tttplots-compare, developed to compare time-to-target plots or general runtime distribution for measured CPU times of any two randomized heuristics. A listing of the perl program is given, and the program can also be downloaded from http://www.ic.uff.br/~celso/compare-tttplots.
+Keywords
+Randomized algorithms  GRASP  tttplots  Metaheuristics  Stochastic local search  Runtime distributions  Algorithm performance  Comparison of two algorithms  

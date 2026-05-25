@@ -1,0 +1,6 @@
+An extension of the directed search domain algorithm to bilevel optimization
+Kaiqiang Wang;Sergey V. Utyuzhnikov;
+Abstract
+ABSTRACTA method is developed for generating a well-distributed Pareto set for the upper level in bilevel multiobjective optimization. The approach is based on the Directed Search Domain (DSD) algorithm, which is a classical approach for generation of a quasi-evenly distributed Pareto set in multiobjective optimization. The approach contains a double-layer optimizer designed in a specific way under the framework of the DSD method. The double-layer optimizer is based on bilevel single-objective optimization and aims to find a unique optimal Pareto solution rather than generate the whole Pareto frontier on the lower level in order to improve the optimization efficiency. The proposed bilevel DSD approach is verified on several test cases, and a relevant comparison against another classical approach is made. It is shown that the approach can generate a quasi-evenly distributed Pareto set for the upper level with relatively low time consumption.
+Keywords
+Bilevel optimization, multiobjective optimization, DSD, Pareto set, double-layer optimizer 

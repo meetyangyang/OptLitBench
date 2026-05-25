@@ -1,0 +1,6 @@
+Entropy minimization in turbine cascade using continuous adjoint formulation
+M. Zeinalpour;K. Mazaheri;
+Abstract
+A complete continuous adjoint formulation is presented here for the optimization of the turbulent flow entropy generation rate through a turbine cascade. The adjoint method allows one to have many design variables, but still afford to compute the objective function gradient. The new adjoint system can be applied to different structured and unstructured grids as well as mixed subsonic and supersonic flows. For turbulent flow simulation, the k–ω shear-stress transport turbulence model and Roe's flux function are used. To ensure all possible shape models, a mesh-point method is used for design parameters, and an implicit smoothing function is implemented to avoid the generation of non-smoothed blades. To analyse the capability of the presented algorithm, the shape of a turbine cascade blade is redesigned and a few physical observations are made on how the scheme improves the blade performance.
+Keywords
+shape optimization, adjoint method, mesh point method, turbine blade 

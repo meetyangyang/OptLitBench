@@ -1,0 +1,6 @@
+Minimization of convex functionals involving nested maxima: Nonconcave duality and algorithms
+G. Cohen;
+Abstract
+We consider problems of the form$$\mathop {\min }\limits_u  J(u) + \sum\limits_{0 \leqslant i \leqslant n} {a_i  } \mathop {\max }\limits_{0 \leqslant j \leqslant i}  \Theta _j (u),$$ in which thea′ i s are nonnegative numbers, andJ and the Θ j 's are convex functionals on a reflexive Banach spaceU. We show that such problems may arise, in particular, when scheduling investments over several periods of time. By expressing the nested maximizations in a recursive way, we transform the above problem into that of finding the minimax of some functional Φ(u, α), where α ranges over the unit cube of ℝ n . Although the dependence of Φ on α is neither linear nor even concave, we show that a saddle point does exist for this problem. Moreover, we propose a very simple dual algorithm to solve maxα min u  Φ(u, α), whose convergence is proved and whose limit yields the true optimum, although the dual functional is not concave and does have local maxima in general. Another algorithm with this same property, but without convergence proof, is also proposed. Finally, a numerical example illustrates the use of these approaches and algorithms.
+Keywords
+Nonlinear programming  minimax problems  duality  investment optimization  optimal sizing  

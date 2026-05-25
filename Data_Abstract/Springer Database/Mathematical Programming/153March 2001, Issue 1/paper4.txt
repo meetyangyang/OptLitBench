@@ -1,0 +1,6 @@
+On the convergence of the Newton/log-barrier method
+Stephen J. Wright;
+Abstract
+In the Newton/log-barrier method, Newton steps are taken for the log-barrier function for a fixed value of the barrier parameter until a certain convergence criterion is satisfied. The barrier parameter is then decreased and the Newton process is repeated. A naive analysis indicates that Newton’s method does not exhibit superlinear convergence to the minimizer of each instance of the log-barrier function until it reaches a very small neighborhood, namely within O(μ2) of the minimizer, where μ is the barrier parameter. By analyzing the structure of the barrier Hessian and gradient in terms of the subspace of active constraint gradients and the associated null space, we show that this neighborhood is in fact much larger –O(μσ) for any σ∈(1,2] – thus explaining why reasonably fast local convergence can be attained in practice. Moreover, we show that the overall convergence rate of the Newton/log-barrier algorithm is superlinear in the number of function/derivative evaluations, provided that the nonlinear program is formulated with a linear objective and that the schedule for decreasing the barrier parameter is related in a certain way to the step length and convergence criteria for each Newton process.
+Keywords
+Mathematics Subject Classification (1991): 90C51, 90C30, 65K05  

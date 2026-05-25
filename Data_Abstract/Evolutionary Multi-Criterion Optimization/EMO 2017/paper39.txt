@@ -1,0 +1,4 @@
+A Population-Based Algorithm for Learning a Majority Rule Sorting Model with Coalitional Veto
+Olivier Sobrie;Vincent Mousseau;Marc Pirlot;
+Abstract
+MR-Sort (Majority Rule Sorting) is a multiple criteria sorting method which assigns an alternative a to category \(C^h\) when a is better than the lower limit of \(C^h\) on a weighted majority of criteria, and this is not true with the upper limit of \(C^h\). We enrich the descriptive ability of MR-Sort by the addition of coalitional vetoes which operate in a symmetric way as compared to the MR-Sort rule w.r.t. to category limits, using specific veto profiles and veto weights. We describe a heuristic algorithm to learn such an MR-Sort model enriched with coalitional veto from a set of assignment examples, and show how it performs on real datasets.

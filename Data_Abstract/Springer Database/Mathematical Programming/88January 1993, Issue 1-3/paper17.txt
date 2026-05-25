@@ -1,0 +1,6 @@
+A lift-and-project cutting plane algorithm for mixed 0–1 programs
+Egon Balas;Sebastián Ceria;Gérard Cornuéjols;
+Abstract
+We propose a cutting plane algorithm for mixed 0–1 programs based on a family of polyhedra which strengthen the usual LP relaxation. We show how to generate a facet of a polyhedron in this family which is most violated by the current fractional point. This cut is found through the solution of a linear program that has about twice the size of the usual LP relaxation. A lifting step is used to reduce the size of the LP's needed to generate the cuts. An additional strengthening step suggested by Balas and Jeroslow is then applied. We report our computational experience with a preliminary version of the algorithm. This approach is related to the work of Balas on disjunctive programming, the matrix cone relaxations of Lovász and Schrijver and the hierarchy of relaxations of Sherali and Adams.
+Keywords
+Cutting planes  projection  mixed 0–1 programming  disjunctive programming  

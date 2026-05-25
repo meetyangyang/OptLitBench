@@ -1,0 +1,6 @@
+Solution procedures for multi-objective markov decision processes
+   K.   Wakuta ;   K.   Togawa ;
+Abstract
+ We are concerned with multi-objective Markov decision processes with no discounting as well as discounting. We present new policy iteration algorithms for finding all optimal deterministic stationary policies. The algorithms consist of three phases: the first phase is to narrow down the possible candidates for optimality via policy iteration (Some non-optimal deterministic stationary policies are eliminated); the second phase is to determine whether each candidate is in fact optimal, by solving a system of linearinequalities (Some optimal deterministic stationary policies are obtained); the third phase is to decide the optimality of a policy by solving some other systems of linear inequalities if there exists an undetermined policy until the second phase (All optimal deterministic stationary policies are identified). We solve numerical examples by implementing C programs based on the algorithms above  
+Keywords
+Markov Decision Process, Multi-Objective, Policy Iteration Algorithm 

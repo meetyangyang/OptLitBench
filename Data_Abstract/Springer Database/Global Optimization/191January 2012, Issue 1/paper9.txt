@@ -1,0 +1,6 @@
+Dual extragradient algorithms extended to equilibrium problems
+Tran D. Quoc;Pham N. Anh;Le D. Muu;
+Abstract
+In this paper we propose two iterative schemes for solving equilibrium problems which are called dual extragradient algorithms. In contrast with the primal extragradient methods in Quoc et al. (Optimization 57(6):749–776, 2008) which require to solve two general strongly convex programs at each iteration, the dual extragradient algorithms proposed in this paper only need to solve, at each iteration, one general strongly convex program, one projection problem and one subgradient calculation. Moreover, we provide the worst case complexity bounds of these algorithms, which have not been done in the primal extragradient methods yet. An application to Nash-Cournot equilibrium models of electricity markets is presented and implemented to examine the performance of the proposed algorithms.
+Keywords
+Dual extragradient algorithm  Equilibrium problem  Gap function  Complexity  Nash-Cournot equilibria  

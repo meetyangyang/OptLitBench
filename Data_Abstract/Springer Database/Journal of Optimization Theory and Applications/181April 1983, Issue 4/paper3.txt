@@ -1,0 +1,6 @@
+Error estimate for the modified Newton method with applications to the solution of nonlinear, two-point boundary-value problems
+M. D. Smooke;
+Abstract
+The solution of nonlinear, two-point boundary value problems by Newton's method requires the formation and factorization of a Jacobian matrix at every iteration. For problems in which the cost of performing these operations is a significant part of the cost of the total calculation, it is natural to consider using the modified Newton method. In this paper, we derive an error estimate which enables us to determine an upper bound for the size of the sequence of modified Newton iterates, assuming that the Kantorovich hypotheses are satisfied. As a result, we can efficiently determine when to form a new Jacobian and when to continue the modified Newton algorithm. We apply the result to the solution of several nonlinear, two-point boundary value problems occurring in combustion.
+Keywords
+Newton's method  two-point boundary value problems  error estimates  combustion  

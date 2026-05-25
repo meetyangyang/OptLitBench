@@ -1,0 +1,6 @@
+Combining phase I and phase II in a potential reduction algorithm for linear programming
+Michael J. Todd;
+Abstract
+This paper describes an affine potential reduction algorithm for linear programming that simultaneously seeks feasibility and optimality. The algorithm is closely related to a similar method of Anstreicher. The new features are that we use a two-dimensional programming problem to derive better lower bounds than Anstreicher, that our direction-finding subproblem treats phase I and phase II more symmetrically, and that we do not need an initial lower bound. Our method also allows for the generation of a feasible solution (so that phase I is terminated) during the course of the iterations, and we describe two ways to encourage this behavior.
+Keywords
+Linear programming  interior-point methods  combined phase I—phase II  

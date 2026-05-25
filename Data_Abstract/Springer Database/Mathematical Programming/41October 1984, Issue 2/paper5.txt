@@ -1,0 +1,6 @@
+Efficiency and implementation of simplicial zero point algorithms
+G. van der Laan;L. P. Seelen;
+Abstract
+In this paper we compare the efficiency of several simplicial variable dimension algorithms. To do so, we first treat the issues of degeneracy and accelerating. We present a device for solving degeneracy. Furthermore we compare several accelerating techniques. The technique of iterated quasi-Newton steps after each major cycle of the simplicial algorithm is implemented in a computer code, which is used to compare the efficiency of the (n+1)-ray, 2n-ray, 2 n -ray and (3 n −1)-ray algorithms. Except for the (n+1)-ray algorithm, the number of function evaluations does not differ very much between the various algorithms. It appeared, however, that the 2 n -algorithm needs considerably less computation time.
+Keywords
+Simplicial Algorithm  Zero Point  Linear Programming Step  Efficiency  

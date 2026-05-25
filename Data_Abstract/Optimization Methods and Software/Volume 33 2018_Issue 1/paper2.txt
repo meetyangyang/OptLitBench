@@ -1,0 +1,6 @@
+An improved version of Chubanov's method for solving a homogeneous feasibility problem
+Kees Roos;
+Abstract
+We deal with a recently proposed method of Chubanov [A polynomial projection algorithm for linear feasibility problems. Math. Program. 153 (2015), pp. 687–713] for solving linear homogeneous systems with positive variables. Some improvements of Chubanov's method and its analysis are presented. We propose a new and simple cut criterion and show that the cuts defined by the new criterion are at least as sharp as in [1]. The new cut criterion reduces the iteration bound for his Basic Procedure by a factor 5, without changing the order of its strongly polynomial complexity. Our Modified Main Algorithm is in essence the same as Chubanov's Main Algorithm, except that it uses our Modified Basic Procedure as a subroutine. It is shown that it has  time complexity, just as in [1]. Some promising computational results are presented, in comparison with the optimization package Gurobi.
+Keywords
+linear homogeneous systems, algorithm, polynomial-time 

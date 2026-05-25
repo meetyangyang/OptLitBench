@@ -1,0 +1,6 @@
+A light-propagation model for aircraft trajectory planning
+Nourelhouda Dougui;Daniel Delahaye;Stéphane Puechmorel;Marcel Mongeau;
+Abstract
+Predicted air traffic growth is expected to double the number of flights over the next 20 years. If current means of air traffic control are maintained, airspace capacity will reach its limits. The need for increasing airspace capacity motivates improved aircraft trajectory planning in 4D (space+time). In order to generate sets of conflict-free 4D trajectories, we introduce a new nature-inspired algorithm: the light propagation algorithm (LPA). This algorithm is a wavefront propagation method that yields approximate geodesic solutions (minimal-in-time solutions) for the path planning problem, in the particular case of air-traffic congestion. In simulations, LPA yields encouraging results on real-world traffic over France while satisfying the specific constraints in air-traffic management.
+Keywords
+Nature-inspired algorithm  Geodesic  Branch and bound  Aircraft conflict resolution  Air-traffic management  Light-propagation model  

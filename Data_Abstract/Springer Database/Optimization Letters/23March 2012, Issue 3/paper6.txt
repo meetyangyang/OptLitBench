@@ -1,0 +1,6 @@
+A decomposition algorithm for unconstrained optimization problems with partial derivative information
+G. Liuzzi;A. Risi;
+Abstract
+In this paper we consider the problem of minimizing a nonlinear function using partial derivative knowledge. Namely, the objective function is such that its derivatives with respect to a pre-specified block of variables cannot be computed. To solve the problem we propose a block decomposition method that takes advantage of both derivative-free and derivative-based iterations to account for the features of the objective function. Under standard assumptions, we manage to prove global convergence of the method to stationary points of the problem.
+Keywords
+Unconstrained optimization  Block decomposition method  Derivative-free iteration  

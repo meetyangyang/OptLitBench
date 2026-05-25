@@ -1,0 +1,6 @@
+CSDP, A C library for semidefinite programming
+ Brian   Borchers ;
+Abstract
+ This paper describes CSDP, a library of routines that implements a predictor corrector variant of the semidefinite programming algorithm of Helmberg, Rendl, Vanderbei, and Wolkowicz. The main advantages of this code are that it can be used as a stand alone solver or as a callable subroutine, that it is written in C for efficiency, that it makes effective use of sparsity in the constraint matrices, and that it includes support for linear inequality constraints in addition to linear equality constraints. We discuss the algorithm used, its computational complexity, and storage requirements. Finally, we present benchmark results for a collection of test problems. 
+Keywords
+Semidefinite programming, interior point method, predictor-corrector method 

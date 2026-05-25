@@ -1,0 +1,6 @@
+A Parallel Splitting Method for Separable Convex Programs
+K. Wang;D. R. Han;L. L. Xu;
+Abstract
+In this paper, we propose a new parallel splitting augmented Lagrangian method for solving the nonlinear programs where the objective function is separable with three operators and the constraint is linear. The method is an improvement of the method of He (Comput. Optim. Appl., 2(42):195–212, 2009), where we generate a predictor using the same parallel splitting augmented Lagrangian scheme as that in He (Comput. Optim. Appl., 2(42):195–212, 2009), while adopting a new strategy to get the next iterate. Under the mild assumptions of convexity of the underlying mappings and the non-emptiness of the solution set, we prove that the proposed algorithm is globally convergent. We apply the new method in the area of image processing and to solve some quadratic programming problems. The preliminary numerical results indicate that the new method is efficient.
+Keywords
+Convex programming  Parallel computing  Alternating direction method  Augmented Lagrangian method  Separable structure  

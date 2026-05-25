@@ -1,0 +1,6 @@
+A modified limited-memory BNS method for unconstrained minimization based on the conjugate directions idea
+Jan Vlček;Ladislav Lukšan;
+Abstract
+A modification of the limited-memory variable metric BNS method for large-scale unconstrained optimization is proposed, which consists in corrections (derived from the idea of conjugate directions) of the used difference vectors for better satisfaction of the previous quasi-Newton (QN) conditions. In comparison with [Vlček and Lukšan, A conjugate directions approach to improve the limited-memory BFGS method, Appl. Math. Comput. 219 (2012), pp. 800–809], where a similar approach is used, correction vectors from more previous iterations can be applied here. For quadratic objective functions, the improvement of convergence is the best one in some sense, all stored corrected difference vectors are conjugate and the QN conditions with these vectors are satisfied. Global convergence of the algorithm is established for convex sufficiently smooth functions. Numerical experiments demonstrate the efficiency of the new method.
+Keywords
+unconstrained minimization, variable metric methods, limited-memory methods, the BFGS update, conjugate directions, numerical results 

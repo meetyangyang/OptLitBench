@@ -1,0 +1,6 @@
+A unified complexity analysis of interior point methods for semidefinite problems based on trigonometric kernel functions
+S. Fathi-Hafshejani;A. Fakharzadeh Jahromi;M. Reza Peyghami;
+Abstract
+In this paper, we present an interior-point algorithm for semidefinite optimization (SDO) problems based on a new generic trigonometric kernel function, which is constructed by introducing some new conditions on the kernel function. Based on these conditions, we propose a new trigonometric kernel function and present some properties of this function. We present some complexity results for the generic kernel function and prove that, a large-update primal–dual interior-point method for solving SDO problems with this new kernel function enjoys  as worst case iteration complexity bound which matches the currently best known complexity bound for large update methods. Moreover, some numerical results show that the new proposed kernel function has better results than the other trigonometric kernel functions.
+Keywords
+Semidefinite optimization, trigonometric kernel function, primal–dual interior-point methods, large-update methods 

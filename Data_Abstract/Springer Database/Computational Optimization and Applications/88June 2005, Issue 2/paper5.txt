@@ -1,0 +1,6 @@
+Parallelization Strategies for Rollout Algorithms
+F. Guerriero;M. Mancini;
+Abstract
+Rollout algorithms are innovative methods, recently proposed by Bertsekas et al. [3], for solving NP-hard combinatorial optimization problems. The main advantage of these approaches is related to their capability of magnifying the effectiveness of any given heuristic algorithm. However, one of the main limitations of rollout algorithms in solving large-scale problems is represented by their computational complexity. Innovative versions of rollout algorithms, aimed at reducing the computational complexity in sequential environments, have been proposed in our previous work [9]. In this paper, we show that a further reduction can be accomplished by using parallel technologies. Indeed, rollout algorithms have very appealing characteristics that make them suitable for efficient and effective implementations in parallel environments, thus extending their range of relevant practical applications.
+Keywords
+rollout algorithms  parallel synchronous model  speculative approach  speedup  

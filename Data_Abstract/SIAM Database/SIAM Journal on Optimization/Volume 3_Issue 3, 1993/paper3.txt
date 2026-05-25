@@ -1,0 +1,6 @@
+Second-Order Multiplier Update Calculations for Optimal Control Problems and Related Large Scale Nonlinear Programs
+J. C.  Dunn;
+Abstract
+A second-order multiplier update rule is applied to K-stage discrete-time optimal control problems with control and state variable constraints. Each update entails the assembly and solution of sparse block-banded equilibrium equations. Several direct elimination solution techniques are considered, and it is shown that the updates can always be calculated in $O( K )$ flops. Part of the analysis applies not only to control problems, but also to other similarly structured large scale nonlinear programs with equality and inequality constraints.
+Keywords
+Newtonian multiplier updates, Newtonian projection methods, banded equilibrium equations, efficient solution methods, 49M29, 65K10, 90C06, 

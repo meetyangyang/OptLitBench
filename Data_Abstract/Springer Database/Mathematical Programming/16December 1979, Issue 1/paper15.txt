@@ -1,0 +1,6 @@
+A stable method for solving certain constrained least squares problems
+Robert Mifflin;
+Abstract
+This paper presents a feasible descent algorithm for solving certain constrained least squares problems. These problems are specially structured quadratic programming problems with positive semidefinite Hessian matrices that are allowed to be singular. The algorithm generates a finite sequence of subproblems that are solved using the numerically stable technique of orthogonal factorization with reorthogonalization and Given's transformation updating.
+Keywords
+Constrained Least Squares Problems  Positive Semidefinite Quadratic Programming  Orthogonal Factorization  Reorthogonalization  

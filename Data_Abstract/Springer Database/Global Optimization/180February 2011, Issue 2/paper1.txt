@@ -1,0 +1,6 @@
+Constrained global optimization of multivariate polynomials using Bernstein branch and prune algorithm
+P. S. V. Nataraj;M. Arounassalame;
+Abstract
+We propose an algorithm for constrained global optimization to tackle non-convex nonlinear multivariate polynomial programming problems. The proposed Bernstein branch and prune algorithm is based on the Bernstein polynomial approach. We introduce several new features in this proposed algorithm to make the algorithm more efficient. We first present the Bernstein box consistency and Bernstein hull consistency algorithms to prune the search regions. We then give Bernstein contraction algorithm to avoid the computation of Bernstein coefficients after the pruning operation. We also include a new Bernstein cut-off test based on the vertex property of the Bernstein coefficients. The performance of the proposed algorithm is numerically tested on 13 benchmark problems. The results of the tests show the proposed algorithm to be overall considerably superior to existing method in terms of the chosen performance metrics.
+Keywords
+Bernstein polynomials  Constrained global optimization  Subdivision  Pruning  

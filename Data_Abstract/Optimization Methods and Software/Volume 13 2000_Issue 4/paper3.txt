@@ -1,0 +1,6 @@
+Random test problems and parallel methods for quadratic programs and quadratic stochastic programs ∗  
+ Xiaojun   Chen ; Robert S.   Womrsley ;
+Abstract
+ This paper proposes a data parallel procedure for randomly generating test problems for two-stage quadratic stochastic programming. Multiple quadratic programs in the second stage are randomly generated in parallel. A solution of the quadratic stochastic program is determined by multiple symmetric linear complementarity problems. The procedure allows the user to specify the size of the problem, the condition numbers of the Hessian matrices of the objective functions and the structure of the feasible regions in the first and the second stages. These test problems are used to evaluate three parallel algorithms for multiple quadratic programs and a parallel inexact Newton method for quadratic stochastic programming. Numerical experiments on a Thinking Machine CM-5, Silicon Graphics Power Challenge, and DEC Alpha Server are reported  
+Keywords
+Parallel Computation, Quadratic Programs, Test Problem Generation, Stochastic Programming 

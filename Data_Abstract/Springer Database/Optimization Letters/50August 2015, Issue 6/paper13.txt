@@ -1,0 +1,6 @@
+A penalty derivative-free algorithm for nonlinear constrained optimization
+Wei Lv;Qiang Sun;He Lin;Ruirui Sui;
+Abstract
+In this paper, we modify a derivative-free line search algorithm (DFL) proposed in the Ref. (Liuzzi et al. SIAM J Optimiz 20(5):2614–2635, 2010) to minimize a continuously differentiable function of box constrained variables or unconstrained variables with nonlinear constraints. The first-order derivatives of the objective function and of the constraints are assumed to be neither calculated nor explicitly approximated. Different line-searches are used for box-constrained variables and unconstrained variables. Accordingly the convergence to stationary points is proved. The computational behavior of the method has been evaluated on a set of test problems. The performance and data profiles are used to compare with DFL.
+Keywords
+Derivative-free algorithm  Nonlinear constrained optimization   Box constrained variables  Unconstrained variables  

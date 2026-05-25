@@ -1,0 +1,6 @@
+Starting-point strategies for an infeasible potential reduction method
+Marco D’Apuzzo;Valentina De Simone;Daniela di Serafino;
+Abstract
+We present two strategies for choosing a “hot” starting-point in the context of an infeasible potential reduction (PR) method for convex quadratic programming. The basic idea of both strategies is to select a preliminary point and to suitably scale it in order to obtain a starting point such that its nonnegative entries are sufficiently bounded away from zero, and the ratio between the duality gap and a suitable measure of the infeasibility is small. One of the two strategies is naturally suggested by the convergence theory of the PR method; the other has been devised to reduce the initial values of the duality gap and the infeasibility measure, with the objective of decreasing the number of PR iterations. Numerical experiments show that the second strategy generally performs better than the first, and both outperform a starting-point strategy based on the affine-scaling step.
+Keywords
+Starting point  Potential reduction  Quadratic programming  

@@ -1,0 +1,6 @@
+Obscure bleeding detection in endoscopy images using support vector machines
+Jianguo Liu;Xiaohui Yuan;
+Abstract
+Wireless capsule endoscopy (WCE) is a recently established imaging technology that requires no wired device intrusion and can be used to examine the entire small intestine non-invasively. Determining bleeding signs out of over 55,000 WCE images is a tedious and expensive job by human reviewing. Our goal is to develop an automatic obscure bleeding detection method by employing image color features and support vector machine (SVM) classifier. The bleeding lesion detection problem is a binary classification problem. We use SVMs for this problem and a new feature selection procedure is proposed. Our experiments show that SVM can be very efficient in processing unseen instances and may yield very high accuracy rate, in particular with our new proposed feature selection. More specifically, for this bleeding detection problem, training an SVM with 640 samples can be completed in as little as 0.01  second on a Dell workstation with dual Xeon CPUs, and classifying an image using the trained SVM can be done in as little as 0.03 milliseconds. The accuracy for both sensitivity and specificity can be over 99%.
+Keywords
+Image classification  Support vector machine  Feature selection  

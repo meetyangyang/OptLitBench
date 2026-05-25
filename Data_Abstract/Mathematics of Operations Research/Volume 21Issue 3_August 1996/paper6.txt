@@ -1,0 +1,6 @@
+Global Methods for Nonlinear Complementarity Problems
+Jorge J. Moré;
+Abstract
+Global methods for nonlinear complementarity problems formulate the problem as a system of nonsmooth nonlinear equations, or use continuation to trace a path defined by a smooth system of nonlinear equations. We formulate the nonlinear complementarity problem as a bound-constrained nonlinear least squares problem. Algorithms based on this formulation are applicable to general nonlinear complementarity problems, can be started from any nonnegative starting point, and each iteration only requires the solution of systems of linear equations. Convergence to a solution of the nonlinear complementarity problem is guaranteed under reasonable regularity assumptions. The converge rate is Q-linear, Q-superlinear, or Q-quadratic, depending on the tolerances used to solve the subproblems.
+Keywords
+nonlinear complementarity nonlinear least squares convergence 

@@ -1,0 +1,6 @@
+Minimizing Separable Convex Objectives on Arbitrarily Directed Trees of Variable Upper Bound Constraints
+Peter L. Jackson;Robin O. Roundy;
+Abstract
+An extension of the Economic Order Quantity (EOQ) model to multi-stage production-distribution systems and the isotonic regression problem are known to be equivalent and to be solvable in O(N4) time. The following specializations of the model are solvable in O(N log N) time: joint replenishment systems, pure assembly systems, nested policies in pure distribution systems, nonnested policies in one-warehouse multi-retailer systems, nested policies in multi-item, one-warehouse, multi-retailer systems, and systems in which the underlying network is a series-parallel digraph. We show here that a generalization of this problem is solvable in O(N log N) time whenever the undirected version of the underlying network is a tree. The algorithm we propose is used as a subroutine in an algorithm solving the EOQ problem on general circuitless directed graphs, the subject of a companion paper.
+Keywords
+production planning isotonic regression network optimization inventory polynomial-time algorithms 

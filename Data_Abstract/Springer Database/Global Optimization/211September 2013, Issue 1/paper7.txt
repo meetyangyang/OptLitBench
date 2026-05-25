@@ -1,0 +1,6 @@
+Global optimization of expensive black box problems with a known lower bound
+Andrea Cassioli;Fabio Schoen;
+Abstract
+In this paper we propose an algorithm for the global optimization of computationally expensive black–box functions. For this class of problems, no information, like e.g. the gradient, can be obtained and function evaluation is highly expensive. In many applications, however, a lower bound on the objective function is known; in this situation we derive a modified version of the algorithm introduced in Gutmann (J Glob Optim 19:201–227, 2001). Using this information produces a significant improvement in the quality of the resulting method, with only a small increase in the computational cost. Extensive computational results are provided which support this statement.
+Keywords
+Global optimization  Black-box function  Expensive objective functions  Radial basis method  Bumpiness  

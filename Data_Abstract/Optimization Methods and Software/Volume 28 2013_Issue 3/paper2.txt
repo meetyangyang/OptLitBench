@@ -1,0 +1,6 @@
+Logarithmic barriers for sparse matrix cones
+ Martin   S.   Andersen ; Joachim   Dahl ; Lieven   Vandenberghe ;
+Abstract
+ Algorithms are presented for evaluating gradients and Hessians of logarithmic barrier functions for two types of convex cones: the cone of positive semidefinite matrices with a given sparsity pattern and its dual cone, the cone of sparse matrices with the same pattern that have a positive semidefinite completion. Efficient large-scale algorithms for evaluating these barriers and their derivatives are important in interior-point methods for nonsymmetric conic formulations of sparse semidefinite programs. The algorithms are based on the multifrontal method for sparse Cholesky factorization. 
+Keywords
+multifrontal method, sparse matrices, semidefinite programmingAMS Subject Classification: 65F05, 65F50, 65K05, 90C06, 90C22 

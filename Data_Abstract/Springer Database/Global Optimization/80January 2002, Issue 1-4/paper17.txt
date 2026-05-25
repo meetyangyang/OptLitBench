@@ -1,0 +1,6 @@
+Optimization over the efficient set: overview
+Yoshitsugu Yamamoto;
+Abstract
+Over the past several decades, the optimization over the efficient set has seen a substantial development. The aim of this paper is to provide a state-of-the-art survey of the development. Given p linear criteria c1x,ċċċ,cp x and a feasible region X of Rn, the linear multicriteria problem is to find a point x of X such that no point x' of X satisfies (c1 x',ċċċ,cp x')≥(c1 x,ċċċ,cp x) and (c1x',ċċċ,cp x')≠q (c1 x ,ċċċ,cp x). Such a point is called an efficient point. The optimization over the efficient set is the maximization of a given function φ over the set of efficient points. The difficulty of this problem is mainly due to the nonconvexity of this set. The existing algorithms for solving this problem could be classified into several groups such as adjacent vertex search algorithm, nonadjacent vertex search algorithm, branch-and-bound based algorithm, Lagrangian relaxation based algorithm, dual approach and bisection algorithm. In this paper we review a typical algorithm from each group and compare them from the computational point of view.
+Keywords
+Multicriteria programming  Efficient set  Global optimization  Minimum maximal flow  

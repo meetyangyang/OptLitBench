@@ -1,0 +1,6 @@
+A smoothing-out technique for min—max optimization
+Israel Zang;
+Abstract
+In this paper, we suggest approximations for smoothing out the kinks caused by the presence of “max” or “min” operators in many non-smooth optimization problems. We concentrate on the continuous-discrete min—max optimization problem. The new approximations replace the original problem in some neighborhoods of the kink points. These neighborhoods can be made arbitrarily small, thus leaving the original objective function unchanged at almost every point ofR n . Furthermore, the maximal possible difference between the optimal values of the approximate problem and the original one, is determined a priori by fixing the value of a single parameter. The approximations introduced preserve properties such as convexity and continuous differentiability provided that each function composing the original problem has the same properties. This enables the use of efficient gradient techniques in the solution process. Some numerical examples are presented.
+Keywords
+Optimization  Nonlinear Programming  Unconstrained Optimization  Nondifferentiable Optimization  Min—Max Problems  

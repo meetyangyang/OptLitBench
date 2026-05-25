@@ -1,0 +1,6 @@
+Square-root variable-metric methods for minimization
+D. G. Hull;B. D. Tapley;
+Abstract
+Variable-metric methods are presented which do not need an accurate one-dimensional search and eliminate roundoff error problems which can occur in updating the metric for large-dimension systems. The methods are based on updating the square root of the metric, so that a positive-definite metric always results. The disadvantage of intentionally relaxing the accuracy of the one-dimensional search is that the number of iterations (and hence, gradient evaluations) increases. For problems involving a large number of variables, the square-root method is presented in a triangular form to reduce the amount of computation. Also, for usual optimization problems, the square-root procedure can be carried out entirely in terms of the metric, eliminating storage and computer time associated with computations of the square root of the metric.
+Keywords
+Nonlinear programming  variable-metric methods  parameter optimization  function minimization  mathematical programming  

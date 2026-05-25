@@ -1,0 +1,4 @@
+Parallelizing Constraint Programming with Learning
+Thorsten Ehlers;Peter J. Stuckey;
+Abstract
+Parallel Constraint Programming (CP) solvers typically split the search space in disjoint subspaces, and run solvers independently on these. This may induce significant overhead when solving optimization problems. Parallel Boolean Satisfiability (SAT) solvers typically run a portfolio of solvers, all solving the same problem but sharing some limited learnt clause information. In this paper we consider parallelizing a lazy clause generation (LCG) constraint programming solver, which is a constraint programming solver with learning. Since it is both a kind of CP solver and a kind of SAT solver it is not clear which approach to parallelization is likely to be most effective. We give examples of very different kinds of optimization problems we wish to parallelize and show that a hybrid approach to parallelization can provide a robust and high performing parallel LCG solver.

@@ -1,0 +1,6 @@
+Two-stage quadratic integer programs with stochastic right-hand sides
+Osman Y. Özaltın;Oleg A. Prokopyev;Andrew J. Schaefer;
+Abstract
+We consider two-stage quadratic integer programs with stochastic right-hand sides, and present an equivalent reformulation using value functions. We propose a two-phase solution approach. The first phase constructs value functions of quadratic integer programs in both stages. The second phase solves the reformulation using a global branch-and-bound algorithm or a level-set approach. We derive some basic properties of value functions of quadratic integer programs and utilize them in our algorithms. We show that our approach can solve instances whose extensive forms are hundreds of orders of magnitude larger than the largest quadratic integer programming instances solved in the literature.
+Keywords
+Stochastic integer programming  Quadratic integer programming  Value functions  Superadditive duality  90C15  90C20  90C26  90C31  

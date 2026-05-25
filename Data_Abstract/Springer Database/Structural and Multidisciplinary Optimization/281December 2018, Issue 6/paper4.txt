@@ -1,0 +1,6 @@
+Adaptive mesh refinement in stress-constrained topology optimization
+Miguel A. Salazar de Troya;Daniel A. Tortorelli;
+Abstract
+We present a topology structural optimization framework with adaptive mesh refinement and stress-constraints. Finite element approximation and geometry representation benefit from such refinement by enabling more accurate stress field predictions and greater resolution of the optimal structural boundaries. We combine a volume fraction filter to impose a minimum design feature size, the RAMP penalization to generate “black-and-white designs” and a RAMP-like stress definition to resolve the “stress singularity problem.” Regions with stress concentrations dominate the optimized design. As such, rigorous simulations are required to accurately approximate the stress field. To achieve this goal, we invoke a threshold operation and mesh refinement during the optimization. We do so in an optimal fashion, by applying adaptive mesh refinement techniques that use error indicators to refine and coarsen the mesh as needed. In this way, we obtain more accurate simulations and greater resolution of the design domain. We present results in two dimensions to demonstrate the efficiency of our method.
+Keywords
+Topology optimization  Stress constrained  Adaptive mesh refinement  

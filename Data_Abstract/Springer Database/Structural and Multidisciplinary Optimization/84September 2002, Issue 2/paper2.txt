@@ -1,0 +1,6 @@
+A bell-curve based algorithm for mixed continuous and discrete structural optimization
+R.K. Kincaid;M. Weber;J. Sobieszczanski-Sobieski;
+Abstract
+An evolutionary based strategy utilizing two normal distributions to generate children is developed to solve mixed integer nonlinear programming problems. This Bell-Curve Based (BCB) evolutionary algorithm is similar in spirit to (μ+μ) evolutionary strategies and evolutionary programs but with fewer parameters to adjust and no mechanism for self adaptation. First, a new version of BCB to solve purely discrete optimization problems is described and its performance tested against a tabu search code for an actuator placement problem. Next, the performance of a combined version of discrete and continuous BCB is tested on two-dimensional shape problems and on a minimum weight hub design problem. In the latter case the discrete portion is the choice of the underlying beam shape (I, triangular, circular, rectangular, or U).
+Keywords
+Key words: evolutionary optimization, discrete optimization, structures  

@@ -1,0 +1,6 @@
+Combined lp and quasi-Newton methods for minimax optimization
+Jørgen Hald;Kaj Madsen;
+Abstract
+We present an algorithm for minimax optimization that combines LP methods and quasi-Newton methods. The quasi-Newton algorithm is used only if an irregular solution is detected, in which case second-order derivative information is needed in order to obtain a fast final rate of convergence. We prove that the algorithm can converge only to a stationary point and that normally the final rate of convergence will be either quadratic or superlinear. The performance is illustrated through some numerical examples.
+Keywords
+Algorithms  Optimization  Minimax  Quasi-Newton  Superlinear Convergence  

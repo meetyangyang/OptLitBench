@@ -1,0 +1,6 @@
+A restart algorithm for computing fixed points without an extra dimension
+G. van der Laan;A. J. J. Talman;
+Abstract
+An algorithm to compute a fixed point of an upper semicontinuous point to set mapping using a simplicial subdivision is introduced. The new element of the algorithm is that for a given grid it does not start with a subsimplex but with one (arbitrary) point only; the algorithm will terminate always with a subsimplex. This subsimplex yields an approximation of a fixed point and provides the starting point for a finer grid. Some numerical results suggest that this algorithm converges more rapidly than the known algorithms. Moreover, it is very simple to implement the algorithm on the computer.
+Keywords
+Fixed Points  Triangulation  Grid Size  Labelling Rule  

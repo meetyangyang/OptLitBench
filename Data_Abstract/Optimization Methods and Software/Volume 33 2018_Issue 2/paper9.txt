@@ -1,0 +1,6 @@
+On the complexity of parallel coordinate descent
+Rachael Tappenden;Martin Takáč;Peter Richtárik;
+Abstract
+In this work we study the parallel coordinate descent method (PCDM) proposed by Richtárik and Takáč [Parallel coordinate descent methods for big data optimization, Math. Program. Ser. A (2015), pp. 1–52] for minimizing a regularized convex function. We adopt elements from the work of Lu and Xiao [On the complexity analysis of randomized block-coordinate descent methods, Math. Program. Ser. A 152(1–2) (2015), pp. 615–642], and combine them with several new insights, to obtain sharper iteration complexity results for PCDM than those presented in [Richtárik and Takáč, Parallel coordinate descent methods for big data optimization, Math. Program. Ser. A (2015), pp. 1–52]. Moreover, we show that PCDM is monotonic in expectation, which was not confirmed in [Richtárik and Takáč, Parallel coordinate descent methods for big data optimization, Math. Program. Ser. A (2015), pp. 1–52], and we also derive the first high probability iteration complexity result where the initial levelset is unbounded.
+Keywords
+block coordinate descent, parallelization, iteration complexity, composite minimization, convex optimization, rate of convergence, unbounded levelset, monotonic algorithmMathematics Subject Classification: 65K05, 90C05, 90C06, 90C25 

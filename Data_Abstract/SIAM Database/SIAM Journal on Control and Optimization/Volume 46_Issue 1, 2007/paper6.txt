@@ -1,0 +1,6 @@
+Adaptive Space‐Time Finite Element Methods for Parabolic Optimization Problems
+Dominik   Meidner and Boris   Vexler;
+Abstract
+In this paper we derive a posteriori error estimates for space‐time finite element discretizations of parabolic optimization problems. The provided error estimates assess the discretization error with respect to a given quantity of interest and separate the influences of different parts of the discretization (time, space, and control discretization). This allows us to set up an efficient adaptive algorithm which successively improves the accuracy of the computed solution by construction of locally refined meshes for time and space discretizations.
+Keywords
+parabolic equations, optimal control, parameter identification, a posteriori error estimation, mesh refinement, 65N30, 49K20, 65M50, 35K55, 

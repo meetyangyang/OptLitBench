@@ -1,0 +1,6 @@
+Index minimization of differential-algebraic equations in hybrid analysis for circuit simulation
+Satoru Iwata;Mizuyo Takamatsu;
+Abstract
+Modern modeling approaches for circuit analysis lead to differential-algebraic equations (DAEs). The index of a DAE is a measure of the degree of numerical difficulty. In general, the higher the index is, the more difficult it is to solve the DAE. The index of the DAE arising from the modified nodal analysis (MNA) is determined uniquely by the structure of the circuit. Instead, we consider a broader class of analysis method called the hybrid analysis. For linear time-invariant electric circuits, we devise a combinatorial algorithm for finding an optimal hybrid analysis in which the index of the DAE to be solved attains the minimum. The optimal hybrid analysis often results in a DAE with lower index than MNA.
+Keywords
+Circuit simulation  DAE  Index  Matrix pencil  15A22  34A09  65L80  68Q25  

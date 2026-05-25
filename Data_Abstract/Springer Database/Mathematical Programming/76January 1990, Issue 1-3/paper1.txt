@@ -1,0 +1,6 @@
+Concurrent stochastic methods for global optimization
+Richard H. Byrd;Cornelius L. Dert;Alexander H. G. Rinnooy Kan;Robert B. Schnabel;
+Abstract
+The global optimization problem, finding the lowest minimizer of a nonlinear function of several variables that has multiple local minimizers, appears well suited to concurrent computation. This paper presents a new parallel algorithm for the global optimization problem. The algorithm is a stochastic method related to the multi-level single-linkage methods of Rinnooy Kan and Timmer for sequential computers. Concurrency is achieved by partitioning the work of each of the three main parts of the algorithm, sampling, local minimization start point selection, and multiple local minimizations, among the processors. This parallelism is of a coarse grain type and is especially well suited to a local memory multiprocessing environment. The paper presents test results of a distributed implementation of this algorithm on a local area network of computer workstations. It also summarizes the theoretical properties of the algorithm.
+Keywords
+Global optimization  concurrent  parallel  stochastic  network of computers  

@@ -1,0 +1,6 @@
+Subset Algebra Lift Operators for 0-1 Integer Programming
+Daniel  Bienstock and Mark  Zuckerberg;
+Abstract
+We extend the Sherali--Adams, Lovász--Schrijver, Balas--Ceria--Cornuéjols, and Lasserre lift-and-project methods for 0-1 optimization by considering liftings to subset algebras. Our methods yield polynomial-time algorithms for solving a relaxation of a set-covering problem at least as strong as that given by the set of all valid inequalities with small coefficients and, more generally, all valid inequalities where the right-hand side is not very large relative to the positive coefficients in the left-hand side. Applied to generalizations of vertex-packing problems, our methods yield, in polynomial time, relaxations that have unbounded rank using, for example, the N+  operator.
+Keywords
+integer programming, lift-and-project, disjunctive methods, 90C10, 90C27, 

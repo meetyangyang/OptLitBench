@@ -1,0 +1,6 @@
+The FEM optimization of active vibration control in structures by solving the corresponding two-point-boundary-value problem
+W. Szyszkowski;M. Baweja;
+Abstract
+An algorithm for solving optimal active vibration control problems by the finite element method (FEM) is presented. The optimality equations for the problem are derived from Pontryagin’s principle in the form of a set of the fourth order ordinary differential equations that, together with the initial and final boundary conditions, constitute the boundary value problem in the time domain, which in control is referred to as a two-point-boundary-value problem. These equations decouple in the modal space and can be solved by the FEM technique. An analogy between the optimality equations and the governing equations for a set of certain static beams permits obtaining numerical solutions to the optimal control problem with the help of standard ‘structural’ FEM software. The optimal action of actuators is automatically calculated by applying the independent modal space control concept. The structure’s response to actuation forces is also determined and can independently be verified for spillover effects. As an illustration, the algorithm is used for the analysis of optimal action of actuators to attenuate vibrations of an elastic fin.
+Keywords
+Optimal vibration control  Finite elements  Actuators action  

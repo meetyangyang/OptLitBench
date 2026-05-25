@@ -1,0 +1,6 @@
+Inclusion functions and global optimization
+H. Ratschek;
+Abstract
+Inclusion functions combined with special subdivision strategies are an effective means of solving the global unconstrained optimization problem. Although these techniques were determined and numerically tested about ten years ago, they are nearly unknown and scarcely used. In order to make the role of inclusion functions and subdivision strategies more widespread and transparent we will discuss a related simplified basic algorithm. It computes approximations of the global minimum and, at the same time, bounds the absolute approximation error. We will show that the algorithm works and converges under more general assumptions than it has been known hitherto, that is, only appropriate inclusion functions are expected to exist. The number of minimal points (finite or infinite) is not of importance. Lipschitz conditions or continuity are not assumed. As shown in the Appendix the required inclusion functions can be constructed and programmed without difficulty in a natural way using interval analysis.
+Keywords
+Global Unconstrained Optimization  

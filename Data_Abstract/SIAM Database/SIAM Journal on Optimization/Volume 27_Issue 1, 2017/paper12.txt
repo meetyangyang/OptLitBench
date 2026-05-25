@@ -1,0 +1,6 @@
+Solving the Trust-Region Subproblem By a Generalized Eigenvalue Problem
+Satoru  Adachi, Satoru  Iwata, Yuji  Nakatsukasa, and Akiko  Takeda;
+Abstract
+The state-of-the-art algorithms for solving the trust-region subproblem (TRS) are based on an iterative process, involving solutions of many linear systems, eigenvalue problems, subspace optimization, or line search steps. A relatively underappreciated fact, due to Gander, Golub, and von Matt [Linear Algebra Appl., 114 (1989), pp. 815--839], is that TRSs can be solved by one generalized eigenvalue problem, with no outer iterations. In this paper we rediscover this fact and discover its great practicality, which exhibits good performance both in accuracy and efficiency. Moreover, we generalize the approach in various directions, namely by allowing for an ellipsoidal constraint, dealing with the so-called hard case, and obtaining approximate solutions efficiently when high accuracy is unnecessary. We demonstrate that the resulting algorithm is a general-purpose TRS solver, effective both for dense and large-sparse problems, including the so-called hard case. Our algorithm is easy to implement: its essence is a few lines of MATLAB code.
+Keywords
+trust-region subproblem, generalized eigenvalue problem, elliptic inner product, hard case, 49M37, 65K05, 90C25, 90C30, 

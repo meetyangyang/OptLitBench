@@ -1,0 +1,6 @@
+An improved three-term conjugate gradient algorithm for solving unconstrained optimization problems
+Songhai Deng;Zhong Wan;
+Abstract
+In this article, we present an improved three-term conjugate gradient algorithm for large-scale unconstrained optimization. The search directions in the developed algorithm are proved to satisfy an approximate secant equation as well as the Dai-Liao’s conjugacy condition. With the standard Wolfe line search and the restart strategy, global convergence of the algorithm is established under mild conditions. By implementing the algorithm to solve 75 benchmark test problems with dimensions from 1000 to 10,000, the obtained numerical results indicate that the algorithm outperforms the state-of-the-art algorithms available in the literature. It costs less CPU time and smaller number of iterations in solving the large-scale unconstrained optimization.
+Keywords
+algorithms, optimization, conjugate gradient method, global convergenceAMS Subject Classifications: 90C30, 62K05 

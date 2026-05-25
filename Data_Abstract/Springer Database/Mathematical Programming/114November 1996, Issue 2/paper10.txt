@@ -1,0 +1,6 @@
+A parallel implementation of the nested decomposition algorithm for multistage stochastic linear programs
+John R. Birge;Christopher J. Donohue;Derek F. Holmes;Oleg G. Svintsitski;
+Abstract
+Multistage stochastic linear programs can represent a variety of practical decision problems. Solving a multistage stochastic program can be viewed as solving a large tree of linear programs. A common approach for solving these problems is the nested decomposition algorithm, which moves up down the tree by solving nodes and passing information among nodes. The natural independence of subtrees suggests that much of the computational effort of the nested decomposition algorithm can run in parallel across small numbers of fast processors. This paper explores the advantages of such parallel implementations over serial implementations and compares alternative sequencing protocols for parallel processors. Computational experience on a large test set of practical problems with up to 1.5 million constraints and almost 5 million variables suggests that parallel implementations may indeed work well, but they require careful attention to processor load balancing.
+Keywords
+Parallel Implementation  Dual Solution  Sequencing Protocol  Wall Clock Time  Hybrid Protocol  

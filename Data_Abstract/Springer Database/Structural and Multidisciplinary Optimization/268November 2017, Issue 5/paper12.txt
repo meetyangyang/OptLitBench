@@ -1,0 +1,6 @@
+Applications of automatic differentiation in topology optimization
+Sebastian A. Nørgaard;Max Sagebaum;Nicolas R. Gauger;Boyan S. Lazarov;
+Abstract
+The goal of this article is to demonstrate the applicability and to discuss the advantages and disadvantages of automatic differentiation in topology optimization. The technique makes it possible to wholly or partially automate the evaluation of derivatives for optimization problems and is demonstrated on two separate, previously published types of problems in topology optimization. Two separate software packages for automatic differentiation, CoDiPack and Tapenade are considered, and their performance and usability trade-offs are discussed and compared to a hand coded adjoint gradient evaluation process. Finally, the resulting optimization framework is verified by applying it to a non-trivial unsteady flow topology optimization problem.
+Keywords
+Topology optimization  Automatic differentiation  Lattice Boltzmann  

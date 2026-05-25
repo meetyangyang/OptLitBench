@@ -1,0 +1,6 @@
+Robust Stabilization of Uncertain Systems
+Jacques L.  Willems and Jan C.  Willems;
+Abstract
+In this paper we consider the systems described by \[dx = Axdt + Budt + \sum_i {\sigma _i F_i xd\beta _i } \qquad {\text{or}}\qquad \dot x = Ax + Bu + \sum_i {B_i F_i (x,t)C_i x,} \] and we will derive conditions under which there exists a feedback control law $u = Kx$ such that the closed loop system is stable for all $\sigma _i $ or (smooth) nonlinearities $F_i $. The nonlinearities $F_i $ and the noisy gains $\sigma _i d\beta _i $ are unknown uncertainties in the system, and the problem considered is to obtain a control law which is robust against these uncertainties, as far as stability is concerned.
+Keywords
+robustness, feedback stabilization, invariant subspaces, stochastic stabilizability, 

@@ -1,0 +1,6 @@
+Interior-Point Methods with Decomposition for Solving Large-Scale Linear Programs
+G. Y. Zhao;
+Abstract
+This paper deals with an algorithm incorporating the interior-point method into the Dantzig–Wolfe decomposition technique for solving large-scale linear programming problems. The algorithm decomposes a linear program into a main problem and a subproblem. The subproblem is solved approximately. Hence, inexact Newton directions are used in solving the main problem. We show that the algorithm is globally linearly convergent and has polynomial-time complexity.
+Keywords
+Large-scale linear programming  interior-point methods  Dantzig–Wolfe decomposition  algorithmic complexity  

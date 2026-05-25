@@ -1,0 +1,6 @@
+ADAPTIVE RESPONSE SURFACE METHOD - A GLOBAL OPTIMIZATION SCHEME FOR APPROXIMATION-BASED DESIGN PROBLEMS
+ G.   GARY WANG ; ZUOMIN   DONG ; PETER   AITCHISON ;
+Abstract
+ For design problems involving computation-intensive analysis or simulation processes, approximation models are usually introduced to reduce computation lime. Most approximation-based optimization methods make step-by-step improvements to the approximation model by adjusting the limits of the design variables. In this work, a new approximation-based optimization method for computation-intensive design problems - the adaptive response surface method(ARSM), is presented. The ARSM creates quadratic approximation models for the computation-intensive design objective function in a gradually reduced design space. The ARSM was designed to avoid being trapped by local optima and to identify the global design optimum with a modest number of objective function evaluations. Extensive tests on the ARSM as a global optimization scheme using benchmark problems, as well as an industrial design application of the method, are presented. Advantages and limitations of the approach are also discussed 
+Keywords
+Response surface method, Approximate optimization, Global optimization, Design automation 

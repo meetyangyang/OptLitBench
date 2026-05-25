@@ -1,0 +1,6 @@
+A Chain Observer for Nonlinear Systems with Multiple Time-Varying Measurement Delays
+Filippo  Cacace, Alfredo  Germani, and Costanzo  Manes;
+Abstract
+This paper presents a method for designing state observers with exponential error decay for nonlinear systems whose output measurements are affected by known time-varying delays. A modular approach is followed, where subobservers are connected in cascade to achieve a desired exponential convergence rate (chain observer). When the delay is small, a single-step observer is sufficient to carry out the goal. Two or more subobservers are needed in the the presence of large delays. The observer employs delay-dependent time-varying gains to achieve the desired exponential error decay. The proposed approach allows to deal with vector output measurements, where each output component can be affected by a different delay. Relationships among the error decay rate, the bound on the measurement delays, the observer gains, and the Lipschitz constants of the system are presented. The method is illustrated on the synchronization problem of continuous-time hyperchaotic systems with buffered measurements.
+Keywords
+nonlinear systems, delay systems, state observers, chain observers, 93A99, 93B07, 93B10, 

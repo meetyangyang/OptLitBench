@@ -1,0 +1,8 @@
+An algorithm for the generalized quadratic assignment problem
+Peter M. Hahn;Bum-Jin Kim;Monique Guignard;J. MacGregor Smith;Yi-Rong Zhu;
+Abstract
+
+This paper reports on a new algorithm for the Generalized Quadratic Assignment problem (GQAP). The GQAP describes a broad class of quadratic integer programming problems, wherein M pair-wise related entities are assigned to N destinations constrained by the destinations’ ability to accommodate them. This new algorithm is based on a Reformulation Linearization Technique (RLT) dual ascent procedure. Experimental results show that the runtime of this algorithm is as good or better than other known exact solution methods for problems as large as M=20 and N=15.
+
+Keywords
+Combinatorial optimization  Branch-and-bound  Quadratic assignment problem  Reformulation linearization technique  Lagrangean dual  Dual ascent procedure  

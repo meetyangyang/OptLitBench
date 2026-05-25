@@ -1,0 +1,6 @@
+Two wide neighborhood interior-point methods for symmetric cone optimization
+M. Sayadi Shahraki;H. Mansouri;M. Zangiabadi;
+Abstract
+In this paper, we present two primal–dual interior-point algorithms for symmetric cone optimization problems. The algorithms produce a sequence of iterates in the wide neighborhood \(\mathcal {N}(\tau ,\,\beta )\) of the central path. The convergence is shown for a commutative class of search directions, which includes the Nesterov–Todd direction and the xs and sx directions. We derive that these two path-following algorithms have $$\begin{aligned} \text{ O }\left( \sqrt{r\text{ cond }(G)}\log \varepsilon ^{-1}\right) , \text{ O }\left( \sqrt{r}\left( \text{ cond }(G)\right) ^{1/4}\log \varepsilon ^{-1}\right) \end{aligned}$$iteration complexity bounds, respectively. The obtained complexity bounds are the best result in regard to the iteration complexity bound in the context of the path-following methods for symmetric cone optimization. Numerical results show that the algorithms are efficient for this kind of problems.
+Keywords
+Symmetric cone  Euclidean Jordan algebra  Wide neighborhood  Predictor–corrector interior-point method  90C05  90C51  

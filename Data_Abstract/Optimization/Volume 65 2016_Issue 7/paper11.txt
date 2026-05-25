@@ -1,0 +1,6 @@
+An implementation of a reduced subgradient method via Luenberger-Mokhtar variant
+A. El Ghali;M. El Moudden;
+Abstract
+We present an implementable algorithm for minimizing a convex function which is not necessarily differentiable subject to linear equality constraints and to nonnegativity bounds on the variables. The algorithm is based on extending the variant proposed by Luenberger to the nondifferentiable case and using the bundle techniques introduced by Lemaréchal to approximate the subdifferential of the objective function. In particular, at each iteration, we compute a search direction by solving a quadratic subproblem, and an inexact line search along this direction yields a decrease in the objective value. Under some assumptions, the convergence of the proposed algorithm is analysed. Finally, some numerical results are presented, which show that the algorithm performs efficiently.
+Keywords
+Mathematical programming, nondifferentiable convex optimization, linearly constrained minimization, reduced subgradient algorithm, bundle methodsAMS Subject Classifications: 90C52, 65K05 

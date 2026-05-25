@@ -1,0 +1,6 @@
+On modification of population-based search algorithms for convergence in stochastic combinatorial optimization
+Hyeong Soo Chang;
+Abstract
+Motivated by the work of Homem-De-Mello on modifying pure random search (PRS) into a convergent sample-based PRS for stochastic optimization, this paper considers two general methods of converting any given population-based algorithm into a convergent sample-based one for stochastic combinatorial optimization. The methods are based on controlling sampling process at time t by -switching and on including the current optimizer-estimate as a candidate in the selection process of -switching. Under appropriate conditions on the sequence  and the given algorithm, we establish a probability one convergence of the resulting population-based algorithms.
+Keywords
+stochastic combinatorial optimization, convergence, multi-armed banditAMS Subject Classifications: 90C27, 74S60, 93E35 

@@ -1,0 +1,6 @@
+A general optimality criteria algorithm for a class of engineering optimization problems
+Ashok D. Belegundu;
+Abstract
+An optimality criteria (OC)-based algorithm for optimization of a general class of nonlinear programming (NLP) problems is presented. The algorithm is only applicable to problems where the objective and constraint functions satisfy certain monotonicity properties. For multiply constrained problems which satisfy these assumptions, the algorithm is attractive compared with existing NLP methods as well as prevalent OC methods, as the latter involve computationally expensive active set and step-size control strategies. The fixed point algorithm presented here is applicable not only to structural optimization problems but also to certain problems as occur in resource allocation and inventory models. Convergence aspects are discussed. The fixed point update or resizing formula is given physical significance, which brings out a strength and trim feature. The number of function evaluations remains independent of the number of variables, allowing the efficient solution of problems with large number of variables.
+Keywords
+optimality criteria, fixed point algorithm, re-sizing, surrogate multiplier method, nonlinear programming 

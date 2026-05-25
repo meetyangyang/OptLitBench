@@ -1,0 +1,6 @@
+Investigation on parallel algorithms in efficient global optimization based on multiple points infill criterion and domain decomposition
+Zheng Li;Shilun Ruan;Junfeng Gu;Xinyu Wang;Changyu Shen;
+Abstract
+This work is focused on the parallel algorithms in efficient global optimization. Firstly, a multiple points infill criterion named EI&MI is developed, which adopts the entropy to precisely measure the uncertainty of Kriging surrogate, and then balances global exploration and local exploitation of the multiple points infill sampling criteria. Secondly, given the computational difficulties in Kriging with a large size of training data, a domain decomposition optimization strategy is proposed, which ensures a small size of training data. Several mathematical functions and one engineering problem are employed as testing examples. The results show that comparing with several other methods, the EI&MI has an obvious advantage in solving complex optimization problems under the large-scale parallel computing environment, and the domain decomposition optimization strategy could improve the stability of optimization without sacrificing the optimization efficiency.
+Keywords
+Efficient global optimization  Parallel computing  Multiple points infill criterion  Mutual information  Expected improvement  

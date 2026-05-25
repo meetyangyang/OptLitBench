@@ -1,0 +1,6 @@
+Global solution of bilevel programs with a nonconvex inner program
+Alexander Mitsos;Panayiotis Lemonidis;Paul I. Barton;
+Abstract
+A bounding algorithm for the global solution of nonlinear bilevel programs involving nonconvex functions in both the inner and outer programs is presented. The algorithm is rigorous and terminates finitely to a point that satisfies ε-optimality in the inner and outer programs. For the lower bounding problem, a relaxed program, containing the constraints of the inner and outer programs augmented by a parametric upper bound to the parametric optimal solution function of the inner program, is solved to global optimality. The optional upper bounding problem is based on probing the solution obtained by the lower bounding procedure. For the case that the inner program satisfies a constraint qualification, an algorithmic heuristic for tighter lower bounds is presented based on the KKT necessary conditions of the inner program. The algorithm is extended to include branching, which is not required for convergence but has potential advantages. Two branching heuristics are described and analyzed. Convergence proofs are provided and numerical results for original test problems and for literature examples are presented.
+Keywords
+Bilevel program  nonconvex  global optimization  branch-and-bound  MPEC  

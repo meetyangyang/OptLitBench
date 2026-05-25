@@ -1,0 +1,6 @@
+Efficient multi-level design optimization using analytical target cascading and sequential quadratic programming
+Paolo Guarneri;Massimiliano Gobbi;Panos Y. Papalambros;
+Abstract
+Decomposition-based optimization techniques are attractive for designing complex systems in industrial practice, such as design of structural, aerospace or automotive systems. Decomposition is attractive when a possibly intractable problem can be converted to a set of smaller, simpler problems; it also helps to understand better relationships and tradeoffs among subsystems which determine the overall behavior of the system to be optimized. A practical drawback is the increased computational cost for coordinating subproblem solutions and linking variable values to achieve overall system consistency and optimality. In this article, we exploit the problem partitioning structure to improve coordination efficiency when using analytical target cascading to solve multilevel problems. A simple modification in the coordination process allows for reduced function evaluations, as demonstrated in a structural and an automotive suspension example.
+Keywords
+Analytical target cascading  Multi-level optimization  Hierarchical decomposition  

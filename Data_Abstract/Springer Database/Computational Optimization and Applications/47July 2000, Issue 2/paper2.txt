@@ -1,0 +1,6 @@
+A Piecewise Line-Search Technique for Maintaining the Positive Definitenes of the Matrices in the SQP Method
+Paul Armand;J. Charles Gilbert;
+Abstract
+A technique for maintaining the positive definiteness of the matrices in the quasi-Newton version of the SQP algorithm is proposed. In our algorithm, matrices approximating the Hessian of the augmented Lagrangian are updated. The positive definiteness of these matrices in the space tangent to the constraint manifold is ensured by a so-called piecewise line-search technique, while their positive definiteness in a complementary subspace is obtained by setting the augmentation parameter. In our experiment, the combination of these two ideas leads to a new algorithm that turns out to be more robust and often improves the results obtained with other approaches.
+Keywords
+BFGS formula  equality constrained optimization  piecewise line-search  quasi-Newton algorithm  successive quadratic programming  

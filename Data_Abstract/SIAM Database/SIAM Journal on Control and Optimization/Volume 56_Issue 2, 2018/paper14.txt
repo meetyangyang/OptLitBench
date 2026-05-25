@@ -1,0 +1,6 @@
+Multidimensional Rational Covariance Extension with Approximate Covariance Matching
+Axel  Ringh, Johan  Karlsson, and Anders  Lindquist;
+Abstract
+In our companion paper [A. Ringh, J. Karlsson, and A. Lindquist, SIAM J. Control Optim., 54 (2016), pp. 1950--1982] we discussed the multidimensional rational covariance extension problem (RCEP), which has important applications in image processing and spectral estimation in radar, sonar, and medical imaging. This is an inverse problem where a power spectrum with a rational absolutely continuous part is reconstructed from a finite set of moments. However, in most applications these moments are determined from observed data and are therefore only approximate, and the RCEP may not have a solution. In this paper we extend the results of our companion paper to handle approximate covariance matching. We consider two problems, one with a soft constraint and the other one with a hard constraint, and show that they are connected via a homeomorphism. We also demonstrate that the problems are well-posed and illustrate the theory by examples in spectral estimation and texture generation.
+Keywords
+approximate covariance extension, trigonometric moment problem, convex optimization, multidimensional spectral estimation, texture generation, 42A70, 30E05, 94A08, 47A57, 93A30, 93E12, 

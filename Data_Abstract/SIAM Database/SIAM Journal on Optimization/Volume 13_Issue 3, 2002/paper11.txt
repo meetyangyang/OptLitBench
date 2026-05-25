@@ -1,0 +1,6 @@
+Reoptimization With the Primal-Dual Interior Point Method
+Jacek  Gondzio and Andreas  Grothey;
+Abstract
+Reoptimization techniques for an interior point method applied to solving a sequence of linear programming problems are discussed. Conditions are given for problem perturbations that can be absorbed in merely one Newton step. The analysis is performed for both short-step and long-step feasible path-following methods. A practical procedure is then derived for an infeasible path-following method. It is applied in the context of crash start for several large-scale structured linear programs. Numerical results with OOPS, a new object-oriented parallel solver, demonstrate the efficiency of the approach. For large structured linear programs, crash start leads to about 40% reduction in the number of iterations and translates into a 25% reduction of the solution time. The crash procedure parallelizes well, and speed-ups between 3.1--3.8 on four processors are achieved.
+Keywords
+interior point methods, warm-start, crash start, 90C51, 90C06, 

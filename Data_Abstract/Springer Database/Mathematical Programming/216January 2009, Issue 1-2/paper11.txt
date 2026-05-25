@@ -1,0 +1,6 @@
+Regularization using a parameterized trust region subproblem
+Oleg Grodzevich;Henry Wolkowicz;
+Abstract
+We present a new method for regularization of ill-conditioned problems, such as those that arise in image restoration or mathematical processing of medical data. The method extends the traditional trust-region subproblem, TRS, approach that makes use of the L-curve maximum curvature criterion, a strategy recently proposed to find a good regularization parameter. We apply a parameterized trust region approach to estimate the region of maximum curvature of the L-curve and find the regularized solution. This exploits the close connections between various parameters used to solve TRS. A MATLAB code for the algorithm is tested and a comparison to the conjugate gradient least squares, CGLS, approach is given and analysed.
+Keywords
+Regularization  Trust region subproblem  Ill-conditioned problems  L-curve  Image restoration  

@@ -1,0 +1,6 @@
+Acceleration strategies for the weight constrained shortest path problem with replenishment
+Manuel A. Bolívar;Leonardo Lozano;Andrés L. Medaglia;
+Abstract
+The weight constrained shortest path problem with replenishment (WCSPP-R) generalizes the constrained shortest path problem (CSP) and has multiple applications in transportation, scheduling, and telecommunications. We present an exact algorithm based on a recursive depth-first search that combines and extends ideas proposed in state-of-the-art algorithms for the CSP and the WCSPP-R. The novelty lies in a set of acceleration strategies that significantly improves the algorithm’s performance. We conducted experiments over large real-road networks with up to 6 million nodes and 15 million arcs, achieving speedups of up to 219 times against the state-of-the-art algorithm.
+Keywords
+Constrained shortest path problem  replenishment  large-scale networks  

@@ -1,0 +1,6 @@
+Dynamic Domain Decomposition of Optimal Control Problems for Networks of Strings and Timoshenko Beams
+G.  Leugering;
+Abstract
+We consider general networks of strings and/or Timoshenko beams. We apply controls at boundary nodes of the network and want to minimize some cost function along (part of) the structure. Optimality systems for the entire structure are far too complex to compute in reasonable time. In particular, in real-time applications one wants to reduce the size of the problem. Thus, dynamic decomposition into its physical elements appears to be a natural approach. We show how to iteratively decompose the global optimality system into a system related to a substructure. Then we interpret the local system as an optimality system corresponding to an optimal control problem for the substructure and finally we show convergence of the "outer" iteration.
+Keywords
+dynamic domain decomposition, networks of strings and beams, saddle-point iteration, relaxation, 49J20, 49K20, 49M27, 65N55, 

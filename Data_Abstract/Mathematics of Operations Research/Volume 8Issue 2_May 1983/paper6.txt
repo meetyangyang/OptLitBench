@@ -1,0 +1,6 @@
+Global Minimization of a Linearly Constrained Concave Function by Partition of Feasible Domain
+J. B. Rosen;
+Abstract
+The problem of minimizing a concave function subject to linear inequality constraints may have many local solutions. Therefore, finding the global constrained minimum is a computationally difficult problem.A computational method is described which finds the global minimum of a smooth concave function over a polyhedron in Rn. The feasible domain is partitioned into a rectangular domain, which can be excluded from further consideration, and r ≤ 2n subdomains, at least one of which contains the global minimum. A known algorithm can be applied sequentially (or in parallel) to each of these r subdomains to compute the global minimum.A method is also presented (Appendix B) for the construction of nontrivial test problems for which the global minimum point is known. Given an arbitrary polyhedron and a selected vertex, it is shown how to determine a concave quadratic function (generally with many local minima) with its global minimum at the selected vertex.
+Keywords
+concave minimization global minimization linearly-constrained programming 

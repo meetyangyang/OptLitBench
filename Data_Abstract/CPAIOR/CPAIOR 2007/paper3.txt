@@ -1,0 +1,4 @@
+Modeling the Regular Constraint with Integer Programming
+Marie-Claude Côté;Bernard Gendron;Louis-Martin Rousseau;
+Abstract
+Many optimisation problems contain substructures involving constraints on sequences of decision variables. Such constraints can be very complex to express with mixed integer programming (MIP), while in constraint programming (CP), the global constraint regular easily represents this kind of substructure with deterministic finite automata (DFA). In this paper, we use DFAs and the associated layered graph structure built for the regular constraint consistency algorithm to develop a MIP version of the constraint. We present computational results on an employee timetabling problem, showing that this new modeling approach can significantly decrease computational times in comparison with a classical MIP formulation.

@@ -1,0 +1,6 @@
+Approximating the complexity measure of Vavasis-Ye algorithm is NP-hard
+Levent Tunçel;
+Abstract
+Given an m×n integer matrix A of full row rank, we consider the problem of computing the maximum of ∥B-1A∥2 where B varies over all bases of A. This quantity appears in various places in the mathematical programming literature. More recently, logarithm of this number was the determining factor in the complexity bound of Vavasis and Ye’s primal-dual interior-point algorithm. We prove that the problem of approximating this maximum norm, even within an exponential (in the dimension of A) factor, is NP-hard. Our proof is based on a closely related result of L. Khachiyan [1].
+Keywords
+Key words: linear programming – computational complexity – complexity measure Mathematics Subject Classification (1991): 90C05, 90C60, 68Q25  

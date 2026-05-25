@@ -1,0 +1,6 @@
+The Projective SUMT Method for Convex Programming
+Garth P. McCormick;
+Abstract
+An algorithm for solving convex programming problems is derived from the differential equation characterizing the trajectory of unconstrained minimizers of the classical logarithmic barrier function. Convergence of the continuous version of this projective SUMT method is proved under minimal assumptions. Extension of the algorithm to a form which handles linear equality constraints produces a differential equation analogue of Karmarkar's method for linear programming. The discrete version uses the same method of search and finds the step size by minimizing the logarithmic method of centers function. An acceleration procedure based on the nonvanishing of the Jacobian of the Karush-Kuhn-Tucker system at a minimizer is shown to converge quadratically. When the problem variables are bounded, dual feasible points are available and the algorithm produces at each iteration lower and upper bounds on the global minimum. A matrix approximation is given which greatly reduces the traditional problems in inverting the badly conditioned matrix used to generate the directions of search.
+Keywords
+convex programming logarithmic barrier functions projective SUMT methods 

@@ -1,0 +1,6 @@
+A Lagrangian search method for the P-median problem
+Joshua Q. Hale;Enlu Zhou;Jiming Peng;
+Abstract
+In this paper, we propose a novel algorithm for solving the classical P-median problem. The essential aim is to identify the optimal extended Lagrangian multipliers corresponding to the optimal solution of the underlying problem. For this, we first explore the structure of the data matrix in P-median problem to recast it as another equivalent global optimization problem over the space of the extended Lagrangian multipliers. Then we present a stochastic search algorithm to find the extended Lagrangian multipliers corresponding to the optimal solution of the original P-median problem. Numerical experiments illustrate that the proposed algorithm can effectively find a global optimal or very good suboptimal solution to the underlying P-median problem, especially for the computationally challenging subclass of P-median problems with a large gap between the optimal solution of the original problem and that of its Lagrangian relaxation.
+Keywords
+P-median problem  Stochastic search  Lagrangian multipliers  

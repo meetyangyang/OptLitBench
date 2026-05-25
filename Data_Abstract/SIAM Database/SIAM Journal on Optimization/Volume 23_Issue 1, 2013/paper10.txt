@@ -1,0 +1,6 @@
+Stochastic Convex Optimization with Bandit Feedback
+Alekh  Agarwal, Dean P.  Foster, Daniel  Hsu, Sham M.  Kakade, and Alexander  Rakhlin;
+Abstract
+This paper addresses the problem of minimizing a convex, Lipschitz function $f$ over a convex, compact set $\mathcal{X}$ under a stochastic bandit (i.e., noisy zeroth-order) feedback model. In this model, the algorithm is allowed to observe noisy realizations of the function value $f(x)$ at any query point $x \in \mathcal{X}$. The quantity of interest is the regret of the algorithm, which is the sum of the function values at algorithm's query points minus the optimal function value. We demonstrate a generalization of the ellipsoid algorithm that incurs $\widetilde{\mathcal{O}}({\rm poly}(d)\sqrt{T})$ regret. Since any algorithm has regret at least $\Omega(\sqrt{T})$ on this problem, our algorithm is optimal in terms of the scaling with $T$.
+Keywords
+derivative-free optimization, bandit optimization, ellipsoid method, 90C56, 90C25, 68T05, 

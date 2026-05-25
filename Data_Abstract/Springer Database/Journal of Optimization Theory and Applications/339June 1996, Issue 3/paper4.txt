@@ -1,0 +1,6 @@
+Hybrid methods for large sparse nonlinear least squares
+L. Lukšan;
+Abstract
+Hybrid methods are developed for improving the Gauss-Newton method in the case of large residual or ill-conditioned nonlinear least-square problems. These methods are used usually in a form suitable for dense problems. But some standard approaches are unsuitable, and some new possibilities appear in the sparse case. We propose efficient hybrid methods for various representations of the sparse problems. After describing the basic ideas that help deriving new hybrid methods, we are concerned with designing hybrid methods for sparse Jacobian and sparse Hessian representations of the least-square problems. The efficiency of hybrid methods is demonstrated by extensive numerical experiments.
+Keywords
+Unconstrained optimization  nonlinear least squares  line search methods  trust region methods  Gauss-Newton method  hybrid methods  sparse problems  matrix iterative methods  matrix direct methods  computational experiments  

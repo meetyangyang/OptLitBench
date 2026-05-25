@@ -1,0 +1,6 @@
+Rudiments of an average case complexity theory for piecewise-linear path following algorithms
+James Renegar;
+Abstract
+We examine the efficiency of PL path following algorithms in followingF T -1 (0), whereFT is the PL approximation, induced by the simplicial triangulationT, to a mapf:ℝ n →ℝn-1. In particular, we consider the problem of determining an upper bound on the expected number of pivots made per unit length off−1(0) that is approximated. We show that if the sizes of the simplices ofT are “sufficiently small”, where “sufficiently small” is an explicitly given quantity dependent on measurements of how “nice”f is, then the average directional density ofT, as introduced by Todd, really does give a good approximation to the expected number of pivots made, confirming what researchers have believed on intuitive grounds for a decade. Because what constitutes “sufficiently small” is a precisely given quantity, i.e., non-asymptotic, we are able to provide some rigorous justification for the claim that the expected number of pivots grows only polynomially inn, the number of variables.
+Keywords
+Average directional density  computational complexity  homotopy algorithms  path following  piecewise linear approximations  simplicial algorithms  triangulations  

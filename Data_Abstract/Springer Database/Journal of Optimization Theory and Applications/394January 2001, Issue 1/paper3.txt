@@ -1,0 +1,6 @@
+On Applied Nonlinear and Bilevel Programming or Pursuit-Evasion Games
+H. Ehtamo;T. Raivio;
+Abstract
+Motivated by the benefits of discretization in optimal control problems, we consider the possibility of discretizing pursuit-evasion games. Two approaches are introduced. In the first approach, the solution of the necessary conditions of the continuous-time game is decomposed into ordinary optimal control problems that can be solved using discretization and nonlinear programming techniques. In the second approach, the game is discretized and transformed into a bilevel programming problem, which is solved using a first-order feasible direction method. Although the starting points of the approaches are different, they lead in practice to the same solution algorithm. We demonstrate the usability of the discretization by solving some open-loop representations of feedback solutions for a complex pursuit-evasion game between a realistically modeled aircraft and a missile, with terminal time as the payoff. The solutions are compared with those obtained via an indirect method.
+Keywords
+pursuit-evasion games  optimal control  bilevel programming  aerospace applications  

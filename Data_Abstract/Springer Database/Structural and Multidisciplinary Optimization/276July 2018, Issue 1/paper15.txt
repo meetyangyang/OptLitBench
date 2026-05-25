@@ -1,0 +1,6 @@
+Categorical structural optimization using discrete manifold learning approach and custom-built evolutionary operators
+Huanhuan Gao;Piotr Breitkopf;Rajan Filomeno Coelho;Manyu Xiao;
+Abstract
+In present work, we address the non-ordinal categorical design variables, such as different beam/bar cross-section types, various materials or components available within a catalog. We interpret the admissible values of categorical variables as discrete points in multi-dimensional space of physical attributes, which allows computing distances but has no ordering property. Then we propose to use the Isomap manifold learning approach to eliminate the possibly redundant dimensionality and obtain a reduced-order design space in which the geodesic distances are preserved in a low-dimensional graph. Then, taking advantage of the shortest path and the neighbors provided by Dijkstra algorithm, we propose graph-based crossover and mutation operators to be used in evolutionary optimization. The method is applied to the optimal design of truss and frame structures.
+Keywords
+Categorical variables  Evolutionary optimization  Isomap  Manifold learning  

@@ -1,0 +1,6 @@
+Lower and upper bounds for the spanning tree with minimum branch vertices
+Francesco Carrabs;Raffaele Cerulli;Manlio Gaudioso;Monica Gentili;
+Abstract
+We study a variant of the spanning tree problem where we require that, for a given connected graph, the spanning tree to be found has the minimum number of branch vertices (that is vertices of the tree whose degree is greater than two). We provide four different formulations of the problem and compare different relaxations of them, namely Lagrangian relaxation, continuous relaxation, mixed integer-continuous relaxation. We approach the solution of the Lagrangian dual both by means of a standard subgradient method and an ad-hoc finite ascent algorithm based on updating one multiplier at the time. We provide numerical result comparison of all the considered relaxations on a wide set of benchmark instances. A useful follow-up of tackling the Lagrangian dual is the possibility of getting a feasible solution for the original problem with no extra costs. We evaluate the quality of the resulting upper bound by comparison either with the optimal solution, whenever available, or with the feasible solution provided by some existing heuristic algorithms.
+Keywords
+Spanning tree  Lagrangian relaxation  Dual ascent  

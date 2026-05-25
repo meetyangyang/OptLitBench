@@ -1,0 +1,6 @@
+Piecewise Convex Maximization Problems: Piece Adding Technique
+Dominique Fortin;Ider Tseveendorj;
+Abstract
+In this article, we provide a global search algorithm for maximizing a piecewise convex function F over a compact D. We propose to iteratively refine the function F at local solution y by a virtual cutting function p  y (⋅) and to solve max {min {F(x)−F(y),p  y (x)}∣x∈D} instead. We call this function either a patch, when it avoids returning back to the same local solutions, or a pseudo patch, when it possibly yields a better point. It is virtual in the sense that the role of cutting constraints is played by additional convex pieces in the objective function. We report some computational results, that represent an improvement on previous linearization based techniques.
+Keywords
+Global search algorithm  Local search algorithm  Nonconvex optimization  Convex maximization  Piecewise convex maximization  

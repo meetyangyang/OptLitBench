@@ -1,0 +1,6 @@
+A relaxed cutting plane algorithm for solving fuzzy inequality systems
+ HU.   Cheng-Feng ; Shu-Cherng.   Fang ;
+Abstract
+ This paper studies a system of infinitely many fuzzy inequalities with concavemembership functions. By using the tolerance approach, we show that solving such system can be reduced to a semi-infinite programming problem. A relaxed cutting plane algorithm is proposed. In each iteration, we solve a finite convex optimization problem and add one or two more constraints. The proposed algorithm chooses a point at which the infinite constraints are violated to a degree rather than at which the violation is maximized. The iterative process ends when an optimal solution is identified. A convergence proof, under some mild conditions, is given. An efficient implementation based on the "method of centres" with "entropic regularization" techniques is also included. Some computational results confirm the efficiency of the proposed method and show its potential for solving large scale problems.  
+Keywords
+Fuzzy Mathematical Programming, Systems of Fuzzy Inequalities, Cutting Plane Method 

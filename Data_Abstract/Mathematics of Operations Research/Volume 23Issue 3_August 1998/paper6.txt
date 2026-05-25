@@ -1,0 +1,6 @@
+The Travelling Salesman and the PQ-Tree
+Rainer E. Burkard;Vladimir G. Deĭneko;Gerhard J. Woeginger;
+Abstract
+Let D = (dij) be the n × n distance matrix of a set of n cities {1, 2, …, n}, and let T be a PQ-tree with node degree bounded by d that represents a set Π(T) of permutations over {1, 2, …, n}. We show how to compute for D in O(2dn3) time the shortest travelling salesman tour contained in Π(T). Our algorithm may be interpreted as a common generalization of the well-known Held and Karp dynamic programming algorithm for the TSP and of the dynamic programming algorithm for finding the shortest pyramidal TSP tour.A consequence of our result is that the shortcutting phase of the “twice around the tree” heuristic for the Euclidean TSP can be optimally implemented in polynomial time. This contradicts a statement of Papadimitriou and Vazirani as published in 1984.
+Keywords
+Travelling salesman problem polynomial algorithm dynamic programming combinatorial optimization Euclidean travelling salesman problem PQ-tree 

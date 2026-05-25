@@ -1,0 +1,6 @@
+A Primal-Dual Algorithm for Solving Polyhedral Conic Systems with a Finite-Precision Machine
+Felipe  Cucker and Javier  Peña;
+Abstract
+We describe a primal-dual interior-point algorithm that determines which one of two alternative systems, [ Ax = 0, \quad x \geq 0, \] and \[ A\transp y \leq 0, \]  is strictly feasible, provided that this pair of systems is well-posed. Furthermore, when the second system is strictly feasible, the algorithm returns a strict solution y; when the first system is strictly feasible, the algorithm returns a strict forward-approximate solution x. Here $A \in {\mathbb R}^{m\times n}$ is given. Our algorithm works with finite-precision arithmetic. The amount of precision required is adjusted as the algorithm progresses and remains bounded by a measure of well-posedness C(A) of the pair of systems of constraints. The algorithm halts in at most ${\cal O}((m+n)^{1/2}(\log(m+n)+\log(C(A))+|\log\gamma|))$ interior-point iterations, where $\gamma\in(0,1)$ is a parameter specifying the desired degree of accuracy of the forward-approximate solution for the first system. If the feasible system is the second one, the term $|\log\gamma|$ in the bound on the number of iterations can be dropped.
+Keywords
+linear conic systems, finite-precision algorithms, 90C05, 90C51, 

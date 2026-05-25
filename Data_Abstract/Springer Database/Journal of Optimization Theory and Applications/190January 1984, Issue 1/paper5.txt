@@ -1,0 +1,6 @@
+Spatial and time decomposition algorithms for dynamic nonlinear network optimization using duality
+P. F. Perry;
+Abstract
+The structural and computational aspects of two decomposition algorithms suitable for dynamic optimization of nonlinear interconnected networks are examined. Both methods arise from a decomposition based on Lagrangian duality theory of the addressed dynamic optimization problem, which is the minimization of energy costs over a given time period, subject to the requirement that the network equations and inequality restrictions are satisfied. The first algorithm uses a spatial decomposition of the state space into subgroups of state variables associated with particular network zones. This leads to a number of lower-dimensional optimization problems which can be solved individually at one level and coordinated at a higher level to account for interactions between these zones. The second algorithm uses time decomposition to solve a sequence of static optimization problems, one for each time increment into which the interval is subdivided, which are then coordinated to take account of dynamic interaction between the time increments. Computational results from an actual network in the United Kingdom are presented for both methods.
+Keywords
+Dynamic optimization  duality  decomposition  distribution networks  multilevel optimization  

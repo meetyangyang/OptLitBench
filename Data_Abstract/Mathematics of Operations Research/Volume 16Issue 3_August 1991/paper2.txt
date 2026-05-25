@@ -1,0 +1,6 @@
+Relaxation Methods for Problems with Strictly Convex Costs and Linear Constraints
+Paul Tseng;Dimitri P. Bertsekas;
+Abstract
+Consider the problem of minimizing a strictly convex (possibly nondifferentiable and nonseparable) cost subject to linear constraints. We propose a dual coordinate ascent method for this problem that uses inexact line search and either essentially cyclic or Gauss-Southwell order of coordinate relaxation. We show, under very weak conditions, that this method generates a sequence of primal vectors converging to the optimal primal solution. Under an additional regularity assumption, and assuming that the effective domain of the cost function is polyhedral, we show that a related sequence of dual vectors converges in cost to the optimal cost. If the constraint set has an interior point in the effective domain of the cost function, then this sequence of dual vectors is bounded and each of its limit point(s) is an optimal dual solution. When the cost function is strongly convex, we show that the order of coordinate relaxation can become progressively more chaotic. These results significantly improve upon those obtained previously.
+Keywords
+convex program dual functional coordinate ascent strict convexity 

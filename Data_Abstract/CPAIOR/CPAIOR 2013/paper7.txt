@@ -1,0 +1,4 @@
+Decision Diagrams and Dynamic Programming
+John N. Hooker;
+Abstract
+Binary and multivalued decision diagrams are closely related to dynamic programming (DP) but differ in some important ways. This paper makes the relationship more precise by interpreting the DP state transition graph as a weighted decision diagram and incorporating the state-dependent costs of DP into the theory of decision diagrams. It generalizes a well-known uniqueness theorem by showing that, for a given optimization problem and variable ordering, there is a unique reduced weighted decision diagram with “canonical” edge costs. This can lead to simplification of DP models by transforming the costs to canonical costs and reducing the diagram, as illustrated by a standard inventory management problem. The paper then extends the relationship between decision diagrams and DP by introducing the concept of nonserial decision diagrams as a counterpart of nonserial dynamic programming.

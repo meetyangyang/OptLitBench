@@ -1,0 +1,6 @@
+Inverse hydrograph routing optimization model based on the kinematic wave approach
+B. Saghafian;M.H. Jannaty;N. Ezami;
+Abstract
+This article presents and validates the inverse flood hydrograph routing optimization model under kinematic wave (KW) approximation in order to produce the upstream (inflow) hydrograph, given the downstream (outflow) hydrograph of a river reach. The cost function involves minimization of the error between the observed outflow hydrograph and the corresponding directly routed outflow hydrograph. Decision variables are the inflow hydrograph ordinates. The KW and genetic algorithm (GA) are coupled, representing the selected methods of direct routing and optimization, respectively. A local search technique is also enforced to achieve better agreement of the routed outflow hydrograph with the observed hydrograph. Computer programs handling the direct flood routing, cost function and local search are linked with the optimization model. The results show that the case study inflow hydrographs obtained by the GA were reconstructed with accuracy. It was also concluded that the coupled KW-GA model framework can perform inverse hydrograph routing with numerical stability.
+Keywords
+inverse routing, kinematic wave, optimization, genetic algorithm 

@@ -1,0 +1,6 @@
+New minimax algorithm
+A. Vardi;
+Abstract
+The purpose of this paper is to suggest a new, efficient algorithm for the minmax problem$$\mathop {min}\limits_x  \mathop {max}\limits_i f_i (x),        x \in \Re ^n ,        i = 1, \ldots ,m,$$ wheref i ,i=1,...,m, are real-valued functions defined on ℜ n . The problem is transformed into an equivalent inequality-constrained minimization problem, mint, s.t.f i (x)−t≤0, for alli, i=1,...,m. The algorithm has these features: an active-set strategy with three types of constraints; the use of slack variables to handle inequality constraints; and a trust-region strategy taking advantage of the structure of the problem. Following Tapia, this problem is solved by an active set strategy which uses three types of constraints (called here nonactive, semiactive, and active). Active constraints are treated as equality constraints, while semiactive constraints are treated as inequality constraints and are assigned slack variables. This strategy helps to prevent zigzagging. Numerical results are provided.
+Keywords
+Minmax problems  constrained optimization  active set strategy  trust region  slack variables  

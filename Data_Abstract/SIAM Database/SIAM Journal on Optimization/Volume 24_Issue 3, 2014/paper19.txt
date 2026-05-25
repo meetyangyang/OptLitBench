@@ -1,0 +1,6 @@
+Proximal Newton-Type Methods for Minimizing Composite Functions
+Jason D.  Lee, Yuekai  Sun, and Michael A.  Saunders;
+Abstract
+We generalize Newton-type methods for minimizing smooth functions to handle a sum of two convex functions: a smooth function and a nonsmooth function with a simple proximal mapping. We show that the resulting proximal Newton-type methods inherit the desirable convergence behavior of Newton-type methods for minimizing smooth functions, even when search directions are computed inexactly. Many popular methods tailored to problems arising in bioinformatics, signal processing, and statistical learning are special cases of proximal Newton-type methods, and our analysis yields new convergence results for some of these methods.
+Keywords
+convex optimization, nonsmooth optimization, proximal mapping, 65K05, 90C25, 90C53, 

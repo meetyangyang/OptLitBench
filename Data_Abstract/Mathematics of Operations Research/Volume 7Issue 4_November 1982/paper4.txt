@@ -1,0 +1,6 @@
+Worst-Case Analysis of Greedy Heuristics for Integer Programming with Nonnegative Data
+Gregory Dobson;
+Abstract
+We give a worst-case analysis for two greedy heuristics for the integer programming problem minimize cx, Ax ≥ b, 0 ≤ x ≤ u, x integer, where the entries in A, b, and c are all nonnegative. The first heuristic is for the case where the entries in A and b are integral, the second only assumes the rows are scaled so that the smallest nonzero entry is at least 1. In both cases we compare the ratio of the value of the greedy solution to that of the integer optimal. The error bound grows logarithmically in the maximum column sum of A for both heuristics.
+Keywords
+worst-case error analysis greedy heuristic integer programming set covering 

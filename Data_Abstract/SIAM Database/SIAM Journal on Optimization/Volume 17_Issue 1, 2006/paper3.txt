@@ -1,0 +1,6 @@
+Interior Methods for Mathematical Programs with Complementarity Constraints
+Sven  Leyffer, Gabriel  López-Calva, and Jorge  Nocedal;
+Abstract
+This paper studies theoretical and practical properties of interior-penalty methods for mathematical programs with complementarity constraints. A framework for implementing these methods is presented, and the need for adaptive penalty update strategies is motivated with examples. The algorithm is shown to be globally convergent to strongly stationary points, under standard assumptions. These results are then extended to an interior-relaxation approach. Superlinear convergence to strongly stationary points is also established. Two strategies for updating the penalty parameter are proposed, and their efficiency and robustness are studied on an extensive collection of test problems.
+Keywords
+mathematical programs with complementarity constraints, nonlinear programming, interior-point methods, exact penalty, equilibrium constraints, complementarity constraints, 90C30, 90C33, 90C51, 49M37, 65K10, 

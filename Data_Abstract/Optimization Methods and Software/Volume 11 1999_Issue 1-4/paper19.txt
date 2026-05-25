@@ -1,0 +1,6 @@
+Sdpha: a Matlab implementation of homogeneous interior-point algorithms for semidefinite programming
+ Nathan   Brixius ; Florian A.   Potra ; Rongqin   Sheng ;
+Abstract
+ Mehrotra type primal-dual predictor-corrector interior-point algorithms for semidefinite programming are implemented, using the homogeneous formulation proposed and analyzed by Potra and Sheng. Several search directions, including the AHO, HKM, NT, Toh, and Gu directions, are used. A rank-2 update technique is employed in our MATLAB code so that the computation of homogeneous directions is only slightly more expensive than in the non-homogeneous case. However, the homogeneous algorithms generally take fewer iterations to compute an approximate solution within a desired accuracy. Numerical results show that the homogeneous algorithms outperform their non-homogeneous counterparts, with improvement of more than 20% in many cases, in terms of total CPU time. 
+Keywords
+Semidefinite Programming, Homogeneous interior-point algorithm, Rank-2 update 

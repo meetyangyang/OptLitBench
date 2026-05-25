@@ -1,0 +1,6 @@
+On solving Linear Complementarity Problems by DC programming and DCA
+Hoai An Le Thi;Tao Pham Dinh;
+Abstract
+In this paper, we consider four optimization models for solving the Linear Complementarity (LCP) Problems. They are all formulated as DC (Difference of Convex functions) programs for which the unified DC programming and DCA (DC Algorithms) are applied. The resulting DCA are simple: they consist of solving either successive linear programs, or successive convex quadratic programs, or simply the projection of points on \(\mathbb{R}_{+}^{2n}\). Numerical experiments on several test problems illustrate the efficiency of the proposed approaches in terms of the quality of the obtained solutions, the speed of convergence, and so on. Moreover, the comparative results with Lemke algorithm, a well known method for the LCP, show that DCA outperforms the Lemke method.
+Keywords
+LCP  DC programming  DCA  

@@ -1,0 +1,6 @@
+Branch-and-Bound Outer Approximation Algorithm for Sum-of-Ratios Fractional Programs
+H. P. Benson;
+Abstract
+In this article, a branch and-bound outer approximation algorithm is presented for globally solving a sum-of-ratios fractional programming problem. To solve this problem, the algorithm instead solves an equivalent problem that involves minimizing an indefinite quadratic function over a nonempty, compact convex set. This problem is globally solved by a branch-and-bound outer approximation approach that can create several closed-form linear inequality cuts per iteration. In contrast to pure outer approximation techniques, the algorithm does not require computing the new vertices that are created as these cuts are added. Computationally, the main work of the algorithm involves solving a sequence of convex programming problems whose feasible regions are identical to one another except for certain linear constraints. As a result, to solve these problems, an optimal solution to one problem can potentially be used to good effect as a starting solution for the next problem.
+Keywords
+Global optimization  Fractional programming  Sum of ratios  Branch and bound  Outer approximation  

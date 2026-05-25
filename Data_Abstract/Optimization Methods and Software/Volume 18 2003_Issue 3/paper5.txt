@@ -1,0 +1,6 @@
+PENNON: A code for convex nonlinear and semidefinite programming
+ Michal   Kočvara ; Michael   Stingl ;
+Abstract
+ We introduce a computer program PENNON for the solution of problems of convex Nonlinear and Semidefinite Programming (NLP-SDP). The algorithm used in PENNON is a generalized version of the Augmented Lagrangian method, originally introduced by Ben-Tal and Zibulevsky for convex NLP problems. We present generalization of this algorithm to convex NLP-SDP problems, as implemented in PENNON and details of its implementation. The code can also solve second-order conic programming (SOCP) problems, as well as problems with a mixture of SDP, SOCP and NLP constraints. Results of extensive numerical tests and comparison with other optimization codes are presented. The test examples show that PENNON is particularly suitable for large sparse problems. 
+Keywords
+Convex Programming, Semidefinite Programming, Large-scale Problems 

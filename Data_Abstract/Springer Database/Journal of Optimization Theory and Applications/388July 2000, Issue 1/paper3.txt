@@ -1,0 +1,6 @@
+Unbiased Estimates of Circle Parameters
+Y. T. Chan;B. H. Lee;S. M. Thomas;
+Abstract
+It is of practical value to estimate the center and radius of a circle from a given set of noisy coordinate measurements. Since the coordinates of the points on a circle relate to its parameters through the nonlinear circle equation, the estimation problem is inherently nonlinear. Additionally, if the measurements are available only along a small arc, the estimation exhibits generally a bias, together with large variances, even at low-noise magnitudes. This paper presents two algorithms, one iterative and another which has a closed-form solution, aiming at the elimination of biases that occur at small arcs. Simulation results show that the two algorithms do provide unbiased and reliable estimates of the circle parameters for noisy measurements on arcs as small as 45°.
+Keywords
+Circle fitting  instrumental variables  Fisher scoring  

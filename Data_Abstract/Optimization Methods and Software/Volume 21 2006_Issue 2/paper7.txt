@@ -1,0 +1,6 @@
+A pivoting procedure for a class of second-order cone programming
+ Masakazu   Muramatsu ;
+Abstract
+ We propose a pivoting procedure for a class of second-order cone programming (SOCP) problems having one second-order cone, but possibly with additional non-negative variables. We introduce a dictionary, basic variables, nonbasic variables, and other necessary concepts to define a pivot for this class of SOCP problems. In a pivot, two-dimensional SOCP subproblems are solved to decide which variables should be entering or leaving the basis. Under a nondegeneracy assumption, we prove that the objective function value is strictly decreasing by a pivot unless the current basic solution is optimal. We also propose an algorithm using the pivoting procedure which has a global convergence property. 
+Keywords
+Second-order cone programming, Pivoting methods 

@@ -1,0 +1,6 @@
+A combined direction stochastic approximation algorithm
+Zi Xu;
+Abstract
+The stochastic approximation problem is to find some root or minimum of a nonlinear function in the presence of noisy measurements. The classical algorithm for stochastic approximation problem is the Robbins-Monro (RM) algorithm, which uses the noisy negative gradient direction as the iterative direction. In order to accelerate the classical RM algorithm, this paper gives a new combined direction stochastic approximation algorithm which employs a weighted combination of the current noisy negative gradient and some former noisy negative gradient as iterative direction. Both the almost sure convergence and the asymptotic rate of convergence of the new algorithm are established. Numerical experiments show that the new algorithm outperforms the classical RM algorithm.
+Keywords
+Stochastic approximation  Robbins-Monro algorithm  Combined direction  Almost sure  Asymptotic rate of convergence  

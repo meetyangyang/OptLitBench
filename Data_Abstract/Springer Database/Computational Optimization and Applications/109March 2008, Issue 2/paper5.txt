@@ -1,0 +1,8 @@
+A simplicial branch-and-bound algorithm conscious of special structures in concave minimization problems
+Takahito Kuno;Hidetoshi Nagai;
+Abstract
+
+In this paper, we develop a simplicial branch-and-bound algorithm for generating globally optimal solutions to concave minimization problems with low rank nonconvex structures. We propose to remove all additional constraints imposed on the usual linear programming relaxed problem. Therefore, in each bounding operation, we solve a linear programming problem whose constraints are exactly the same as the target problem. Although the lower bound worsens as a natural consequence, we offset this weakness by using an inexpensive bound tightening procedure based on Lagrangian relaxation. After giving a proof of the convergence, we report a numerical comparison with existing algorithms.
+
+Keywords
+Global optimization  Concave minimization  Low-rank nonconvexity  Branch-and-bound algorithm  Lagrangian relaxation  

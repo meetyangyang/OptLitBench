@@ -1,0 +1,6 @@
+A Path-Following Algorithm for Linear Programming Using Quadratic and Logarithmic Penalty Functions
+Paul  Tseng;
+Abstract
+Motivated by a recent work of Setiono, a path-following algorithm for linear programming using both logarithmic and quadratic penalty functions is proposed. In the algorithm, a logarithmic and a quadratic penalty is placed on, respectively, the nonnegativity constraints and an arbitrary subset of the equality constraints; Newton’s method is applied to solve the penalized problem, and after each Newton step the penalty parameters are decreased. This algorithm maintains neither primal nor dual feasibility and does not require a Phase I. It is shown that if the initial iterate is chosen appropriately and the penalty parameters are decreased to zero in a particular way, then the algorithm is linearly convergent. Numerical results are also presented suggesting that the algorithm may be competitive with interior point algorithms in practice, requiring typically between 30–45 iterations to accurately solve each Netlib problem tested.
+Keywords
+linear program, path-following, Newton step, penalty function, 49, 90, 

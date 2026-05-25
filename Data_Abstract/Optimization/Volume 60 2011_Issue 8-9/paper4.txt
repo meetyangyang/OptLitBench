@@ -1,0 +1,6 @@
+On perturbed steepest descent methods with inexact line search for bilevel convex optimization
+ Elias   Salomão Helou   Neto ; Álvaro   Rodolfo   De Pierro ;
+Abstract
+ We use a general framework for solving convex constrained optimization problems introduced in an earlier work to obtain algorithms for problems with a constraint set defined as the set of minimizers of a given function. Also, the algorithms allow the objective function to be decomposed as a sum of other convex functions that can be treated separately. We prove that the general algorithm converges to the optimum of the objective function over the set of minima of a convex Lipschitz-differentiable function chosen previously. When using orthogonal projections onto the convex constraints, we retrieve a Cimmino-like algorithm that converges to the optimum over the set of weighted least squares solutions. Furthermore, we show an important application of our approach to compressed sensing and inverse problems. 
+Keywords
+convex optimization, bilevel, tomography 

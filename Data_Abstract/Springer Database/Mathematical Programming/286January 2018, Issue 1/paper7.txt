@@ -1,0 +1,6 @@
+Wait-and-judge scenario optimization
+M. C. Campi;S. Garatti;
+Abstract
+We consider convex optimization problems with uncertain, probabilistically described, constraints. In this context, scenario optimization is a well recognized methodology where a sample of the constraints is used to describe uncertainty. One says that the scenario solution generalizes well, or has a high robustness level, if it satisfies most of the other constraints besides those in the sample. Over the past 10 years, the main theoretical investigations on the scenario approach have related the robustness level of the scenario solution to the number of optimization variables. This paper breaks into the new paradigm that the robustness level is a-posteriori evaluated after the solution is computed and the actual number of the so-called support constraints is assessed (wait-and-judge). A new theory is presented which shows that a-posteriori observing k support constraints in dimension \(d > k\) allows one to draw conclusions close to those obtainable when the problem is from the outset in dimension k. This new theory provides evaluations of the robustness that largely outperform those carried out based on the number of optimization variables.
+Keywords
+Sample-based optimization  Scenario approach  Stochastic optimization  Probabilistic constraints  90C15  90C25  

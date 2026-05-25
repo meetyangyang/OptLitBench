@@ -1,0 +1,6 @@
+A new simplicial variable dimension algorithm to find equilibria on the product space of unit simplices
+T. M. Doup;A. J. J. Talman;
+Abstract
+A new simplicial variable dimension restart algorithm is introduced to solve the nonlinear complementarity problem on the product spaceS of unit simplices. The triangulation which underlies the algorithm differs from the triangulations ofS used thus far. Moreover, the number of rays along which the algorithm can leave the arbitrarily chosen starting point is much larger. More precisely, there is a ray leading from the starting point to each vertex ofS. In caseS is the product ofn one-dimensional unit simplices the alogrithm is similar to the octahedral algorithm onR  n  having 2 n  rays. Also, the accuracy of an approximate solution in the terminal simplex of the algorithm is in general better than for the other algorithms onS. Computational results will show that the number of iterations for the new algorithm is much less. The examples concern the computation of equilibria in noncooperative games, exchange economies and trade models.
+Keywords
+Nonlinear complementarity problem  triangulation  vector labelling  

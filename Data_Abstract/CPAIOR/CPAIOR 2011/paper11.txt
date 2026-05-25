@@ -1,0 +1,4 @@
+Branch-Cut-and-Propagate for the Maximum k-Colorable Subgraph Problem with Symmetry
+Tim Januschowski;Marc E. Pfetsch;
+Abstract
+Given an undirected graph and a positive integer k, the maximum k-colorable subgraph problem consists of selecting a k-colorable induced subgraph of maximum cardinality. The natural integer programming formulation for this problem exhibits two kinds of symmetry: arbitrarily permuting the color classes and/or applying a non-trivial graph automorphism gives equivalent solutions. It is well known that such symmetries have negative effects on the performance of constraint/integer programming solvers.

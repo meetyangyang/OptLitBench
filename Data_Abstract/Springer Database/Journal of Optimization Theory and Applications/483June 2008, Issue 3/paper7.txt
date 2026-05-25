@@ -1,0 +1,8 @@
+Multiple Instance Classification via Successive Linear Programming
+O. L. Mangasarian;E. W. Wild;
+Abstract
+
+The multiple instance classification problem (Dietterich et al., Artif. Intell. 89:31–71, [1998]; Auer, Proceedings of 14th International Conference on Machine Learning, pp. 21–29, Morgan Kaufmann, San Mateo, [1997]; Long et al., Mach. Learn. 30(1):7–22, [1998]) is formulated using a linear or nonlinear kernel as the minimization of a linear function in a finite-dimensional (noninteger) real space subject to linear and bilinear constraints. A linearization algorithm is proposed that solves a succession of fast linear programs that converges in a few iterations to a local solution. Computational results on a number of datasets indicate that the proposed algorithm is competitive with the considerably more complex integer programming and other formulations. A distinguishing aspect of our linear classifier not shared by other multiple instance classifiers is the sparse number of features it utilizes. In some tasks, the reduction amounts to less than one percent of the original features.
+
+Keywords
+Multiple instance learning  Support vector machines  Successive linearization algorithm  Bilinear constraints  

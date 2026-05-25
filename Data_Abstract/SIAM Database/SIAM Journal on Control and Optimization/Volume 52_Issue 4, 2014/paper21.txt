@@ -1,0 +1,6 @@
+Minimal Time Control of the Two Tanks Gradostat Model Under a Cascade Input Constraint
+Terence  Bayen, Alain  Rapaport, and Matthieu  Sebbah;
+Abstract
+We study the minimum time control problem of a series of two interconnected chemostats under the input constraint $u_{2}\leq u_{1}$, where $u_{i}$ are the respective dilution rates in the tanks. This constraint brings controllability issues in the study of the optimal strategies. We overcome this difficulty by splitting the state domain into two subdomains, one with no lack of controllability of the target, and its complement where any optimal trajectory satisfies $u_{1}=u_{2}$. We explicitly compute the complete optimal synthesis that depends on the position of the target with respect to a semipermeable curve that passes through a steady-state singular point.
+Keywords
+optimal control, minimal time problem, Pontryagin's maximum principle, optimal synthesis, chemostat model, gradostat model, nonlinear controllability, semipermeability, 49J15, 49K15, 49N25, 

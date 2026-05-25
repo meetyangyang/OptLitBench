@@ -1,0 +1,8 @@
+Exact relaxations of non-convex variational problems
+René Meziat;Diego Patiño;
+Abstract
+Here, we solve non-convex, variational problems given in the form
+$$\min_{u} I(u) = \int\limits_{0}^{1} f(u'(x))dx \quad {\rm s.t.} \quad u(0) = 0, u(1) = a, \quad(1)$$where u ∈ (W 1,∞(0, 1)) k  and \(f : {\mathbb{R}}^k \rightarrow {\mathbb{R}}\) is a non-convex, coercive polynomial. To solve (1) we analyse the convex hull of the integrand at the point a, so that we can find vectors \(a^1,\ldots,a^N \in {\mathbb{R}}^k\) and positive values λ1, . . . , λ N  satisfying the non-linear equation
+$$(1, a, f_c(a)) = \sum\limits_{i=1}^{N}\lambda_i(1, a^i, f(a^i)). \quad (2)$$Thus, we can calculate minimizers of (1) by following a proposal of Dacorogna in (Direct Methods in the Calculus of Variations. Springer, Heidelberg, 1989). Indeed, we can solve (2) by using a semidefinite program based on multidimensional moments.
+Keywords
+Calculus of variations  Convex analysis  Semidefinite programming  Multidimensional moment problem  

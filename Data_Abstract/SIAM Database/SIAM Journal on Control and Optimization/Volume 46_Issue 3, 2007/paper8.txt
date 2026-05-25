@@ -1,0 +1,6 @@
+Error Estimates for the Numerical Approximation of a Distributed Control Problem for the Steady-State Navier–Stokes Equations
+Eduardo  Casas, Mariano  Mateos, and Jean-Pierre  Raymond;
+Abstract
+We obtain error estimates for the numerical approximation of a distributed control problem governed by the stationary Navier–Stokes equations, with pointwise control constraints. We show that the $L^2$-norm of the error for the control is of order $h^2$ if the control set is not discretized, while it is of order h if it is discretized by piecewise constant functions. These error estimates are obtained for local solutions of the control problem, which are nonsingular in the sense that the linearized Navier–Stokes equations around these solutions define some isomorphisms, and which satisfy a second order sufficient optimality condition. We establish a second order necessary optimality condition. The gap between the necessary and sufficient second order optimality conditions is the usual gap known for finite dimensional optimization problems.
+Keywords
+optimal control, stationary Navier–Stokes equations, numerical approximation, error estimates, 65N30, 65N15, 49M05, 49M25, 

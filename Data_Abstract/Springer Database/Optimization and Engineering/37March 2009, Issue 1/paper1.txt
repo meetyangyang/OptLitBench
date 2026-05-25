@@ -1,0 +1,6 @@
+An asymmetric suboptimization approach to aerostructural optimization
+Ian R. Chittick;Joaquim R. R. A. Martins;
+Abstract
+An asymmetric suboptimization method for performing multidisciplinary design optimization is introduced. The objective of the proposed method is to improve the overall efficiency of aerostructural optimization, by simplifying the system-level problem, and thereby reducing the number of calls to a potentially costly aerodynamics solver. To guide a gradient-based optimization algorithm, an extension of the coupled sensitivity equations is developed to include post-optimality information from the structural suboptimization. The optimization of an aircraft wing is performed using linear aerodynamic and structural analyses, and a thorough performance comparison is made between the new approach and the conventional multidisciplinary feasible method. The asymmetric suboptimization method is found to be the more efficient approach when it adequately simplifies the system-level problem, or when there is a large enough discrepancy between disciplinary solution times.
+Keywords
+Asymmetric suboptimization  Coupled post-optimality sensitivity analysis  Multidisciplinary design optimization  

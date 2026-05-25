@@ -1,0 +1,6 @@
+Ellipsoidal bounds on state trajectories for discrete-time systems with linear fractional uncertainties
+Masako Kishida;Richard D. Braatz;
+Abstract
+Computation of exact ellipsoidal bounds on the state trajectories of discrete-time linear systems that have time-varying or time-invariant linear fractional parameter uncertainties and ellipsoidal uncertainty in the initial state is known to be NP-hard. This paper proposes three algorithms to compute ellipsoidal bounds on such a state trajectory set and discusses the tradeoffs between computational complexity and conservatism of the algorithms. The approach employs linear matrix inequalities to determine an initial estimate of the ellipsoid that is refined by the subsequent application of the skewed structured singular value \(\nu \). Numerical examples are used to illustrate the application of the proposed algorithms and to compare the differences between them, where small conservatism for the tightest bounds is observed.
+Keywords
+Uncertain dynamical systems  Discrete-time systems  Bounding method  Structured singular value  Linear matrix inequalities  

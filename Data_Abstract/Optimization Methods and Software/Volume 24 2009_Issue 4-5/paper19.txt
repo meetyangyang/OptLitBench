@@ -1,0 +1,6 @@
+Enhanced bounding techniques to reduce the protein conformational search space
+ Scott   R.   McAllister ; Christodoulos   A.   Floudas ;
+Abstract
+ The complexity and enormous size of the conformational space that must be explored for the protein tertiary structure prediction problem has led to the development of a wide assortment of algorithmic approaches. In this study, we apply state-of-the-art tertiary structure prediction algorithms and instead focus on the development of bounding techniques to reduce the conformational search space. Dihedral angle bounds on the φ and ψ angles are established based on the predicted secondary structure and studies of the allowed regions of φ/ψ space. Distance bounds are developed based on predicted secondary structure information (including β-sheet topology predictions) to further reduce the search space. This bounding strategy is entirely independent of the degree of homology between the target protein and the database of proteins with experimentally-determined structures. The proposed approach is applied to the structure prediction of protein G as an illustrative example, yielding a significantly higher number of near-native protein tertiary structure predictions. 
+Keywords
+protein tertiary structure prediction, distance bounds, conformational space AMS Subject Classification : 90C06, 90C30, 92-08 

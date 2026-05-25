@@ -1,0 +1,6 @@
+Multigrid Shape Optimization Governed by Elliptic PDEs
+Paola F.  Antonietti, Alfio  Borzì, and Marco  Verani;
+Abstract
+This paper presents and analyzes a new multigrid framework to solve shape optimization problems governed by elliptic PDEs. The boundary of the domain, i.e., the control variable, is represented as the graph of a continuous function that is approximated at various levels of discretization. The proposed multigrid shape optimization scheme acts directly on the function describing the geometry of the domain and it combines a single-grid shape gradient optimizer with a coarse-grid correction (minimization) step, recursively within a hierarchy of levels. The convergence of the proposed multigrid shape optimization method is proved and several numerical experiments assess its effectiveness.
+Keywords
+multigrid methods, shape optimization, finite elements, 65N55, 65M55, 65N21, 

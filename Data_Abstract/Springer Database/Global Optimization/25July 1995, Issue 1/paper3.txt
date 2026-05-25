@@ -1,0 +1,6 @@
+A recipe for semidefinite relaxation for (0,1)-quadratic programming
+S. Poljak;F. Rendl;H. Wolkowicz;
+Abstract
+We review various relaxations of (0,1)-quadratic programming problems. These include semidefinite programs, parametric trust region problems and concave quadratic maximization. All relaxations that we consider lead to efficiently solvable problems. The main contributions of the paper are the following. Using Lagrangian duality, we prove equivalence of the relaxations in a unified and simple way. Some of these equivalences have been known previously, but our approach leads to short and transparent proofs. Moreover we extend the approach to the case of equality constrained problems by taking the squared linear constraints into the objective function. We show how this technique can be applied to the Quadratic Assignment Problem, the Graph Partition Problem and the Max-Clique Problem. Finally we show our relaxation to be best possible among all quadratic majorants with zero trace.
+Keywords
+Quadratic boolean programming  semidefinite programming  bounds  Lagrangian duality  parametric programming  trust region subproblems  minmax eigenvalue problems  quadratic assignment problem  graph partitioning  max-clique  theta function  

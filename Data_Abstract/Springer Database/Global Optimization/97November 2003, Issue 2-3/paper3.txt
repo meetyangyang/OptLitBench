@@ -1,0 +1,6 @@
+Indefinite Stochastic Linear Quadratic Control with Markovian Jumps in Infinite Time Horizon
+Xun Li;Xun Yu Zhou;Mustapha Ait Rami;
+Abstract
+This paper studies a stochastic linear quadratic (LQ) control problem in the infinite time horizon with Markovian jumps in parameter values. In contrast to the deterministic case, the cost weighting matrices of the state and control are allowed to be indinifite here. When the generator matrix of the jump process – which is assumed to be a Markov chain – is known and time-invariant, the well-posedness of the indefinite stochastic LQ problem is shown to be equivalent to the solvability of a system of coupled generalized algebraic Riccati equations (CGAREs) that involves equality and inequality constraints. To analyze the CGAREs, linear matrix inequalities (LMIs) are utilized, and the equivalence between the feasibility of the LMIs and the solvability of the CGAREs is established. Finally, an LMI-based algorithm is devised to slove the CGAREs via a semidefinite programming, and numerical results are presented to illustrate the proposed algorithm.
+Keywords
+Stochastic LQ control  coupled generalized algebraic Riccati equations  linear matrix inequality  semidefinite programming  mean-square stability  

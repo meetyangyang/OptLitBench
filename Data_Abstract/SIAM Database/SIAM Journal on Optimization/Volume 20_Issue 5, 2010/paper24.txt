@@ -1,0 +1,6 @@
+Inexact Proximal Point Methods for Variational Inequality Problems
+Regina  Burachik and Joydeep  Dutta;
+Abstract
+We present a new family of proximal point methods for solving monotone variational inequalities. Our algorithm has a relative error tolerance criterion in solving the proximal subproblems. Our convergence analysis covers a wide family of regularization functions, including double regularizations recently introduced by Silva, Eckstein, and Humes, Jr. [SIAM J. Optim., 12 (2001), pp. 238–261] and the Bregman distance induced by $h(x)=\sum_{i=1}^{n}x_{i}\log x_{i}$. We do not use in our analysis the assumption of paramonotonicity, which is standard in proving convergence of Bregman-based proximal methods.
+Keywords
+maximal monotone operators, variational inequalities, generalized proximal point algorithms, double regularizations, Bregman distances, second order homogeneous kernels, 65J20, 65K10, 90C25, 90C48, 

@@ -1,0 +1,6 @@
+Binary classification via spherical separator by DC programming and DCA
+Hoai An Le Thi;Hoai Minh Le;Tao Pham Dinh;Ngai Van Huynh;
+Abstract
+In this paper, we consider a binary supervised classification problem, called spherical separation, that consists of finding, in the input space or in the feature space, a minimal volume sphere separating the set \({\mathcal{A}}\) from the set \({\mathcal{B}}\) (i.e. a sphere enclosing all points of \({ \mathcal{A}}\) and no points of \({\mathcal{B}}\)). The problem can be cast into the DC (Difference of Convex functions) programming framework and solved by DCA (DC Algorithm) as shown in the works of Astorino et al. (J Glob Optim 48(4):657–669, 2010). The aim of this paper is to investigate more attractive DCA based algorithms for this problem. We consider a new optimization model and propose two interesting DCA schemes. In the first scheme we have to solve a quadratic program at each iteration, while in the second one all calculations are explicit. Numerical simulations show the efficiency of our customized DCA with respect to the methods developed in Astorino et al.
+Keywords
+Classification  Spherical separation  DC programming  DCA  90C30  90C90  

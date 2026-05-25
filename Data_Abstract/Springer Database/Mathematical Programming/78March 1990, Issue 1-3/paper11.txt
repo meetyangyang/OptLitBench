@@ -1,0 +1,6 @@
+Further applications of a splitting algorithm to decomposition in variational inequalities and convex programming
+Paul Tseng;
+Abstract
+A classical method for solving the variational inequality problem is the projection algorithm. We show that existing convergence results for this algorithm follow from one given by Gabay for a splitting algorithm for finding a zero of the sum of two maximal monotone operators. Moreover, we extend the projection algorithm to solveany monotone affine variational inequality problem. When applied to linear complementarity problems, we obtain a matrix splitting algorithm that is simple and, for linear/quadratic programs, massively parallelizable. Unlike existing matrix splitting algorithms, this algorithm converges under no additional assumption on the problem. When applied to generalized linear/quadratic programs, we obtain a decomposition method that, unlike existing decomposition methods, can simultaneously dualize the linear constraints and diagonalize the cost function. This method gives rise to highly parallelizable algorithms for solving a problem of deterministic control in discrete time and for computing the orthogonal projection onto the intersection of convex sets.
+Keywords
+Variational inequality  operator splitting  decomposition  linear complementarity  linear/quadratic programming  

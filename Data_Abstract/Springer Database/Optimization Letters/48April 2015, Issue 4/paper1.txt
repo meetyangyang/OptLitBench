@@ -1,0 +1,6 @@
+An integer programming approach for finding the most and the least central cliques
+Chrysafis Vogiatzis;Alexander Veremyev;Eduardo L. Pasiliao;Panos M. Pardalos;
+Abstract
+We consider the problem of finding the most and the least “influential” or “influenceable” cliques in graphs based on three classical centrality measures: degree, closeness and betweenness. In addition to standard clique betweenness, which is defined as the proportion of shortest paths between any two graph nodes that pass through the clique, we also consider its optimistic and pessimistic versions, where outside nodes may favor or try to avoid shortest paths passing through the clique, respectively. We discuss the computational complexity issues for these problems and develop linear 0–1 programming formulations for each centrality metric. Finally, we demonstrate the performance of the developed formulations on real-life and synthetic networks, and provide some interesting insights based on the obtained results. In particular, our findings indicate that there are considerable variations between the centrality values of large cliques within the same networks. Moreover, the most central cliques in graphs are not necessarily the largest ones.
+Keywords
+Clique  Group centrality  Integer formulation  

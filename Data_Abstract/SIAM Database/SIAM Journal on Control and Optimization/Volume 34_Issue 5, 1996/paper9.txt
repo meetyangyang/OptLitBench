@@ -1,0 +1,6 @@
+Minimax Rendezvous on the Line
+Wei Shi  Lim and Steve  Alpern;
+Abstract
+Suppose that n players are placed randomly on the real line at consecutive integers, and faced in random directions. Each player has maximum speed one, cannot see the others, and doesn't know his relative position. What is the minimum time $M_n $ required to ensure that all the players can meet together at a single point, regardless of their initial placement? We prove that $M_2  = 3$, $M_3  = 4$, and $M_n $ is asymptotic to ${n / 2}$. We also consider a variant of the problem which requires players who meet to stick together, and find in this case that three players require 5 time units to ensure a meeting. This paper is thus a minimax version of the rendezvous search problem, which has hitherto been studied only in terms of minimizing the expected meeting time.
+Keywords
+rendezvous, search game, 90B40, 90D26, 

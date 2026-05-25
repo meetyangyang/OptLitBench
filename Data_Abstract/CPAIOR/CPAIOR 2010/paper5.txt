@@ -1,0 +1,4 @@
+The Increasing Nvalue Constraint
+Nicolas Beldiceanu;Fabien Hermenier;Xavier Lorca;Thierry Petit;
+Abstract
+This paper introduces the Increasing_Nvalue constraint, which restricts the number of distinct values assigned to a sequence of variables so that each variable in the sequence is less than or equal to its successor. This constraint is a specialization of the Nvalue constraint, motivated by symmetry breaking. Propagating the Nvalue constraint is known as an NP-hard problem. However, we show that the chain of non strict inequalities on the variables makes the problem polynomial. We propose an algorithm achieving generalized arc-consistency in O(ΣDi) time, where ΣDi is the sum of domain sizes. This algorithm is an improvement of filtering algorithms obtained by the automaton-based or the Slide-based reformulations. We evaluate our constraint on a resource allocation problem.

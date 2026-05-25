@@ -1,0 +1,6 @@
+Efficient cell-based migration of VLSI layout
+Eugene Shaphir;Ron Y. Pinter;Shmuel Wimer;
+Abstract
+In Intel’s “Tick-Tock” roadmap a new processor is first manufactured in the most advanced stable process technology, followed in a 1-year delay by introducing chips comprising same microarchitecture but manufactured in a newer scaled process technology. Tick-Tock is enabled by the automation of chip’s layout migration from an older into a newer process technology, known as hard-IP reuse. This is a very challenging computational task, involving billions of polygons. Migration algorithms have been thoroughly studied and implemented in the past but their computational capabilities fall short compared to today’s demand. We describe a hierarchy-driven computationally efficient algorithm for cell-based layout conversion, used by Intel in its Tick-Tock roadmap. The algorithm transforms the full chip conversion problem into successive problems of significantly smaller size, having feasible solutions if and only if the full chip problem does. The proposed algorithm preserves the design intent, its uniformity, portability and maintainability, a key for the success of large-scale projects.
+Keywords
+VLSI design migration  Layout compaction  Interconnects  Cell-based design  

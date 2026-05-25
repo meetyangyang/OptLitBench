@@ -1,0 +1,6 @@
+Warm-Start Strategies in Interior-Point Methods for Linear Programming
+E. Alper  Yildirim and Stephen J.  Wright;
+Abstract
+We study the situation in which, having solved a linear program with an interior-point method, we are presented with a new problem instance whose data is slightly perturbed from the original. We describe strategies for recovering a "warm-start" point for the perturbed problem instance from the iterates of the original problem instance. We obtain worst-case estimates of the number of iterations required to converge to a solution of the perturbed instance from the warm-start points, showing that these estimates depend on the size of the perturbation and on the conditioning and other properties of the problem instances.
+Keywords
+warm-start, reoptimization, interior-point methods, linear programming, 90C51, 90C05, 

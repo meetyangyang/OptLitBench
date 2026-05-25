@@ -1,0 +1,6 @@
+CONTROL OPTIMIZATION F MULTIBODY SYSTEMS SING POINT- AND PIECEWISE EFINED OPTIMIZATION CRITERIA
+ PETER   EBERHARD ; FLORIAN   DIGNATH ;
+Abstract
+ A flexible and simplified method for the formulation of criteria for the optimization of muliibody systems is presented using point- and piecewise defined functions. These functions may lead to non-differentiable points of the optimization criteria and discontinuous sensitivities. Their computation and influence on the convergence behavior of an SQP-algorithm is examined. The sensitivities are computed using the Automatic Differentiation method, which can easily be adapted to a wide variety of computer-evaluated gradients. The application of point- and piecewise defined optimization criteria as well as the discontinuous sensitivities are shown for the example of an actively damped truss on a space station. 
+Keywords
+Multibody systems, point- and piecewise defined criteria, discontinuous, sensitivities, automatic differentiation;actively damped truss 

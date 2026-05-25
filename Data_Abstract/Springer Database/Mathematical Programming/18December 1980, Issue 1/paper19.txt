@@ -1,0 +1,6 @@
+A note on some computationally difficult set covering problems
+Davis Avis;
+Abstract
+Fulkerson et al. have given two examples of set covering problems that are empirically difficult to solve. They arise from Steiner triple systems and the larger problem, which has a constraint matrix of size 330 × 45 has only recently been solved. In this note, we show that the Steiner triple systems do indeed give rise to a series of problems that are probably hard to solve by implicit enumeration. The main result is that for ann variable problem, branch and bound algorithms using a linear programming relaxation, and/or elimination by dominance require the examination of a super-polynomial number of partial solutions
+Keywords
+Set-covering Problem  Branch and Bound  Lower Bounds  Steiner Triple Systems  

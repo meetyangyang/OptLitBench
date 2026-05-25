@@ -1,0 +1,6 @@
+An Approach for Analyzing the Global Rate of Convergence of Quasi-Newton and Truncated-Newton Methods
+T. L. Jensen;M. Diehl;
+Abstract
+Quasi-Newton and truncated-Newton methods are popular methods in optimization and are traditionally seen as useful alternatives to the gradient and Newton methods. Throughout the literature, results are found that link quasi-Newton methods to certain first-order methods under various assumptions. We offer a simple proof to show that a range of quasi-Newton methods are first-order methods in the definition of Nesterov. Further, we define a class of generalized first-order methods and show that the truncated-Newton method is a generalized first-order method and that first-order methods and generalized first-order methods share the same worst-case convergence rates. Further, we extend the complexity analysis for smooth strongly convex problems to finite dimensions. An implication of these results is that in a worst-case scenario, the local superlinear or faster convergence rates of quasi-Newton and truncated-Newton methods cannot be effective unless the number of iterations exceeds half the size of the problem dimension.
+Keywords
+Quasi/truncated-Newton methods  First-order methods  Complexity analysis  90C53  49M15  47N10  

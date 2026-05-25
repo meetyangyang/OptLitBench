@@ -1,0 +1,6 @@
+A sparsity preserving stochastic gradient methods for sparse regression
+Qihang Lin;Xi Chen;Javier Peña;
+Abstract
+We propose a new stochastic first-order algorithm for solving sparse regression problems. In each iteration, our algorithm utilizes a stochastic oracle of the subgradient of the objective function. Our algorithm is based on a stochastic version of the estimate sequence technique introduced by Nesterov (Introductory lectures on convex optimization: a basic course, Kluwer, Amsterdam, 2003). The convergence rate of our algorithm depends continuously on the noise level of the gradient. In particular, in the limiting case of noiseless gradient, the convergence rate of our algorithm is the same as that of optimal deterministic gradient algorithms. We also establish some large deviation properties of our algorithm. Unlike existing stochastic gradient methods with optimal convergence rates, our algorithm has the advantage of readily enforcing sparsity at all iterations, which is a critical property for applications of sparse regressions.
+Keywords
+Sparse regression  Stochastic gradient  First-order methods  

@@ -1,0 +1,6 @@
+A primal–dual interior point algorithm with an exact and differentiable merit function for nonlinear programming
+ Ioannis   Akrotirianakis ; Berç   Rustem ;
+Abstract
+ A primal-dual interior point algorithm for solving general nonlinear programming problems is presented. The algorithm solves the perturbed optimality conditions by applying a quasi-Newton method, where the Hessian of the Lagrangian is replaced by a positive definite approximation. An approximation of Fletcher's exact and differentiable merit function together with line-search procedures are incorporated into the algorithm. The line-search procedures are used to modify the length of the step so that the value of the merit function is always reduced. Different step-sizes are used for the primal and dual variables. The search directions are ensured to be descent for the merit function, which is thus used to guide the algorithm to an optimum solution of the constrained optimisation problem. The monotonic decrease of the merit function at each iteration, ensures the global convergence of the algorithm. Finally, preliminary numerical results demonstrate the efficient performance of the algorithm for a variety of problems.  
+Keywords
+Non-linear programming, Constrained optimisation, Primal-dual interior point methods, Global convergence 

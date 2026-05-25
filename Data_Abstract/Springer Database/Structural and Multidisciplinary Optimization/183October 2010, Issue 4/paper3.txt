@@ -1,0 +1,6 @@
+An improved adaptive sampling scheme for the construction of explicit boundaries
+Anirban Basudhar;Samy Missoum;
+Abstract
+This article presents an improved adaptive sampling scheme for the construction of explicit decision functions (constraints or limit state functions) using Support Vector Machines (SVMs). The proposed work presents substantial modifications to an earlier version of the scheme (Basudhar and Missoum, Comput Struct 86(19–20):1904–1917, 2008). The improvements consist of a different choice of samples, a more rigorous convergence criterion, and a new technique to select the SVM kernel parameters. Of particular interest is the choice of a new sample chosen to remove the “locking” of the SVM, a phenomenon that was not understood in the previous version of the algorithm. The new scheme is demonstrated on analytical problems of up to seven dimensions.
+Keywords
+Support Vector Machines  Decision boundaries  Adaptive sampling  

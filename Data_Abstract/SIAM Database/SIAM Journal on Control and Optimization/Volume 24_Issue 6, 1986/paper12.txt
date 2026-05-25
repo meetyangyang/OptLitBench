@@ -1,0 +1,6 @@
+Frequency/Period Estimation and Adaptive Rejection of Periodic Disturbances
+D. L.  Russell;
+Abstract
+We discuss a method for suppressing the oscillations of a linear system subject to an external periodic disturbance of fixed, but unknown, period. The method entails augmentation of the original plant with a compensator and parameter identifier. The near equilibrium dynamics of the resulting system are analyzed and shown to be related to a linear delay equation with infinite delay and periodic coefficients. A corresponding Floquet theory is indicated. A FORTRAN program approximately realizing the period identifier is included and numerical results obtained with this program are graphically displayed and analyzed.
+Keywords
+adaptive control, decoupling, delay equations, 93B30, B40, C40, 45A05, D05, 

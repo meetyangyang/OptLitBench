@@ -1,0 +1,6 @@
+A PENALTY APPROACH FOR NONLINEAR OPTIMIZATION WITH DISCRETE DESIGN VARIABLES
+ DONG KU   SHIN ; Z.   GÜRDAL ; O. H.   GRIFFIN   JR. ;
+Abstract
+ A penalty approach for the solution of nonlinear discrete optimization problems is proposed. In general, the penalty approach is used for converting a constrained optimization problem into a sequence of unconstrained problems. The objective function for the unconstrained problem at each step of the sequential optimization includes terms that introduce a penalty depending on the degree of constraint violation. In addition to the penalty terms for constraint violation, the proposed approach introduces penalty terms to reflect the requirement that the design variables take discrete values. A variable magnitude penalty term in the form of a sine function is introduced and implemented with the extended interior penalty method of the optimization package NEWSUMT-A. The performance of the proposed method is investigated by several numerical examples. 
+Keywords
+ Structural optimization, penalty methods, discrete variables 

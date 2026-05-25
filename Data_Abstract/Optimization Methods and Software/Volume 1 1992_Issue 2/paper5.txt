@@ -1,0 +1,6 @@
+On the implementation and performance of an interior point method for large sparse convex quadratic programming
+   J. L.   Morals-Pérez ;   R. W. H.   Sargent ;
+Abstract
+ For theoretical and practical reasons, quadratic programming problems have attracted the interest of the mathematical programming community. In particular, interior point algorithms have been extended to deal with LP problems due to their relative success for solving large-scale LP problems in polynomial time. In this work we will present an implementation of the interior point algorithm proposed by Goldfarb and Liu. The algorithm is based on the logarithmic Barrier function method. It requires the solution of an equality constrained strictly convex quadratic problem at each Newton iteration. The implementation relies on the iterative solution of the Kuhn-Tucker equations associated with this problem using a preconditioned conjugate gradient-like method. We discuss several issues related to iterative methods for solving indefinite systems of linear equations and preconditioning techniques. Then we present a numerical comparison on a set of non-trivial strictly convex problems. Some conclusions are given at the end. 
+Keywords
+large-scale optimization, interior point algorithms, sparse convex quadratic programming, preconditioned conjugate gradient, iterative methods 

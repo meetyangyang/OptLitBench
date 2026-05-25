@@ -1,0 +1,6 @@
+Differential evolution for dynamic environments with unknown numbers of optima
+Mathys C. du Plessis;Andries P. Engelbrecht;
+Abstract
+This paper investigates optimization in dynamic environments where the numbers of optima are unknown or fluctuating. The authors present a novel algorithm, Dynamic Population Differential Evolution (DynPopDE), which is specifically designed for these problems. DynPopDE is a Differential Evolution based multi-population algorithm that dynamically spawns and removes populations as required. The new algorithm is evaluated on an extension of the Moving Peaks Benchmark. Comparisons with other state-of-the-art algorithms indicate that DynPopDE is an effective approach to use when the number of optima in a dynamic problem space is unknown or changing over time.
+Keywords
+Differential evolution  Dynamic environments  Competing populations  Moving peaks  Dynamic number of populations  

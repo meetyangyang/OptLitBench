@@ -1,0 +1,6 @@
+A flow model based on polylinking system
+Michel X. Goemans;Satoru Iwata;Rico Zenklusen;
+Abstract
+We introduce polylinking networks, which is a flow model based on polylinking systems that generalizes the classical flow model of Ford and Fulkerson on acyclic networks and has applications in the context of wireless networks. More precisely, a flow model recently introduced by Avestimehr et al. (Proceedings of the Allerton conference on communication, control, and computing 2007) used in the context of wireless information networks is a special case of the presented model. We define a notion of source-destination cut and derive a max-flow min-cut theorem. Additionally, we present various properties of polylinking networks that can be seen as generalizations of properties for classical flows. Using submodular function minimization and submodular flow algorithms, one can efficiently determine a maximum flow, a minimum source-destination cut, as well as a minimum cost flow. These algorithms lead to new efficient algorithms for the information flow model.
+Keywords
+Matroid  Linking system  Wireless information flow  Submodular function  90C27  90C90  

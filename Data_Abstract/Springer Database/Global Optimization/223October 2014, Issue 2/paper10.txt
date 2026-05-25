@@ -1,0 +1,6 @@
+Finding multiple roots of a box-constrained system of nonlinear equations with a biased random-key genetic algorithm
+Ricardo M. A. Silva;Mauricio G. C. Resende;Panos M. Pardalos;
+Abstract
+Several numerical methods for solving nonlinear systems of equations assume that derivative information is available. Furthermore, these approaches usually do not consider the problem of finding all solutions to a nonlinear system. Rather, most methods output a single solution. In this paper, we address the problem of finding all roots of a system of equations. Our method makes use of a biased random-key genetic algorithm (BRKGA). Given a nonlinear system, we construct a corresponding optimization problem, which we solve multiple times, making use of a BRKGA, with areas of repulsion around roots that have already been found. The heuristic makes no use of derivative information. We illustrate the approach on seven nonlinear equations systems with multiple roots from the literature.
+Keywords
+Nonlinear systems of equations  Global optimization   Continuous optimization  Heuristic  Stochastic algorithm  Nonlinear programming  BRKGA  

@@ -1,0 +1,6 @@
+A Trust Region SQP Algorithm for Equality Constrained Parameter Estimation with Simple Parameter Bounds
+Nikhil Arora;Lorenz T. Biegler;
+Abstract
+We describe a new algorithm for a class of parameter estimation problems, which are either unconstrained or have only equality constraints and bounds on parameters. Due to the presence of unobservable variables, parameter estimation problems may have non-unique solutions for these variables. These can also lead to singular or ill-conditioned Hessians and this may be responsible for slow or non-convergence of nonlinear programming (NLP) algorithms used to solve these problems. For this reason, we need an algorithm that leads to strong descent and converges to a stationary point. Our algorithm is based on Successive Quadratic Programming (SQP) and constrains the SQP steps in a trust region for global convergence. We consider the second-order information in three ways: quasi-Newton updates, Gauss-Newton approximation, and exact second derivatives, and we compare their performance. Finally, we provide results of tests of our algorithm on various problems from the CUTE and COPS sets.
+Keywords
+nonlinear programming  parameter estimation  trust region  bound constraints  equality constraints  

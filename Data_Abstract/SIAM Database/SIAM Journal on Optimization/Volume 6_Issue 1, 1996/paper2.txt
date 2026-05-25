@@ -1,0 +1,6 @@
+An Infeasible-Interior-Point Predictor-Corrector Algorithm for Linear Programming
+Florian A.  Potra;
+Abstract
+A predictor-corrector method is proposed for solving standard form linear programming problems starting from initial points that strictly satisfy the positivity constraints, but do not necessarily satisfy the equality constraints. The algorithm is globally convergent under the assumption that the linear program has an optimal solution. Under some additional assumptions on the starting point we prove that $\epsilon $-feasibility and $\epsilon $-complementarily can be obtained in $O( n \ln ( \frac{1}{\epsilon } )) $ iterations.
+Keywords
+linear program, interior-point methods, infeasible starting point, polynomial complexity, 90C05, 49D35, 

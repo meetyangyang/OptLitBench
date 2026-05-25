@@ -1,0 +1,6 @@
+Strategies for Prediction Under Imperfect Monitoring
+Gábor Lugosi;Shie Mannor;Gilles Stoltz;
+Abstract
+We propose simple randomized strategies for sequential decision (or prediction) under imperfect monitoring, that is, when the decision maker (forecaster) does not have access to the past outcomes but rather to a feedback signal. The proposed strategies are consistent in the sense that they achieve, asymptotically, the best-possible average reward among all fixed actions. It was Rustichini [Rustichini, A. 1999. Minimizing regret: The general case. Games Econom. Behav.29 224–243] who first proved the existence of such consistent predictors. The forecasters presented here offer the first constructive proof of consistency. Moreover, the proposed algorithms are computationally efficient. We also establish upper bounds for the rates of convergence. In the case of deterministic feedback signals, these rates are optimal up to logarithmic terms.
+Keywords
+repeated games regret Hannan consistency imperfect monitoring online learning 

@@ -1,0 +1,6 @@
+An algorithm for linear programming which requires O(((m+n)n2+(m+n)1.5n)L) arithmetic operations
+Pravin M. Vaidya;
+Abstract
+We present an algorithm for linear programming which requires O(((m+n)n2+(m+n)1.5n)L) arithmetic operations wherem is the number of constraints, andn is the number of variables. Each operation is performed to a precision of O(L) bits.L is bounded by the number of bits in the input. The worst-case running time of the algorithm is better than that of Karmarkar's algorithm by a factor of\(\sqrt {m + n} \).
+Keywords
+Optimization  linear programming  complexity  polynomial time algorithms  

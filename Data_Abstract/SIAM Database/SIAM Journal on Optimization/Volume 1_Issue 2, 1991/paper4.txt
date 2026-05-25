@@ -1,0 +1,6 @@
+An Efficient Implementation of Merrill’s Method for Sparse or Partially Separable Systems of Nonlinear Equations
+Yang  Bing and Gao  Lin;
+Abstract
+When Merrill’s method without an extra dimension is applied to solving sparse or partially separable systems of nonlinear equations, the computational efficiency can be further improved, i.e., a larger piece of linearity can be traversed in one step by using a suitable linear system. One of the linear systems is updated and the corresponding technique is shown to update information about the linear system and the large piece in the implementation of the method. Some numerical results of the method support the claim that it is efficient. Also, some mistakes from a previous paper, in which the main technique exploiting sparsity was proposed, are corrected.
+Keywords
+fixed point algorithm, systems of nonlinear equations, variable dimension algorithm, sparsity, partial separability, 1T90, 

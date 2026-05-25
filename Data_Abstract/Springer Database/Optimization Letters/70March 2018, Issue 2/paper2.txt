@@ -1,0 +1,6 @@
+Online C-benevolent job scheduling on multiple machines
+Ge Yu;Sheldon H. Jacobson;
+Abstract
+We consider scheduling a sequence of C-benevolent jobs on multiple homogeneous machines. For two machines, we propose a 2-competitive Cooperative Greedy algorithm and provide a lower bound of 2 for the competitive ratio of any deterministic online scheduling algorithms on two machines. For multiple machines, we propose a Pairing-m Greedy algorithm, which is deterministic 2-competitive for even number of machines and randomized \((2+2/{\hbox {m}})\)-competitive for odd number of machines. We provide a lower bound of 1.436 for the competitive ratio of any deterministic online scheduling algorithms on three machines, which is the best known lower bound for competitive ratios of deterministic scheduling algorithms on three machines.
+Keywords
+Online scheduling  C-benevolent jobs  Approximation algorithm  

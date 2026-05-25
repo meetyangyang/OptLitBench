@@ -1,0 +1,6 @@
+A predictor-corrector method for solving the P*(k)-matrix lcp from infeasible starting points
+ Jun   Ji ; Florian A.   Potra ; Rongqin   Sheng ;
+Abstract
+ A predictor-corrector method for solving the P*(k)-matrix linear complementarity problems from infeasible starting points is analyzed. Two matrix factorizations and two backsolves are performed at each iteration. The algorithm terminates in O((k+1)2 nL) steps either by finding a solution or by deteirmning that the problem is not solvable. The computational complexity depends on the quality of the starting points. If the problem is solvable and if a certain measure of feasibility at the starting point is small enough then the algorithm finds a solution in  iterations. The algorithm is quadratically convergent for problems having a strictly complementary solution  
+Keywords
+Linear Complementarity Problems, P*-matrices, Predictor-Corrector, Infeasible-Interior-Point a Lgorithm, Polynomiahty, Superlinear Convergence 

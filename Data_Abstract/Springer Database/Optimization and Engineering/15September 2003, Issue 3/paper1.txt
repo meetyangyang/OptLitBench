@@ -1,0 +1,6 @@
+Space Mapping: Models, Sensitivities, and Trust-Regions Methods
+Luís N. Vicente;
+Abstract
+The goal of this paper is to organize some of the mathematical and algorithmic aspects of the space-mapping technique for continuous optimization with expensive function evaluations. First, we consider the mapping from the fine space to the coarse space when the models are vector-valued functions and when the space-mapping (nonlinear) least-squares residual is nonzero. We show how the sensitivities of the space mapping can be used to deal with space-mapping surrogates of the fine model. We derive a framework where it is possible to design globally convergent trust-region methods to minimize such fine-model surrogates.
+Keywords
+space mapping  surrogate-based optimization  trust-region methods  global convergence  sensitivities  

@@ -1,0 +1,6 @@
+LFTB: An Efficient Algorithm to Bound Linear Fractional Transformations
+Fernando D’Amato;Mario Rotea;
+Abstract
+This work presents an efficient algorithm to solve a structured semidefinite program (SDP) with important applications in the analysis of uncertain linear systems. The solution to this particular SDP gives an upper bound for the maximum singular value of a multidimensional rational matrix function, or linear fractional transformation, over a box of n real parameters. The proposed algorithm is based on a known method for solving semidefinite programs. The key features of the algorithm are low memory requirements, low cost per iteration, and efficient adaptive rules to update algorithm parameters. Proper utilization of the structure of the semidefinite program under consideration leads to an algorithm that reduced the cost per iteration and memory requirements of existing general-purpose SDP solvers by a factor of O(n). Thus, the algorithm in this paper achieves substantial savings in computing resources for problems with a large number of parameters. Additional savings are obtained when the problem data includes block-circulant matrices as is the case in the analysis of uncertain mechanical structures with spatial symmetry.
+Keywords
+Important Application  Efficient Algorithm  Matrix Function  Memory Requirement  Real Parameter  

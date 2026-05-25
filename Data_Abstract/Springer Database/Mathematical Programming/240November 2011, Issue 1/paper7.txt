@@ -1,0 +1,6 @@
+Lexicography and degeneracy: can a pure cutting plane algorithm work?
+Arrigo Zanette;Matteo Fischetti;Egon Balas;
+Abstract
+We discuss an implementation of the lexicographic version of Gomory’s fractional cutting plane method for ILP problems and of two heuristics mimicking the latter. In computational testing on a battery of MIPLIB problems we compare the performance of these variants with that of the standard Gomory algorithm, both in the single-cut and in the multi-cut (rounds of cuts) version, and show that they provide a radical improvement over the standard procedure. In particular, we report the exact solution of ILP instances from MIPLIB such as stein15, stein27, and bm23, for which the standard Gomory cutting plane algorithm is not able to close more than a tiny fraction of the integrality gap. We also offer an explanation for this surprising phenomenon.
+Keywords
+Cutting plane methods  Gomory cuts  Degeneracy in linear programming  Lexicographic dual simplex  Computational analysis  90C10 Integer programming  90C05 Linear programming  90C49 Extreme-point and pivoting methods  

@@ -1,0 +1,6 @@
+Proximal Decomposition on the Graph of a Maximal Monotone Operator
+Philippe  Mahey, Said  Oualibouch, and Pham Dinh  Tao;
+Abstract
+We present an algorithm to solve: Find $( x,y ) \in A \times A^ \bot  $ such that $y \in Tx$, where A is a subspace and T is a maximal monotone operator. The algorithm is based on the proximal decomposition on the graph of a monotone operator and we show how to recover Spingarn’s decomposition method. We give a proof of convergence that does not use the concept of partial inverse and show how to choose a scaling factor to accelerate the convergence in the strongly monotone case. Numerical results performed on quadratic problems confirm the robust behaviour of the algorithm.
+Keywords
+proximal point algorithm, partial inverse, convex programming, 90C25, 

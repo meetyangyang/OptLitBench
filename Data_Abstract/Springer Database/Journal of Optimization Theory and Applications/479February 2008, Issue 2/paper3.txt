@@ -1,0 +1,18 @@
+Measure-Valued Differentiation for Markov Chains
+B. Heidergott;F. J. Vázquez-Abad;
+Abstract
+
+This paper addresses the problem of sensitivity analysis for finite-horizon performance measures of general Markov chains. We derive closed-form expressions and associated unbiased gradient estimators for the derivatives of finite products of Markov kernels by measure-valued differentiation (MVD). In the MVD setting, the derivatives of Markov kernels, called 
+\(\mathcal{D}\)
+-derivatives, are defined with respect to a class of performance functions 
+\(\mathcal{D}\) 
+such that, for any performance measure 
+\(g\in\mathcal{D}\)
+, the derivative of the integral of g with respect to the one-step transition probability of the Markov chain exists. The MVD approach (i) yields results that can be applied to performance functions out of a predefined class, (ii) allows for a product rule of differentiation, that is, analyzing the derivative of the transition kernel immediately yields finite-horizon results, (iii) provides an operator language approach to the differentiation of Markov chains and (iv) clearly identifies the trade-off between the generality of the performance classes that can be analyzed and the generality of the classes of measures (Markov kernels). The 
+\(\mathcal{D}\)
+-derivative of a measure can be interpreted in terms of various (unbiased) gradient estimators and the product rule for 
+\(\mathcal {D}\)
+-differentiation yields a product-rule for various gradient estimators.
+
+Keywords
+Gradient estimation  Simulation  Perturbation analysis  Measure-valued differentiation  

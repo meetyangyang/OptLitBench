@@ -1,0 +1,6 @@
+Inexact Alternating-Direction-Based Contraction Methods for Separable Linearly Constrained Convex Optimization
+Guoyong Gu;Bingsheng He;Junfeng Yang;
+Abstract
+Alternating direction method of multipliers has been well studied in the context of linearly constrained convex optimization. In the last few years, we have witnessed a number of novel applications arising from image processing, compressive sensing and statistics, etc., where the approach is surprisingly efficient. In the early applications, the objective function of the linearly constrained convex optimization problem is separable into two parts. Recently, the alternating direction method of multipliers has been extended to the case where the number of the separable parts in the objective function is finite. However, in each iteration, the subproblems are required to be solved exactly. In this paper, by introducing some reasonable inexactness criteria, we propose two inexact alternating-direction-based contraction methods, which substantially broaden the applicable scope of the approach. The convergence and complexity results for both methods are derived in the framework of variational inequalities.
+Keywords
+Alternating direction method of multipliers  Separable linearly constrained convex optimization  Contraction method  Complexity  

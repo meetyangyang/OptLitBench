@@ -1,0 +1,6 @@
+A Globally Convergent Filter Method for Nonlinear Programming
+Clóvis C.  Gonzaga, Elizabeth  Karas, and Márcia  Vanti;
+Abstract
+In this paper we present a filter algorithm for nonlinear programming and prove its global convergence to stationary points. Each iteration is composed of a feasibility phase, which reduces a measure of infeasibility, and an optimality phase, which reduces the objective function in a tangential approximation of the feasible set. These two phases are totally independent, and the only coupling between them is provided by the filter. The method is independent of the internal algorithms used in each iteration, as long as these algorithms satisfy reasonable assumptions on their efficiency. Under standard hypotheses, we show two results: for a filter with minimum size, the algorithm generates a stationary accumulation point; for a slightly larger filter, all accumulation points are stationary.
+Keywords
+filter methods, nonlinear programming, global convergence, 49M37, 65K05, 90C30, 

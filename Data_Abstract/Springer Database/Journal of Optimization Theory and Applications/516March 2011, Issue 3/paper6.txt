@@ -1,0 +1,6 @@
+Globally Convergent Cutting Plane Method for Nonconvex Nonsmooth Minimization
+Napsu Karmitsa;Mario Tanaka Filho;José Herskovits;
+Abstract
+Nowadays, solving nonsmooth (not necessarily differentiable) optimization problems plays a very important role in many areas of industrial applications. Most of the algorithms developed so far deal only with nonsmooth convex functions. In this paper, we propose a new algorithm for solving nonsmooth optimization problems that are not assumed to be convex. The algorithm combines the traditional cutting plane method with some features of bundle methods, and the search direction calculation of feasible direction interior point algorithm (Herskovits, J. Optim. Theory Appl. 99(1):121–146, 1998). The algorithm to be presented generates a sequence of interior points to the epigraph of the objective function. The accumulation points of this sequence are solutions to the original problem. We prove the global convergence of the method for locally Lipschitz continuous functions and give some preliminary results from numerical experiments.
+Keywords
+Nondifferentiable programming  Cutting planes  Bundle methods  Feasible direction interior point methods  Nonconvex problems  

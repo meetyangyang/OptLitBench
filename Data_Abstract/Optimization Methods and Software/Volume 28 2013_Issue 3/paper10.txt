@@ -1,0 +1,6 @@
+Rebalancing an investment portfolio in the presence of convex transaction costs, including market impact costs
+ John   E.   Mitchell ; Stephen   Braun ;
+Abstract
+ The inclusion of transaction costs is an essential element of any realistic portfolio optimization. We extend the standard portfolio optimization problem to consider convex transaction costs incurred when rebalancing an investment portfolio. Market impact costs measure the effect on the price of a security that result from an effort to buy or sell the security, and they can constitute a large part of the total transaction costs. The loss to a portfolio from market impact costs is often modelled with a convex function that can be expressed using second-order cone constraints. The Markowitz framework of mean-variance efficiency is used. In order to properly represent the variance of the resulting portfolio, we suggest rescaling by the funds available after paying the transaction costs. This results in a fractional programming problem, which we show can be reformulated as an equivalent convex program of size comparable to the model without transaction costs. We show that an optimal solution to the convex program can always be found that does not discard assets. 
+Keywords
+portfolio optimization, transaction costs, market impact costs, rebalancing, conic optimization, convex optimization 

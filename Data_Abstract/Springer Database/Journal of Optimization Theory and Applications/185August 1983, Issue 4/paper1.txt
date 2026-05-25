@@ -1,0 +1,6 @@
+A least-distance programming procedure for minimization problems under linear constraints
+M. S. Bazaraa;J. J. Goode;
+Abstract
+In this paper, an algorithm is developed for solving a nonlinear programming problem with linear contraints. The algorithm performs two major computations. First, the search vector is determined by projecting the negative gradient of the objective function on a polyhedral set defined in terms of the gradients of the equality constraints and the near binding inequality constraints. This least-distance program is solved by Lemke's complementary pivoting algorithm after eliminating the equality constraints using Cholesky's factorization. The second major calculation determines a stepsize by first computing an estimate based on quadratic approximation of the function and then finalizing the stepsize using Armijo's inexact line search.
+Keywords
+Nonlinear programming  linear constraints  algorithms  global convergence  

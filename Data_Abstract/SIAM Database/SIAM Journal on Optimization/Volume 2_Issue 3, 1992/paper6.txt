@@ -1,0 +1,6 @@
+On Implementing Mehrotra’s Predictor–Corrector Interior-Point Method for Linear Programming
+Irvin J.  Lustig, Roy E.  Marsten, and David F.  Shanno;
+Abstract
+Mehrotra [Tech. Report 90-03, Department of Industrial Engineering and Management Sciences, Northwestern University, Evanston, IL, 1990] recently described a predictor–corrector variant of the primal–dual interior-point algorithm for linear programming. This paper describes a full implementation of this algorithm, with extensions for solving problems with free variables and problems with bounds on primal variables. Computational results on the NETLIB test set are given to show that this new method almost always improves the performance of the primal–dual algorithm and that the improvement increases dramatically as the size and complexity of the problem increases. A numerical instability in using Schur complements to remove dense columns is identified, and a numerical remedy is given.
+Keywords
+linear programming, interior-point methods, predictor–corrector algorithms, 90C05, 90C06, 

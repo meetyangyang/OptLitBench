@@ -1,0 +1,6 @@
+Convergence of Solutions to Equations Arising in Neural Networks
+A. Leizarowitz;
+Abstract
+We study polynomial ordinary differential systems \(\dot M(t) = QM - M(M'QM){\text{, }}M(0) = M_0 ,t \geqslant 0,\) whereQ≥0 is an n×n matrix and M(t) is an n×k matrix. It is proven that, as t grows to infinity, the solution M(t) tends to a limit BU, where U is a k×k orthogonal matrix and B is an n×k matrix whose columns are k pairwise orthogonal, normalized eigenvectors of Q. Moreover, for almost every M0, these eigenvectors correspond to the k maximal eigenvalues of Q; for an arbitrary Q with independent columns, we provide a procedure of computing B by employing elementary matrix operations on M0. This result is significant for the study of certain neural network systems, and in this context it shows that M(∞) provides a principal component analyzer.
+Keywords
+Polynomial differential equations  convergence of solutions  neural network systems  optimal control  

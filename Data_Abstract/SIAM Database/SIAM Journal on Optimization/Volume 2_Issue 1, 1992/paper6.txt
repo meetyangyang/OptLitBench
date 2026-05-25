@@ -1,0 +1,6 @@
+A Complexity Reduction for the Long-Step Path-Following Algorithm for Linear Programming
+D.  den Hertog, C.  Roos, and J.-Ph.  Vial;
+Abstract
+A modification of previously published long-step path-following algorithms for the solution of the linear programming problem is presented. This modification uses the simple Goldstein–Armijo rule. A $\sqrt{n} $ reduction in the complexity bound is obtained, while a linesearch may still be done. Depending on the updating scheme for the barrier parameter, the resulting complexity bounds are $O(n^3 L)$ or $O(n^{3.5} L)$.
+Keywords
+linear programming, interior point method, logarithmic barrier function, polynomial algorithm, Goldstein–Armijo rule, 90C05, 

@@ -1,0 +1,6 @@
+A branch and bound method for the solution of multiparametric mixed integer linear programming problems
+Richard Oberdieck;Martina Wittmann-Hohlbein;Efstratios N. Pistikopoulos;
+Abstract
+In this paper, we present a novel algorithm for the solution of multiparametric mixed integer linear programming (mp-MILP) problems that exhibit uncertain objective function coefficients and uncertain entries in the right-hand side constraint vector. The algorithmic procedure employs a branch and bound strategy that involves the solution of a multiparametric linear programming sub-problem at leaf nodes and appropriate comparison procedures to update the tree. McCormick relaxation procedures are employed to overcome the presence of bilinear terms in the model. The algorithm generates an envelope of parametric profiles, containing the optimal solution of the mp-MILP problem. The parameter space is partitioned into polyhedral convex critical regions. Two examples are presented to illustrate the steps of the proposed algorithm.
+Keywords
+Multiparametric programming  Mixed integer linear programming   Branch and bound  

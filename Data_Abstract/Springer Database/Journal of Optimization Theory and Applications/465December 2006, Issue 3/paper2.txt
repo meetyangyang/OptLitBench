@@ -1,0 +1,6 @@
+Parallelizable Preprocessing Method for Multistage Stochastic Programming Problems
+X. W. Liu;M. Fukushima;
+Abstract
+Stochastic programming has extensive applications in practical problems such as production planning and portfolio selection. Typically, the model has very large size and some techniques are often used to exploit the special structure of the programs. It has been noticed that the coefficient matrix may not be of full rank in the well-known scenario formulation of stochastic programming; thus, the preprocessing is often necessary in developing rapid decomposition methods. In this paper, we propose a parallelizable preprocessing method, which exploits effectively the structure of the formulation. Although the underlying idea is simple, the method turns out to be very useful in practice, since it may help us to select the nonanticipativity constraints efficiently. Some numerical results are reported confirming the usefulness of the method.
+Keywords
+Nonanticipativity constraints  preprocessing  scenario formulation  stochastic programming  

@@ -1,0 +1,6 @@
+Variable-fidelity modeling of structural analysis of assemblies
+Nicolas Courrier;Pierre-Alain Boucard;Bruno Soulier;
+Abstract
+This paper deals with the advantages of using variable-fidelity metamodeling strategies in order to develop a valid metamodel more rapidly than by using traditional methods. In our mechanical assembly design, we use the term “variable-fidelity” in reference to the convergence (or accuracy) level of the iterative solver being used. Variable-fidelity metamodeling is a way to improve the prediction of the output of a complex system by incorporating rapidly available auxiliary lower-fidelity data. This work uses two fidelity levels, but more levels can be added. The LATIN iterative algorithm is used along with a “multiparametric” strategy to calculate the various data and their different fidelity levels by means of an error indicator. Three main categories of variable-fidelity strategies are currently available. We tested at least one method from each of these categories, which comes to a total of five methods for calculating a valid metamodel using low- and high-fidelity data. Here, our objective is to compare the performances of these five methods in solving three mechanical examples.
+Keywords
+Metamodel  Variable-fidelity  Partially converged data  Kriging  Cokriging  

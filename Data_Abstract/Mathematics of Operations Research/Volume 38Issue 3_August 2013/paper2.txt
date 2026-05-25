@@ -1,0 +1,6 @@
+Inverse Polynomial Optimization
+Jean B. Lasserre;
+Abstract
+We consider the inverse optimization problem associated with the polynomial program  and a given current feasible solution . We provide a systematic numerical scheme to compute an inverse optimal solution. That is, we compute a polynomial  (which may be of the same degree as f, if desired) with the following properties: (a) y is a global minimizer of  on K with a Putinar's certificate with an a priori degree bound d fixed, and (b)  minimizes  (which can be the l1, l2 or l∞-norm of the coefficients) over all polynomials with such properties. Computing  reduces to solving a semidefinite program whose optimal value also provides a bound on how far f(y) is from the unknown optimal value f*. The size of the semidefinite program can be adapted to the available computational capabilities. Moreover, if one uses the l1-norm, then  takes a simple and explicit canonical form. Some variations are also discussed.
+Keywords
+inverse optimization positivity certificate mathematical programming global optimization semidefinite programming 

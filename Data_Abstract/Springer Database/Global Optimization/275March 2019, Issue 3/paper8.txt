@@ -1,0 +1,6 @@
+Conditional optimization of a noisy function using a kriging metamodel
+Diariétou Sambakhé;Lauriane Rouan;Jean-Noël Bacro;Eric Gozé;
+Abstract
+The efficient global optimization method is popular for the global optimization of computer-intensive black-box functions. Extensions exist, either for the optimization of noisy functions, or for the conditional optimization of deterministic functions, i.e. the search for the values of a subset of parameters that optimize the function conditionally to the values taken by another subset, which are fixed. A metaphor for conditional optimization is the search for a crest line. No method has yet been developed for the conditional optimization of noisy functions: this is what we propose in this article. Testing this new method on test functions showed that, in the case of a high level of noise on the function, the PEQI criterion that we propose is better than the PEI criterion usually implemented in such a situation.
+Keywords
+Crest line  Gaussian process  Sampling criterion  Sequential design  Noisy function  

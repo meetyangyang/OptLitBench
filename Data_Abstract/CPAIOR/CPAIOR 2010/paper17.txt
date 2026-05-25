@@ -1,0 +1,4 @@
+An In-Out Approach to Disjunctive Optimization
+Matteo Fischetti;Domenico Salvagnin;
+Abstract
+Cutting plane methods are widely used for solving convex optimization problems and are of fundamental importance, e.g., to provide tight bounds for Mixed-Integer Programs (MIPs). This is obtained by embedding a cut-separation module within a search scheme. The importance of a sound search scheme is well known in the Constraint Programming (CP) community. Unfortunately, the “standard” search scheme typically used for MIP problems, known as the Kelley method, is often quite unsatisfactory because of saturation issues.

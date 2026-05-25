@@ -1,0 +1,6 @@
+A linear expected-time algorithm for deriving all logical conclusions implied by a set of boolean inequalities
+Pierre Hansen;Brigitte Jaumard;Michel Minoux;
+Abstract
+Consider a setR ofm binary relations on a set ofn boolean variables.R may imply a contradiction, the fixation of some variables at 0 or at 1 and/or the identification of some pairs of variables in direct or complemented form. An O(n) expected-time algorithm is given for the derivation of all such logical conclusions. Computational experiments with problems involving up to 2000 variables are reported on. The proposed algorithm is more than 100 times faster than previous methods whenn ≥ 100.
+Keywords
+Boolean Inequalities  Implication Graph  Depth-First Search  Strongly Connected Components  Transitive Closure  0–1 Programming  

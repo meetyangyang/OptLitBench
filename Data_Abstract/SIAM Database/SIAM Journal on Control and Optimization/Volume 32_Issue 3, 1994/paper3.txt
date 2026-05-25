@@ -1,0 +1,6 @@
+On the Game Riccati Equations Arising in $H_\infty  $ Control Problems
+Pascal  Gahinet;
+Abstract
+In the state-space approach to $L_\infty  $ optimal control, feasible closed-loop gains -$\gamma $ are characterized via a pair of game Riccati equations depending on $\gamma $. This paper is concerned with the properties of these equations as -$\gamma $ varies. The most general problem is considered $(D_{11}  \ne 0)$ and the variations of the Riccati solutions are thoroughly analyzed. Insight is gained into the behavior near the optimum and into the dependence on -$\gamma $ of the suboptimality conditions. In addition, concavity is established for a criterion that synthesizes the three conditions $X \geq 0$, $Y \geq 0$, and $\rho (XY) < \gamma ^2 $. This suggests a numerically reliable Newton scheme for the computation of he optimal -$\gamma $.Most results presented here are extensions of earlier contributions. The main concern is to provide a complete and synthetic overview as well as results and formulas tailored to the development of numerically sound algorithms.
+Keywords
+H∞ control, algebraic Riccati equation, Newton method, 93C05, 93C35, 93C60, 93C45, 93B40, 49B99, 

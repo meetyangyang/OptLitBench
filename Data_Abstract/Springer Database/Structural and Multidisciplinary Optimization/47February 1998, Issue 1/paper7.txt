@@ -1,0 +1,6 @@
+Coupled thermal-structural problems in the optimization of laminated plates
+M. Autio;
+Abstract
+The behaviour of a laminated plate with given boundary temperatures and displacement constraints may be tailored by varying the orientation of the reinforcement in the different layers. Because the material parameters in a thermal conductivity problem, as also in a structural problem, depend on the orientations of the layers, there is a coupled-field problem to be solved. FEM is applied here to the analysis of such problems, which now consists of two phases in each iteration cycle: first solution of the temperature distribution over the structure and then computation of the displacements, stresses and strains. Strain energy and the sum of selected displacements for the structure are minimized with respect to the fibre orientations in the layers. Only mid-plane symmetric laminates with constant temperature over the thickness are considered, i.e. the response of the laminate is restricted to in-plane behaviour. Mathematically, the problem is a nonlinear one, and thus the minimum point can be either a local or a global one. The gradients needed during minimization are computed analytically. Examples with different numbers of design variables are given.
+Keywords
+Thermal Conductivity  Civil Engineer  Temperature Distribution  Constant Temperature  Design Variable  

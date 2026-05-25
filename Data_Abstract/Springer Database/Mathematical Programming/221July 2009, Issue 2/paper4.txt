@@ -1,0 +1,6 @@
+Recognizing underlying sparsity in optimization
+Sunyoung Kim;Masakazu Kojima;Philippe Toint;
+Abstract
+Exploiting sparsity is essential to improve the efficiency of solving large optimization problems. We present a method for recognizing the underlying sparsity structure of a nonlinear partially separable problem, and show how the sparsity of the Hessian matrices of the problem’s functions can be improved by performing a nonsingular linear transformation in the space corresponding to the vector of variables. A combinatorial optimization problem is then formulated to increase the number of zeros of the Hessian matrices in the resulting transformed space, and a heuristic greedy algorithm is applied to this formulation. The resulting method can thus be viewed as a preprocessor for converting a problem with hidden sparsity into one in which sparsity is explicit. When it is combined with the sparse semidefinite programming relaxation by Waki et al. for polynomial optimization problems, the proposed method is shown to extend the performance and applicability of this relaxation technique. Preliminary numerical results are presented to illustrate this claim.
+Keywords
+90C30  90C22  65K05  

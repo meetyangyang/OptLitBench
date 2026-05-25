@@ -1,0 +1,6 @@
+A quadratically convergent Newton method for vector optimization
+ L.M.   Graña   Drummond ; F.M.P.   Raupp ; B.F.   Svaiter ;
+Abstract
+ We propose a Newton method for solving smooth unconstrained vector optimization problems under partial orders induced by general closed convex pointed cones. The method extends the one proposed by Fliege, Graña Drummond and Svaiter for multicriteria, which in turn is an extension of the classical Newton method for scalar optimization. The steplength is chosen by means of an Armijo-like rule, guaranteeing an objective value decrease at each iteration. Under standard assumptions, we establish superlinear convergence to an efficient point. Additionally, as in the scalar case, assuming Lipschitz continuity of the second derivative of the objective vector-valued function, we prove q-quadratic convergence. 
+Keywords
+vector optimization, efficient points, convexity with respect to cones, Newton method 

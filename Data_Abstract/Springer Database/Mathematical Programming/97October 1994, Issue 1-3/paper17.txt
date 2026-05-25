@@ -1,0 +1,6 @@
+Implementing an efficient minimum capacity cut algorithm
+Hiroshi Nagamochi;Tadashi Ono;Toshihide Ibaraki;
+Abstract
+In this paper, we present an efficient implementation of theO(mn + n2 logn) time algorithm originally proposed by Nagamochi and Ibaraki (1992) for computing the minimum capacity cut of an undirected network. To enhance computation, various ideas are added so that it can contract as many edges as possible in each iteration. To evaluate the performance of the resulting implementation, we conducted extensive computational experiments, and compared the results with that of Padberg and Rinaldi's algorithm (1990), which is currently known as one of the practically fastest programs for this problem. The results indicate that our program is considerably faster than Padberg and Rinaldi's program, and its running time is not significantly affected by the types of the networks being solved.
+Keywords
+Minimum capacity cut  Network flow  Polynomial algorithm  

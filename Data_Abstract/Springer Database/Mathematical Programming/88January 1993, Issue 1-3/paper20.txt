@@ -1,0 +1,6 @@
+A globally convergent Newton method for solving strongly monotone variational inequalities
+Kouichi Taji;Masao Fukushima;Toshihide Ibaraki;
+Abstract
+Variational inequality problems have been used to formulate and study equilibrium problems, which arise in many fields including economics, operations research and regional sciences. For solving variational inequality problems, various iterative methods such as projection methods and the nonlinear Jacobi method have been developed. These methods are convergent to a solution under certain conditions, but their rates of convergence are typically linear. In this paper we propose to modify the Newton method for variational inequality problems by using a certain differentiable merit function to determine a suitable step length. The purpose of introducing this merit function is to provide some measure of the discrepancy between the solution and the current iterate. It is then shown that, under the strong monotonicity assumption, the method is globally convergent and, under some additional assumptions, the rate of convergence is quadratic. Limited computational experience indicates the high efficiency of the proposed method.
+Keywords
+Variational inequality problem  Newton method  global convergence  quadratic convergence  

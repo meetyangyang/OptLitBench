@@ -1,0 +1,6 @@
+A multi-item production planning model with setup times: algorithms, reformulations, and polyhedral characterizations for a special case
+A.J. Miller;G.L. Nemhauser;M.W.P. Savelsbergh;
+Abstract
+ We study a special case of a structured mixed integer programming model that arises in production planning. For the most general case of the model, called PI, we have earlier identified families of facet–defining valid inequalities: (l, S) inequalities (introduced for the uncapacitated lot–sizing problem by Barany, Van Roy, and Wolsey), cover inequalities, and reverse cover inequalities. PI is 𝒩𝒫–hard; in this paper we focus on a special case, called PIC. We describe a polynomial algorithm for PIC, and we use this algorithm to derive an extended formulation of polynomial size for PIC. Projecting from this extended formulation onto the original space of variables, we show that (l, S) inequalities, cover inequalities, and reverse cover inequalities suffice to solve the special case PIC by linear programming. We also describe fast combinatorial separation algorithms for cover and reverse cover inequalities for PIC. Finally, we discuss the relationship between our results for PIC and a model studied previously by Goemans.
+Keywords
+Integer Programming  Setup Time  Mixed Integer  Production Planning  Mixed Integer Programming  

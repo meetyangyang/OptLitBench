@@ -1,0 +1,6 @@
+Rounding of convex sets and efficient gradient methods for linear programming problems
+ Yu.   Nesterov ;
+Abstract
+ In this paper, we propose new efficient gradient schemes for two non-trivial classes of linear programming problems. These schemes are designed to compute approximate solutions with relative accuracy δ. We prove that the upper complexity bound for both schemes is O((√(n ln m)/δ)ln n) iterations of a gradient-type method, where n and m (n<m) are the sizes of the corresponding linear programming problems. The proposed schemes are based on preliminary computation of an ellipsoidal rounding for some polytopes in R  n . In both cases, this computation can be performed very efficiently, in O(n 2 m ln m) operations at most. 
+Keywords
+nonlinear optimization, convex optimization, complexity bounds, relative accuracy, fully polynomial approximation schemes, gradient methods, optimal methods 

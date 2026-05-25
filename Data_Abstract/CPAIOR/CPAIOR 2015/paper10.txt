@@ -1,0 +1,4 @@
+Branching on Multi-aggregated Variables
+Gerald Gamrath;Anna Melchiori;Timo Berthold;Ambros M. Gleixner;Domenico Salvagnin;
+Abstract
+In mixed-integer programming, the branching rule is a key component to a fast convergence of the branch-and-bound algorithm. The most common strategy is to branch on simple disjunctions that split the domain of a single integer variable into two disjoint intervals. Multi-aggregation is a presolving step that replaces variables by an affine linear sum of other variables, thereby reducing the problem size. While this simplification typically improves the performance of MIP solvers, it also restricts the degree of freedom in variable-based branching rules.

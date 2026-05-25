@@ -1,0 +1,6 @@
+Dual-Sampling-Rate Moving-Horizon Control of a Class of Linear Systems with Input Saturation and Plant Uncertainty
+A. Brockwell;E. Polak;R. Evans;D. Ralph;
+Abstract
+Moving-horizon control is a type of sampled-data feedback control in which the control over each sampling interval is determined by the solution of an open-loop optimal control problem. We develop a dual-sampling-rate moving-horizon control scheme for a class of linear, continuous-time plants with strict input saturation constraints in the presence of plant uncertainty and input disturbances. Our control scheme has two components: a slow-sampling moving-horizon controller for a nominal plant and a fast-sampling state-feedback controller whose function is to force the actual plant to emulate the nominal plant. The design of the moving-horizon controller takes into account the nonnegligible computation time required to compute the optimal control trajectory.
+Keywords
+Moving-horizon control  robustness  fast sampling  stability  linear systems  input constraints  

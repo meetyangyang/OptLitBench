@@ -1,0 +1,6 @@
+Synthesis of four-bar mechanism in a hydraulic support using a global optimization algorithm
+I. Prebil;S. Krašna;I. Ciglarič;
+Abstract
+The paper discusses optimal synthesis of a four-bar mechanism. The general optimization problem is addressed in the form of a nonlinear programming problem. The objective of this approach is to determine the optimal values of the mechanism link lengths, to minimize the difference between the trajectory T of the arbitrary point C on the mechanism coupler link and the prescribed trajectory P, while hinge forces have to remain within the prescribed values. The global optimization method is used in order to find the global optimal solution. The procedure uses the adaptive grid refinement algorithm. The algorithm is based on the identification of feasible nodes at each iteration, which define the solution set. Nodes far from the current optimum are pruned from the solution. The algorithm identifies optimal regions that satisfy predefined conditions, rather than only a single optimal point.
+Keywords
+hydraulic support  four-bar mechanism  global optimization  hinge forces  adaptive grid refinement  

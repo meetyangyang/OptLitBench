@@ -1,0 +1,6 @@
+A shifted hyperbolic augmented Lagrangian-based artificial fish two-swarm algorithm with guaranteed convergence for constrained global optimization
+Ana Maria A.C. Rocha;M. Fernanda P. Costa;Edite M.G.P. Fernandes;
+Abstract
+This article presents a shifted hyperbolic penalty function and proposes an augmented Lagrangian-based algorithm for non-convex constrained global optimization problems. Convergence to an -global minimizer is proved. At each iteration k, the algorithm requires the -global minimization of a bound constrained optimization subproblem, where . The subproblems are solved by a stochastic population-based metaheuristic that relies on the artificial fish swarm paradigm and a two-swarm strategy. To enhance the speed of convergence, the algorithm invokes the Nelder–Mead local search with a dynamically defined probability. Numerical experiments with benchmark functions and engineering design problems are presented. The results show that the proposed shifted hyperbolic augmented Lagrangian compares favorably with other deterministic and stochastic penalty-based methods.
+Keywords
+global optimization, augmented Lagrangian, shifted hyperbolic penalty, artificial fishswarm, Nelder–Mead search 

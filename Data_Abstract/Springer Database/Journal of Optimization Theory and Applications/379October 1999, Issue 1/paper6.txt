@@ -1,0 +1,6 @@
+Solving a Class of Multiplicative Programs with 0–1 Knapsack Constraints
+T. Kuno;
+Abstract
+We develop a branch-and-bound algorithm to solve a nonlinear class of 0–1 knapsack problems. The objective function is a product of m≥2 affine functions, whose variables are mutually exclusive. The branching procedure in the proposed algorithm is the usual one, but the bounding procedure exploits the special structure of the problem and is implemented through two stages: the first stage is based on linear programming relaxation; the second stage is based on Lagrangian relaxation. Computational results indicate that the algorithm is promising.
+Keywords
+Multiplicative programming  0–1 knapsack problems  concave minimization  branch-and-bound algorithms  Lagrangian relaxation  

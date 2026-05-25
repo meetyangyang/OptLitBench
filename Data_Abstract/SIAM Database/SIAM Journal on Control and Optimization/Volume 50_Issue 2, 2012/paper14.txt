@@ -1,0 +1,6 @@
+Backstepping Control in Vector Form for Stochastic Hamiltonian Systems
+Zhaojing  Wu, Mingyue  Cui, and Peng  Shi;
+Abstract
+In this paper, the problem of adaptive tracking for a class of stochastic Hamiltonian control systems with unknown drift and diffusion functions is considered. Some difficulties come forth—the integral chain consists of vectors, and control and tracking errors are in different channels—which are rarely considered in the existing references about stochastic nonlinear controls. To resolve these problems, an adaptive backstepping controller in vector form is designed such that the closed-loop system has a unique solution that is globally bounded in probability and the fourth moment of the tracking error converges to an arbitrarily small neighborhood of zero. As an application, the modeling and the control for spring pendulum in stochastic surroundings are researched.
+Keywords
+stochastic control, Hamiltonian systems, backstepping, adaptive tracking, 60H10, 70H05, 93E35, 93C40, 

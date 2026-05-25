@@ -1,0 +1,6 @@
+Balanced POD for linear PDE robust control computations
+John R. Singler;Belinda A. Batten;
+Abstract
+A mathematical model of a physical system is never perfect; therefore, robust control laws are necessary for guaranteed stabilization of the nominal model and also “nearby” systems, including hopefully the actual physical system. We consider the computation of a robust control law for large-scale finite dimensional linear systems and a class of linear distributed parameter systems. The controller is robust with respect to left coprime factor perturbations of the nominal system. We present an algorithm based on balanced proper orthogonal decomposition to compute the nonstandard features of this robust control law. Convergence theory is given, and numerical results are presented for two partial differential equation systems.
+Keywords
+Robust control  Partial differential equations  Balanced proper orthogonal decomposition  Snapshots  Riccati equations  

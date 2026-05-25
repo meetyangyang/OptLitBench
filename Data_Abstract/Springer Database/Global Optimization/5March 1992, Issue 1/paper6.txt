@@ -1,0 +1,6 @@
+Unconstrained and constrained global optimization of polynomial functions in one variable
+V. Visweswaran;C. A. Floudas;
+Abstract
+In Floudas and Visweswaran (1990), a new global optimization algorithm (GOP) was proposed for solving constrained nonconvex problems involving quadratic and polynomial functions in the objective function and/or constraints. In this paper, the application of this algorithm to the special case of polynomial functions of one variable is discussed. The special nature of polynomial functions enables considerable simplification of the GOP algorithm. The primal problem is shown to reduce to a simple function evaluation, while the relaxed dual problem is equivalent to the simultaneous solution of two linear equations in two variables. In addition, the one-to-one correspondence between the x and y variables in the problem enables the iterative improvement of the bounds used in the relaxed dual problem. The simplified approach is illustrated through a simple example that shows the significant improvement in the underestimating function obtained from the application of the modified algorithm. The application of the algorithm to several unconstrained and constrained polynomial function problems is demonstrated.
+Keywords
+Global optimization  polynomial functions  unconstrained and constrained optimization  the GOP algorithm  

@@ -1,0 +1,6 @@
+Large-scale semidefinite programming via a saddle point Mirror-Prox algorithm
+Zhaosong Lu;Arkadi Nemirovski;Renato D. C. Monteiro;
+Abstract
+In this paper, we first demonstrate that positive semidefiniteness of a large well-structured sparse symmetric matrix can be represented via positive semidefiniteness of a bunch of smaller matrices linked, in a linear fashion, to the matrix. We derive also the “dual counterpart” of the outlined representation, which expresses the possibility of positive semidefinite completion of a well-structured partially defined symmetric matrix in terms of positive semidefiniteness of a specific bunch of fully defined submatrices of the matrix. Using the representations, we then reformulate well-structured large-scale semidefinite problems into smooth convex–concave saddle point problems, which can be solved by a Prox-method developed in [6] with efficiency \(\mathcal {O}(\epsilon^{-1})\). Implementations and some numerical results for large-scale Lovász capacity and MAXCUT problems are finally presented.
+Keywords
+Semidefinite programming  Saddle point problem  Mirror-Prox method  90C22  90C25  90C51  65K10  

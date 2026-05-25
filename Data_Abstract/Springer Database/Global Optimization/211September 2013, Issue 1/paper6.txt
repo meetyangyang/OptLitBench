@@ -1,0 +1,6 @@
+Improved relaxations for the parametric solutions of ODEs using differential inequalities
+Joseph K. Scott;Paul I. Barton;
+Abstract
+A new method is described for computing nonlinear convex and concave relaxations of the solutions of parametric ordinary differential equations (ODEs). Such relaxations enable deterministic global optimization algorithms to be applied to problems with ODEs embedded, which arise in a wide variety of engineering applications. The proposed method computes relaxations as the solutions of an auxiliary system of ODEs, and a method for automatically constructing and numerically solving appropriate auxiliary ODEs is presented. This approach is similar to two existing methods, which are analyzed and shown to have undesirable properties that are avoided by the new method. Two numerical examples demonstrate that these improvements lead to significantly tighter relaxations than previous methods.
+Keywords
+Convex relaxations  Global optimization  Optimal control  34A40  65L05  49M20  49M37  90C26  

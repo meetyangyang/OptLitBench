@@ -1,0 +1,6 @@
+Recursive Trust-Region Methods for Multiscale Nonlinear Optimization
+Serge  Gratton, Annick  Sartenaer, and Philippe L.  Toint;
+Abstract
+A class of trust-region methods is presented for solving unconstrained nonlinear and possibly nonconvex discretized optimization problems, like those arising in systems governed by partial differential equations. The algorithms in this class make use of the discretization level as a means of speeding up the computation of the step. This use is recursive, leading to true multilevel/multiscale optimization methods reminiscent of multigrid methods in linear algebra and the solution of partial differential equations. A simple algorithm of the class is then described and its numerical performance is shown to be numerically promising. This observation then motivates a proof of global convergence to first-order stationary points on the fine grid that is valid for all algorithms in the class.
+Keywords
+nonlinear optimization, multiscale problems, simplified models, recursive algorithms, convergence theory, 90C30, 65K05, 90C26, 90C06, 

@@ -1,0 +1,6 @@
+Polynomiality of an inexact infeasible interior point algorithm for semidefinite programming
+Guanglu Zhou;Kim-Chuan Toh;
+Abstract
+In this paper we present a primal-dual inexact infeasible interior-point algorithm for semidefinite programming problems (SDP). This algorithm allows the use of search directions that are calculated from the defining linear system with only moderate accuracy, and does not require feasibility to be maintained even if the initial iterate happened to be a feasible solution of the problem. Under a mild assumption on the inexactness, we show that the algorithm can find an ε-approximate solution of an SDP in O(n  2  ln(1/ε)) iterations. This bound of our algorithm is the same as that of the exact infeasible interior point algorithms proposed by Y. Zhang.
+Keywords
+semidefinite programming  primal-dual  infeasible interior point method  inexact search direction  polynomial complexity  

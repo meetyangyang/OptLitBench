@@ -1,0 +1,6 @@
+Robust optimization using hybrid differential evolution and sequential quadratic programming
+Shuo Cheng;Mian Li;
+Abstract
+Although robust optimization can find solutions to engineering problems with uncertainty, the computational inefficiency of robust optimization methods is still a major concern. In this article, a new hybrid robust optimization method, namely differential evolution–sequential quadratic programming–robust optimization (DE-SQP-RO), is presented to find global robust optima for nonlinear robust optimization problems. The proposed algorithm is conducted under the structure of DE-RO, with SQP-RO acting as a local optimizer. Two criteria and switch indices are developed to indicate when the algorithm should switch from DE-RO to SQP-RO and vice versa. One numerical and two engineering examples are tested to demonstrate the applicability of the proposed algorithm. The results show that the hybrid algorithm uses 29–45% of the number of function evaluations required by DE-RO, and the robust solutions obtained by the hybrid algorithm are even better for certain examples.
+Keywords
+robust optimization, interval uncertainty, hybrid algorithm, DE, SQP 

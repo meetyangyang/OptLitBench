@@ -1,0 +1,6 @@
+An Inexact Perturbed Path-Following Method for Lagrangian Decomposition in Large-Scale Separable Convex Optimization
+Quoc Tran  Dinh, Ion  Necoara, Carlo  Savorgnan, and Moritz  Diehl;
+Abstract
+This paper studies an inexact perturbed path-following algorithm in the framework of Lagrangian dual decomposition for solving large-scale separable convex programming problems. Unlike the exact versions considered in the literature, we propose solving the primal subproblems inexactly up to a given accuracy. This leads to an inexactness of the gradient vector and the Hessian matrix of the smoothed dual function. Then an inexact perturbed algorithm is applied to minimize the smoothed dual function. The algorithm consists of two phases, and both make use of the inexact derivative information of the smoothed dual problem. The convergence of the algorithm is analyzed, and the worst-case complexity is estimated. As a special case, an exact path-following decomposition algorithm is obtained and its worst-case complexity is given. Implementation details are discussed, and preliminary numerical results are reported.
+Keywords
+smoothing technique, self-concordant barrier, Lagrangian decomposition, inexact perturbed Newton-type method, separable convex optimization, parallel algorithm, 90C25, 49M27, 90C06, 49M15, 90C51, 

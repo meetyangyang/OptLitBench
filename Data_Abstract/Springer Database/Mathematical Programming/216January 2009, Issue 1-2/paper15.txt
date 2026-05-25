@@ -1,0 +1,6 @@
+A bundle-filter method for nonsmooth convex constrained optimization
+Elizabeth Karas;Ademir Ribeiro;Claudia Sagastizábal;Mikhail Solodov;
+Abstract
+For solving nonsmooth convex constrained optimization problems, we propose an algorithm which combines the ideas of the proximal bundle methods with the filter strategy for evaluating candidate points. The resulting algorithm inherits some attractive features from both approaches. On the one hand, it allows effective control of the size of quadratic programming subproblems via the compression and aggregation techniques of proximal bundle methods. On the other hand, the filter criterion for accepting a candidate point as the new iterate is sometimes easier to satisfy than the usual descent condition in bundle methods. Some encouraging preliminary computational results are also reported.
+Keywords
+Constrained optimization  Nonsmooth convex optimization  Bundle methods  Filter methods  90C30  65K05  49D27  

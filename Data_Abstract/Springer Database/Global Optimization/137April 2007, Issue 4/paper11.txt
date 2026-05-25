@@ -1,0 +1,6 @@
+An updated geometric build-up algorithm for solving the molecular distance geometry problems with sparse distance data
+Di Wu;Zhijun Wu;
+Abstract
+An updated geometric build-up algorithm is developed for solving the molecular distance geometry problem with a sparse set of inter-atomic distances. Different from the general geometric build-up algorithm, the updated algorithm re-computes the coordinates of the base atoms whenever necessary and possible. In this way, the errors introduced in solving the algebraic equations for the determination of the coordinates of the atoms are controlled in the intermediate computational steps. The method for re-computing the coordinates of the base atoms based on the estimation on the root-mean-square deviation (RMSD) is described. The results of applying the updated algorithm to a set of protein structure problems are presented. In many cases, the updated algorithm solves the problems with high accuracy when the results of the general algorithm are inadequate.
+Keywords
+Protein structure determination  Distance geometry  Geometric build-up  Root-mean-square deviation  

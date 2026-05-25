@@ -1,0 +1,6 @@
+An inexact spectral bundle method for convex quadratic semidefinite programming
+Huiling Lin;
+Abstract
+We present an inexact spectral bundle method for solving convex quadratic semidefinite optimization problems. This method is a first-order method, hence requires much less computational cost in each iteration than second-order approaches such as interior-point methods. In each iteration of our method, we solve an eigenvalue minimization problem inexactly, and solve a small convex quadratic semidefinite program as a subproblem. We give a proof of the global convergence of this method using techniques from the analysis of the standard bundle method, and provide a global error bound under a Slater type condition for the problem in question. Numerical experiments with matrices of order up to 3000 are performed, and the computational results establish the effectiveness of this method.
+Keywords
+Semidefinite programming  Nonsmooth optimization methods  Inexact spectral bundle method  Eigenvalue minimization problem  Approximate subgradients  

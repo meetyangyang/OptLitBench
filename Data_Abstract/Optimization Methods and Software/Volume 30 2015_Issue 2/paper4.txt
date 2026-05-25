@@ -1,0 +1,6 @@
+Efficiently preconditioned inexact Newton methods for large symmetric eigenvalue problems
+L. Bergamaschi;A. Martínez;
+Abstract
+In this paper, we propose an efficiently preconditioned Newton method for the computation of the leftmost eigenpairs of large and sparse symmetric positive definite matrices. A sequence of preconditioners based on the BFGS update formula is proposed, for the preconditioned conjugate gradient solution of the linearized Newton system to solve Au=q(u) u, q(u) being the Rayleigh quotient. We give theoretical evidence that the sequence of preconditioned Jacobians remains close to the identity matrix if the initial preconditioned Jacobian is so. Numerical results onto matrices arising from various realistic problems with size up to one million unknowns account for the efficiency of the proposed algorithm which reveals competitive with the Jacobi–Davidson method on all the test problems.
+Keywords
+eigenvalues, SPD matrix, Newton method, BFGS update, incomplete Cholesky preconditionerAMS Subject Classifications:: 65F05, 65F15, 65H17 

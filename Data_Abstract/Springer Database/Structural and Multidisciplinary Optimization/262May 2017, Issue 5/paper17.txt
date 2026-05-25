@@ -1,0 +1,6 @@
+Stress-constrained continuum topology optimization: a new approach based on elasto-plasticity
+Oded Amir;
+Abstract
+A new approach for generating stress-constrained topological designs in continua is presented. The main novelty is in the use of elasto-plastic modeling and in optimizing the design such that it will exhibit a linear-elastic response. This is achieved by imposing a single global constraint on the total sum of equivalent plastic strains, providing accurate control over all local stress violations. The single constraint essentially replaces a large number of local stress constraints or an approximate aggregation of them – two common approaches in the literature. A classical rate-independent plasticity model is utilized, for which analytical adjoint sensitivity analysis is derived and verified. Several examples demonstrate the capability of the computational procedure to generate designs that challenge results from the literature, in terms of the obtained stiffness-strength-weight trade-offs. A full elasto-plastic analysis of the optimized designs shows that prior to the initial yielding, these designs can sustain significantly higher loads than minimum compliance topological layouts, with only a minor compromise on stiffness.
+Keywords
+Topology optimization  Stress constraints  Elasto-plasticity  

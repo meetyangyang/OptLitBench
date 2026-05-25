@@ -1,0 +1,6 @@
+Regularized Newton Methods for Minimizing Functions with Hölder Continuous Hessians
+G. N.  Grapiglia and Yu.  Nesterov;
+Abstract
+In this paper, we study the regularized second-order methods for unconstrained minimization of a  twice-differentiable (convex or nonconvex) objective function. For the current function, these methods automatically achieve the best possible global complexity estimates among different Hölder classes containing the Hessian of the objective. We show that such methods for functional residual and for the norm of the gradient must be different. For development of the latter methods, we introduced two new line-search acceptance criteria, which can be seen as generalizations of the Armijo condition.
+Keywords
+unconstrained minimization, second-order methods, Hölder condition, worst-case global complexity bounds, 49M15, 49M37, 58C15, 90C25, 90C30, 

@@ -1,0 +1,6 @@
+On the Behavior of Broyden’s Class of Quasi-Newton Methods
+Richard H.  Byrd, Dong C.  Liu, and Jorge  Nocedal;
+Abstract
+This paper analyzes algorithms from the Broyden class of quasi-Newton methods for nonlinear unconstrained optimization. This class depends on a parameter $\phi_k $, for which the choices $\phi_k  = 0$ and $\phi_k  = 1$ give the well-known BFGS and DFP methods. This paper examines algorithms that allow for negative values of the parameter $\phi_k $. It shows that severe restrictions have to be imposed on the selection of $\phi_k $ to guarantee q-superlinear convergence. It is argued that negative values of $\phi_k $ are desirable, and conditions on $\phi_k $ that guarantee superlinear convergence are given. However, practical algorithms that preserve the excellent properties of the BFGS method are not easy to design.
+Keywords
+quasi-Newton method, Broyden class, variable metric method, global convergence, superlinear convergence, 65, 49, 

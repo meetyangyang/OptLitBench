@@ -1,0 +1,6 @@
+The energy-constrained quickest path problem
+Herminia I. Calvete;Lourdes del-Pozo;José A. Iranzo;
+Abstract
+This paper addresses a variant of the quickest path problem in which each arc has an additional parameter associated to it representing the energy consumed during the transmission along the arc while each node is endowed with a limited power to transmit messages. The aim of the energy-constrained quickest path problem is to obtain a quickest path whose nodes are able to support the transmission of a message of a known size. After introducing the problem and proving the main theoretical results, a polynomial algorithm is proposed to solve the problem based on computing shortest paths in a sequence of subnetworks of the original network. In the second part of the paper, the bi-objective variant of this problem is considered in which the objectives are the transmission time and the total energy used. An exact algorithm is proposed to find a complete set of efficient paths. The computational experiments carried out show the performance of both algorithms.
+Keywords
+Quickest path  Energy constraint  Bi-objective optimization  

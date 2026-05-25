@@ -1,0 +1,6 @@
+A primal-dual approximation algorithm for a two depot heterogeneous traveling salesman problem
+Jungyun Bae;Sivakumar Rathinam;
+Abstract
+Surveillance applications require a collection of heterogeneous vehicles to visit a set of targets. We consider a fundamental routing problem that arises in these applications involving two vehicles. Specifically, we consider a routing problem where there are two heterogeneous vehicles that start from distinct initial locations and a set of targets. The objective is to find a tour for each vehicle such that each of the targets is visited at least once by a vehicle and the sum of the distances traveled by the vehicles is minimal. We consider an important special case of this routing problem where the travel costs satisfy the triangle inequality and the following monotonicity property: the first vehicle’s cost of traveling between any two targets is at most equal to the second vehicle’s cost of traveling between the same targets. We present a primal-dual algorithm for this case that provides an approximation ratio of 2.
+Keywords
+Approximation algorithms  Primal-dual method  Traveling salesman problem  

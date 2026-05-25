@@ -1,0 +1,6 @@
+State-transition-matrix optimization for reconfiguration manoeuvres of formation-flying satellites
+ Jesse   Eyer ; Christopher   Damaren ;
+Abstract
+ The on-orbit reconfiguration of a pair of formation-flying satellites in low Earth orbit is studied in the presence of J2–J6 gravitational perturbations. A methodology for determining a robust and accurate impulsive thrusting scheme is developed with the aim of minimizing reconfiguration overshoot errors and fuel expenditure (Δ V). The method uses a state transition matrix based on the Hill–Clohessy–Wiltshire linear equations of relative motion and the analytical solution to the state-space model to solve for a pair of impulsive thrusts. The manoeuvre is then propagated through a fully nonlinear orbital simulator with the thrusts implemented non-impulsively. A Sequential Quadratic Programming optimizer adjusts the inputs to the linear state transition matrix to produce impulses that, when applied in the high-fidelity orbital propagator, mitigates the Δ V of the manoeuvre while maintaining acceptable overshoot errors. 
+Keywords
+formation-flying satellites, overshoot error, reconfiguration optimization, state transition matrix 

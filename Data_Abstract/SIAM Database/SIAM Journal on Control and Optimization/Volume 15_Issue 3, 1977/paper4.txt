@@ -1,0 +1,5 @@
+A Hybrid Algorithm for Nonlinear Programming
+R. W.  Chaney;
+Abstract
+In this paper we present a “hybrid” first-order algorithm, designed to solve finite-dimensional nonlinear programming problems having both equality and inequality constraints. The algorithm is built up from the method of exterior penalty functions, the Pironneau–Polak method of centers, and a quasi-Newton method of Luenberger. The algorithm is shown to generate sequences which, under appropriate hypothesis, will converge linearly at a rate “asymptotically” independent of the penalty coefficient. The main technique employed in the convergence analysis is the finite-dimensional version of the indirect method of Hestenes. The algorithm seems well suited to a situation in which there are many variables and rather few constraints; for then; the demands made on storage and the direction finding subprocedure would be relatively modest.
+Keywords

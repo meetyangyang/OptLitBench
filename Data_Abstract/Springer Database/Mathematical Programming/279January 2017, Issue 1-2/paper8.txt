@@ -1,0 +1,6 @@
+An exponential lower bound for Cunningham’s rule
+David Avis;Oliver Friedmann;
+Abstract
+In this paper we give an exponential lower bound for Cunningham’s least recently considered (round-robin) rule as applied to parity games, Markov decision processes and linear programs. This improves a recent subexponential bound of Friedmann for this rule on these problems. The round-robin rule fixes a cyclical order of the variables and chooses the next pivot variable starting from the previously chosen variable and proceeding in the given circular order. It is perhaps the simplest example from the class of history-based pivot rules. Our results are based on a new lower bound construction for parity games. Due to the nature of the construction we are also able to obtain an exponential lower bound for the round-robin rule applied to acyclic unique sink orientations of hypercubes (AUSOs). Furthermore these AUSOs are realizable as polytopes. We believe these are the first such results for history based rules for AUSOs, realizable or not. The paper is self-contained and requires no previous knowledge of parity games.
+Keywords
+Simplex method  Cunningham’s rule  Parity games   Acyclic unique sink orientations  Markov decision processes  90C05  

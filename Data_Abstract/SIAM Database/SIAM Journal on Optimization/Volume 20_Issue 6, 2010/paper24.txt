@@ -1,0 +1,6 @@
+Fully Distributed Algorithms for Convex Optimization Problems
+Damon  Mosk-Aoyama, Tim  Roughgarden, and Devavrat  Shah;
+Abstract
+We design and analyze a fully distributed algorithm for convex constrained optimization in networks without any consistent naming infrastructure. The algorithm produces an approximately feasible and near-optimal solution in time polynomial in the network size, the inverse of the permitted error, and a measure of curvature variation in the dual optimization problem. It blends, in a novel way, gossip-based information spreading, iterative gradient ascent, and the barrier method from the design of interior-point algorithms.
+Keywords
+convex optimization, distributed algorithms, gradient ascent, 90C25, 68W15, 

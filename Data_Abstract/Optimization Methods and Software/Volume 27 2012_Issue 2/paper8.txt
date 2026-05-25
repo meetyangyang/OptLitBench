@@ -1,0 +1,6 @@
+Coloring Jacobians revisited: a new algorithm for star and~acyclic bicoloring
+ David   Juedes ; Jeffrey   Jones ;
+Abstract
+ This paper presents a new polynomial-time algorithm, approximate star bicoloring (ASBC), for star bicoloring and acyclic bicoloring. These NP-complete combinatorial problems arise from problems associated with computing large sparse Jacobian matrices. The main results of this paper lie in approximation analysis related to these problems. In particular, it is shown that (i) both star and acyclic bicoloring can be approximated in polynomial time to the ratio O(n 2/3) and (ii) both star and acyclic bicoloring cannot be approximated to the ratio O(n 1/3−ε) in polynomial time under reasonable complexity theoretic hypotheses. The ASBC algorithm is also analysed experimentally on a collection of realistic test cases from the Harwell–Boeing sparse matrix collection. The experimental results indicate that ASBC performs quite well in practice; the performance of the new algorithm always fell within the range of 1.53 and 6 times optimal on the given test sets. 
+Keywords
+star bicoloring, acyclic bicoloring, automatic differentiation, approximation algorithms AMS Subject Classification : 68W25, 68Q17 

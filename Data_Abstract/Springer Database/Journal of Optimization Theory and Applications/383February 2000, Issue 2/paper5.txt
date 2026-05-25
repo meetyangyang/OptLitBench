@@ -1,0 +1,6 @@
+Almost Surely Convergent Global Optimization Algorithm Using Noise-Corrupted Observations
+H. T. Fang;H. F. Chen;
+Abstract
+A new recursive algorithm for searching the global minimizer of a function is proposed when the function is observed with noise. The algorithm is based on switches between the stochastic approximation and the random search. The combination of SA with RS is not a new idea in such combination, the difficulty consists in creating a good switching rule and in designing an efficient method to reduce the noise effect. The proposed switching rule is easily realizable, the noise reducing method is effective, and the whole recursive optimization algorithm is simply calculated. It is proved that the algorithm a.s. converges to the global minimizer and is asymptotically normal. In comparison with existing methods, the proposed algorithm not only requires much weaker conditions, but also is more efficient as shown by simulation.
+Keywords
+random search  stochastic approximation  global optimization  

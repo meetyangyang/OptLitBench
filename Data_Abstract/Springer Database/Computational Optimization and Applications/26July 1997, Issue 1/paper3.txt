@@ -1,0 +1,6 @@
+A Parallel Algorithm for Multiple Objective Linear Programs
+Malgorzata M. Wiecek;Hong Zhang;
+Abstract
+This paper presents an ADBASE-based parallel algorithm forsolving multiple objective linear programs (MOLPs). Job balance,speedup and scalability are of primary interest in evaluatingefficiency of the new algorithm. The scalability of a parallelalgorithm is a measure of its capacity to increase performance withrespect to the number of processors used. Implementation results onIntel iPSC/2 and Paragon multiprocessors show that the algorithmsignificantly speeds up the process of solving MOLPs, which isunderstood as generating all or some efficient extreme points andunbounded efficient edges. The algorithm is shown to be scalable andgives better results for large problems. Motivation andjustification for solving large MOLPs are also included.
+Keywords
+multiple objective linear program  efficient solution  ADBASE  parallel speedup  parallel efficiency  scalability  

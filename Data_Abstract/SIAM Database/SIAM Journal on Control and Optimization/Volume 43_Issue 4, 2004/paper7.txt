@@ -1,0 +1,6 @@
+Quenched Large Deviations for One Dimensional Nonlinear Filtering
+Étienne  Pardoux and Ofer  Zeitouni;
+Abstract
+Consider the standard, one dimensional, nonlinear filtering problem for diffusion processes observed in small additive white noise: $dX_t=b(X_t)dt+ dB_t,\ dY_t^{\varepsilon}=\gamma(X_t)dt+\varepsilon dV_t,$ where $B_\cdot, V_\cdot$ are standard independent Brownian motions. Denote by $q^{\varepsilon}_1(\cdot)$ the density of the law of $\Xi_1$ conditioned on $\sigma(Y_t^{\varepsilon}: 0\leq t\leq 1)$. We provide ``quenched" large deviation estimates for the random family of measures $q^{\varepsilon}_1(x)dx$: there exists a continuous, explicit mapping $\bar {\cal J} : {\Bbb R}^2\to{\Bbb R}$ such that for almost all $B_\cdot,V_\cdot$, $\bar {\cal J}(\cdot,X_1)$ is a good rate function, and for any measurable $G\subset {\Bbb R}$, $$ -\inf_{x\in G^o} \bar {\cal J}(x,X_1) \leq {\liminf_{\varepsilon \rightarrow 0}} {\varepsilon} \log \int_G q_1^{\varepsilon}(x) dx \leq {\limsup_{\varepsilon \rightarrow 0}} {\varepsilon} \log \int_G q_1^{\varepsilon}(x) dx\nonumber \leq -\inf_{x\in \bar G} \bar {\cal J}(x,X_1). $$
+Keywords
+nonlinear filtering, large deviations, 93E11, 60F10, 

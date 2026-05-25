@@ -1,0 +1,6 @@
+Variable metric methods for minimizing a class of nondifferentiable functions
+S. P. Han;
+Abstract
+We develop a class of methods for minimizing a nondifferentiable function which is the maximum of a finite number of smooth functions. The methods proceed by solving iteratively quadratic programming problems to generate search directions. For efficiency the matrices in the quadratic programming problems are suggested to be updated in a variable metric way. By doing so, the methods possess many attractive features of variable metric methods and can be viewed as their natural extension to the nondifferentiable case. To avoid the difficulties of an exact line search, a practical stepsize procedure is also introduced. Under mild assumptions the resulting method converge globally.
+Keywords
+Minimax  Nondifferentiable Optimization  Quasi-Newton Methods  Variable Metric Methods  

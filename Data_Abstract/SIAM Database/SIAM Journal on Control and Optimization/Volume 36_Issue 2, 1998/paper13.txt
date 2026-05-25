@@ -1,0 +1,6 @@
+A New Value Iteration method for the Average Cost Dynamic Programming Problem
+Dimitri P.  Bertsekas;
+Abstract
+We propose a new value iteration method for the classical average cost Markovian decision problem, under the assumption that all stationary policies are unichain and that, furthermore, there exists a state that is recurrent under all stationary policies. This method is motivated by a relation between the average cost problem and an associated stochastic shortest path problem. Contrary to the standard relative value iteration, our method involves a weighted sup-norm contraction, and for this reason it admits a Gauss--Seidel implementation. Computational tests indicate that the Gauss--Seidel version of the new method substantially outperforms the standard method for difficult problems.
+Keywords
+dynamic programming, average cost, value iteration, 90C35, 49L20, 

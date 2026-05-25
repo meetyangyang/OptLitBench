@@ -1,0 +1,6 @@
+On solving the dual for portfolio selection by optimizing Conditional Value at Risk
+Włodzimierz Ogryczak;Tomasz Śliwiński;
+Abstract
+This note is focused on computational efficiency of the portfolio selection models based on the Conditional Value at Risk (CVaR) risk measure. The CVaR measure represents the mean shortfall at a specified confidence level and its optimization may be expressed with a Linear Programming (LP) model. The corresponding portfolio selection models can be solved with general purpose LP solvers. However, in the case of more advanced simulation models employed for scenario generation one may get several thousands of scenarios. This may lead to the LP model with huge number of variables and constraints thus decreasing the computational efficiency of the model. To overcome this difficulty some alternative solution approaches are explored employing cutting planes or nondifferential optimization techniques among others. Without questioning importance and quality of the introduced methods we demonstrate much better performances of the simplex method when applied to appropriately rebuilt CVaR models taking advantages of the LP duality.
+Keywords
+Risk measures  Portfolio optimization  Computability  Linear programming  

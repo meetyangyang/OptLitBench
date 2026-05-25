@@ -1,0 +1,6 @@
+Adaptive parameterized improving hit-and-run for global optimization
+ Wei   Wang ; Archis   Ghate ; Zelda   B.   Zabinsky ;
+Abstract
+ We build on improving hit-and-run's (IHR) prior success as a Monte Carlo random search algorithm for global optimization by generalizing the algorithm's sampling distribution. Specifically, in place of the uniform step-size distribution in IHR, we employ a family of parameterized step-size distributions to sample candidate points. The IHR step-size distribution is a special instance within this family. This parameterization is motivated by recent results on efficient decentralized search in the so-called Small World problems. To improve the performance of the algorithm, we adaptively tune the parameter based on the success rate of obtaining improving points. We present analytical and numerical results on simple spherical programmes to illustrate the key ideas of the relationship between the parametrization and algorithm performance. These results are then extended to global optimization problems with Lipschitz continuous objective functions. Our preliminary numerical results demonstrate the potential benefit of considering parameterized versions of IHR. 
+Keywords
+global optimization, improving hit-and-run, adaptive stochastic search 

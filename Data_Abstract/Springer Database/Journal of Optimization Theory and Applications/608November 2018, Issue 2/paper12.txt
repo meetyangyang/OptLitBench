@@ -1,0 +1,6 @@
+An Optimal Strategy for Pairs Trading Under Geometric Brownian Motions
+Jingzhi Tie;Hanqin Zhang;Qing Zhang;
+Abstract
+This paper is concerned with an optimal strategy for simultaneously trading of a pair of stocks. The idea of pairs trading is to monitor their price movements and compare their relative strength over time. A pairs trade is triggered by their prices divergence and consists of a pair of positions to short the strong stock and to long the weak one. Such a strategy bets on the reversal of their price strengths. From the viewpoint of technical tractability, typical pairs-trading models usually assume a difference of the stock prices satisfies a mean-reversion equation. In this paper, we consider the optimal pairs-trading problem by allowing the stock prices to follow general geometric Brownian motions. The objective is to trade the pairs over time to maximize an overall return with a fixed commission cost for each transaction. The optimal policy is characterized by threshold curves obtained by solving the associated HJB equations. Numerical examples are included to demonstrate the dependence of our trading rules on various parameters and to illustrate how to implement the results in practice.
+Keywords
+Pairs trading  Optimal policy  Quasi-variational inequalities  93E20  91G80  49L20  

@@ -1,0 +1,4 @@
+A New Solver for the Minimum Weighted Vertex Cover Problem
+Hong Xu;T. K. Satish Kumar;Sven Koenig;
+Abstract
+Given a vertex-weighted graph \(G = \langle V, E \rangle \), the minimum weighted vertex cover (MWVC) problem is to choose a subset of vertices with minimum total weight such that every edge in the graph has at least one of its endpoints chosen. While there are good solvers for the unweighted version of this NP-hard problem, the weighted version—i.e., the MWVC problem—remains understudied despite its common occurrence in many areas of AI—like combinatorial auctions, weighted constraint satisfaction, and probabilistic reasoning. In this paper, we present a new solver for the MWVC problem based on a novel reformulation to a series of SAT instances using a primal-dual approximation algorithm as a starting point. We show that our SAT-based MWVC solver (SBMS) significantly outperforms other methods.

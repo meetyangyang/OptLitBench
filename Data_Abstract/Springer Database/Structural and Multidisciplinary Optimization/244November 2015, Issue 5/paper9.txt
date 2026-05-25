@@ -1,0 +1,6 @@
+Structural optimization of multibody system components described using level set techniques
+Emmanuel Tromme;Daniel Tortorelli;Olivier Brüls;Pierre Duysinx;
+Abstract
+The structural optimization of the components in multibody systems is performed using a fully coupled optimization method. The design’s predicted response is obtained from a flexible multibody system simulation under various service conditions. In this way, the resulting optimization process enhances most existing studies which are limited to weakly coupled (quasi-) static or frequency domain loading conditions. A level set description of the component geometry is used to formulate a generalized shape optimization problem which is solved via efficient gradient-based optimization methods. Gradients of cost and constraint functions are obtained from a sensitivity analysis which is revisited in order to facilitate its implementation and retain its computational efficiency. The optimizations of a slider-crank mechanism and a 2-dof robot are provided to exemplify the procedure.
+Keywords
+Dynamic response optimization  Flexible multibody systems  Sensitivity analysis  Level set description  Generalized shape optimization  

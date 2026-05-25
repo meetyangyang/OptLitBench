@@ -1,0 +1,6 @@
+Exact solution approaches for bilevel assignment problems
+Behdad Beheshti;Oleg A. Prokopyev;Eduardo L. Pasiliao;
+Abstract
+We consider the bilevel assignment problem in which each decision maker (i.e., the leader and the follower) has its own objective function and controls a distinct set of edges in a given bipartite graph. The leader acts first by choosing some of its edges. Subsequently, the follower completes the assignment process. The edges selected by the leader and the follower are required to constitute a perfect matching. In this paper we propose an exact solution approach, which is based on a branch-and-bound framework and exploits structural properties of the assignment problem. Extensive computational experiments with linear sum and linear bottleneck objective functions are conducted to demonstrate the performance of the developed methods. While the considered problem is known to be NP-hard in general, we also describe some restricted cases that can be solved in polynomial time.
+Keywords
+Bilevel programming  Assignment problem  Combinatorial optimization  

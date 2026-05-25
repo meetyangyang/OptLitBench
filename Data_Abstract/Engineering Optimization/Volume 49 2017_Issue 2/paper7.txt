@@ -1,0 +1,6 @@
+An efficient interior-point algorithm with new non-monotone line search filter method for nonlinear constrained programming
+Liwei Wang;Xinggao Liu;Zeyin Zhang;
+Abstract
+An efficient primal-dual interior-point algorithm using a new non-monotone line search filter method is presented for nonlinear constrained programming, which is widely applied in engineering optimization. The new non-monotone line search technique is introduced to lead to relaxed step acceptance conditions and improved convergence performance. It can also avoid the choice of the upper bound on the memory, which brings obvious disadvantages to traditional techniques. Under mild assumptions, the global convergence of the new non-monotone line search filter method is analysed, and fast local convergence is ensured by second order corrections. The proposed algorithm is applied to the classical alkylation process optimization problem and the results illustrate its effectiveness. Some comprehensive comparisons to existing methods are also presented.
+Keywords
+Nonlinear constrained programming, interior-point, line search, filter, non-monotone 

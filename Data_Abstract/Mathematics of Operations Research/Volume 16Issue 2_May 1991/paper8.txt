@@ -1,0 +1,6 @@
+Combinatorial Algorithms for the Generalized Circulation Problem
+Andrew V. Goldberg;Serge A. Plotkin;Éva Tardos;
+Abstract
+We consider a generalization of the maximum flow problem in which the amounts of flow entering and leaving an arc are linearly related. More precisely, if x(e) units of flow enter an arc e, x(e)γ(e) units arrive at the other end. For instance, nodes of the graph can correspond to different currencies, with the multipliers being the exchange rates. We require conservation of flow at every node except a given source node. The goal is to maximize the amount of flow excess at the source.This problem is a special case of linear programming, and therefore can be solved in polynomial time. In this paper we present the first polynomial time combinatorial algorithms for this problem. The algorithms are simple and intuitive.
+Keywords
+combinatorial optimization network flow graph algorithms 

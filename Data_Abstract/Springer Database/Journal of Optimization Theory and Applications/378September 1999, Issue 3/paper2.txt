@@ -1,0 +1,6 @@
+Convergent Cutting-Plane and Partial-Sampling Algorithm for Multistage Stochastic Linear Programs with Recourse
+Z. L. Chen;W. B. Powell;
+Abstract
+We propose an algorithm for multistage stochastic linear programs with recourse where random quantities in different stages are independent. The algorithm approximates successively expected recourse functions by building up valid cutting planes to support these functions from below. In each iteration, for the expected recourse function in each stage, one cutting plane is generated using the dual extreme points of the next-stage problem that have been found so far. We prove that the algorithm is convergent with probability one.
+Keywords
+Multistage stochastic programming  cutting planes  sampling  convergence with probability one  

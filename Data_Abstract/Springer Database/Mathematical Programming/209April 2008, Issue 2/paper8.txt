@@ -1,0 +1,6 @@
+Robust branch-cut-and-price for the Capacitated Minimum Spanning Tree problem over a large extended formulation
+Eduardo Uchoa;Ricardo Fukasawa;Jens Lysgaard;Artur Pessoa;Marcus Poggi de Aragão;Diogo Andrade;
+Abstract
+This paper presents a robust branch-cut-and-price algorithm for the Capacitated Minimum Spanning Tree Problem (CMST). The variables are associated to q-arbs, a structure that arises from a relaxation of the capacitated prize-collecting arborescence problem in order to make it solvable in pseudo-polynomial time. Traditional inequalities over the arc formulation, like Capacity Cuts, are also used. Moreover, a novel feature is introduced in such kind of algorithms: powerful new cuts expressed over a very large set of variables are added, without increasing the complexity of the pricing subproblem or the size of the LPs that are actually solved. Computational results on benchmark instances from the OR-Library show very significant improvements over previous algorithms. Several open instances could be solved to optimality.
+Keywords
+20E28  20G40  20C20  

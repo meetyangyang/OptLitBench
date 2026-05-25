@@ -1,0 +1,6 @@
+Max Flow and Min Cut with bounded-length paths: complexity, algorithms, and approximation
+A. Ridha Mahjoub;S. Thomas McCormick;
+Abstract
+We consider the “flow on paths” versions of Max Flow and Min Cut when we restrict to paths having at most B arcs, and for versions where we allow fractional solutions or require integral solutions. We show that the continuous versions are polynomial even if B is part of the input, but that the integral versions are polynomial only when B ≤ 3. However, when B ≤ 3 we show how to solve the problems using ordinary Max Flow/Min Cut. We also give tight bounds on the integrality gaps between the integral and continuous objective values for both problems, and between the continuous objective values for the bounded-length paths version and the version allowing all paths. We give a primal–dual approximation algorithm for both problems whose approximation ratio attains the integrality gap, thereby showing that it is the best possible primal–dual approximation algorithm.
+Keywords
+90B10  90C57  68M10  

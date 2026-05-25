@@ -1,0 +1,6 @@
+Selection of Best Orthonormal Rational Basis
+Per  Bodin, Lars F.  Villemoes, and Bo  Wahlberg;
+Abstract
+This contribution deals with the problem of structure determination for generalized orthonormal basis models used in system identification. The model structure is parameterized by a prespecified set of poles representing a finite-dimensional subspace of ${\cal H}^2$.\ Given this structure and experimental data, a model can be estimated using linear regression techniques. Since the variance of the estimated model increases with the number of estimated parameters, one objective is to find coordinates, or a basis, for the finite-dimensional subspace giving as compact or parsimonious a system representation as possible. In this paper, a best basis algorithm and a coefficient decomposition scheme are derived for the generalized orthonormal rational bases. Combined with linear regression and thresholding this leads to compact transfer function representations. The methods are demonstrated with several examples.
+Keywords
+system identification, model structures, orthonormal basis functions, best basis, 39A30, 41A20, 42C20, 05A05, 

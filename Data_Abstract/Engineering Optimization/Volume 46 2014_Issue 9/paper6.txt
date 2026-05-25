@@ -1,0 +1,6 @@
+A discrete hybrid differential evolution algorithm for solving integer programming problems
+Hong Li;Li Zhang;
+Abstract
+Differential evolution (DE) is one of the most prominent new evolutionary algorithms for solving real-valued optimization problems. In this article, a discrete hybrid differential evolution algorithm is developed for solving global numerical optimization problems with discrete variables. Orthogonal crossover is combined with DE crossover to achieve crossover operation, and the simplified quadratic interpolation (SQI) method is employed to improve the algorithm's local search ability. A mixed truncation procedure is incorporated in the operations of DE mutation and SQI to ensure that the integer restriction is satisfied. Numerical experiments on 40 test problems including seventeen large-scale problems with up to 200 variables have demonstrated the applicability and efficiency of the proposed method.
+Keywords
+integer programming, discrete differential evolution algorithm, orthogonal crossover, discrete global optimization 

@@ -1,0 +1,6 @@
+Mesh adaptive direct search with second directional derivative-based Hessian update
+Árpád Bűrmen;Jernej Olenšek;Tadej Tuma;
+Abstract
+The subject of this paper is inequality constrained black-box optimization with mesh adaptive direct search (MADS). The MADS search step can include additional strategies for accelerating the convergence and improving the accuracy of the solution. The strategy proposed in this paper involves building a quadratic model of the function and linear models of the constraints. The quadratic model is built by means of a second directional derivative-based Hessian update. The linear terms are obtained by linear regression. The resulting quadratic programming (QP) problem is solved with a dedicated solver and the original functions are evaluated at the QP solution. The proposed search strategy is computationally less expensive than the quadratically constrained QP strategy in the state of the art MADS implementation (NOMAD). The proposed MADS variant (QPMADS) and NOMAD are compared on four sets of test problems. QPMADS outperforms NOMAD on all four of them for all but the smallest computational budgets.
+Keywords
+Black-box optimization  Constrained optimization  Mesh adaptive direct search  Second directional derivative  Hessian update  Quadratic models  Quadratic programming  90C30  90C56  65K05  90C20  

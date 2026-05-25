@@ -1,0 +1,6 @@
+Optimization of the Complex-RFM optimization algorithm
+Johan A. Persson;Johan Ölvander;
+Abstract
+This paper presents and compares different modifications made to the Complex-RF optimization algorithm with the aim of improving its performance for computationally expensive models with few variables. The modifications reduce the required number of objective function evaluations by creating and using surrogate models (SMs) of the objective function iteratively during the optimization process. The chosen SM type is a second order response surface. The performance of the modified algorithm is demonstrated for both analytical and engineering problems and compared with the performance of a number of existing algorithms. A meta-optimization of the algorithm is also performed to optimize its performance for arbitrary problems. To emphasize the fact that the modified algorithm uses metamodels it is denoted Complex-RFM.
+Keywords
+Optimization  Surrogate models  Meta-optimization  

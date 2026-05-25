@@ -1,0 +1,6 @@
+Descent direction method with line search for unconstrained optimization in noisy environment
+Nataša Krejić;Zorana Lužanin;Zoran Ovcin;Irena Stojkovska;
+Abstract
+A two-phase descent direction method for unconstrained stochastic optimization problem is proposed. A line-search method with an arbitrary descent direction is used to determine the step sizes during the initial phase, and the second phase performs the stochastic approximation (SA) step sizes. The almost sure convergence of the proposed method is established, under standard assumption for descent direction and SA methods. The algorithm used for practical implementation combines a line-search quasi-Newton (QN) method, in particular the Broyden–Fletcher–Goldfarb–Shanno (BFGS) and Symmetric Rank 1 (SR1) methods, with the SA iterations. Numerical results show good performance of the proposed method for different noise levels.
+Keywords
+stochastic optimization, stochastic approximation, noisy function, descent direction method, line search, quasi-Newton methods, unconstrained minimizationAMS Subject Classification: 90C15, 62L20, 60H40, 65K05, 90C53 

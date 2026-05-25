@@ -1,0 +1,6 @@
+An Inexact Newton Method Derived from Efficiency Analysis
+Naiyang Deng;Yi Xue;Jianzhong Zhang;Ping Zhong;
+Abstract
+We consider solving an unconstrained optimization problem by Newton-PCG like methods in which the preconditioned conjugate gradient method is applied to solve the Newton equations. The main question to be investigated is how efficient Newton-PCG like methods can be from theoretical point of view. An algorithmic model with several parameters is established. Furthermore, a lower bound of the efficiency measure of the algorithmic model is derived as a function of the parameters. By maximizing this lower bound function, the parameters are specified and therefore an implementable algorithm is obtained. The efficiency of the implementable algorithm is compared with Newton’s method by theoretical analysis and numerical experiments. The results show that this algorithm is competitive.
+Keywords
+Cholesky factorization  Efficiency coefficient  Newton equation  Preconditioned conjugate gradient method  Unconstrained optimization.  

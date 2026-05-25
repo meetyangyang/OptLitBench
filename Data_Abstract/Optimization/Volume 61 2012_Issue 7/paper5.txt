@@ -1,0 +1,6 @@
+A numerical study of MIDACO on 100 MINLP benchmarks
+ Martin   Schlüter ; Matthias   Gerdts ; Jan-J.   Rückmann ;
+Abstract
+ This article presents a numerical study on MIDACO, a new global optimization software for mixed integer non-linear programming (MINLP) based on ant colony optimization and the oracle penalty method. Extensive and rigorous numerical tests on a set of 100 non-convex MINLP benchmark problems from the open literature are performed. Results obtained by MIDACO are directly compared to results by a recent study of state-of-the-art deterministic MINLP software on the same test set. Further comparisons with an established MINLP software is undertaken in addition. This study shows that MIDACO is not only competitive to the established MINLP software, but can even outperform those in terms of the number of global optimal solutions found. Moreover, the parallelization capabilities of MIDACO enable it to be even competitive to deterministic software regarding the amount of (serial processed) function evaluation, while the black-box capabilities of MIDACO offer an intriguing new robustness for MINLP. 
+Keywords
+mixed integer nonlinear programming, ant colony optimization, oracle penalty method, parallel computing, MIDACO, MISQP, BONMIN, COUENNE 

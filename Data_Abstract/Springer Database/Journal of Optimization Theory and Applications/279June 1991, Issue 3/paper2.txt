@@ -1,0 +1,6 @@
+Exact penalty function algorithm with simple updating of the penalty parameter
+J. F. A. De O. Pantoja;D. Q. Mayne;
+Abstract
+A new globally convergent algorithm for minimizing an objective function subject to equality and inequality constraints is presented. The algorithm determines a search direction by solving a quadratic programming subproblem, which always has an optimal solution, and uses an exact penalty function to compute the steplength along this direction through an Armijo-type scheme. The special structure of the quadratic subproblem is exploited to construct a new and simple method for updating the penalty parameter. This method may increase or reduce the value of the penalty parameter depending on some easily performed tests. A new method for updating the Hessian of the Lagrangian is presented, and a Q-superlinear rate of convergence is established.
+Keywords
+Constrained minimization  exact penalty functions  sequential quadratic programming algorithms  superlinear convergence  

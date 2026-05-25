@@ -1,0 +1,6 @@
+A sequential parametric convex approximation method with applications to nonconvex truss topology design problems
+Amir Beck;Aharon Ben-Tal;Luba Tetruashvili;
+Abstract
+We describe a general scheme for solving nonconvex optimization problems, where in each iteration the nonconvex feasible set is approximated by an inner convex approximation. The latter is defined using an upper bound on the nonconvex constraint functions. Under appropriate conditions, a monotone convergence to a KKT point is established. The scheme is applied to truss topology design (TTD) problems, where the nonconvex constraints are associated with bounds on displacements and stresses. It is shown that the approximate convex problem solved at each inner iteration can be cast as a conic quadratic programming problem, hence large scale TTD problems can be efficiently solved by the proposed method.
+Keywords
+Nonconvex optimization  Successive convex approximations  KKT points  Truss topology design  Displacement and stress constraints  

@@ -1,0 +1,6 @@
+A Sequential Quadratic Programming Algorithm Using an Incomplete Solution of the Subproblem
+Walter  Murray and Francisco J.  Prieto;
+Abstract
+We analyze sequential quadratic programming (SQP) methods to solve nonlinear constrained optimization problems that are more flexible in their definition than standard SQP methods. The type of flexibility introduced is motivated by the necessity to deviate from the standard approach when solving large problems. Specifically we no longer require a minimizes of the QP subproblem to be determined or particular Lagrange multiplier estimates to be used. Our main focus is on an SQP algorithm that uses a particular augmented Lagrangian merit function. New results are derived for this algorithm under weaker conditions than previously assumed; in particular, it is not assumed that the iterates lie on a compact set.
+Keywords
+nonlinearly constrained minimization, sequential quadratic programming, quasi-Newton method, large-scale optimization, 49D37, 65K05, 90C30, 

@@ -1,0 +1,6 @@
+A Continuous Deformation Algorithm on the Product Space of Unit Simplices
+T. M. Doup;A. J. J. Talman;
+Abstract
+A continuous deformation algorithm is introduced on S × [1, ∞), where S denotes the product space of unit simplices, with arbitrary grid refinement between two subsequent levels. The set S × [1, ∞) is triangulated in such a way that for each m, m = 1, 2, …, S × {m} is triangulated by the so-called V-triangulation. The algorithm starts by applying a variable dimension algorithm on S until an approximating simplex has been found on level 1. Then the algorithm follows a path of approximating simplices in S × [1, ∞), starting on level 1, until a certain level or a certain accuracy of a solution of the underlying problem has been reached. If the algorithm returns to level 1, then we again apply the variable dimension algorithm until a new approximating simplex is found on level 1, etc. We allow solutions to lie on the boundary of S × [1, ∞) in which case the algorithm, in general, will follow a path on the boundary of S × [1, ∞).
+Keywords
+triangulation continuous deformation homotopy equilibrium 

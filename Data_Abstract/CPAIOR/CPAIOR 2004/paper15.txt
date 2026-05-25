@@ -1,0 +1,4 @@
+Arc-Consistency Filtering Algorithms for Logical Combinations of Constraints
+Olivier Lhomme;
+Abstract
+The logical connectives between constraints, sometimes called meta-constraints, although extremely useful for modelling problems, have either poor filtering algorithms or are not very efficient. We propose in this paper new filtering algorithms that achieve arc-consistency over those logical connectives. The principle is to export supports from a constraint.

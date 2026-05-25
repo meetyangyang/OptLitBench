@@ -1,0 +1,6 @@
+The implicit LX method of the ABS class
+   E.   Spedicato ; Zunquan   Xia ; Liwei   Zhang ;
+Abstract
+ We describe an algorithm of the ABS class, which solves a general qonsingular linear system in n 3/3 + 0(n 2) multiplications without the assumption that the coefficient matrix be regular. The method can be viewed as a variation of the implicit LU algorithm of the ABS class, whose associated factorization contains a factor which is not triangular (but can be reduced to triangular form after suitable row permutations). We describe king the Abaffan properties of the method, including in particular an efficient way of upd matrix after column interchanges. Such a problem arises in the application to the simplex algorithm, where the implicit LX algorithm provides a faster technique than the standard LU factorization for the pivoting operation if the number of equality constraints m is greater than n/2  
+Keywords
+ABS Class, Implicit LU Algorithm, Implicit LX Algorithm, Simplex Method 

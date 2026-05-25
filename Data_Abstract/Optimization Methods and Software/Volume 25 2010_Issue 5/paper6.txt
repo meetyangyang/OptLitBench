@@ -1,0 +1,6 @@
+Numerical performance of penalty method for American option pricing
+ K.   Zhang ; X.   Q.   Yang ; S.   Wang ; K.   L.   Teo ;
+Abstract
+ This paper is devoted to studying the numerical performance of a power penalty method for a linear parabolic complementarity problem arising from American option valuation. The penalized problem is a nonlinear parabolic partial differential equation (PDE). A fitted finite volume method and an implicit time-stepping scheme are used for, respectively, the spatial and time discretizations of the PDE. The rate of convergence of the penalty methods with respect to the penalty parameters is investigated both theoretically and numerically. The numerical robustness and computational effectiveness of the penalty method with respect to the market parameters are also studied and compared with those from an existing popular method, project successive over relaxation. 
+Keywords
+complementarity problem, option pricing, penalty method, finite volume method AMS Subject Classification : 65M12, 65M60, 91B28 

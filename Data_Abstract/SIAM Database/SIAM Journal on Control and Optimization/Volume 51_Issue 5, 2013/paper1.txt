@@ -1,0 +1,6 @@
+Min Max Generalization for Deterministic Batch Mode Reinforcement Learning: Relaxation Schemes
+R.  Fonteneau, D.  Ernst, B.  Boigelot, and Q.  Louveaux;
+Abstract
+We study the $\min \max$ optimization problem introduced in Fonteneau et al. [Towards min max reinforcement learning, ICAART 2010, Springer, Heidelberg, 2011, pp. 61--77] for computing policies for batch mode reinforcement learning in a deterministic setting with fixed, finite time horizon. First, we show that the $\min$ part of this problem is NP-hard. We then provide two relaxation schemes. The first relaxation scheme works by dropping some constraints in order to obtain a problem that is solvable in polynomial time. The second relaxation scheme, based on a Lagrangian relaxation where all constraints are dualized, can also be solved in polynomial time. We also theoretically prove and empirically illustrate that both relaxation schemes provide better results than those given in [Fonteneau et al., 2011, as cited above].
+Keywords
+reinforcement  learning, min max generalization, nonconvex optimization, computational complexity, 60J05, 

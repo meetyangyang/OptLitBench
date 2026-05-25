@@ -1,0 +1,6 @@
+Bi-level model reduction for coupled problems
+Rajan Filomeno Coelho;Piotr Breitkopf;Catherine Knopf-Lenoir;Pierre Villon;
+Abstract
+In this work a methodology is proposed for the optimization of coupled problems, and applied to a 3D flexible wing. First, a computational fluid dynamics code coupled with a structural model is run to obtain the pressures and displacements for different wing geometries controlled by the design variables. Secondly, the data are reduced by Proper Orthogonal Decomposition (POD), allowing to expand any field as a linear combination of specific modes; finally, a surrogate model based on Moving Least Squares (MLS) is built to express the POD coefficients directly as functions of the design variables. After the validation of this bi-level model reduction strategy, the approximate models are used for the multidisciplinary optimization of the wing. The proposed method leads to a reduction of the weight by 6.6%, and the verification of the solution with the accurate numerical solvers confirms that the solution is feasible.
+Keywords
+Multidisciplinary optimization (MDO)  Model reduction  Proper orthogonal decomposition (POD)  Moving least squares (MLS)  3D wing  Fluid–structure coupling  

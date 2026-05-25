@@ -1,0 +1,6 @@
+The Incremental Gauss-Newton Algorithm with Adaptive Stepsize Rule
+Hiroyuki Moriyama;Nobuo Yamashita;Masao Fukushima;
+Abstract
+In this paper, we consider the Extended Kalman Filter (EKF) for solving nonlinear least squares problems. EKF is an incremental iterative method based on Gauss-Newton method that has nice convergence properties. Although EKF has the global convergence property under some conditions, the convergence rate is only sublinear under the same conditions. One of the reasons why EKF shows slow convergence is the lack of explicit stepsize. In the paper, we propose a stepsize rule for EKF and establish global convergence of the algorithm under the boundedness of the generated sequence and appropriate assumptions on the objective function. A notable feature of the stepsize rule is that the stepsize is kept greater than or equal to 1 at each iteration, and increases at a linear rate of k under an additional condition. Therefore, we can expect that the proposed method converges faster than the original EKF. We report some numerical results, which demonstrate that the proposed method is promising.
+Keywords
+incremental algorithm  extended Kalman filter  adaptive stepsize  neural network  

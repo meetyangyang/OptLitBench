@@ -1,0 +1,6 @@
+On the Complexity of Coordination
+Olivier Gossner;Penélope Hernández;
+Abstract
+Many results on repeated games played by finite automata rely on the complexity of the exact implementation of a coordinated play of length n. For a large proportion of sequences, this complexity appears to be no less than n. We study the complexity of a coordinated play when allowing for a few mismatches. We prove the existence of a constant C such that if (m ln m)/n ≥ C, for almost any sequence of length n, there exists an automaton of size m that achieves a coordination ratio close to 1 with it. Moreover, we show that one can take any constant C such that C > e|X| ln |X|, where |X| is the size of the alphabet from which the sequence is drawn. Our result contrasts with Neyman (1997) that shows that when (m ln m)/n is close to 0, for almost no sequence of length n there exists an automaton of size m that achieves a coordination ratio significantly larger 1/|X| with it.
+Keywords
+Coordination complexity automata 

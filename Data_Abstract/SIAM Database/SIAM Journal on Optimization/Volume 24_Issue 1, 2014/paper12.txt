@@ -1,0 +1,6 @@
+Rate of Convergence Analysis of Decomposition Methods Based on the Proximal Method of Multipliers for Convex Minimization
+Ron  Shefi and Marc  Teboulle;
+Abstract
+This paper presents two classes of decomposition algorithms based on the proximal method of multipliers (PMM) introduced in the mid-1970s by Rockafellar for convex minimization. We first show that the PMM framework is at the root of many past and recent decomposition schemes suggested in the literature allowing for an elementary analysis of these methods through a unified scheme. We then prove various sublinear global convergence rate results for the two classes of PMM based decomposition algorithms for function values and constraints violation. Furthermore, under a mild assumption on the problem's data we derive rate of convergence results in terms of the original primal function values for both classes. As a by-product of our analysis we also obtain convergence of the sequences produced by the two algorithm classes to optimal primal-dual solutions.
+Keywords
+proximal method of multipliers, augmented Lagrangians, nonasymptotic rate of convergence, efficiency estimates, primal-dual methods, alternating direction of multipliers, nonsmooth convex minimization, 90C25, 65K10, 49M29, 

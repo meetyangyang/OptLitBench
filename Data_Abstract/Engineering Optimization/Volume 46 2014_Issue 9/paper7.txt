@@ -1,0 +1,6 @@
+An effective hybrid immune algorithm for solving the distributed permutation flow-shop scheduling problem
+Ye Xu;Ling Wang;Shengyao Wang;Min Liu;
+Abstract
+In this article, an effective hybrid immune algorithm (HIA) is presented to solve the distributed permutation flow-shop scheduling problem (DPFSP). First, a decoding method is proposed to transfer a job permutation sequence to a feasible schedule considering both factory dispatching and job sequencing. Secondly, a local search with four search operators is presented based on the characteristics of the problem. Thirdly, a special crossover operator is designed for the DPFSP, and mutation and vaccination operators are also applied within the framework of the HIA to perform an immune search. The influence of parameter setting on the HIA is investigated based on the Taguchi method of design of experiment. Extensive numerical testing results based on 420 small-sized instances and 720 large-sized instances are provided. The effectiveness of the HIA is demonstrated by comparison with some existing heuristic algorithms and the variable neighbourhood descent methods. New best known solutions are obtained by the HIA for 17 out of 420 small-sized instances and 585 out of 720 large-sized instances.
+Keywords
+distributed permutation flow-shop scheduling, decoding method, immune algorithm, local search 

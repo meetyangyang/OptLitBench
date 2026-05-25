@@ -1,0 +1,6 @@
+On Second Order Shape Optimization Methods for Electrical Impedance Tomography
+L.  Afraites, M.  Dambrine, and D.  Kateb;
+Abstract
+This paper is devoted to the analysis of a second order method for recovering the a priori unknown shape of an inclusion $\omega$ inside a body $\Omega$ from boundary measurement. This inverse problem—known as electrical impedance tomography—has many important practical applications and hence has been the focus of much attention during the past few years. However, to the best of our knowledge, no work has yet considered a second order approach for this problem. This paper aims to fill that void: We investigate the existence of second order derivative of the state u with respect to perturbations of the shape of the interface $\partial\omega$. Then we choose a cost function in order to recover the geometry of $\partial \omega$ and derive the expression of the derivatives needed to implement the corresponding Newton method. We then investigate the stability of the process and explain why this inverse problem is severely ill-posed by proving the compactness of the Hessian at the global minimizer.
+Keywords
+inverse conductivity problem, shape optimization, second order method, 49Q10, 34A55, 49Q12, 

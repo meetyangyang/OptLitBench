@@ -1,0 +1,6 @@
+On the geometry phase in model-based algorithms for derivative-free optimization
+ Giovanni   Fasano ; José   Luis   Morales ; Jorge   Nocedal ;
+Abstract
+ A numerical study of model-based methods for derivative-free optimization is presented. These methods typically include a geometry phase whose goal is to ensure the adequacy of the interpolation set. The paper studies the performance of an algorithm that dispenses with the geometry phase altogether (and therefore does not attempt to control the position of the interpolation set). Data are presented describing the evolution of the condition number of the interpolation matrix and the accuracy of the gradient estimate. The experiments are performed on smooth unconstrained optimization problems with dimensions ranging between 2 and 15. 
+Keywords
+derivative-free optimization, nonlinear optimization, unconstrained optimization 

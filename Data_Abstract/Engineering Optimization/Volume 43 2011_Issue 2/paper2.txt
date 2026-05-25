@@ -1,0 +1,6 @@
+A combined integer/constraint programming approach to a resource-constrained parallel machine scheduling problem with machine eligibility restrictions
+ Emrah   B.   Edis ; Irem   Ozkarahan ;
+Abstract
+ A resource-constrained identical parallel machine scheduling problem with machine eligibility restrictions is investigated in this study. For the considered problem, three optimization models; an integer programming (IP) model, a constraint programming (CP) model and a combined IP/CP model are developed. A problem-based search procedure to be used in CP and IP/CP combined models is also proposed to give quick and efficient results. All three optimization models are constructed and solved in OPL Studio 3.7™ setting 1000 second run-time limit. Computational results show that the combined IP/CP OPL™ model with the proposed problem-based search procedure not only achieves magnitude reduction in computational time but also gives optimal results in 174 out of 200 test problems, while IP and CP models prove optimality in only 47 and 6 problems, respectively. Finally, computational results are also analysed and discussed in terms of various problem parameters. 
+Keywords
+parallel machine scheduling, integer programming, constraint programming, additional resources, machine eligibility 

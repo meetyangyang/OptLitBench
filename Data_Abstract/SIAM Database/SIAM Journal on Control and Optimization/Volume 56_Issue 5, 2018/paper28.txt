@@ -1,0 +1,6 @@
+A Structural Approach to State-to-Output Decoupling
+Emanuele  Garone, Lorenzo  Ntogramatzidis, and Fabrizio  Padula;
+Abstract
+In this paper, we address a general eigenstructure assignment problem where the objective is to distribute the closed-loop modes over the components of the system outputs in such a way that if a certain mode appears in a given output, it is unobservable from any of the other output components. By combining classical geometric control results with the theory of combinatorics, we provide necessary and sufficient conditions for the solvability of this problem, herein referred to as state-to-output decoupling, under very mild assumptions. We propose solvability conditions expressed in terms of the dimensions of suitably defined controlled invariant subspaces of the system. In this way, the solvability of the problem can be evaluated a priori, in the sense that it is given in terms of the problem/system data. The proposed approach is constructive, so that when a controller that solves the problem indeed exists, it can be computed by using the machinery developed in this paper.
+Keywords
+state-to-output decoupling, geometric control, combinatorics, eigenstructure assignment, 15A15, 15A09, 15A23, 

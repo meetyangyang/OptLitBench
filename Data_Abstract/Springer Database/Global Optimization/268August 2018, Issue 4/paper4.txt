@@ -1,0 +1,6 @@
+A symmetry-based splitting strategy for discretizable distance geometry problems
+Felipe Fidalgo;Douglas S. Gonçalves;Carlile Lavor;Leo Liberti;Antonio Mucherino;
+Abstract
+Discretizable distance geometry problems consist in a subclass of distance geometry problems where the search space can be discretized and reduced to a tree. Such problems can be tackled by applying a branch-and-prune algorithm, which is able to perform an exhaustive enumeration of the solution set. In this work, we exploit the concept of symmetry in the search tree for isolating subtrees that are explored only one time for improving the algorithm performances. The proposed strategy is based on the idea of dividing an original instance of the problem into sub-instances that can thereafter be solved (almost) independently. We present some computational experiments on a set of artificially generated instances, with exact distances, to validate the theoretical results.
+Keywords
+Protein structure determination  Partial reflection  Decomposition  Branch-and-prune  

@@ -1,0 +1,6 @@
+Stationary Filter For Continuous-Time Markovian Jump Linear Systems
+Marcelo D.  Fragoso and Nei C. S.  Rocha;
+Abstract
+We derive a stationary filter for the best linear mean square filter (BLMSF) of continuous-time Markovian jump linear systems (MJLS). It amounts here to obtain the convergence of the error covariance matrix of the BLMSF to a stationary value under the assumption of mean square stability of the MJLS and ergodicity of the associated Markov chain $\theta _{t}$. It is shown that there exists a unique solution for the stationary Riccati filter equation, and this solution is the limit of the error covariance matrix of the BLMSF. The advantage of this scheme is that it is easy to implement since the filter gain can be performed offline, leading to a linear time-invariant filter.
+Keywords
+Kalman filter, Riccati equation, jump systems, Markov parameters, 93E11, 93C05, 93C60, 60J75, 60J27, 

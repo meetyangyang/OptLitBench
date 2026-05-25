@@ -1,0 +1,6 @@
+Regularized symmetric indefinite systems in interior point methods for linear and quadratic optimization
+ Anna   Altman ; Jacek   Gondzio ;
+Abstract
+ This paper presents linear algebra techniques used in the implementation of an interior point method for solving linear programs and convex quadratic programs with linear constraints. New regularization techniques for Newton systems applicable to both symmetric positive definite and symmetric indefinite systems are described. They transform the latter to quasidef-inite systems known to be strongly factorizable to a form of Cholesky-like factorization.Two different regularization techniques,primal; and dual, are very well suited to the (infeasible) primal-dual interior point algorithm. This particular algorithm, with an extension of multiple centrality correctors, is implemented in our solver HOPDM. Computational results are given to illustrate the potential advantages of the approach when applied to the solution of very large linear and convex quadratic programs. 
+Keywords
+Linear programming, convex quadratic programming, symmetric quasidefinite systems, primal-dual regularization, primal-dual interior point method, multiple centrality correctors 

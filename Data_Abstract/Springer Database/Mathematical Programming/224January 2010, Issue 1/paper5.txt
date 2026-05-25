@@ -1,0 +1,6 @@
+Single item lot-sizing with non-decreasing capacities
+Yves Pochet;Laurence A. Wolsey;
+Abstract
+We consider the single item lot-sizing problem with capacities that are non-decreasing over time. When the cost function is (i) non-speculative or Wagner–Whitin (for instance, constant unit production costs and non-negative unit holding costs) and (ii) the production set-up costs are non-increasing over time, it is known that the minimum cost lot-sizing problem is polynomially solvable using dynamic programming. When the capacities are non-decreasing, we derive a compact mixed integer programming reformulation whose linear programming relaxation solves the lot-sizing problem to optimality when the objective function satisfies (i) and (ii). The formulation is based on mixing set relaxations and reduces to the (known) convex hull of solutions when the capacities are constant over time. We illustrate the use and potential effectiveness of this improved LP formulation on a few test instances, including instances with and without Wagner–Whitin costs, and with both non-decreasing and arbitrary capacities over time.
+Keywords
+Lot-Sizing  Mixing set relaxation  Compact reformulation  Production planning  Mixed integer programming  90C11  90C57  

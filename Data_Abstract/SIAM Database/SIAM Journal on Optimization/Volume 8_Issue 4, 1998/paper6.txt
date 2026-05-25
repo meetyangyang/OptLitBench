@@ -1,0 +1,6 @@
+An Interior Random Vector Algorithm for MultiStage Stochastic Linear Programs
+Eithan  Schweitzer;
+Abstract
+In this paper, an interior point algorithm for linear programs is adapted for solving multistage stochastic linear programs. The algorithm is based on Monteiro and Adler's path-following algorithm for deterministic linear programs. In practice, the complexity of the algorithm is linear with respect to the size of the sample space. The algorithm starts from a feasible solution of the problem and proceeds along a path of random vectors. The cubic polynomial complexity of the algorithm for deterministic linear programs is derived from the calculations of the Newton steps. In the algorithm developed in this paper, the probabilistic structure of the problem is taken into consideration while calculating a Newton step and the size of the sample space appears linearly in the complexity. The development of an algorithm that requires a relatively small number of arithmetic operations, in terms of the sample space size, allows the use of the algorithm for multistage stochastic linear programs with a very large number of scenarios.
+Keywords
+stochastic programming, multistage linear programs, interior point methods, 90C15, 90C05, 

@@ -1,0 +1,6 @@
+Inverse problems in spaces of measures
+Kristian Bredies1 and Hanna Katriina Pikkarainen2;
+Abstract
+The ill-posed problem of solving linear equations in the space of vector-valued finite          Radon measures with Hilbert space data is considered. Approximate solutions are obtained          by minimizing the Tikhonov functional with a total variation penalty. The well-posedness          of this regularization method and further regularization properties are mentioned.          Furthermore, a flexible numerical minimization algorithm is proposed which converges          subsequentially in the weak* sense and with rate 𝒪(n-1)           in terms of the functional values. Finally, numerical results for sparse          deconvolution demonstrate the applicability for a finite-dimensional discrete data space          and infinite-dimensional solution space.
+Keywords
+Inverse problems, vector-valued finite Radon measures, Tikhonov regularization, delta-peak solutions, generalized conditional gradient method, iterative soft-thresholding, sparse deconvolutio

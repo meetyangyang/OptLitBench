@@ -1,0 +1,6 @@
+A path-following infeasible-interior-point algorithm for linear complementarity problems
+ Stephen   Wright ;
+Abstract
+ We describe an infeasible-interior-point algorithm for monotone linear complementarity problems that has polynomial complexity, global linear convergence, and local superlinear convergence with a Q-order of 2. Only one matrix factorization is required per iteration, and the analysis assumes only that a strictly complementary solution exists. 
+Keywords
+Interior-point algorithm, superlinear convergence, linear complementarity problems 

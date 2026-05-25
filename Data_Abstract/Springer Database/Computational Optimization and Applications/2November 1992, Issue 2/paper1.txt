@@ -1,0 +1,6 @@
+An implementation of a parallel primal-dual interior point method for block-structured linear programs
+Irvin J. Lustig;Guangye Li;
+Abstract
+An implementation of the primal-dual predictor-corrector interior point method is specialized to solve block-structured linear programs with side constraints. The block structure of the constraint matrix is exploited via parallel computation. The side constraints require the Cholesky factorization of a dense matrix, where a method that exploits parallelism for the dense Cholesky factorization is used. For testing, multicommodity flow problems were used. The resulting implementation is 65%–90% efficient, depending on the problem instance. For a problem with K commodities, an approximate speedup for the interior point method of 0.8K is realized.
+Keywords
+parallel computing  interior point methods  linear programming  multicommodity flow problems  

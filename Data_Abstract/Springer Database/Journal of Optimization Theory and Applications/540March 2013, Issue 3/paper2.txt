@@ -1,0 +1,6 @@
+Alternating Minimization as Sequential Unconstrained Minimization: A Survey
+Charles L. Byrne;
+Abstract
+Sequential unconstrained minimization is a general iterative method for minimizing a function over a given set. At each step of the iteration we minimize the sum of the objective function and an auxiliary function. The aim is to select the auxiliary functions so that, at least, we get convergence in function value to the constrained minimum. The SUMMA is a broad class of these methods for which such convergence holds. Included in the SUMMA class are the barrier-function methods, entropic and other proximal minimization algorithms, the simultaneous multiplicative algebraic reconstruction technique, and, after some reformulation, penalty-function methods. The alternating minimization method of Csiszár and Tusnády also falls within the SUMMA class, whenever their five-point property holds. Therefore, the expectation maximization maximum likelihood algorithm for the Poisson case is also in the SUMMA class.
+Keywords
+Optimization  Sequential unconstrained optimization  Alternating minimization  

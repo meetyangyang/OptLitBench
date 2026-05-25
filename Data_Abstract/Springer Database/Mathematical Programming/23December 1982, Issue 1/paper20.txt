@@ -1,0 +1,6 @@
+Solving staircase linear programs by the simplex method, 1: Inversion
+Robert Fourer;
+Abstract
+This and a companion paper consider how current implementations of the simplex method may be adapted to better solve linear programs that have a staged, or ‘staircase’, structure. The present paper looks at ‘inversion’ routines within the simplex method, particularly those for sparse triangular factorization of a basis by Gaussian elimination and for solution of triangular linear systems. The succeeding paper examines ‘pricing’ routines. Both papers describe extensive (though preliminary) computational experience, and can point to some quite promising results.
+Keywords
+Large-Scale Optimization  Linear Programming  Staircase Linear Programs  Simplex Method  

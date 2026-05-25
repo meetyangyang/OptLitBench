@@ -1,0 +1,6 @@
+An a posteriori error analysis of adaptive finite element methods for distributed elliptic control problems with control constraints
+Michael Hintermüller1, Ronald H.W. Hoppe2,3, Yuri Iliash3 and Michael Kieweg3;
+Abstract
+We present an a posteriori error analysis of adaptive finiteelement approximations of distributed control problems for secondorder elliptic boundary value problems under bound constraints onthe control. The error analysis is based on a residual-type a posteriori error estimator that consists of edge and elementresiduals. Since we do not assume any regularity of the data ofthe problem, the error analysis further invokes data oscillations.We prove reliability and efficiency of the error estimator andprovide a bulk criterion for mesh refinement that also takes intoaccount data oscillations and is realized by a greedy algorithm. Adetailed documentation of numerical results for selected testproblems illustrates the convergence of the adaptive finiteelement method.
+Keywords
+Mathematics Subject Classification: 

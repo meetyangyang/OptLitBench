@@ -1,0 +1,6 @@
+Local minima of the trust region problem
+S. Lyle;M. Szularz;
+Abstract
+We consider the minimization of a quadratic formz′Vz+2z′q subject to the two-norm constraint ‖z‖=α. The problem received considerable attention in the literature, notably due to its applications to a class of trust region methods in nonlinear optimization. While the previous studies were concerned with just the global minimum of the problem, we investigate the existence of all local minima. The problem is approached via the dual Lagrangian, and the necessary and sufficient conditions for the existence of all local minima are derived. We also examine the suitability of the conventional numerical techniques used to solve the problem to a class of single-instruction multiple-data computers known as processor arrays (in our case, AMT DAP 610). Simultaneously, we introduce certain hardware-oriented multisection algorithms, showing their efficiency in the case of small to medium size problems.
+Keywords
+Trust region methods  multisection algorithms  norm constraint  single-instruction multiple-data computers  

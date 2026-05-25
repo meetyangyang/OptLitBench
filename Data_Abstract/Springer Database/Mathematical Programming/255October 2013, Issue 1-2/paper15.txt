@@ -1,0 +1,6 @@
+Risk averse elastic shape optimization with parametrized fine scale geometry
+Benedict Geihe;Martin Lenz;Martin Rumpf;Rüdiger Schultz;
+Abstract
+Shape optimization of the fine scale geometry of elastic objects is investigated under stochastic loading. Thus, the object geometry is described via parametrized geometric details placed on a regular lattice. Here, in a two dimensional set up we focus on ellipsoidal holes as the fine scale geometric details described by the semiaxes and their orientation. Optimization of a deterministic cost functional as well as stochastic loading with risk neutral and risk averse stochastic cost functionals are discussed. Under the assumption of linear elasticity and quadratic objective functions the computational cost scales linearly in the number of basis loads spanning the possibly large set of all realizations of the stochastic loading. The resulting shape optimization algorithm consists of a finite dimensional, constraint optimization scheme where the cost functional and its gradient are evaluated applying a boundary element method on the fine scale geometry. Various numerical results show the spatial variation of the geometric domain structures and the appearance of strongly anisotropic patterns.
+Keywords
+90C15 Stochastic Programming  65N38 Boundary element methods  65K10 Optimization and variational techniques  

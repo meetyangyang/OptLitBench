@@ -1,0 +1,6 @@
+A regularized stochastic decomposition algorithm for two-stage stochastic linear programs
+Diana S. Yakowitz;
+Abstract
+In this paper a regularized stochastic decomposition algorithm with master programs of finite size is described for solving two-stage stochastic linear programming problems with recourse. In a deterministic setting cut dropping schemes in decomposition based algorithms have been used routinely. However, when only estimates of the objective function are available such schemes can only be properly justified if convergence results are not sacrificed. It is shown that almost surely every accumulation point in an identified subsequence of iterates produced by the algorithm, which includes a cut dropping scheme, is an optimal solution. The results are obtained by including a quadratic proximal term in the master program. In addition to the cut dropping scheme, other enhancements to the existing methodology are described. These include (i) a new updating rule for the retained cuts and (ii) an adaptive rule to determine when additional reestimation of the cut associated with the current solution is needed. The algorithm is tested on problems from the literature assuming both descrete and continuous random variables.
+Keywords
+stochastic programming  decomposition  cutting plane methods  

@@ -1,0 +1,6 @@
+Global optimization algorithm for capacitated multi-facility continuous location-allocation problems
+Cristiana L. Lara;Francisco Trespalacios;Ignacio E. Grossmann;
+Abstract
+In this paper we propose a nonlinear Generalized Disjunctive Programming model to optimize the 2-dimensional continuous location and allocation of the potential facilities based on their maximum capacity and the given coordinates of the suppliers and customers. The model belongs to the class of Capacitated Multi-facility Weber Problem. We propose a bilevel decomposition algorithm that iteratively solves a discretized MILP version of the model, and its nonconvex NLP for a fixed selection of discrete variables. Based on the bounding properties of the subproblems, \(\epsilon \)-convergence is proved for this algorithm. We apply the proposed method to random instances varying from 2 suppliers and 2 customers to 40 suppliers and 40 customers, from one type of facility to 3 different types, and from 2 to 32 potential facilities. The results show that the algorithm is more effective at finding global optimal solutions than general purpose global optimization solvers tested.
+Keywords
+Location-allocation problem  Weber problem  Nonconvex optimization  Generalized disjunctive programming  Mixed-integer nonlinear programming  

@@ -1,0 +1,6 @@
+An improved adaptive trust-region algorithm
+Ahmad Kamandi;Keyvan Amini;Masoud Ahookhosh;
+Abstract
+This paper gives a variant trust-region method, where its radius is automatically adjusted by using the model information gathered at the current and preceding iterations. The primary aim is to decrease the number of function evaluations and solving subproblems, which increases the efficiency of the trust-region method. The next aim is to update the new radius for large-scale problems without imposing too much computational cost to the scheme. Global convergence to first-order stationary points is proved under classical assumptions. Preliminary numerical experiments on a set of test problems from the CUTEst collection show that the presented method is promising for solving unconstrained optimization problems.
+Keywords
+Unconstrained optimization  Trust-region method  Adaptive radius technique  Global convergence  

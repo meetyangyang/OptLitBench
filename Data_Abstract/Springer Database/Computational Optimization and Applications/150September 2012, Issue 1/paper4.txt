@@ -1,0 +1,6 @@
+Relaxed cutting plane method with convexification for solving nonlinear semi-infinite programming problems
+Ting-Jang Shiu;Soon-Yi Wu;
+Abstract
+In this paper, we present an algorithm to solve nonlinear semi-infinite programming (NSIP) problems. To deal with the nonlinear constraint, Floudas and Stein (SIAM J. Optim. 18:1187–1208, 2007) suggest an adaptive convexification relaxation to approximate the nonlinear constraint function. The αBB method, used widely in global optimization, is applied to construct the convexification relaxation. We then combine the idea of the cutting plane method with the convexification relaxation to propose a new algorithm to solve NSIP problems. With some given tolerances, our algorithm terminates in a finite number of iterations and obtains an approximate stationary point of the NSIP problems. In addition, some NSIP application examples are implemented by the method proposed in this paper, such as the proportional-integral-derivative controller design problem and the nonlinear finite impulse response filter design problem. Based on our numerical experience, we demonstrate that our algorithm enhances the computational speed for solving NSIP problems.
+Keywords
+Nonlinear semi-infinite programming  Convexification approximation  Cutting plane method  Control design problem  

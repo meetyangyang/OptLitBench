@@ -1,0 +1,6 @@
+Novel approach to accelerating Newton's method for sup-norm optimization arising inH∞-control
+J. W. Helton;O. Merino;
+Abstract
+We present algorithms for solving general sup-norm minimization problems over spaces of analytic functions, such as those arising inH∞ control. We also give an analysis and some theory of these algorithms. Part of this is specific to analytic optimization, while part holds for general sup-norm optimization. In particular, we are proposing a type of Newton-type algorithm which actually uses very high-order terms. The novel feature is that higher-order terms can be chosen in many ways while still maintaining a second-order convergence rate. Then, a clever choice of higher-order terms greatly reduces computation time. Conceivably this technique can be modified to accelerate Newton algorithms in some other circumstances. Estimates of order of convergence as well as results of numerical tests are also presented.
+Keywords
+Analytic disks  optimization  H∞-control  higher-order Newton methods  

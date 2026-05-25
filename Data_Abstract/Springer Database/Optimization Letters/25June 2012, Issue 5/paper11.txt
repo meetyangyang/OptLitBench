@@ -1,0 +1,6 @@
+Conjugate gradient methods using value of objective function for unconstrained optimization
+Hideaki Iiduka;Yasushi Narushima;
+Abstract
+Conjugate gradient methods have been widely used as schemes to solve large-scale unconstrained optimization problems. The search directions for the conventional methods are defined by using the gradient of the objective function. This paper proposes two nonlinear conjugate gradient methods which take into account mostly information about the objective function. We prove that they converge globally and numerically compare them with conventional methods. The results show that with slight modification to the direction, one of our methods performs as well as the best conventional method employing the Hestenes–Stiefel formula.
+Keywords
+Unconstrained optimization problem  Conjugate gradient method  Wolfe conditions  Global convergence  

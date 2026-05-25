@@ -1,0 +1,6 @@
+Simulation response optimization via an alternating variable methodsimulation response optimization
+ Shih-Pin   Chen ;
+Abstract
+ Simulation response optimization has wide applications for management of systems that are so complicated that the performance can only be evaluated by using simulation. This paper modifies the Hooke-Jeeves alternating variable method used in deterministic optimization to suit the stochastic environment in simulation response optimization. The basic idea underlying the proposed method is to conduct several different replications at each trial point to obtain a reliable estimate of the theoretical response. To avoid misjudging the real difference between two points due to the stochastic nature, a t-test instead of a simple comparison of the mean responses is performed. Empirical results from a stochastic Watson function with nine variables, a queueing problem with two variables, and an inventory problem with two variables indicate that the alternating variable method modified in this paper is superior to the Nelder-Mead simplex method, two stochastic approximation methods, and Fu and Healy's hybrid method. It is also robust with respect to the parameter for deciding the number of replications conducted at each trial point. 
+Keywords
+Nonlinear programming, Simulation, Stochastic optimization 

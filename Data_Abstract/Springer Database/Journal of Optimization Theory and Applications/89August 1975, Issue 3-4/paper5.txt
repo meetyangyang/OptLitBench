@@ -1,0 +1,6 @@
+Solution of nonlinear two-point boundary-value problems using spline functions
+H. R. Sirisena;K. S. Tan;
+Abstract
+This paper describes a technique for computing spline function approximations to the solution of two-point boundary-value problems. A performance index that measures the meansquare error in the differential system is employed, and this yields a mathematical programming problem in the parameters characterizing the spline function. The gradients of the performance index and constraint functions with respect to these parameters are evaluated, and a numerical solution is then obtained using standard gradient projection algorithms. Computational results confirm the feasibility of this approach and show that good approximations are obtained with spline functions having relatively few knots. It appears that this new technique is very competitive with existing algorithms, especially for problems where the differential system is nonlinear but the boundary restraints are linear.
+Keywords
+Two-point boundary-value problems  approximation methods  spline functions  mathematical programming  gradient projection methods  

@@ -1,0 +1,6 @@
+About an Optimal Visiting Problem
+Fabio Bagagiolo;Michela Benetton;
+Abstract
+In this paper we are concerned with the optimal control problem consisting in minimizing the time for reaching (visiting) a fixed number of target sets, in particular more than one target. Such a problem is of course reminiscent of the famous “Traveling Salesman Problem” and brings all its computational difficulties. Our aim is to apply the dynamic programming technique in order to characterize the value function of the problem as the unique viscosity solution of a suitable Hamilton–Jacobi equation. We introduce some “external” variables, one per target, which keep in memory whether the corresponding target is already visited or not, and we transform the visiting problem in a suitable Mayer problem. This fact allows us to overcome the lacking of the Dynamic Programming Principle for the originary problem. The external variables evolve with a hysteresis law and the Hamilton–Jacobi equation turns out to be discontinuous
+Keywords
+Visiting problem  Minimum time  Hysteresis  Dynamic programming  Discontinuous Hamilton–Jacobi equations  Viscosity solutions  Traveling salesman problem  

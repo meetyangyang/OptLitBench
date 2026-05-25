@@ -1,0 +1,6 @@
+A Complexity Analysis for Interior-Point Algorithms Based on Karmarkar’s Potential Function
+Jun  Ji and Ye  Yinyu;
+Abstract
+A new complexity analysis for constant potential reduction algorithms for linear programming is considered. Using Karmarkar’s primal-based potential function, it is shown that for a class of linear programs the number of iterations required is at most $O( mt + n\log ( n ) )$, where m is the number of equations and n is the number of variables in the standard linear programming form, and t can be interpreted as the number of significant figures required in the final solution. It is also shown that this result holds in expectation for some randomly generated problems. At the same time, it is shown that Karmarkar’s algorithm requires at least $\Omega ( n )$ iterations to solve Anstreicher’s linear program, if the initial solution is poor but valid.
+Keywords
+linear programming, interior-point algorithm, potential function, 90C05, 

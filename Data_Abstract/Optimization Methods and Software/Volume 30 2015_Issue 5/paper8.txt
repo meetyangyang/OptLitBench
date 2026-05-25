@@ -1,0 +1,6 @@
+Improving Direct Search algorithms by multilevel optimization techniques
+Emanuele Frandi;Alessandra Papini;
+Abstract
+Direct Search algorithms are classical derivative-free methods for optimization. Though endowed with solid theoretical properties, they are not well suited for large-scale problems due to slow convergence and scaling issues. In this paper, we discuss how, on problems for which a hierarchy of objective functions is available, such limitations can be circumvented by using multilevel schemes which are able to accelerate the computation of a finest level solution. Starting from a previously introduced derivative-free multilevel method, based on Coordinate Search optimization with a sampling strategy of Gauss–Seidel type, we consider also the use of sampling strategies of Jacobi type, and present several algorithmic variations. We justify our choices by performing experiments on two model problems, showing that a performance close to multigrid optimality can be observed in practice.
+Keywords
+derivative-free optimization, Direct Search methods, coordinate search, multileveloptimization, multigrid methodsAMS Subject Classifications: 90C30, 90C56, 65N55 

@@ -1,0 +1,6 @@
+AESOP—a numerical platform for aerodynamic shape optimization
+Olivier Amoignon;
+Abstract
+Aerodynamic shape optimization based on Computational Fluid Dynamics can automatically improve the design of aircraft components. In order to obtain the best computational efficiency, the adjoint method is applied on the complete mapping, from the parameters of design to the evaluation of the cost function or constraints. The mapping considered here includes the parameterization, the mesh deformation, the primal-to-dual mesh transformation and the flow equations solved by the unstructured flow solver Edge distributed by FOI. The numerical platform AESOP integrates the flow and adjoint flow solver, mesh deformation schemes, algorithms of shape parameterization and algorithms for gradient-based optimization. The result is a portable and efficient implementation for large scale aerodynamic shape optimization and future applications in multidisciplinary shape optimization. The structure of the program is outlined and examples of applications are presented. The method of shape parameterization using Radial Basis Functions is discussed in more details because it is expected to play a major role in the development of multidisciplinary optimization.
+Keywords
+Adjoint sensitivity analysis  Finite volumes  Median dual grid  Radial basis functions  

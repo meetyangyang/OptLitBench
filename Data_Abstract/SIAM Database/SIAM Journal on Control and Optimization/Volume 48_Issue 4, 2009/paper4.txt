@@ -1,0 +1,6 @@
+Separated Continuous Conic Programming: Strong Duality and an Approximation Algorithm
+Xiaoqing  Wang, Shuzhong  Zhang, and David D.  Yao;
+Abstract
+Motivated by recent applications in robust optimization and in sign-constrained linear-quadratic control, we study in this paper a new class of optimization problems called separated continuous conic programming (SCCP). Focusing on a symmetric primal-dual pair, we develop a strong duality theory for the SCCP. Our idea is to use discretization to connect the SCCP and its dual to two ordinary conic programs. We show if the latter are strongly feasible and with finite optimal values, a condition that is readily verifiable, then the strong duality holds for the SCCP. This approach also leads to a polynomial-time approximation algorithm that solves the SCCP to any required accuracy.
+Keywords
+continuous optimization, conic programming, duality, approximation algorithm, 90C25, 49M25, 

@@ -1,0 +1,6 @@
+Robust airfoil optimization to achieve drag reduction over a range of Mach numbers
+W. Li;L. Huyse;S. Padula;
+Abstract
+An airfoil shape optimization method that reduces drag over a range of free stream Mach numbers is sought. We show that one acceptable choice is a weighted multipoint optimization method using more design points than there are free-design variables. Alternate methods that use far fewer design points are explored. A new method called profile optimization is developed and analyzed. This method has three main advantages: (a) it prevents severe degradation at the off-design points by using a smart descent direction, (b) there is no random airfoil shape distortion for any iterate it generates, and (c) it is not sensitive to the number of design points. For illustration purposes, we use the profile optimization method to solve a lift-constrained drag minimization problem for 2-D airfoil in Euler flow with 20 free-design variables. A comparison with other airfoil optimization methods is also included.
+Keywords
+Key words: robust optimization, airfoil shape optimization, consistent drag reduction, lift-constrained drag minimization, adaptive weight adjustment  

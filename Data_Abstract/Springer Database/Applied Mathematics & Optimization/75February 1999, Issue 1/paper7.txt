@@ -1,0 +1,6 @@
+Some Randomized Algorithms for Convex Quadratic Programming
+R. Goldbach;
+Abstract
+ We adapt some randomized algorithms of Clarkson [3] for linear programming to the framework of so-called LP-type problems, which was introduced by Sharir and Welzl [10]. This framework is quite general and allows a unified and elegant presentation and analysis. We also show that LP-type problems include minimization of a convex quadratic function subject to convex quadratic constraints as a special case, for which the algorithms can be implemented efficiently, if only linear constraints are present. We show that the expected running times depend only linearly on the number of constraints, and illustrate this by some numerical results. Even though the framework of LP-type problems may appear rather abstract at first, application of the methods considered in this paper to a given problem of that type is easy and efficient. Moreover, our proofs are in fact rather simple, since many technical details of more explicit problem representations are handled in a uniform manner by our approach. In particular, we do not assume boundedness of the feasible set as required in related methods.
+Keywords
+Key words. Randomized algorithms, Convex programming, Quadratic programming, Linear programming. AMS Classification. Primary 90C20, Secondary 90C05, 90C25.  

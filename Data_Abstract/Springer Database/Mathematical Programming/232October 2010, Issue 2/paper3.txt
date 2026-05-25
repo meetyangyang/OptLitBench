@@ -1,0 +1,6 @@
+Risk-averse dynamic programming for Markov decision processes
+Andrzej Ruszczyński;
+Abstract
+We introduce the concept of a Markov risk measure and we use it to formulate risk-averse control problems for two Markov decision models: a finite horizon model and a discounted infinite horizon model. For both models we derive risk-averse dynamic programming equations and a value iteration method. For the infinite horizon problem we develop a risk-averse policy iteration method and we prove its convergence. We also propose a version of the Newton method to solve a nonsmooth equation arising in the policy iteration method and we prove its global convergence. Finally, we discuss relations to min–max Markov decision models.
+Keywords
+Dynamic risk measures  Markov risk measures  Value iteration  Policy iteration  Nonsmooth Newton’s method  Min-max Markov models  Primary 49L20  90C40  91B30  Secondary 91A25  93E20  

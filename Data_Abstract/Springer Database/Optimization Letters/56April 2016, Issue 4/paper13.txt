@@ -1,0 +1,6 @@
+Trust region subproblem with an additional linear inequality constraint
+M. Salahi;S. Fallahi;
+Abstract
+This paper studies an extended trust region subproblem (eTRS) in which the trust region intersects the unit ball with a single linear inequality constraint. We present an efficient algorithm to solve the problem using a diagonalization scheme that requires solving a simple convex minimization problem. Attainment of the global optimality conditions is discussed. Our preliminary numerical experiments on several randomly generated test problems show that, the new approach is much faster in finding the global optimal solution than the known semidefinite relaxation approach, especially when solving large scale problems.
+Keywords
+Extended trust region subproblem  Global optimization  Diagonalization  Semidefinite optimization relaxation  

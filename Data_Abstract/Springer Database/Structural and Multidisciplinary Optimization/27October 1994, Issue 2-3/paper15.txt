@@ -1,0 +1,6 @@
+Mesh optimization: How to obtain good unstructured 3D finite element meshes with not-so-good mesh generators
+E. A. Dari;G. C. Buscaglia;
+Abstract
+We propose a new idea, based upon an optimization procedure, for improving three-dimensional finite element meshes. Our method can effectively be coupled with any automatic mesh generator in order to obtain a triangulation without badly distorted elements. In this way, we are able to weaken the requirements on the generator, allowing it to produce singular elements, and post-process the result to obtain a valid mesh. We report some experiments showing how this combination makes the meshing of arbitrary domains much more reliable, as compared to the usual approach of precluding distorted elements during the initial generation stage.
+Keywords
+Civil Engineer  Optimization Procedure  Mesh Generator  Usual Approach  Generation Stage  

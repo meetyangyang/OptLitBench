@@ -1,0 +1,6 @@
+Optimal Scaling of a Gradient Method for Distributed Resource Allocation
+L. Xiao;S. Boyd;
+Abstract
+We consider a class of weighted gradient methods for distributed resource allocation over a network. Each node of the network is associated with a local variable and a convex cost function; the sum of the variables (resources) across the network is fixed. Starting with a feasible allocation, each node updates its local variable in proportion to the differences between the marginal costs of itself and its neighbors. We focus on how to choose the proportional weights on the edges (scaling factors for the gradient method) to make this distributed algorithm converge and on how to make the convergence as fast as possible.
+Keywords
+Distributed optimization  resource allocations  weighted gradient methods  convergence rates  semidefinite programming  

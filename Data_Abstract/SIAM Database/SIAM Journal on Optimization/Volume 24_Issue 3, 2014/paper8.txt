@@ -1,0 +1,6 @@
+On Wolfe's Method for Resolving Degeneracy in Linearly Constrained Optimization
+Roger  Fletcher;
+Abstract
+Wolfe [J. Soc. Indust. Appl. Math., 11 (1963), pp. 205--211] describes a novel and very useful method for resolving degeneracy in the Simplex method for Linear Programming (LP). The simplicity and reliability of the method makes it an excellent choice in this author's opinion. The method is described here in the context of an active set method (ASM) format for LP. The method solves recursively generated subproblems that are smaller than the original, which contributes to efficiency. Data structures are described that enable the recursive aspect of the method to be implemented very easily with minimal storage overhead. The method is extended to solve a general form of linearly constrained optimization problem that includes quadratic programming (QP) and allows simple bounds on the variables and both equation and inequality general linear constraints. Issues of round-off error are discussed and heuristics are described that have proved to be very reliable in practice. The method is further extended to QP problems in which general linear constraints are handled as $L_1$ terms in the objective function.
+Keywords
+degeneracy, Wolfe's method, linear programming, quadratic programming, linearly constrained optimization, L1QP, 90-08, 90C05, 90C20, 90C26, 

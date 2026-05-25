@@ -1,0 +1,6 @@
+Minimum-jerk online planning by a mathematical programming approach
+Federico Canali;Corrado Guarino Lo Bianco;Marco Locatelli;
+Abstract
+Engineering applications are often handled by means of algorithms for constrained optimization. Currently, more frequently than in the past, the need for fast solvers that admit convergence times compatible with those of online applications is strongly felt. Such a need poses new additional implementation requirements, since the convergence of the mathematical programming algorithms is no longer sufficient to allow their use, but, conversely, such convergence must be achieved in very limited times. This article proposes an efficient approach for a constrained minimum-jerk online planning problem. In particular, the robotic application considered requires accounting for time, distance, velocity and acceleration constraints. The proposed approach returns good quality solutions by admitting execution times that meet the online requirements. Comparisons with a previously adopted strategy are proposed.
+Keywords
+velocity planning, online application, minimum-jerk, two-level reformulation 

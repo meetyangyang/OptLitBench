@@ -1,0 +1,6 @@
+Optimization of shell buckling incorporating Karhunen-Loève-based geometrical imperfections
+K. J. Craig;Nielen Stander;
+Abstract
+The optimization of shell buckling is performed considering peak normal force and absorbed internal energy in the presence of geometrical imperfections implemented through Karhunen-Loève expansions. Initially, the mass of a shell is minimized in the presence of random initial imperfections by allowing cutouts in the material, subject to constraints on the average peak force and average internal energy. Then, robustness is considered by minimizing the coefficient of variation of the normal peak force while constraining the average peak force and average internal energy. LS-OPT® is used both to generate an experimental design and to perform a Monte Carlo simulation (96 runs) using LS-DYNA® at each of the experimental design points. The effect of imperfections when minimizing the mass is not large, but when considering robustness, however, the optimal design has a substantially increased hole size and increased shell thickness, resulting in a heavier design with maximal robustness within the constraints.
+Keywords
+Karhunen-Loève expansions  Geometrical imperfections  Buckling optimization  

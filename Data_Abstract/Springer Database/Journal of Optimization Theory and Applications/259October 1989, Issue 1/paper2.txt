@@ -1,0 +1,6 @@
+Efficient dynamic programming implementations of Newton's method for unconstrained optimal control problems
+J. C. Dunn;D. P. Bertsekas;
+Abstract
+Naive implementations of Newton's method for unconstrainedN-stage discrete-time optimal control problems with Bolza objective functions tend to increase in cost likeN3 asN increases. However, if the inherent recursive structure of the Bolza problem is properly exploited, the cost of computing a Newton step will increase only linearly withN. The efficient Newton implementation scheme proposed here is similar to Mayne's DDP (differential dynamic programming) method but produces the Newton step exactly, even when the dynamical equations are nonlinear. The proposed scheme is also related to a Riccati treatment of the linear, two-point boundary-value problems that characterize optimal solutions. For discrete-time problems, the dynamic programming approach and the Riccati substitution differ in an interesting way; however, these differences essentially vanish in the continuous-time limit.
+Keywords
+Unconstrained optimal control  Newton's method  dynamic programming  

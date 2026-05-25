@@ -1,0 +1,6 @@
+A new hybrid heuristic for replica placement and request distribution in content distribution networks
+Tiago Neves;Luiz Satoru Ochi;Célio Albuquerque;
+Abstract
+In Content Distribution Networks (CDN), in order to better serve clients, it is necessary to replicate contents at surrogate servers and distribute requests using such servers. The decisions of where to place replicated contents and how to distribute clients can be modeled as an optimization problem known as Replica Placement and Request Distribution Problem (RPRDP). In this paper we use a model that regards several realistic details that are not treated simultaneously in the literature, such as: constraints in server disk space and bandwidth, QoS requirements of requests and changes in the network conditions. Also, a new hybrid method, that uses exact and heuristic concepts simultaneously, is presented to solve the RPRDP. We compared the results obtained by the proposed algorithm with: a bound obtained by an exact offline approach, a solution of a real CDN provider and other hybrid heuristics. Results show that the proposed method outperforms the solution used in real CDNs and also in all other studied methods.
+Keywords
+Replica placement  Request distribution   Content distribution network  Hybrid heuristic  

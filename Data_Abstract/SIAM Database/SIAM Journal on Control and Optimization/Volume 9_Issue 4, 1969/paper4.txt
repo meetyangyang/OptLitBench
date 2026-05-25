@@ -1,0 +1,5 @@
+A Parametric Method for Semidefinite Quadratic Programs
+M. D.  Grigoriadis and K.  Ritter;
+Abstract
+A parametric method for solving semidefinite quadratic programs with a large number of constraints is described. All computations are performed by pivotal operations on a tableau, or more efficiently on an inverse which is considerably smaller than that used by other methods. This inverse is updated by elementary row and column operations. Programming of the algorithm is facilitated by its efficient use of the product form of the inverse mechanism in most commercially available linear programming systems. An existing solution to a slightly perturbed problem, if available, may be used as a starting solution for a new problem, with a possible substantial reduction of the required computational effort. Finally, an obvious but rather important advantage of the method is its direct use in postoptimality studies involving the requirements vector and/or the linear part of the objective function.
+Keywords

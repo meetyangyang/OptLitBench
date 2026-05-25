@@ -1,0 +1,6 @@
+A comparison of feasible direction methods for the stochastic transportation problem
+Maria Daneva;Torbjörn Larsson;Michael Patriksson;Clas Rydergren;
+Abstract
+The feasible direction method of Frank and Wolfe has been claimed to be efficient for solving the stochastic transportation problem. While this is true for very moderate accuracy requirements, substantially more efficient algorithms are otherwise diagonalized Newton and conjugate Frank–Wolfe algorithms, which we describe and evaluate. Like the Frank–Wolfe algorithm, these two algorithms take advantage of the structure of the stochastic transportation problem. We also introduce a Frank–Wolfe type algorithm with multi-dimensional search; this search procedure exploits the Cartesian product structure of the problem. Numerical results for two classic test problem sets are given. The three new methods that are considered are shown to be superior to the Frank–Wolfe method, and also to an earlier suggested heuristic acceleration of the Frank–Wolfe method.
+Keywords
+Stochastic transportation problem  Frank–Wolfe method  Descent methods  Cartesian product sets  

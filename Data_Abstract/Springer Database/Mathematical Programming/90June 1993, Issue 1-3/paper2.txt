@@ -1,0 +1,6 @@
+Polyhedral study of the capacitated vehicle routing problem
+Gerard Cornuejols;Farid Harche;
+Abstract
+The capacitated vehicle routing problem (CVRP) considered in this paper occurs when goods must be delivered from a central depot to clients with known demands, usingk vehicles of fixed capacity. Each client must be assigned to exactly one of the vehicles. The set of clients assigned to each vehicle must satisfy the capacity constraint. The goal is to minimize the total distance traveled. When the capacity of the vehicles is large enough, this problem reduces to the famous traveling salesman problem (TSP). A variant of the problem in which each client is visited by at least one vehicle, called the graphical vehicle routing problem (GVRP), is also considered in this paper and used as a relaxation of CVRP. Our approach for CVRP and GVRP is to extend the polyhedral results known for TSP. For example, the subtour elimination constraints can be generalized to facets of both CVRP and GVRP. Interesting classes of facets arise as a generalization of the comb inequalities, depending on whether the depot is in a handle, a tooth, both or neither. We report on the optimal solution of two problem instances by a cutting plane algorithm that only uses inequalities from the above classes.
+Keywords
+Vehicle routing  polyhedron  facet  branch and cut  

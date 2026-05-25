@@ -1,0 +1,6 @@
+Weighted Sensitivity Minimization for Causal, Linear, Discrete Time--Varying Systems
+Michel  Verhaegen;
+Abstract
+The weighted sensitivity minimization problem for discrete time--varying systems is treated in a state space framework. Given a controllable and causal (stable) state space realization of the plant to be controlled, the first step in the solution is the computation of an outer-inner factorization of the plant. The key algorithmic step here is the solution of a Lyapunov type of equation running backward in time. Based on the part of the realization of the inner (isometric) factor related to its output state space we then formulate and solve a Nevanlinna--Pick interpolation problem. This second step is also characterized by a Lyapunov equation. It is shown that the solution to the sensitivity minimization problem exists when the solution to this Lyapunov equation is positive definite for all time instances. Finally, we pay special attention to the minimal disturbance attenuation level when the latter is assumed to be equal to a constant scalar for all time instances as well as to a square root implementation of the recursive equations.
+Keywords
+discrete time--varying systems, Nevanlinna--Pick interpolation, outer-inner factorization, Lyapunov equations, 93B36, 93C50, 93C55, 93D15, 

@@ -1,0 +1,6 @@
+A parallel nodal-based evolutionary structural optimization algorithm
+Y.-M. Chen;A. Bhaskar;A. Keane;
+Abstract
+This paper is concerned with the minimum weight design of structures using Finite Element Analysis (FEA). A new evolutionary structural optimization (ESO) algorithm is presented. This method departs from previous studies of ESO in that it exploits the movements of the nodes in an unstructured finite element mesh in an appropriate way. An attractive feature of the scheme presented is that it carries out topology optimization in the interior of the domain concurrently with shape optimization of the exterior of the domain. Circular cavities are inserted into the interior of the domain from which the internal topology is then revealed by migration of the cavity edge nodes. Due to the complexity of the resulting cavity geometry the FE mesh tends to be refined internally. A scheme for maintaining a roughly uniform density unstructured finite element mesh throughout the optimization in a two-dimensional domain is presented. The designs produced posses smooth internal and external boundaries. The method uses iterative finite element analysis and re-meshing to correct for any element distortion. The benchmark “Michell Arch" problem is used to demonstrate the approach.
+Keywords
+Key words: evolutionary, node, optimization, topology, shape  

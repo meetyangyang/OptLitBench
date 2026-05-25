@@ -1,0 +1,6 @@
+Solving \(\ell _0\)-penalized problems with simple constraints via the Frank–Wolfe reduced dimension method
+Giampaolo Liuzzi;Francesco Rinaldi;
+Abstract
+ \(\ell _0\)-penalized problems arise in a number of applications in engineering, machine learning and statistics, and, in the last decades, the design of algorithms for these problems has attracted the interest of many researchers. In this paper, we are concerned with the definition of a first-order method for the solution of \(\ell _0\)-penalized problems with simple constraints. We use a reduced dimension Frank–Wolfe algorithm Rinaldi (Optim Methods Softw, 26, 2011) and show that the subproblem related to the computation of the Frank–Wolfe direction can be solved analytically at least for some sets of simple constraints. This gives us a very easy to implement and quite general tool for dealing with \(\ell _0\)-penalized problems. The proposed method is then applied to the numerical solution of two practical optimization problems, namely, the Sparse Principal Component Analysis and the Sparse Reconstruction of Noisy Signals. In both cases, the reported numerical performances and comparisons with state-of-the-art solvers show the efficiency of the proposed method.
+Keywords
+Sparse problems  Frank–Wolfe method  SPCA  Noisy signals  

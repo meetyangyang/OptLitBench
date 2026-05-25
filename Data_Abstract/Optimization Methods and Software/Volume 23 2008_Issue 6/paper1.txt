@@ -1,0 +1,6 @@
+Implementation of a robust SQP algorithm
+ Brian   C.   Fabien ;
+Abstract
+ This paper presents an implementation of a sequential quadratic programming (SQP) algorithm for the solution of nonlinear programming (NLP) problems. In the proposed algorithm, a solution to the NLP problem is found by minimizing the L 1 exact penalty function. The search direction for the penalty function minimization is determined by solving a strictly convex quadratic programming (QP) problem. Here, we make the basic SQP algorithm more robust (i) by solving a relaxed, strictly convex, QP problem in cases where the constraints are inconsistent, (ii) by performing a non-monotone line search to improve efficiency, and (iii) by using second-order corrections to avoid the Maratos effect. The robustness of the algorithm is demonstrated via a C language implementation that is applied to numerous parameter optimization and optimal control problems that have appeared in the literature. The results obtained show that both non-monotone line searches and second-order corrections can significantly reduce the amount of work required to solve parameter optimization problems. 
+Keywords
+nonlinear programming problem, sequential quadratic programming, computer code AMS Subject Classifications : 90C30, 90C55, 90-04 

@@ -1,0 +1,6 @@
+Scaling: A general framework
+   M.   Akgül ;
+Abstract
+ Scaling is a general technique used in transforming the complexity of a linear program from pseudopolynomiality to fully polynomiality. This is done by applying a pseu-dopolynomial algorithm to a polynomial number of smaller subproblems of the original problem. Here, our aim is to give an exposition of the basic ideas underlying the scaling method. We review Edmonds-Karp [14] solution for the transportation and max flow-min cost problem. In this context- we also review the recent application of the scaling in Maurras-Truemper-Akgül [25] for the polynomial algorithm for totally unimodular problems. We also show that the blossom algorithm for optimum b-matching problem, which is a pseudopolynornial algorithm, can be turned into a fully polynomial algorithm by scaling. The primal algorithm of Balinski-Gomory [3] for transportation problem also turns into a polynomial algorithm by scaling. We discuss ideas to transform the Primal Algorithm for perfect matching of Cunningham-Marsh [5] to a polynomial algorithm for perfect b-matching. Dual Scaling method of Röck [31] is also discussed. 
+Keywords
+Linear programming, polynomial algorithms, scaling methodAMS 1980 Subject Classifiactions: Primary: 90 C 05, Secondary: 90 C 08, 90 C 35 

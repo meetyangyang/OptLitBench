@@ -1,0 +1,6 @@
+A Trust Region Interior Point Algorithm for Linearly Constrained Optimization
+J. Frédéric  Bonnans and Cecilia  Pola;
+Abstract
+We present an extension, for nonlinear optimization under linear constraints, of an algorithm for quadratic programming using a trust region idea introduced by Ye and Tse [Math. Programming, 44 (1989), pp. 157--179] and extended by Bonnans and Bouhtou [RAIRO Rech. Opér., 29 (1995), pp. 195--217]. Due to the nonlinearity of the cost, we use a linesearch in order to reduce the step if necessary. We prove that, under suitable hypotheses, the algorithm converges to a point satisfying the first-order optimality system, and we analyze under which conditions the unit stepsize will be asymptotically accepted.
+Keywords
+trust region, quadratic model, linesearch, interior points, 90C30, 65K05, 49M40, 

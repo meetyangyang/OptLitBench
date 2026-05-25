@@ -1,0 +1,6 @@
+On Interior-Point Warmstarts for Linear and Combinatorial Optimization
+Alexander  Engau, Miguel F.  Anjos, and Anthony  Vannelli;
+Abstract
+Despite the many advantages of interior-point algorithms over active-set methods for linear optimization, one of the remaining practical challenges is their current limitation to efficiently solve series of related problems by an effective warmstarting strategy. As a remedy, in this paper we present a new infeasible-interior-point approach to quickly reoptimize an initial problem instance after data perturbations, or a new linear programming relaxation after adding cutting planes for discrete or combinatorial problems. Based on the detailed complexity analysis of the underlying algorithm, we perform a comparative analysis to coldstart initialization schemes and present encouraging computational results with iteration savings of around 50% on average for perturbations of the Netlib linear programs (LPs) and successive linear programming relaxations of max-cut and the traveling salesman problem.
+Keywords
+interior-point methods, warmstarting, linear programming, Netlib test problems, combinatorial optimization, cutting planes, maximum cut, traveling salesman problem, 90C51, 90C27, 90C05, 65K05, 

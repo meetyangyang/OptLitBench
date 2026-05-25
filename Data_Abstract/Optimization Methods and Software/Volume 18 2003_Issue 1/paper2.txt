@@ -1,0 +1,6 @@
+Using Indicators in Finite Termination Procedures
+ Pamela J.   Williams ; Amr S.   El-bakry ; Richard A.   Tapia ;
+Abstract
+ Early identification of the zero variables in a constrained optimization problem can be used to computational advantage. Is there a similar gain in identification of variables at their upper bounds? In this context, we study finite termination procedures in interior-point methods for linear programs with bounded variables. To prevent the computed solution from violating the bound constraints, one approach incorporates nearest bound information into a projection model through an affine scaling transformation. Using Tapia indicators, we identify variables in the active set, remove them from the subproblem, and solve a lower dimensional projection problem. Numerical evidence suggests that identifying and removing the variables at their upper bounds from the optimal face identification problem plays a more important role in finite termination procedures than the choice of affine scaling transformation. 
+Keywords
+Active set, Affine-scaling transformation, Finite termination, Indicators, Infeasible primal–dual interior-point algorithms, Optimal face 

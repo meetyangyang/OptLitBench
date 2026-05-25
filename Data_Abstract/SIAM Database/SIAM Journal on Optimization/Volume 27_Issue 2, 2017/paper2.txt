@@ -1,0 +1,6 @@
+The Alternating Descent Conditional Gradient Method for Sparse Inverse Problems
+Nicholas  Boyd, Geoffrey  Schiebinger, and Benjamin  Recht;
+Abstract
+We propose a variant of the classical conditional gradient method  for sparse inverse problems with differentiable observation models. Such models arise in many practical problems including superresolution microscopy, time-series modeling, and matrix completion. Our algorithm combines nonconvex and convex optimization techniques: we propose global conditional gradient steps alternating with nonconvex local search exploiting the differentiable observation model. This hybridization gives  the theoretical global optimality guarantees and stopping conditions of convex optimization along with the performance and modeling flexibility associated with nonconvex optimization. Our experiments demonstrate that our technique achieves state-of-the-art results in several applications.
+Keywords
+conditional gradient method, compressed sensing, measures, sparsity, inverse problems, convex optimization, semi-infinite programming, 90C25, 90C30, 90C34, 90C49, 90C52, 90C90, 49M37, 65K05, 

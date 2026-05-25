@@ -1,0 +1,6 @@
+A self-concordant exponential kernel function for primal–dual interior-point algorithm
+Yan-Qin Bai;Jing Zhang;Peng-Fei Ma;Lian-Sheng Zhang;
+Abstract
+Self-concordant (SC) function is essential to analyzing primal–dual interior-point methods with polynomial-time complexity bound. In this paper, we introduce an exponential kernel function and prove that it is an SC function. Furthermore, we investigate its properties and find it is neither an eligible kernel function nor an SC barrier function. Nevertheless, based on this SC exponential kernel function, we present primal–dual interior-point algorithm for solving linear optimization problems. We analyse the algorithm and derive the complexity bound for large-update methods, which coincides with that of the algorithm based on the logarithmic function. Finally, the comparative numerical results are reported.
+Keywords
+linear optimization problem, interior-point methods, self-concordant functionAMS Subject Classifications: 90C05, 90C51 

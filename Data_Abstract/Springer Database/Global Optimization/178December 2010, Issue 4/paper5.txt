@@ -1,0 +1,6 @@
+Piece adding technique for convex maximization problems
+Dominique Fortin;Ider Tseveendorj;
+Abstract
+In this article we provide an algorithm, where to escape from a local maximum y of convex function f over D, we (locally) solve piecewise convex maximization max{min{f (x) − f (y), p  y (x)} | x ∈ D} with an additional convex function p  y (·). The last problem can be seen as a strictly convex improvement of the standard cutting plane technique for convex maximization. We report some computational results, that show the algorithm efficiency.
+Keywords
+Global search algorithm  Local search algorithm  Nonconvex optimization  Convex maximization  Piecewise convex maximization  90C26  90C47  49M05  49M30  

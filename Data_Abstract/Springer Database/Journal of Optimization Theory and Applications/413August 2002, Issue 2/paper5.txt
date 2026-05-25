@@ -1,0 +1,6 @@
+Estimation of Circle Parameters by Centroiding
+Y.T. Chan;Y.Z. Elhalwagy;S.M. Thomas;
+Abstract
+In computer vision and computer aided manufacturing, it is often necessary to fit a circular arc through a number of noisy points. Determining the arc center and radius from a set of points is inherently a nonlinear problem and all estimators will exhibit the so-called threshold phenomenon. A combination of a short arc, small number of points, and large noise magnitude will create a threshold region (THR) whereby the estimation errors are several times larger than those above the THR. The transition into the THR is sudden. It is also difficult to determine the THR for an estimator. This paper presents an estimation scheme for the circle parameters by first computing different centers from all combinations of N data points, taken three at a time. A weighted average of those centers gives the final estimate. The procedure is simple, noniterative and simulation results show that it has a smaller THR than an estimator which is near-optimal when not operating inside the THR.
+Keywords
+circle fitting  nonlinear estimation  threshold phenomenon  

@@ -1,0 +1,6 @@
+Branch and bound algorithm for multidimensional scaling with city-block metric
+Antanas Žilinskas;Julius Žilinskas;
+Abstract
+A two level global optimization algorithm for multidimensional scaling (MDS) with city-block metric is proposed. The piecewise quadratic structure of the objective function is employed. At the upper level a combinatorial global optimization problem is solved by means of branch and bound method, where an objective function is defined as the minimum of a quadratic programming problem. The later is solved at the lower level by a standard quadratic programming algorithm. The proposed algorithm has been applied for auxiliary and practical problems whose global optimization counterpart was of dimensionality up to 24.
+Keywords
+Multidimensional scaling  City-block metric  Branch and bound  

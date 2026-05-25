@@ -1,0 +1,6 @@
+A unified approach to infeasible-interior-point algorithms via geometrical linear complementarity problems
+Shinji Mizuno;F. Jarre;J. Stoer;
+Abstract
+There are many interior-point algorithms for LP (linear programming), QP (quadratic programming), and LCPs (linear complementarity problems). While the algebraic definitions of these problems are different from each other, we show that they are all of the same general form when we define the problems geometrically. We derive some basic properties related to such geometrical (monotone) LCPs and based on these properties, we propose and analyze a simple infeasible-interior-point algorithm for solving geometrical LCPs. The algorithm can solve any instance of the above classes without making any assumptions on the problem. It features global convergence, polynomial-time convergence if there is a solution that is “smaller” than the initial point, and quadratic convergence if there is a strictly complementary solution.
+Keywords
+Linear programming  Quadratic programming  Linear complementarity problem  Infeasible-interior-point algorithm  Polynomial time  90C33  65F05  

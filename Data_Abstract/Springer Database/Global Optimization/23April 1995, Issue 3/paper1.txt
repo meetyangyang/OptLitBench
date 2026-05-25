@@ -1,0 +1,6 @@
+A relaxation method for nonconvex quadratically constrained quadratic programs
+Faiz A. Al-Khayyal;Christian Larsen;Timothy Van Voorhis;
+Abstract
+We present an algorithm for finding approximate global solutions to quadratically constrained quadratic programming problems. The method is based on outer approximation (linearization) and branch and bound with linear programming subproblems. When the feasible set is non-convex, the infinite process can be terminated with an approximate (possibly infeasible) optimal solution. We provide error bounds that can be used to ensure stopping within a prespecified feasibility tolerance. A numerical example illustrates the procedure. Computational experiments with an implementation of the procedure are reported on bilinearly constrained test problems with up to sixteen decision variables and eight constraints.
+Keywords
+Quadratic constraints  quadratic programming  relaxation linearization technique  branch and bound  global optimization  

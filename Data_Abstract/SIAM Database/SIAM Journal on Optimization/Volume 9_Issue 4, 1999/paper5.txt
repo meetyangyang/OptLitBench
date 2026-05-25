@@ -1,0 +1,6 @@
+An Interior Point Algorithm for Large-Scale Nonlinear Programming
+Richard H.  Byrd, Mary E.  Hribar, and Jorge  Nocedal;
+Abstract
+The design and implementation of a new algorithm for solving large nonlinear programming problems is described. It follows a barrier approach that employs sequential quadratic programming and trust regions to solve the subproblems occurring in the iteration. Both primal and primal-dual versions of the algorithm are developed, and their performance is illustrated in a set of numerical tests.
+Keywords
+constrained optimization, interior point method, large-scale optimization, nonlinear programming, primal method, primal-dual method, sequential quadratic programming, barrier method, trust region method, 65K10, 49N, 49M, 

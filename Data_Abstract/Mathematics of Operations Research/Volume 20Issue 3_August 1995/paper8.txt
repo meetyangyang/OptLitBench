@@ -1,0 +1,6 @@
+An Infinitely Summable Series Implementation of Interior Point Methods
+Romesh Saigal;
+Abstract
+We consider an alternative implementation of the interior point methods. In the popular implementations, a variant of sparse Cholesky factorization is integrated with a conjugate gradient type iterative method. In contrast, we set up the problem as an infinitely summable series of vectors. This series is then, iteratively, summed. At each iteration, a procedure based on “least squares” is used to obtain an estimate of the “tail” of the series. In addition, using Chebychev approximations, we show how to accelerate the convergence of this procedure. In this alternative approach, besides finding Cholesky factors of some simpler matrices, only multiplications by some matrix are involved. This may be an advantage since in the later part of these methods, the linear system to be solved has a tendency to become ill conditioned. We present some evidence (for the case of the dual affine scaling method applied to the assignment problem) which supports this conclusion.
+Keywords
+linear programming interior point methods iterative methods infinitely summable series Chebychev approximations 

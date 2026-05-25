@@ -1,0 +1,6 @@
+Limiting Discounted-Cost Control of Partially Observable Stochastic Systems
+Onésimo  Hernández-Lerma and Rosario  Romera;
+Abstract
+This paper presents two main results on partially observable (PO) stochastic systems. In the first one, we consider a general PO system $$ x_{t+1}= F (x_t, a_t, \xi_t), \ \ \, y_t= G(x_t, \eta_t) \ \ \ (t=0,1,\ldots) \hspace{1in} \ \ \ \ (*) $$ on Borel spaces, with possibly unbounded cost-per-stage functions, and we give conditions for the existence of $\alpha$-discount optimal control policies $(0 < \alpha < 1).$ In the second result we specialize (*) to additive-noise systems  $$ x_{t+1}= F_n(x_t,a_t) + \xi_t, \ \ \, y_t= G_n(x_t) + \eta_t \ \ \ (t=0,1,\ldots) $$ in Euclidean spaces with Fn(x,a) and Gn (x) converging pointwise to ${\mbox{functions}}$ $F_{\infty}(x,a)$ and $G_{\infty}(x),$ respectively, and we give conditions for the limiting PO model  $$ x_{t+1}= F_{\infty}(x_t, a_t) + \xi_t, \ \ \,\, y_t=G_{\infty}(x_t) + \eta_t $$ to have an $\alpha$-discount optimal policy.
+Keywords
+partially observable control systems, partially observable Markov control processes, hidden Markov models, discounted cost criterion, 93E20, 90C40, 

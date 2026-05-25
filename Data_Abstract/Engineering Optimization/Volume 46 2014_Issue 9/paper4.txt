@@ -1,0 +1,6 @@
+A framework for parallelized efficient global optimization with application to vehicle crashworthiness optimization
+Karim Hamza;Mohamed Shalaby;
+Abstract
+This article presents a framework for simulation-based design optimization of computationally expensive problems, where economizing the generation of sample designs is highly desirable. One popular approach for such problems is efficient global optimization (EGO), where an initial set of design samples is used to construct a kriging model, which is then used to generate new ‘infill’ sample designs at regions of the search space where there is high expectancy of improvement. This article attempts to address one of the limitations of EGO, where generation of infill samples can become a difficult optimization problem in its own right, as well as allow the generation of multiple samples at a time in order to take advantage of parallel computing in the evaluation of the new samples. The proposed approach is tested on analytical functions, and then applied to the vehicle crashworthiness design of a full Geo Metro model undergoing frontal crash conditions.
+Keywords
+design optimization, efficient global optimization, vehicle crashworthiness 

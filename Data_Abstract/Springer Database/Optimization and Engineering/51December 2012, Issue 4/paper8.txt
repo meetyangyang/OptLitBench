@@ -1,0 +1,6 @@
+Wireless multicasting under probabilistic node failures: a heuristic approach
+János Barta;Roberto Montemanni;
+Abstract
+The minimum power multicast (MPM) problem is a well-known optimization problem in wireless networks. The aim of the MPM problem is to assign transmission powers to the nodes of a wireless sensor network in such a way that multi-hop communication between a source node and a set of destination nodes is guaranteed, while the total transmission power expenditure over the network is minimized. Several extensions to the basic problem have been proposed, in order to obtain more realistic mathematical models. In this paper we deal with the probabilistic minimum power multicast (PMPM) problem, where node failure probabilities are considered and a global reliability level of the transmission is required. Since the so far available exact approach can handle only small-sized instances of the PMPM problem, in this paper we focus on the study of a heuristic approach. A heuristic algorithm for the PMPM problem is presented, together with a fast method for the reliability calculation based on previously unexplored combinatorial properties of the model. Computational experiments are finally discussed.
+Keywords
+Minimum power multicasting  Probabilistic mathematical models  Multihop networks  Reliability calculation  

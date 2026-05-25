@@ -1,0 +1,4 @@
+A Tabu Search Method for Interval Constraints
+Charlotte Truchet;Marc Christie;Jean-Marie Normand;
+Abstract
+This article presents an extension of the Tabu Search (TS) metaheuristic to continuous CSPs, where the domains are represented by floating point-bounded intervals. This leads to redefine the usual TS operators to take into account the special features of interval constraints: real variables encoded in floating points domains, high cardinality of the domains, nature of the CSP where constraints may be partially satisfied. To illustrate the expressiveness of the framework, we instantiate this method to compute an inner-approximation of a set of inequalities.

@@ -1,0 +1,6 @@
+Application of Interior-Point Methods to Model Predictive Control
+C. V. Rao;S. J. Wright;J. B. Rawlings;
+Abstract
+We present a structured interior-point method for the efficient solution of the optimal control problem in model predictive control. The cost of this approach is linear in the horizon length, compared with cubic growth for a naive approach. We use a discrete-time Riccati recursion to solve the linear equations efficiently at each iteration of the interior-point method, and show that this recursion is numerically stable. We demonstrate the effectiveness of the approach by applying it to three process control problems.
+Keywords
+Model predictive control  interior-point methods  Riccati equation  

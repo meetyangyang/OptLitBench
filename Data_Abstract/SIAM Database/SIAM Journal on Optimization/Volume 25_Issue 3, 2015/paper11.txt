@@ -1,0 +1,6 @@
+On the Global Linear Convergence of the ADMM  with MultiBlock Variables
+Tianyi  Lin, Shiqian  Ma, and Shuzhong  Zhang;
+Abstract
+The alternating direction method of multipliers (ADMM) has been widely used for solving structured convex optimization problems. In particular, the ADMM can solve convex programs that minimize the sum of $N$ convex functions whose variables are linked by some linear constraints. While the convergence of the ADMM for $N=2$ was well established in the literature, it remained an open problem for a long time whether the ADMM for $N \ge 3$ is still convergent. Recently, it was shown in [Chen et al., Math. Program. (2014), DOI 10.1007/s10107-014-0826-5.] that without additional conditions the ADMM for $N\ge 3$ generally fails to converge. In this paper, we show that under some easily verifiable and reasonable  conditions the global linear convergence of the ADMM when $N\geq 3$ can still be ensured, which is important since the ADMM is a popular method for solving large-scale multiblock optimization models and is known to perform very well in practice even when $N\ge 3$. Our study aims to offer an explanation for this phenomenon.
+Keywords
+alternating direction method of multipliers, global linear convergence, convex optimization, 90C25, 90C30, 

@@ -1,0 +1,6 @@
+Relative Optimality Conditions and Algorithms for Treespace Fréchet Means
+Sean  Skwerer, Scott  Provan, and J. S.  Marron;
+Abstract
+Recent interest in treespaces as well-founded mathematical domains for phylogenetic inference and statistical analysis for populations of anatomical trees has motivated research into efficient and rigorous methods for optimization problems on treespaces. A central problem in this area is computing an average of phylogenetic trees, which is equivalently characterized as the minimizer of the Fréchet function. The Fréchet mean can be used for statistical inference and exploratory data analysis; for example, it can be leveraged as a test statistic to compare groups via permutation tests, or to find trends in data over time via kernel smoothing. By analyzing the differential properties of the Fréchet function along geodesics in treespace we obtained a theorem describing a decomposition of the derivative along a geodesic. This decomposition theorem is used to formulate optimality conditions which are used as a logical basis for an algorithm to verify relative optimality at points where the Fréchet function gradient does not exist.
+Keywords
+optimization, nonlinear, combinatorics, phylogenetics, cubical complexes, trees, 90C48, 90C90, 

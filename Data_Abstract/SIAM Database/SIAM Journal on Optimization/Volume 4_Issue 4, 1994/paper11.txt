@@ -1,0 +1,6 @@
+Serial and Parallel Computation of Karush–Kuhn–Tucker Points via Nonsmooth Equations
+Jong-Shi  Pang;
+Abstract
+In this paper, a robust, iterative algorithm is presented for computing Karush–Kuhn–Tucker (KKT) points of nonlinear programs. This algorithm is a variation of the NE/SQP method for solving the nonlinear complementarily problem; it makes use of a merit function that combines the original objective function of the nonlinear program with a residual function of the KKT conditions formulated as a system of nonsmooth equations. Global convergence and a Q-quadratic rate of convergence of the algorithm are established under some standard constraint qualifications in nonlinear programming theory, but without the strict complementarily condition. Parallel implementations of the algorithm are discussed.
+Keywords
+nonlinear programs, nonlinear complementarily, nonlinear equations, penalty functions, parallel algorithms, 90C30, 90C33, 

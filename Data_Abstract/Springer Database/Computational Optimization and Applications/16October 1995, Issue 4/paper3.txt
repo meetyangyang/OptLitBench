@@ -1,0 +1,6 @@
+The singly constrained assignment problem: An AP basis algorithm
+Jeffery L. Kennington;Farin Mohammadi;
+Abstract
+This manuscript presents a specialized primal simplex algorithm to obtain near optimal integer solutions for the singly constrained assignment problem. An optimal solution for the continuous relaxation of the problem is obtained by generalizing the alternating basis algorithm of Barr, Glover, and Klingman for the pure assignment problem. Near optimal integer solutions are obtained by pivoting into the optimal basis the slack variable associated with the side constraint. Our empirical analysis indicated that for our test problems the soft-ware implementation of this algorithm was six times faster than CPLEX and four times faster than NETSIDE (a specialized code for network problems with side constraints). The integer solutions obtained in our tests were typically within 2% of the optimum of the continuous relaxation.
+Keywords
+mathematical programming  assignment  networks  

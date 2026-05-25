@@ -1,0 +1,6 @@
+An Improved and Simplified Full-Newton Step $O(n)$ Infeasible Interior-Point Method for Linear Optimization
+C.  Roos;
+Abstract
+We present an improved version of an infeasible interior-point method for linear optimization published in 2006. In the earlier version each iteration consisted of one so-called feasibility step and a few---at most three---centering steps. In this paper each iteration consists of only a feasibility step, whereas the iteration bound improves the earlier bound by a factor $2\sqrt{2}$. The improvements are due to a new lemma that gives a much tighter upper bound for the proximity after the feasibility step.
+Keywords
+linear optimization, interior-point method, infeasible method, primal-dual method, polynomial complexity, 90C05, 90C51, 

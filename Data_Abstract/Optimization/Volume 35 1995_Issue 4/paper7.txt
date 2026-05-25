@@ -1,0 +1,6 @@
+Balanced location on a graph
+   M.   Gavalec ;   O.   Hudec ;
+Abstract
+ The problem of locating service facilities with respect to a given set of demands on a graph is considered. The objective function to be minimized is equal to the maximum difference in the distance from a demand point to its farthest and nearest facility (balancing function). It is assumed that any facility has at most m of possibilities for its location.  For m = 2, the computational complexity of the problem is O(np 2log p), where n is the number of demand points and p is the number of located facilities. For m > 2, the problem is NP -hard. Similar results are presented for boolean and strongly boolean versions of the problem.  
+Keywords
+Location on a Graph, Polynomial Algorithm,  NP-Completeness 

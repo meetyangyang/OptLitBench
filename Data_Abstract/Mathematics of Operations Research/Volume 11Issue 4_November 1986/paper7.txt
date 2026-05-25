@@ -1,0 +1,6 @@
+A Gauss-Newton Approach to Solving Generalized Inequalities
+Jim Burke;S.-P. Han;
+Abstract
+Generalized inequalities are systems of the form g(x) ≤K 0, where g maps between normed linear spaces and “≤K” denotes the partial order induced by the closed convex cone K (e.g., K = R+m1 × {0}Rm2). In this paper a Gauss-Newton type algorithm is presented for minimizing the distance function $$\rho(x) := \mbox{dist}(g(x), - K) := \inf\{\Vert g(x) + k\Vert{:}\ k\in K\}.$$ The technique globalizes the well-known Newton methods for solving generalized inequalities, and overcomes the difficulties associated with subgradient methods for the global minimization of ρ.
+Keywords
+generalized inequalities Gauss-Newton Clarke subgradient 

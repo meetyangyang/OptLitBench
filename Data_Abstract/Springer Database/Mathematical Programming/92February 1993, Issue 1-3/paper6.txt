@@ -1,0 +1,6 @@
+Multicommodity network flows: The impact of formulation on decomposition
+Kim L. Jones;Irvin J. Lustig;Judith M. Farvolden;Warren B. Powell;
+Abstract
+This paper investigates the impact of problem formulation on Dantzig—Wolfe decomposition for the multicommodity network flow problem. These problems are formulated in three ways: origin-destination specific, destination specific, and product specific. The path-based origin-destination specific formulation is equivalent to the tree-based destination specific formulation by a simple transformation. Supersupply and superdemand nodes are appended to the tree-based product specific formulation to create an equivalent path-based product specific formulation. We show that solving the path-based problem formulations by decomposition results in substantially fewer master problem iterations and lower CPU times than by using decomposition on the equivalent tree-based formulations. Computational results on a series of multicommodity network flow problems are presented.
+Keywords
+Mathematical Method  Computational Result  Specific Formulation  Problem Formulation  Flow Problem  

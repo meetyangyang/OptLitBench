@@ -1,0 +1,6 @@
+Semidefinite programming relaxation methods for global optimization problems with sparse polynomials and unbounded semialgebraic feasible sets
+V. Jeyakumar;S. Kim;G. M. Lee;G. Li;
+Abstract
+We propose a hierarchy of semidefinite programming (SDP) relaxations for polynomial optimization with sparse patterns over unbounded feasible sets. The convergence of the proposed SDP hierarchy is established for a class of polynomial optimization problems. This is done by employing known sums-of-squares sparsity techniques of Kojima and Muramatsu Comput Optim Appl 42(1):31–41, (2009) and Lasserre SIAM J Optim 17:822–843, (2006) together with a representation theorem for polynomials over unbounded sets obtained recently in Jeyakumar et al. J Optim Theory Appl 163(3):707–718, (2014). We demonstrate that the proposed sparse SDP hierarchy can solve some classes of large scale polynomial optimization problems with unbounded feasible sets using the polynomial optimization solver SparsePOP developed by Waki et al. ACM Trans Math Softw 35:15 (2008).
+Keywords
+Global continuous optimization  Sparse polynomial optimization  Structured sparsity  Sums of squares polynomials  Semidefinite programming relaxations  

@@ -1,0 +1,6 @@
+The Computational Complexity of Duality
+Shmuel  Friedland and Lek-Heng  Lim;
+Abstract
+We show that for any given norm ball or proper cone, weak membership in its dual ball or dual cone  is polynomial-time reducible to  weak membership in the given ball or cone. A consequence is that the weak membership or membership problem for a ball or cone is NP-hard if and only if the corresponding problem for the dual ball or cone is NP-hard. In a similar vein, we show that computation of the dual norm of a given norm is polynomial-time reducible to computation of the given norm. This extends to convex functions satisfying a polynomial growth condition: for such a given function, computation of its Fenchel dual/conjugate is polynomial-time reducible to computation of the given function. Hence the computation of a norm or a convex function of polynomial-growth is NP-hard if and only if the computation of its dual norm or Fenchel dual is NP-hard. We discuss implications of these results on the weak membership problem for a symmetric convex body and its polar dual, the polynomial approximability of Mahler volume, and the weak membership problem for the epigraph of a convex function with polynomial growth and that of its Fenchel dual.
+Keywords
+dual norm, dual cone, Fenchel dual, NP-hard, weak membership, approximation, 15B48, 52A41, 65F35, 90C46, 90C60, 

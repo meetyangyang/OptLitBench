@@ -1,0 +1,6 @@
+Dynamic Programming and Value-Function Approximation in Sequential Decision Problems: Error Analysis and Numerical Results
+Mauro Gaggero;Giorgio Gnecco;Marcello Sanguineti;
+Abstract
+Value-function approximation is investigated for the solution via Dynamic Programming (DP) of continuous-state sequential N-stage decision problems, in which the reward to be maximized has an additive structure over a finite number of stages. Conditions that guarantee smoothness properties of the value function at each stage are derived. These properties are exploited to approximate such functions by means of certain nonlinear approximation schemes, which include splines of suitable order and Gaussian radial-basis networks with variable centers and widths. The accuracies of suboptimal solutions obtained by combining DP with these approximation tools are estimated. The results provide insights into the successful performances appeared in the literature about the use of value-function approximators in DP. The theoretical analysis is applied to a problem of optimal consumption, with simulation results illustrating the use of the proposed solution methodology. Numerical comparisons with classical linear approximators are presented.
+Keywords
+Sequential decision problems  Dynamic programming  Approximation schemes  Curse of dimensionality  Suboptimal solutions  Optimal consumption  

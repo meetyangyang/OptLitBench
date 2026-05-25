@@ -1,0 +1,6 @@
+A vector linear programming approach for certain global optimization problems
+Daniel Ciripoi;Andreas Löhne;Benjamin Weißing;
+Abstract
+Global optimization problems with a quasi-concave objective function and linear constraints are studied. We point out that various other classes of global optimization problems can be expressed in this way. We present two algorithms, which can be seen as slight modifications of Benson-type algorithms for multiple objective linear programs (MOLP). The modification of the MOLP algorithms results in a more efficient treatment of the studied optimization problems. This paper generalizes results of Schulz and Mittal (Math Program 141(1–2):103–120, 2013) on quasi-concave problems and Shao and Ehrgott (Optimization 65(2):415–431, 2016) on multiplicative linear programs. Furthermore, it improves results of Löhne and Wagner (J Glob Optim 69(2):369–385, 2017) on minimizing the difference \(f=g-h\) of two convex functions g, h where either g or h is polyhedral. Numerical examples are given and the results are compared with the global optimization software BARON.
+Keywords
+Global optimization  DC programming  Multiobjective linear programming  Linear vector optimization  90C26  90C29  52B55  

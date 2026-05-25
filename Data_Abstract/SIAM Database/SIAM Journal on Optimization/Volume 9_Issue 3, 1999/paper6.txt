@@ -1,0 +1,6 @@
+Proximal Decomposition Via Alternating Linearization
+Krzysztof C.  Kiwiel, Charles H.  Rosa, and Andrzej  Ruszczynski;
+Abstract
+A new approximate proximal point method for minimizing the sum of two convex functions is introduced. It replaces the original problem by a sequence of regularized subproblems in which the functions are alternately represented by linear models. The method updates the linear models and the prox center, as well as the prox coefficient. It is monotone in terms of the objective values and converges to a solution of the problem, if any. A dual version of the method is derived and analyzed. Applications of the methods to multistage stochastic programming problems are discussed and preliminary numerical experience is presented.
+Keywords
+convex programming, large scale optimization, decomposition, proximal point methods, augmented Lagrangians, stochastic programming, 65K05, 90C25, 90C06, 90C15, 

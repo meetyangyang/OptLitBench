@@ -1,0 +1,6 @@
+A polynomial time primal network simplex algorithm for minimum cost flows
+James B. Orlin;
+Abstract
+Developing a polynomial time primal network simplex algorithm for the minimum cost flow problem has been a long standing open problem. In this paper, we develop one such algorithm that runs in O(min(n 2m lognC, n 2m2 logn)) time, wheren is the number of nodes in the network,m is the number of arcs, andC denotes the maximum absolute arc costs if arc costs are integer and ∞ otherwise. We first introduce a pseudopolynomial variant of the network simplex algorithm called the “premultiplier algorithm”. We then develop a cost-scaling version of the premultiplier algorithm that solves the minimum cost flow problem in O(min(nm lognC, nm 2 logn)) pivots. With certain simple data structures, the average time per pivot can be shown to be O(n). We also show that the diameter of the network polytope is O(nm logn).
+Keywords
+Minimum cost flows  Network simplex  Polynomial time  Simplex algorithm  Premultipliers  

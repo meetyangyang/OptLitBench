@@ -1,0 +1,6 @@
+A two-stage stochastic mixed-integer programming approach to the index tracking problem
+Stephen J. Stoyan;Roy H. Kwon;
+Abstract
+We consider the problem of tracking a target portfolio or index under uncertainty. Due to an embedded NP-hard subproblem, many of the current index tracking models only consider a small number of important portfolio elements such as transaction costs, number of securities to hold, rebalancing, etc. We formulate a tracking portfolio model that includes a comprehensive set of real-world portfolio elements, one of which involves uncertainty. An index tracking model is defined in a Stochastic Mixed-Integer Programming (SMIP) framework. Due to the size and complexity of the stochastic problem, the SMIP model is decomposed into subproblems and an iterative algorithm is developed that exploits the decomposition. A two-stage SMIP is solved and the results are compared with actual index values. We also provide single-scenario dynamic comparisons to illustrate the performance and strengths of the method.
+Keywords
+Index tracking  Stochastic programming  Scenario generation  

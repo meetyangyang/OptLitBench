@@ -1,0 +1,8 @@
+Algorithm for cardinality-constrained quadratic optimization
+Dimitris Bertsimas;Romy Shioda;
+Abstract
+
+This paper describes an algorithm for cardinality-constrained quadratic optimization problems, which are convex quadratic programming problems with a limit on the number of non-zeros in the optimal solution. In particular, we consider problems of subset selection in regression and portfolio selection in asset management and propose branch-and-bound based algorithms that take advantage of the special structure of these problems. We compare our tailored methods against CPLEX’s quadratic mixed-integer solver and conclude that the proposed algorithms have practical advantages for the special class of problems we consider.
+
+Keywords
+Mixed-integer quadratic programming  Branch-and-bound  Lemke’s method  Subset selection  Portfolio selection  

@@ -1,0 +1,6 @@
+Parallel sensitivity analysis for efficient large-scale dynamic optimization
+Arndt Hartwich;Klaus Stockmann;Christian Terboven;Stefan Feuerriegel;Wolfgang Marquardt;
+Abstract
+An efficient parallel algorithm for the computation of parametric sensitivities for differential-algebraic equations (DAEs) with a focus on dynamic optimization problems is presented. A speedup of about 4 can be obtained for process models of more than 13500 DAEs and 75 parameters employing 8 processor cores in parallel using a Windows based system. The algorithm obtains its efficiency by decoupling the sensitivity equations from the state equations of the DAE. Furthermore, the costly Jacobian matrices are computed separately by other processes. The computational effort for a combined state and sensitivity integration can almost be reduced to the computational effort of the pure state integration, which is the theoretical limit of the suggested approach.
+Keywords
+Dynamic optimization  Parallel programming  Single-shooting  Sequential approach  Sensitivity analysis  Optimal control  Windows  

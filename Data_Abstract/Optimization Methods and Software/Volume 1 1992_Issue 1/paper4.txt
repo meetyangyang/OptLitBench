@@ -1,0 +1,6 @@
+Achieving logarithmic growth of temporal and spatial complexity in reverse automatic differentiation
+ Andreas   Griewank ;
+Abstract
+ In its basic form the reverse mode of automatic differentiation yields gradient vectors at a small multiple of the computational work needed to evaluate the underlying scalar function. The practical applicability of this temporal complexity result, due originally to Linnainmaa, seemed to be severely limited by the fact that the memory requirement of the basic implementation is proportional to the run timeT, of the original evaluation program. It is shown here that, by a recursive scheme related to the multilevel differentiation approach of Volin and Ostrovskii, the growth in both temporal and spatial complexity can be limited to a fixed multiple of log(T). Other compromises between the run time and memory requirement are possible, so that the reverse mode becomes applicable to computational problems of virtually any size. 
+Keywords
+Gradient, Adjoint, Complexity, Checkpointing, Recursion 

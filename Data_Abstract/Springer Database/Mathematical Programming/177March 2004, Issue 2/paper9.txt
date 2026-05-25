@@ -1,0 +1,7 @@
+Adjustable robust solutions of uncertain linear programs 
+A. Ben-Tal;A. Goryashko;E. Guslitzer;A. Nemirovski;
+Abstract
+We consider linear programs with uncertain parameters, lying in some prescribed uncertainty set, where part of the variables must be determined before the realization of the uncertain parameters (‘‘non-adjustable variables’’), while the other part are variables that can be chosen after the realization (‘‘adjustable variables’’). We extend the Robust Optimization methodology ([1, 3-6, 9, 13, 14]) to this situation by introducing the Adjustable Robust Counterpart (ARC) associated with an LP of the above structure. Often the ARC is significantly less conservative than the usual Robust Counterpart (RC), however, in most cases the ARC is computationally intractable (NP-hard). This difficulty is addressed by restricting the adjustable variables to be affine functions of the uncertain data. The ensuing Affinely Adjustable Robust Counterpart (AARC) problem is then shown to be, in certain important cases, equivalent to a tractable optimization problem (typically an LP or a Semidefinite problem), and in other cases, having a tight approximation which is tractable. The AARC approach is illustrated by applying it to a multi-stage inventory management problem.
+
+Keywords
+Uncertain linear programs  robust optimization  conic optimization  semidefinite programming  NP-hard continuous optimization problems  adjustable robust counterpart  affinely-adjustable robust counterpart  

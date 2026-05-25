@@ -1,0 +1,6 @@
+An    iteration primal–dual path-following method, based on wide neighbourhood and large update, for second-order cone programming
+ Zeng   Zhe   Feng ; Liang   Fang ; Guoping   He ;
+Abstract
+ In this article we propose a new primal-dual path-following interior point algorithm for second-order cone programming. Each iterate always follows the usual wide neighborhood , it does not necessarily stay within it, but must stay within the wider neighbourhood 𝒩(τ, β). We show that the algorithm has  iteration complexity bound which is better than that of usual wide neighbourhood algorithm O(n log ϵ−1), where n is the dimension of the problem,  with ϵ the required precision, α ∈ [0, 1] the given constant number and (x 0, s 0) the initial interior solution. It is the best result in regard to the iteration complexity bound in the context of path-following method for second-order cone programming. 
+Keywords
+second-order cone programming, path-following interior-point method, wide neighbourhood, iteration complexity boundAMS Subject Classifications:: 65K05, 90C22, 90C51 

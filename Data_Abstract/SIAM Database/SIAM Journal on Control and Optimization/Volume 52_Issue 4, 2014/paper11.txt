@@ -1,0 +1,6 @@
+Control of Interface Evolution in Multiphase Fluid Flows
+L'ubomír  Baňas, Markus  Klein, and Andreas  Prohl;
+Abstract
+We consider an optimal control problem for the interface in a two-dimensional multiphase fluid problem. The minimization functional consists of two parts: the $L^2$-distance to a given density profile and the interfacial length. We show existence and derive necessary first order optimality conditions for a corresponding phase-field approximation of the perimeter functional. An unconditionally stable fully discrete scheme which is based on low order finite elements is proposed, and convergence of corresponding iterates to solutions of the limiting optimality conditions for vanishing discretization parameters is shown. Computational studies are included to validate the model including the phase-field approximation, interface motion, and topological changes, as well as to study relative effects due to discretization, regularization errors, and the relation of both parts of the functional.
+Keywords
+optimality condition, incompressible Navier--Stokes equation, Lagrange multiplier, finite element, phase-field model, 35K55, 49Q10, 65M60, 76D55, 76M10, 76T05, 93C20, 93C95, 

@@ -1,0 +1,6 @@
+A new sampling scheme for developing metamodels with the zeros of Chebyshev polynomials
+Jinglai Wu;Zhen Luo;Nong Zhang;Yunqing Zhang;
+Abstract
+The accuracy of metamodelling is determined by both the sampling and approximation. This article proposes a new sampling method based on the zeros of Chebyshev polynomials to capture the sampling information effectively. First, the zeros of one-dimensional Chebyshev polynomials are applied to construct Chebyshev tensor product (CTP) sampling, and the CTP is then used to construct high-order multi-dimensional metamodels using the ‘hypercube’ polynomials. Secondly, the CTP sampling is further enhanced to develop Chebyshev collocation method (CCM) sampling, to construct the ‘simplex’ polynomials. The samples of CCM are randomly and directly chosen from the CTP samples. Two widely studied sampling methods, namely the Smolyak sparse grid and Hammersley, are used to demonstrate the effectiveness of the proposed sampling method. Several numerical examples are utilized to validate the approximation accuracy of the proposed metamodel under different dimensions.
+Keywords
+metamodels, high-order polynomials, sampling method, Chebyshev polynomials 

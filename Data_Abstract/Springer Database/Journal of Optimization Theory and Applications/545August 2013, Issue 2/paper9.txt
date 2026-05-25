@@ -1,0 +1,6 @@
+A Primal–Dual Splitting Method for Convex Optimization Involving Lipschitzian, Proximable and Linear Composite Terms
+Laurent Condat;
+Abstract
+We propose a new first-order splitting algorithm for solving jointly the primal and dual formulations of large-scale convex minimization problems involving the sum of a smooth function with Lipschitzian gradient, a nonsmooth proximable function, and linear composite functions. This is a full splitting approach, in the sense that the gradient and the linear operators involved are applied explicitly without any inversion, while the nonsmooth functions are processed individually via their proximity operators. This work brings together and notably extends several classical splitting schemes, like the forward–backward and Douglas–Rachford methods, as well as the recent primal–dual method of Chambolle and Pock designed for problems with linear composite terms.
+Keywords
+Convex and nonsmooth optimization  Operator splitting  Primal–dual algorithm  Forward–backward method  Douglas–Rachford method  Monotone inclusion  Proximal method  Fenchel–Rockafellar duality  

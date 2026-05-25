@@ -1,0 +1,6 @@
+A Polynomial Barrier Algorithm for Linearly Constrained Convex Programming Problems
+K. O. Kortanek;Jishan Zhu;
+Abstract
+We consider the standard linearly constrained convex program min{f(x) ∣ x ∈ ℝn, Ax = b, x ≥ 0} where f(x) satisfies a certain scaled Lipschitz condition. Using the classical logarithmic barrier method our algorithm obtains an ε-solution within O(√n|ln ε|) or O(n|ln ε|) total iterations depending on the updating of the barrier parameter.
+Keywords
+convex programming polynomial algorithm linear constraints log-barrier method scaled Lipschitz condition 

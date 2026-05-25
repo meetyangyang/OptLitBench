@@ -1,0 +1,6 @@
+Global minimization of large-scale constrained concave quadratic problems by separable programming
+J. B. Rosen;P. M. Pardalos;
+Abstract
+The global minimization of a large-scale linearly constrained concave quadratic problem is considered. The concave quadratic part of the objective function is given in terms of the nonlinear variablesx ∈R n , while the linear part is in terms ofy ∈Rk. For large-scale problems we may havek much larger thann. The original problem is reduced to an equivalent separable problem by solving a multiple-cost-row linear program with 2n cost rows. The solution of one additional linear program gives an incumbent vertex which is a candidate for the global minimum, and also gives a bound on the relative error in the function value of this incumbent. Ana priori bound on this relative error is obtained, which is shown to be ≤ 0.25, in important cases. If the incumbent is not a satisfactory approximation to the global minimum, a guaranteedε-approximate solution is obtained by solving a single liner zero–one mixed integer programming problem. This integer problem is formulated by a simple piecewise-linear underestimation of the separable problem.
+Keywords
+Global Minimization  Separable Programming  Quadratic Programming  Large-Scale  

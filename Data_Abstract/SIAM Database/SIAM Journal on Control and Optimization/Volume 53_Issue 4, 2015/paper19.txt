@@ -1,0 +1,6 @@
+Robustness of Adaptive Control under Time Delays for Three-Dimensional Curve Tracking
+Michael  Malisoff and Fumin  Zhang;
+Abstract
+We  analyze the robustness of a class of controllers that enable three-dimensional  curve tracking  by a  free moving particle. The free particle tracks the closest point on the curve. By building a strict Lyapunov function and robustly forward invariant sets, we  show input-to-state stability under predictable tolerance and safety bounds that guarantee robustness under control uncertainty, input delays, and a class of polygonal state constraints, including adaptive tracking and parameter identification  under unknown control gains.  Such an understanding may provide certified performance when the control laws are applied to real-life systems.
+Keywords
+adaptive control, curve tracking, robotics, robustness, time delays, 93C10, 93C15, 93C40, 

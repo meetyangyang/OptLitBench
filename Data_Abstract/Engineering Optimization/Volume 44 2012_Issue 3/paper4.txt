@@ -1,0 +1,6 @@
+A variable neighbourhood search algorithm with novel archive update strategies for redundancy allocation problems
+ Yun-Chia   Liang ; Min-Hua   Lo ;
+Abstract
+ This article proposes a variable neighbourhood search algorithm with novel archive update strategies (VNSAU) to solve redundancy allocation problems with the series–parallel system configuration. When solving single-objective optimization problems with different constraint levels, traditional approaches can only deal with one constraint level at a time. This usually leads to the waste of search information and extra computational effort. Different from traditional VNS algorithms, the proposed VNSAU algorithm employs an archive originally derived from the idea of Pareto optimal set in multi-objective optimization to keep track of the best solutions on different constraint levels. The performance of the proposed VNSAU algorithm is tested on a well-known benchmark suite with 33 instances. Computational results show that VNSAU outperforms seven other competing methods in the literature. The number of evaluations and the central processing unit (CPU) time needed by VNSAU also surpass other methods. 
+Keywords
+redundancy allocation problem, series–parallel system, variable neighbourhood search, metaheuristic 

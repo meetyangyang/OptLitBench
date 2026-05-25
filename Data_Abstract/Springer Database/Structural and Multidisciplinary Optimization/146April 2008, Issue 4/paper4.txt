@@ -1,0 +1,6 @@
+Metamodeling by symbolic regression and Pareto simulated annealing
+Erwin Stinstra;Gijs Rennen;Geert Teeuwen;
+Abstract
+The subject of this paper is a new approach to symbolic regression. Other publications on symbolic regression use genetic programming. This paper describes an alternative method based on Pareto simulated annealing. Our method is based on linear regression for the estimation of constants. Interval arithmetic is applied to ensure the consistency of a model. To prevent overfitting, we merit a model not only on predictions in the data points, but also on the complexity of a model. For the complexity, we introduce a new measure. We compare our new method with the Kriging metamodel and against a symbolic regression metamodel based on genetic programming. We conclude that Pareto-simulated-annealing-based symbolic regression is very competitive compared to the other metamodel approaches.
+Keywords
+Approximation  Metamodeling  Pareto simulated annealing  Symbolic regression  

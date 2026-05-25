@@ -1,0 +1,6 @@
+A level set-based topology optimization method for optimal manifold designs with flow uniformity in plate-type microchannel reactors
+Seiji Kubo;Kentaro Yaji;Takayuki Yamada;Kazuhiro Izui;Shinji Nishiwaki;
+Abstract
+This paper proposes an optimal design method for plate-type microchannel reactor manifolds, using a level set-based topology optimization method that targets flow uniformity among the microchannels. For plate-type microchannel reactors, manifold designs must consider both the uniformity of flow among the microchannels and minimization of pressure drop in the device. To address these design requirements, the pressure drop in the device is defined as the objective functional to be minimized under a flow rate inequality constraint, defined as the deviation in flow rate among the microchannels during the optimization. In addition, we propose a comparably simple and stable augmented Lagrangian method using an exponential function, to determine the Lagrange multiplier that acts to satisfy the flow rate inequality constraint. To demonstrate the utility of our proposed method, two-dimensional Z-type and U-type manifold design problems are presented in the numerical examples.
+Keywords
+Topology optimization  Level set method  Flow uniformity  Flow rate inequality constraint  Manifold shape  

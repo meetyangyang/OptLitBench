@@ -1,0 +1,6 @@
+Minimizing quadratic functions with separable quadratic constraints
+ R.   Kučera ;
+Abstract
+ This article deals with minimizing quadratic functions with a special form of quadratic constraints that arise in 3D contact problems of linear elasticity with isotropic friction [Haslinger, J., Kučera, R. and Dostál, Z., 2004, An algorithm for the numerical realization of 3D contact problems with Coulomb friction. Journal of Computational and Applied Mathematics, 164/165, 387–408.]. The proposed algorithm combines the active set method with the conjugate gradient method. Its general scheme is similar to the algorithms of Polyak’s type that solve the quadratic programming problems with simple bounds. As the algorithm does not terminate in a finite number of steps, the convergence is proved. The implementation uses an adaptive precision control of the conjugate gradient loops. Numerical experiments demonstrate the computational efficiency of the method. 
+Keywords
+Quadratic function, Separable quadratic constraints, Active set, Convergence, Conjugate gradient method, Adaptive precision control 

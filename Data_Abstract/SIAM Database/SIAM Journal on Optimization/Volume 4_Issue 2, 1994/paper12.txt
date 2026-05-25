@@ -1,0 +1,6 @@
+Predictor-corrector Methods for a Class of Linear Complementarity Problems
+Sanjay  Mehrotra and Robert A.  Stubbs;
+Abstract
+The Mizuno–Todd–Ye predictor-corrector method [Mathematics of Operations Research, to appear] for linear programming uses a Newton direction for the predictor step and a centering direction for the corrector step. This paper develops several additional $O( \sqrt{n} )$ iteration predictor-corrector methods for the linear complementarity problem. These methods replace the Newton predictor step with directions computed from appropriately defined ball optimization problems and trust-region problems. The one-step computational requirement of methods solving the ball optimization problem is similar to the computational requirement of the method using the Newton predictor step.
+Keywords
+linear complementarity problem, primal-dual methods, predictor-corrector methods, linear programming, quadratic programming, 49M40, 90C05, 90C20, 90C33, 

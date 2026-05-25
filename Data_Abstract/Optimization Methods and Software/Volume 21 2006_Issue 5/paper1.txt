@@ -1,0 +1,6 @@
+Semi-infinite programming approach to nonlinear time-delayed optimal control problems with linear continuous constraints
+ H. W. J.   Lee ; K.   H.   Wong ;
+Abstract
+ Consider the class of nonlinear time-delayed optimal control problems with continuous linear constraints. This class of problems is difficult to solve numerically. In this article, a computational method based on a semi-infinite programming approach is given. This can be done by considering the control as the decision variable, while taking the state as a function of the control. After parametrizing the control, an approximated semi-infinite nonlinear problem is obtained. To solve this approximate problem, we use the dual parametrization method. The dual problem is a max–min problem, which can be solved by optimizing over two levels. The upper level can be solved by simulated annealing and the lower level can be solved by using any unconstrained optimisation technique, such as the quasi-Newton method. 
+Keywords
+Continuous constraints, Nonlinear system, Dual problem 

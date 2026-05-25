@@ -1,0 +1,6 @@
+Finite-circle method for component approximation and packing design optimization
+ Weihong   Zhang ; Qiao   Zhang ;
+Abstract
+ In this article, the finite-circle method is introduced for 2D packing optimization. Each component is approximated with a group of circles and the non-overlapping constraints between components are converted into simple constraints between circles. Three new algorithms—the bisection algorithm, the three-step algorithm, and the improved three-step algorithm with gap—are developed to automatically generate fewer circles approximating the components. The approximation accuracy, the circle number, and the computing time are analyzed in detail. Considering the fact that packing optimization is an NP-hard problem, both genetic and gradient-based algorithms are integrated in the finite-circle method to solve the problem. A mixed approach is proposed when the number of components is relatively large. Various tests are carried out to validate the proposed algorithms and design approach. Satisfactory results are obtained. 
+Keywords
+Finite-circle method (FCM), packing optimization, overlap detection 

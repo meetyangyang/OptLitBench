@@ -1,0 +1,6 @@
+A polynomial-time algorithm for linear optimization based on a new simple kernel function 
+ Y. Q.   Bai*  ; C.   Roos ;
+Abstract
+ We present a new barrier function, based on a kernel function with a linear growth term and an inverse linear barrier term. Existing kernel functions have a quadratic (or higher degree) growth term, and a barrier term that is either transcendent (e.g. logarithmic) or of a more complicated algebraic form. So the new kernel function has the simplest possible form compared with all existing kernel functions. It is shown that a primal–dual interior-point algorithm for linear optimization (LO) based on the new kernel function has the complexity bounds O(n) log(n/ϵ) and O(√n) log(n/ϵ) for large- and small-update methods, respectively. These complexity bounds are the same as those for the classical algorithm based on the logarithmic barrier function.  
+Keywords
+Linear optimization, Interior-point method, Primal–dual method, Large- and small-update method, Polynomial complexity 

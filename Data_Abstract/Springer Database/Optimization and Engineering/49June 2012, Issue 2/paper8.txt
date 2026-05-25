@@ -1,0 +1,6 @@
+A minimum violations ranking method
+Kathryn E. Pedings;Amy N. Langville;Yoshitsugu Yamamoto;
+Abstract
+We present a rating method that, given information on the pairwise comparisons of n items, minimizes the number of inconsistencies in the ranking of those items. Our Minimum Violations Ranking (MVR) Method uses a binary linear integer program (BILP) to do this. We prove conditions when the relaxed LP will give an optimal solution to the original BILP. In addition, the LP solution gives information about ties and sensitivities in the ranking. Lastly, our MVR method makes use of bounding and constraint relaxation techniques to produce a fast algorithm for the linear ordering problem, solving an instance with about one thousand items in less than 10 minutes.
+Keywords
+Minimum violations rating  Linear ordering  Integer programming  Linear programming  Optimization  Ties  Sensitivity  

@@ -1,0 +1,6 @@
+A tractable approximation of non-convex chance constrained optimization with non-Gaussian uncertainties
+Abebe Geletu;Michael Klöppel;Armin Hoffmann;Pu Li;
+Abstract
+Chance constrained optimization problems in engineering applications possess highly nonlinear process models and non-convex structures. As a result, solving a nonlinear non-convex chance constrained optimization (CCOPT) problem remains as a challenging task. The major difficulty lies in the evaluation of probability values and gradients of inequality constraints which are nonlinear functions of stochastic variables. This article proposes a novel analytic approximation to improve the tractability of smooth non-convex chance constraints. The approximation uses a smooth parametric function to define a sequence of smooth nonlinear programs (NLPs). The sequence of optimal solutions of these NLPs remains always feasible and converges to the solution set of the CCOPT problem. Furthermore, Karush–Kuhn–Tucker (KKT) points of the approximating problems converge to a subset of KKT points of the CCOPT problem. Another feature of this approach is that it can handle uncertainties with both Gaussian and/or non-Gaussian distributions.
+Keywords
+chance constraints, non-convex optimization, analytic approximation, non-Gaussian distribution 

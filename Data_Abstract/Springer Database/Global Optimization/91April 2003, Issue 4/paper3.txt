@@ -1,0 +1,6 @@
+Solving the Simple Plant Location Problem using a Data Correcting Approach
+Boris Goldengorin;Gert A. Tijssen;Diptesh Ghosh;Gerard Sierksma;
+Abstract
+The Data Correcting Algorithm is a branch and bound type algorithm in which the data of a given problem instance is `corrected' at each branching in such a way that the new instance will be as close as possible to a polynomially solvable instance and the result satisfies an acceptable accuracy (the difference between optimal and current solution). In this paper the data correcting algorithm is applied to determining exact and approximate optimal solutions to the simple plant location problem. Implementations of the algorithm are based on a pseudo-Boolean representation of the goal function of this problem, and a new reduction rule. We study the efficiency of the data correcting approach using two different bounds, the Khachaturov-Minoux bound and the Erlenkotter bound. We present computational results on several benchmark instances, which confirm the efficiency of the data-correcting approach.
+Keywords
+Simple plant location problem  Pseudo-Boolean representation  Hammer function  Branch and bound  Preprocessing  

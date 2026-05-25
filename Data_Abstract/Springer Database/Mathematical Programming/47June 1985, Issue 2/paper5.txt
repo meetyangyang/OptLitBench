@@ -1,0 +1,6 @@
+Metrics and undirected cuts
+A. V. Karzanov;
+Abstract
+Suppose thatG is an undirected graph whose edges have nonnegative integer-valued lengthsl(e), and that {s1,t1},⋯, {s m ,t m } are pairs of its vertices. Can one assign nonnegative weights to the cuts ofG such that, for each edgee, the total weight of cuts containinge does not exceedl(e) and, for eachi, the total weight of cuts ‘separating’s i  andt i  is equal to the distance (with respect tol) betweens i  andt i ? Using linear programming duality, it follows from Papernov's multicommodity flow theorem that the answer is affirmative if the graph induced by the pairs {s1,t1},⋯, {s m ,t m } is one of the following: (i) the complete graph with four vertices, (ii) the circuit with five vertices, (iii) a union of two stars. We prove that if, in addition, each circuit inG has an even length (with respect tol) then there exists a suitable weighting of the cuts with the weights integer-valued; moreover, an algorithm of complexity O(n3) (n is the number of vertices ofG) is developed for solving such a problem. Also a class of metrics decomposable into a nonnegative linear combination of cut-metrics is described, and it is shown that the separation problem for cut cones isNP-hard.
+Keywords
+Multi Commodity Flows  Cut Metrics  

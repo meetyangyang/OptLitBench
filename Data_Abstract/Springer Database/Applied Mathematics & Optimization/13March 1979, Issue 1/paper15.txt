@@ -1,0 +1,6 @@
+Numerical computation of neighboring optimum feedback control schemes in real-time
+Hans Josef Pesch;
+Abstract
+A modification of the theory of neighboring extremals is presented which leads to a new formulation of a linear boundary value problem for the perturbation of the state and adjoint variables around a reference trajectory. On the basis of the multiple shooting algorithm, a numerical method for stable and efficient computation of perturbation feedback schemes is developed. This method is then applied to guidance problems in astronautics. Using as much stored a priori information about the precalculated flight path as possible, the only computational work to be done on the board computer for the computation of a regenerated optimal control program is a single integration of the state differential equations and the solution of a few small systems of linear equations. The amount of computation is small enough to be carried through on modern board computers for real-time. Nevertheless, the controllability region is large enough to compensate realistic flight disturbances, so that optimality is preserved.
+Keywords
+Multiple Shooting  Flight Path  Reference Trajectory  Feedback Scheme  Optimum Feedback  

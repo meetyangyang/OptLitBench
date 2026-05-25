@@ -1,0 +1,6 @@
+A note on treating a second order cone program as a special case of a semidefinite program
+Chee-Khian Sim;Gongyun Zhao;
+Abstract
+It is well known that a vector is in a second order cone if and only if its “arrow” matrix is positive semidefinite. But much less well-known is about the relation between a second order cone program (SOCP) and its corresponding semidefinite program (SDP). The correspondence between the dual problem of SOCP and SDP is quite direct and the correspondence between the primal problems is much more complicated. Given a SDP primal optimal solution which is not necessarily “arrow-shaped”, we can construct a SOCP primal optimal solution. The mapping from the primal optimal solution of SDP to the primal optimal solution of SOCP can be shown to be unique. Conversely, given a SOCP primal optimal solution, we can construct a SDP primal optimal solution which is not an “arrow” matrix. Indeed, in general no primal optimal solutions of the SOCP-related SDP can be an “arrow” matrix.
+Keywords
+Mathematical Method  Dual Problem  Primal Problem  Positive Semidefinite  Semidefinite Program  

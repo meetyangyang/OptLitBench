@@ -1,0 +1,6 @@
+Nonmonotone Spectral Methods for Large-Scale Nonlinear Systems
+ William La   Cruz ; Marcos   Raydan ;
+Abstract
+ The spectral gradient method has proved to be effective for solving large-scale optimization problems. In this work we extend the spectral approach to solve nonlinear systems of equations. We consider a strategy based on nonmonotone line search techniques to guarantee global convergence. and discuss implementation details for solving large-scale problems. We compare the performance of our new method with recent implementations of inexact Newton schemes based on Krylov subspace inner iterative methods for the linear systems. Our numerical experiments indicate that the spectral approach for solving nonlinear systems competes favorably with well-established numerical methods. 
+Keywords
+Spectral gradient method, Nonmonotone line search, Krylov subspace methods 

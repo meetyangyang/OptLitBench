@@ -1,0 +1,6 @@
+Pseudospectral Chebyshev Optimal Control of Constrained Nonlinear Dynamical Systems
+Gamal N. Elnagar;Mohammad A. Kazemi;
+Abstract
+A pseudospectral method for generating optimal trajectories of linear and nonlinear constrained dynamic systems is proposed. The method consists of representing the solution of the optimal control problem by an mth degree interpolating polynomial, using Chebyshev nodes, and then discretizing the problem using a cell-averaging technique. The optimal control problem is thereby transformed into an algebraic nonlinear programming problem. Due to its dynamic nature, the proposed method avoids many of the numerical difficulties typically encountered in solving standard optimal control problems. Furthermore, for discontinuous optimal control problems, we develop and implement a Chebyshev smoothing procedure which extracts the piecewise smooth solution from the oscillatory solution near the points of discontinuities. Numerical examples are provided, which confirm the convergence of the proposed method. Moreover, a comparison is made with optimal solutions obtained by closed-form analysis and/or other numerical methods in the literature.
+Keywords
+optimal control  spectral numerical methods  Chebyshev polynomials  smoothing filters  

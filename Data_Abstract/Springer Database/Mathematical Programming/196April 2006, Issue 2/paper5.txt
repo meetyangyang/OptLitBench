@@ -1,0 +1,6 @@
+New interval methods for constrained global optimization
+M.Cs. Markót;J. Fernández;L.G. Casado;T. Csendes;
+Abstract
+Interval analysis is a powerful tool which allows to design branch-and-bound algorithms able to solve many global optimization problems. In this paper we present new adaptive multisection rules which enable the algorithm to choose the proper multisection type depending on simple heuristic decision rules. Moreover, for the selection of the next box to be subdivided, we investigate new criteria. Both the adaptive multisection and the subinterval selection rules seem to be specially suitable for being used in inequality constrained global optimization problems. The usefulness of these new techniques is shown by computational studies.
+Keywords
+Global optimization  Inequality constrained problems  Interval analysis  Adaptive multisection  Subinterval selection criterion  Computational study  65G10  90C30  65K05  90B85  

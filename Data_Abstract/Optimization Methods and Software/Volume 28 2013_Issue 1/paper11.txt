@@ -1,0 +1,6 @@
+Privacy-preserving linear and nonlinear approximation via linear programming
+ Glenn   M.   Fung ; Olvi   L.   Mangasarian ;
+Abstract
+ We propose a novel privacy-preserving random kernel approximation based on a data matrix A∈R  m×n  whose rows are divided into privately owned blocks. Each block of rows belongs to a different entity that is unwilling to share its rows or make them public. We wish to obtain an accurate function approximation for a given y∈R  m  corresponding to each of the m rows of A. Our approximation of y is a real function on R  n  evaluated at each row of A and is based on the concept of a reduced kernel K(A, B′), where B′ is the transpose of a completely random matrix B. The proposed linear-programming-based approximation, which is public but does not reveal the privately held data matrix A, has accuracy comparable to that of an ordinary kernel approximation based on a publicly disclosed data matrix A. 
+Keywords
+privacy-preserving approximation, random kernels, support vector machines, linear programming 

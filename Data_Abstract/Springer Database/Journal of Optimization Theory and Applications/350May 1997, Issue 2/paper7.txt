@@ -1,0 +1,6 @@
+Approximate Newton Methods for Nonsmooth Equations
+H. Xu;X. W. Chang;
+Abstract
+We develop general approximate Newton methods for solving Lipschitz continuous equations by replacing the iteration matrix with a consistently approximated Jacobian, thereby reducing the computation in the generalized Newton method. Locally superlinear convergence results are presented under moderate assumptions. To construct a consistently approximated Jacobian, we introduce two main methods: the classic difference approximation method and the ε-generalized Jacobian method. The former can be applied to problems with specific structures, while the latter is expected to work well for general problems. Numerical tests show that the two methods are efficient. Finally, a norm-reducing technique for the global convergence of the generalized Newton method is briefly discussed.
+Keywords
+Lipschitz continuous equations  semismooth equations  consistently approximated Jacobians  difference approximations  ε-generalized approximate Jacobians  

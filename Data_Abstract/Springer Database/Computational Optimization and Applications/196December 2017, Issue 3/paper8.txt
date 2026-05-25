@@ -1,0 +1,6 @@
+Shrinking gradient descent algorithms for total variation regularized image denoising
+Mingqiang Li;Congying Han;Ruxin Wang;Tiande Guo;
+Abstract
+Total variation regularization introduced by Rudin, Osher, and Fatemi (ROF) is widely used in image denoising problems for its capability to preserve repetitive textures and details of images. Many efforts have been devoted to obtain efficient gradient descent schemes for dual minimization of ROF model, such as Chambolle’s algorithm or gradient projection (GP) algorithm. In this paper, we propose a general gradient descent algorithm with a shrinking factor. Both Chambolle’s and GP algorithm can be regarded as the special cases of the proposed methods with special parameters. Global convergence analysis of the new algorithms with various step lengths and shrinking factors are present. Numerical results demonstrate their competitiveness in computational efficiency and reconstruction quality with some existing classic algorithms on a set of gray scale images.
+Keywords
+Total variation  ROF model  Image denoise  Gradient method  

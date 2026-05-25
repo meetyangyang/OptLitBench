@@ -1,0 +1,6 @@
+An example of numerical nonconvergence of a variable-metric method
+D. F. Shanno;
+Abstract
+An example is given where truncation error, caused by finite computer arithmetic, leads to the BFGS variable-metric method becoming stuck, despite the approximated Hessian matrix, the gradient vector, and the search vector satisfying analytical conditions for convergence. A restart criterion to eliminate the problem is suggested.
+Keywords
+BFGS variable-metric algorithm  convergence of variable metric algorithms  

@@ -1,0 +1,6 @@
+Subsequent Convergence of Iterative Methods with Applications to Real-Time Model-Predictive Control
+I. Das;F. A. Potra;
+Abstract
+In performing online model-predictive control of dynamical systems, it is necessary to solve a sequence of optimization problems (typically quadratic programs) in real time so as to generate the best trajectory. Since only a low fixed number of iterations can be executed in real time, it is not possible to solve each quadratic program to optimality. However, numerical experiments show that, if we use information from the numerical solution of the previous quadratic program to construct a warm start for the current quadratic program, there is a time step after which the usual stopping criteria will be satisfied within the fixed number of iterations for all subsequent optimization problems. This phenomenon is called subsequent convergence and will be analyzed for families of nonlinear equations. Computational results are presented to illustrate the theory and associated computational artifacts.
+Keywords
+Model-predictive control  iterative methods  convergence  

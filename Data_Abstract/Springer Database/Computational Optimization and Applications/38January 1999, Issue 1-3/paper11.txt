@@ -1,0 +1,6 @@
+Interfaces to PATH 3.0: Design, Implementation and Usage
+Michael C. Ferris;Todd S. Munson;
+Abstract
+Several new interfaces have recently been developed requiring PATH to solve a mixed complementarity problem. To overcome the necessity of maintaining a different version of PATH for each interface, the code was reorganized using object-oriented design techniques. At the same time, robustness issues were considered and enhancements made to the algorithm. In this paper, we document the external interfaces to the PATH code and describe some of the new utilities using PATH. We then discuss the enhancements made and compare the results obtained from PATH 2.9 to the new version.
+Keywords
+complementarity problems  variational inequalities  algorithms  

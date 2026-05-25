@@ -1,0 +1,6 @@
+A genetic algorithm with real-value coding to optimize multimodal continuous functions
+M. Bessaou;P. Siarry;
+Abstract
+ In this paper a new Genetic Algorithm (GA) to optimize multimodal continuous functions is proposed. It is based on a splitting of the traditional GA into a sequence of three processes. The first process creates several appropriate sub-populations using the information entropy theory. The second process applies the genetic operators (selection, crossover and mutation) on every subpopulation that is so gradually enriched with better individuals. We then determine the best point s* among the best solutions issued from each of the preceding subpopulations. In the neighbourhood of this point s* is generated a population used to initialize a traditional GA in the third process. Inthis last process, the population is entirely renewed after each generation, the new population being generated in the neighborhood of the best point found. The neighborhood size is decreased after each generation. A detailedcomparison of performances with several stochastic global search methods is presented, using test functions of which local and global minima are known.
+Keywords
+Key words: global optimization, genetic algorithms, multimodal continuous functions  

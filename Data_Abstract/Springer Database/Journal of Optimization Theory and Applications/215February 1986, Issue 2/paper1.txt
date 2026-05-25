@@ -1,0 +1,6 @@
+Numerical examples of the behavior of REQP on nonlinear programming problems involving linear dependence among the constraint normals
+M. C. Bartholomew-Biggs;
+Abstract
+This report illustrates, by means of numerical examples, the behavior of the constrained minimization algorithm REQP in situations where the active constraint normals are not linearly independent. The examples are intended to demonstrate that the presence of the penalty parameter in the equations for calculating the Lagrange multiplier estimates enables a useful search direction to be computed. This is shown to be true, whether the dependence among the constraint normals occurs at the solution or in some other region.
+Keywords
+Nonlinear programming  quadratic programming subproblems  active constraints  linearly dependent constraints  

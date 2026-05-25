@@ -1,0 +1,6 @@
+Optimization of an airfoil cooling system using a Pareto dominance approach
+ Grzegorz   Nowak ;
+Abstract
+ The article deals with the optimization of the airfoil internal cooling system in order to find the most efficient distribution of passages to reduce thermal stress and, at the same time, retain the temperature at a permissible level. Another objective is to carry out the task with as little coolant as possible. The optimization is approached with the evolutionary algorithm, and thermo-mechanical FEM simulations are used for the assessment of the particular cooling system candidates. Since the optimization involves several criteria, the multi-objective approach needs to be applied. The optimization process may focus either on the scaled function solution or on finding the front of optimal solutions (Pareto optimal). In this article the latter approach is implemented and compared to the scaled function solution. 
+Keywords
+multi-objective optimization, evolutionary algorithm, airfoil cooling 

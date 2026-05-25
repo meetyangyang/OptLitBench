@@ -1,0 +1,6 @@
+Generalized pattern searches with derivative information
+Mark A. Abramson;Charles Audet;J.E. DennisJr.;
+Abstract
+A common question asked by users of direct search algorithms is how to use derivative information at iterates where it is available. This paper addresses that question with respect to Generalized Pattern Search (GPS) methods for unconstrained and linearly constrained optimization. Specifically, this paper concentrates on the GPS pollstep. Polling is done to certify the need to refine the current mesh, and it requires O(n) function evaluations in the worst case. We show that the use of derivative information significantly reduces the maximum number of function evaluations necessary for pollsteps, even to a worst case of a single function evaluation with certain algorithmic choices given here. Furthermore, we show that rather rough approximations to the gradient are sufficient to reduce the pollstep to a single function evaluation. We prove that using these less expensive pollsteps does not weaken the known convergence properties of the method, all of which depend only on the pollstep.
+Keywords
+pattern search algorithm  linearly constrained optimization  surrogate-based optimization  nonsmooth optimization  gradient-based optimization  

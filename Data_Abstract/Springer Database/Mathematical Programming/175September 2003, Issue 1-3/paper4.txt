@@ -1,0 +1,7 @@
+Robust discrete optimization and network flows
+Dimitris Bertsimas;Melvyn Sim;
+Abstract
+We propose an approach to address data uncertainty for discrete optimization and network flow problems that allows controlling the degree of conservatism of the solution, and is computationally tractable both practically and theoretically. In particular, when both the cost coefficients and the data in the constraints of an integer programming problem are subject to uncertainty, we propose a robust integer programming problem of moderately larger size that allows controlling the degree of conservatism of the solution in terms of probabilistic bounds on constraint violation. When only the cost coefficients are subject to uncertainty and the problem is a 0−1 discrete optimization problem on n variables, then we solve the robust counterpart by solving at most n+1 instances of the original problem. Thus, the robust counterpart of a polynomially solvable 0−1 discrete optimization problem remains polynomially solvable. In particular, robust matching, spanning tree, shortest path, matroid intersection, etc. are polynomially solvable. We also show that the robust counterpart of an NP-hard α-approximable 0−1 discrete optimization problem, remains α-approximable. Finally, we propose an algorithm for robust network flows that solves the robust counterpart by solving a polynomial number of nominal minimum cost flow problems in a modified network.
+
+Keywords
+integer programming  robust optimization  network flows  

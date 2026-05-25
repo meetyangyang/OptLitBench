@@ -1,0 +1,6 @@
+Wedge trust region methods for derivative free optimization
+Marcelo Marazzi;Jorge Nocedal;
+Abstract
+A new method for derivative-free optimization is presented. It is designed for solving problems in which the objective function is smooth and the number of variables is moderate, but the gradient is not available. The method generates a model that interpolates the objective function at a set of sample points, and uses trust regions to promote convergence. The step-generation subproblem ensures that all the iterates satisfy a geometric condition and are therefore adequate for updating the model. The sample points are updated using a scheme that improves the accuracy of the interpolation model when needed. Two versions of the method are presented: one using linear models and the other using quadratic models. Numerical tests comparing the new approach with established methods for derivate-free optimization are reported.
+Keywords
+Mathematics Subject Classification (1991): 20E28, 20G40, 20C20  

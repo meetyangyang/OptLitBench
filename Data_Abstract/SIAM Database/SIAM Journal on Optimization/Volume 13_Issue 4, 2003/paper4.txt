@@ -1,0 +1,6 @@
+On the Primal-Dual Geometry of Level Sets in Linear and Conic Optimization
+Robert M.  Freund;
+Abstract
+For a conic optimization problem $$ \begin{array}{lclr} P: & {\rm minimize}_x & c^{T}x \\ & \mbox{s.t. } & Ax=b,\\ & & x \in C \\ \end{array} $$ \noindent  and its dual $$ \begin{array}{lclr} D: & {\rm supremum}_{y,s} & b^{T}y\\ & \mbox{ s.t. } & A^Ty+s=c,\\ & & s \in C^* ,\\ \end{array} $$  we present a geometric relationship between the primal objective function level sets and the dual objective function level sets, which shows that the maximum norms of the primal objective function level sets are nearly inversely proportional to the maximum inscribed radii of the dual objective function level sets.
+Keywords
+convex optimization, conic optimization, duality, level sets, 90C, 90C05, 90C22, 90C25, 90C46, 

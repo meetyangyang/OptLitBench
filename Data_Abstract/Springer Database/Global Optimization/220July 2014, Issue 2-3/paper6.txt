@@ -1,0 +1,6 @@
+Optimality-based bound contraction with multiparametric disaggregation for the global optimization of mixed-integer bilinear problems
+Pedro M. Castro;Ignacio E. Grossmann;
+Abstract
+We address nonconvex mixed-integer bilinear problems where the main challenge is the computation of a tight upper bound for the objective function to be maximized. This can be obtained by using the recently developed concept of multiparametric disaggregation following the solution of a mixed-integer linear relaxation of the bilinear problem. Besides showing that it can provide tighter bounds than a commercial global optimization solver within a given computational time, we propose to also take advantage of the relaxed formulation for contracting the variables domain and further reduce the optimality gap. Through the solution of a real-life case study from a hydroelectric power system, we show that this can be an efficient approach depending on the problem size. The relaxed formulation from multiparametric formulation is provided for a generic numeric representation system featuring a base between 2 (binary) and 10 (decimal).
+Keywords
+Global optimization  Mixed integer nonlinear programming   Mixed integer linear programming  Scheduling   Hydroelectric system  

@@ -1,0 +1,6 @@
+An accelerated extended cutting plane approach with piecewise linear approximations for signomial geometric programming
+Yiduo Zhan;Qipeng P. Zheng;Chung-Li Tseng;Eduardo L. Pasiliao;
+Abstract
+This paper presents a global optimization approach for solving signomial geometric programming (SGP) problems. We employ an accelerated extended cutting plane (ECP) approach integrated with piecewise linear (PWL) approximations to solve the global optimization of SGP problems. In this approach, we separate the feasible regions determined by the constraints into convex and nonconvex ones in the logarithmic domain. In the nonconvex feasible regions, the corresponding constraint functions are converted into mixed integer linear constraints using PWL approximations, while the other constraints with convex feasible regions are handled by the ECP method. We also use pre-processed initial cuts and batched cuts to accelerate the proposed algorithm. Numerical results show that the proposed approach can solve the global optimization of SGP problems efficiently and effectively.
+Keywords
+Signomial geometric programming  Piecewise linear approximation  Mixed-integer linear programming  Accelerated extended cutting plane  

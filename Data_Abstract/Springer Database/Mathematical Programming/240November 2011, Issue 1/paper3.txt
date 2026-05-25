@@ -1,0 +1,6 @@
+An alternating linearization bundle method for convex optimization and nonlinear multicommodity flow problems
+K. C. Kiwiel;
+Abstract
+We give a bundle method for minimizing the sum of two convex functions, one of them being known only via an oracle of arbitrary accuracy. Each iteration involves solving two subproblems in which the functions are alternately represented by their linearizations. Our approach is motivated by applications to nonlinear multicommodity flow problems. Encouraging numerical experience on large scale problems is reported.
+Keywords
+Nondifferentiable optimization  Convex programming  Proximal bundle methods  Approximate subgradients  Network flow problem  65K05  90C25  90C27  

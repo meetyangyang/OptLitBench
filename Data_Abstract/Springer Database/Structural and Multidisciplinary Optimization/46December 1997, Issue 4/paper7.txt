@@ -1,0 +1,6 @@
+Topology optimization with displacement constraints: a bilevel programming approach
+M. Kočvara;
+Abstract
+We consider the minimum-compliance formulation of the truss topology problem with additional linear constraints on the displacements: the so-called displacement constraints. We propose a new bilevel programming approach to this problem. Our primal goal (upper-level) is to satisfy the displacement constraint as well as possible — we minimize the gap between the actual and prescribed displacement. Our second goal (lower level) is to minimize the compliance — we still want to find the stiffest structure satisfying the displacement constraints. On the lower level we solve a standard truss topology problem and hence we can solve it in the formulation suitable for the fast interior point alogrithms. The overall bilevel problem is solved by means of the so-called implicit programming approach. This approach leads to a nonsmooth optimization problem which is finally solved by a nonsmooth solver.
+Keywords
+Civil Engineer  Topology Optimization  Interior Point  Programming Approach  Linear Constraint  

@@ -1,0 +1,6 @@
+Enriched Methods for Large-Scale Unconstrained Optimization
+José Luis Morales;Jorge Nocedal;
+Abstract
+This paper describes a class of optimization methods that interlace iterations of the limited memory BFGS method (L-BFGS) and a Hessian-free Newton method (HFN) in such a way that the information collected by one type of iteration improves the performance of the other. Curvature information about the objective function is stored in the form of a limited memory matrix, and plays the dual role of preconditioning the inner conjugate gradient iteration in the HFN method and of providing an initial matrix for L-BFGS iterations. The lengths of the L-BFGS and HFN cycles are adjusted dynamically during the course of the optimization. Numerical experiments indicate that the new algorithms are both effective and not sensitive to the choice of parameters.
+Keywords
+limited memory method  Hessian-free Newton method  truncated Newton method  L-BFGS  conjugate gradient method  quasi-Newton preconditioning  

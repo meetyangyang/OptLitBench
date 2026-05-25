@@ -1,0 +1,6 @@
+A Projection-Based Decomposition Algorithm for Distributed Fast Computation of Control in Microgrids
+Andres  Cortés and Sonia  MartÍnez;
+Abstract
+We present a novel algorithm for the computation of optimal predictive storage and reactive power control in microgrids operating in grid-tied mode.  This algorithm is based on the dual decomposition method, but local constraints are handled by means of primal projections.  The use of projections significantly increases the speed of convergence of the approach with respect to the dual decomposition algorithm, which uses dual variables for the local constraints of the problem.  Convergence of the algorithm to an optimizer is shown for a general class of quadratic programs, which includes a storage and reactive power control problem. In addition, a distributed implementation of the algorithm which is based on the Jacobi overrelaxation is presented.  Simulations compare the algorithm performance with that of a purely dual decomposition approach over a set of standard distribution feeder test cases acting as grid-connected microgrid proxies.
+Keywords
+microgrid control, distributed optimization, storage control, reactive-power control, 49M27, 49M20, 49M29, 90C90, 90C06, 90B10, 

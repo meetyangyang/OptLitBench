@@ -1,0 +1,6 @@
+Generating interior search directions for multiobjective linear programming using approximate gradients and efficient anchoring points
+   A.   Arbel ;
+Abstract
+ We present in this paper a new multiobjective linear programming (MOLP) algorithm. The algorithm is based on modifying a variant of Karmarkar's algorithm known as the affine-scaling primal algorithm to multiobjective linear programming problems. This modification is accomplished by combining approximate gradients of the multiple objective functions together with what we refer to as anchoring points that allow us to generate a search direction and move toward the solution through the interior of the constraints polytope. In contrast, current multiobjective linear programming algorithms are using the simplex algorithm to generate a sequence of steps that follow the exterior of the constraints polytope toward the optimal solution. As MOLP problems grow in size, following an exterior trajectory may become prohibitively costly in terms of the number of iterations and the required interaction cycles with the Decision Maker. Following an interior trajectory may prove less sensitive to problem size as vertex information is irrelevant to the solution process 
+Keywords
+Multicriteria Decision Making (MCDM), Multiobjective Linear Programming (MOLP), Interior Point Methods, Affine-Scaling Primal Algorithm 

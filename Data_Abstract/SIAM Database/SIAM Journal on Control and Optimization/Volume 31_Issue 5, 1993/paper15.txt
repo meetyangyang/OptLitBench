@@ -1,0 +1,6 @@
+An Interior-Point Method for Minimizing the Maximum Eigenvalue of a Linear Combination of Matrices
+Florian  Jarre;
+Abstract
+An algorithm for minimizing the largest eigenvalue of an affine combination of symmetric matrices is presented. The nonsmooth problem is transformed into an equivalent smooth constrained problem, which is solved by a predictor-corrector interior-point method taking full advantage of the differentiability and convexity. Some promising numerical results obtained from a preliminary implementation are included.
+Keywords
+convex program, eigenvalue, implementation, 65FF99, 65K10, 90C25, 

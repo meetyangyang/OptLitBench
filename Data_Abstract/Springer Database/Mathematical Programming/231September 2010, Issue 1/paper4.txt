@@ -1,0 +1,6 @@
+The effect of deterministic noise in subgradient methods
+Angelia Nedić;Dimitri P. Bertsekas;
+Abstract
+In this paper, we study the influence of noise on subgradient methods for convex constrained optimization. The noise may be due to various sources, and is manifested in inexact computation of the subgradients and function values. Assuming that the noise is deterministic and bounded, we discuss the convergence properties for two cases: the case where the constraint set is compact, and the case where this set need not be compact but the objective function has a sharp set of minima (for example the function is polyhedral). In both cases, using several different stepsize rules, we prove convergence to the optimal value within some tolerance that is given explicitly in terms of the errors. In the first case, the tolerance is nonzero, but in the second case, the optimal value can be obtained exactly, provided the size of the error in the subgradient computation is below some threshold. We then extend these results to objective functions that are the sum of a large number of convex functions, in which case an incremental subgradient method can be used.
+Keywords
+90C25  

@@ -1,0 +1,6 @@
+A starting-point strategy for interior-point algorithms for shakedown analysis of engineering structures
+Jaan-Willem Simon;Daniel Höwer;Dieter Weichert;
+Abstract
+Lower-bound shakedown analysis leads to nonlinear convex optimization problems with large numbers of unknowns and constraints, the solution of which can be obtained efficiently by interior-point algorithms. The performance of these algorithms strongly depends on the choice of the starting point. In general, starting points should be located inside the feasible region. In addition, they should also be well centred. Although there exist several heuristics for the construction of suitable starting points, these are restricted, as long as only the mathematical procedure is considered without taking into account the nature of the underlying mechanical problem. Thus, in this article, a strategy is proposed for choosing appropriate starting points for interior-point algorithms applied to shakedown analysis. This strategy is based on both the mathematical characteristics and the physical meaning of the variables involved. The efficiency of the new method is illustrated by numerical examples from the field of power plant engineering.
+Keywords
+starting point, interior-point algorithm, shakedown analysis, large-scale problem 

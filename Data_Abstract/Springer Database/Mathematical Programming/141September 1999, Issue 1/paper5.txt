@@ -1,0 +1,6 @@
+Smooth methods of multipliers for complementarity problems
+Jonathan Eckstein;Michael C. Ferris;
+Abstract
+This paper describes several methods for solving nonlinear complementarity problems. A general duality framework for pairs of monotone operators is developed and then applied to the monotone complementarity problem, obtaining primal, dual, and primal-dual formulations. We derive Bregman-function-based generalized proximal algorithms for each of these formulations, generating three classes of complementarity algorithms. The primal class is well-known. The dual class is new and constitutes a general collection of methods of multipliers, or augmented Lagrangian methods, for complementarity problems. In a special case, it corresponds to a class of variational inequality algorithms proposed by Gabay. By appropriate choice of Bregman function, the augmented Lagrangian subproblem in these methods can be made continuously differentiable. The primal-dual class of methods is entirely new and combines the best theoretical features of the primal and dual methods. Some preliminary computation shows that this class of algorithms is effective at solving many of the standard complementarity test problems.
+Keywords
+Key words: complementarity problems – smoothing – proximal algorithms – augmented Lagrangians  

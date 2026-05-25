@@ -1,0 +1,6 @@
+Decomposition algorithms for two-stage chance-constrained programs
+Xiao Liu;Simge Küçükyavuz;James Luedtke;
+Abstract
+We study a class of chance-constrained two-stage stochastic optimization problems where second-stage feasible recourse decisions incur additional cost. In addition, we propose a new model, where “recovery” decisions are made for the infeasible scenarios to obtain feasible solutions to a relaxed second-stage problem. We develop decomposition algorithms with specialized optimality and feasibility cuts to solve this class of problems. Computational results on a chance-constrained resource planing problem indicate that our algorithms are highly effective in solving these problems compared to a mixed-integer programming reformulation and a naive decomposition method.
+Keywords
+Two-stage stochastic programming  Chance constraints    Benders decomposition  Cutting planes  90C15  90C10  

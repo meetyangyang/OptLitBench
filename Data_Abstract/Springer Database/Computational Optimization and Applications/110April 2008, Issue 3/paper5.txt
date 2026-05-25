@@ -1,0 +1,8 @@
+The Lagrange method for the regularization of discrete ill-posed problems
+G. Landi;
+Abstract
+
+In many science and engineering applications, the discretization of linear ill-posed problems gives rise to large ill-conditioned linear systems with the right-hand side degraded by noise. The solution of such linear systems requires the solution of minimization problems with one quadratic constraint, depending on an estimate of the variance of the noise. This strategy is known as regularization. In this work, we propose a modification of the Lagrange method for the solution of the noise constrained regularization problem. We present the numerical results of test problems, image restoration and medical imaging denoising. Our results indicate that the proposed Lagrange method is effective and efficient in computing good regularized solutions of ill-conditioned linear systems and in computing the corresponding Lagrange multipliers. Moreover, our numerical experiments show that the Lagrange method is computationally convenient. Therefore, the Lagrange method is a promising approach for dealing with ill-posed problems.
+
+Keywords
+Regularization method  Tikhonov regularization  Total Variation regularization  Equality constrained optimization  Newton method  

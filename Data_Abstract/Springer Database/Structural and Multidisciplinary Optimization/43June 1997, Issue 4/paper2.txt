@@ -1,0 +1,6 @@
+An efficient implementation of adjoint sensitivity analysis for optimal control problems
+D. Holtz;J. S. Arora;
+Abstract
+In this paper an efficient implementation of design sensitivity analysis techniques is presented for nonlinear optimal control problems using the adjoint variable method. Techniques for functionals (integrals) and dynamic response (or pointwise) constraints are developed. Emphasis is placed on the proper choice of numerical techniques which exploit the structure of the problem to achieve efficiency. Numerical results for two optimal control examples show great improvement over previous implementations. Unlike previous results the computational effort required for DSA is shown to increase only linearly with the number of discretization points used and is a much smaller percentage of total CPU time.
+Keywords
+Sensitivity Analysis  Dynamic Response  Variable Method  Optimal Control Problem  Great Improvement  

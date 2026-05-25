@@ -1,0 +1,6 @@
+Optimization of Algorithmic Parameters using a Meta-Control Approach*
+Wolf Kohn;Zelda B. Zabinsky;Vladimir Brayman;
+Abstract
+Optimization algorithms usually rely on the setting of parameters, such as barrier coefficients. We have developed a generic meta-control procedure to optimize the behavior of given iterative optimization algorithms. In this procedure, an optimal continuous control problem is defined to compute the parameters of an iterative algorithm as control variables to achieve a desired behavior of the algorithm (e.g., convergence time, memory resources, and quality of solution). The procedure is illustrated with an interior point algorithm to control barrier coefficients for constrained nonlinear optimization. Three numerical examples are included to demonstrate the enhanced performance of this method.
+Keywords
+Algorithms  Interior-point  Nonlinear Optimization  Optimal Control  

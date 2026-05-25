@@ -1,0 +1,6 @@
+Bounded perturbation resilience of projected scaled gradient methods
+Wenma Jin;Yair Censor;Ming Jiang;
+Abstract
+We investigate projected scaled gradient (PSG) methods for convex minimization problems. These methods perform a descent step along a diagonally scaled gradient direction followed by a feasibility regaining step via orthogonal projection onto the constraint set. This constitutes a generalized algorithmic structure that encompasses as special cases the gradient projection method, the projected Newton method, the projected Landweber-type methods and the generalized expectation-maximization (EM)-type methods. We prove the convergence of the PSG methods in the presence of bounded perturbations. This resilience to bounded perturbations is relevant to the ability to apply the recently developed superiorization methodology to PSG methods, in particular to the EM algorithm.
+Keywords
+Convex minimization problems  Proximity function  Projected scaled gradient  Superiorization  Bounded perturbation resilience  

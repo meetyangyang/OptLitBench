@@ -1,0 +1,6 @@
+Local Linear Convergence of ISTA and FISTA on the LASSO Problem
+Shaozhe  Tao, Daniel  Boley, and Shuzhong  Zhang;
+Abstract
+We use a model LASSO problem to analyze the convergence behavior of the ISTA and FISTA iterations, showing that both iterations satisfy local linear convergence rate bound when close enough to the solution.  Using the observation that FISTA is an accelerated ISTA process, and a spectral analysis of the associated matrix operators, we show that FISTA's convergence rate can slow down as it proceeds, eventually becoming slower than ISTA. This observation leads to a proposed heuristic algorithm to take an ISTA step if it shows more progress compared to FISTA, as measured by the decrease in the objective function. We illustrate the results with some synthetic numerical examples.
+Keywords
+local convergence analysis, first order algorithms, LASSO, linear convergence, 90C25, 65K05, 90-08, 

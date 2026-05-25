@@ -1,0 +1,6 @@
+A new trust region algorithm for bound constrained minimization
+A. Friedlander;J. M. Martínez;S. A. Santos;
+Abstract
+We introduce a new algorithm of trust-region type for minimizing a differentiable function of many variables with box constraints. At each step of the algorithm we use an approximation to the minimizer of a quadratic in a box. We introduce a new method for solving this subproblem, that has finite termination without dual nondegeneracy assumptions. We prove the global convergence of the main algorithm and a result concerning the identification of the active constraints in finite time. We describe an implementation of the method and we present numerical experiments showing the effect of solving the subproblem with different degrees of accuracy.
+Keywords
+Bound constrained minimization  Trust regions  Global convergence  90C30 (65K05)  

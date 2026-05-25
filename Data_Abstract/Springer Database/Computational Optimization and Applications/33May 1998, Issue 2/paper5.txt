@@ -1,0 +1,6 @@
+On the Solution of Linear Recurrence Equations
+Mohamad Akra;Louay Bazzi;
+Abstract
+In this article, we present a general solution for linear divide-and-conquer recurrences of the form $$u_n  = \sum\limits_{i = 1}^k {a_i u} $$⌊$$\frac{n}{{b_i }}$$ ⌋ + g(n) Our approach handles more cases than the Master method does {1}. We achieve this advantage by defining a new transform - the Order transform - which has useful properties for providing asymptotic answers (compared to other transforms which supply exact answers). This transform helps in mapping the sequence under consideration to the two dimensional plane where the solution becomes easier to obtain. We demonstrate the power of the final results by solving many “difficult” examples.
+Keywords
+Divide and conquer  Linear recurrence  Running time  Algorithm  Order transform  Order of growth  

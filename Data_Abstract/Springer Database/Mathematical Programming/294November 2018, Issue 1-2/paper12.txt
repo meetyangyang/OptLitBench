@@ -1,0 +1,6 @@
+Semidefinite and linear programming integrality gaps for scheduling identical machines
+Adam Kurpisz;Monaldo Mastrolilli;Claire Mathieu;Tobias Mömke;Victor Verdugo;Andreas Wiese;
+Abstract
+Sherali and Adams (SIAM J Discrete Math 3:411–430, 1990) and Lovász and Schrijver (SIAM J Optim 1:166–190, 1991) developed systematic procedures to construct the hierarchies of relaxations known as lift-and-project methods. They have been proven to be a strong tool for developing approximation algorithms, matching the best relaxations known for problems like Max-Cut and Sparsest-Cut. In this work we provide lower bounds for these hierarchies when applied over the configuration LP for the problem of scheduling identical machines to minimize the makespan. First we show that the configuration LP has an integrality gap of at least 1024/1023 by providing a family of instances with 15 different job sizes. Then we show that for any integer n there is an instance with n jobs in this family such that after \(\varOmega (n)\) rounds of the Sherali–Adams (\(\text {SA}\)) or the Lovász–Schrijver (\(\text {LS}_+\)) hierarchy the integrality gap remains at least 1024/1023.
+Keywords
+Identical machine scheduling  Configuration LP  Sherali–Adams  Lovász–Schrijver  68W25  90C05  90C22  

@@ -1,0 +1,6 @@
+A quasi-Newton strategy for the sSQP method for variational inequality and optimization problems
+Damián Fernández;
+Abstract
+The quasi-Newton strategy presented in this paper preserves one of the most important features of the stabilized Sequential Quadratic Programming method, the local convergence without constraint qualifications assumptions. It is known that the primal-dual sequence converges quadratically assuming only the second-order sufficient condition. In this work, we show that if the matrices are updated by performing a minimization of a Bregman distance (which includes the classic updates), the quasi-Newton version of the method converges superlinearly without introducing further assumptions. Also, we show that even for an unbounded Lagrange multipliers set, the generated matrices satisfies a bounded deterioration property and the Dennis-Moré condition.
+Keywords
+Stabilized sequential quadratic programming  Karush–Kuhn–Tucker system  Variational inequality  Quasi-Newton methods  Superlinear convergence  65K05  90C30  90C53  

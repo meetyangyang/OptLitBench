@@ -1,0 +1,6 @@
+Properties of the sequential gradient-restoration algorithm (SGRA), part 1: Introduction and comparison with related methods
+M. Rom;M. Avriel;
+Abstract
+The sequential gradient-restoration algorithm (SGRA) was developed in the late 1960s for the solution of equality-constrained nonlinear programs and has been successfully implemented by Miele and coworkers on many large-scale problems. The algorithm consists of two major sequentially applied phases. The first is a gradient-type minimization in a subspace tangent to the constraint surface, and the second is a feasibility restoration procedure. In Part 1, the original SGRA algorithm is described and is compared with two other related methods: the gradient projection and the generalized reduced gradient methods. Next, the special case of linear equalities is analyzed. It is shown that, in this case, only the gradient-type minimization phase is needed, and the SGRA becomes identical to the steepest-descent method. Convergence proofs for the nonlinearly constrained case are given in Part 2.
+Keywords
+Sequential gradient-restoration algorithm  nonlinear programming  gradient-type optimization  feasibility restoration  

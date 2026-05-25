@@ -1,0 +1,6 @@
+Optimization models for operative planning in drinking water networks
+Jens Burgschweiger;Bernd Gnädig;Marc C. Steinbach;
+Abstract
+The topic of this paper is minimum cost operative planning of pressurized water supply networks over a finite horizon and under reliable demand forecast. Since this is a very hard problem, it is desirable to employ sophisticated mathematical algorithms, which in turn calls for carefully designed models with suitable properties. The paper develops a nonlinear mixed integer model and a nonlinear programming model with favorable properties for gradient-based optimization methods, based on smooth component models for the network elements. In combination with further nonlinear programming techniques (Burgschweiger et al. in ZIB Report ZR-05-31, Zuse Institute Berlin, 2005), practically satisfactory near-optimum solutions even for large networks can be generated in acceptable time using standard optimization software on a PC workstation. Such an optimization system is in operation at Berliner Wasserbetriebe.
+Keywords
+Drinking water supply  Distribution network  Minimum cost operative planning  Continuous time model  Mixed integer model  Nonlinear programming model  

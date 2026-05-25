@@ -1,0 +1,6 @@
+A simple version of bundle method with linear programming
+Shuai Liu;
+Abstract
+Bundle methods have been well studied in nonsmooth optimization. In most of the bundle methods developed thus far (traditional bundle methods), at least one quadratic programming subproblem needs to be solved in each iteration. In this paper, a simple version of bundle method with linear programming is proposed. In each iteration, a cutting-plane model subject to a constraint constructed by an infinity norm is minimized. Without line search or trust region techniques, the convergence of the method can be shown. Additionally, the infinity norm in the constraint can be generalized to \(p\)-norm. Preliminary numerical experiments show the potential advantage of the proposed method for solving large scale problems.
+Keywords
+Bundle method  Linear programming  Trust region  Nonsmooth optimization  90C25  49J52  65K10  49M05  

@@ -1,0 +1,6 @@
+Empirical mode decomposition-based time grid refinement optimization approach for optimal control problems
+Ping Liu;Xinggao Liu;
+Abstract
+This paper presents a novel and efficient grid refinement approach for choosing discretization level of control vector parameterization (CVP) method. Different from the uniform time grid CVP method, the proposed method adaptively refines the time grid knots by applying the empirical mode decomposition at each iteration. An attractive property of the proposed method is that fewer parameters are needed to achieve better optimization results, which means that a high-quality solution can be obtained with lower computation cost. The related derivation shows the advantage of simplicity for implementation. Compared with the existing approaches, for which all the control variables are parameterized on the same time grid, the proposed method is more flexible. A standard optimal control problem is tested as an illustration to demonstrate the validity of the proposed method, results indicate better performance index and lower computation cost of the proposed method.
+Keywords
+Grid refinement  Control vector parameterization  Empirical mode decomposition  Optimal control  Continuous inequality constraints  

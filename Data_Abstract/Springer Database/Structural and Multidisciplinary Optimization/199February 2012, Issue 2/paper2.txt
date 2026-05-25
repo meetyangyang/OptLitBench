@@ -1,0 +1,6 @@
+Optimal topologies derived from a phase-field method
+Mathias Wallin;Matti Ristinmaa;Henrik Askfelt;
+Abstract
+A topology optimization method allowing for perimeter control is presented. The approach is based on a functional that takes the material density and the strain field as arguments. The cost for surfaces is included in the functional that is minimized. Diffuse designs are avoided by introducing a penalty term in the functional that is minimized. Equilibrium and a volume constraint are enforced via a Lagrange multiplier technique. The extremum to the functional is found by use of the Cahn–Hilliard phase-field method. It is shown that the optimization problem is suitable for finite element implementation and the FE-formulation is discussed in detail. In the numerical examples provided, the influence of surface penalization is investigated. It is shown that the perimeter of the structure can be controlled using the proposed scheme.
+Keywords
+Topology optimization  Phase-field  Cahn–Hilliard  

@@ -1,0 +1,6 @@
+Robust Portfolio Selection Problems
+D. Goldfarb;G. Iyengar;
+Abstract
+In this paper we show how to formulate and solve robust portfolio selection problems. The objective of these robust formulations is to systematically combat the sensitivity of the optimal portfolio to statistical and modeling errors in the estimates of the relevant market parameters. We introduce “uncertainty structures” for the market parameters and show that the robust portfolio selection problems corresponding to these uncertainty structures can be reformulated as secondorder cone programs and, therefore, the computational effort required to solve them is comparable to that required for solving convex quadratic programs. Moreover, we show that these uncertainty structures correspond to confidence regions associated with the statistical procedures employed to estimate the market parameters. Finally, we demonstrate a simple recipe for efficiently computing robust portfolios given raw market data and a desired level of confidence.
+Keywords
+Robust optimization mean-variance portfolio selection value-at-risk portfolio selection second-order cone programming linear regression 

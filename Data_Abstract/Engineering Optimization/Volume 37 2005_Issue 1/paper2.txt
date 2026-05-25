@@ -1,0 +1,6 @@
+Grouping of PCB assembly jobs in the case of flexible feeder units
+ Timo   Knuutila ; Mika   Hirvikorpi ; Mika   Johnsson ; Olli S.   Nevalainen ;
+Abstract
+ Change costs between jobs in printed circuit board assembly depend on the number of component change occasions. Component changes are necessary due to the restricted feeder capacity. Grouping assembly jobs decreases the number of setup occasions. The job grouping problem asks for a minimal cardinality grouping.   This paper studies a generalization of the job grouping problem where the feeder unit is capable of holding sub-units, called feeder boxes. There is a limited set of boxes available in an auxiliary storage, and the feeder unit has certain limitations for the feeder boxes it may hold. The task in job grouping problem with boxes (JGP-B) is to group the jobs into a minimal number of groups in such a way that capacity and feeder restrictions are not violated. Exact solving of the JGP-B is restricted to small problem instances only. Several heuristics are proposed and their operation is tested experimentally. 
+Keywords
+Electronics assembly, Single machine job grouping, Heuristics, Combinatorial optimization 

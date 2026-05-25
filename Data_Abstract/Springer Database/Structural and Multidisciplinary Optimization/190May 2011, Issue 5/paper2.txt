@@ -1,0 +1,6 @@
+Multi-material topology optimization with strength constraints
+Anand Ramani;
+Abstract
+A heuristic approach to handle strength constraints based on material failure criteria in multi-material topology optimization is presented. This is particularly advantageous if different materials have different failure criteria. The change in the material failure function in an element due to a contemplated material change is estimated without the need for expensive matrix factorizations. This change is used along with the changes to the objective and deflection-based constraint functions, computed using pseudo-sensitivities, to determine a single aggregated ranking parameter for the element. Elements are ranked on the basis of their ranking parameters and this rank is used to modify the material ID-s of a few top-ranked elements during an optimization iteration. The working of the algorithm is demonstrated on a few example problems showing its effectiveness and utility in deriving optimal topologies with multiple materials in the presence of stress and strain-based failure criteria, in addition to the conventional stiffness-based constraints.
+Keywords
+Topology optimization  Multi-material structures  Stress constraints  Failure criteria  

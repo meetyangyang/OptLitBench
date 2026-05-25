@@ -1,0 +1,6 @@
+A Study of Preconditioners for Network Interior Point Methods
+Joaquim J. Júdice;João Patricio;Luis F. Portugal;Mauricio G.C. Resende;Geraldo Veiga;
+Abstract
+We study and compare preconditioners available for network interior point methods. We derive upper bounds for the condition number of the preconditioned matrices used in the solution of systems of linear equations defining the algorithm search directions. The preconditioners are tested using PDNET, a state-of-the-art interior point code for the minimum cost network flow problem. A computational comparison using a set of standard problems improves the understanding of the effectiveness of preconditioners in network interior point methods.
+Keywords
+interior point method  linear programming  network flows  conjugate gradient  preconditioners  experimental testing of algorithms  

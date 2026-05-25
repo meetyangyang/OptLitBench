@@ -1,0 +1,6 @@
+Estimation of sparse hessian matrices and graph coloring problems
+Thomas F. Coleman;Jorge J. Moré;
+Abstract
+Large scale optimization problems often require an approximation to the Hessian matrix. If the Hessian matrix is sparse then estimation by differences of gradients is attractive because the number of required differences is usually small compared to the dimension of the problem. The problem of estimating Hessian matrices by differences can be phrased as follows: Given the sparsity structure of a symmetric matrixA, obtain vectorsd 1,d 2, …d p such thatAd 1,Ad 2, …Ad p determineA uniquely withp as small as possible. We approach this problem from a graph theoretic point of view and show that both direct and indirect approaches to this problem have a natural graph coloring interpretation. The complexity of the problem is analyzed and efficient practical heuristic procedures are developed. Numerical results illustrate the differences between the various approaches.
+Keywords
+Graph Coloring  Estimation of Hessian Matrices  Sparsity  Differentiation  Numerical Differences  NP-Complete Problems  Unconstrained Minimization  

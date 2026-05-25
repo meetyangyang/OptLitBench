@@ -1,0 +1,6 @@
+Constrained incremental bundle method with partial inexact oracle for nonsmooth convex semi-infinite programming problems
+Li-Ping Pang;Jian Lv;Jin-He Wang;
+Abstract
+Semi-infinite problem (SIPs) are widely used in many control systems for solving complex control problem, such as polymerase chain reaction control system or other real time control system. In this paper, we present a bundle method for solving the nonsmooth convex SIPs, with the aim of working on the basis of “improvement function”, “inexact oracle” and “incomplete knowledge” of the constraints. The proposed algorithm, whenever a new stabilized center is refreshed, requires an evaluation within some accuracy for the value of constraints. Beyond that, by using the incremental technique, it does not require all information about the constraints, but only one component function value and one subgradient needed to be estimated to update the bundle information and generate the search direction. Thus the computational cost is significantly reduced. Global convergence of this method is established based on some mild assumptions. Numerical experiments show that the algorithm is efficient for solving nonsmooth convex SIPs.
+Keywords
+Constrained optimization  Nonsmooth optimization  Semi-infinite programming  Bundle method  

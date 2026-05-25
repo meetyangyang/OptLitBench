@@ -1,0 +1,6 @@
+GLOBAL OPTIMIZATION ALGORITHMS FOR CHIP LAYOUT AND COMPACTION
+ MICHAEL C.   DORNEICH ; NIKOLAOS V.   SAHINIDIS ;
+Abstract
+ The package planning (chip layout and compaction) problem can be stated in terms of an optimization problem. The goal is to find the relative placement and shapes of the chips in a way that minimizes the total chip area subject to linear and nonlinear constraints. The constraints arise from geometric design rules, distance and connectivity requirements between various components, area and communication costs and other designer-specified requirements. The problem has been addressed in various settings. It is of unusual computational difficulty due to the nonconvexities- involved. This paper presents a new mixed-integer nonlinear programming formulation for simultaneous chip layout and two-dimensional compaction. Global optimization algorithms are developed for this model as well as for an existing formulation for the chip compaction problem. These algorithms are implemented with the global optimization software BARON and illustrated by solving several example problems. 
+Keywords
+ chip layout and compaction, package planning, branch-and-reduce, mixed-integer nonlinear programming 

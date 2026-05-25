@@ -1,0 +1,6 @@
+SCIP: global optimization of mixed-integer nonlinear programs in a branch-and-cut framework
+Stefan Vigerske;Ambros Gleixner;
+Abstract
+This paper describes the extensions that were added to the constraint integer programming framework SCIP in order to enable it to solve convex and nonconvex mixed-integer nonlinear programs (MINLPs) to global optimality. SCIP implements a spatial branch-and-bound algorithm based on a linear outer-approximation, which is computed by convex over- and underestimation of nonconvex functions. An expression graph representation of nonlinear constraints allows for bound tightening, structure analysis, and reformulation. Primal heuristics are employed throughout the solving process to find feasible solutions early. We provide insights into the performance impact of individual MINLP solver components via a detailed computational study over a large and heterogeneous test set.
+Keywords
+mixed-integer nonlinear programming, global optimization, nonconvex constraints, mixed-integer quadratically constrained programming, MINLP, MIQCP 

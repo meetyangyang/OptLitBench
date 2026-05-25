@@ -1,0 +1,6 @@
+A Large-Step Infeasible-Interior-Point Method for the P*-Matrix LCP
+Florian A.  Potra and Rongqin  Sheng;
+Abstract
+A large-step infeasible-interior-point method is proposed for solving $P_*(\k)$-matrix linear complementarity problems. It is new even for monotone LCP. The algorithm generates points in a large neighborhood of an infeasible central path. Each iteration requires only one matrix factorization. If the problem is solvable, then the algorithm converges from arbitrary positive starting points. The computational complexity of the algorithm depends on the quality of the starting point. If a well-centered starting point is feasible or close to being feasible, then it has $O((1+\k)\sqrt{n}\ln(\eps_0/\eps))$-iteration complexity. With appropriate initialization, a modified version of the algorithm terminates in $O((1+\k)^2n\ln(\eps_0/\eps))$ steps either by finding a solution or by determining that the problem is not solvable. High-order local convergence is proved for problems having a strictly complementary solution. We note that while the properties of the algorithm (e.g., computational complexity) depend on $\k$, the algorithm itself does not.
+Keywords
+linear complementarity problems, P*-matrices, infeasible-interior-point algorithm, polynomiality, superlinear convergence, 90C05, 90C33, 49M35, 49M40, 65K05, 

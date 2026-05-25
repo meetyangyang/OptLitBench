@@ -1,0 +1,6 @@
+Stochastic Control with Delayed Information and Related Nonlinear Master Equation
+Yuri F.  Saporito  and Jianfeng  Zhang;
+Abstract
+In this paper we study stochastic control problems with delayed information, that is, the control at time $t$ can depend only on the information observed before time $t-{h}$ for some delay parameter h. Such delay occurs frequently in practice and  can be viewed as a special case of partial observation. When the time duration $T$ is smaller than h, the problem becomes a deterministic control problem in the stochastic setting. While seemingly simple, the problem involves certain time inconsistency issues, and the value function naturally relies on the distribution of  the state process and thus is a solution to a nonlinear master equation. Consequently, the optimal state process solves a McKean--Vlasov SDE. In the general case that $T$ is larger than h, the master equation becomes path-dependent and the corresponding  McKean--Vlasov SDE involves the conditional distribution of the state process. We shall build these connections rigorously and obtain the existence of a classical solution of these nonlinear (path-dependent) master equations in some special cases.
+Keywords
+information delay, partial observation, master equation, McKean--Vlasov SDE, functional Itô formula, 60H30, 93E20, 

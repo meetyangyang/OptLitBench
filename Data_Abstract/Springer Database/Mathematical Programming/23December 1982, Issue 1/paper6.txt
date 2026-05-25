@@ -1,0 +1,6 @@
+On accelerating PL continuation algorithms by predictor—corrector methods
+Dietmar Saupe;
+Abstract
+We consider path following methods designed to trace the zeroes of a continuous or differentiable mapF:R n+1 →R n . These methods are applicable e.g. in the numerical study of nonlinear eigenvalue and bifurcation problems. Traditionally a simplicial algorithm is based on a fixed triangulationT ofR n+1  and a corresponding piecewise linear approximationF T :R n+1 →R n .4 A fixed triangulation algorithm then traces the zeroes ofF T  via a complementary pivoting procedure. We present two kinds of hybrid algorithms that have the structure of a predictor—corrector method using simplicial methods to carry out the corrector steps. Numerical experience is reported showing the improvement in efficiency as compared to the fixed triangulation algorithm.
+Keywords
+Path Following  PL Methods  Predictor—Corrector Algorithms  

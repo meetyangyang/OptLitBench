@@ -1,0 +1,6 @@
+Nonlinear Inexact Uzawa Algorithms for Linear and Nonlinear Saddle-point Problems
+Qiya  Hu and Jun  Zou;
+Abstract
+This paper proposes some nonlinear Uzawa methods for solving linear and nonlinear saddle-point problems. A nonlinear inexact Uzawa algorithm is first introduced for linear saddle-point problems. Two different PCG techniques are allowed in the inner and outer iterations of the algorithm. This algorithm is then extended for a class of nonlinear saddle-point problems arising from some convex optimization problems with linear constraints. For this extension, some PCG method used in the inner iteration needs to be carefully constructed so that it converges in a certain energy norm instead of the usual $l^2$-norm. It is shown that the new algorithm converges under some practical conditions and there is no need for any a priori estimates on the minimal and maximal eigenvalues of the two local preconditioned systems involved. The two new methods perform more efficiently than the existing methods in the cases where no good preconditioners are available for the Schur complements.
+Keywords
+linear and nonlinear saddle-point problems, inexact Uzawa algorithm, preconditioning, 65F10, 65N22, 

@@ -1,0 +1,6 @@
+A new trust region method for nonsmooth nonconvex optimization
+N. Hoseini;S. Nobakhtian;
+Abstract
+In this paper, we propose a nonsmooth trust region algorithm for nonconvex optimization problems. The algorithm is based on notion of the Goldstein -subdifferential, which are subgradients computed in some neighbourhoods of a point. The proposed method contains a new quadratic model of the classical trust region method, in which the gradient vector is replaced by a quasisecant. Then we apply a combined approach based on the Cauchy point and the dog-leg methods in order to solve the obtained model. The global convergence is established under some suitable assumptions. Finally, the algorithm is implemented in the MATLAB environment and applied on some nonsmooth test problems. Numerical results on some small-scale and large-scale nonsmooth optimization test problems illustrate the efficiency of the proposed algorithm in the practical computation.
+Keywords
+Nonlinear programming, nonsmoothness, Goldstein -subdifferential, trust region methods, global convergence 

@@ -1,0 +1,6 @@
+Back-and-forth shooting method for solving two-point boundary-value problems
+P. J. Orava;P. A. J. Lautala;
+Abstract
+The paper proposes a special iterative method for a nonlinear TPBVP of the form\(\dot x\)(t)=f(t, x(t),p(t)),\(\dot p\)(t)=g(t, x(t),p(t)), subject toh(x(0),p(0))=0,e(x(T),p(T))=0. Certain stability properties of the above differential equations are taken into consideration in the method, so that the integration directions associated with these equations respectively are opposite to each other, in contrast with the conventional shooting methods. Via an embedding and a Riccati-type transformation, the TPBVP is reduced to consecutive initial-value problems of ordinary differential equations. A preliminary numerical test is given by a simple example originating in an optimal control problem.
+Keywords
+Two-point boundary-value problems  shooting methods  invariant embedding  Riccati transformation  iterative numerical methods  

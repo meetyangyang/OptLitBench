@@ -1,0 +1,6 @@
+Sequential approximate optimization of industrial hammer peening using finite element simulations
+Jacques Luk-Cyr;Rayan El-Bawab;Henri Champliaud;Jacques Lanteigne;Aurelian Vadean;
+Abstract
+In this paper, the industrial hammer peening process is optimized using multi-objective, sequential approximate optimization, which is a mathematics- plus finite element- based algorithm. Since the number of design and objective variables is significant, the global optimization problem is split into two, more manageable multi-objective subproblems. The use of surrogate modelling together with an intensification and diversification strategy for solving the optimization subproblems allows for significant computational cost savings without loss of accuracy. Additionally, we propose a Bayesian inference criterion-based sensitivity approach for “filtering-out” design variables which do not significantly affect objectives variables. Finally, guidelines for selecting appropriate Pareto optima are given using \(N-1\) Pareto diagrams, where N is the number of objective variables.
+Keywords
+Hammer peening  Sequential approximate optimization  Pareto optima  Finite element  

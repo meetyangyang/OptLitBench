@@ -1,0 +1,6 @@
+Uniform stabilization of a viscous numerical approximation for a locally damped wave equation
+Arnaud Münch1 and Ademir Fernando Pazoto2;
+Abstract
+This work is devoted to theanalysis of a viscous finite-difference space semi-discretizationof a locally damped wave equation in a regular 2-D domain. Thedamping term is supported in a suitable subset of the domain, sothat the energy of solutions of the damped continuous waveequation decays exponentially to zero as time goes to infinity.Using discrete multiplier techniques, we prove that adding asuitable vanishing numerical viscosity term leads to a uniform(with respect to the mesh size) exponential decay of the energyfor the solutions of the numerical scheme. The numerical viscosityterm damps out the high frequency numerical spurious oscillationswhile the convergence of the scheme towards the original dampedwave equation is kept, which guarantees that the low frequenciesare damped correctly. Numerical experiments are presented andconfirm these theoretical results. These results extend those byTcheugoué-Tébou and Zuazua [Numer. Math. 95, 563–598 (2003)] where the 1-D casewas addressed as well the square domain in 2-D. The methods andresults in this paper extend to smooth domains in any spacedimension.
+Keywords
+Wave equation, stabilization, finite difference, viscous term

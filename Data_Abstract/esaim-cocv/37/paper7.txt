@@ -1,0 +1,6 @@
+Equivalent formulation and numerical analysis of a fire confinement problem
+Alberto Bressan and Tao Wang;
+Abstract
+We consider a class of variationalproblems for differential inclusions, related to thecontrol of wild fires. The area burned by the fire at time t > 0is modelled as the reachable set fora differential inclusion  ∈ F(x), starting froman initial set R0. To block the fire, a barrier can be constructedprogressively in time. For each t > 0, the portion of the wall constructedwithin time t is described by a rectifiable setγ(t) ⊂ . In this paperwe show that the searchfor blocking strategies and for optimal strategies can be reduced toa problem involving one single admissible rectifiable set Γ ⊂ ,rather than the multifunction t  γ(t) ⊂ .Relying on this result, we then developa numerical algorithm for the computation ofoptimal strategies, minimizing the total area burned by the fire.
+Keywords
+Dynamic blocking problem, differential inclusion, constrained minimum time proble

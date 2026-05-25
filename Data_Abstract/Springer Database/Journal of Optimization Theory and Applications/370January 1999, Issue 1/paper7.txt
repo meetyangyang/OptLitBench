@@ -1,0 +1,6 @@
+KKT Conditions for Rank-Deficient Nonlinear Least-Square Problems with Rank-Deficient Nonlinear Constraints
+M. Gulliksson;
+Abstract
+In nonlinear least-square problems with nonlinear constraints, the function \(\left. {(1/2)} \right\|\left. {f_2 (x)} \right\|_2^2\), where f2 is a nonlinear vector function, is to be minimized subject to the nonlinear constraints f1(x)=0. This problem is ill-posed if the first-order KKT conditions do not define a locally unique solution. We show that the problem is ill-posed if either the Jacobian of f1 or the Jacobian of J is rank-deficient (i.e., not of full rank) in a neighborhood of a solution satisfying the first-order KKT conditions. Either of these ill-posed cases makes it impossible to use a standard Gauss–Newton method. Therefore, we formulate a constrained least-norm problem that can be used when either of these ill-posed cases occur. By using the constant-rank theorem, we derive the necessary and sufficient conditions for a local minimum of this minimum-norm problem. The results given here are crucial for deriving methods solving the rank-deficient problem.
+Keywords
+Nonlinear least squares  optimization  regularization  KKT conditions  rank-deficient nonlinear constraints  rank-deficient nonlinear least-square problems  

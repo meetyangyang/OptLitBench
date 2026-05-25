@@ -1,0 +1,6 @@
+Mathematical programs with a two-dimensional reverse convex constraint
+P. T. Thach;R. E. Burkard;W. Oettli;
+Abstract
+We consider the problem min {f(x): x ∈ G, T(x) ∉ int D}, where f is a lower semicontinuous function, G a compact, nonempty set in ℝn, D a closed convex set in ℝ2 with nonempty interior and T a continuous mapping from ℝn to ℝ2. The constraint T(x) ∉ int D is a reverse convex constraint, so the feasible domain may be disconnected even when f, T are affine and G is a polytope. We show that this problem can be reduced to a quasiconcave minimization problem over a compact convex set in ℝ2 and hence can be solved effectively provided f, T are convex and G is convex or discrete. In particular we discuss a reverse convex constraint of the form 〈c, x〉 · 〈d, x〉≤1. We also compare the approach in this paper with the parametric approach.
+Keywords
+Reverse convex program  global optimization  

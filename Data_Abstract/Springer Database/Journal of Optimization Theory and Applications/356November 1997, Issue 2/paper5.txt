@@ -1,0 +1,6 @@
+Efficient Sequential Quadratic Programming Implementations for Equality-Constrained Discrete-Time Optimal Control
+C. R. Dohrmann;R. D. Robinett;
+Abstract
+Efficient sequential quadratic programming (SQP) implementations are presented for equality-constrained, discrete-time, optimal control problems. The algorithm developed calculates the search direction for the equality-based variant of SQP and is applicable to problems with either fixed or free final time. Problem solutions are obtained by solving iteratively a series of constrained quadratic programs. The number of mathematical operations required for each iteration is proportional to the number of discrete times N. This is contrasted by conventional methods in which this number is proportional to N3. The algorithm results in quadratic convergence of the iterates under the same conditions as those for SQP and simplifies to an existing dynamic programming approach when there are no constraints and the final time is fixed. A simple test problem and two application problems are presented. The application examples include a satellite dynamics problem and a set of brachistochrone problems involving viscous friction.
+Keywords
+Optimal control  sequential quadratic programming  dynamic programming  Newton method  

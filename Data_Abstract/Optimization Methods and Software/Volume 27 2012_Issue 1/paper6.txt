@@ -1,0 +1,6 @@
+A pivoting algorithm for linear programming with linear complementarity constraints
+ Haw-ren   Fang ; Sven   Leyffer ; Todd   Munson ;
+Abstract
+ We present a pivoting algorithm for solving linear programs with linear complementarity constraints. Our method generalizes the simplex method for linear programming to deal with complementarity conditions. We develop an anticycling scheme that can verify Bouligand stationarity. We also give an optimization-based technique to find an initial feasible vertex. Starting with a feasible vertex, our algorithm always finds a minimizer or an unbounded descent search direction in a finite number of pivoting steps. 
+Keywords
+complementarity constraints, linear program with complementarity constraints, pivoting method AMS Subject Classification : 65K15, 90C33, 90C49 

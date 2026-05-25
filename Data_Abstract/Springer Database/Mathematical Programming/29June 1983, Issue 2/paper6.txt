@@ -1,0 +1,6 @@
+Truncated-newtono algorithms for large-scale unconstrained optimization
+Ron S. Dembo;Trond Steihaug;
+Abstract
+We present an algorithm for large-scale unconstrained optimization based onNewton's method. In large-scale optimization, solving the Newton equations at each iteration can be expensive and may not be justified when far from a solution. Instead, an inaccurate solution to the Newton equations is computed using a conjugate gradient method. The resulting algorithm is shown to have strong convergence properties and has the unusual feature that the asymptotic convergence rate is a user specified parameter which can be set to anything between linear and quadratic convergence. Some numerical results on a 916 vriable test problem are given. Finally, we contrast the computational behavior of our algorithm with Newton's method and that of a nonlinear conjugate gradient algorithm.
+Keywords
+Unconstrained Optimization  Modified Newton Methods  Conjugate Gradient Algorithms  

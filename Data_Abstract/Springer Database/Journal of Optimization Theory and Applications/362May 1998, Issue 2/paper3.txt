@@ -1,0 +1,6 @@
+Optimal Control of a Ship for a Course-Changing Maneuver
+C. Y. Tzeng;
+Abstract
+The steering control of a ship during a course-changing maneuver is formulated as a Bolza optimal control problem, which is solved via the sequential gradient-restoration algorithm (SGRA). Nonlinear differential equations describing the yaw dynamics of a steering ship are employed as the differential constraints, and both amplitude and slew rate limits on the rudder are imposed. Two performance indices are minimized: one measures the time integral of the squared course deviation between the actual ship course and a target course; the other measures the time integral of the absolute course deviation. Numerical results indicate that a smooth transition from the initial set course to the target course is achievable, with a trade-off between the speed of response and the amount of course angle overshoot.
+Keywords
+Nonlinear ship steering dynamics  optimal control  saturation  slew rate limitation  sequential gradient-restoration algorithm  

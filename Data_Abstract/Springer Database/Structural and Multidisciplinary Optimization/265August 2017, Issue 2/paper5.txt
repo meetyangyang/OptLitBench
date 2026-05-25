@@ -1,0 +1,6 @@
+S-Lay pipe laying optimization using specialized PSO method
+Stefan Ivić;Siniša Družeta;Ivana Hreljac;
+Abstract
+The paper deals with the optimization of the S-Lay submarine pipe-laying. The considered laying model is based on a nonlinear elastic beam model with elastic contact interactions with rigid structures of roller supports and the seabed, solved in the Abaqus software. The optimization problem is formulated so as to determine the main parameters of pipe-laying. In order to maximize the efficiency of the optimization procedure, a specialized Particle Swarm Optimization variant is developed. The introduced δ-PSO employs an additional displacement of agent positions, through which the optimization is directed towards solutions based on offshore engineering practice. Two different cases of submarine pipe laying were used for testing. In these tests, the specialized PSO was compared to standard PSO and Mesh Adaptive Direct Search, which it both outperformed. The δ-PSO specialization is easy to implement in PSO or other swarm intelligence methods, and hopefully can provide similar improvements in other applications.
+Keywords
+Submarine pipe-laying  S-Lay  Particle swarm optimization  Specialized optimization method  

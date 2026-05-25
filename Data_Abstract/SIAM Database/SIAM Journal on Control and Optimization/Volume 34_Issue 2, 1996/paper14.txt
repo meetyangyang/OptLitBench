@@ -1,0 +1,6 @@
+The Efficiency of Subgradient Projection Methods for Convex Optimization, Part I: General Level Methods
+Krzysztof C.  Kiwiel;
+Abstract
+We study subgradient methods for convex optimization that use projections onto successive approximations of level sets of the objective corresponding to estimates of the optimal value. We present several variants and show that they enjoy almost optimal efficiency estimates. In another paper we discuss possible implementations of such methods. In particular, their projection subproblems may be solved inexactly via relaxation methods, thus opening the way for parallel implementations. They can also exploit accelerations of relaxation methods based on simultaneous projections, surrogate constraints, and conjugate and projected (conditional) subgradient techniques.
+Keywords
+nondifferentiable (nonsmooth) optimization, convex programming, relaxation methods, subgradient optimization, successive projections, linear inequalities, parallel computing, 65K05, 90C25, 

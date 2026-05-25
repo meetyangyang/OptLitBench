@@ -1,0 +1,6 @@
+Inexact restoration method for minimization problems arising in electronic structure calculations
+Juliano B. Francisco;J. M. Martínez;Leandro Martínez;Feodor Pisnitchenko;
+Abstract
+An inexact restoration (IR) approach is presented to solve a matricial optimization problem arising in electronic structure calculations. The solution of the problem is the closed-shell density matrix and the constraints are represented by a Grassmann manifold. One of the mathematical and computational challenges in this area is to develop methods for solving the problem not using eigenvalue calculations and having the possibility of preserving sparsity of iterates and gradients. The inexact restoration approach enjoys local quadratic convergence and global convergence to stationary points and does not use spectral matrix decompositions, so that, in principle, large-scale implementations may preserve sparsity. Numerical experiments show that IR algorithms are competitive with current algorithms for solving closed-shell Hartree-Fock equations and similar mathematical problems, thus being a promising alternative for problems where eigenvalue calculations are a limiting factor.
+Keywords
+Constrained optimization  Inexact restoration  Hartree-Fock  Self-consistent field  Quadratic convergence  Numerical experiments  

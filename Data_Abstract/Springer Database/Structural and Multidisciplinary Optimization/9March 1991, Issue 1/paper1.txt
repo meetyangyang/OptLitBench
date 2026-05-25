@@ -1,0 +1,6 @@
+On the accuracy of shape sensitivity
+R. T. Haftka;B. Barthelemy;
+Abstract
+The calculation of sensitivity of the response of a structure modeled by finite elements to shape variation is known to be subject to numerical difficulties. The accuracy of a given method is typically measured against the yard stick of finite-difference sensitivity calculation. The present paper demonstrates with a simple example that this approach may be flawed because of discretization errors associated with the finite element mesh. Seven methods for calculating sensitivity derivatives are compared for a two-material beam problem with a moving interface. It is found that as the mesh is refined, displacement sensitivity derivatives converge more slowly than the displacements. Six of the methods agree fairly well, but the adjoint variational surface method provides substantially different results. However, the difference is found to reflect convergence from another direction to the same answer rather than reduced accuracy. Additionally, it is observed that small derivatives are particularly prone to accuracy problems.
+Keywords
+Civil Engineer  Element Mesh  Shape Variation  Finite Element Mesh  Surface Method  

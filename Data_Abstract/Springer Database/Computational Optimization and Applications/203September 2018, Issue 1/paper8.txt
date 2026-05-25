@@ -1,0 +1,6 @@
+Reconstruction of 3D X-ray CT images from reduced sampling by a scaled gradient projection algorithm
+E. Loli Piccolomini;V. L. Coli;E. Morotti;L. Zanni;
+Abstract
+We propose a scaled gradient projection algorithm for the reconstruction of 3D X-ray tomographic images from limited data. The problem arises from the discretization of an ill-posed integral problem and, due to the incompleteness of the data, has infinite possible solutions. Hence, by following a regularization approach, we formulate the reconstruction problem as the nonnegatively constrained minimization of an objective function given by the sum of a fit-to-data term and a smoothed differentiable Total Variation function. The problem is challenging for its very large size and because a good reconstruction is required in a very short time. For these reasons, we propose to use a gradient projection method, accelerated by exploiting a scaling strategy for defining gradient-based descent directions and generalized Barzilai–Borwein rules for the choice of the step-lengths. The numerical results on a 3D phantom are very promising since they show the ability of the scaling strategy to accelerate the convergence in the first iterations.
+Keywords
+3D Computed tomography  Image reconstruction  Total variation regularization  Nonnegatively constrained minimization  Scaled gradient projection methods  

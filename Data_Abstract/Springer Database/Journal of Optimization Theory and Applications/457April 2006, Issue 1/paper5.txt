@@ -1,0 +1,6 @@
+Interior-Point Solver for Large-Scale Quadratic Programming Problems with Bound Constraints
+S. Cafieri;M. D’Apuzzo;M. Marino;A. Mucherino;G. Toraldo;
+Abstract
+In this paper, we present an interior-point algorithm for large and sparse convex quadratic programming problems with bound constraints. The algorithm is based on the potential reduction method and the use of iterative techniques to solve the linear system arising at each iteration. The global convergence properties of the potential reduction method are reassessed in order to take into account the inexact solution of the inner system. We describe the iterative solver, based on the conjugate gradient method with a limited-memory incomplete Cholesky factorization as preconditioner. Furthermore, we discuss some adaptive strategies for the fill-in and accuracy requirements that we use in solving the linear systems in order to avoid unnecessary inner iterations when the iterates are far from the solution. Finally, we present the results of numerical experiments carried out to verify the effectiveness of the proposed strategies. We consider randomly generated sparse problems without a special structure. Also, we compare the proposed algorithm with the MOSEK solver.
+Keywords
+Bound-constrained quadratic programming  potential reduction method  conjugate gradient method  incomplete Cholesky factorization  

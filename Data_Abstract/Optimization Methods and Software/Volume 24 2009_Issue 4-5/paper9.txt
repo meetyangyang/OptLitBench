@@ -1,0 +1,6 @@
+The global solver in the LINDO API
+ Youdong   Lin ; Linus   Schrage ;
+Abstract
+ The global solver in the LINDO Application Programming Interface (LINDO API) finds guaranteed global optima to nonconvex, nonlinear and integer mathematical models using the branch and bound/relax approach. We describe (a) the class of problems for which it tends to be appropriate; (b) how to access it directly via the LINDO API or via various modelling language front ends; (c) heuristics used for finding good initial solutions; (d) methods for constructing easily solved relaxations; (e) branching rules for splitting a problem into more easily solved subproblems; and (f) some illustrative computational results. 
+Keywords
+global optimization, nonsmooth optimization, mixed integer nonlinear programming, LINDO API AMS Subject Classification : 90C26, 90C11, 65K05 

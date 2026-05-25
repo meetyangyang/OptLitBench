@@ -1,0 +1,6 @@
+Earliness and tardiness single machine scheduling with proportional weights
+Wlodzimierz Szwarc;Samar K. Mukhopadhyay;
+Abstract
+This paper presents the first efficient method to solve an earliness-tardiness single machine n job scheduling model with idle times permitted. In this model the earliness and tardiness penalties are proportional to the processing times of the jobs. A two stage decomposition process builds the optimal job arrangement as a sequence of single and multijob blocks. The arrangement of the jobs within each multijob block is unspecified since it depends on the start time of this block. This process is followed by a procedure that drastically reduces the number of candidate optimal n job sequences. Finally an available optimal timing algorithm is recommended and implemented to select the best schedule among those sequences. The solution procedure tested on a PC on 400 examples for n=40 and 50 proves to be very fast.
+Keywords
+Start Time  Decomposition Process  Solution Procedure  Timing Algorithm  Idle Time  

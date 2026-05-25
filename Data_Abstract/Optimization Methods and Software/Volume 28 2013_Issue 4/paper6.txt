@@ -1,0 +1,6 @@
+New combinatorial direction stochastic approximation algorithms
+ Zi   Xu ;
+Abstract
+ The stochastic approximation problem is to find some roots or minimizers of a nonlinear function whose expression is unknown and whose evaluations are contaminated with noise. In order to accelerate the classical RM algorithm, this paper proposes a new three-term combinatorial direction stochastic approximation algorithm and its general framework which employ a weighted combination of the current noisy gradient and several previous noisy gradients as the iterative direction. Both the almost sure convergence and the asymptotic rate of convergence of the new algorithms are established. Numerical experiments show that the new algorithm outperforms the RM algorithm and another existing combined direction algorithm. 
+Keywords
+stochastic approximation, conjugate gradient, Robbins–Monro algorithm, combinatorial directionAMS Subject Classification: 90C15, 62L20 

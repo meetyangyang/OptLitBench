@@ -1,0 +1,6 @@
+A random coordinate descent algorithm for optimization problems with composite objective function and linear coupled constraints
+Ion Necoara;Andrei Patrascu;
+Abstract
+In this paper we propose a variant of the random coordinate descent method for solving linearly constrained convex optimization problems with composite objective functions. If the smooth part of the objective function has Lipschitz continuous gradient, then we prove that our method obtains an ϵ-optimal solution in \(\mathcal{O}(n^{2}/\epsilon)\) iterations, where n is the number of blocks. For the class of problems with cheap coordinate derivatives we show that the new method is faster than methods based on full-gradient information. Analysis for the rate of convergence in probability is also provided. For strongly convex functions our method converges linearly. Extensive numerical tests confirm that on very large problems, our method is much more numerically efficient than methods based on full gradient information.
+Keywords
+Coordinate descent  Composite objective function  Linearly coupled constraints  Randomized algorithms  Convergence rate \(\mathcal{O}(1/\epsilon)\)  

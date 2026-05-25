@@ -1,0 +1,6 @@
+CGS algorithms for unconstrained minimization of functions
+R. F. Dennemeyer;E. H. Mookini;
+Abstract
+In 1952, Hestenes and Stiefel first established, along with the conjugate-gradient algorithm, fundamental relations which exist between conjugate direction methods for function minimization on the one hand and Gram-Schmidt processes relative to a given positive-definite, symmetric matrix on the other. This paper is based on a recent reformulation of these relations by Hestenes which yield the conjugate Gram-Schmidt (CGS) algorithm. CGS includes a variety of function minimization routines, one of which is the conjugate-gradient routine. This paper gives the basic equations of CGS, including the form applicable to minimizing general nonquadratic functions ofn variables. Results of numerical experiments of one form of CGS on five standard test functions are presented. These results show that this version of CGS is very effective.
+Keywords
+Numerical methods  function minimization  conjugate Gram-Schmidt algorithm  unconstrained minimization  conjugate directions  

@@ -1,0 +1,6 @@
+Topology optimization for minimum mass design considering local failure constraints and contact boundary conditions
+E. A. Fancello;
+Abstract
+The purpose of this work is to present a possible approach to the topology mass minimization of a body submitted to local material failure constraints, contact boundary conditions, and multiple load cases. The formulation combines the well-known SIMP approach (Solid Isotropic Microstructure with intermediate mass Penalization) and the Augmented Lagrangian technique to deal with stress-based constraints. At every design step and load case, a contact solver is called to obtain the equilibrium deformed configuration. Assuming differentiability, the sensitivity analysis is performed analytically at the cost of a Newton iteration. Finally, some numerical examples are presented to explore the differences and similarities found in the final designs for this case and for the case of minimization of internal energy, also with contact boundary conditions.
+Keywords
+Topology Optimization  Contact Problem  Stress Constraint  Minimum Mass  Unilateral Contact  

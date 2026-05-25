@@ -1,0 +1,6 @@
+An exact algorithm for generating homogenous two-segment cutting patterns
+ Y.   Cui ;
+Abstract
+ An exact algorithm is proposed for generating homogenous two-segment patterns for the constrained two-dimensional guillotine-cutting problems of rectangular items. It is a bottom-up approach combined with branch-and-bound techniques. The stock plate is divided into two segments. Each segment consists of strips of the same length and direction. Only homogenous strips are considered, each of which contains items of the same type. The strip directions of the two segments may be either the same or perpendicular to each other. The algorithm uses a tree-search procedure. It starts from an initial lower bound, implicitly generates all possible segments through the assembly of strips, and constructs possible patterns through the combination of two segments. Tighter bounds are established to discard non-promising segments. The computational results indicate that the algorithm is efficient both in computation time and in material utilization, and is able to deal with relatively large-scale problems. 
+Keywords
+Cutting, Cutting stock, Constrained two-dimensional cutting, Packing 

@@ -1,0 +1,6 @@
+An unbounded Sum-of-Squares hierarchy integrality gap for a polynomially solvable problem
+Adam Kurpisz;Samuli Leppänen;Monaldo Mastrolilli;
+Abstract
+In this paper we study the complexity of the Min-sum single machine scheduling problem under algorithms from the Sum-of-Squares/Lasserre hierarchy. We prove the first lower bound for this model by showing that the integrality gap is unbounded at level \(\Omega (\sqrt{n})\) even for a variant of the problem that is solvable in \(O(n \log n)\) time by the Moore–Hodgson algorithm, namely Min-number of late jobs. We consider a natural formulation that incorporates the objective function as a constraint and prove the result by partially diagonalizing the matrix associated with the relaxation and exploiting this characterization. To the best of our knowledge, our result provides the first example where the Sum-of-Squares hierarchy exhibits an unbounded integrality gap for a polynomially solvable problem after non-constant number of levels.
+Keywords
+Sum-of-Squares hierarchy  Integrality gap  Min-number of late jobs  90C05  90C22  

@@ -1,0 +1,6 @@
+Stable local volatility function calibration using spline kernel
+Thomas F. Coleman;Yuying Li;Cheng Wang;
+Abstract
+We propose an optimization formulation using the l 1 norm to ensure accuracy and stability in calibrating a local volatility function for option pricing. Using a regularization parameter, the proposed objective function balances calibration accuracy with model complexity. Motivated by the support vector machine learning, the unknown local volatility function is represented by a spline kernel function and the model complexity is controlled by minimizing the 1-norm of the kernel coefficient vector. In the context of support vector regression for function estimation based on a finite set of observations, this corresponds to minimizing the number of support vectors for predictability. We illustrate the ability of the proposed approach to reconstruct the local volatility function in a synthetic market. In addition, based on S&P 500 market index option data, we demonstrate that the calibrated local volatility surface is simple and resembles the observed implied volatility surface in shape. Stability is illustrated by calibrating local volatility functions using market option data from different dates.
+Keywords
+Local volatility function  Spline kernel  Calibration  L1 optimization  Trust region method  Option pricing  

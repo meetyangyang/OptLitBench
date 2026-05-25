@@ -1,0 +1,6 @@
+A multi-parametric programming approach for constrained dynamic programming problems
+Nuno P. Faísca;Konstantinos I. Kouramas;Pedro M. Saraiva;Berç Rustem;Efstratios N. Pistikopoulos;
+Abstract
+In this work, we present a new algorithm for solving complex multi-stage optimization problems involving hard constraints and uncertainties, based on dynamic and multi-parametric programming techniques. Each echelon of the dynamic programming procedure, typically employed in the context of multi-stage optimization models, is interpreted as a multi-parametric optimization problem, with the present states and future decision variables being the parameters, while the present decisions the corresponding optimization variables. This reformulation significantly reduces the dimension of the original problem, essentially to a set of lower dimensional multi-parametric programs, which are sequentially solved. Furthermore, the use of sensitivity analysis circumvents non-convexities that naturally arise in constrained dynamic programming problems. The potential application of the proposed novel framework to robust constrained optimal control is highlighted.
+Keywords
+Dynamic programming  Constrained multi-stage models  Parametric programming  

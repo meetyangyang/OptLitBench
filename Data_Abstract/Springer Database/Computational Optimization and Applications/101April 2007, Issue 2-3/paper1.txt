@@ -1,0 +1,8 @@
+Inexact constraint preconditioners for linear systems arising in interior point methods
+Luca Bergamaschi;Jacek Gondzio;Manolo Venturin;Giovanni Zilli;
+Abstract
+
+Issues of indefinite preconditioning of reduced Newton systems arising in optimization with interior point methods are addressed in this paper. Constraint preconditioners have shown much promise in this context. However, there are situations in which an unfavorable sparsity pattern of Jacobian matrix may adversely affect the preconditioner and make its inverse representation unacceptably dense hence too expensive to be used in practice. A remedy to such situations is proposed in this paper. An approximate constraint preconditioner is considered in which sparse approximation of the Jacobian is used instead of the complete matrix. Spectral analysis of the preconditioned matrix is performed and bounds on its non-unit eigenvalues are provided. Preliminary computational results are encouraging.
+
+Keywords
+Interior-point methods  Iterative solvers  Preconditioners  Approximate Jacobian  

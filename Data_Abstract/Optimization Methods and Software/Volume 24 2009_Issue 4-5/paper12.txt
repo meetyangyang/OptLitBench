@@ -1,0 +1,6 @@
+ICOS: a branch and bound based solver for rigorous global optimization
+ Y.   Lebbah ;
+Abstract
+ This article describes a software package called Interval Constraint Solver (ICOS), which implements a branch and bound algorithm for rigorously solving global optimization problems. The ICOS library contains algorithms coming from constraint programming, interval analysis, and linear relaxation techniques. It contains an interface to linear programming solvers and local optimization solvers (e.g. Coin/Clp, Cplex, and IpOpt). ICOS has also its own AMPL parser, which enables calling ICOS binary code in a Unix-like command. The ICOS strategy language enables combining and parameterizing existing algorithms for solving optimization problems. Thus, the user can develop his own solving strategies without changing anything in the ICOS internal architecture. Various examples are given to show how the strategy language can be used. We give an overview of ICOS design, implementation, and a quick user’s guide. 
+Keywords
+global optimization, interval analysis, constraint programming, problem solving AMS Subject Classification : 90C26, 65G40, 68T20, 68N01 

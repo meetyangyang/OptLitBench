@@ -1,0 +1,6 @@
+Covariance selection for nonchordal graphs via chordal embedding
+ Joachim   Dahl ; Lieven   Vandenberghe ; Vwani   Roychowdhury ;
+Abstract
+ We describe algorithms for maximum likelihood estimation of Gaussian graphical models with conditional independence constraints. This problem is also known as covariance selection, and it can be expressed as an unconstrained convex optimization problem with a closed-form solution if the underlying graph is chordal. The focus of the paper is on iterative algorithms for covariance selection with nonchordal graphs. We first derive efficient methods for evaluating the gradient and Hessian of the log-likelihood function when the underlying graph is chordal. The algorithms are formulated as simple recursions on a clique tree associated with the graph. We also show that the gradient and Hessian mappings are easily inverted when the underlying graph is chordal. We then exploit these results to obtain efficient implementations of Newton's method and the conjugate gradient method for large nonchordal graphs, by embedding the graph in a chordal graph. 
+Keywords
+convex optimization, sparse matrices, chordal graphs 

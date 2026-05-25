@@ -1,0 +1,6 @@
+INTLAB implementation of an interval global optimization algorithm
+ László   Pál ; Tibor   Csendes ;
+Abstract
+ We describe a new implementation of an interval optimization algorithm with focus on the software related issues. The algorithm implemented in MATLAB that uses the INTLAB package supporting interval calculations and automatic differentiation solves the bound constrained global optimization problem. The method itself is a simplified version of those interval techniques much investigated in the past, that was first developed from the global optimization algorithm of the Numerical Toolbox for Verified Computing. According to the numerical studies completed, the new INTLAB-based implementation is closely as efficient as its C-XSC-based basis algorithm – with the exception of the CPU time needed (the longer computations are due to the interpreter nature of MATLAB). 
+Keywords
+interval methods, INTLAB, bound constrained global optimization, verified solution AMS Subject Classification : 65K05, 90C30 

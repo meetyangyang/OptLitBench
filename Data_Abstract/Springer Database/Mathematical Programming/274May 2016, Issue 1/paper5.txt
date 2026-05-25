@@ -1,0 +1,6 @@
+A cross-decomposition scheme with integrated primal–dual multi-cuts for two-stage stochastic programming investment planning problems
+Sumit Mitra;Pablo Garcia-Herreros;Ignacio E. Grossmann;
+Abstract
+We describe a cross-decomposition algorithm that combines Benders and scenario-based Lagrangean decomposition for two-stage stochastic programming investment planning problems with complete recourse, where the first-stage variables are mixed-integer and the second-stage variables are continuous. The algorithm is a novel cross-decomposition scheme and fully integrates primal and dual information in terms of primal–dual multi-cuts added to the Benders and the Lagrangean master problems for each scenario. The potential benefits of the cross-decomposition scheme are demonstrated with numerical experiments on a number of instances of a facility location problem under disruptions. In the original formulation, where the underlying LP relaxation is weak, the cross-decomposition method outperforms multi-cut Benders decomposition. If the formulation is improved with the addition of tightening constraints, the performance of both decomposition methods improves but cross-decomposition clearly remains the best method for large-scale problems.
+Keywords
+Cross-decomposition  Two-stage stochastic programming   Investment planning  

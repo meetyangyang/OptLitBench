@@ -1,0 +1,6 @@
+Support vector machine via nonlinear rescaling method
+Roman Polyak;Shen-Shyang Ho;Igor Griva;
+Abstract
+In this paper we construct the linear support vector machine (SVM) based on the nonlinear rescaling (NR) methodology (see [Polyak in Math Program 54:177–222, 1992; Polyak in Math Program Ser A 92:197–235, 2002; Polyak and Teboulle in Math Program 76:265–284, 1997] and references therein). The formulation of the linear SVM based on the NR method leads to an algorithm which reduces the number of support vectors without compromising the classification performance compared to the linear soft-margin SVM formulation. The NR algorithm computes both the primal and the dual approximation at each step. The dual variables associated with the given data-set provide important information about each data point and play the key role in selecting the set of support vectors. Experimental results on ten benchmark classification problems show that the NR formulation is feasible. The quality of discrimination, in most instances, is comparable to the linear soft-margin SVM while the number of support vectors in several instances were substantially reduced.
+Keywords
+Support vector machine  Convex optimization  Duality  Lagrange multipliers  

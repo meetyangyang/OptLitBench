@@ -1,0 +1,6 @@
+C-Sets-based sequential heuristic procedure for the one-dimensional cutting stock problem with pattern reduction
+ Yaodong   Cui ; Zhiyong   Liu ;
+Abstract
+ This paper presents a sequential heuristic procedure (SHP) for the 1D cutting stock problem with pattern reduction, where a set of items are cut from stock bars of the same length to minimize the bar cost, with a secondary objective being to reduce the pattern count of the cutting plan. The SHP generates the current pattern to produce some items, and continues until all items are fulfilled. The algorithm uses two candidate sets (C-Sets). The first is the set of the candidate items for generating the current pattern. The second is the set of candidate patterns from which the current pattern is selected. The algorithm generates candidate patterns using the candidate items, determines the estimated cutting-plan cost (ECP-cost) of each pattern using a look-ahead strategy, and selects the pattern of the minimum ECP-cost as the current pattern. The computational results indicate that the algorithm is efficient. 
+Keywords
+cutting stock, one-dimensional cutting, pattern reduction, look-ahead strategy 

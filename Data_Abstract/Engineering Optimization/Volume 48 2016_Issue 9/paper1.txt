@@ -1,0 +1,6 @@
+An efficient hybrid reliability analysis method with random and interval variables
+Shaojun Xie;Baisong Pan;Xiaoping Du;
+Abstract
+Random and interval variables often coexist. Interval variables make reliability analysis much more computationally intensive. This work develops a new hybrid reliability analysis method so that the probability analysis (PA) loop and interval analysis (IA) loop are decomposed into two separate loops. An efficient PA algorithm is employed, and a new efficient IA method is developed. The new IA method consists of two stages. The first stage is for monotonic limit-state functions. If the limit-state function is not monotonic, the second stage is triggered. In the second stage, the limit-state function is sequentially approximated with a second order form, and the gradient projection method is applied to solve the extreme responses of the limit-state function with respect to the interval variables. The efficiency and accuracy of the proposed method are demonstrated by three examples.
+Keywords
+epistemic uncertainty, interval variable, hybrid uncertainty analysis 

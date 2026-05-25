@@ -1,0 +1,6 @@
+Efficient solution of two-stage stochastic linear programs using interior point methods
+J. R. Birge;D. F. Holmes;
+Abstract
+Solving deterministic equivalent formulations of two-stage stochastic linear programs using interior point methods may be computationally difficult due to the need to factorize quite dense search direction matrices (e.g., AA T ). Several methods for improving the algorithmic efficiency of interior point algorithms by reducing the density of these matrices have been proposed in the literature. Reformulating the program decreases the effort required to find a search direction, but at the expense of increased problem size. Using transpose product formulations (e.g., A T A) works well but is highly problem dependent. Schur complements may require solutions with potentially near singular matrices. Explicit factorizations of the search direction matrices eliminate these problems while only requiring the solution to several small, independent linear systems. These systems may be distributed across multiple processors. Computational experience with these methods suggests that substantial performance improvements are possible with each method and that, generally, explicit factorizations require the least computational effort.
+Keywords
+Interior point algorithms  stochastic programming  

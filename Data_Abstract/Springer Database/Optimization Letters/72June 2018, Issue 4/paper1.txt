@@ -1,0 +1,6 @@
+Robust optimization of noisy blackbox problems using the Mesh Adaptive Direct Search algorithm
+Charles Audet;Amina Ihaddadene;Sébastien Le Digabel;Christophe Tribes;
+Abstract
+Blackbox optimization problems are often contaminated with numerical noise, and direct search methods such as the Mesh Adaptive Direct Search (MADS) algorithm may get stuck at solutions artificially created by the noise. We propose a way to smooth out the objective function of an unconstrained problem using previously evaluated function evaluations, rather than resampling points. The new algorithm, called Robust-MADS is applied to a collection of noisy analytical problems from the literature and on an optimization problem to tune the parameters of a trust-region method.
+Keywords
+Robust optimization  Direct search  Blackbox optimization  MADS  

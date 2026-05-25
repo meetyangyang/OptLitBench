@@ -1,0 +1,6 @@
+Capacitated transit assignment with loading priorities
+Younes Hamdouch;Patrice Marcotte;Sang Nguyen;
+Abstract
+In a transit network involving vehicles with rigid capacities, we advocate the use of strategies for describing consumer behavior. At each boarding node, a user sorts the transit lines in decreasing order of preference, and boards the first vehicle in this list whose residual capacity is nonzero. Since a user’s position in the queue varies from day to day, the delay experienced is stochastic. This leads to an equilibrium problem where, at a solution, users are assigned to strategies that minimize their expected delay. This situation is formulated as a variational inequality, whose cost mapping is discontinuous and strongly asymmetric, due to the priority of current passengers over incoming users. We prove that the solution set is nonempty and provide numerical results obtained by an efficient solution algorithm.
+Keywords
+Transit networks  Equilibrium assignment  Strategy  Hyperpath  Capacities  Priorities  Variational inequalities  

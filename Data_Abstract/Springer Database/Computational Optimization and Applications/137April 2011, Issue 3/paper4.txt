@@ -1,0 +1,6 @@
+Sufficient descent directions in unconstrained optimization
+Xiao-Min An;Dong-Hui Li;Yunhai Xiao;
+Abstract
+Descent property is very important for an iterative method to be globally convergent. In this paper, we propose a way to construct sufficient descent directions for unconstrained optimization. We then apply the technique to derive a PSB (Powell-Symmetric-Broyden) based method. The PSB based method locally reduces to the standard PSB method with unit steplength. Under appropriate conditions, we show that the PSB based method with Armijo line search or Wolfe line search is globally and superlinearly convergent for uniformly convex problems. We also do some numerical experiments. The results show that the PSB based method is competitive with the standard BFGS method.
+Keywords
+Unconstrained optimization  Sufficient descent direction  PSB method  Global convergence  Superlinear convergence  

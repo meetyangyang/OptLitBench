@@ -1,0 +1,6 @@
+A new method for estimating missing values for a genetic algorithm used in robust design
+ E.   Canessa ; S.   Vera ; H.   Allende ;
+Abstract
+ This article presents an improved genetic algorithm (GA), which finds solutions to problems of robust design in multivariate systems with many control and noise factors. Since some values of responses of the system might not have been obtained from the robust design experiment, but may be needed in the search process, the GA uses response surface methodology (RSM) to estimate those values. In all test cases, the GA delivered solutions that adequately adjusted the mean of the responses to their corresponding target values and with low variability. The GA found more solutions than the previous versions of the GA, which makes it easier to find a solution that may meet the trade-off among variance reduction, mean adjustment and economic considerations. Moreover, RSM is a good method for estimating the mean and variance of the outputs of highly non-linear systems, which makes the new GA appropriate for optimizing such systems. 
+Keywords
+robust design, Taguchi methods, genetic algorithms, response surface methodology 

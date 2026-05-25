@@ -1,0 +1,6 @@
+Fixed-mesh curvature-parameterized shape optimization of an acoustic horn
+Fotios Kasolis;Eddie Wadbro;Martin Berggren;
+Abstract
+We suggest a boundary shape optimization approach in which the optimization is carried out on the coefficients in a boundary parameterization based on a local, discrete curvature. A fixed mesh is used to numerically solve the governing equations, in which the geometry is represented through inhomogeneous coefficients, similarly as done in the material distribution approach to topology optimization. The method is applied to the optimization of an acoustic horn in two space dimensions. Numerical experiments show that this method can calculate the horn’s transmission properties as accurately as a traditional, body-fitted approach. Moreover, the use of a fixed mesh allows the optimization to create shapes that would be difficult to handle with a traditional approach that uses deformations of a body-fitted mesh. The parameterization inherently promotes smooth designs without unduly restriction of the design flexibility. The optimized, smooth horns consistently show favorable transmission properties.
+Keywords
+Shape optimization  Material distribution approach  Acoustic horns  Helmholtz equation  

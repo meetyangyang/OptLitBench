@@ -1,0 +1,8 @@
+Adaptive and restarting techniques-based algorithms for circular packing problems
+Mhand Hifi;Rym M’Hallah;
+Abstract
+
+In this paper, we study the circular packing problem (CPP) which consists of packing a set of non-identical circles of known radii into the smallest circle with no overlap of any pair of circles. To solve CPP, we propose a three-phase approximate algorithm. During its first phase, the algorithm successively packs the ordered set of circles. It searches for each circle’s “best” position given the positions of the already packed circles where the best position minimizes the radius of the current containing circle. During its second phase, the algorithm tries to reduce the radius of the containing circle by applying (i) an intensified search, based on a reduction search interval, and (ii) a diversified search, based on the application of a number of layout techniques. Finally, during its third phase, the algorithm introduces a restarting procedure that explores the neighborhood of the current solution in search for a better ordering of the circles. The performance of the proposed algorithm is evaluated on several problem instances taken from the literature.
+
+Keywords
+Circular packing  Combinatorial optimization  Dynamic search  Reactive search  Restarting procedure  

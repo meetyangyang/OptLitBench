@@ -1,0 +1,6 @@
+Sequential Linear-Quadratic Method for Differential Games with Air Combat Applications
+H. Mukai;A. Tanikawa;İ. Tunay;İ.A. Ozcan;I.N. Katz;H. Schättler;P. Rinaldi;G.J. Wang;L. Yang;Y. Sawada;
+Abstract
+We present a numerical method for computing a local Nash (saddle-point) solution to a zero-sum differential game for a nonlinear system. Given a solution estimate to the game, we define a subproblem, which is obtained from the original problem by linearizing its system dynamics around the solution estimate and expanding its payoff function to quadratic terms around the same solution estimate. We then apply the standard Riccati equation method to the linear-quadratic subproblem and compute its saddle solution. We then update the current solution estimate by adding the computed saddle solution of the subproblem multiplied by a small positive constant (a step size) to the current solution estimate for the original game. We repeat this process and successively generate better solution estimates. Our applications of this sequential method to air combat simulations demonstrate experimentally that the solution estimates converge to a local Nash (saddle) solution of the original game.
+Keywords
+differential games  saddle points  Riccati equations  air combats  

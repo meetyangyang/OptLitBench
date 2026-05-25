@@ -1,0 +1,6 @@
+Comparison Between Baumann and Admissible Simplex Forms in Interval Analysis
+Pierre Hansen;Jean-Louis Lagouanelle;Frédéric Messine;
+Abstract
+Two ways for bounding n-variables functions over a box, based on interval evaluations of first order derivatives, are compared. The optimal Baumann form gives the best lower bound using a center within the box. The admissible simplex form, proposed by the two last authors, uses point evaluations at n + 1 vertices of the box. We show that the Baumann center is within any admissible simplex and can be represented as a linear convex combination of its vertices with coefficients equal to the dual variables of the linear program used to compute the corresponding admissible simplex lower bound. This result is applied in a branch-and-bound global optimization and computational results are reported.
+Keywords
+Interval arithmetic  Lower bound  Baumann form  Admissible simplex form  Global optimization  

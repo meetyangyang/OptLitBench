@@ -1,0 +1,6 @@
+Idempotent Expansions for Continuous-Time Stochastic Control
+Hidehiro  Kaise and William M.  McEneaney;
+Abstract
+Max-plus methods have previously been  used to solve deterministic control problems. The methods are based on max-plus (or min-plus) expansions and can yield curse-of-dimensionality-free numerical methods. In this paper, we explore min-plus methods for continuous-time stochastic control on a finite-time horizon. We first approximate the original value function via time-discretization. By generalizing the min-plus distributive property to continuum spaces, we obtain an algorithm for recursive computation of the time-discretized values, which we refer to as the idempotent distributed dynamic programming principle (IDDPP). Under the IDDPP, the value function at each step can be represented as an infimum of functions in a certain class. This is a min-plus expansion for the value function. For  the specific class of problems considered here, we see that the class can be taken as that consisting of the quadratic functions. A means for reducing the numbers of constituent quadratic functions is discussed.
+Keywords
+idempotent methods, min-plus algebra, Hamilton--Jacobi--Bellman partial differential equations, dynamic programming, viscosity solutions, 49LXX, 93E20, 93C10, 60H10, 35G20, 35D40, 

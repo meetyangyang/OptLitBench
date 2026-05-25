@@ -1,0 +1,6 @@
+A self-adjusting primal–dual interior point method for linear programs
+ Shaohua   Pan ; Xiangsi   Li ;
+Abstract
+ In this paper, we propose a new proximity measure function based on the min–max principle, and use its optimality condition as the centering equation in a primal–dual path following algorithm. The basic idea is to create a self-adjusting mechanism in the perturbed equations themselves so as to adaptively tune current search directions according to information gained from the last iterate. Through computing the Netlib test problems and making numerical comparison with Lipsol software package, the efficiency of the proposed algorithm is justified. 
+Keywords
+Linear programming, Central path, Interior point method, Proximity measure, Self-adjusting 

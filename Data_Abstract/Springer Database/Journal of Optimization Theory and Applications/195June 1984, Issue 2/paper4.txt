@@ -1,0 +1,6 @@
+Comparison of a special-purpose algorithm with general-purpose algorithms for solving geometric programming problems
+J. G. Ecker;M. Kupferschmid;R. S. Sacher;
+Abstract
+We study the performance of four general-purpose nonlinear programming algorithms and one special-purpose geometric programming algorithm when used to solve geometric programming problems. Experiments are reported which show that the special-purpose algorithm GGP often finds approximate solutions more quickly than the general-purpose algorithm GRG2, but is usually not significantly more efficient than GRG2 when greater accuracy is required. However, for some of the most difficult test problems attempted, GGP was dramatically superior to all of the other algorithms. The other algorithms are usually not as efficient as GGP or GRG2. The ellipsoid algorithm is most robust.
+Keywords
+Geometric programming  computational comparisons  nonlinear programming  ellipsoid algorithm  generalized reduced gradient algorithm  

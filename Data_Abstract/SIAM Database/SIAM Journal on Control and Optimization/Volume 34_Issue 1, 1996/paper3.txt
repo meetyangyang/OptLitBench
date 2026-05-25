@@ -1,0 +1,6 @@
+On a Certain Parameter of the Discretized Extended Linear-Quadratic Problem of Optimal Control
+Ciyou  Zhu;
+Abstract
+The number $\gamma : = \| {\hat Q^{ - \frac{1}{2}} \hat R\hat P^{ - \frac{1} {2}} } \|$ is an important parameter for the extended linear-quadratic programming (ELQP) problem associated with the Lagrangian $L(\hat u,\hat v) = \hat p\cdot \hat u + \frac{1}{2}\hat u \cdot \hat P\hat u + \hat q \cdot \hat v - \frac{1}{2}\hat v \cdot \hat Q\hat v - \hat v \cdot \hat R\hat u$ over polyhedral sets $\hat U \times \hat V$. Some fundamental properties of the problem, as well as the convergence rates of certain newly developed algorithms for large-scale ELQP, are all related to $\gamma $.In this paper, we derive an estimate of $\gamma $ for the ELQP problems resulting from discretization of an optimal control problem. We prove that the parameter $\gamma $ of the discretized problem is bounded independently of the number of subintervals in the discretization.
+Keywords
+extended linear-quadratic programming, minimax problem, optimal control, primal-dual projected gradient algorithm, 65K05, 65K10, 90C20, 

@@ -1,0 +1,6 @@
+Rectilinear group Steiner trees and applications in VLSI design
+Martin Zachariasen;André Rohe;
+Abstract
+ Given a set of disjoint groups of points in the plane, the rectilinear group Steiner tree problem is the problem of finding a shortest interconnection (under the rectilinear metric) which includes at least one point from each group. This is an important generalization of the well-known rectilinear Steiner tree problem which has direct applications in VLSI design: in the detailed routing phase the logical units typically allow the nets to connect to several electrically equivalent ports. We present a first (tailored) exact algorithm for solving the rectilinear group Steiner tree problem (and related variants of the problem). The algorithm essentially constructs a subgraph of the corresponding Hanan grid on which existing algorithms for solving the Steiner tree problem in graphs are applied. The reductions of the Hanan grid are performed by applying point deletions and by generating full Steiner trees on the remaining points. Experimental results for real-world VLSI instances with up to 100 groups are presented.
+Keywords
+Related Variant  Direct Application  Logical Unit  Steiner Tree  Exact Algorithm  

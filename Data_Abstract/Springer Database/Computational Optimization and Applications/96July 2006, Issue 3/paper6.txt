@@ -1,0 +1,6 @@
+Convergence and Computational Analyses for Some Variable Target Value and Subgradient Deflection Methods
+Churlzu Lim;Hanif D. Sherali;
+Abstract
+We consider two variable target value frameworks for solving large-scale nondifferentiable optimization problems. We provide convergence analyses for various combinations of these variable target value frameworks with several direction-finding and step-length strategies including the pure subgradient method, the volume algorithm, the average direction strategy, and a generalized Polyak-Kelley cutting plane method. In addition, we suggest a further enhancement via a projected quadratic-fit line-search whenever any of these algorithmic procedures experiences an improvement in the objective value. Extensive computational results on different classes of problems reveal that these modifications and enhancements significantly improve the effectiveness of the algorithms to solve Lagrangian duals of linear programs, even yielding a favorable comparison against the commercial software CPLEX 8.1.
+Keywords
+nondifferentiable optimization  Lagrangian relaxation  variable target value method (VTVM)  level algorithm  

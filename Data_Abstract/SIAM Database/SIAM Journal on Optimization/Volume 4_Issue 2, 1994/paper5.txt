@@ -1,0 +1,6 @@
+Convergence Theory of Nonlinear Newton–Krylov Algorithms
+Peter N.  Brown and Youcef  Saad;
+Abstract
+This paper presents some convergence theory for nonlinear Krylov subspace methods. The basic idea of these methods, which have been described by the authors in an earlier paper, is to use variants of Newton’s iteration in conjunction with a Krylov subspace method for solving the Jacobian linear systems. These methods are variants of inexact Newton methods where the approximate Newton direction is taken from a subspace of small dimension. The main focus of this paper is to analyze these methods when they are combined with global strategies such as linesearch techniques and model trust region algorithms. Most of the convergence results are formulated for projection onto general subspaces rather than just Krylov subspaces.
+Keywords
+nonlinear systems, nonlinear projection methods, Krylov subspace methods, inexact Newton methods, trust region techniques, conjugate gradient methods, 65H10, 

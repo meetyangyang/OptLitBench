@@ -1,0 +1,6 @@
+A modified Perry conjugate gradient method and its global convergence
+Ioannis E. Livieris;Panagiotis Pintelas;
+Abstract
+In this work, we propose a new conjugate gradient method which consists of a modification of Perry’s method and ensures sufficient descent independent of the accuracy of the line search. An important property of our proposed method is that it achieves a high-order accuracy in approximating the second order curvature information of the objective function by utilizing a new modified secant condition. Moreover, we establish that the proposed method is globally convergent for general functions provided that the line search satisfies the Wolfe conditions. Our numerical experiments indicate that our proposed method is preferable and in general superior to classical conjugate gradient methods in terms of efficiency and robustness.
+Keywords
+Unconstrained optimization  Conjugate gradient method  Sufficient descent property  Hybrid secant equation  Global convergence  

@@ -1,0 +1,6 @@
+An effective branch-and-bound algorithm for convex quadratic integer programming
+Christoph Buchheim;Alberto Caprara;Andrea Lodi;
+Abstract
+We present a branch-and-bound algorithm for minimizing a convex quadratic objective function over integer variables subject to convex constraints. In a given node of the enumeration tree, corresponding to the fixing of a subset of the variables, a lower bound is given by the continuous minimum of the restricted objective function. We improve this bound by exploiting the integrality of the variables using suitably-defined lattice-free ellipsoids. Experiments show that our approach is very fast on both unconstrained problems and problems with box constraints. The main reason is that all expensive calculations can be done in a preprocessing phase, while a single node in the enumeration tree can be processed in linear time in the problem dimension.
+Keywords
+Convex quadratic minimization  Closest vector problem  Branch-and-bound algorithm  Computational results  90C10  90C25  90C57  90C90  

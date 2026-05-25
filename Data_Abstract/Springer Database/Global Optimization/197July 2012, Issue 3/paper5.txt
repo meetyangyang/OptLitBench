@@ -1,0 +1,6 @@
+Rigorous filtering using linear relaxations
+Ferenc Domes;Arnold Neumaier;
+Abstract
+This paper presents rigorous filtering methods for continuous constraint satisfaction problems based on linear relaxations, designed to efficiently handle the linear inequalities coming from a linear relaxation of quadratic constraints. Filtering or pruning stands for reducing the search space of constraint satisfaction problems. Discussed are old and new approaches for rigorously enclosing the solution set of linear systems of inequalities, as well as different methods for computing linear relaxations. This allows custom combinations of relaxation and filtering. Care is taken to ensure that all methods correctly account for rounding errors in the computations. The methods are implemented in the GloptLab environment for solving quadratic constraint satisfaction problems. Demonstrative examples and tests comparing the different linear relaxation methods are also presented.
+Keywords
+Linear relaxations  Filtering  Pruning  Continuous constraints  Quadratic constraint satisfaction problems  Rounding error control  Verified computing  Quadratic programming  Branch and bound  Global optimization  

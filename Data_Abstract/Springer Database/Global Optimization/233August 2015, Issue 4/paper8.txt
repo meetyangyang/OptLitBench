@@ -1,0 +1,6 @@
+A box-constrained differentiable penalty method for nonlinear complementarity problems
+Boshi Tian;Yaohua Hu;Xiaoqi Yang;
+Abstract
+In this paper, we propose a box-constrained differentiable penalty method for nonlinear complementarity problems, which not only inherits the same convergence rate as the existing \(\ell _\frac{1}{p}\)-penalty method but also overcomes its disadvantage of non-Lipschitzianness. We introduce the concept of a uniform \(\xi \)–\(P\)-function with \(\xi \in (1,2]\), and apply it to prove that the solution of box-constrained penalized equations converges to that of the original problem at an exponential order. Instead of solving the box-constrained penalized equations directly, we solve a corresponding differentiable least squares problem by using a trust-region Gauss–Newton method. Furthermore, we establish the connection between the local solution of the least squares problem and that of the original problem under mild conditions. We carry out the numerical experiments on the test problems from MCPLIB, and show that the proposed method is efficient and robust.
+Keywords
+Nonlinear complementarity problem  \(\ell _\frac{1}{p}\)-penalty method  Differentiable penalty method   Convergence rate  Least squares method  90C33  65K15  49M30  

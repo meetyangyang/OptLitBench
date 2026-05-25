@@ -1,0 +1,6 @@
+An efficient algorithm for nonlinear integer programming problems arising in series–parallel reliability systems
+ Xiaoling   Sun ; Ning   Ruan ; Duan   Li ;
+Abstract
+ We consider two related nonlinear integer programming problems arising in series–parallel reliability systems: the constrained redundancy problem and the cost minimization problem. We propose in this paper an efficient method for solving these two types of nonlinear integer programming problems. The proposed convergent Lagrangian method combines Lagrangian relaxation with a duality reduction technique. An outer approximation method is used to search for the optimal dual solution and to generate Lagrangian bounds of the primal problem. To reduce the duality gap, we derive a special partition scheme by exploiting the inherent monotonicity and separability of the problem. Furthermore, a special optimality criterion is adopted to improve feasible solutions and to fathom integer subboxes. Computational results show that the algorithm is capable of solving large-scale optimization problems in series–parallel reliability systems. Comparison numerical results with other existing methods are also reported. 
+Keywords
+Nonlinear integer programming, Reliability optimization, Lagrangian relaxation and dual search, Duality gap elimination, Partition scheme 

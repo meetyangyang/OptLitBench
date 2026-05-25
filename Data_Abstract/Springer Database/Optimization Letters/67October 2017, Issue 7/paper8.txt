@@ -1,0 +1,6 @@
+Speeding up local search for the insert neighborhood in the weighted tardiness permutation flowshop problem
+Federico Pagnozzi;Thomas Stützle;
+Abstract
+Many algorithms for minimizing the weighted tardiness in the permutation flowshop problem rely on local search procedures. An increase in the efficiency of evaluating the objective function for neighboring candidate solutions directly also improves the performance of such algorithms. In this paper, we introduce a speed up of the evaluation of the weighted tardiness while exploring the insert neighborhood of a solution. To discard non-improving neighbors and to avoid the full computation of the objective function, we use an approximation of the weighted tardiness. The experimental results show that the technique delivers a consistent speed-up that increases with instance size. Furthermore, we show that it is possible to apply the same approximation technique to the exchange neighborhood achieving again a consistent, but smaller speed-up.
+Keywords
+Scheduling  Flowshop  Weighted tardiness  Insert neighborhood  Speed-up  

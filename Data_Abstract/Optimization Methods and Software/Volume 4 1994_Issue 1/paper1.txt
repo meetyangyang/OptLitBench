@@ -1,0 +1,6 @@
+A successful implementation of the Pantoja-Mayne SQP method
+   J.   Heinz ;   P.   Spellucci ;
+Abstract
+ In this paper an implementation of Pantoja's and Mayne's [8] SQP method using the exact l∞-penalty function is described. Some features have been added to the original algorithm in order to increase reliability and efficiency, e.g. a dynamic scaling of problem-functions, a more sophisticated rule for updating the penalty parameter and a device for forcing boundedness of the iteration sequence. Compared with a naive implementation of the original paper's suggestions, efficiency and reliability of the algorithm have been greatly improved. Performance on a large set of testproblems is reported. Results show that the method is a competitive tool for solving general nonlinear programming problems. Because of the structure of its QP-subproblems, the method has considerable potential for large scale problems. 
+Keywords
+SQP method, exact penalty function, infinity norm 

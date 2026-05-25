@@ -1,0 +1,6 @@
+On the Rate of Local Convergence of High-Order-Infeasible-Path-Following Algorithms for P*-Linear Complementarity Problems
+Gongyun Zhao;Jie Sun;
+Abstract
+A simple and unified analysis is provided on the rate of local convergence for a class of high-order-infeasible-path-following algorithms for the P*-linear complementarity problem (P*-LCP). It is shown that the rate of local convergence of a ν-order algorithm with a centering step is ν + 1 if there is a strictly complementary solution and (ν + 1)/2 otherwise. For the ν-order algorithm without the centering step the corresponding rates are ν and ν/2, respectively. The algorithm without a centering step does not follow the fixed traditional central path. Instead, at each iteration, it follows a new analytic path connecting the current iterate with an optimal solution to generate the next iterate. An advantage of this algorithm is that it does not restrict iterates in a sequence of contracting neighborhoods of the central path.
+Keywords
+linear complementarity problem  interior point method  high-order algorithm  local convergence  P*-linear complementarity problem  

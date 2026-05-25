@@ -1,0 +1,6 @@
+Dual Bounds and Optimality Cuts for All-Quadratic Programs with Convex Constraints
+Ivo Nowak;
+Abstract
+A central problem of branch-and-bound methods for global optimization is that often a lower bound do not match with the optimal value of the corresponding subproblem even if the diameter of the partition set shrinks to zero. This can lead to a large number of subdivisions preventing the method from terminating in reasonable time. For the all-quadratic optimization problem with convex constraints we present optimality cuts which cut off a given local minimizer from the feasible set. We propose a branch-and-bound algorithm using optimality cuts which is finite if all global minimizers fulfill a certain second order optimality condition. The optimality cuts are based on the formulation of a dual problem where additional redundant constraints are added. This technique is also used for constructing tight lower bounds. Moreover we present for the box-constrained and the standard quadratic programming problem dual bounds which have under certain conditions a zero duality gap.
+Keywords
+Global optimization  Nonconvex quadratic programming  Lagrangian relaxation  Optimality cuts  Duality gap  

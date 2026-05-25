@@ -1,0 +1,6 @@
+A Modified Rank One Update Which Converges Q-Superlinearly
+P. Spellucci;
+Abstract
+Quasi-Newton methods are generally held to be the most efficient minimization methods for small to medium sized problems. From these the symmetric rank one update of Broyden (Math. Comp., vol. 21, pp. 368–381, 1967) has been disregarded for a long time because of its potential failure. The work of Conn, Gould and Toint (Math. Prog., vol. 50, pp. 177–195, 1991), Kelley and Sachs (COAP, vol. 9, pp. 43–64, 1998) and Khalfan, Byrd and Schnabel (SIOPT, vol. 3, pp. 1–24, 1993; SIOPT, vol. 6, pp. 1025–1039, 1996) has renewed the interest in this method. However the question of boundedness of the generated matrix sequence has not been resolved by this work. In the present paper it is shown that a slightly modified version of this update generates bounded updates and converges superlinearly for uniformly convex functions. Numerical results support these theoretical considerations.
+Keywords
+SR1  quasi-Newton updates  symmetric rank one  unconstrained minimization  

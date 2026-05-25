@@ -1,0 +1,6 @@
+Reproducing kernel Hilbert spaces and variable metric algorithms in PDE-constrained shape optimization
+M. Eigel;K. Sturm;
+Abstract
+In this paper we investigate and compare different gradient algorithms designed for the domain expression of the shape derivative. Our main focus is to examine the usefulness of kernel reproducing Hilbert spaces for PDE-constrained shape optimization problems. We show that radial kernels provide convenient formulas for the shape gradient that can be efficiently used in numerical simulations. The shape gradients associated with radial kernels depend on a so-called smoothing parameter that allows a smoothness adjustment of the shape during the optimization process. Besides, this smoothing parameter can be used to modify the movement of the shape. The theoretical findings are verified in a number of numerical experiments.
+Keywords
+Shape optimization, reproducing kernel Hilbert spaces, gradient method, variable metric, radial kernelsAMS Subject Classification: 35J15, 65N06, 46E22, 49Q10, 49K20, 49K40 

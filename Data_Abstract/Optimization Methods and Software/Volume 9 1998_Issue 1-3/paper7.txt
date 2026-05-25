@@ -1,0 +1,6 @@
+On free variables in interior point methods
+ Csaba   Mészáros ;
+Abstract
+ Interior point methods, especially the algorithms for linear programming problems are sensitive if there are unconstrained (free) variables in the problem. While replacing a free variable by two nonnegative ones may cause numerical instabilities, the implicit handling results in a semidefinite scaling matrix at each interior point iteration. In the paper we investigate the effects if the scaling matrix is regularized. Our analysis will prove that the effect of the regularization can be easily monitored and corrected if necessary. We describe the regularization scheme mainly for the efficient handling of free variables, but a similar analysis can be made for the case, when the small scaling factors are raised to larger values to improve the numerical stability of the systems that define the searcn direction. We will show the superiority of our approach over the variable replacement method on a set of test problems arising from water management application  
+Keywords
+Constrained Optimization, Interior Point Methods 

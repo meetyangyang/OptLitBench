@@ -1,0 +1,6 @@
+A nonmonotone smoothing Newton method for circular cone programming
+Xiaoni Chi;Zhongping Wan;Zhibin Zhu;Liuyang Yuan;
+Abstract
+The circular cone programming (CCP) problem is to minimize or maximize a linear function over the intersection of an affine space with the Cartesian product of circular cones. In this paper, we study nondegeneracy and strict complementarity for the CCP, and present a nonmonotone smoothing Newton method for solving the CCP. We reformulate the CCP as a second-order cone programming (SOCP) problem using the algebraic relation between the circular cone and the second-order cone. Then based on a one parametric class of smoothing functions for the SOCP, a smoothing Newton method is developed for the CCP by adopting a new nonmonotone line search scheme. Without restrictions regarding its starting point, our algorithm solves one linear system of equations approximately and performs one line search at each iteration. Under mild assumptions, our algorithm is shown to possess global and local quadratic convergence properties. Some preliminary numerical results illustrate that our nonmonotone smoothing Newton method is promising for solving the CCP.
+Keywords
+Circular cone prgoramming, nondegeneracy, strict complementarity, smoothing Newton method, nonmonotone line searchAMS Subject Classifications: 90C30, 65K05 

@@ -1,0 +1,6 @@
+Max-min weight balanced connected partition
+Lele Wang;Zhao Zhang;Di Wu;Weili Wu;Lidan Fan;
+Abstract
+For a connected graph \(G=(V,E)\) and a positive integral vertex weight function \(w\), a max-min weight balanced connected \(k\)-partition of \(G\), denoted as \(BCP_k\), is a partition of \(V\) into \(k\) disjoint vertex subsets \((V_1,V_2,\ldots ,V_k)\) such that each \(G[V_i]\) (the subgraph of \(G\) induced by \(V_i\)) is connected, and \(\min _{1\le i\le k}\{w(V_i)\}\) is maximum. Such a problem has a lot of applications in image processing and clustering, and was proved to be NP-hard. In this paper, we study \(BCP_k\) on a special class of graphs: trapezoid graphs whose maximum degree is bounded by a constant. A pseudo-polynomial time algorithm is given, based on which an FPTAS is obtained for \(k=2,3,4\). A step-stone for the analysis of the FPTAS depends on a lower bound for the optimal value of \(BCP_k\) in terms of the total weight of the graph. In providing such a lower bound, a byproduct of this paper is that any 4-connected trapezoid graph on at least seven vertices has a 4-contractible edge, which may have a value in its own right.
+Keywords
+Balanced connected partition  Pseudo-polynomial time algorithm  FPTAS  

@@ -1,0 +1,6 @@
+Smoothing and regularization strategies for optimization of hybrid dynamic systems
+I. Mynttinen;A. Hoffmann;E. Runge;P. Li;
+Abstract
+Mathematical programming has become a valuable tool in process engineering. However, optimization of hybrid dynamic systems with autonomous mode transitions still constitutes a major challenge for theoretical treatments and engineering application. Among the existing approaches for addressing this obstacle, reformulation strategies appear to be most promising. In this study, a modified smoothing strategy and an extended penalization approach to approximate the non-smooth dynamic optimization problem by a smooth one are presented. As a result, a local solution can be gained by a NLP solver after a discretization of the smoothed problem. This solution converges to that of the original non-smooth problem when the value of the introduced reformulation parameter goes to zero. Heuristic rules to select parameter values for both strategies are proposed based on their inherent features. Results from two case studies indicate the capability of the proposed approaches to efficiently obtain physically meaningful solutions.
+Keywords
+Optimization of hybrid dynamic systems  Regularization methods  Parameter estimation  

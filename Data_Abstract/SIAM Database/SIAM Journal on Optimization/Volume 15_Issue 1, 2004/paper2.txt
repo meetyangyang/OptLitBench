@@ -1,0 +1,6 @@
+A Multidimensional Filter Algorithm for Nonlinear Equations and Nonlinear Least-Squares
+Nicholas I. M.  Gould, Sven  Leyffer, and Philippe L.  Toint;
+Abstract
+We introduce a new algorithm for the solution of systems of nonlinear equations and nonlinear least-squares problems that attempts to combine the efficiency of filter techniques and the robustness of trust-region methods. The algorithm is shown, under reasonable assumptions, to globally converge to zeros of the system, or to first-order stationary points of the Euclidean norm of its residual. Preliminary numerical experience is presented that shows substantial gains in efficiency over the traditional monotone trust-region approach.
+Keywords
+nonlinear equations, nonlinear least-squares, nonlinear fitting, filter methods, trust-region algorithms, 65K05, 90C30, 

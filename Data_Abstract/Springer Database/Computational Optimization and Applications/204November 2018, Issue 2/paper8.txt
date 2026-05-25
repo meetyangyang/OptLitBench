@@ -1,0 +1,6 @@
+Infeasible interior-point method for symmetric optimization using a positive-asymptotic barrier
+Petra Renáta Rigó;Zsolt Darvay;
+Abstract
+We propose a new primal-dual infeasible interior-point method for symmetric optimization by using Euclidean Jordan algebras. Different kinds of interior-point methods can be obtained by using search directions based on kernel functions. Some search directions can be also determined by applying an algebraic equivalent transformation on the centering equation of the central path. Using this method we introduce a new search direction, which can not be derived from a usual kernel function. For this reason, we use the new notion of positive-asymptotic kernel function which induces the class of corresponding barriers. In general, the main iterations of the infeasible interior-point methods are composed of one feasibility and several centering steps. We prove that in our algorithm it is enough to take only one centering step in a main iteration in order to obtain a well-defined algorithm. Moreover, we conclude that the algorithm finds solution in polynomial time and has the same complexity as the currently best known infeasible interior-point methods. Finally, we give some numerical results.
+Keywords
+Symmetric optimization  Infeasible interior-point methods  Nesterov–Todd direction  Polynomial complexity  

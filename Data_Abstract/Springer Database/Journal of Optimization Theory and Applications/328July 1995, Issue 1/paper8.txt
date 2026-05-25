@@ -1,0 +1,6 @@
+Some variants of the todd low-complexity algorithm
+A. Liao;
+Abstract
+Todd (Ref. 1) describes an interior-point algorithm for linear programming that is almost as simple as the affine-scaling method and yet achieves the currently best complexity of\(O\left( {\sqrt n t} \right)\) iterations to attain precisiont based on the primal-only potential function ψ(x). In this paper, we propose some variants of the Todd algorithm by considering two local models: the ψ-model, trying to reduce the potential function ψ(x) as much as possible; and thec-model, trying to reduce the objective functionc T x as much as possible, with polynomiality retained. Some preliminary numerical results are presented to illustrate the behavior of these algorithms.
+Keywords
+Linear programming  interior-point algorithm  potential function  

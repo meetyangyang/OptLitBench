@@ -1,0 +1,6 @@
+Dual Convergence for Penalty Algorithms in Convex Programming
+Felipe Alvarez;Miguel Carrasco;Thierry Champion;
+Abstract
+Algorithms for convex programming, based on penalty methods, can be designed to have good primal convergence properties even without uniqueness of optimal solutions. Taking primal convergence for granted, in this paper we investigate the asymptotic behavior of an appropriate dual sequence obtained directly from primal iterates. First, under mild hypotheses, which include the standard Slater condition but neither strict complementarity nor second-order conditions, we show that this dual sequence is bounded and also, each cluster point belongs to the set of Karush–Kuhn–Tucker multipliers. Then we identify a general condition on the behavior of the generated primal objective values that ensures the full convergence of the dual sequence to a specific multiplier. This dual limit depends only on the particular penalty scheme used by the algorithm. Finally, we apply this approach to prove the first general dual convergence result of this kind for penalty-proximal algorithms in a nonlinear setting.
+Keywords
+Convex programming  Penalty function  Dual problem  

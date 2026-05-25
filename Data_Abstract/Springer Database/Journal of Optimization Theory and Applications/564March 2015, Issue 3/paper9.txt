@@ -1,0 +1,6 @@
+A Framework of Conjugate Direction Methods for Symmetric Linear Systems in Optimization
+Giovanni Fasano;
+Abstract
+In this paper, we introduce a parameter-dependent class of Krylov-based methods, namely Conjugate Directions \((CD)\), for the solution of symmetric linear systems. We give evidence that, in our proposal, we generate sequences of conjugate directions, extending some properties of the standard conjugate gradient (CG) method, in order to preserve the conjugacy. For specific values of the parameters in our framework, we obtain schemes equivalent to both the CG and the scaled-CG. We also prove the finite convergence of the algorithms in \(CD\), and we provide some error analysis. Finally, preconditioning is introduced for \(CD\), and we show that standard error bounds for the preconditioned CG also hold for the preconditioned \(CD\).
+Keywords
+Krylov-based methods  Conjugate direction methods   Conjugacy loss and error analysis  Preconditioning  90C30  90C06  65K05  49M15  

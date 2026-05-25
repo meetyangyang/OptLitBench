@@ -1,0 +1,6 @@
+Inexact Cuts in Benders Decomposition
+Golbon  Zakeri, Andrew B.  Philpott, and David M.  Ryan;
+Abstract
+Benders decomposition is a well-known technique for solving large linear programs with a special structure. In particular, it is a popular technique for solving multistage stochastic linear programming problems. Early termination in the subproblems generated during Benders decomposition (assuming dual feasibility) produces valid cuts that are inexact in the sense that they are not as constraining as cuts derived from an exact solution. We describe an inexact cut algorithm, prove its convergence under easily verifiable assumptions, and discuss a corresponding Dantzig--Wolfe decomposition algorithm. The paper is concluded with some computational results from applying the algorithm to a class of stochastic programming problems that arise in hydroelectric scheduling.
+Keywords
+stochastic programming, Benders decomposition, inexact cuts, 90C15, 90C05, 90C06, 90C90, 

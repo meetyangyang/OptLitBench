@@ -1,0 +1,6 @@
+Discussion and empirical comparisons of linear relaxations and alternate techniques in validated deterministic global optimization
+ R.   Baker Kearfott ;
+Abstract
+ Both theory and implementations in deterministic global optimization have advanced significantly in the past decade. Two schools of thought have developed: the first employs various bounding techniques without validation, while the second employs different techniques, in a way that always rigorously takes account of roundoff error (i.e. with validation). However, convex relaxations, until very recently used without validation, can be implemented efficiently in a validated context. Here, we empirically compare a validated implementation of a variant of convex relaxations (linear relaxations applied to each intermediate operation) with traditional techniques from validated global optimization (interval constraint propagation and interval Newton methods). Experimental results show that linear relaxations are of significant value in validated global optimization, although further exploration will probably lead to more effective inclusion of the technology. 
+Keywords
+Non-convex optimization, Global optimization, Linear relaxations, GlobSol, Constraint propagation 

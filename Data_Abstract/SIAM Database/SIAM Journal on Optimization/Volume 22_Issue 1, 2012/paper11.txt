@@ -1,0 +1,6 @@
+A Sequential Ascending Parameter Method for Solving Constrained Minimization Problems
+Amir  Beck, Aharon  Ben-Tal, and Luba  Tetruashvili;
+Abstract
+In this paper, a method for solving constrained convex optimization problems is introduced. The problem is cast equivalently as a parametric unconstrained one, the (single) parameter being the optimal value of the original problem. At each stage of the algorithm the parameter is updated, and the resulting subproblem is only approximately solved. A linear rate of convergence of the parameter sequence is established. Using an optimal gradient method due to Nesterov [Dokl. Akad. Nauk SSSR, 269 (1983), pp. 543–547] to solve the arising subproblems, it is proved that the resulting gradient-based algorithm requires an overall of $O({\log(1/\varepsilon)}/ {\sqrt{\varepsilon}})$ inner iterations to obtain an $\varepsilon$-optimal and feasible solution. An image deblurring problem is solved, demonstrating the capability of the algorithm to solve large-scale problems within reasonable accuracy.
+Keywords
+convex optimization, linear rate of convergence, optimal gradient methods, image deblurring, 90C25, 90C47, 

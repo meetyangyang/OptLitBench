@@ -1,0 +1,6 @@
+Convergence of the augmented decomposition algorithm
+Hongsheng Liu;Shu Lu;
+Abstract
+We study the convergence of the augmented decomposition algorithm (ADA) proposed in Rockafellar et al. (Problem decomposition in block-separable convex optimization: ideas old and new, https://www.washington.edu/, 2017) for solving multi-block separable convex minimization problems subject to linear constraints. We show that the global convergence rate of the exact ADA is \(o(1/\nu )\) under the assumption that there exists a saddle point. We consider the inexact augmented decomposition algorithm and establish global and local convergence results under some mild assumptions, by providing a stability result for the maximal monotone operator \(\mathcal {T}\) associated with the perturbation from both primal and dual perspectives. This result implies the local linear convergence of the inexact ADA for many applications such as the lasso, total variation reconstruction, exchange problem and many other problems from statistics, machine learning and engineering with \(\ell _1\) regularization.
+Keywords
+Separable convex minimization  Convergence rate  Augmented decomposition algorithm  Distributed computing  

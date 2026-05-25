@@ -1,0 +1,6 @@
+Computing a sparse Jacobian matrix by rows and columns
+ A. K. M. Shahadat   Hossain ; Trond   Steihaug ;
+Abstract
+ Efficient estimation of large sparse Jacobian matrices has been studied extensively in the last couple of years. It has been observed that the estimation of Jacobian matrix can be posed as a graph coloring problem. Elements of the matrix are estimated by taking divided difference in several directions corresponding to a group of structurally independent columns. Another possibility is to obtain the nonzero elements by means of the so called Automatic differentiation, which gives the estimates free of truncation error that one encounters in a divided difference scheme. In this paper we show that it is possible to exploit sparsity both in columns and rows by employing the forward and the reverse mode of Automatic differentiation. A graph-theoretic characterization of the problem is given. 
+Keywords
+AD, forward and reverse mode, nonlinear optimization, numerical differences, sparsity 

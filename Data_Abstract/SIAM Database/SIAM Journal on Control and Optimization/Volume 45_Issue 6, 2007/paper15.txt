@@ -1,0 +1,6 @@
+Adaptive Digital Control of Hammerstein Nonlinear Systems with Limited Output Sampling
+Feng   Ding, Tongwen   Chen, and Zenta   Iwai;
+Abstract
+This paper is motivated by the practical control considerations that nonlinearity is abundant in industrial processes and output sampling rates are often limited due to hardware constraints. In particular, for a Hammerstein nonlinear sampled‐data system in which the output sampling period is an integer multiple of the input updating period, we derive, by using a polynomial transformation technique, a mathematical model which is suitable for parameter estimation with dual‐rate measurement data. Further, we present an adaptive control scheme for such a dual‐rate nonlinear system; the parameter estimation–based adaptive algorithm can achieve virtually asymptotically optimal control and ensure that the closed‐loop system is stable and globally convergent. The simulation results are included.
+Keywords
+Hammerstein systems, sampled‐data systems, multirate modeling, self‐tuning regulator, adaptive control, dual‐rate systems, convergence properties, least squares methods, 93C40, 93E10, 93C10, 

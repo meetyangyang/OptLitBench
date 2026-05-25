@@ -1,0 +1,6 @@
+Global optimization method for solving the minimum maximal flow problem
+ Jun-Ya   Gotoh ; Nguyen   Van Thoai ; Yoshitsugu   Yamamoto ;
+Abstract
+ The problem of minimizing the flow value attained by maximal flows plays an important and interesting role to investigate how inefficiently a network can be utilized. It is a typical multiextremal optimization problem, which can have local optima different from global optima. We formulate this problem as a global optimization problem with a special structure and propose a method to combine different techniques in local search and global optimization. Within the proposed algorithm, the advantageous structure of network flow is fully exploited so that the algorithm should be suitable for handling the problem of moderate sizes. 
+Keywords
+Minimum Maximal Flow, Global Optimization, Optimization Over Efficient Sets, Adjacent Vertex Search, Branch And Bound 

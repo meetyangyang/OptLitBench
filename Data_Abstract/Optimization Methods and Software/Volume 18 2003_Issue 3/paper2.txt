@@ -1,0 +1,6 @@
+Minimizing multimodal functions by simplex coding genetic algorithm
+ Abdel-Rahman   Hedar ; Masao   Fukushima ;
+Abstract
+ Combining meta-heuristics with local search methods is one approach that recently has drawn much attentionto design more efficient methods for solving continuous global optimization problems. In this article, a newalgorithm called Simplex Coding Genetic Algorithm (SCGA) is proposed by hybridizing genetic algorithmand dmplex-based local search method called Nelder-Mead method. In the SCGA, each chromosome inthe population is a simplex and the gene is a vertex of this simplex. Selection, new multiparents crossoverand mutation procedures are used to improve the inltial population. Moreover, Nelder-Mead methodis applied to improve the population in the initial stage and every intermediate stage when new childrenare generated. Applying Nelder-Mead method again on the best point visited is the final stage in theSCGA to accelerate the search and to improve this best point. The efficiency of SCGA is tested on somewell-known functions. Comparison with other meta-heuristics indicates that the SCGA is promising. 
+Keywords
+Global optimization, Meta-heuristics, Genetic algorithm, Memetic algorithm, Simplex coding, Local search methods, Nelder-Mead method 

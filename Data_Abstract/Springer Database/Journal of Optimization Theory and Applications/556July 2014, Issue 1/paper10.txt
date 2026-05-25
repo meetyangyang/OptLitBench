@@ -1,0 +1,6 @@
+Sensitivity Analysis of Merit Function in Solving Nonlinear Equations by Optimization
+Seyyed Shahabeddin Azimi;Mansour Kalbasi;Hamidreza Sadeghifar;
+Abstract
+To solve nonlinear equations by an optimization method, scaling is very important. Two types of poor scaling where: (a) the variables differ greatly in magnitude; (b) the merit function of system is highly sensitive to small changes in certain variables and relatively insensitive to changes in other variables. If poor scaling is ignored, the algorithm may produce solutions with poor quality. To solve (a), we can change units of variables. A numerical solution of the nonlinear equations produced by the finite volume method in the forced convective heat transfer of a nanofluid, as a case study, indicates that the poor scaling (b) is solved by using the Euclidean norm of columns of the Jacobian matrix as scaling data, while some researchers proposed diagonal elements of the Hessian matrix as scaling data.
+Keywords
+Nonlinear equations  Optimization  Merit function  Scaling matrix  Jacobian  

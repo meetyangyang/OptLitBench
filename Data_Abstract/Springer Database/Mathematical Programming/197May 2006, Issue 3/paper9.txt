@@ -1,0 +1,6 @@
+On the behavior of the homogeneous self-dual model for conic convex optimization
+Robert M. Freund;
+Abstract
+There is a natural norm associated with a starting point of the homogeneous self-dual (HSD) embedding model for conic convex optimization. In this norm two measures of the HSD model's behavior are precisely controlled independent of the problem instance: (i) the sizes of ɛ-optimal solutions, and (ii) the maximum distance of ɛ-optimal solutions to the boundary of the cone of the HSD variables. This norm is also useful in developing a stopping-rule theory for HSD-based interior-point solvers such as SeDuMi. Under mild assumptions, we show that a standard stopping rule implicitly involves the sum of the sizes of the ɛ-optimal primal and dual solutions, as well as the size of the initial primal and dual infeasibility residuals. This theory suggests possible criteria for developing starting points for the homogeneous self-dual model that might improve the resulting solution time in practice.
+Keywords
+Convex Optimization  Convex Cone  Conic Optimization  Duality  Level Sets  Self-Dual Embedding  Self-scaled Cone  90C05  90C22  90C25  90C31  90C46  90C51  

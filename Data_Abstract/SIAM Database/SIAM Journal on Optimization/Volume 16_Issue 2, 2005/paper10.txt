@@ -1,0 +1,6 @@
+On the Convergence of Successive Linear-Quadratic Programming Algorithms
+Richard H.  Byrd, Nicholas I. M.  Gould, Jorge  Nocedal, and Richard A.  Waltz;
+Abstract
+The global convergence properties of a class of penalty methods for nonlinear programming are analyzed. These methods include successive linear programming approaches and, more specifically, the successive linear-quadratic programming approach presented by Byrd et al. [Math. Program., 100 (2004), pp. 27--48]. Every iteration requires the solution of two trust-region subproblems involving piecewise linear and quadratic models, respectively. It is shown that, for a fixed penalty parameter, the sequence of iterates approaches stationarity of the penalty function. A procedure for dynamically adjusting the penalty parameter is described, and global convergence results for it are established.
+Keywords
+sequential linear programming, global convergence theory, nonlinear optimization, penalty parameter updates, 65K05, 90C26, 90C30, 90C51, 

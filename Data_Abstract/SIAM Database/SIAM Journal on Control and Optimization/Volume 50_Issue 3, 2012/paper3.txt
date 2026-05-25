@@ -1,0 +1,6 @@
+Dynamic Phasor Analysis of Pulse-Modulated Systems
+Stefan  Almér and Ulf T.  Jönsson;
+Abstract
+This paper considers stability and harmonic analysis of a general class of pulse-modulated systems. The systems are modeled using the dynamic phasor model, which explores the cyclic nature of the modulation functions by representing the system state as a Fourier series expansion defined over a moving time window. The contribution of the paper is to show that a special type of periodic Lyapunov function can be used to analyze the system and that the analysis conditions become tractable for computation after truncation. The approach provides a trade-off between complexity and accuracy that includes standard state space averaged models as a special case. The paper also shows how the dynamic phasor model can be used to derive a frequency domain input-to-state map which is analogous to the harmonic transfer function.
+Keywords
+pulse-modulated system, dynamic phasor model, stability analysis, harmonic Lyapunov function, harmonic transfer function, 93D05, 93C57, 93C10, 

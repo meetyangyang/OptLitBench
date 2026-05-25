@@ -1,0 +1,6 @@
+OPTIMIZATION OF A THREE DIMENSIONAL SHELL STRUCTURE
+ C   KNOPF-LENOIR ; M.   BELDI ; G.   TOUZOT ; P.   TAVERNIERE ; J. F.   COCHET ;
+Abstract
+ This work is the result of a collaboration between the Regie Renault and the University of Compiegne. Optimization techniques are applied here to minimize the mass of sand casting pieces by varying the thickness distribution of non-functional parts. A car suspension arm is taken as example. Finite element modelling is realized with triangular 3-node elements by using MEF/MOSAIC software. The middle surface of the shell is assumed to be fixed; the design variables are the thicknesses of elements or groups of elements (444 elements, 45 variables). The result is then smoothed to provide a feasible solution. Constraints are imposed to limit the stresses values on the critical parts of the structure. The minimization algorithm requires their gradients which are expressed by using the adjoint state method- The numerical results show that the optimization of thickness leads to a 25% decrease of the mass. 
+Keywords
+Shell structures, sand casting pieces, finite elements, design optimization 

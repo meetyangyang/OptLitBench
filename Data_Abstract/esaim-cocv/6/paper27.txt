@@ -1,0 +1,6 @@
+Computation of the demagnetizing potential in micromagnetics using a coupled finite and infinite elements method
+François Alouges;
+Abstract
+This paper is devoted to the practical computation of themagnetic potential induced by a distribution of magnetization inthe theory of micromagnetics. The problem turns out to be a coupling ofan interior and an exterior problem. The aim of this work is to describe a complete method that mixes the approaches of Ying [12] and Goldstein  [6] which consists in constructing a mesh for the exterior  domain composed of homothetic layers. It has the advantage of being wellsuited for catching the decay of the solution at infinity and giving arigidity matrix that can be very efficiently stored. All aspects are described here, from the practical construction of the mesh, the storage of the matrix, the error estimation of the method, the boundary conditions and a simple preconditionning technique. At the end of thepaper, a typical computation of a uniformly magnetizedball is done and compared to the analytic solution. This method gives a natural alternatives to boundary elements methods for 3D computations.
+Keywords
+Micromagnetics, finite element method, preconditionning, exterior problems

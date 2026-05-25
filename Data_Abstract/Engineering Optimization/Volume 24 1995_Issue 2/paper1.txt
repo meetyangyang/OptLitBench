@@ -1,0 +1,6 @@
+AN EXPERIMENTAL ANALYSIS OF THE SIMULATED ANNEALING ALGORITHM FOR A SINGLE MACHINE SCHEDULING PROBLEM
+ J. A.   SHAPIRO ; A. S.   ALFA ;
+Abstract
+ The Single Machine Scheduling Problem (SMSP) involves the sequencing of JV jobs which arrive simultaneously at time zero to be processed on a continuously available machine. The object is to find that schedule which minimizes the sum of linear sequence dependent setup costs and linear delay penalties. A series of 2k factorial experiments is used to obtain a set of‘ good’ values for the parameters of the SA algorithm for the SMSP. Using these parameter seuings, the Simulated Annealing algorithm (SA) consistently provides very high quality solutions to the SM SP. Results suggest that the performance of SA in solving the SMSP depends heavily upon the type of neighborhood search employed. Results are compared with those of Tabu Search ( TS)and SA matches the performance of TS in 22 of the 25 problems investigated. The performance of SA in the case of the SMSP attests to its robustness as an effective solution procedure for combinatorial optimization problems. 
+Keywords
+ Combinatorial optimization, heuristics, simulated annealing, neighborhood search, single machine scheduling 

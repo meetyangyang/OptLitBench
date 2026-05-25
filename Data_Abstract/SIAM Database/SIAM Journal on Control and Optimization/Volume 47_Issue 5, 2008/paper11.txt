@@ -1,0 +1,6 @@
+Efficient On-Line Computation of Constrained Optimal Control
+Mato  Baotić, Francesco  Borrelli, Alberto  Bemporad, and Manfred  Morari;
+Abstract
+We consider constrained finite-time optimal control problems for discrete-time linear time-invariant systems with constraints on inputs and outputs based on linear and quadratic performance indices. The solution to such problems is a time-varying piecewise affine (PWA) state-feedback law and can be computed by means of multiparametric programming. By exploiting the properties of the value function and the piecewise affine optimal control law of the constrained finite-time optimal control (CFTOC), we propose two new algorithms that avoid storing the polyhedral regions. The new algorithms significantly reduce the on-line storage demands and computational complexity during evaluation of the PWA feedback control law resulting from the CFTOC.
+Keywords
+constrained finite time optimal control, multiparametric programming, piecewise affine function evaluation, 49N05, 93C05, 93C55, 90C05, 90C20, 90C31, 

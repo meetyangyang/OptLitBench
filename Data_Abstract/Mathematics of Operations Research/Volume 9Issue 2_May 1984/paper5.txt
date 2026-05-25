@@ -1,0 +1,6 @@
+A Finite Method for the Solution of a Multi-Resource Allocation Problem with Concave Return Functions
+John M. Einbu;
+Abstract
+It has recently been recognized that the problem of allocating continuous resources to several activities, each with a concave return function, has some elements in common with the Transportation Problem. This has inspired a search for solution algorithms for the allocation problem in which the approach used is similar to that applied to the Transportation Problem. This paper describes such an algorithm. The algorithm terminates and produces the exact optimal solution. A FORTRAN implementation of the algorithm solves a 12 resources/100 activities problem in less than 10 central processor seconds on a Cyber 173 computer.
+Keywords
+convex programming resource allocation transportation algorithm 

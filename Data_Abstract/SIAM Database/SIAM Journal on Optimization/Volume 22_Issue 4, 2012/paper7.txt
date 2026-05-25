@@ -1,0 +1,6 @@
+Information Collection for Linear Programs with Uncertain Objective Coefficients
+Ilya O.  Ryzhov and Warren B.  Powell;
+Abstract
+Consider a linear program (LP) with uncertain objective coefficients, for which we have a Bayesian prior.  We can collect information to improve our understanding of these coefficients, but this may be expensive, giving us a separate problem of optimizing the collection of information to improve the quality of the solution relative to the true cost coefficients.  We formulate this information collection problem for LPs for the first time and derive a knowledge gradient policy which finds the marginal value of each measurement by solving a sequence of LPs. We prove that this policy is asymptotically optimal and demonstrate its performance on a network flow problem.
+Keywords
+optimal learning, stochastic optimization, sequential learning, stochastic programming, 90C05, 90C15, 90C31, 

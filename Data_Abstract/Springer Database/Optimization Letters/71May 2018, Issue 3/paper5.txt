@@ -1,0 +1,6 @@
+Variable sample size method for equality constrained optimization problems
+Nataša Krejić;Nataša Krklec Jerinkić;Andrea Rožnjik;
+Abstract
+An equality constrained optimization problem with a deterministic objective function and constraints in the form of mathematical expectation is considered. The constraints are transformed into the Sample Average Approximation form resulting in deterministic problem. A method which combines a variable sample size procedure with line search is applied to a penalty reformulation. The method generates a sequence that converges towards first-order critical points. The final stage of the optimization procedure employs the full sample and the SAA problem is eventually solved with significantly smaller cost. Preliminary numerical results show that the proposed method can produce significant savings compared to SAA method and some heuristic sample update counterparts while generating a solution of the same quality.
+Keywords
+Stochastic optimization  Equality constraints  Variable sample size  Penalty method  Line search  

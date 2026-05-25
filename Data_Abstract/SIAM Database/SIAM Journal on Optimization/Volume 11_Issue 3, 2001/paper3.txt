@@ -1,0 +1,6 @@
+A New Matrix-Free Algorithm for the Large-Scale Trust-Region Subproblem
+Marielba  Rojas, Sandra A.  Santos, and Danny C.  Sorensen;
+Abstract
+We present a new method for the large-scale trust-region subproblem. The method is matrix-free in the sense that only matrix-vector products are required. We recast the trust-region subproblem as a parameterized eigenvalue problem and compute an optimal value for the parameter. We then find the solution of the trust-region subproblem from the eigenvectors associated with two of the smallest eigenvalues of the parameterized eigenvalue problem corresponding to the optimal parameter. The new algorithm uses a different interpolating scheme than existing methods and introduces a unified iteration that naturally includes the so-called hard case. We show that the new iteration is well defined and convergent at a superlinear rate. We present computational results to illustrate convergence properties and robustness of the method.
+Keywords
+regularization, constrained quadratic optimization, trust region, Lanczos method, 65F15, 65G05, 

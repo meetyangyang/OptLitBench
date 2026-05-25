@@ -1,0 +1,4 @@
+Bi-Criterion Optimization with Multi Colony Ant Algorithms
+Steffen Iredi;Daniel Merkle;Martin Middendorf;
+Abstract
+In this paper we propose a new approach to solve bi-criterion optimization problems with ant algorithms where several colonies of ants cooperate in finding good solutions. We introduce two methods for cooperation between the colonies and compare them with a multistart ant algorithm that corresponds to the case of no cooperation. Heterogeneous colonies are used in the algorithm, i.e. the ants differ in their preferences between the two criteria. Every colony uses two pheromone matrices — each suitable for one optimization criterion. As a test problem we use the Single Machine Total Tardiness problem with changeover costs.

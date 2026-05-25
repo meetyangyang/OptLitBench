@@ -1,0 +1,4 @@
+O(nlogn) Filtering Algorithms for Unary Resource Constraint
+Petr Vilím;
+Abstract
+So far, edge-finding is the only one major filtering algorithm for unary resource constraint with time complexity O(nlog n). This paper proposes O(nlog n) versions of another two filtering algorithms: not-first/not-last and propagation of detectable precedences. These two algorithms can be used together with the edge-finding to further improve the filtering. This paper also propose new O(nlog n) implementation of fail detection (overload checking).

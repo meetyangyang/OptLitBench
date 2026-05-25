@@ -1,0 +1,6 @@
+Continuous Piecewise Linear Delta-Approximations for Univariate Functions: Computing Minimal Breakpoint Systems
+Steffen Rebennack;Josef Kallrath;
+Abstract
+For univariate functions, we compute optimal breakpoint systems subject to the condition that the piecewise linear approximator, under-, and over-estimator never deviate more than a given \(\delta \)-tolerance from the original function over a given finite interval. The linear approximators, under-, and over-estimators involve shift variables at the breakpoints allowing for the computation of an optimal piecewise linear, continuous approximator, under-, and over-estimator. We develop three non-convex optimization models: two yield the minimal number of breakpoints, and another in which, for a fixed number of breakpoints, the breakpoints are placed such that the maximal deviation is minimized. Alternatively, we use two heuristics which compute the breakpoints subsequently, solving small non-convex problems. We present computational results for 10 univariate functions. Our approach computes breakpoint systems with up to one order of magnitude less breakpoints compared to an equidistant approach.
+Keywords
+Global optimization  Nonlinear programming  Mixed-integer nonlinear programming  Non-convex optimization  90C26  

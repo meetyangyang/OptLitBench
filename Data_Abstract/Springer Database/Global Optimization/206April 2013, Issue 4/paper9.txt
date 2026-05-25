@@ -1,0 +1,6 @@
+A linear time approximation scheme for computing geometric maximum k-star
+Jia Wang;Shiyan Hu;
+Abstract
+Facility dispersion seeks to locate the facilities as far away from each other as possible, which has attracted a multitude of research attention recently due to the pressing need on dispersing facilities in various scenarios. In this paper, as a facility dispersion problem, the geometric maximum k-star problem is considered. Given a set P of n points in the Euclidean plane, a k-star is defined as selecting k points from P and linking k − 1 points to the center point. The maximum k-star problem asks to compute a k-star on P with the maximum total length over its k − 1 edges. A linear time approximation scheme is proposed for this problem. It approximates the maximum k-star within a factor of \({(1+\epsilon)}\) in \({O(n+1/\epsilon^4 \log 1/\epsilon)}\) time for any \({\epsilon >0 }\). To the best of the authors’ knowledge, this work presents the first linear time approximation scheme on the facility dispersion problems.
+Keywords
+Geometric maximum k-star  Approximation  Linear time approximation scheme  Facility dispersion  

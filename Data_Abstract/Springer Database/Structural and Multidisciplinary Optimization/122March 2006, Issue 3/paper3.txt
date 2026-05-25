@@ -1,0 +1,6 @@
+An augmented Lagrangian relaxation for analytical target cascading using the alternating direction method of multipliers
+S. Tosserams;L. F. P. Etman;P. Y. Papalambros;J. E. Rooda;
+Abstract
+Analytical target cascading is a method for design optimization of hierarchical, multilevel systems. A quadratic penalty relaxation of the system consistency constraints is used to ensure subproblem feasibility. A typical nested solution strategy consists of inner and outer loops. In the inner loop, the coupled subproblems are solved iteratively with fixed penalty weights. After convergence of the inner loop, the outer loop updates the penalty weights. The article presents an augmented Lagrangian relaxation that reduces the computational cost associated with ill-conditioning of subproblems in the inner loop. The alternating direction method of multipliers is used to update penalty parameters after a single inner loop iteration, so that subproblems need to be solved only once. Experiments with four examples show that computational costs are decreased by orders of magnitude ranging between 10 and 1000.
+Keywords
+Multidisciplinary optimization  Decomposition  Analytical target cascading  Augmented Lagrangian relaxation  Penalty functions  

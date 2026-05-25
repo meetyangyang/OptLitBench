@@ -1,0 +1,6 @@
+Military aircraft mission planning
+Nils-Hassan Quttineh;Torbjörn Larsson;
+Abstract
+We consider a military mission planning problem where a given fleet of aircraft should attack a number of ground targets. At each attack, two aircraft need to be synchronized in both space and time. Further, there are multiple attack options against each targets, with different target effects. The objective is to maximize the outcome of the entire attack, while also minimizing the mission timespan. Real-life mission planning instances involve only a few targets and a few aircraft, but are still computationally challenging. We present metaheuristic solution methods for this problem, based on an earlier presented model. The problem includes three types of decisions: attack directions, task assignments and scheduling, and the solution methods exploit this structure in a two-stage approach. In an outer stage, a heuristic search is performed with respect to attack directions, while in an inner stage the other two decisions are optimized, given the outer stage decisions. The proposed metaheuristics are capable of producing high-quality solutions and are fast enough to be incorporated in a decision support tool.
+Keywords
+Military operations research  Generalized vehicle routing   Mixed integer programming  Matheuristics  Decision support  

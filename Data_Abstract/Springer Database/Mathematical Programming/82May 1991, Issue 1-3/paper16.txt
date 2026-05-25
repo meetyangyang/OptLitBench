@@ -1,0 +1,6 @@
+Hyperbolic 0–1 programming and query optimization in information retrieval
+Pierre Hansen;Marcus V. Poggi de Aragão;Celso C. Ribeiro;
+Abstract
+Unconstrained hyperbolic 0–1 programming can be solved in linear time when the numerator and the denominator are linear and the latter is always positive. It is NP-hard, and finding an approximate solution with a value equal to a positive multiple of the optimal one is also NP-hard, if this last hypothesis does not hold. Determining the optimal logical form of a query in information retrieval, given the attributes to be used, can be expressed as a parametric hyperbolic 0–1 program and solved in O(n logn) time, wheren is the number of elementary logical conjunctions of the attributes. This allows to characterize the optimal queries for the Van Rijsbergen synthetic criterion.
+Keywords
+Hyperbolic programming  0–1 variables  information retrieval  query optimization  

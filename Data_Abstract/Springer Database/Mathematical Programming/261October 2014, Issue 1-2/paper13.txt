@@ -1,0 +1,6 @@
+The numerical solution of Newton’s problem of least resistance
+Gerd Wachsmuth;
+Abstract
+In this paper we consider Newton’s problem of finding a convex body of least resistance. This problem could equivalently be written as a variational problem over concave functions in \({\mathbb {R}}^{2}\). We propose two different methods for solving it numerically. First, we discretize this problem by writing the concave solution function as a infimum over a finite number of affine functions. The discretized problem could be solved by standard optimization software efficiently. Second, we conjecture that the optimal body has a certain structure. We exploit this structure and obtain a variational problem in \({\mathbb {R}}^{1}\). Deriving its Euler–Lagrange equation yields a program with two unknowns, which can be solved quickly.
+Keywords
+65K10 (Optimization and variational techniques)  52B55 (Computational aspects related to convexity)  65D15 (Algorithms for functional approximation)  

@@ -1,0 +1,4 @@
+Integrating Symmetry, Dominance, and Bound-and-Bound in a Multiple Knapsack Solver
+Alex S. Fukunaga;
+Abstract
+The multiple knapsack problem (MKP) is a classical combinatorial optimization problem. A recent algorithm for some classes of the MKP is bin-completion, a bin-oriented, branch-and-bound algorithm. In this paper, we propose path-symmetry and path-dominance, which are instances of the symmetry detection by dominance detection approach for pruning symmetric nodes in the MKP branch-and-bound search space. In addition, we integrate the “bound-and-bound” upper bound validation technique used in MKP solvers from the OR literature. We show experimentally that our new MKP solver, which integrates symmetry techniques from constraint programming and bound-and-bound techniques from operations research, significantly outperforms previous solvers on hard instances.

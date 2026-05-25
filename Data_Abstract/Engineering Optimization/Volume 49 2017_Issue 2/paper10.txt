@@ -1,0 +1,6 @@
+On the use of mathematical programs with complementarity constraints in combined topological and parametric design of biochemical enzyme networks
+Tinghao Guo;James T. Allison;
+Abstract
+A new method is presented for biochemical enzyme network design based on direct transcription and mathematical programs with complementarity constraints. Topology and continuous parameters are optimized simultaneously. The case study design objective is to optimize adaptability while maintaining sufficient sensitivity to ensure input change detection. A three-node problem is solved using both simultaneous and single-shooting approaches. The simultaneous approach enables solution of four-node problems; this is a new capability not available through existing approaches such as exhaustive enumeration, and is a step toward designing larger systems. A conventional nested solution strategy was also investigated for a four-node problem where an outer loop solves the discrete topology optimization problem, and an inner loop solves the continuous problem for each candidate topology. The simultaneous approach yields robust network topological designs that are superior to those identified through the single-shooting and nested strategies.
+Keywords
+synthetic biology, enzyme network, topology optimization, direct transcription, nonlinear programming 

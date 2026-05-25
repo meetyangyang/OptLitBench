@@ -1,0 +1,6 @@
+Complexity Analysis of an Interior Cutting Plane Method for Convex Feasibility Problems
+Jean-Louis  Goffin, Zhi-Quan  Luo, and Yinyu  Ye;
+Abstract
+We further analyze the convergence and the complexity of a dual column generation algorithm for solving general convex feasibility problems defined by a separation oracle. The oracle is called at an approximate analytic center of the set given by the intersection of the linear inequalities which are the previous answers of the oracle. We show that the algorithm converges in finite time and is in fact a fully polynomial approximation algorithm, provided that the feasible region has a nonempty interior.
+Keywords
+convex feasibility problem, potential reduction, column generation, cutting planes, 90C25, 90C26, 90C60, 

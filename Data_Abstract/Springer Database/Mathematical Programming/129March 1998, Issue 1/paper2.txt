@@ -1,0 +1,6 @@
+On the projected subgradient method for nonsmooth convex optimization in a Hilbert space
+Ya. I. Alber;A. N. Iusem;M. V. Solodov;
+Abstract
+We consider the method for constrained convex optimization in a Hilbert space, consisting of a step in the direction opposite to anε k -subgradient of the objective at a current iterate, followed by an orthogonal projection onto the feasible set. The normalized stepsizesε k  are exogenously given, satisfyingΣ k=0 ∞  αk = ∞, Σ k=0 ∞  α k 2  < ∞, andεk is chosen so thatεk ⩽ μαk for someμ > 0. We prove that the sequence generated in this way is weakly convergent to a minimizer if the problem has solutions, and is unbounded otherwise. Among the features of our convergence analysis, we mention that it covers the nonsmooth case, in the sense that we make no assumption of differentiability off, and much less of Lipschitz continuity of its gradient. Also, we prove weak convergence of the whole sequence, rather than just boundedness of the sequence and optimality of its weak accumulation points, thus improving over all previously known convergence results. We present also convergence rate results. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Convex optimization  Nonsmooth optimization  Projected gradient method  Steepest descent method  Weak convergence  Convergence rate  

@@ -1,0 +1,6 @@
+Shape-Preserving Interpolation and Smoothing for Options Market Implied Volatility
+H. Yin;Y. Wang;L. Qi;
+Abstract
+The interpolation of the market implied volatility function from several observations of option prices is often required in financial practice and empirical study. However, the results from existing interpolation methods may not satisfy the property that the European call option price function is monotonically decreasing and convex with respect to the strike price. In this paper, a modified convex interpolation method (with and without smoothing) is developed to approximate the option price function while explicitly incorporating the shape restrictions. The method is optimal for minimizing the distance between the implied risk-neutral density function and a prior density function, which allows us to benefit from nonparametric methodology and empirical experience. Numerical performance shows that the method is accurate and robust. Whether or not the sample satisfies the convexity and decreasing constraints, the method always works.
+Keywords
+Option price function  Risk-neutral density  Implied volatility  Shape-preserving interpolation  Nonparametric estimation  

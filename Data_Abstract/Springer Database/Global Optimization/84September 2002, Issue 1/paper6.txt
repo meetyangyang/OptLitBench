@@ -1,0 +1,6 @@
+Cone Adaptation Strategies for a Finite and Exact Cutting Plane Algorithm for Concave Minimization
+Marcus Porembski;
+Abstract
+In this paper we are concerned with pure cutting plane algorithms for concave minimization. One of the most common types of cutting planes for performing the cutting operation in such algorithm is the concavity cut. However, it is still unknown whether the finite convergence of a cutting plane algorithm can be enforced by the concavity cut itself or not. Furthermore, computational experiments have shown that concavity cuts tend to become shallower with increasing iteration. To overcome these problems we recently proposed a procedure, called cone adaptation, which deepens concavity cuts in such a way that the resulting cuts have at least a certain depth Δ with Δ 0, where Δ is independent of the respective iteration, which enforces the finite convergence of the cutting plane algorithm. However, a crucial element of our proof that these cuts have a depth of at least Δ was that we had to confine ourselves to ε-global optimal solutions, where ε is a prescribed strictly positive constant. In this paper we examine possible ways to ensure the finite convergence of a pure cutting plane algorithm for the case where ε= 0.
+Keywords
+Concave minimization  Cutting plane  Concavity cut  Tuy cut  Finite convergence  Cone adaptation  

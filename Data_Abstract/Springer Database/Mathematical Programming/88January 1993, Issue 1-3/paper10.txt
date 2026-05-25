@@ -1,0 +1,6 @@
+A deterministic algorithm for global optimization
+Leo Breiman;Adele Cutler;
+Abstract
+We present an algorithm for finding the global maximum of a multimodal, multivariate function for which derivatives are available. The algorithm assumes a bound on the second derivatives of the function and uses this to construct an upper envelope. Successive function evaluations lower this envelope until the value of the global maximum is known to the required degree of accuracy. The algorithm has been implemented in RATFOR and execution times for standard test functions are presented at the end of the paper.
+Keywords
+Deterministic global optimization  global maximum  global minimum  

@@ -1,0 +1,6 @@
+The Effect of Anisotropic Mesh Adaptation on PDE-Constrained Optimal Control Problems
+Stefano  Micheletti and Simona  Perotto;
+Abstract
+We address a linear-quadratic optimal control problem constrained by a scalar advection-diffusion-reaction equation. We develop an anisotropic goal-oriented error analysis to show in an optimal control framework how the employment of an anisotropic finite element mesh can reduce the computational cost. The novel ingredient is the enrichment of the a posteriori analysis, already well established in an isotropic context, with information about possible directionalities of the problem at hand. To deal with the advection dominated regime, a strongly consistent anisotropic edge-oriented symmetric stabilization is employed. This has the advantage that the optimize-then-discretize and discretize-then-optimize approaches coincide. The influence of anisotropic mesh adaptivity on the optimal control problem is extensively investigated numerically on a model test case as well as on an application related to the environmental pollution issue. The analysis is then extended to the Oseen system for a model Dirichlet control problem in fluid mechanics.
+Keywords
+linear-quadratic optimal control problem, anisotropic mesh adaptation, advection-diffusion-reaction equation, Oseen equations, finite elements, 65K10, 65N15, 65N50, 65N30, 

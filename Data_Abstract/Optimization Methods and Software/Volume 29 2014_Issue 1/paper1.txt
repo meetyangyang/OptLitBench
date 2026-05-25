@@ -1,0 +1,6 @@
+Sparse Hessian factorization in curved trajectories for unconstrained minimization
+Alberto J. Jiménez;
+Abstract
+Curved trajectories algorithm (CTA) is a package for the minimization of unconstrained functions of several variables with intervals on the variables. The core algorithm is novel in that steps may follow polynomial space curves instead of straight lines. The space curves result from truncations of a Taylor series expansion of the Gradient inverse function. A critical item in the efficiency of CTA is the factorization of the sparse Hessian matrix and handling a non-positive definite Hessian. This paper describes a new approach for non-positive definite Hessians that has given robust results especially for ill-conditioned problems and the CTA package compares very favourably with other minimization packages using a sample of large Cuter problems.
+Keywords
+curve trajectory minimization, Hessian factorization, sparse Hessian storageSubject classification codes: 65K99 numerical analysis optimization, 65F05 direct methods for linear systems and matrix inversion, 65Y99 computer aspects of numerical algorithms, 34K28 numerical approximation of solutions 

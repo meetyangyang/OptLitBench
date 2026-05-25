@@ -1,0 +1,6 @@
+One-dimensional center-based l 1-clustering method
+Kristian Sabo;Rudolf Scitovski;Ivan Vazler;
+Abstract
+Motivated by the method for solving center-based Least Squares—clustering problem (Kogan in Introduction to clustering large and high-dimensional data, Cambridge University Press, 2007; Teboulle in J Mach Learn Res 8:65–102, 2007) we construct a very efficient iterative process for solving a one-dimensional center-based l 1—clustering problem, on the basis of which it is possible to determine the optimal partition. We analyze the basic properties and convergence of our iterative process, which converges to a stationary point of the corresponding objective function for each choice of the initial approximation. Given is also a corresponding algorithm, which in only few steps gives a stationary point and the corresponding partition. The method is illustrated and visualized on the example of looking for an optimal partition with two clusters, where we check all stationary points of the corresponding minimizing functional. Also, the method is tested on the basis of large numbers of data points and clusters and compared with the method for solving the center-based Least Squares—clustering problem described in Kogan (2007) and Teboulle (2007).
+Keywords
+Clustering  Data mining  Optimization  Weighted median problem  

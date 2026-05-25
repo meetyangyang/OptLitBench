@@ -1,0 +1,6 @@
+Sufficient weighted complementarity problems
+Florian A. Potra;
+Abstract
+This paper presents some fundamental results about sufficient linear weighted complementarity problems. Such a problem depends on a nonnegative weight vector. If the weight vector is zero, the problem reduces to a sufficient linear complementarity problem that has been extensively studied. The introduction of the more general notion of a weighted complementarity problem (wCP) was motivated by the fact that wCP can model more general equilibrium problems than the classical complementarity problem (CP). The introduction of a nonzero weight vector makes the theory of wCP more complicated than the theory of CP. The paper gives a characterization of sufficient linear wCP and proposes a corrector–predictor interior-point method for its numerical solution. While the proposed algorithm does not depend on the handicap \(\kappa \) of the problem its computational complexity is proportional with \(1+\kappa \). If the weight vector is zero and the starting point is relatively well centered, then the computational complexity of our algorithm is the same as the best known computational complexity for solving sufficient linear CP.
+Keywords
+Weighted complementarity  Interior-point  Path-following  Sufficient matrix  Equilibrium problems  

@@ -1,0 +1,6 @@
+Sublinear upper bounds for stochastic programs with recourse
+John R. Birge;Roger J. -B. Wets;
+Abstract
+Separable sublinear functions are used to provide upper bounds on the recourse function of a stochastic program. The resulting problem's objective involves the inf-convolution of convex functions. A dual of this problem is formulated to obtain an implementable procedure to calculate the bound. Function evaluations for the resulting convex program only require a small number of single integrations in contrast with previous upper bounds that require a number of function evaluations that grows exponentially in the number of random variables. The sublinear bound can often be used when other suggested upper bounds are intractable. Computational results indicate that the sublinear approximation provides good, efficient bounds on the stochastic program objective value.
+Keywords
+Stochastic programming  sublinear function  simple recourse problem  recourse model  duality  approximation  

@@ -1,0 +1,6 @@
+A Branch and Bound algorithm for the minimax regret spanning arborescence
+Eduardo Conde;
+Abstract
+The paper considers the problem of finding a spanning arborescence on a directed network whose arc costs are partially known. It is assumed that each arc cost can take on values from a known interval defining a possible economic scenario. In this context, the problem of finding the spanning arborescence which better approaches to that of minimum overall cost under each possible scenario is studied. The minimax regret criterion is proposed in order to obtain such a robust solution of the problem. As it is shown, the bounds on the optimal value of the minimax regret optimization problem obtained in a previous paper, can be used here in a Branch and Bound algorithm in order to give an optimal solution. The computational behavior of the algorithm is tested through numerical experiments.
+Keywords
+Spanning arborescences  Robust optimization  Branch and Bound algorithms  

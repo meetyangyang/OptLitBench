@@ -1,0 +1,6 @@
+An algorithm for quadratic ℓ1-regularized optimization with a flexible active-set strategy
+Stefan Solntsev;Jorge Nocedal;Richard H. Byrd;
+Abstract
+We present an active-set method for minimizing an objective that is the sum of a convex quadratic and  regularization term. Unlike two-phase methods that combine a first-order active set identification step and a subspace phase consisting of a cycle of conjugate gradient (CG) iterations, the method presented here has the flexibility of computing a first-order proximal gradient step or a subspace CG step at each iteration. The decision of which type of step to perform is based on the relative magnitudes of some scaled components of the minimum norm subgradient of the objective function. The paper establishes global rates of convergence, as well as work complexity estimates for two variants of our approach, which we call the interleaved iterative soft-thresholding algorithm (ISTA)–CG method. Numerical results illustrating the behaviour of the method on a variety of test problems are presented.
+Keywords
+convex optimization, active-set method, nonlinear optimization, lassoAMS Subject Classification: 90C20, 90C25, 90C30, 65K05 

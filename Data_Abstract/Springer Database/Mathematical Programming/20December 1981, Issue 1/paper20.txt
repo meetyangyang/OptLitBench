@@ -1,0 +1,6 @@
+A polynomial algorithm for maximum weighted vertex packings on graphs without long odd cycles
+Wen-lian Hsu;Yoshiro Ikura;George L. Nemhauser;
+Abstract
+The vertex packing problem for a given graph is to find a maximum number of vertices no two of which are joined by an edge. The weighted version of this problem is to find a vertex packingP such that the sum of the individual vertex weights is maximum. LetG be the family of graphs whose longest odd cycle is of length not greater than 2K + 1, whereK is any non-negative integer independent of the number (denoted byn) of vertices in the graph. We present an O(n2K+1) algorithm for the maximum weighted vertex packing problem for graphs inG ≥ 1. A by-product of this algorithm is an algorithm for piecing together maximum weighted packings on blocks to find maximum weighted packings on graphs that contain more than one block. We also give an O(n2K+3) algorithm for testing membership inG
+Keywords
+Combinatorial Optimization  Vertex Packings  Graph Theory  Polynomial Algorithm  

@@ -1,0 +1,6 @@
+Sequential Stopping Rules for Random Optimization Methods with Applications to Multistart Local Search
+William E.  Hart;
+Abstract
+Sequential stopping rules are described for several stochastic algorithms that estimate the global minimum of a function. Stopping rules are described for pure random search and stratified random search. These stopping rules use an estimate of the probability measure of the $\epsilon$-close points to terminate these algorithms when a specified confidence has been achieved. Numerical results indicate that these stopping rules require fewer samples and are more reliable than the previous stopping rules for these algorithms. These stopping rules can also be applied to multistart local search and stratified multistart local search. Numerical results on a standard test set show that these stopping rules can perform as well as Bayesian stopping rules for multistart local search.
+Keywords
+optimization, pure random search, stratified random search, stopping rules, multistart, 65K10, 60F99, 62L15, 

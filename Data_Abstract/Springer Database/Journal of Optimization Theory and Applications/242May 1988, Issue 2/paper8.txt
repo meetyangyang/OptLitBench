@@ -1,0 +1,6 @@
+Numerical experiments with variations of the Gauss-Newton algorithm for nonlinear least squares
+E. Spedicato;M. T. Vespucci;
+Abstract
+In this paper, the classical Gauss-Newton method for the unconstrained least squares problem is modified by introducing a quasi-Newton approximation to the second-order term of the Hessian. Various quasi-Newton formulas are considered, and numerical experiments show that most of them are more efficient on large residual problems than the Gauss-Newton method and a general purpose minimization algorithm based upon the BFGS formula. A particular quasi-Newton formula is shown numerically to be superior. Further improvements are obtained by using a line search that exploits the special form of the function.
+Keywords
+Mathematical programming  nonlinear programming  nonlinear least squares  quasi-Newton methods  

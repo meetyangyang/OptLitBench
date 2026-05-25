@@ -1,0 +1,6 @@
+An evolutionary algorithm for global optimization based on self-organizing maps
+Sami Barmada;Marco Raugi;Mauro Tucci;
+Abstract
+In this article, a new population-based algorithm for real-parameter global optimization is presented, which is denoted as self-organizing centroids optimization (SOC-opt). The proposed method uses a stochastic approach which is based on the sequential learning paradigm for self-organizing maps (SOMs). A modified version of the SOM is proposed where each cell contains an individual, which performs a search for a locally optimal solution and it is affected by the search for a global optimum. The movement of the individuals in the search space is based on a discrete-time dynamic filter, and various choices of this filter are possible to obtain different dynamics of the centroids. In this way, a general framework is defined where well-known algorithms represent a particular case. The proposed algorithm is validated through a set of problems, which include non-separable problems, and compared with state-of-the-art algorithms for global optimization.
+Keywords
+self-organizing maps, evolutionary algorithms, global optimization, particle-swarm optimization 

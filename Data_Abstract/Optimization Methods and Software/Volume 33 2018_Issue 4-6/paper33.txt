@@ -1,0 +1,6 @@
+On lower bounds for optimal Jacobian accumulation
+Viktor Mosenkis;Uwe Naumann;
+Abstract
+The task of finding a way to compute  by using the minimal number of multiplications is generally referred to as the Optimal Jacobian Accumulation () problem. Often a special case of the  problem is examined, where the accumulation of the Jacobian is considered as a transformation of the linearized directed acyclic graph (l-DAG) G into , such that  is a subgraph of the complete directed bipartite graph . The transformation of the l-DAG is performed by elimination methods. The most commonly used elimination methods are vertex elimination and edge elimination. The problem of transforming an l-DAG into a bipartite graph by vertex or edge eliminations with minimal costs is generally referred as the Vertex Elimination () or Edge Elimination () problem. Both the  and  problems are conjectured to be NP-hard. Thus Branch and bound based algorithms in addition to greedy heuristics are used to solve these problems. For efficient application of such algorithms, good lower bounds are essential. In this paper, we develop a new approach for computing the lower bounds for the optimal solution of the  and  problems.
+Keywords
+vertex elimination, edge elimination, optimal Jacobian accumulation, lower bounds, branch and boundAMS Subject Classification: 65K, 65H 

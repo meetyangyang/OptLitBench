@@ -1,0 +1,6 @@
+Efficient global robust optimization of unconstrained problems affected by parametric uncertainties
+Samee ur Rehman;Matthijs Langelaar;
+Abstract
+A novel technique for efficient global robust optimization of problems affected by parametric uncertainties is proposed. The method is especially relevant to problems that are based on expensive computer simulations. The globally robust optimal design is obtained by searching for the best worst-case cost, which involves a nested min-max optimization problem. In order to reduce the number of expensive function evaluations, we fit response surfaces using Kriging and use adapted versions of expected improvement to direct the search for the robust optimum. The numerical performance of the algorithm is compared against other techniques for min-max optimization on established test problems. The proposed approach exhibits reliable convergence, is more efficient than previous methods and shows strong scalability.
+Keywords
+Kriging  Min-max optimization  Expected improvement  Robust optimization  Parametric uncertainties  Worst-case design  

@@ -1,0 +1,6 @@
+Modified predictor-corrector algorithm for locating weighted centers in linear programming
+Y. Zhang;A. El-Bakry;
+Abstract
+In certain applications of linear programming, the determination of a particular solution, the weighted center of the solution set, is often desired, giving rise to the need for algorithms capable of locating such center. In this paper, we modify the Mizuno-Todd-Ye predictor-corrector algorithm so that the modified algorithm is guaranteed to converge to the weighted center for given weights. The key idea is to ensure that iterates remain in a sequence of shrinking neighborhoods of the weighted central path. The modified algorithm also possesses polynomiality and superlinear convergence.
+Keywords
+Predictor-corrector algorithm  weighted center of the solution set  linear programming  

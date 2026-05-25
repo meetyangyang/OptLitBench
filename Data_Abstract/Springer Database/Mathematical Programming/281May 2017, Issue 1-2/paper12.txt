@@ -1,0 +1,6 @@
+Worst-case evaluation complexity for unconstrained nonlinear optimization using high-order regularized models
+E. G. Birgin;J. L. Gardenghi;J. M. Martínez;S. A. Santos;Ph. L. Toint;
+Abstract
+The worst-case evaluation complexity for smooth (possibly nonconvex) unconstrained optimization is considered. It is shown that, if one is willing to use derivatives of the objective function up to order p (for \(p\ge 1\)) and to assume Lipschitz continuity of the p-th derivative, then an \(\epsilon \)-approximate first-order critical point can be computed in at most \(O(\epsilon ^{-(p+1)/p})\) evaluations of the problem’s objective function and its derivatives. This generalizes and subsumes results known for \(p=1\) and \(p=2\).
+Keywords
+Nonlinear optimization  Unconstrained optimization  Evaluation complexity  High-order models  Regularization  90C30  65K05  49M37  90C60  68Q25  

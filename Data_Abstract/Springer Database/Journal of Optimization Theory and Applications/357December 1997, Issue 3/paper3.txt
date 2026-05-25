@@ -1,0 +1,6 @@
+Parallel Algorithm for Unconstrained Optimization Based on Decomposition Techniques
+D. Conforti;R. Musmanno;
+Abstract
+We present a numerical implementation of the parallel gradient distribution (PGD) method for the solution of large-scale unconstrained optimization problems. The proposed parallel algorithm is characterized by a parallel phase which exploits the portions of the gradient of the objective function assigned to each processor; then, a coordination phase follows which, by a synchronous interaction scheme, optimizes over the partial results obtained by the parallel phase. The parallel and coordination phases are implemented using a quasi-Newton limited-memory BFGS approach. The computational experiments, carried out on a network of UNIX workstations by using the parallel software tool PVM, show that parallelization efficiency was problem dependent and ranged between 0.15 and 8.75. For the 150 problems solved by PGD on more than one processor, 85 cases had parallelization efficiency below 1, while 65 cases had a parallelization efficiency above 1.
+Keywords
+Unconstrained optimization  parallel synchronous algorithms  limited-memory quasi-Newton methods  computer networks  parallel virtual machine  

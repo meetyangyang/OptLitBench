@@ -1,0 +1,6 @@
+Polynomial affine algorithms for linear programming
+Clovis C. Gonzaga;
+Abstract
+The method of steepest descent with scaling (affine scaling) applied to the potential functionq logc′x — ∑  i=1   n   logx i  solves the linear programming problem in polynomial time forq ⩾ n. Ifq = n, then the algorithm terminates in no more than O(n2L) iterations; if q ⩾ n +\(\sqrt n \) withq = O(n) then it takes no more than O(nL) iterations. A modified algorithm using rank-1 updates for matrix inversions achieves respectively O(n4L) and O(n3.5L) arithmetic computions.
+Keywords
+Linear programming  affine algorithms  Karmarkar's algorithm  interior methods  

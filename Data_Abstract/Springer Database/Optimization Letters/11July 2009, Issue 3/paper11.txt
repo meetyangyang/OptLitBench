@@ -1,0 +1,6 @@
+On solving generalized Nash equilibrium problems via optimization
+Barbara Panicucci;Massimo Pappalardo;Mauro Passacantando;
+Abstract
+This paper deals with the generalized Nash equilibrium problem (GNEP), i.e. a noncooperative game in which the strategy set of each player, as well as his payoff function, depends on the strategies of all players. We consider an equivalent optimization reformulation of GNEP using a regularized Nikaido–Isoda function so that solutions of GNEP coincide with global minima of the optimization problem. We then propose a derivative-free descent type method with inexact line search to solve the equivalent optimization problem and we prove that our algorithm is globally convergent. The convergence analysis is not based on conditions guaranteeing that every stationary point of the optimization problem is a solution of GNEP. Finally, we present the performance of our algorithm on some examples.
+Keywords
+Generalized Nash equilibrium problem  Nikaido–Isoda function  Descent method  

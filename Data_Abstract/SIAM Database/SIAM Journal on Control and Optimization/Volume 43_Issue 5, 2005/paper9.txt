@@ -1,0 +1,6 @@
+Convex Optimal Control Problems with Smooth Hamiltonians
+Rafal  Goebel;
+Abstract
+Optimal control problems with convex costs, for which Hamiltonians have Lipschitz continuous gradients, are considered. Examples of such problems, including extensions of the linear-quadratic regulator with hard and possibly state-dependent control constraints, and piecewise linear-quadratic penalties are given. Lipschitz continuous differentiability and strong convexity of the terminal cost are shown to be inherited by the value function, leading to Lipschitz continuity of the optimal feedback. With no regularity assumptions on the limiting problem, epi-convergence of costs, which can be equivalently described by pointwise convergence of Hamiltonians, is shown to guarantee epi-convergence of value functions. Resulting schemes of approximating any concave-convex Hamiltonian by continuously differentiable ones are displayed. Auxiliary results about existence and stability of saddle points of quadratic functions over polyhedral sets are also proved. Tools used are based on duality theory of convex and saddle functions.
+Keywords
+optimal control, differentiable Hamiltonian, convex value function, optimal feedback regularity, conjugate duality, epi-convergence, piecewise linear-quadratic function, saddle function, 49N60, 49N10, 49M29, 90C47, 

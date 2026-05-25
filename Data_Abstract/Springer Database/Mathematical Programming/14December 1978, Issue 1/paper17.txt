@@ -1,0 +1,6 @@
+A class of methods for linear programming
+Markku Kallio;Evan L. Porteus;
+Abstract
+A class of methods is presented for solving standard linear programming problems. Like the simplex method, these methods move from one feasible solution to another at each iteration, improving the objective function as they go. Each such feasible solution is also associated with a basis. However, this feasible solution need not be an extreme point and the basic solution corresponding to the associated basis need not be feasible. Nevertheless, an optimal solution, if one exists, is found in a finite number of iterations (under nondegeneracy). An important example of a method in the class is the reduced gradient method with a slight modification regarding selection of the entering variable.
+Keywords
+Linear Programming Methods  Simplex Method  Reduced Gradient Method  Feasible Direction  

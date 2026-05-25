@@ -1,0 +1,6 @@
+Modular Feedback Logic for Discrete Event Systems
+P. J.  Ramadge and W. M.  Wonham;
+Abstract
+We examine a modular approach to the synthesis of state feedback controls for the problem of maintaining a predicate on the state set of a discrete dynamic system invariant. Dynamical systems are modeled by automata together with a mechanism for enabling and disabling a subset of state transitions. The basic problem of interest is to ensure by appropriate control action that a given predicate on the state set of the process remains invariantly true whenever it is initially satisfied. Assuming the predicate can be decomposed into the conjunction or disjunction of component predicates, we determine conditions under which it is possible to synthesize the appropriate control in a modular fashion.
+Keywords
+discrete event systems, modular control, supervisory control, 93, 

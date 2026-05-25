@@ -1,0 +1,6 @@
+A GRASP for Coloring Sparse Graphs
+Manuel Laguna;Rafael Martí;
+Abstract
+We first present a literature review of heuristics and metaheuristics developed for the problem of coloring graphs. We then present a Greedy Randomized Adaptive Search Procedure (GRASP) for coloring sparse graphs. The procedure is tested on graphs of known chromatic number, as well as random graphs with edge probability 0.1 having from 50 to 500 vertices. Empirical results indicate that the proposed GRASP implementation compares favorably to classical heuristics and implementations of simulated annealing and tabu search. GRASP is also found to be competitive with a genetic algorithm that is considered one of the best currently available for graph coloring.
+Keywords
+graph coloring  metaheuristics  GRASP  

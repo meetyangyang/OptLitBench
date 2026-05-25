@@ -1,0 +1,6 @@
+Approximability of average completion time scheduling on unrelated machines
+René Sitters;
+Abstract
+We show that minimizing the average job completion time on unrelated machines is \(\mathcal {APX}\)-hard if preemption of jobs is allowed. This provides one of the last missing pieces in the complexity classification of machine scheduling with (weighted) sum of completion times objective. The proof is based on a mixed integer linear program. This means that verification of the reduction is partly done by an ILP-solver. This gives a concise proof which is easy to verify. In addition, we give a deterministic 1.698-approximation algorithm for the weighted version of the problem. The improvement is made by modifying and combining known algorithms and by the use of new lower bounds. These results improve on the known \(\mathcal {NP}\)-hardness and 2-approximability.
+Keywords
+Scheduling  \(\mathcal {APX}\)-hardness  Approximation algorithms  Average completion time  Quadratic programming  90B35 Scheduling theory, deterministic  68W25 Approximation algorithms  68Q25 Analysis of algorithms and problem complexity  

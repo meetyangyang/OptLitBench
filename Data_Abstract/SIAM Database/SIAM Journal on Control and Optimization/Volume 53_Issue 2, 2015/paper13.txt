@@ -1,0 +1,6 @@
+Finite Element Discretization of State-Constrained Elliptic Optimal Control Problems with Semilinear State Equation
+Ira  Neitzel, Johannes  Pfefferer, and Arnd  Rösch;
+Abstract
+We study a class of semilinear elliptic optimal control problems with pointwise state constraints. The purpose of this paper is twofold. First, we present convergence results for the finite element discretization of this problem class similarly to known results with finite-dimensional control space, thus extending results that are---for control functions---only available for linear-quadratic convex problems. We rely on a quadratic growth condition for the continuous problem that follows from second order sufficient conditions. Second, we show that the second order sufficient conditions for the continuous problem transfer to its discretized version. This is of interest, for example, when considering questions of local uniqueness of solutions or the convergence of solution algorithms such as the SQP method.
+Keywords
+optimal control, finite elements, semilinear elliptic PDE, state constraints, a priori error estimates, 49J20, 65K10, 65N15, 65N30, 

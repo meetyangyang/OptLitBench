@@ -1,0 +1,6 @@
+Computational Complexity of a Cost Allocation Approach to a Fixed Cost Spanning Forest Problem
+Daniel Granot;Frieda Granot;
+Abstract
+We present a computational analysis of a game theoretic approach to a cost allocation problem arising from a graph optimization problem, referred to as the fixed cost spanning forest (FCSF) problem. The customers in the FCSF problem, represented by nodes in a graph G, are in need of service that can be produced at some facilities yet to be constructed. The cost allocation problem is concerned with the fair distribution of the cost of providing the service among customers. We formulate this cost allocation problem as a cooperative game, referred to as the FCSF game. In general, the core of a FCSF game may be empty. However, for the case when G is a tree, it is shown that the core is not empty. Moreover, we prove that in this case core points can be generated in strongly polynomial time. We further provide a nonredundant characterization of the core of the FCSF game defined over a tree in the special case when all nodes are communities. This is shown to lead, in some instances, to a strongly polynomial algorithm for computing the nucleolus.
+Keywords
+cost allocation graph optimization fixed cost spanning forest cooperative game approach 

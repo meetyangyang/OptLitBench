@@ -1,0 +1,6 @@
+Three nearly scaling-invariant versions of an exterior point algorithm for linear programming
+Charalampos Triantafyllidis;Nikolaos Samaras;
+Abstract
+In this paper, we describe three versions of a primal exterior point Simplex type algorithm for solving linear programming problems. Also, these algorithms are not affected mainly by scaling techniques. We compare their practical effectiveness versus the revised primal Simplex algorithm (our implementation) and the MATLAB’s implementations of Simplex and Interior Point Method. A computational study on randomly generated sparse linear programs is presented to establish the practical value of the proposed versions. The results are very encouraging and verify the superiority of the exterior point versions over the other algorithms either using scaling techniques or not.
+Keywords
+linear programming, simplex algorithm, exterior point algorithm, scale invariance attributeAMS Subject Classifications: 90C05, 90C06, 90C49 

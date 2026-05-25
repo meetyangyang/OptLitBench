@@ -1,0 +1,6 @@
+A convex optimization approach for minimizing the ratio of indefinite quadratic functions over an ellipsoid
+Amir Beck;Marc Teboulle;
+Abstract
+We consider the nonconvex problem (RQ) of minimizing the ratio of two nonconvex quadratic functions over a possibly degenerate ellipsoid. This formulation is motivated by the so-called regularized total least squares problem (RTLS), which is a special case of the problem’s class we study. We prove that under a certain mild assumption on the problem’s data, problem (RQ) admits an exact semidefinite programming relaxation. We then study a simple iterative procedure which is proven to converge superlinearly to a global solution of (RQ) and show that the dependency of the number of iterations on the optimality tolerance \(\varepsilon\) grows as \(O(\sqrt{\ln \varepsilon^{-1}})\).
+Keywords
+Ratio of quadratic minimization  Nonconvex quadratic minimization  Semidefinite programming  Strong duality  Regularized total least squares  Fixed point algorithms  Convergence analysis  90C22  90C25  62G05  

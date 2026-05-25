@@ -1,0 +1,4 @@
+The Deviation Constraint
+Pierre Schaus;Yves Deville;Pierre Dupont;Jean-Charles Régin;
+Abstract
+This paper introduces DEVIATION, a soft global constraint to obtain balanced solutions. A violation measure of the perfect balance can be defined as the L  p  norm of the vector variables minus their mean. SPREAD constraints the sum of square deviations to the mean [5,7] i.e. the L 2 norm. The L 1 norm is considered here. Neither criterion subsumes the other but the design of a propagator for L 1 is simpler. We also show that a propagator for DEVIATION runs in \(\mathcal{O}(n)\) (with respect to the number of variables) against \(\mathcal{O}(n^2)\) for SPREAD.

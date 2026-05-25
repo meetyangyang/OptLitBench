@@ -1,0 +1,6 @@
+A practical general approximation criterion for methods of multipliers based on Bregman distances
+Jonathan Eckstein;
+Abstract
+ This paper demonstrates that for generalized methods of multipliers for convex programming based on Bregman distance kernels – including the classical quadratic method of multipliers – the minimization of the augmented Lagrangian can be truncated using a simple, generally implementable stopping criterion based only on the norms of the primal iterate and the gradient (or a subgradient) of the augmented Lagrangian at that iterate. Previous results in this and related areas have required conditions that are much harder to verify, such as ε-optimality with respect to the augmented Lagrangian, or strong conditions on the convex program to be solved. Here, only existence of a KKT pair is required, and the convergence properties of the exact form of the method are preserved. The key new element in the analysis is the use of a full conjugate duality framework, as opposed to mainly examining the action of the method on the standard dual function of the convex program. An existence result for the iterates, stronger than those possible for the exact form of the algorithm, is also included.
+Keywords
+General Approximation  Existence Result  Related Area  Convergence Property  Dual Function  

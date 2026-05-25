@@ -1,0 +1,6 @@
+A combined SQP–IPM algorithm for solving large-scale nonlinear optimization problems
+Björn Sachsenberg;Klaus Schittkowski;
+Abstract
+We consider a combined IPM–SQP method to solve smooth nonlinear optimization problems, which may possess a large number of variables and a sparse Jacobian matrix of the constraints. Basically, the algorithm is a sequential quadratic programming (SQP) method, where the quadratic programming subproblem is solved by a primal-dual interior point method (IPM). A special feature of the algorithm is that the quadratic programming subproblem does not need to become exactly solved. To solve large optimization problems, either a limited-memory BFGS update to approximate the Hessian of the Lagrangian function is applied or the user specifies the Hessian by himself. Numerical results are presented for the 306 small and dense Hock-Schittkowski problems, for 13 large semi-linear elliptic control problems after a suitable discretization, and for 35 examples of the CUTEr test problem collection with more than 5000 variables.
+Keywords
+Nonlinear programming  Large-scale optimization  SQP methods  IPM methods  Numerical tests  

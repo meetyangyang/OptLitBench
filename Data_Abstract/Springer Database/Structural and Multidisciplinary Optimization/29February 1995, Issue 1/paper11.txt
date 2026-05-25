@@ -1,0 +1,6 @@
+Numerical comparison between two cost functions in contact shape optimization
+E. A. Fancello;J. Haslinger;R. A. Feijóo;
+Abstract
+A finite element approach to shape optimization in a 2D frictionless contact problem for two different cost functions is presented in this work. The goal is to find an appropriate shape for the contact boundary, performing an almost constant contact-stress distribution. The whole formulation, including the mathematical model for the unilateral problem, sensitivity analysis and geometry definition is treated in a continuous form, independently of the discretization in finite elements. Shape optimization is performed by a direct modification of the geometry throughB-spline curves and an automatic mesh generator is used at each new configuration to provide the finite element input data. Augmented-Lagrangian techniques (to solve the contact problem) and an interior-point mathematical-programming algorithm (for shape optimization) are used to obtain numerical results.
+Keywords
+Cost Function  Contact Problem  Shape Optimization  Mesh Generator  Contact Boundary  

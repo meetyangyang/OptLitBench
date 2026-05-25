@@ -1,0 +1,6 @@
+A Smooth Primal-Dual Optimization Framework for Nonsmooth Composite Convex Minimization
+Quoc  Tran-Dinh, Olivier  Fercoq, and Volkan  Cevher;
+Abstract
+We propose a new and low per-iteration complexity first-order primal-dual optimization framework for a convex optimization template with broad applications. Our analysis relies on a novel combination of three classic ideas applied to the primal-dual gap function: smoothing, acceleration, and homotopy. The algorithms due to the new approach achieve the best-known convergence rate results, in particular when the template consists of only nonsmooth functions. We also outline a restart strategy for the acceleration to significantly enhance the practical performance. We demonstrate relations with the augmented Lagrangian method and show how to exploit the strongly convex objectives with rigorous convergence rate guarantees. We provide representative examples to illustrate that the new methods can outperform the state of the art,  including  Chambolle--Pock, and the alternating direction method-of-multipliers algorithms. We also compare our algorithms with the well-known Nesterov smoothing method.
+Keywords
+gap reduction technique, first-order primal-dual methods, augmented Lagrangian, smoothing techniques, homotopy, separable convex minimization, parallel and distributed computation, 90C25, 90C06, 90-08, 

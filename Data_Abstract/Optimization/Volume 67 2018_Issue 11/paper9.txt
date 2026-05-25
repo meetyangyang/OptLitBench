@@ -1,0 +1,6 @@
+A long-step interior-point algorithm for symmetric cone Cartesian P*(κ)-HLCP
+S. Asadi;H. Mansouri;G. Lesaja;M. Zangiabadi;
+Abstract
+In this paper, we present a feasible interior-point algorithm for Cartesian  horizontal linear complementarity problems in a new large neighbourhood of the central path. The new large neighbourhood is based on the infinity norm, and it is wider than the well-known neighbourhood based on negative infinity pseudonorm as well as the recently introduced large neighbourhood by Liu et al. [A new wide neighborhood primal-dual infeasible-interior-point method for symmetric cone programming. J Optim Theory Appl. 2013;158:796–815] which is based on Frobenius norm. The iterates are calculated by taking the largest possible step along the Nesterov–Todd search directions. Nevertheless, we show that the algorithm is globally convergent with the favourable polynomial iteration bound. Furthermore, the preliminary numerical results indicate that our method preforms quite well and outperforms the large-step Liu et al.'s method.
+Keywords
+Interior-point method,  horizontal linear complementarity problem, Euclidean Jordan algebra, Cartesian product of symmetric cones 

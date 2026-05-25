@@ -1,0 +1,6 @@
+Solving Nonlinear Programming Problems with Noisy Function Values and Noisy Gradients
+M. Hintermüller;
+Abstract
+An efficient algorithm for solving nonlinear programs with noisy equality constraints is introduced and analyzed. The unknown exact constraints are replaced by surrogates based on the bundle idea, a well-known strategy from nonsmooth optimization. This concept allows us to perform a fast computation of the surrogates by solving simple quadratic optimization problems, control the memory needed by the algorithm, and prove the differentiability properties of the surrogate functions. The latter aspect allows us to invoke a sequential quadratic programming method. The overall algorithm is of the quasi-Newton type. Besides convergence theorems, qualification results are given and numerical test runs are discussed.
+Keywords
+noisy functions  nonlinear programming  quasi-Newton methods  sequential quadratic programming  

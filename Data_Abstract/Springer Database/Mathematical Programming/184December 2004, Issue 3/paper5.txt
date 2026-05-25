@@ -1,0 +1,6 @@
+An optimization approach to the problem of protein structure prediction
+Elizabeth Eskow;Brett Bader;Richard Byrd;Silvia Crivelli;Teresa Head-Gordon;Vincent Lamberti;Robert Schnabel;
+Abstract
+We describe a large-scale, stochastic-perturbation global optimization algorithm used for determining the structure of proteins. The method incorporates secondary structure predictions (which describe the more basic elements of the protein structure) into the starting structures, and thereafter minimizes using a purely physics-based energy model. Results show this method to be particularly successful on protein targets where structural information from similar proteins is unavailable, i.e., the most difficult targets for most protein structure prediction methods. Our best result to date is on a protein target containing over 4000 atoms and ∼12,000 cartesian coordinates.
+Keywords
+Secondary Structure  Optimization Algorithm  Protein Target  Global Optimization  Mathematical Method  

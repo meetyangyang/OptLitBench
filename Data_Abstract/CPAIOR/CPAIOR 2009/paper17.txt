@@ -1,0 +1,4 @@
+The Polytope of Context-Free Grammar Constraints
+Gilles Pesant;Claude-Guy Quimper;Louis-Martin Rousseau;Meinolf Sellmann;
+Abstract
+Context-free grammar constraints enforce that a sequence of variables forms a word in a language defined by a context-free grammar. The constraint has received a lot of attention in the last few years as it represents an effective and highly expressive modeling entity. Its application has been studied in the field of Constraint Programming, Mixed Integer Programming, and SAT to solve complex decision problems such as shift scheduling. In this theoretical study we demonstrate how the constraint can be linearized efficiently. In particular, we propose a lifted polytope which has only integer extreme points. Based on this result, for shift scheduling problems we prove the equivalence of Dantzig’s original set covering model and a lately introduced grammar-based model.

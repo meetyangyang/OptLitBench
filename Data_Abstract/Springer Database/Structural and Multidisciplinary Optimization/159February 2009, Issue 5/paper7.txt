@@ -1,0 +1,6 @@
+Block-separable linking constraints in augmented Lagrangian coordination
+S. Tosserams;L. F. P. Etman;J. E. Rooda;
+Abstract
+Augmented Lagrangian coordination (ALC) is a provably convergent coordination method for multidisciplinary design optimization (MDO) that is able to treat both linking variables and linking functions (i.e. system-wide objectives and constraints). Contrary to quasi-separable problems with only linking variables, the presence of linking functions may hinder the parallel solution of subproblems and the use of the efficient alternating directions method of multipliers. We show that this unfortunate situation is not the case for MDO problems with block-separable linking constraints. We derive a centralized formulation of ALC for block-separable constraints, which does allow parallel solution of subproblems. Similarly, we derive a distributed coordination variant for which subproblems cannot be solved in parallel, but that still enables the use of the alternating direction method of multipliers. The approach can also be used for other existing MDO coordination strategies such that they can include block-separable linking constraints.
+Keywords
+Multidisciplinary design optimization  Decomposition  Distributed optimization  Linking constraints  Augmented lagrangian  

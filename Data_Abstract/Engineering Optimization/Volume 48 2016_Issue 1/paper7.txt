@@ -1,0 +1,6 @@
+Mining constraint relationships and redundancies with association analysis for optimization problem formulation
+Adam Cutbill;G. Gary Wang;
+Abstract
+Constraints are necessary in optimization problems to steer optimization algorithms away from solutions which are not feasible or practical. However, redundant constraints are often added, which needlessly complicate the problem's description. This article introduces a probabilistic method to identify redundant inequality constraints for black-box optimization problems. The method uses Jaccard similarity to find item groups where the occurrence of a single item implies the occurrence of all other items in the group. The remaining groups are then mined with association analysis. Furthermore, unnecessary constraints are classified as redundant owing to co-occurrence, implication or covering. These classifications are presented as rules (in readable text), to indicate the relationships among constraints. The algorithm is applied to mathematical problems and to the engineering design of a pressure vessel. It was found that the rules are informative and correct, based on the available samples. Limitations of the proposed methods are also discussed.
+Keywords
+constraint handling, optimization, data mining, association analysis, constraint redundancy, constraint relationships, black-box optimization 

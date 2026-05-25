@@ -1,0 +1,6 @@
+A benchmark of selected algorithmic differentiation tools on some problems in computer vision and machine learning
+Filip Srajer;Zuzana Kukelova;Andrew Fitzgibbon;
+Abstract
+Algorithmic differentiation (AD) allows exact computation of derivatives given only an implementation of an objective function. Although many AD tools are available, a proper and efficient implementation of AD methods is not straightforward. The existing tools are often too different to allow for a general test suite. In this paper, we compare 15 ways of computing derivatives including 11 automatic differentiation tools implementing various methods and written in various languages (C++, F#, MATLAB, Julia and Python), 2 symbolic differentiation tools, finite differences and hand-derived computation.We look at three objective functions from computer vision and machine learning. These objectives are for the most part simple, in the sense that no iterative loops are involved, and conditional statements are encapsulated in functions such as abs or logsumexp. However, it is important for the success of AD that such ‘simple’ objective functions are handled efficiently, as so many problems in computer vision and machine learning are of this form.
+Keywords
+Automatic differentiation, benchmark, machine learning, computer visionAMS Subject Classifications: 65D, 68T 

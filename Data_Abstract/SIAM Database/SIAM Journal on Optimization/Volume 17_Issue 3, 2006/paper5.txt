@@ -1,0 +1,6 @@
+Solving Second Order Cone Programming via a Reduced Augmented System Approach
+Zhi   Cai and Kim‐Chuan   Toh;
+Abstract
+The standard Schur complement equation‐based implementation of interior‐point methods for second order cone programming may encounter stability problems in the computation of search directions, and as a consequence, accurate approximate optimal solutions are sometimes not attainable. Based on the eigenvalue decomposition of the (1,1) block of the augmented equation, a reduced augmented equation approach is proposed to ameliorate the stability problems. Numerical experiments show that the new approach can achieve more accurate approximate optimal solutions than the Schur complement equation‐based approach.
+Keywords
+second order cone programming, augmented equation, Nesterov–Todd direction, stability, 90C20, 90C22, 90C51, 65K05, 

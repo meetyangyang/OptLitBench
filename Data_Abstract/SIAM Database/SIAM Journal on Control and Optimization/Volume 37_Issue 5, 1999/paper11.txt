@@ -1,0 +1,6 @@
+Stability of an Adaptive Regulator for Partially Known Nonlinear Stochastic Systems
+A.  Brockwell, K.  Borovkov, and R.  Evans;
+Abstract
+We investigate the properties of a fast-identification style of control algorithm applied to a class of stochastic dynamical systems in continuous time which are sampled at a constant rate. The algorithm does not assume that the system dynamics are known and estimates them using a simple filter. Under a mild smoothness condition on the system dynamics, we show that when the sampling rate is sufficiently fast, the control algorithm stabilizes the system in the sense that the sampled closed-loop system becomes an ergodic Markov chain. Moreover, an explicit bound is given for the expected deviation of the system state from the origin. The result is also adapted for the case where state-measurement is subject to random noise.
+Keywords
+adaptive, stochastic, control, nonlinear systems, 60H30, 60J25, 93C10, 93C90, 93E15, 93E35, 

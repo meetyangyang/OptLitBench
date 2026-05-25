@@ -1,0 +1,6 @@
+Multi-Objective Control-Structure Optimization via Homotopy Methods
+Joanna  Rakowska, Raphael T.  Haftka, and Layne T.  Watson;
+Abstract
+A recently developed active set algorithm for tracing parametrized optima is adapted to multi-objective optimization. The algorithm traces a path of Kuhn–Tucker points using homotopy curve tracking techniques, and is based on identifying and maintaining the set of active constraints. Second order necessary optimality conditions are used to determine nonoptimal stationary points on the path. In the bi-objective optimization case the algorithm is used to trace the curve of efficient solutions (Pareto optima). As an example, the algorithm is applied to the simultaneous minimization of the weight and control force of a ten-bar truss with two collocated sensors and actuators, with some interesting results.
+Keywords
+active set, bi-objective, control-structure optimization, efficient solutions, homotopy, multi-objective optimization, optimal curve tracing, probability-one homotopy, 65F, 65K, 73K, 49B, 

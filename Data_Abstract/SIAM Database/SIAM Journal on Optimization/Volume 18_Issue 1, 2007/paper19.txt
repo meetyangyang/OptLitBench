@@ -1,0 +1,6 @@
+New Korkin–Zolotarev Inequalities
+R. A.   Pendavingh and S. H. M.   van Zwam;
+Abstract
+Korkin and Zolotarev showed that if $$\sum_i A_i\Big(x_i-\sum_{j>i} \alpha_{ij}x_j\Big)^2$$ is the Lagrange expansion of a Korkin–Zolotarev (KZ‐) reduced positive definite quadratic form, then $A_{i+1}\geq \frac{3}{4} A_i$ and $A_{i+2}\geq \frac{2}{3}A_i$. They showed that the implied bound $A_{5}\geq \frac{4}{9}A_1$ is not attained by any KZ‐reduced form. We propose a method to optimize numerically over the set of Lagrange expansions of KZ‐reduced quadratic forms using a semidefinite relaxation combined with a branch and bound process. We use a rounding technique to derive exact results from the numerical data. Applying these methods, we prove several new linear inequalities on the $A_i$ of any KZ‐reduced form, one of them being $A_{i+4}\geq (\frac{15}{32}-2 \cdot 10^{-5})A_i$. We also give a form with $A_{5}= \frac{15}{32}A_1$. These new inequalities are then used to study the cone of outer coefficients of KZ‐reduced forms, to find bounds on Hermite’s constant, and to give better estimates on the quality of k‐block KZ‐reduced lattice bases.
+Keywords
+lattice, quadratic form, semidefinite programming, Korkin–Zolotarev reduction, Hermite’s constant, sphere packing, 11H55, 52C17, 90C22, 11H50, 

@@ -1,0 +1,6 @@
+Nonlinear filters in topology optimization: existence of solutions and efficient implementation for minimum compliance problems
+Linus Hägg;Eddie Wadbro;
+Abstract
+Material distribution topology optimization problems are generally ill-posed if no restriction or regularization method is used. To deal with these issues, filtering procedures are routinely applied. In a recent paper, we presented a framework that encompasses the vast majority of currently available density filters. In this paper, we show that these nonlinear filters ensure existence of solutions to a continuous version of the minimum compliance problem. In addition, we provide a detailed description on how to efficiently compute sensitivities for the case when multiple of these nonlinear filters are applied in sequence. Finally, we present large-scale numerical experiments illustrating some characteristics of these cascaded nonlinear filters.
+Keywords
+Topology optimization  Regularization  Nonlinear filters  Existence of solutions  Large-scale problems  

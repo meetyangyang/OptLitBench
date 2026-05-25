@@ -1,0 +1,6 @@
+On the rate of convergence of two minimax algorithms
+E. J. Wiest;E. Polak;
+Abstract
+We show that the sequences of function values constructed by two versions of a minimax algorithm converge linearly to the minimum values. Both versions use the Pshenichnyi-Pironneau-Polak search direction subprocedure; the first uses an exact line search to determine the stepsize, while the second one uses an Armijo-type stepsize rule. The proofs depend on a second-order sufficiency condition, but not on strict complementary slackness. Minimax problems in which each function appearing in the max is a composition of a twice continuously differentiable function with a linear function typically do not satisfy second-order sufficiency conditions. Nevertheless, we show that, on such minimax problems, the two algorithms do converge linearly when the outer functions are convex and strict complementary slackness holds at the solutions.
+Keywords
+Minimax problems  nonsmooth optimization  composite nondifferentiable optimization  linear convergence  

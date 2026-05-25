@@ -1,0 +1,6 @@
+Decomposition‐Based Interior Point Methods for Two‐Stage Stochastic Semidefinite Programming
+Sanjay   Mehrotra and M. Gökhan   Özevin;
+Abstract
+We introduce two‐stage stochastic semidefinite programs with recourse and present an interior point algorithm for solving these problems using Bender’s decomposition. This decomposition algorithm and its analysis extend Zhao’s results [Math. Program., 90 (2001), pp. 507–536] for stochastic linear programs. The convergence results are proved by showing that the logarithmic barrier associated with the recourse function of two‐stage stochastic semidefinite programs with recourse is a strongly self‐concordant barrier on the first stage solutions. The short‐step variant of the algorithm requires $O(\sqrt{p+Kr} \ln \mu^0/\epsilon)$ Newton iterations to follow the first stage central path from a starting value of the barrier parameter $\mu^0$ to a terminating value ε. The long‐step variant requires $O((p+Kr) \ln \mu^0/\epsilon)$ damped Newton iterations. The calculation of the gradient and Hessian of the recourse function and the first stage Newton direction decomposes across the second stage scenarios.
+Keywords
+stochastic programming, semidefinite programming, Benders decomposition, interior point methods, primal methods, 90C05, 90C15, 90C20, 90C22, 90C25, 

@@ -1,0 +1,6 @@
+Convergence of the Optimal Feedback Policies in a Numerical Method for a Class of Deterministic Optimal Control Problems
+Paul  Dupuis and Adam  Szpiro;
+Abstract
+We consider a Markov chain based numerical approximation method for a class of deterministic nonlinear optimal control problems. It is known that methods of this type yield convergent approximations to the value function on the entire domain. These results do not easily extend to the optimal control, which need not be uniquely defined on the entire domain. There are, however, regions of strong regularity on which the optimal control is well defined and smooth. Typically, the union of these regions is open and dense in the domain. Using probabilistic methods, we prove that, on the regions of strong regularity, the Markov chain method yields a convergent sequence of approximations to the optimal feedback control. The result is illustrated with several examples.
+Keywords
+optimal control, numerical approximation, rate of convergence, Markov chain approximation, feedback controls, finite difference approximation, 35B37, 49L20, 60F05, 65N06, 65N12, 93E25, 

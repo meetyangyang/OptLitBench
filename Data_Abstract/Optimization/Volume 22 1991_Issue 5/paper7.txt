@@ -1,0 +1,6 @@
+A simplex-like method with bisection for linear programming 1  
+ Ping-Qi   Pan ;
+Abstract
+ The simplex method carries out the pivoting operation on a series of the canonical systems. Using an opposite type of canonical system and according pivoting operation, the proposed method also generates a sequence of points, leading to an optimal vertex; however, these points are generally no longer vertices of the underlying polyhedron. Starting with a bracket on the optimal value and at a “good” basis, it proceeds with objective function values under full control, and promisingly reducing computational cost. The method does not introduce artificial variables.  
+Keywords
+Linear programming, simplex method, “dual” canonical form, pivoting operationAMS 1980 Subject Classification: Primary:90 C 05, Secondary:65 K 05 

@@ -1,0 +1,6 @@
+On polynomiality of the Mehrotra-type predictor—corrector interior-point algorithms
+Yin Zhang;Detong Zhang;
+Abstract
+Recently, Mehrotra [3] proposed a predictor—corrector primal—dual interior-point algorithm for linear programming. At each iteration, this algorithm utilizes a combination of three search directions: the predictor, the corrector and the centering directions, and requires only one matrix factorization. At present, Mehrotra's algorithmic framework is widely regarded as the most practically efficient one and has been implemented in the highly successful interior-point code OB1 [2]. In this paper, we study the theoretical convergence properties of Mehrotra's interior-point algorithmic framework. For generality, we carry out our analysis on a horizontal linear complementarity problem that includes linear and quadratic programming, as well as the standard linear complementarity problem. Under the monotonicity assumption, we establish polynomial complexity bounds for two variants of the Mehrotra-type predictor—corrector interior-point algorithms. These results are summarized in the last section in a table.
+Keywords
+Mehrotra's predictor—corrector algorithm  Polynomial complexity  

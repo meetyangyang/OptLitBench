@@ -1,0 +1,6 @@
+Studying the Complexity of Global Verification for NP-Hard Discrete Optimization Problems
+Derek E. Armstrong;Sheldon H. Jacobson;
+Abstract
+This paper examines the complexity of global verification for MAX-SAT, MAX-k-SAT (for k≥3), Vertex Cover, and Traveling Salesman Problem. These results are obtained by adaptations of the transformations that prove such problems to be NP-complete. The class of problems PGS is defined to be those discrete optimization problems for which there exists a polynomial time algorithm such that given any solution ω, either a solution can be found with a better objective function value or it can be concluded that no such solution exists and ω is a global optimum. This paper demonstrates that if any one of MAX-SAT, MAX-k-SAT (for k≥3), Vertex Cover, or Traveling Salesman Problem are in PGS, then P=NP.
+Keywords
+computational complexity  discrete optimization problems  local search algorithms  NP-hard  

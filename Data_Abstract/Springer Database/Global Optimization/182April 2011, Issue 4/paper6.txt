@@ -1,0 +1,6 @@
+Branching on hyperplane methods for mixed integer linear and convex programming using adjoint lattices
+Sanjay Mehrotra;Zhifeng Li;
+Abstract
+We present branching-on-hyperplane methods for solving mixed integer linear and mixed integer convex programs. In particular, we formulate the problem of finding a good branching hyperplane using a novel concept of adjoint lattice. We also reformulate the problem of rounding a continuous solution to a mixed integer solution. A worst case complexity of a Lenstra-type algorithm is established using an approximate log-barrier center to obtain an ellipsoidal rounding of the feasible set. The results for the mixed integer convex programming also establish a complexity result for the mixed integer second order cone programming and mixed integer semidefinite programming feasibility problems as a special case. Our results motivate an alternative reformulation technique and a branching heuristic using a generalized (e.g., ellipsoidal) norm reduced basis available at the root node.
+Keywords
+Linear programming  Volumetric center  Analytic center  Interior point methods  Convex programming  Mixed integer programming  Lattice basis reduction  

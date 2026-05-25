@@ -1,0 +1,6 @@
+Generalized Convex Disjunctive Programming: Nonlinear Convex Hull Relaxation
+Ignacio E. Grossmann;Sangbum Lee;
+Abstract
+Generalized Disjunctive Programming (GDP) has been introduced recently as an alternative to mixed-integer programming for representing discrete/continuous optimization problems. The basic idea of GDP consists of representing these problems in terms of sets of disjunctions in the continuous space, and logic propositions in terms of Boolean variables. In this paper we consider GDP problems involving convex nonlinear inequalities in the disjunctions. Based on the work by Stubbs and Mehrotra [21] and Ceria and Soares [6], we propose a convex nonlinear relaxation of the nonlinear convex GDP problem that relies on the convex hull of each of the disjunctions that is obtained by variable disaggregation and reformulation of the inequalities. The proposed nonlinear relaxation is used to formulate the GDP problem as a Mixed-Integer Nonlinear Programming (MINLP) problem that is shown to be tighter than the conventional “big-M” formulation. A disjunctive branch and bound method is also presented, and numerical results are given for a set of test problems.
+Keywords
+disjunctive programming  convex programming  mixed integer nonlinear programming  convex hull  

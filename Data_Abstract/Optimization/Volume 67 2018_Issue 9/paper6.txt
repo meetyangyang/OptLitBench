@@ -1,0 +1,6 @@
+On the convergence rate of scaled gradient projection method
+Xihong Yan;Kai Wang;Hongjin He;
+Abstract
+The scaled gradient projection (SGP) method, which can be viewed as a promising improvement of the classical gradient projection method, is a quite efficient solver for real-world problems arising in image science and machine learning. Most recently, Bonettini and Prato [Inverse Probl. 2015;31:095008. 20 p] proved that the SGP method with the monotone Armijo line search technique has the  convergence rate, where k counts the iteration. In this paper, we first show that the SGP method could be equipped with the nonmonotone line search procedure proposed by Zhang and Hager [SIAM J Optim. 2004;14:1043–1056]. To some extent, such a nonmonotone technique might improve the performance of SGP method, because its effectiveness has been verified for unconstrained optimization by comparing with the traditional monotone and nonmonotone strategies. Then, we prove that the new SGP method also has the  convergence rate under the condition that the objective function is convex. Furthermore, we derive the linear convergence of the SGP algorithm under the strongly convexity assumption of the involved objective function.
+Keywords
+Constrained optimization, gradient projection method, convergence rate, nonmonotone line search, first order method 

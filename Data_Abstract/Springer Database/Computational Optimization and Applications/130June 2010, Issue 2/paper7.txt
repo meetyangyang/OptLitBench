@@ -1,0 +1,6 @@
+Proximal methods for nonlinear programming: double regularization and inexact subproblems
+Jonathan Eckstein;Paulo J. S. Silva;
+Abstract
+This paper describes the first phase of a project attempting to construct an efficient general-purpose nonlinear optimizer using an augmented Lagrangian outer loop with a relative error criterion, and an inner loop employing a state-of-the art conjugate gradient solver. The outer loop can also employ double regularized proximal kernels, a fairly recent theoretical development that leads to fully smooth subproblems. We first enhance the existing theory to show that our approach is globally convergent in both the primal and dual spaces when applied to convex problems. We then present an extensive computational evaluation using the CUTE test set, showing that some aspects of our approach are promising, but some are not. These conclusions in turn lead to additional computational experiments suggesting where to next focus our theoretical and computational efforts.
+Keywords
+Proximal algorithms  Augmented Lagrangians  Nonlinear programming  

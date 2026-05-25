@@ -1,0 +1,6 @@
+A Convergent Algorithm for the Output Covariance Constraint Control Problem
+G.  Zhu, M. A.  Rotea, and R.  Skelton;
+Abstract
+This paper considers the optimal control problem of minimizing control effort subject to multiple performance constraints on output covariance matrices $Y_i$ of the form $Y_i \leq \overline{Y}_i$, where $\overline{Y}_i$ is given. The contributions of this paper are a set of conditions that characterize global optimality, and an iterative algorithm for finding a solution to the optimality conditions. This iterative algorithm is completely described up to a user-specified parameter. We show that, under suitable assumptions on problem data, the iterative algorithm converges to a solution of the optimality conditions, provided that this parameter is properly chosen. Both discrete- and continuous-time problems are considered.
+Keywords
+covariance control, convergent algorithm, 49K15, 93C05, 93C55, 93C60, 

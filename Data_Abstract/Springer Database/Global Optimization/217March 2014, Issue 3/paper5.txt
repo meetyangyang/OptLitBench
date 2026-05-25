@@ -1,0 +1,6 @@
+Problems with resource allocation constraints and optimization over the efficient set
+P. T. Thach;T. V. Thang;
+Abstract
+The paper studies a nonlinear optimization problem under resource allocation constraints. Using quasi-gradient duality it is shown that the feasible set of the problem is a singleton (in the case of a single resource) or the set of Pareto efficient solutions of an associated vector maximization problem (in the case of \(k>1\) resources). As a result, a nonlinear optimization problem under resource allocation constraints reduces to an optimization over the efficient set. The latter problem can further be converted into a quasiconvex maximization over a compact convex subset of \(\mathbb{R }^k_+.\) Alternatively, it can be approached as a bilevel program and converted into a monotonic optimization problem in \(\mathbb{R }^k_+.\) In either approach the converted problem falls into a common class of global optimization problems for which several practical solution methods exist when the number \(k\) of resources is relatively small, as it often occurs.
+Keywords
+Duality  Resource allocation constraint  Optimization over efficient set  Bilevel programming  Monotonic optimization  90C90  90C30  49N15  

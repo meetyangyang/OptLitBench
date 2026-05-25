@@ -1,0 +1,6 @@
+On refinement of the unit simplex using regular simplices
+B. G.-Tóth;E. M. T. Hendrix;L. G. Casado;I. García;
+Abstract
+A natural way to define branching in branch and bound (B&B) for blending problems is bisection. The consequence of using bisection is that partition sets are in general irregular. The question is how to use regular simplices in the refinement of the unit simplex. A regular simplex with fixed orientation can be represented by its center and size, facilitating storage of the search tree from a computational perspective. The problem is that a simplex defined in a space with dimension \(n>3\) cannot be subdivided into regular subsimplices without overlapping. We study the characteristics of the refinement by regular simplices. The main challenge is to find a refinement with a good convergence ratio which allows discarding simplices in an overlapped and already evaluated region. As the efficiency of the division rule in B&B algorithms is instance dependent, we focus on the worst case behaviour, i.e. none of the branches are pruned. This paper shows that for this case surprisingly an overlapping regular refinement may generate less simplices to be evaluated than longest edge bisection. On the other hand, the number of evaluated vertices may be larger.
+Keywords
+Unit simplex  Branch and bound  Partition  Covering  

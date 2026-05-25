@@ -1,0 +1,6 @@
+A model for optimal execution of atomic orders
+Miles Kumaresan;Nataša Krejić;
+Abstract
+Atomic Orders are the basic elements of any algorithm for automated trading in electronic stock exchanges. The main concern in their execution is achieving the most efficient price. We propose two optimal strategies for the execution of atomic orders based on minimization of impact and volatility costs. The first considered strategy is based on a relatively simple nonlinear optimization model while the second allows re-optimization at some time point within a given execution time. In both cases a combination of market and limit orders is used. The key innovation in our approach is the introduction of a Fill Probability function which allows a combination of market and limit orders in the two optimization models we are discussing in this paper. Under certain conditions the objective functions of both considered problems are convex and therefore standard optimization tools can be applied. The efficiency of the resulting strategies is tested against two benchmarks representing common market practice on a representative sample of real trading data.
+Keywords
+Nonlinear programming  Convex programming  Optimal execution strategy  Algorithmic trading  

@@ -1,0 +1,6 @@
+A Fortran77 preprocessor for reverse mode automatic differentiation with recursive checkpointing
+ Koichi   Kubota ;
+Abstract
+ Given a program computing the value of a function with many variables, the reverse mode automatic differentiation (or top-down algorithm of automatic differentiation) swiftly computes the values of the partial derivatives of the function. But it is a weak point that it requires storage whose size is proportional to the complexity of the underlying function. We report on a preprocessor that can handle any Fortran77 programs with an improved reverse mode automatic differentiation for reducing the size of the storage by means of a recursive checkpointing mechanism. Developing a library program named RCL/fork (Recursive Checkpointing Library program with fork system-call) based on the fork system-call provided by the UNIX operating system, we could reduce the size of the virtual memory below the half for computation of the partial derivatives that requires about 1.3 GB virtual memory with the original reverse mode automatic differentiation. 
+Keywords
+Automatic differentiation, reverse mode algorithm, preprocessor, checkpointing 

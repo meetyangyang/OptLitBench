@@ -1,0 +1,6 @@
+Time-variant reliability-based design optimization using sequential kriging modeling
+Mingyang Li;Guangxing Bai;Zequn Wang;
+Abstract
+This paper presents a sequential Kriging modeling approach (SKM) for time-variant reliability-based design optimization (tRBDO) involving stochastic processes. To handle the temporal uncertainty, time-variant limit state functions are transformed into time-independent domain by converting the stochastic processes and time parameter to random variables. Kriging surrogate models are then built and enhanced by a design-driven adaptive sampling scheme to accurately identify potential instantaneous failure events. By generating random realizations of stochastic processes, the time-variant probability of failure is evaluated by the surrogate models in Monte Carlo simulation (MCS). In tRBDO, the first-order score function is employed to estimate the sensitivity of time-variant reliability with respect to design variables. Three case studies are introduced to demonstrate the efficiency and accuracy of the proposed approach.
+Keywords
+Time-variant reliability analysis  Design optimization  Stochastic processes  Simulation-based  Kriging surrogate model  

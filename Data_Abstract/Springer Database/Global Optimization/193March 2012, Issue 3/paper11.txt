@@ -1,0 +1,6 @@
+An improved algorithm to test copositivity
+Julia Sponsel;Stefan Bundfuss;Mirjam Dür;
+Abstract
+Copositivity plays a role in combinatorial and nonconvex quadratic optimization. However, testing copositivity of a given matrix is a co-NP-complete problem. We improve a previously given branch-and-bound type algorithm for testing copositivity and discuss its behavior in particular for the maximum clique problem. Numerical experiments indicate that the speedup is considerable.
+Keywords
+Copositive matrices  Maximum clique problem  Standard quadratic program  Semidefinite programming  15A48  15A63  05C69  90C09  90C20  

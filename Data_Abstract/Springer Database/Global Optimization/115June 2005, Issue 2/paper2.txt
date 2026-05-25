@@ -1,0 +1,6 @@
+Local Optimization Method with Global Multidimensional Search
+Adil M. Bagirov;Alexander M. Rubinov;Jiapu Zhang;
+Abstract
+This paper presents a new method for solving global optimization problems. We use a local technique based on the notion of discrete gradients for finding a cone of descent directions and then we use a global cutting angle algorithm for finding global minimum within the intersection of the cone and the feasible region. We present results of numerical experiments with well-known test problems and with the so-called cluster function. These results confirm that the proposed algorithms allows one to find a global minimizer or at least a deep local minimizer of a function with a huge amount of shallow local minima.
+Keywords
+Derivative-free optimization  Discrete gradient  Global optimization  Lipschitz programming  The cutting angle method  

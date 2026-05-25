@@ -1,0 +1,6 @@
+Sparsity preserving preconditioners for linear systems in interior-point methods
+Milan D. Dražić;Rade P. Lazović;Vera V. Kovačević-Vujčić;
+Abstract
+Systems of normal equations arising in interior-point methods for linear programming in the case of a degenerate optimal face have highly ill-conditioned coefficient matrices. In 2004, Monteiro et al. (SIAM J Optim 15:96–100, 2004) proposed a preconditioner which guarantees uniform well-conditionedness. However, the proposed preconditioner may lead to considerable loss of sparsity. Our approach is directed towards a generalization of the proposed preconditioner which makes a balance between sparsity and well-conditionedness. Experimental results on Netlib instances show the effects of the new approach.
+Keywords
+Linear programming  Interior-point methods  Condition number  Preconditioning  

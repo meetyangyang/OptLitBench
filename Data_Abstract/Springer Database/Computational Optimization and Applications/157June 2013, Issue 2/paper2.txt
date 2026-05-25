@@ -1,0 +1,6 @@
+A decomposition-based crash-start for stochastic programming
+Marco Colombo;Andreas Grothey;
+Abstract
+In this paper we propose a crash-start technique for interior point methods applicable to multi-stage stochastic programming problems. The main idea is to generate an initial point for the interior point solver by decomposing the barrier problem associated with the deterministic equivalent at the second stage and using a concatenation of the solutions of the subproblems as a warm-starting point for the complete instance. We analyse this scheme and produce theoretical conditions under which the warm-start iterate is successful. We describe the implementation within the OOPS solver and the results of the numerical tests we performed.
+Keywords
+Stochastic programming  Interior point methods  Warm-starting  

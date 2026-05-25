@@ -1,0 +1,6 @@
+Integer programming formulations for the minimum weighted maximal matching problem
+Z. Caner Taşkın;Tınaz Ekim;
+Abstract
+Given an undirected graph, the problem of finding a maximal matching that has minimum total weight is NP-hard. This problem has been studied extensively from a graph theoretical point of view. Most of the existing literature considers the problem in some restricted classes of graphs and give polynomial time exact or approximation algorithms. On the contrary, we consider the problem on general graphs and approach it from an optimization point of view. In this paper, we develop integer programming formulations for the minimum weighted maximal matching problem and analyze their efficacy on randomly generated graphs. We also compare solutions found by a greedy approximation algorithm, which is based on the literature, against optimal solutions. Our results show that our integer programming formulations are able to solve medium size instances to optimality and suggest further research for improvement.
+Keywords
+Minimum maximal matching  Edge dominating set  Integer programming  

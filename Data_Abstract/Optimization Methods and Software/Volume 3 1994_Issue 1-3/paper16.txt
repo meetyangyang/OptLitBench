@@ -1,0 +1,6 @@
+Stable Barrier-projection and Barrier-Newton methods in nonlinear programming
+ Yuri G.   Evtushenko ; Vitali G.   Zhadan ;
+Abstract
+ The present paper is devoted to the application of the space transformation techniques for solving nonlinear programming problems. By using surjective mapping the original constrained optimization problem is transformed to a problem in a new space with only equality constraints For the numerical solution of the latter problem the stable version of the gradient-projection and Newton's methods are used. After inverse transformation to the original space a family of numerical methods for solving optimization problems with equality and inequality constraints is obtained. The proposed algorithms are based on the numerical integration of the systems of ordinary differential equations. These algorithms do not require feasibility of starting and current points, but they preserve feasibility. As a result of space transformation the vector fields of differential equations are changed and additional terms are introduced which serve as a Barrier preventing the trajectories from leaving the feasible set. A proof of convergence is given. 
+Keywords
+constrained minimization, nonlinear programming, space transformation, gradient-projection method, Newton's method, interior point technique, Barrier function, Karmarkar's method 

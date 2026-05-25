@@ -1,0 +1,6 @@
+A quasi-second-order proximal bundle algorithm
+Robert Mifflin;
+Abstract
+This paper introduces an algorithm for convex minimization which includes quasi-Newton updates within a proximal point algorithm that depends on a preconditioned bundle subalgorithm. The method uses the Hessian of a certain outer function which depends on the Jacobian of a proximal point mapping which, in turn, depends on the preconditioner matrix and on a Lagrangian Hessian relative to a certain tangent space. Convergence is proved under boundedness assumptions on the preconditioner sequence.
+Keywords
+Bundle methods  Convex minimization  Global convergence  Proximal point  Quasi-Newton  Variable metric algorithms  

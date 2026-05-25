@@ -1,0 +1,6 @@
+The Continuous Mixing Polyhedron
+Mathieu Van Vyve;
+Abstract
+We analyze the polyhedral structure of the sets PCMIX = {(s, r, z) ∈ R × R+n × Zn ∣ s + rj + zj ≥ fj, j = 1, …, n} and P+CMIX = PCMIX ∩ {s ≥ 0}. The set P+CMIX is a natural generalization of the mixing set studied by Pochet and Wolsey [15, 16] and Günlük and Pochet [8] and recently has been introduced by Miller and Wolsey [12]. We introduce a new class of valid inequalities that has proven to be sufficient for describing conv(PCMIX). We give an extended formulation of size O(n) × O(n2) variables and constraints and indicate how to separate over conv(PCMIX) in O(n3) time. Finally, we show how the mixed integer rounding (MIR) inequalities of Nemhauser and Wolsey [14] and the mixing inequalities of Günlük and Pochet [8] constitute special cases of the cycle inequalities.
+Keywords
+mixed integer rounding mixing convex hull proof lot sizing 

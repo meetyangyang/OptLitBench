@@ -1,0 +1,6 @@
+A chordal preconditioner for large-scale optimization
+Thomas F. Coleman;
+Abstract
+We propose an automatic preconditioning scheme for large sparse numerical optimization. The strategy is based on an examination of the sparsity pattern of the Hessian matrix: using a graph-theoretic heuristic, a block-diagonal approximation to the Hessian matrix is induced. The blocks are submatrices of the Hessian matrix; furthermore, each block is chordal. That is, under a positive definiteness assumption, the Cholesky factorization can be applied to each block without creating any new nonzeros (fill). Therefore the preconditioner is space efficient. We conduct a number of numerical experiments to determine the effectiveness of the preconditioner in the context of a linear conjugate-gradient algorithm for optimization.
+Keywords
+Large-scale optimization  chordal graph  preconditioned conjugate-gradients  unconstrained minimization  perfect elimination graph  sparse Cholesky factorization  

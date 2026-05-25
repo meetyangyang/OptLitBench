@@ -1,0 +1,6 @@
+Effects of planar element formulation and numerical integration order on checkerboard material layouts
+Craig S. Long;Philip W. Loveday;Albert A. Groenwold;
+Abstract
+The effects of selected planar finite element formulations, and their associated integration schemes, on the stiffness of a checkerboard material layout are investigated. Standard 4-node bilinear elements, 8- and 9-node quadratic elements, as well as 4-node elements with drilling degrees of freedom are considered. Integration schemes evaluated include popular Gauss quadrature rules, as well as modified 5- and 8-point integration schemes. It is shown that, although checkerboarding may be slightly alleviated when using elements with drilling degrees of freedom, the homogenized checkerboard stiffness is identical to that of standard bilinear elements. This is significant since elements with drilling degrees of freedom are derived from an 8-node parent element. We do however demonstrate that modified reduced integration schemes, applied to quadratic elements, effectively reduce the stiffness of a checkerboard material layout. Furthermore, the proposed schemes effectively suppress spurious zero energy modes which may occur on the element level in topology optimization.
+Keywords
+Checkerboard  Homogenization  Reduced integration  Drilling degrees of freedom  

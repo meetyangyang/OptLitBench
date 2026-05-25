@@ -1,0 +1,6 @@
+Efficient Pareto Frontier Exploration using Surrogate Approximations
+Benjamin Wilson;David Cappelleri;Timothy W. Simpson;Mary Frecker;
+Abstract
+In this paper we present an efficient and effective method of using surrogate approximations to explore the design space and capture the Pareto frontier during multiobjective optimization. The method employs design of experiments and metamodeling techniques (e.g., response surfaces and kriging models) to sample the design space, construct global approximations from the sample data, and quickly explore the design space to obtain the Pareto frontier without specifying weights for the objectives or using any optimization. To demonstrate the method, two mathematical example problems are presented. The results indicate that the proposed method is effective at capturing convex and concave Pareto frontiers even when discontinuities are present. After validating the method on the two mathematical examples, a design application involving the multiobjective optimization of a piezoelectric bimorph grasper is presented. The method facilitates multiobjective optimization by enabling us to efficiently and effectively obtain the Pareto frontier and identify candidate designs for the given design requirements.
+Keywords
+Pareto frontier  multiobjective optimization  approximation models  response surface  kriging  

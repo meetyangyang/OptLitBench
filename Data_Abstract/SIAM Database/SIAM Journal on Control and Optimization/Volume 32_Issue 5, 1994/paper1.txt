@@ -1,0 +1,6 @@
+Stability of Recursive Stochastic Tracking Algorithms
+Lei  Guo;
+Abstract
+First, the paper gives a stability study for the random linear equation $x_{n + 1}  = (I - An)x_n $. It is shown that for a quite general class of random matrices $\{ A_n \} $ of interest, the stability of such a vector equation can be guaranteed by that of a corresponding scalar linear equation, for which various results are given without requiring stationary or mixing conditions. Then, these results are applied to the main topic of the paper, i.e., to the estimation of time varying parameters in linear stochastic systems, giving a unified stability condition for various tracking algorithms including the standard Kalman filter, least mean squares, and least squares with forgetting factor.
+Keywords
+stochastic systems, adaptive systems, parameter estimation, tracking algorithms, time varying, stability, excitation, 93C40, 93E12, 93E10, 

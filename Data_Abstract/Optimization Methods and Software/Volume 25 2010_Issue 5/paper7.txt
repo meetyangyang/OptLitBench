@@ -1,0 +1,6 @@
+On the Halley class of methods for unconstrainedoptimization problems
+ Haibin   Zhang ;
+Abstract
+ Third-order methods can be used to solve efficiently the unconstrained optimization problems, and they, in most cases, use fewer iterations but more computational cost per iteration than a second-order method to reach the same accuracy. Recently, it has been shown by an article that under some conditions the ratio of the number of arithmetic operations of a third-order method (the Halley class of methods) and Newton’s method is constant (at most 5) per iteration. Automatic differentiation (AD) can compute fast and accurate derivatives such as the Jacobian, Hessian matrix and the tensor of the function. The Halley class of methods includes these high-order derivatives. In this paper, we apply AD efficiently to the methods and investigate the computational complexity of them. The results show that under general conditions even including the computation of the function and its derivative terms, the upper bound of the ratio can be reduced to 3.5. 
+Keywords
+automatic differentiation, Halley method, Newton method, unconstrained optimization AMS Subject Classification : 90C30, 65K05 

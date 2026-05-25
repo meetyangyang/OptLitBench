@@ -1,0 +1,6 @@
+A tolerance function for the multiobjective set covering problem
+Lakmali Weerasena;Margaret M. Wiecek;
+Abstract
+The multiobjective set covering problem (MOSCP), an NP-hard combinatorial optimization problem, has received limited attention in the literature from the perspective of approximating its Pareto set. The available algorithms for approximating the Pareto set do not provide a bound for the approximation error. In this study, a polynomial-time algorithm is proposed to approximate an element in the weak Pareto set of the MOSCP with a quality that is known. A tolerance function is defined to identify the approximation quality and is derived for the proposed algorithm. It is shown that the tolerance function depends on the characteristics of the problem and the weight vector that is used for computing the approximation. For a set of weight vectors, the algorithm approximates a subset of the weak Pareto set of the MOSCP.
+Keywords
+Approximation algorithm  Approximation error  Representation  Combinatorial optimization  Efficient solution  Max-ordering  

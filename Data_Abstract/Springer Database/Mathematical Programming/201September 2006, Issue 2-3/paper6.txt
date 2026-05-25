@@ -1,0 +1,6 @@
+Unit commitment in electricity pool markets
+Andy Philpott;Rüdiger Schultz;
+Abstract
+We consider an electricity generator making offers of energy into an electricity pool market over a horizon of several trading periods (typically a single trading day). The generator runs a set of generating units with given start-up costs, shut-down costs and operating ranges. At the start of each trading period the generator must submit to the pool system operator a new supply curve defining quantities of offered energy and the prices at which it wants these dispatched. The amount of dispatch depends on the supply curve offered along with the offers of the other generators and market demand, both of which are random, but do not change in response to the actions of the generator we consider. After dispatch the generator determines which units to run in the current trading period to meet the dispatch. The generator seeks a supply function that maximizes its expected profit. We describe an optimization procedure based on dynamic programming that can be used to construct optimal offers in successive time periods over a fixed planning horizon.
+Keywords
+Stochastic programming  Unit commitment  Electricity pool markets  90C15  90C39  

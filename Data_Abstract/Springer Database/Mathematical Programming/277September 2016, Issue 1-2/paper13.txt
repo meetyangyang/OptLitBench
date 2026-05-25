@@ -1,0 +1,6 @@
+Convergence rates with inexact non-expansive operators
+Jingwei Liang;Jalal Fadili;Gabriel Peyré;
+Abstract
+In this paper, we present a convergence rate analysis for the inexact Krasnosel’skiĭ–Mann iteration built from non-expansive operators. The presented results include two main parts: we first establish the global pointwise and ergodic iteration-complexity bounds; then, under a metric sub-regularity assumption, we establish a local linear convergence for the distance of the iterates to the set of fixed points. The obtained results can be applied to analyze the convergence rate of various monotone operator splitting methods in the literature, including the Forward–Backward splitting, the Generalized Forward–Backward, the Douglas–Rachford splitting, alternating direction method of multipliers and Primal–Dual splitting methods. For these methods, we also develop easily verifiable termination criteria for finding an approximate solution, which can be seen as a generalization of the termination criterion for the classical gradient descent method. We finally develop a parallel analysis for the non-stationary Krasnosel’skiĭ–Mann iteration.
+Keywords
+Krasnosel’skiĭ–Mann iteration  Monotone inclusion  Non-expansive operator  Convergence rates  Asymptotic regularity  Convex optimization  47H05  47H09  90C25  

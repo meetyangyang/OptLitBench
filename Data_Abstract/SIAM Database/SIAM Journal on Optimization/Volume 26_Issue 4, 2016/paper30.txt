@@ -1,0 +1,6 @@
+A Derivative-Free Approach to Constrained Multiobjective Nonsmooth Optimization
+G.  Liuzzi, S.  Lucidi, and F.  Rinaldi;
+Abstract
+In this work, we consider multiobjective optimization problems with both bound constraints on the variables and general nonlinear constraints, where objective and constraint function values can only be obtained by querying a black box. We define a linesearch-based solution method, and we show that it converges to a set of Pareto stationary points. To this aim, we carry out a theoretical analysis of the problem by only assuming Lipschitz continuity of the functions; more specifically, we give new optimality conditions that take explicitly into account the bound constraints, and prove that the original problem is equivalent to a bound constrained problem obtained by penalizing the nonlinear constraints with an exact merit function. Finally, we  present the results of some numerical experiments on bound constrained and nonlinearly constrained problems, showing that our approach is promising when compared to a state-of-the-art method from the literature.
+Keywords
+derivative-free multiobjective optimization, Lipschitz optimization, inequality constraints, exact penalty functions, 90C30, 90C56, 65K05, 49J52, 

@@ -1,0 +1,6 @@
+Loss of Superlinear Convergence for an SQP-Type Method with Conic Constraints
+Moritz  Diehl, Florian  Jarre, and Christoph H.  Vogelbusch;
+Abstract
+In this short note we consider a sequential quadratic programming (SQP)--type method with conic subproblems and compare this method with a standard SQP method in which the conic constraint is linearized at each step. For both approaches we restrict our attention to convex subproblems since these are easy to solve and guarantee a certain global descent property. Using the example of a simple nonlinear program (NLP) and its conic reformulation we show that the SQP method with conic subproblems displays a slower rate of convergence than standard SQP methods. We then explain why an SQP subproblem that is based on a better approximation of the feasible set of the NLP results in a much slower algorithm.
+Keywords
+semidefinite programming, nonlinear programming, sequential quadratic programming, second order cone, 90C30, 65K05, 

@@ -1,0 +1,6 @@
+Global Solution Approach for a Nonconvex MINLP Problem in Product Portfolio Optimization
+Xiaoxia Lin;Christodoulos A. Floudas;Josef Kallrath;
+Abstract
+The rigorous and efficient determination of the global solution of a nonconvex MINLP problem arising from product portfolio optimization introduced by Kallrath (2003) is addressed. The objective of the optimization problem is to determine the optimal number and capacity of reactors satisfying the demand and leading to a minimal total cost. Based on the model developed by Kallrath (2003), an improved formulation is proposed, which consists of a concave objective function and linear constraints with binary and continuous variables. A variety of techniques are developed to tighten the model and accelerate the convergence to the optimal solution. A customized branch and bound approach that exploits the special mathematical structure is proposed to solve the model to global optimality. Computational results for two case studies are presented. In both case studies, the global solutions are obtained and proved optimal very efficiently in contrast to available commercial MINLP solvers.
+Keywords
+Branch and bound  Concave objective function  Global optimization  Mixed-integer nonlinear programming (MINLP)  Piece-wise linear underestimator  Portfolio optimization  

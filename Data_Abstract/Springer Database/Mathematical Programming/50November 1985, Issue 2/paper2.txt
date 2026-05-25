@@ -1,0 +1,6 @@
+On the complexity of four polyhedral set containment problems
+Robert M. Freund;James B. Orlin;
+Abstract
+A nonempty closed convex polyhedronX can be represented either asX = {x: Ax ⩽b}, where (A, b) are given, in which caseX is called anH-cell, or in the formX = {x: x = Uλ + Vμ, Σλ j  = 1,λ ⩾ 0,μ ⩾ 0}, where (U, V) are given, in which caseX is called aW-cell. This note discusses the computational complexity of certain set containment problems. The problems of determining if\(X \nsubseteq Y\), where (i)X is anH-cell andY is a closed solid ball, (ii)X is anH-cell andY is aW-cell, or (iii)X is a closed solid ball andY is aW-cell, are all shown to be NP-complete, essentially verifying a conjecture of Eaves and Freund. Furthermore, the problem of determining whether there exists an integer point in aW-cell is shown to be NP-complete, demonstrating that regardless of the representation ofX as anH-cell orW-cell, this integer containment problem is NP-complete.
+Keywords
+Computational Complexity  NP-Complete  Linear Program  Polyhedron  Cell  

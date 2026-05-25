@@ -1,0 +1,6 @@
+Adaptive limited memory bundle method for bound constrained large-scale nonsmooth optimization
+ N.   Karmitsa ; M.M.   Mäkelä ;
+Abstract
+ Typically, practical optimization problems involve nonsmooth functions of hundreds or thousands of variables. As a rule, the variables in such problems are restricted to certain meaningful intervals. In this article, we propose an efficient adaptive limited memory bundle method for large-scale nonsmooth, possibly nonconvex, bound constrained optimization. The method combines the nonsmooth variable metric bundle method and the smooth limited memory variable metric method, while the constraint handling is based on the projected gradient method and the dual subspace minimization. The preliminary numerical experiments to be presented confirm the usability of the method. 
+Keywords
+nondifferentiable programming, large-scale optimization, bundle methods, variable metric methods, limited memory methods, box constraintsAMS Subject Classifications:: 90C26, 90C06, 90C25, 49J52, 65K05 

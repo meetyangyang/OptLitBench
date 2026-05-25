@@ -1,0 +1,6 @@
+Constraint consensus concentration for identifying disjoint feasible regions in nonlinear programmes
+ Laurence   Smith ; John   Chinneck ; Victor   Aitken ;
+Abstract
+ It is usually not known in advance whether a nonlinear set of constraints has zero, one, or multiple feasible regions. Further, if one or more feasible regions exist, their locations are usually unknown. We propose a method for exploring the variable space quickly, using constraint consensus (CC) to identify promising areas that may contain a feasible region. Multiple CC solution points are clustered to identify regions of attraction. A new inter-point distance frequency distribution technique is used to determine the critical distance for the single-linkage clustering algorithm, which in turn determines the estimated number of disjoint feasible regions. The effectiveness of multistart global optimization is increased due to better exploration of the variable space, and efficiency is also increased because the expensive local solver is launched just once near each identified feasible region. The method is demonstrated on a variety of highly nonlinear models. 
+Keywords
+nonlinear constrained global optimization, constraint consensus, clustering, concentration, disjoint feasible regions AMS Subject Classifications: : 90C06, 90C30, 90C99 

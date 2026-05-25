@@ -1,0 +1,6 @@
+Genetic algorithms with local improvement for composite laminate design
+N. Kogiso;L. T. Watson;Z. Gürdal;R. T. Haftka;
+Abstract
+This paper describes the application of a genetic algorithm to the stacking sequence optimization of a laminated composite plate for buckling load maximization. Two approaches for reducing the number of analyses required by the genetic algorithm are described. First, a binary tree is used to store designs, affording an efficient way to retrieve them and thereby avoid repeated analyses of designs that appeared in previous generations. Second, a local improvement scheme based on approximations in terms of lamination parameters is introduced. Two lamination parameters are sufficient to define the flexural stiffness and hence the buckling load of a balanced, symmetrically laminated plate. Results were obtained for rectangular graphite-epoxy plates under biaxial in-plane loading. The proposed improvements are shown to reduce significantly the number of analyses required for the genetic optimization.
+Keywords
+Genetic Algorithm  Civil Engineer  Lamination  Load Maximization  Binary Tree  

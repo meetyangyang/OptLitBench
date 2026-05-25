@@ -1,0 +1,8 @@
+A continuation method for motion-planning problems
+Yacine Chitour;
+Abstract
+We apply the well-known homotopy continuation method to address themotion planning problem (MPP) for smooth driftless control-affinesystems. The homotopy continuation method is a Newton-type procedureto effectively determine functions only defined implicitly. Thatapproach requires first to characterize the singularities of asurjective map and next to prove global existence for the solution ofan ordinary differential equation, the Wazewski equation. In thecontext of the MPP, the aforementioned singularities are the abnormalextremals associated to the dynamics of the control system and theWazewski equation is an o.d.e. on the control space called the PathLifting Equation (PLE). We first show elementary factsrelative to the maximal solution of the PLE such as local existence anduniqueness. Then we prove two general results, a finite-dimensionalreduction for the PLE on compact time intervals and aregularity preserving theorem. In a second part, if the Strong BracketGenerating Condition holds, we show, forseveral control spaces, the global existence of the solution of the PLE,extending a previous result of H.J. Sussmann.
+Keywords
+Homotopy continuation method, path following, 
+Wazewski equation, sub-Riemannian geometry, nonholonomic
+control systems, motion planning problem

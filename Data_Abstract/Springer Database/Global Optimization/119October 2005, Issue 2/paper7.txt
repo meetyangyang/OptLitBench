@@ -1,0 +1,10 @@
+D.C. Versus Copositive Bounds for Standard QP
+Kurt M. Anstreicher;Samuel Burer;
+Abstract
+The standard quadratic program (QPS) is
+minxεΔxTQx, where
+\(\Delta\subset\Re^n\) is the simplex Δ = {x ⩽ 0 ∣ ∑ i=1 n  xi = 1}. QPS can be used to formulate combinatorial problems such as the maximum stable set problem, and also arises in global optimization algorithms for general quadratic programming when the search space is partitioned using simplices. One class of ‘d.c.’ (for ‘difference between convex’) bounds for QPS is based on writing Q=S−T, where S and T are both positive semidefinite, and bounding
+xT Sx  (convex on Δ) and −xTx
+(concave on Δ) separately. We show that the maximum possible such bound can be obtained by solving a semidefinite programming (SDP) problem. The dual of this SDP problem corresponds to adding a simple constraint to the well-known Shor relaxation of QPS. We show that the max d.c. bound is dominated by another known bound based on a copositive relaxation of QPS, also obtainable via SDP at comparable computational expense. We also discuss extensions of the d.c. bound to more general quadratic programming problems. For the application of QPS to bounding the stability number of a graph, we use a novel formulation of the Lovasz ϑ number to compare ϑ, Schrijver’s ϑ′, and the max d.c. bound.
+Keywords
+Quadratic Programming  Combinatorial Problem  Positive Semidefinite  Quadratic Programming Problem  Semidefinite Programming  

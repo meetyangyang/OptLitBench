@@ -1,0 +1,6 @@
+A generalized subgradient method with relaxation step
+Ulf Brännlund;
+Abstract
+We study conditions for convergence of a generalized subgradient algorithm in which a relaxation step is taken in a direction, which is a convex combination of possibly all previously generated subgradients. A simple condition for convergence is given and conditions that guarantee a linear convergence rate are also presented. We show that choosing the steplength parameter and convex combination of subgradients in a certain sense optimally is equivalent to solving a minimum norm quadratic programming problem. It is also shown that if the direction is restricted to be a convex combination of the current subgradient and the previous direction, then an optimal choice of stepsize and direction is equivalent to the Camerini—Fratta—Maffioli modification of the subgradient method.
+Keywords
+Subgradient optimization  Relaxation methods  Projection methods  

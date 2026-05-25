@@ -1,0 +1,6 @@
+A Riccati-based primal interior point solver for multistage stochastic programming ‐ extensions
+ Jörgen   Blomvall ; Per Olov   Lindberg ;
+Abstract
+ We show that a Riccati-based Multistage Stochastic Programming solver for problems with separable convex linear/nonlinear objective developed in previous papers can be extended to solve more general Stochastic Programming problems. With a Lagrangean relaxation approach, also local and global equality constraints can be handled by the Riccati-based primal interior point solver. The efficiency of the approach is demonstrated on a 10 staged stochastic programming problem containing both local and global equality constraints. The problem has 1.9 million scenarios, 67 million variables and 119 million constraints, and was solved in 97 min on a 32 node PC cluster. 
+Keywords
+Interior Point Methods, Parallel Computations, Stochastic Programming 

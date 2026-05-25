@@ -1,0 +1,6 @@
+A new control method and its robustness for a class of nonlinear systems
+Y. Liu;M. Cheng;W. B. Gao;
+Abstract
+For a class of time-varying nonlinear systems described by the equation\(\dot x = f(x,t) + g(x,t)u\), the precalculating control is not available if the input matrixg(x,t) is not invertible. With Lyapunov's second method, a stabilizing controller which makes the system practically stable is constructed in this paper. It is shown that the implementation of this scheme depends on some so-called posi-invertibility conditions forg(x,t). In case the system is partly stable, the method, named part-calculating control, can simplify the on-line computations. Without the assumption that the nominal system is asymptotically stable, the method is applied to the problems of control for the corresponding uncertain system that satisfies the matching condition. When the matching condition is not satisfied, the mismatching control problem is also studied with Lyapunov's second method.
+Keywords
+Nonlinear systems  control  stability  uncertain systems  robust control  

@@ -1,0 +1,6 @@
+Efficient Strategy for Adaptive Partition of N-Dimensional Intervals in the Framework of Diagonal Algorithms
+YA. D. Sergeyev;
+Abstract
+In this paper, the problem of the minimal description of the structure offunctional f(x) over an N-dimensional interval is considered. Thedescription is obtained by applying diagonal algorithms, i.e., proceduressequentially partitioning the given hyperinterval and evaluating f(x)at the vertices corresponding to the main diagonal of each generatedsubinterval. Two partition strategies traditionally used for solving thisproblem are analyzed and it is demonstrated that using them can result ina high number of redundant evaluations of the functional f(x). Anew efficient partition strategy is proposed; it reduces considerably thenumber of evaluations of f(x) and the memory complexity.
+Keywords
+diagonal algorithms  partitioning  minimal description  global optimization  

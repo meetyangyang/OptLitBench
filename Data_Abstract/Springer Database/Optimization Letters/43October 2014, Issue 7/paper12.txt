@@ -1,0 +1,6 @@
+Discretization orders and efficient computation of cartesian coordinates for distance geometry
+Douglas S. Gonçalves;Antonio Mucherino;
+Abstract
+Distance geometry is a class of problems where the position of points in space is to be identified by using information about some relative distances between these points. Although continuous approaches are usually employed, problems belonging to this class can be discretized when some particular assumptions are satisfied. These assumptions strongly depend on the order in which the points to be positioned are considered. We discuss new discretization assumptions that are weaker than previously proposed ones, and present a greedy algorithm for an automatic identification of discretization orders. The use of these weaker assumptions motivates the development of a new method for computing point coordinates. Computational experiments show the effectiveness and efficiency of the proposed approaches when applied to protein instances.
+Keywords
+Distance geometry  Combinatorial optimization  Discretization orders  Coordinate computation  Molecular conformations  

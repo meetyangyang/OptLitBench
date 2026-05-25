@@ -1,0 +1,6 @@
+A Quasi-Newton Quadratic Penalty Method for Minimization Subject to Nonlinear Equality Constraints
+Thomas F. Coleman;Jianguo Liu;Wei Yuan;
+Abstract
+We present a modified quadratic penalty function method for equality constrained optimization problems. The pivotal feature of our algorithm is that at every iterate we invoke a special change of variables to improve the ability of the algorithm to follow the constraint level sets. This change of variables gives rise to a suitable block diagonal approximation to the Hessian which is then used to construct a quasi-Newton method. We show that the complete algorithm is globally convergent. Preliminary computational results are reported.
+Keywords
+nonlinearly constrained optimization  equality constraints  quasi-Newton methods  BFGS  quadratic penalty function  reduced Hessian approximation  

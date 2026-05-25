@@ -1,0 +1,6 @@
+Directional Sparsity in Optimal Control of Partial Differential Equations
+Roland  Herzog, Georg  Stadler, and Gerd  Wachsmuth;
+Abstract
+We study optimal control problems in which controls with certain sparsity patterns are preferred. For time-dependent problems the approach can be used to find locations for control devices that allow controlling the system in an optimal way over the entire time interval. The approach uses a nondifferentiable cost functional to implement the sparsity requirements; additionally, bound constraints for the optimal controls can be included. We study the resulting problem in appropriate function spaces and present two solution methods of Newton type, based on different formulations of the optimality system. Using elliptic and parabolic test problems we research the sparsity properties of the optimal controls and analyze the behavior of the proposed solution algorithms.
+Keywords
+sparsity, optimal control, control device placement, $L^1$-norm minimization, semi-smooth Newton, 49K20, 65K10, 49M15, 49J52, 

@@ -1,0 +1,6 @@
+Network reinforcement
+Francisco Barahona;
+Abstract
+We give an algorithm for the following problem: given a graph G=(V,E) with edge-weights and a nonnegative integer k, find a minimum cost set of edges that contains k disjoint spanning trees. This also solves the following reinforcement problem: given a network, a number k and a set of candidate edges, each of them with an associated cost, find a minimum cost set of candidate edges to be added to the network so it contains k disjoint spanning trees. The number k is seen as a measure of the invulnerability of a network. Our algorithm has the same asymptotic complexity as |V| applications of the minimum cut algorithm of Goldberg & Tarjan.
+Keywords
+Network reinforcement  Spanning trees  

@@ -1,0 +1,6 @@
+CARTopt: a random search method for nonsmooth unconstrained optimization
+B. L. Robertson;C. J. Price;M. Reale;
+Abstract
+A random search algorithm for unconstrained local nonsmooth optimization is described. The algorithm forms a partition on \(\mathbb{R}^{n}\) using classification and regression trees (CART) from statistical pattern recognition. The CART partition defines desirable subsets where the objective function f is relatively low, based on previous sampling, from which further samples are drawn directly. Alternating between partition and sampling phases provides an effective method for nonsmooth optimization. The sequence of iterates {z  k } is shown to converge to an essential local minimizer of f with probability one under mild conditions. Numerical results are presented to show that the method is effective and competitive in practice.
+Keywords
+Nonsmooth optimization  CART  Partitioning random search  Numerical results  

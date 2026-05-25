@@ -1,0 +1,6 @@
+On the empirical time complexity of finding optimal solutions vs proving optimality for Euclidean TSP instances
+Holger H. Hoos;Thomas Stützle;
+Abstract
+We investigate the empirical performance of the long-standing state-of-the-art exact TSP solver Concorde on various classes of Euclidean TSP instances and show that, surprisingly, the time spent until the first optimal solution is found accounts for a large fraction of Concorde’s overall running time. This finding holds for the widely studied random uniform Euclidean (RUE) instances as well as for several other widely studied sets of Euclidean TSP instances. On RUE instances, the median fraction of Concorde’s total running time spent until an optimal solution is found ranges from 0.77 for \(n=500\) to 0.97 for \(n=3{,}500\); on TSPLIB, National and VLSI instances, we pegged it at 0.86, 0.74 and 0.61, respectively, with a tendency of even smaller values for larger instances.
+Keywords
+TSP  Empirical complexity  Exact algorithms  

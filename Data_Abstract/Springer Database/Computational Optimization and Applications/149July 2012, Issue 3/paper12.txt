@@ -1,0 +1,6 @@
+PAINT: Pareto front interpolation for nonlinear multiobjective optimization
+Markus Hartikainen;Kaisa Miettinen;Margaret M. Wiecek;
+Abstract
+A method called PAINT is introduced for computationally expensive multiobjective optimization problems. The method interpolates between a given set of Pareto optimal outcomes. The interpolation provided by the PAINT method implies a mixed integer linear surrogate problem for the original problem which can be optimized with any interactive method to make decisions concerning the original problem. When the scalarizations of the interactive method used do not introduce nonlinearity to the problem (which is true e.g., for the synchronous NIMBUS method), the scalarizations of the surrogate problem can be optimized with available mixed integer linear solvers. Thus, the use of the interactive method is fast with the surrogate problem even though the problem is computationally expensive. Numerical examples of applying the PAINT method for interpolation are included.
+Keywords
+Multiobjective optimization  Interactive decision making  Computationally expensive problems  Approximation  

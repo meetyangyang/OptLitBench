@@ -1,0 +1,6 @@
+Nonmonotone globalization of the finite-difference Newton-GMRES method for nonlinear equations
+ L.   Grippo ; M.   Sciandrone ;
+Abstract
+ In this paper, we study nonmonotone globalization strategies, in connection with the finite-difference inexact Newton-GMRES method for nonlinear equations. We first define a globalization algorithm that combines nonmonotone watchdog rules and nonmonotone derivative-free linesearches related to a merit function, and prove its global convergence under the assumption that the Jacobian is nonsingular and that the iterations of the GMRES subspace method can be completed at each step. Then we introduce a hybrid stabilization scheme employing occasional line searches along positive bases, and establish global convergence towards a solution of the system, under the less demanding condition that the Jacobian is nonsingular at stationary points of the merit function. Through a set of numerical examples, we show that the proposed techniques may constitute useful options to be added in solvers for nonlinear systems of equations. 
+Keywords
+nonlinear systems, Krylov subspace methods, inexact Newton methods, nonmonotone globalization methods, nonmonotone linesearches  

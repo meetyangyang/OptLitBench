@@ -1,0 +1,6 @@
+A Low Complexity Interior-Point Algorithm for Linear Programming
+Michael J.  Todd;
+Abstract
+This paper describes an interior-point algorithm for linear programming that is almost as simple as the affine-scaling method and yet achieves the currently best complexity of $O(\sqrt{n} t)$ iterations to attain precision t. The basic algorithm needs neither dual estimates nor lower bounds, although its analysis is based on Ye’s results for the primal–dual potential function. Some computationally preferable variants are also presented.
+Keywords
+linear programming, interior-point methods, 90C05, 

@@ -1,0 +1,6 @@
+Reverse accumulation and accurate rounding error estimates for taylor series coefficient
+ Bruce   Christianson ;
+Abstract
+ We begin by extending the technique of reverse accumulation so as to obtain gradients of univariate Taylor series coefficients. This is done by re-interpreting the same formulae used to reverse accumulategradients in the conventional (scalar) case. Thus a carefully written implementation of conventional reverse accumulation can be extended to the Taylor series valued case by (further) overloading of the appropriate operators. Next, we show how to use this extended reverse accumulation technique so as to construct accurate (i.e. rigorous and sharp) error bounds for the numerical values of the Taylor series coefficients of the target function, again by re-interpreting the corresponding conventional (scalar) formulae. This extension can also be implemented simply by re-engineering existing code. The two techniques (reverse accumulation of gradients and accurate error estimates) each require only a small multiple of the processing time required to compute the underlying Taylor series coefficients. Space "requirements are comparable to those for conventional (scalar) reverse accumulation, and can be simply managed. We concluded with a discussion of possible implementation strategies and the implications for the re-use of code. 
+Keywords
+ 

@@ -1,0 +1,6 @@
+A Superlinearly Convergent Smoothing Newton Continuation Algorithm for Variational Inequalities over Definable Sets
+C. B.  Chua and L. T. K.  Hien;
+Abstract
+In this paper, we use the concept of barrier-based smoothing approximations introduced by Chua and Li [SIAM J. Optim., 23 (2013),  pp. 745--769] to extend the smoothing Newton continuation algorithm of Hayashi, Yamashita, and Fukushima [SIAM J. Optim., 15 (2005), pp. 593--615] to variational inequalities over general closed convex sets $X$. We prove that when the underlying barrier has a gradient map that is definable in some o-minimal structure, the iterates generated converge superlinearly to a solution of the variational inequality. We further prove that if $X$ is proper and definable in the o-minimal structure $\mathbb{R}_{\mathrm{an}}^{\mathbb{R}_{\mathrm{alg}}}$, then the gradient map of its universal barrier is definable in the o-minimal expansion $\mathbb{R}_{\mathrm{an}, \exp}$. Finally, we consider the application of the algorithm to complementarity problems over epigraphs of matrix operator norm and nuclear norm and present preliminary numerical results.
+Keywords
+variational inequalities, smoothing Newton continuation, superlinear convergence, barrier-based smoothing approximation, 90C33, 65K05, 47J20, 

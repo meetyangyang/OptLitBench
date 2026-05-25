@@ -1,0 +1,6 @@
+Dynamic smoothness parameter for fast gradient methods
+Antonio Frangioni;Bernard Gendron;Enrico Gorgone;
+Abstract
+We present and computationally evaluate a variant of the fast gradient method by Nesterov that is capable of exploiting information, even if approximate, about the optimal value of the problem. This information is available in some applications, among which the computation of bounds for hard integer programs. We show that dynamically changing the smoothness parameter of the algorithm using this information results in a better convergence profile of the algorithm in practice.
+Keywords
+Fast gradient method  Lagrangian relaxation  Convex optimization  

@@ -1,0 +1,6 @@
+Regularization and discretization error estimates for optimal control of ODEs with group sparsity
+Christopher Schneider1 and Gerd Wachsmuth2a;
+Abstract
+It is well known that optimal control problems with L1-control costs produce sparse solutions, i.e., the optimal control is zero on whole intervals. In this paper, we study a general class of convex linear-quadratic optimal control problems with a sparsity functional that promotes a so-called group sparsity structure of the optimal controls. In this case, the components of the control function take the value of zero on parts of the time interval, simultaneously. These problems are both theoretically interesting and practically relevant. After obtaining results about the structure of the optimal controls, we derive stability estimates for the solution of the problem w.r.t. perturbations and L2-regularization. These results are consequently applied to prove convergence of the Euler discretization. Finally, the usefulness of our approach is demonstrated by solving an illustrative example using a semismooth Newton method.
+Keywords
+Optimal control, group sparsity, directional sparsity, bang-bang principle, stability analysis, discretization error estimate

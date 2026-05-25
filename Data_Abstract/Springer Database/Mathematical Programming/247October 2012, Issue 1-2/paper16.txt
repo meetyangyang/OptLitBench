@@ -1,0 +1,6 @@
+A limited memory steepest descent method
+Roger Fletcher;
+Abstract
+The possibilities inherent in steepest descent methods have been considerably amplified by the introduction of the Barzilai–Borwein choice of step-size, and other related ideas. These methods have proved to be competitive with conjugate gradient methods for the minimization of large dimension unconstrained minimization problems. This paper suggests a method which is able to take advantage of the availability of a few additional ‘long’ vectors of storage to achieve a significant improvement in performance, both for quadratic and non-quadratic objective functions. It makes use of certain Ritz values related to the Lanczos process (Lanczos in J Res Nat Bur Stand 45:255–282, 1950). Some underlying theory is provided, and numerical evidence is set out showing that the new method provides a competitive and more simple alternative to the state of the art l-BFGS limited memory method.
+Keywords
+90C06  90C26  65K05  

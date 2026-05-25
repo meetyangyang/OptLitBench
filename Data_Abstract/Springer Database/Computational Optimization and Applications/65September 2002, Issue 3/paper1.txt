@@ -1,0 +1,6 @@
+Local Convergence of a Primal-Dual Method for Degenerate Nonlinear Programming
+Luís N. Vicente;Stephen J. Wright;
+Abstract
+In recent work, the local convergence behavior of path-following interior-point methods and sequential quadratic programming methods for nonlinear programming has been investigated for the case in which the assumption of linear independence of the active constraint gradients at the solution is replaced by the weaker Mangasarian–Fromovitz constraint qualification. In this paper, we describe a stabilization of the primal-dual interior-point approach that ensures rapid local convergence under these conditions without enforcing the usual centrality condition associated with path-following methods. The stabilization takes the form of perturbations to the coefficient matrix in the step equations that vanish as the iterates converge to the solution.
+Keywords
+nonlinear programming  degeneracy  interior-point methods  

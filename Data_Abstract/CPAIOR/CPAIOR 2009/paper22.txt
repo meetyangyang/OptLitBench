@@ -1,0 +1,4 @@
+Max Energy Filtering Algorithm for Discrete Cumulative Resources
+Petr Vilím;
+Abstract
+In scheduling using constraint programming we usually reason only about possible start times and end times of activities and remove those which are recognized as unfeasible. However often in practice there are more variables in play: variable durations of activities and variable resource capacity requirements. This paper presents a new algorithm for filtering maximum durations and maximum capacity requirements for discrete cumulative resources. It is also able to handle optional interval variables introduced in IBM ILOG CP Optimizer 2.0. Time complexity of the algorithm is \({\mathcal O}(n {\rm log} n)\). The algorithm is based on never published algorithm by Wim Nuijten and a on slightly modified e-feasibility checking algorithm by Armin Wolf and Gunnar Schrader. The later algorithm is also described in the paper.

@@ -1,0 +1,6 @@
+Multi-Objective Integer Programming: An Improved Recursive Algorithm
+Melih Ozlen;Benjamin A. Burton;Cameron A. G. MacRae;
+Abstract
+This paper introduces an improved recursive algorithm to generate the set of all nondominated objective vectors for the Multi-Objective Integer Programming (MOIP) problem. We significantly improve the earlier recursive algorithm of Özlen and Azizoğlu by using the set of already solved subproblems and their solutions to avoid solving a large number of IPs. A numerical example is presented to explain the workings of the algorithm, and we conduct a series of computational experiments to show the savings that can be obtained. As our experiments show, the improvement becomes more significant as the problems grow larger in terms of the number of objectives.
+Keywords
+Multiple objective programming  Integer programming  

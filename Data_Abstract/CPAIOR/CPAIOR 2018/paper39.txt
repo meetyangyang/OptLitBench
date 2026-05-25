@@ -1,0 +1,4 @@
+Algorithms for Sparse k-Monotone Regression
+Sergei P. Sidorov;Alexey R. Faizliev;Alexander A. Gudkov;Sergei V. Mironov;
+Abstract
+The problem of constructing k-monotone regression is to find a vector \(z\in \mathbb {R}^n\) with the lowest square error of approximation to a given vector \(y\in \mathbb {R}^n\) (not necessary k-monotone) under condition of k-monotonicity of z. The problem can be rewritten in the form of a convex programming problem with linear constraints. The paper proposes two different approaches for finding a sparse k-monotone regression (Frank-Wolfe-type algorithm and k-monotone pool adjacent violators algorithm). A software package for this problem is developed and implemented in R. The proposed algorithms are compared using simulated data.

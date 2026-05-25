@@ -1,0 +1,6 @@
+Linear Inequality Scaling Problems
+Uriel G.  Rothblum;
+Abstract
+Let $a \in R^m $, $b \in R^m $, and $C \in R^{m \times n} $ be given, where a is strictly positive. A C-scaling of the vector a is defined to be a vector $a' \in R^n $ with $a'_j  = a_j [ \Pi_{k = 1}^m (u_k )^{C_{kj} } ]$ for some strictly positive vector $u \in R^m $. The problem of finding a C-scaling of the vector a that satisfies the linear system $Cx = b$ is called the linear equality scaling problem (LESP). The current paper considers the linear inequality scaling problem (LISP), which concerns the identification of a C-scaling of a which satisfies the linear inequality system $Cx\leqq  b$, where it is required that $u\leqq  1$ and that $u_i  = 1$ for each i with $(Cx)_i  < b_i $. It is shown that LISP generalizes LESP and that it unifies a number of matrix-scaling problems that have been studied recently. Further, it is shown that LISP can be reduced to one of two convex optimization problems and these reductions are used to characterize solutions to LISP and to derive necessary and sufficient conditions for their existence. In addition, uniqueness of solutions is established and perturbed relaxations of LISP are considered.
+Keywords
+scaling, inequality systems, linear, 15A39, 15A12, 90C25, 

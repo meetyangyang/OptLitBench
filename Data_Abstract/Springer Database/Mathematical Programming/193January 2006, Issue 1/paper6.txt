@@ -1,0 +1,6 @@
+Optimization-based simulation of nonsmooth rigid multibody dynamics
+Mihai Anitescu;
+Abstract
+We present a time-stepping method to simulate rigid multibody dynamics with inelastic collision, contact, and friction. The method progresses with fixed time step without backtracking for collision and solves at every step a strictly convex quadratic program. We prove that a solution sequence of the method converges to the solution of a measure differential inclusion. We present numerical results for a few examples, and we illustrate the difference between the results from our scheme and previous, linear-complementarity-based time-stepping schemes.
+Keywords
+Multibody Dynamics  Contact  Coulomb Friction  Convex Relaxation  65K10  90C33  

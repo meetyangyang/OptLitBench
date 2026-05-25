@@ -1,0 +1,6 @@
+Numerical Verification of Optimality Conditions
+Arnd  Rösch and Daniel  Wachsmuth;
+Abstract
+A class of optimal control problems for a semilinear elliptic partial differential equation with control constraints is considered. It is well known that sufficient second-order conditions ensure the stability of optimal solutions, and the convergence of numerical methods. Otherwise, such conditions are very difficult to verify (analytically or numerically). We will propose a new approach as follows: Starting with a numerical solution for a fixed mesh we will show the existence of a local minimizer of the continuous problem. Moreover, we will prove that this minimizer satisfies the sufficient second-order conditions.
+Keywords
+optimal control, sufficient optimality condition, semilinear elliptic equation, numerical verification, error estimates, 49K20, 49M25, 65N15, 

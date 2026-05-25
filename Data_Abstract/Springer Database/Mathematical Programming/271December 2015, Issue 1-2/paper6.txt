@@ -1,0 +1,6 @@
+ \(n\)-Step cycle inequalities: facets for continuous multi-mixing set and strong cuts for multi-module capacitated lot-sizing problem
+Manish Bansal;Kiavash Kianfar;
+Abstract
+In this paper, we introduce a generalization of the continuous mixing set, which we refer to as the continuous multi-mixing set. This set is closely related to the feasible set of the multi-module capacitated lot-sizing (MML) problem with(out) backlogging. We present a family of valid inequalities for the continuous multi-mixing set and identify conditions under which they are facet-defining. The cycle inequalities, \(n\)-step MIR inequalities, and mixed \(n\)-step MIR inequalities are special cases of these inequalities. We also present an exact separation algorithm for our inequalities. We then use these inequalities to generate valid inequalities for MML with(out) backlogging. Our computational results show that our cuts are very effective in solving the MML instances, resulting in substantial reduction in the integrality gap, number of nodes, and total solution time.
+Keywords
+\(n\)-Step cycle inequalities  \(n\)-Step MIR  Continuous multi-mixing  Multi-module capacitated lot-sizing with/without backlogging  Mixed integer programming  Cutting planes  90C10  90C11  90C57  90C90  

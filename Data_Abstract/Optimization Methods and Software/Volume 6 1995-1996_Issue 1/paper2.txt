@@ -1,0 +1,6 @@
+Truncated dual SQP method with limited memory
+   Q.   Ni ;
+Abstract
+ This paper represents a truncated dual sequential quadratic programming method with limited memory, which can solve sparse and dense large-scale nonlinear programming problems. Because an approximation of the inverse Hessian matrix of the Lagrangian function is formulated in a dual quadratic programming subproblem with simple bounds, the computation of the inverse matrix in the subproblem is avoided. A truncated solution of the dual quadratic programming subproblem is determined by an iterative method, in which the computation of the matrix-vector product, instead of the matrix factorization, is needed such that the implementation at each iteration is relatively simple and time-economic. With the technique of a limited memory update, the estimated inverse Hessian matrix of the Lagrangian function is computed and stored by means of some vectors, and this decreases the computation in solving the dual quadratic programming subproblem. The global convergence of the algorithm is proved and the numerical results on small and large test problems are given  
+Keywords
+Limited Memory, SQP Method, Large-Scale Nonlinear Programming 

@@ -1,0 +1,6 @@
+Generalized Hamilton--Jacobi--Bellman Equations with Dirichlet Boundary Condition and Stochastic Exit Time Optimal Control Problem
+Rainer  Buckdahn and Tianyang  Nie;
+Abstract
+We consider a kind of stochastic exit time optimal control problem in which the cost functional is defined through a nonlinear backward stochastic differential equation. We study the regularity of the value function for such a control problem. Then, extending Peng's backward semigroup method, we show the dynamic programming principle. Moreover, we prove that the value function is  a viscosity solution to the following generalized Hamilton--Jacobi--Bellman equation with Dirichlet boundary condition: $\inf\nolimits_{v\in V}\left\{\mathcal{L}(x,v)u(x)+f(x,u(x),\nabla u(x) \sigma(x,v),v)\right\}=0$, $x\in D$, and $u(x)=g(x)$, $x\in \partial D$, where $D$ is a bounded set in $\mathbb{R}^{d}$, $V$ is a compact set in $\mathbb{R}^{k}$, and for $u\in C^{2}(D)$ and $(x,v)\in D\times V$, $\mathcal{L}(x,v)u(x):=\frac{1}{2}\sum_{i,j=1}^{d}(\sigma\sigma^{\ast})_{i,j}(x,v) \frac{\partial^{2}u}{\partial x_{i}\partial x_{j}}(x) +\sum_{i=1}^{d}b_{i}(x,v)\frac{\partial u}{\partial x_{i}}(x)$.
+Keywords
+stochastic exit time, optimal control, backward stochastic differential equations, Hamilton--Jacobi--Bellman equations, viscosity solutions, 60H10, 60H30, 

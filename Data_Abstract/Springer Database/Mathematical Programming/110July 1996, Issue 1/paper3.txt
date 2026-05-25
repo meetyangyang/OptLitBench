@@ -1,0 +1,6 @@
+Distributed computation of Pareto solutions inn-player games
+Markku Verkama;Harri Ehtamo;Raimo P. Hämäläinen;
+Abstract
+The problem of computing Pareto optimal solutions with distributed algorithms is considered inn-player games. We shall first formulate a new geometric problem for finding Pareto solutions. It involves solving joint tangents for the players' objective functions. This problem can then be solved with distributed iterative methods, and two such methods are presented. The principal results are related to the analysis of the geometric problem. We give conditions under which its solutions are Pareto optimal, characterize the solutions, and prove an existence theorem. There are two important reasons for the interest in distributed algorithms. First, they can carry computational advantages over centralized schemes. Second, they can be used in situations where the players do not know each others' objective functions.
+Keywords
+Distributed algorithm  Game theory  Pareto optimality  Optimization  

@@ -1,0 +1,6 @@
+Interval length continuation method for solving two-point boundary-value problems
+P. J. Orava;P. A. J. Lautala;
+Abstract
+We consider the solution of the following two-point boundary-value problem:$$\begin{gathered}  \dot x(t) = f(t,x(t),p(t)),    \dot p(t) = g(t,x(t),p(t)),    t \in [0,T], \hfill \\                          h(x(0),p(0)) = 0,      p(T) = q. \hfill \\ \end{gathered} $$ We propose a combination technique consisting of the interval length continuation method and the back-and-forth shooting method. Certain alternative ways of employing continuation are discussed, and some of them are well suited for the problem under consideration. As a test for the method, a numerical example of a problem originating in optimal control is given.
+Keywords
+Two-point boundary-value problems  continuation methods  shooting methods  iterative numerical methods  optimal control  

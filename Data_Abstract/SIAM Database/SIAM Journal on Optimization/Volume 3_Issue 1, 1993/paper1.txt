@@ -1,0 +1,6 @@
+A Theoretical and Experimental Study of the Symmetric Rank-One Update
+H. Fayez  Khalfan, R. H.  Byrd, and R. B.  Schnabel;
+Abstract
+This paper first discusses computational experience using the SRi update in conventional line search and trust region algorithms for unconstrained optimization. The experiments show that the SRi is very competitive with the widely used BFGS method. They also indicate two interesting features: the final Hessian approximations produced by the SRi method are not generally appreciably better than those produced by the BFGS, and the sequences of steps produced by the SRi do not usually seem to have the “uniform linear independence” property that is assumed in recent convergence analysis. This paper presents a new analysis that shows that the SRi method with a line search is $( n + 1)$-step q-superlinearly convergent without the assumption of linearly independent iterates. This analysis assumes that the Hessian approximations are positive definite and bounded asymptotically, which, from computational experience, are reasonable assumptions.
+Keywords
+quasi-Newton method, symmetric rank-one update, superlinear convergence, 65, 49, 

@@ -1,0 +1,6 @@
+On an Inequality of C. Sundberg: A Computational Investigation via Nonlinear Programming
+R. Glowinski;A. Quaini;
+Abstract
+The main goal of this article is to discuss a numerical method for finding the best constant in a Sobolev type inequality considered by C. Sundberg, and originating from Operator Theory. To simplify the investigation, we reduce the original problem to a parameterized family of simpler problems, which are constrained optimization problems from Calculus of Variations. To decouple the various differential operators and nonlinearities occurring in these constrained optimization problems, we introduce an appropriate augmented Lagrangian functional, whose saddle-points provide the solutions we are looking for. To compute these saddle-points, we use an Uzawa–Douglas–Rachford algorithm, which, combined with a finite difference approximation, leads to numerical results suggesting that the best constant is about five times smaller than the constant provided by an analytical investigation.
+Keywords
+Nonlinear variational problem  Augmented Lagrangian method  Alternating direction method of multipliers  

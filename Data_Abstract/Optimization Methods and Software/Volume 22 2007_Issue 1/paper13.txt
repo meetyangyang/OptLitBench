@@ -1,0 +1,6 @@
+Robust support vector machines for classification and computational issues
+ T.   B.   Trafalis ; R.   C.   Gilbert ;
+Abstract
+ In this paper, we investigate the theoretical and numerical aspects of robust classification using support vector machines (SVMs) by providing second order cone programming and linear programming formulations. SVMs are learning algorithms introduced by Vapnik used either for classification or regression. They show good generalization properties and they are based on statistical learning theory. The resulting learning problems are convex optimization problems suitable for application of primal-dual interior points methods. We investigate the training of a SVM in the case where a bounded perturbation is added to the value of an input x  i ∊ℝ n . A robust SVM provides a decision function that is immune to data perturbations. We consider both cases where our training data are either linearly separable or non linearly separable respectively and provide computational results for real data sets. 
+Keywords
+Robust support vector machines, Robust classification, Support vector machines 

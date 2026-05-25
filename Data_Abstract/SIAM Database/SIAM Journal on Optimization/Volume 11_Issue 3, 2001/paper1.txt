@@ -1,0 +1,6 @@
+Pattern Search Algorithms for Mixed Variable Programming
+Charles  Audet and J. E.  Dennis, Jr.;
+Abstract
+Many engineering optimization problems involve a special kind of discrete variable that  can be represented by a number, but this representation has no significance. Such variables arise when a decision involves some situation like a choice from an unordered list of categories. This has two implications: The standard approach of solving problems with continuous relaxations of discrete variables is not available, and the notion of local optimality must be defined through a user-specified set of neighboring points. We present a class of direct search algorithms to provide limit points that satisfy some appropriate necessary conditions for local optimality for such problems. We give a more expensive version of the algorithm that guarantees additional necessary optimality conditions. A small example illustrates the differences between the two versions. A real thermal insulation system design problem illustrates the efficacy of the user controls for this class of algorithms.
+Keywords
+pattern search algorithm, convergence analysis, bound constrained optimization, mixed variable programming, derivative-free optimization, 49M30, 65K05, 90C11, 90C56, 

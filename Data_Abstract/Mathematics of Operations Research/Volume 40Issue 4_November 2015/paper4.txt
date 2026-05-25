@@ -1,0 +1,6 @@
+The Simplex Method is Strongly Polynomial for Deterministic Markov Decision Processes
+Ian Post;Yinyu Ye;
+Abstract
+We prove that the simplex method with the highest gain/most-negative-reduced cost pivoting rule converges in strongly polynomial time for deterministic Markov decision processes (MDPs) regardless of the discount factor. For a deterministic MDP with n states and m actions, we prove the simplex method runs in O(n3m2 log2n) iterations if the discount factor is uniform and O(n5m3 log2n) iterations if each action has a distinct discount factor. Previously the simplex method was known to run in polynomial time only for discounted MDPs where the discount was bounded away from 1.
+Keywords
+Markov decision process simplex method linear programming strongly polynomial 

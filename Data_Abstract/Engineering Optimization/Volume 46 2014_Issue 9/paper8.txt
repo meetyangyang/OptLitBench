@@ -1,0 +1,6 @@
+A canned food scheduling problem with batch due date
+Tsui-Ping Chung;Ching-Jong Liao;Milton Smith;
+Abstract
+This article considers a canned food scheduling problem where jobs are grouped into several batches. Jobs can be sent to the next operation only when all the jobs in the same batch have finished their processing, i.e. jobs in a batch, have a common due date. This batch due date problem is quite common in canned food factories, but there is no efficient heuristic to solve the problem. The problem can be formulated as an identical parallel machine problem with batch due date to minimize the total tardiness. Since the problem is NP hard, two heuristics are proposed to find the near-optimal solution. Computational results comparing the effectiveness and efficiency of the two proposed heuristics with an existing heuristic are reported and discussed.
+Keywords
+scheduling, identical parallel machines, batch due date, total tardiness 

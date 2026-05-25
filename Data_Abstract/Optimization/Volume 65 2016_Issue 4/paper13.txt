@@ -1,0 +1,6 @@
+Tightening concise linear reformulations of 0-1 cubic programs
+Richard J. Forrester;
+Abstract
+A common strategy for solving 0-1 cubic programs is to reformulate the non-linear problem into an equivalent linear representation, which can then be submitted directly to a standard mixed-integer programming solver. Both the size and the strength of the continuous relaxation of the reformulation determine the success of this method. One of the most compact linear representations of 0-1 cubic programs is based on a repeated application of the linearization technique for 0-1 quadratic programs introduced by Glover. In this paper, we develop a pre-processing step that serves to strengthen the linear programming bound provided by this concise linear form of a 0-1 cubic program. The proposed scheme involves using optimal dual multipliers of a partial level-2 RLT formulation to rewrite the objective function of the cubic program before applying the linearization. We perform extensive computational tests on the 0-1 cubic multidimensional knapsack problem to show the advantage of our approach.
+Keywords
+0-1 cubic program, linearization, reformulation-linearization technique (RLT)AMS Subject Classifications: 90C30, 90C11 

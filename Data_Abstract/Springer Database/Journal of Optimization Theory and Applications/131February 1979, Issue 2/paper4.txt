@@ -1,0 +1,6 @@
+A time-decomposition algorithm for a stiff linear two-point boundary-value problem and its application to a nonlinear optimal control problem
+T. Ojika;Y. Nishikawa;M. Okudaira;
+Abstract
+An algorithm is proposed to solve a stiff linear two-point boundary-value problem (TPBVP). In a stiff problem, since some particular solutions of the system equation increase and others decrease rapidly as the independent variable changes, the integration of the system equation suffers from numerical errors. In the proposed algorithm, first, the overall interval of integration is divided into several subintervals; then, in each subinterval a sub-TPBVP with arbitrarily chosen boundary values is solved. Second, the exact boundary values which guarantee the continuity of the solution are determined algebraically. Owing to the division of the integration interval, the numerical error is effectively reduced in spite of the stiffness of the system equation. It is also shown that the algorithm is successfully imbedded into an interaction-coordination algorithm for solving a nonlinear optimal control problem.
+Keywords
+Two-point boundary-value problems  stiff systems  time decomposition  nonlinear optimal control problems  interaction-coordination algorithm  

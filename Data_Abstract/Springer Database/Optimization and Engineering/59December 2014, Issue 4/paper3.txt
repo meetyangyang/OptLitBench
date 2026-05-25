@@ -1,0 +1,6 @@
+Cutting-plane-based algorithms for two branch vertices related spanning tree problems
+André Rossi;Alok Singh;Shyam Sundar;
+Abstract
+A branch vertex is a vertex with degree larger than or equal to three. This paper addresses two spanning tree problems in an undirected, simple graph. The first one is to find a spanning tree that minimizes the number of branch vertices (MBV), and the second one is to find a spanning tree that minimizes the degree sum of branch vertices (MDS). These two problems arise in the design of wavelength-division networks (WDN), when the cost of equipments for enabling multicast communication is to be minimized. After investigating the relations of MBV and MDS with the problem of minimizing the number of leaves in a spanning tree, new formulations based on ILP are proposed for MBV and MDS, along with two cutting plane algorithms for addressing them. A repair function is also introduced for deriving feasible solutions from the candidate trees returned at each iteration of the cutting plane algorithm, as well as a Tabu search procedure for further quality improvement. The resulting hybrid approach is shown to outperform pure ILP formulations and heuristic approaches published earlier.
+Keywords
+Spanning tree  Branch vertex  Cutting plane algorithm  Matheuristic  Tabu search  Wavelength-division  

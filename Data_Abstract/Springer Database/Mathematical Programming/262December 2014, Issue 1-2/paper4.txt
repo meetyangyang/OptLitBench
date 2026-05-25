@@ -1,0 +1,6 @@
+Approximation bounds for sparse principal component analysis
+Alexandre d’Aspremont;Francis Bach;Laurent El Ghaoui;
+Abstract
+We produce approximation bounds on a semidefinite programming relaxation for sparse principal component analysis. The sparse maximum eigenvalue problem cannot be efficiently approximated up to a constant approximation ratio, so our bounds depend on the optimum value of the semidefinite relaxation: the higher this value, the better the approximation. In particular, these bounds allow us to control approximation ratios for tractable statistics in hypothesis testing problems where data points are sampled from Gaussian models with a single sparse leading component.
+Keywords
+62H25  90C22  90C27  

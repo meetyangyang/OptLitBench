@@ -1,0 +1,6 @@
+Moreau–Yosida regularization in shape optimization with geometric constraints
+Moritz Keuthen;Michael Ulbrich;
+Abstract
+In the context of shape optimization with geometric constraints we employ the method of mappings (perturbation of identity) to obtain an optimal control problem with a nonlinear state equation on a fixed reference domain. The Lagrange multiplier associated with the geometric shape constraint has a low regularity (similar to state constrained problems), which we circumvent by penalization and a continuation scheme. We employ a Moreau–Yosida-type regularization and assume a second-order condition to hold. The regularized problems can then be solved with a semismooth Newton method and we study the properties of the regularized solutions and the rate of convergence towards a solution of the original problem. A model for the value function in the spirit of Hintermüller and Kunisch (SIAM J Control Optim 45(4): 1198–1221, 2006) is introduced and used in an update strategy for the regularization parameter. The theoretical findings are supported by numerical tests.
+Keywords
+Shape optimization  Moreau–Yosida regularization  Method of mappings  Semismooth newton  Geometric constraints  

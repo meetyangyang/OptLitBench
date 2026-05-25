@@ -1,0 +1,6 @@
+A knowledge-based search framework for designing composite structures
+Z. P. Szewczyk;
+Abstract
+In this paper, a search framework is presented that makes a genetic algorithm (GA) a practical engineering tool for searching discrete and nonconvex design spaces. It is shown that “near optimal” designs can be relatively quickly found if three problems are addressed: (i) the dimensionality of a design space is reasonably reduced, (ii) fast function evaluations are available, and (iii) genetic operators are tailored to the application at hand. In our work, the number of active design variables is reduced by using a rule-based fuzzy logic inference engine to process knowledge about the structure's behaviour. The use of a parallel computing environment for structural analysis in conjunction with data retrieval from binary-like trees effectively reduces the time required to perform genetic searching. Three different selection operators along with a permutation-like operator for the reduced problem are evaluated for their effectiveness in locating the global optimum. As an example, the stacking sequence for maximizing a buckling load for a stiffened square panel with a circular cut-out and subject to thermal and shear loading is designed.
+Keywords
+Genetic Algorithm  Fuzzy Logic  Design Variable  Design Space  Shear Loading  

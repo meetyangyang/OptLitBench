@@ -1,0 +1,6 @@
+A full-Newton step feasible interior-point algorithm for \(P_*(\kappa )\)-linear complementarity problems
+G. Q. Wang;C. J. Yu;K. L. Teo;
+Abstract
+In this paper, a full-Newton step feasible interior-point algorithm is proposed for solving \(P_*(\kappa )\)-linear complementarity problems. We prove that the full-Newton step to the central path is local quadratically convergent and the proposed algorithm has polynomial iteration complexity, namely, \(O\left( (1+4\kappa )\sqrt{n}\log {\frac{n}{\varepsilon }}\right) \), which matches the currently best known iteration bound for \(P_*(\kappa )\)-linear complementarity problems. Some preliminary numerical results are provided to demonstrate the computational performance of the proposed algorithm.
+Keywords
+Interior-point methods  Linear complementarity problems  \(P_*(\kappa )\)-matrix  Polynomial complexity  90C33  90C51  

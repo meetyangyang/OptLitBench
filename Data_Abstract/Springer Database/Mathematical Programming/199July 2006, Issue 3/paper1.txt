@@ -1,0 +1,6 @@
+An optimal adaptive algorithm for the approximation of concave functions
+J. Guérin;P. Marcotte;G. Savard;
+Abstract
+Motivated by the study of parametric convex programs, we consider approximation of concave functions by piecewise affine functions. Using dynamic programming, we derive a procedure for selecting the knots at which an oracle provides the function value and one supergradient. The procedure is adaptive in that the choice of a knot is dependent on the choice of the previous knots. It is also optimal in that the approximation error, in the integral sense, is minimized in the worst case.
+Keywords
+Dynamic programming  Approximation  Adaptive algorithm  20E28  20G40  20C20  

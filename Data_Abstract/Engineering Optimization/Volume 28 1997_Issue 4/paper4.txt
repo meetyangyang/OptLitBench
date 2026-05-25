@@ -1,0 +1,6 @@
+A DECOMPOSITION HEURISTIC FOR SCHEDULING THE GENERAL BATCH CHEMICAL PLANT
+ A.   ELKAMEL ; M.   ZENTNER ; F.   PEKNY ; G.V.   REKLAITIS ;
+Abstract
+ In this paper a heuristic decomposition algorithm for scheduling the generalized batch chemical plant is presented. The scheduling problem is decomposed into smaller, more tractable problems which are solved to optimality. The solutions to the smaller problems are then concatenated in a pre-specified manner to get an approximate solution to the original problem. This decomposition consists mainly of two basic components: spatial decomposition and temporal decomposition. In spatial decomposition, the plant is represented as a directed graph which is decomposed into groups of processing and storage units. In temporal decomposition the product orders are decomposed into several groups (according to the unit groups) and are scheduled on the time axis sequentially. The quality of the solutions obtained by the decomposition algorithm has been experimentally tested on a number of case studies of various complexity. The computational effort required was only a small fraction of that of the exact procedure, while obtaining solutions that were consistently close to the optimum. 
+Keywords
+Scheduling, chemical plant, decomposition, batch processing 

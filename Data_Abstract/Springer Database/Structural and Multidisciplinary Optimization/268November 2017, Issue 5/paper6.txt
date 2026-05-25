@@ -1,0 +1,6 @@
+Topology optimization with finite-life fatigue constraints
+Jacob Oest;Erik Lund;
+Abstract
+This work investigates efficient topology optimization for finite-life high-cycle fatigue damage using a density approach and analytical gradients. To restrict the minimum mass problem to withstand a prescribed finite accumulated damage, constraints are formulated using Palmgren-Miner’s linear damage hypothesis, S-N curves, and the Sines fatigue criterion. Utilizing aggregation functions and the accumulative nature of Palmgren-Miner’s rule, an adjoint formulation is applied where the amount of adjoint problems that must be solved is independent of the amount of cycles in the load spectrum. Consequently, large load histories can be included directly in the optimization with minimal additional computational costs. The method is currently limited to proportional loading conditions and linear elastic material behavior and a quasi-static structural analysis, but can be applied to various equivalent stress-based fatigue criteria. Optimized designs are presented for benchmark examples and compared to stress optimized designs for static loads.
+Keywords
+Topology optimization  Fatigue constraints  Adjoint method  P-norm  

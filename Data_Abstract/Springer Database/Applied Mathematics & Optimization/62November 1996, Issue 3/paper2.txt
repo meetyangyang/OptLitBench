@@ -1,0 +1,6 @@
+Alternating direction algorithms for solving Hamilton-Jacobi-Bellman equations
+M. Sun;
+Abstract
+We focus on numerically solving a typical type of Hamilton-Jacobi-Bellman (HJB) equations arising from a class of optimal controls with a standard multidimensional diffusion model. Solving such an equation results in the value function and an optimal feedback control law. The Bellman's curse of dimensionality seems to be the main obstacle to applicability of most numerical algorithms for solving HJB. We decompose HJB into a number of lower-dimensional problems, and discuss how the usual alternating direction method can be extended for solving HJB. We present some convergence results, as well as preliminary experimental outcomes.
+Keywords
+Optimal controls  Dynamic programming  Hamilton-Jacobi-Bellman equations  Alternating direction methods  Convergence  93E25  49L20  49M27  

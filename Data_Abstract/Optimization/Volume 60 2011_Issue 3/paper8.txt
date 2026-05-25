@@ -1,0 +1,6 @@
+A semidefinite programming approach to the hypergraph minimum bisection problem
+ Changhui   Choi ; Samuel   Burer ;
+Abstract
+ The hypergraph minimum bisection (HMB) problem is the problem of partitioning the vertices of a hypergraph into two sets of equal size so that the total weight of hyperedges crossing the sets is minimized. HMB is an NP-hard problem that arises in numerous applications – for example, in digital circuit design. Although many heuristics have been proposed for HMB, there has been no known mathematical program that is equivalent to HMB. As a means of shedding light on HMB, we study the equivalent, complement problem of HMB (called CHMB), which attempts to maximize the total weight of non-crossing hyperedges. We formulate CHMB as a quadratically constrained quadratic program, considering its semidefinite programming relaxation and providing computational results on digital circuit partitioning benchmark problems. We also provide results towards an approximation guarantee for CHMB. 
+Keywords
+hypergraph minimum bisection, semidefinite programming, digital circuit design 

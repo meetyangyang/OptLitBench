@@ -1,0 +1,6 @@
+Topology optimization based on finite strain plasticity
+Mathias Wallin;Viktor Jönsson;Eric Wingren;
+Abstract
+In this paper infinitesimal elasto-plastic based topology optimization is extended to finite strains. The employed model is based on rate-independent isotropic hardening plasticity and to separate the elastic deformation from the plastic deformation, use is made of the multiplicative split of the deformation gradient. The mechanical balance laws are solved using an implicit total Lagrangian formulation. The optimization problem is solved using the method of moving asymptotes and the sensitivity required to form convex separable approximations is derived using a path-dependent adjoint strategy. The optimization problem is regularized using a PDE-type filter. A simple boundary value problem where the plastic work is maximized is used to demonstrate the capability of the presented model. The numerical examples reveal that finite strain plasticity successfully can be combined with topology optimization.
+Keywords
+Topology optimization  Finite strain plasticity  Transient adjoint sensitivity  

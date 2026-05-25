@@ -1,0 +1,6 @@
+On Finding Optimal Policies for Markov Decision Chains: A Unifying Framework for Mean-Variance-Tradeoffs
+Ying Huang;L. C. M. Kallenberg;
+Abstract
+This paper proves constructively the existence of optimal policies for maximum one-period mean-to-standard-deviation-ratio, negative variance-with-bounded-mean and mean-penalized-by-variance Markov decision chains by reducing them to a related mathematical program. This program entails maximizing (xB/D(xb)) + C(xb) over x in a polytope and with given bounds on xb where C and D are convex and either D is constant or D is positive and nondecreasing, C is nondecreasing and xB is nonpositive. This program is in turn reduced to maximizing x(B + θb) over x in the polytope parametrically in θ. Along the way, under the nonnegative-initial-distribution assumption, we generalize the rule of constructing a stationary maximum-average-reward policy from an extreme optimal solution of the associated linear program. The paper unifies and extends formulations and existence results for problems discussed by White (1987), Filar and Lee (1985), Sobel (1985), Kawai (1987) and Filar, Kallenberg and Lee (1989), and gives an effective computational procedure to solve them that is related to a method used by Kawai (1987) in a special case.
+Keywords
+Markov decision chains optimal policies 

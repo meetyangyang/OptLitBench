@@ -1,0 +1,7 @@
+Safe bounds in linear and mixed-integer linear programming
+Arnold Neumaier;Oleg Shcherbina;
+Abstract
+Current mixed-integer linear programming solvers are based on linear programming routines that use floating-point arithmetic. Occasionally, this leads to wrong solutions, even for problems where all coefficients and all solution components are small integers. An example is given where many state-of-the-art MILP solvers fail. It is then shown how, using directed rounding and interval arithmetic, cheap pre- and postprocessing of the linear programs arising in a branch-and-cut framework can guarantee that no solution is lost, at least for mixed-integer programs in which all variables can be bounded rigorously by bounds of reasonable size.
+
+Keywords
+linear programming  mixed-integer programming  rounding errors  directed rounding  interval arithmetic  branch-and-cut  lower bounds  mixed-integer rounding  generalized Gomory cut  safe cuts  safe presolve  certificate of infeasibility  

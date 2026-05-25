@@ -1,0 +1,6 @@
+APPLICATION OF THE TSP ALGORITHM IN STRUCTURAL SYSTEM RELIABILITY CALCULATIONS
+ E.   YARIMER ;
+Abstract
+ The reliability of multi-element, fatigue-prone systems subjected to cyclic, quasi-static loading is considered. The element times-to-failure have independent Weibull distributions. The measure of reliability is the beta index for the number of cycles to failure of the system. A dominant failure path is determined by minimizing beta over all possible sequences of element failures, using the Dynamic Programming technique as formulated for the Travelling Salesman problem. Evaluation of the beta index requires the first two moments of the Weibull-distributed random variable, conditioned on the element having already survived some number of cycles. A convenient method for calculating these conditional moments is described. The paper concludes with numerical examples (some of which provide evidence of the lack of monotonicity ofthe objective function) and some remarks on possible ways of improving the computational efficiency. 
+Keywords
+ Parallel system, dominant failure path, reliability fatigue, Weibull distribution 

@@ -1,0 +1,6 @@
+Simulated annealing for solving near-optimal low-thrust orbit transfer
+ Ya-Zhong   Luo ; Guo-Jin   Tang ; Li-Ni   Zhou ;
+Abstract
+ The effectiveness of simulated annealing (SA) to design near-optimal low-thrust trajectories is investigated. On the basis of SA, a global optimization approach is presented. This method has global convergence, and is also suitable for hybrid continuous and discrete variables. Moreover, new neighborhood search functions both for continuous variables and for discrete variables of SA are put forward. In order to reduce the computational cost, a hybrid approach combining SA with the Powell algorithm is also discussed. The minimum-time optimization and the minimum-fuel-consumption optimization of a low-thrust Earth-to-Mars orbit transfer are illustrated by SA. The results show that SA is superior to genetic algorithms and classical optimization algorithms. Reliable global convergence and high precision solution are guaranteed by the suggested SA, particularly for the hybrid SA algorithm. 
+Keywords
+Low-thrust orbit transfer, Simulated annealing, Global optimization, Hybrid SA-Powell approach 

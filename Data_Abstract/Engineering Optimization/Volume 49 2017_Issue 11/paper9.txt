@@ -1,0 +1,6 @@
+A trust region approach with multivariate Padé model for optimal circuit design
+Hany L. Abdel-Malek;Shaimaa E.K. Ebid;Ahmed S.A. Mohamed;
+Abstract
+Since the optimization process requires a significant number of consecutive function evaluations, it is recommended to replace the function by an easily evaluated approximation model during the optimization process. The model suggested in this article is based on a multivariate Padé approximation. This model is constructed using data points of , where  is the number of parameters. The model is updated over a sequence of trust regions. This model avoids the slow convergence of linear models of  and has features of quadratic models that need interpolation data points of . The proposed approach is tested by applying it to several benchmark problems. Yield optimization using such a direct method is applied to some practical circuit examples. Minimax solution leads to a suitable initial point to carry out the yield optimization process. The yield is optimized by the proposed derivative-free method for active and passive filter examples.
+Keywords
+Trust region optimization, Padé model, yield optimization, fractional order circuits 

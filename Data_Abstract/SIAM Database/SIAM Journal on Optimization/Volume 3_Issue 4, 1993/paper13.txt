@@ -1,0 +1,6 @@
+Parallel Projected Aggregation Methods for Solving the Convex Feasibility Problem
+Ubaldo  Garco˝a-Palomares;
+Abstract
+Convergence conditions are established for new sequential and parallel projected aggregation methods (PAMS) that find a feasible point of a large system of convex inequalities and linear equations. To formulate a multiprocessor method suitable for solving a nonstructured convex system, block iterative methods are used and all system constraints are simultaneously processed. Each processor is assigned the task of finding closer points to one block subsystem, so that at every iteration each processor proposes a point closer (in some norm) to a group of the system constraints, and a head processor combines the proposals and generates a point closer to the original system. These parallel versions appear amenable to multiprocessing. Numerical results are reported that give hints on how to code these methods in a multiprocessor environment.
+Keywords
+convex systems, convex feasibility problem, parallel processing, projected aggregation methods, 52A41, 52A40, 65A05, 

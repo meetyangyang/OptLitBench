@@ -1,0 +1,4 @@
+The TaskIntersection Constraint
+Gilles Madi Wamba;Nicolas Beldiceanu;
+Abstract
+Given a sequence of tasks \(\mathcal {T}\) subject to precedence constraints between adjacent tasks, and given a set of fixed intervals \(\mathcal {I}\), the TaskIntersection \((\mathcal {T},\mathcal {I},o, inter )\) constraint restricts the overall intersection of the tasks of \(\mathcal {T}\) with the fixed intervals of \(\mathcal {I}\) to be greater than or equal (\(o=\) ‘\(\ge \)’) or less than or equal (\(o=\) ‘\(\le \)’) to a given limit \( inter \). We provide a bound(\(\mathbb {Z}\))-consistent cost filtering algorithm wrt the starts and the ends of the tasks for the TaskIntersection constraint and evaluate the constraint on the video summarisation problem.

@@ -1,0 +1,6 @@
+Exact Algorithms for Large-Scale Unconstrained Two and Three Staged Cutting Problems
+Mhand Hifi;
+Abstract
+In this paper we propose two exact algorithms for solving both two-staged and three staged unconstrained (un)weighted cutting problems. The two-staged problem is solved by applying a dynamic programming procedure originally developed by Gilmore and Gomory [Gilmore and Gomory, Operations Research, vol. 13, pp. 94–119, 1965]. The three-staged problem is solved by using a top-down approach combined with a dynamic programming procedure. The performance of the exact algorithms are evaluated on some problem instances of the literature and other hard randomly-generated problem instances (a total of 53 problem instances). A parallel implementation is an important feature of the algorithm used for solving the three-staged version.
+Keywords
+combinatorial optimization  cutting problems  dynamic programming  knapsack problem  optimality  

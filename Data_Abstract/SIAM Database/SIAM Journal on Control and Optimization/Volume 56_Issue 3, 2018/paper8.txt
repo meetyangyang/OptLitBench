@@ -1,0 +1,6 @@
+Set-Valued Sliding-Mode Control of Uncertain Linear Systems: Continuous and Discrete-Time Analysis
+Félix A.  Miranda-Villatoro, Bernard  Brogliato, and Fernando  Castan͂os;
+Abstract
+In this paper we study the closed-loop dynamics of linear time-invariant systems with feedback control laws that are described by set-valued maximal monotone maps. The class of systems considered in this work is subject to both unknown exogenous disturbances and parameter uncertainty. It is shown how the design of conventional sliding-mode controllers can be achieved using maximal monotone operators (which include but are not limited to the set-valued signum function). Two cases are analyzed: continuous-time and discrete-time controllers. In both cases well-posedness together with stability results are presented. In discrete time, we show how the implicit scheme proposed for the selection of control actions results in the chattering effect being almost suppressed, even with uncertainty in the system.
+Keywords
+differential inclusions, robust control, maximal monotone maps, sliding-mode control, discrete-time systems, linear uncertain systems, Lyapunov stability, 34A60, 93C73, 93C55, 93D09, 34A36, 49J52, 47H05, 

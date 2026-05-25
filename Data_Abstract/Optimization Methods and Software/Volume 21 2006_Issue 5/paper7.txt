@@ -1,0 +1,6 @@
+Robust descent in differentiable optimization using automatic finite differences
+ Jean-Pierre   Dussault ; Benoit   Hamelin ;
+Abstract
+ Descent algorithms use comparisons of a merit function, to ensure the global convergence of generated iterates to at least a stationary point, even to solutions satisfying the second order necessary optimality conditions. Unfortunately, the comparison of the merit function values may fail to be precise enough for estimates reaching the square root of the machine precision. We present a clever way to compare merit function values, ensuring that full machine precision may be reached. 
+Keywords
+Unconstrained optimization, Numerical methods, Automatic differentiation, High-precision computing, Line search procedures, Trust region methods 

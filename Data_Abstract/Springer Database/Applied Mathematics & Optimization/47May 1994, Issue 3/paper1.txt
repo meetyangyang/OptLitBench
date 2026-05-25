@@ -1,0 +1,6 @@
+A new smoothing-regularization approach for a maximum-likelihood estimation problem
+Alfredo Noel Iusem;B. F. Svaiter;
+Abstract
+We consider the problem minΣ i=1 m (〈ai,x〉−bilog〈ai, z〉) subject tox ≥ 0 which occurs as a maximum-likelihood estimation problem in several areas, and particularly in positron emission tomography. After noticing that this problem is equivalent to mind(b, Ax) subject tox ≥ 0, whered is the Kullback-Leibler information divergence andA, b are the matrix and vector with rows and entriesai,bi, respectively, we suggest a regularized problem mind(b, Ax) + μd(v, Sx), whereμ is the regularization parameter,S is a smoothing matrix, andv is a fixed vector. We present a computationally attractive algorithm for the regularized problem, establish its convergence, and show that the regularized solutions, asμ goes to 0, converge to the solution of the original problem which minimizes a convex function related tod(v, Sx). We give convergence-rate results both for the regularized solutions and for their functional values.
+Keywords
+Convex programming  EM algorithm  Maximum likelihood  Statistical estimation  Regularization  Positron emission tomography  90C25  65K05  

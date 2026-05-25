@@ -1,0 +1,6 @@
+Linear Programming in O([n3/ln n]L) Operations
+K. M.  Anstreicher;
+Abstract
+We show that the complexity to solve linear programming problems, using standard linear algebra, can be reduced to O([n3/ln n]L) operations, where n is the number of variables in a standard-form problem with integer data of bit size L. Our technique combines partial updating with a preconditioned conjugate gradient method, in a scheme first suggested by Nesterov and Nemirovskii.
+Keywords
+linear programming, interior point algorithm, partial updating, conjugate gradient method, 90C25, 

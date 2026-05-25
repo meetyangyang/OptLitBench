@@ -1,0 +1,6 @@
+A trust region method for solving linearly constrained locally Lipschitz optimization problems
+Z. Akbari;R. Yousefpour;
+Abstract
+In this paper, we present a nonsmooth trust region method for solving linearly constrained optimization problems with a locally Lipschitz objective function. Using the approximation of the steepest descent direction, a quadratic approximation of the objective function is constructed. The null space technique is applied to handle the constraints of the quadratic subproblem. Next, the CG-Steihaug method is applied to solve the new approximation quadratic model with only the trust region constraint. Finally, the convergence of presented algorithm is proved. This algorithm is implemented in the MATLAB environment and the numerical results are reported.
+Keywords
+Nonsmooth trust region method, linear constraints, null space technique, Lipschitz functions, CG-Steihaug method 

@@ -1,0 +1,6 @@
+A biased random-key genetic algorithm for the Steiner triple covering problem
+Mauricio G. C. Resende;Rodrigo F. Toso;José Fernando Gonçalves;Ricardo M. A. Silva;
+Abstract
+We present a biased random-key genetic algorithm (BRKGA) for finding small covers of computationally difficult set covering problems that arise in computing the 1-width of incidence matrices of Steiner triple systems. Using a parallel implementation of the BRKGA, we compute improved covers for the two largest instances in a standard set of test problems used to evaluate solution procedures for this problem. The new covers for instances A 405 and A 729 have sizes 335 and 617, respectively. On all other smaller instances our algorithm consistently produces covers of optimal size.
+Keywords
+Steiner triple covering  Set covering  Genetic algorithm  Biased random-key genetic algorithm  Random keys  Combinatorial optimization  Heuristics  Metaheuristics  

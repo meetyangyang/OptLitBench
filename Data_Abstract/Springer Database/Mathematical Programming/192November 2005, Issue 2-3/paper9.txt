@@ -1,0 +1,6 @@
+New approaches for optimizing over the semimetric polytope
+Antonio Frangioni;Andrea Lodi;Giovanni Rinaldi;
+Abstract
+The semimetric polytope is an important polyhedral structure lying at the heart of several hard combinatorial problems. Therefore, linear optimization over the semimetric polytope is crucial for a number of relevant applications. Building on some recent polyhedral and algorithmic results about a related polyhedron, the rooted semimetric polytope, we develop and test several approaches, based over Lagrangian relaxation and application of Non Differentiable Optimization algorithms, for linear optimization over the semimetric polytope. We show that some of these approaches can obtain very accurate primal and dual solutions in a small fraction of the time required for the same task by state-of-the-art general purpose linear programming technology. In some cases, good estimates of the dual optimal solution (but not of the primal solution) can be obtained even quicker.
+Keywords
+Semimetric polytope  Lagrangian methods  Max-cut  Network design  20E28  20G40  20C20  

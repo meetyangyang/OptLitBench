@@ -1,0 +1,6 @@
+Integer Programming Subject to Monomial Constraints
+Christoph  Buchheim, Dennis  Michaels, and Robert  Weismantel;
+Abstract
+We investigate integer programs containing constraints of the type $\prod_{i\in I}x_i^{\alpha_i}=b$. Due to the number-theoretic nature of these constraints, standard methods based on linear algebra cannot be applied directly. Instead, we present a reformulation resulting in integer programs with linear constraints and polynomial objective functions, using prime decompositions of the right-hand sides b. Moreover, we show that minimizing a linear objective function with nonnegative coefficients over bivariate constraints is possible in polynomial time.
+Keywords
+integer nonlinear programming, monomial constraints, 90C10, 90C30, 

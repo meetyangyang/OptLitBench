@@ -1,0 +1,6 @@
+Numerical Solution of Elliptic Shape Optimization Problems using wavelet-based BEM
+ K.   Eppler ; H.   Harbrecht ;
+Abstract
+ In this article we study the numerical solution of elliptic shape optimization problems with additional constraints, given by domain or boundary integral functionals. A special boundary variational approach combined with a boundary integral formulation of the state equation yields shape gradients and functionals which are expressed only in terms of boundary integrals. Hence, the efficiency of (standard) descent optimization algorithms is considerably increased, especially for the line search. We demonstrate our method for a class of problems from planar elasticity, where the stationary domains are given analytically by Banichuk and Karihaloo in [N.V. Banichuk and B.L. Karihaloo (1976). Minimum-weight design of multi-purpose cylindrical bars. International Journal of Solids and Structures, 12, 267–273.]. In particular, the boundary integral equation is solved by a wavelet Galerkin scheme which offers a powerful tool. For optimization we apply gradient and Quasi–Newton type methods for the penalty as well as for the augmented Lagrangian functional. 
+Keywords
+Shape optimization, Boundary element method, Multiscale methods, Penalty and augmented Lagrangian approach, Gradient and Quasi–Newton method 

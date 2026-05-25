@@ -1,0 +1,6 @@
+Approximating Oracle Machines for Combinatorial Optimization
+Shmuel  Onn;
+Abstract
+For every k, in oracle Turing machine $M_k $ and rational polytopes $P_k ( S )$ for all n and $S \subseteq \{ 0,1 \}^n $ are constructed; by querying from the set S given as an oracle, $M_k^S $ solves the separation problem over $P_k ( S )$ in strongly polynomial time, performing $O ( n^{3k} )$ arithmetic operations. Each of the polytopes $P_k ( S )$ approximates S in the sense $P_k ( S ) \cap \{ 0,1 \}^n  = S$ and $P_k ( S ) \subseteq [ 0,1 ]^n $, and for all k, $P_{k + 1} ( S )$ is contained in $P_k ( S )$. As a result, other oracle machines are obtained that, querying from the oracle S, maximize in polynomial time linear functionals over approximations for S obtained from $P_k ( S )$ by applying the cones-of-matrices cutting operator of Lovász and Schrijver a constant (possibly zero) number of times. Thus, this construction enables a systematic application of the cones-of-matrices scheme to any combinatorial optimization problem.
+Keywords
+52B55, 68Q25, 90C27, 

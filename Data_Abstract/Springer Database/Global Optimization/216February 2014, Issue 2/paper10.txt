@@ -1,0 +1,6 @@
+Online pricing for bundles of multiple items
+Yong Zhang;Francis Y. L. Chin;Hing-Fung Ting;
+Abstract
+Given a seller with \(k\) types of items, \(m\) of each, a sequence of users \(\{u_1, u_2,\ldots \}\) arrive one by one. Each user is single-minded, i.e., each user is interested only in a particular bundle of items. The seller must set the price and assign some amount of bundles to each user upon his/her arrival. Bundles can be sold fractionally. Each \(u_i\) has his/her value function \(v_i(\cdot )\) such that \(v_i(x)\) is the highest unit price \(u_i\) is willing to pay for \(x\) bundles. The objective is to maximize the revenue of the seller by setting the price and amount of bundles for each user. In this paper, we first show that a lower bound of the competitive ratio for this problem is \(\Omega (\log h+\log k)\), where \(h\) is the highest unit price to be paid among all users. We then give a deterministic online algorithm, Pricing, whose competitive ratio is \(O(\sqrt{k}\cdot \log h\log k)\). When \(k=1\) the lower and upper bounds asymptotically match the optimal result \(O(\log h)\).
+Keywords
+Online algorithms  Pricing  Competitive ratio  

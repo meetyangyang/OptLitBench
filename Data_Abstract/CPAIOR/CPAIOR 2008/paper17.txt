@@ -1,0 +1,4 @@
+Counting Solutions of Knapsack Constraints
+Gilles Pesant;Claude-Guy Quimper;
+Abstract
+This paper furthers the recent investigation of search heuristics based on solution counting information, by proposing and evaluating algorithms to compute solution densities of variable-value pairs in knapsack constraints. Given a domain consistent constraint, our first algorithm is inspired from what was proposed for regular language membership constraints. Given a bounds consistent constraint, our second algorithm draws from discrete uniform distributions. Experiments on several problems reveal that simple search heuristics built from the information obtained by these algorithms can be very effective.

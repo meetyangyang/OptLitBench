@@ -1,0 +1,6 @@
+A jazz-based approach for optimal setting of pressure reducing valves in water distribution networks
+Francesco De Paola;Enzo Galdiero;Maurizio Giugni;
+Abstract
+This study presents a model for valve setting in water distribution networks (WDNs), with the aim of reducing the level of leakage. The approach is based on the harmony search (HS) optimization algorithm. The HS mimics a jazz improvisation process able to find the best solutions, in this case corresponding to valve settings in a WDN. The model also interfaces with the improved version of a popular hydraulic simulator, EPANET 2.0, to check the hydraulic constraints and to evaluate the performances of the solutions. Penalties are introduced in the objective function in case of violation of the hydraulic constraints. The model is applied to two case studies, and the obtained results in terms of pressure reductions are comparable with those of competitive metaheuristic algorithms (e.g. genetic algorithms). The results demonstrate the suitability of the HS algorithm for water network management and optimization.
+Keywords
+valve setting, water distribution network optimization, harmony search, metaheuristic algorithm, pressure management, water leakages 

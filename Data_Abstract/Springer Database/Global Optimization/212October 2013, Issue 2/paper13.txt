@@ -1,0 +1,6 @@
+Multiagent cooperation for solving global optimization problems: an extendible framework with example cooperation strategies
+Fatma Başak Aydemir;Akın Günay;Figen Öztoprak;Ş. İlker Birbil;Pınar Yolum;
+Abstract
+This paper proposes the use of multiagent cooperation for solving global optimization problems through the introduction of a new multiagent environment, MANGO. The strength of the environment lays in its flexible structure based on communicating software agents that attempt to solve a problem cooperatively. This structure allows the execution of a wide range of global optimization algorithms described as a set of interacting operations. At one extreme, MANGO welcomes an individual non-cooperating agent, which is basically the traditional way of solving a global optimization problem. At the other extreme, autonomous agents existing in the environment cooperate as they see fit during run time. We explain the development and communication tools provided in the environment as well as examples of agent realizations and cooperation scenarios. We also show how the multiagent structure is more effective than having a single nonlinear optimization algorithm with randomly selected initial points.
+Keywords
+Multiagent systems  Global optimization  Cooperation  

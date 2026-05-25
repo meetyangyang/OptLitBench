@@ -1,0 +1,6 @@
+Pointwise Convergence of the Lloyd I  Algorithm in Higher Dimension
+Gilles  Pagès and Jun  Yu;
+Abstract
+We establish the pointwise convergence of the iterative Lloyd I procedure, also known as the $k$-means algorithm,  as soon as  the starting grid  (with size $N\geq2$)  induces a lower mean quadratic quantization error  than the minimal mean quantization error induced by grids of sizes at most  $N-1$  with respect to the same input distribution $\mu$. Such an initialization,  known as the  splitting method, ensures the convergence even when $\mu$ has an unbounded support. We also show that, if $\mu$ is strongly continuous---but possibly not absolutely continuous---and has a convex support, the running grid  cannot degenerate so that   the resulting limiting grid always has full size $N$.  A variant of the procedure taking advantage of the known asymptotics of the optimal quantizer radius is proposed which forces the boundedness of the iterated grids in an appropriate region where optimal grids lie.
+Keywords
+Lloyd's I  algorithm, $k$-means algorithm, centroidal Voronoi tessellation, optimal vector quantization, clustering, data mining, data sciences, stationary quantizers, splitting initialization method, radius of a quantizer, 65D99, 65C20, 62H30, 

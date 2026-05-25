@@ -1,0 +1,6 @@
+Parallel Asynchronous Algorithms for the K Shortest Paths Problem
+F. Guerriero;R. Musmanno;
+Abstract
+We deal with the problem of computing in parallel the first K shortest paths from a single origin node to all other nodes of a directed graph. Our approach is based on a very easy way to introduce parallelism in the typical sequential label-correcting method. We describe formally an asynchronous method defined on a shared-memory parallel computational model, and we prove its theoretical correctness under very weak assumptions. According to different strategies used to implement the generic method, we propose several parallel label-correcting algorithms, and we analyze the numerical performance of the resulting codes on a nonuniform memory access multiprocessor via computational results collected on random generated networks. The advantage of parallelism is significant for very large-scale problems of practical interest.
+Keywords
+K shortest paths problems  label-correcting methods  parallel asynchronous algorithms  shared memory  nonuniform memory access (NUMA) multiprocessor  

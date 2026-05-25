@@ -1,0 +1,6 @@
+DESIGN OF STRUCTURE CONTROL SYSTEM USING BOUNDED LQG
+ NARENDRA S.   KHOT ; DUANE E.   VELEY ; ALEXANDER A.   BOLONKIN ;
+Abstract
+ An approach for designing a structure and its control system for vibration suppression is presented. The control system is based on the Linear Quadratic Gaussian (LQG) and is modified to allow bounds on the actuators forces to simulate real actuators. The simultaneous design of the structure and control problem is formulated as a nonlinear optimization problem. The system is designed for minimum weight where the weight includes both the weight of the structure and the weight of the actuators. The weight of an actuator is assumed to be proportional to the bound on the maximum force that it can supply. The design variables include the cross-sectional areas of the structural members and the bounds on the actuator forces. The constraints are imposed on the closed loop frequency distribution and the time to reduce the energy of vibration to a small portion of the initial vibrational energy of the system. The structure is analyzed using a finite element approach. For illustration of the design approach, a truss structure idealized with rod elements is used. 
+Keywords
+Structural optimization, control, vibrations 

@@ -1,0 +1,6 @@
+Function-transformation methods for multi-objective optimization
+ R.   Timothy   Marler ; Jasbir    S.   Arora ;
+Abstract
+ It is useful with multi-objective optimization (MOO) to transform the objective functions such that they all have similar units and orders of magnitude. This article evaluates various transformation methods using simple example problems. Viewing these methods as different means to restrict function values sheds light on how the methods perform. The weighted sum approach for MOO is used to study how well different methods aid in depicting the Pareto optimal set. Whereas using unrestricted weights is well suited for providing a single solution that reflects preferences, it is found that using a convex combination of functions is desirable when generating the Pareto set. In addition, it is shown that some transformation methods are detrimental to the process of generating a diverse spread of points, and criteria are proposed for determining when the methods fail to generate an accurate representation of the Pareto set. Advantages of using a simple normalization–modification are demonstrated. 
+Keywords
+Multi-objective optimization, Transformation, Normalization, Weighted-sum 

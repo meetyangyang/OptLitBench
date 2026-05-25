@@ -1,0 +1,6 @@
+Preventing redundant solutions in partial enumeration algorithms
+J. Randall Brown;
+Abstract
+Many algorithms for discrete problems use a variation of the tree-search enumeration technique as a basis for the algorithm. If a solution is the assignment of an attribute from a set ofm attributes to every variable in a set ofn variables, then redundant solutions can be generated if either the attributes or the variables contain some indistinguishable elements. A series of necessary and sufficient techniques are developed to eliminate the production of redundant solutions during enumeration. These techniques can be used to form the foundation of any partial enumeration algorithm where redundant solutions can be produced.
+Keywords
+Partial Enumeration  Redundant Solutions  Branch and Bound  Implicit Enumeration  

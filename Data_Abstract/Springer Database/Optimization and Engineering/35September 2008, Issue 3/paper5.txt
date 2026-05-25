@@ -1,0 +1,6 @@
+Adjoint estimation using direct transcription multipliers: compressed trapezoidal method
+Anna Engelsone;Stephen L. Campbell;
+Abstract
+Direct transcription methods for the numerical solution of optimal control problems have the advantage that they do not require estimates of the adjoint variables. However, it is natural to want to use the discrete NLP multipliers to estimate the adjoint variables. It has been shown earlier in the literature for a large collection of numerical discretizations that order of the state and control variables found are generally independent of the implementation of the chosen discretization if no post processing is used to find the control. This is not always true for the adjoint estimation problem. The compressed trapezoidal discretization is used in some commercial codes. In this paper we show that the second order adjoint estimate result for the uncompressed trapezoidal method does not hold for the compressed trapezoidal method. We also show how to recover the lost order and carefully analyze convergence. Some related results are also discussed.
+Keywords
+Direct transcription  Adjoint estimation  Trapezoid method  Optimal control  

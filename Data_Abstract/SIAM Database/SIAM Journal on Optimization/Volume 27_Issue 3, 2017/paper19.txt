@@ -1,0 +1,6 @@
+Bilevel Polynomial Programs and Semidefinite Relaxation Methods
+Jiawang  Nie, Li  Wang, and Jane J.  Ye;
+Abstract
+A bilevel program is an optimization problem whose constraints involve the solution set to another optimization problem parameterized by upper level variables. This paper studies bilevel polynomial programs (BPPs), i.e., all the functions are polynomials. We reformulate BPPs equivalently as semi-infinite polynomial programs (SIPPs), using Fritz John conditions and Jacobian representations. Combining the exchange technique and Lasserre-type semidefinite relaxations, we propose a numerical method for solving BPPs. For simple BPPs, we prove the convergence to global optimal solutions.  Numerical experiments are presented to show the efficiency of the proposed algorithm.
+Keywords
+bilevel polynomial program, Lasserre relaxation, Fritz John condition, Jacobian representation, exchange method, semi-infinite programming, 65K05, 90C22, 90C26, 90C34, 

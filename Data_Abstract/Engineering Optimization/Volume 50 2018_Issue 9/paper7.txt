@@ -1,0 +1,6 @@
+A modified gradient projection method for static and dynamic topology optimization
+Guanxin Huang;Xin Chen;Zhijun Yang;
+Abstract
+A variable updater based on the modified gradient projection (MGP) method is proposed for topology optimization. Both static and dynamic problems are considered and formulated using the solid isotropic microstructure (or material) with penalty method. Based on Rosen's gradient projection method, the search direction is obtained by projecting the gradient vector (sensitivity) to the volume constraint plane. Fixed step length is used to guarantee a high convergence rate, and then the iterative solutions are revised to satisfy the upper and lower boundaries. A gradual projecting strategy is suggested to reduce grey elements. Static and dynamic numerical examples are tested to verify the characteristics of the MGP method. The results show that compared with the optimality criterion method and method of moving asymptotes, the convergence rate and computational efficiency of the MGP method are much higher, while the boundaries of the optimal structures are much clearer and the objective function value is smaller.
+Keywords
+Topology optimization, SIMP, modified gradient projection, optimality criterion, method of moving asymptotes 

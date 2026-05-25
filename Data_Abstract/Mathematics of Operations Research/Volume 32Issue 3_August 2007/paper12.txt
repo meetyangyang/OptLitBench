@@ -1,0 +1,6 @@
+Lagrangian Relaxation via Ballstep Subgradient Methods
+Krzysztof C. Kiwiel;Torbjörn Larsson;P. O. Lindberg;
+Abstract
+We exhibit useful properties of ballstep subgradient methods for convex optimization using level controls for estimating the optimal value. Augmented with simple averaging schemes, they asymptotically find objective and constraint subgradients involved in optimality conditions. When applied to Lagrangian relaxation of convex programs, they find both primal and dual solutions, and have practicable stopping criteria. Up until now, similar results have only been known for proximal bundle methods, and for subgradient methods with divergent series stepsizes, whose convergence can be slow. Encouraging numerical results are presented for large-scale nonlinear multicommodity network flow problems.
+Keywords
+convex programming nondifferentiable optimization subgradient optimization Lagrangian relaxation level projection methods 

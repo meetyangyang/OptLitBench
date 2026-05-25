@@ -1,0 +1,6 @@
+Assessing solution quality in stochastic programs
+Güzin Bayraksan;David P. Morton;
+Abstract
+Determining whether a solution is of high quality (optimal or near optimal) is fundamental in optimization theory and algorithms. In this paper, we develop Monte Carlo sampling-based procedures for assessing solution quality in stochastic programs. Quality is defined via the optimality gap and our procedures' output is a confidence interval on this gap. We review a multiple-replications procedure that requires solution of, say, 30 optimization problems and then, we present a result that justifies a computationally simplified single-replication procedure that only requires solving one optimization problem. Even though the single replication procedure is computationally significantly less demanding, the resulting confidence interval might have low coverage probability for small sample sizes for some problems. We provide variants of this procedure that require two replications instead of one and that perform better empirically. We present computational results for a newsvendor problem and for two-stage stochastic linear programs from the literature. We also discuss when the procedures perform well and when they fail, and we propose using ɛ-optimal solutions to strengthen the performance of our procedures.
+Keywords
+90C15  

@@ -1,0 +1,6 @@
+A sampling-based exact algorithm for the solution of the minimax diameter clustering problem
+Daniel Aloise;Claudio Contardo;
+Abstract
+We consider the problem of clustering a set of points so as to minimize the maximum intra-cluster dissimilarity, which is strongly NP-hard. Exact algorithms for this problem can handle datasets containing up to a few thousand observations, largely insufficient for the nowadays needs. The most popular heuristic for this problem, the complete-linkage hierarchical algorithm, provides feasible solutions that are usually far from optimal. We introduce a sampling-based exact algorithm aimed at solving large-sized datasets. The algorithm alternates between the solution of an exact procedure on a small sample of points, and a heuristic procedure to prove the optimality of the current solution. Our computational experience shows that our algorithm is capable of solving to optimality problems containing more than 500,000 observations within moderate time limits, this is two orders of magnitude larger than the limits of previous exact methods.
+Keywords
+Clustering  Diameter  Large-scale optimization  

@@ -1,0 +1,8 @@
+Iterative computation of negative curvature directions in large scale optimization
+Giovanni Fasano;Massimo Roma;
+Abstract
+
+In this paper we deal with the iterative computation of negative curvature directions of an objective function, within large scale optimization frameworks. In particular, suitable directions of negative curvature of the objective function represent an essential tool, to guarantee convergence to second order critical points. However, an “adequate” negative curvature direction is often required to have a good resemblance to an eigenvector corresponding to the smallest eigenvalue of the Hessian matrix. Thus, its computation may be a very difficult task on large scale problems. Several strategies proposed in literature compute such a direction relying on matrix factorizations, so that they may be inefficient or even impracticable in a large scale setting. On the other hand, the iterative methods proposed either need to store a large matrix, or they need to rerun the recurrence.
+
+Keywords
+Conjugate gradient method  Large scale optimization  Negative curvature directions  Convergence to second order critical points  

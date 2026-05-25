@@ -1,0 +1,6 @@
+Simplified Formula for a Controller in Optimal Control Problems
+Jovan   Stefanovski;
+Abstract
+We derive a simplified frequency‐domain formula for a controller transfer matrix for LQ optimal output feedback control of stochastic systems. For this purpose we apply a generalization of the Wiener–Hopf method. The generalization is characterized by the following three properties: (1) We generalize the usual operator $\{\cdot\}_+$ on rational matrices in the traditional Wiener–Hopf approach. The same algorithms as for computation of $\{\cdot\}_+$ are applicable to compute the new operator. (2) The matrices of the Youla–Kučera parametrization do not appear in the optimal controller transfer matrix ${\bf C}$ (they appear only in its derivation), even if the plant is unstable. (3) Unlike the traditional Wiener–Hopf method [D. C. Youla, H. A. Jabr, and J. J. Bongiorno, Jr., IEEE Trans. Automat. Control, AC‐21 (1976), pp. 319–338], where the spectral factors in the two spectral factorizations are both stable and minimum phase, our spectral factors need to be minimum phase only. Finally, three state‐space applications of the formula are presented.
+Keywords
+parametrization of stabilizing controllers, Laplace transformation, Wiener–Hopf approach, partial fraction expansion, spectral factorization, 93C35, 93C95, 93E20, 47A68, 

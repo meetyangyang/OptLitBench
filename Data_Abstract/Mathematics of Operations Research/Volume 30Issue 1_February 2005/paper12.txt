@@ -1,0 +1,6 @@
+Epi-Convergent Discretizations of Multistage Stochastic Programs
+Teemu Pennanen;
+Abstract
+In many dynamic stochastic optimization problems in practice, the uncertain factors are best modeled as random variables with an infinite support. This results in infinite-dimensional optimization problems that can rarely be solved directly. Therefore, the random variables (stochastic processes) are often approximated by finitely supported ones (scenario trees), which result in finite-dimensional optimization problems that are more likely to be solvable by available optimization tools. This paper presents conditions under which such finite-dimensional optimization problems can be shown to epi-converge to the original infinite-dimensional problem. Epi-convergence implies the convergence of optimal values and solutions as the discretizations are made finer. Our convergence result applies to a general class of convex problems where neither linearity nor complete recourse are assumed.
+Keywords
+multistage stochastic program discretization epi-convergence 

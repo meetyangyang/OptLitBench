@@ -1,0 +1,6 @@
+Parallel algorithms for global optimization
+L. C. W. Dixon;M. Jha;
+Abstract
+In this paper, we report results of implementations of algorithms designed (i) to solve the global optimization problem (GOP) and (ii) to run on a parallel network of transputers. There have always been two alternative approaches to the solution of the GOP, probabilistic and deterministic. Interval methods can be implemented on our network of transputers using Concurrent ADA, and a secondary objective of the tests reported was to investigate the relative computer times required by parallel interval algorithms compared to probabilistic methods.
+Keywords
+Global optimization  parallel computing  transputer performance  interval methods  

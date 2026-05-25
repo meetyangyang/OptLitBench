@@ -1,0 +1,6 @@
+Computational study of large-scale p-Median problems
+Pasquale Avella;Antonio Sassano;Igor Vasil'ev;
+Abstract
+Given a directed graph G(V,A), the p-Median problem consists of determining p nodes (the median nodes) minimizing the total distance from the other nodes of the graph. We present a Branch-and-Cut-and-Price algorithm yielding provably good solutions for instances with |V|≤3795. Key ingredients of the algorithm are a delayed column-and-row generation technique, exploiting the special structure of the formulation, to solve the LP-relaxation, and cutting planes to strengthen the formulation and limit the size of the enumeration tree.
+Keywords
+p-Median  cutting plane  column generation  branch-and-cut-and-price algorithm  90C06  90C10  90C27  90C35  

@@ -1,0 +1,6 @@
+Suboptimal policy determination for large-scale Markov decision processes, Part 1: Description and bounds
+C. C. WhiteIII;J. L. Popyack;
+Abstract
+This paper is the first of two papers that present and evaluate an approach for determining suboptimal policies for large-scale Markov decision processes (MDP). Part 1 is devoted to the determination of bounds that motivate the development and indicate the quality of the suboptimal design approach; Part 2 is concerned with the implementation and evaluation of the suboptimal design approach. The specific MDP considered is the infinite-horizon, expected total discounted cost MDP with finite state and action spaces. The approach can be described as follows. First, the original MDP is approximated by a specially structured MDP. The special structure suggests how to construct associated smaller, more computationally tractable MDP's. The suboptimal policy for the original MDP is then constructed from the solutions of these smaller MDP's. The key feature of this approach is that the state and action space cardinalities of the smaller MDP's are exponential reductions of the state and action space cardinalities of the original MDP.
+Keywords
+Markov decision processes  suboptimal design  

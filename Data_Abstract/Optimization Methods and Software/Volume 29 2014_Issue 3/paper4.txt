@@ -1,0 +1,6 @@
+An interesting characteristic of phase-1 of dual–primal algorithm for linear programming
+Haohao Li;
+Abstract
+Most algorithms for solving linear program require a phase-1 procedure to find a feasible solution. Recently, a dual–primal algorithm for linear optimization has been proposed by Li [Dual–primal algorithm for linear optimization, Optimiz. Methods Softw. 28 (2013), pp. 327–338]. In the process of implementing the dual–primal algorithms, we found an interesting phenomenon that the phase-1 algorithm developed in [Li (2013)] always terminates in one iteration. This fact does not come by chance. A rigorous proof is given in this paper.
+Keywords
+linear programming, dual–primal algorithm, Farkas's LemmaMSC 2010: 65C05, 90C05 

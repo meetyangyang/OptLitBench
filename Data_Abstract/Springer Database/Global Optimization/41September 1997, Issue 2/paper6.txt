@@ -1,0 +1,6 @@
+A Modified SQP Method and Its Global Convergence
+Guanglu Zhou;
+Abstract
+The sequential quadratic programming method developed by Wilson, Han andPowell may fail if the quadratic programming subproblems become infeasibleor if the associated sequence of search directions is unbounded. In [1], Hanand Burke give a modification to this method wherein the QP subproblem isaltered in a way which guarantees that the associated constraint region isnonempty and for which a robust convergence theory is established. In thispaper, we give a modification to the QP subproblem and provide a modifiedSQP method. Under some conditions, we prove that the algorithm eitherterminates at a Kuhn–Tucker point within finite steps or generates aninfinite sequence whose every cluster is a Kuhn–Tucker point.Finally, we give some numerical examples.
+Keywords
+Nonlinear programming  SQP method  pseudo directional derivatives  

@@ -1,0 +1,6 @@
+Engine calibration: multi-objective constrained optimization of engine maps
+Hoël Langouët;Ludovic Métivier;Delphine Sinoquet;Quang-Huy Tran;
+Abstract
+We present two new approaches to address the optimization problem associated with engine calibration. In this area, the tuning parameters are traditionally determined in a local way, i.e., at each engine operating point, via a single-objective minimization problem. To overcome these restrictions, the first method we propose is able to cope with several objective functions simultaneously in the local formulation. The second method we put forward relies on a global formulation, which allows the whole driving cycle to be taken into account while remaining single-objective. At the practical level, the two methods are implemented by combining various existing techniques such as the LoLiMoT (Local Linear Model Tree) parameterization and the MO-CMA-ES (Multi-Objective Covariance Matrix Adaptation Evolution Strategy) algorithm. A better compromise appears to be achieved on real case applications.
+Keywords
+Engine calibration  Response surface  LoLiMoT  Multi-objective optimization  Evolutionary algorithm  

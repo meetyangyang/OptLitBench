@@ -1,0 +1,6 @@
+On pitfalls in computing the geodetic number of a graph
+Pierre Hansen;Nikolaj van Omme;
+Abstract
+Given a simple connected graph G = (V, E) the geodetic closure \(I[S] \subset V\) of a subset S of V is the union of all sets of nodes lying on some geodesic (or shortest path) joining a pair of nodes \(v_k,v_l \in S\). The geodetic number, denoted by g(G), is the smallest cardinality of a node set S * such that I[S *] =  V. In “The geodetic number of a graph”, [Harary et al. in Math. Comput. Model. 17:89–95, 1993] propose an incorrect algorithm to find the geodetic number of a graph G. We provide counterexamples and show why the proposed approach must fail. We then develop a 0–1 integer programming model to find the geodetic number. Computational results are given.
+Keywords
+Graph  Geodetic number  Maximal geodetic closure  Algorithm  

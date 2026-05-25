@@ -1,0 +1,6 @@
+Giving reverse differentiation a helping hand ∗  
+   D.B.   Christianson ;   A..J.   Davies ;   L.C.W.   Dixon ;   R.   Roy ;   P.   Van der zee ;
+Abstract
+ Reverse automatic differentiation provides a very low bound on the operations count for calculating a gradient of a scalar function in n dimensions but suffers from a high storage requirement. In this paper we will show that both can often be greatly reduced. This will be illustrated using the inverse diffusion problem. This problem involves the solution of partial differential equations using finite elements, the solution of many sets of linear equations by Choleski decomposition, which together lead to the solution of a nonlinear least squares optimisation problem by conjugate gradients. The approach described here has enabled the gradient of this problem to be obtained at a small fraction of the operation count of the function evaluation and reduced the store required to evaluate the gradient to the same order as that required to evaluate the function. Similar results are given for the directional second derivative  
+Keywords
+Reverse Differentiation, Inverse Diffusion Optimization 

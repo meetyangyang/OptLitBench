@@ -1,0 +1,6 @@
+THE HOUSEHOLDER TRIDIAGONALIZATION STRATEGY FOR SOLVING A CONSTRAINED QUADRATIC MINIMIZATION PROBLEM
+ SHU-KAI S.   FAN ;
+Abstract
+ This paper presents an enhanced version of the dual response optimization algorithm, DR2, for constrained quadratic programs where the goal is to minimize the quadratic objective function subject to a quadratic equality constraint while the search is bounded inside an ellipsoidal region. In the first part of the study, several computational experiments of DR2 against an implementation of sequential quadratic programming, MINOS, are conducted via simulations. The computational results show that DR2 is more effective at locating optimal operating conditions than MINOS for the constrained quadratic programming problems aforementioned. Subsequently, a computation strategy is proposed that utilizes the Householder tridiagonalization procedure (prior to performing the Cholesky factorization for a clever implementation of the Newton method) while solving the trust-region (TR) subproblems on which the main body of DR2 is primarily based. In the final section, this more advanced algorithm is compared to the elementary implementation of DR2 and exhibits faster convergence in solving larger problems 
+Keywords
+Quadratic programming, Trust region, Newton method, Dual response optimization, Degeneracy 

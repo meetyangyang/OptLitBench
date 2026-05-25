@@ -1,0 +1,6 @@
+Analysis of Generalized Pattern Searches
+Charles  Audet and J. E.  Dennis, Jr.;
+Abstract
+This paper contains a new convergence analysis for the Lewis and Torczon generalized pattern search (GPS) class of methods for unconstrained and linearly constrained optimization. This analysis is motivated by a desire to understand the successful behavior of the algorithm under hypotheses that are satisfied by many practical problems. Specifically, even if the objective function is discontinuous or extended-valued, the methods find a limit point with some minimizing properties. Simple examples show that the strength of the optimality conditions at a limit point depends not only on the algorithm, but also on the directions it uses and on the smoothness of the objective at the limit point in question. The contribution of this paper is to provide a simple convergence analysis that supplies detail about the relation of optimality conditions to objective smoothness properties and to the defining directions for the algorithm, and it gives previous results as corollaries.
+Keywords
+pattern search algorithm, linearly constrained optimization, sur\-rogate-based optimization, nonsmooth optimization, derivative-free convergence analysis, 90C30, 90C56, 65K05, 

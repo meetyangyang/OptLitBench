@@ -1,0 +1,6 @@
+A two-sided relaxation scheme for Mathematical Programs with Equilibrium Constraints
+Victor  DeMiguel, Michael P.  Friedlander, Francisco J.  Nogales, and Stefan  Scholtes;
+Abstract
+We propose a relaxation scheme for mathematical programs with equilibrium constraints (MPECs). In contrast to previous approaches, our relaxation is two-sided: both the complementarity and the nonnegativity constraints are relaxed. The proposed relaxation update rule guarantees (under certain conditions) that the sequence of relaxed subproblems will maintain a strictly feasible interior---even in the limit. We show how the relaxation scheme can be used in combination with a standard interior-point method to achieve superlinear convergence. Numerical results on the MacMPEC test problem set demonstrate the fast local convergence properties of the approach.
+Keywords
+nonlinear programming, mathematical programs with equilibrium constraints, complementarity constraints, constrained minimization, interior-point methods, primal-dual methods, barrier methods, 49M37, 65K05, 90C30, 

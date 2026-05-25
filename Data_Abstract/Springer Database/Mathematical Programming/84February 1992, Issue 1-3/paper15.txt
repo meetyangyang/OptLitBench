@@ -1,0 +1,6 @@
+Long steps in an O(n3L) algorithm for linear programming
+Kurt M. Anstreicher;Robert A. Bosch;
+Abstract
+We consider partial updating in Ye's affine potential reduction algorithm for linear programming. We show that using a Goldstein—Armijo rule to safeguard a linesearch of the potential function during primal steps is sufficient to control the number of updates. We also generalize the dual step construction to apply with partial updating. The result is the first O(n3L) algorithm for linear programming whose steps are not constrained by the need to remain approximately centered. The fact that the algorithm has a rigorous “primal-only” initialization actually reduces the complexity to less than O(m1.5n1.5L).
+Keywords
+Linear programming  Karmarkar's algorithm  potential function  standard form  modified method  rank-one updates  

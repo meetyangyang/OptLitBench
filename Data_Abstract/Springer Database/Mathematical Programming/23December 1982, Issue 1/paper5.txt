@@ -1,0 +1,6 @@
+A globally convergent constrained quasi-Newton method with an augmented lagrangian type penalty function
+Hiroshi Yamashita;
+Abstract
+The recently proposed quasi-Newton method for constrained optimization has very attractive local convergence properties. To force global convergnce of the method, a descent method which uses Zangwill's penalty function and an exact line search has been proposed by Han. In this paper a new method which adopts a differentiable penalty function and an approximate line is presented. The proposed penalty function has the form of the augmented Lagrangian function. An algorithm for updating parameters which appear in the penalty function is described. Global convergence of the given method is proved.
+Keywords
+Constrained Optimization  Global Convergence  Nonlinear Programming  Penalty Function  Quasi-Newton Method  

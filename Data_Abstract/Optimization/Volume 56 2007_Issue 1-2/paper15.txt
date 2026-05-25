@@ -1,0 +1,6 @@
+Bregman-like functions and proximal methods for variational problems with nonlinear constraints
+ A.   Kaplan ; R.   Tichatschke ;
+Abstract
+ The use of Bregman functions, entropic ϕ-divergence or logarithmic-quadratic kernels, allows to construct a series of generalized proximal methods for the stable solution of convex optimization problems and variational inequalities with maximal monotone operators. The key advantage of these methods in comparison to the classical proximal regularization is that the auxiliary problems are structurally simpler than the original ones, in particular, they result in unconstrained inclusions. But, such methods with “interior point effect” were developed so far only for linearly constrained problems. In the present article, the use of Bregman functions with a modified “convergence sensing condition” enables us to construct an interior proximal method for solving variational inequalities (with multi-valued operators) on nonpolyhedral sets. The convergence results admit a successive approximation of the multi-valued operator (by means of the concept of ε-enlargements) and an inexact calculation of proximal iterates.   
+Keywords
+Bregman-like functions, Variational problems, Nonlinear constraints, Proximal point methodsKeywords:  AMS Subject Classifications: 90C25, 90C51, 49J40, 65K05 

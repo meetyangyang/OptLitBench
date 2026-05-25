@@ -1,0 +1,6 @@
+Generalized Benders’ Decomposition for topology optimization problems
+Eduardo Muñoz;Mathias Stolpe;
+Abstract
+This article considers the non-linear mixed 0–1 optimization problems that appear in topology optimization of load carrying structures. The main objective is to present a Generalized Benders’ Decomposition (GBD) method for solving single and multiple load minimum compliance (maximum stiffness) problems with discrete design variables to global optimality. We present the theoretical aspects of the method, including a proof of finite convergence and conditions for obtaining global optimal solutions. The method is also linked to, and compared with, an Outer-Approximation approach and a mixed 0–1 semi definite programming formulation of the considered problem. Several ways to accelerate the method are suggested and an implementation is described. Finally, a set of truss topology optimization problems are numerically solved to global optimality.
+Keywords
+Structural topology optimization  Global optimization  Generalized Benders’ Decomposition  Outer-approximation  90C90  74P05  74P15  

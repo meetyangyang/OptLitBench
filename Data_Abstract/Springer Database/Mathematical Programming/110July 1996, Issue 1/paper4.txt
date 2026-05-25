@@ -1,0 +1,6 @@
+Complexity of some cutting plane methods that use analytic centers
+Krzysztof C. Kiwiel;
+Abstract
+We consider cutting plane methods for minimizing a convex (possibly nondifferentiable) function subject to box constraints. At each iteration, accumulated subgradient cuts define a polytope that localizes the minimum. The objective and its subgradient are evaluated at the analytic center of this polytope to produce one or two cuts that improve the localizing set. We give complexity estimates for several variants of such methods. Our analysis is based on the works of Goffin, Luo and Ye.
+Keywords
+Nondifferentiable optimization  Cutting plane methods  Analytic center  Potential function  

@@ -1,0 +1,6 @@
+Ensemble of metamodels: the augmented least squares approach
+Wallace G. Ferreira;Alberto L. Serpa;
+Abstract
+In this work we present an approach to create ensemble of metamodels (or weighted averaged surrogates) based on least squares (LS) approximation. The LS approach is appealing since it is possible to estimate the ensemble weights without using any explicit error metrics as in most of the existent ensemble methods. As an additional feature, the LS based ensemble of metamodels has a prediction variance function that enables the extension to the efficient global optimization. The proposed LS approach is a variation of the standard LS regression by augmenting the matrices in such a way that minimizes the effects of multicollinearity inherent to calculation of the ensemble weights. We tested and compared the augmented LS approach with different LS variants and also with existent ensemble methods, by means of analytical and real-world functions from two to forty-four variables. The augmented least squares approach performed with good accuracy and stability for prediction purposes, in the same level of other ensemble methods and has computational cost comparable to the faster ones.
+Keywords
+Ensemble of metamodels  Weighted average surrogates  Least squares approximation  

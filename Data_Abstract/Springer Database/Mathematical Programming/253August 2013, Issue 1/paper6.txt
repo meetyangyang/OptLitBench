@@ -1,0 +1,6 @@
+On the bridge between combinatorial optimization and nonlinear optimization: a family of semidefinite bounds for 0–1 quadratic problems leading to quasi-Newton methods
+Jérôme Malick;Frédéric Roupin;
+Abstract
+This article presents a family of semidefinite programming bounds, obtained by Lagrangian duality, for 0–1 quadratic optimization problems with linear or quadratic constraints. These bounds have useful computational properties: they have a good ratio of tightness to computing time, they can be optimized by a quasi-Newton method, and their final tightness level is controlled by a real parameter. These properties are illustrated on three standard combinatorial optimization problems: unconstrained 0–1 quadratic optimization, heaviest \(k\)-subgraph, and graph bisection.
+Keywords
+Lagrangian duality  Combinatorial optimization  0–1 quadratic programming  Nonlinear programming  Semidefinite programming  Quasi-Newton  90C22  90C27  90C57  

@@ -1,0 +1,6 @@
+A Differential Evolution algorithm to deal with box, linear and quadratic-convex constraints for boundary optimization
+Massimo Spadoni;Luciano Stefanini;
+Abstract
+We both propose and test an implicit strategy that is based on changing the search space from points to directions, which in combination with the Differential Evolution (DE) algorithm, is easily implemented for solving boundary optimization of a generic continuous function. In particular, we see that the DE method can be efficiently implemented to find solutions on the boundary of a convex and bounded feasible set resulting when the constraints are bounds on the variables, linear inequalities and quadratic convex inequalities. The computational results are performed on different classes of boundary minimization problems. The proposed technique is compared with the Generalized Differential Evolution method.
+Keywords
+Constrained global optimization  Boundary optimization  Differential evolution  Generalized differential evolution  

@@ -1,0 +1,6 @@
+Enhanced Morris method for global sensitivity analysis: good proxy of Sobol’ index
+Kaixuan Feng;Zhenzhou Lu;Caiqiong Yang;
+Abstract
+Global sensitivity analysis (GSA) aims at quantifying the effects of inputs on the output response globally. GSA is useful for identifying a few important inputs from a model with large number of inputs, which is critical for structural design and optimization. The method of Sobol’ and the Morris method are two popular GSA techniques, and they have been widely used in many areas of science and engineering. It was proved that the Morris index is a good proxy of the method of Sobol’ in some papers. However, some of the quantitative relationships between Morris index and Sobol’ index are established by only considering the input with standard uniform distribution. When the input does not follow standard uniform distribution, some relationships are no longer valid. Therefore, an enhanced Morris method is developed as a better proxy of the Sobol’ index for the input with arbitrary distribution, and it does not increase the model evaluations compared with the original Morris method. Test examples show the performance of the approximation and its usefulness in practice.
+Keywords
+Global sensitivity analysis  Sobol’ index  Enhanced Morris index  Arbitrary distribution  

@@ -1,0 +1,6 @@
+An incremental primal–dual method for nonlinear programming with special structure
+Nicolas P. Couellan;Theodore B. Trafalis;
+Abstract
+We propose a new class of incremental primal–dual techniques for solving nonlinear programming problems with special structure. Specifically, the objective functions of the problems are sums of independent nonconvex continuously differentiable terms minimized subject to a set of nonlinear constraints for each term. The technique performs successive primal–dual increments for each decomposition term of the objective function. The primal–dual increments are calculated by performing one Newton step towards the solution of the Karush–Kuhn–Tucker optimality conditions of each subproblem associated with each objective function term. We show that the resulting incremental algorithm is q-linearly convergent under mild assumptions for the original problem.
+Keywords
+Incremental techniques  Nonlinear programming  Primal–dual methods  

@@ -1,0 +1,6 @@
+Online makespan minimization in MapReduce-like systems with complex reduce tasks
+Taibo Luo;Yuqing Zhu;Weili Wu;Yinfeng Xu;Ding-Zhu Du;
+Abstract
+In the MapReduce processing, since map tasks output key-value pairs, and reduce tasks take the pairs output by the map tasks and compute the final results. Therefore, reduce tasks are unknown until their map tasks are finished. Also, we assume that map tasks are preemptive and parallelizable, but reduce tasks are non-parallelizable. With these assumptions, we study the scheduling of minimizing makespan. Both preemptive and non-preemptive reduce tasks are considered. We prove that no matter if preemption is allowed or not, any algorithm has a competitive ratio at least \(2-\frac{1}{h}\), we then give two optimal algorithms for these two versions.
+Keywords
+MapReduce  Big data  On-line scheduling  

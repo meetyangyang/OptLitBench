@@ -1,0 +1,6 @@
+The Multi-Agent Rendezvous Problem. Part 1: The Synchronous Case
+J.  Lin, A. S.  Morse, and B. D. O.  Anderson;
+Abstract
+This paper is concerned with the collective behavior of a group of $n>1$ mobile autonomous agents, labelled 1 through n, which can all move in the plane. Each agent is able to continuously track the positions of all other agents currently within its “sensing region,” where by an agent's sensing region we mean a closed disk of positive radius r centered at the agent's current position. The multi-agent rendezvous problem is to devise “local” control strategies, one for each agent, which without any active communication between agents cause all members of the group to eventually rendezvous at a single unspecified location. This paper describes a solution to this problem consisting of individual agent strategies which are mutually synchronized in the sense that all depend on a common clock.
+Keywords
+cooperative control, distributed control, multi-agent systems, 93C65, 93C85, 93C55, 

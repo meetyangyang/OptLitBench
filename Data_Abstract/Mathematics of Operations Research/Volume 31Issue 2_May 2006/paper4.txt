@@ -1,0 +1,6 @@
+Simulated Annealing for Convex Optimization
+Adam Tauman Kalai;Santosh Vempala;
+Abstract
+We apply the method known as simulated annealing to the following problem in convex optimization: Minimize a linear function over an arbitrary convex set, where the convex set is specified only by a membership oracle. Using distributions from the Boltzmann-Gibbs family leads to an algorithm that needs only O*(√n) phases for instances in ℝn. This gives an optimization algorithm that makes O*(n4.5) calls to the membership oracle, in the worst case, compared to the previous best guarantee of O*(n5).The benefits of using annealing here are surprising because such problems have no local minima that are not also global minima. Hence, we conclude that one of the advantages of simulated annealing, in addition to avoiding poor local minima, is that in these problems it converges faster to the minima that it finds. We also give a proof that under certain general conditions, the Boltzmann-Gibbs distributions are optimal for annealing on these convex problems.
+Keywords
+convex optimization simulated annealing linear programming MCMC 

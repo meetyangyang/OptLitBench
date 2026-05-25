@@ -1,0 +1,6 @@
+A Hybrid Differential Dynamic Programming Algorithm for Constrained Optimal Control Problems. Part 1: Theory
+Gregory Lantoine;Ryan P. Russell;
+Abstract
+A new algorithm is presented to solve constrained nonlinear optimal control problems, with an emphasis on highly nonlinear dynamical systems. The algorithm, called HDDP, is a hybrid variant of differential dynamic programming, a proven second-order technique that relies on Bellman’s Principle of Optimality and successive minimization of quadratic approximations. The new hybrid method incorporates nonlinear mathematical programming techniques to increase efficiency: quadratic programming subproblems are solved via trust region and range-space active set methods, an augmented Lagrangian cost function is utilized, and a multiphase structure is implemented. In addition, the algorithm decouples the optimization from the dynamics using first- and second-order state transition matrices. A comprehensive theoretical description of the algorithm is provided in this first part of the two paper series. Practical implementation and numerical evaluation of the algorithm is presented in Part 2.
+Keywords
+Optimal control  Differential dynamic programming  Nonlinear optimization  Large-scale problem  Trust region  Augmented Lagrangian  

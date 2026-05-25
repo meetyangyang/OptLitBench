@@ -1,0 +1,6 @@
+A two-stage path planning approach for multiple car-like robots based on PH curves and a modified harmony search algorithm
+Wenhui Zeng;Jin Yi;Xiao Rao;Yun Zheng;
+Abstract
+In this article, collision-avoidance path planning for multiple car-like robots with variable motion is formulated as a two-stage objective optimization problem minimizing both the total length of all paths and the task’s completion time. Accordingly, a new approach based on Pythagorean Hodograph (PH) curves and Modified Harmony Search algorithm is proposed to solve the two-stage path-planning problem subject to kinematic constraints such as velocity, acceleration, and minimum turning radius. First, a method of path planning based on PH curves for a single robot is proposed. Second, a mathematical model of the two-stage path-planning problem for multiple car-like robots with variable motion subject to kinematic constraints is constructed that the first-stage minimizes the total length of all paths and the second-stage minimizes the task’s completion time. Finally, a modified harmony search algorithm is applied to solve the two-stage optimization problem. A set of experiments demonstrate the effectiveness of the proposed approach.
+Keywords
+Multiple car-like robots, path planning, PH curves, harmony search algorithm, variable motion 

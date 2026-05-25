@@ -1,0 +1,6 @@
+Semi-Infinite Programming Approach to Continuously-Constrained Linear-Quadratic Optimal Control Problems
+Y. Liu;S. Ito;H. W. J. Lee;K. L. Teo;
+Abstract
+Consider the class of linear-quadratic (LQ) optimal control problems with continuous linear state constraints, that is, constraints imposed on every instant of the time horizon. This class of problems is known to be difficult to solve numerically. In this paper, a computational method based on a semi-infinite programming approach is given. The LQ optimal control problem is formulated as a positive-quadratic infinite programming problem. This can be done by considering the control as the decision variable, while taking the state as a function of the control. After parametrizing the decision variable, an approximate quadratic semi-infinite programming problem is obtained. It is shown that, as we refine the parametrization, the solution sequence of the approximate problems converges to the solution of the infinite programming problem (hence, to the solution of the original optimal control problem). Numerically, the semi-infinite programming problems obtained above can be solved efficiently using an algorithm based on a dual parametrization method.
+Keywords
+Optimal control  continuous constraints  semi-infinite optimization  parametrization  

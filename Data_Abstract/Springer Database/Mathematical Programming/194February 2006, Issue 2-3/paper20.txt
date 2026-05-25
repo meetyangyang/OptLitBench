@@ -1,0 +1,6 @@
+Mixed Integer Models for the Stationary Case of Gas Network Optimization
+Alexander Martin;Markus Möller;Susanne Moritz;
+Abstract
+A gas network basically consists of a set of compressors and valves that are connected by pipes. The problem of gas network optimization deals with the question of how to optimize the flow of the gas and to use the compressors cost-efficiently such that all demands of the gas network are satisfied. This problem leads to a complex mixed integer nonlinear optimization problem. We describe techniques for a piece-wise linear approximation of the nonlinearities in this model resulting in a large mixed integer linear program. We study sub-polyhedra linking these piece-wise linear approximations and show that the number of vertices is computationally tractable yielding exact separation algorithms. Suitable branching strategies complementing the separation algorithms are also presented. Our computational results demonstrate the success of this approach.
+Keywords
+Mixed integer programming  Cutting planes  Gas optimization  Piece-wise linear functions  Branch-and-Bound  SOS constraints  

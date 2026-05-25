@@ -1,0 +1,6 @@
+Group Update Method for Sparse Minimax Problems
+Junxiang Li;Mingsong Cheng;Bo Yu;Shuting Zhang;
+Abstract
+A group update algorithm is presented for solving minimax problems with a finite number of functions, whose Hessians are sparse. The method uses the gradient evaluations as efficiently as possible by updating successively the elements in partitioning groups of the columns of every Hessian in the process of iterations. The chosen direction is determined directly by the nonzero elements of the Hessians in terms of partitioning groups. The local \(q\)-superlinear convergence of the method is proved, without requiring the imposition of a strict complementarity condition, and the \(r\)-convergence rate is estimated. Furthermore, two efficient methods handling nonconvex case are given. The global convergence of one method is proved, and the local \(q\)-superlinear convergence and \(r\)-convergence rate of another method are also proved or estimated by a novel technique. The robustness and efficiency of the algorithms are verified by numerical tests.
+Keywords
+Minimax problem  Nondifferentiable optimization  Sparsity  Large scale  Group update  90C06  90C30  65K10  49K35  

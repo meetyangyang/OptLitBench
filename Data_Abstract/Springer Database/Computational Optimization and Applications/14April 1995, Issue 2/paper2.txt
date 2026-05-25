@@ -1,0 +1,6 @@
+Polynomial auction algorithms for shortest paths
+Dimitri P. Bertsekas;Stefano Pallottino;Maria Grazia Scutellà;
+Abstract
+In this paper we consider strongly polynomial variations of the auction algorithm for the single origin/many destinations shortest path problem. These variations are based on the idea of graph reduction, that is, deleting unnecessary arcs of the graph by using certain bounds naturally obtained in the course of the algorithm. We study the structure of the reduced graph and we exploit this structure to obtain algorithms withO (n min{m, n logn}) andO(n2) running time. Our computational experiments show that these algorithms outperform their closest competitors on randomly generated dense all destinations problems, and on a broad variety of few destination problems.
+Keywords
+shortest path  network optimization  auction  

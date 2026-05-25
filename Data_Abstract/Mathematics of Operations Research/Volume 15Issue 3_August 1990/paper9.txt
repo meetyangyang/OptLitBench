@@ -1,0 +1,6 @@
+A Centered Projective Algorithm for Linear Programming
+Michael J. Todd;Yinyu Ye;
+Abstract
+We describe a projective algorithm for linear programming that shares features with Karmarkar's projective algorithm and its variants and with the path-following methods of Gonzaga, Kojima-Mizuno-Yoshise, Monteiro-Adler, Renegar, Vaidya and Ye. It operates in a primal-dual setting, stays close to the central trajectories, and converges in O(√n L) iterations like the latter methods. (Here n is the number of variables and L the input size of the problem.) However, it is motivated by seeking reductions in a suitable potential function as in projective algorithms, and the approximate centering is an automatic byproduct of our choice of potential function.
+Keywords
+linear programming projective algorithms path following 

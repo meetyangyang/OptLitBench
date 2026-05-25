@@ -1,0 +1,6 @@
+An exact penalty function algorithm for optimal control problems with control and terminal equality constraints, part 1
+D. Q. Mayne;E. Polak;
+Abstract
+The presence of control constraints, because they are nondifferentiable in the space of control functions, makes it difficult to cope with terminal equality constraints in optimal control problems. Gradient-projection algorithms, for example, cannot be employed easily. These difficulties are overcome in this paper by employing an exact penalty function to handle the cost and terminal equality constraints and using the control constraints to define the space of permissible search directions in the search-direction subalgorithm. The search-direction subalgorithm is, therefore, more complex than the usual linear program employed in feasible-directions algorithms. The subalgorithm approximately solves a convex optimal control problem to determine the search direction; in the implementable version of the algorithm, the accuracy of the approximation is automatically increased to ensure convergence.
+Keywords
+Optimal control  control constraints  terminal equality constraints  exact penalty function  convergence  

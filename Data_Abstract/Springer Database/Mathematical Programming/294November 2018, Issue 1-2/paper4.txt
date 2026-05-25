@@ -1,0 +1,6 @@
+Approximating graph-constrained max-cut
+Xiangkun Shen;Jon Lee;Viswanath Nagarajan;
+Abstract
+An instance of the graph-constrained max-cut (\(\mathsf {GCMC}\)) problem consists of (i) an undirected graph \(G=(V,E)\) and (ii) edge-weights \(c:{V\atopwithdelims ()2} \rightarrow \mathbb {R}_+\) on a complete undirected graph. The objective is to find a subset \(S \subseteq V\) of vertices satisfying some graph-based constraint in G that maximizes the weight \(\sum _{u\in S, v\not \in S} c_{uv}\) of edges in the cut \((S,V{\setminus } S)\). The types of graph constraints we can handle include independent set, vertex cover, dominating set and connectivity. Our main results are for the case when G is a graph with bounded treewidth, where we obtain a \(\frac{1}{2}\)-approximation algorithm. Our algorithm uses an LP relaxation based on the Sherali–Adams hierarchy. It can handle any graph constraint for which there is a dynamic program of a specific form. Using known decomposition results, these imply essentially the same approximation ratio for \(\mathsf {GCMC}\) under constraints such as independent set, dominating set and connectivity on a planar graph G.
+Keywords
+90C27 Combinatorial Optimization  68W25 Approximation Algorithm  

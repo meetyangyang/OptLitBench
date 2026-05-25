@@ -1,0 +1,6 @@
+Convex optimization problems involving finite autocorrelation sequences
+Brien Alkire;Lieven Vandenberghe;
+Abstract
+ We discuss convex optimization problems in which some of the variables are constrained to be finite autocorrelation sequences. Problems of this form arise in signal processing and communications, and we describe applications in filter design and system identification. Autocorrelation constraints in optimization problems are often approximated by sampling the corresponding power spectral density, which results in a set of linear inequalities. They can also be cast as linear matrix inequalities via the Kalman-Yakubovich-Popov lemma. The linear matrix inequality formulation is exact, and results in convex optimization problems that can be solved using interior-point methods for semidefinite programming. However, it has an important drawback: to represent an autocorrelation sequence of length $n$, it requires the introduction of a large number ($n(n+1)/2$) of auxiliary variables. This results in a high computational cost when general-purpose semidefinite programming solvers are used. We present a more efficient implementation based on duality and on interior-point methods for convex problems with generalized linear inequalities.
+Keywords
+Autocorrelation  System Identification  Computational Cost  Spectral Density  Power Spectral Density  

@@ -1,0 +1,6 @@
+A rewriting grammar for heat exchanger network structure evolution with stream splitting
+ Eric   S.   Fraga ;
+Abstract
+ The design of cost optimal heat exchanger networks is a difficult optimization problem owing both to the nonlinear models required and the combinatorial size of the search space. When stream splitting is considered, the combinatorial aspects make the problem even harder. This article describes the implementation of a two-level evolutionary algorithm based on a string rewriting grammar for the evolution of the heat exchanger network structure. A biological analogue of genotypes and phenotypes is used to describe structures and specific solutions, respectively. The top-level algorithm evolves structures while the lower level optimizes specific structures. The result is a hybrid optimization procedure that can identify the best structures including stream splitting. Case studies from the literature are presented to demonstrate the capabilities of the novel procedure. 
+Keywords
+heat exchanger network design, stream splitting, term rewriting, formal grammar, hybrid optimization 

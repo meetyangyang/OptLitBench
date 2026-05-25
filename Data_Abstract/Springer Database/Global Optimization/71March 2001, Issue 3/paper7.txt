@@ -1,0 +1,6 @@
+New Subinterval Selection Criteria for Interval Global Optimization
+Tibor Csendes;
+Abstract
+The theoretical convergence properties of interval global optimization algorithms that select the next subinterval to be subdivided according to a new class of interval selection criteria are investigated. The latter are based on variants of the RejectIndex: \(pf^* (X) = \frac{{f^* - \underline F (X)}}{{\overline F (X) - \underline F (X)}}\), a recently thoroughly studied indicator, that can quite reliably show which subinterval is close to a global minimizer point. Extensive numerical tests on 40 problems confirm that substantial improvements can be achieved both on simple and sophisticated algorithms by the new method (utilizing the known minimum value), and that these improvements are larger when hard problems are to be solved.
+Keywords
+Convergence properties  Interval methods  Global optimization  Interval selection  

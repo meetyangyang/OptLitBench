@@ -1,0 +1,6 @@
+How bad are the BFGS and DFP methods when the objective function is quadratic?
+M. J. D. Powell;
+Abstract
+We study the use of the BFGS and DFP algorithms with step-lengths of one for minimizing quadratic functions of only two variables. The updating formulae in this case imply nonlinear three term recurrence relations between the eigenvalues of consecutive second derivative approximations, which are analysed in order to explain some gross inefficiencies that can occur. Specifically, the BFGS algorithm may require more than 10 iterations to achieve the first decimal place of accuracy, while the performance of the DFP method is far worse. The results help to explain why the DFP method is often less suitable than the BFGS algorithm for general unconstrained optimization calculations, and they show that quadratic functions provide much information about efficiency when the current vector of variables is too far from the solution for an asymptotic convergence analysis.
+Keywords
+Convergence Rate  Quadratic Objective Function  Unconstrained Optimization  Variable Metric Methods  

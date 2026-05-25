@@ -1,0 +1,6 @@
+RePAMO: Recursive Perturbation Approach for Multimodal Optimization
+ Bhaskar   Dasgupta ; Kotha   Divya ; Vivek   Kumar   Mehta ; Kalyanmoy   Deb ;
+Abstract
+ In this article, a strategy is presented to exploit classical algorithms for multimodal optimization problems, which recursively applies any suitable local optimization method, in the present case Nelder and Mead's simplex search method, in the search domain. The proposed method follows a systematic way to restart the algorithm. The idea of climbing the hills and sliding down to the neighbouring valleys is utilized. The implementation of the algorithm finds local minima as well as maxima. The concept of perturbing the minimum/maximum in several directions and restarting the algorithm for maxima/minima is introduced. The method performs favourably in comparison to other global optimization methods. The results of this algorithm, named RePAMO, are compared with the GA–clearing and ASMAGO techniques in terms of the number of function evaluations. Based on the results, it has been found that the RePAMO outperforms GA clearing and ASMAGO by a significant margin. 
+Keywords
+multimodal optimization, recursive optimization, alternate minimization and maximization, RePAMO algorithm 

@@ -1,0 +1,6 @@
+An exact penalty function method for nonlinear mixed discrete programming problems
+Changjun Yu;Kok Lay Teo;Yanqin Bai;
+Abstract
+In this paper, we consider a general class of nonlinear mixed discrete programming problems. By introducing continuous variables to replace the discrete variables, the problem is first transformed into an equivalent nonlinear continuous optimization problem subject to original constraints and additional linear and quadratic constraints. Then, an exact penalty function is employed to construct a sequence of unconstrained optimization problems, each of which can be solved effectively by unconstrained optimization techniques, such as conjugate gradient or quasi-Newton methods. It is shown that any local optimal solution of the unconstrained optimization problem is a local optimal solution of the transformed nonlinear constrained continuous optimization problem when the penalty parameter is sufficiently large. Numerical experiments are carried out to test the efficiency of the proposed method.
+Keywords
+Nonlinear mixed integer programming  Exact penalty function  

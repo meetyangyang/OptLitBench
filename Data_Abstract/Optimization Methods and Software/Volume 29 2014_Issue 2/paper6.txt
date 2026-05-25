@@ -1,0 +1,6 @@
+A subspace trust-region method for seismic migration inversion
+Zhenhua Li;Yanfei Wang;
+Abstract
+In seismic exploration, regularized migration inversion of seismic data usually requires solving a weighted least-squares problem with constrains. It is well known that directly solving this problem using some decomposition techniques is very time-consuming, which makes it less possible for practical use. For iterative methods, previous research is mainly on solving the inverse model in a full space. In this paper, a robust subspace method is applied to seismic migration inversion with Gaussian beam representations of Green's function. The problem is first formulated by incorporating regularizing constraints, and then, it is changed from full space to subspace and solved by a trust-region method. To test the potential of the application of the developed method, synthetic data simulations are performed. The results show that this method is very promising for ill-posed seismic migration inversion problems.
+Keywords
+subspace method, seismic inversion, migration, trust-region method, Gaussian beamKeywords: 86-08, 65J15, 65N21, 90C30 

@@ -1,0 +1,6 @@
+An algorithm for solving the system-level problem in multilevel optimization
+R. J. Balling;J. Sobieszczanski-Sobieski;
+Abstract
+A multilevel optimization approach applicable to nonhierarchic coupled systems is presented. The approach includes a general treatment of design (or behaviour) constraints and coupling constraints at the discipline level through the use of norms. Three different types of norms are examined - the max norm, the Kreisselmeier-Steinhauser (KS) norm, and theℓ p  norm. The max norm is recommended. The approach is demonstrated on a class of hub frame structures that simulate multidisciplinary systems. The max norm is shown to produce system-level constraint functions which are nonsmooth. A cutting-plane algorithm is presented, which adequately deals with the resulting corners in the constraint functions. The algorithm is tested on hub frames with an increasing number of members (which simulate disciplines), and the results are summarized.
+Keywords
+Civil Engineer  General Treatment  Optimization Approach  Couple System  Frame Structure  

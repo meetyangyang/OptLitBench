@@ -1,0 +1,5 @@
+Stability of Linear Systems with Control Dependent Noise
+U. G.  Haussmann;
+Abstract
+Consider a system described by the autonomous stochastic differential equation  \[ dx = (Ax - Bu)dt + C(u)dw_1  + Ddw_2 , \] where $C( \cdot )$ is linear in the control variable u and $w_1 $, $w_2 $ are two independent Wiener processes. It is known that if the pair $(A,B)$ is stabilizable and if $C( \cdot )$ is sufficiently small, then there exists a control $u = \phi (x)$ such that the corresponding diffusion process $x( \cdot )$ possesses an invariant probability measure with finite second moment, and hence there exists a control which minimizes the expected value with respect to the invariant measure of a quadratic cost functional. In the present work necessary and sufficient conditions on the structure of the system are given such that, without requiring $C( \cdot )$ to be small, a control exists which induces an invariant probability measure with finite second moment.
+Keywords

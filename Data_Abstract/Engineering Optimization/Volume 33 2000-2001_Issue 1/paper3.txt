@@ -1,0 +1,6 @@
+A SIMULATED ANNEALING ALGORITHM FOR MULTIOBJECTIVE OPTIMIZATION
+ A.   SUPPAPITNARM ; K. A.   SEFFEN ; G. T.   PARKS ; P. J.   CLARKSON ;
+Abstract
+ This paper describes a novel implementation of the Simulated Annealing algorithm designed to explore the trade-off between multiple objectives in optimization problems. During search, the algorithm maintains and updates an archive of non-dominated solutions between each of the competing objectives. At the end of search, the final archive corresponds to a number of optimal solutions from which the designer may choose a particular configuration. A new acceptance probability formulation based on an annealing schedule with multiple temperatures (one for each objective) is proposed along with a novel restart strategy. The performance of the algorithm is demonstrated on three examples. It is concluded that the proposed algorithm offers an effective and easily implemented method for exploring the trade-off in multiobjective optimization problems. 
+Keywords
+Simulated annealing, multiobjective optimization, engineering design 

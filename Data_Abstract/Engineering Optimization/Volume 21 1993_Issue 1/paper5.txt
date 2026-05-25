@@ -1,0 +1,6 @@
+A DYNAMIC PROCEDURE FOR THE OPTIMAL SEQUENCING OF PLANT EQUIPMENT PART I: ALGORITHM FUNDAMENTALS
+ RICK T.   OLSON ; CURTIS O.   PEDERSEN ; JUDITH S.   LIEBMAN ;
+Abstract
+ This paper presents Dynamic Chiller Sequencing (DCS); an algorithm for controlling the HVAC equipment necessary to cool non-residential buildings which balances the trade-off between reducing the cost of electricity used and the amount charged for peak power consumption. This is accomplished by forecasting the cooling loads expected through a planning horizon, determining the minimum cost way of meeting the individual loads with various combinations of equipment, and using a modified shortest path algorithm to determine the sequence of equipment selection that will minimize the cost of satisfying the expected loads for the entire planning horizon. Although the strategy was developed for the control of HVAC equipment, it can be generalized for solving sequencing decisions in process industries with competing, sequence dependent costs. 
+Keywords
+ Thermal system optimization, network optimization, chiller operation. 

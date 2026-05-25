@@ -1,0 +1,8 @@
+A regularization method for the numerical solution of elliptic boundary control problems with pointwise state constraints
+F. Tröltzsch;I. Yousept;
+Abstract
+
+A Lavrentiev type regularization technique for solving elliptic boundary control problems with pointwise state constraints is considered. The main concept behind this regularization is to look for controls in the range of the adjoint control-to-state mapping. After investigating the analysis of the method, a semismooth Newton method based on the optimality conditions is presented. The theoretical results are confirmed by numerical tests. Moreover, they are validated by comparing the regularization technique with standard numerical codes based on the discretize-then-optimize concept.
+
+Keywords
+Boundary control  State constraints  Lavrentiev type regularization  Semismooth Newton method  Optimize-then-discretize  Nested iteration  

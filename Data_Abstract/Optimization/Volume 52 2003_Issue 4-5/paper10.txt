@@ -1,0 +1,6 @@
+A circular cone relaxation primal interior point algorithm for LP 
+ Igor S.   Litvinchev ;
+Abstract
+ We consider a primal interior point algorithm for LP. The method uses a search direction obtained by minimizing the original objective over a linearly transformed section of the circular cone circumscribed around the nonnegative orthant. If the latter problem has a finite solution, it provides a lower bound for the optimal objective and a target point specifying a descent direction. Otherwise, the target point is constructed with the objective value equal to the current lower bound. The method is monotonous and requires  main iterations to attain ε-optimality. 
+Keywords
+Linear programming, Primal interior point algorithm, Circular cone relaxation, Mathematics Subject Classifications 2000: 90C05, 90C51, 49M20 

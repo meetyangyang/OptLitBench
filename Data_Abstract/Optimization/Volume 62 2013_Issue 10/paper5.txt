@@ -1,0 +1,6 @@
+Partial dominated schedules and minimizing the total completion time of deteriorating jobs
+Krzysztof M. Ocetkiewicz;
+Abstract
+A problem of scheduling deteriorating jobs on a single processor is considered. The processing time  of a job  is given by a function , where  is the starting time of the job, , , for  Jobs are non-preemptive and independent and there are neither ready times nor deadlines. The goal is to minimize the total weighted completion time. We show how to employ the concept of non-dominated schedules to construct an exact algorithm for the problem. We also consider extending the algorithm to solve problems with precedence constraints and finding all Pareto-optimal solutions. Then we present how to use the concept to the problem . We use elimination of dominated partial schedules to improve the efficiency of a branch-and-bound algorithm and present another algorithm, based solely on the elimination of dominated partial schedules.
+Keywords
+scheduling, single machine, deteriorating jobs, total completion time, non-dominated schedulesAMS Subject Classification: 90B35 

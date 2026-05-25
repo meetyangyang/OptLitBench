@@ -1,0 +1,8 @@
+Dynamic updates of the barrier parameter in primal-dual methods for nonlinear programming
+Paul Armand;Joël Benoist;Dominique Orban;
+Abstract
+
+We introduce a framework in which updating rules for the barrier parameter in primal-dual interior-point methods become dynamic. The original primal-dual system is augmented to incorporate explicitly an updating function. A Newton step for the augmented system gives a primal-dual Newton step and also a step in the barrier parameter. Based on local information and a line search, the decrease of the barrier parameter is automatically adjusted. We analyze local convergence properties, report numerical experiments on a standard collection of nonlinear problems and compare our results to a state-of-the-art interior-point implementation. In many instances, the adaptive algorithm reduces the number of iterations and of function evaluations. Its design guarantees a better fit between the magnitudes of the primal-dual residual and of the barrier parameter along the iterations.
+
+Keywords
+Constrained optimization  Interior point method  Nonlinear programming  Primal-dual method  Barrier method  

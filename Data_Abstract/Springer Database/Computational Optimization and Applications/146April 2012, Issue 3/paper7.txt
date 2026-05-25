@@ -1,0 +1,6 @@
+How good are extrapolated bi-projection methods for linear feasibility problems?
+Nicholas I. M. Gould;
+Abstract
+We consider extrapolated projection methods for solving linear feasibility problems. Both successive and sequential methods of a two-set projection scheme are examined. The best algorithm in the class of algorithms that we considered was an extrapolated sequential method. When this was compared to an interior point method using the CUTEr/Netlib linear programming test problems it was found that the bi-projection method was fastest (or equal fastest) for 31% of the cases, while the interior point code was fastest in 71% of the cases. The interior-point method succeeded on all examples, but the best bi-projection method considered here failed to solve 37% of the problems within reasonable CPU time or iteration thresholds.
+Keywords
+Projection methods  Convex feasibility problems  

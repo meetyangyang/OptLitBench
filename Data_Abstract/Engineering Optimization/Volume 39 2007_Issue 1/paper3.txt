@@ -1,0 +1,6 @@
+Scheduling trucks in container terminals using a genetic algorithm
+ W.   C.   Ng ; K.   L.   Mak ; Y.   X.   Zhang ;
+Abstract
+ Trucks are the most popular transport equipment in most mega-terminals, and scheduling them to minimize makespan is a challenge that this article addresses and attempts to resolve. Specifically, the problem of scheduling a fleet of trucks to perform a set of transportation jobs with sequence-dependent processing times and different ready times is investigated, and the use of a genetic algorithm (GA) to address the scheduling problem is proposed. The scheduling problem is formulated as a mixed integer program. It is noted that the scheduling problem is NP-hard and the computational effort required to solve even small-scale test problems is prohibitively large. A crossover scheme has been developed for the proposed GA. Computational experiments are carried out to compare the performance of the proposed GA with that of GAs using six popular crossover schemes. Computational results show that the proposed GA performs best, with its solutions on average 4.05% better than the best solutions found by the other six GAs. 
+Keywords
+Truck scheduling, Container terminal, Genetic algorithm 

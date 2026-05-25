@@ -1,0 +1,6 @@
+Two-level composite wing structural optimization using response surfaces
+B. Liu;R.T. Haftka;M.A. Akgün;
+Abstract
+A two-level optimization procedure for composite wing design subject to strength and buckling constraints is presented. At wing-level design, continuous optimization of ply thicknesses with orientations of 0°, 90°, and ±45° is performed to minimize weight. At panel level, the number of plies of each orientation (rounded to integers) and inplane loads are specified, and a permutation genetic algorithm is used to optimize the stacking sequence in order to maximize the buckling load. The process is started by performing a large number of panel genetic optimizations for a range of loads and numbers of plies of each orientation. Next, a cubic polynomial response surface is fitted to the optimum buckling load as a function of the loads and numbers of plies of each orientation. The resulting response surface is used for the wing-level optimization. Rounding and manual adjustment are used to obtain the final design. The procedure is demonstrated using an example of a simple wing box design.
+Keywords
+Key words: permutation genetic algorithms, composite laminate optimization, response surfaces, two-level optimization, wing design, combinatorial optimization  

@@ -1,0 +1,6 @@
+Gilding the Lily: A Variant of the Nelder-Mead Algorithm Based on Golden-Section Search
+Larry Nazareth;Paul Tseng;
+Abstract
+We propose a variant of the Nelder-Mead algorithm derived from a reinterpretation of univariate golden-section direct search. In the univariate case, convergence of the variant can be analyzed analogously to golden-section search. In the multivariate case, we modify the variant by replacing strict descent with fortified descent and maintaining the interior angles of the simplex bounded away from zero. Convergence of the modified variant can be analyzed by applying results for a fortified-descent simplicial search method. Some numerical experience with the variant is reported.
+Keywords
+unconstrained minimization  Nelder-Mead algorithm  golden-section direct search  

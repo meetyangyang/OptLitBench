@@ -1,0 +1,6 @@
+A Path-Following Projective Interior Point Method for Linear Programming
+Dong X.  Shaw and Donald  Goldfarb;
+Abstract
+In this paper the authors present a projective interior point method which follows the “central trajectory” and finds an optimal solution in at most $O( \sqrt{n} L )$ iterations. This algorithm is essentially Anstreicher’s variant of Karmarkar’s projective algorithm with a weakened “ball update” for lower bounds. The result indicates that a strong relationship exists between projective and path-following algorithms. The authors show that within a certain probabilistic framework the expected number of iterations required by their algorithm is $O( L )$.
+Keywords
+projective interior point method, path-following method, central trajectory, polynomial-time complexity, expected number of iterations, 49D, 90C05, 

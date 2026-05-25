@@ -1,0 +1,6 @@
+A gradient method for the monotone fused least absolute shrinkage and selection operator
+Yu Xia;Paul D. McNicholas;
+Abstract
+We propose the monotone fused least absolute shrinkage and selection operator (LASSO) model and develop a continuous algorithm for it. The LASSO model is a special case of the fused LASSO model. The LASSO technique improves prediction accuracy and reduces the number of predictors, while the fused LASSO procedure also encourages flatness of the regression predictors. The monotone fused LASSO model describes regression with monotonic constraints better than the fused LASSO model. We adapt Nesterov's fast gradient methods to the monotone fused LASSO model, we give closed-form solutions for each iteration and prove the boundedness of the optimal solution set, and we provide convergence results. Numerical examples are provided and discussed. Our approach can easily be adapted to related problems, such as the monotone regression and the fused LASSO model.
+Keywords
+fast gradient method, regression, monotonic constraints 

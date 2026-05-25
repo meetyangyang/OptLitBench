@@ -1,0 +1,6 @@
+Identification of the Coefficient in Elliptic Equations
+Robert  Acar;
+Abstract
+This paper seeks to identify the space-distributed diffusion coefficient a in the steady-state diffusion equation $ - {\operatorname{div}}(a{\operatorname{grad}}u) = f$ in a bounded region of the real plane; u, f, and the flux at the boundary are observed. This problem is solved by a least square method, choosing for the cost function the “equation error” defined in a natural way by the Riesz representation theorem. The method is stable if a smoothing term is added to the cost function (Tikhonov regularisation); this paper shows that selection strategies of the smoothing coefficient exist that insure convergence under the only condition that a be sufficiently smooth. The case is also considered where a is piecewise smooth and it is shown how to extend the previous formulation. In both cases computational results are presented.
+Keywords
+parameter estimation, inverse problems, 35, 49, 

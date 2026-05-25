@@ -1,0 +1,4 @@
+Revisiting the Soft Global Cardinality Constraint
+Pierre Schaus;Pascal Van Hentenryck;Alessandro Zanarini;
+Abstract
+The Soft Global Cardinality Constraint (softggc) relaxes the Global Cardinality Constraint (gcc) by introducing a violation variable representing unmet requirements on the number of value occurrences. A first domain consistent filtering algorithm was introduced by Van Hoeve et al. in 2004 using a minimum cost flow algorithm. A simpler and more efficient filtering algorithm was introduced in 2006 by Zanarini et al. using matchings in bipartite graphs. While the consistency check introduced in the second algorithm is correct, we show that the algorithm may not achieve domain consistency when cardinality requirements contain zeroes. We give new domain consistent conditions and show how to achieve domain consistency within the same time bounds. The softggc constraint was implemented in Comet.

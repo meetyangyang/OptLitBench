@@ -1,0 +1,6 @@
+Hit-and-run algorithms for the identification of nonredundant linear inequalities
+H. C. P. Berbee;C. G. E. Boender;A. H. G. Rinnooy Ran;C. L. Scheffer;R. L. Smith;J. Telgen;
+Abstract
+Two probabilistic hit-and-run algorithms are presented to detect nonredundant constraints in a full dimensional system of linear inequalities. The algorithms proceed by generating a random sequence of interior points whose limiting distribution is uniform, and by searching for a nonredundant constraint in the direction of a random vector from each point in the sequence. In the hypersphere directions algorithm the direction vector is drawn from a uniform distribution on a hypersphere. In the computationally superior coordinate directions algorithm a search is carried out along one of the coordinate vectors. The algorithms are terminated through the use of a Bayesian stopping rule. Computational experience with the algorithms and the stopping rule will be reported.
+Keywords
+System of linear inequalities  redundancy  probabilistic hit-and-run algorithms  uniform interior points  Bayesian stopping rule  

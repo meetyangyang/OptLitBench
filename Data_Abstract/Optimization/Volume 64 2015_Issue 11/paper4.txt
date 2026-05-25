@@ -1,0 +1,6 @@
+A gradient projection method for solving split equality and split feasibility problems in Hilbert spaces
+Phan Tu Vuong;Jean Jacques Strodiot;Van Hien Nguyen;
+Abstract
+In this paper, we first study in a Hilbertian framework the weak convergence of a general Gradient Projection Algorithm for minimizing a convex function of class  over a convex constraint set. The way of selecting the stepsizes corresponds to the one used by López et al. for the particular case of the Split Feasibility Problem. This choice allows us to avoid the computation of operator norms. Afterwards, a relaxed version of the Gradient Projection Algorithm is considered where the feasible set is approximated by half-spaces making the projections explicit. Finally, to get the strong convergence, each step of the general Gradient Projection Method is combined with a viscosity step. This is done by adapting Halpern’s algorithm to our problem. The general scheme is then applied to the Split Equality Problem, and also to the Split Feasibility Problem.
+Keywords
+gradient projection method, split equality problem, split feasibility problem, relaxed algorithms, strong convergenceAMS Subject Classifications: 65K05, 90C25, 47H10 

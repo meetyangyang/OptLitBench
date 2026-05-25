@@ -1,0 +1,6 @@
+A Class of Indefinite Dogleg Path Methods for Unconstrained Minimization
+Jianzhong  Zhang and Chengxian  Xu;
+Abstract
+In this paper we propose a convenient curvilinear search method to solve trust region problems arising from unconstrained optimization problems. The curvilinear paths we set forth are dogleg paths, generated mainly by employing Bunch--Parlett factorization for general symmetric matrices that may be indefinite. This method is easy to implement and globally convergent. It is proved that the method satisfies the first- and second-order stationary point convergence properties and that the convergence rate is quadratic under commonly used conditions on functions. Numerical experiments are conducted to compare this method with some existing methods.
+Keywords
+trust region method, curvilinear search, factorization of indefinite matrices, negative curvature, global convergence, superlinear and quadratic convergence rates, 90C30, 65K05, 

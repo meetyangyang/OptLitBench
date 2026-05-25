@@ -1,0 +1,6 @@
+Partitioned quasi-Newton methods for nonlinear equality constrained optimization
+Thomas F. Coleman;Peter A. Fenyes;
+Abstract
+We derive new quasi-Newton updates for the (nonlinear) equality constrained minimization problem. The new updates satisfy a quasi-Newton equation, maintain positive definiteness on the null space of the active constraint matrix, and satisfy a minimum change condition. The application of the updates is not restricted to a small neighbourhood of the solution. In addition to derivation and motivational remarks, we discuss various numerical subtleties and provide results of numerical experiments.
+Keywords
+65H10  65K05  65K10  Constrained optimization  equality constraints  numerical optimization  quasi-Newton method  secant method  sequential quadratic programming  SQP-method  augmented Lagrangian method  penalty function methods  

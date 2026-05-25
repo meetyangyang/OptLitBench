@@ -1,0 +1,6 @@
+A dual-active-set algorithm for positive semi-definite quadratic programming
+N. L. Boland;
+Abstract
+Because of the many important applications of quadratic programming, fast and efficient methods for solving quadratic programming problems are valued. Goldfarb and Idnani (1983) describe one such method. Well known to be efficient and numerically stable, the Goldfarb and Idnani method suffers only from the restriction that in its original form it cannot be applied to problems which are positive semi-definite rather than positive definite. In this paper, we present a generalization of the Goldfarb and Idnani method to the positive semi-definite case and prove finite termination of the generalized algorithm. In our generalization, we preserve the spirit of the Goldfarb and Idnani method, and extend their numerically stable implementation in a natural way.
+Keywords
+Quadratic programming  Positive semi-definite  Convex optimization  Active-set method  

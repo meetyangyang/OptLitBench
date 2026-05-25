@@ -1,0 +1,6 @@
+An interior point method for quadratic programs based on conjugate projected gradients
+Tamra J. Carpenter;David F. Shanno;
+Abstract
+We propose an interior point method for large-scale convex quadratic programming where no assumptions are made about the sparsity structure of the quadratic coefficient matrixQ. The interior point method we describe is a doubly iterative algorithm that invokes aconjugate projected gradient procedure to obtain the search direction. The effect is thatQ appears in a conjugate direction routine rather than in a matrix factorization. By doing this, the matrices to be factored have the same nonzero structure as those in linear programming. Further, one variant of this method istheoretically convergent with onlyone matrix factorization throughout the procedure.
+Keywords
+quadratic programming  interior point methods  conjugate gradients  

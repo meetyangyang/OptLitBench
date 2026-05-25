@@ -1,0 +1,6 @@
+Column enumeration based decomposition techniques for a class of non-convex MINLP problems
+Steffen Rebennack;Josef Kallrath;Panos M. Pardalos;
+Abstract
+We propose a decomposition algorithm for a special class of nonconvex mixed integer nonlinear programming problems which have an assignment constraint. If the assignment decisions are decoupled from the remaining constraints of the optimization problem, we propose to use a column enumeration approach. The master problem is a partitioning problem whose objective function coefficients are computed via subproblems. These problems can be linear, mixed integer linear, (non-)convex nonlinear, or mixed integer nonlinear. However, the important property of the subproblems is that we can compute their exact global optimum quickly. The proposed technique will be illustrated solving a cutting problem with optimum nonlinear programming subproblems.
+Keywords
+MINLP  Column enumeration  Decomposition  Packing  

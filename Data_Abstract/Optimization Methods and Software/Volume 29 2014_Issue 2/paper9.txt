@@ -1,0 +1,6 @@
+New updates of incomplete LU factorizations and applications to large nonlinear systems
+Stefania Bellavia;Benedetta Morini;Margherita Porcelli;
+Abstract
+In this paper, we address the problem of preconditioning sequences of large sparse indefinite systems of linear equations and present two new strategies to construct approximate updates of factorized preconditioners. Both updates are based on the availability of an incomplete factorization for one matrix of the sequence and differ in the approximation of the so-called ideal update. For a general treatment, an incomplete LU (ILU) factorization is considered, but the proposed approaches apply to incomplete factorizations of symmetric matrices as well. The first strategy is an approximate diagonal update of the ILU factorization; the second strategy relies on banded approximations of the factors in the ideal update. The efficiency and reliability of the proposed preconditioners are shown in the solution of nonlinear systems of equations by preconditioned Newton–Krylov methods. Nearly matrix-free implementations of the updating strategy are provided, and numerical experiments are carried out on application problems.
+Keywords
+preconditioning, incomplete factorizations, factorization updates, inexact Newton–Krylov methods, matrix-free environment 

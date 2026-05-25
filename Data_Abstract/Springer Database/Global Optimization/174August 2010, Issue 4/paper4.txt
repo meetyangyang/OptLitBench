@@ -1,0 +1,6 @@
+A combined DCA: GA for constructing highly nonlinear balanced boolean functions in cryptography
+Hoai Minh Le;Hoai An Le Thi;Tao Pham Dinh;Pascal Bouvry;
+Abstract
+Substitution boxes, aka S-boxes, are a key component of modern crypto-systems. Several studies and developments were carried out on the problem of building high-quality S-boxes in the last few years. Qualities of such boxes, such as nonlinearity and balance, steer the robustness of modern block ciphers. This work is concerned with the construction of highly nonlinear balanced Boolean functions. A deterministic optimization model which is the minimization of a polyhedral convex function on a convex polytope with 0–1 variables is introduced. A local deterministic optimization approach called DCA (Difference of Convex functions Algorithm) is investigated. For finding a good starting point of DCA we propose two versions of a combined DCA–GA (Genetic Algorithm) method. Numerical simulations prove that DCA is a promising approach for this problem. Moreover the combination of DCA–GA improves the efficiency of DCA and outperforms other standard approaches.
+Keywords
+Cryptography  Boolean function  Nonlinear balanced Boolean function  Nonlinearity  Genetic Algorithm  Hybrid Genetic  DC programming  DCA  Mixed 0–1 polyhedral convex program  Exact penalty  

@@ -1,0 +1,6 @@
+Reducing the Number of Function Evaluations in Mesh Adaptive Direct Search Algorithms
+Charles  Audet, Andrea  Ianni, Sébastien  Le Digabel, and Christophe  Tribes;
+Abstract
+The mesh adaptive direct search (Mads) class of algorithms is designed for nonsmooth optimization, where the objective function and constraints are typically computed by launching a time-consuming computer simulation. Each iteration of a Mads algorithm attempts to improve the current best-known solution by launching the simulation at a finite number of trial points. Common implementations of Mads generate 2n trial points at each iteration, where $n$ is the number of variables in the optimization problem. The objective of the present work is to dynamically reduce that number. We present an algorithmic framework that reduces the number of simulations to exactly $n+1$, without impacting the theoretical guarantees from the convergence analysis. Numerical experiments are conducted for several different contexts; the results suggest that these strategies allow the new algorithms to reach a better solution with fewer function evaluations.
+Keywords
+mesh adaptive direct search (Mads) algorithms, derivative-free optimization, positive spanning sets, nonsmooth optimization, blackbox optimization, 90C30, 90C56, 65K05, 

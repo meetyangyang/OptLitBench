@@ -1,0 +1,6 @@
+Algorithms for Finite and Semi-Infinite Min–Max–Min Problems Using Adaptive Smoothing Techniques
+E. Polak;J. O. Royset;
+Abstract
+We develop two implementable algorithms, the first for the solution of finite and the second for the solution of semi-infinite min-max-min problems. A smoothing technique (together with discretization for the semi-infinite case) is used to construct a sequence of approximating finite min-max problems, which are solved with increasing precision. The smoothing and discretization approximations are initially coarse, but are made progressively finer as the number of iterations is increased. This reduces the potential ill-conditioning due to high smoothing precision parameter values and computational cost due to high levels of discretization. The behavior of the algorithms is illustrated with three semi-infinite numerical examples.
+Keywords
+Min-max-min problems  nonsmooth optimization algorithms  smoothing techniques  feedback precision-adjustment rule  

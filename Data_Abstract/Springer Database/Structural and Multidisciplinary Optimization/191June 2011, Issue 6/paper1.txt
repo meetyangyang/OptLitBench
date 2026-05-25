@@ -1,0 +1,6 @@
+Topology optimization of nonlinear optical devices
+Jakob S. Jensen;
+Abstract
+This paper considers the design of nonlinear photonic devices. The nonlinearity stems from a nonlinear material model with a permittivity that depends on the local time-averaged intensity of the electric field. A finite element model is developed for time-harmonic wave propagation and an incremental complex Newton–Raphson scheme is used to solve the nonlinear equations. The sensitivities of the objective function with respect to element-wise design variables are found using an adjoint approach and iterative design updates are performed using the method of moving asymptotes. The optimization procedure is exemplified by the design of two nonlinear devices. A one-dimensional optical diode is created by distributing a linear and a nonlinear material. The diode allows for higher transmission in one propagation direction compared to the other. The second example illustrates a two-dimensional optical limiter. Here, air, a linear and a nonlinear material are distributed so that the wave transmission displays a strong sensitivity to the amplitude of the incoming wave.
+Keywords
+Topology optimization  Waves  Nonlinear  

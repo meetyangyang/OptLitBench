@@ -1,0 +1,6 @@
+Parallel Nesterov’s method for large-scale minimization of partially separable functions
+Firmin Andzembe Okoubi;Jonas Koko;
+Abstract
+A parallel Nesterov algorithm, for solving unconstrained minimization of large scale partially separable convex functions, is presented. The problem is first transformed into a linearly constrained minimization of a separable function. A fast projected gradient (Nesterov) method is then applied to obtain a decomposition method with \(O(1/k^2)\) rate of convergence (where k is the iteration number). Preliminary numerical experiments show the efficiency of the proposed approach.
+Keywords
+Unconstrained minimization  Partially separable convex functions  Nesterov method  

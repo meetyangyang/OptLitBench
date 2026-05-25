@@ -1,0 +1,6 @@
+Free material optimization for laminated plates and shells
+Alemseged Gebrehiwot Weldeyesus;Mathias Stolpe;
+Abstract
+Free Material Optimization (FMO) is a powerful approach for conceptual optimal design of composite structures. The design variable in FMO is the entire elastic material tensor which is allowed to vary almost freely over the design domain. The imposed requirements on the tensor are that it is symmetric and positive semidefinite. Most of today’s studies on FMO focus on models for two- and three-dimensional structures. The objective of this article is to extend existing FMO models and methods to laminated plate and shell structures, which are used in many engineering applications. In FMO, the resulting optimization problem is generally a non convex semidefinite program with many matrix inequalities which requires special-purpose optimization methods. The FMO problems are efficiently solved by a primal-dual interior point method developed and implemented by the authors. The quality of the proposed FMO models and the method are supported by several large-scale numerical experiments.
+Keywords
+Structural optimization  Free material optimization  Nonlinear semidefinite optimization  Laminated shells  

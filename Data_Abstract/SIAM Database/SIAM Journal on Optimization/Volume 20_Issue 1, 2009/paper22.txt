@@ -1,0 +1,6 @@
+Free Material Optimization with Fundamental Eigenfrequency Constraints
+M.  Stingl, M.  Kočvara, and G.  Leugering;
+Abstract
+The goal of this paper is to formulate and solve free material optimization problems with constraints on the smallest eigenfrequency of the optimal structure. A natural formulation of this problem as a linear semidefinite program turns out to be numerically intractable. As an alternative, we propose a new approach, which is based on a nonlinear semidefinite low-rank approximation of the semidefinite dual. We introduce an algorithm based on this approach and analyze its convergence properties. The article is concluded by numerical experiments proving the effectiveness of the new approach.
+Keywords
+structural optimization, material optimization, semidefinite programming, nonlinear programming, 74B05, 74P05, 90C90, 90C30, 90C22, 

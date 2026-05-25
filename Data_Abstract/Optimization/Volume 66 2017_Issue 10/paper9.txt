@@ -1,0 +1,6 @@
+The checkpoint ordering problem
+P. Hungerländer;
+Abstract
+AbstractWe suggest a new variant of a row layout problem: Find an ordering of n departments with given lengths such that the total weighted sum of their distances to a given checkpoint is minimized. The Checkpoint Ordering Problem (COP) is both of theoretical and practical interest. It has several applications and is conceptually related to some well-studied combinatorial optimization problems, namely the Single-Row Facility Layout Problem, the Linear Ordering Problem and a variant of parallel machine scheduling. In this paper we study the complexity of the (COP) and its special cases. The general version of the (COP) with an arbitrary but fixed number of checkpoints is NP-hard in the weak sense. We propose both a dynamic programming algorithm and an integer linear programming approach for the (COP) . Our computational experiments indicate that the (COP) is hard to solve in practice. While the run time of the dynamic programming algorithm strongly depends on the length of the departments, the integer linear programming approach is able to solve instances with up to 25 departments to optimality.
+Keywords
+Combinatorial optimization, dynamic programming, integer linear programming, global optimization, facilities planning and design 

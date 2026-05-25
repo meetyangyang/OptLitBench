@@ -1,0 +1,6 @@
+Adjoint methods of sensitivity analysis for Lyapunov equation
+Kun Yan;Gengdong Cheng;Bo Ping Wang;
+Abstract
+The existing direct sensitivity analysis of optimal structural vibration control based on Lyapunov’s second method is computationally expensive when applied to finite element models with a large number of degree-of-freedom and design variables. A new adjoint sensitivity analysis method is proposed in this paper. Using the new method the sensitivity of the performance index, a time integral of a quadratic function of state variables, with respect to all design variables is calculated by solving two Lyapunov matrix equations. In consideration of computational cost reduction, the new adjoint method is further extended to the reduced order model by Guyan method. This makes the method applicable to large finite element models. Two numerical examples demonstrate the accuracy and efficiency of the proposed method.
+Keywords
+Adjoint sensitivity analysis  Lyapunov’s second method  Passive vibration control  

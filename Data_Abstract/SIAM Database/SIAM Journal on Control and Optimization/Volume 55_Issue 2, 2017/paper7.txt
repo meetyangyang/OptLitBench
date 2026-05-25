@@ -1,0 +1,6 @@
+Rank Deficiency of Kalman Error Covariance Matrices in Linear Time-Varying System With Deterministic Evolution
+Karthik S.  Gurumoorthy, Colin  Grudzien, Amit  Apte, Alberto  Carrassi, and Christopher K. R. T.  Jones;
+Abstract
+We prove that for-linear, discrete, time-varying, deterministic system (perfect-model) with noisy outputs, the Riccati transformation in the Kalman filter asymptotically bounds the rank of the forecast and the analysis error covariance matrices to be less than or equal to the number of nonnegative Lyapunov exponents of the system. Further, the support of these error covariance matrices is shown to be confined to the space spanned by the unstable-neutral backward Lyapunov vectors, providing the theoretical justification for the methodology of the algorithms that perform assimilation only in the unstable-neutral subspace. The equivalent property of the autonomous system is investigated as a special case.
+Keywords
+Kalman filter, data assimilation, linear dynamics, control theory, covariance matrix, rank, 93E11, 93C05, 93B05, 60G35, 15A03, 

@@ -1,0 +1,6 @@
+Numerical study of augmented Lagrangian algorithms for constrained global optimization
+ Ana   Maria A.C.   Rocha ; Edite   M.G.P.   Fernandes ;
+Abstract
+ This article presents a numerical study of two augmented Lagrangian algorithms to solve continuous constrained global optimization problems. The algorithms approximately solve a sequence of bound constrained subproblems whose objective function penalizes equality and inequality constraints violation and depends on the Lagrange multiplier vectors and a penalty parameter. Each subproblem is solved by a population-based method that uses an electromagnetism-like (EM) mechanism to move points towards optimality. Three local search procedures are tested to enhance the EM algorithm. Benchmark problems are solved in a performance evaluation of the proposed augmented Lagrangian methodologies. A comparison with other techniques presented in the literature is also reported. 
+Keywords
+global optimization, augmented Lagrangian, electromagnetism-like mechanism, heuristicsAMS Subject Classifications: 90C30, 90C26, 90C56, 90C59 

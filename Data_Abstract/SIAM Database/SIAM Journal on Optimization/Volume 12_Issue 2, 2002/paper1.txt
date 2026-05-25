@@ -1,0 +1,6 @@
+Analysis of Inexact Trust-Region SQP Algorithms
+Matthias  Heinkenschloss and Luis N.  Vicente;
+Abstract
+In this paper we extend the design of a class of composite-step trust-region SQP methods and their global convergence analysis to allow inexact problem information. The inexact problem information can result from iterative linear system solves within the trust-region SQP method or from approximations of first-order derivatives. Accuracy requirements in our trust-region SQP methods are adjusted based on feasibility and optimality of the iterates. Our accuracy requirements are stated in general terms, but we show how they can be enforced using information that is already available in matrix-free implementations of SQP methods. In the absence of inexactness our global convergence theory is equal to that of Dennis, El-Alem, and Maciel [SIAM J. Optim., 7 (1997), pp. 177--207]. If all iterates are feasible, i.e., if all iterates satisfy the equality constraints, then our results are related to the known convergence analyses for trust-region methods with inexact gradient information for unconstrained optimization.
+Keywords
+nonlinear programming, trust-region methods, inexact linear systems solvers, Krylov subspace methods, optimal control, 49M37, 90C06, 90C30, 90C55, 

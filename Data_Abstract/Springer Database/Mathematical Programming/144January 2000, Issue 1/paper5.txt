@@ -1,0 +1,6 @@
+A non–interior predictor–corrector path following algorithm for the monotone linear complementarity problem
+Jim Burke;Song Xu;
+Abstract
+We present a predictor–corrector non–interior path following algorithm for the monotone linear complementarity problem based on Chen–Harker–Kanzow–Smale smoothing techniques. Although the method is modeled on the interior point predictor–corrector strategies, it is the first instance of a non–interior point predictor–corrector algorithm. The algorithm is shown to be both globally linearly convergent and locally quadratically convergent under standard hypotheses. The approach to global linear convergence follows the authors’ previous work on this problem for the case of (P0+R0) LCPs. However, in this paper we use monotonicity to refine our notion of neighborhood of the central path. The refined neighborhood allows us to establish the uniform boundedness of certain slices of the neighborhood of the central path under the standard hypothesis that a strictly positive feasible point exists.
+Keywords
+Mathematics Subject Classification (1991): 90C33  

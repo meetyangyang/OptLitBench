@@ -1,0 +1,6 @@
+A Scaled Gauss--Newton Primal-Dual Search Direction for Semidefinite Optimization
+E.  de Klerk, J.  Peng, C.  Roos, and T.  Terlaky;
+Abstract
+Interior point methods for semidefinite optimization (SDO) have recently been studied intensively, due to their polynomial complexity and practical efficiency. Most of these methods are extensions of linear optimization (LO) algorithms. As opposed to the LO case, there are several different ways of constructing primal-dual search directions in SDO. The usual scheme is to apply linearization in conjunction with symmetrization to the perturbed optimality conditions of the SDO problem. Symmetrization is necessary since the linearized system is overdetermined. A way of avoiding symmetrization is to find a least squares solution of the overdetermined system. Such a "Gauss--Newton" direction was investigated by Kruk et al. [The Gauss--Newton Direction in Semidefinite Programming, Research report CORR 98-16, University of Waterloo, Waterloo, Canada, 1998] without giving any complexity analysis. In this paper we present a similar direction where a local norm is used in the least squares formulation, and we give a polynomial complexity analysis and computational evaluation of the resulting primal-dual algorithm.
+Keywords
+semidefinite optimization, primal-dual search directions, interior point algorithms, 65K, 

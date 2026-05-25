@@ -1,0 +1,6 @@
+Anisotropic Total Variation Filtering
+Markus Grasmair;Frank Lenzen;
+Abstract
+Total variation regularization and anisotropic filtering have been established as standard methods for image denoising because of their ability to detect and keep prominent edges in the data. Both methods, however, introduce artifacts: In the case of anisotropic filtering, the preservation of edges comes at the cost of the creation of additional structures out of noise; total variation regularization, on the other hand, suffers from the stair-casing effect, which leads to gradual contrast changes in homogeneous objects, especially near curved edges and corners. In order to circumvent these drawbacks, we propose to combine the two regularization techniques. To that end we replace the isotropic TV semi-norm by an anisotropic term that mirrors the directional structure of either the noisy original data or the smoothed image. We provide a detailed existence theory for our regularization method by using the concept of relaxation. The numerical examples concluding the paper show that the proposed introduction of an anisotropy to TV regularization indeed leads to improved denoising: the stair-casing effect is reduced while at the same time the creation of artifacts is suppressed.
+Keywords
+Image denoising  Total variation  Relaxation  Anisotropic filtering  Variational denoising  

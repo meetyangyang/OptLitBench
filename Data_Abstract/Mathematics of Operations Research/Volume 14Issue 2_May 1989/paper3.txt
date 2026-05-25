@@ -1,0 +1,6 @@
+On Global Costs and Nyquist's Theorem in Random Variate Generation
+Luc Devroye;
+Abstract
+We consider a large class of densities defined in terms of smoothness and tail conditions. Assume that we want to generate n iid random variables from a given density f in this class, and that the global cost of the generator is equal to the total number of evaluations of f. We demonstrate with the help of several examples how one can proceed to make the expected cost grow at a sublinear (o(n)) rate. Examples include the class of Lipschitz densities on [0, 1] with known Lipschitz constant, the class of bounded monotone densities on [0, 1], and the class of all densities with a characteristic function of bounded support and kth moment bounded by a given constant. In the last example, we proceed to show how Nyquist's theorem can be exploited to yield a generator with O(n1/(k−1)) expected cost.
+Keywords
+random variate generation analysis of algorithms characteristic function Nyquist's theorem rejection method expected time complexity analytic functions density 

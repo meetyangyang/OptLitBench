@@ -1,0 +1,6 @@
+Implementing cholesky factorization for interior point methods of linear programming 
+   J.   Gondzio ;
+Abstract
+ Every iteration of an interior point method of large scale linear programming requires computing at least one orthogonal projection of the objective function gradient onto the null space of a linear operator defined by the problem constraint matrix A. The orthogonal projection itself is in turn dominated by the inversion of the symmetric matrix of form AçA T, where ç is a diagonal weighting matrix. In this paper several specific issues of implementation of the Cholesky factorization that can be applied for solving such equations are discussed. The code called CHFACT being the result of this work is shown to produce comparably sparse factors as the state-of-the-art implementation of the Cholesky decomposition of George and Liu (1981). It has been used for computing projections in an efficient implementation of a higher order primal-dual interior point method of Altman and Gondzio (1992a, b). Although primary aim of developing CHFACT was to include it into an LP optimizer, the code may equally well be used to solve general large sparse positive definite systems arising in different applications  
+Keywords
+Linear programs, Interior point methods, Orthogonal projections, Sparse positive definite systems, Cholesky factorization 

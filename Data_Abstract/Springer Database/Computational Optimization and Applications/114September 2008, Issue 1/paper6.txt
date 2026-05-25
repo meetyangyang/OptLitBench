@@ -1,0 +1,8 @@
+A control reduced primal interior point method for a class of control constrained optimal control problems
+Martin Weiser;Tobias Gänzler;Anton Schiela;
+Abstract
+
+A primal interior point method for control constrained optimal control problems with PDE constraints is considered. Pointwise elimination of the control leads to a homotopy in the remaining state and dual variables, which is addressed by a short step pathfollowing method. The algorithm is applied to the continuous, infinite dimensional problem, where discretization is performed only in the innermost loop when solving linear equations. The a priori elimination of the least regular control permits to obtain the required accuracy with comparatively coarse meshes. Convergence of the method and discretization errors are studied, and the method is illustrated at two numerical examples.
+
+Keywords
+Interior point methods in function space  Optimal control  Finite elements  Discretization error  

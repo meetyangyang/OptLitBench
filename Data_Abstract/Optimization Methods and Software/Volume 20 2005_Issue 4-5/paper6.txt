@@ -1,0 +1,6 @@
+Optimizing partially separable functions without derivatives
+ Benoît   Colson ; Philippe L.   Toint ;
+Abstract
+ We present an algorithm for solving nonlinear programming problems involving a partially separable objective function whose derivatives are assumed to be unavailable. At each iteration, we construct a quadratic interpolation model of the objective function around the current iterate and minimize this model to obtain a trial step. The whole process is embedded within a trust-region framework. We further propose to use ideas of Curtis, Powell and Reid to minimize the number of calls to the objective function in the part of the derivative-free algorithm that improves the geometry of the interpolation set. Numerical experiments tend to confirm the promising behaviour of the algorithm. 
+Keywords
+Partially separable functions, Derivative-free optimization, Multivariate interpolation, Trust-region algorithms 

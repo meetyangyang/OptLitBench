@@ -1,0 +1,6 @@
+Gradient-based selection of cross sections: a novel approach for optimal frame structure design
+Christian Krogh;Mathias H. Jungersen;Erik Lund;Esben Lindgaard;
+Abstract
+Optimization of frame structures composed of beams, columns and joints is considered. The problem is to find the optimal combination of standard cross sections from a provided catalog. The approach taken utilizes the Discrete Material Optimization (DMO) method to parameterize the problem and optimize using a gradient based method. It has roots in continuum topology optimization and thus strong parallels are drawn hereto in terms of methodology. The MATLAB implementation can take mass, compliance and stress criteria into account. In addition continuous joint stiffness design variables will indicate whether the joint should be rigid or pinned. Issues related to the non-convexity of the design spaces and the numerous local minima are discussed. The numerical results with benchmark models of varying complexity successfully validate the method as a design tool.
+Keywords
+Discrete optimization  Frame structures  Joint stiffness  

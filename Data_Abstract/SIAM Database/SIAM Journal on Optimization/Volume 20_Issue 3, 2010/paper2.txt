@@ -1,0 +1,6 @@
+A Randomized Incremental Subgradient Method for Distributed Optimization in Networked Systems
+Björn  Johansson, Maben  Rabi, and Mikael  Johansson;
+Abstract
+We present an algorithm that generalizes the randomized incremental subgradient method with fixed stepsize due to Nedić and Bertsekas [SIAM J. Optim., 12 (2001), pp. 109–138]. Our novel algorithm is particularly suitable for distributed implementation and execution, and possible applications include distributed optimization, e.g., parameter estimation in networks of tiny wireless sensors. The stochastic component in the algorithm is described by a Markov chain, which can be constructed in a distributed fashion using only local information. We provide a detailed convergence analysis of the proposed algorithm and compare it with existing, both deterministic and randomized, incremental subgradient methods.
+Keywords
+convex programming, subgradient optimization, distributed optimization, Markov chain, 65K05, 90C25, 

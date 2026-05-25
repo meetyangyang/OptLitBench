@@ -1,0 +1,6 @@
+Numerical Solution of Hamilton-Jacobi-Bellman Equations by an Upwind Finite Volume Method
+S. Wang;L.S. Jennings;K.L. Teo;
+Abstract
+In this paper we present a finite volume method for solving Hamilton-Jacobi-Bellman(HJB) equations governing a class of optimal feedback control problems. This method is based on a finite volume discretization in state space coupled with an upwind finite difference technique, and on an implicit backward Euler finite differencing in time, which is absolutely stable. It is shown that the system matrix of the resulting discrete equation is an M-matrix. To show the effectiveness of this approach, numerical experiments on test problems with up to three states and two control variables were performed. The numerical results show that the method yields accurate approximate solutions to both the control and the state variables.
+Keywords
+Optimal feedback control  Hamilton-Jacobi-Bellman equation  finite volume method  Viscosity solution  upwind finite difference  

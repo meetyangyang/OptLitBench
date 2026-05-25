@@ -1,0 +1,6 @@
+Digraph Models of Bard-Type Algorithms for the Linear Complementarity Problem
+Alan Stickney;Layne Watson;
+Abstract
+For M ∈ En×n and q ∈ En, the linear complementarity problem is to find vectors w, z ∈ En such that w − Mz = q, w ≥ 0, z ≥ 0, wtz = 0. A family of algorithms based on complementary pivoting for solving this problem is modelled by digraphs. These digraphs show that such algorithms can cycle even for symmetric, positive deFinite M, and provide some insight into the algorithms' behavior. For a P-matrix M, it is proved that if the solution to the complementarity problem can be obtained by k principal pivots, then it can be obtained by k Bard-type pivots. Furthermore, the digraphs provide simple geometric proofs of some of Murty's algebraic results. The digraphs, apart from their use as models, also raise some interesting graph-theoretic questions.
+Keywords
+linear complementarity problem complementarity Bard's algorithm complementary pivoting digraph digraph model 

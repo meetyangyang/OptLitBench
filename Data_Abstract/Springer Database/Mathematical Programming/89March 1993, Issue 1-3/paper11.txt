@@ -1,0 +1,6 @@
+Conditions for the discovery of solution horizons
+James C. Bean;Robert L. Smith;
+Abstract
+We present necessary and sufficient conditions for discrete infinite horizon optimization problems with unique solutions to be solvable. These problems can be equivalently viewed as the task of finding a shortest path in an infinite directed network. We provide general forward algorithms with stopping rules for their solution. The key condition required is that of weak reachability, which roughly requires that for any sequence of nodes or states, it must be possible from optimal states to reach states close in cost to states along this sequence. Moreover the costs to reach these states must converge to zero. Applications are considered in optimal search, undiscounted Markov decision processes, and deterministic infinite horizon optimization.
+Keywords
+Dynamic programming  deterministic and Markov  infinite state: infinite stage problems  programming  infinite dimensional: infinite horizon optimization  shortest paths  infinite networks  

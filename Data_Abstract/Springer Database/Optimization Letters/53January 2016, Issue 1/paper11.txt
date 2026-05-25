@@ -1,0 +1,6 @@
+An efficient adaptive scaling parameter for the spectral conjugate gradient method
+Yang Zhang;Bin Dan;
+Abstract
+This paper deals with the choice of the scaling parameter in the spectral conjugate gradient (SCG) method proposed by Birgin and Martínez (in Appl Math Optim 43:117–128, 2001). Theoretical analyses show that the scaling parameter selection not only influences the numerical stability, but also plays an important role in ensuring the descent property of the SCG method. Based on these analyses, an adaptive scaling parameter is proposed to overcome the drawback of the original choice. Global convergence of the SCG method with our new parameter is established for both convex and nonconvex objective functions. Numerical results on CUTEr problems indicate that the proposed scaling parameter is very efficient and promising.
+Keywords
+Spectral conjugate gradient method  Scaling parameter  Descent property  Global convergence  65K05  90C30  

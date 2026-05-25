@@ -1,0 +1,6 @@
+Operations research and optimization (ORO)
+ Nezam   Mahdavi-Amiri ; Mohammad   Reza   Ansari ;
+Abstract
+ We have recently proposed a structured algorithm for solving constrained nonlinear least-squares problems and established its local two-step Q-superlinear convergence rate. The approach is based on an earlier adaptive structured scheme due to Mahdavi-Amiri and Bartels of the exact penalty method. The structured adaptation makes use of the ideas of Nocedal and Overton for handling quasi-Newton updates of projected Hessians and adapts a structuring scheme due to Engels and Martinez. For robustness, we have employed a specific nonsmooth line search strategy, taking account of the least-squares objective. Numerical results also confirm the practical relevance of our special considerations for the inherent structure of the least squares. Here, we establish global convergence of the proposed algorithm using a weaker condition than the one used by the exact penalty method of Coleman and Conn for general nonlinear programs. 
+Keywords
+constrained non-linear programming, exact penalty method, nonlinear least squares, projected structured Hessian update, global convergenceAMS Subject Classifications: 65K05, 90C30, 90C52, 90C53, 90C55, 93E24 

@@ -1,0 +1,6 @@
+Interior value extrapolation: a new method for stress evaluation during topology optimization
+Henrik Svärd;
+Abstract
+This article presents a new method for evaluating stresses in the jagged structures that arise when using a fixed finite element mesh to optimize the topology of a structure. The new method, Interior Value Extrapolation, IVE, exploits the fact that in the interior of the structure, the stresses calculated by the finite element method are more accurate than at the boundary. The jagged nature of the mesh makes stresses at the boundary oscillate. Therefore, stresses at the boundary are instead extrapolated from results in the interior, resulting in a more stable and accurate stress measure. A restriction method in the form of a non linear density filter is also proposed, tailored to be used in conjunction with the new stress evaluation method. The new method is evaluated for accuracy using example geometries, for which the stresses are known. It is shown that IVE improves the accuracy of the stress calculation. Optimization examples are thereafter solved with and without IVE, and the results are discussed. It is shown that the change in stress evaluation can in fact cause changes in the solution of a typical stress minimization problem.
+Keywords
+Stress evaluation  Finite element methods  Topology design  

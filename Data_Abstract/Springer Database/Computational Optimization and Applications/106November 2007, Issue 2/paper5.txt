@@ -1,0 +1,8 @@
+A bilinear algorithm for sparse representations
+Pando Georgiev;Panos Pardalos;Fabian Theis;
+Abstract
+
+We consider the following sparse representation problem: represent a given matrix X∈ℝ m×N  as a multiplication X=AS of two matrices A∈ℝ m×n  (m≤n<N) and S∈ℝ n×N , under requirements that all m×m submatrices of A are nonsingular, and S is sparse in sense that each column of S has at least n−m+1 zero elements. It is known that under some mild additional assumptions, such representation is unique, up to scaling and permutation of the rows of S. We show that finding A (which is the most difficult part of such representation) can be reduced to a hyperplane clustering problem. We present a bilinear algorithm for such clustering, which is robust to outliers. A computer simulation example is presented showing the robustness of our algorithm.
+
+Keywords
+Sparse component analysis  Blind source separation  Underdetermined mixtures  

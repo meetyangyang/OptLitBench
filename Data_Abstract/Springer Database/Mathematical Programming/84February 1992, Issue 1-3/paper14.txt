@@ -1,0 +1,6 @@
+On the best case performance of hit and run methods for detecting necessary constraints
+R. J. Caron;M. Hlynka;J. F. McDonald;
+Abstract
+The hit and run methods are probabilistic algorithms that can be used to detect necessary (nonredundant) constraints in systems of linear constraints. These methods construct random sequences of lines that pass through the feasible region. These lines intersect the boundary of the region at twohit-points, each identifying a necessary constraint. In order to study the statistical performance of such methods it is assumed that the probabilities of hitting particular constraints are the same for every iteration. An indication of the best case performance of these methods can be determined by minimizing, with respect to the hit probabilities, the expected value of the number of iterations required to detect all necessary constraints. We give a set of isolated strong local minimizers and prove that for two, three and four necessary constraints the set of local minimizers is the complete set of global minimizers. We conjecture that this is also the case for any number of necessary constraints. The results in this paper also apply to sampling problems (e.g., balls from an urn) and to the coupon collector's problem.
+Keywords
+Hit and run methods  redundancy  linear inequalities  coupon collector's problem  

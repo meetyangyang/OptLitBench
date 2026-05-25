@@ -1,0 +1,6 @@
+Preconditioned low-order Newton methods
+Y. F. Hu;C. Storey;
+Abstract
+In this paper, low-order Newton methods are proposed that make use of previously obtained second-derivative information by suitable preconditioning. When applied to a particular 2-dimensional Newton method (the LS method), it is shown that a member of the Broyden family of quasi-Newton methods is obtained. Algorithms based on this preconditioned LS model are tested against some variations of the BFGS method and shown to be much superior in terms of number of iterations and function evaluations, but not so effective in terms of number of gradient evaluations.
+Keywords
+Unconstrained optimization  preconditioning  lower-or-der Newton methods  quasi-Newton methods  

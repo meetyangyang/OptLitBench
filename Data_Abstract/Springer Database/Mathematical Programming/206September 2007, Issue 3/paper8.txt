@@ -1,0 +1,6 @@
+Constraint incorporation in optimization
+Adam B. Levy;
+Abstract
+Numerical methods for solving constrained optimization problems need to incorporate the constraints in a manner that satisfies essentially competing interests; the incorporation needs to be simple enough that the solution method is tractable, yet complex enough to ensure the validity of the ultimate solution. We introduce a framework for constraint incorporation that identifies a minimal acceptable level of complexity and defines two basic types of constraint incorporation which (with combinations) cover nearly all popular numerical methods for constrained optimization, including trust region methods, penalty methods, barrier methods, penalty-multiplier methods, and sequential quadratic programming methods. The broad application of our framework relies on addition and chain rules for constraint incorporation which we develop here.
+Keywords
+Constrained optimization  Numerical optimization  Penalty methods  Barrier methods  Trust region methods  Penalty-multiplier methods  Sequential quadratic programming  Variational analysis  

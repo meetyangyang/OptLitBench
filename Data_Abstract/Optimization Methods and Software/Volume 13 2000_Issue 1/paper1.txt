@@ -1,0 +1,6 @@
+Massive data discrimination via linear support vector machines
+   P.S.   Bradley ;   O.L.   Mangasarian ;
+Abstract
+ A linear support vector machine formulation is used to generate a fast, finitely-terminating linear-programming algorithm for discriminating between two massive sets in n-dimen-sional space, where the number of points can be orders of magnitude larger than n. The algorithm creates a succession of sufficiently small linear programs that separate chunks of the data at a time. The key idea is that a small number of support vectors, corresponding to linear programming constraints with positive dual variables, are carried over between the successive small linear programs, each of which containing a chunk of the data. We prove that this procedure is monotonic and terminates in a finite number of steps at an exact solution that leads to an optimal separating plane for the entire dataset. Numerical results on fully dense publicly available datasets, numbering 20,000 to 1 million points in 32-dimensional space, confirm the theoretical results and demonstrate the ability to handle very large problems  
+Keywords
+Support Vector Machines, Linear Programming Chunking 

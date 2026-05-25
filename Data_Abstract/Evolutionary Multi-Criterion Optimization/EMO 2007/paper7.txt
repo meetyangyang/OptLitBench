@@ -1,0 +1,4 @@
+Capabilities of EMOA to Detect and Preserve Equivalent Pareto Subsets
+Günter Rudolph;Boris Naujoks;Mike Preuss;
+Abstract
+Recent works in evolutionary multiobjective optimization suggest to shift the focus from solely evaluating optimization success in the objective space to also taking the decision space into account. They indicate that this may be a) necessary to express the users requirements of obtaining distinct solutions (distinct Pareto set parts or subsets) of similar quality (comparable locations on the Pareto front) in real-world applications, and b) a demanding task for the currently most commonly used algorithms. We investigate if standard EMOA are able to detect and preserve equivalent Pareto subsets and develop an own special purpose EMOA that meets these requirements reliably.

@@ -1,0 +1,6 @@
+An infeasible interior-point algorithm based on modified Nesterov and Todd directions for symmetric linear complementarity problem
+B. Kheirfam;N. Mahdavi-Amiri;
+Abstract
+We present an infeasible interior-point algorithm for symmetric linear complementarity problem based on modified Nesterov–Todd directions by using Euclidean Jordan algebras. The algorithm decreases the duality gap and the feasibility residual at the same rate. In this algorithm, we construct strictly feasible iterates for a sequence of perturbations of the given problem. Each main iteration of the algorithm consists of a feasibility step and a number of centring steps. The starting point in the first iteration is strictly feasible for a perturbed problem. The feasibility steps lead to a strictly feasible iterate for the next perturbed problem. By using centring steps for the new perturbed problem, a strictly feasible iterate is obtained to be close to the central path of the new perturbed problem. Furthermore, giving a complexity analysis of the algorithm, we derive the currently best-known iteration bound for infeasible interior-point methods.
+Keywords
+symmetric linear complementarity problem, infeasible interior-point methods, Euclidean Jordan algebrasClassification: 90C51 

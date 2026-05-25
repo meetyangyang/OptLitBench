@@ -1,0 +1,6 @@
+Stationarity and superlinear convergence of an algorithm for univariate locally lipschitz constrained minimization
+Robert Mifflin;
+Abstract
+This paper introduces an algorithm for minimizing a single-variable locally Lipschitz function subject to a like function being nonpositive. The method combines polyhedral and quadratic approximation, a new type of penalty technique and a safeguard in such a way as to give convergence to a stationary point. The convergence is shown to be superlinear under somewhat stronger assumptions that allow both nonsmooth and nonconvex cases. The algorithm can be an effective subroutine for solving line search subproblems called for by multivariable optimization algorithms.
+Keywords
+Nonsmooth Optimization  Nondifferentiable Programming  Constrained Minimization  Locally Lipschitz Functions  Line Search  

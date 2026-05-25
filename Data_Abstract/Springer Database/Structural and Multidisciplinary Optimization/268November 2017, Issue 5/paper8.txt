@@ -1,0 +1,6 @@
+A cooperative radial basis function method for variable-fidelity surrogate modeling
+Xu Li;Wenkun Gao;Liangxian Gu;Chunlin Gong;Zhao Jing;Hua Su;
+Abstract
+By coupling the low-fidelity (LF) model with the high-fidelity (HF) samples, the variable-fidelity model (VFM) offers an efficient way to overcome the expensive computing challenge in multidisciplinary design optimization (MDO). In this paper, a cooperative radial basis function (Co-RBF) method for the VFM is proposed by modifying the basis function of RBF. The RBF method is constructed on the HF samples, while the Co-RBF method incorporates the entire information of the LF model with the HF samples. In Co-RBF, the LF model is regard as a basis function of Co-RBF and the HF samples are utilized to compute the Co-RBF model coefficients. Two numerical functions and three engineering problems are adopted to verify the proposed Co-RBF method. The predictive results of Co-RBF are compared with those of RBF and Co-Kriging, which show that the Co-RBF method improves the efficiency, accuracy and robustness of the existing VFMs.
+Keywords
+VFM  Surrogate model  RBF  Co-RBF  Co-Kriging  

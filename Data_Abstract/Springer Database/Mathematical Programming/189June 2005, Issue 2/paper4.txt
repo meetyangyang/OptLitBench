@@ -1,0 +1,6 @@
+A simplicial branch-and-bound algorithm for solving quadratically constrained quadratic programs
+Jeff Linderoth;
+Abstract
+We propose a branch-and-bound algorithm for solving nonconvex quadratically-constrained quadratic programs. The algorithm is novel in that branching is done by partitioning the feasible region into the Cartesian product of two-dimensional triangles and rectangles. Explicit formulae for the convex and concave envelopes of bilinear functions over triangles and rectangles are derived and shown to be second-order cone representable. The usefulness of these new relaxations is demonstrated both theoretically and computationally.
+Keywords
+Nonconvex quadratic programming  Global optimization  Convex envelope  Branch-and-bound  

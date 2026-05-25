@@ -1,0 +1,6 @@
+Multiple branching in parametric quadratic programming
+ Udo   Werner ;
+Abstract
+ An active-set strategy for solving a strictly convex parametric quadratic programming problem requires the change of the set of active restrictions at certain critical parameters, since otherwise the feasible region will be left or the associated Lagrangian multipliers will be negative. By contrast to a simple branching, where only one restriction is added to or deleted from the active set, the decision is more difficult, if several restrictions are eventually to be changed (multiple branching). The algorithm presented here contains the calculation of the critical points and a criterion, by which the constraints which are to change, are unambiguously determined. The optimal solutions and the multipliers are obtained as piece-wise linear functions of the parameter. The unique constraint qualification, which we assume, is the linear independence of the gradients of active constraints. The often used demand of the strong complementarity can be renounced. 
+Keywords
+ 

@@ -1,0 +1,6 @@
+Automatic differentiation and iterative processes
+ Jean Charles   Gilbert ;
+Abstract
+ We identify a class of iterative processes that can be used in the definition of a function while preserving the good behavior of automatic differentiation codes on this function. By iterative process, we mean a process where the number of iterations is determined by a stopping criterion, which can depend on the independent variables. By good behavior, we mean that the derivatives will be calculated correctly, asymptotically. The class contains the Newton method.  
+Keywords
+automatic differentiation, iterative process, Newton's method 

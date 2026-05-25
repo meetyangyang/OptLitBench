@@ -1,0 +1,6 @@
+Random Order Congestion Games
+Michal Penn;Maria Polukarov;Moshe Tennenholtz;
+Abstract
+We introduce a new class of games called random order congestion games (ROCGs). In an ROCG, each player has a task that can be carried out by any element of a set of resources, and each resource executes its assigned tasks in a random order. The aim of each player is to minimize his expected cost, which is the sum of the fixed costs over the set of his utilized resources and the expected cost of his task execution. The cost of a player's task execution is determined by the earliest time his task is completed, and thus it might be beneficial for him to assign his task to several resources. We prove the existence of pure strategy Nash equilibria in ROCGs. Moreover, we present a polynomial time algorithm for finding such an equilibrium in a given ROCG.
+Keywords
+congestion games asynchronous distributed systems random order of task execution pure strategy Nash equilibrium algorithms 

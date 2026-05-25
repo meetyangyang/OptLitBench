@@ -1,0 +1,6 @@
+An improved harmony search algorithm with dynamically varying bandwidth
+J. Kalivarapu;S. Jain;S. Bag;
+Abstract
+The present work demonstrates a new variant of the harmony search (HS) algorithm where bandwidth (BW) is one of the deciding factors for the time complexity and the performance of the algorithm. The BW needs to have both explorative and exploitative characteristics. The ideology is to use a large BW to search in the full domain and to adjust the BW dynamically closer to the optimal solution. After trying a series of approaches, a methodology inspired by the functioning of a low-pass filter showed satisfactory results. This approach was implemented in the self-adaptive improved harmony search (SIHS) algorithm and tested on several benchmark functions. Compared to the existing HS algorithm and its variants, SIHS showed better performance on most of the test functions. Thereafter, the algorithm was applied to geometric parameter optimization of a friction stir welding tool.
+Keywords
+harmony search, self-consistent, metaheuristic, global optimization, friction stir welding 

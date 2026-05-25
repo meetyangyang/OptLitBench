@@ -1,0 +1,6 @@
+Partial Affine-Scaling for Linearly Constrained Minimization
+Paul Tseng;
+Abstract
+We propose an interior point method for finding a stationary point of a nonlinear program with linear equality and nonnegativity constraints. This method maintains a basis at each iteration and updates the iterate by taking an affine-scaling step in the space of nonbasic variables. In the general case, we propose to choose the basis according to a rule that maximizes the basic components of the iterate. In the case where the feasible region is the product of simplices, we propose an alternative rule that minimizes the basic components of the cost gradient. We analyze the convergence of the method under each rule. A key feature of this method is that it can be implemented much like the simplex method.
+Keywords
+linear/nonlinear program stationary point affine-scaling reduced-gradient basis 

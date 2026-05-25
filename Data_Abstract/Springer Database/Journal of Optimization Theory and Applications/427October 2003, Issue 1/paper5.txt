@@ -1,0 +1,6 @@
+Use of the Minimum-Norm Search Direction in a Nonmonotone Version of the Gauss-Newton Method
+F. Lampariello;M. Sciandrone;
+Abstract
+In this work, a new stabilization scheme for the Gauss-Newton method is defined, where the minimum norm solution of the linear least-squares problem is normally taken as search direction and the standard Gauss-Newton equation is suitably modified only at a subsequence of the iterates. Moreover, the stepsize is computed by means of a nonmonotone line search technique. The global convergence of the proposed algorithm model is proved under standard assumptions and the superlinear rate of convergence is ensured for the zero-residual case. A specific implementation algorithm is described, where the use of the pure Gauss-Newton iteration is conditioned to the progress made in the minimization process by controlling the stepsize. The results of a computational experimentation performed on a set of standard test problems are reported.
+Keywords
+Gauss-Newton method  nonlinear least-squares problems  minimum norm solution  nonmonotone line search techniques  

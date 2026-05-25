@@ -1,0 +1,6 @@
+A Structured Reduced Sequential Quadratic Programming and Its Application to a Shape Design Problem
+Terry L. Herdman;Kyehong Kang;
+Abstract
+The objective of this work is to solve a model one dimensional duct design problem using a particular optimization method. The design problem is formulated as an equality constrained optimization, called all at once method, so that the analysis problem is not solved until the optimal design is reached. Furthermore, the sparsity structure in the Jacobian of the linearized constraints is exploited by decomposing the variables into the design and flow parts. To achieve this, sequential quadratic programming with BFGS update for the reduced Hessian of the Lagrangian function is used with the variable reduction method which preserves the structure of the Jacobian in representing the null space basis matrix. By updating the reduced Hessians of which the dimension is the number of design variables, the storage requirement for the Hessians is reduced by a large amount. In addition, the flow part of the Jacobian can be computed analytically.
+Keywords
+Shape Optimization  sequential quadratic programming  nonlinear programming  variable reduction method  

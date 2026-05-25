@@ -1,0 +1,4 @@
+On CNF Encodings of Decision Diagrams
+Ignasi Abío;Graeme Gange;Valentin Mayer-Eichberger;Peter J. Stuckey;
+Abstract
+Decisions diagrams such as Binary Decision Diagrams (BDDs), Multi-valued Decision Diagrams (MDDs) and Negation Normal Forms (NNFs) provide succinct ways of representing Boolean and other finite functions. Hence they provide a powerful tool for modelling complex constraints in discrete satisfaction and optimization problems. Generic propagators for these global constraints exist, but they are complex and hard to implement. An alternative approach to making use of them for solving is to encode them to CNF, using SAT style solving technology to implement them efficiently. This may also have advantages since it is naturally incremental and exposes intermediate literals which may well be useful as search decisions for solving the problem.

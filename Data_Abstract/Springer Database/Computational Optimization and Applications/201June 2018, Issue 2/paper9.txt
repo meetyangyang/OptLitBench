@@ -1,0 +1,6 @@
+Efficiently solving total least squares with Tikhonov identical regularization
+Meijia Yang;Yong Xia;Jiulin Wang;Jiming Peng;
+Abstract
+The Tikhonov identical regularized total least squares (TI) is to deal with the ill-conditioned system of linear equations where the data are contaminated by noise. A standard approach for (TI) is to reformulate it as a problem of finding a zero point of some decreasing concave non-smooth univariate function such that the classical bisection search and Dinkelbach’s method can be applied. In this paper, by exploring the hidden convexity of (TI), we reformulate it as a new problem of finding a zero point of a strictly decreasing, smooth and concave univariate function. This allows us to apply the classical Newton’s method to the reformulated problem, which converges globally to the unique root with an asymptotic quadratic convergence rate. Moreover, in every iteration of Newton’s method, no optimization subproblem such as the extended trust-region subproblem is needed to evaluate the new univariate function value as it has an explicit expression. Promising numerical results based on the new algorithm are reported.
+Keywords
+Fractional programming  Quadratic programming  Total least square  Tikhonov regularization  Bisection method  Newton’s method  Trust-region subproblem  S-lemma  90C26  90C20  90C32  

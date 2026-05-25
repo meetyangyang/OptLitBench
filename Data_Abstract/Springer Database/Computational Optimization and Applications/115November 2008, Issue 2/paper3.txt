@@ -1,0 +1,6 @@
+Progress in the dual simplex algorithm for solving large scale LP problems: techniques for a fast and stable implementation
+Achim Koberstein;
+Abstract
+During the last fifteen years the dual simplex method has become a strong contender in solving large scale LP problems. However, the lack of descriptions of important implementation details in the research literature has led to a great performance gap between open-source research codes and commercial LP-systems. In this paper we present the mathematical algorithms, computational techniques and implementation details, which are the key factors for our dual simplex code to close this gap. We describe how to exploit hyper-sparsity in the dual simplex algorithm. Furthermore, we give a conceptual integration of Harris’ ratio test, bound flipping and cost shifting techniques and describe a sophisticated and efficient implementation. We also address important issues of the implementation of dual steepest edge pricing. Finally we show on a large set of practical large scale LP problems, that our dual simplex code outperforms the best existing open-source and research codes and is competitive to the leading commercial LP-systems on our most difficult test problems.
+Keywords
+Linear programming  Dual simplex algorithm  MIP-solver MOPS  

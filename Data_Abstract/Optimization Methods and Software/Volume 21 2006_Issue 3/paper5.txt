@@ -1,0 +1,6 @@
+Mean value cross decomposition for nonlinear convex problems
+ Kaj   Holmberg ; Krzysztof C.   Kiwiel ;
+Abstract
+ Mean value cross decomposition is a symmetric primal–dual decomposition method suitable for optimization problems with both primal and dual structures. It uses only easily solvable subproblems and no difficult master problems. Originally developed for linear problems, it is in this paper extended to nonlinear convex optimization problems. Convergence is proved for a somewhat generalized version, allowing more general weights. Computational results are presented for a network routing problem with congestion costs, a large-scale nonlinear problem with structures that enable decomposition both with respect to variables and constraints. The main goals of the tests are to illustrate the procedure and to indicate that this decomposition approach is more efficient than direct solution with a well established general code. 
+Keywords
+Mathematical programming, Large-scale nonlinear programming, Decomposition methods 

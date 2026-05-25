@@ -1,0 +1,6 @@
+A Note on Trust-Region Radius Update
+Jérome M. B.  Walmag and Éric J. M.  Delhez;
+Abstract
+In classical trust-region optimization algorithms, the radius of the trust region is reduced, kept constant, or enlarged after, respectively, unsuccessful, successful, and very successful iterations. We propose here to refine the empirical rules used for this update by the definition of a new set of iterations that we call "too successful iterations." At such iterations, a large reduction of the objective function is obtained despite a crude local approximation of the objective function; the trust region is thus kept nearly constant instead of being enlarged.The new update rules preserve the strong convergence property of traditional trust-region methods. They can also be generalized to define a self-adaptive trust-region algorithm along the lines introduced by Hei [J. Comput. Math., 21 (2003), pp. 229-236].Numerical experiments carried out on 70 unconstrained problems from the CUTEr collection demonstrate the positive impact of the modified update strategy on the efficiency and robustness of quasi-Newton variants of a trust-region solver, when BFGS or SR1 updates of the approximation of the Hessian matrix are carried at all iterations.
+Keywords
+unconstrained optimization, nonlinear optimization, trust region, radius update, 90C26, 90C53, 65K05, 

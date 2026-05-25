@@ -1,0 +1,6 @@
+Numerical evaluation of SBmethod
+C. Helmberg;
+Abstract
+ We report numerical results for SBmethod – a publically available implementation of the spectral bundle method – applied to the 7$^{th}$ DIMACS challenge test sets that are semidefinite relaxations of combinatorial optimization problems. The performance of the code is heavily influenced by parameters that control bundle update and eigenvalue computation. Unfortunately, no mathematically sound guidelines for setting them are known. Based on our experience with SBmethod, we propose heuristics for dynamically updating the parameters as well as a heuristc for improving the starting point. These are now the default settings of SBmethod Version 1.1. We compare their performance on the DIMACS instances to our previous best choices for Version 1.0. SBmethod Version 1.1 is also part of the independent DIMACS benchmark by H. Mittelmann. Based on these results we try to analyze strengths and weaknesses of our approach in comparison to other codes for large scale semidefinite programming.
+Keywords
+Good Choice  Combinatorial Optimization  Numerical Evaluation  Default Setting  Combinatorial Optimization Problem  

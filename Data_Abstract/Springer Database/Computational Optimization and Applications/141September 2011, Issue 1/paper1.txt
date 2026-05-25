@@ -1,0 +1,6 @@
+Approximating Hessians in unconstrained optimization arising from discretized problems
+Vincent Malmedy;Philippe L. Toint;
+Abstract
+We consider Hessian approximation schemes for large-scale unconstrained optimization in the context of discretized problems. The considered Hessians typically present a nontrivial sparsity and partial separability structure. This allows iterative quasi-Newton methods to solve them despite of their size. Structured finite-difference methods and updating schemes based on the secant equation are presented and compared numerically inside the multilevel trust-region algorithm proposed by Gratton et al. (IMA J. Numer. Anal. 28(4):827–861, 2008).
+Keywords
+Unconstrained optimization  Discretized problems  Sparsity  Partial separability  Numerical experiences  

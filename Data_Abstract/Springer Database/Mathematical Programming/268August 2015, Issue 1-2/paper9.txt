@@ -1,0 +1,6 @@
+Evaluating policies in risk-averse multi-stage stochastic programming
+Václav Kozmík;David P. Morton;
+Abstract
+We consider a risk-averse multi-stage stochastic program using conditional value at risk as the risk measure. The underlying random process is assumed to be stage-wise independent, and a stochastic dual dynamic programming (SDDP) algorithm is applied. We discuss the poor performance of the standard upper bound estimator in the risk-averse setting and propose a new approach based on importance sampling, which yields improved upper bound estimators. Modest additional computational effort is required to use our new estimators. Our procedures allow for significant improvement in terms of controlling solution quality in SDDP-style algorithms in the risk-averse setting. We give computational results for multi-stage asset allocation using a log-normal distribution for the asset returns.
+Keywords
+Multi-stage stochastic programming  Stochastic dual dynamic programming  Importance sampling  Risk-averse optimization  90C15  49M27  

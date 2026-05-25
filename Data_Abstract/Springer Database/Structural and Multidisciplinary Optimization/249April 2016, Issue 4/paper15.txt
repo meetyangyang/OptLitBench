@@ -1,0 +1,6 @@
+On the formulation and implementation of geometric and manufacturing constraints in node–based shape optimization
+Oliver Schmitt;Jan Friederich;Stefan Riehl;Paul Steinmann;
+Abstract
+We introduce a novel method to handle geometrical and manufacturing constraints in parameter–free shape optimization. Therefore the design node coordinates are split in two sets where one set is declared as new design variables and the other set is coupled to the new design variables such that the geometrical constraint is fulfilled. Thereby no additional equations are appended to the optimization problem. In contrast the implementation of a demolding constraint is presented by formulating inequality constraints which indeed have to be attached to the optimization problem. In the context of a sensitivity–based shape optimization approach all manufacturing constraints have to be formulated in terms of the finite element node coordinates such that first order gradients with respect to the design node coordinates can be derived.
+Keywords
+Shape optimization  Manufacturing constraints  Geometrical constraints  Symmetry  Parameter–free  Sensitivity analysis  

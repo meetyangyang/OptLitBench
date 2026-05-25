@@ -1,0 +1,6 @@
+An ordering (enumerative) algorithm for nonlinear 0-1 programming
+Béla Vizvári;Fatih Yilmaz;
+Abstract
+In this paper, a new algorithm to solve a general 0–1 programming problem with linear objective function is developed. Computational experiences are carried out on problems where the constraints are inequalities on polynomials. The solution of the original problem is equivalent with the solution of a sequence of set packing problems with special constraint sets. The solution of these set packing problems is equivalent with the ordering of the binary vectors according to their objective function value. An algorithm is developed to generate this order in a dynamic way. The main tool of the algorithm is a tree which represents the desired order of the generated binary vectors. The method can be applied to the multi-knapsack type nonlinear 0–1 programming problem. Large problems of this type up to 500 variables have been solved.
+Keywords
+Nonlinear integer programming  enumeration  lexicographic order  global optimum  

@@ -1,0 +1,6 @@
+Newton's method for problems of optimal control of heterogeneous systems 
+ Vladimir M.   Veliov ;
+Abstract
+ A heterogeneous control system is a distributed parameter system which can be viewed as a (continuous) family of ordinary control systems coupled together by some aggregated quantities which depend on the states and the controls of the individual systems. We present necessary and sufficient conditions for optimality, which reduce the problem to a (stable) system of variation inequalities. The latter is considered in an abstract setting, where a set-valued version of the Newton method is applied and the error is estimated in a known manner. Then the general approach is implemented to the heterogeneous control problem by using a second-order Runge-Kutta scheme as a discretization tool. The error analysis proves under rather reasonable conditions—which do not exclude the case of control constraints—quadratic convergence with respect to the Newton iterations and second-order accuracy with respect to the discretization step. 
+Keywords
+Optimal control, Heterogeneous control systems, Runge-Kutta discretization, Newton method, Error analysis 

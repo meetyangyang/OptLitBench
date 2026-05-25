@@ -1,0 +1,6 @@
+Superrelaxation and the rate of convergence in minimizing quadratic functions subject to bound constraints
+Zdeněk Dostál;Marta Domorádová;Marie Sadowská;
+Abstract
+The paper resolves the problem concerning the rate of convergence of the working set based MPRGP (modified proportioning with reduced gradient projection) algorithm with a long steplength of the reduced projected gradient step. The main results of this paper are the formula for the R-linear rate of convergence of MPRGP in terms of the spectral condition number of the Hessian matrix and the proof of the finite termination property for the problems whose solution does not satisfy the strict complementarity condition. The bound on the R-linear rate of convergence of the projected gradient is also included. For shorter steplengths these results were proved earlier by Dostál and Schöberl. The efficiency of the longer steplength is illustrated by numerical experiments. The result is an important ingredient in developming scalable algorithms for numerical solution of elliptic variational inequalities and substantiates the choice of parameters that turned out to be effective in numerical experiments.
+Keywords
+Quadratic programming  Bound constraints  Inexact active set strategy  Rate of convergence  Finite termination  

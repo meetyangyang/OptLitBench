@@ -1,0 +1,6 @@
+Logical analysis of numerical data
+Endre Boros;Peter L. Hammer;Toshihide Ibaraki;Alexander Kogan;
+Abstract
+“Logical analysis of data” (LAD) is a methodology developed since the late eighties, aimed at discovering hidden structural information in data sets. LAD was originally developed for analyzing binary data by using the theory of partially defined Boolean functions. An extension of LAD for the analysis of numerical data sets is achieved through the process of “binarization” consisting in the replacement of each numerical variable by binary “indicator” variables, each showing whether the value of the original variable is above or below a certain level. Binarization was successfully applied to the analysis of a variety of real life data sets. This paper develops the theoretical foundations of the binarization process studying the combinatorial optimization problems related to the minimization of the number of binary variables. To provide an algorithmic framework for the practical solution of such problems, we construct compact linear integer programming formulations of them. We develop polynomial time algorithms for some of these minimization problems, and prove NP-hardness of others.
+Keywords
+Data analysis  Boolean functions  Machine learning  Binarization  Set covering  Monotonicity  Thresholdness  Computational complexity  

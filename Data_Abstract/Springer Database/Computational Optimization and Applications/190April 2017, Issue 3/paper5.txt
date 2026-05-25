@@ -1,0 +1,6 @@
+A nonmonotone Jacobian smoothing inexact Newton method for NCP
+Sanja Rapajić;Zoltan Papp;
+Abstract
+In this paper we propose Jacobian smoothing inexact Newton method for nonlinear complementarity problems (NCP) with derivative-free nonmonotone line search. This nonmonotone line search technique ensures globalization and is a combination of Grippo-Lampariello-Lucidi (GLL) and Li-Fukushima (LF) strategies, with the aim to take into account their advantages. The method is based on very well known Fischer-Burmeister reformulation of NCP and its smoothing Kanzow’s approximation. The mixed Newton equation, which combines the semismooth function with the Jacobian of its smooth operator, is solved approximately in every iteration, so the method belongs to the class of Jacobian smoothing inexact Newton methods. The inexact search direction is not in general a descent direction and this is the reason why nonmonotone scheme is used for globalization. Global convergence and local superlinear convergence of method are proved. Numerical performances are also analyzed and point out that high level of nonmonotonicity of this line search rule enables robust and efficient method.
+Keywords
+Nonlinear complementarity problems  Semismooth systems  Inexact Newton method  Nonmonotone line search  

@@ -1,0 +1,6 @@
+From feasibility to improvement to proof: three phases of solving mixed-integer programs
+Timo Berthold;Gregor Hendel;Thorsten Koch;
+Abstract
+Modern mixed-integer programming (MIP) solvers employ dozens of auxiliary algorithmic components to support the branch-and-bound search in finding and improving primal solutions and in strengthening the dual bound. Typically, all components are tuned to minimize the average running time to prove optimality. In this article, we take a different look at the run of a MIP solver. We argue that the solution process consists of three distinct phases, namely achieving feasibility, improving the incumbent solution, and proving optimality. We first show that the entire solving process can be improved by adapting the search strategy with respect to the phase-specific aims using different control tunings. Afterwards, we provide criteria to predict the transition between the individual phases and evaluate the performance impact of altering the algorithmic behaviour of the non-commercial MIP solver Scip at the predicted phase transition points.
+Keywords
+optimization software, mixed-integer programming, branch-and-bound, adaptive search behaviour, optimality prediction 

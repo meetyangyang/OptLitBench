@@ -1,0 +1,6 @@
+VMDP-program for solving optimality problems in vector criterion Markov and semi-Markov decision processes
+   J.   Novák ;
+Abstract
+ Optimality problems in infinite horizon discrete time vector criterion Markov and semi-Markov decision processes can be expressed as standard problems of multiple objective linear programming. “VMDP” is a FORTRAN program for enumerating the objective function coefficients and constraint coefficients in these problems and finding all nondominated extreme points, i.e. all nondominated pure stationary strategies, and all nondominated edges. Using VMDP, computational experiments are presented. The characteristics of Markov and semi-Markov decision problems (the VMDP code) with those of general muitiple objective linear programming problems (the Steuer Adbase code) are compared. 
+Keywords
+Markov decision programming, multiple objective linear programming, multiple criteria simplex methodAMS Subject Classification: Primary:90 C 40, Secondary:90 B 50 

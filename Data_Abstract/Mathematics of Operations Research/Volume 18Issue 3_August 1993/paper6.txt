@@ -1,0 +1,6 @@
+Random Walk and the Area Below its Path
+Arie Harel;
+Abstract
+A simple random walk with reflected origin is considered. The walk starts at the origin and it must return to the origin at time 2n. We show that the expected area below the path of this walk is n22n−1/Cn2n. If, however, the walk is required to return to the origin for the first time at time 2n, then the expected area below the path of this Bernoulli excursion is (2n − 1)22n−1/Cn2n.We also show that if V1 < ⋯ < Vn is the order statistics based on a sample of size n from a uniform distribution over (0, 1), and that if U1 < ⋯ < Un is another independent set of order statistics from the same distribution, thenE [∑i=1n |Vi − Ui|] = n22n−1/[(2n + 1)Cn2n]We use this result to find an average-case performance of the Earliest Due Date (EDD) heuristic for one machine scheduling problem with earliness and tardiness penalties. We also apply some of the results to Larson's Queue Inference Engine (1990).
+Keywords
+random walk combinatorial identity order statistics probabilistic analysis heuristic scheduling earliness penalty lateness penalty 

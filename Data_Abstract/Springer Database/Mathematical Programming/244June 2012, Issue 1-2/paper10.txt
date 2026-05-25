@@ -1,0 +1,6 @@
+Fixed point optimization algorithm and its application to power control in CDMA data networks
+Hideaki Iiduka;
+Abstract
+We discuss the variational inequality problem for a continuous operator over the fixed point set of a nonexpansive mapping. One application of this problem is a power control for a direct-sequence code-division multiple-access data network. For such a power control, each user terminal has to be able to quickly transmit at an ideal power level such that it can get a sufficient signal-to-interference-plus-noise ratio and achieve the required quality of service. Iterative algorithms to solve this problem should not involve auxiliary optimization problems and complicated computations. To ensure this, we devise a fixed point optimization algorithm for the variational inequality problem and perform a convergence analysis on it. We give numerical examples of the algorithm as a power control.
+Keywords
+Variational inequality problem  Two-stage non-convex optimization problem  Power control  Firmly nonexpansive mapping  Fixed point  Utility function  Fixed point optimization algorithm  47J25  65K10  91A10  91A40  

@@ -1,0 +1,6 @@
+Modeling and solving profitable location and distribution problems
+A. Ceselli;G. Righini;E. Tresoldi;
+Abstract
+In this paper we present a general framework for tackling combined location and routing problems (LRPs), involving both costs and profits at the same time. Our framework is based on an extended model and a unified branch-and-cut-and-price method, using dynamic programming pricing routines, strengthening cuts, primal heuristics, stabilization and ad-hoc branching rules to exactly solve LRPs. First we describe our framework, discussing its algorithmic components. Then, we consider as a test case three problems from the literature, with increasing relative importance of the location decisions over the routing ones, and we analyze the performance of our framework for solving them. The first result of our investigation is to assess the tradeoff between modeling detail and computational effectiveness in tackling LRPs. At the same time, we also show that our integrated exact approach is effective for these problems.
+Keywords
+Routing  Location  Location-routing  Unified approach   Column generation  Branch-and-price-and-cut  

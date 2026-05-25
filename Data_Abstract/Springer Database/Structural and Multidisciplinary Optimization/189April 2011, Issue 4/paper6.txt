@@ -1,0 +1,6 @@
+A robust iterative algorithm for structural reliability analysis
+Jin-Xin Gong;Ping Yi;
+Abstract
+In the “first-order reliability method” (FORM), the HL-RF iterative algorithm is a recommended and widely used one to locate the design point and calculate the reliability index. However it may fail to converge if the limit state surface at the design point is highly nonlinear. In this paper, an easy iterative algorithm, which introduces a “new” step length to control the convergence of the sequence and can be named as finite-step-length iterative algorithm, is present. It is proved that the HL-RF method is a special case of this proposed algorithm when the step length tends to infinity and the reason why the HL-RF diverges is illustrated. This proposed algorithm is much easier than other optimization schemes, especially than the modified HL-RF algorithm, because the process of line search for obtaining the step length is not needed. Numerical results indicate that the proposed algorithm is effective and as simple as the HL-RF but more robust.
+Keywords
+Reliability  FORM  HL-RF algorithm  Iterative algorithm  

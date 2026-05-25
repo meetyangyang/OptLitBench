@@ -1,0 +1,6 @@
+TTT plots: a perl program to create time-to-target plots
+Renata M. Aiex;Mauricio G. C. Resende;Celso C. Ribeiro;
+Abstract
+This paper describes a perl language program to create time-to-target solution value plots for measured CPU times that are assumed to fit a shifted exponential distribution. This is often the case in local search based heuristics for combinatorial optimization, such as simulated annealing, genetic algorithms, iterated local search, tabu search, WalkSAT, and GRASP. Such plots are very useful in the comparison of different algorithms or strategies for solving a given problem and have been widely used as a tool for algorithm design and comparison. We first discuss how TTT plots are generated. This is followed by a description of the perl program tttplots.pl.
+Keywords
+Local Search  Theoretical Distribution  Iterate Local Search  Tabu Search Heuristic  Stochastic Local Search  

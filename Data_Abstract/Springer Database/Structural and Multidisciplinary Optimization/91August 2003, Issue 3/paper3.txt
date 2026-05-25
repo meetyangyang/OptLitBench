@@ -1,0 +1,6 @@
+Stochastic structural topology optimization: discretization and penalty function approach
+A. Evgrafov;M. Patriksson;
+Abstract
+We consider structural topology optimization problems, including unilateral constraints arising from, for example, non-penetration conditions in contact mechanics or non-compression conditions for elastic ropes. To construct more realistic models and to circumvent possible failures or inefficient behaviour of optimal structures, we allow parameters (for example, loads) defining the problem to be stochastic. The resulting non-smooth stochastic optimization problem is an instance of stochastic mathematical programs with equilibrium constraints (MPEC), or stochastic bilevel programs. We propose a solution scheme based first on the approximation of the given topology optimization problem by a sequence of simpler sizing optimization problems, and second on approximating the probability measure in the latter problems. For stress-constrained weight-minimization problems, an alternative to ε-perturbation based on a new penalty function is proposed. 
+Keywords
+bilevel programming  stochastic programming  robust optimization, discretization  ε-perturbation  stress constraints   

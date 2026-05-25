@@ -1,0 +1,6 @@
+Improved simulated annealing with step width adaptation for Langmuir probe tuning
+ Lars   Nolle ; Alec   Goodyear ; Adrian A.   Hopgood ; Phil D.   Picton ; Nicholas ST. J.   Braithwaite ;
+Abstract
+ In a previous investigation, a simulated annealing (SA) method was developed to optimize 14 Fourier terms in a radio-frequency waveform for active compensation of a Langmuir probe system. This approach was shown to find better solutions in less time than skilled human operators. However, variations in fitness indicated that the SA algorithm did not always find the precise global solution, although it came consistently close to it. This variability was caused by the limited number of fitness evaluations available due to time constraints. In this research, the chosen maximum step width has been shown to have a significant effect on the overall performance of the algorithm. A scaling function has been developed to adapt the maximum step width of the SA algorithm, on-line, as a function of the number of elapsed iterations. The modified algorithm has been shown to find fitter solutions with reduced variability in fitness. 
+Keywords
+Langmuir probe, Simulated annealing, Step width adaptation 

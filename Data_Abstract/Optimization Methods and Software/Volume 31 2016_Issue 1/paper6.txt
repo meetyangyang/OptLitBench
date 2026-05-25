@@ -1,0 +1,6 @@
+Multiobjective optimization using an adaptive weighting scheme
+Shubhangi Deshpande;Layne T. Watson;Robert A. Canfield;
+Abstract
+A new Pareto front approximation method is proposed for multiobjective optimization problems (MOPs) with bound constraints. The method employs a hybrid optimization approach using two derivative-free direct search techniques, and intends to solve black box simulation-based MOPs where the analytical form of the objectives is not known and/or the evaluation of the objective function(s) is very expensive. A new adaptive weighting scheme is proposed to convert a multiobjective optimization problem to a single objective optimization problem. Another contribution of this paper is the generalization of the star discrepancy-based performance measure for problems with more than two objectives. The method is evaluated using five test problems from the literature, and a realistic engineering problem. Results show that the method achieves an arbitrarily close approximation to the Pareto front with a good collection of well-distributed nondominated points for all six test problems.
+Keywords
+multiple objective programming, DIRECT, MADS, surrogates, triangulation 

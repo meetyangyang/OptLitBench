@@ -1,0 +1,6 @@
+Augmented Lagrangian Methods for Transport Optimization, Mean Field Games and Degenerate Elliptic Equations
+Jean-David Benamou;Guillaume Carlier;
+Abstract
+Many problems from mass transport can be reformulated as variational problems under a prescribed divergence constraint (static problems) or subject to a time-dependent continuity equation, which again can be formulated as a divergence constraint but in time and space. The variational class of mean field games, introduced by Lasry and Lions, may also be interpreted as a generalization of the time-dependent optimal transport problem. Following Benamou and Brenier, we show that augmented Lagrangian methods are well suited to treat such convex but non-smooth problems. They include in particular Monge historic optimal transport problem. A finite-element discretization and implementation of the method are used to provide numerical simulations and a convergence study.
+Keywords
+Augmented Lagrangian  Optimal transport  Monge problem  Mean field games  Degenerate elliptic PDEs  49A50  49Q20  65M60  60K30  

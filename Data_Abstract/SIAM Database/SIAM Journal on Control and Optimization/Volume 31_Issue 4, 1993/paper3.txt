@@ -1,0 +1,6 @@
+Interior Dual Least 2-Norm Algorithm for Linear Programs
+Rudy  Setiono;
+Abstract
+An interior algorithm is proposed for solving the dual of the least 2-norm formulation of a linear program. This is a convex quadratic problem with nonnegativity constraints only. Sixty-six test problems, including 63 NETLIB problems, were solved very accurately. The total time speedup of the algorithm for all 66 problems over MINOS 5.3 is 2.10. Linear convergence of the algorithm is also established.
+Keywords
+linear programming, interior point method, Newton step, 90C05, 90C25, 

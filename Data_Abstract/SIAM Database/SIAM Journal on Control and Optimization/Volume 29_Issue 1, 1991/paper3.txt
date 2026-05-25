@@ -1,0 +1,6 @@
+Quadratic Approximations in Convex Nondifferentiable Optimization
+Manlio  Gaudioso and Maria Flavia  Monaco;
+Abstract
+An implementable descent method for the unconstrained minimization of convex nonsmooth functions of several variables is described. The algorithm is characterized by the use of a set of quadratic approximations of the objective function in order to compute the search direction. The resulting direction finding subproblem is shown to be equivalent to a structured parametric quadratic programming problem. The convergence of the algorithm to the minimum is proved, and numerical experience is reported.
+Keywords
+nondifferentiable optimization, bundle methods, 90C25, 65K05, 

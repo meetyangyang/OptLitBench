@@ -1,0 +1,6 @@
+MultiGLODS: global and local multiobjective optimization using direct search
+A. L. Custódio;J. F. A. Madeira;
+Abstract
+The optimization of multimodal functions is a challenging task, in particular when derivatives are not available for use. Recently, in a directional direct search framework, a clever multistart strategy was proposed for global derivative-free optimization of single objective functions. The goal of the current work is to generalize this approach to the computation of global Pareto fronts for multiobjective multimodal derivative-free optimization problems. The proposed algorithm alternates between initializing new searches, using a multistart strategy, and exploring promising subregions, resorting to directional direct search. Components of the objective function are not aggregated and new points are accepted using the concept of Pareto dominance. The initialized searches are not all conducted until the end, merging when they start to be close to each other. The convergence of the method is analyzed under the common assumptions of directional direct search. Numerical experiments show its ability to generate approximations to the different Pareto fronts of a given problem.
+Keywords
+Global optimization  Multiobjective optimization  Multistart strategies  Direct search methods  Nonsmooth calculus  90C29  90C56  90C26  90C30  

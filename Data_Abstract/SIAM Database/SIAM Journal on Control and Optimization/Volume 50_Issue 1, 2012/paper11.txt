@@ -1,0 +1,6 @@
+An Eulerian Approach to the Analysis of Krause's Consensus Models
+C.  Canuto, F.  Fagnani, and P.  Tilli;
+Abstract
+In this paper we analyze a class of multiagent consensus dynamical systems inspired by Krause's original model. As in Krause's model, the basic assumption is the so-called bounded confidence: two agents can influence each other only when their state values are below a given distance threshold R. We study the system under an Eulerian point of view considering (possibly continuous) probability distributions of agents, and we present original convergence results. The limit distribution is always necessarily a convex combination of delta functions at least R far apart from each other: in other terms these models are locally aggregating. The Eulerian perspective provides the natural framework for designing a numerical algorithm, by which we obtain several simulations in 1 and 2 dimensions.
+Keywords
+multiagent systems, bounded confidence, Krause's model, Lyapunov stability, push-forward, Eulerian approach, 39A30, 91C20, 93D20, 

@@ -1,0 +1,6 @@
+A Stochastic Quasi-Newton Method for Large-Scale Optimization
+R. H.  Byrd, S. L.  Hansen, Jorge  Nocedal, and Y.  Singer;
+Abstract
+The question of how to incorporate curvature information into stochastic approximation methods is challenging. The direct application of classical quasi-Newton updating techniques for deterministic optimization leads to noisy curvature estimates that have harmful effects on the robustness of the iteration.  In this paper, we propose a stochastic quasi-Newton method that is efficient, robust, and scalable. It employs the classical BFGS update formula in its limited memory form, and is based on the observation that it is beneficial to collect curvature information pointwise, and at  spaced  intervals. One way to do this is through  (subsampled) Hessian-vector products. This technique differs from the classical approach that would compute differences of gradients at every iteration, and where controlling the quality of the curvature estimates can be difficult.  We present numerical results on problems arising in machine learning that suggest that the proposed method shows much promise.
+Keywords
+stochastic optimization, quasi-Newton, sub sampling, large scale optimization, 65K05, 90C06, 90C30, 90C55, 

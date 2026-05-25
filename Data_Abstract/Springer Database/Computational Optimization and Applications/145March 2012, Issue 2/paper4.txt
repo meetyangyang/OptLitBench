@@ -1,0 +1,6 @@
+A local search algorithm for ray-convex polyhedron intersection
+Bernardo Llanas;Francisco Javier Sáinz;
+Abstract
+In this paper we present a new algorithm (LSABV) for determining the intersection between a ray and a convex polyhedron (RCPI) in a fast way. LSABV is based on local search and the concept of visibility. LSABV requires only the boundary description of the polyhedron and it does not need additional data structures. Numerical experiments show that LSABV is faster than Haines’s algorithm in the case of polyhedra with moderate or large number of faces.
+Keywords
+Ray-convex polyhedron intersection  Local search algorithms  Visibility  High combinatorial complexity  

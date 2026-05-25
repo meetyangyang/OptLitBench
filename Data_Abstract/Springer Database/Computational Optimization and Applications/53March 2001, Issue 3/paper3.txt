@@ -1,0 +1,6 @@
+Dynamic Network Flow with Uncertain Arc Capacities: Decomposition Algorithm and Computational Results
+Gregory D. Glockner;George L. Nemhauser;Craig A. Tovey;
+Abstract
+In a multiperiod dynamic network flow problem, we model uncertain arc capacities using scenario aggregation. This model is so large that it may be difficult to obtain optimal integer or even continuous solutions. We develop a Lagrangian decomposition method based on the structure recently introduced in G.D. Glockner and G.L. Nemhauser, Operations Research, vol. 48, pp. 233–242, 2000. Our algorithm produces a near-optimal primal integral solution and an optimum solution to the Lagrangian dual. The dual is initialized using marginal values from a primal heuristic. Then, primal and dual solutions are improved in alternation. The algorithm greatly reduces computation time and memory use for real-world instances derived from an air traffic control model.
+Keywords
+network flow  dynamic  stochastic  decomposition  

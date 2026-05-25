@@ -1,0 +1,6 @@
+An exact method with variable fixing for solving the generalized assignment problem
+Marius Posta;Jacques A. Ferland;Philippe Michelon;
+Abstract
+We propose a simple exact algorithm for solving the generalized assignment problem. Our contribution is twofold: we reformulate the optimization problem into a sequence of decision problems, and we apply variable-fixing rules to solve these effectively. The decision problems are solved by a simple depth-first lagrangian branch-and-bound method, improved by our variable-fixing rules to prune the search tree. These rules rely on lagrangian reduced costs which we compute using an existing but little-known dynamic programming algorithm.
+Keywords
+Integer programming  Generalized assignment problem  Branch and bound  Lagrangian relaxation  Dynamic programming  

@@ -1,0 +1,6 @@
+A regularization of the Frank—Wolfe method and unification of certain nonlinear programming methods
+Athanasios Migdalas;
+Abstract
+The Frank—Wolfe linearization technique is a popular feasible direction algorithm for the solution of certain linearly constrained nonlinear problems. The popularity of this technique is due in part to its ability to exploit special constraint structures, such as network structures, and in part to the fact that it decomposes nonseparable problems over Cartesian product sets. However, the linearization which induces these advantages is also the source of the main disadvantages of the method: a sublinear rate of convergence and zigzagging behaviour. In order to avoid these disadvantages, a regularization penalty term is added to the objective of the direction generating subproblem. This results in a generic feasible direction method which also includes certain known nonlinear programming methods.
+Keywords
+Pseudoconvex programming  Decomposition scheme  Frank—Wolfe algorithm  Feasible direction methods  Proximal point algorithm  Gap function  

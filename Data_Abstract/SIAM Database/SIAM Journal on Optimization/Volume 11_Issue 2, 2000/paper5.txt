@@ -1,0 +1,6 @@
+The Proximal Point Algorithm with Genuine Superlinear Convergence for the Monotone Complementarity Problem
+Nobuo  Yamashita and Masao  Fukushima;
+Abstract
+In this paper, we consider a proximal point algorithm (PPA) for solving monotone nonlinear complementarity problems (NCP). PPA generates a sequence by solving subproblems that are regularizations of the original problem. It is known that PPA has global and superlinear convergence properties under appropriate criteria for approximate solutions of subproblems. However, it is not always easy to solve subproblems or to check those criteria. In this paper, we adopt the generalized Newton method proposed by De Luca, Facchinei, and Kanzow to solve subproblems and adopt some NCP functions to check the criteria. Then we show that the PPA converges globally provided that the solution set of the problem is nonempty. Moreover, without assuming the local uniqueness of the solution, we show that the rate of convergence is superlinear in a genuine sense, provided that the limit point satisfies the strict complementarity condition.
+Keywords
+nonlinear complementarity problem, proximal point algorithm, genuine superlinear convergence, 47H05, 90C33, 

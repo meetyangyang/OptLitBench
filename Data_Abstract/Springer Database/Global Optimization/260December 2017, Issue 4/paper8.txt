@@ -1,0 +1,6 @@
+Implementation of Cartesian grids to accelerate Delaunay-based derivative-free optimization
+Pooriya Beyhaghi;Thomas Bewley;
+Abstract
+This paper introduces a modification of our original Delaunay-based optimization algorithm (developed in JOGO DOI: 10.1007/s10898-015-0384-2) that reduces the number of function evaluations on the boundary of feasibility as compared with the original algorithm. A weaknesses we have identified with the original algorithm is the sometimes faulty behavior of the generated uncertainty function near the boundary of feasibility, which leads to more function evaluations along the boundary of feasibility than might otherwise be necessary. To address this issue, a second search function is introduced which has improved behavior near the boundary of the search domain. Additionally, the datapoints are quantized onto a Cartesian grid, which is successively refined, over the search domain. These two modifications lead to a significant reduction of datapoints accumulating on the boundary of feasibility, and faster overall convergence.
+Keywords
+Derivative-free optimization  Surrogate functions  Delaunay triangulation  Cartesian grid  

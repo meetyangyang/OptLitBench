@@ -1,0 +1,6 @@
+Efficiency of the Primal Network Simplex Algorithm for the Minimum-Cost Circulation Problem
+Robert E. Tarjan;
+Abstract
+We study the number of pivots required by the primal network simplex algorithm to solve the minimum-cost circulation problem. We propose a pivot selection rule with a bound of n(logn)/2+O(1) on the number of pivots, for an n-vertex network. This is the first known subexponential bound. The network simplex algorithm with this rule can be implemented to run in n(logn)/2+O(1) time. In the special case of planar graphs, we obtain a polynomial bound on the number of pivots and the running time. We also consider the relaxation of the network simplex algorithm in which cost-increasing pivots are allowed as well as cost-decreasing ones. For this algorithm we propose a pivot selection rule with a bound ofO(nm · min{log(nC), m log n})on the number of pivots, for a network with n vertices, m arcs, and integer arc costs bounded in magnitude by C. The total running time isO(nm log n · min{(log nC), m log n}).This bound is within a logarithmic factor of those of the best previously known algorithms for the minimum-cost circulation problem.
+Keywords
+networks primal simplex algorithms minimum-cost circulation analysis of algorithms 

@@ -1,0 +1,6 @@
+Gradient projection methods for quadratic programs and applications in training support vector machines
+ Thomas   Serafini ; Gaetano   Zanghirati ; Luca   Zanni ;
+Abstract
+ Gradient projection methods based on the Barzilai–Borwein spectral steplength choices are considered for quadratic programming (QP) problems with simple constraints. Well-known nonmonotone spectral projected gradient methods and variable projection methods are discussed. For both approaches, the behavior of different combinations of the two spectral steplengths is investigated. A new adaptive steplength alternating rule is proposed, which becomes the basis for a generalized version of the variable projection method (GVPM). Convergence results are given for the proposed approach and its effectiveness is shown by means of an extensive computational study on several test problems, including the special quadratic programs arising in training support vector machines (SVMs). Finally, the GVPM behavior as inner QP solver in decomposition techniques for large-scale SVMs is also evaluated. 
+Keywords
+Quadratic programs, Gradient projection methods, Support vector machines, Decom-position techniques, Large-scale problems 

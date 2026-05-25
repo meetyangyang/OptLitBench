@@ -1,0 +1,6 @@
+Making sparse matrices sparser: Computational results
+S. Thomas McCormick;
+Abstract
+Many optimization algorithms involve repeated processing of a fixed set of linear constraints. If we pre-process the constraint matrixA to be sparser, then algebraic operations onA will become faster. We consider the problem of making a given matrix as sparse as possible, theSparsity Problem (SP). In a companion paper with S. Frank Chang, we developed some theoretical algorithms for SP under a non-degeneracy assumption (McCormick and Chang, 1988). Here we investigate what must be done to make those algorithms applicable in practice. We report encouraging computational results in making linear programming constraint matrices sparser. We also find that the Simplex Algorithm can solve the reduced LPs faster. Comparisons are made to a heuristic algorithm for SP of Adler et al. (1989).
+Keywords
+Sparse matrices  linear programming  bipartite matching  

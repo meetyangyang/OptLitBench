@@ -1,0 +1,6 @@
+ Optimum design of structures against earthquake by adaptive genetic algorithm using wavelet networks
+E. Salajegheh;A. Heidari;
+Abstract
+Optimum design of structures against earthquake is achieved by a modified genetic algorithm. Some features of the simulated annealing are used to control various parameters of the genetic algorithm. To reduce the computational work, a fast wavelet transform is used by which the number of points in the earthquake record is decreased. For this purpose, the record is decomposed into two parts. One part contains the low frequency and the other possesses the high frequency of the record. The low-frequency part is used for dynamic analysis. Then, by using a wavelet network, the dynamic responses of the structures are approximated. By such approximation, the dynamic analysis of the structure is not necessary during the optimisation process. Thus, wavelet neural networks have been employed as a general approximation tool for the time-history dynamic analysis and estimation of the dynamic responses in the process of optimisation. A number of structures are designed for optimal weight against El Centro earthquake and the results are compared with those of the exact approach. 
+Keywords
+dynamic analysis  fast wavelet transform  genetic algorithm  simulated annealing  wavelet network  

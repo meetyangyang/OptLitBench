@@ -1,0 +1,6 @@
+Testing Parallel Variable Transformation
+Eiki Yamakawa;Masao Fukushima;
+Abstract
+This paper studies performance of the parallel variable transformation (PVT) algorithm for unconstrained nonlinear optimization through numerical experiments on a Fujitsu VPP500, one of the most up-to-date vector parallel computers. Special attention is paid to a particular form of the PVT algorithm that is regarded as a generalization of the block Jacobi algorithm that allows overlapping of variables among processors. Implementation strategies on the VPP500 are described in detail and results of numerical experiments are reported.
+Keywords
+parallel variable transformation  generalized block Jacobi algorithm  unconstrained optimization  nonlinear programming  VPP500  

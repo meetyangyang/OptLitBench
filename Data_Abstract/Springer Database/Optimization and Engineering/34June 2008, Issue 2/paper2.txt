@@ -1,0 +1,8 @@
+Optimal sensor placement for enhancing sensitivity to change in stiffness for structural health monitoring
+Josh M. Beal;Amit Shukla;Olga A. Brezhneva;Mark A. Abramson;
+Abstract
+
+This paper focuses on optimal sensor placement for structural health monitoring (SHM), in which the goal is to find an optimal configuration of sensors that will best predict structural damage. The problem is formulated as a bound constrained mixed variable programming (MVP) problem, in which the discrete variables are categorical; i.e., they may only take on values from a pre-defined list. The problem is particularly challenging because the objective function is computationally expensive to evaluate and first-order derivatives may not be available. The problem is solved numerically using the generalized mixed variable pattern search (MVPS) algorithm. Some new theoretical convergence results are proved, and numerical results are presented, which show the potential of our approach.
+
+Keywords
+Mixed variable programming  Optimal sensor placement  Structural health monitoring  

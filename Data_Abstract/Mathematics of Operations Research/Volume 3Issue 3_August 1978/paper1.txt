@@ -1,0 +1,6 @@
+Best Algorithms for Approximating the Maximum of a Submodular Set Function
+G. L. Nemhauser;L. A. Wolsey;
+Abstract
+A real-valued function z whose domain is all of the subsets of N = {1, …, n) is said to be submodular if z(S) + z(T) ≥ z(S ∪ T) + z(S ∩ T), ∀S, T ⊆ N, and nondecreasing if z(S) ≤ z(T), ∀S ⊂ T ⊆ N. We consider the problem maxS⊂N {z(S): |S| ≤ K, z submodular and nondecreasing, z(Ø) = 0}.Many combinatorial optimization problems can be posed in this framework. For example, a well-known location problem and the maximization of certain boolean polynomials are in this class.We present a family of algorithms that involve the partial enumeration of all sets of cardinality q and then a greedy selection of the remaining elements, q = 0, …, K − 1. For fixed K, the qth member of this family requires O(nq+1) computations and is guaranteed to achieve at least $$\biggl[1-\biggl(\frac{K-q}{K}\biggr)\biggl(\frac{K-q-1}{K-q}\biggr)^{K-q}\biggr]\times100 \quad\mbox {percent of the optimum value}.$$ Our main result is that this is the best performance guarantee that can be obtained by any algorithm whose number of computations does not exceed O(nq+1).
+Keywords
+submodular functions subadditive functions computational complexity best algorithms polynomial running time approximate optima greedy algorithm 

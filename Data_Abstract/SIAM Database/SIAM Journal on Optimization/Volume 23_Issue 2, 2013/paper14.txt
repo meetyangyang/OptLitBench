@@ -1,0 +1,6 @@
+Containment Problems for Polytopes and Spectrahedra
+Kai  Kellner, Thorsten  Theobald, and Christian  Trabandt;
+Abstract
+We study the computational question of whether a given polytope or spectrahedron $S_A$ (as given by the positive semidefiniteness region of a linear matrix pencil $A(x)$) is contained in another  $S_B$. First we classify the computational complexity, extending results on the polytope/polytope-case by Gritzmann and Klee to the polytope/spectrahedron-case. For various restricted containment problems, NP-hardness is shown. We then study in detail semidefinite conditions to certify containment, building upon work by Ben-Tal and Nemirovski and Helton, Klep, and McCullough. In particular, we discuss variations of a sufficient semidefinite condition to certify containment of a spectrahedron in a spectrahedron. It is shown that these sufficient conditions even provide exact semidefinite characterizations for containment in several important cases, including containment of a spectrahedron in a polyhedron. Moreover, in the case of bounded $S_A$ the criteria will always succeed in certifying containment of some scaled spectrahedron $\nu S_A$ in $S_B$.
+Keywords
+polyhedra, spectrahedra, containment, relaxation, semidefinite programming, Primary, 52B55, 90C22;  Secondary, 14P10, 52A20, 

@@ -1,0 +1,6 @@
+A unified stochastic framework for robust topology optimization of continuum and truss-like structures
+J.N. Richardson;R. Filomeno Coelho;S. Adriaenssens;
+Abstract
+In this article, a unified framework is introduced for robust structural topology optimization for 2D and 3D continuum and truss problems. The uncertain material parameters are modelled using a spatially correlated random field which is discretized using the Karhunen–Loève expansion. The spectral stochastic finite element method is used, with a polynomial chaos expansion to propagate uncertainties in the material characteristics to the response quantities. In continuum structures, either 2D or 3D random fields are modelled across the structural domain, while representation of the material uncertainties in linear truss elements is achieved by expanding 1D random fields along the length of the elements. Several examples demonstrate the method on both 2D and 3D continuum and truss structures, showing that this common framework provides an interesting insight into robustness versus optimality for the test problems considered.
+Keywords
+structural topology optimization, robust topology optimization, spectral stochastic finiteelement method, random field uncertainties 

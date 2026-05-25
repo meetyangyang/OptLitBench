@@ -1,0 +1,6 @@
+Order-based error for managing ensembles of surrogates in mesh adaptive direct search
+Charles Audet;Michael Kokkolaras;Sébastien Le Digabel;Bastien Talgorn;
+Abstract
+We investigate surrogate-assisted strategies for global derivative-free optimization using the mesh adaptive direct search (MADS) blackbox optimization algorithm. In particular, we build an ensemble of surrogate models to be used within the search step of MADS to perform global exploration, and examine different methods for selecting the best model for a given problem at hand. To do so, we introduce an order-based error tailored to surrogate-based search. We report computational experiments for ten analytical benchmark problems and three engineering design applications. Results demonstrate that different metrics may result in different model choices and that the use of order-based metrics improves performance.
+Keywords
+Derivate-free optimization  Ensemble of surrogates  MADS  Order error  

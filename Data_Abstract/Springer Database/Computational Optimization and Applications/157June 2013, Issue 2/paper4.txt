@@ -1,0 +1,6 @@
+Tightening a copositive relaxation for standard quadratic optimization problems
+Yong Xia;Ruey-Lin Sheu;Xiaoling Sun;Duan Li;
+Abstract
+We focus in this paper the problem of improving the semidefinite programming (SDP) relaxations for the standard quadratic optimization problem (standard QP in short) that concerns with minimizing a quadratic form over a simplex. We first analyze the duality gap between the standard QP and one of its SDP relaxations known as “strengthened Shor’s relaxation”. To estimate the duality gap, we utilize the duality information of the SDP relaxation to construct a graph G ∗. The estimation can be then reduced to a two-phase problem of enumerating first all the minimal vertex covers of G ∗ and solving next a family of second-order cone programming problems. When there is a nonzero duality gap, this duality gap estimation can lead to a strictly tighter lower bound than the strengthened Shor’s SDP bound. With the duality gap estimation improving scheme, we develop further a heuristic algorithm for obtaining a good approximate solution for standard QP.
+Keywords
+Standard quadratic optimization problem  Shor’s relaxation  Semidefinite programming  Duality gap  Minimal vertex cover  Second-order cone program  

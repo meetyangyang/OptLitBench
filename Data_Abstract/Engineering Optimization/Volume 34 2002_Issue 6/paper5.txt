@@ -1,0 +1,6 @@
+Pareto optimization using the struggle genetic crowding algorithm
+ Johan   Andersson ; David   Wallace ;
+Abstract
+ Many real-world engineering design problems involve the simultaneous optimization of several conflicting objectives. In this paper, a method combining the struggle genetic crowding algorithm with Pareto-based population ranking is proposed to elicit trade-off frontiers. The new method has been tested on a variety of published problems, reliably locating both discontinuous Pareto frontiers as well as multiple Pareto frontiers in multi-modal search spaces. Other published multi-objective genetic algorithms are less robust in locating both global and local Pareto frontiers in a single optimization. For example, in a multi-modal test problem a previously published non-dominated sorting GA (NSGA) located the global Pareto frontier in 41% of the optimizations, while the proposed method located both global and local frontiers in all test runs. Additionally, the algorithm requires little problem specific tuning of parameters. 
+Keywords
+Multi-objective Optimization, Genetic Algorithms, Pareto Optimization 

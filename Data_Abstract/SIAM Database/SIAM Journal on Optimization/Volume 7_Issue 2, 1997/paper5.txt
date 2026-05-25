@@ -1,0 +1,6 @@
+Penalty/Barrier Multiplier Methods for Convex Programming Problems
+Aharon  Ben-Tal and Michael  Zibulevsky;
+Abstract
+We study a class of methods for solving convex programs, which are based on nonquadratic augmented Lagrangians for which the penalty parameters are functions of the multipliers. This gives rise to Lagrangians which are nonlinear in the multipliers. Each augmented Lagrangian is specified by a choice of a penalty function $\varphi$ and a penalty-updating function $\pi$. The requirements on $\varphi$ are mild and allow for the inclusion of most of the previously suggested augmented Lagrangians. More importantly, a new type of penalty/barrier function (having a logarithmic branch glued to a quadratic branch) is introduced and used to construct an efficient algorithm. Convergence of the algorithms is proved for the case of $\pi$ being a sublinear function of the dual multipliers. The algorithms are tested on large-scale quadratically constrained problems arising in structural optimization.
+Keywords
+convex programming, augmented Lagrangian, 90C25, 

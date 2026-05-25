@@ -1,0 +1,6 @@
+A New Complexity Analysis for Full-Newton Step Infeasible Interior-Point Algorithm for Horizontal Linear Complementarity Problems
+Behrouz Kheirfam;
+Abstract
+In this paper, we first present a full-Newton step feasible interior-point algorithm for solving horizontal linear complementarity problems. We prove that the full-Newton step to the central path is quadratically convergent. Then, we generalize an infeasible interior-point method for linear optimization to horizontal linear complementarity problems based on new search directions. This algorithm starts from strictly feasible iterates on the central path of a perturbed problem that is produced by a suitable perturbation in the horizontal linear complementarity problem. We use the so-called feasibility steps that find strictly feasible iterates for the next perturbed problem. By using centering steps for the new perturbed problem, we obtain a strictly feasible iterate close enough to the central path of the new perturbed problem. The complexity of the algorithm coincides with the best known iteration bound for infeasible interior-point methods.
+Keywords
+Horizontal linear complementarity problem  Infeasible interior-point methods  Full-Newton step  Complexity analysis  

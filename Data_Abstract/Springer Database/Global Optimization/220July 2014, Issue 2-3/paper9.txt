@@ -1,0 +1,6 @@
+Linearization-based algorithms for mixed-integer nonlinear programs with convex continuous relaxation
+Mahdi Hamzeei;James Luedtke;
+Abstract
+We present two linearization-based algorithms for mixed-integer nonlinear programs (MINLPs) having a convex continuous relaxation. The key feature of these algorithms is that, in contrast to most existing linearization-based algorithms for convex MINLPs, they do not require the continuous relaxation to be defined by convex nonlinear functions. For example, these algorithms can solve to global optimality MINLPs with constraints defined by quasiconvex functions. The first algorithm is a slightly modified version of the LP/NLP-based branch-and-bouund \((\text{ LP/NLP-BB })\) algorithm of Quesada and Grossmann, and is closely related to an algorithm recently proposed by Bonami et al. (Math Program 119:331–352, 2009). The second algorithm is a hybrid between this algorithm and nonlinear programming based branch-and-bound. Computational experiments indicate that the modified LP/NLP-BB method has comparable performance to LP/NLP-BB on instances defined by convex functions. Thus, this algorithm has the potential to solve a wider class of MINLP instances without sacrificing performance.
+Keywords
+Mixed-integer nonlinear programming  Quasiconvex function   Outer approximation  

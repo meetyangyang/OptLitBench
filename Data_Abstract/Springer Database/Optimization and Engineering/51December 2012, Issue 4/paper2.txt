@@ -1,0 +1,6 @@
+Efficient aerodynamic shape optimization by structure exploitation
+Nicolas Gauger;Andrea Walther;Emre Özkaya;Carsten Moldenhauer;
+Abstract
+In this paper, we consider an optimization problem for the complete design chain of an airfoil. Starting with a parameter vector, one has to perform a three step procedure to evaluate the desired objective: Generate a grid around the airfoil, compute the flow around the airfoil, and compute the objective. Applying a gradient-based optimization method, one has to provide derivatives for this complex process. In the present paper, we propose the advanced use of automatic differentiation to compute the required gradient information. We report numerical results together with a mesh independency study and an analysis of the optimization process for an inviscid RAE2822 airfoil under transonic flight conditions.
+Keywords
+Gradient-based optimization  Discrete adjoints  Automatic differentiation  Reverse accumulation  

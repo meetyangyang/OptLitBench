@@ -1,0 +1,6 @@
+Newton-type Methods with Generalized Distances For Constrained Optimization
+ N. Alfredo.   Iusem ; V. Michael.   Solodov ;
+Abstract
+ We consider a class of interior point algorithms for minimizing a twice continuously differentiable function over a closed convex set with nonempty interior. On one hand, our algirothms can be viewed as an approximate version of the generalized proximal point methods and, on the other hand, as an extension of unconstrained Newton-type methods to the constrained case. Each step consists of solving a strongly convex unconstrained program followed by a one-dimensional search along either a line or a curve segment in the interior of the feasible set. The information about the feasible set is contained in the generalized distance function whose gradient diverges on the boundary of this set. When the feasible set is the whole space, the standard regularized Newton method is a particular case in our framework. We show, under standard assumptions, that every accumulation point of the sequence of iterates satisfies a first order necessary optimality condition for the problem and solves the problem if the objective function is convex. Some computational results are also reported  
+Keywords
+Proximal Point Methods, Newton Method, Generalized Distances, Constrained Optimization 

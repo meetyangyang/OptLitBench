@@ -1,0 +1,6 @@
+On the resolution of certain discrete univariate max–min problems
+Ramsharan Rangarajan;
+Abstract
+We analyze a class of discrete, univariate, and strictly quasiconcave max–min problems. A distinctive feature of max–min-type optimization problems is the nonsmoothness of the objective being maximized. Here we exploit strict quasiconcavity of the given set of functions to prove existence and uniqueness of the optimizer, and to provide computable bounds for it. The analysis inspires an efficient algorithm for computing the optimizer without having to resort to any regularization or heuristics. We prove correctness of the proposed algorithm and briefly discuss the effect of tolerances and approximate computation. Our study finds direct application in the context of certain mesh deformation methods, wherein the optimal perturbation for a vertex is computed as the solution of a max–min problem of the type we consider here. We include examples demonstrating improvement of simplicial meshes while adopting the proposed algorithm for resolution of the optimization problems involved, and use these numerical experiments to examine the performance of the algorithm.
+Keywords
+Discrete minimax  Quasiconvex optimization  Nonsmooth optimization  Mesh optimization  Mesh smoothing  Polynomial roots  49J35  65K10  65D18  26C10  

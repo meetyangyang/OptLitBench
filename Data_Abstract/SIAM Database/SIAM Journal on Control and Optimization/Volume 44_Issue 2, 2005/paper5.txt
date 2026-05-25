@@ -1,0 +1,6 @@
+Individual Q-Learning in Normal Form Games
+David S.  Leslie and E. J.  Collins;
+Abstract
+The single-agent multi-armed bandit problem can be solved by an agent that learns the values of each action using reinforcement learning. However, the multi-agent version of the problem, the iterated normal form game, presents a more complex challenge, since the rewards available to each agent depend on the strategies of the others. We consider the behavior of value-based learning agents in this situation, and show that such agents cannot generally play at a Nash equilibrium, although if smooth best responses are used, a Nash distribution can be reached. We introduce a particular value-based learning algorithm, which we call individual Q-learning, and use stochastic approximation to study the asymptotic behavior, showing that strategies will converge to Nash distribution almost surely in 2-player zero-sum games and 2-player partnership games. Player-dependent learning rates are then considered, and it is shown that this extension converges in some games for which many algorithms, including the basic algorithm initially considered, fail to converge.
+Keywords
+reinforcement learning, normal form games, stochastic approximation, multi-agent learning, player-dependent learning rates, 93E35, 91A26, 68T05, 62L20, 

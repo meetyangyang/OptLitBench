@@ -1,0 +1,6 @@
+Easy transportation-like problems onK-dimensional arrays
+D. Romero;
+Abstract
+TheK-dimensional version of two transportation-like problems is posed and efficiently solved. The caseK=2 goes as follows: Given an (m,n)-matrixA of reals, a realm-vectoru, and a realn-vectorv, find a real (m,n)-matrixX minimizing$$either f(X) = \sum\limits_{i = 1}^m {\sum\limits_{j = 1}^n {(X_{ij}  - A_{ij} )^2  or g(X)}  = \mathop {\max  }\limits_{ij} } \{ X_{ij}  - A_{ij} \} ,$$ subject to linear constraints of transportation type, i.e.,$$\begin{gathered}  \sum\limits_{j = 1}^n {X_{ij} }  = u_i ,     i = 1,...,m, \hfill \\  \sum\limits_{i = 1}^m {X_{ij} }  = \upsilon _j ,     j = 1,...,n. \hfill \\\end{gathered} $$ In the generalization for anyK≥2, consideration of thef(X)-type of objective function yields an explicit formula for the optimal solution, whereas for theg(X)-type a one-pass algorithm is proposed.
+Keywords
+Input-output matrices  quadratic optimization  transportation constraints  norm minimization  

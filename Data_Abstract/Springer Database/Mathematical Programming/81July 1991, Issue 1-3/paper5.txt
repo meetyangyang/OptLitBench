@@ -1,0 +1,6 @@
+Factorized quasi-Newton methods for nonlinear least squares problems
+Hiroshi Yabe;Toshihiko Takahashi;
+Abstract
+This paper provides a modification to the Gauss—Newton method for nonlinear least squares problems. The new method is based on structured quasi-Newton methods which yield a good approximation to the second derivative matrix of the objective function. In particular, we propose BFGS-like and DFP-like updates in a factorized form which give descent search directions for the objective function. We prove local and q-superlinear convergence of our methods, and give results of computational experiments for the BFGS-like and DFP-like updates.
+Keywords
+Nonlinear least squares problems  factorized quasi-Newton method  local and q-superlinear convergence  

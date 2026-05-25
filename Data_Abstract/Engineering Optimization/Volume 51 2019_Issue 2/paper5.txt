@@ -1,0 +1,6 @@
+Evolutionary reliable regional Kriging surrogate for expensive optimization
+Suprayitno;Jyh-Cheng Yu;
+Abstract
+This work proposes a sequential optimization algorithm, EORKS, combining a Kriging surrogate from an adaptive sampling and an iterative constrained search in the dynamic reliable regions to reduce the sampling size in expensive optimization. A surrogate established from small samples is liable to limited generality, which leads to a false prediction of optimum. EORKS applies Kriging variance to establish the reliable region neighbouring the learning samples to constrain the evolutionary searches of the surrogate. The verified quasi-optimum is used as an additional sample to dynamically update the regional model according to the prediction accuracy. A hybrid infilling strategy switches between the iterative quasi-optima and the maximum expected improvement from Kriging to prevent early convergence of local optimum. EORKS provides superior optima in several benchmark functions and an engineering design problem, using much smaller samples compared with the literature results, which demonstrates the sampling efficiency and searching robustness.
+Keywords
+Expensive optimization, surrogate-based optimization, sequential approximate optimization, Kriging, evolutionary algorithms 

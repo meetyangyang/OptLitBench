@@ -1,0 +1,6 @@
+Non-intrusive termination of noisy optimization
+ Jeffrey   Larson ; Stefan   M.   Wild ;
+Abstract
+ Significant savings can be gained from terminating the optimization of a computationally expensive function well before traditional criteria, such as a maximum budget of evaluations, are satisfied. Early termination is desirable especially for noisy functions, where a solver could potentially proceed indefinitely while seeing changes insignificant relative to the noise. In this paper, we consider general termination tests that can be used in conjunction with any solver's built-in termination criteria. We propose parameterized families of termination tests, analyse their properties, and illustrate how they can employ an estimate of the function's noise level. Using a set of benchmark problems with both stochastic and deterministic noise and a set of derivative-free solvers, we compare the tests and their sensitivities to parameters in terms of both accuracy and efficiency. Recommendations are made for using the proposed tests in practice. 
+Keywords
+noisy optimization, termination criteria, deterministic noise, stochastic noise, derivative-free optimization AMS Subject Classifications : 90C56, 49J52 

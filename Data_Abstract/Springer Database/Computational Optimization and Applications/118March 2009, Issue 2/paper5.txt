@@ -1,0 +1,8 @@
+Accuracy of suboptimal solutions to kernel principal component analysis
+Giorgio Gnecco;Marcello Sanguineti;
+Abstract
+
+For Principal Component Analysis in Reproducing Kernel Hilbert Spaces (KPCA), optimization over sets containing only linear combinations of all n-tuples of kernel functions is investigated, where n is a positive integer smaller than the number of data. Upper bounds on the accuracy in approximating the optimal solution, achievable without restrictions on the number of kernel functions, are derived. The rates of decrease of the upper bounds for increasing number n of kernel functions are given by the summation of two terms, one proportional to n −1/2 and the other to n −1, and depend on the maximum eigenvalue of the Gram matrix of the kernel with respect to the data. Primal and dual formulations of KPCA are considered. The estimates provide insights into the effectiveness of sparse KPCA techniques, aimed at reducing the computational costs of expansions in terms of kernel units.
+
+Keywords
+Principal component analysis (PCA)  Kernel methods  Suboptimal solutions  Primal and dual problems  Lagrangian  Regularized optimization problems  

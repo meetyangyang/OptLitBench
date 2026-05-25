@@ -1,0 +1,6 @@
+An algorithm for global solution to bi-parametric linear complementarity constrained linear programs
+Yu-Ching Lee;Jong-Shi Pang;John E. Mitchell;
+Abstract
+A linear program with linear complementarity constraints (LPCC) is among the simplest mathematical programs with complementarity constraints. Yet the global solution of the LPCC remains difficult to find and/or verify. In this work we study a specific type of the LPCC which we term a bi-parametric LPCC. Reformulating the bi-parametric LPCC as a non-convex quadratically constrained program, we develop a domain-partitioning algorithm that solves a series of the linear subproblems and/or convex quadratically constrained subprograms obtained by the relaxations of the complementarity constraint. The choice of an artificial constants-pair allows us to control the domain on which the partitioning is done. Numerical results of robustly solving 105 randomly generated bi-parametric LPCC instances of different structures associated with different numbers of complementarity constraints by the algorithm are presented.
+Keywords
+Mathematical program with complementarity constraints  Bi-parametric program  Domain partitioning  Global optimization algorithm  

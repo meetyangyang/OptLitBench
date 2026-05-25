@@ -1,0 +1,6 @@
+A breakdown of the block CG method
+   C.G.   Broyden ;
+Abstract
+ It is well-known that when methods of conjugate gradient type are applied to non-symmetric or indefinite symmetric systems, breakdown can occur due to division by zero even if exact arithmetic is used. In this paper necessary and sufficient conditions for the absence of breakdown are obtained in terms of the underlying Krylov sequences for both the Lanczos version and the Hestenes-Stiefel version of the block CG algorithm. These conditions are then related to the definiteness or otherwise of the fundamental matrices that define the algorithm and the Lanczos versions are shown to be inherently more stable than the Hestenes-Stiefel ones. Finally the robustness of several well-known special cases of the algorithm is assessed in the light of the results obtained previously  
+Keywords
+ 

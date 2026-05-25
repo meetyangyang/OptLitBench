@@ -1,0 +1,6 @@
+Plant location with minimum inventory
+Francisco Barahona;David Jensen;
+Abstract
+We present an integer programming model for plant location with inventory costs. The linear programming relaxation has been solved by Dantzig-Wolfe decomposition. In this case the subproblems reduce to the minimum cut problem. We have used subgradient optimization to accelerate the convergence of the D-W algorithm. We present our experience with problems arising in the design of a distribution network for computer spare parts. In most cases, from a fractional solution we were able to derive integer solutions within 4% of optimality.
+Keywords
+Plant location  Minimum cut  Dantzig-Wolfe decomposition  Subgradient optimization  

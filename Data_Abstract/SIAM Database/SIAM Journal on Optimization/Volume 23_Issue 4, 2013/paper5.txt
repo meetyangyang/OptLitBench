@@ -1,0 +1,6 @@
+On the Convergence of Block Coordinate Descent Type Methods
+Amir  Beck and Luba  Tetruashvili;
+Abstract
+In this paper we study smooth convex programming problems where the decision variables vector is split into several blocks of variables.  We analyze the block coordinate gradient projection method in which each iteration consists of performing a gradient projection step with respect to a certain block taken in a cyclic order. Global sublinear rate of convergence of this method is established and it is shown that it can be accelerated when the problem is unconstrained. In the unconstrained setting we also prove a sublinear rate of convergence result for the so-called alternating minimization method when the number of blocks is two. When the objective function is also assumed to be strongly convex, linear rate of convergence is established.
+Keywords
+block descent methods, alternating minimization, rate of convergence, convex optimization, 90C06, 90C25, 65K05, 

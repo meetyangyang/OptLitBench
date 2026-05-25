@@ -1,0 +1,6 @@
+A Pivotal Method for Affine Variational Inequalities
+Menglin Cao;Michael C. Ferris;
+Abstract
+We explain and justify a path-following algorithm for solving the equations AC(x) = a, where A is a linear transformation from ℝn to ℝn, C is a polyhedral convex subset of ℝn, and AC is the associated normal map. When AC is coherently oriented, we are able to prove that the path following method terminates at the unique solution of AC(x) = a, which is a generalization of the well known fact that Lemke's method terminates at the unique solution of LCP(q, M) when M is a P = matrix. Otherwise, we identity two classes of matrices which are analogues of the class of copositive-plus and L-matrices in the study of the linear complementarity problem. We then prove that our algorithm processes AC(x) = a when A is the linear transformation associated with such matrices. That is, when applied to such a problem, the algorithm will find a solution unless the problem is infeasible in a well specified sense.
+Keywords
+affine variational inequality normal map path-following algorithm 

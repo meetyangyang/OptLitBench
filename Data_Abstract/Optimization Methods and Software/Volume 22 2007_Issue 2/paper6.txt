@@ -1,0 +1,6 @@
+An efficient conjugate direction method with orthogonalization for large-scale quadratic optimization problems
+ Edouard   R.   Boudinov ; Arkadiy   I.   Manevich ;
+Abstract
+ A new conjugate direction (CD) method is proposed, which is based on an orthogonalization procedure and does not make use of line searches for the conjugate vector set construction. This procedure prevents the set of conjugate vectors from degeneracy and eliminates high sensitivity to computation errors pertinent to methods of CDs, resulting in an efficient algorithm for solving large-scale ill-conditioned minimization problems without preconditioning. The advantages of our algorithms are illustrated by results of the extensive numerical experiments with large-scale quadratic functions. 
+Keywords
+Unconstrained minimization, Large-scale optimization, Conjugate gradients, Conjugate direction methods, Orthogonalization 

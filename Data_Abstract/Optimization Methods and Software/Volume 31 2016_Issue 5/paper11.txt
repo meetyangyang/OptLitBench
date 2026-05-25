@@ -1,0 +1,6 @@
+Splitting augmented Lagrangian method for optimization problems with a cardinality constraint and semicontinuous variables
+Yanqin Bai;Renli Liang;Zhouwang Yang;
+Abstract
+We propose a new splitting augmented Lagrangian method (SALM) for solving a class of optimization problems with both cardinality constraint and semicontinuous variables constraint. The proposed approach, inspired by the penalty decomposition method in [Z.S. Lu and Y. Zhang, Sparse approximation via penalty decomposition methods, SIAM J. Optim. 23(4) (2013), pp. 2448–2478], splits the problem into two subproblems using auxiliary variables. SALM solves two subproblems alternatively. Furthermore, we prove the convergence of SALM, under certain assumptions. Finally, SALM is implemented on the portfolio selection problem and the compressed sensing problem, respectively. Numerical results show that SALM outperforms the well-known tailored approach in CPLEX 12.6 and the penalty decomposition method, respectively.
+Keywords
+cardinality constraint and semicontinuous variables optimization problem, alternating direction method of multipliers, augmented Lagrangian decompositionAMS Subject Classification: 90C11, 90C27, 90C30 

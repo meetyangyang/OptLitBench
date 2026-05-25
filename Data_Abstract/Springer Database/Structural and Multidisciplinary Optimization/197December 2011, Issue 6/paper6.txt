@@ -1,0 +1,6 @@
+Sensitivity analysis of optimum solutions by updating active constraints: application in aircraft structural design
+Aitor Baldomir;Santiago Hernandez;Jacobo Diaz;Arturo Fontan;
+Abstract
+Often the parameters considered as constants in an optimization problem have some uncertainty and it is interesting to know how the optimum solution is modified when these values are changed. The only way to continue having the optimal solution is to perform a new optimization loop, but this may require a high computational effort if the optimization problem is large. However, there are several procedures to obtain the new optimal design, based on getting the sensitivities of design variables and objective function with respect to a fixed parameter. Most of these methods require obtaining second derivatives which has a significant computational cost. This paper uses the feasible direction-based technique updating the active constraints to obtain the approximate optimum design. This procedure only requires the first derivatives and it is noted that the updating set of active constraints improves the result, making possible a greater fixed parameter variation. This methodology is applied to an example of very common structural optimization problems in technical literature and to a real aircraft structure.
+Keywords
+Aircraft  Feasible direction  Sensitivity  Optimum design  

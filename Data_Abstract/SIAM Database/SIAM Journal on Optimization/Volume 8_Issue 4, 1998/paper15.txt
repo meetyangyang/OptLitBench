@@ -1,0 +1,6 @@
+Primal-Dual Interior Methods for Nonconvex Nonlinear Programming
+Anders  Forsgren and Philip E.  Gill;
+Abstract
+This paper concerns large-scale general (nonconvex) nonlinear programming when first and second derivatives of the objective and constraint functions are available. A method is proposed that is based on finding an approximate solution of a sequence of unconstrained subproblems parameterized by a scalar parameter. The objective function of each unconstrained subproblem is an augmented penalty-barrier function that involves both primal and dual variables. Each subproblem is solved with a modified Newton method that generates search directions from a primal-dual system similar to that proposed for interior methods. The augmented penalty-barrier function may be interpreted as a merit function for values of the primal and dual variables.An inertia-controlling symmetric indefinite factorization is used to provide descent directions and directions of negative curvature for the augmented penalty-barrier merit function. A method suitable for large problems can be obtained by providing a version of this factorization that will treat large sparse indefinite systems.
+Keywords
+nonlinear programming, constrained minimization, primal-dual methods, interior methods, penalty methods, barrier methods, modified Newton methods, 49M37, 65F05, 65K05, 90C30, 

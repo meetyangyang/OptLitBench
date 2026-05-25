@@ -1,0 +1,6 @@
+A Sequential Linear Constraint Programming Algorithm for NLP
+Roger  Fletcher;
+Abstract
+A new method for nonlinear programming (NLP) using sequential linear constraint programming (SLCP) is described. Linear constraint programming (LCP) subproblems are solved by a new code using a recently developed spectral gradient method for minimization. The method requires only first derivatives and avoids having to store and update approximate Hessian or reduced Hessian matrices. Globalization is provided by a trust region filter scheme. Open source production quality software is available. Results on a large selection of CUTEr test problems are presented and discussed and show that the method is reliable and reasonably efficient.
+Keywords
+nonlinear programming, linear constraint programming, Robinson's method, spectral gradient method, filter, 65K10, 90C30, 90C55, 

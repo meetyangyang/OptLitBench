@@ -1,0 +1,6 @@
+Improving efficiency of evolutionary structural optimization by implementing fixed grid mesh
+H. Kim;O.M. Querin;G.P. Steven;Y.M. Xie;
+Abstract
+Evolutionary structural optimization (ESO) has been shown through much published research to be a simple and yet effective method for structural shape and topology optimization. However, attention has been drawn to shortcomings in the method related to the computational efficiency of the algorithm as well as the jagged edge representation of the Finite Element optimal solutions. In this paper a fixed grid (FG) mesh is implemented and an improved ESO methodology is introduced in order to address these shortcomings. The examples show a significant improvement in the solution time as well as eliminating the jagged edges and checkerboard patterns that may appear in current solution topologies. In addition, FG is applied to both stress based and stiffness optimization. This paper demonstrates a simple implementation of FG and the consequent improvement in the efficiency and practicality of the FG ESO formulation.
+Keywords
+Key words: topology optimization, ESO, fixed grid, checkerboard pattern  

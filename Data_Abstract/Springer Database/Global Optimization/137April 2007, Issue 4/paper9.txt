@@ -1,0 +1,8 @@
+A homotopy interior point method for semi-infinite programming problems
+Guo-xin Liu;
+Abstract
+This paper presents a homotopy interior point method for solving a semi-infinite programming (SIP) problem. For algorithmic purpose, based on bilevel strategy, first we illustrate appropriate necessary conditions for a solution in the framework of standard nonlinear programming (NLP), which can be solved by homotopy method. Under suitable assumptions, we can prove that the method determines a smooth interior path
+\(\Gamma_{w^{(0)}}\subset (X^{0}\times\mathcal{Y}^{0})\times\Re_{++}\times\Re^{l}_{++}\times(0,1]\) from a given interior point
+\(w^{(0)} \in (X^{0}\times\mathcal{Y}^{0})\times\Re_{++}\times\Re^{l}_{++}\) to a point w *, at which the necessary conditions are satisfied. Numerical tracing this path gives a globally convergent algorithm for the SIP. Lastly, several preliminary computational results illustrating the method are given.
+Keywords
+Semi-infinite programming  First-order necessary optimality condition  Homotopy method  Global convergence  

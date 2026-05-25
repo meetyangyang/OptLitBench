@@ -1,0 +1,6 @@
+A linear programming formulation for the maximum complete multipartite subgraph problem
+Denis Cornaz;
+Abstract
+Let G be a simple undirected graph with node set V(G) and edge set E(G). We call a subset  Open image in new window independent if F is contained in the edge set of a complete multipartite (not necessarily induced) subgraph of G, F is dependent otherwise. In this paper we characterize the independents and the minimal dependents of G. We note that every minimal dependent of G has size two if and only if G is fan and prism-free. We give a 0-1 linear programming formulation of the following problem: find the maximum weight of a complete multipartite subgraph of G, where G has nonnegative edge weights. This formulation may have an exponential number of constraints with respect to |V(G)| but we show that the continuous relaxation of this 0-1 program can be solved in polynomial time.
+Keywords
+Complete multipartite subgraph  Integer linear programming  Independence system  05C15  90C09  

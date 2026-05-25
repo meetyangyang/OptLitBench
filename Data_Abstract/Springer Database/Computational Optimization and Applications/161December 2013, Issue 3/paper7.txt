@@ -1,0 +1,6 @@
+A two-phase heuristic for the bottleneck k-hyperplane clustering problem
+Edoardo Amaldi;Kanika Dhyani;Leo Liberti;
+Abstract
+In the bottleneck hyperplane clustering problem, given n points in \(\mathbb{R}^{d}\) and an integer k with 1≤k≤n, we wish to determine k hyperplanes and assign each point to a hyperplane so as to minimize the maximum Euclidean distance between each point and its assigned hyperplane. This mixed-integer nonlinear problem has several interesting applications but is computationally challenging due, among others, to the nonconvexity arising from the ℓ 2-norm. After comparing several linear approximations to deal with the ℓ 2-norm constraint, we propose a two-phase heuristic. First, an approximate solution is obtained by exploiting the ℓ ∞-approximation and the problem geometry, and then it is converted into an ℓ 2-approximate solution. Computational experiments on realistic randomly generated instances and instances arising from piecewise affine maps show that our heuristic provides good quality solutions in a reasonable amount of time.
+Keywords
+Hyperplane clustering  Hyperplane cover problem  k-Hyperplane center problem  Mixed integer nonlinear formulation  Approximations  Heuristics  

@@ -1,0 +1,6 @@
+A modified hypervolume based expected improvement for multi-objective efficient global optimization method
+Zheng Li;Xinyu Wang;Shilun Ruan;Zhaojun Li;Changyu Shen;Yan Zeng;
+Abstract
+The hypervolume indicator has been proved as an outstanding metric for the distribution of Pareto points, and the derived hypervolume based expected improvement (HVEI) has received a particular attention in the multi-objective efficient global optimization (EGO) method. However, the high computational cost has become the bottle neck which limits the application of HVEI on many objective optimization. Aiming at this problem, a modified version of HVEI (MHVEI) is proposed in this paper, which is easier to implement, maintains all the desired properties, and has a much lower computational cost. The theoretical study shows that the new criterion can be considered as a weighted integral form of HVEI, and it prefers the new point with a higher uncertainty compared with HVEI. The numerical tests show that the MHVEI performs similar as HVEI on the lower dimensional problem, and the advantage of MHVEI becomes more obvious as the dimension grows.
+Keywords
+Multi-objective  Efficient global optimization  Pareto points  Hypervolume indicator  

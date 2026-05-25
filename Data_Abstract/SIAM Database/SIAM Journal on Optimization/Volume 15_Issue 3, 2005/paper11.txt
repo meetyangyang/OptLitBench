@@ -1,0 +1,6 @@
+A Globally Convergent Linearly Constrained Lagrangian Method for Nonlinear Optimization
+Michael P.  Friedlander and Michael A.  Saunders;
+Abstract
+For optimization problems with nonlinear constraints, linearly constrained Lagrangian (LCL) methods solve a sequence of subproblems of the form "minimize an augmented Lagrangian function subject to linearized constraints." Such methods converge rapidly near a solution but may not be reliable from arbitrary starting points. Nevertheless, the well-known software package MINOS has proved effective on many large problems. Its success motivates us to derive a related LCL algorithm that possesses three important properties: it is globally convergent, the subproblem constraints are always feasible, and the subproblems may be solved inexactly. The new algorithm has been implemented in MATLAB, with an option to use either MINOS or SNOPT (Fortran codes) to solve the linearly constrained subproblems. Only first derivatives are required. We present numerical results on a subset of the COPS, HS, and CUTE test problems, which include many large examples. The results demonstrate the robustness and efficiency of the stabilized LCL procedure.
+Keywords
+large-scale optimization, nonlinear programming, nonlinear inequality constraints, augmented Lagrangian, 49M37, 65K05, 90C30, 

@@ -1,0 +1,6 @@
+Multiple subgradient descent bundle method for convex nonsmooth multiobjective optimization
+O. Montonen;N. Karmitsa;M. M. Mäkelä;
+Abstract
+The aim of this paper is to propose a new multiple subgradient descent bundle method for solving unconstrained convex nonsmooth multiobjective optimization problems. Contrary to many existing multiobjective optimization methods, our method treats the objective functions as they are without employing a scalarization in a classical sense. The main idea of this method is to find descent directions for every objective function separately by utilizing the proximal bundle approach, and then trying to form a common descent direction for every objective function. In addition, we prove that the method is convergent and it finds weakly Pareto optimal solutions. Finally, some numerical experiments are considered.
+Keywords
+Multiobjective optimization, nonsmooth optimization, descent methods, bundle methods 

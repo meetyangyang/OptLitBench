@@ -1,0 +1,6 @@
+Optimal Interpolation with Convex Splines of Second Degree
+Lakshman S.  Thakur;
+Abstract
+Estimation of a convex function interpolating its known values and satisfying certain smooth-ness properties is needed in some applications and has been investigated in many studies from various perspectives. Without the convexity assumption, Karlin’s theorem characterizes the solution to the problem studied here while under convexity, the analogous result is due to Smith and Ward. The aim of this paper is to give a convex programming characterization that can be used to calculate an optimal spline which solves a given problem of degree 2. Specifically, our aim is to determine a smooth (f, $f^{(1)} $ absolutely continuous) convex spline f of second degree, which interpolates $(r + 2)$ given points in $[a,b]$, and minimizes the Tchebycheff norm $\| {f^{(2)} } \|_\infty  $, with $f^{(2)} $ essentially bounded in $[a,b]$. The convexity of the formulation enables us to calculate an optimal spline using widely available computer routines for nonlinear optimization. The approach is illustrated by providing the convex programming formulations and the computer-obtained optimal solutions for two numerical examples.
+Keywords
+convex programming, function estimation, spline functions, convex functions, convex splines, optimal interpolation, 26A51, 41A15, 90C25, 

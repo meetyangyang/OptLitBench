@@ -1,0 +1,6 @@
+Global optimization of mixed-integer quadratically-constrained quadratic programs (MIQCQP) through piecewise-linear and edge-concave relaxations
+Ruth Misener;Christodoulos A. Floudas;
+Abstract
+We propose a deterministic global optimization approach, whose novel contributions are rooted in the edge-concave and piecewise-linear underestimators, to address nonconvex mixed-integer quadratically-constrained quadratic programs (MIQCQP) to \({\epsilon}\) -global optimality. The facets of low-dimensional (n ≤ 3) edge-concave aggregations dominating the termwise relaxation of MIQCQP are introduced at every node of a branch-and-bound tree. Concave multivariable terms and sparsely distributed bilinear terms that do not participate in connected edge-concave aggregations are addressed through piecewise-linear relaxations. Extensive computational studies are presented for point packing problems, standard and generalized pooling problems, and examples from GLOBALLib (Meeraus, Globallib. http://www.gamsworld.org/global/globallib.htm).
+Keywords
+90C26 Global optimization  90C20 Quadratic programming  90C57 Polyhedral combinatorics; branch & bound  

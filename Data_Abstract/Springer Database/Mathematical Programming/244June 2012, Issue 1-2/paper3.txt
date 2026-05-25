@@ -1,0 +1,6 @@
+A line search exact penalty method using steering rules
+Richard H. Byrd;Gabriel Lopez-Calva;Jorge Nocedal;
+Abstract
+Line search algorithms for nonlinear programming must include safeguards to enjoy global convergence properties. This paper describes an exact penalization approach that extends the class of problems that can be solved with line search sequential quadratic programming methods. In the new algorithm, the penalty parameter is adjusted at every iteration to ensure sufficient progress in linear feasibility and to promote acceptance of the step. A trust region is used to assist in the determination of the penalty parameter, but not in the step computation. It is shown that the algorithm enjoys favorable global convergence properties. Numerical experiments illustrate the behavior of the algorithm on various difficult situations.
+Keywords
+90C30  49M37  65K05  

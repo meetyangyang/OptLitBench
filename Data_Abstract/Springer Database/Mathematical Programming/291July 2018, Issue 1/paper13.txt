@@ -1,0 +1,6 @@
+Scenario reduction for stochastic programs with Conditional Value-at-Risk
+Sebastián Arpón;Tito Homem-de-Mello;Bernardo Pagnoncelli;
+Abstract
+In this paper we discuss scenario reduction methods for risk-averse stochastic optimization problems. Scenario reduction techniques have received some attention in the literature and are used by practitioners, as such methods allow for an approximation of the random variables in the problem with a moderate number of scenarios, which in turn make the optimization problem easier to solve. The majority of works for scenario reduction are designed for classical risk-neutral stochastic optimization problems; however, it is intuitive that in the risk-averse case one is more concerned with scenarios that correspond to high cost. By building upon the notion of effective scenarios recently introduced in the literature, we formalize that intuitive idea and propose a scenario reduction technique for stochastic optimization problems where the objective function is a Conditional Value-at-Risk. Numerical results presented with problems from the literature illustrate the performance of the method and indicate the cases where we expect it to perform well.
+Keywords
+90C15 (Stochastic Programming)  90C31 (Sensitivity, stability, parametric optimization)  90C59 (Approximation methods and heuristics)  

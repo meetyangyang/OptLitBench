@@ -1,0 +1,4 @@
+A Constraint Programming Model for Tail Assignment
+Mattias Grönkvist;
+Abstract
+We describe a Constraint Programming model for the Tail Assignment problem in airline planning. Previous solution methods for this problem aim at optimality rather than obtaining a solution quickly, which is often a drawback in practice, where quickly obtaining solutions can be very important. We have developed constraints that use strong reachability propagation and tunneling to a column generation pricing problem to form a complete and flexible constraint model for Tail Assignment which is able to quickly find solutions. Results on real-world instances from a medium size airline are presented.

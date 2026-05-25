@@ -1,0 +1,6 @@
+Parametric approach for correcting inconsistent linear equality system
+Malihe Behboodi-Kahoo;Saeed Ketabchi;
+Abstract
+In this paper, an algorithm is proposed for solving a class of nonconvex fractional problems that result from the optimal correction of inconsistent linear equality systems. The main difficulty with this problem is its nonconvexity. Nevertheless, we can show that a global optimal solution to this problem can be found by solving a very simple univariate equation on a closed interval. Computing a value and a subgradient of the function in the equation consists of solving a single trust region subproblem. This function is convex and strictly increasing. As a result, we provide an alternative algorithm based on generalized Newton's direction. Numerical examples are given to illustrate the effectiveness of the proposed method.
+Keywords
+inconsistent linear system, fractional optimization, trust region subproblem, generalized Newton methodAMS Subject Classification: F90C30, 90C31, 15A39 

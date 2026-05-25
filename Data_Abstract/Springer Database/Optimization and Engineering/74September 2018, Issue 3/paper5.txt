@@ -1,0 +1,6 @@
+A goal-oriented dual-weighted adaptive finite element approach for the optimal control of a nonsmooth Cahn–Hilliard–Navier–Stokes system
+Michael Hintermüller;Michael Hinze;Christian Kahle;Tobias Keil;
+Abstract
+This paper is concerned with the development and implementation of an adaptive solution algorithm for the optimal control of a time-discrete Cahn–Hilliard–Navier–Stokes system with variable densities. The free energy density associated with the Cahn–Hilliard system incorporates the double-obstacle potential which yields an optimal control problem for a family of coupled systems in each time instant of a variational inequality of fourth order and the Navier–Stokes equation. A dual-weighted residual approach for goal-oriented adaptive finite elements is presented which is based on the concept of C-stationarity. The overall error representation depends on primal residuals weighted by approximate dual quantities and vice versa as well as various complementarity mismatch errors. Details of the numerical realization of the adaptive concept and a report on the numerical tests are given.
+Keywords
+Optimal control  Two phase flow  Diffuse interfaces  Goal-oriented adaptivity  Dual-weighted residuals  MPEC  

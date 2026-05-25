@@ -1,0 +1,6 @@
+Boundary Stabilization of a 1-D Wave Equation with In-Domain Antidamping
+Andrey  Smyshlyaev, Eduardo  Cerpa, and Miroslav  Krstic;
+Abstract
+We consider the problem of boundary stabilization of a 1-D (one-dimensional) wave equation with an internal spatially varying antidamping term. This term puts all the eigenvalues of the open-loop system in the right half of the complex plane. We design a feedback law based on the backstepping method and prove exponential stability of the closed-loop system with a desired decay rate. For plants with constant parameters the control gains are found in closed form. Our design also produces a new Lyapunov function for the classical wave equation with passive boundary damping.
+Keywords
+wave equation, stabilization, backstepping, 35L05, 93D15, 

@@ -1,0 +1,6 @@
+Coordinate descent with arbitrary sampling II: expected separable overapproximation
+Zheng Qu;Peter Richtárik;
+Abstract
+The design and complexity analysis of randomized coordinate descent methods, and in particular of variants which update a random subset (sampling) of coordinates in each iteration, depend on the notion of expected separable overapproximation (ESO). This refers to an inequality involving the objective function and the sampling, capturing in a compact way certain smoothness properties of the function in a random subspace spanned by the sampled coordinates. ESO inequalities were previously established for special classes of samplings only, almost invariably for uniform samplings. In this paper we develop a systematic technique for deriving these inequalities for a large class of functions and for arbitrary samplings. We demonstrate that one can recover existing ESO results using our general approach, which is based on the study of eigenvalues associated with samplings and the data describing the function.
+Keywords
+coordinate descent, randomized methods, arbitrary sampling, expected separable overapproximation, parallel and distributed coordinate descent 

@@ -1,0 +1,6 @@
+A Variational Discretization Concept in Control Constrained Optimization: The Linear-Quadratic Case
+M. Hinze;
+Abstract
+A new discretization concept for optimal control problems with control constraints is introduced which utilizes for the discretization of the control variable the relation between adjoint state and control. Its key feature is not to discretize the space of admissible controls but to implicitly utilize the first order optimality conditions and the discretization of the state and adjoint equations for the discretization of the control. For discrete controls obtained in this way an optimal error estimate is proved. The application to control of elliptic equations is discussed. Finally it is shown that the new concept is numerically implementable with only slight increase in program management. A numerical test confirms the theoretical investigations.
+Keywords
+error estimates  control of pdes  control constraints  

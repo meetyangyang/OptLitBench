@@ -1,0 +1,4 @@
+Filtering Algorithms for the Same Constraint
+Nicolas Beldiceanu;Irit Katriel;Sven Thiel;
+Abstract
+We define the Same and UsedBy constraints. UsedBy takes two sets of variables X and Z such that |X| ≥ |Z| and assigns values to them such that the multiset of values assigned to the variables in Z is contained in the multiset of values assigned to the variables in X. Same is the special case of UsedBy in which |X|=|Z|. In this paper we show algorithms that achieve arc consistency and bound consistency for the Same constraint and in its extended version we generalize them for the UsedBy constraint.

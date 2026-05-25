@@ -1,0 +1,6 @@
+D-optimal design of a monitoring network for parameter estimation of distributed systems
+Dariusz Uciński;Maciej Patan;
+Abstract
+This paper addresses the design of a network of observation locations in a spatial domain that will be used to estimate unknown parameters of a distributed parameter system. We consider a setting where we are given a finite number of possible sites at which to locate a sensor, but cost constraints allow only some proper subset of them to be selected. We formulate this problem as the selection of the gauged sites so as to maximize the log-determinant of the Fisher information matrix associated with the estimated parameters. The search for the optimal solution is performed using the branch-and-bound method in which an extremely simple and efficient technique is employed to produce an upper bound to the maximum objective function. Its idea consists in solving a relaxed problem through the application of a simplicial decomposition algorithm in which the restricted master problem is solved using a multiplicative algorithm for optimal design. The use of the proposed approach is illustrated by a numerical example involving sensor selection for a two-dimensional convective diffusion process.
+Keywords
+Sensor location  Distributed parameter systems  Optimum experimental design  Branch-and-bound  Simplicial decomposition  

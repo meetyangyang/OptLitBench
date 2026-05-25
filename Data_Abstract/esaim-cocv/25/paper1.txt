@@ -1,0 +1,6 @@
+Optimal control for distributed systems subject to null-controllability. Application to discriminating sentinels
+Ousseynou Nakoulima;
+Abstract
+We consider a distributed system in which the state q is governed by a parabolic equation and a pair of controls v = (h,k) where h and k play two different roles: the control k is of controllability type while h expresses that the state q does not move too far from a given state. Therefore, it is natural to introduce the controlpoint of view. In fact, there are several ways to state and solve optimal control problems with a pair of controls h and k, in particular the Least Squares method with only one criteria for the pair (h,k) or the Pareto Optimal Control for multicriteria problems. We propose here to use the notion of Hierarchic Control. This notion assumes that we have two controls h, k where h will be the leader while k will be the follower. The main tool used to solve the null-controllability problem with constraints on the follower is an observability inequality of Carleman type which is “adapted” to the constraints. The obtained results are applied to the sentinels theory of Lions [Masson (1992)].
+Keywords
+Heat equation, optimal control, controllability, Carleman inequalities, sentinel

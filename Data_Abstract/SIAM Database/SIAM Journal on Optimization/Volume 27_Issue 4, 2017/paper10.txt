@@ -1,0 +1,6 @@
+Sampling Algebraic Varieties for Sum of Squares Programs
+Diego  Cifuentes and Pablo A.  Parrilo;
+Abstract
+We study sum of squares (SOS) relaxations to optimize polynomial functions over a set ${\mathcal V}\cap {\mathbb R}^n$, where ${\mathcal V}$ is a complex algebraic variety. We propose a new methodology that, rather than relying on some algebraic description, represents ${\mathcal V}$ with a generic set of complex samples. This approach depends only on the geometry of ${\mathcal V}$, avoiding representation issues such as multiplicity and choice of generators. It also takes advantage of the coordinate ring structure to reduce the size of the corresponding semidefinite program (SDP). In addition, the input can be given as a straight-line program. Our methods are particularly appealing for varieties that are easy to sample from but for which the defining equations are complicated, such as $SO(n)$, Grassmannians, or rank $k$ tensors. For arbitrary varieties, we can obtain the required samples by using the tools of numerical algebraic geometry. In this way we connect the areas of SOS optimization and numerical algebraic geometry.
+Keywords
+sum of squares, sampling, SDP, algebraic variety, numerical algebraic geometry, 90C22, 65H10, 

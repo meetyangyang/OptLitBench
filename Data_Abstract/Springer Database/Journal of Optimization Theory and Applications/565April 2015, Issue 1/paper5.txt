@@ -1,0 +1,6 @@
+Minimization of Non-smooth, Non-convex Functionals by Iterative Thresholding
+Kristian Bredies;Dirk A. Lorenz;Stefan Reiterer;
+Abstract
+Convergence analysis is carried out for a forward-backward splitting/generalized gradient projection method for the minimization of a special class of non-smooth and genuinely non-convex minimization problems in infinite-dimensional Hilbert spaces. The functionals under consideration are the sum of a smooth, possibly non-convex and non-smooth, necessarily non-convex functional. For separable constraints in the sequence space, we show that the generalized gradient projection method amounts to a discontinuous iterative thresholding procedure, which can easily be implemented. In this case we prove strong subsequential convergence and moreover show that the limit satisfies strengthened necessary conditions for a global minimizer, i.e., it avoids a certain set of non-global minimizers. Eventually, the method is applied to problems arising in the recovery of sparse data, where strong convergence of the whole sequence is shown, and numerical tests are presented.
+Keywords
+Non-convex optimization  Non-smooth optimization   Gradient projection method  Iterative thresholding  49M05  65K10  

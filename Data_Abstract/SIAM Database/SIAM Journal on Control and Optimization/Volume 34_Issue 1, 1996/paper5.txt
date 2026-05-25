@@ -1,0 +1,6 @@
+Optimal Control of the Blowup Time
+Emmanuel N.  Barron and Wenxiong  Liu;
+Abstract
+The problem of optimal control of the blowup time of a system of nonlinear controlled ordinary differential equations is considered in this paper. The blowup time is defined to be the first time that the norm of the trajectory becomes infinite. When one seeks to maximize the blowup time the pair $(V(x),\Omega )$ comes under consideration, where $x \in R^n  \mapsto V(x) \in [0,\infty ]$ is the value function and $\Omega  \subset R^n $ is the blowup set. This is the set of initial points from which finite time blowup will occur for any control. We prove that $(V,\Omega )$ is the unique viscosity solution of the equation $1 + \max _z D_x V(x) \cdot f(x,z) = 0$, $x \in \Omega $ and conditions $\lim _{| x | \to \infty } V(x) = 0$, $\lim _{x \to \partial \Omega } V(x) =  + \infty $. Finally, we derive the Pontryagin maximum principle for an optimal control. Some generalizations are also discussed.
+Keywords
+blowup time, optimal control, viscosity solutions, Pontryagin principle, 49C20, 49C05, 35B99, 

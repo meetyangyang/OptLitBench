@@ -1,0 +1,6 @@
+An Algorithm for Convex Quadratic Programming That Requires O(n3.5L) Arithmetic Operations
+Sanjay Mehrotra;Jie Sun;
+Abstract
+A new interior point method for minimizing a convex quadratic function over a polytope is developed. We show that our method requires O(n3.5L) arithmetic operations. In our algorithm we construct a sequence Pz0, Pz1, …, Pzk, … of nested convex sets that shrink towards the set of optimal solution(s). During iteration k we take a partial Newton step to move from an approximate analytic center of Pzk − 1 to an approximate analytic center of Pzk. A system of linear equations is solved at each iteration to find the step direction. The solution that is available after O(√mL) iterations can be converted to an optimal solution. Our analysis indicates that inexact solutions to the linear system of equations could be used in implementing this algorithm.
+Keywords
+analytic center convex quadratic programming interior point methods Karmarkars' algorithm method of centers 

@@ -1,0 +1,6 @@
+The continuous adjoint approach to the k–ω SST turbulence model with applications in shape optimization
+I.S. Kavvadias;E.M. Papoutsis-Kiachagias;G. Dimitrakopoulos;K.C. Giannakoglou;
+Abstract
+In this article, the gradient of aerodynamic objective functions with respect to design variables, in problems governed by the incompressible Navier–Stokes equations coupled with the k–ω SST turbulence model, is computed using the continuous adjoint method, for the first time. Shape optimization problems for minimizing drag, in external aerodynamics (flows around isolated airfoils), or viscous losses in internal aerodynamics (duct flows) are considered. Sensitivity derivatives computed with the proposed adjoint method are compared to those computed with finite differences or a continuous adjoint variant based on the frequently used assumption of frozen turbulence; the latter proves the need for differentiating the turbulence model. Geometries produced by optimization runs performed with sensitivities computed by the proposed method and the ‘frozen turbulence’ assumption are also compared to quantify the gain from formulating and solving the adjoint to the turbulence model equations.
+Keywords
+continuous adjoint, adjoint turbulence models, sensitivity derivatives, aerodynamic shape optimization 

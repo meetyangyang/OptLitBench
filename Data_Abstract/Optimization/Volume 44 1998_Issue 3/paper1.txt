@@ -1,0 +1,6 @@
+Cost approximation algorithms with nonmonotone line searches for a general class of nonlinear programs
+ Michael.   Patriksson ;
+Abstract
+ When solving ill-conditioned nonlinear programs by descent algorithms, the descent requirement may induce the step lengths to become very. small. thus resulting in very poor performances. Recently, suggestions have been made to circumvent this problem. among which is a class of approaches in which the objective value may be allowed to increase temporarily. Grippo et al. [GLL91] introduce nonmonotone line searches in the class of deflected gradient methods in unconstrained differentiable optimization; this technique allows for longer steps (typically of unit length) to be taken, and is successfully applied to some ill-conditioned problems. This paper extends their nonmonotone approach and convergence results to the large class of cost approximation algorithms of Patriksson [Pat93b]. and to optimization problems with both convex constraints and nondifferentiable objective functions  
+Keywords
+Non Differentiable Optimization, Cost Approximation, Nonmonotone Algorithms 

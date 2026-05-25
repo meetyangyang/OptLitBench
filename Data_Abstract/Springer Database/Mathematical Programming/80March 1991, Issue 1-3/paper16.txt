@@ -1,0 +1,6 @@
+An O(n3L) potential reduction algorithm for linear programming
+Yinyu Ye;
+Abstract
+We describe a primal-dual potential function for linear programming:$$\phi (x,s) = \rho \ln (x^T s) - \sum\limits_{j = 1}^n {\ln (x_j s_j )} $$ whereρ⩾ n, x is the primal variable, ands is the dual-slack variable. As a result, we develop an interior point algorithm seeking reductions in the potential function with\(\rho  = n + \sqrt n \). Neither tracing the central path nor using the projective transformation, the algorithm converges to the optimal solution set in\(O(\sqrt n L)\) iterations and uses O(n3L) total arithmetic operations. We also suggest a practical approach to implementing the algorithm.
+Keywords
+Linear programming  primal and dual  interior algorithms  potential functions  

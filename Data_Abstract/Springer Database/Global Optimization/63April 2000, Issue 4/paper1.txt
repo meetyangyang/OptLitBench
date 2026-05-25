@@ -1,0 +1,6 @@
+Pivoting in an Outcome Polyhedron
+Harold P. Benson;Erjiang Sun;
+Abstract
+In many types of linear, convex and nonconvex optimization problems over polyhedra, a global optimal solution can be found by searching the extreme points of the outcome polyhedron Y instead of the extreme points of the decision set polyhedron Z. Since the dimension of Y is often significantly smaller than the dimension of Z, and since the structure of Y is often much simpler than the structure of Z, such an approach has the potential to often yield significant computational savings. This article seeks to motivate these potential savings through both general theory and concrete examples. The article then develops two new procedures. The first procedure is linear-programming based and finds an initial extreme point of an outcome polyhedron Y. The second procedure provides a mechanism for moving from a given extreme point y of Y along any chosen edge of Y emanating from y until a neighboring extreme point to y is reached. As a by-product of the second procedure, as in the pivoting process of the simplex method, a complete algebraic description of the chosen edge can also be easily obtained.
+Keywords
+Outcome polyhedron  Linear programming  Pivoting  Nonlinear programming  Global optimization  Extreme point mathematical programming  Neighborhood problem  

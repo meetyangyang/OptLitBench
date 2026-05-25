@@ -1,0 +1,6 @@
+Optimal control synthesis for the constrained bilinear biquadratic regulator problem
+Ido Halperin;Grigory Agranovich;Yuri Ribakov;
+Abstract
+Optimal process control with control constraints is a challenging task related to many real-life problems. In this paper, a single input continuous time constrained linear quadratic regulator problem, is defined and fully solved. The constraints include both bilinear inequality constraints and customary control force bounds. As a first step, the problem is reformulated as an equivalent constrained bilinear biquadratic optimal control problem. Next, Krotov’s method is used to solve it. To this end, a sequence of improving functions suitable to the problem’s new formulation is constructed and the corresponding successive algorithm is derived. The required computational steps are arranged as an algorithm and proof outlines for the convergence and optimality of the solution are given. The efficiency of the suggested method is demonstrated by numerical example.
+Keywords
+Optimal control  Constrained optimization  Krotov’s method  Bilinear biquadratic regulator  Semi-active control  

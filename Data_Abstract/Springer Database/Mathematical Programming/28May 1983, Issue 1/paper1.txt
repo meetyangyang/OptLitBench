@@ -1,0 +1,6 @@
+Large-scale linear programming: Geometry, working bases and factorizations
+Michael J. Todd;
+Abstract
+This paper is concerned with linear programming problems in which many of the constraints are handled implicitly by requiring that the vector of decision variables lie in a polyhedronX. It is shown that the simplex method can be implemented using a working basis whose size is the number of explicit constraints as long as the local structure ofX around the current point is known. Various ways of describing this local structure lead to known implementations whenX is defined by generalized or variable upper bounds or flow conservation constraints. In the general case a decomposition principle can be used to generate this local structure. We also show how to update factorizations of the working basis.
+Keywords
+Large-Scale Linear Programming  Geometry  Compact Bases  Matrix Factorizations  

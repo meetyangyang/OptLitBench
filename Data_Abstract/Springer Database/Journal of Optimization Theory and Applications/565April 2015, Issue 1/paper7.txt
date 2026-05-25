@@ -1,0 +1,6 @@
+Nonsmoothness and a Variable Metric Method
+A. S. Lewis;S. Zhang;
+Abstract
+This paper investigates the behavior, both good and bad, of the Broyden–Fletcher–Goldfarb–Shanno algorithm for smooth minimization, when applied to nonsmooth functions. We consider three particular examples. We first present a simple nonsmooth example, illustrating how this variable metric method (in this case with an exact line search) typically succeeds despite nonsmoothness. We then study, computationally, the behavior of the method with an inexact line search on the same example and discuss the results. In further support of the heuristic effectiveness of the method despite nonsmoothness, we prove that, for the very simplest class of nonsmooth functions (maximums of two affine functions), the method cannot stall at a nonstationary point. On the other hand, we present a nonsmooth example where the method with an inexact line-search converges to a stationary point notwithstanding the presence of directions of linear descent. Finally, we briefly compare line-search and trust-region strategies for this method in the nonsmooth case.
+Keywords
+Broyden–Fletcher–Goldfarb–Shanno (BFGS)  Nonsmooth    Line search  Partial smoothness  Stationary point  Trust region  90C30  65K05  

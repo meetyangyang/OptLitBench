@@ -1,0 +1,6 @@
+Optimization of cooling tower shells using a simple genetic algorithm
+J. Pieczara;
+Abstract
+The exact finite element (EFE) approach is applied to model the buckling behaviour of cooling tower shells subjected to equivalent axially-symmetrical wind pressure and dead load. On the basis of the EFE model, an optimization problem is formulated and performed. The shell wall thicknesses at the nodal points of EFE discretization are taken as decision variables. The volume of a tower shell is minimized under the buckling constraint. The single criterion constrained optimization problem is substituted by multiobjective formulation with the buckling function as the second objective. A simple genetic algorithm with roulette wheel selection, elitist model, one point crossover and uniform mutation is used to minimize the weighted global criterion measure. The results of multicriterial optimization using genetic algorithms are compared with the results of single-criterion constrained optimization received within classical methods.
+Keywords
+Key words: cooling towers, shells, genetic algorithm, buckling  

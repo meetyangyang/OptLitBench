@@ -1,0 +1,6 @@
+Online Scheduling with Bounded Migration
+Peter Sanders;Naveen Sivadasan;Martin Skutella;
+Abstract
+Consider the classical online scheduling problem, in which jobs that arrive one by one are assigned to identical parallel machines with the objective of minimizing the makespan. We generalize this problem by allowing the current assignment to be changed whenever a new job arrives, subject to the constraint that the total size of moved jobs is bounded by some constant times the size of the arriving job. This constant is called the migration factor. For small migration factors, we obtain several simple online algorithms with constant competitive ratio. We also present a linear time “online approximation scheme,” that is, a family of online algorithms with competitive ratio arbitrarily close to 1 and constant migration factor.
+Keywords
+scheduling approximation online algorithm sensitivity analysis 

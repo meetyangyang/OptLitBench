@@ -1,0 +1,6 @@
+A capacitated facility location and inventory management problem with single sourcing
+Ali Diabat;
+Abstract
+The current paper addresses the integrated location and inventory problem with capacity constraints. Adopting more realistic assumptions comes at the cost of increased complexity and inability to solve the model with existing methods, mainly due to the non-linear terms that arise. We attempt to render the extended formulation solvable by linearizing its non-linear terms. Certain terms are replaced by exact reformulations while for the rest a piecewise linearization is implemented. The contribution of this work is not only the development of a formulation that is more practical, but also the reformulation that enables its solving with commercial software. We test our proposed approach on a benchmark dataset from the literature, including both small and large instances of the problem. Results clearly demonstrate the superiority of this approach in terms of both solution quality and computational time.
+Keywords
+Supply chain  Location-inventory  Integer programming  Piecewise linearization  

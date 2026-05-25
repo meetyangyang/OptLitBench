@@ -1,0 +1,6 @@
+Deterministic Global Optimization in Nonlinear Optimal Control Problems
+William R. Esposito;Christodoulos A. Floudas;
+Abstract
+The accurate solution of optimal control problems is crucial in many areas of engineering and applied science. For systems which are described by a nonlinear set of differential-algebraic equations, these problems have been shown to often contain multiple local minima. Methods exist which attempt to determine the global solution of these formulations. These algorithms are stochastic in nature and can still get trapped in local minima. There is currently no deterministic method which can solve, to global optimality, the nonlinear optimal control problem. In this paper a deterministic global optimization approach based on a branch and bound framework is introduced to address the nonlinear optimal control problem to global optimality. Only mild conditions on the differentiability of the dynamic system are required. The implementa-tion of the approach is discussed and computational studies are presented for four control problems which exhibit multiple local minima.
+Keywords
+Differential-algebraic equations  Global optimization  Optimal control  

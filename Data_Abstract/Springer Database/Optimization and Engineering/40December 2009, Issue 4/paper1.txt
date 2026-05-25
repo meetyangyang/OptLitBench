@@ -1,0 +1,6 @@
+Adaptive range particle swarm optimization
+Satoshi Kitayama;Koetsu Yamazaki;Masao Arakawa;
+Abstract
+This paper proposes a new technique for particle swarm optimization called adaptive range particle swarm optimization (ARPSO). In this technique an active search domain range is determined by utilizing the mean and standard deviation of each design variable. In the initial search stage, the search domain is explored widely. Then the search domain is shrunk so that it is restricted to a small domain while the search continues. To achieve these search processes, new parameters to determine the active search domain range are introduced. These parameters gradually increase as the search continues. Through these processes, it is possible to shrink the active search domain range. Moreover, by using the proposed method, an optimum solution is attained with high accuracy and a small number of function evaluations. Through numerical examples, the effectiveness and validity of ARPSO are examined.
+Keywords
+Global optimization  Particle swarm optimization  Active search domain range  

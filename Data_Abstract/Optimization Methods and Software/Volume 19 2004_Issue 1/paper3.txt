@@ -1,0 +1,6 @@
+Solving mathematical programs with complementarity constraints as nonlinear programs 
+ Roger   Fletcher*  ; Sven   Leyffer,‡  ;
+Abstract
+ We consider solving mathematical programs with complementarity constraints (MPCCs) as nonlinear programs (NLPs) using standard NLP solvers. This approach is appealing because it allows existing off-the-shelf NLP solvers to tackle large instances of MPCCs. Numerical experience on MacMPEC, a large collection of MPCC test problems is presented. Our experience indicates that sequential quadratic programming (SQP) methods are very well suited for solving MPCCs and at present outperform interior-point solvers both in terms of speed and reliability. All NLP solvers also compare very favorably to special MPCC solvers on tests published in the literature. 
+Keywords
+MPCC, Complementarity constraints, Nonlinear programming, Sequential quadratic programming, Interior-point methods 

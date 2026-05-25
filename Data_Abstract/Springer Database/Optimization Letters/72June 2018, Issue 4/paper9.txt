@@ -1,0 +1,6 @@
+Note on the modified relaxation CQ algorithm for the split feasibility problem
+Aviv Gibali;Li-Wei Liu;Yu-Chao Tang;
+Abstract
+In this paper we are concerned with the Split Feasibility Problem (SFP) in which there are given two Hilbert spaces \(H_1\) and \(H_2\), nonempty, closed and convex sets \(C\subseteq H_1\) and \(Q\subseteq H_2\), and a bounded and linear operator \(A:H_1 \rightarrow H_2\). The SFP is then to find a point \(x^*\in C\) such that its image under A belongs to Q, meaning that \(Ax^*\in Q\). This reformulation was employed successfully for solving many inverse problems: for example, in intensity-modulated radiation therapy treatment planning. One of the typical classes of methods that have been used to solve the SFP is the class of projection method. This note focuses on the modified relaxation CQ algorithm with the Armijo-line search rule for solving the SFP. Under common and standard assumptions, we show that the proposed method weakly converges to a solution of the SFP. Numerical examples illustrating our method’s efficiency are presented for solving the LASSO problem in which the goal is to recover a sparse signal from a limited number of observations.
+Keywords
+Split feasibility problem  Armijo-line search  Projection operator  

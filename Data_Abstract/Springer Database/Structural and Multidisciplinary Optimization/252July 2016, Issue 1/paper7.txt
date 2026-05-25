@@ -1,0 +1,6 @@
+A discontinuous phase field approach to variational growth-based topology optimization
+Philipp Junker;Klaus Hackl;
+Abstract
+Numerical instabilities cause the well-known problem of checkerboarding during topology optimization: elements that possess material are periodically neighbored to elements that are material-free. Furthermore, such numerical solutions depend on the finite element mesh and no reasonable processing techniques exist for manufacture. Thus, integral- or gradient-based regularization techniques are usually applied during topology optimization. In this paper, a novel approach to regularization is derived for a recently published variational approach to topology optimization that is based on material growth. The presented approach shares some similarities with the discontinuous Galerkin method and completely removes consideration of additional nodal quantities or complex integration schemes. The derivation and numerical treatment of the resulting phase field equation as well as exemplary numerical results are presented.
+Keywords
+Growth-based topology optimization  Discontinuous phase field  Variational modeling  Regularization  

@@ -1,0 +1,6 @@
+Job ordering and management of wearing tools
+ M.   Hirvikorpi ; O. S.   Nevalainen ; T.   Knuutila ;
+Abstract
+ This article considers a scheduling problem arising in flexible manufacturing systems. It is assumed that a computer numerical control machine processes a set of jobs with a set of wearing tools. The tool magazine of the machine has a given capacity and each job requires some subset of tools. The goal is to minimize the average completion time of the jobs by choosing their processing order and the tool management decisions intelligently. Previous studies concerning this problem have either omitted the tool wearing or assumed only one tool type. This study gives a mathematical formulation for the problem when the tool lifetimes are deterministic. It is shown that problems of a practical size cannot be solved to optimality within a reasonable time. Therefore genetic algorithms and local search methods are considered to resolve the problem. When the solutions of these new algorithms are compared against the optimal solutions and lower bounds, they are nearly optimal. 
+Keywords
+Computer numerical control production, Combinatorial optimization, Job scheduling, Tool wear, Tool switches, Heuristics 

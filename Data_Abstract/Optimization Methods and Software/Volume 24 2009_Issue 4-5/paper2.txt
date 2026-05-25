@@ -1,0 +1,6 @@
+Multiterm polyhedral relaxations for nonconvex, quadratically constrained quadratic programs
+ Xiaowei   Bao ; Nikolaos   V.   Sahinidis ; Mohit   Tawarmalani ;
+Abstract
+ This article addresses the generation of strong polyhedral relaxations for nonconvex, quadratically constrained quadratic programs (QCQPs). Using the convex envelope of multilinear functions as our starting point, we develop a polyhedral relaxation for QCQP, along with a cutting plane algorithm for its implementation. Our relaxations are multiterm, i.e. they are derived from the convex envelope of the sum of multiple bilinear terms of quadratic constraints, thereby providing tighter bounds than the standard termwise relaxation of the bilinear functions. Computational results demonstrate the usefulness of the proposed cutting planes. 
+Keywords
+nonconvex quadratic programming, polyhedral relaxation, convex envelope, cutting plane, global optimization AMS Subject Classification : F11 

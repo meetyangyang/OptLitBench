@@ -1,0 +1,6 @@
+Adaptive constraint reduction for convex quadratic programming
+Jin Hyuk Jung;Dianne P. O’Leary;André L. Tits;
+Abstract
+We propose an adaptive, constraint-reduced, primal-dual interior-point algorithm for convex quadratic programming with many more inequality constraints than variables. We reduce the computational effort by assembling, instead of the exact normal-equation matrix, an approximate matrix from a well chosen index set which includes indices of constraints that seem to be most critical. Starting with a large portion of the constraints, our proposed scheme excludes more unnecessary constraints at later iterations. We provide proofs for the global convergence and the quadratic local convergence rate of an affine-scaling variant. Numerical experiments on random problems, on a data-fitting problem, and on a problem in array pattern synthesis show the effectiveness of the constraint reduction in decreasing the time per iteration without significantly affecting the number of iterations. We note that a similar constraint-reduction approach can be applied to algorithms of Mehrotra’s predictor-corrector type, although no convergence theory is supplied.
+Keywords
+Convex quadratic programming  Constraint reduction  Column generation  Primal-dual interior-point method  

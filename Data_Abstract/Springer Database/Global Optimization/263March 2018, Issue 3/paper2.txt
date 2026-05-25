@@ -1,0 +1,6 @@
+A proximal bundle method for constrained nonsmooth nonconvex optimization with inexact information
+Jian Lv;Li-Ping Pang;Fan-Yun Meng;
+Abstract
+We propose an inexact proximal bundle method for constrained nonsmooth nonconvex optimization problems whose objective and constraint functions are known through oracles which provide inexact information. The errors in function and subgradient evaluations might be unknown, but are merely bounded. To handle the nonconvexity, we first use the redistributed idea, and consider even more difficulties by introducing inexactness in the available information. We further examine the modified improvement function for a series of difficulties caused by the constrained functions. The numerical results show the good performance of our inexact method for a large class of nonconvex optimization problems. The approach is also assessed on semi-infinite programming problems, and some encouraging numerical experiences are provided.
+Keywords
+Constrained optimization  Nonconvex optimization  Nonsmooth optimization  Inexact oracle  Proximal bundle method  90C26  49J52  93B40  

@@ -1,0 +1,6 @@
+Variations of structured Broyden families for nonlinear least squares problems
+ Hiroshi   Yabe ;
+Abstract
+ In this paper, we consider structured quasi-Newton methods for finding a local solution to nonlinear least squares problems. This paper is concerned with the line search globalization method. Recently, factorized versions of the structured quasi-Newton methods have been studied by Sheng and Zou, and Yabe and Takahashi in order to obtain a descent search direction for the objective function. In this paper, we first generalize the update of Sheng and Zou, and propose a new factorized family corresponding to the Broyden family (SZ-Broyden family). Second, we suggest a relationship between the structured quasi-Newton updates and the factorized versions. We use this relationship to show that the factorized Broyden family proposed by Yabe and Yamaki corresponds to the Engels and Martinez family, and we further obtain a new structured quasi-Newton update which corresponds to the SZ-Broyden family in the sense of this relation. Finally, we apply sizing techniques to these methods and present some numerical experiments. 
+Keywords
+Nonlinear least squares problems, Structured quasi-Newton methods, Broyden family, Sheng and Zou method, Sizing techniques 

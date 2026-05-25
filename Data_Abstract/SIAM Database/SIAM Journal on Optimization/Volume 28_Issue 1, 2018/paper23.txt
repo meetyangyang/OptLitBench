@@ -1,0 +1,6 @@
+Regularized Decomposition of High-Dimensional Multistage Stochastic Programs with Markov Uncertainty
+Tsvetan  Asamov and Warren B.  Powell;
+Abstract
+We develop a quadratic regularization approach for the solution of high-dimensional multistage stochastic optimization problems characterized by a potentially large number of time periods/stages (e.g., hundreds), a high-dimensional resource state variable, and a Markov information process. The resulting algorithms are shown to converge to an optimal policy after a finite number of iterations under mild technical assumptions. Computational experiments are conducted using the setting of optimizing energy storage over a large transmission grid, which motivates both the spatial and temporal dimensions of our problem. Our numerical results indicate that the proposed methods exhibit significantly faster convergence than their classical counterparts, with greater gains observed for higher-dimensional problems.
+Keywords
+multistage stochastic optimization, quadratic regularization, nested decomposition, stochastic dual dynamic programming, 68Q25, 68R10, 68U05, 

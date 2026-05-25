@@ -1,0 +1,6 @@
+Stochastic algorithms with armijo stepsizes for minimization of functions
+Y. Wardi;
+Abstract
+Stochastic algorithms for optimization problems, where function evaluations are done by Monte Carlo simulations, are presented. At each iteratexi, they draw a predetermined numbern(i) of sample points from an underlying probability space; based on these sample points, they compute a feasible-descent direction, an Armijo stepsize, and the next iteratexi+1. For an appropriate optimality function σ, corresponding to an optimality condition, it is shown that, ifn(i) → ∞, then σ(xi) → 0, whereJ is a set of integers whose upper density is zero. First, convergence is shown for a general algorithm prototype: then, a steepest-descent algorithm for unconstrained problems and a feasible-direction algorithm for problems with inequality constraints are developed. A numerical example is supplied.
+Keywords
+Stochastic optimization  method of steepest descent  method of feasible directions  optimality functions  

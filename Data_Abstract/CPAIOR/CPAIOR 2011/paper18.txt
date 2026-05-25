@@ -1,0 +1,4 @@
+The Objective Sum Constraint
+Jean-Charles Régin;Thierry Petit;
+Abstract
+Constraint toolkits generally propose a sum constraint where a global objective variable should be equal to a sum of local objective variables, on which bound-consistency is achieved. To solve optimization problems this propagation is poor. Therefore, ad-hoc techniques are designed for pruning the global objective variable by taking account of the interactions between constraints defined on local objective variables. Each technique is specific to each (class of) practical problem. In this paper, we propose a new global constraint which deals with this issue in a generic way. We propose a sum constraint which exploits the propagation of a set of constraints defined on local objective variables.

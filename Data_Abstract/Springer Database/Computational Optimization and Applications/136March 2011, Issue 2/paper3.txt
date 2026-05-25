@@ -1,0 +1,6 @@
+Convergence analysis of truncated incomplete Hessian Newton minimization method and application in biomolecular potential energy minimization
+Dexuan Xie;Mazen G. Zarrouk;
+Abstract
+This paper gives a general convergence analysis to the truncated incomplete Hessian Newton method (T-IHN). It shows that T-IHN is globally convergent even with an indefinite incomplete Hessian matrix or an indefinite preconditioner, which may happen in practice. It also proves that when the T-IHN iterates are close enough to a minimum point, T-IHN has a Q-linear rate of convergence, and an admissible line search steplength of one. Moreover, a particular T-IHN algorithm is constructed for minimizing a biomolecular potential energy function, and numerically tested for a protein model problem based on a widely used molecular simulation package, CHARMM. Numerical results confirm the theoretical results, and demonstrate that T-IHN can have a better performance (in terms of computer CPU time) than most CHARMM minimizers.
+Keywords
+Truncated-Newton method  Incomplete Hessian Newton method  Convergence analysis  Molecular potential minimization  

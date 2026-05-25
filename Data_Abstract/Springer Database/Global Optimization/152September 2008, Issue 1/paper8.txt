@@ -1,0 +1,6 @@
+An inexact proximal point method for solving generalized fractional programs
+Jean-Jacques Strodiot;Jean-Pierre Crouzeix;Jacques A. Ferland;Van Hien Nguyen;
+Abstract
+In this paper, we present several new implementable methods for solving a generalized fractional program with convex data. They are Dinkelbach-type methods where a prox-regularization term is added to avoid the numerical difficulties arising when the solution of the problem is not unique. In these methods, at each iteration a regularized parametric problem is solved inexactly to obtain an approximation of the optimal value of the problem. Since the parametric problem is nonsmooth and convex, we propose to solve it by using a classical bundle method where the parameter is updated after each ‘serious step’. We mainly study two kinds of such steps, and we prove the convergence and the rate of convergence of each of the corresponding methods. Finally, we present some numerical experience to illustrate the behavior of the proposed algorithms, and we discuss the practical efficiency of each one.
+Keywords
+Fractional programming  Dinkelbach algorithms  Proximal point methods  Bundle methods  90C32  90C26  

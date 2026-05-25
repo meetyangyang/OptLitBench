@@ -1,0 +1,4 @@
+Accelerating Counting-Based Search
+Samuel Gagnon;Gilles Pesant;
+Abstract
+Counting-based search, a branching heuristic used in constraint programming, relies on computing the proportion of solutions to a constraint in which a given variable-value assignment appears in order to build an integrated variable- and value-selection heuristic to solve constraint satisfaction problems. The information it collects has led to very effective search guidance in many contexts. However, depending on the constraint, computing such information can carry a high computational cost. This paper presents several contributions to accelerate counting-based search, with supporting empirical evidence that solutions can thus be obtained orders of magnitude faster.

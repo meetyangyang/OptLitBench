@@ -1,0 +1,8 @@
+Nonlinear feedback controllers and compensators: a state-dependent Riccati equation approach
+H. T. Banks;B. M. Lewis;H. T. Tran;
+Abstract
+
+State-dependent Riccati equation (SDRE) techniques are rapidly emerging as general design and synthesis methods of nonlinear feedback controllers and estimators for a broad class of nonlinear regulator problems. In essence, the SDRE approach involves mimicking standard linear quadratic regulator (LQR) formulation for linear systems. In particular, the technique consists of using direct parameterization to bring the nonlinear system to a linear structure having state-dependent coefficient matrices. Theoretical advances have been made regarding the nonlinear regulator problem and the asymptotic stability properties of the system with full state feedback. However, there have not been any attempts at the theory regarding the asymptotic convergence of the estimator and the compensated system. This paper addresses these two issues as well as discussing numerical methods for approximating the solution to the SDRE. The Taylor series numerical methods works only for a certain class of systems, namely with constant control coefficient matrices, and only in small regions. The interpolation numerical method can be applied globally to a much larger class of systems. Examples will be provided to illustrate the effectiveness and potential of the SDRE technique for the design of nonlinear compensator-based feedback controllers.
+
+Keywords
+Nonlinear feedback control  Nonlinear compensator  State-dependent Riccati equations  

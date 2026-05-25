@@ -1,0 +1,6 @@
+On the Complexity of Steepest Descent, Newton's and Regularized Newton's Methods for Nonconvex Unconstrained Optimization Problems
+C.  Cartis, N. I. M.  Gould, and Ph. L.  Toint;
+Abstract
+It is shown that the steepest-descent and Newton's methods for unconstrained nonconvex optimization under standard assumptions may both require a number of iterations and function evaluations arbitrarily close to $O(\epsilon^{-2})$ to drive the norm of the gradient below $\epsilon$. This shows that the upper bound of $O(\epsilon^{-2})$ evaluations known for the steepest descent is tight and that Newton's method may be as slow as the steepest-descent method in the worst case. The improved evaluation complexity bound of $O(\epsilon^{-3/2})$ evaluations known for cubically regularized Newton's methods is also shown to be tight.
+Keywords
+nonlinear optimization, unconstrained optimization, steepest-descent method, Newton's method, trust-region methods, cubic regularization, global complexity bounds, global rate of convergence, 90C30, 65K05, 49M37, 49M15, 49M05, 58C15, 90C60, 68Q25, 

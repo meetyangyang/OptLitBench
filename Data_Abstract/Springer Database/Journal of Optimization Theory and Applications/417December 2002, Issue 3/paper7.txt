@@ -1,0 +1,6 @@
+Improved Performance of Universal Integral Regulators
+H.K. Khalil;
+Abstract
+The paper is concerned with the design of an integral control for minimum-phase nonlinear systems that have a well-defined relative degree. Earlier work by the author and coworkers has shown how integral control can be combined with robust control techniques to achieve nonlocal and semiglobal regulation results. The results are applicable to output feedback control problems through the use of high-gain observers and saturation nonlinearities. When used with sliding-mode control, the technique produces universal integral regulators that have been shown to coincide with PI and PID controllers, followed by limiters, for relative-degree-one systems and relative-degree-two systems. The use of integral action improves the steady-state response at the expense of degrading the transient response. The present paper summarizes two recent techniques to modify the universal integral regulator so as to improve its transient performance. One technique uses antiwindup integration, while the other uses nonlinear integrators.
+Keywords
+Nonlinear control  integral control  observers  minimum-phase systems  robust control  

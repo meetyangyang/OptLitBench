@@ -1,0 +1,6 @@
+Asymmetric First-Price Auctions—A Dynamical-Systems Approach
+Gadi Fibich;Nir Gavish;
+Abstract
+We introduce a new approach for analysis and numerical simulations of asymmetric first-price auctions, which is based on dynamical systems. We apply this approach to asymmetric auctions in which players' valuations are power-law distributed. We utilize a dynamical-systems formulation to provide a proof of the existence and uniqueness of the equilibrium strategies in the cases of two coalitions and of two types of players. In the case of n different players, the singular point of the original system at b = 0 corresponds to a saddle point of the dynamical system with n − 1 admissible directions. This insight enables us to use forward solutions in the analysis and in the numerical simulations, in contrast with previous analytic and numerical studies that used backward solutions. The dynamical-systems approach provides an intuitive explanation for why the standard backward-shooting method for computing the equilibrium strategies is inherently unstable, and enables us to devise a stable forward-shooting method. In particular, in the case of two types of players, this method is extremely simple, as it does not require any shooting.
+Keywords
+asymmetric auctions first-price auctions dynamical systems numerical methods 

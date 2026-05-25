@@ -1,0 +1,6 @@
+Why Broyden’s Nonsymmetric Method Terminates on Linear Equations
+Dianne P.  O’Leary;
+Abstract
+The family of algorithms introduced by Broyden in 1965 for solving systems of nonlinear equations has been used quite effectively on a variety of problems. In 1979, Gay proved the then surprising result that the algorithms terminate in at most $2n$ steps on linear problems with n variables [SIAM J. Numer Anal., 16 (1979), pp. 623–630]. His very clever proof gives no insight into properties of the intermediate iterates, however. In this work we show that Broyden’s methods are projection methods, forcing the residuals to lie in a nested set of subspaces of decreasing dimension. The results apply to linear systems as well as linear least squares problems.
+Keywords
+Broyden’s method, nonlinear equations, quasi-Newton methods, 65H10, 65F10, 

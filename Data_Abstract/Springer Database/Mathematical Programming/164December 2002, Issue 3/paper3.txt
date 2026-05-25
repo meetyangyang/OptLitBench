@@ -1,0 +1,6 @@
+An extended algorithm for separated continuous linear programs
+Malcolm C. Pullan;
+Abstract
+Separated continuous linear programs (SCLP) are a class of continuous linear programs which, among other things, can serve as a useful model for dynamic network problems where storage is permitted at the nodes. Recent work on SCLP has produced a detailed duality theory, conditions under which an optimal solution exists with a finite number of breakpoints, a purification algorithm, as well as a convergent algorithm for solving SCLP under certain assumptions on the problem data. This paper combines much of this work to develop a possible approach for solving a wider range of SCLP problems, namely those with fairly general costs. The techniques required to implement the algorithm are no more than standard (finite-dimensional) linear programming and line searching, and the resulting algorithm is simplex-like in nature. We conclude the paper with the numerical results obtained by using a simple implementation of the algorithm to solve a small problem.
+Keywords
+Key words. continuous linear programming – linear optimal control – simplex-like algorithm  Mathematics Subject Classification (2000): 49N05, 90C45  

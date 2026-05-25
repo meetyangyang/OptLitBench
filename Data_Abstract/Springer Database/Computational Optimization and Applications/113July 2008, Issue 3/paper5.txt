@@ -1,0 +1,8 @@
+A family of NCP functions and a descent method for the nonlinear complementarity problem
+Jein-Shan Chen;Shaohua Pan;
+Abstract
+
+In last decades, there has been much effort on the solution and the analysis of the nonlinear complementarity problem (NCP) by reformulating NCP as an unconstrained minimization involving an NCP function. In this paper, we propose a family of new NCP functions, which include the Fischer-Burmeister function as a special case, based on a p-norm with p being any fixed real number in the interval (1,+∞), and show several favorable properties of the proposed functions. In addition, we also propose a descent algorithm that is indeed derivative-free for solving the unconstrained minimization based on the merit functions from the proposed NCP functions. Numerical results for the test problems from MCPLIB indicate that the descent algorithm has better performance when the parameter p decreases in (1,+∞). This implies that the merit functions associated with p∈(1,2), for example p=1.5, are more effective in numerical computations than the Fischer-Burmeister merit function, which exactly corresponds to p=2.
+
+Keywords
+NCP  NCP function  Merit function  Descent method  

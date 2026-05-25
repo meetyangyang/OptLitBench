@@ -1,0 +1,6 @@
+COMPUTING FORWARD DIFFERENCE DERIVATIVES IN ENGINEERING OPTIMIZATION
+ RUSSELL R.   BARTON ;
+Abstract
+ This paper presents experimental comparisons of several methods for approximating derivatives by finite differences. In particular, the method for choosing the forward difference interval is discussed. The focus is on the optimization of outputs of computer models ( e.g. circuit simulaiion, structural analysis), and so optimization on functions with as few as two digits of accuracy is considered. A new dynamic interval size adjustment is presented. The primary findings of the study were: (a) choosing a good initial interval size was more important than using the best optimization algorithm, and (b) a simple rule for dynamic readjustment of interval size was effective in improving convergence, particularly for function representations with low accuracy. 
+Keywords
+ Nonlinear optimization, finite difference derivatives 

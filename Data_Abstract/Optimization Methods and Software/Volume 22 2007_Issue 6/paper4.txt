@@ -1,0 +1,6 @@
+Enhancing the behavior of interior-point methods via identification of variables
+ María   D.   González-Lima ;
+Abstract
+ In many linear programming models of real life problems the solution set is not bounded. The presence of unbounded variables in the solution set can severely hurt the practical performance of primal–dual interior-point methods for linear programming that generate iterates which follow closely the central path or converge to the analytic center. In this work we study the effect of the unbounded variables by analysing the numerical behavior of the LSSN algorithm proposed by González-Lima, Tapia and Potra 1. when applied to linear problems with unbounded solution sets. We discuss the numerical behavior of the algorithm and we present a numerical procedure, based on the performance of the algorithm, to identify and remove the unbounded variables and related constraints. We develop theoretical support for the procedure and experimental evidence of its performance. 
+Keywords
+Linear programming, Primal–dual interior-point methods, Unbounded solution set 

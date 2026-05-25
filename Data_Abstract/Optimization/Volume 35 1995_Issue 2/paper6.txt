@@ -1,0 +1,6 @@
+Generalized Bottleneck Problems ∗  
+ A.P.   Punnen ; K.P.R.   Nair ; Y.P.   Aneja ;
+Abstract
+ Let E be a finite set and F be a family of subsets of E. For each element e∊E, a weight w e is prescribed. Let  be a given partition ofE. For any S∊F., let     We consider the problem of minimizing g(S)over S∊f, and the problem of minimizing g(S) over those S∊F which satisfy f(S)D, wheref:F→RandD∊R. It is shown that if p is fixed, then both of these problems can be solved in polynomial time provided a related auxiliary problem can be solved in polynomial time. When p=O(|E|), it is shown that both theseproblems are NP-hard even when F is the base system of a simple class of partition matroids and we ’s are 0 or 1 only. We also suggest a method to compute a lower bound for the optimal objective function value. Finally, approximation algorithms for certain graph theoretic versions of these problems are discussed and shown to produce solutions with guaranteed error bound.  
+Keywords
+Combinatorial optimization, Bottleneck Problems, Algorithms, Complexity 

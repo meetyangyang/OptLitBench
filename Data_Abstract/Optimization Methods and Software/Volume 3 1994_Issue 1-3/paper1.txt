@@ -1,0 +1,6 @@
+The complexity of an infeasible interior-point path-following method for the solution of linear programs
+ Josef   Stoer ;
+Abstract
+ Interior point methods that follow the primal-dual central path of a dual pair of linear programs (P o),(D o) require that these problems are strictly feasible. To get around this difficulty, one technique is to embed (P o),(D o) into a family of suitably perturbed strictly feasible linear programs (P r),(D r),r>0    and to follow the path (x(r),s(r)),r>0, of all strictly feasible solutions of (P r),(D r) with xi (r)s i(r)=r,i= 1…,n. Path following methods compute approximations to this path at parameters R=r o>r 1>…, and their complexity is measured by the number N=N(r, R) of steps needed to reduce a given R>0 to a desired r>0. It is shown for a standard method that N(r, R) is estimated by a bound    where C o is a universal constant but K=K([bbar],[cbar])is a constant depending [bbar],[cbar] on with K(0,0)=0, and on the size  of the path. 
+Keywords
+Linear programs, infeasible-interior-point methods, path-following methods, polynomiality 

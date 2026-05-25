@@ -1,0 +1,6 @@
+A hierarchical algorithm for making sparse matrices sparser
+S. Frank Chang;S. Thomas McCormick;
+Abstract
+IfA is the (sparse) coefficient matrix of linear equality constraints, for what nonsingularT isÂ ≡TA as sparse as possible, and how can it be efficiently computed? An efficient algorithm for thisSparsity Problem (SP) would be a valuable pre-processor for linearly constrained optimization problems. In this paper we develop a two-pass approach to solve SP. Pass 1 builds a combinatorial structure on the rows ofA which hierarchically decomposes them into blocks. This determines the structure of the optimal transformation matrixT. In Pass 2, we use the information aboutT as a road map to do block-wise partial Gauss-Jordan elimination onA. Two block-aggregation strategies are also suggested that could further reduce the time spend in Pass 2. Computational results indicate that this approach to increasing sparsity produces significant net reductions in simplex solution time.
+Keywords
+Linear Equality  Mathematical Method  Computational Result  Equality Constraint  Efficient Algorithm  

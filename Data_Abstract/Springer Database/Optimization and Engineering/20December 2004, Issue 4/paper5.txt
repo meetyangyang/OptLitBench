@@ -1,0 +1,6 @@
+Rapid, Embeddable Design Method for Spiral Magnetic Resonance Image Reconstruction Resampling Kernels
+Christopher Kumar Anand;Tamás Terlaky;Bixiang Wang;
+Abstract
+After formulating the design problem for Resampling Kernels used in Magnetic Resonance Spiral Image Reconstruction, we show that an iterative Gauss-Seidel-type interior-point optimization method is suitable (fast and light-weight) for embedded uses. In contrast to previous practice, we directly optimize a computationally efficient, piecewise-linear kernel rather than an analytic function (Kaiser-Bessel). We also optimize our kernels for worst-case (infinity-norm) signal aliasing, rather than the usual proxy energy function (2-norm) minimization. In numerical simulations of undesirable near-frequency systematic noise the new kernel significantly outperforms a conventional Kaiser-Bessel-based solution.
+Keywords
+magnetic resonance imaging  spiral imaging  regridding  non-uniform Fourier transform  interior point method  

@@ -1,0 +1,6 @@
+Spherical minimax location problem using the Euclidean norm: Formulation and optimization
+Minnie H. Patel;
+Abstract
+The minimax spherical location problem is formulated in the Cartesian coordinate system using the Euclidean norm, instead of the spherical coordinate system using spherical arc distance measures. It is shown that minimizing the maximum of the spherical arc distances between the facility point and the demand points on a sphere is equivalent to minimizing the maximum of the corresponding Euclidean distances. The problem formulation in this manner helps to reduce Karush-Kuhn-Tucker necessary optimality conditions into the form of a set of coupled nonlinear equations, which is solved numerically by using a method of factored secant update with a finite difference approximation to the Jacobian. For a special case when the set of demand points is on a hemisphere and one or more point-antipodal point pair(s) are included in the demand points, a simplified approach gives a minimax point in a closed form.
+Keywords
+linear programming  KKT optimality conditions  minimax spherical location  factored secant update  

@@ -1,0 +1,6 @@
+A new dynamic programming algorithm for the single item capacitated dynamic lot size model
+Hsin-Der Chen;Donald W. Hearn;Chung-Yee Lee;
+Abstract
+We develop a new dynamic programming method for the single item capacitated dynamic lot size model with non-negative demands and no backlogging. This approach builds the Optimal value function in piecewise linear segments. It works very well on the test problems, requiring less than 0.3 seconds to solve problems with 48 periods on a VAX 8600. Problems with the time horizon up to 768 periods are solved. Empirically, the computing effort increases only at a quadratic rate relative to the number of periods in the time horizon.
+Keywords
+Capacitated lot size model  dynamic programming  production planning  

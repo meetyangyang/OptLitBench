@@ -1,0 +1,6 @@
+A spatial branch-and-cut method for nonconvex QCQP with bounded complex variables
+Chen Chen;Alper Atamtürk;Shmuel S. Oren;
+Abstract
+We develop a spatial branch-and-cut approach for nonconvex quadratically constrained quadratic programs with bounded complex variables (CQCQP). Linear valid inequalities are added at each node of the search tree to strengthen semidefinite programming relaxations of CQCQP. These valid inequalities are derived from the convex hull description of a nonconvex set of \(2 \times 2\) positive semidefinite Hermitian matrices subject to a rank-one constraint. We propose branching rules based on an alternative to the rank-one constraint that allows for local measurement of constraint violation. Closed-form bound tightening procedures are used to reduce the domain of the problem. We apply the algorithm to solve the alternating current optimal power flow problem with complex variables as well as the box-constrained quadratic programming problem with real variables.
+Keywords
+65K05  90C26  

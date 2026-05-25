@@ -1,0 +1,6 @@
+Quadratic Integer Programming with Application to the Chaotic Mappings of Complete Multipartite Graphs
+H. L. Fu;C. L. Shiue;X. Cheng;D. Z. Du;J. M. Kim;
+Abstract
+Let α be a permutation of the vertex set V(G) of a connected graph G. Define the total relative displacement of α in G by be $$\delta _\alpha (G) = \mathop \Sigma \limits_{x,y \in V(G)} |d_G (x,y) - d_G (\alpha (x),\alpha (y))|,$$where  dG(x, y)  is the length of the shortest path between x and y in G. Let π*(G) be the maximum value of δα(G) among all permutations of V(G). The permutation which realizes π*(G) is called a chaotic mapping of G. In this paper, we study the chaotic mappings of complete multipartite graphs. The problem is reduced to a quadratic integer programming problem. We characterize its optimal solution and present an algorithm running in \(O(n^5 \log n)\) time, where n is the total number of vertices in a complete multipartite graph.
+Keywords
+Chaotic mapping  complete multipartite graph  quadratic integer programming  optimal solution  

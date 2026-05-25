@@ -1,0 +1,6 @@
+Probability Gradient Estimation by Set-Valued Calculus and Applications in Network Design
+Georg Ch.  Pflug and Heinz  Weisshaupt;
+Abstract
+Let $\vartheta \mapsto P(\vartheta)$ be a set-valued mapping from $\RR^d$ into the family of closed compact polyhedra in $\RR^s$. Let $\xi$ be a $\RR^s$ valued random variable. Many stochastic optimization problems in computer networking, system reliability, transportation, telecommunication, finance, etc. can be formulated as a problem to minimize (or maximize) the probability $\PP \{ \xi \in P(\vartheta) \}$ under some constraints on the decision variable $\vartheta$. For a practical solution of such a problem, one has to approximate the objective function and its derivative by Monte Carlo simulation, since a closed analytical expression is only available in rare cases. In this paper, we present a new method of approximating the gradient of $\PP \{ \xi \in P(\vartheta) \}$ w.r.t. $\vartheta$ by sampling, which is based on the concept of setwise (weak) derivative. Quite surprisingly, it turns out that it is typically easier to approximate the derivative than the objective itself.
+Keywords
+sensitivity analysis, derivative estimation, Monte Carlo simulation, set-valued optimization, 90C31, 65C05, 28A15, 52B11, 

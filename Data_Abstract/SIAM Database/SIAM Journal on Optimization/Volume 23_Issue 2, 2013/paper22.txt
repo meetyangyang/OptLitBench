@@ -1,0 +1,6 @@
+Inexact Restoration Method for Derivative-Free Optimization with Smooth Constraints
+L. F.  Bueno, A.  Friedlander, J. M.  Martínez, and F. N. C.  Sobral;
+Abstract
+A new method is introduced for solving constrained optimization problems in which the derivatives of the constraints are available but the derivatives of the objective function are not. The method is based on the inexact restoration framework, by means of which each iteration is divided in two phases. In the first phase one considers only the constraints, in order to improve feasibility. In the second phase one minimizes a suitable objective function subject to a linear approximation of the constraints. The second phase must be solved using derivative-free methods. An algorithm introduced recently by Kolda, Lewis, and Torczon for linearly constrained derivative-free optimization is employed for this purpose. Under usual assumptions, convergence to stationary points is proved. A computer implementation is described and numerical experiments are presented.
+Keywords
+inexact restoration, derivative-free optimization, global convergence, numerical experiments, 65K05, 65Y20, 90C56e, 

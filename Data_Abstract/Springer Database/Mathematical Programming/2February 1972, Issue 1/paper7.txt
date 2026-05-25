@@ -1,0 +1,6 @@
+An algorithm for solving linearly constrained optimization problems
+R. Fletcher;
+Abstract
+An algorithm for minimization of functions of many variables, subject possibly to linear constraints on the variables, is described. In it a subproblem is solved in which a quadratic approximation is made to the object function and minimized over a region in which the approximation is valid. A strategy for deciding when this region should be expanded or contracted is given. The quadratic approximation involves estimating the hessian of the object function by a matrix which is updated at each iteration by a formula recently reported by Powell [6]. This formula enables convergence of the algorithm from any feasible point to be proved. Use of such an approximation, as against using exact second derivatives, also enables a reduction of about 60% to be made in the number of operations to solve the subproblem. Numerical evidence is reported showing that the algorithm is efficient in the number of function evaluations required to solve well known test problems.
+Keywords
+Object Function  Function Evaluation  Mathematical Method  Test Problem  Linear Constraint  

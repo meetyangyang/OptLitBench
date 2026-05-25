@@ -1,0 +1,6 @@
+Optimal Periodic Control for the Two-Phase Stefan Problem
+Avner  Friedman, Shaoyun  Huang, and Jiongmin  Yong;
+Abstract
+Consider the two-phase Stefan problem in a domain $\{ (x,t);x \in D,0 < t < \infty \} $ with the heat flux across a part $\Gamma _1 $ of $\partial D$ being a control function $k(x,t)$ periodic in t of period $\sigma $, and $N_1  \leqq k \leqq N_2$, $\int _0^\sigma  \int _{\Gamma _1 } k(x,t) = M$, where $N_1 ,N_2 ,M$ are given positive constants. The solution $u(x,t)$ behaves asymptotically as a periodic function $\hat u(x,t)$. We wish to maximize $\int _0^\sigma  \int _D p(x)\hat u(x,t)$ where p is a given positive function. It is proved that any optimal control $k_0$ has the form  \[k_0 (x,t) = \left\{ {\begin{array}{*{20}c}   {N_2 \quad {\text{if}}0 < t < \varphi (x),}  \\    {N_1 \quad {\text{if}}\varphi (x) < t < \sigma }  \\ \end{array} } \right.\] where $\varphi (x)$ is a smooth function.
+Keywords
+two-phase Stefan problems, optimal control, periodic solutions, bang-bang principle, 35K85, 35R35, 49A22, 49A29, 49A36, 

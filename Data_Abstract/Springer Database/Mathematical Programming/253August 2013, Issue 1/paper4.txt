@@ -1,0 +1,6 @@
+A stabilized structured Dantzig–Wolfe decomposition method
+Antonio Frangioni;Bernard Gendron;
+Abstract
+We discuss an algorithmic scheme, which we call the stabilized structured Dantzig–Wolfe decomposition method, for solving large-scale structured linear programs. It can be applied when the subproblem of the standard Dantzig–Wolfe approach admits an alternative master model amenable to column generation, other than the standard one in which there is a variable for each of the extreme points and extreme rays of the corresponding polyhedron. Stabilization is achieved by the same techniques developed for the standard Dantzig–Wolfe approach and it is equally useful to improve the performance, as shown by computational results obtained on an application to the multicommodity capacitated network design problem.
+Keywords
+Dantzig–Wolfe decomposition method  Structured linear program  Multicommodity capacitated network design problem  Reformulation  Stabilization  90C06  90C25  

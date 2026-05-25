@@ -1,0 +1,6 @@
+Global Convergence of a Memory Gradient Method for Unconstrained Optimization
+Yasushi Narushima;Hiroshi Yabe;
+Abstract
+Memory gradient methods are used for unconstrained optimization, especially large scale problems. The first idea of memory gradient methods was proposed by Miele and Cantrell (1969) and Cragg and Levy (1969). In this paper, we present a new memory gradient method which generates a descent search direction for the objective function at every iteration. We show that our method converges globally to the solution if the Wolfe conditions are satisfied within the framework of the line search strategy. Our numerical results show that the proposed method is efficient for given standard test problems if we choose a good parameter included in the method.
+Keywords
+unconstrained optimization  memory gradient method  descent search direction  Wolfe conditions  global convergence  

@@ -1,0 +1,6 @@
+Neumann--Dirichlet Nash Strategies for the Solution of Elliptic Cauchy Problems
+A.  Habbal and M.  Kallel;
+Abstract
+We consider the Cauchy problem for an elliptic operator, formulated as a Nash game. The overspecified Cauchy data are split between two players: the first player solves the elliptic equation with the Dirichlet part of the Cauchy data prescribed over the accessible boundary and a variable Neumann condition (which we call first player's strategy) prescribed over the inaccessible part of the boundary. The second player makes use correspondingly of the Neumann part of the Cauchy data, with a variable Dirichlet condition prescribed over the inaccessible part of the boundary. The first player then minimizes the gap related to the nonused Neumann part of the Cauchy data, and so does the second player with a corresponding Dirichlet gap. The two costs are coupled through a difference term. We prove that there always exists a unique Nash equilibrium, which turns out to be the reconstructed data when the Cauchy problem has a solution. We also prove that the completion Nash game has a stable solution with respect to noisy data. Some numerical two- and three-dimensional experiments are provided to illustrate the efficiency and stability of our algorithm.
+Keywords
+elliptic Cauchy problem, Nash games, data completion, 49J20, 65K10, 65N06, 90C30, 

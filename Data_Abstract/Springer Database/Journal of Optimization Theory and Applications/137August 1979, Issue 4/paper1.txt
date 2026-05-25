@@ -1,0 +1,6 @@
+Two new unconstrained optimization algorithms which use function and gradient values
+J. E. DennisJr.;H. H. W. Mei;
+Abstract
+Two new methods for unconstrained optimization are presented. Both methods employ a hybrid direction strategy which is a modification of Powell's 1970 dogleg strategy. They also employ a projection technique introduced by Davidon in his 1975 algorithm which uses projection images of Δx and Δg in updating the approximate Hessian. The first method uses Davidon's optimally conditioned update formula, while the second uses only the BFGS update. Both methods performed well without Powell's special iterations and singularity safeguards, and the numerical results are very promising.
+Keywords
+Unconstrained optimization  quasi-Newton methods  updating schemes  optimal conditioning  

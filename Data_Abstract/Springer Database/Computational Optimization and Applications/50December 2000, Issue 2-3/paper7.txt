@@ -1,0 +1,6 @@
+A Smoothing Newton Method for General Nonlinear Complementarity Problems
+Hou-Duo Qi;Li-Zhi Liao;
+Abstract
+Smoothing Newton methods for nonlinear complementarity problems NCP(F) often require F to be at least a P0-function in order to guarantee that the underlying Newton equation is solvable. Based on a special equation reformulation of NCP(F), we propose a new smoothing Newton method for general nonlinear complementarity problems. The introduction of Kanzow and Pieper's gradient step makes our algorithm to be globally convergent. Under certain conditions, our method achieves fast local convergence rate. Extensive numerical results are also reported for all complementarity problems in MCPLIB and GAMSLIB libraries with all available starting points.
+Keywords
+nonlinear complementarity problem  smoothing Newton method  global convergence  linear convergence  superlinear convergence  

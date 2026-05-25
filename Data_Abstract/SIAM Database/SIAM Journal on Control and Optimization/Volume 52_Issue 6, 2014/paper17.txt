@@ -1,0 +1,6 @@
+Singularly Perturbed Markov Decision Processes: A Multiresolution Algorithm
+Chin Pang  Ho and Panos  Parpas;
+Abstract
+Singular perturbation techniques allow the derivation of an aggregate model whose solution is asymptotically optimal for Markov decision processes with strong and weak interactions. We develop an algorithm that takes advantage of the asymptotic optimality of the aggregate model in order to compute the solution of the original model. We derive conditions for which the proposed algorithm has better worst case complexity than conventional contraction algorithms. Based on our complexity analysis, we show that the major benefit of aggregation is that the reduced order model is no longer ill conditioned. The reduction in the number of states (due to aggregation) is a secondary benefit. This is a surprising result since intuition would suggest that the reduced order model can be solved more efficiently because it has fewer states. However, we show that this is not necessarily the case. Our theoretical analysis and numerical experiments show that the proposed algorithm can compute the optimal solution with a reduction in computational complexity and without any penalty in accuracy.
+Keywords
+Markov decision processes, multiscale modeling, multigrid methods, weak and strong interactions, 49L20, 

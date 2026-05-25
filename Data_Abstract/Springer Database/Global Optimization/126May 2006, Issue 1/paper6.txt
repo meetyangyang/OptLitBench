@@ -1,0 +1,6 @@
+On a Minimum Linear Classification Problem
+Bing Lu;Hongwei Du;Xiaohua Jia;Yinfeng Xu;Binhai Zhu;
+Abstract
+We study the following linear classification problem in signal processing: Given a set Bof n black point and a set W of m white points in the plane (m = O(n)), compute a minimum number of lines L such that in the arrangement of L each face contain points with the same color (i.e., either all black points or all white points). We call this the Minimum Linear Classification (MLC) problem. We prove that MLC is NP-complete by a reduction from the Minimum Line Fitting (MLF) problem; moreover, a C-approximation to MLC implies a C-approximation to the MLF problem. Nevertheless, we obtain an O(log n)-factor algorithm for MLC and we also obtain an O(log Z)-factor algorithm for MLC where Z is the minimum number of disjoint axis-parallel black/white rectangles covering B and W.
+Keywords
+Approximation Algorithm  NP-complete  Sequence Detection  Signal Processing  

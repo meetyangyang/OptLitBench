@@ -1,0 +1,6 @@
+A Radial Basis Function Method for Global Optimization
+H.-M. Gutmann;
+Abstract
+We introduce a method that aims to find the global minimum of a continuous nonconvex function on a compact subset of \(\mathbb{R}^d \). It is assumed that function evaluations are expensive and that no additional information is available. Radial basis function interpolation is used to define a utility function. The maximizer of this function is the next point where the objective function is evaluated. We show that, for most types of radial basis functions that are considered in this paper, convergence can be achieved without further assumptions on the objective function. Besides, it turns out that our method is closely related to a statistical global optimization method, the P-algorithm. A general framework for both methods is presented. Finally, a few numerical examples show that on the set of Dixon-Szegö test functions our method yields favourable results in comparison to other global optimization methods.
+Keywords
+Global optimization  radial basis functions  interpolation  P-algorithm  

@@ -1,0 +1,6 @@
+An approach for structural static reanalysis with unchanged number of degrees of freedom
+H. F. Liu;B. S. Wu;C. W. Lim;Z. G. Li;
+Abstract
+This paper presents an approach for structural static reanalysis with unchanged number of degrees of freedom. Preconditioned conjugate gradient method is employed, and a new preconditioner is constructed by updating the Cholesky factorization of the initial stiffness matrix with little cost. The proposed method preserves the ease of implementation and significantly improves the quality of the results. In particular, the accuracy of the approximate solutions can adaptively be monitored. Numerical examples show that the condition number of preconditioned system using the new preconditioner is much smaller than that using the initial stiffness matrix as the preconditioner. Therefore, the fast convergence and accurate results can be obtained by the proposed approach.
+Keywords
+Structural static reanalysis  Preconditioned conjugate gradient (PCG) method  Cholesky factorization  Rank-one modification  

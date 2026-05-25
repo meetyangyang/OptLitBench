@@ -1,0 +1,6 @@
+An Implementable Active‐Set Algorithm for Computing a B‐Stationary Point of a Mathematical Program with Linear Complementarity Constraints: Erratum
+ Masao   Fukushima  and  Paul   Tseng ;
+Abstract
+In [M. Fukushima and P. Tseng,                      SIAM J. Optim., 12 (2002), pp. 724–739], an ε‐active set algorithm was proposed for solving a mathematical program with a smooth objective function and linear inequality/complementarity constraints. It is asserted therein that, under a uniform LICQ on the ε‐feasible set, this algorithm generates iterates whose cluster points are B‐stationary points of the problem. However, the proof has a gap and shows only that each cluster point is an M‐stationary point. We discuss this gap and show that B‐stationarity can be achieved if the algorithm is modified and an additional error bound condition holds.                  
+Keywords
+MPEC, B‐stationary point, ε‐active set, error bound, 65K05, 90C30, 90C33, 

@@ -1,0 +1,6 @@
+Parallel implementation of large-scale structural optimization
+S. L. Padula;S. C. Stone;
+Abstract
+Advances in computer technology and performance allow researchers to pose useful optimization problems that were previously too large for consideration. For example, NASA Langley Research Center is investigating the large structural optimization problems that arise in aircraft design. The total number of design variables and constraints for these nonlinear optimization problems is now an order of magnitude larger than anything previously reported. To find solutions in a reasonable amount of time, a coarse-grained parallel-processing algorithm is recommended. This paper studies the effects of problem size on sequential and parallel versions of this algorithm.
+Keywords
+Design Variable  Nonlinear Optimization  Structural Optimization  Problem Size  Load Case  

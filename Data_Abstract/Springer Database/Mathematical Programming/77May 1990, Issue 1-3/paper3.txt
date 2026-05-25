@@ -1,0 +1,6 @@
+An efficient algorithm for the minimum capacity cut problem
+M. Padberg;G. Rinaldi;
+Abstract
+Given a finite undirected graph with nonnegative edge capacities the minimum capacity cut problem consists of partitioning the graph into two nonempty sets such that the sum of the capacities of edges connecting the two parts is minimum among all possible partitionings. The standard algorithm to calculate a minimum capacity cut, due to Gomory and Hu (1961), runs in O(n4) time and is difficult to implement. We present an alternative algorithm with the same worst-case bound which is easier to implement and which was found empirically to be far superior to the standard algorithm. We report computational results for graphs with up to 2000 nodes.
+Keywords
+Minimum weighted cuts  networks  polynomial-time algorithms  computation  

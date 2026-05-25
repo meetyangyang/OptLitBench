@@ -1,0 +1,6 @@
+An eigenvalue decomposition based branch-and-bound algorithm for nonconvex quadratic programming problems with convex quadratic constraints
+Cheng Lu;Zhibin Deng;Qingwei Jin;
+Abstract
+In this paper, we propose a branch-and-bound algorithm for finding a global optimal solution for a nonconvex quadratic program with convex quadratic constraints (NQPCQC). We first reformulate NQPCQC by adding some nonconvex quadratic constraints induced by eigenvectors of negative eigenvalues associated with the nonconvex quadratic objective function to Shor’s semidefinite relaxation. Under the assumption of having a bounded feasible domain, these nonconvex quadratic constraints can be further relaxed into linear ones to form a special semidefinite programming relaxation. Then an efficient branch-and-bound algorithm branching along the eigendirections of negative eigenvalues is designed. The theoretic convergence property and the worst-case complexity of the proposed algorithm are proved. Numerical experiments are conducted on several types of quadratic programs to show the efficiency of the proposed method.
+Keywords
+Quadratic programming  Semidefinite relaxation  Branch-and-bound   Global optimization  

@@ -1,0 +1,6 @@
+Maximum-entropy sampling and the Boolean quadric polytope
+Kurt M. Anstreicher;
+Abstract
+We consider a bound for the maximum-entropy sampling problem (MESP) that is based on solving a max-det problem over a relaxation of the Boolean quadric polytope (BQP). This approach to MESP was first suggested by Christoph Helmberg over 15 years ago, but has apparently never been further elaborated or computationally investigated. We find that the use of a relaxation of BQP that imposes semidefiniteness and a small number of equality constraints gives excellent bounds on many benchmark instances. These bounds can be further tightened by imposing additional inequality constraints that are valid for the BQP. Duality information associated with the BQP-based bounds can be used to fix variables to 0/1 values, and also as the basis for the implementation of a “strong branching” strategy. A branch-and-bound algorithm using the BQP-based bounds solves some benchmark instances of MESP to optimality for the first time.
+Keywords
+Maximum-entropy sampling  Semidefinite programming  Semidefinite optimization  Boolean quadric polytope  90C22  90C26  62K05  

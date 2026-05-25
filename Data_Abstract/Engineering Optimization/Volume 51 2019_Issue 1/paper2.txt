@@ -1,0 +1,6 @@
+A sequential quadratically constrained quadratic programming technique for a multi-objective optimization problem
+Md. Abu Talhamainuddin Ansary;Geetanjali Panda;
+Abstract
+In this article a line search algorithm is proposed for solving constrained multi-objective optimization problems. At every iteration of the proposed method, a subproblem is formulated using quadratic approximation of all functions. A feasible descent direction is obtained as a solution of this subproblem. This scheme takes care some ideas of the sequential quadratically constrained quadratic programming technique for single objective optimization problems. A non-differentiable penalty function is used to restrict constraint violations at every iterating point. Convergence of the scheme is justified under the Slater constraint qualification along with some reasonable assumptions. The proposed algorithm is verified and compared with existing methods with a set of test problems. It is observed that this algorithm provides better results in most of the test problems.
+Keywords
+Multi-objective optimization, efficient solution, purity metric, spread metric 

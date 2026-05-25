@@ -1,0 +1,6 @@
+Reducing Matching to Polynomial Size Linear Programming
+Francisco  Barahona;
+Abstract
+The question of whether the maximum weight matching problem can be reduced to a linear program of polynomial size is studied. A partial answer to it is given; i.e., it is shown that the Chinese postman problem (and optimum matching) reduces to a sequence of $O( m^2 \log n )$ minimum mean cycle problems. It is shown that this last problem can be formulated as a linear program of polynomial size. This gives a polynomial algorithm for matching based on any polynomial method for linear programming. A combinatorial algorithm for finding minimum mean cycles in undirected graphs is also given.
+Keywords
+matching, polynomial size linear programming, 05C70, 05C85, 90C27, 

@@ -1,0 +1,6 @@
+Effect of model uncertainty on some optimal routing problems
+B. Mohanty;C. G. Cassandras;
+Abstract
+We study the effect of model uncertainties on optimal routing in a system of parallel queues. The uncertainty arises in modeling the service time distribution for the customers (jobs, packets) to be served. For a Poisson arrival process and Bernoulli routing, the optimal mean system delay generally depends on the variance of this distribution. However, as the input traffic load approaches the system capacity, the optimal routing assignment and corresponding mean system delay are shown to converge to a variance-invariant point. The implications of these results are examined in the context of gradient-based routing algorithms. An example of a model-independent algorithm using on-line gradient estimation is also included and its performance compared with that of model-based algorithms.
+Keywords
+Routing  optimization  queueing systems  robustness  distributed algorithms  

@@ -1,0 +1,6 @@
+On solving hybrid optimal control problems with higher index DAEs
+Radosław Pytlak;Damian Suski;
+Abstract
+The paper deals with hybrid optimal control problems described by higher index differential–algebraic equations (DAEs). We introduce a numerical procedure for solving these problems. The procedure has the following features: it is based on the appropriately defined adjoint equations formulated for the discretized equations being the result of the numerical integration of systems equations by an implicit Runge–Kutta method; the consistent initialization procedure is applied whenever control functions jumps, or state variables transition occurs. The procedure can cope with hybrid optimal control problems which are defined by DAEs with the index not exceeding three. Our approach does not require differentiation of some system equations in order to transform higher index DAEs to the underlying ordinary differential equations (ODEs). The presented numerical examples show that the proposed approach can be used to solve efficiently hybrid optimal control problems with higher index DAEs.
+Keywords
+optimal control, hybrid systems, implicit systems, higher index DAEs, adjoint equationsAMS Subject Classification: Primary: 49K99, 34A09, Secondary: 49M05 

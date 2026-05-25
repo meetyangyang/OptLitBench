@@ -1,0 +1,6 @@
+Placing actuators on space structures by genetic algorithms and effectiveness indices
+H. Furuya;R. T. Haftka;
+Abstract
+Genetic algorithms are a powerful tool for the solution of combinatorial problems such as the actuator placement problem. However, they require a large number of analyses with correspondingly high computational costs. Therefore, it is useful to tune the operators and parameters of the algorithm on simple problems that are similar to more complex and computationally expensive problems. The present paper employs an easy-tocalculate measure of actuator effectiveness to evaluate several genetic algorithms. Additionally, the effects of population size and mutation rates are also investigated for a problem of placing actuators at 8 of 1507 possible locations. We find that even with the best of the algorithms and with optimum mutation rates, tens of thousands of analyses are required for obtaining near optimum locations. We propose a procedure that estimates the effectiveness of the various locations and discards ineffective ones, and find it helpful for reducing the cost of the genetic optimization.
+Keywords
+Genetic Algorithm  Population Size  Civil Engineer  Computational Cost  Mutation Rate  

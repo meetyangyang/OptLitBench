@@ -1,0 +1,6 @@
+Paths to constrained Nash equilibria
+Sjur Didrik Flåm;
+Abstract
+We propose and analyze a primal-dual, infinitesimal method for locating Nash equilibria of constrained, non-cooperative games. The main object is a family of nonstandard Lagrangian functions, one for each player. With respect to these functions the algorithm yields separately, in differential form, directions of steepest-descent in all decision variables and steepest-ascent in all multipliers. For convergence we need marginal costs to be monotone and constraints to be convex inequalities. The method is largely decomposed and amenable for parallel computing. Other noteworthy features are: non-smooth data can be accommodated; no projection or optimization is needed as subroutines; multipliers converge monotonically upward; and, finally, the implementation amounts, in essence, only to numerical integration.
+Keywords
+Non-cooperative games  Nash equilibria  Differential inclusions  Generalized equations  Variational inequalities  Continuous steepest-descent/steepest-ascent method  Lagrange multipliers  Sharp inequalities  Sharp monotonicity  Finite convergence  Primary 90D10, 90D40  Secondary 90C30  

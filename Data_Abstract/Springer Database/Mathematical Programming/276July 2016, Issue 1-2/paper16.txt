@@ -1,0 +1,6 @@
+A smoothing SQP framework for a class of composite \(L_q\) minimization over polyhedron
+Ya-Feng Liu;Shiqian Ma;Yu-Hong Dai;Shuzhong Zhang;
+Abstract
+The composite \(L_q~(0<q<1)\) minimization problem over a general polyhedron has received various applications in machine learning, wireless communications, image restoration, signal reconstruction, etc. This paper aims to provide a theoretical study on this problem. First, we derive the Karush–Kuhn–Tucker (KKT) optimality conditions for local minimizers of the problem. Second, we propose a smoothing sequential quadratic programming framework for solving this problem. The framework requires a (approximate) solution of a convex quadratic program at each iteration. Finally, we analyze the worst-case iteration complexity of the framework for returning an \(\epsilon \)-KKT point; i.e., a feasible point that satisfies a perturbed version of the derived KKT optimality conditions. To the best of our knowledge, the proposed framework is the first one with a worst-case iteration complexity guarantee for solving composite \(L_q\) minimization over a general polyhedron.
+Keywords
+Composite \(L_q\) minimization  \(\epsilon \)-KKT point  Nonsmooth nonconvex non-Lipschitzian optimization  Optimality condition  Smoothing approximation  Worst-case iteration complexity  90C26  90C30  90C46  65K05  

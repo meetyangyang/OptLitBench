@@ -1,0 +1,6 @@
+Parallel algorithms for nonlinear programming problems
+M. Dayde;
+Abstract
+This paper describes several parallel algorithms for solving nonlinear programming problems. Two approaches where parallelism can successfully be introduced have been explored: a quadratic approximation method based on penalty function and a dual method. These methods are improved by using two algorithms originally proposed for solving unconstrained problems: the parallel variable metric algorithm and the parallel Jacobson-Oksman algorithm. Even though general problems are dealt with, particular emphasis is placed on the potential of these parallel methods for separable programming problems. The numerical effectiveness of the algorithms is demonstrated on a set of test problems using a Cray-1S vector computer and serial computers (with respect to sequential versions of the same methods).
+Keywords
+Nonlinear programming  parallel optimization  penalty methods  dual methods  

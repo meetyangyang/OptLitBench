@@ -1,0 +1,6 @@
+Large-scale parallel topology optimization using a dual-primal substructuring solver
+Anton Evgrafov;Cory J. Rupp;Kurt Maute;Martin L. Dunn;
+Abstract
+Parallel computing is an integral part of many scientific disciplines. In this paper, we discuss issues and difficulties arising when a state-of-the-art parallel linear solver is applied to topology optimization problems. Within the topology optimization framework, we cannot readjust domain decomposition to align with material decomposition, which leads to the deterioration of performance of the substructuring solver. We illustrate the difficulties with detailed condition number estimates and numerical studies. We also report the practical performances of finite element tearing and interconnection/dual–primal solver for topology optimization problems and our attempts to improve it by applying additional scaling and/or preconditioning strategies. The performance of the method is finally illustrated with large-scale topology optimization problems coming from different optimal design fields: compliance minimization, design of compliant mechanisms, and design of elastic surface wave-guides.
+Keywords
+Topology optimization  Parallel computing  Scalability  Domain decomposition  Iterative solvers  

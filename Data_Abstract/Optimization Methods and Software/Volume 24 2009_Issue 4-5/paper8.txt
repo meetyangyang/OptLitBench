@@ -1,0 +1,6 @@
+Dynamic filters and randomized drivers for the multi-start global optimization algorithm MSNLP
+ Zsolt   Ugray ; Leon   Lasdon ; John   C.   Plummer ; Michael   Bussieck ;
+Abstract
+ We present results of extensive computational tests of (i) comparing dynamic filters (first mentioned in an earlier publication addressing a feasibility seeking algorithm) with static filters and (ii) stochastic starting point generators (‘drivers’) for a multi-start global optimization algorithm called MSNLP (Multi-Start Non-Linear Programming). We show how the widely used NLP local solvers CONOPT and SNOPT compare when used in this context. Our computational tests utilize two large and diverse sets of test problems. Best known solutions to most of the problems are obtained competitively, within 30 solver calls, and the best solutions are often located in the first ten calls. The results show that the addition of dynamic filters and new global drivers can contribute to the increased reliability of the MSNLP algorithmic framework. 
+Keywords
+global optimization, multi-start algorithm, search methods, computational tests 

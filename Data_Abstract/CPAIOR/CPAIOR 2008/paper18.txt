@@ -1,0 +1,4 @@
+From High-Level Model to Branch-and-Price Solution in G12
+Jakob Puchinger;Peter J. Stuckey;Mark Wallace;Sebastian Brand;
+Abstract
+The G12 project is developing a software environment for stating and solving combinatorial problems by mapping a high-level model of the problem to an efficient combination of solving methods. Model annotations are used to control this process. In this paper we explain the mapping to branch-and-price solving. G12 supports the selection of specialised sub-problem solvers, the aggregation of identical subproblems, automatic disaggregation when required by search, and the use of specialised branching rules. We demonstrate the benefits of the G12 framework on three examples: a trucking problem, cutting stock, and two-dimensional bin packing.

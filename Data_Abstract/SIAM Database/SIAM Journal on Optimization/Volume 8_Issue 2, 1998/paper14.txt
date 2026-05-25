@@ -1,0 +1,6 @@
+Cost Approximation: A Unified Framework of Descent Algorithms for Nonlinear Programs
+Michael  Patriksson;
+Abstract
+This paper describes and analyzes the cost approximation algorithm. This class of iterative descent algorithms for nonlinear programs and variational inequalities places a large number of algorithms within a common framework and provides a means for analyzing relationships among seemingly unrelated methods. A common property of the methods included in the framework is that their subproblems may be characterized by monotone mappings, which replace an additive part of the original cost mapping in an iterative manner; alternately, a step is taken in the direction obtained in order to reduce the value of a merit function for the original problem. The generality of the framework is illustrated through examples, and the convergence characteristics of the algorithm are analyzed for applications to nondifferentiable optimization. The convergence results are applied to some example methods, demonstrating the strength of the analysis compared to existing results.
+Keywords
+nondifferentiable optimization, cost approximation, partial linearization, descent algorithms, convergence analysis, 90C30, 49M37, 

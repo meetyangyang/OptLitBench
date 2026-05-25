@@ -1,0 +1,4 @@
+Modelling Search Strategies in Rules2CP
+François Fages;Julien Martin;
+Abstract
+In this abstract, we present a rule-based modelling language for constraint programming, called Rules2CP [1], and a library PKML for modelling packing problems. Unlike other modelling languages, Rules2CP adopts a single knowledge representation paradigm based on logical rules without recursion, and a restricted set of data structures based on records and enumerated lists given with iterators. We show that this is sufficient to model constraint satisfaction problems together with search strategies, where search trees are expressed by logical formulae, and heuristic choice criteria are defined by preference orderings on variables and formulae. Rules2CP statements are compiled to constraint programs over finite domains (currently SICStus-prolog and soon Choco-Java) by term rewriting and partial evaluation.

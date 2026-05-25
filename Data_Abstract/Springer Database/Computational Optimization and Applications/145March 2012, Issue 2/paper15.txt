@@ -1,0 +1,6 @@
+Solving survivable two-layer network design problems by metric inequalities
+Sara Mattia;
+Abstract
+We address the problem of designing a multi-layer network with survivability requirements. We are given a two-layer network: the lower layer represents the potential physical connections that can be activated, the upper layer is made of logical connections that can be set up using physical links. We are given origin-destination demands (commodities) to be routed at the upper layer. We are also given a set of failure scenarios and, for every scenario, an associated subset of commodities. The goal is to install minimum cost integer capacities on the links of both layers in order to ensure that the commodities can be routed simultaneously on the network. In addition, in every failure scenario the routing of the associated commodities must be guaranteed. We consider two variants of the problem and develop a branch-and-cut scheme based on the capacity formulation. Computational results on instances derived from the SNDLib for single node failure scenarios are discussed.
+Keywords
+Optical network design  Capacity formulation  Metric inequalities  

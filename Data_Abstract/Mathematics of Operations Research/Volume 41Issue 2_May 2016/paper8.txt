@@ -1,0 +1,6 @@
+General Optimized Lower and Upper Bounds for Discrete and Continuous Arithmetic Asian Options
+Gianluca Fusai;Ioannis Kyriakou;
+Abstract
+We propose an accurate method for pricing arithmetic Asian options on the discrete or continuous average in a general model setting by means of a lower bound approximation. In particular, we derive analytical expressions for the lower bound in the Fourier domain. This is then recovered by a single univariate inversion and sharpened using an optimization technique. In addition, we derive an upper bound to the error from the lower bound price approximation. Our proposed method can be applied to computing the prices and price sensitivities of Asian options with fixed or floating strike price, discrete or continuous averaging, under a wide range of stochastic dynamic models, including exponential Lévy models, stochastic volatility models, and the constant elasticity of variance diffusion. Our extensive numerical experiments highlight the notable performance and robustness of our optimized lower bound for different test cases.
+Keywords
+arithmetic Asian options CEV diffusion stochastic volatility models Lévy processes discrete average continuous average Fourier transform 

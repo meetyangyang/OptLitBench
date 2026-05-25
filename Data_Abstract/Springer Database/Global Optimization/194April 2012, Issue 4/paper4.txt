@@ -1,0 +1,6 @@
+Radar placement along banks of river
+Zhao Zhang;Ding-Zhu Du;
+Abstract
+In this paper, we consider the Radar Placement and Power Assignment problem (RPPA) along a river. In this problem, a set of crucial points in the river are required to be monitored by a set of radars which are placed along the two banks. The goal is to choose the locations for the radars and assign powers to them such that all the crucial points are monitored and the total power is minimized. If each crucial point is required to be monitored by at least k radars, the problem is a k-Coverage RPPA problem (k-CRPPA). Under the assumption that the river is sufficiently smooth, one may focus on the RPPA problem along a strip (RPPAS). In this paper, we present an O(n 9) dynamic programming algorithm for the RPPAS, where n is the number of crucial points to be monitored. In the special case where radars are placed only along the upper bank, we present an O(kn 5) dynamic programming algorithm for the k-CRPPAS. For the special case that the power is linearly dependent on the radius, we present an O(n log n)-time \({2\sqrt 2}\)-approximation algorithm for the RPPAS.
+Keywords
+Radar placement  Power assignment  Coverage  

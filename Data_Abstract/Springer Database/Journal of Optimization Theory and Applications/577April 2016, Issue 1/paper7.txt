@@ -1,0 +1,6 @@
+Equilibrium in Multi-criteria Transportation Networks
+Dinh The Luc;Truong Thi Thanh Phuong;
+Abstract
+We develop a new method to generate the set of equilibrium flows of a multi-criteria transportation network. To this end, we introduce two optimization problems by using a vector version of the Heaviside step function and the distance function to Pareto minimal elements and show that the optimal solutions of these problems are exactly the equilibria of the network. We study the objective functions by establishing their generic differentiability and local calmness at equilibrium solutions. Then we present an algorithm to generate a discrete representation of equilibrium solutions by using a modified Frank–Wolfe reduced gradient method and prove its convergence. We give some numerical examples to illustrate our algorithm and show its advantage over a popular method by using linear scalarization.
+Keywords
+Multi-criteria transportation network  Generic differentiability  Vector equilibrium  Variational inequalities  Frank–Wolfe reduced gradient method  90B10  49J40  

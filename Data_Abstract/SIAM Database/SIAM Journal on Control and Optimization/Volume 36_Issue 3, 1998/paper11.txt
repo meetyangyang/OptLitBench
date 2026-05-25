@@ -1,0 +1,6 @@
+Globally and Superlinearly Convergent Algorithm for Minimizing a Normal Merit Function
+Elijah  Polak and Liqun  Qi;
+Abstract
+In this paper we present two new concepts related to the solution of systems of nonsmooth equations (NE) and variational inequalities (VI). The first concept is that of a normal merit function, which summarizes the simple basic properties shared by various known merit functions. In general, normal merit functions are locally Lipschitz, but not differentiable. The second concept is that of a Newtonian operator, whose values generalize the concept of the Hessian for normal merit functions. These two concepts are then used to generalize the nonsmooth Newton method for solving the equation $\nabla f(x) = 0$, where f is a normal merit function with $f\in C^1$, to the case where f is only locally Lipschitz and the set-valued inclusion $0 \in \partial f(x)$ needs to be solved. Combining the resulting generalized Newton method with certain first-order methods, we obtain a globally and superlinearly convergent algorithm for minimizing normal merit functions.
+Keywords
+normal merit function, generalized Newton method, first-order algorithm, global convergence, superlinear convergence, 65H10, 90C99, 

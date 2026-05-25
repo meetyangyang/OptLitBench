@@ -1,0 +1,6 @@
+Approximations of Relaxed Optimal Control Problems
+V. Azhmyakov;W. Schmidt;
+Abstract
+In the present paper, we investigate an approximation technique for relaxed optimal control problems. We study control processes governed by ordinary differential equations in the presence of state, target, and integral constraints. A variety of approximation schemes have been recognized as powerful tools for the theoretical studying and practical solving of Infinite-dimensional optimization problems. On the other hand, theoretical approaches to the relaxed optimal control problem with constraints are not sufficiently advanced to yield numerically tractable schemes. The explicit approximation of the compact control set makes it possible to reduce the sophisticated relaxed problem to an auxiliary optimization problem. A given trajectory of the relaxed problem can be approximated by trajectories of the auxiliary problem. An optimal solution of the introduced optimization problem provides a basis for the construction of minimizing sequences for the original optimal control problem. We describe how to carry out the numerical calculations in the context of nonlinear programming and establish the convergence properties of the obtained approximations.
+Keywords
+Optimal control  relaxed controls  discrete approximations  numerical methods  

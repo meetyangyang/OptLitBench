@@ -1,0 +1,6 @@
+A DIRECT-type approach for derivative-free constrained global optimization
+G. Di Pillo;G. Liuzzi;S. Lucidi;V. Piccialli;F. Rinaldi;
+Abstract
+In the field of global optimization, many efforts have been devoted to globally solving bound constrained optimization problems without using derivatives. In this paper we consider global optimization problems where both bound and general nonlinear constraints are present. To solve this problem we propose the combined use of a DIRECT-type algorithm with a derivative-free local minimization of a nonsmooth exact penalty function. In particular, we define a new DIRECT-type strategy to explore the search space by explicitly taking into account the two-fold nature of the optimization problems, i.e. the global optimization of both the objective function and of a feasibility measure. We report an extensive experimentation on hard test problems to show viability of the approach.
+Keywords
+Global optimization  Derivative-free optimization  Nonlinear optimization  DIRECT-type algorithm  

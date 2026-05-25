@@ -1,0 +1,6 @@
+An improved enumeration for pure 0-1 programs
+   J.   Sommerschuh ;
+Abstract
+ We present an improved branch and bound algorithm for pure 0-1 programs. This LP based approach employs a new reduction scheme for variables not fixed so far. To implement this reduction the necessary informations are derived from the optimal simplex tableau belonging to the current node of the branch and bound tree, With the stated test we are able to fathom in advance such nodes which have to be enumerated in the former version of the algorithm. 
+Keywords
+0-1 integer programming, branch and bound, pseudo solution, linear relaxationAMS Subject Classification: Primary:90 C 09, Secondary:90 C 05, Secondary:90 C 10 

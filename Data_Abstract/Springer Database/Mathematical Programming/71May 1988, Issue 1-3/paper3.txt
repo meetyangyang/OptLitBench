@@ -1,0 +1,6 @@
+Computing Karmarkar projections quickly
+David F. Shanno;
+Abstract
+The paper presents a numerical method for computing the projections for Karmarkar's new algorithm for linear programming. The method is simple to implement, fully exploits sparsity, and appears in limited experimentation to have good stability properties. Preliminary numerical experience indicates that the method promises advantages over methods that refactor a matrix at every iteration.
+Keywords
+Linear programming  Karmarkar's method  Cholesky factorization  rank-one updates  

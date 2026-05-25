@@ -1,0 +1,6 @@
+A proximal cutting plane method using Chebychev center for nonsmooth convex optimization
+Adam Ouorou;
+Abstract
+An algorithm is developed for minimizing nonsmooth convex functions. This algorithm extends Elzinga–Moore cutting plane algorithm by enforcing the search of the next test point not too far from the previous ones, thus removing compactness assumption. Our method is to Elzinga–Moore’s algorithm what a proximal bundle method is to Kelley’s algorithm. Instead of lower approximations used in proximal bundle methods, the present approach is based on some objects regularizing translated functions of the objective function. We propose some variants and using some academic test problems, we conduct a numerical comparative study with Elzinga–Moore algorithm and two other well-known nonsmooth methods.
+Keywords
+90C30  90C25  65K05  Nonsmooth optimization  Subgradient  Proximal bundle methods  Cutting plane methods  Convex programming  

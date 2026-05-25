@@ -1,0 +1,6 @@
+Knapsack feasibility as an absolute value equation solvable by successive linear programming
+O. L. Mangasarian;
+Abstract
+We formulate the NP-hard n-dimensional knapsack feasibility problem as an equivalent absolute value equation (AVE) in an n-dimensional noninteger real variable space and propose a finite succession of linear programs for solving the AVE. Exact solutions are obtained for 1,880 out of 2,000 randomly generated consecutive knapsack feasibility problems with dimensions between 500 and one million. For the 120 approximately solved problems the error consists of exactly one noninteger component with value in (0, 1), which when replaced by 0, results in a relative error of less than 0.04%. We also give a necessary and sufficient condition for the solvability of the knapsack feasibility problem in terms of minimizing a concave quadratic function on a polyhedral set. Average time for solving exactly a million-variable knapsack feasibility problem was less than 14 s on a 4 GB machine.
+Keywords
+Knapsack feasibility  Absolute value equations  Successive linear programming  

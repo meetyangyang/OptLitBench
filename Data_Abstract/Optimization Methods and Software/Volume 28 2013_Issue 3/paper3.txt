@@ -1,0 +1,6 @@
+An accelerated first-order method for solving SOS relaxations of unconstrained polynomial optimization problems
+ Dimitris   Bertsimas ; Robert   M.   Freund ; Xu   Andy   Sun ;
+Abstract
+ Our interest lies in solving sum of squares (SOS) relaxations of large-scale unconstrained polynomial optimization problems. Because interior-point methods for solving these problems are severely limited by the large-scale, we are motivated to explore efficient implementations of an accelerated first-order method to solve this class of problems. By exploiting special structural properties of this problem class, we greatly reduce the computational cost of the first-order method at each iteration. We report promising computational results as well as a curious observation about the behaviour of the first-order method for the SOS relaxations of the unconstrained polynomial optimization problem. 
+Keywords
+polynomial optimization, semidefinite programming relaxation, accelerated first order methods, global optimization 

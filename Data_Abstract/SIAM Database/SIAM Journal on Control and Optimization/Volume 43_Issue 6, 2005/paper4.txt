@@ -1,0 +1,6 @@
+Optimality of Stasis and Small Switching Cycles in Planar Systems with Two-Valued Controls
+Stewart D.  Johnson;
+Abstract
+For planar ($x\in{\Bbb R}^2$) control systems $x'=f(x,\mu)$ with a two-valued control $\mu\in\{\mu_1,\mu_2\}$ we consider small cycles created by rapidly switching between the two control values. A two-cycle is a periodic cycle on which the periodic control changes value twice in one period. Stasis is a relaxed (i.e., probabilistic) control $\mu_{\hbox{\scriptsize{r}}}$ with a fixed point (called a stasis point) $x_{\hbox{\scriptsize{r}}}$ where $0=f(x_{\hbox{\scriptsize{r}}},\mu_{\hbox{\scriptsize{r}}})= \int f(x_{\hbox{\scriptsize{r}}},\mu)\;d\mu_{\hbox{\scriptsize{r}}}$. Generically, stasispoints can be approximated by two-cycles, and every two-cycle must contain a stasis point. Also generically, stasis points form curves (called stasis curves). The unit metric on these curves parameterize families of small two-cycles near the stasis curve. Under general conditions, we show that average performance is differentiable with respect to this parameterization, and thus necessary conditions for optimality of small two-cycles versus stasis can be explicitly calculated.
+Keywords
+optimal control, optimal periodic control, relaxed control, 37N35, 49N25, 49N20, 49K15, 49K30, 

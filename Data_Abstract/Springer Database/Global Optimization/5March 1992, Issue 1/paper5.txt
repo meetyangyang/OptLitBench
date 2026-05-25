@@ -1,0 +1,6 @@
+Global optimization of a nonconvex single facility location problem by sequential unconstrained convex minimization
+Hoang Tuy;Faiz A. Al-Khayyal;
+Abstract
+The problem of maximizing the sum of certain composite functions, where each term is the composition of a convex decreasing function, bounded from below, with a convex function having compact level sets arises in certain single facility location problems with gauge distance functions. We show that this problem is equivalent to a convex maximization problem over a compact convex set and develop a specialized polyhedral annexation procedure to find a global solution for the case when the inside function is a polyhedral norm. As the problem was solved recently only for local solutions, this paper offers an algorithm for finding a global solution. Implementation and testing are not treated in this short communication.
+Keywords
+Facility location  polyhedral annexation method  

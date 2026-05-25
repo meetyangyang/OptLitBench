@@ -1,0 +1,6 @@
+A filling function method for unconstrained global optimization
+F. Lampariello;G. Liuzzi;
+Abstract
+We consider the problem of finding a global minimum point of a given continuously differentiable function. The strategy is adopted of a sequential nonmonotone improvement of local optima. In particular, to escape the basin of attraction of a local minimum, a suitable Gaussian-based filling function is constructed using the quadratic model (possibly approximated) of the objective function, and added to the objective to fill the basin. Then, a procedure is defined where some new minima are determined, and that of them with the lowest function value is selected as the subsequent restarting point, even if its basin is higher than the starting one. Moreover, a suitable device employing repeatedly the centroid of all the minima determined, is introduced in order to improve the efficiency of the method in the solution of difficult problems where the number of local minima is very high. The algorithm is applied to a set of test functions from the literature and the numerical results are reported along with those obtained by applying a standard Monotonic Basin Hopping method for comparison.
+Keywords
+Global optimization  Unconstrained minimization  Gradient methods  

@@ -1,0 +1,6 @@
+DC programming approach for portfolio optimization under step increasing transaction costs
+ Hoai An   Le Thi ; Mahdi   Moeini ; Tao Pham   Dinh ;
+Abstract
+ We address a class of particularly hard-to-solve portfolio optimization problems, namely the portfolio optimization under step increasing transaction costs. The step increasing functions are approximated, as closely as desired by a difference of polyhedral convex functions. Then we apply the difference of convex functions algorithm (DCA) to the resulting polyhedral DC program. For testing the efficiency of the DCA we compare it with CPLEX and the branch and bound algorithm proposed by Konno et al. 
+Keywords
+portfolio selection, step increasing transaction cost function, DC programming, DCA, branch and boundAMS Subject Classifications: 90C26, 90C57, 90C90, 91B28 

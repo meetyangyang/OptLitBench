@@ -1,0 +1,6 @@
+Models and Algorithms for Stochastic Online Scheduling
+Nicole Megow;Marc Uetz;Tjark Vredeveld;
+Abstract
+We consider a model for scheduling under uncertainty. In this model, we combine the main characteristics of online and stochastic scheduling in a simple and natural way. Job processing times are assumed to be stochastic, but in contrast to traditional stochastic scheduling models, we assume that jobs arrive online, and there is no knowledge about the jobs that will arrive in the future. The model incorporates both stochastic scheduling and online scheduling as a special case. The particular setting we consider is nonpreemptive parallel machine scheduling, with the objective to minimize the total weighted completion times of jobs. We analyze simple, combinatorial online scheduling policies for that model, and derive performance guarantees that match performance guarantees previously known for stochastic and online parallel machine scheduling, respectively. For processing times that follow new better than used in expectation (NBUE) distributions, we improve upon previously best-known performance bounds from stochastic scheduling, even though we consider a more general setting.
+Keywords
+scheduling stochastic dynamic optimization online optimization total weighted completion time approximation 

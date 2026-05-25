@@ -1,0 +1,6 @@
+A low-rank coordinate-descent algorithm for semidefinite programming relaxations of optimal power flow
+Jakub Mareček;Martin Takáč;
+Abstract
+The alternating-current optimal power flow (ACOPF) is one of the best known non-convex nonlinear optimization problems. We present a novel re-formulation of ACOPF, which is based on lifting the rectangular power-voltage rank-constrained formulation, and makes it possible to derive alternative semidefinite programming relaxations. For those, we develop a first-order method based on the parallel coordinate descent with a novel closed-form step based on roots of cubic polynomials.
+Keywords
+Optimization, semidefinite programming, power system analysis 

@@ -1,0 +1,6 @@
+Algorithm engineering for optimal alignment of protein structure distance matrices
+Inken Wohlers;Rumen Andonov;Gunnar W. Klau;
+Abstract
+Protein structural alignment is an important problem in computational biology. In this paper, we present first successes on provably optimal pairwise alignment of protein inter-residue distance matrices, using the popular dali scoring function. We introduce the structural alignment problem formally, which enables us to express a variety of scoring functions used in previous work as special cases in a unified framework. Further, we propose the first mathematical model for computing optimal structural alignments based on dense inter-residue distance matrices. We therefore reformulate the problem as a special graph problem and give a tight integer linear programming model. We then present algorithm engineering techniques to handle the huge integer linear programs of real-life distance matrix alignment problems. Applying these techniques, we can compute provably optimal dali alignments for the very first time.
+Keywords
+Protein structure distance matrix alignment  Algorithm engineering  Integer linear programming  Branch-and-cut  Preprocessing  dali  

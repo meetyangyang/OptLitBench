@@ -1,0 +1,6 @@
+The interval Branch-and-Prune algorithm for the discretizable molecular distance geometry problem with inexact distances
+Carlile Lavor;Leo Liberti;Antonio Mucherino;
+Abstract
+The Distance Geometry Problem in three dimensions consists in finding an embedding in \({\mathbb{R}^3}\) of a given nonnegatively weighted simple undirected graph such that edge weights are equal to the corresponding Euclidean distances in the embedding. This is a continuous search problem that can be discretized under some assumptions on the minimum degree of the vertices. In this paper we discuss the case where we consider the full-atom representation of the protein backbone and some of the edge weights are subject to uncertainty within a given nonnegative interval. We show that a discretization is still possible and propose the iBP algorithm to solve the problem. The approach is validated by some computational experiments on a set of artificially generated instances.
+Keywords
+Distance geometry  Protein conformations  NMR data  Combinatorial optimization  Interval Branch and Prune  

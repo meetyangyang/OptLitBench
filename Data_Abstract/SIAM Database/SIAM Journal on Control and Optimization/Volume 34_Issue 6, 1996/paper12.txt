@@ -1,0 +1,6 @@
+Relaxation of Constrained Control Problems
+E. N.  Barron and R.  Jensen;
+Abstract
+The problem of relaxation of optimal control problems with state and control constraints is formulated in this paper. We determine that if the original problem consists of minimizing, over control functions $\zeta ( \cdot )$, $g(\xi (T))$ subject to ${{d\xi } / {ds}} = f(s,\xi ,\zeta )$, $t < s \leq T$, and $h(s,\xi (s),\zeta (s)) \leq 0$ for a.e. $t \leq s \leq T$, then the relaxed problem consists of minimizing, over measure-valued control functions $\mu ( \cdot )$, $g(\widehat\xi (T))$, subject to ${{d\widehat\xi } / {ds}} = \int_Z f (s,\widehat\xi (s),z)\mu (s,dz)$ and $\mu (s) - {\operatorname{ess}}\,\sup _z h(s,\widehat\xi (s),z) \leq 0$ for a.e. $t \leq s \leq T$. For each s this is the essential supremum of h in z with respect to the measure $\mu (s)$.
+Keywords
+relaxed controls, state and control constraints, 49A40, 49A10, 49C20, 

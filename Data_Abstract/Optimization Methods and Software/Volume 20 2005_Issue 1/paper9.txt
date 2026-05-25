@@ -1,0 +1,6 @@
+Predictor–corrector methods for sufficient linear complementarity problems in a wide neighborhood of the central path
+ Florian A.   Potra ; Xing   Liu ;
+Abstract
+ Two predictor–corrector methods of order m = Ω(log n) are proposed for solving sufficient linear complementarity problems. The methods produce a sequence of iterates in the    neighborhood of the central path. The first method requires an explicit upper bound κ of the handicap of the problem whereas the second method does not. Both methods have O((1 + κ)1+1/  m √n L) iteration complexity. They are superlinearly convergent of order m + 1 for nondegenerate problems and of order (m + 1)/2 for degenerate problems. The cost of implementing one iteration is at most O(n 3) arithmetic operations. 
+Keywords
+Linear complementarity, Interior-point, Path-following, Predictor–corrector 

@@ -1,0 +1,6 @@
+Parallel bucket sorting on graphics processing units based on convex optimization
+Gleb Beliakov;Gang Li;Shaowu Liu;
+Abstract
+We found an interesting relation between convex optimization and sorting problem. We present a parallel algorithm to compute multiple order statistics of the data by minimizing a number of related convex functions. The computed order statistics serve as splitters that group the data into buckets suitable for parallel bitonic sorting. This led us to a parallel bucket sort algorithm, which we implemented for many-core architecture of graphics processing units (GPUs). The proposed sorting method is competitive to the state-of-the-art GPU sorting algorithms and is superior to most of them for long sorting keys.
+Keywords
+convex optimization, cutting plane method, GPU, parallel sorting, parallel selection, order statistic 

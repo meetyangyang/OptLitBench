@@ -1,0 +1,6 @@
+Finitely Convergent Decomposition Algorithms for Two-Stage Stochastic Pure Integer Programs
+Minjiao  Zhang and Si̇mge  Küçükyavuz;
+Abstract
+We study a class of two-stage stochastic integer programs with general integer variables in both stages and finitely many realizations of the uncertain parameters. Based on Benders' method, we propose a decomposition algorithm that utilizes Gomory cuts in both stages. The Gomory cuts for the second-stage scenario subproblems are parameterized by the first-stage decision variables, i.e., they are valid for any feasible first-stage solutions. In addition, we propose an alternative implementation that incorporates Benders' decomposition into a branch-and-cut process in the first stage. We prove the finite convergence of the proposed algorithms. We also report our preliminary computations with a rudimentary implementation of our algorithms to illustrate their effectiveness.
+Keywords
+two-stage stochastic pure integer programs, Gomory cuts, Benders' decomposition, 90C10, 90C15, 

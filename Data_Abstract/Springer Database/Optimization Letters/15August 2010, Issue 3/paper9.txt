@@ -1,0 +1,6 @@
+Approximations for node-weighted Steiner tree in unit disk graphs
+X. Xu;Y. Wang;H. Du;P.-J. Wan;F. Zou;X. Li;W. Wu;
+Abstract
+Given a node-weighted connected graph and a subset of terminals, the problem node-weighted Steiner tree (NWST) seeks a lightest tree connecting a given set of terminals in a node-weighted graph. While NWST in general graphs are as hard as Set Cover, NWST restricted to unit-disk graphs (UDGs) admits constant-approximations. Recently, Zou et al. (Lecture notes in computer science, vol 5165, COCOA, 2008, pp 278–285) showed that any μ-approximation algorithm for the classical edge-weighted Steiner tree problem can be used to produce 2.5 μ-approximation algorithm for NWST restricted to UDGs. With the best known approximation bound 1.55 for the classical Steiner tree problem, they obtained an approximation bound 3.875 for NWST restricted to UDGs. In this paper, we present three approximation algorithms for NWST restricted to UDGs, the k-Restricted Relative Greedy Algorithm whose approximation bound converges to 1 + ln 5 ≈ 2.61 as k → ∞, the 3-Restricted Greedy Algorithm with approximation bound \({4\frac{1}{3}}\) , and the k-Restricted Variable Metric Algorithm whose approximation bound converges to 3.9334 as k → ∞.
+Keywords
+Node-weighted Steiner tree  Unit-disk graph  Approximation algorithm  

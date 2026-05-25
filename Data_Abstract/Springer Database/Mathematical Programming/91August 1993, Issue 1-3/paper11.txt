@@ -1,0 +1,6 @@
+An O(n3L) primal—dual potential reduction algorithm for solving convex quadratic programs
+Donald Goldfarb;Shucheng Liu;
+Abstract
+In this paper we combine partial updating and an adaptation of Anstreicher's safeguarded linesearch of the primal—dual potential function with Kojima, Mizuno and Yoshise's potential reduction algorithm for the linear complementarity problem to obtain an O(n3L) algorithm for convex quadratic programming. Our modified algorithm is a long step method that requires at most O(\(\sqrt n\)L) steps.
+Keywords
+Interior point method  Karmarkar's method  primal—dual potential function  convex quadratic programming  rank-one update  

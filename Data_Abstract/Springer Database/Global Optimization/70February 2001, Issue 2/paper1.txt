@@ -1,0 +1,6 @@
+Minimum Spanning Trees with Sums of Ratios
+Christopher C. Skiscim;Susan W. Palocsay;
+Abstract
+We present an algorithm for finding a minimum spanning tree where the costs are the sum of two linear ratios. We show how upper and lower bounds may be quickly generated. By associating each ratio value with a new variable in `image space,' we show how to tighten these bounds by optimally solving a sequence of constrained minimum spanning tree problems. The resulting iterative algorithm then finds the globally optimal solution. Two procedures are presented to speed up the basic algorithm. One relies on the structure of the problem to find a locally optimal solution while the other is independent of the problem structure. Both are shown to be effective in reducing the computational effort. Numerical results are presented.
+Keywords
+Fractional programming  Sums of ratios  Minimum spanning tree  Combinatorial optimization  

@@ -1,0 +1,6 @@
+Safe Cooperative Robot Dynamics on Graphs
+Robert W.  Ghrist and Daniel E.  Koditschek;
+Abstract
+This paper introduces the use of vector fields to design, optimize, and implement reactive schedules for safe cooperative robot patterns on planar graphs. We consider automated guided vehicles (AGVs) operating upon a predefined network of pathways. In contrast to the case of locally Euclidean configuration spaces, regularization of collisions is no longer a local procedure, and issues concerning the global topology of configuration spaces must be addressed. The focus of the present inquiry is the definition, design, and algorithmic construction of controllers for achievement of safe, efficient, cooperative patterns in the simplest nontrivial example (a pair of robots on a Y-network) by means of a hierarchical event-driven state feedback law.
+Keywords
+configuration spaces, AGV, graph network, hierarchical control, 93C85, 68T40, 93C25, 37N35, 

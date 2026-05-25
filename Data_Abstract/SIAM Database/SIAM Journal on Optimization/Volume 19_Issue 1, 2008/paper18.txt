@@ -1,0 +1,6 @@
+An Inexact SQP Method for Equality Constrained Optimization
+Richard H.  Byrd, Frank E.  Curtis, and Jorge  Nocedal;
+Abstract
+We present an algorithm for large-scale equality constrained optimization. The method is based on a characterization of inexact sequential quadratic programming (SQP) steps that can ensure global convergence. Inexact SQP methods are needed for large-scale applications for which the iteration matrix cannot be explicitly formed or factored and the arising linear systems must be solved using iterative linear algebra techniques. We address how to determine when a given inexact step makes sufficient progress toward a solution of the nonlinear program, as measured by an exact penalty function. The method is globalized by a line search. An analysis of the global convergence properties of the algorithm and numerical results are presented.
+Keywords
+large-scale optimization, constrained optimization, sequential quadratic programming, inexact linear system solvers, Krylov subspace methods, 49M37, 65K05, 90C06, 90C30, 90C55, 

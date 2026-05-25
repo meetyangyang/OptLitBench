@@ -1,0 +1,6 @@
+$L^2$ Optimization in Discrete FIR Estimation: Exploiting State-Space Structure
+Yaron  Levinson and Leonid  Mirkin;
+Abstract
+This paper studies the $L^2$ (mean-square) optimal design of discrete-time FIR estimators. A solution procedure, which reduces the problem to a static matrix optimization problem admitting a closed-form solution, is proposed. In the latter solution, a special state-space structure of the associated matrices is exploited to obtain efficient formulae with the computational complexity proportional to the length of the impulse response of the estimator. Unlike previously available least-square FIR results, our treatment does not impose unnecessarily restrictive assumptions on the process dynamics and can handle interpolation constraints on the unit circle, which facilitates the inclusion of steady-state performance requirements.
+Keywords
+FIR estimation, $L^2$ optimization, state-space techniques, 93C05, 93C35, 93C55, 93D99, 15B05, 

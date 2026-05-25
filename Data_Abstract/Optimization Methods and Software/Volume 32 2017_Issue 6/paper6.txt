@@ -1,0 +1,6 @@
+Worst-case evaluation complexity of regularization methods for smooth unconstrained optimization using Hölder continuous gradients
+C. Cartis;N.I.M. Gould;Ph.L. Toint;
+Abstract
+The worst-case behaviour of a general class of regularization algorithms is considered in the case where only objective function values and associated gradient vectors are evaluated. Upper bounds are derived on the number of such evaluations that are needed for the algorithm to produce an approximate first-order critical point whose accuracy is within a user-defined threshold. The analysis covers the entire range of meaningful powers in the regularization term as well as in the Hölder exponent for the gradient. The resulting complexity bounds vary according to the regularization power and the assumed Hölder exponent, recovering known results when available.
+Keywords
+nonlinear optimisation, regularization methods, complexity analysis 

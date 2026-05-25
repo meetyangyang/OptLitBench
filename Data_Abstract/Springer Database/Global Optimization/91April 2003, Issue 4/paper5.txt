@@ -1,0 +1,6 @@
+Minimum Maximal Flow Problem: An Optimization over the Efficient Set
+M. Shigeno;I. Takahashi;Y. Yamamoto;
+Abstract
+The network flow theory and algorithms have been developed on the assumption that each arc flow is controllable and we freely raise and reduce it. We however consider in this paper the situation where we are not able or allowed to reduce the given arc flow. Then we may end up with a maximal flow depending on the initial flow as well as the way of augmentation. Therefore the minimum of the flow values that are attained by maximal flows will play an important role to see how inefficiently the network can be utilized. We formulate this problem as an optimization over the efficient set of a multicriteria program, propose an algorithm, prove its finite convergence, and report on some computational experiments.
+Keywords
+Maximal flow  Multicriteria program  Efficient set  Nonconvex optimization  

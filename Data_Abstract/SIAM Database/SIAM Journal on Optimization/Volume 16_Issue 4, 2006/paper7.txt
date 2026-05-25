@@ -1,0 +1,6 @@
+A Derivative-Free Algorithm for Linearly Constrained Finite Minimax Problems
+G.  Liuzzi, S.  Lucidi, and M.  Sciandrone;
+Abstract
+In this paper we propose a new derivative-free algorithm for linearly constrained finite minimax problems. Due to the nonsmoothness of this class of problems, standard derivative-free algorithms can locate only points which satisfy weak necessary optimality conditions. In this work we define a new derivative-free algorithm which is globally convergent toward standard stationary points of the finite minimax problem. To this end, we convert the original problem into a smooth one by using a smoothing technique based on the exponential penalty function of Kort and Bertsekas. This technique depends on a smoothing parameter which controls the approximation to the finite minimax problem. The proposed method is based on a sampling of the smooth function along a suitable search direction and on a particular updating rule for the smoothing parameter that depends on the sampling stepsize. Numerical results on a set of standard minimax test problems are reported.
+Keywords
+derivative-free optimization, linearly constrained finite minimax problems, non-smooth optimization, 90C56, 90C47, 65K05, 

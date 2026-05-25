@@ -1,0 +1,6 @@
+The estimation of the hessian matrix in nonlinear least squares problems with non-zero residuals
+M. C. Bartholomew-Biggs;
+Abstract
+Computational experiments by McKeown [11] have shown that specialised methods, based on the Gauss—Newton iteration, are not necessarily the best choice for minimising functions that are sums of squared terms. Difficulties arise when the Gauss—Newton approach does not yield a good approximation to the second derivative matrix of the function: and this is more likely to happen when the function value at the optimum is not near zero and the terms in the sum of squares are significantly nonlinear. This paper considers some specialised methods for the nonlinear least squares problem which seek to improve the Gauss—Newton estimate of the Hessian matrix without explicitly calculating second derivatives.
+Keywords
+Good Choice  Mathematical Method  Computational Experiment  Hessian Matrix  Newton Iteration  

@@ -1,0 +1,6 @@
+A randomized scheme for speeding up algorithms for linear and convex programming problems with high constraints-to-variables ratio
+Ilan Adler;Ron Shamir;
+Abstract
+We extend Clarkson's randomized algorithm for linear programming to a general scheme for solving convex optimization problems. The scheme can be used to speed up existing algorithms on problems which have many more constraints than variables. In particular, we give a randomized algorithm for solving convex quadratic and linear programs, which uses that scheme together with a variant of Karmarkar's interior point method. For problems withn constraints,d variables, and input lengthL, ifn = Ω(d2), the expected total number of major Karmarkar's iterations is O(d2(logn)L), compared to the best known deterministic bound of O(\(\sqrt n\)L). We also present several other results which follow from the general scheme.
+Keywords
+Linear programming  quadratic programming  convex programming  randomized algorithms  fixed dimension optimization problems  complexity  

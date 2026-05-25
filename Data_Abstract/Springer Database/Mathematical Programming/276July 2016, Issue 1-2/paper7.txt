@@ -1,0 +1,6 @@
+A polyhedral study of production ramping
+Pelin Damcı-Kurt;Simge Küçükyavuz;Deepak Rajan;Alper Atamtürk;
+Abstract
+We give strong formulations of ramping constraints—used to model the maximum change in production level for a generator or machine from one time period to the next—and production limits. For the two-period case, we give a complete description of the convex hull of the feasible solutions. The two-period inequalities can be readily used to strengthen ramping formulations without the need for separation. For the general case, we define exponential classes of multi-period variable upper bound and multi-period ramping inequalities, and give conditions under which these inequalities define facets of ramping polyhedra. Finally, we present exact polynomial separation algorithms for the inequalities and report computational experiments on using them in a branch-and-cut algorithm to solve unit commitment problems in power generation.
+Keywords
+Ramping  Unit commitment  Co-generation  Production smoothing  Convex hull  Polytope  Valid inequalities  Facets  Computation  90C11  90C57  

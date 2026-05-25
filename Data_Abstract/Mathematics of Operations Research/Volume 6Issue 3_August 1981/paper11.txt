@@ -1,0 +1,6 @@
+Globally Convergent Algorithms for Convex Programming
+Eric Rosenberg;
+Abstract
+We consider solving a (minimization) convex program by sequentially solving a (minimization) convex approximating subproblem and then executing a line search on an exact penalty function. Each subproblem is constructed from the current estimate of a solution of the given problem, possibly together with other information. Under mild conditions, solving the current subproblem generates a descent direction for the exact penalty function. Minimizing the exact penalty function along the current descent direction provides a new estimate of a solution, and a new subproblem is formed. For any arbitrary starting estimate, this scheme generates a sequence of estimates that converges to a solution of the given problem. Moreover, the functions defining the given problem and each subproblem need not be differentiable.
+Keywords
+convex programming global convergence nondifferentiable optimization 

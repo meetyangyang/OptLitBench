@@ -1,0 +1,6 @@
+The Mehrotra Predictor-Corrector Interior-Point Method As a Perturbed Composite Newton Method
+R.  Tapia, Y.  Zhang, M.  Saltzman, and A.  Weiser;
+Abstract
+It is well known that the celebrated Kojima–Mizuno–Yoshise primal-dual interior-point method for linear programming can be viewed as a damped perturbed Newton’s method. Recently, Mehrotra suggested a predictor-corrector variant of this method. It is currently the interior-point method of choice for linear programming. The simplified Newton method, at the expense of fast convergence, reduces the work required by Newton’s method by reusing the initial Jacobian matrix. The composite Newton method attempts to balance the trade-off between expense and fast convergence by composing one Newton step with one simplified Newton step. In this work we demonstrate that if the Newton component in the Kojima–Mizuno–Yoshise primal-dual method is replaced with a composite Newton component, then the resulting method is the Mehrotra predictor-corrector method.
+Keywords
+linear programming, primal-dual interior-point algorithms, Newton’s method, 65K05, 90C05, 

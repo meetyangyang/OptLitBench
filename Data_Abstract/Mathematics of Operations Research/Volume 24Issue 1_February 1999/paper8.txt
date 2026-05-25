@@ -1,0 +1,6 @@
+Separating Maximally Violated Comb Inequalities in Planar Graphs
+L. Fleischer;É. Tardos;
+Abstract
+The Traveling Salesman Problem (TSP) is a benchmark problem in combinatorial optimization. It was one of the very first problems used for developing and testing approaches to solving large integer programs, including cutting plane algorithms and branch-and-cut algorithms. Much of the research in this area has been focused on finding new classes of facets for the TSP polytope, and much less attention has been paid to algorithms for separating from these classes of facets.In this paper, we consider the problem of finding violated comb inequalities. If there are no violated subtour constraints in a fractional solution of the TSP, a comb inequality may not be violated by more than 1. Given a fractional solution in the subtour elimination polytope whose graph is planar, we either find a violated comb inequality or determine that there are no comb inequalities violated by 1. Our algorithm runs in O(n + MC(n)) time, where MC(n) is the time to compute a cactus representation of all minimum cuts of a weighted planar graph on n vertices.
+Keywords
+Traveling salesman problem comb inequalities separation algorithms cutting planes 

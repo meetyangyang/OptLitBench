@@ -1,0 +1,6 @@
+A Framework for Globally Convergent Algorithms Using Gradient Bounding Functions
+X. Wang;T. S. Chang;
+Abstract
+This paper presents a novel framework for developing globally convergent algorithms without evaluating the value of a given function. One way to implement such a framework for a twice continuously differentiable function is to apply linear bounding functions (LBFs) to its gradient function. The algorithm thus obtained can get a better point in each iteration without using a line search. Under certain conditions, it can achieve at least superlinear convergent rate 1.618 without calculating explicitly the Hessian. Furthermore, the strategy of switching from the negative gradient direction to the Newton-alike direction is derived in a natural manner and is computationally effective. Numerical examples are used to show how the algorithm works.
+Keywords
+Nonlinear programming  linear bounding functions  global convergence  

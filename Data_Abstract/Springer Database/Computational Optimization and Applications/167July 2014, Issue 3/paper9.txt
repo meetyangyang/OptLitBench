@@ -1,0 +1,6 @@
+Implementation aspects of interactive multiobjective optimization for modeling environments: the case of GAMS-NIMBUS
+Vesa Ojalehto;Kaisa Miettinen;Timo Laukkanen;
+Abstract
+Interactive multiobjective optimization methods have provided promising results in the literature but still their implementations are rare. Here we introduce a core structure of interactive methods to enable their convenient implementation. We also demonstrate how this core structure can be applied when implementing an interactive method using a modeling environment. Many modeling environments contain tools for single objective optimization but not for interactive multiobjective optimization. Furthermore, as a concrete example, we present GAMS-NIMBUS Tool which is an implementation of the classification-based NIMBUS method for the GAMS modeling environment. So far, interactive methods have not been available in the GAMS environment, but with the GAMS-NIMBUS Tool we open up the possibility of solving multiobjective optimization problems modeled in the GAMS modeling environment. Finally, we give some examples of the benefits of applying an interactive method by using the GAMS-NIMBUS Tool for solving multiobjective optimization problems modeled in the GAMS environment.
+Keywords
+Multiple objective programming  Interactive methods   NIMBUS method  Modeling languages  Pareto optimality  

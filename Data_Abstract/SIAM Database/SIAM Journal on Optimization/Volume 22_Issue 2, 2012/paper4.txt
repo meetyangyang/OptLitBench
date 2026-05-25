@@ -1,0 +1,6 @@
+Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems
+Yu.  Nesterov;
+Abstract
+In this paper we propose new methods for solving huge-scale optimization problems. For problems of this size, even the simplest full-dimensional vector operations are very expensive. Hence, we propose to apply an optimization technique based on random partial update of decision variables. For these methods, we prove the global estimates for the rate of convergence. Surprisingly, for certain classes of objective functions, our results are better than the standard worst-case bounds for deterministic algorithms. We present constrained and unconstrained versions of the method and its accelerated variant. Our numerical test confirms a high efficiency of this technique on problems of very big size.
+Keywords
+convex optimization, coordinate relaxation, worst-case efficiency estimates, fast gradient schemes, Google problem, 90C25, 90C47, 68Q25, 

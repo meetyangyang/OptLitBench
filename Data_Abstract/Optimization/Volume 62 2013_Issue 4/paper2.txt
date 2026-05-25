@@ -1,0 +1,6 @@
+An affine-scaling pivot algorithm for linear programming
+ Ping-Qi   Pan ;
+Abstract
+ Simplex algorithms governed by some pivot rule and interior point algorithms are two diverging and competitive types of algorithms for solving linear programming problems. The former moves on the underlying polyhedron, from vertex to adjacent vertex, along edges until an optimal vertex is reached while the latter approaches an optimal point by moving across interior of the polyhedron. In this article, we derive an algorithm that may be regarded as a pivot as well as interior point one. It produces a sequence of interior as well as boundary points, including vertices, until reaching a pair of exact primal and dual optimal solutions. We report encouraging computational results with dense implementation of the algorithm on a set of Netlib test problems. 
+Keywords
+pivot, interior point, affine-scaling, QR decomposition, projection 

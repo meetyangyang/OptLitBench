@@ -1,0 +1,6 @@
+Finding independent sets in a graph using continuous multivariable polynomial formulations
+James Abello;Sergiy Butenko;Panos M. Pardalos;Mauricio G.C. Resende;
+Abstract
+Two continuous formulations of the maximum independent set problem on a graph G=(V,E) are considered. Both cases involve the maximization of an n-variable polynomial over the n-dimensional hypercube, where n is the number of nodes in G. Two (polynomial) objective functions F(x) and H(x) are considered. Given any solution to x0 in the hypercube, we propose two polynomial-time algorithms based on these formulations, for finding maximal independent sets with cardinality greater than or equal to F(x0) and H(x0), respectively. A relation between the two approaches is studied and a more general statement for dominating sets is proved. Results of preliminary computational experiments for some of the DIMACS clique benchmark graphs are presented.
+Keywords
+Maximum independent set  continuous approach  global optimization  

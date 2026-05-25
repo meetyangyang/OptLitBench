@@ -1,0 +1,6 @@
+On a Class of Superlinearly Convergent Polynomial Time Interior Point Methods for Sufficient LCP
+Florian A.  Potra and Josef  Stoer;
+Abstract
+A new class of infeasible interior point methods for solving sufficient linear complementarity problems (LCPs) requiring one matrix factorization and m backsolves at each iteration is proposed and analyzed. The algorithms from this class use a large $({\cal N}_\infty^-$) neighborhood of an infeasible central path associated with the complementarity problem and an initial positive, but not necessarily feasible, starting point. The Q-order of convergence of the complementarity gap, the residual, and the iteration sequence is $m+1$ for problems that admit a strict complementarity solution and $(m+1)/2$ for general sufficient LCPs. The methods do not depend on the handicap $\kappa$ of the sufficient LCP. If the starting point is feasible (or “almost” feasible), the proposed algorithms have ${\cal O}((1+\kappa)(1+\log\sqrt[m]{1+\kappa}\,)\sqrt{n}\;L)$ iteration complexity, while if the starting point is “large enough,” the iteration complexity is ${\cal O}((1+\kappa)^{2+1/m}(1+\log\sqrt[m]{1+\kappa}\,)n\;L)$.
+Keywords
+linear complementarity, interior point, affine scaling, large neighborhood, superlinear convergence, 90C51, 65K05, 49M15, 90C05, 90C20, 

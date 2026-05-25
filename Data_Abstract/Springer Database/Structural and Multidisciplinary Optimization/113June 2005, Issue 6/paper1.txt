@@ -1,0 +1,6 @@
+Structure topology optimization: fully coupled level set method via FEMLAB
+Z. Liu;J.G. Korvink;R. Huang;
+Abstract
+This paper presents a procedure which can easily implement the 2D compliance minimization structure topology optimization by the level set method using the FEMLAB package. Instead of a finite difference solver for the level set equation, as is usually the case, a finite element solver for the reaction–diffusion equation is used to evolve the material boundaries. All of the optimization procedures are implemented in a user-friendly manner. A FEMLAB code can be downloaded from the homepage www.imtek.de/simulation and is free for educational purposes. 
+Keywords
+FEMLAB  Finite element method  Level set method  Reaction–diffusion equation  Structure topology optimization   

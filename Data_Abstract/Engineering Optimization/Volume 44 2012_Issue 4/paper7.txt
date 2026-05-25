@@ -1,0 +1,6 @@
+Quantification of epistemic uncertainty in re-usable launch vehicle aero-elastic design
+ Jason   M.   King ; Ramana   V.   Grandhi ; Todd   W.   Benanzer ;
+Abstract
+ Due to the inherent natural variability of parameters with re-usable launch vehicles, design without consideration of reliability measures may be unreliable and vulnerable to failure. Generally, in preliminary air vehicle design little information is known regarding design variable uncertainties, therefore requiring a technique that can quantify epistemic uncertainties. Evidence theory is employed to accomplish this task resulting in a reliability bound of belief and plausibility. Due to the discontinuous nature of the belief and plausibility function it is necessary to implement a continuous function known as plausibility decision to be used to calculate sensitivities that can be implemented in a gradient-based reliability-based design optimization algorithm. This research develops a new plausibility decision approximation that calculates sensitivities with respect to uncertain variables without introducing extra computational cost or numerical integration. This new metric was demonstrated in a sensitivity analysis of the aero-elastic flutter reliability of a re-usable launch vehicle’s wing. 
+Keywords
+ evidence theory, flutter, reliability, sensitivities, re-usable launch vehicle  

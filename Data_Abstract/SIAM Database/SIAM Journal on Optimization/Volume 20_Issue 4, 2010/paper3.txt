@@ -1,0 +1,6 @@
+A Newton-CG Augmented Lagrangian Method for Semidefinite Programming
+Xin-Yuan  Zhao, Defeng  Sun, and Kim-Chuan  Toh;
+Abstract
+We consider a Newton-CG augmented Lagrangian method for solving semidefinite programming (SDP) problems from the perspective of approximate semismooth Newton methods. In order to analyze the rate of convergence of our proposed method, we characterize the Lipschitz continuity of the corresponding solution mapping at the origin. For the inner problems, we show that the positive definiteness of the generalized Hessian of the objective function in these inner problems, a key property for ensuring the efficiency of using an inexact semismooth Newton-CG method to solve the inner problems, is equivalent to the constraint nondegeneracy of the corresponding dual problems. Numerical experiments on a variety of large-scale SDP problems with the matrix dimension n up to $4,110$ and the number of equality constraints m up to $2,156,544$ show that the proposed method is very efficient. We are also able to solve the SDP problem fap36 (with $n=4,110$ and $m=1,154,467$) in the Seventh DIMACS Implementation Challenge much more accurately than in previous attempts.
+Keywords
+semidefinite programming, augmented Lagrangian, semismoothness, Newton method, iterative solver, 90C06, 90C22, 90C25, 65F10, 

@@ -1,0 +1,6 @@
+A partition-based global optimization algorithm
+Giampaolo Liuzzi;Stefano Lucidi;Veronica Piccialli;
+Abstract
+This paper is devoted to the study of partition-based deterministic algorithms for global optimization of Lipschitz-continuous functions without requiring knowledge of the Lipschitz constant. First we introduce a general scheme of a partition-based algorithm. Then, we focus on the selection strategy in such a way to exploit the information on the objective function. We propose two strategies. The first one is based on the knowledge of the global optimum value of the objective function. In this case the selection strategy is able to guarantee convergence of every infinite sequence of trial points to global minimum points. The second one does not require any a priori knowledge on the objective function and tries to exploit information on the objective function gathered during progress of the algorithm. In this case, from a theoretical point of view, we can guarantee the so-called every-where dense convergence of the algorithm.
+Keywords
+Global optimization  Partition-based algorithm  DIRECT-type algorithm  

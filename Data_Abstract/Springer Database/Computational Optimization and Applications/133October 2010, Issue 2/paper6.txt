@@ -1,0 +1,6 @@
+Bounding the optimum for the problem of scheduling the photographs of an Agile Earth Observing Satellite
+Djamal Habet;Michel Vasquez;Yannick Vimont;
+Abstract
+The problem of managing an Agile Earth Observing Satellite consists of selecting and scheduling a subset of photographs among a set of candidate ones that satisfy imperative constraints and maximize a gain function. We propose a tabu search algorithm to solve this NP-hard problem. This one is formulated as a constrained optimization problem and involves stereoscopic and time window visibility constraints; and a convex evaluation function that increases its hardness. To obtain a wide-ranging and an efficient exploration of the search space, we sample it by consistent and saturated configurations. Our algorithm is also hybridized with a systematic search that uses partial enumerations. To increase the solution quality, we introduce and solve a secondary problem; the minimization of the sum of the transition durations between the acquisitions. Upper bounds are also calculated by a dynamic programming algorithm on a relaxed problem. The obtained results show the efficiency of our approach.
+Keywords
+Tabu search  Consistent neighborhood  Scheduling  Agile satellite  Dynamic programming  

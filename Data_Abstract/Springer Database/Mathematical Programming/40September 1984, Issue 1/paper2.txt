@@ -1,0 +1,6 @@
+Equivalence of some quadratic programming algorithms
+Michael J. Best;
+Abstract
+We formulate a general algorithm for the solution of a convex (but not strictly convex) quadratic programming problem. Conditions are given under which the iterates of the algorithm are uniquely determined. The quadratic programming algorithms of Fletcher, Gill and Murray, Best and Ritter, and van de Panne and Whinston/Dantzig are shown to be special cases and consequently are equivalent in the sense that they construct identical sequences of points. The various methods are shown to differ only in the manner in which they solve the linear equations expressing the Kuhn-Tucker system for the associated equality constrained subproblems. Equivalence results have been established by Goldfarb and Djang for the positive definite Hessian case. Our analysis extends these results to the positive semi-definite case.
+Keywords
+Quadratic Programming  Equivalence of Algorithms  

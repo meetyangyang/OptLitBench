@@ -1,0 +1,6 @@
+The Fast Fourier Transform
+Ulrich   Oberst;
+Abstract
+Fast Fourier transforms (FFTs) are fast algorithms, i.e., of low complexity, for the computation of the discrete Fourier transform (DFT) on a finite abelian group. They are among the most important algorithms in applied and engineering mathematics and in computer science, in particular for one‐ and multidimensional systems theory and signal processing. We give a relatively short survey of the FFT for arbitrary finite abelian groups, cyclic or not, with complete and partially novel proofs, the main distinction being explicit induction formulas for the FFT in all cases which generalize the original FFT‐algorithm due to Cooley and Tukey and, much earlier, to Gauß. We believe that our approach has didactic advantages over the usual ones. We also present the application of the FFT to fast convolution algorithms, and the so‐called number theoretic transforms over finite coefficient rings. We do not treat those algorithms which decrease the multiplicative complexity at the expense of many more rational linear combinations, which in this context are considered costless, nor do we discuss the DFT for nonabelian finite groups.
+Keywords
+fast Fourier transform, discrete Fourier transform, fast convolution, 65T50, 

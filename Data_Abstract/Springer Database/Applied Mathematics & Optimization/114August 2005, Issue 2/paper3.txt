@@ -1,0 +1,34 @@
+A General Stochastic Calculus Approach to Insider Trading
+Francesca Biagini;Bernt Øksendal;
+Abstract
+The purpose of this paper is to present a  general stochastic calculus 
+approach to insider trading. We consider a market driven by a standard Brownian 
+motion $B(t)$ on a filtered probability space $\displaystyle
+(\Omega,\F,\left\{\F\right\}_{t\geq 0},P)$ where the coefficients are 
+adapted to a filtration ${\Bbb G}=\left\{\G_t\right\}_{0\leq t\leq T}$, 
+with $\F_t\subset\G_t$ for all $t\in [0,T]$, $T>0$ being a fixed terminal time.
+ By
+an {\it insider} in this market we
+mean a person who has access to a filtration (information)
+$\displaystyle{\Bbb H}=\left\{\H_t\right\}_{0\leq t\leq T}$ which is strictly
+bigger than the filtration 
+$\displaystyle{\Bbb G}=\left\{\G_t\right\}_{0\leq t\leq T}$. 
+In this context an insider strategy is represented by an 
+$\H_t$-adapted process 
+$\phi(t)$ and we interpret all anticipating integrals as
+the forward integral defined in 
+[23] and [25]. 
+We consider an optimal portfolio problem with
+general utility for an insider with access to a general  information
+$\H_t \supset\G_t$ and show that if
+an optimal insider portfolio $\pi^*(t)$ of this problem exists, then 
+$B(t)$ is an $\H_t$-semimartingale, i.e. the enlargement
+of filtration property holds. This is a converse of previously 
+known results in this field.
+Moreover, if $\pi^*$ exists 
+we obtain an explicit expression in terms of $\pi^*$ for the
+semimartingale decomposition of $B(t)$ with respect to $\H_t$. 
+This is a generalization 
+of results  in [16],  [20] and [2].
+Keywords
+Forward integral  Skorohod integral  Wick product  Insider trading  Utility function  

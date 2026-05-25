@@ -1,0 +1,6 @@
+A note on augmented Lagrangian-based parallel splitting method
+Kai Wang;Jitamitra Desai;Hongjin He;
+Abstract
+We consider the linearly constrained separable convex minimization problem, whose objective function consists of the sum of \(m\) individual convex functions in the absence of any coupling variables. While augmented Lagrangian-based decomposition methods have been well developed in the literature for solving such problems, a noteworthy requirement of these methods is that an additional correction step is a must to guarantee their convergence. This note shows that a straightforward Jacobian decomposition of the augmented Lagrangian method is globally convergent if the involved functions are further assumed to be strongly convex.
+Keywords
+Augmented Lagrangian method  Jacobian decomposition   Convex minimization  Strongly convex function  

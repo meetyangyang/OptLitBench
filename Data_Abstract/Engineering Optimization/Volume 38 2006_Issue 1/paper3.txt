@@ -1,0 +1,6 @@
+Non-derivative design centering algorithm using trust region optimization and variance reduction
+ A.   S.O.   Hassan ; H.   L.   Abdel-Malek ; A.   A.   Rabie ;
+Abstract
+ Fluctuations in manufactured integrated circuit parameters may dramatically reduce the parametric yield. Yield maximization can be formulated as an unconstrained optimization problem in nominal parameter values, which is known as design centering. The high expense of yield evaluations, the absence of any gradient information, and the presence of some numerical noise obstruct the use of the traditional derivative-based optimization methods. In this article, a novel design centering algorithm is presented, which consists of a non-derivative unconstrained optimizer coupled with a variance reduction estimator. The used optimizer combines a trust region mechanism with quadratic interpolation and provides efficient use of yield evaluations. The stratified sampling technique is used to develop a lower variance yield estimator that reduces the number of circuit simulations required to reach a desired accuracy level. Numerical and practical circuit examples are used to demonstrate the efficiency of the proposed algorithm with respect to other methods in the same field. 
+Keywords
+Design centering, Trust region, Quadratic interpolation, Variance reduction 

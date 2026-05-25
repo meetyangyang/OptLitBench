@@ -1,0 +1,6 @@
+Search-Trajectory Optimization: Part I, Formulation and Theory
+Joseph Foraker;Johannes O. Royset;Isaac Kaminer;
+Abstract
+We formulate a search-trajectory optimization problem, with multiple searchers looking for multiple targets in continuous time and space, as a parameter-distributed optimal control model. The problem minimizes the probability that all of the searchers fail to detect any of the targets during a planning horizon. We construct discretization schemes and prove that they lead to consistent approximations in the sense of E. Polak.
+Keywords
+Search theory  Continuous time-and-space search  Consistent approximations  Parameter-distributed optimal control   Force protection  49K15  49M15  49M25  

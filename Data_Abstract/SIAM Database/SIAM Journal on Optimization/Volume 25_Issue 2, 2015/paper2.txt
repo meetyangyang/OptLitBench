@@ -1,0 +1,6 @@
+A Self-Concordant Interior Point Approach for Optimal Control with State Constraints
+Florian  Kruse and Michael  Ulbrich;
+Abstract
+We propose an infeasible interior point method for pointwise state constrained optimal control problems with linear elliptic PDEs. A smoothed constraint violation functional is used to develop a self-concordant barrier approach in an infinite-dimensional setting.  We provide a detailed convergence analysis in function space for this approach. The quality of the smoothing is described by a parameter. By fixing this parameter we obtain a perturbed version of the original problem. We establish complexity estimates and convergence rates for the methods that we propose to solve a given perturbed problem. We also estimate the distance between the optimal solution of the perturbed problem and the optimal solution of the original problem. Moreover, our approach yields a rigorous measure for the proximity of the actual iterate to the minimizer of the perturbed and the original problems. We report on numerical experiments to illustrate efficiency and mesh independence.
+Keywords
+interior point methods, optimal control, state constraints, self-concordance, 49M05, 90C48, 90C51, 

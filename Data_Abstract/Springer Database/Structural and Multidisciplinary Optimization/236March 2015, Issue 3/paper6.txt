@@ -1,0 +1,6 @@
+Introducing the sequential linear programming level-set method for topology optimization
+Peter D. Dunning;H. Alicia Kim;
+Abstract
+This paper introduces an approach to level-set topology optimization that can handle multiple constraints and simultaneously optimize non-level-set design variables. The key features of the new method are discretized boundary integrals to estimate function changes and the formulation of an optimization sub-problem to attain the velocity function. The sub-problem is solved using sequential linear programming (SLP) and the new method is called the SLP level-set method. The new approach is developed in the context of the Hamilton-Jacobi type level-set method, where shape derivatives are employed to optimize a structure represented by an implicit level-set function. This approach is sometimes referred to as the conventional level-set method. The SLP level-set method is demonstrated via a range of problems that include volume, compliance, eigenvalue and displacement constraints and simultaneous optimization of non-level-set design variables.
+Keywords
+Level-set method  Topology optimization  Constraints  Sequential linear programming  

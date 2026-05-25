@@ -1,0 +1,6 @@
+A Polynomial Time OPT + 1 Algorithm for the Cutting Stock Problem with a Constant Number of Object Lengths
+Klaus Jansen;Roberto Solis-Oba;
+Abstract
+In the cutting stock problem, we are given a set of objects of different types, and the goal is to pack them all in the minimum possible number of identical bins. All objects have integer lengths, and objects of different types have different sizes. The total length of the objects packed in a bin cannot exceed the capacity of the bin. In this paper, we consider the version of the problem in which the number of different object types is constant, and we present a polynomial-time algorithm that computes a solution using at most one more bin than an optimum solution.
+Keywords
+cutting stock problem bin packing approximation algorithm mixed-integer programming 

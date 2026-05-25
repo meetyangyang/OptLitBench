@@ -1,0 +1,6 @@
+Stochastic Target Problems with Controlled Loss
+Bruno  Bouchard, Romuald  Elie, and Nizar  Touzi;
+Abstract
+We consider the problem of finding the minimal initial data of a controlled process which guarantees to reach a controlled target with a given probability of success or, more generally, with a given level of expected loss. By suitably increasing the state space and the controls, we show that this problem can be converted into a stochastic target problem, i.e., finding the minimal initial data of a controlled process which guarantees to reach a controlled target with probability one. Unlike in the existing literature on stochastic target problems, our increased controls are valued in an unbounded set. In this paper, we provide a new derivation of the dynamic programming equation for general stochastic target problems with unbounded controls, together with the appropriate boundary conditions. These results are applied to the problem of quantile hedging in financial mathematics and are shown to recover the explicit solution of Föllmer and Leukert [Finance Stoch., 3 (1999), pp. 251–273].
+Keywords
+stochastic target problem, discontinuous viscosity solutions, quantile hedging, 49L25, 60J60, 49L20, 35K55, 

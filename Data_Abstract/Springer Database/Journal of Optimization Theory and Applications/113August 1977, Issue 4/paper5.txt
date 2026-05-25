@@ -1,0 +1,6 @@
+A maximum principle for time-lag control problems with bounded state
+G. R. Bunce;
+Abstract
+A maximum principle is obtained for control problems involving a constant time lag τ in both the control and state variables. The problem considered is that of minimizing$$I(x) = \int_{t^0 }^{t^1 } {L (t,x(t), x(t - \tau ), u(t), u(t - \tau )) dt} $$ subject to the constraints$$\begin{gathered}  \dot x(t) = f(t,x(t),x(t - \tau ),u(t),u(t - \tau )), \hfill \\  x(t) = \phi (t),         u(t) = \eta (t),      t^0  - \tau  \leqslant t \leqslant t^0 , \hfill \\ \end{gathered} $$ (1)$$\psi _\alpha  (t,x(t),x(t - \tau )) \leqslant 0,\alpha  = 1, \ldots ,m,$$ (1)$$x^i (t^1 ) = X^i ,i = 1, \ldots ,n$$ (1). The results are obtained using the method of Hestenes.
+Keywords
+Time-delay systems  bounded state problems  maximum principle  retarded control problems  state variable constraints  optimal control problems  

@@ -1,0 +1,4 @@
+Optimal Learning for Nonlinear Parametric Belief Models Over Multidimensional Continuous Spaces
+Xinyu  He, Yangzhou  Hu, and Warren B.  Powell;
+Abstract
+We consider the optimal learning problem of optimizing an expensive function $f(x;\theta)$ with a known parametric form but unknown parameter vector $\theta$.  Observations of the function, which might involve simulations or laboratory or field experiments, are both expensive and noisy.  Our goal is to simultaneously learn the true parameter $\theta$ while finding the optimal value of $x$.  We develop an efficient implementation of a method, known as the knowledge gradient, that optimizes the value of information from each experiment.  Our algorithm can handle $x$ and $\theta$ that are multidimensional continuous vectors.  We prove that our algorithm asymptotically learns the correct $\theta$ and the best value of $x$.  Experiments show that the algorithm produces fast convergence, even in higher dimensions.

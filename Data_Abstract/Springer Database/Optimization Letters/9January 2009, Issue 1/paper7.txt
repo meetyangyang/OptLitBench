@@ -1,0 +1,6 @@
+A smoothing algorithm for finite min–max–min problems
+Angelos Tsoukalas;Panos Parpas;Berç Rustem;
+Abstract
+We generalize a smoothing algorithm for finite min–max to finite min–max–min problems. We apply a smoothing technique twice, once to eliminate the inner min operator and once to eliminate the max operator. In mini–max problems, where only the max operator is eliminated, the approximation function is decreasing with respect to the smoothing parameter. Such a property is convenient to establish algorithm convergence, but it does not hold when both operators are eliminated. To maintain the desired property, an additional term is added to the approximation. We establish convergence of a steepest descent algorithm and provide a numerical example.
+Keywords
+Approximation Function  Smoothing Technique  Minimax Problem  Smoothing Algorithm  Order Optimality Condition  

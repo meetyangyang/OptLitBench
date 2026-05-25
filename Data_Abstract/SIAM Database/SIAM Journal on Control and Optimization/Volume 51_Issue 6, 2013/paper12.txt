@@ -1,0 +1,6 @@
+Consistent Approximations for the Optimal Control of Constrained Switched Systems---Part 2: An Implementable Algorithm
+Ramanarayan  Vasudevan, Humberto  Gonzalez, Ruzena  Bajcsy, and S. Shankar  Sastry;
+Abstract
+In the first part of this two-paper series, we presented a conceptual algorithm for the optimal control of constrained switched systems and proved that this algorithm generates a sequence of points that converge to a necessary condition for optimality. However, since our algorithm requires the exact solution of a differential equation, the numerical implementation of this algorithm is impractical. In this paper, we address this shortcoming by constructing an implementable algorithm that discretizes the differential equation, producing a finite-dimensional nonlinear program. We prove that this implementable algorithm constructs a sequence of points that asymptotically satisfy a necessary condition for optimality for the constrained switched system optimal control problem. Four simulation experiments are included to validate the theoretical developments.
+Keywords
+optimal control, switched systems, chattering lemma, consistent approximations, Primary, 49M25, 90C11, 90C30, 93C30; Secondary, 49J21, 49J30, 49J52, 49N25, 

@@ -1,0 +1,6 @@
+Group Symmetry in Interior-Point Methods for Semidefinite Program
+Yoshihiro Kanno;Makoto Ohsaki;Kazuo Murota;Naoki Katoh;
+Abstract
+A class of group symmetric Semi-Definite Program (SDP) is introduced by using the framework of group representation theory. It is proved that the central path and several search directions of primal-dual interior-point methods are group symmetric. Preservation of group symmetry along the search direction theoretically guarantees that the numerically obtained optimal solution is group symmetric. As an illustrative example, we show that the optimization problem of a symmetric truss under frequency constraints can be formulated as a group symmetric SDP. Numerical experiments using an interior-point algorithm demonstrate convergence to strictly group symmetric solutions.
+Keywords
+semidefinite program  primal-dual interior-point method  group representation theory  structural optimization  

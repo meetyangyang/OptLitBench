@@ -1,0 +1,6 @@
+Towards a full higher order AD-based continuation and bifurcation framework
+Isabelle Charpentier;Bruno Cochelin;
+Abstract
+Some of the theoretical aspects of continuation and bifurcation methods devoted to the solution for nonlinear parametric systems are presented in a higher order automatic differentiation (HOAD) framework. Besides, benefits in terms of generality and ease of use, HOAD is used to assess fold and simple bifurcations points. In particular, the formation of a geometric series in successive Taylor coefficients allows for the implementation of an efficient detection and branch switching method at simple bifurcation points. Some comparisons with the Auto and MatCont continuation software are proposed. Strengths are then exemplified on a classical case study in structural mechanics.
+Keywords
+nonlinear parametric problems, continuation method, bifurcation analysis, geometric series, higher order automatic differentiation, DiamantAMS Subject Classification: 41A58, 65P30, 68N19, 70E60 

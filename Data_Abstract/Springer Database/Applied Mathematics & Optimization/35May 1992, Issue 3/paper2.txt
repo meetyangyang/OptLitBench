@@ -1,0 +1,6 @@
+A projection and contraction method for a class of linear complementarity problems and its application in convex quadratic programming
+Bingsheng He;
+Abstract
+In this paper we propose a new iterative method for solving a class of linear complementarity problems:u ≥ 0,Mu + q ≥ 0, uT(Mu + q)=0, where M is a givenl ×l positive semidefinite matrix (not necessarily symmetric) andq is a givenl-vector. The method makes two matrix-vector multiplications and a trivial projection onto the nonnegative orthant at each iteration, and the Euclidean distance of the iterates to the solution set monotonously converges to zero. The main advantages of the method presented are its simplicity, robustness, and ability to handle large problems with any start point. It is pointed out that the method may be used to solve general convex quadratic programming problems. Preliminary numerical experiments indicate that this method may be very efficient for large sparse problems.
+Keywords
+Projection  Féjer-contraction  Linear complementarity problem  Linear programming  Convex quadratic programming  

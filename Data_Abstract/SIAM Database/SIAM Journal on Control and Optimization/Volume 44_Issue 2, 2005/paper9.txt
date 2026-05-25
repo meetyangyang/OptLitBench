@@ -1,0 +1,6 @@
+Multirate Stabilization of Linear Multiple Sensor Systems via Limited Capacity Communication Channels
+Alexey S.  Matveev and Andrey V.  Savkin;
+Abstract
+The paper addresses a feedback stabilization problem involving bit-rate communication capacity constraints. A discrete-time partially observed linear system is studied. Unlike classic theory, the signals from multiple sensors are transmitted to the controller over separate finite capacity communication channels. The sensors do not have constant access to the channels, and the channels are not perfect: the messages incur time-varying transmission delays and may be corrupted or lost. However, we suppose that the time-average number of bits per sample period that can be successfully transmitted over the channel during a time interval converges to a certain limit as the length of the interval becomes large. Necessary and sufficient conditions for stabilizability are established. They give the tightest lower bounds on the channel capacities for which stabilization is possible. An algorithm for stabilization is also presented.
+Keywords
+networked control systems, finite data rate, communication constraints, stabilizability, 93D15, 93D20, 93B52, 

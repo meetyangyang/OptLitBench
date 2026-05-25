@@ -1,0 +1,6 @@
+Solving the Sum-of-Ratios Problem by an Interior-Point Method
+Roland W. Freund;Florian Jarre;
+Abstract
+We consider the problem of minimizing the sum of a convex function and of p≥1 fractions subject to convex constraints. The numerators of the fractions are positive convex functions, and the denominators are positive concave functions. Thus, each fraction is quasi-convex. We give a brief discussion of the problem and prove that in spite of its special structure, the problem is \(\mathcal{N}\mathcal{P}\)-complete even when only p=1 fraction is involved. We then show how the problem can be reduced to the minimization of a function of p variables where the function values are given by the solution of certain convex subproblems. Based on this reduction, we propose an algorithm for computing the global minimum of the problem by means of an interior-point method for convex programs.
+Keywords
+Fractional programming  Sum of ratios  Global optimum  Convex subproblem  Interior-point method  \(\mathcal{N}\mathcal{P}\)-completeness  Knapsack problem  

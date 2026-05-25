@@ -1,0 +1,6 @@
+Parallel Branch-and-Bound Algorithms for General Mixed Integer Programming on the CM-5
+Jonathan  Eckstein;
+Abstract
+This “proof of concept” paper describes parallel solution of general mixed integer programs by a branch-and-bound algorithm on the CM-5 multiprocessing system. It goes beyond prior parallel branch-and-bound work by implementing a reasonably realistic general-purpose mixed integer programming algorithm, as opposed to a specialized method for a narrow class of problems. It shows how to use the capabilities of the CM-5 to produce an efficient parallel implementation employing centrally controlled search, achieving near-linear speedups using 64–128 processors on a variety of difficult problems derived from real applications. In concrete terms, a problem requiring half an hour to solve on a SPARC-2 workstation might be solved in 15–20 seconds, and a problem originally taking a week might be reduced to about an hour. Central search control does have limitations, and some final computational experiments begin to address the merits of more decentralized options.
+Keywords
+mixed integer programming, branch and bound, parallel computing, 90C11, 68U99, 

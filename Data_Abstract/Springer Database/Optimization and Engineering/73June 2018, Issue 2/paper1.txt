@@ -1,0 +1,6 @@
+Algorithm for directing cooperative vehicles of a vehicle routing problem for improving fault-tolerance
+Tibor Dulai;Ágnes Werner-Stark;Katalin Mária Hangos;
+Abstract
+This paper presents a new algorithm for solving capacitated single depot vehicle routing problems without time windows in a fault-tolerant manner where the distances between points are symmetrical. The sudden breakdown of a vehicle on its pre-planned route is considered as a fault. In this case one of the other cooperating vehicles will take over the remaining tasks and perform them in the most effective way. We introduce the concept of “route change cost” as the difference between the length of the modified and the original routes of the helper vehicle, and our goal is to minimize this value. Starting from an arbitrary VRP solution, we determine the optimal direction, in terms of the route change cost, in which each route should be performed by a vehicle. A simulation with case studies was used to test the algorithm. We found that applying the proposed method, the execution of the original tasks requires routes with lengths 4.1–8.6% shorter on average than using the non-directed routes of the solution of the original vehicle routing problem in arbitrary directions.
+Keywords
+Vehicle routing problem (VRP)  Cooperation  Fault-tolerance  

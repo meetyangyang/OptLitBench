@@ -1,0 +1,8 @@
+Control of constrained nonlinear uncertain discrete-time systems via robust controllable sets: a modal interval analysis approach
+Jian Wan, Josep Vehí, Ningsu Luo and Pau Herrero;
+Abstract
+A general framework for computing robust controllable sets ofconstrained nonlinear uncertain discrete-time systems as well ascontrolling such complex systems based on the computed robustcontrollable sets is introduced in this paper. The addressedone-step control approach turns out to be a robust model predictivecontrol scheme with feasible unit control horizon and contractiveconstraint. The solver of 1-dimensional quantified set inversion inmodal interval analysis is extended to 2-dimensional cases forcomputing robust controllable sets off-line with a clear semanticinterpretation, where both universal and existential quantifiers areconcerned simultaneously. An interval-based solver of constrainedminimax optimization is also proposed to compute one-step controlinputs online in a reliable way, which guarantee to drive the systemstate contractively along the computed robust controllable sets to aselected terminal robust control invariant set.
+Keywords
+Nonlinearity, uncertainty, constraints, robust
+controllable set, quantified set inversion, minimax optimization, 
+interval analysis, modal interval

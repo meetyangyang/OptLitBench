@@ -1,0 +1,6 @@
+Computational Complexity of Lyapunov Stability Analysis Problems for a Class of Nonlinear Systems
+Marc W.  McConley, Brent D.  Appleby, Munther A.  Dahleh, and Eric  Feron;
+Abstract
+Nonlinear control systems can be stabilized by constructing control Lyapunov functions and computing the regions of state space over which such functions decrease along trajectories of the closed-loop system under an appropriate control law. This paper analyzes the computational complexity of these procedures for two classes of control Lyapunov functions. The systems considered are those which are nonlinear in only a few state variables and which may be affected by control constraints and bounded disturbances. This paper extends previous work by the authors, which develops a procedure for stability analysis for these systems whose computational complexity is exponential only in the dimension of the "nonlinear" states and polynomial in the dimension of the remaining states. The main results are illustrated by a numerical example for the case of purely quadratic control Lyapunov functions.
+Keywords
+Lyapunov methods, nonlinear control systems, computational methods, robustness, bounded control, 93B40, 93C10, 93C35, 93D05, 93D09, 

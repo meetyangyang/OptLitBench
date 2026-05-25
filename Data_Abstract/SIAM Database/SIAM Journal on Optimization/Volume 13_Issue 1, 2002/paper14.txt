@@ -1,0 +1,6 @@
+Recursive Algorithms for Stock Liquidation: A Stochastic Optimization Approach
+G.  Yin, R. H.  Liu, and Q.  Zhang;
+Abstract
+This work develops stochastic optimization algorithms for a class of stock liquidation problems. The stock liquidation rules are based on hybrid geometric Brownian motion models allowing regime changes that are modulated by a continuous-time finite-state Markov chain. The optimal selling policy is of threshold type and can be obtained by solving a set of two-point boundary value problems. The total number of equations to be solved is the same as the number of states of the underlying Markov chain. To reduce the computational burden, using a stochastic optimization approach, recursive algorithms are constructed to approximate the optimal threshold values. Convergence and rates of convergence of the algorithm are studied. Simulation examples are presented, and the computation results are compared with the analytic solutions. Finally, the algorithms are tested using real market data.
+Keywords
+geometric Brownian motion, regime change, stochastic optimization, recursive algorithm, 90A09, 60J10, 60J27, 62L20, 

@@ -1,0 +1,6 @@
+An incremental clustering algorithm based on hyperbolic smoothing
+A. M. Bagirov;B. Ordin;G. Ozturk;A. E. Xavier;
+Abstract
+Clustering is an important problem in data mining. It can be formulated as a nonsmooth, nonconvex optimization problem. For the most global optimization techniques this problem is challenging even in medium size data sets. In this paper, we propose an approach that allows one to apply local methods of smooth optimization to solve the clustering problems. We apply an incremental approach to generate starting points for cluster centers which enables us to deal with nonconvexity of the problem. The hyperbolic smoothing technique is applied to handle nonsmoothness of the clustering problems and to make it possible application of smooth optimization algorithms to solve them. Results of numerical experiments with eleven real-world data sets and the comparison with state-of-the-art incremental clustering algorithms demonstrate that the smooth optimization algorithms in combination with the incremental approach are powerful alternative to existing clustering algorithms.
+Keywords
+Nonsmooth optimization  Cluster analysis  Smoothing techniques  Nonlinear programming  65K05  90C25  

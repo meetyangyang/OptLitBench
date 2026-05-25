@@ -1,0 +1,7 @@
+Worst Case Traffic from Regulated Sources
+Cormac Walsh;
+Abstract
+
+We address the problem of finding the worst possible traffic a user of a telecommunications network can send. We take “worst” to mean having the highest effective bandwidth, a concept that arises in the Large Deviation theory of queueing networks. The traffic is assumed to be stationary and to satisfy “leaky bucket” constraints, which represent the a priori knowledge the network operator has concerning the traffic. Firstly, we show that this optimization problem may be reduced to an optimization over periodic traffic sources. Then, using convexity methods, we show that the realizations of a worst case source must have the following properties: at each instant the transmission rate must be either zero, the peak rate, or the leaky bucket rate; it may only be the latter when the leaky bucket is empty or full; each burst of activity must either start with the leaky bucket empty or end with it full.
+Keywords
+Regulated traffic  Worst case  Statistical multiplexing  Stationary independent  Large deviations  Effective bandwidth  Leaky bucket  Convex optimization  

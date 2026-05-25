@@ -1,0 +1,4 @@
+Solving Hierarchical Optimization Problems Using MOEAs
+Christian Haubelt;Sanaz Mostaghim;Jürgen Teich;Ambrish Tyagi;
+Abstract
+In this paper, we propose an approach for solving hierarchical multi-objective optimization problems (MOPs). In realistic MOPs, two main challenges have to be considered: (i) the complexity of the search space and (ii) the non-monotonicity of the objective-space. Here, we introduce a hierarchical problem description (chromosomes) to deal with the complexity of the search space. Since Evolutionary Algorithms have been proven to provide good solutions in non-monotonic objective-spaces, we apply genetic operators also on the structure of hierarchical chromosomes. This novel approach decreases exploration time substantially. The example of system synthesis is used as a case study to illustrate the necessity and the benefits of hierarchical optimization.

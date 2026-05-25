@@ -1,0 +1,6 @@
+Hybrid evolutionary algorithm and application to structural optimization
+Z. Fawaz;Y.G. Xu;K. Behdinan;
+Abstract
+This paper introduces a new evolutionary algorithm with a globally stochastic but locally heuristic search strategy. It is implemented by incorporating a modified micro-genetic algorithm with two local optimization operators. Performance tests using two benchmarking functions demonstrate that the new algorithm has excellent convergence performance when applied to multimodal optimization problems. The number of objective function evaluations required to obtain global optima is only 3.5–3.7% of that of using the conventional micro-genetic algorithm. The new algorithm is used to optimize the design of an 18-bar truss, with the aim of minimizing its weight while meeting the stress, section area, and geometry constraints. The corresponding optimal design is obtained with considerably fewer computational operations than required for the existing algorithms. 
+Keywords
+Evolutionary algorithm  Hybrid genetic algorithm  Structural optimization  

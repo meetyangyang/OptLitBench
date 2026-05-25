@@ -1,0 +1,6 @@
+A multi-shift vehicle routing problem with windows and cycle times
+Shabnam Zangeneh-Khamooshi;Zelda B. Zabinsky;Joseph A. Heim;
+Abstract
+In many applications of the vehicle routing problem with time windows (VRPTW), goods must be picked up within desired time frames. In addition, they have some limitations on their arrival time to the central depot. In this paper, we present a new version of VRPTW that minimizes the total cycle time of the goods. In order to meet the time windows and also minimize the cycle time, the courier’s schedule is allowed to vary. An algorithm, named VeRSA, is proposed to solve this problem. VeRSA employs concepts of scheduling theorems and algorithms to determine feasible routes and schedules of the available couriers. We prove a theoretical lower bound that provides a useful bound on the optimality gap. We also conduct a set of numerical experiments. VeRSA obtains a feasible solution faster than solving the MIP. The optimality gap using our proposed lower bound is smaller than the gap found with the standard LP relaxation.
+Keywords
+Vehicle routing and scheduling  Cycle time  Logistics  

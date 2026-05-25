@@ -1,0 +1,6 @@
+A quadratically-convergent fixed-point algorithm for economic equilibria and linearly constrained optimization
+Michael J. Todd;
+Abstract
+Fixed-point algorithms for computing equilibria in economies with production or stationary points in constrained optimization generally use point-to-set mappings and therefore converge slowly. An alternative implementation uses continuous functions with a higher dimensionality corresponding to the inclusion of activity levels or dual variables. Here we develop algorithms that only increase the dimensionality implicitly. The solution path is piecewise-linear as in other algorithms. However, when viewed in the low-dimensional space, the path within each simplex can be piecewise-linear rather than linear. Asymptotically, these paths are linear and quadratic convergence is attained.
+Keywords
+Fixed-Point Algorithms  Economic Equilibria  Linearly Constrained Optimization  Quadratic Convergence  

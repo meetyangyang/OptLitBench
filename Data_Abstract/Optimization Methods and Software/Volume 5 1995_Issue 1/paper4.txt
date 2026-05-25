@@ -1,0 +1,6 @@
+A new method for large-scale box constrained convex quadratic minimization problems
+ Ana   Friedlander ; José   Mario Martínez ; Marcos   Raydon ;
+Abstract
+ In this paper, we present a new method for minimizing a convex quadratic function of many variables with box constraints. The new algorithm is a modification of a method introduced recently by Friedlander and Martinez {SIAM J. on Optimization, February 1994). Following the lines of More and Toraldo (SIAM J. on Optimization 1, pp. 93-113), it combines an efficient unconstrained method with gradient projection techniques. The strategy for “leaving the current face” makes it possible to obtain convergence even when the Hessian is singular. Dual nondegeneracy is not assumed anywhere. The unconstrained minimization algorithm used within the faces was introduced by Barzilai and Borwein and analyzed by Raydan (IMA Journal of Numerical Analysis13, pp. 321-326)  
+Keywords
+Quadratic Programming, Bound Constrained Problems, Projected Gradients, Barzilai-Borwein Method 

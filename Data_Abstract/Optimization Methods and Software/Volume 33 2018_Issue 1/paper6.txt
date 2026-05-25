@@ -1,0 +1,6 @@
+Space mapping techniques for the optimal inflow control of transmission lines
+S. Göttlich;C. Teuber;
+Abstract
+In this paper we present an efficient optimization approach for the dynamic inflow control of electric transmission lines. For the description of transmission lines several mathematical models are available. Here, we focus on the telegraph network equations which consist of a coupled system of hyperbolic differential equations. The optimization is then to find the best possible energy input in terms of boundary control to satisfy given demands. To solve this problem we introduce space mapping techniques based on a first discretize – then optimize approach. The idea of space mapping is the consideration of two model hierarchies (fine and coarse scale), where the coarse scale model is less accurate but easy to solve. We explain how this method works in the framework of inflow control, design the corresponding optimization algorithm and present various computational results to show the numerical efficiency.
+Keywords
+transmission lines, optimization, space mappingAMS Subject Classifications: 35L65, 90C30 

@@ -1,0 +1,6 @@
+A simple approach to find optimal topology of a continuum with tension-only or compression-only material
+Kun Cai;
+Abstract
+The material-replacement method is presented to improve the efficiency of topology optimization of a continuum structure with tension-only or compression-only material. Traditionally, a structure with tension-only or compression-only material should be considered as nonlinear in finite element analysis and many times of reanalysis are required to obtain the accurate physical fields for the update of the design variables in optimization. To improve the efficiency of structural optimization, the material-replacement method is proposed, in which the original tension/compression only material is replaced with an isotropic material with the same effective elasticity. The method contents two major ideas. One is the structural reanalysis for nonlinearity of material is put into the global iteration of optimization. The other is that the local stiffness will be modified step by step according to the local stress state. Numerical results show the validity of the method.
+Keywords
+Topology optimization  Continuum  Tension-only material  Material-replacement method  Optimality criteria  

@@ -1,0 +1,4 @@
+Explanation-Based Weighted Degree
+Emmanuel Hebrard;Mohamed Siala;
+Abstract
+The weighted degree heuristic is among the state of the art generic variable ordering strategies in constraint programming. However, it was often observed that when using large arity constraints, its efficiency deteriorates significantly since it loses its ability to discriminate variables. A possible answer to this drawback is to weight a conflict set rather than the entire scope of a failed constraint.

@@ -1,0 +1,6 @@
+Partitioning planar graphs: a fast combinatorial approach for max-cut
+F. Liers;G. Pardella;
+Abstract
+The max-cut problem asks for partitioning the nodes V of a graph G=(V,E) into two sets (one of which might be empty), such that the sum of weights of edges joining nodes in different partitions is maximum. Whereas for general instances the max-cut problem is NP-hard, it is polynomially solvable for certain classes of graphs. For planar graphs, there exist several polynomial-time methods determining maximum cuts for arbitrary choice of edge weights. Typically, the problem is solved by computing a minimum-weight perfect matching in some associated graph. The most efficient known algorithms are those of Shih et al. (IEEE Trans. Comput. 39(5):694–697, 1990) and that of Berman et al. (WADS, Lecture Notes in Computer Science, vol. 1663, pp. 25–36, Springer, Berlin, 1999). The running time of the former can be bounded by \(O(|V|^{\frac{3}{2}}\log|V|)\). The latter algorithm is more generally for determining T-joins in graphs. Although it has a slightly larger bound on the running time of \(O(|V|^{\frac{3}{2}}(\log|V|)^{\frac{3}{2}})\alpha(|V|)\), where α(|V|) is the inverse Ackermann function, it can solve large instances in practice.
+Keywords
+Maximum cut  Planar graph  Perfect matching  Kasteleyn city  T-join  

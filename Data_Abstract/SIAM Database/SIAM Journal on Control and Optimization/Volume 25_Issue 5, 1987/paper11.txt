@@ -1,0 +1,6 @@
+The Relationship between the Maximum Principle and Dynamic Programming
+Frank H.  Clarke and Richard B.  Vinter;
+Abstract
+Let $V(t,x)$ be the infimum cost of an optimal control problem, viewed as a function of the initial time and state $(t,x)$. Dynamic Programming is concerned with the properties of $V( \cdot , \cdot )$ and in particular with its characterization as a solution to the Hamilton–Jacobi–Bellman equation. Heuristic arguments have long been advanced relating the Maximum Principle to Dynamic Programming according to \[p(t) =  - V_x \left( {t,x_0 (t)} \right).\] Here $x_0 ( \cdot )$ is the minimizing state function under consideration and $p( \cdot )$ is the costate function of the Maximum Principle. In this paper we examine the validity of such claims and find that this relationship, interpreted as a differential inclusion involving the generalized gradient, is indeed true, almost everywhere and at the endpoints, for a very large class of nonsmooth optimal control problems.
+Keywords
+optimal control, Maximum Principle, Dynamic Programming, 49B10, 49C05, 

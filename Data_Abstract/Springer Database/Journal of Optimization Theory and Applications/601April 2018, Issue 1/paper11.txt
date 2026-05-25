@@ -1,0 +1,6 @@
+Game-Theory-Based Consensus Learning of Double-Integrator Agents in the Presence of Worst-Case Adversaries
+Kyriakos G. Vamvoudakis;João P. Hespanha;
+Abstract
+This work proposes a game-theory-based technique for guaranteeing consensus in unreliable networks by satisfying local objectives. This multi-agent problem is addressed under a distributed framework, in which every agent has to find the best controller against a worst-case adversary so that agreement is reached among the agents in the networked team. The construction of such controllers requires the solution of a system of coupled partial differential equations, which is typically not feasible. The algorithm proposed uses instead three approximators for each agent: one to approximate the value function, one to approximate the control law, and a third one to approximate a worst-case adversary. The tuning laws for every controller and adversary are driven by their neighboring controllers and adversaries, respectively, and neither the controller nor the adversary knows each other’s policies. A Lyapunov stability proof ensures that all the signals remain bounded and consensus is asymptotically reached. Simulation results are provided to demonstrate the efficacy of the proposed approach.
+Keywords
+Game theory  Consensus  Hamilton–Jacobi equations  Optimization  Security  

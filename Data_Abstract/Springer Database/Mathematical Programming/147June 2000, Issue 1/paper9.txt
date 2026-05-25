@@ -1,0 +1,6 @@
+On the superlinear convergence of the variable metric proximal point algorithm using Broyden and BFGS matrix secant updating
+J.V. Burke;Maijian Qian;
+Abstract
+In previous work, the authors provided a foundation for the theory of variable metric proximal point algorithms in Hilbert space. In that work conditions are developed for global, linear, and super–linear convergence. This paper focuses attention on two matrix secant updating strategies for the finite dimensional case. These are the Broyden and BFGS updates. The BFGS update is considered for application in the symmetric case, e.g., convex programming applications, while the Broyden update can be applied to general monotone operators. Subject to the linear convergence of the iterates and a quadratic growth condition on the inverse of the operator at the solution, super–linear convergence of the iterates is established for both updates. These results are applied to show that the Chen–Fukushima variable metric proximal point algorithm is super–linearly convergent when implemented with the BFGS update.
+Keywords
+Key words: maximal monotone operator – proximal point methods – variable metric – global convergence – super-linear convergence  

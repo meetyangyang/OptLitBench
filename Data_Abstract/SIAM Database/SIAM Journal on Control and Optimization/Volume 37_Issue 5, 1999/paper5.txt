@@ -1,0 +1,6 @@
+Lack of Time-Delay Robustness for Stabilization of a Structural Acoustics Model
+George  Avalos, Irena  Lasiecka, and Richard  Rebarber;
+Abstract
+In this paper we consider a natural robustness question for a model for structural acoustics. This model, which has been of great interest in recent years, is represented by a wave equation in $\R^2$ coupled to a Kelvin--Voigt beam; the coupling is natural physically, and is represented mathematically by highly unbounded operators. We assume that the observation consists of point evaluation of the beam position, the beam velocity, and the wave velocity. We are interested in the effect of arbitrarily small delays in the feedback loop on a controller that uses these observations. We show that it is not possible to construct a dynamic stabilizer of a very general form---including static feedback---such that the stabilization is robust with respect to delays in the feedback loop. In order to do this we need to carefully analyze the input-to-output map. Finally, we relate these results to already existing numerical results obtained for a Galerkin approximation of the system.
+Keywords
+time delays, robust stabilization, coupled partial differential equations, transfer functions, dynamic stabilization, structural acoustics, 93C20, 93D09, 93D15, 93D25, 35M10, 

@@ -1,0 +1,6 @@
+Extra updates for the bfgs method ∗  
+   M.   Al-Albaalt ;
+Abstract
+ This paper considers employing extra updates for the BFGS method for unconstrained optimization. The usual BFGS Hessian is updated a number of times, depending on the information of the first order derivatives, to obtain a new Hessian approximation at each iteration. Two approaches are proposed. One of them has the same properties of global and superlinear convergence on convex functions the BFGS method has, and another has the same property of quadratic termination without exact line searches that the symmetric rank-one method has. The new algorithms attempt to combine the best features of certain methods which are intended for either parallel computation or large scale optimization. It is concluded that some new algorithms are competitive with the standard BFGS method  
+Keywords
+Unconstrained Optimization, Quasi-Newton Updates, The BFGS Method, Global and Superlinear Convergence, Quadratic Termination 

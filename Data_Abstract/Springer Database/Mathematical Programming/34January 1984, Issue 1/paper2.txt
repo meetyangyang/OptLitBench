@@ -1,0 +1,6 @@
+On the existence of convex decompositions of partially separable functions
+A. Griewank;Ph. L. Toint;
+Abstract
+The concept of a partially separable functionf developed in [4] is generalized to include all functionsf that can be expressed as a finite sum of element functionsf  i  whose Hessians have nontrivial nullspacesN  i , Such functions can be efficiently minimized by the partitioned variable metric methods described in [5], provided that each element functionf  i  is convex. If this condition is not satisfied, we attempt toconvexify the given decomposition by shifting quadratic terms among the originalf  i  such that the resulting modified element functions are at least locally convex. To avoid tests on the numerical value of the Hessian, we study the totally convex case where all locally convexf with the separability structureN  i 1  have a convex decomposition. It is shown that total convexity only depends on the associated linear conditions on the Hessian matrix. In the sparse case, when eachN  i  is spanned by Cartesian basis vectors, it is shown that a sparsity pattern corresponds to a totally convex structure if and only if it allows a (permuted) LDLT factorization without fill-in.
+Keywords
+Partial Separability  Positive Definite Matrices  Decomposition  Sparsity  Perfect Elimination  Optimization  65K05  65F99  90C30  

@@ -1,0 +1,6 @@
+Level set topology optimization of scalar transport problems
+David Makhija;Kurt Maute;
+Abstract
+This paper studies level set topology optimization of scalar transport problems, modeled by an advection-diffusion equation. Examples of such problems include the transport of energy or mass in a fluid. The geometry is defined via a level set method (LSM). The flow field is predicted by a hydrodynamic Boltzmann transport model and the scalar transport by a standard advection-diffusion model. Both models are discretized by the extended Finite Element Method (XFEM). The hydrodynamic Boltzmann equation is well suited for the XFEM as it allows for convenient enforcement of boundary conditions along immersed boundaries. In contrast, Navier Stokes models require more complex approaches to impose Dirichlet boundary conditions, such as stabilized Lagrange multiplier and Nitsche methods.
+Keywords
+Topology optimization  Level set method  Extended finite element method  Hydrodynamic Boltzmann transport equations  Energy and mass transport  Spurious diffusion  

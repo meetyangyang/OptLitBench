@@ -1,0 +1,6 @@
+Convergence conditions for Newton-type methods applied to complementarity systems with nonisolated solutions
+Andreas Fischer;Markus Herrich;Alexey F. Izmailov;Mikhail V. Solodov;
+Abstract
+We consider a class of Newton-type methods that are designed for the difficult case when solutions need not be isolated, and the equation mapping need not be differentiable at the solutions. We show that the only structural assumption needed for rapid local convergence of those algorithms applied to PC\(^1\)-equations is the piecewise error bound, i.e., a local error bound holding for the branches of the solution set resulting from partitions of the bi-active complementarity indices. The latter error bound is implied by various piecewise constraint qualifications, including relatively weak ones. We apply our results to KKT systems arising from optimization or variational problems, and from generalized Nash equilibrium problems. In the first case, we show convergence if the dual part of the solution is a noncritical Lagrange multiplier, and in the second case convergence follows under a relaxed constant rank condition. In both cases, previously available results are improved.
+Keywords
+Complementarity condition  KKT system  Error bound   Generalized Nash equilibrium problem  LP-Newton method  Levenberg–Marquardt method  

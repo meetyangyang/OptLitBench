@@ -1,0 +1,6 @@
+Approximate k-MSTs and k-Steiner trees via the primal-dual method and Lagrangean relaxation
+Fabián A. Chudak;Tim Roughgarden;David P. Williamson;
+Abstract
+Garg [10] gives two approximation algorithms for the minimum-cost tree spanning k vertices in an undirected graph. Recently Jain and Vazirani [15] discovered primal-dual approximation algorithms for the metric uncapacitated facility location and k-median problems. In this paper we show how Garg’s algorithms can be explained simply with ideas introduced by Jain and Vazirani, in particular via a Lagrangean relaxation technique together with the primal-dual method for approximation algorithms. We also derive a constant factor approximation algorithm for the k-Steiner tree problem using these ideas, and point out the common features of these problems that allow them to be solved with similar techniques.
+Keywords
+Approximation Algorithm  Constant Factor  Undirected Graph  Facility Location  Similar Technique  

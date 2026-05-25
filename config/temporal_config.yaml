@@ -1,0 +1,65 @@
+project:
+  data_dir: Data_Abstract
+  baseline_results_dir: results/baseline
+  results_dir: results/temporal
+  random_state: 42
+
+journals:
+  database_journals:
+    - Springer Database
+    - SIAM Database
+
+global_topics:
+  n_topics: 15
+  min_documents: 100
+
+temporal:
+  min_docs_per_year: 5
+  min_docs_per_month: 3
+  smooth_window_years: 3
+  top_words_label: 3
+
+visualization:
+  dpi: 300
+  fig_format: png
+  cmap_heatmap: YlOrRd
+  cmap_similarity: RdYlBu_r
+  font_size: 10
+  line_width: 2.0
+
+metrics:
+  distinctive_zscore: 1.5
+  common_prevalence_threshold: 0.025
+  min_prevalence_for_label: 0.02
+
+vectorizer:
+  max_features: 12000
+  min_df: 10
+  max_df: 0.95
+  ngram_range: [1, 1]
+  stop_words: english
+  token_pattern: "(?u)\\b[a-z][a-z0-9-]{1,}\\b"
+  extra_stop_words:
+    - abstract
+    - keywords
+    - key
+    - words
+    - classification
+    - subject
+    - mathematics
+    - article
+    - paper
+    - introduction
+    - results
+    - approach
+    - problem
+    - problems
+    - isbn
+    - pp
+    - dm
+    - york
+
+nmf:
+  init: nndsvda
+  max_iter: 300
+  solver: cd

@@ -1,0 +1,6 @@
+A polynomial algorithm for the max-cut problem on graphs without long odd cycles
+Martin Grötschel;George L. Nemhauser;
+Abstract
+Given a graphG=[V, E] with positive edge weights, the max-cut problem is to find a cut inG such that the sum of the weights of the edges of this cut is as large as possible. Letg(K) be the class of graphs whose longest odd cycle is not longer than2K+1, whereK is a nonnegative integer independent of the numbern of nodes ofG. We present an O(n 4K) algorithm for the max-cut problem for graphs ing(K). The algorithm is recursive and is based on some properties of longest and longest odd cycles of graphs.
+Keywords
+Max-Cut Problem  Graphs without Long Odd Cycles  Polynomial Time Algorithms  

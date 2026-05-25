@@ -1,0 +1,6 @@
+Time-Subminimal Trajectory Planning for Discrete Non-linear Systems
+ Tomonari   Furukawa ;
+Abstract
+ While several time-optimal trajectory planning techniques have been developed for continuous non-linear systems, there has been little discussion on the subject for discrete non-linear systems. This paper, therefore, presents a technique to search for the time sub-optimal trajectory for general discrete non-linear systems. In this technique, the control inputs with respect to time are partitioned into piecewise constant functions. The piecewise constant functions and the time step interval, which are used in the discretisation of the system, are then searched by a general-purpose non-linear programming optimization method. The example of a time sub-optimal trajectory planning of a SCARA-type manipulator presented in this paper indicates that the proposed technique has the same ability as the existing time sub-optimal trajectory planning techniques for continuous systems. The second numerical example of a non-differentiable car backing-up system shows that the proposed technique also works well for general discrete systems. 
+Keywords
+Trajectory Planning, Control, Discrete Systems, Nonlinear Systems, Dynamic Systems 

@@ -1,0 +1,6 @@
+Exponential penalty function formulation for multilevel optimization using the analytical target cascading framework
+S. DorMohammadi;M. Rais-Rohani;
+Abstract
+An exponential penalty function (EPF) formulation based on method of multipliers is presented for solving multilevel optimization problems within the framework of analytical target cascading. The original all-at-once constrained optimization problem is decomposed into a hierarchical system with consistency constraints enforcing the target-response coupling in the connected elements. The objective function is combined with the consistency constraints in each element to formulate an augmented Lagrangian with EPF. The EPF formulation is implemented using double-loop (EPF I) and single-loop (EPF II) coordination strategies and two penalty-parameter-updating schemes. Four benchmark problems representing nonlinear convex and non-convex optimization problems with different number of design variables and design constraints are used to evaluate the computational characteristics of the proposed approaches. The same problems are also solved using four other approaches suggested in the literature, and the overall computational efficiency characteristics are compared and discussed.
+Keywords
+Analytical target cascading  Multilevel design optimization  Method of multipliers  Penalty function  

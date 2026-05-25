@@ -1,0 +1,6 @@
+Multiple Space Debris Collecting Mission—Debris Selection and Trajectory Optimization
+M. Cerf;
+Abstract
+This paper investigates the cost requirement for a space debris collecting mission aimed at removing heavy debris from low Earth orbits. The problem mixes combinatorial optimization to select the debris among a list of candidates and functional optimization to define the orbital manoeuvres. The solving methodology proceeds in two steps: Firstly, a specific transfer strategy with impulsive manoeuvres is defined so that the problem becomes of finite dimension; secondly the problem is linearized around an initial reference solution. A Branch and Bound algorithm is then applied iteratively to optimize simultaneously the debris selection and the orbital manoeuvres, yielding a new reference solution. The optimal solutions found are close to the initial guess despite a very complicated design space. The method is exemplified on a representative application case.
+Keywords
+Space debris  Orbital mechanics  Branch and bound  Linear programming  

@@ -1,0 +1,6 @@
+Distributed solutions for loosely coupled feasibility problems using proximal splitting methods
+Sina Khoshfetrat Pakazad;Martin S. Andersen;Anders Hansson;
+Abstract
+In this paper, we consider convex feasibility problems (CFPs) where the underlying sets are loosely coupled, and we propose several algorithms to solve such problems in a distributed manner. These algorithms are obtained by applying proximal splitting methods to convex minimization reformulations of CFPs. We also put forth distributed convergence tests which enable us to establish feasibility or infeasibility of the problem distributedly, and we provide convergence rate results. Under the assumption that the problem is feasible and boundedly linearly regular, these convergence results are given in terms of the distance of the iterates to the feasible set, which are similar to those of classical projection methods. In case the feasibility problem is infeasible, we provide convergence rate results that concern the convergence of certain error bounds.
+Keywords
+feasible/infeasible convex feasibility problems, proximal splitting, distributed solution, flow feasibility problemAMS Subject Classification:: 90C06, 90C25, 90C22, 49M27 

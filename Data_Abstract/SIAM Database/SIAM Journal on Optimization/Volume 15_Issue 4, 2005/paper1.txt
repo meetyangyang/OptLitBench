@@ -1,0 +1,6 @@
+Proximal Methods in Vector Optimization
+Henri  Bonnel, Alfredo Noel  Iusem, and Benar Fux  Svaiter;
+Abstract
+We consider the vector optimization problem of finding weakly efficient points for maps from a Hilbert space X to a Banach space Y with respect to the partial order induced by a closed, convex, and pointed cone $C\subset Y$ with a nonempty interior. We develop for this problem an extension of the proximal point method for scalar-valued convex optimization. In this extension, the subproblems consist of finding weakly efficient points for suitable regularizations of the original map. We present both an exact and an inexact version, in which the subproblems are solved only approximately, within a constant relative tolerance. In both cases, we prove weak convergence of the generated sequence to a weakly efficient point, assuming convexity of the map with respect to C and C-completeness of the initial section. In cases where this last assumption fails, we still establish that the generating sequence is, in a suitable sense, a minimizing one. We also exhibit a particular instance of the algorithm for which, under a mild hypothesis on C, the weak limit of the generated sequence is an efficient, rather than a weakly efficient, point.
+Keywords
+vector optimization, proximal point, inexact algorithm, 49J52, 49M99, 65K05, 65K10, 90C25, 90C29, 90C48, 

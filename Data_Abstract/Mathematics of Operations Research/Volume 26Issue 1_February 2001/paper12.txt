@@ -1,0 +1,6 @@
+Probability Bounds with Cherry Trees
+József Bukszár;András Prékopa;
+Abstract
+A third order upper bound is presented on the probability of the union of a finite number of events, by means of graphs called cherry trees. These are graphs that we construct recursively in such a way that every time we pick a new vertex, connect it with two already existing vertices. If the latters are always adjacent, we call the cherry tree a t-cherry tree. A cherry tree has a weight that provides us with the upper bound on the union. Any Hunter-Worsley bound can be majorized by a t-cherry bound constructed by the use of the Hunter-Worsley tree. A cherry tree bound can be identified as a feasible solution to the dual of the Boolean probability bounding problem. A t-cherry tree bound can be identified as the objective function value of the dual vector corresponding to a dual feasible basis in the Boolean problem. This enables us to improve on the bound algorithmically, if we use the dual method of linear programming.
+Keywords
+Probability bounds linear programming hypergraphs normal distribution 

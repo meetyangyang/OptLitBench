@@ -1,0 +1,6 @@
+Primal-dual proximal point algorithm for linearly constrained convex programming problems
+Satoru Ibaraki;Masao Fukushima;Toshihide Ibaraki;
+Abstract
+A primal-dual version of the proximal point algorithm is developed for linearly constrained convex programming problems. The algorithm is an iterative method to find a saddle point of the Lagrangian of the problem. At each iteration of the algorithm, we compute an approximate saddle point of the Lagrangian function augmented by quadratic proximal terms of both primal and dual variables. Specifically, we first minimize the function with respect to the primal variables and then approximately maximize the resulting function of the dual variables. The merit of this approach exists in the fact that the latter function is differentiable and the maximization of this function is subject to no constraints. We discuss convergence properties of the algorithm and report some numerical results for network flow problems with separable quadratic costs.
+Keywords
+proximal point algorithm  primal-dual method  convex programming  Lagrangian  

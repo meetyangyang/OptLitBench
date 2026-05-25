@@ -1,0 +1,6 @@
+A method for globally minimizing concave functions over convex sets
+Karla Leigh Hoffman;
+Abstract
+A method is described for globally minimizing concave functions over convex sets whose defining constraints may be nonlinear. The algorithm generates linear programs whose solutions minimize the convex envelope of the original function over successively tighter polytopes enclosing the feasible region. The algorithm does not involve cuts of the feasible region, requires only simplex pivot operations and univariate search computations to be performed, allows the objective function to be lower semicontinuous and nonseparable, and is guaranteed to converge to the global solution. Computational aspects of the algorithm are discussed.
+Keywords
+Concave Programming  Extreme Point Solutions  Global Optimization  Nonconvex Programming  Nonlinear Programming  

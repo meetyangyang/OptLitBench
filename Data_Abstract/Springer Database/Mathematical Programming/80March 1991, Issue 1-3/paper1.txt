@@ -1,0 +1,6 @@
+Maintaining the positive definiteness of the matrices in reduced secant methods for equality constrained optimization
+Jean Charles Gilbert;
+Abstract
+We propose an algorithm for minimizing a functionf on ℝ n  in the presence ofm equality constraintsc that locally is a reduced secant method. The local method is globalized using a nondifferentiable augmented Lagrangian whose decrease is obtained by both a longitudinal search that decreases mainlyf and a transversal search that decreases mainly ∥c∥. Our main objective is to show that the longitudinal path can be designed to maintain the positive definiteness of the reduced matrices by means of the positivity ofγ  k   T  δ k , whereγ k  is the change in the reduced gradient and δk is the reduced longitudinal displacement.
+Keywords
+Augmented Lagrangian  constrained optimization  exact penalty function  global convergence  optimization algorithm  reduced secant method  superlinear convergence  Wolfe's step-size selection  

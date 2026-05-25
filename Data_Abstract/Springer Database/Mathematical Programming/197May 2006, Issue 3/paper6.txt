@@ -1,0 +1,6 @@
+Static arbitrage bounds on basket option prices
+Alexandre d'Aspremont;Laurent El Ghaoui;
+Abstract
+We consider the problem of computing upper and lower bounds on the price of an European basket call option, given prices on other similar options. Although this problem is hard to solve exactly in the general case, we show that in some instances the upper and lower bounds can be computed via simple closed-form expressions, or linear programs. We also introduce an efficient linear programming relaxation of the general problem based on an integral transform interpretation of the call price function. We show that this relaxation is tight in some of the special cases examined before.
+Keywords
+Arbitrage Linear Programming Radon Transform Basket Options Moment Problems  44A12  44A60  90C05  90C34  91B28  

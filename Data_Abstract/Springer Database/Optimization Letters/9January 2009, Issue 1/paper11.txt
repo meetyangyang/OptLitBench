@@ -1,0 +1,6 @@
+A generalized Newton method for absolute value equations
+O. L. Mangasarian;
+Abstract
+A direct generalized Newton method is proposed for solving the NP-hard absolute value equation (AVE) Ax − |x| = b when the singular values of A exceed 1. A simple MATLAB implementation of the method solved 100 randomly generated 1,000-dimensional AVEs to an accuracy of 10−6 in less than 10 s each. Similarly, AVEs corresponding to 100 randomly generated linear complementarity problems with 1,000 × 1,000 nonsymmetric positive definite matrices were also solved to the same accuracy in less than 29 s each.
+Keywords
+Absolute value equation  Generalized Newton  Linear complementarity problems  

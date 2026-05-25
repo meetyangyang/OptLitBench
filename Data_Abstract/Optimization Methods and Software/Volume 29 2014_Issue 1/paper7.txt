@@ -1,0 +1,6 @@
+A regularized Newton method for monotone nonlinear equations and its application
+Jinyan Fan;Yaxiang Yuan;
+Abstract
+In this paper, we propose a regularized Newton method for the system of monotone nonlinear equations. The regularization parameter is taken as the norm of the residual, and a correction step with little additional calculations is also computed to compensate for the shorter trial step due to the introduction of the regularization parameter. Under the local error bound condition which is weaker than nonsingularity, we show that the new regularized Newton method with correction has quadratic convergence. We also apply the new method to the unconstrained convex optimization problems which may have singular Hessian at the solutions and develop a globally convergent regularized Newton algorithm by using trust region technique. Numerical results show that the algorithm is very efficient and robust.
+Keywords
+monotone nonlinear equations, regularized Newton method, correction technique, local error bound, unconstrained convex optimizationAMS Subject Classification: 65K05, 90C30 

@@ -1,0 +1,6 @@
+Free Material Design via Semidefinite Programming: The Multiload Case with Contact Conditions
+A.  Ben-Tal, M.  Kocvara, A.  Nemirovski, and J.  Zowe;
+Abstract
+Free material design deals with the question of finding the stiffest structure with respect to one or more given loads which can be made when both the distribution of material and the material itself can freely vary. The case of one single load has been discussed in several recent papers, and an efficient numerical approach was presented in [M. Kocvara, M. Zibulevsky, and J. Zow, RAIRO Modél. Math. Anal. Numér. 32 (1998), pp. 255--281]. We attack here the multiload situation (understood in the worst-case sense), which is of much more interest for applications but also significantly more challenging from both the theoretical and the numerical points of view. After a series of transformation steps we reach a problem formulation for which we can prove existence of a solution; a suitable discretization leads to a semidefinite programming problem for which modern polynomial time algorithms of interior point type are available. A number of numerical examples demonstrates the efficiency of our approach.
+Keywords
+structural optimization, material optimization, topology optimization, semidefinite programming, 73K40, 90C90, 90C25, 

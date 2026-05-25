@@ -1,0 +1,6 @@
+Computational experience with methods for estimating sparse hessians for nonlinear optimization
+D. F. Shanno;
+Abstract
+The paper compares a factorized sparse quasi-Newton update of Goldfarb with a nonfactorized BFGS sparse update of Shanno on a series of test problems, with numerical results strongly favoring the unfactorized update. Analysis of Goldfarb's method is done to explain the poor numerical performance. Two specific conjugate gradient methods for solving the required systems of linear equations with the unfactorized update are described and tested.
+Keywords
+Unconstrained optimization  sparse BFGS methods  LDL' decomposition  quadratic termination  

@@ -1,0 +1,6 @@
+Optimization strategies for discrete multi-material stiffness optimization
+Christian Frier Hvejsel;Erik Lund;Mathias Stolpe;
+Abstract
+Design of composite laminated lay-ups are formulated as discrete multi-material selection problems. The design problem can be modeled as a non-convex mixed-integer optimization problem. Such problems are in general only solvable to global optimality for small to moderate sized problems. To attack larger problem instances we formulate convex and non-convex continuous relaxations which can be solved using gradient based optimization algorithms. The convex relaxation yields a lower bound on the attainable performance. The optimal solution to the convex relaxation is used as a starting guess in a continuation approach where the convex relaxation is changed to a non-convex relaxation by introduction of a quadratic penalty constraint whereby intermediate-valued designs are prevented. The minimum compliance, mass constrained multiple load case problem is formulated and solved for a number of examples which numerically confirm the sought properties of the new scheme in terms of convergence to a discrete solution.
+Keywords
+Laminated composite materials  Optimal design  Sensitivity analysis  Solution strategies  Integer optimization  

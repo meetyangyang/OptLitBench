@@ -1,0 +1,6 @@
+An unconstrained differentiable penalty method for implicit complementarity problems
+Boshi Tian;Donghui Li;Xiaoqi Yang;
+Abstract
+In this paper, we introduce an unconstrained differentiable penalty method for solving implicit complementarity problems, which has an exponential convergence rate under the assumption of a uniform ξ-P-function. Instead of solving the unconstrained penalized equations directly, we consider a corresponding unconstrained optimization problem and apply the trust-region Gauss–Newton method to solve it. We prove that the local solution of the unconstrained optimization problem identifies that of the complementarity problems under monotone assumptions. We carry out numerical experiments on the test problems from MCPLIB, and show that the proposed method is efficient and robust.
+Keywords
+implicit complementarity problems, lower order penalty method, exponential convergence rate, trust-region Gauss–Newton methodAMS subject classifications: 90C33, 65K15, 49M30 

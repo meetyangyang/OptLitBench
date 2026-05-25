@@ -1,0 +1,6 @@
+Decomposition for large-scale global optimization based on quantified variable correlations uncovered by metamodelling
+Kambiz Haji Hajikolaei;Zhila Pirmoradi;George H. Cheng;G. Gary Wang;
+Abstract
+The recently developed Radial Basis Function High-Dimensional Model Representation (RBF-HDMR) yields qualitative information about which variables are correlated. Such qualitative information is only applicable for a few problems that can be completely decomposed. This work develops a strategy to quantify the variable correlations so that decomposition can be fully supported for a wider range of problems. A simple optimization scheme is also proposed to systematically solve the decomposed subproblems, instead of solving the original undecomposed problem. The proposed decomposition–optimization strategy is compared to the direct optimization case without decomposition, for four categories of problems with different decomposability levels. The results show that except for the category of non-decomposable problems in which all variable correlations are strong, the proposed methodology is effective and has similar accuracy to the case of solving the original undecomposed problems, and it finds the optimum with a lower number of function evaluations.
+Keywords
+high dimension, decomposition, metamodelling, HDMR, sensitivity analysis 

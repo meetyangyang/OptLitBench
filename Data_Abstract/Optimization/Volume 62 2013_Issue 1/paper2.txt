@@ -1,0 +1,6 @@
+Approximations of linear control problems with bang-bang solutions
+ Walter   Alt ; Robert   Baier ; Frank   Lempio ; Matthias   Gerdts ;
+Abstract
+ We analyse the Euler discretization to a class of linear optimal control problems. First we show convergence of order h for the discrete approximation of the adjoint solution and the switching function, where h is the mesh size. Under the additional assumption that the optimal control has bang-bang structure we show that the discrete and the exact controls coincide except on a set of measure O(h). As a consequence, the discrete optimal control approximates the optimal control with order 1 w.r.t. the L 1-norm and with order 1/2 w.r.t. the L 2-norm. An essential assumption is that the slopes of the switching function at its zeros are bounded away from zero which is in fact an inverse stability condition for these zeros. We also discuss higher order approximation methods based on the approximation of the adjoint solution and the switching function. Several numerical examples underline the results. 
+Keywords
+linear optimal control, bang-bang control, discretizationAMS Subject Classifications:: Primary 49J15, Secondary 49M25, 49N05, 49J30 

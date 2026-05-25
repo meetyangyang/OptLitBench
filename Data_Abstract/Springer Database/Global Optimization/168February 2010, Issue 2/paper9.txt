@@ -1,0 +1,6 @@
+One-dimensional nested maximin designs
+Edwin R. van Dam;Bart Husslage;Dick den Hertog;
+Abstract
+The design of computer experiments is an important step in black-box evaluation and optimization processes. When dealing with multiple black-box functions the need often arises to construct designs for all black boxes jointly, instead of individually. These so-called nested designs are particularly useful as training and test sets for fitting and validating metamodels, respectively. Furthermore, nested designs can be used to deal with linking parameters and sequential evaluations. In this paper, we introduce one-dimensional nested maximin designs. We show how to nest two designs optimally and develop a heuristic to nest three and four designs. These nested maximin designs can be downloaded from the website http://www.spacefillingdesigns.nl. Furthermore, it is proven that the loss in space-fillingness, with respect to traditional maximin designs, is at most 14.64 and 19.21%, when nesting two and three designs, respectively.
+Keywords
+Computer simulation  Global optimization  Linking parameter  Maximin design  Mixed integer linear programming  Packing problem  Space-filling  Training and test set  

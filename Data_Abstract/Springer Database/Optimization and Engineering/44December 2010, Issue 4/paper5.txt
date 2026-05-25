@@ -1,0 +1,6 @@
+Optimization methods for advanced design of aircraft panels: a comparison
+Benoît Colson;Michaël Bruyneel;Stéphane Grihon;Caroline Raick;Alain Remouchamps;
+Abstract
+Advanced nonlinear analyses developed for estimating structural responses for recent applications for the aerospace industry lead to expensive computational times. However optimization procedures are necessary to quickly provide optimal designs. Several possible optimization methods are available in the literature, based on either local or global approximations, which may or may not include sensitivities (gradient computations), and which may or may not be able to resort to parallelism facilities. In this paper Sequential Convex Programming (SCP), Derivative Free Optimization techniques (DFO), Surrogate Based Optimization (SBO) and Genetic Algorithm (GA) approaches are compared in the design of stiffened aircraft panels with respect to local and global instabilities (buckling and collapse). The computations are carried out with software developed for the European aeronautical industry. The specificities of each optimization method, the results obtained, computational time considerations and their adequacy to the studied problems are discussed.
+Keywords
+Structural optimization  Sequential convex programming  Derivative-free optimization  Surrogate-based optimization  Aeronautical engineering  

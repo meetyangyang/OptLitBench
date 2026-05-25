@@ -1,0 +1,6 @@
+On improving the GA step-wise shape optimization method through the application of the Fixed Grid FEA paradigm
+S.Y. Woon ;O.M. Querin ;G.P. Steven ;
+Abstract
+In previous work by the authors, a Genetic Algorithm (GA) based shape optimization technique was introduced. The method was shown to be capable of producing high-fidelity optimal shapes. However, the process was computationally expensive and required constant re-meshing due to distorted boundary elements resulting from large boundary movements. This paper combines the Fixed Grid (FG) method of Finite Element Analysis (FEA) and the GA shape optimization module to create a hybrid that effectively addresses these problems. The FG solver is found to be significantly faster than conventional FEA, and the fixed FE mesh frees boundary movements from meshing constraints. The Fixed-Grid Genetic-Algorithm (FGGA) shape optimization method is detailed in this paper, and the key algorithms used in the FG and the GA components are explained. The method is also applied to a number of shape optimization problems, and the results are presented and discussed.   
+Keywords
+shape optimization  Genetic Algorithm  Fixed Grid FEA   

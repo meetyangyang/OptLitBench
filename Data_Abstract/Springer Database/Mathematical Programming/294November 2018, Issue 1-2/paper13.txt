@@ -1,0 +1,6 @@
+Stabilizing network bargaining games by blocking players
+Sara Ahmadian;Hamideh Hosseinzadeh;Laura Sanità;
+Abstract
+Cooperative matching games (Shapley and Shubik) and Network bargaining games (Kleinberg and Tardos) are games described by an undirected graph, where the vertices represent players. An important role in such games is played by stable graphs, that are graphs whose set of inessential vertices (those that are exposed by at least one maximum matching) are pairwise non adjacent. In fact, stable graphs characterize instances of such games that admit the existence of stable outcomes. In this paper, we focus on stabilizing instances of the above games by blocking as few players as possible. Formally, given a graph G we want to find a minimum cardinality set of vertices such that its removal from G yields a stable graph. We give a combinatorial polynomial-time algorithm for this problem, and develop approximation algorithms for some NP-hard weighted variants, where each vertex has an associated non-negative weight. Our approximation algorithms are LP-based, and we show that our analysis are almost tight by giving suitable lower bounds on the integrality gap of the used LP relaxations.
+Keywords
+05C07  05C70  05C75  05C85  68Q15  68Q17  68R05  68R10  68W25  90C05  90C10  90C27  90C35  90C59  90C60  91A12  91A40  91A46  91A80  91B26  

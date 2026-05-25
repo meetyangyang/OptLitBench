@@ -1,0 +1,6 @@
+An alternating structured trust region algorithm for separable optimization problems with nonconvex constraints
+Dan Xue;Wenyu Sun;Liqun Qi;
+Abstract
+In this paper, we propose a structured trust-region algorithm combining with filter technique to minimize the sum of two general functions with general constraints. Specifically, the new iterates are generated in the Gauss-Seidel type iterative procedure, whose sizes are controlled by a trust-region type parameter. The entries in the filter are a pair: one resulting from feasibility; the other resulting from optimality. The global convergence of the proposed algorithm is proved under some suitable assumptions. Some preliminary numerical results show that our algorithm is potentially efficient for solving general nonconvex optimization problems with separable structure.
+Keywords
+Nonconvex programming  Trust region methods  Alternating direction methods  Separable structure  Filter method  

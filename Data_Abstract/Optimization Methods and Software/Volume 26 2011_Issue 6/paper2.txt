@@ -1,0 +1,6 @@
+Mixed integer nonlinear programming using interior-point methods
+ Hande   Y.   Benson ;
+Abstract
+ In this paper, we outline an algorithm for solving mixed integer nonlinear programming (MINLP) problems. The approach uses a branch-and-bound framework for handling the integer variables and an infeasible interior-point method for solving the resulting nonlinear subproblems. We report on the details of the implementation, including the efficient pruning of the branch-and-bound tree via equilibrium constraints, warmstart strategies for interior-point methods, and the handling of infeasible subproblems, and present numerical results on a standard problem library. Our goal is to demonstrate the viability of interior-point methods, with suitable modifications, to be used within any MINLP framework, and the numerical results provided are quite encouraging. 
+Keywords
+interior-point methods, nonlinear programming, integer programming 

@@ -1,0 +1,6 @@
+Highly reliable optimal solutions to multi-objective problems and their evolution by means of worst-case analysis
+ Gideon   Avigad ; C. A.C.   Coello ;
+Abstract
+ In the current article, high reliability in the presence of uncertainty is of interest. Therefore, no violation of constraints by any solution, although uncertainty exists, is mandatory. The article studies uncertainties in which the boundaries of uncertainty are known. To allow a high reliability, the notion of worst-violation set is introduced. Moreover, two possible measures to assess the extent of the violation of the constraints by a solution, which is subjected to uncertainty, are suggested. One of these measures is then introduced into a multi-objective evolutionary algorithm (MOEA) in order to search for optimal reliable solutions. It is shown that the approach applies a search towards solutions with optimal performances while taking into account high reliability. The suggested approach is the only one available so far (to the authors’ best knowledge), which treats reliability through evolutionary multi-objective search, while not assuming any probability distribution of the uncertainty. 
+Keywords
+reliability, multi-objective optimization, worst-case optimization 

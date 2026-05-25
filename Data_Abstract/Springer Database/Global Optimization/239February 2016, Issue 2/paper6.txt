@@ -1,0 +1,6 @@
+Design of space thrusters: a topology optimization problem solved via a Branch and Bound method
+Satafa Sanogo;Frédéric Messine;
+Abstract
+In this paper, an exact Branch and Bound Algorithm has been developed to solve a difficult global optimization problem concerning the design of space thrusters. This optimization problem is hard to solve mainly because the objective function to be minimized is implicit and must be computed by using a Finite Element method code. In a previous paper, we implement a method based on local search algorithms and we then proved that this problem is non convex yielding a strong dependency between the obtained local solution and the starting points. In this paper, by taking into account a monotonicity hypothesis that we validated numerically, we provide properties making it possible the computation of bounds. This yields the development of a topology optimization Branch and Bound code. Some numerical examples show the efficiency of this new approach.
+Keywords
+Maxwell equations  Inverse problem  PDE-constrained optimization  Topology optimization  SIMP method  Branch and Bound Algorithm  

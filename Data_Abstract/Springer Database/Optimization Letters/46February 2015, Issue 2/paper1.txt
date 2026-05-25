@@ -1,0 +1,6 @@
+Characterizing the optimality gap and the optimal packings for the bin packing problem
+Samir Elhedhli;Fatma Gzara;
+Abstract
+We provide properties for the bin packing problem based on Lagrangian relaxation and column generation. We characterize the columns that are likely to be in an optimal solution, explicitly quantify the gap for any feasible solution, and provide a new set partitioning formulation. These properties are then used to design a column generation heuristic that solves a reduced set covering problem containing a selected set of columns. The heuristic is tested on benchmark instances from the literature, and is found to perform extremely well. It is able to find optimal solutions for \(70\, \%\) out of the 1,617 instances tested, and to find feasible solutions that are one bin away from the optimal for an additional \(19\, \%\) in an average of 23 s.
+Keywords
+Bin packing  Lagrangian relaxation  Column generation  Heuristics  Set covering  Set partitioning  

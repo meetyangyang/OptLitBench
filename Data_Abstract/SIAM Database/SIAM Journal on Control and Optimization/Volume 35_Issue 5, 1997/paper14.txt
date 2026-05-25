@@ -1,0 +1,6 @@
+Numerically Reliable Computation of Optimal Performance in Singular $H_{\inf}$ Control
+Pascal  Gahinet and Alan J.  Laub;
+Abstract
+A numerically stable algorithm is described for the computation of the optimal $H_{\inf}$ performance $\gamma_{{\rm opt}}$ when the feedthrough matrices D12 or D21 are rank-deficient. Using only orthogonal transformations, the singular $H_{\inf}$ problem is reduced to a regular subproblem and a standard Riccati-based $\gamma$-iteration is applied to this subproblem to compute $\gamma_{{\rm opt}}$. Various interpretations of this scheme are given in terms of the infinite zero structure of the plant and the deflation of Hamiltonian pencils. The implementation of this algorithm is straightforward and its performance and reliability are confirmed by extensive numerical testing.
+Keywords
+$H_{\inf}$ optimal control, singular problem, numerical computation, algebraic Riccati equation, linear matrix inequality, 93C05, 93C35, 93C60, 93C45, 93B40, 49B99, 

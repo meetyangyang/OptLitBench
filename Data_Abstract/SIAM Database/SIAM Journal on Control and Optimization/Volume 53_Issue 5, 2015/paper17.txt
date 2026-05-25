@@ -1,0 +1,6 @@
+Optimal One-Dimensional Coverage by Unreliable Sensors
+Paolo  Frasca, Federica  Garin, Balázs  Gerencsér, and Julien M.  Hendrickx;
+Abstract
+This paper regards the problem of optimally placing unreliable sensors in a one-dimensional environment. We assume that sensors can fail with a certain probability and we minimize the expected maximum distance between any point in the environment and the closest active sensor. We provide a computational method to find the optimal placement and we estimate the costs of the equispaced placement and of the uniform random placement. When the number of sensors goes to infinity, the equispaced placement is asymptotically equivalent to the optimal placement (that is, the ratio between their costs converges to one), whereas the cost of the random placement remains strictly larger.
+Keywords
+sensor networks, coverage optimization, unreliable sensors, sensor deployment, robotic networks, 60K30, 90B18, 68M10, 49N99, 68R01, 

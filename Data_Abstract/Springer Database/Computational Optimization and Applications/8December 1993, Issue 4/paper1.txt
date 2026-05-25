@@ -1,0 +1,6 @@
+The ellipsoid algorithm using parallel cuts
+Aiping Liao;Michael J. Todd;
+Abstract
+We present an ellipsoid algorithm using parallel cuts which is robust and conceptually simple. If the ratio fo the distance between the parallel cuts under consideration and the corresponding radius of the current ellipsoid is less than or equal to some constant, it is called the “canonical case.” Applying our algorithm to this case the volume of the next ellipsoid decreases by a factor which is, at worst, exp\(\left( { - \frac{1}{{2(n + 2)}}} \right).\) For the noncanonical case, we first add an extra constraint to make it a canonical case in a higher-dimensional space, then apply our algorithm to this canonical case, and finally reduce it back to the original space. Some interesting variants are also presented to show the flexibility of our basic algorithm.
+Keywords
+Ellipsoid algorithm  parallel cuts  complexity  linear system  

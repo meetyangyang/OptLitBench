@@ -1,0 +1,6 @@
+Primal-dual schema for capacitated covering problems
+Tim Carnes;David B. Shmoys;
+Abstract
+Primal-dual algorithms have played an integral role in recent developments in approximation algorithms, and yet there has been little work on these algorithms in the context of LP relaxations that have been strengthened by the addition of more sophisticated valid inequalities. We introduce primal-dual schema based on the LP relaxations devised by Carr et al. for the minimum knapsack problem as well as for the single-demand capacitated facility location problem. Our primal-dual algorithms achieve the same performance guarantees as the LP-rounding algorithms of Carr et al. which rely on applying the ellipsoid algorithm to an exponentially-sized LP. Furthermore, we introduce new flow-cover inequalities to strengthen the LP relaxation of the more general capacitated single-item lot-sizing problem; using just these inequalities as the LP relaxation, we obtain a primal-dual algorithm that achieves a performance guarantee of 2. Computational experiments demonstrate the effectiveness of this algorithm on generated problem instances.
+Keywords
+Approximation algorithms  Primal-dual schema   Knapsack-cover inequalities  Lot-sizing  90C27  90C05  90B05  

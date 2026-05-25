@@ -1,0 +1,6 @@
+Pessimistic Bilevel Optimization
+Wolfram  Wiesemann, Angelos  Tsoukalas, Polyxeni-Margarita  Kleniati, and Berç  Rustem;
+Abstract
+We study a variant of the pessimistic bilevel optimization problem, which comprises constraints that must be satisfied for any optimal solution of a subordinate (lower-level) optimization problem. We present conditions that guarantee the existence of optimal solutions in such a problem, and we characterize the computational complexity of various subclasses of the problem. We then focus on problem instances that may lack convexity, but that satisfy a certain independence property. We develop convergent approximations for these instances, and we derive an iterative solution scheme that is reminiscent of the discretization techniques used in semi-infinite programming. We also present a computational study that illustrates the numerical behavior of our algorithm on standard benchmark instances.
+Keywords
+global optimization, pessimistic bilevel problem, computational complexity, 90C34, 90C26, 

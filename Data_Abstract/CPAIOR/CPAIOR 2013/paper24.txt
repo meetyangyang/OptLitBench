@@ -1,0 +1,4 @@
+A Lagrangian Relaxation Based Forward-Backward Improvement Heuristic for Maximising the Net Present Value of Resource-Constrained Projects
+Hanyu Gu;Andreas Schutt;Peter J. Stuckey;
+Abstract
+In this paper we propose a forward-backward improvement heuristic for the variant of resource-constrained project scheduling problem aiming to maximise the net present value of a project. It relies on the Lagrangian relaxation method to generate an initial set of schedules which are then improved by the iterative forward/backward scheduling technique. It greatly improves the performance of the Lagrangian relaxation based heuristics in the literature and is a strong competitor to the best meta-heuristics. We also embed this heuristic into a state-of-the-art CP solver. Experimentation carried out on a comprehensive set of test data indicates we compare favorably with the state of the art.

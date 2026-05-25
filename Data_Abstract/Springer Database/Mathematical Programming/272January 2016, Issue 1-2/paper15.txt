@@ -1,0 +1,6 @@
+A deterministic rescaled perceptron algorithm
+Javier Peña;Negar Soheili;
+Abstract
+The perceptron algorithm is a simple iterative procedure for finding a point in a convex cone \(F\subseteq \mathbb {R}^m\). At each iteration, the algorithm only involves a query to a separation oracle for \(F\) and a simple update on a trial solution. The perceptron algorithm is guaranteed to find a point in \(F\) after \(\mathcal O(1/\tau _F^2)\) iterations, where \(\tau _F\) is the width of the cone \(F\). We propose a version of the perceptron algorithm that includes a periodic rescaling of the ambient space. In contrast to the classical version, our rescaled version finds a point in \(F\) in \(\mathcal O(m^5 \log (1/\tau _F))\) perceptron updates. This result is inspired by and strengthens the previous work on randomized rescaling of the perceptron algorithm by Dunagan and Vempala (Math Program 114:101–114, 2006) and by Belloni et al. (Math Oper Res 34:621–641, 2009). In particular, our algorithm and its complexity analysis are simpler and shorter. Furthermore, our algorithm does not require randomization or deep separation oracles.
+Keywords
+Separation oracle  Perceptron algorithm  Rescaling  Cone width  90C25  90C60  52A20  52A38  

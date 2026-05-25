@@ -1,0 +1,6 @@
+Approximate ADMM algorithms derived from Lagrangian splitting
+Jonathan Eckstein;Wang Yao;
+Abstract
+This paper presents two new approximate versions of the alternating direction method of multipliers (ADMM) derived by modifying of the original “Lagrangian splitting” convergence analysis of Fortin and Glowinski. They require neither strong convexity of the objective function nor any restrictions on the coupling matrix. The first method uses an absolutely summable error criterion and resembles methods that may readily be derived from earlier work on the relationship between the ADMM and the proximal point method, but without any need for restrictive assumptions to make it practically implementable. It permits both subproblems to be solved inexactly. The second method uses a relative error criterion and the same kind of auxiliary iterate sequence that has recently been proposed to enable relative-error approximate implementation of non-decomposition augmented Lagrangian algorithms. It also allows both subproblems to be solved inexactly, although ruling out “jamming” behavior requires a somewhat complicated implementation. The convergence analyses of the two methods share extensive underlying elements.
+Keywords
+Alternating direction method of multipliers  Convex programming  Decomposition methods  90C25  49M27  

@@ -1,0 +1,6 @@
+POS3POLY—a MATLAB preprocessor for optimization with positive polynomials
+Bogdan C. Şicleru;Bogdan Dumitrescu;
+Abstract
+Positive polynomials, relaxed to sum-of-squares in the multivariate case, are a powerful instrument having applications in signal processing, control and other engineering fields. Hence, appeared the need of a library which can work with positive polynomials as variables in a convex optimization problem. We present here the POS3POLY library, which transforms polynomial positivity into positive semidefinite constraints, thus enabling the user to solve such problems without the need of knowing the parameterization for each type of polynomial. POS3POLY is able to handle three types of polynomials: trigonometric, real and hybrid. The positivity of the polynomials can be global or only on a semialgebraic domain. POS3POLY allows also to define Bounded Real Lemma constraints. The library is written in MATLAB and uses SeDuMi for solving the convex optimization problems. POS3POLY can also work inside CVX. To show the usage of our library we give several examples of 2-D FIR filter design.
+Keywords
+Library  Convex optimization  Positive polynomials  Trigonometric/real/hybrid polynomials  Filter design  

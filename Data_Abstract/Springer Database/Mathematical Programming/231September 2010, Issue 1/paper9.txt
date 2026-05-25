@@ -1,0 +1,6 @@
+A linear assignment approach for the least-squares protein morphing problem
+Mihai Anitescu;Sanghyun Park;
+Abstract
+This work addresses the computation of free-energy differences between protein conformations by using morphing (i.e., transformation) of a source conformation into a target conformation. To enhance the morphing procedure, we employ permutations of atoms: we seek to find the permutation σ that minimizes the mean-square distance traveled by the atoms. Instead of performing this combinatorial search in the space of permutations, we show that the best permutation can be found by solving a linear assignment problem. We demonstrate that the use of such optimal permutations significantly improves the efficiency of the free-energy computation.
+Keywords
+Linear assignment  Protein conformations  Free-energy calculation  65K10  90C33  

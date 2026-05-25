@@ -1,0 +1,6 @@
+An Active Set Modified Polak–Ribiére–Polyak Method for Large-Scale Nonlinear Bound Constrained Optimization
+Wanyou Cheng;Donghui Li;
+Abstract
+In this paper, we propose an active set modified Polak–Ribiére–Polyak method for solving large-scale optimization with simple bounds on the variables. The active set is guessed by an identification technique at each iteration and the recently developed modified Polak–Ribiére–Polyak method is used to update the variables with indices outside of the active set. Under appropriate conditions, we show that the proposed method is globally convergent. Numerical experiments are presented using box constrained problems in the CUTEr test problem libraries.
+Keywords
+Bound constrained optimization  Conjugate gradient method  Global convergence  

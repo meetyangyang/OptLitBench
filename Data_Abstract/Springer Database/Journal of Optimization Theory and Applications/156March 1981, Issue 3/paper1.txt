@@ -1,0 +1,6 @@
+Degenerate values for broyden methods
+R. Fletcher;J. W. Sinclair;
+Abstract
+A Broyden method fails when the free parameter φ takes on a degenerate value; one such value is well known, but this paper shows that many others exist in general. These values have practical significance if the initial Hessian approximation is indefinite. The BFS formula is special in that it avoids these degenerate values. Properties about how the new degenerate values behave and their relationship to the well-known degenerate value are described. A new result is used about a reduced inverse Hessian method, which is equivalent to a Broyden method but is parameter free and provides a simple proof of Dixon's theorem.
+Keywords
+Broyden methods  quasi-Newton methods  degenerate values  Dixon's theorem  

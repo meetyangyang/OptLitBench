@@ -1,0 +1,6 @@
+AN OPTIMIZATION METHOD FOR SIMULATING LARGE COMPLEX SYSTEMS
+ JINGSHENG   SHI ; SIMAAN M.   ABOURIZK ;
+Abstract
+ A hybrid method, useful in optimizing computer simulation of large and complex systems, is presented. The approach is to divide a system under investigation into its basic components. A simulation language is then used to simulate the operation of each basic component independently, while mathematical programming is used to model the interrelationships between various components and to find an optimum solution for a given objective. The method is useful in a variety of applications. In particular, it will enable the user of limited simulation languages (e.g. special purpose simulation languages and others in the public domain) to analyze large and complex systems that would not be possible otherwise. The paper also presents an example application that documents the practicality of the method and compares its results with those obtained by simulating the entire system using a general purpose simulation language. 
+Keywords
+ simulation, optimization, resource allocation, sensitivity analysis 

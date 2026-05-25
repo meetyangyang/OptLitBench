@@ -1,0 +1,6 @@
+Outer approximation algorithm for nondifferentiable optimization problems
+D. Q. Mayne;E. Polak;
+Abstract
+It is known that the problem of minimizing a convex functionf(x) over a compact subsetX of ℝ n  can be expressed as minimizing max{g(x, y)|y ∈X}, whereg is a support function forf[f(x) ≥g(x, y), for ally ∈X andf(x)=g(x, x)]. Standard outer-approximation theory can then be employed to obtain outer-approximation algorithms with procedures for dropping previous cuts. It is shown here how this methodology can be extended to nonconvex nondifferentiable functions.
+Keywords
+Global optimization  nondifferentiable optimization  Lipschitz continuous functions  outer-approximation algorithms  

@@ -1,0 +1,6 @@
+A Branch-and-Cut algorithm for factory crane scheduling problem
+Xu Cheng;Lixin Tang;Panos M. Pardalos;
+Abstract
+The factory crane scheduling problem (FCSP) deals with assigning delivery tasks to cranes and then sequencing them, in order to minimize the total completion time for all tasks. In this paper, delivery tasks for required jobs are preemptive allowed at most once before the jobs arrive at exit. The preemptive jobs are temporarily stored in a buffer stack, in which jobs pickup and delivery should be performed under the Last-In-First-Out policy. This feature makes our problem more changeling and interesting. In this paper, FCSP is first formulated as an integer programming model. Based on properties of the problem, FCSP is then reformulated with a much tighter bound. After that, several families of valid inequalities are proposed and used within a Branch-and-Cut framework. In addition, preprocessing techniques and separation heuristics are used to improve algorithm efficiency. Computational experiments are carried out on practical data collected from the steel company. The results support both effectiveness and efficiency of the model refinements as well as the Branch-and-Cut algorithm proposed.
+Keywords
+Factory crane scheduling problem  Integer linear programming model  Branch-and-Cut  Valid inequalities  

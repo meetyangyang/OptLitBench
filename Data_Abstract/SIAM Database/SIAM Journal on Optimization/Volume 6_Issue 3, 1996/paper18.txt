@@ -1,0 +1,6 @@
+Solving Multiple Knapsack Problems by Cutting Planes
+C. E.  Ferreira, A.  Martin, and R.  Weismantel;
+Abstract
+In this paper we consider the multiple knapsack problem, which is defined as follows: given a set N of items with weights $f_i ,i \in N$, a set M of knapsacks with capacities $F_k ,k \in M$, and a profit function $c_{ik} ,i \in N,k \in M$, find an assignment of a subset of the set of items to the set of knapsacks that yields minimum cost. We consider the multiple knapsack problem from a polyhedral point of view. The inequalities that we describe here serve as the theoretical basis for a cutting plane algorithm. We present some of the implementation details of this algorithm, including a discussion and evaluation of different separation and primal heuristics. Our algorithm is applied to practical problem instances arising in the design of main frame computers, in the layout of electronic circuits, and in sugar cane alcohol production.
+Keywords
+multiple knapsack problem, cutting planes, branch and cut, separation, 90, 68, 

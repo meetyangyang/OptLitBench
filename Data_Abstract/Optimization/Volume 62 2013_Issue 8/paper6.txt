@@ -1,0 +1,6 @@
+Minimal cut sets of a coherent fault tree generation using reverse Petri nets
+ Dragana   Makajić-Nikolić ; Mirko   Vujošević ; Nebojša   Nikolić ;
+Abstract
+ This paper proposes a new method for minimal cut sets generation of a coherent fault tree (FT) without repeated events. The approach is based on a special type of Petri nets – reverse Petri net (RPN) which can be generated directly from the FT. Using RPN properties and state equation, we have shown that the problem of finding all minimal cut sets becomes the following direct reachability problem: to find all dead markings reachable from marking  of RPN. All minimal cut sets are then obtained as leaves of the reachability graph of a RPN. An algorithm to determine all leaves of the reachability graph is presented in the paper. The algorithm requires special numeration of the places and transitions of RPN which enables the generation of only one spanning tree of the reachability graph. Since the number of minimal cut sets in a complex system can be very large and a complexity problem occurs, we here propose an approach for solving this problem based on cutting the reachability tree of RPN. 
+Keywords
+fault tree, minimal cut set, reverse Petri netAMS Subject Classifications: 90B25, 94C12, 05C05 

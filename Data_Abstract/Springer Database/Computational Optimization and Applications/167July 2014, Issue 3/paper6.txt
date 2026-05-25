@@ -1,0 +1,6 @@
+Adaptive POD basis computation for parametrized nonlinear systems using optimal snapshot location
+Oliver Lass;Stefan Volkwein;
+Abstract
+The construction of reduced-order models for parametrized partial differential systems using proper orthogonal decomposition (POD) is based on the information of the so-called snapshots. These provide the spatial distribution of the nonlinear system at discrete parameter and/or time instances. In this work a strategy is used, where the POD reduced-order model is improved by choosing additional snapshot locations in an optimal way; see Kunisch and Volkwein (ESAIM: M2AN, 44:509–529, 2010). These optimal snapshot locations influences the POD basis functions and therefore the POD reduced-order model. This strategy is used to build up a POD basis on a parameter set in an adaptive way. The approach is illustrated by the construction of the POD reduced-order model for the complex-valued Helmholtz equation.
+Keywords
+Proper orthogonal decomposition  Optimal control   Optimality conditions  Reduced-order modeling  

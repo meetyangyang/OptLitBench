@@ -1,0 +1,6 @@
+On the Convergence of the Iterates of the “Fast Iterative Shrinkage/Thresholding Algorithm”
+A. Chambolle;Ch. Dossal;
+Abstract
+We discuss here the convergence of the iterates of the “Fast Iterative Shrinkage/Thresholding Algorithm,” which is an algorithm proposed by Beck and Teboulle for minimizing the sum of two convex, lower-semicontinuous, and proper functions (defined in a Euclidean or Hilbert space), such that one is differentiable with Lipschitz gradient, and the proximity operator of the second is easy to compute. It builds a sequence of iterates for which the objective is controlled, up to a (nearly optimal) constant, by the inverse of the square of the iteration number. However, the convergence of the iterates themselves is not known. We show here that with a small modification, we can ensure the same upper bound for the decay of the energy, as well as the convergence of the iterates to a minimizer.
+Keywords
+Optimization  First-order schemes  Convergence    Forward backward splitting  Inertial algorithms  65Y20  65B99  90C25  

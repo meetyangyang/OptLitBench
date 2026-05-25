@@ -1,0 +1,4 @@
+Improved Discrete Reformulations for the Quadratic Assignment Problem
+Axel Nyberg;Tapio Westerlund;Andreas Lundell;
+Abstract
+This paper presents an improved as well as a completely new version of a mixed integer linear programming (MILP) formulation for solving the quadratic assignment problem (QAP) to global optimum. Both formulations work especially well on instances where at least one of the matrices is sparse. Modification schemes, to decrease the number of unique elements per row in symmetric instances, are presented as well. The modifications will tighten the presented formulations and considerably shorten the computational times. We solved, for the first time ever to proven optimality, the instance esc32b from the quadratic assignment problem library, QAPLIB.

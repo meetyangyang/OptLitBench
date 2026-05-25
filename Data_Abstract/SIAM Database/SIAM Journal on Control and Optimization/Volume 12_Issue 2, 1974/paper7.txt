@@ -1,0 +1,5 @@
+Augmented Lagrange Multiplier Functions and Duality in Nonconvex Programming
+R. Tyrrell  Rockafellar;
+Abstract
+If a nonlinear programming problem is analyzed in terms of its ordinary Lagrangian function, there is usually a duality gap, unless the objective and constraint functions are convex. It is shown here that the gap can be removed by passing to an augmented Lagrangian which involves quadratic penalty-like terms. The modified dual problem then consists of maximizing a concave function of the Lagrange multipliers and an additional variable, which is a penalty parameter. In contrast to the classical case, the multipliers corresponding to inequality constraints in the primal are not constrained a priori to be nonnegative in the dual. If the maximum in the dual problem is attained (and conditions implying this are given), optimal solutions to the primal can be represented in terms of global saddle points of the augmented Lagrangian. This suggests possible improvements of existing penalty methods for computing solutions.
+Keywords

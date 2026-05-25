@@ -1,0 +1,6 @@
+A dynamic scheduling algorithm for singe-arm two-cluster tools with flexible processing times
+Xin Li;Richard Y. K. Fung;
+Abstract
+This article presents a dynamic algorithm for job scheduling in two-cluster tools producing multi-type wafers with flexible processing times. Flexible processing times mean that the actual times for processing wafers should be within given time intervals. The objective of the work is to minimize the completion time of the newly inserted wafer. To deal with this issue, a two-cluster tool is decomposed into three reduced single-cluster tools (RCTs) in a series based on a decomposition approach proposed in this article. For each single-cluster tool, a dynamic scheduling algorithm based on temporal constraints is developed to schedule the newly inserted wafer. Three experiments have been carried out to test the dynamic scheduling algorithm proposed, comparing with the results the ‘earliest starting time’ heuristic (EST) adopted in previous literature. The results show that the dynamic algorithm proposed in this article is effective and practical.
+Keywords
+Two-cluster tools, dynamic scheduling, temporal time set, residency time constraints, decomposition method 

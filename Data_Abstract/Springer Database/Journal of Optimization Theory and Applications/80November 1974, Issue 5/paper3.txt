@@ -1,0 +1,6 @@
+A combined penalty function and gradient projection method for nonlinear programming
+D. G. Luenberger;
+Abstract
+A new programming algorithm for nonlinear constrained optimization problems is proposed. The method is based on the penalty function approach and thereby circumyents the necessity to maintain feasibility at each iteration, but it also behaves much like the gradient projection method. Although only first-order information is used, the algorithm converges asymptotically at a rate which is independent of the magnitude of the penalty term; hence, unlike the simple gradient method, the asymptotic rate of the proposed method is not affected by the ill-conditioning associated with the introduction of the penalty term. It is shown that the asymptotic rate of convergence of the proposed method is identical with that of the gradient projection method.
+Keywords
+Mathematical programming  nonlinear programming  penalty function methods  gradient projection methods  convergence analysis  

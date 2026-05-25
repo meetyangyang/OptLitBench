@@ -1,0 +1,6 @@
+The Linear Complementarity Problems with a Few Variables per Constraint
+Hanna Sumita;Naonori Kakimura;Kazuhisa Makino;
+Abstract
+In this paper, we consider the sparse linear complementarity problem, denoted by k-LCP: the coefficient matrices are restricted to have at most k nonzero entries per row. It is known that the 1-LCP is solvable in linear time, and the 3-LCP is strongly NP-hard. We show that the 2-LCP is strongly NP-hard, and it can be solved in polynomial time if it is sign-balanced, i.e., each row of the matrix has at most one positive and one negative entry. Our second result matches the currently best-known complexity bound for the corresponding sparse linear feasibility problem. In addition, we show that an integer variant of the sign-balanced 2-LCP is weakly NP-hard and pseudo-polynomially solvable, and the generalized 1-LCP is strongly NP-hard.
+Keywords
+linear complementarity problem two-variable constraints combinatorial algorithm polynomial solvability NP-hardness 

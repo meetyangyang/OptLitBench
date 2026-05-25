@@ -1,0 +1,6 @@
+Solving Mixed Integer Bilinear Problems Using MILP Formulations
+Akshay  Gupte, Shabbir  Ahmed, Myun Seok  Cheon, and Santanu  Dey;
+Abstract
+In this paper, we examine a mixed integer linear programming reformulation for mixed integer bilinear problems where each bilinearterm involves the product of a nonnegative integer variable and a nonnegative continuous variable. This reformulation is obtained by first replacing a general integer variable with its binary expansion and then using McCormick envelopes to linearize the resulting product of continuous and binary variables. We present the convex hull of the underlying mixed integer linear set. The effectiveness of this reformulation and associated facet-defining inequalities are computationally evaluated on five classes of instances.
+Keywords
+bilinear problems, McCormick envelopes, binary expansion, cutting planes, mixed integer programming, 90C11, 90C26, 90C57, 

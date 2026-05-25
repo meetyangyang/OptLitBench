@@ -1,0 +1,6 @@
+A Riemannian Optimization Approach to the Matrix Singular Value Decomposition
+Hiroyuki  Sato and Toshihiro  Iwai;
+Abstract
+The problem of the singular value decomposition of a matrix can be brought into an optimization problem on the product of two Stiefel manifolds of different sizes. The steepest descent, the conjugate gradient, and Newton's methods for the problem are developed and applied with several numerical experiments. These algorithms do not need the preconditioning that is inevitable in the usual singular value decomposition algorithm. The present Newton's method can serve to make more accurate the singular value decomposition obtained by other existing algorithms. In addition, degenerate optimal solutions are studied, together with numerical experiments, to show that those solutions form a disconnected submanifold.
+Keywords
+Riemannian optimization, singular value decomposition, Stiefel manifold, Newton's method, conjugate gradient method, 65K05, 15A18, 49M15, 

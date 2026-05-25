@@ -1,0 +1,6 @@
+A feasible directions algorithm for nonlinear complementarity problems and applications in mechanics
+José Herskovits;Sandro R. Mazorche;
+Abstract
+Complementarity problems are involved in mathematical models of several applications in engineering, economy and different branches of physics. We mention contact problems and dynamics of multiple bodies systems in solid mechanics. In this paper we present a new feasible direction algorithm for nonlinear complementarity problems. This one begins at an interior point, strictly satisfying the inequality conditions, and generates a sequence of interior points that converges to a solution of the problem. At each iteration, a feasible direction is obtained and a line search performed, looking for a new interior point with a lower value of an appropriate potential function. We prove global convergence of the present algorithm and present a theoretical study about the asymptotic convergence. Results obtained with several numerical test problems, and also application in mechanics, are described and compared with other well known techniques. All the examples were solved very efficiently with the present algorithm, employing always the same set of parameters.
+Keywords
+Feasible direction algorithm  Interior point algorithm  Nonlinear complementarity problems  Variational formulations in mechanics  

@@ -1,0 +1,7 @@
+Packing circuits in matroids
+Guoli Ding;Wenan Zang;
+Abstract
+The purpose of this paper is to characterize all matroids M that satisfy the following minimax relation: for any nonnegative integral weight function w defined on E(M),
+$${\begin{aligned} & {\rm Maximum} \{ k: M\,{\rm has}\,k\,{\rm circuits\,(repetition\,allowed)\,such\,that\,each\,element}\,e\,{\rm of}\,M\\ &\quad\quad\quad\quad\quad {\rm is\,used\,at\,most}\,2w(e)\,{\rm times\,by\,these\,circuits}\}\\ =\,&{\rm Minimum}\left\{\sum\nolimits_{x\in X} w(x): X\,{\rm is\,a\,collection\,of\,elements\,(repetition\,allowed)\,of}\,M \right.\\ &\quad \quad\quad\quad\quad\left.\vphantom{\sum_{x\in X}} {\rm such\,that\,every\,circuit\,in}\,M\,{\rm meets}\,X\,{\rm at\,least\,twice}\right\}. \end{aligned}}$$Our characterization contains a complete solution to a research problem on 2-edge-connected subgraph polyhedra posed by Cornuéjols, Fonlupt, and Naddef in 1985, which was independently solved by Vandenbussche and Nemhauser in Vandenbussche and Nemhauser (J. Comb. Optim. 9:357–379, 2005).
+Keywords
+Matroid  Circuit  Polyhedron  Total dual integrality  Traveling salesman problem  90C10  90C27  90C57  

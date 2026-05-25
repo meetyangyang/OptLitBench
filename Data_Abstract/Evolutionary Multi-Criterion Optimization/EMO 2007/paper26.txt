@@ -1,0 +1,4 @@
+Sequential Approximation Method in Multi-objective Optimization Using Aspiration Level Approach
+Yeboon Yun;Hirotaka Nakayama;Min Yoon;
+Abstract
+One of main issues in multi-objective optimization is to support for choosing a final solution from Pareto frontier which is the set of solution to problem. For generating a part of Pareto optimal solution closest to an aspiration level of decision maker, not the whole set of Pareto optimal solutions, we propose a method which is composed of two steps; i) approximate the form of each objective function by using support vector regression on the basis of some sample data, and ii) generate Pareto frontier to the approximated objective functions based on given the aspiration level. In addition, we suggest to select additional data for approximating sequentially the forms of objective functions by relearning step by step. Finally, the effectiveness of the proposed method will be shown through some numerical examples.

@@ -1,0 +1,6 @@
+Mixed-integer bilinear programming problems
+Warren P. Adams;Hanif D. Sherali;
+Abstract
+This paper addresses a class of problems called mixed-integer bilinear programming problems. These problems are identical to the well known bilinear programming problems with the exception that one set of variables is restricted to be binary valued, and they arise in various production, location—allocation, and distribution application contexts. We first identify some special cases of this problem which are relatively more readily solvable, even though their continuous relaxations are still nonconvex. For the more general case, we employ a linearization technique and design a composite Lagrangian relaxation-implicit enumeration-cutting plane algorithm. Extensive computational experience is provided to test the efficacy of various algorithmic strategies and the effects of problem data on the computational effort of the proposed algorithm.
+Keywords
+Bilinear program  linearization  cutting planes  Lagrangian relaxation  

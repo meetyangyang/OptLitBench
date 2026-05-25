@@ -1,0 +1,6 @@
+Linear-quadratic optimal control for the Oseen equations with stabilized finite elements
+Malte Braack and Benjamin Tews;
+Abstract
+For robust discretizations of the Navier-Stokes equations with small viscosity, standard          Galerkin schemes have to be augmented by stabilization terms due to the indefinite          convective terms and due to a possible lost of a discrete inf-sup condition. For optimal          control problems for fluids such stabilization have in general an undesired effect in the          sense that optimization and discretization do not commute. This is the case for the          combination of streamline upwind Petrov-Galerkin (SUPG) and pressure stabilized          Petrov-Galerkin (PSPG). In this work we study the effect of different stabilized finite          element methods to distributed control problems governed by singular perturbed Oseen          equations. In particular, we address the question whether a possible commutation error in          optimal control problems lead to a decline of convergence order. Therefore, we give            a priori estimates for SUPG/PSPG. In a numerical study for a flow with          boundary layers, we illustrate to which extend the commutation error affects the          accuracy.
+Keywords
+Oseen, Navier-Stokes, optimal control, finite elements, stabilized method

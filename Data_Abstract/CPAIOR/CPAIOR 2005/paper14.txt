@@ -1,0 +1,4 @@
+Multiconsistency and Robustness with Global Constraints
+Khaled Elbassioni;Irit Katriel;
+Abstract
+We propose a natural generalization of arc-consistency, which we call multiconsistency: A value v in the domain of a variable x is k-multiconsistent with respect to a constraint C if there are at least k solutions to C in which x is assigned the value v. We present algorithms that determine which variable-value pairs are k-multiconsistent with respect to several well known global constraints. In addition, we show that finding super solutions is strictly harder than finding arbitrary solutions and suggest multiconsistency as an alternative way to search for robust solutions.

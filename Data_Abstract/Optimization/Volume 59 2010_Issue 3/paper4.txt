@@ -1,0 +1,6 @@
+Formulation and solution strategies for nonparametric nonlinear stochastic programmes with an application in finance
+ Fabian   Bastin ; Cinzia   Cirillo ; Philippe L.   Toint ;
+Abstract
+ We consider a class of stochastic programming models where the uncertainty is classically represented using parametric distribution families, but with unknown parameters that will be estimated together with the optimal value of the problem. However, misspecification of the underlying random variables often leads to unrealistic results when little is known about their true distributions. We propose to overcome this difficulty by introducing a nonparametric approach where we replace the estimation of the distribution parameters by that of cumulative distribution functions (CDFs). A practical algorithm is described which achieves this goal by using a monotonic spline representation of the inverse marginal CDFs and a projection-based trust-region globalization. Applications of the new algorithm to discrete choice theory are finally discussed, both with simulated data and in the context of a practical financial application related to interventions of the Bank of Japan in the foreign exchange market. 
+Keywords
+stochastic programming, sample average approximation, nonparametric estimation, discrete choice, FX market 

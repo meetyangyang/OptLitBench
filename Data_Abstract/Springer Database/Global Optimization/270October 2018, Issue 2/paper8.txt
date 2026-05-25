@@ -1,0 +1,6 @@
+Decomposition-based Inner- and Outer-Refinement Algorithms for Global Optimization
+Ivo Nowak;Norman Breitfeld;Eligius M. T. Hendrix;Grégoire Njacheun-Njanzoua;
+Abstract
+Traditional deterministic global optimization methods are often based on a Branch-and-Bound (BB) search tree, which may grow rapidly, preventing the method to find a good solution. Motivated by decomposition-based inner approximation (column generation) methods for solving transport scheduling problems with over 100 million variables, we present a new deterministic decomposition-based successive approximation method for general modular and/or sparse MINLPs. The new method, called Decomposition-based Inner- and Outer-Refinement, is based on a block-separable reformulation of the model into sub-models. It generates inner- and outer-approximations using column generation, which are successively refined by solving many easier MINLP and MIP subproblems in parallel (using BB), instead of searching over one (global) BB search tree. We present preliminary numerical results with Decogo (Decomposition-based Global Optimizer), a new parallel decomposition MINLP solver implemented in Python and Pyomo.
+Keywords
+Global optimization  Decomposition method  MINLP  Successive approximation  Column generation  

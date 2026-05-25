@@ -1,0 +1,6 @@
+A global optimization algorithm for generalized semi-infinite, continuous minimax with coupled constraints and bi-level problems
+Angelos Tsoukalas;Berç Rustem;Efstratios N. Pistikopoulos;
+Abstract
+We propose an algorithm for the global optimization of three problem classes: generalized semi-infinite, continuous coupled minimax and bi-level problems. We make no convexity assumptions. For each problem class, we construct an oracle that decides whether a given objective value is achievable or not. If a given value is achievable, the oracle returns a point with a value better than or equal to the target. A binary search is then performed until the global optimum is obtained with the desired accuracy. This is achieved by solving a series of appropriate finite minimax and min-max-min problems to global optimality. We use Laplace’s smoothing technique and a simulated annealing approach for the solution of these problems. We present computational examples for all three problem classes.
+Keywords
+Generalized semi-infinite  Minimax  Bi-level  Globaloptimization  Min-max-min  

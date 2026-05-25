@@ -1,0 +1,6 @@
+Max-min matching problems with multiple assignments
+V. R. Dondeti;H. Emmons;
+Abstract
+In job assignment and matching problems, we may sometimes need to assign several jobs to one processor or several processors to one job with some limit on the number of permissible assignments. Some examples include the assignment of courses to faculty, consultants to projects, etc. In terms of objectives, we may wish to maximize profits or minimize costs, or maximize the minimal value (max-min criterion) of an attribute such as the performance rating of a processor in the matching, or combine the two goals into one composite objective function entailing time-cost tradeoffs. The regular bipartite matching algorithms cannot solve the matching problem, when upper and lower bounds are imposed on the number of assignments. In this paper, we present a method, referred to as the node-splitting method, that transforms the given problem into an assignment problem solvable by the Hungarian method.
+Keywords
+Bipartite matching  bounds on assignments  max-min criteria  

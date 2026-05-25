@@ -1,0 +1,6 @@
+The directed search method for multi-objective memetic algorithms
+Oliver Schütze;Adanay Martín;Adriana Lara;Sergio Alvarado;Eduardo Salinas;Carlos A. Coello Coello;
+Abstract
+We propose a new iterative search procedure for the numerical treatment of unconstrained multi-objective optimization problems (MOPs) which steers the search along a predefined direction given in objective space. Based on this idea we will present two methods: directed search (DS) descent which seeks for improvements of the given model, and a novel continuation method (DS continuation) which allows to search along the Pareto set of a given MOP. One advantage of both methods is that they can be realized with and without gradient information, and if neighborhood information is available the computation of the search direction comes even for free. The latter makes our algorithms interesting candidates for local search engines within memetic strategies. Further, the approach can be used to gain some interesting insights into the nature of multi-objective stochastic local search which may explain one facet of the success of multi-objective evolutionary algorithms (MOEAs). Finally, we demonstrate the strength of the method both as standalone algorithm and as local search engine within a MOEA.
+Keywords
+Multi-objective optimization  Continuation  Memetic algorithm  Stochastic local search  

@@ -1,0 +1,6 @@
+Speeding up branch and bound algorithms for solving the maximum clique problem
+Evgeny Maslov;Mikhail Batsyn;Panos M. Pardalos;
+Abstract
+In this paper we consider two branch and bound algorithms for the maximum clique problem which demonstrate the best performance on DIMACS instances among the existing methods. These algorithms are MCS algorithm by Tomita et al. (2010) and MAXSAT algorithm by Li and Quan (2010a, b). We suggest a general approach which allows us to speed up considerably these branch and bound algorithms on hard instances. The idea is to apply a powerful heuristic for obtaining an initial solution of high quality. This solution is then used to prune branches in the main branch and bound algorithm. For this purpose we apply ILS heuristic by Andrade et al. (J Heuristics 18(4):525–547, 2012). The best results are obtained for p_hat1000-3 instance and gen instances with up to 11,000 times speedup.
+Keywords
+Maximum clique problem  Branch and bound algorithm   Heuristic solution  Graph colouring  05C69  05C85  90C27  90C59  90-08  

@@ -1,0 +1,6 @@
+Global optimization of generalized semi-infinite programs using disjunctive programming
+Peter Kirst;Oliver Stein;
+Abstract
+We propose a new branch-and-bound algorithm for global minimization of box-constrained generalized semi-infinite programs. It treats the inherent disjunctive structure of these problems by tailored lower bounding procedures. Three different possibilities are examined. The first one relies on standard lower bounding procedures from conjunctive global optimization as described in Kirst et al. (J Global Optim 69: 283–307, 2017). The second and the third alternative are based on linearization techniques by which we derive linear disjunctive relaxations of the considered sub-problems. Solving these by either mixed-integer linear reformulations or, alternatively, by disjunctive linear programming techniques yields two additional possibilities. Our numerical results on standard test problems with these three lower bounding procedures show the merits of our approach.
+Keywords
+Generalized semi-infinite optimization  Disjunctive optimization  Global optimization  Branch-and-bound  

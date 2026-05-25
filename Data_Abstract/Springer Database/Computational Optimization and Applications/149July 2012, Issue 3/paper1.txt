@@ -1,0 +1,6 @@
+A nonmonotone filter method for nonlinear optimization
+Chungen Shen;Sven Leyffer;Roger Fletcher;
+Abstract
+We propose a new nonmonotone filter method to promote global and fast local convergence for sequential quadratic programming algorithms. Our method uses two filters: a standard, global g-filter for global convergence, and a local nonmonotone l-filter that allows us to establish fast local convergence. We show how to switch between the two filters efficiently, and we prove global and superlinear local convergence. A special feature of the proposed method is that it does not require second-order correction steps. We present preliminary numerical results comparing our implementation with a classical filter SQP method.
+Keywords
+Nonlinear optimization  Nonmonotone filter  Global convergence  Local convergence  

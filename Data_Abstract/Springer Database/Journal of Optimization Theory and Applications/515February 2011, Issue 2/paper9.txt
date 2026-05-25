@@ -1,0 +1,6 @@
+On Solving Large-Scale Finite Minimax Problems Using Exponential Smoothing
+E. Y. Pee;J. O. Royset;
+Abstract
+This paper focuses on finite minimax problems with many functions, and their solution by means of exponential smoothing. We conduct run-time complexity and rate of convergence analysis of smoothing algorithms and compare them with those of SQP algorithms. We find that smoothing algorithms may have only sublinear rate of convergence, but as shown by our complexity results, their slow rate of convergence may be compensated by small computational work per iteration. We present two smoothing algorithms with active-set strategies and novel precision-parameter adjustment schemes. Numerical results indicate that the algorithms are competitive with other algorithms from the literature, and especially so when a large number of functions are nearly active at stationary points.
+Keywords
+Finite minimax  Exponential smoothing technique  Rate of convergence  Run-time complexity  

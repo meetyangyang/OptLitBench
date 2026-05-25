@@ -1,0 +1,9 @@
+Modified Dinkelbach-Type Algorithm for Generalized Fractional Programs with Infinitely Many Ratios
+J. Y. Lin;R. L. Sheu;
+Abstract
+In this paper, we extend the Dinkelbach-type algorithm of Crouzeix, Ferland, and Schaible to solve minmax fractional programs with infinitely many ratios. Parallel to the case with finitely many ratios, the task is to solve a sequence of continuous minmax problems,
+$$P(\alpha_{k})=\min_{x\in X}\left(\max_{t\in T}\left[f_{t}(x)-\alpha_{k}g_{t}(x)
+\right]\right)$$, until {α k } converges to the root of P(α)=0. The solution of P(α k ) is used to generate αk+1. However, calculating the exact optimal solution of P(α k ) requires an extraordinary amount of work. To improve, we apply an entropic regularization method which allows us to solve each problem P(α k ) incompletely, generating an approximate sequence
+\(\{\tilde{\alpha}_{k}\}\), while retaining the linear convergence rate under mild assumptions. We present also numerical test results on the algorithm which indicate that the new algorithm is robust and promising.
+Keywords
+Generalized fractional programming  minmax problems  entropic regularization  

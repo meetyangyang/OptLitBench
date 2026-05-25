@@ -1,0 +1,6 @@
+Particle swarm optimization for problems with variable number of dimensions
+Petr Kadlec;Vladimír Šeděnka;
+Abstract
+Some real-life optimization problems, apart from dependence on the combination of state variables, also show dependence on the complexity of the model describing the problem. Changing model complexity implies changing the number of decision space dimensions.A new method called Particle Swarm Optimization for Variable Number of Dimensions is developed here. The well-known particle swarm optimization procedure is modified to handle spaces with a variable number of dimensions within a single run. Some well-known benchmark problems are modified to depend on the number of dimensions. Novel performance metrics are defined in the article to evaluate convergence properties of the method. Some recommendations for setting the optimization are made according to results of the method on the proposed benchmark test suite. The method is compared with conventional swarm strategies able to solve problems with variable number of dimensions.
+Keywords
+Model selection, particle swarm optimization, evolutionary optimization, variable number of dimensions 

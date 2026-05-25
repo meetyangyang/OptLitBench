@@ -1,0 +1,6 @@
+Global Optimization Of Linear Hybrid Systems With Varying Transition Times
+C. K.  Lee and P. I.  Barton;
+Abstract
+Open loop optimal control problems with linear hybrid (discrete/continuous) systems embedded are often approximated as dynamic optimization problems. We propose a deterministic global optimization algorithm for linear hybrid systems with varying transition times. First, the control parametrization enhancing transform is used to transform the problem from a linear hybrid system with scaled discontinuities and varying transition times into a nonlinear one with stationary discontinuities and fixed transition times. Next, a theory is developed for constructing convex relaxations of arbitrary Bolza-type functionals subject to the transformed hybrid system. Finally, the convex relaxations are utilized in a branch-and-bound framework to obtain the solution to $\varepsilon$ global optimality within a finite number of iterations.
+Keywords
+multistage dynamic optimization, nonconvex dynamic optimization, hybrid optimal control, 34A30, 90C26, 

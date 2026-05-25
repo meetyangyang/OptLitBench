@@ -1,0 +1,6 @@
+A New Complexity Result on Solving the Markov Decision Problem
+Yinyu Ye;
+Abstract
+We present a new complexity result on solving the Markov decision problem (MDP) with n states and a number of actions for each state, a special class of real-number linear programs with the Leontief matrix structure. We prove that when the discount factor θ is strictly less than 1, the problem can be solved in at most O(n1.5(log 1/(1 − θ) + log n)) classical interior-point method iterations and O(n4(log 1/(1 − θ) + log n)) arithmetic operations. Our method is a combinatorial interior-point method related to the work of Ye (1990. A “build-down” scheme for linear programming. Math. Programming46 61–72) and Vavasis and Ye (1996. A primal-dual interior-point method whose running time depends only on the constraint matrix. Math. Programming74 79–120). To our knowledge, this is the first strongly polynomial-time algorithm for solving the MDP when the discount factor is a constant less than 1.
+Keywords
+Markov decision problem linear programming complexity 

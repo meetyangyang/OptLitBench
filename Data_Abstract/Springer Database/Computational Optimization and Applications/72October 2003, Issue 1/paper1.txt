@@ -1,0 +1,6 @@
+A Quasi-Newton Penalty Barrier Method for Convex Minimization Problems
+Paul Armand;
+Abstract
+We describe an infeasible interior point algorithm for convex minimization problems. The method uses quasi-Newton techniques for approximating the second derivatives and providing superlinear convergence. We propose a new feasibility control of the iterates by introducing shift variables and by penalizing them in the barrier problem. We prove global convergence under standard conditions on the problem data, without any assumption on the behavior of the algorithm.
+Keywords
+BFGS algorithm  constrained optimization  convex programming  interior point method  line search  primal-dual method  quasi-Newton method  

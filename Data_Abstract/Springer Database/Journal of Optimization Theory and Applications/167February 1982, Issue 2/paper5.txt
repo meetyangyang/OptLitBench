@@ -1,0 +1,6 @@
+Enlarging the region of convergence of Newton's method for constrained optimization
+D. P. Bertsekas;
+Abstract
+In this paper, we consider Newton's method for solving the system of necessary optimality conditions of optimization problems with equality and inequality constraints. The principal drawbacks of the method are the need for a good starting point, the inability to distinguish between local maxima and local minima, and, when inequality constraints are present, the necessity to solve a quadratic programming problem at each iteration. We show that all these drawbacks can be overcome to a great extent without sacrificing the superlinear convergence rate by making use of exact differentiable penalty functions introduced by Di Pillo and Grippo (Ref. 1). We also show that there is a close relationship between the class of penalty functions of Di Pillo and Grippo and the class of Fletcher (Ref. 2), and that the region of convergence of a variation of Newton's method can be enlarged by making use of one of Fletcher's penalty functions.
+Keywords
+Constrained minimization  Newton's method  differentiable exact penalty functions  superlinear convergence  

@@ -1,0 +1,8 @@
+A comparative study of decomposition algorithms for stochastic combinatorial optimization
+Lewis Ntaimo;Suvrajeet Sen;
+Abstract
+
+This paper presents comparative computational results using three decomposition algorithms on a battery of instances drawn from two different applications. In order to preserve the commonalities among the algorithms in our experiments, we have designed a testbed which is used to study instances arising in server location under uncertainty and strategic supply chain planning under uncertainty. Insights related to alternative implementation issues leading to more efficient implementations, benchmarks for serial processing, and scalability of the methods are also presented. The computational experience demonstrates the promising potential of the disjunctive decomposition (D 2) approach towards solving several large-scale problem instances from the two application areas. Furthermore, the study shows that convergence of the D 2 methods for stochastic combinatorial optimization (SCO) is in fact attainable since the methods scale well with the number of scenarios.
+
+Keywords
+Stochastic mixed-integer programming  Disjunctive decomposition  Stochastic server location  Strategic supply chain planning  

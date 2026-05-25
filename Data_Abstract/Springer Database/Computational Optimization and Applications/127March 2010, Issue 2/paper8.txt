@@ -1,0 +1,6 @@
+An improved hybrid global optimization method for protein tertiary structure prediction
+Scott R. McAllister;Christodoulos A. Floudas;
+Abstract
+First principles approaches to the protein structure prediction problem must search through an enormous conformational space to identify low-energy, near-native structures. In this paper, we describe the formulation of the tertiary structure prediction problem as a nonlinear constrained minimization problem, where the goal is to minimize the energy of a protein conformation subject to constraints on torsion angles and interatomic distances. The core of the proposed algorithm is a hybrid global optimization method that combines the benefits of the αBB deterministic global optimization approach with conformational space annealing. These global optimization techniques employ a local minimization strategy that combines torsion angle dynamics and rotamer optimization to identify and improve the selection of initial conformations and then applies a sequential quadratic programming approach to further minimize the energy of the protein conformations subject to constraints. The proposed algorithm demonstrates the ability to identify both lower energy protein structures, as well as larger ensembles of low-energy conformations.
+Keywords
+Protein tertiary structure prediction  Hybrid global optimization algorithm  

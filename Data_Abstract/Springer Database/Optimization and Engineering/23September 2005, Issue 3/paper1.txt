@@ -1,0 +1,6 @@
+Routing of Uncertain Traffic Demands
+Walid Ben-Ameur;Hervé Kerivin;
+Abstract
+Due to the success of the Internet and the diversity of communication applications, it is becoming increasingly difficult to forecast traffic patterns. To capture the traffic variations, we introduce a flexible model where traffic belongs to a polytope. We assume that the traffic demands between nodes can be carried on many paths, with respect to network resources. Moreover, to guarantee the network stability and to make the routing easy to implement, the proportions of traffic flowing through each path have to be independent of the current traffic demands. We show that a minimum-cost routing satisfying the previous properties can be efficiently computed by column and constraint generations. We then present several strategies related to certain algorithmic details. Finally, theoretical and computational studies show that this new flexible model can be much more economical than a classical deterministic model based on a given traffic matrix. This paper can be considered as a mathematical framework for a new flexible virtual private network service offer. It also introduces a new concept: the routing of a polytope.
+Keywords
+network design  traffic uncertainty  polyhedral model  routing  polynomial time algorithm  virtual private network  

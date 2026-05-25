@@ -1,0 +1,6 @@
+The cluster problem in multivariate global optimization
+Kaisheng Du;R. Baker Kearfott;
+Abstract
+We consider branch and bound methods for enclosing all unconstrained global minimizers of a nonconvex nonlinear twice-continuously differentiable objective function. In particular, we consider bounds obtained with interval arithmetic, with the “midpoint test,” but no acceleration procedures. Unless the lower bound is exact, the algorithm without acceleration procedures in general gives an undesirable cluster of boxes around each minimizer. In a previous paper, we analyzed this problem for univariate objective functions. In this paper, we generalize that analysis to multi-dimensional objective functions. As in the univariate case, the results show that the problem is highly related to the behavior of the objective function near the global minimizers and to the order of the corresponding interval extension.
+Keywords
+Branch and bound principle  inclusion function  interval extensions  midpoint test  global optimization  order of an interval extension  nonconvex optimization  

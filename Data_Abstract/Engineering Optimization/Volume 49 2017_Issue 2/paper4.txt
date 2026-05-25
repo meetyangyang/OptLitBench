@@ -1,0 +1,6 @@
+A new method to generate the ground structure in truss topology optimization
+Ge Gao;Zhen-yu Liu;Yao-bin Li;Yan-feng Qiao;
+Abstract
+The aim of this article is to provide an effective method to generate the ground structure in truss topology optimization. The core of this method is to place nodal points for the ground structure at the intersection of the first and third principal stress trajectories, which are obtained by solving the equivalent static problem in the design domain with a homogeneous isotropic material property. It is applicable to generate the ground structure for arbitrary regular and irregular geometric design domains. The proposed method is tested on some benchmark examples in truss topology optimization. The optimization model is a standard linear programming problem based on plastic design and solved by the interior point algorithm. Compared with other methods, the proposed method may use a well-defined ground structure with fewer nodes and bars, resulting in faster solution convergence, which shows it to be efficient.
+Keywords
+Ground structure, truss topology optimization, principal stress trajectories, plastic design 

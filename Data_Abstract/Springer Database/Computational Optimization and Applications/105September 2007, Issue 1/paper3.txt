@@ -1,0 +1,8 @@
+On the iterative solution of KKT systems in potential reduction software for large-scale quadratic problems
+S. Cafieri;M. D’Apuzzo;V. De Simone;D. di Serafino;
+Abstract
+
+Iterative solvers appear to be very promising in the development of efficient software, based on Interior Point methods, for large-scale nonlinear optimization problems. In this paper we focus on the use of preconditioned iterative techniques to solve the KKT system arising at each iteration of a Potential Reduction method for convex Quadratic Programming. We consider the augmented system approach and analyze the behaviour of the Constraint Preconditioner with the Conjugate Gradient algorithm. Comparisons with a direct solution of the augmented system and with MOSEK show the effectiveness of the iterative approach on large-scale sparse problems.
+
+Keywords
+Interior Point methods  KKT system  Constraint Preconditioner  Large-scale Quadratic Programming  

@@ -1,0 +1,8 @@
+Correlative Sparsity in Primal-Dual Interior-Point Methods for LP, SDP, and SOCP
+Kazuhiro Kobayashi;Sunyoung Kim;Masakazu Kojima;
+Abstract
+
+Exploiting sparsity has been a key issue in solving large-scale optimization problems. The most time-consuming part of primal-dual interior-point methods for linear programs, second-order cone programs, and semidefinite programs is solving the Schur complement equation at each iteration, usually by the Cholesky factorization. The computational efficiency is greatly affected by the sparsity of the coefficient matrix of the equation which is determined by the sparsity of an optimization problem (linear program, semidefinite program or second-order cone program). We show if an optimization problem is correlatively sparse, then the coefficient matrix of the Schur complement equation inherits the sparsity, and a sparse Cholesky factorization applied to the matrix results in no fill-in.
+
+Keywords
+Correlative sparsity  Primal-dual interior-point method  Linear program  Semidefinite program  Second-order cone program  Partial separability  Chordal graph  

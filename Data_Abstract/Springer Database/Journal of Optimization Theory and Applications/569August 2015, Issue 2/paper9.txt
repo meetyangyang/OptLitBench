@@ -1,0 +1,6 @@
+Interior Proximal Method Without the Cutting Plane Property
+Nils Langenberg;
+Abstract
+A new interior proximal method for variational inequalities with generalized monotone operators is developed. It transforms a given variational inequality (which, maybe, is constrained and ill-posed) into unconstrained and well-posed equations as well as, at each iteration, one single additional extragradient step with rather small numerical efforts. Convergence is established under mild assumptions: The frequently assumed maximal monotonicity is weakened to pseudo- and quasimonotonicity with respect to the solution set, and a wide class of even nonlinearly constrained feasible sets is allowed for. In this general setting, the presented scheme constitutes the first interior proximal method that works without the so-called cutting plane property. Such a demanding assumption is completely left out, which allows to solve, e.g., wide classes of saddle point and equilibrium problems by means of an interior proximal method for the first time. As another application, we study variational inequalities derived from quasiconvex optimization problems.
+Keywords
+Variational inequalities  Bregman distances  Proximal Point Algorithm  Extragradient step  Generalized monotonicity  Interior point effect  47H05  47J20  65J20  65K10  90C26  

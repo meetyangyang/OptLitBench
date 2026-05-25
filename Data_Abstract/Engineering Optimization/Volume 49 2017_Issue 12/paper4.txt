@@ -1,0 +1,6 @@
+Accelerating global optimization of aerodynamic shapes using a new surrogate-assisted parallel genetic algorithm
+Mehdi Ebrahimi;Alireza Jahangirian;
+Abstract
+An efficient strategy is presented for global shape optimization of wing sections with a parallel genetic algorithm. Several computational techniques are applied to increase the convergence rate and the efficiency of the method. A variable fidelity computational evaluation method is applied in which the expensive Navier–Stokes flow solver is complemented by an inexpensive multi-layer perceptron neural network for the objective function evaluations. A population dispersion method that consists of two phases, of exploration and refinement, is developed to improve the convergence rate and the robustness of the genetic algorithm. Owing to the nature of the optimization problem, a parallel framework based on the master/slave approach is used. The outcomes indicate that the method is able to find the global optimum with significantly lower computational time in comparison to the conventional genetic algorithm.
+Keywords
+Aerodynamic optimization, shape design, neural networks, parallel genetic algorithm, computational fluid dynamics 

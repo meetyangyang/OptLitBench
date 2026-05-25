@@ -1,0 +1,6 @@
+Approximation of optimal feedback control: a dynamic programming approach
+Bao-Zhu Guo;Tao-Tao Wu;
+Abstract
+We consider the general continuous time finite-dimensional deterministic system under a finite horizon cost functional. Our aim is to calculate approximate solutions to the optimal feedback control. First we apply the dynamic programming principle to obtain the evolutive Hamilton–Jacobi–Bellman (HJB) equation satisfied by the value function of the optimal control problem. We then propose two schemes to solve the equation numerically. One is in terms of the time difference approximation and the other the time-space approximation. For each scheme, we prove that (a) the algorithm is convergent, that is, the solution of the discrete scheme converges to the viscosity solution of the HJB equation, and (b) the optimal control of the discrete system determined by the corresponding dynamic programming is a minimizing sequence of the optimal feedback control of the continuous counterpart. An example is presented for the time-space algorithm; the results illustrate that the scheme is effective.
+Keywords
+Viscosity solution  Hamilton–Jacobi–Bellman equation  Finite difference  Optimal feedback control  49J15  49L20  49L25  49Mxx  

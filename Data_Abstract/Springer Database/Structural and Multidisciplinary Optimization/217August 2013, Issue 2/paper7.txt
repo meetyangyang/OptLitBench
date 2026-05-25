@@ -1,0 +1,6 @@
+Structural and sensitivity reanalyses based on singular value decomposition
+A. Turan;A. Muǧan;
+Abstract
+The structural and sensitivity reanalysis of a structure subjected to modifications has a significant practical value. If the structural modifications result in low rank changes in the associated system matrices, the reanalysis of a structure could be completed with a computational load that is less than that of the complete analysis of the structure. To this end, the Sherman–Morrison–Woodbury formulas along with the singular value decomposition are employed to compute the extremum sensitivity values and optimum perturbations of design variables such that desired changes in the responses are achieved, which are difficult to be obtained by using the response derivatives. Numerical examples are presented to show the advantages of the proposed approach. Accuracy of the solutions is checked analytically and comparisons between the CPU times of the SVD-based reanalysis and SQP method are made, which show the advantage of the proposed SVD-based approach over conventional methods.
+Keywords
+Reanalysis  Structures  Sherman–Morrison–Woodbury formulas  Matrix updates  Singular value decomposition  

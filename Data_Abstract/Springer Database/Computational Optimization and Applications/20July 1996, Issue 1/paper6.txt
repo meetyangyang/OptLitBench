@@ -1,0 +1,6 @@
+New constructs for the description of combinatorial optimization problems in algebraic modeling languages
+J. J. Bisschop;Robert Fourer;
+Abstract
+Algebraic languages are at the heart of many successful optimization modeling systems, yet they have been used with only limited success for combinatorial (or discrete) optimization. We show in this paper, through a series of examples, how an algebraic modeling language might be extended to help with a greater variety of combinatorial optimization problems. We consider specifically those problems that are readily expressed as the choice of a subset from a certain set of objects, rather than as the assignment of numerical values to variables. Since there is no practicable universal algorithm for problems of this kind, we explore a hybrid approach that employs a general-purpose subset enumeration scheme together with problem-specific directives to guide an efficient search.
+Keywords
+modeling languages  combinatorial optimization  discrete optimization  implicit enumeration  branch-and-bound  

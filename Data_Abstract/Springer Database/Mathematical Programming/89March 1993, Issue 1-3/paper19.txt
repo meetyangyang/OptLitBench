@@ -1,0 +1,6 @@
+An active-set strategy in an interior point method for linear programming
+Kaoru Tone;
+Abstract
+We will present a potential reduction method for linear programming where only the constraints with relatively small dual slacks—termed “active constraints”—will be taken into account to form the ellipsoid constraint at each iteration of the process. The algorithm converges to the optimal feasible solution in O(\(\sqrt n \)L) iterations with the same polynomial bound as in the full constraints case, wheren is the number of variables andL is the data length. If a small portion of the constraints is active near the optimal solution, the computational cost to find the next direction of movement in one iteration may be considerably reduced by the proposed strategy.
+Keywords
+Linear programming  interior point method  active set strategy  

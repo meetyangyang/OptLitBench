@@ -1,0 +1,4 @@
+Eliminating Redundant Clauses in SAT Instances
+Olivier Fourdrinoy;Éric Grégoire;Bertrand Mazure;Lakhdar Saïs;
+Abstract
+In this paper, we investigate to which extent the elimination of a class of redundant clauses in SAT instances could improve the efficiency of modern satisfiability provers. Since testing whether a SAT instance does not contain any redundant clause is NP-complete, a logically incomplete but polynomial-time procedure to remove redundant clauses is proposed as a pre-treatment of SAT solvers. It relies on the use of the linear-time unit propagation technique and often allows for significant performance improvements of the subsequent satisfiability checking procedure for really difficult real-world instances.

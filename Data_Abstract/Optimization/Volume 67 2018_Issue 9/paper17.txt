@@ -1,0 +1,6 @@
+A diagonal quasi-Newton updating method based on minimizing the measure function of Byrd and Nocedal for unconstrained optimization
+Neculai Andrei;
+Abstract
+A new quasi-Newton method with a diagonal updating matrix is suggested, where the diagonal elements are determined by minimizing the measure function of Byrd and Nocedal subject to the weak secant equation of Dennis and Wolkowicz. The Lagrange multiplier of this minimization problem is computed by using an adaptive procedure based on the conjugacy condition. The convergence of the algorithm is proved for twice differentiable, convex and bounded below functions using only the trace and the determinant. Using a set of 80 unconstrained optimization test problems and some applications from the MINPACK-2 collection, we have the computational evidence that the algorithm is more efficient and more robust than the steepest-descent, the Barzilai and Borwein algorithm, the Cauchy algorithm with Oren and Luenberger scaling and the classical BFGS algorithms with the Wolfe line search conditions.
+Keywords
+Unconstrained optimization, weak secant, diagonal quasi-Newton update, measure function of Byrd and Nocedal, numerical comparisons2010 MATHEMATICS SUBJECT CLASSIFICATIONS: 49M7, 49M10, 65K05, 90C30 

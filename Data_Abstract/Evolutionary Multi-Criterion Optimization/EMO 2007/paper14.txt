@@ -1,0 +1,4 @@
+FastPGA: A Dynamic Population Sizing Approach for Solving Expensive Multiobjective Optimization Problems
+Hamidreza Eskandari;Christopher D. Geiger;Gary B. Lamont;
+Abstract
+We present a new multiobjective evolutionary algorithm (MOEA), called fast Pareto genetic algorithm (FastPGA). FastPGA uses a new fitness assignment and ranking strategy for the simultaneous optimization of multiple objectives where each solution evaluation is computationally- and/or financially-expensive. This is often the case when there are time or resource constraints involved in finding a solution. A population regulation operator is introduced to dynamically adapt the population size as needed up to a user-specified maximum population size. Computational results for a number of well-known test problems indicate that FastPGA is a promising approach. FastPGA outperforms the improved nondominated sorting genetic algorithm (NSGA-II) within a relatively small number of solution evaluations.

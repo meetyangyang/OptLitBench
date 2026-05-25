@@ -1,0 +1,6 @@
+A new nonmonotone trust region method for unconstrained optimization equipped by an efficient adaptive radius
+D. Ataee Tarzanagh;M. Reza Peyghami;H. Mesgarani;
+Abstract
+In this paper, we present a new nonmonotone trust region method with adaptive radius which is equipped by a nonmonotone line search technique for solving unconstrained optimization problems. The proposed method combines a modified version of the Li and Fukushima's nonmonotone technique in D.H. Li and M. Fukushima [A derivative-free line search and global convergence of Broyden like method for nonlinear equations, Optim. Methods Softw.13 (2000), pp. 181–201] for solving nonlinear systems with a new variant of Shi and Guo's adaptive strategy in Z.J. Shi and J.H. Guo [A new trust region methods for unconstrained optimization, J. Comput. Appl. Math. 213 (2008), pp. 509–520] for updating the trust region radius. The method performs a nonmonotone Armijo-type line search whenever the trial step is rejected. Under some standard assumptions, we provide the global convergence property as well as the superlinear and quadratic convergence rates for the new method. Numerical results show the efficiency and effectiveness of the new proposed method in practice.
+Keywords
+trust region methods, nonmonotone techniques, Armijo-type line search, adaptive trust region methods 

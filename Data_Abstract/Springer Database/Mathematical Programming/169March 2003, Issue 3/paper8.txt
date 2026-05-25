@@ -1,0 +1,6 @@
+Computing optimal preemptive schedules for parallel tasks: linear programming approaches
+Klaus Jansen;Lorant Porkolab;
+Abstract
+ We study the problem of scheduling a set of n independent parallel tasks on m processors, where in addition to the processing time there is a size associated with each task indicating that the task can be processed on any subset of processors of the given size. Based on a linear programming formulation, we propose an algorithm for computing a preemptive schedule with minimum makespan, and show that the running time of the algorithm depends polynomially on m and only linearly on n. Thus for any fixed m, an optimal preemptive schedule can be computed in O(n) time. We also present extensions of this approach to other (more general) scheduling problems with malleable tasks, due dates and maximum lateness minimization.
+Keywords
+Processing Time  Schedule Problem  Programming Approach  Programming Formulation  Maximum Lateness  

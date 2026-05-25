@@ -1,0 +1,6 @@
+Optimal Sizing for a Class of Nonlinearly Elastic Materials
+Christoph  Stangl;
+Abstract
+The intention of this paper is to develop efficient algorithms for solving sizing optimization problems for a class of nonlinearly elastic materials (including, e.g., gray cast iron that is used in car engines) within common finite element programming packages such as, e.g., MSC/NASTRAN. The nonlinear material law is such that Young's modulus depends on the stresses. Therefore it is not possible to use standard software to perform sizing optimization; new algorithms must be found.We develop and analyze algorithms to solve the nonlinear discrete equilibrium equations and the discrete design problem. Moreover, we test our algorithms on practically relevant problems, namely to minimize the volume, respectively, to reach an even stress distribution, of a unit injector rocker arm made of gray cast iron.
+Keywords
+sizing optimization, nonlinearly elastic materials, Newton's method, homotopy method, sensitivities, sequential quadratic programming algorithm, 65K10, 93C20, 90C30, 65N30, 

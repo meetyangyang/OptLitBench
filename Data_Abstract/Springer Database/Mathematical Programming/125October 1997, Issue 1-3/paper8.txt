@@ -1,0 +1,6 @@
+Interactions between nonlinear programming and modeling systems
+Arne Stolbjerg Drud;
+Abstract
+Modeling systems are very important for bringing mathematical programming software to nonexpert users, but few nonlinear programming algorithms are today linked to a modeling system. The paper discussed the advantages of linking modeling systems with nonlinear programming. Traditional algorithms can be linked using black-box function and derivatives evaluation routines for local optimization. Methods for generating this information are discussed. More sophisticated algorithms can get access to almost any type of information: interval evaluations and constraint restructuring for detailed preprocessing, second order information for sequential quadratic programming and interior point methods, and monotonicity and convex relaxations for global optimization. Some of the sophisticated information is available today; the rest can be generated on demand.
+Keywords
+Modeling systems  Nonlinear programming  Model definition  Preprocessing  

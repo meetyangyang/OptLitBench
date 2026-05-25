@@ -1,0 +1,6 @@
+Topographical Multilevel Single Linkage
+M. M. Ali;C. Storey;
+Abstract
+An iterative topographical Multilevel Single Linkage (TMSL) method has been introduced. The approach uses topographical information on the objective function, in particular theg-nearest-neighbour graph. The algorithm uses evenly distributed points from a Halten sequence of uniform limiting density. We discuss the implementation of the algorithm and compare its performance with other well-known algorithms. The new algorithm performs much better (in some cases several times) than the Multilevel Single Linkage method in terms of number of function evaluations but is not quite so competitive with respect to CPU time.
+Keywords
+Global optimization  multilevel single linkage  topographs  graph minima  

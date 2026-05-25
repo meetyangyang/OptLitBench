@@ -1,0 +1,6 @@
+Building an iterative heuristic solver for a quantum annealer
+Gili Rosenberg;Mohammad Vazifeh;Brad Woods;Eldad Haber;
+Abstract
+A quantum annealer heuristically minimizes quadratic unconstrained binary optimization (QUBO) problems, but is limited by the physical hardware in the size and density of the problems it can handle. We have developed a meta-heuristic solver that utilizes D-Wave Systems’ quantum annealer (or any other QUBO problem optimizer) to solve larger or denser problems, by iteratively solving subproblems, while keeping the rest of the variables fixed. We present our algorithm, several variants, and the results for the optimization of standard QUBO problem instances from OR-Library of sizes 500 and 2500 as well as the Palubeckis instances of sizes 3000–7000. For practical use of the solver, we show the dependence of the time to best solution on the desired gap to the best known solution. In addition, we study the dependence of the gap and the time to best solution on the size of the problems solved by the underlying optimizer. Our results were obtained by simulation, using a tabu 1-opt solver, due to the huge number of runs required and limited quantum annealer time availability.
+Keywords
+Quantum annealing  Quadratic unconstrained binary optimization  Combinatoric optimization  k-opt  Local search  Iterative heuristic solver  

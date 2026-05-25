@@ -1,0 +1,6 @@
+Vehicle Routing Algorithms for Radially Escaping Targets
+Pushkarini  Agharkar, Shaunak D.  Bopardikar, and Francesco  Bullo;
+Abstract
+We introduce a novel dynamic vehicle routing problem termed the Radially Escaping Targets (RET) problem in which mobile targets appear uniformly randomly on a disk according to a stochastic process and move radially outward to escape the disk in a minimum amount of time. A single vehicle is assigned the task of intercepting the targets before they escape. We first obtain two fundamental upper bounds on the fraction of targets intercepted by the vehicle in the steady state---termed the capture fraction---for the RET problem. We then propose three policies to maximize the capture fraction for the RET problem, and identify parameter regimes in which they are suitable. All three policies are within a constant factor of the optimal in specific parameter regimes. For the asymptotic regime of low arrival rate, this factor is equal to one. For the asymptotic regime of high arrival rate, the factor is equal to 2.52 when the disk radius is greater than or equal to one. For  moderate speed regimes, this factor is dependent on the target speed. We verify performance of the policies with numerical simulations.
+Keywords
+vehicle routing problems, dynamic vehicle routing, moving target routing problems, 68W01, 60G99, 68T40, 

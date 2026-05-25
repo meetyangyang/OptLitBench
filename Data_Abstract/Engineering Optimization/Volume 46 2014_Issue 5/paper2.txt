@@ -1,0 +1,6 @@
+A trust region-based approach to optimize triple response systems
+Shu-Kai S. Fan;Chihhao Fan;Chia-Fen Huang;
+Abstract
+This article presents a new computing procedure for the global optimization of the triple response system (TRS) where the response functions are non-convex quadratics and the input factors satisfy a radial constrained region of interest. The TRS arising from response surface modelling can be approximated using a nonlinear mathematical program that considers one primary objective function and two secondary constraint functions. An optimization algorithm named the triple response surface algorithm (TRSALG) is proposed to determine the global optimum for the non-degenerate TRS. In TRSALG, the Lagrange multipliers of the secondary functions are determined using the Hooke–Jeeves search method and the Lagrange multiplier of the radial constraint is located using the trust region method within the global optimality space. The proposed algorithm is illustrated in terms of three examples appearing in the quality-control literature. The results of TRSALG compared to a gradient-based method are also presented.
+Keywords
+riple response system (TRS), global optimization, nonlinear programming (NLP), trust region, derivative-free search method 

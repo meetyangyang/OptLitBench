@@ -1,0 +1,6 @@
+A combined greedy-walk heuristic and simulated annealing approach for the closest string problem
+Elisa Pappalardo;Domenico Cantone;Panos M. Pardalos;
+Abstract
+The closest string problem (CSP) consists in finding a string t with minimum Hamming distance from the strings of a given finite input set. To overcome its NP-hardness, we propose a simulated annealing approach along with a new heuristic for finding a good initial solution for the problem, which allows one to speed up sensibly the convergence of the algorithm. To assess its effectiveness and robustness, we extensively compared our approach with the integer-programming (IP) exact solution, and with other heuristic approaches present in the literature, both on artificial and real instances. Experimental results show that our approach allows one to locate good solutions for the problem, that are close to the optimum found by the IP formulation and outperforms other heuristic methods for the CSP.
+Keywords
+closest string problem, heuristics, simulated-annealing, NP-hard problems, computational biology, bioinformatics 

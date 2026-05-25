@@ -1,0 +1,6 @@
+An Accelerated Three-Term Conjugate Gradient Method with Sufficient Descent Condition and Conjugacy Condition
+XiaoLiang Dong;Deren Han;Zhifeng Dai;Lixiang Li;Jianguang Zhu;
+Abstract
+An accelerated three-term conjugate gradient method is proposed, in which the search direction can satisfy the sufficient descent condition as well as extended Dai–Liao conjugacy condition. Different from the existent methods, a dynamical compensation strategy in our proposed method is considered, that is Li–Fushikuma-type quasi-Newton equation is satisfied as much as possible, otherwise, to some extent, the singular values of iteration matrix of search directions will adaptively clustered, which substantially benefits acceleration the convergence or reduction in the condition number of iteration matrix. Global convergence is established under mild conditions for general objective functions. We also report some numerical results to show its efficiency.
+Keywords
+Three-term conjugate gradient method  Sufficient descent condition  Conjugacy condition  Global convergence  Condition number  90C30  

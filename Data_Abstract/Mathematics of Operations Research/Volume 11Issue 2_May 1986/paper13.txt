@@ -1,0 +1,6 @@
+Layered Augmenting Path Algorithms
+Éva Tardos;Craig A. Tovey;Michael A. Trick;
+Abstract
+Augmenting path algorithms, first introduced by Ford and Fulkerson (Ford, L. R., D. R. Fulkerson. 1962. Flows in Networks. Princeton University Press, Princeton, N.J.), are widely used in optimization. Examples include Schönsleben's polymatroid intersection algorithm (Schönsleben, P. 1980. Ganzzahlige polymatroid-intersection-algorithmen. Ph.D. thesis, Eidgenössischen Technischen Hochschule, Zürich.), the maximum polymatroidal network flow algorithm of Lawler and Martel (Lawler, E. L., C. U. Martel. 1982. Computing maximal polymatroidal network flows. Math. Oper. Res.7 334–347.), Frank's algorithm for the Edmonds–Giles polyhedron (Frank, A. 1984. Finding feasible vectors of Edmonds-Giles polyhedra. J. Combin. Theory Ser. B36 221-239.) and Cunningham's algorithm for testing membership in matroid polyhedra (Cunningham, H. W. 1984. Testing membership in matroid polyhedra. J. Combin. Theory Ser. B36 161–188.).Here we give an order of magnitude improvement for the above algorithms by using an approach analogous to that of Dinits’ maximum flow algorithm (Dinits, E. A. 1970. Algorithm for solution of a problem of maximum flow in a network with power estimation. Soviet Math. Dokl.11 1277–1280.).
+Keywords
+network flows augmenting paths maximum flow 

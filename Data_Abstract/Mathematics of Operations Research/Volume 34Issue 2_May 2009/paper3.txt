@@ -1,0 +1,6 @@
+Online Primal-Dual Algorithms for Covering and Packing
+Niv Buchbinder;Joseph (Seffi) Naor;
+Abstract
+We study a wide range of online covering and packing optimization problems. In an online covering problem, a linear cost function is known in advance, but the linear constraints that define the feasible solution space are given one by one, in rounds. In an online packing problem, the profit function as well as the packing constraints are not known in advance. In each round additional information (i.e., a new variable) about the profit function and the constraints is revealed. An online algorithm needs to maintain a feasible solution in each round; in addition, the solutions generated over the different rounds need to satisfy a monotonicity property. We provide general deterministic primal-dual algorithms for online fractional covering and packing problems. We also provide deterministic algorithms for several integral online covering and packing problems. Our algorithms are designed via a novel online primal-dual technique and are evaluated via competitive analysis.
+Keywords
+online algorithms linear programming duality competitive analysis covering and packing derandomization 

@@ -1,0 +1,6 @@
+Semiconvex Regression for Metamodeling-Based Optimization
+Lauren A.  Hannah, Warren B.  Powell, and David B.  Dunson;
+Abstract
+Stochastic search involves finding a set of controllable parameters that minimizes an unknown objective function using a set of noisy observations. We consider the case when the unknown function is convex and a metamodel is used as a surrogate objective function. Often the data are non-i.i.d. and include an observable state variable, such as applicant information in a loan rate decision problem. State information is difficult to incorporate into convex models. We propose a new semiconvex regression method that is used to produce a convex metamodel in the presence of a state variable. We show consistency for this method. We demonstrate its effectiveness for metamodeling on a set of synthetic inventory management problems and a large real-life auto loan dataset.
+Keywords
+asymptotic properties, machine learning, multivariate convex functions, metamodeling, nonparametric regression, simulation optimization, 62G05, 68T05, 90C15, 

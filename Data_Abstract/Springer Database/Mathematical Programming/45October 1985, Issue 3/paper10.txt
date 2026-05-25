@@ -1,0 +1,6 @@
+Dealing with degeneracy in reduced gradient algorithms
+R. S. Dembo;J. G. Klincewicz;
+Abstract
+Many algorithms for linearly constrained optimization problems proceed by solving a sequence of subproblems. In these subproblems, the number of variables is implicitly reduced by using the linear constraints to express certain ‘basic’ variables in terms of other variables. Difficulties may arise, however, if degeneracy is present; that is, if one or more basic variables are at lower or upper bounds. In this situation, arbitrarily small movements along a feasible search direction in the reduced problem may result in infeasibilities for basic variables in the original problem. For such cases, the search direction is typically discarded, a new reduced problem is formed and a new search direction is computed. Such a process may be extremely costly, particularly in large-scale optimization where degeneracy is likely and good search directions can be expensive to compute. This paper is concerned with a practical method for ensuring that directions that are computed in the reduced space are actually feasible in the original problem. It is based on a generalization of the ‘maximal basis’ result first introduced by Dembo and Klincewicz for large nonlinear network optimization problems.
+Keywords
+Degeneracy  Reduced Gradient Methods  Nonlinear Optimization  

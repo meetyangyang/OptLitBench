@@ -1,0 +1,6 @@
+Simultaneous optimization of shape parameters and weight factors in ensemble of radial basis functions
+Erdem Acar;
+Abstract
+Radial basis functions (RBFs) are approximate mathematical models that can mimic the behavior of fast changing responses. Different formulations of RBFs can be combined in the form of an ensemble model to improve prediction accuracy. The conventional approach in constructing an RBF ensemble is based on a two-step procedure. In the first step, the optimal values of the shape parameters of each stand-alone RBF model are determined. In the second step, the shape parameters are fixed to these optimal values and the weight factors of each stand-alone RBF model in the ensemble are optimized. In this paper, simultaneous optimization of shape parameters and weight factors is proposed as an alternative to this two-step procedure for further improvement of prediction accuracy. Gaussian, multiquadric and inverse multiquadric RBF formulations are combined in the ensemble model. The efficiency of the proposed method is evaluated through example problems of varying dimensions from two to twelve. It is found that the proposed method improves the prediction accuracy of the ensemble compared to the conventional two-step procedure for the example problems considered.
+Keywords
+Ensemble  Radial basis function  Shape parameter  Weight factor  

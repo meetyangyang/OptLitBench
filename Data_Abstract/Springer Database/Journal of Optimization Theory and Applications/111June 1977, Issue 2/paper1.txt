@@ -1,0 +1,6 @@
+Diagonalized multiplier methods and quasi-Newton methods for constrained optimization
+R. A. Tapia;
+Abstract
+Two approaches to quasi-Newton methods for constrained optimization problems inRn are presented. These approaches are based on a class of Lagrange multiplier approximation formulas used by the author in his previous work on Newton's method for constrained problems. The first approach is set in the framework of a diagonalized multiplier method. From this point of view, a new update rule for the Lagrange multipliers which depends on the particular quasi-Newton method employed is given. This update rule, in contrast to most other update rules, does not require exact minimization of the intermediate unconstrained problem. In fact, the optimal convergence rate is attained in the extreme case when only one step of a quasi-Newton method is taken on this intermediate problem. The second approach transforms the constrained optimization problem into an unconstrained problem of the same dimension.
+Keywords
+Newton-Raphson method  quasi-Newton method  nonlinear programming  multiplier method  augmented Lagrangian method  

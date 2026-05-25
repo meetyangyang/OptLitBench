@@ -1,0 +1,6 @@
+Locating leak detecting sensors in a water distribution network by solving prize-collecting Steiner arborescence problems
+Alain Prodon;Scott DeNegre;Thomas M. Liebling;
+Abstract
+We consider the problem of optimizing a novel acoustic leakage detection system for urban water distribution networks. The system is composed of a number of detectors and transponders to be placed in a choice of hydrants such as to provide a desired coverage under given budget restrictions. The problem is modeled as a particular Prize-Collecting Steiner Arborescence Problem. We present a branch-and-cut-and-bound approach taking advantage of the special structure at hand which performs well when compared to other approaches. Furthermore, using a suitable stopping criterion, we obtain approximations of provably excellent quality (in most cases actually optimal solutions). The test bed includes the real water distribution network from the Lausanne region, as well as carefully randomly generated realistic instances.
+Keywords
+Prize-collecting Steiner problem  Branch and cut  Network leakage detection  90C27  90C57  90C90  

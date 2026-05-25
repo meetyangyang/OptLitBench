@@ -1,0 +1,6 @@
+Stochastic Multiobjective Optimization: Sample Average Approximation and Applications
+Jörg Fliege;Huifu Xu;
+Abstract
+We investigate one stage stochastic multiobjective optimization problems where the objectives are the expected values of random functions. Assuming that the closed form of the expected values is difficult to obtain, we apply the well known Sample Average Approximation (SAA) method to solve it. We propose a smoothing infinity norm scalarization approach to solve the SAA problem and analyse the convergence of efficient solution of the SAA problem to the original problem as sample sizes increase. Under some moderate conditions, we show that, with probability approaching one exponentially fast with the increase of sample size, an ϵ-optimal solution to the SAA problem becomes an ϵ-optimal solution to its true counterpart. Moreover, under second order growth conditions, we show that an efficient point of the smoothed problem approximates an efficient solution of the true problem at a linear rate. Finally, we describe some numerical experiments on some stochastic multiobjective optimization problems and report preliminary results.
+Keywords
+Stochastic multiobjective programming  Sample average approximation  Scalarization  Efficient solution  Exponential convergence  

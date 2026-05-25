@@ -1,0 +1,6 @@
+Multipoint cubic surrogate function for sequential approximate optimization
+R.A. Canfield ;
+Abstract
+Multipoint cubic approximations are investigated as surrogate functions for nonlinear objective and constraint functions in the context of sequential approximate optimization. The proposed surrogate functions match actual function and gradient values, including the current expansion point, thus satisfying the zero and first-order necessary conditions for global convergence to a local minimum of the original problem. Function and gradient information accumulated from multiple design points during the iteration history is used in estimating a reduced Hessian matrix and selected cubic terms in a design subspace appropriate for problems with many design variables. The resulting approximate response surface promises to accelerate convergence to an optimal design within the framework of a trust region algorithm. The hope is to realize computational savings in solving large numerical optimization problems. Numerical examples demonstrate the effectiveness of the new multipoint surrogate function in reducing errors over large changes in design variables. 
+Keywords
+multipoint approximation  optimization  response surface  surrogate function   

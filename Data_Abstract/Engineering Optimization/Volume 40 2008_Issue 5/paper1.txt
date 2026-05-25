@@ -1,0 +1,6 @@
+Hybridizing evolutionary strategies with continuation methods for solving multi-objective problems
+ Oliver   Schütze ; Carlos   A.   Coello Coello ; Sanaz   Mostaghim ; El-Ghazali   Talbi ; Michael   Dellnitz ;
+Abstract
+ Two techniques for the numerical treatment of multi-objective optimization problems—a continuation method and a particle swarm optimizer—are combined in order to unite their particular advantages. Continuation methods can be applied very efficiently to perform the search along the Pareto set, even for high-dimensional models, but are of local nature. In contrast, many multi-objective particle swarm optimizers tend to have slow convergence, but instead accomplish the ‘global task’ well. An algorithm which combines these two techniques is proposed, some convergence results for continuous models are provided, possible realizations are discussed, and finally some numerical results are presented indicating the strength of this novel approach. 
+Keywords
+multi-objective optimization, continuation methods, particle swarm optimization, evolutionary algorithms 

@@ -1,0 +1,11 @@
+A combinatorial algorithm for the TDMA message scheduling problem
+Clayton W. Commander;Panos M. Pardalos;
+Abstract
+
+In this paper, we introduce a combinatorial algorithm for the message scheduling problem on Time Division Multiple Access (TDMA) networks. In TDMA networks, time is divided in to slots in which messages are scheduled. The frame length is defined as the total number of slots required for all stations to broadcast without message collisions. The objective is to provide a broadcast schedule of minimum frame length which also provides the maximum throughput. This problem is known to be 
+\(\mathcal{NP}\)
+-hard, thus efficient heuristics are needed to provide solutions to real-world instances. We present a two-phase algorithm which exploits the combinatorial structure of the problem in order to provide high quality solutions. The first phase finds a feasible frame length in which the throughput is maximized in phase two. Computational results are provided and compared with other heuristics in the literature as well as to the optimal solutions found using a commercial integer programming solver. Experiments on 63 benchmark instances show that the proposed method is able to provide optimal frame lengths for all cases with near optimal throughput.
+
+Keywords
+TDMA networks  Heuristics  Graph algorithms  Optimization  \(\mathcal{NP}\)
+-hard  

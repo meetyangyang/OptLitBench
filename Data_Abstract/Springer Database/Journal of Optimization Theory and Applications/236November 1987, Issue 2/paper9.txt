@@ -1,0 +1,6 @@
+Scheduling of power generation via large-scale nonlinear optimization
+P. P. J. Van Den Bosch;F. A. Lootsma;
+Abstract
+We investigate methods for solving high-dimensional nonlinear optimization problems which typically occur in the daily scheduling of electricity production: problems with a nonlinear, separable cost function, lower and upper bounds on the variables, and an equality constraint to satisfy the demand. If the cost function is quadratic, we use a modified Lagrange multiplier technique. For a nonquadratic cost function (a penalty function combining the original cost function and certain fuel constraints, so that it is generally not separable), we compare the performance of the gradient-projection method and the reduced-gradient method, both with conjugate search directions within facets of the feasible set. Numerical examples at the end of the paper demonstrate the effectiveness of the gradient-projection method to solve problems with hundreds of variables by exploitation of the special structure.
+Keywords
+Dispatch problems  continuous knapsack problems  Lagrange multiplier technique  gradient projection  reduced gradients  conjugate directions  

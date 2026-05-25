@@ -1,0 +1,6 @@
+The Cutting Plane Method is Polynomial for Perfect Matchings
+Karthekeyan Chandrasekaran;László A. Végh;Santosh S. Vempala;
+Abstract
+The cutting plane approach to finding minimum-cost perfect matchings has been discussed by several authors over past decades. Its convergence has been an open question. We develop a cutting plane algorithm that converges in polynomial-time using only Edmonds’ blossom inequalities, and which maintains half-integral intermediate LP solutions supported by a disjoint union of odd cycles and edges. Our main insight is a method to retain only a subset of the previously added cutting planes based on their dual values. This allows us to quickly find violated blossom inequalities and argue convergence by tracking the number of odd cycles in the support of intermediate solutions.
+Keywords
+integer programs cutting planes linear programs matchings blossom inequalities graph theory half-integrality 

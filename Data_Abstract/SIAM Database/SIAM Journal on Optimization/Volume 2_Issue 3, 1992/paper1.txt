@@ -1,0 +1,6 @@
+An $O(\sqrt{n} L)$-Iteration Large-Step Primal-Dual Affine Algorithm for Linear Programming
+C. C.  Gonzaga and M. J.  Todd;
+Abstract
+An algorithm based on reducing a suitable potential function for linear programming is described. At each iteration, separate scalings are applied to the primal and dual problems, and a step is taken in either the primal or the dual space. It is shown that a constant reduction can always be achieved, leading to a bound of $O(n^{1/2} L)$ iterations. Moreover, it is also shown that a reduction of $\Omega (n^{1/4} )$ can usually be obtained, so that $O(n^{1/4} L)$ iterations are expected to suffice. Finally, it is proved that no general algorithm taking either primal or dual steps and guaranteeing the reduction of such a potential function can achieve R-order of convergence greater than one.
+Keywords
+linear programming, interior-point methods, potential-reduction methods, path-following methods, 90C05, 

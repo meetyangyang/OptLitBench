@@ -1,0 +1,6 @@
+A new pivot selection rule for the network simplex algorithm
+P. T. Sokkalingam;Prabha Sharma;Ravindra K. Ahuja;
+Abstract
+We present a new network simplex pivot selection rule, which we call theminimum ratio pivot rule, and analyze the worst-case complexity of the resulting network simplex algorithm. We consider networks withn nodes,m arcs, integral arc capacities and integral supplies/demands of nodes. We define a {0, 1}-valued penalty for each arc of the network. The minimum ratio pivot rule is to select that eligible arc as the entering arc whose addition to the basis creates a cycle with the minimum cost-to-penalty ratio. We show that the so-defined primal network simplex algorithm solves minimum cost flow problem within O(nΔ) pivots and in O(Δ(m + n logn)) time, whereΔ is any upper bound on the sum of all arc flows in every feasible flow. For assignment and shortest path problems, our algorithm runs in O(n 2) pivots and O(nm +n 2 logn) time.
+Keywords
+Networks  Simplex algorithm  Minimum cost flow problem  Assignment problem  Shortest path problem  

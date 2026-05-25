@@ -1,0 +1,6 @@
+Heuristic solution approaches for the maximum minsum dispersion problem
+Anna Martínez-Gavara;Vicente Campos;Manuel Laguna;Rafael Martí;
+Abstract
+The Maximum Minsum Dispersion Problem (Max-Minsum DP) is a strongly NP-Hard problem that belongs to the family of equitable dispersion problems. When dealing with dispersion, the operations research literature has focused on optimizing efficiency-based objectives while neglecting, for the most part, measures of equity. The most common efficiency-based functions are the sum of the inter-element distances or the minimum inter-element distance. Equitable dispersion problems, on the other hand, attempt to address the balance between efficiency and equity when selecting a subset of elements from a larger set. The objective of the Max-Minsum DP is to maximize the minimum aggregate dispersion among the chosen elements. We develop tabu search and GRASP solution procedures for this problem and compare them against the best in the literature. We also apply LocalSolver, a commercially available black-box optimizer, to compare our results. Our computational experiments show that we are able to establish new benchmarks in the solution of the Max-Minsum DP.
+Keywords
+Equitable dispersion problems  Tabu search  GRASP   Metaheuristics  

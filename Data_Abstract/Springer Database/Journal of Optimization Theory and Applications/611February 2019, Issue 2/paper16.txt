@@ -1,0 +1,6 @@
+A Heuristic Method Using Hessian Matrix for Fast Flow Topology Optimization
+Kazuo Yonekura;Yoshihiro Kanno;
+Abstract
+We propose a heuristic optimization method for a density-based fluid topology optimization using a Hessian matrix. In flow topology optimization, many researches use a gradient-based method. Convergence rate of a gradient method is linear, which means slow convergence near the optimal solution. For faster convergence, we utilize a Hessian matrix toward the end of the optimization procedure. In the present paper, we formulate a fluid optimization problem using the lattice Boltzmann method and heuristically solve the optimization problem with using an approximated sensitivity. In the formulation of a Hessian matrix, we use a heuristic trick in order to formulate it as a diagonal matrix. By the heuristics, the computation cost is decreased drastically. The validity of the method is studied via numerical examples.
+Keywords
+Topology optimization  Lattice Boltzmann method  Hessian  Sensitivity analysis  76D55  76M25  49M15  

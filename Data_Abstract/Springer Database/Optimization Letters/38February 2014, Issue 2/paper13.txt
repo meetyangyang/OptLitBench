@@ -1,0 +1,6 @@
+An approach for solving competitive location problems with variable demand using multicore systems
+A. G. Arrondo;J. Fernández;J. L. Redondo;P. M. Ortigosa;
+Abstract
+A planar competitive location and design problem with variable demand is considered. The assumption that the demand may vary depending on the conditions of the market makes the problem more realistic, but it also increases its complexity, and therefore, the computational effort needed to solve it. In this paper, a modification of a heuristic recently proposed to cope with the problem is presented, which allows, on the one hand, to obtain the same solutions as the original heuristic more quickly and, on the other hand, to handle larger size problems. Furthermore, a parallel version of the algorithm, suitable for being run in most of today’s personal computers, has also been proposed. The parallel algorithm has been implemented using the OpenMP library and the results show an ideal efficiency up to at least eight processors (the largest number of available processing elements). The effectiveness of the parallel algorithm has also been measured. From the computational results, it can be inferred that the proposed parallelization is robust.
+Keywords
+Continuous location  Variable demand  Evolutionary algorithm  Weiszfeld algorithm  Parallel algorithms  OpenMP  

@@ -1,0 +1,6 @@
+Robust Stabilization by Linear Output Delay Feedback
+Mark  French, Achim  Ilchmann, and Markus  Mueller;
+Abstract
+The main result of this paper establishes that if a controller C (comprising of a linear feedback of the output and its derivatives) globally stabilizes a (nonlinear) plant P, then global stabilization of P can also be achieved by an output feedback controller $C[h]$, where the output derivatives in C are replaced by an Euler approximation with sufficiently small delay $h>0$. This is proved within the conceptual framework of the nonlinear gap metric approach to robust stability. The main result is then applied to finite dimensional linear minimum phase systems with unknown coefficients but known relative degree and known sign of the high frequency gain. Results are also given for systems with nonzero initial conditions.
+Keywords
+robust stabilization, gap metric, high-gain output feedback, delay feedback, 93D15, 93D21, 93B52, 34D23, 34K20, 

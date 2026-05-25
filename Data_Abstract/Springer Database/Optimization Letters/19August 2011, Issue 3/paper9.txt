@@ -1,0 +1,6 @@
+Restart strategies for GRASP with path-relinking heuristics
+Mauricio G. C. Resende;Celso C. Ribeiro;
+Abstract
+GRASP with path-relinking is a hybrid metaheuristic, or stochastic local search (Monte Carlo) method, for combinatorial optimization. A restart strategy in GRASP with path-relinking heuristics is a set of iterations {i 1, i 2, …} on which the heuristic is restarted from scratch using a new seed for the random number generator. Restart strategies have been shown to speed up stochastic local search algorithms. In this paper, we propose a new restart strategy for GRASP with path-relinking heuristics. We illustrate the speedup obtained with our restart strategy on GRASP with path-relinking heuristics for the maximum cut problem, the maximum weighted satisfiability problem, and the private virtual circuit routing problem.
+Keywords
+GRASP  Path-relinking  Restart strategy  Experimental algorithmics  

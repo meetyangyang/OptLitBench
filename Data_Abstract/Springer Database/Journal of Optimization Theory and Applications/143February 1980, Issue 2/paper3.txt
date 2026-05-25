@@ -1,0 +1,6 @@
+Theoretical properties and numerical tests of an efficient nonlinear decomposition algorithm
+C. L. Sandblom;
+Abstract
+Kronsjö's nonlinear generalization (Ref. 1) of Benders' algorithm (Ref. 2) is reviewed. At each iteration, this algorithm produces upper and lower bounds to the true optimum, and the sequence of lower bounds is increasing. The algorithm is modified, so that the sequence of upper bounds is ε-decreasing as well. The two versions are tested numerically using an ALGOL program originally written by Wong (Ref. 3), incorporating the SUMT method (Fiacco and McCormick, Refs. 4 and 5). The two versions are compared against each other, and the problem of the optimal degree of decomposition is considered. Finally, an attempt is made to express the computer time required to solve the test problems as a function of master problem size, number of subproblems, and average subproblem size.
+Keywords
+Nonlinear programming  decomposition algorithm  convexity  convergence  SUMT algorithm  

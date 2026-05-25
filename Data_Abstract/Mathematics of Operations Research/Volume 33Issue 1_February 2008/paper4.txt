@@ -1,0 +1,6 @@
+Optimal Control of Distributed Parallel Server Systems Under the Halfin and Whitt Regime
+Tolga Tezcan;
+Abstract
+We consider a distributed parallel server system that consists of multiple server pools and a single customer class. We show that the minimum-expected-delay faster-server-first (MED-FSF) routing policy asymptotically minimizes the stationary distribution of the total queue length and the stationary delay probability in the Halfin and Whitt regime. We propose the minimum-expected-delay load-balancing (MED-LB) routing policy to balance the utilizations of all the servers in a distributed system with no unnecessary idling. We show that this policy balances both the long-run and finite-time average utilizations over all the server pools in the Halfin and Whitt regime. We next show that, under either the MED-FSF or the MED-LB policy, a distributed system performs as well as the corresponding inverted V-system. Finally, we show that, operating under the MED-LB policy, both the distributed system and the inverted V-system have similar performances to a corresponding M/M/n system. We illustrate the quality of our asymptotic results for several parallel server systems via simulation experiments.
+Keywords
+large-scale service networks scheduling and routing control heavy traffic quality and efficiency driven distributed systems 

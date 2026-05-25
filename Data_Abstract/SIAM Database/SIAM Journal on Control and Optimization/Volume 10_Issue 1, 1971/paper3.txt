@@ -1,0 +1,5 @@
+Error Bounds of High Order Accuracy for the State Regulator Problem via Piecewise Polynomial Approximations 
+W. E.  Bosarge, Jr and O. G.  Johnson;
+Abstract
+Consider the linear quadratic cost control problem $\dot x = A(t)x + B(t)u$, $x(0) = x_0 $,with a cost functional $J[u] = \frac{1}{2}\int_0^T {[\langle {x,Q(t)x} \rangle  + \langle {u,R(t)u} \rangle ]dt} $. Let S be a suitable space of piecewise cubic polynomials on a mesh of norm h on the interval $[0,T]$. Then it is shown that a so-called Ritz–Trefftz method for minimizing $J[ \cdot ]$ over S leads to an approximation to $J[ \cdot ]$ of order $O(h^7 )$. Further, a computable error bound can be exhibited. It is also shown that the computed pair $(\bar u,\bar x)$ converges to the optimal pair $(u^ *  ,x^ *  )$ with order $O(h^3 )$. Similar statements are made for piecewise polynomial approximation of arbitrary positive order.
+Keywords

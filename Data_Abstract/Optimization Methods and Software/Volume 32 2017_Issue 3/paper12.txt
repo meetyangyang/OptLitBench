@@ -1,0 +1,6 @@
+The distributionally robust complementarity problem
+Lei Zhu;Bo Yu;Liyan Xu;
+Abstract
+We investigate the linear complementarity problem with uncertain parameters (ULCP) which affect the linear mapping affinely or quadratically. Assuming that the distribution of the uncertain parameters belongs to some ambiguity set with prescribed partial information, we formulate the ULCP as a distributionally robust optimization reformulation named as the distributionally robust complementarity problem (DRCP), which minimizes the worst case of an expected complementarity measure with a joint chance constraint that the probability of the linear mapping being nonnegative is not less than a given level. Applying the cone dual theory and S-procedure, we conservatively approximate the DRCP as a nonlinear semidefinite programming (NSDP) with bilinear matrix inequalities, which can be solved by the NSDP solver PENLAB. The preliminary numerical test on a constrained stochastic linear quadratic control problem shows that the DRCP as well as the corresponding solution method is promising.
+Keywords
+uncertain complementarity problem, distributionally robust optimization, joint chance constraint, bilinear matrix inequalities, constrained stochastic linear quadratic controlAMS Subject Classification: 90C33, 90C33, 65K10 

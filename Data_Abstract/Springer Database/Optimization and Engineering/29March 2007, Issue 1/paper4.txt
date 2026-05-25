@@ -1,0 +1,8 @@
+Reduced-basis techniques for rapid reliable optimization of systems described by affinely parametrized coercive elliptic partial differential equations
+I. B. Oliveira;A. T. Patera;
+Abstract
+
+We present a technique for the rapid and reliable optimization of systems characterized by linear-functional outputs of coercive elliptic partial differential equations with affine (input) parameter dependence. The critical ingredients are: reduced-basis approximation to effect significant reduction in state-space dimensionality; a posteriori error bounds to provide rigorous error estimation and control; “offline/online” computational decompositions to permit rapid evaluation of output bounds, output bound gradients, and output bound Hessians in the limit of many queries; and reformulation of the approximate optimization statement to ensure (true) feasibility and control of suboptimality. To illustrate the method we consider the design of a three-dimensional thermal fin: Given volume and power objective-function weights, and root temperature “not-to-exceed” limits, the optimal geometry and heat transfer coefficient can be determined—with guaranteed feasibility—in only 2.3 seconds on a 500 MHz Pentium machine; note the latter includes only the online component of the calculations. Our method permits not only interactive optimal design at conception and manufacturing, but also real-time reliable adaptive optimal design in operation.
+
+Keywords
+Engineering optimization  Reduced-basis approximation  A posteriori error estimation  Output bounds  Uncertainty control  Parametrized partial differential equations  Real-time computing  

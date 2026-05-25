@@ -1,0 +1,6 @@
+Newton and Quasi-Newton Methods for Normal Maps with Polyhedral Sets
+J. Han;D. Sun;
+Abstract
+We present a generalized Newton method and a quasi-Newton method forsolving \(H(x): = F(\prod {_c } (x)) + x - \prod {_c } (x) = 0\), when C isa polyhedral set. For both the Newton and quasi-Newton methodsconsidered here, the subproblem to be solved is a linear system ofequations per iteration. The other characteristics of the quasi-Newtonmethod include: (i) a Q-superlinear convergencetheorem is established without assuming the existence ofH′ at a solution x* ofH(x)=0; (ii) only oneapproximate matrix is needed; (iii) the linearindependence condition is not assumed; (iv)Q-superlinear convergence is established on the originalvariable x; and (v) from theQR-factorization of the kth iterative matrix, we needat most \(O((1 + 2\left| {J_k } \right| + 2\left| {L_k } \right|)n^2 )\)arithmetic operations to get the QR-factorization of the(k+1)th iterative matrix.
+Keywords
+Normal maps  Newton methods  quasi-Newton methods  Q-superlinear convergence  

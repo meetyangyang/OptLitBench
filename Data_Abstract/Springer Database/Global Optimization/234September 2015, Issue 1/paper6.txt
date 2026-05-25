@@ -1,0 +1,6 @@
+Population model-based optimization
+Xi Chen;Enlu Zhou;
+Abstract
+Model-based optimization methods are a class of stochastic search methods that iteratively find candidate solutions by generating samples from a parameterized probabilistic model on the solution space. In order to better capture the multi-modality of the objective functions than the traditional model-based methods which use only a single model, we propose a framework of using a population of models at every iteration with an adaptive mechanism to propagate the population over iterations. The adaptive mechanism is derived from estimating the optimal parameter of the probabilistic model in a Bayesian manner, and thus provides a proper way to determine the diversity in the population of the models. We provide theoretical justification on the convergence of this framework by showing that the posterior distribution of the parameter asymptotically converges to a degenerate distribution concentrating on the optimal parameter. Under this framework, we develop two practical algorithms by incorporating sequential Monte Carlo methods, and carry out numerical experiments to illustrate their performance.
+Keywords
+Stochastic search  Model-based optimization  Sequential Monte Carlo  

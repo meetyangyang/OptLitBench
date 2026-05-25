@@ -1,0 +1,6 @@
+Design for maximal flexibility as a simple computational model of damage
+W. Achtziger;M. P. Bendsøe;
+Abstract
+We consider a simple model of damage, where damage is interpreted as the removal of material from a given truss structure. Occuring damage in a given scenario is modelled by a damage contribution which maximizes compliance. Assuming linear elasticity this leads to an optimization problem formulated in displacements and a set of variables which describe the damaged material of each bar in the truss. A sequence of such problems models damage as a time-dependent process, i.e. damage evolution is considered. A simple ad-hoc-method for the resulting nonconvex problems can be interpreted as a descent algorithm of feasible directions which reaches a local optimum in a finite number of steps. Some numerical examples show the use of the algorithm.
+Keywords
+Civil Engineer  Simple Model  Computational Model  Finite Number  Local Optimum  

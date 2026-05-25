@@ -1,0 +1,6 @@
+An approach for robust PDE-constrained optimization with application to shape optimization of electrical engines and of dynamic elastic structures under uncertainty
+Philip Kolvenbach;Oliver Lass;Stefan Ulbrich;
+Abstract
+We present a robust optimization framework that is applicable to general nonlinear programs (NLP) with uncertain parameters. We focus on design problems with partial differential equations (PDE), which involve high computational cost. Our framework addresses the uncertainty with a deterministic worst-case approach. Since the resulting min–max problem is computationally intractable, we propose an approximate robust formulation that employs quadratic models of the involved functions that can be handled efficiently with standard NLP solvers. We outline numerical methods to build the quadratic models, compute their derivatives, and deal with high-dimensional uncertainties. We apply the presented approach to the parametrized shape optimization of systems that are governed by different kinds of PDE and present numerical results.
+Keywords
+PDE-constrained optimization  Robust optimization  35Q60  35Q72  49K20  49K35  

@@ -1,0 +1,6 @@
+Sensitivity Analysis Methods to Design Optimal Ship Hulls
+Mauro Valorani;Daniele Peri;Emilio F. Campana;
+Abstract
+Automatic procedures for the design of ship hull geometries yielding minimal wave resistance and wave breaking are an attractive opportunity from both the economical and practical standpoints. Estimating the cost function gradient according to the Sensitivity Equation and Adjoint Methods (SEM, AM) instead of using the standard finite difference approximations has the potential of reducing the computational cost of the overall optimization procedure. Aim of this paper is to assess the actual extent of the cost reduction. Speed-up factors of up to 3.3 have been obtained in the evaluation of the cost function gradient and of about 1.6 in the overall optimization procedure applied to an optimal shape design problem of an existing tanker ship. The SEM and AM methods perform better than finite differences mainly because of (i) the smaller number of flow solutions needed to compute the cost function gradient and (ii) the opportunity of using the same LU factored matrix for both the flow solver and the SEM or AM equations, a circumstance arising as a consequence of having chosen a linearized potential flow model of the 3D free-surface problem.
+Keywords
+sensitivity equation method  adjoint method  optimal shape design  numerical ship hydrodynamics  

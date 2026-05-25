@@ -1,0 +1,6 @@
+A class of algorithms for mixed-integer bilevel min–max optimization
+Yen Tang;Jean-Philippe P. Richard;J. Cole Smith;
+Abstract
+In this paper, we introduce a new class of algorithms for solving the mixed-integer bilevel min–max optimization problem. This problem involves two players, a leader and a follower, who play a Stackelberg game. In particular, the leader seeks to minimize over a set of discrete variables the maximum objective that the follower can achieve. The complicating features of our problem are that a subset of the follower’s decisions are restricted to be integer-valued, and that the follower’s decisions are constrained by the leader’s decisions. We first describe several bilevel min–max programs that can be used to obtain lower and upper bounds on the optimal objective value of the problem. We then present algorithms for this problem that finitely terminate with an optimal solution when the leader variables are restricted to take binary values. Finally, we report the results of a computational study aimed at evaluating the quality of our algorithms on two families of randomly generated problems.
+Keywords
+Bilevel programming  Interdiction problems  Integer programing  Algorithms  

@@ -1,0 +1,6 @@
+Heuristic for two-dimensional homogeneous two-segment cutting patterns
+ Yaodong   Cui ;
+Abstract
+ This article deals with the guillotine-constrained two-dimensional cutting problem, where a guillotine is used to cut the stock plate into rectangular pieces, such that the pattern value (the total value of the pieces produced) is maximized, observing the constraint that the frequency of each piece type should not exceed the demand. Homogeneous two-segment (HTS) cutting patterns are considered to simplify the cutting process. Each HTS pattern includes two segments, each segment contains homogeneous strips of the same direction, and each homogeneous strip contains pieces of the same type. A heuristic is presented for generating HTS patterns. It is based on dynamic programming and branch-and-bound techniques. The computational results indicate that the heuristic is able to generate solutions close to optimal, and is adequate for solving large-scale instances. 
+Keywords
+cutting stock, two-dimensional cutting, homogeneous two-segment patterns 

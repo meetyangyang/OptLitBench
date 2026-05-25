@@ -1,0 +1,6 @@
+A Finite Branch-and-Bound Algorithm for Linear Multiplicative Programming
+Takahito Kuno;
+Abstract
+On the basis of Soland's rectangular branch-and-bound, we develop an algorithm for minimizing a product of p (≥2) affine functions over a polytope. To tighten the lower bound on the value of each subproblem, we install a second-stage bounding procedure, which requires O(p) additional time in each iteration but remarkably reduces the number of branching operations. Computational results indicate that the algorithm is practical if p is less than 15, both in finding an exact optimal solution and an approximate solution.
+Keywords
+global optimization  nonconvex optimization  linear multiplicative programming  branch-and-bound algorithm  continuous knapsack problem  

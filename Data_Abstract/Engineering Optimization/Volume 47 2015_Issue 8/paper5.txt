@@ -1,0 +1,6 @@
+Solving large-scale fixed cost integer linear programming models for grid-based location problems with heuristic techniques
+Md. Noor-E-Alam;John Doucette;
+Abstract
+Grid-based location problems (GBLPs) can be used to solve location problems in business, engineering, resource exploitation, and even in the field of medical sciences. To solve these decision problems, an integer linear programming (ILP) model is designed and developed to provide the optimal solution for GBLPs considering fixed cost criteria. Preliminary results show that the ILP model is efficient in solving small to moderate-sized problems. However, this ILP model becomes intractable in solving large-scale instances. Therefore, a decomposition heuristic is proposed to solve these large-scale GBLPs, which demonstrates significant reduction of solution runtimes. To benchmark the proposed heuristic, results are compared with the exact solution via ILP. The experimental results show that the proposed method significantly outperforms the exact method in runtime with minimal (and in most cases, no) loss of optimality.
+Keywords
+location analysis, fixed cost, large-scale problems, integer programming, decomposition heuristic 

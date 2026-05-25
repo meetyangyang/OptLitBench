@@ -1,0 +1,6 @@
+A multi-start opposition-based particle swarm optimization algorithm with adaptive velocity for bound constrained global optimization
+Massimiliano Kaucic;
+Abstract
+In this paper we present a multi-start particle swarm optimization algorithm for the global optimization of a function subject to bound constraints. The procedure consists of three main steps. In the initialization phase, an opposition learning strategy is performed to improve the search efficiency. Then a variant of the adaptive velocity based on the differential operator enhances the optimization ability of the particles. Finally, a re-initialization strategy based on two diversity measures for the swarm is act in order to avoid premature convergence and stagnation. The strategy uses the super-opposition paradigm to re-initialize particles in the swarm. The algorithm has been evaluated on a set of 100 global optimization test problems. Comparisons with other global optimization methods show the robustness and effectiveness of the proposed algorithm.
+Keywords
+Particle swarm optimization  Restart techniques  Opposition-based computing  Hybrid methods  Bound constrained optimization  

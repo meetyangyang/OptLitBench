@@ -1,0 +1,6 @@
+Newton’s Method for Computing the Nearest Correlation Matrix with a Simple Upper Bound
+Qingna Li;Donghui Li;Houduo Qi;
+Abstract
+The standard nearest correlation matrix can be efficiently computed by exploiting a recent development of Newton’s method (Qi and Sun in SIAM J. Matrix Anal. Appl. 28:360–385, 2006). Two key mathematical properties, that ensure the efficiency of the method, are the strong semismoothness of the projection operator onto the positive semidefinite cone and constraint nondegeneracy at every feasible point. In the case where a simple upper bound is enforced in the nearest correlation matrix in order to improve its condition number, it is shown, among other things, that constraint nondegeneracy does not always hold, meaning Newton’s method may lose its quadratic convergence. Despite this, the numerical results show that Newton’s method is still extremely efficient even for large scale problems. Through regularization, the developed method is applied to semidefinite programming problems with simple bounds.
+Keywords
+Semismooth Newton method  Constraint nondegeneracy  Quadratic convergence  Correlation matrix  

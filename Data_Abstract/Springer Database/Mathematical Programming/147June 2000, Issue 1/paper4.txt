@@ -1,0 +1,6 @@
+Polynomial convergence of primal-dual algorithms for the second-order cone program based on the MZ-family of directions
+Renato D.C. Monteiro;Takashi Tsuchiya;
+Abstract
+In this paper we study primal-dual path-following algorithms for the second-order cone programming (SOCP) based on a family of directions that is a natural extension of the Monteiro-Zhang (MZ) family for semidefinite programming. We show that the polynomial iteration-complexity bounds of two well-known algorithms for linear programming, namely the short-step path-following algorithm of Kojima et al. and Monteiro and Adler, and the predictor-corrector algorithm of Mizuno et al., carry over to the context of SOCP, that is they have an O(\(\) logε-1) iteration-complexity to reduce the duality gap by a factor of ε, where n is the number of second-order cones. Since the MZ-type family studied in this paper includes an analogue of the Alizadeh, Haeberly and Overton pure Newton direction, we establish for the first time the polynomial convergence of primal-dual algorithms for SOCP based on this search direction.
+Keywords
+Key words: second-order cone programming – ice-cream cone – interior-point methods – polynomial complexity – path-following methods – primal-dual methods – Newton method  

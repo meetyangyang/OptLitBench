@@ -1,0 +1,6 @@
+Dynamic trees as search trees via euler tours, applied to the network simplex algorithm
+Robert E. Tarjan;
+Abstract
+Thedynamic tree is an abstract data type that allows the maintenance of a collection of trees subject to joining by adding edges (linking) and splitting by deleting edges (cutting), while at the same time allowing reporting of certain combinations of vertex or edge values. For many applications of dynamic trees, values must be combined along paths. For other applications, values must be combined over entire trees. For the latter situation, an idea used originally in parallel graph algorithms, to represent trees by Euler tours, leads to a simple implementation with a time of O(logn) per tree operation, wheren is the number of tree vertices. We apply this representation to the implementation of two versions of the network simplex algorithm, resulting in a time of O(logn) per pivot, wheren is the number of vertices in the problem network.
+Keywords
+Search Tree  Tree Operation  Dynamic Tree  Minimum Cost Flow  Euler Tour  

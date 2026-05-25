@@ -1,0 +1,6 @@
+Tracking with Prescribed Transient Performance for Hysteretic Systems
+Achim  Ilchmann, Hartmut  Logemann, and Eugene P.  Ryan;
+Abstract
+Tracking of reference signals (assumed bounded with essentially bounded derivative) is considered for a class of single-input, single-output, nonlinear systems, described by a functional differential equation with a hysteresis nonlinearity in the input channel. The first control objective is tracking, by the output, with prescribed accuracy: determine a feedback strategy which ensures that, for every reference signal and every system of the underlying class, the tracking error ultimately satisfies the prescribed accuracy requirements. The second objective is guaranteed output transient performance: the graph of the tracking error should be contained in a prescribed set (performance funnel). Under a weak sector boundedness assumption on the hysteresis operator, both objectives are achieved by a memoryless feedback which is universal for the underlying class of systems.
+Keywords
+disturbance rejection, functional differential equations, hysteresis, nonlinear systems, tracking, transient behavior, 93D15, 34K20, 34C55, 47J40, 

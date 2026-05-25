@@ -1,0 +1,6 @@
+Optimal discounted linear control of the wiener process
+I. Karatzas;
+Abstract
+The following stochastic control problem is considered: to minimize the discounted expected total cost$$J(x;u) = E\int_0^\infty  {\exp ( - at)[\phi } (x_l ) + |u_l (x)|]dt,$$ subject todx t =u t (x)dt+dw t ,x0=x, |u t |≤1, (w t ) a Wiener process, α>0. All bounded by unity, measurable, and nonanticipative functionalsu t (x) of the state processx t  are admissible as controls. It is proved that the optimal law is of the form$$\begin{gathered}  u_t^* (x) =  - 1,x_t  > b, \hfill \\  u_t^* (x) = 0,|x_t | \leqslant b, \hfill \\  u_t^* (x) = 1,x_t<  - b, \hfill \\ \end{gathered}$$ for some switching pointb > 0, characterized in terms of the function ø(·) through a transcendental equation.
+Keywords
+Stochastic differential equations  discounted stochastic control  Bellman equation  dead-zone controllers  Wiener process  

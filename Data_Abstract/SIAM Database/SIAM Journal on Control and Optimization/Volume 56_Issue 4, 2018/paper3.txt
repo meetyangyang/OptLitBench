@@ -1,0 +1,6 @@
+Optimal Control of Nonlinear Elliptic Problems with Sparsity
+Augusto C.  Ponce  and Nicolas  Wilmet;
+Abstract
+We study the minimization of the cost functional $F(\mu) = \|{u - u_d}\|_{L^p(\Omega)} + \alpha \|{\mu}\|_{\mathcal{M}(\Omega)}$, where the controls \(\mu\) are taken in the space of finite Borel measures and \(u \in W_0^1, 1(\Omega)) satisfies the equation \(- \Delta u + g(u) = \mu\) in the sense of distributions in (\Omega) for a given nondecreasing continuous function \(g : \mathbbR \to \mathbbR\) such that \(g(0) = 0\). We prove that \(F\) has a minimizer for every desired state \(u_d \in L^1(\Omega)) and every control parameter \(\alpha > 0\). We then show that when \(u_d\) is nonnegative or bounded, every minimizer of \(F\) has the same property.
+Keywords
+optimal control, sparsity, semilinear elliptic equations, measure controls, reduced limit, 49K20, 35J20, 35J91, 49J20, 49J52, 

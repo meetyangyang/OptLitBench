@@ -1,0 +1,6 @@
+ACCPM with a nonlinear constraint and an active set strategy to solve nonlinear multicommodity flow problems
+F. Babonneau;J.-P. Vial;
+Abstract
+This paper proposes an implementation of a constrained analytic center cutting plane method to solve nonlinear multicommodity flow problems. The new approach exploits the property that the objective of the Lagrangian dual problem has a smooth component with second order derivatives readily available in closed form. The cutting planes issued from the nonsmooth component and the epigraph set of the smooth component form a localization set that is endowed with a self-concordant augmented barrier. Our implementation uses an approximate analytic center associated with that barrier to query the oracle of the nonsmooth component. The paper also proposes an approximation scheme for the original objective. An active set strategy can be applied to the transformed problem: it reduces the dimension of the dual space and accelerates computations. The new approach solves huge instances with high accuracy. The method is compared to alternative approaches proposed in the literature.
+Keywords
+Constrained ACCPM  Approximation scheme  Active set strategy  Nondifferentiable optimization  Network flow problem  

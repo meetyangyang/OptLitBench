@@ -1,0 +1,6 @@
+Unified approach for solving box-constrained models with continuous or discrete variables by non monotone direct search methods
+Ubaldo M. García-Palomares;Pedro S. Rodríguez-Hernández;
+Abstract
+This paper is an outgrowth of previous works devoted to the application of non monotone direct search methods (DSMs) to locate the global minimum of an objective function subjected to bounds on its variables defined in the Euclidean space. This paper proves that DSMs can be easily adapted for solving models with discrete variables, as long as these variables are regularly spaced along each coordinate. Convergence is established without imposing additional conditions on the objective function, but the construction of the search directions plays a fundamental role. Moreover, function evaluations are carried out only on discrete feasible points, avoiding spurious computations on non feasible points. The paper describes a pseudo code and a preliminary code written in C, which is applied to solve a discretized version of a continuous problem with encouraging results.
+Keywords
+Direct search methods  Discrete variable  Non monotone  

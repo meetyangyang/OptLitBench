@@ -1,0 +1,6 @@
+The R-linear convergence rate of an algorithm arising from the semi-smooth Newton method applied to 2D contact problems with friction
+Radek Kučera;Kristina Motyčková;Alexandros Markopoulos;
+Abstract
+The goal is to analyze the semi-smooth Newton method applied to the solution of contact problems with friction in two space dimensions. The primal-dual algorithm for problems with the Tresca friction law is reformulated by eliminating primal variables. The resulting dual algorithm uses the conjugate gradient method for inexact solving of inner linear systems. The globally convergent algorithm based on computing a monotonously decreasing sequence is proposed and its R-linear convergence rate is proved. Numerical experiments illustrate the performance of different implementations including the Coulomb friction law.
+Keywords
+Contact problem  Friction  Semi-smooth Newton method  Conjugate gradient method  Gradient projection  Convergence rate  65K10  65N22  49M29  74M15  

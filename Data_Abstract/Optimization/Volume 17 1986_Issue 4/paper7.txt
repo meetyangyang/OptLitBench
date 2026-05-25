@@ -1,0 +1,6 @@
+Randomized search directions in descent methods for minimizing certain quasidifferentiable functions
+   K.C.   Kiwiel ;
+Abstract
+ Several descent methods have recently been proposed for minimizing smooth compositions of max-type functions. The methods generate many search directions at each iteration. This paper shows that a random choice of only two search directions at each iteration suffices for retaining convergence to inf-stationary points with probability 1. This technique may decrease significantly the work in quadratic programming and line searches, thus enabling efficient implementations of the methods. 
+Keywords
+ubject Classifications: Primary:65 K 05, Secondary:90 C 25Keywords: Nondifferentiable optimization, quasidifferential calculus, descent methods, randomization 

@@ -1,0 +1,6 @@
+A convex programming-based algorithm for mean payoff stochastic games with perfect information
+Endre Boros;Khaled Elbassioni;Vladimir Gurvich;Kazuhisa Makino;
+Abstract
+We consider two-person zero-sum stochastic mean payoff games with perfect information, or BWR-games, given by a digraph \(G = (V, E)\), with local rewards \(r{:}\,E \rightarrow \mathbb {Z}\), and three types of positions: black \(V_B\), white \(V_W\), and random \(V_R\) forming a partition of V. It is a long-standing open question whether a polynomial time algorithm for BWR-games exists, even when \(|V_R|=0\). In fact, a pseudo-polynomial algorithm for BWR-games would already imply their polynomial solvability. In this short note, we show that BWR-games can be solved via convex programming in pseudo-polynomial time if the number of random positions is a constant.
+Keywords
+Stochastic games  Perfect information  Mean payoff  Pseudo-polynomial algorithm  Convex programming  

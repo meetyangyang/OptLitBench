@@ -1,0 +1,6 @@
+A New Nonsmooth Trust Region Algorithm for Locally Lipschitz Unconstrained Optimization Problems
+Z. Akbari;R. Yousefpour;M. Reza Peyghami;
+Abstract
+In this paper, a new nonsmooth trust region algorithm is proposed for solving unconstrained minimization problems with locally Lipschitz objective functions. At first, by using an approximation of the steepest descent direction, a local model is presented for locally Lipschitz functions. More precisely, in the quadratic model of classical trust region methods, the gradient vector is replaced by an approximation of the steepest descent direction. We then apply one of the efficient approaches of classical trust region methods in order to solve the obtained model. Using the BFGS updating formula for the Hessian approximation of the model, we show that the proposed algorithm is convergent under some mild and standard conditions on the objective function. Finally, the presented algorithm is implemented in the MATLAB environment and applied on some nonsmooth test problems.
+Keywords
+Trust region method  Lipschitz functions  Quadratic local model  CG-Steihaug method  49J52  90C26  

@@ -1,0 +1,6 @@
+Nonlinear Smoothing and the EM Algorithm for Positive Integral Equations of the First Kind
+P. P. B. Eggermont;
+Abstract
+ We study a modification of the EMS algorithm in which each step of the EMS algorithm is preceded by a nonlinear smoothing step of the form  \( {\cal N} f = \exp(S^{*}\log f) \) , where S  is the smoothing operator of the EMS algorithm. In the context of positive integral equations (à la positron emission tomography) the resulting algorithm is related to a convex minimization problem which always admits a unique smooth solution, in contrast to the unmodified maximum likelihood setup. The new algorithm has slightly stronger monotonicity properties than the original EM algorithm. This suggests that the modified EMS algorithm is actually an EM algorithm for the modified problem. The existence of a smooth solution to the modified maximum likelihood problem and the monotonicity together imply the strong convergence of the new algorithm. We also present some simulation results for the integral equation of stereology, which suggests that the new algorithm behaves roughly like the EMS algorithm.
+Keywords
+Key words. EM, Maximum likelihood, Ill-posed problem, Regularization. AMS Classification. 45L10, 65R30, 65U05, 62G05.  

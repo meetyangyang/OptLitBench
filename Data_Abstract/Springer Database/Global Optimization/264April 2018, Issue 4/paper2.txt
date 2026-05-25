@@ -1,0 +1,6 @@
+Quadratic convex reformulation for nonconvex binary quadratically constrained quadratic programming via surrogate constraint
+Xiaojin Zheng;Yutong Pan;Xueting Cui;
+Abstract
+We investigate in this paper nonconvex binary quadratically constrained quadratic programming (QCQP) which arises in various real-life fields. We propose a novel approach of getting quadratic convex reformulation (QCR) for this class of optimization problem. Our approach employs quadratic surrogate functions and convexifies all the quadratic inequality constraints to construct QCR. The price of this approach is the introduction of an extra quadratic inequality. The “best” QCR among the proposed family, in terms that the bound of the corresponding continuous relaxation is best, can be found via solving a semidefinite programming problem. Furthermore, we prove that the bound obtained by continuous relaxation of our best QCR is as tight as Lagrangian bound of binary QCQP. Computational experiment is also conducted to illustrate the solution efficiency improvement of our best QCR when applied in off-the-shell software.
+Keywords
+Binary QCQP  Semidefinite programming  Quadratic convex reformulation  Global optimization  

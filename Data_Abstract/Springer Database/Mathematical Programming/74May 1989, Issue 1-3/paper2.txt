@@ -1,0 +1,6 @@
+Interior path following primal-dual algorithms. part I: Linear programming
+Renato D. C. Monteiro;Ilan Adler;
+Abstract
+We describe a primal-dual interior point algorithm for linear programming problems which requires a total of\(O\left( {\sqrt n L} \right)\) number of iterations, whereL is the input size. Each iteration updates a penalty parameter and finds the Newton direction associated with the Karush-Kuhn-Tucker system of equations which characterizes a solution of the logarithmic barrier function problem. The algorithm is based on the path following idea.
+Keywords
+Interior-point methods  linear programming  Karmarkar's algorithm  polynomial-time algorithms  logarithmic barrier function  path following  

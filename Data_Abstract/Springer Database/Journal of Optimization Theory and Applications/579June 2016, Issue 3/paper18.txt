@@ -1,0 +1,6 @@
+Solving Disjunctive Optimization Problems by Generalized Semi-infinite Optimization Techniques
+Peter Kirst;Oliver Stein;
+Abstract
+We describe a new possibility to model disjunctive optimization problems as generalized semi-infinite programs. In contrast to existing methods in disjunctive programming, our approach does not expect any special formulation of the underlying logical expression. Applying existing lower-level reformulations for the corresponding semi-infinite program, we derive conjunctive nonlinear problems without any logical expressions, which can be locally solved by standard nonlinear solvers. Our preliminary numerical results on some small-scale examples indicate that our reformulation procedure is a reasonable method to solve disjunctive optimization problems.
+Keywords
+Disjunctive optimization  Generalized semi-infinite optimization  Lower-level duality  Mathematical program with complementarity constraints  Smoothing  90C34  90C30  

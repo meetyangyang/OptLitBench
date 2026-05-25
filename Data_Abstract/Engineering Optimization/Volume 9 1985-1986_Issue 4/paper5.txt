@@ -1,0 +1,6 @@
+OPTIMUM DESIGN OF A SINGLE-ENDED FLYBACK CONVERTER
+ CAI   XUAN-SAN ; TANG   WEI ;
+Abstract
+ In this paper, an optimum design method is employed for a single ended flyback converter with four outputs. The mathematical model contains 16 variables and 16 constraints to minimize the weighted sum of the power loss and weight of the converter. The Augmented Lagrangian Multiplier Penalty Function Technique is adopted in forming the CAD program with FORTRAN IV. By treating the switching frequency as a constant in each computer run, a set of suboptimum design solutions were obtained by varying the frequency from 20 KHz to 60 KHz in 10 KHz steps. The U-shaped curve is observed by plotting the total loss characteristic against frequency. The following optimum design results are also obtained: 1) The optimum de duty ratio is about 0.3 to 0.34. 2) The converter should work at the critical mode between the discontinuous and current mode. 3) The air gap of the transformer core should be large enough (e.g.to 1.3 mm). 
+Keywords
+Power eletronics, Power converter, optimization, design 

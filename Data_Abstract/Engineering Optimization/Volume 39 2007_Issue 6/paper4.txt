@@ -1,0 +1,6 @@
+A modification of the simulated annealing algorithm for discrete stochastic optimization
+ Mohamed   A.   Ahmed ;
+Abstract
+ A modification of the simulated annealing (SA) algorithm for solving discrete stochastic optimization problems where the objective function is stochastic and can be evaluated only through Monte Carlo simulation is proposed. In this modification, the Metropolis criterion depends on whether the objective function values indicate a statistically significant difference at each iteration. The differences between objective function values are considered to be statistically significant based on confidence intervals associated with these values. Unlike the original SA, the proposed method uses a constant temperature. It is shown that the configuration that has been visited most often in the first k iterations converges almost surely to a global optimizer. Computational results and comparisons with other SA algorithms are presented to demonstrate the performance of the proposed SA algorithm. 
+Keywords
+Stochastic optimization, Simulation, Markov chains, Simulated annealing, Confidence intervals 

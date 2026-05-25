@@ -1,0 +1,6 @@
+Improved scheme for selection of potentially optimal hyper-rectangles in DIRECT
+Linas Stripinis;Remigijus Paulavičius;Julius Žilinskas;
+Abstract
+We consider a box-constrained global optimization problem with a Lipschitz-continuous objective function and an unknown Lipschitz constant. The well known derivative-free global-search DIRECT (DIvide a hyper-RECTangle) algorithm performs well solving such problems. However, the efficiency of the DIRECT algorithm deteriorates on problems with many local optima and when the solution with high accuracy is required. To overcome these difficulties different regimes of global and local search are introduced or the algorithm is combined with local optimization. In this paper we investigate a different direction of improvement of the DIRECT algorithm and propose a new strategy for the selection of potentially optimal rectangles, what does not require any additional parameters or local search subroutines. An extensive experimental investigation reveals the effectiveness of the proposed enhancements.
+Keywords
+Global optimization  DIRECT-type algorithms  Derivative-free optimization  

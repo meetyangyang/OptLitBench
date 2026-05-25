@@ -1,0 +1,6 @@
+Multi-agent genetic algorithm with controllable mutation probability utilizing back propagation neural network for global optimization of trajectory design
+Mingcheng Zuo;Guangming Dai;Lei Peng;
+Abstract
+A Controllable Mutation Probability (CMP) strategy is proposed and applied to a Multi-Agent Genetic Algorithm (MAGA) to deal with the global optimization of trajectory design in deep space, which is called MGA-CMP. MAGA-CMP is an algorithm setting all the individuals (or agents) on a grid and having two controlling functions to adjust the performance probability of a mutation operator. It pays more attention to global search in the earlier part of the process, and devotes more effort to local search at later stages. Four experiments are implemented to illustrate the efficiency of MAGA-CMP, and results show that MGA-CMP performs better in most examined cases than other well-known search algorithms.
+Keywords
+global optimization, trajectory design, MGA, MAGA-CMP 

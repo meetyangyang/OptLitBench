@@ -1,0 +1,6 @@
+Integer Isotone Optimization
+Ming-Hong  Liu and Vasant A.  Ubhaya;
+Abstract
+Consider the following integer isotone optimization problem. Given an n-vector x find an n-vector y with integer components so as to minimize $\max\{w_j|x_j - y_j| : 1 \leq j \leq n\}$ subject to $y_1 \leq y_2 \leq \cdots \leq y_n$, where each weight $w_j > 0$. In this article, the dual of this problem is defined, a strong duality theorem is established, and the set of all optimal solutions is shown to be all monotonic integer vectors lying in a vector interval. In addition, algorithms are obtained for computation of optimal solutions having the worst-case time complexity $O(n^2)$, when $w_j$ are arbitrary, and $O(n)$, when $w_j = 1$ for all j. The problem considered is of isotonic regression type and has practical applications, for example, to estimation and curve fitting. It is also of independent mathematical interest. The problem and the results can be easily extended to a partially ordered set.
+Keywords
+isotonic regression, isotone optimization, duality, uniform norm, optimal solutions, min--max and max--min, algorithms, complexity, 41A30, 90C10, 26A48, 

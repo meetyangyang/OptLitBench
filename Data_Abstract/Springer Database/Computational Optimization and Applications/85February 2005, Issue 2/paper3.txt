@@ -1,0 +1,6 @@
+Efficient Algorithms for the Smallest Enclosing Ball Problem
+Guanglu Zhou;Kim-Chuan Tohemail;Jie Sun;
+Abstract
+Consider the problem of computing the smallest enclosing ball of a set of m balls in ℜ n . Existing algorithms are known to be inefficient when n > 30. In this paper we develop two algorithms that are particularly suitable for problems where n is large. The first algorithm is based on log-exponential aggregation of the maximum function and reduces the problem into an unconstrained convex program. The second algorithm is based on a second-order cone programming formulation, with special structures taken into consideration. Our computational experiments show that both methods are efficient for large problems, with the product mn on the order of 107. Using the first algorithm, we are able to solve problems with n = 100 and m = 512,000 in about 1 hour.
+Keywords
+computational geometry  smoothing approximation  second order cone programming  

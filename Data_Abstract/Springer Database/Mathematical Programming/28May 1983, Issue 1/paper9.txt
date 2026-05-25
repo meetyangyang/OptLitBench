@@ -1,0 +1,6 @@
+The sphere method and the robustness of the ellipsoid algorithm
+S. Halfin;
+Abstract
+We present a method for implementing the ellipsoid algorithm, whose basic iterative step is a linear row manipulation on the matrix of inequalities. This step is somewhat similar to a simplex iteration, and may give a clue to the relation between the two algorithms. Geometrically, the step amounts to performing affine transformations which map the ellipsoids onto a fixed sphere. The method was tried successfully on linear programs with up to 50 variables, some of which required more than 24 000 iterations. Geometrical properties of the iteration suggest that the ellipsoid algorithm is numerically robust, which is supported by our computational experience.
+Keywords
+Ellipsoid Algorithm  Linear Programming  Numerical Robustness  

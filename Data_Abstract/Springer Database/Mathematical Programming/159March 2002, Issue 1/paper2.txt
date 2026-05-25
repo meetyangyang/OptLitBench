@@ -1,0 +1,6 @@
+Objective-derivative-free methods for constrained optimization
+S. Lucidi;M. Sciandrone;P. Tseng;
+Abstract
+We propose feasible descent methods for constrained minimization that do not make explicit use of the derivative of the objective function. The methods iteratively sample the objective function value along a finite set of feasible search arcs and decrease the sampling stepsize if an improved objective function value is not sampled. The search arcs are obtained by projecting search direction rays onto the feasible set and the search directions are chosen such that a subset approximately generates the cone of first-order feasible variations at the current iterate. We show that these methods have desirable convergence properties under certain regularity assumptions on the constraints. In the case of linear constraints, the projections are redundant and the regularity assumptions hold automatically. Numerical experience with the methods in the linearly constrained case is reported.
+Keywords
+Key words: constrained optimization – derivative-free method – feasible descent – stationary point – metric regularity – MFCQ  

@@ -1,0 +1,6 @@
+Algorithmic differentiation of the Open CASCADE Technology CAD kernel and its coupling with an adjoint CFD solver
+Mladen Banović;Orest Mykhaskiv;Salvatore Auriemma;Andrea Walther;Herve Legrand;Jens-Dominik Müller;
+Abstract
+Computer-aided design (CAD) tools are extensively used to design industrial components, however, contrary to e.g. computational fluid dynamics (CFD) solvers, shape sensitivities for gradient-based optimization of CAD-parametrized geometries have only been available with inaccurate and non-robust finite differences. Here, algorithmic differentiation (AD) is applied to the open-source CAD kernel Open CASCADE Technology using the AD software tool ADOL-C (Automatic Differentiation by OverLoading in C++). The differentiated CAD kernel is coupled with a discrete adjoint CFD solver, thus providing the first example of a complete differentiated design chain built from generic, multi-purpose tools. The design chain is demonstrated on the gradient-based optimization of a squared U-bend turbo-machinery cooling duct to minimize the total pressure loss.
+Keywords
+algorithmic differentiation, CAD kernel, adjoint CFD method, gradient-based optimization 

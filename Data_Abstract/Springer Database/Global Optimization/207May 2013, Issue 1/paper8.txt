@@ -1,0 +1,6 @@
+Portfolio selection under model uncertainty: a penalized moment-based optimization approach
+Jonathan Y. Li;Roy H. Kwon;
+Abstract
+We present a new approach that enables investors to seek a reasonably robust policy for portfolio selection in the presence of rare but high-impact realization of moment uncertainty. In practice, portfolio managers face difficulty in seeking a balance between relying on their knowledge of a reference financial model and taking into account possible ambiguity of the model. Based on the concept of Distributionally Robust Optimization (DRO), we introduce a new penalty framework that provides investors flexibility to define prior reference models using the distributional information of the first two moments and accounts for model ambiguity in terms of extreme moment uncertainty. We show that in our approach a globally-optimal portfolio can in general be obtained in a computationally tractable manner. We also show that for a wide range of specifications our proposed model can be recast as semidefinite programs. Computational experiments show that our penalized moment-based approach outperforms classical DRO approaches in terms of both average and downside-risk performance using historical data.
+Keywords
+Portfolio selection  Model uncertainty  Distributionally robust optimization  Penalty method  

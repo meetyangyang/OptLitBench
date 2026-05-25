@@ -1,0 +1,6 @@
+A Python/C library for bound-constrained global optimization with continuous GRASP
+R. M. A. Silva;M. G. C. Resende;P. M. Pardalos;M. J. Hirsch;
+Abstract
+This paper describes \({\texttt{libcgrpp}}\) , a GNU-style dynamic shared Python/C library of the continuous greedy randomized adaptive search procedure (C-GRASP) for bound constrained global optimization. C-GRASP is an extension of the GRASP metaheuristic (Feo and Resende, 1989) and has been used to solve unstable and nondifferentiable problems, as well as hard global optimization problems, such as chemical equilibrium systems and robot kinematics applications (Hirsch et al. in Optim lett 1:201–212, 2007). After a brief introduction to C-GRASP, we show how to download, install, configure, and use the library through an illustrative example.
+Keywords
+GRASP  Continuous GRASP  Global optimization  Multimodal functions  Continuous optimization  Heuristic  Stochastic algorithm  Stochastic local search  Nonlinear programming  

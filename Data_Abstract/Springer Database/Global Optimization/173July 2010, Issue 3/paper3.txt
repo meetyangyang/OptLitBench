@@ -1,0 +1,6 @@
+A network flow model for biclustering via optimal re-ordering of data matrices
+Peter A. DiMaggioJr.;Scott R. McAllister;Christodoulos A. Floudas;Xiao-Jiang Feng;Joshua D. Rabinowitz;Herschel A. Rabitz;
+Abstract
+The analysis of large-scale data sets using clustering techniques arises in many different disciplines and has important applications. Most traditional clustering techniques require heuristic methods for finding good solutions and produce suboptimal clusters as a result. In this article, we present a rigorous biclustering approach, OREO, which is based on the Optimal RE-Ordering of the rows and columns of a data matrix. The physical permutations of the rows and columns are accomplished via a network flow model according to a given objective function. This optimal re-ordering model is used in an iterative framework where cluster boundaries in one dimension are used to partition and re-order the other dimensions of the corresponding submatrices. The performance of OREO is demonstrated on metabolite concentration data to validate the ability of the proposed method and compare it to existing clustering methods.
+Keywords
+Biclustering  Mixed-integer linear optimization (MILP)  

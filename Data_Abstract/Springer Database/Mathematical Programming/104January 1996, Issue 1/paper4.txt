@@ -1,0 +1,6 @@
+Hidden convexity in some nonconvex quadratically constrained quadratic programming
+Aharon Ben-Tal;Marc Teboulle;
+Abstract
+We consider the problem of minimizing an indefinite quadratic objective function subject to twosided indefinite quadratic constraints. Under a suitable simultaneous diagonalization assumption (which trivially holds for trust region type problems), we prove that the original problem is equivalent to a convex minimization problem with simple linear constraints. We then consider a special problem of minimizing a concave quadratic function subject to finitely many convex quadratic constraints, which is also shown to be equivalent to a minimax convex problem. In both cases we derive the explicit nonlinear transformations which allow for recovering the optimal solution of the nonconvex problems via their equivalent convex counterparts. Special cases and applications are also discussed. We outline interior-point polynomial-time algorithms for the solution of the equivalent convex programs.
+Keywords
+Indefinite quadratic problems  Nonconvex optimization  Duality  

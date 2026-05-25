@@ -1,0 +1,6 @@
+Solving a System of Linear Diophantine Equations with Lower and Upper Bounds on the Variables
+Karen Aardal;Cor A. J. Hurkens;Arjen K. Lenstra;
+Abstract
+We develop an algorithm for solving a system of diophantine equations with lower and upper bounds on the variables. The algorithm is based on lattice basis reduction. It first finds a short vector satisfying the system of diophantine equations, and a set of vectors belonging to the nullspace of the constraint matrix. Due to basis reduction, all these vectors are relatively short. The next step is to branch on linear combinations of the null-space vectors, which either yields a vector that satisfies the bound constraints or provides a proof that no such vector exists. The research was motivated by the need for solving constrained diophantine equations as subproblems when designing integrated circuits for video signal processing. Our algorithm is tested with good results on real-life data, and on instances from the literature.
+Keywords
+Lattice basis reduction short vectors linear diophantine equations 

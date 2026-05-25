@@ -1,0 +1,6 @@
+A branch and bound algorithm for nonconvex quadratic optimization with ball and linear constraints
+Amir Beck;Dror Pan;
+Abstract
+We suggest a branch and bound algorithm for solving continuous optimization problems where a (generally nonconvex) objective function is to be minimized under nonconvex inequality constraints which satisfy some specific solvability assumptions. The assumptions hold for some special cases of nonconvex quadratic optimization problems. We show how the algorithm can be applied to the problem of minimizing a nonconvex quadratic function under ball, out-of-ball and linear constraints. The main tool we utilize is the ability to solve in polynomial computation time the minimization of a general quadratic under one Euclidean sphere constraint, namely the so-called trust region subproblem, including the computation of all local minimizers of that problem. Application of the algorithm on sparse source localization problems is presented.
+Keywords
+Quadratically constrained quadratic problems  Nonconvex programming  Branch and bound  Sparse source localization  Trust region subproblem  

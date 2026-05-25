@@ -1,0 +1,6 @@
+A high-order path-following method for projection onto the primal-dual optimal solution set of linear programs
+ Anhua   Lin ;
+Abstract
+ A linear program may have several optimal solutions, but the one that is closest to any given vector is unique. In 18 Zhao, YB and Li, D. 2002. Locating the least 2-norm solution of linear programs via a path-following method. SIAM J. Optim., 12: 893–912. [Crossref] , [Google Scholar], a globally convergent path-following interior-point-like method was proposed to locate the optimal solution of a linear program that is closest to the origin. The method was based on a special regularized central path. However, no local convergence result is known about that method. In this article, by using the analytical properties of a variant of the regularized central path, we present a high-order path-following method that is globally and locally superlinearly convergent under certain conditions. This method can find the projection of any given vector onto the optimal solution set of the linear program with respect to the 2-norm. 
+Keywords
+high-order, path-following, linear program, projection2000 AMS Mathematics Subject Classifications: 90C05, 90C33, 90C51, 65K05 

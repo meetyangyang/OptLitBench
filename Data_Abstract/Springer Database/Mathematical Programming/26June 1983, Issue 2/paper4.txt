@@ -1,0 +1,6 @@
+The flow circulation sharing problem
+J. Randall Brown;
+Abstract
+The flow circulation sharing problem is defined as a network flow circulation problem with a maximin objective function. The arcs in the network are partitioned into regular arcs and tradeoff arcs where each tradeoff arc has a non-decreasing tradeoff function associated with it. All arcs have lower and upper bounds on their flow while the value of the smallest tradeoff function is maximized. The model is useful in equitable resource allocation problems over time which is illustrated in a coal strike example and a submarine assignment example. Some properties including optimality conditions are developed. Each cut in the network defines a knapsack sharing problem which leads to an optimality condition similar to the max flow/min cut theorem. An efficient algorithm for both the continuous and integer versions of the flow circulation sharing problem is developed and computational experience given. In addition, efficient algorithms are developed for problems where some of the arcs have infinite flow upper bounds.
+Keywords
+Flow Circulation  Sharing (MAXIMIN)  Network Flows  

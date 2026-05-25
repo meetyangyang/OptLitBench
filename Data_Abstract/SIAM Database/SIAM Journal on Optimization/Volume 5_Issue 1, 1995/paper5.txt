@@ -1,0 +1,6 @@
+Symmetric Quasidefinite Matrices
+Robert J.  Vanderbei;
+Abstract
+It is stated here that a symmetric matrix K is quasidefinite if it has the form \[ K = \begin{bmatrix}     - E & A^T  \\    A & F      \end{bmatrix}, \] where E and F are symmetric positive definite matrices. Although such matrices are indefinite, it is shown that any symmetric permutation of a quasidefinite matrix yields a factorization $LDL^T $.This result is applied to obtain a new approach for solving the symmetric indefinite systems arising in interior-point methods for linear and quadratic programming. These systems are typically solved either by reducing to a positive definite system or by performing a Bunch–Parlett factorization of the full indefinite system at every iteration. This is an intermediate approach based on reducing to a quasidefinite system. This approach entails less fill-in than further reducing to a positive definite system, but is based on a static ordering and is therefore more efficient than performing Bunch–Parlett factorizations of the original indefinite system.
+Keywords
+matrix factorization, linear programming, interior-point methods, 65F05, 90C05, 

@@ -1,0 +1,6 @@
+Riemannian Newton-type methods for joint diagonalization on the Stiefel manifold with application to independent component analysis
+Hiroyuki Sato;
+Abstract
+The joint approximate diagonalization of non-commuting symmetric matrices is an important process in independent component analysis. This problem can be formulated as an optimization problem on the Stiefel manifold that can be solved using Riemannian optimization techniques. Among the available optimization techniques, this study utilizes the Riemannian Newton’s method for the joint diagonalization problem on the Stiefel manifold, which has quadratic convergence. In particular, the resultant Newton’s equation can be effectively solved by means of the Kronecker product and the vec and veck operators, which reduce the dimension of the equation to that of the Stiefel manifold. Numerical experiments are performed to show that the proposed method improves the accuracy of the approximate solution to this problem. The proposed method is also applied to independent component analysis for the image separation problem. The proposed Newton method further leads to a novel and fast Riemannian trust-region Newton method for the joint diagonalization problem.
+Keywords
+Joint diagonalization, Riemannian optimization, Newton’s method, Stiefel manifold, independent component analysis 

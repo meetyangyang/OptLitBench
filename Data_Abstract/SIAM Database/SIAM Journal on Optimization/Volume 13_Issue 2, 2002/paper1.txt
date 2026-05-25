@@ -1,0 +1,6 @@
+Improved Complexity for Maximum Volume Inscribed Ellipsoids
+Kurt M.  Anstreicher;
+Abstract
+Let ${\cal P}=\{x \,\vert\, Ax\le b\}$, where A is an m × n matrix. We assume that ${\cal P}$ contains a ball of radius one centered at the origin and is itself contained in a ball of radius R centered at the origin. We consider the problem of approximating the maximum volume ellipsoid inscribed in ${\cal P}$. Such ellipsoids have a number of interesting applications, including the inscribed ellipsoid method for convex optimization. We describe an optimization algorithm that obtains an ellipsoid whose volume is at least a factor $e^{-\epsilon}$ of the maximum possible in $O(m^{3.5}\ln(mR/\epsilon))$ operations. Our result provides an alternative to a saddlepoint-based approach with the same complexity, developed by Nemirovskii. We also show that a further reduction in complexity can be obtained by first computing an approximation of the analytic center of ${\cal P}$.
+Keywords
+maximum volume inscribed ellipsoid, inscribed ellipsoid method, 90C25, 90C22, 

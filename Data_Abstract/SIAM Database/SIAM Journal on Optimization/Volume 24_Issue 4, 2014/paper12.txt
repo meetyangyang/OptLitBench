@@ -1,0 +1,6 @@
+Numerical Analysis of $\mathcal{V}\mathcal{U}$-Decomposition, $\mathcal{U}$-Gradient, and $\mathcal{U}$-Hessian Approximations
+W.  Hare;
+Abstract
+Advances in bundle methods for nonsmooth optimization have lead to the development of $\mathcal{V}\mathcal{U}$-decompositions, the $\mathcal{U}$-gradient, and the $\mathcal{U}$-Hessian. These variational analysis constructs have proven extremely valuable and lead to the development of the superlinearly convergent $\mathcal{V}\mathcal{U}$-algorithm for nonsmooth optimization.  In this paper we examine these constructs from the viewpoint of derivative-free optimization.  We show that, given a finite max function $f(x) = \max_{i=0, 1, \ldots m} f_i(x)$ and a black-box which returns function values for each $f_i$, it is possible to construct approximations of the $\mathcal{V}\mathcal{U}$-decompositions, $\mathcal{U}$-gradient and $\mathcal{U}$-Hessian. The approximations do not require excessive black-box calls, and the accuracy of the approximations is directly related to the accuracy of the approximate gradient and Hessians for each $f_i$.
+Keywords
+convex optimization, max-function, derivative-free optimization, $\mathcal{V}\mathcal{U}$-decomposition, $\mathcal{U}$-gradient, $\mathcal{U}$-Hessian, Primary, 49M25, 49M27, 49K35; Secondary, 58C06, 65K10, 90C25, 

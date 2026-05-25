@@ -1,0 +1,6 @@
+Exact identification of critical nodes in sparse networks via new compact formulations
+Alexander Veremyev;Vladimir Boginski;Eduardo L. Pasiliao;
+Abstract
+Critical node detection problems aim to optimally delete a subset of nodes in order to optimize or restrict a certain metric of network fragmentation. In this paper, we consider two network disruption metrics which have recently received substantial attention in the literature: the size of the remaining connected components and the total number of node pairs connected by a path. Exact solution methods known to date are based on linear 0–1 formulations with at least \(\varTheta (n^3)\) entities and allow one to solve these problems to optimality only in small sparse networks with up to 150 nodes. In this work, we develop more compact linear 0–1 formulations for the considered types of problems with \(\varTheta (n^2)\) entities. We also provide reformulations and valid inequalities that improve the performance of the developed models. Computational experiments show that the proposed formulations allow finding exact solutions to the considered problems for real-world sparse networks up to 10 times larger and with CPU time up to 1,000 times faster compared to previous studies.
+Keywords
+Combinatorial optimization  Networks  Graphs  Critical nodes   Node interdiction  Linear 0–1 formulations  

@@ -1,0 +1,6 @@
+Cooperative parallel adaptive neighbourhood search for the disjunctively constrained knapsack problem
+Zhe Quan;Lei Wu;
+Abstract
+This article investigates the use of parallel computing for solving the disjunctively constrained knapsack problem. The proposed parallel computing model can be viewed as a cooperative algorithm based on a multi-neighbourhood search. The cooperation system is composed of a team manager and a crowd of team members. The team members aim at applying their own search strategies to explore the solution space. The team manager collects the solutions from the members and shares the best one with them. The performance of the proposed method is evaluated on a group of benchmark data sets. The results obtained are compared to those reached by the best methods from the literature. The results show that the proposed method is able to provide the best solutions in most cases. In order to highlight the robustness of the proposed parallel computing model, a new set of large-scale instances is introduced. Encouraging results have been obtained.
+Keywords
+Parallel computing, knapsack, conflict graph, metaheuristic, cooperative 

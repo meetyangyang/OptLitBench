@@ -1,0 +1,6 @@
+ParaXpress: an experimental extension of the FICO Xpress-Optimizer to solve hard MIPs on supercomputers
+Yuji Shinano;Timo Berthold;Stefan Heinz;
+Abstract
+The Ubiquity Generator (UG) is a general framework for the external parallelization of mixed integer programming (MIP) solvers. In this paper, we present ParaXpress, a distributed memory parallelization of the powerful commercial MIP solver FICO Xpress. Besides sheer performance, an important feature of Xpress is that it provides an internal parallelization for shared memory systems. When aiming for a best possible performance of ParaXpress on a supercomputer, the question arises how to balance the internal Xpress parallelization and the external parallelization by UG against each other. We provide computational experiments to address this question and we show computational results for running ParaXpress on a Top500 supercomputer, using up to 43,344 cores in parallel.
+Keywords
+mixed-integer programming, distributed memory parallelization 

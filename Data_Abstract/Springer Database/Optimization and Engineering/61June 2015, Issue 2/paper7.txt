@@ -1,0 +1,6 @@
+Deterministic global optimization of binary hybrid distillation/melt-crystallization processes based on relaxed MINLP formulations
+Martin Ballerstein;Achim Kienle;Christian Kunde;Dennis Michaels;Robert Weismantel;
+Abstract
+This paper deals with the deterministic global optimization of hybrid distillation/melt-crystallization processes for closely boiling mixtures. An algorithm is presented that exploits the problem specific structure of continuous, counter-current distillation to reduce the domain of the corresponding mixed-integer nonlinear program (MINLP). We apply a bound tightening technique based on the explicit computation of extreme column solution profiles, which enclose all possible solutions of the distillation column model. A relaxed MINLP model formulation is then used to exclude several non-optimal and infeasible column configurations. The numerical performance of the proposed algorithm is demonstrated on a test series of stand-alone distillation column processes and hybrid separation processes.
+Keywords
+Distillation  Melt-crystallization  Deterministic global optimization  Relaxed MINLP formulation  Bound tightening  

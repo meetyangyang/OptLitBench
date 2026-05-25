@@ -1,0 +1,6 @@
+Modification of the Wolfe Line Search Rules to Satisfy the Descent Condition in the Polak-Ribière-Polyak Conjugate Gradient Method
+P. Armand;
+Abstract
+This paper proposes a line search technique to satisfy a relaxed form of the strong Wolfe conditions in order to guarantee the descent condition at each iteration of the Polak-Ribière-Polyak conjugate gradient algorithm. It is proved that this line search algorithm preserves the usual convergence properties of any descent algorithm. In particular, it is shown that the Zoutendijk condition holds under mild assumptions. It is also proved that the resulting conjugate gradient algorithm is convergent under a strong convexity assumption. For the nonconvex case, a globally convergent modification is proposed. Numerical tests are presented.
+Keywords
+Conjugate gradient method  line search algorithm  unconstrained optimization  

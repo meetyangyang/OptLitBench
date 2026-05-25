@@ -1,0 +1,6 @@
+Simplified O(nL) infeasible interior-point algorithm for linear optimization using full-Newton steps
+ H.   Mansouri ; C.   Roos ;
+Abstract
+ In Roos [Roos, C., 2006, A full-Newton step O(n) infeasible interior-point algorithm for linear optimization. SIAM Journal on Optimization, 16(4), 1110–1136.] presented a new primal-dual infeasible interior-point algorithm that uses full-Newton steps and whose iteration bound coincides with the best-known bound for infeasible interior-point algorithms. Each iteration consists of a step that restores the feasibility for an intermediate problem (the so-called feasibility step) and a few (usual) centering steps. No more than O(nlog(n/ϵ)) iterations are required for getting an ϵ-solution of the problem at hand, which coincides with the best-known bound for infeasible interior-point algorithms. In this article, we introduce a different feasibility step and show that the same complexity result can be obtained with a relatively simpler analysis. 
+Keywords
+Linear optimization, Infeasible interior-point method, Primal-dual method, Polynomial complexity 

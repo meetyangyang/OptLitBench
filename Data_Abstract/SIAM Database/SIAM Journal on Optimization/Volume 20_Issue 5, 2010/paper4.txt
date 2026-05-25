@@ -1,0 +1,6 @@
+On the Complexity of Selecting Disjunctions in Integer Programming
+Ashutosh  Mahajan and Ted  Ralphs;
+Abstract
+The imposition of general disjunctions of the form “$\pi x\leq\pi_0\vee\pi x\geq\pi_0+1$,” where $\pi,\pi_0$ are integer-valued, is a fundamental operation in both the branch-and-bound and cutting-plane algorithms for solving mixed integer linear programs. Such disjunctions can be used for branching at each iteration of the branch-and-bound algorithm or to generate split inequalities for the cutting-plane algorithm. We first consider the problem of selecting a general disjunction and show that the problem of selecting an optimal such disjunction, according to specific criteria described herein, is $\mathcal{NP}$-hard. We further show that the problem remains $\mathcal{NP}$-hard even for binary programs or when considering certain restricted classes of disjunctions. We observe that the problem of deciding whether a given inequality is a split inequality can be reduced to one of the above problems, which leads to a proof that the problem is $\mathcal{NP}$-complete.
+Keywords
+complexity, disjunctions, general branching, split inequalities, integer programming, 90C10, 68Q25, 90C57, 

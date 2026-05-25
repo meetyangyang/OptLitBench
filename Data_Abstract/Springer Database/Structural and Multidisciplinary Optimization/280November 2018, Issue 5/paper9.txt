@@ -1,0 +1,6 @@
+A compliance approximation method applied to variable stiffness composite optimisation
+Daniël Peeters;Zhi Hong;Mostafa Abdalla;
+Abstract
+A way to approximate the compliance of composites for optimisation is described. A two-level approximation scheme is proposed inspired by traditional approximation concepts such as force approximations and convex linearisation. In level one, an approximation in terms of the reciprocal in-plane stiffness matrix is made. In level two, either the lamination parameters, or the nodal fibre angle distribution are used as design variables. A quadratic approximation is used to build the approximations in terms of the fibre angles. The method of conservative, convex separable approximations is used for the optimisation. Conservativeness is guaranteed by adding a convex damping function to the approximations. Two numerical examples, one optimisng the compliance of a plate clamped on the left, loaded downwards on the bottom right, another one optimising the compliance of a plate loaded with a shear force and a moment show the computational efficiency of the proposed optimisation algorithm.
+Keywords
+Composite optimisation  Structural approximations  Variable stiffness  Compliance optimisation  

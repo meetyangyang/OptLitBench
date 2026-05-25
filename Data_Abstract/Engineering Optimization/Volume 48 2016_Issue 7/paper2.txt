@@ -1,0 +1,6 @@
+Fast surrogate-assisted simulation-driven optimization of compact microwave hybrid couplers
+Piotr Kurgan;Slawomir Koziel;
+Abstract
+This work presents a robust methodology for expedited simulation-driven design optimization of compact microwave hybrid couplers. The technique relies on problem decomposition, and a bottom–up design strategy, starting from the level of basic building blocks of the coupler, and finishing with a tuning procedure that exploits a fast surrogate model of the entire structure. The latter is constructed by cascading local response surface approximations of coupler elementary elements. The cross-coupling effects within the structure are neglected in the first stage of the design process; however, they are accounted for in the tuning phase by means of space-mapping correction of the surrogate. The proposed approach is demonstrated through the design of a compact rat-race and two branch-line couplers. In all cases, the computational cost of the optimization process is very low and corresponds to just a few high-fidelity electromagnetic simulations of respective structures. Experimental validation is also provided.
+Keywords
+computer-aided design, compact circuits, design optimization, simulation-driven design 

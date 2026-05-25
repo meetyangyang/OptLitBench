@@ -1,0 +1,6 @@
+An alternating optimization approach for mixed discrete non-linear programming
+ S.   Nema ; J.   Y.   Goulermas ; G.   Sparrow ; P.   Cook ; P.   Helman ;
+Abstract
+ This article contributes to the development of the field of alternating optimization (AO) and general mixed discrete non-linear programming (MDNLP) by introducing a new decomposition algorithm (AO-MDNLP) based on the augmented Lagrangian multipliers method. In the proposed algorithm, an iterative solution strategy is proposed by transforming the constrained MDNLP problem into two unconstrained components or units; one solving for the discrete variables, and another for the continuous ones. Each unit focuses on minimizing a different set of variables while the other type is frozen. During optimizing each unit, the penalty parameters and multipliers are consecutively updated until the solution moves towards the feasible region. The two units take turns in evolving independently for a small number of cycles. The validity, robustness and effectiveness of the proposed algorithm are exemplified through some well known benchmark mixed discrete optimization problems. 
+Keywords
+mixed discrete non-linear programming, alternating optimization, augmented Lagrangian, decomposition 

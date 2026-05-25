@@ -1,0 +1,6 @@
+Alpha shape based design space decomposition for island failure regions in reliability based design
+Harish Ganapathy;Palaniappan Ramu;Ramanathan Muthuganapathy;
+Abstract
+Treatment of uncertainties in structural design involves identifying the boundaries of the failure domain to estimate reliability. When the structural responses are discontinuous or highly nonlinear, the failure regions tend to be an island in the design space. The boundaries of these islands are to be approximated to estimate reliability and perform optimization. This work proposes Alpha (α) shapes, a computational geometry technique to approximate such boundaries. The α shapes are simple to construct and only require Delaunay Tessellation. Once the boundaries are approximated based on responses sampled in a design space, a computationally efficient ray shooting algorithm is used to estimate the reliability without any additional simulations. The proposed approach is successfully used to decompose the design space and perform Reliability based Design Optimization of a tube impacting a rigid wall and a tuned mass damper.
+Keywords
+Alpha shape  Reliability  Island failure region  Design space decomposition  Optimization  

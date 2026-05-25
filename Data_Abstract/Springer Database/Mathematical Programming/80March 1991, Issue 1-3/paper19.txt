@@ -1,0 +1,6 @@
+Use of dynamic trees in a network simplex algorithm for the maximum flow problem
+Andrew V. Goldberg;Michael D. Grigoriadis;Robert E. Tarjan;
+Abstract
+Goldfarb and Hao (1990) have proposed a pivot rule for the primal network simplex algorithm that will solve a maximum flow problem on ann-vertex,m-arc network in at mostnm pivots and O(n2m) time. In this paper we describe how to extend the dynamic tree data structure of Sleator and Tarjan (1983, 1985) to reduce the running time of this algorithm to O(nm logn). This bound is less than a logarithmic factor larger than those of the fastest known algorithms for the problem. Our extension of dynamic trees is interesting in its own right and may well have additional applications.
+Keywords
+Algorithms  complexity  data structures  dynamic trees  graphs  linear programming  maximum flow  network flow  network optimization  

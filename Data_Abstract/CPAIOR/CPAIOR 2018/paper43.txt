@@ -1,0 +1,4 @@
+Learning a Classification of Mixed-Integer Quadratic Programming Problems
+Pierre Bonami;Andrea Lodi;Giulia Zarpellon;
+Abstract
+Within state-of-the-art solvers such as IBM-CPLEX, the ability to solve both convex and nonconvex Mixed-Integer Quadratic Programming (MIQP) problems to proven optimality goes back few years, yet presents unclear aspects. We are interested in understanding whether for solving an MIQP it is favorable to linearize its quadratic part or not. Our approach exploits machine learning techniques to learn a classifier that predicts, for a given instance, the most suitable resolution method within CPLEX’s framework. We aim as well at gaining first methodological insights about the instances’ features leading this discrimination. We examine a new dataset and discuss different scenarios to integrate learning and optimization. By defining novel measures, we interpret and evaluate learning results from the optimization point of view.

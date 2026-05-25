@@ -1,0 +1,6 @@
+Solving large-scale linear programs by interior-point methods under the Matlab  ∗  Environment  †  
+ Yin   Zhang ;
+Abstract
+ In this paper, we describe our implementation of a primal-dual infeasible-interior-point algorithm for large-scale linear programming under the MATLAB environment. The resulting software is called LIPSOL — Linear-programming Interior-Point SOLvers. LIPSOL is designed to take the advantages of MATLAB's sparse-matrix functions and external interface facilities, and of existing Fortran sparse Cholesky codes. Under the MATLAB environment, LIPSOL inherits a high degree of simplicity and versatility in comparison to its counterparts in Fortran or C language. More importantly, our extensive computational results demonstrate that LIPSOL also attains an impressive performance comparable with that of efficient Fortran or C codes in solving large-scale problems. In addition, we discuss in detail a technique for overcoming numerical instability in Cholesky factorization at the end-stage of iterations in interior-point algorithms. 
+Keywords
+Linear programming, interior-point algorithms, MATLAB, LIPSOL 

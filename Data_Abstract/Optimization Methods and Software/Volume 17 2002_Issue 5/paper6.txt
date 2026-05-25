@@ -1,0 +1,6 @@
+A finite newton method for classification
+ O.L.   Mangasarian ;
+Abstract
+ A fundamental classification problem of data mining and machine learning is that of minimizing a strongly convex, piecewise quadratic function on the n -dimensional real space R n . We show finite termination of a Newton method to the unique global solution starting from any point in R n . If the function is well conditioned, then no stepsize is required from the start and if not, an Armijo stepsize is used. In either case, the algorithm finds the unique global minimum solution in a finite number of iterations. 
+Keywords
+Newton Method, Classification, Data Mining, Support Vector Machines 

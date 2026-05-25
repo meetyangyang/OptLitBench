@@ -1,0 +1,6 @@
+Calculation of optimal controls of specified accuracy
+D. J. Mellefont;R. W. H. Sargent;
+Abstract
+A useful approach to the calculation of optimal controls is to take a piecewise constant approximation to the control and to solve the resulting nonlinear program using available techniques. There is no way of specifying the required number of control intervals a priori, but this paper shows that the adjoint system used to calculate gradients for the optimization provides at each iteration sufficient information to assess the gain from increasing the number of intervals and to indicate the best locations for the appropriate switching times. An example is presented which shows the potential computational savings that can be realized when the number of control intervals is progressively increased until the desired accuracy of the approximation is achieved.
+Keywords
+Optimal control algorithms  nonlinear programming  sensitivity analysis  switching-time location  

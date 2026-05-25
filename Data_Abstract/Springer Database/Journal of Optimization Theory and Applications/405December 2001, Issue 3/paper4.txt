@@ -1,0 +1,6 @@
+Iterative Algorithms for Multiscale State Estimation, Part 2: Numerical Investigations
+T. Binder;L. Blank;W. Dahmen;W. Marquardt;
+Abstract
+Usually, direct methods are employed for the solution of linear systems arising in the context of optimization. However, motivated by the potential of multiscale refinement schemes for large problems of dynamic state estimation, we investigate in this paper the application of iterative solvers based on the concepts developed in Ref. 1. Specifically, we explore the effect of different system reductions for various Krylov-space iteration methods as well as three concepts of preconditioning. The first one is the normalization of states and outputs, which also favors error analysis. Next, diagonal scale-dependent preconditioners are compared; they all bound the condition numbers independently of the refinement scale, but exhibit significant quantitative differences. Finally, the effect of the regularization parameter on condition numbers and iteration numbers is analyzed. It turns out that a so-called simplified Uzawa scheme with Jacobi preconditioning and suitable regularization parameter is most efficient. The experiments also reveal that further improvements are necessary.
+Keywords
+Dynamic optimization  optimal control  iterative linear algebra  wavelets  preconditioning  

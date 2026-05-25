@@ -1,0 +1,6 @@
+For the airplane refueling problem local precedence implies global precedence
+Oscar C. Vásquez;
+Abstract
+We are given \(n\) airplanes, which can refuel one another during the flight. Each airplane has a specific tank volume and gas consumption rate. The goal of the airplane refueling problem is to find a drop out permutation for the planes that maximizes the distance traveled by the last plane to drop out. This paper studies some structural properties of the problem and proposes pruning rules for an exact resolution.
+Keywords
+Scheduling  Precedence rules  Algorithm A*  

@@ -1,0 +1,6 @@
+Scalable Nonlinear Programming via Exact Differentiable Penalty Functions and Trust-Region Newton Methods
+Victor M.  Zavala and Mihai  Anitescu;
+Abstract
+We present an approach for nonlinear programming based on the direct minimization of an exact differentiable penalty function using trust-region Newton techniques. The approach provides desirable features required for scalability: it can detect and exploit directions of negative curvature, it is superlinearly convergent, and it enables the scalable computation of the Newton step through iterative linear algebra. Moreover, it presents features that are desirable for parametric optimization problems that must be solved in a latency-limited environment, as is the case for model predictive control and mixed-integer nonlinear programming. These features are fast detection of activity, efficient warm starting, and progress on a primal-dual merit function at every iteration. We note that other algorithmic approaches fail to satisfy at least one of these features. We derive general convergence results for our approach and demonstrate its behavior through numerical studies.
+Keywords
+scalable, nonlinear programming, exact differentiable penalty, trust region, Newton, iterative linear algebra, 34B15, 34H05, 49N35, 49N90, 90C06, 90C30, 90C55, 90C59, 

@@ -1,0 +1,6 @@
+Discrete-time dynamic traffic assignment models with periodic planning horizon: system optimum
+Artyom Nahapetyan;Siriphong Lawphongpanich;
+Abstract
+This paper proposes a system optimal dynamic traffic assignment model that does not require the network to be empty at the beginning or at the end of the planning horizon. The model assumes that link travel times depend on traffic densities and uses a discretized planning horizon. The resulting formulation is a nonlinear program with binary variables and a time-expanded network structure. Under a relatively mild condition, the nonlinear program has a feasible solution. When necessary, constraints can be added to ensure that the solution satisfies the First-In-First-Out condition. Also included are approximation schemes based on linear integer programs that can provide solutions arbitrarily close to that of the original nonlinear problem.
+Keywords
+Dynamic traffic assignment  Time-varying network flows  System optimum  

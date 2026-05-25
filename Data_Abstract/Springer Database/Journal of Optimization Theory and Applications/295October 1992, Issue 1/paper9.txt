@@ -1,0 +1,6 @@
+On the updating scheme in a class of collinear scaling algorithms for sparse minimization
+K. A. Ariyawansa;D. T. M. Lau;
+Abstract
+Sorensen (Ref. 1) has proposed a class of algorithms for sparse unconstrained minimization where the sparsity pattern of the Cholesky factors of the Hessian is known. His updates at each iteration depend on the choice of a vector, and in Ref. 1 the question of choosing this vector is essentially left open. In this note, we propose a variational problem whose solution may be used to choose this vector. The major part of the computation of a solution to this variational problem is similar to the computation of a trust-region step in unconstrained minimization. Therefore, well-developed techniques available for the latter problem can be used to compute this vector and to perform the updating.
+Keywords
+Quasi-Newton methods  collinear scalings  conic approximations  sparse Hessians  

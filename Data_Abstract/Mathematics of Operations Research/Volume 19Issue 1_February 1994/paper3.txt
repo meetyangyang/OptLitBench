@@ -1,0 +1,6 @@
+A Polynomial Algorithm for the k-cut Problem for Fixed k
+Olivier Goldschmidt;Dorit S. Hochbaum;
+Abstract
+The k-cut problem is to find a partition of an edge weighted graph into k nonempty components, such that the total edge weight between components is minimum. This problem is NP-complete for an arbitrary k and its version involving fixing a vertex in each component is NP-hard even for k = 3. We present a polynomial algorithm for k fixed, that runs in O(nk²/2−3k/2+4T(n, m)) steps, where T(n, m) is the running time required to find the minimum (s, t)-cut on a graph with n vertices and m edges.
+Keywords
+clustering min-cut max-flow complexity polynomial algorithm k-cut 

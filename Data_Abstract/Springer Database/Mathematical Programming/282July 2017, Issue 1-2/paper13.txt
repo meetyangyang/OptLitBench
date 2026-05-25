@@ -1,0 +1,6 @@
+Geometric random edge
+Friedrich Eisenbrand;Santosh Vempala;
+Abstract
+We show that a variant of the random-edge pivoting rule results in a strongly polynomial time simplex algorithm for linear programs \(\max \{c^Tx :x \in \mathbb R^n, \, Ax\leqslant b\}\), whose constraint matrix A satisfies a geometric property introduced by Brunsch and Röglin: The sine of the angle of a row of A to a hyperplane spanned by \(n-1\) other rows of A is at least \(\delta \). This property is a geometric generalization of A being integral and each sub-determinant of A being bounded by \(\Delta \) in absolute value. In this case \(\delta \geqslant 1/(\Delta ^2 n)\). In particular, linear programs defined by totally unimodular matrices are captured in this framework. Here \(\delta \geqslant 1/ n\) and Dyer and Frieze previously described a strongly polynomial-time randomized simplex algorithm for linear programs with A totally unimodular. The expected number of pivots of the simplex algorithm is polynomial in the dimension and \(1/\delta \) and independent of the number of constraints of the linear program. Our main result can be viewed as an algorithmic realization of the proof of small diameter for such polytopes by Bonifas et al., using the ideas of Dyer and Frieze.
+Keywords
+90C05  60J10  68W20  

@@ -1,0 +1,4 @@
+The Weighted Arborescence Constraint
+Vinasetan Ratheil Houndji;Pierre Schaus;Mahouton Norbert Hounkonnou;Laurence Wolsey;
+Abstract
+For a directed graph, a Minimum Weight Arborescence (MWA) rooted at a vertex r is a directed spanning tree rooted at r with the minimum total weight. We define the MinArborescence constraint to solve constrained arborescence problems (CAP) in Constraint Programming (CP). A filtering based on the LP reduced costs requires \(O(|V|^2)\) where |V| is the number of vertices. We propose a procedure to strengthen the quality of the LP reduced costs in some cases, also running in \(O(|V|^2)\). Computational results on a variant of CAP show that the additional filtering provided by the constraint reduces the size of the search tree substantially.

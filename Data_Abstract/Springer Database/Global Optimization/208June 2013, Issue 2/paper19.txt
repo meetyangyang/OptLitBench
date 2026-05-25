@@ -1,0 +1,6 @@
+Optimal discrete-valued control computation
+Changjun Yu;Bin Li;Ryan Loxton;Kok Lay Teo;
+Abstract
+In this paper, we consider an optimal control problem in which the control takes values from a discrete set and the state and control are subject to continuous inequality constraints. By introducing auxiliary controls and applying a time-scaling transformation, we transform this optimal control problem into an equivalent problem subject to additional linear and quadratic constraints. The feasible region defined by these additional constraints is disconnected, and thus standard optimization methods struggle to handle these constraints. We introduce a novel exact penalty function to penalize constraint violations, and then append this penalty function to the objective. This leads to an approximate optimal control problem that can be solved using standard software packages such as MISER. Convergence results show that when the penalty parameter is sufficiently large, any local solution of the approximate problem is also a local solution of the original problem. We conclude the paper with some numerical results for two difficult train control problems.
+Keywords
+Optimal discrete-valued control  Exact penalty function  Time scaling transformation  

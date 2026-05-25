@@ -1,0 +1,6 @@
+Dynamic Optimization for Switched Time-Delay Systems with State-Dependent Switching Conditions
+Chongyang  Liu, Ryan  Loxton, Qun  Lin, and Kok Lay  Teo;
+Abstract
+This paper considers a dynamic optimization problem for a class of switched systems characterized by two key attributes: (i) the switching mechanism is invoked automatically when the state variables satisfy certain switching conditions; and (ii) the subsystem dynamics involve time-delays in the state variables. The decision variables in the problem, which must be selected optimally to minimize system cost, consist of a set of time-invariant system parameters in the initial state functions. To solve the dynamic optimization problem, we first show that the partial derivatives of the system state with respect to the system parameters can be expressed in terms of the solution of a set of variational switched systems. Then, on the basis of this result, we develop a gradient-based optimization algorithm to determine the optimal parameter values. Finally, we validate the proposed algorithm by solving an example problem arising in the production of 1,3-propanediol.
+Keywords
+switched system, time-delay system, dynamic optimization, state-dependent switching, nonlinear optimization, 34K34, 49M37, 65K10, 

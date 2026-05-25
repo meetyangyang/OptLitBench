@@ -1,0 +1,6 @@
+A non-dominated sorting hybrid algorithm for multi-objective optimization of engineering problems
+ Hossein   Ghiasi ; Damiano   Pasini ; Larry   Lessard ;
+Abstract
+ Among numerous multi-objective optimization algorithms, the Elitist non-dominated sorting genetic algorithm (NSGA-II) is one of the most popular methods due to its simplicity, effectiveness and minimum involvement of the user. This article develops a multi-objective variation of the Nelder-Mead simplex method and combines it with NSGA-II in order to improve the quality and spread of the solutions. The proposed hybrid algorithm, called non-dominated sorting hybrid algorithm (NSHA), is compared with NSGA-II on several constrained and unconstrained test problems. The higher convergence rate and the wider spread of solutions obtained with NSHA make this algorithm a good candidate for engineering problems that require time-consuming simulation and analysis. To demonstrate this fact, NSHA is applied to the design of a carbon fibre bicycle stem simultaneously optimized for strength, weight and processing time. 
+Keywords
+multi-objective optimization, genetic algorithm, non-dominated sorting, hybrid algorithm 

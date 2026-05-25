@@ -1,0 +1,6 @@
+Molecular conformation on the CM-5 by parallel two-level simulated annealing
+Guoliang Xue;
+Abstract
+In this paper, we propose a new kind of simulated annealing algorithm calledtwo-level simulated annealing for solving certain class of hard combinatorial optimization problems. This two-level simulated annealing algorithm is less likely to get stuck at a non-global minimizer than conventional simulated annealing algorithms. We also propose a parallel version of our two-level simulated annealing algorithm and discuss its efficiency. This new technique is then applied to the Molecular Conformation problem in 3 dimensional Euclidean space. Extensive computational results on Thinking Machines CM-5 are presented. With the full Lennard-Jones potential function, we were able to get satisfactory results for problems for cluster sizes as large as 100,000. A peak rate of over 0.8 giga flop per second in 64-bit operations was sustained on a partition with 512 processing elements. To the best of our knowledge, ground states of Lennard-Jones clusters of size as large as these have never been reported before.
+Keywords
+Molecular conformation  global optimization  simulated annealing  parallel algorithms  

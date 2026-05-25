@@ -1,0 +1,6 @@
+Minimizing the Euclidean Condition Number
+Richard D.  Braatz and Manfred  Morari;
+Abstract
+This paper considers the problem of determining the row and/or column scaling of a matrix A that minimizes the condition number of the scaled matrix. This problem has been studied by many authors. For the cases of the $\infty $-norm and the 1-norm, the scaling problem was completely solved in the 1960s. It is the Euclidean norm case that has widespread application in robust control analyses. For example, it is used for integral controllability tests based on steady-state information, for the selection of sensors and actuators based on dynamic information, and for studying the sensitivity of stability to uncertainty in control systems.Minimizing the scaled Euclidean condition number has been an open question—researchers proposed approaches to solving the problem numerically, but none of the proposed numerical approaches guaranteed convergence to the true minimum. This paper provides a convex optimization procedure to determine the scalings that minimize the Euclidean condition number. This optimization can be solved in polynomial-time with off-the-shelf software.
+Keywords
+scaling, conditioning, condition number, 65F35, 93B35, 93D21, 

@@ -1,0 +1,6 @@
+Differential evolution techniques for the structure-control design of a five-bar parallel robot
+ Miguel   G.   Villarreal-Cervantes ; Carlos   A.   Cruz-Villar ; Jaime   Alvarez-Gallegos ; Edgar   A.   Portilla-Flores ;
+Abstract
+ The present work deals with the use of a constraint-handling differential evolution algorithm to solve a nonlinear dynamic optimization problem (NLDOP) with 51 decision variables. A novel mechatronic design approach is proposed as an NLDOP, where both the structural parameters of a non-redundant parallel robot and the control parameters are simultaneously designed with respect to a performance criterion. Additionally, the dynamic model of the parallel robot is included in the NLDOP as an equality constraint. The obtained solution will be a set of optimal geometric parameters and optimal PID control gains. The optimal geometric parameters adjust the dynamic and the kinematic parameters, optimizing then, the link shapes of the robot. The proposed mechatronic design approach is applied to design simultaneously both the mechanical structure of a five-bar parallel robot and the PID controller. 
+Keywords
+differential evolution, parallel robot, integrated design, dynamic optimization problem 

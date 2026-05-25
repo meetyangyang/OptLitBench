@@ -1,0 +1,6 @@
+Serial and parallel backpropagation convergence via nonmonotone perturbed minimization
+   O.L.   Mangasarian ;   M.V.   Solodov ;
+Abstract
+ A general convergence theorem is proposed for a family of serial and parallel nonmonotone unconstrained minimization methods with perturbations. A principal application of the theorem is to establish convergence of backpropagation (BP), the classical algorithm for training artificial neural networks. Under certain natural assumptions, such as divergence of the sum of the learning rates and convergence of the sum of their squares, it is shown that every accumulation point of the BP iterates is a stationary point of the error function associated with the given set of training examples. The results presented cover serial and parallel BP, as well as modified BP with a momentum term. 
+Keywords
+Neural networks, Backpropagation, Nonmonotone convergence 

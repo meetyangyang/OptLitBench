@@ -1,0 +1,6 @@
+An optimal control problem involving impulsive integrodifferential systems
+ C.   Z.   Wu ; K.   L.   Teo ; Yi   Zhao ; W.   Y.   Yan ;
+Abstract
+ In this article, we consider a class of optimal control problems involving dynamical systems described by impulsive integrodifferential equations. First, we approximate the integral kernel of the integral equation by a finite expansion of the shifted Chebyshev polynomial. Through this process, the optimal control problem is approximated by a sequence of optimal control problems involving only impulsive ordinary differential equations. Each of them can be viewed as a nonlinear optimization problem. For each of these approximated problems, the gradient formula of the cost functional can be derived and hence can be solved by many efficient optimization techniques. Consequently, the optimal control software, MISER, is applicable for the purpose. Then, we present some convergence results showing the relationship between the sequence of the optimal controls of the approximated problems and that of the original problem. Finally, a numerical example is presented to illustrate the efficiency of the proposed method. 
+Keywords
+Optimal control, Computation of optimal controls, Integrodifferential equations, Impulsive, Chebyshev polynomial approximation, Control parametrization 

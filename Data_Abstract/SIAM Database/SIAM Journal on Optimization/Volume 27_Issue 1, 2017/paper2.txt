@@ -1,0 +1,6 @@
+Primal-Dual Algorithms for Optimization with Stochastic Dominance
+William B.  Haskell, J. George  Shanthikumar, and Z. Max  Shen;
+Abstract
+Stochastic dominance, a pairwise comparison between random variables, is an effective tool for expressing risk aversion in stochastic optimization. In this paper, we develop a family of primal-dual algorithms for optimization problems with stochastic dominance-constraints. First, we develop an offline primal-dual algorithm and bound its optimality gap as a function of the number of iterations. Then, we extend this algorithm to the online setting where only one random sample is given in each decision epoch. We give probabilistic bounds on the optimality gap in this setting. This technique also yields an online algorithm for the stochastic dominance-constrained multiarmed bandit with partial feedback. The paper concludes by discussing a dual approach for a batch learning problem with robust stochastic dominance constraints.
+Keywords
+stochastic optimization, empirical algorithms, Azuma--Hoeffding inequality, 00A20, 

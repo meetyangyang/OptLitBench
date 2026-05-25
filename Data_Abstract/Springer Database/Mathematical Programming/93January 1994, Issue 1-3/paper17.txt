@@ -1,0 +1,6 @@
+Quadratic 0/1 optimization and a decomposition approach for the placement of electronic circuits
+M. Jünger;A. Martin;G. Reinelt;R. Weismantel;
+Abstract
+The placement problem in the layout design of electronic circuits consists of finding a nonoverlapping assignment of rectangular cells to positions on the chip so that wireability is guaranteed and certain technical constraints are met. This problem can be modelled as a quadratic 0/1-program subject to linear constraints. We will present a decomposition approach to the placement problem and give results above NP-hardness and the existence ofε-approximative algorithms for the involved optimization problems. A graph theoretic formulation of these problems will enable us to develop approximative algorithms. Finally we will present details of the implementation of our approach and compare it to industrial state of the art placement routines.
+Keywords
+Quadratic 0/1 optimization  computational complexity  VLSI-design  

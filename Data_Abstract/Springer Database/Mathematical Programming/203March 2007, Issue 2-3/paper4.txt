@@ -1,0 +1,6 @@
+Solving maximum-entropy sampling problems using factored masks
+Samuel Burer;Jon Lee;
+Abstract
+We present a practical approach to Anstreicher and Lee’s masked spectral bound for maximum-entropy sampling, and we describe favorable results that we have obtained with a Branch-and-Bound algorithm based on our approach. By representing masks in factored form, we are able to easily satisfy a semidefiniteness constraint. Moreover, this representation allows us to restrict the rank of the mask as a means for attempting to practically incorporate second-order information.
+Keywords
+Entropy  Branch and bound  Nonlinear programming  Eigenvalue  90C26  90C22  90C27  90C57  

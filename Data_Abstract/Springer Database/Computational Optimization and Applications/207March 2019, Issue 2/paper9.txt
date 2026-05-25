@@ -1,0 +1,6 @@
+An iterative method for solving a bi-objective constrained portfolio optimization problem
+Madani Bezoui;Mustapha Moulaï;Ahcène Bounceur;Reinhardt Euler;
+Abstract
+In this work, we consider the problem of portfolio optimization under cardinality and quantity constraints. We use the standard model of mean-variance in its bi-objective form which is presented here as a bi-objective quadratic programming problem under cardinality and quantity constraints. This problem is NP-hard, which is why the majority of methods proposed in the literature use metaheuristics for its resolution. In this paper, we propose an iterative method for solving constrained portfolio optimization problems. Experiments are performed with major market indices, such as the Hang Seng, DAX, FTSE, S&P 100, Nikkei, S&P 500 and Nasdaq using real-world datasets involving up to 2196 assets. Comparisons with two exact methods and a metaheuristic are performed. These results show that the new method allows to find efficient portfolio fronts in reasonable time.
+Keywords
+Cardinality and quantity constraints  Cardinality portfolio selection  Bi-objective programming  Mixed integer programming  Steepest descent method  Pascoletti–Serafini method  90C29  90C90  90C11  90B50  91B28  

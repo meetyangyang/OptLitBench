@@ -1,0 +1,6 @@
+Exploiting Known Structures to Approximate Normal Cones
+Chad Davis;Warren Hare;
+Abstract
+The normal cone to a constraint set plays a key role in optimization theory, algorithms, and applications. We consider the question of how to approximate the normal cone to a set under the assumption that the set is provided through an oracle function or collection of oracle functions, but contains some exploitable structure. We provide a new simplex gradient-based approximation technique that works for sets defined through a finite number of oracle-based functions. We further present novel results showing that, under a non-degeneracy condition, approximating normal cones to intersections of sets is possible by taking sums of approximations. Finally, we provide numerical results that exemplify the accuracy of the simplex gradient approximation when it is applicable, and the failure of this technique when a linear independence constraint qualification is not met.
+Keywords
+nonsmooth optimization normal cone constraint set numerical analysis discrete approximate gradient oracle 

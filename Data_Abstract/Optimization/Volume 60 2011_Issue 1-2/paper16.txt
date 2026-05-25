@@ -1,0 +1,6 @@
+An exact penalty-Lagrangian approach for large-scale nonlinear programming
+ G.   Di Pillo ; G.   Liuzzi ; S.   Lucidi ;
+Abstract
+ Nonlinear programming problems with equality constraints and bound constraints on the variables are considered. The presence of bound constraints in the definition of the problem is exploited as much as possible. To this aim, an efficient search direction is defined which is able to produce a locally and superlinearly convergent algorithm and that can be computed in an efficient way by using a truncated scheme suitable for large scale problems. Then, an exact merit function is considered whose analytical expression again exploits the particular structure of the problem by using an exact augmented Lagrangian approach for equality constraints and an exact penalty approach for the bound constraints. It is proved that the search direction and the merit function have some strong connections which can be the basis to define a globally convergent algorithm with superlinear convergence rate for the solution of the constrained problem. 
+Keywords
+constrained nonlinear programming, exact penalty-Lagrangian methodAMS Subject Classifications:: 90C30, 90C06 

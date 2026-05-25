@@ -1,0 +1,6 @@
+Almost Sure Exponential Stability of Stochastic Differential Delay Equations
+Qian  Guo, Xuerong  Mao, and Rongxian  Yue;
+Abstract
+This paper is concerned with the almost sure exponential stability of the multi-dimensional nonlinear stochastic differential delay equation (SDDE) with  variable delays of the form $dx(t) = f(x(t-\delta_1(t)),t)dt + g(x(t-\delta_2(t)),t) dB(t)$, where $\delta_1, \ \delta_2: \mathbb{R}_+\to [0,\tau]$ stand for variable delays. We show that if the corresponding (nondelay) stochastic differential equation (SDE) $dy(t) = f(y(t),t)dt + g(y(t),t) dB(t)$ admits a Lyapunov function (which in particular implies the almost sure exponential stability of the SDE) then there exists a positive number $\tau^*$ such that the  SDDE is also almost sure exponentially stable as long as the delay is bounded by $\tau^*$. We provide an implicit lower bound for $\tau^*$ which can be computed numerically. Moreover, our new theory enables us to design stochastic delay feedback controls in order to stabilize unstable differential equations.
+Keywords
+almost sure exponential stability, stochastic differential delay equations, Itô formula, Brownian motion, stochastic stabilization, 60H10, 60J10, 93D15, 

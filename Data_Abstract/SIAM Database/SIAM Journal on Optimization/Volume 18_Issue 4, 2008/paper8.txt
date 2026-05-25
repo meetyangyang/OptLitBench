@@ -1,0 +1,6 @@
+On Augmented Lagrangian Methods with General Lower-Level Constraints
+R.  Andreani, E. G.  Birgin, J. M.  Martínez, and M. L.  Schuverdt;
+Abstract
+Augmented Lagrangian methods with general lower-level constraints are considered in the present research. These methods are useful when efficient algorithms exist for solving subproblems in which the constraints are only of the lower-level type. Inexact resolution of the lower-level constrained subproblems is considered. Global convergence is proved using the constant positive linear dependence constraint qualification. Conditions for boundedness of the penalty parameters are discussed. The resolution of location problems in which many constraints of the lower-level set are nonlinear is addressed, employing the spectral projected gradient method for solving the subproblems. Problems of this type with more than $3 \times 10^6$ variables and $ 14 \times 10^6$ constraints are solved in this way, using moderate computer time. All the codes are available at http://www.ime.usp.br/~egbirgin/tango/.
+Keywords
+nonlinear programming, augmented Lagrangian methods, global convergence, constraint qualifications, numerical experiments, 49M37, 65F05, 65K05, 90C30, 

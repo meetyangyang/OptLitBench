@@ -1,0 +1,6 @@
+A generalized projection-based scheme for solving convex constrained optimization problems
+Aviv Gibali;Karl-Heinz Küfer;Daniel Reem;Philipp Süss;
+Abstract
+In this paper we present a new algorithmic realization of a projection-based scheme for general convex constrained optimization problem. The general idea is to transform the original optimization problem to a sequence of feasibility problems by iteratively constraining the objective function from above until the feasibility problem is inconsistent. For each of the feasibility problems one may apply any of the existing projection methods for solving it. In particular, the scheme allows the use of subgradient projections and does not require exact projections onto the constraints sets as in existing similar methods. We also apply the newly introduced concept of superiorization to optimization formulation and compare its performance to our scheme. We provide some numerical results for convex quadratic test problems as well as for real-life optimization problems coming from medical treatment planning.
+Keywords
+Projection methods  Feasibility problems  Superiorization  Subgradient  Iterative methods  65K10  65K15  90C25  

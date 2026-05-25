@@ -1,0 +1,6 @@
+Efficient infill sampling for unconstrained robust optimization problems
+Samee Ur Rehman;Matthijs Langelaar;
+Abstract
+A novel infill sampling criterion is proposed for efficient estimation of the global robust optimum of expensive computer simulation based problems. The algorithm is especially geared towards addressing problems that are affected by uncertainties in design variables and problem parameters. The method is based on constructing metamodels using Kriging and adaptively sampling the response surface via a principle of expected improvement adapted for robust optimization. Several numerical examples and an engineering case study are used to demonstrate the ability of the algorithm to estimate the global robust optimum using a limited number of expensive function evaluations.
+Keywords
+robust optimization, Kriging, expected improvement, parametric uncertainty, implementation error 

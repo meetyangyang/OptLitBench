@@ -1,0 +1,6 @@
+Aircraft deconfliction with speed regulation: new models from mixed-integer optimization
+Sonia Cafieri;Nicolas Durand;
+Abstract
+Detecting and solving aircraft conflicts, which occur when aircraft sharing the same airspace are too close to each other according to their predicted trajectories, is a crucial problem in Air Traffic Management. We focus on mixed-integer optimization models based on speed regulation. We first solve the problem to global optimality by means of an exact solver. Since the problem is very difficult to solve, we also propose a heuristic procedure where the problem is decomposed and it is locally exactly solved. Computational results show that the proposed approach provides satisfactory results.
+Keywords
+Air Traffic Management  Conflict avoidance   Nonconvex mixed-integer nonlinear programming  MINLP  Modeling   Global exact solution  Locally-optimal heuristic  

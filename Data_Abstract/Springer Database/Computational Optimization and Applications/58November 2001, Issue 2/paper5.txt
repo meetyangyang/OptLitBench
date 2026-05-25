@@ -1,0 +1,6 @@
+A General Meta-Heuristic Based Solver for Combinatorial Optimisation Problems
+Marcus Randall;David Abramson;
+Abstract
+In recent years, there have been many studies in which tailored heuristics and meta-heuristics have been applied to specific optimisation problems. These codes can be extremely efficient, but may also lack generality. In contrast, this research focuses on building a general-purpose combinatorial optimisation problem solver using a variety of meta-heuristic algorithms including Simulated Annealing and Tabu Search. The system is novel because it uses a modelling environment in which the solution is stored in dense dynamic list structures, unlike a more conventional sparse vector notation. Because of this, it incorporates a number of neighbourhood search operators that are normally only found in tailored codes and it performs well on a range of problems. The general nature of the system allows a model developer to rapidly prototype different problems. The new solver is applied across a range of traditional combinatorial optimisation problems. The results indicate that the system achieves good performance in terms of solution quality and runtime.
+Keywords
+combinatorial optimisation  meta-heuristic search algorithms  linked lists  

@@ -1,0 +1,6 @@
+Topology optimization using PETSc: An easy-to-use, fully parallel, open source topology optimization framework
+Niels Aage;Erik Andreassen;Boyan Stefanov Lazarov;
+Abstract
+This paper presents a flexible framework for parallel and easy-to-implement topology optimization using the Portable and Extendable Toolkit for Scientific Computing (PETSc). The presented framework is based on a standardized, and freely available library and in the published form it solves the minimum compliance problem on structured grids, using standard FEM and filtering techniques. For completeness a parallel implementation of the Method of Moving Asymptotes is included as well. The capabilities are exemplified by minimum compliance and homogenization problems. In both cases the unprecedented fine discretization reveals new design features, providing novel insight. The code can be downloaded from www.topopt.dtu.dk/PETSc.
+Keywords
+Topology optimization  Parallel computing  PETSc  Homogenization  Large scale  

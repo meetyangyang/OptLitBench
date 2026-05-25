@@ -1,0 +1,6 @@
+The steiner tree packing problem in VLSI design
+M. Grötschel;A. Martin;R. Weismantel;
+Abstract
+In this paper we describe several versions of the routing problem arising in VLSI design and indicate how the Steiner tree packing problem can be used to model these problems mathematically. We focus on switchbox routing problems and provide integer programming formulations for routing in the knock-knee and in the Manhattan model. We give a brief sketch of cutting plane algorithms that we developed and implemented for these two models. We report on computational experiments using standard test instances. Our codes are able to determine optimum solutions in most cases, and in particular, we can show that some of the instances have no feasible solution if Manhattan routing is used instead of knock-knee routing.
+Keywords
+Steiner tree packing  Routing in VLSI design  Switchbox routing  Cutting plane algorithm  

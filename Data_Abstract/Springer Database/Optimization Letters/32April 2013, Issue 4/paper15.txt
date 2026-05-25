@@ -1,0 +1,6 @@
+A deterministic approach to global box-constrained optimization
+Yury Evtushenko;Mikhail Posypkin;
+Abstract
+A deterministic global optimization algorithm for box-constrained problems is presented. The proposed approach is based on well-known non-uniform space covering technique. In the paper this approach is further elaborated. We propose a new techniques that enables a significant reduction of the search space by means of dropping parts of processed boxes. Also a new quadratic underestimation for the objective function based on hessian eigenvalues bounds is presented. It is shown how this underestimation can be improved by exploiting the first-order optimality conditions. In the experimental section we compare the proposed approach with existing methods and programming tools. Numerical tests indicate that the proposed algorithm is highly competitive with considered methods.
+Keywords
+Box-constrained optimization  Deterministic optimization  Branch-and-bound method  Lipschitzian optimization  

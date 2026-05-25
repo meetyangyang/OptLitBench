@@ -1,0 +1,6 @@
+New methods for calculating \(\alpha \)BB-type underestimators
+Anders Skjäl;Tapio Westerlund;
+Abstract
+Most branch-and-bound algorithms in global optimization depend on convex underestimators to calculate lower bounds of a minimization objective function. The \(\alpha \)BB methodology produces such underestimators for sufficiently smooth functions by analyzing interval Hessian approximations. Several methods to rigorously determine the \(\alpha \)BB parameters have been proposed, varying in tightness and computational complexity. We present new polynomial-time methods and compare their properties to existing approaches. The new methods are based on classical eigenvalue bounds from linear algebra and a more recent result on interval matrices. We show how parameters can be optimized with respect to the average underestimation error, in addition to the maximum error commonly used in \(\alpha \)BB methods. Numerical comparisons are made, based on test functions and a set of randomly generated interval Hessians. The paper shows the relative strengths of the methods, and proves exact results where one method dominates another.
+Keywords
+Global optimization  \(\alpha \)BB  Convex relaxation   Nonconvex optimization  90C26  

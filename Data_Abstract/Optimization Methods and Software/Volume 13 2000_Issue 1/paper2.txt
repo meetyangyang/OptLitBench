@@ -1,0 +1,6 @@
+A globally convergent inexact-Newton method for solving reducible nonlinear systems of equations
+ Nataša   Krejíc ; José Mario   Martínez ;
+Abstract
+ A nonlinear system of equations is said to be reducible if it can be divided into m blocks (m > 1) in such a way that the i-th block depends only on the first i blocks of unknowns. Different ways of handling the different blocks with the aim of solving the system have been proposed in the literature. When the dimension of the blocks is very large, it can be difficult to solve the linear Newtonian equations associated to them using direct solvers based on factorizations. In this case, the idea of using iterative linear solvers to deal with the blocks of the system separately is appealing. In this paper, a local convergence theory that justifies this procedure is presented. The theory also explains the behavior of a Block-Newton method under different types of perturbations. Moreover, a globally convergent modification of the basic Block Inexact-Newton algorithm is introduced so that, under suitable assumptions, convergence can be ensured, independently of the initial point considered  
+Keywords
+Nonlinear systems, Inexact-Newton methods, Reducible systems, Decomposition 

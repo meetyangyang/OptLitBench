@@ -1,0 +1,6 @@
+Approximate Level Method for Nonsmooth Convex Minimization
+Peter Richtárik;
+Abstract
+In this paper, we propose and analyse an approximate variant of the level method of Lemaréchal, Nemirovskii and Nesterov for minimizing nonsmooth convex functions. The main per-iteration work of the level method is spent on (i) minimizing a piecewise-linear model of the objective function and (ii) projecting onto the intersection of the feasible region and a level set of the model function. We show that, by replacing exact computations in both cases by approximate computations, in relative scale, the theoretical iteration complexity increases only by a small factor which depends on the approximation level and reduces to one in the exact case.
+Keywords
+Level method  Approximate projections in relative scale  Nonsmooth convex minimization  Sensitivity analysis  Large-scale optimization  

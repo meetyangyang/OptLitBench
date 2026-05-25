@@ -1,0 +1,6 @@
+On the generalization of ECP and OA methods to nonsmooth convex MINLP problems
+ Ville-Pekka   Eronen ; Marko   M.   Mäkelä ; Tapio   Westerlund ;
+Abstract
+ In this article, generalization of some mixed-integer nonlinear programming algorithms to cover convex nonsmooth problems is studied. In the extended cutting plane method, gradients are replaced by the subgradients of the convex function and the resulting algorithm shall be proved to converge to a global optimum. It is shown through a counterexample that this type of generalization is insufficient with certain versions of the outer approximation algorithm. However, with some modifications to the outer approximation method a special type of nonsmooth functions for which the subdifferential at any point is a convex combination of a finite number of subgradients at the point can be considered. Numerical results with extended cutting plane method are also reported. 
+Keywords
+nonsmooth optimization, extended cutting plane algorithm, outer approximation algorithm, subgradientAMS Subject Classifications:: 90C11, 90C25, 90C56 

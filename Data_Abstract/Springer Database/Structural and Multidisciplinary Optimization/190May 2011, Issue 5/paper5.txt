@@ -1,0 +1,6 @@
+Micro-scale truss optimization using genetic algorithm
+María Belén Prendes-Gero;Jean-Marc Drouet;
+Abstract
+This paper describes the development of a genetic algorithm that is capable of optimizing the mass of micro-scale trusses. Belonging to the group of periodic cellular materials, micro-scale trusses are characterized by the creation of a base cell with a pattern that is repeated in space until a global structure is obtained. Investigation in this field has generally been focused on the design of base cells and their resistance once the final structure is obtained. In this project we have attempted to optimize each individual cell and in particular its elements according to the loads and boundary conditions applied to the global structure. With this objective, we defined a dichotomic search algorithm that establishes a set of cross-sectional areas suitable for the micro-scale truss, formulated the penalty coefficient for the over-sized elements, and studied the clones and rebirth process in order to avoid stagnation of the genetic algorithm. The cell elements used in this project were equal to or less than to 1 mm long, with a cross-sectional area in the order of 10 − 9 m2.
+Keywords
+Micro-scale truss  Genetic algorithm  Initialization  Penalty coefficient  

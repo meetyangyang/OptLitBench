@@ -1,0 +1,6 @@
+Subspace Invariance of Broyden’s $\theta $-Class and its Application to Nonlinear Constrained Optimization
+Rodrigo  Fontecilla;
+Abstract
+Broyden’s $\theta $-class of updating formulae has the following property. If the current approximation matrix is symmetric and positive definite, then the updated matrix maintains those same properties under certain conditions. It is shown that if the current approximation matrix is symmetric and positive definite on a subspace of ${\bf R}''$, then the updated matrix is symmetric and positive definite along the same subspace. An application of this result to the implementation of a quasi-Newton method for solving nonlinear constrained optimization problems is presented.
+Keywords
+unconstrained minimization, constrained minimization, quasi-Newton methods, Broyden’s θ-class, 65K05, 65K10, 

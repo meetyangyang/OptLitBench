@@ -1,0 +1,6 @@
+GPU parallel strategy for parameterized LSM-based topology optimization using isogeometric analysis
+Zhaohui Xia;Yingjun Wang;Qifu Wang;Chao Mei;
+Abstract
+This paper proposes a new level set-based topology optimization (TO) method using a parallel strategy of Graphics Processing Units (GPUs) and the isogeometric analysis (IGA). The strategy consists of parallel implementations for initial design domain, IGA, sensitivity analysis and design variable update, and the key issues in the parallel implementation, e.g., the parallel assembly race condition, are discussed in detail. The computational complexity and parallelization of the different steps in the TO are also analyzed in this paper. To better demonstrate the advantages of the proposed strategy, we compare efficiency of serial CPU, multi-thread parallel CPU and GPU by benchmark examples, and the speedups achieve two orders of magnitude.
+Keywords
+Isogeometric analysis  Topology optimization  Level set method  CUDA  GPU parallel computing  

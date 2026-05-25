@@ -1,0 +1,6 @@
+State constraints in the linear regulator problem: Case study
+A. L. Dontchev;I. V. Kolmanovsky;
+Abstract
+In this paper, we consider the problem of minimum-norm control of the double integrator with bilateral inequality constraints for the output. We approximate the constraints by piecewise linear functions and prove that the Langrange multipliers associated with the state constraints of the approximating problem are discrete measures, concentrated in at most two points in every interval of discretization. This allows us to reduce the problem to a convex finite-dimensional optimization problem. An algorithm based on this reduction is proposed and its convergence is examined. Numerical examples illustrate our approach. We also discuss regularity properties of the optimal control for a higher-dimensional state-constrained linear regulator problem.
+Keywords
+Linear-quadratic problems  double integrators  state constraints  obstacle avoidance  finite-dimensional approximations  

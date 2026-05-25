@@ -1,0 +1,6 @@
+A Bidding Game with Heterogeneous Players
+Alberto Bressan;Deling Wei;
+Abstract
+A one-sided limit order book is modeled as a noncooperative game for several players. Agents offer various quantities of an asset at different prices, competing to fulfill an incoming order, whose size is not known a priori. Players can have different payoff functions, reflecting different beliefs about the fundamental value of the asset and probability distribution of the random incoming order. In a previous paper, the existence of a Nash equilibrium was established by means of a fixed point argument. The main issue discussed in the present paper is whether this equilibrium can be obtained from the unique solution to a two-point boundary value problem, for a suitable system of discontinuous ordinary differential equations. Some additional assumptions are introduced, which yield a positive answer. In particular, this is true when there are exactly two players, or when all players assign the same exponential probability distribution to the incoming order. In both of these cases, we also prove that the Nash equilibrium is unique. A counterexample shows that these assumptions cannot be removed, in general.
+Keywords
+Optimality conditions  Discontinuous ODE  Optimal pricing strategy  Bidding game  Nash equilibrium  Limit order book  49K21  49J21  91A06  91A13  91A60  

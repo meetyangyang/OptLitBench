@@ -1,0 +1,6 @@
+A new topology optimization approach based on Moving Morphable Components (MMC) and the ersatz material model
+Weisheng Zhang;Jie Yuan;Jian Zhang;Xu Guo;
+Abstract
+This paper presents a new topology optimization approach based on the so-called Moving Morphable Components (MMC) solution framework. The proposed method improves several weaknesses of the previous approach (e.g., Guo et al. in J Appl Mech 81:081009, 2014a) in the sense that it can not only allow for components with variable thicknesses but also enhance the numerical solution efficiency substantially. This is achieved by constructing the topological description functions of the components appropriately, and utilizing the ersatz material model through projecting the topological description functions of the components. Numerical examples demonstrate the effectiveness of the proposed approach. In order to help readers understand the essential features of this approach, a 188 line Matlab implementation of this approach is also provided.
+Keywords
+Topology optimization  Moving Morphable components  Design sensitivity  

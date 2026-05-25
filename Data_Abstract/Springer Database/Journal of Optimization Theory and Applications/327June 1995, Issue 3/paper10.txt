@@ -1,0 +1,6 @@
+Efficient line search algorithm for unconstrained optimization
+F. A. Potra;Y. Shi;
+Abstract
+A new line search algorithm for smooth unconstrained optimization is presented that requires only one gradient evaluation with an inaccurate line search and at most two gradient evaluations with an accurate line search. It terminates in finitely many operations and shares the same theoretical properties as the standard line search rules like the Armijo-Goldstein-Wolfe-Powell rules. This algorithm is especially appropriate for the situation when gradient evaluations are very expensive relative to function evaluations.
+Keywords
+Unconstrained optimization  line search algorithms  

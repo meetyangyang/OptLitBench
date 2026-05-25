@@ -1,0 +1,6 @@
+Simultaneous parametric material and topology optimization with constrained material grading
+Jannis Greifenstein;Michael Stingl;
+Abstract
+We consider the problem of parametric material and simultaneous topology optimization of an elastic continuum. To ensure existence of solutions to the proposed optimization problem and to enable the imposition of a deliberate maximal material grading, two approaches are adopted and combined. The first imposes pointwise bounds on design variable gradients, whilst the second applies a filtering technique based on a convolution product. For the topology optimization, the parametrized material is multiplied with a penalized continuous density variable. We suggest a finite element discretization of the problem and provide a proof of convergence for the finite element solutions to solutions of the continuous problem. The convergence proof also implies the absence of checkerboards. The concepts are demonstrated by means of numerical examples using a number of different material parametrizations and comparing the results to global lower bounds.
+Keywords
+Material optimization  Topology optimization  Slope constraints  Density filters  

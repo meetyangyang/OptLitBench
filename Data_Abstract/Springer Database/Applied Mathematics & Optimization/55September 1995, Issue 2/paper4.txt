@@ -1,0 +1,6 @@
+Randomized algorithms for the separation of point sets and for solving quadratic programs
+N. D. Botkin;
+Abstract
+A randomized algorithm for finding a hyperplane separating two finite point sets in the Euclidean space ℝd and a randomized algorithm for solving linearly constrained general convex quadratic problems are proposed. The expected running time of the separating algorithm isO(dd! (m + n)), wherem andn are cardinalities of sets to be separated. The expected running time of the algorithm for solving quadratic problems isO(dd! s) wheres is the number of inequality constraints. These algorithms are based on the ideas of Seidel's linear programming algorithm [6]. They are closely related to algorithms of [8], [2], and [9] and belong to an abstract class of algorithms investigated in [1]. The algorithm for solving quadratic problems has some features of the one proposed in [7].
+Keywords
+Separation of two finite point sets  Linearly constrained general convex quadratic problems  Randomized algorithms  Primary 68U05  90C05  90C20  Secondary 52B55  

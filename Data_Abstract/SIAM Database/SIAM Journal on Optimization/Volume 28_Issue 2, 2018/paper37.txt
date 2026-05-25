@@ -1,0 +1,6 @@
+Double Bundle Method for finding Clarke Stationary Points in Nonsmooth DC Programming
+Kaisa  Joki, Adil M.  Bagirov, Napsu  Karmitsa, Marko M.  Mäkelä, and Sona  Taheri;
+Abstract
+The aim of this paper is to introduce a new proximal double bundle method for unconstrained nonsmooth optimization, where the objective function is presented as a difference of two convex (DC) functions. The novelty in our method is a new escape procedure which enables us to guarantee approximate Clarke stationarity for solutions by utilizing the DC components of the objective function. This optimality condition is stronger than the criticality condition typically used in DC programming. Moreover, if a candidate solution is not approximate Clarke stationary, then the escape procedure returns a descent direction. With this escape procedure, we can avoid some shortcomings encountered when criticality is used. The finite termination of the double bundle method to an approximate Clarke stationary point is proved by assuming that the subdifferentials of DC components are polytopes. Finally, some encouraging numerical results are presented.
+Keywords
+nonsmooth optimization, nonconvex optimization, DC functions, bundle methods, cutting plane model, Clarke stationarity, 90C26, 49J52, 65K05, 

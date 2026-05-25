@@ -1,0 +1,6 @@
+Neural network approximations in a simulated annealing based optimal structural design
+Z. Szewczyk;P. Hajela;
+Abstract
+The present paper examines the feasibility of using neural network based function approximations in conjunction with a simulated annealing (SA) strategy for optimization of structural systems. Such a stochastic search method is more “tolerant” of errors in objective and constraint function information than the more traditional mathematical programming techniques. The improved counterpropagation (CP) neural network is used to generate these approximations, and includes features such as dynamic adjustment of the network size, optimization based training of outstar weights, andfuzzification of output. The CP network is easy to train, and preliminary numerical results indicate that the modifications to the network significantly improve the quality of function approximations. The SA based search for optimal designs is illustrated by the sizing of planar and spatial truss structures for minimum weight and constraints on allowable stress levels.
+Keywords
+Neural Network  Simulated Annealing  Function Approximation  Constraint Function  Truss Structure  

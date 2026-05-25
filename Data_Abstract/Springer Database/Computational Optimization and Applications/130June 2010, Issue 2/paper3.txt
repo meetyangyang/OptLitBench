@@ -1,0 +1,6 @@
+Residual algorithm for large-scale positive definite generalized eigenvalue problems
+Lenys Bello;William La Cruz;Marcos Raydan;
+Abstract
+In the positive definite case, the extreme generalized eigenvalues can be obtained by solving a suitable nonlinear system of equations. In this work, we adapt and study the use of recently developed low-cost derivative-free residual schemes for nonlinear systems, to solve large-scale generalized eigenvalue problems. We demonstrate the effectiveness of our approach on some standard test problems, and also on a problem associated with the vibration analysis of large structures. In our numerical results we use preconditioning strategies based on incomplete factorizations, and we compare with and without preconditioning with a well-known available package.
+Keywords
+Generalized eigenvalues  Generalized Rayleigh quotient  Spectral gradient method  DF-SANE residual method  

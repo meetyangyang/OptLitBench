@@ -1,0 +1,6 @@
+An active-set algorithm for nonlinear programming using parametric linear programming
+ Richard   H.   Byrd ; Richard   A.   Waltz ;
+Abstract
+ This paper describes an active-set algorithm for nonlinear programming that solves a parametric linear programming subproblem at each iteration to generate an estimate of the active set. A step is then computed by solving an equality constrained quadratic program based on this active-set estimate. This approach represents an extension to standard sequential linear-quadratic programming (SLQP) algorithms. It can also be viewed as an attempt to implement a generalization of the gradient projection algorithm for nonlinear programming. To this effect, we explore the relation between the parametric method and the gradient projection method in the bound-constrained case. Numerical results compare the performance of this algorithm with SLQP and gradient projection, and indicate good performance and marked improvement on bound-constrained problems and quadratic programs. 
+Keywords
+nonlinear optimization, active-set methods, SLQP, parametric LP, gradient projection 

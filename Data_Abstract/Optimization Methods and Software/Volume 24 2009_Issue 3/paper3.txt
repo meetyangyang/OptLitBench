@@ -1,0 +1,6 @@
+A nonmonotone quasi-Newton trust-region method of conic model for unconstrained optimization
+ Shao-Jian   Qu ; Qing-Pu   Zhang ; Su-Da   Jiang ;
+Abstract
+ This paper presents a new nonmonotone quasi-Newton trust-region algorithm of the conic model for the solution of unconstrained optimization problems, where the computation of the horizontal vectors is easier and the approximate Hessian matrices can be maintained positive definite. Under reasonable assumptions, the global convergence, the locally linear and superlinear convergence of the proposed algorithm are developed, respectively. It is well known that in applying trust-region algorithms, the basic issue is how to solve the trust-region subproblem efficiently. To deal with the issue, an approximate solution method is developed in this paper. Note that the approximate solution method not only is computationally cheap, but also preserves the strong convergence properties as the exact solution methods. Numerical results are shown for a number of test problems from the literature. 
+Keywords
+unconstrained optimization, trust-region method, conic model, nonmonotone, quasi-Newton method, convergence properties AMS Subject Classification : 65k05, 90c30 

@@ -1,0 +1,6 @@
+ Design optimization of discrete structural systems using MPI-enabled genetic algorithm
+S.D. Rajan;D.T. Nguyen;
+Abstract
+The focus of this paper is on the development and implementation of a genetic algorithm (GA)-based software system using message passing interface (MPI) protocol and library. A customized and improved form of simple GA used in previous research (Chen et al. 1997; Chen and Rajan 1998, 2000; Rajan et al. 1999) is parallelized. This MPI-enabled version is used to find the solution to finite element-based design optimization problems in a network of workstations. Results show that an almost linear speedup is obtained on homogenous hardware cluster and, with a proper load-balancing strategy, on heterogeneous hardware cluster. 
+Keywords
+genetic algorithm  load balancing  MPI  parallel processing  structural optimization  

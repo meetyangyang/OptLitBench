@@ -1,0 +1,6 @@
+Improved Generalization via Tolerant Training
+W. N. Street;O. L. Mangasarian;
+Abstract
+Theoretical and computational justification is given for improved generalization when the training set is learned with less accuracy. The model used for this investigation is a simple linear one. It is shown that learning a training set with a tolerance τ improves generalization, over zero-tolerance training, for any testing set satisfying a certain closeness condition to the training set. These results, obtained via a mathematical programming formulation, are placed in the context of some well-known machine learning results. Computational confirmation of improved generalization is given for linear systems (including nine of the twelve real-world data sets tested), as well as for nonlinear systems such as neural networks for which no theoretical results are available at present. In particular, the tolerant training method improves generalization on noisy, sparse, and overparameterized problems.
+Keywords
+Inductive learning  function approximation  generalization  

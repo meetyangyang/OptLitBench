@@ -1,0 +1,6 @@
+An adaptive geometry parametrization for aerodynamic shape optimization
+Xiaocong Han;David W. Zingg;
+Abstract
+An adaptive geometry parametrization is presented to represent aerodynamic configurations during shape optimization. This geometry parametrization technique is constructed by integrating the classical B-spline formulation with a knot insertion algorithm. It is capable of inserting control points into a given parametrization without modifying the geometry. Taking advantage of this technique, a shape optimization problem can be solved as a sequence of optimizations from the basic parametrization to more refined parametrizations. Additional control points are inserted based on criteria incorporating sensitivity analysis and geometric constraints. Example problems involving airfoil optimization and induced drag minimization demonstrate the effectiveness of the proposed approach in comparison to uniformly refined parametrizations.
+Keywords
+Aerodynamic shape optimization  Adaptive parametrization  B-spline  Knot insertion  

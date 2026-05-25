@@ -1,0 +1,6 @@
+The traveling salesman problem with pickup and delivery: polyhedral results and a branch-and-cut algorithm
+Irina Dumitrescu;Stefan Ropke;Jean-François Cordeau;Gilbert Laporte;
+Abstract
+The Traveling Salesman Problem with Pickup and Delivery (TSPPD) is defined on a graph containing pickup and delivery vertices between which there exists a one-to-one relationship. The problem consists of determining a minimum cost tour such that each pickup vertex is visited before its corresponding delivery vertex. In this paper, the TSPPD is modeled as an integer linear program and its polyhedral structure is analyzed. In particular, the dimension of the TSPPD polytope is determined and several valid inequalities, some of which are facet defining, are introduced. Separation procedures and a branch-and-cut algorithm are developed. Computational results show that the algorithm is capable of solving to optimality instances involving up to 35 pickup and delivery requests, thus more than doubling the previous record of 15.
+Keywords
+Traveling salesman problem  Pickup and delivery  Precedence relationships  Polyhedral results  Valid inequalities  Separation procedures  Branch-and-cut algorithm  90C10  90C27  

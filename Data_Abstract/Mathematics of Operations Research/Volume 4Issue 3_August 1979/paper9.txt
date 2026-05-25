@@ -1,0 +1,6 @@
+Penalty Lagrangian Methods Via a Quasi-Newton Approach
+Shih-Ping Han;
+Abstract
+For solving nonlinear programming problems we iteratively minimize the penalty Lagrangian developed by Hestenes, Powell, and Rockafellar with the multipliers estimated by solving nonnegatively constrained quadratic programming subproblems and a penalty parameter updated by a scheme due to Powell and Fletcher. To ensure fast convergence the matrices in the subproblems are required to be good approximations to the Hessian inverse of the penalty Lagrangian. We suggest some quasi-Newton updates such as the well-known BFGS update to construct these matrices. The resulting methods possess local and superlinear convergence properties and the penalty parameter remains bounded. Moreover, these results hold even if the penalty Lagrangian is not exactly minimized.
+Keywords
+nonlinear programming constrained optimization augmented Lagrangian penalty Lagrangian quasi-Newton methods Kuhn-Tucker point 

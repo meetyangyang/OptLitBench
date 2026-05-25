@@ -1,0 +1,6 @@
+A new PSO-based algorithm for multi-objective optimization with continuous and discrete design variables
+Vahid Mokarram;Mohammad Reza Banan;
+Abstract
+This paper presents a new multi-objective optimization algorithm called FC-MOPSO for optimal design of engineering problems with a small number of function evaluations. The proposed algorithm expands the main idea of the single-objective particle swarm optimization (PSO) algorithm to deal with constrained and unconstrained multi-objective problems (MOPs). FC-MOPSO employs an effective procedure in selection of the leader for each particle to ensure both diversity and fast convergence. Fifteen benchmark problems with continuous design variables are used to validate the performance of the proposed algorithm. Finally, a modified version of FC-MOPSO is introduced for handling discrete optimization problems. Its performance is demonstrated by optimizing five space truss structures. It is shown that the FC-MOPSO can effectively find acceptable approximations of Pareto fronts for structural MOPs within very limited number of function evaluations.
+Keywords
+Multi-objective optimization  Structural optimization  Particle swarm optimization  

@@ -1,0 +1,6 @@
+An approximation algorithm for convex multi-objective programming problems
+Matthias Ehrgott;Lizhen Shao;Anita Schöbel;
+Abstract
+In multi-objective convex optimization it is necessary to compute an infinite set of nondominated points. We propose a method for approximating the nondominated set of a multi-objective nonlinear programming problem, where the objective functions and the feasible set are convex. This method is an extension of Benson’s outer approximation algorithm for multi-objective linear programming problems. We prove that this method provides a set of weakly ε-nondominated points. For the case that the objectives and constraints are differentiable, we describe an efficient way to carry out the main step of the algorithm, the construction of a hyperplane separating an exterior point from the feasible set in objective space. We provide examples that show that this cannot always be done in the same way in the case of non-differentiable objectives or constraints.
+Keywords
+Multi-objective optimization  Convex optimization  Approximation algorithm  ε-nondominated point  

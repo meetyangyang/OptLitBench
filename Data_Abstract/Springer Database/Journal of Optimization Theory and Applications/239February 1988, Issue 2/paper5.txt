@@ -1,0 +1,6 @@
+Numerical experience with the truncated Newton method for unconstrained optimization
+L. C. W. Dixon;R. C. Price;
+Abstract
+The truncated Newton algorithm was devised by Dembo and Steihaug (Ref. 1) for solving large sparse unconstrained optimization problems. When far from a minimum, an accurate solution to the Newton equations may not be justified. Dembo's method solves these equations by the conjugate direction method, but truncates the iteration when a required degree of accuracy has been obtained. We present favorable numerical results obtained with the algorithm and compare them with existing codes for large-scale optimization.
+Keywords
+Unconstrained optimization  truncated Newton method  sparsity  trust region  

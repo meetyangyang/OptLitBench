@@ -1,0 +1,6 @@
+An Online Actor–Critic Algorithm with Function Approximation for Constrained Markov Decision Processes
+Shalabh Bhatnagar;K. Lakshmanan;
+Abstract
+We develop an online actor–critic reinforcement learning algorithm with function approximation for a problem of control under inequality constraints. We consider the long-run average cost Markov decision process (MDP) framework in which both the objective and the constraint functions are suitable policy-dependent long-run averages of certain sample path functions. The Lagrange multiplier method is used to handle the inequality constraints. We prove the asymptotic almost sure convergence of our algorithm to a locally optimal solution. We also provide the results of numerical experiments on a problem of routing in a multi-stage queueing network with constraints on long-run average queue lengths. We observe that our algorithm exhibits good performance on this setting and converges to a feasible point.
+Keywords
+Actor–critic algorithm  Constrained Markov decision processes  Long-run average cost criterion  Function approximation  

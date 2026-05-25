@@ -1,0 +1,6 @@
+On the selection of subdivision directions in interval branch-and-bound methods for global optimization
+Dietmar Ratz;Tibor Csendes;
+Abstract
+This paper investigates the influence of the interval subdivision selection rule on the convergence of interval branch-and-bound algorithms for global optimization. For the class of rules that allows convergence, we study the effects of the rules on a model algorithm with special list ordering. Four different rules are investigated in theory and in practice. A wide spectrum of test problems is used for numerical tests indicating that there are substantial differences between the rules with respect to the required CPU time, the number of function and derivative evaluations, and the necessary storage space. Two rules can provide considerable improvements in efficiency for our model algorithm.
+Keywords
+Global optimization  interval arithmetic  branch-and-bound  interval subdivision  

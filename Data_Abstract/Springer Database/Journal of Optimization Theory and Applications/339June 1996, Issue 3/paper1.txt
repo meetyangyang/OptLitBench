@@ -1,0 +1,6 @@
+On the formulation and theory of the Newton interior-point method for nonlinear programming
+A. S. El-Bakry;R. A. Tapia;T. Tsuchiya;Y. Zhang;
+Abstract
+In this work, we first study in detail the formulation of the primal-dual interior-point method for linear programming. We show that, contrary to popular belief, it cannot be viewed as a damped Newton method applied to the Karush-Kuhn-Tucker conditions for the logarithmic barrier function problem. Next, we extend the formulation to general nonlinear programming, and then validate this extension by demonstrating that this algorithm can be implemented so that it is locally and Q-quadratically convergent under only the standard Newton method assumptions. We also establish a global convergence theory for this algorithm and include promising numerical experimentation.
+Keywords
+Interior-point methods  primal-dual methods  nonlinear programming  superlinear and quadratic convergence  global convergence  

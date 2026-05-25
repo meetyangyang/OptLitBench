@@ -1,0 +1,6 @@
+A smart repair embedded memetic algorithm for 2D shape matching problems
+ Mohammad   Sharif   Khan ; Ahmad   F.   Mohamad Ayob ; Amitay   Isaacs ; Tapabrata   Ray ;
+Abstract
+ Shape representation plays a major role in any shape optimization exercise. The ability to identify a shape with good performance is dependent on both the flexibility of the shape representation scheme and the efficiency of the optimization algorithm. In this article, a memetic algorithm is presented for 2D shape matching problems. The shape is represented using B-splines, in which the control points representing the shape are repaired and subsequently evolved within the optimization framework. The underlying memetic algorithm is a multi-feature hybrid that combines the strength of a real coded genetic algorithm, differential evolution and a local search. The efficiency of the proposed algorithm is illustrated using three test problems, wherein the shapes were identified using a mere 5000 function evaluations. Extension of the approach to deal with problems of unknown shape complexity is also presented in the article. 
+Keywords
+shape representation, optimization, evolutionary algorithm, shape matching 

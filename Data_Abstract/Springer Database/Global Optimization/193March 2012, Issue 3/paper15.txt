@@ -1,0 +1,6 @@
+A hybrid method for quantum global optimization
+Yipeng Liu;Gary J. Koehler;
+Abstract
+This paper gives a quantum algorithm for global optimization. The heart of such approaches employ Grover’s database search (1996; Phys Rev Lett 79(23):4709–4712, 1997a; 79(2):325–328, 1997b). Chi and Kim (1998) show that when the phases of the generalized Grover database search operator are optimally chosen, it is capable of finding a solution by a single query. To apply this method to global optimization requires knowledge of the number of marked points m to calculate the optimal phases, but this value is seldom known. This paper focuses on overcoming this hurdle by showing that an estimate of the optimal phases can be found and used to replace the optimal phases while maintaining a high probability of finding a solution. Merging this finding with a recently discovered dynamic quantum global optimization algorithm (BBW2D) that reduces the problem to finding successively improving regions using Grover’s search, we present a hybrid method that improves the efficiency and reduces the variance of the search algorithm when empirically compared to other existing quantum search algorithms.
+Keywords
+Discrete optimization  Global optimization  Grover iterations  Quantum computing  

@@ -1,0 +1,6 @@
+Parametric sensitivity analysis in optimal control of a reaction-diffusion system – part II: practical methods and examples 
+ Roland   Griesse ;
+Abstract
+ In this article, we consider a control-constrained optimal control problem governed by a system of semilinear parabolic reaction-diffusion equations. The optimal solutions are subject to perturbations of the dynamics and of the objective. In Part I of the article, local optimal solutions, as functions of the perturbation parameter, have been proved to be Lipschitz continuous and directionally differentiable. The directional derivatives, also known as parametric sensitivities, have been characterized as the solutions of auxiliary quadratic programing problems, i.e., linear-quadratic optimal control problems. In this article, we devise a practical algorithm that is capable of solving both the unperturbed optimal control problem and the parametric sensitivity problem. A numerical example with complete data is given in order to demonstrate the applicability of our method. To verify our results, we provide a second-order expansion of the minimum value function and compare it to the objective values at true perturbed solutions. 
+Keywords
+Optimal control, Reaction-diffusion equations, Control constraints, Parameter perturbation, Parametric sensitivity 

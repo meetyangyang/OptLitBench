@@ -1,0 +1,6 @@
+Robust optimization with simulated annealing
+Dimitris Bertsimas;Omid Nohadani;
+Abstract
+Complex systems can be optimized to improve the performance with respect to desired functionalities. An optimized solution, however, can become suboptimal or even infeasible, when errors in implementation or input data are encountered. We report on a robust simulated annealing algorithm that does not require any knowledge of the problems structure. This is necessary in many engineering applications where solutions are often not explicitly known and have to be obtained by numerical simulations. While this nonconvex and global optimization method improves the performance as well as the robustness, it also warrants for a global optimum which is robust against data and implementation uncertainties. We demonstrate it on a polynomial optimization problem and on a high-dimensional and complex nanophotonic engineering problem and show significant improvements in efficiency as well as in actual optimality.
+Keywords
+Robust optimization  Simulated annealing  Global optimization  Nonconvex optimization  

@@ -1,0 +1,4 @@
+Is Fitness Inheritance Useful for Real-World Applications?
+Els Ducheyne;Bernard De Baets;Robert De Wulf;
+Abstract
+Fitness evaluation in real-world applications often causes a lot of computational overhead. Fitness inheritance has been proposed for tackling this problem. Instead of evaluating each individual, a certain percentage of the individuals is evaluated indirectly by interpolating the fitness of their parents. However, the problems on which fitness inheritance has been tested are very simple and the question arises whether fitness inheritance is really useful for real-world applications. The objective of this paper is to test the performance of average and weighted average fitness inheritance on a well-known test suite of multiple objective optimization problems. These problems have been generated as to constitute a collection of test cases for genetic algorithms. Results show that fitness inheritance can only be applied to convex and continuous problems.

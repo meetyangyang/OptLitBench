@@ -1,0 +1,6 @@
+Multi-dimensional pruning from the Baumann point in an Interval Global Optimization Algorithm
+Boglárka Tóth;Leocadio G. Casado;
+Abstract
+A new pruning method for interval branch and bound algorithms is presented. In reliable global optimization methods there are several approaches to make the algorithms faster. In minimization problems, interval B&B methods use a good upper bound of the function at the global minimum and good lower bounds of the function at the subproblems to discard most of them, but they need efficient pruning methods to discard regions of the subproblems that do not contain global minimizer points. The new pruning method presented here is based on the application of derivative information from the Baumann point. Numerical results were obtained by incorporating this new technique into a basic Interval B&B Algorithm in order to evaluate the achieved improvements.
+Keywords
+Interval arithmetic  Branch-and-bound method  Global optimization  Pruning test  

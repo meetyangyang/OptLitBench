@@ -1,0 +1,6 @@
+Steering exact penalty methods for nonlinear programming
+ Richard   H.   Byrd ; Jorge   Nocedal ; Richard   A.   Waltz ;
+Abstract
+ This paper reviews, extends and analyses a new class of penalty methods for nonlinear optimization. These methods adjust the penalty parameter dynamically; by controlling the degree of linear feasibility achieved at every iteration, they promote balanced progress toward optimality and feasibility. In contrast with classical approaches, the choice of the penalty parameter ceases to be a heuristic and is determined, instead, by a subproblem with clearly defined objectives. The new penalty update strategy is presented in the context of sequential quadratic programming and sequential linear-quadratic programming methods that use trust regions to promote convergence. The paper concludes with a discussion of penalty parameters for merit functions used in line search methods. 
+Keywords
+nonlinear optimization, penalty methods, constrained optimization AMS Subject Classifications : 65K05, 90C30 

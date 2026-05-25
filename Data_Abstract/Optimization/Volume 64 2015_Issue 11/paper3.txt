@@ -1,0 +1,6 @@
+Accelerated reflection projection algorithm and its application to the LMI problem
+Shin-ya Matsushita;Li Xu;
+Abstract
+We discuss accelerated version of the alternating projection method which can be applied to solve the linear matrix inequality (LMI) problem. The alternating projection method is a well-known algorithm for the convex feasibility problem, and has many generalizations and extensions. Bauschke and Kruk proposed a reflection projection algorithm for computing a point in the intersection of an obtuse cone and a closed convex set. We carry on this research in two directions. First, we present an accelerated version of the reflection projection algorithm, and prove its weak convergence in a Hilbert space; second, we prove the finite termination of an algorithm which is based on the proposed algorithm and provide an explicit upper bound for the required number of iterations under certain assumptions. Numerical experiments for the LMI problem are provided to demonstrate the effectiveness and merits of the proposed algorithms.
+Keywords
+convex feasibility problem, alternating projection method, obtuse cone, linear matrix inequality, nonexpansive mapping, Hilbert spaceAMS Subject Classifications: 47J25, 49M20, 90C25, 93B40 

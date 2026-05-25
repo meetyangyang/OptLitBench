@@ -1,0 +1,6 @@
+Finding minimum-cost flows by double scaling
+Ravindra K. Ahuja;Andrew V. Goldberg;James B. Orlin;Robert E. Tarjan;
+Abstract
+Several researchers have recently developed new techniques that give fast algorithms for the minimum-cost flow problem. In this paper we combine several of these techniques to yield an algorithm running in O(nm(log logU) log(nC)) time on networks withn vertices,m edges, maximum arc capacityU, and maximum arc cost magnitudeC. The major techniques used are the capacity-scaling approach of Edmonds and Karp, the excess-scaling approach of Ahuja and Orlin, the cost-scaling approach of Goldberg and Tarjan, and the dynamic tree data structure of Sleator and Tarjan. For nonsparse graphs with large maximum arc capacity, we obtain a similar but slightly better bound. We also obtain a slightly better bound for the (noncapacitated) transportation problem. In addition, we discuss a capacity-bounding approach to the minimum-cost flow problem.
+Keywords
+Minimum-cost flows  transportation problem  scaling  dynamic trees  minimum-cost circulations  

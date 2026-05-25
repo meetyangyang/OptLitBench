@@ -1,0 +1,6 @@
+A Q4/Q4 continuum structural topology optimization implementation
+S.F. Rahmatalla;C.C. Swan ;
+Abstract
+A node-based design variable implementation for continuum structural topology optimization in a finite element framework is presented and its properties are explored in the context of solving a number of different design examples. Since the implementation ensures C0continuity of design variables, it is immune to element-wise checkerboarding instabilities that are a concern with element-based design variables. Nevertheless, in a subset of design examples considered, especially those involving compliance minimization with coarse meshes, the implementation is found to introduce a new phenomenon that takes the form of “layering” or “islanding” in the material layout design. In the examples studied, this phenomenon disappears with mesh refinement or the enforcement of sufficiently restrictive design perimeter constraints, the latter sometimes being necessary in design problems involving bending to ensure convergence with mesh refinement. Based on its demonstrated performance characteristics, the authors conclude that the proposed node-based implementation is viable for continued usage in continuum topology optimization. 
+Keywords
+stability  checkerboarding  design convergence   

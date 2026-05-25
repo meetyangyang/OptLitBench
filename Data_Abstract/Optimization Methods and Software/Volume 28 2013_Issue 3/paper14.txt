@@ -1,0 +1,6 @@
+Full Nesterov–Todd step feasible interior-point method for the Cartesian P *(κ)-SCLCP
+ G.   Q.   Wang ; G.   Lesaja ;
+Abstract
+ In this paper, we present a feasible interior-point method (IPM) for the Cartesian P *(κ)-linear complementarity problem over symmetric cones (SCLCP) that is based on the classical logarithmic barrier function. The method uses Nesterov–Todd search directions and full step updates of iterates. With the appropriate choice of parameters the algorithm generates a sequence of iterates in the small neighbourhood of the central path which implies global convergence of the method. Moreover, this neighbourhood permits the quadratic convergence of the iterates. The iteration complexity of the method is O((1+4κ)√rlog(r/ϵ)) which matches the currently best known iteration bound for IPMs solving the Cartesian P *(κ)-SCLCP. 
+Keywords
+interior-point methods, linear complementarity problem, Cartesian P *(κ)-property, Euclidean Jordan algebra and symmetric cones, Nesterov–Todd scaling, full-step updates, polynomial complexityAMS Subject Classification: 90C33, 90C51 

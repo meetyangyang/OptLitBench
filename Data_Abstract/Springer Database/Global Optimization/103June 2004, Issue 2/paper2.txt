@@ -1,0 +1,6 @@
+Improving Interval Analysis Bounds by Translations
+Emilio Carrizosa;Pierre Hansen;Frédéric Messine;
+Abstract
+We explore how a simple linear change of variable affects the inclusion functions obtained with Interval Analysis methods. Univariate and multivariate polynomial test functions are considered, showing that translation-based methods improve considerably the bounds computed by standard inclusion functions. An Interval Branch-and-Bound method for global optimization is then implemented to compare the different procedures, showing that, although with times higher than those given by Taylor forms, the number of clusters and iterations is strongly reduced.
+Keywords
+inclusion functions  interval analysis  interval branch and bound  Taylor forms  

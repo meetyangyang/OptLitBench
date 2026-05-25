@@ -1,0 +1,6 @@
+Properties of the sequential gradient-restoration algorithm (SGRA), part 2: Convergence analysis
+M. Rom;M. Avriel;
+Abstract
+The sequential gradient-restoration algorithm (SGRA) was developed in the late 1960s for the solution of equality-constrained nonlinear programs and has been successfully implemented by Miele and coworkers (Refs. 2 and 3) on many large-scale problems. The algorithm consists of two major sequentially applied phases. The first is a gradient-type minimization in a subspace tangent to the constraint surface, and the second is a feasibility restoration procedure. In Part 2, the convergence properties of the SGRA for the general case of nonlinear constraints are analyzed. It is shown that, for analytical convergence purposes, the feasibility restoration phase plays a crucial role. A slight modification of the original restoration algorithm is proposed, and global convergence of the modified version is proven. Finally, a slightly modified version of the complete algorithm is presented and global convergence is proven. The asymptotic rate of convergence of the SGRA is also analyzed. The reader is assumed to be familiar with the problem statement and the description of the SGRA, presented in Part 1 (Ref. 1).
+Keywords
+Sequential gradient-restoration algorithm  nonlinear programming  gradient-type optimization  feasibility restoration  

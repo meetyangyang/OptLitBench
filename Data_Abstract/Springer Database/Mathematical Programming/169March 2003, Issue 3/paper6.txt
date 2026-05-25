@@ -1,0 +1,6 @@
+Accumulating Jacobians as chained sparse matrix products
+Andreas Griewank;Uwe Naumann;
+Abstract
+ The chain rule – fundamental to any kind of analytical differentiation - can be applied in various ways to computational graphs representing vector functions. These variants result in different operations counts for the calculation of the corresponding Jacobian matrices. The minimization of the number of arithmetic operations required for the calculation of the complete Jacobian leads to a hard combinatorial optimization problem. 
+Keywords
+Dynamic Programming  Combinatorial Optimization  Vector Function  Arithmetic Operation  Matrix Product  

@@ -1,0 +1,6 @@
+A non-monotonic method for large-scale non-negative least squares
+ Dongmin   Kim ; Suvrit   Sra ; Inderjit   S.   Dhillon ;
+Abstract
+ We present a new algorithm for solving the non-negative least-squares (NNLS) problem. Our algorithm extends the unconstrained quadratic optimization algorithm of Barzilai and Borwein (BB) [J. Barzilai and J. M. Borwein; Two-Point Step Size Gradient Methods. IMA J. Numer. Anal. 1988.] to handle nonnegativity constraints. Our extension differs from other constrained BB variants in simple but crucial aspects, the most notable being our modification to the BB stepsize itself. Our stepsize computation takes into account the nonnegativity constraints, and is further refined by a stepsize scaling strategy. These changes, in combination with orthogonal projections onto the nonnegative orthant, yield an effective NNLS algorithm. We compare our algorithm with several competing approaches, including established bound-constrained solvers, popular BB-based methods, and also a specialised NNLS algorithm. On several synthetic and real-world datasets our method displays highly competitive empirical performance. 
+Keywords
+least squares, nonnegativity constraints, large-scale, non-monotonic descent, Barzilai-Borwein stepsize, gradient projection method, NNLS AMS Subject Classification : 93E24, 90C52, 90C20 

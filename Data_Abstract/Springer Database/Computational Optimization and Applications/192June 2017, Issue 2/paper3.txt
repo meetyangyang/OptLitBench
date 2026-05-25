@@ -1,0 +1,6 @@
+Branch-and-price for p-cluster editing
+Teobaldo Bulhões;Anand Subramanian;Gilberto F. Sousa Filho;Lucídio dos Anjos F. Cabral;
+Abstract
+Given an input graph, the p-cluster editing problem consists of minimizing the number of editions, i.e., additions and/or deletions of edges, so as to create p vertex-disjoint cliques (clusters). In order to solve this \({\mathscr {NP}}\)-hard problem, we propose a branch-and-price algorithm over a set partitioning based formulation with exponential number of variables. We show that this formulation theoretically dominates the best known formulation for the problem. Moreover, we compare the performance of three mathematical formulations for the pricing subproblem, which is strongly \({\mathscr {NP}}\)-hard. A heuristic algorithm is also proposed to speedup the column generation procedure. We report improved bounds for benchmark instances available in the literature.
+Keywords
+Cluster editing  Column generation  Branch-and-price  

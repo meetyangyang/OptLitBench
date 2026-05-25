@@ -1,0 +1,6 @@
+Dual fast projected gradient method for quadratic programming
+Roman A. Polyak;James Costa;Saba Neyshabouri;
+Abstract
+The application of the fast gradient method to the dual quadratic programming (QP) problem leads to the dual fast projected gradient (DFPG) method. The DFPG converges with O(k −2) rate, where k > 0 is the number of steps. At each step, it requires O(nm) operations. Therefore for a given \({\varepsilon  > 0}\) an \({\varepsilon}\) -approximation to the optimal dual function value one achieves in \({O(nm\varepsilon^{-\frac{1}{2}})}\) operations. We present numerical results which strongly corroborate the theory. In particular, we demonstrate high efficiency of the DFPG for large scale QP.
+Keywords
+Quadratic programming  Dual problem  Dual fast gradient method  Convergence rate  Complexity  

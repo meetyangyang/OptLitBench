@@ -1,0 +1,6 @@
+Global optimization by random perturbation of the gradient method with a fixed parameter
+M. Pogu;J. E. Souza De Cursi;
+Abstract
+The paper deals with the global minimization of a differentiable cost function mapping a ball of a finite dimensional Euclidean space into an interval of real numbers. It is established that a suitable random perturbation of the gradient method with a fixed parameter generates a bounded minimizing sequence and leads to a global minimum: the perturbation avoids convergence to local minima. The stated results suggest an algorithm for the numerical approximation of global minima: experiments are performed for the problem of fitting a sum of exponentials to discrete data and to a nonlinear system involving about 5000 variables. The effect of the random perturbation is examined by comparison with the purely deterministic gradient method.
+Keywords
+Global optimization  random perturbations  Monte Carlo methods  

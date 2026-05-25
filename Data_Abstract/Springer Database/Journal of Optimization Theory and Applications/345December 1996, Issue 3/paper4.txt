@@ -1,0 +1,6 @@
+Stochastic comparison algorithm for continuous optimization with estimation
+G. Bao;C. G. Cassandras;
+Abstract
+The problem of stochastic optimization for arbitrary objective functions presents a dual challenge. First, one needs to repeatedly estimate the objective function; when no closed-form expression is available, this is only possible through simulation. Second, one has to face the possibility of determining local, rather than global, optima. In this paper, we show how the stochastic comparison approach recently proposed in Ref. 1 for discrete optimization can be used in continuous optimization. We prove that the continuous stochastic comparison algorithm converges to an ∈-neighborhood of the global optimum for any ∈>0. Several applications of this approach to problems with different features are provided and compared to simulated annealing and gradient descent algorithms.
+Keywords
+Stochastic optimization  simulation  estimation  stochastic comparison  simulated annealing  

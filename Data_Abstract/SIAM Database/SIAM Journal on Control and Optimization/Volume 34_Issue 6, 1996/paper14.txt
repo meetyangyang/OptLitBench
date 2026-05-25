@@ -1,0 +1,6 @@
+A Target Recognition Problem: Sequential Analysis and Optimal Control
+Mark H. A.  Davis and Mohammad  Farid;
+Abstract
+An iterative computational method for determining the value function of an optimal control problem, related to target tracking, is presented. The target is assumed to be located in a fixed known position in space, but its identity (hostile or friendly) is known only with a prior probability. An observation of the target can be made at any location, and its error has position-dependent probability. The objective is finding the optimal navigation and observation strategy which leads to a final decision (i.e., the target is friendly or hostile). The value function is shown to be the unique viscosity solution of a variational inequality. Furthermore it is the unique fixed point of a nondecreasing concave operator.
+Keywords
+optimal control, viscosity solutions, variational inequality, dynamic programming, Hamilton–Jacobi–Bellman equation, target tracking, hypothesis testing, 49J40, 49L25, 62C10, 62K05, 62L10, 93C15, 

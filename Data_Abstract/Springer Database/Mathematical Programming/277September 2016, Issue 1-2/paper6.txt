@@ -1,0 +1,6 @@
+Cut generation for optimization problems with multivariate risk constraints
+Simge Küçükyavuz;Nilay Noyan;
+Abstract
+We consider a class of stochastic optimization problems that features benchmarking preference relations among random vectors representing multiple random performance measures (criteria) of interest. Given a benchmark random performance vector, preference relations are incorporated into the model as constraints, which require the decision-based random vector to be preferred to the benchmark according to a relation based on multivariate conditional value-at-risk (CVaR) or second-order stochastic dominance (SSD). We develop alternative mixed-integer programming formulations and solution methods for cut generation problems arising in optimization under such multivariate risk constraints. The cut generation problems for CVaR- and SSD-based models involve the epigraphs of two distinct piecewise linear concave functions, which we refer to as reverse concave sets. We give the complete linear description of the linearization polytopes of these two non-convex substructures. We present computational results that show the effectiveness of our proposed models and methods.
+Keywords
+Stochastic programming  Multivariate risk-aversion   Conditional value-at-risk  Stochastic dominance  Cut generation  Convex hull  Reverse concave set  90C15  90C11  

@@ -1,0 +1,6 @@
+Ordinary Differential Equation Methods for Markov Decision Processes and Application to Kullback--Leibler Control Cost
+Ana  Bušić and Sean  Meyn;
+Abstract
+A new approach to computation of optimal policies for  MDP (Markov decision process) models is introduced.  The main idea is to solve not one, but an entire family of MDPs, parameterized by a scalar $\zeta$ that appears in the one-step reward function.   For an MDP with $d$ states,  the family of relative value functions $\{ h^*_\zeta : \zeta\in \mathbb{R}\}$ is the solution to an ODE, $\frac{d}{d\zeta} h^*_\zeta  =  {\cal V}(h^*_\zeta)$, where the vector field ${\cal V}\colon{R}^d\to{R}^d$ has a simple form, based on a  matrix inverse. Two general applications are presented: Brockett's quadratic-cost MDP model,  and a generalization of the “linearly solvable” MDP framework of Todorov in which the one-step reward function is defined by Kullback--Leibler divergence.
+Keywords
+Markov decision processes, computational methods, distributed control, 90C40, 93E20, 60J22, 93E35, 60J20, 90C46, 

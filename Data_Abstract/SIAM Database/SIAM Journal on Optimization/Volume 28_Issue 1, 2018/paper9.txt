@@ -1,0 +1,6 @@
+Another Look at the Fast Iterative Shrinkage/Thresholding Algorithm (FISTA)
+Donghwan  Kim and Jeffrey A.  Fessler;
+Abstract
+This paper provides a new way of developing the fast iterative shrinkage/thresh-olding algorithm (FISTA) [A. Beck and M. Teboulle, SIAM J. Imaging Sci., 2 (2009), pp. 183--202] that is widely used for minimizing composite convex functions with a nonsmooth term such as the $\ell_1$ regularizer. In particular, this paper shows that FISTA corresponds to an optimized approach to accelerating the proximal gradient method with respect to a worst-case bound of the cost function. This paper then proposes a new algorithm that is derived by instead optimizing the step coefficients of the proximal gradient method with respect to a worst-case bound of the composite gradient mapping. The proof is based on the worst-case analysis called the performance estimation problem in [Y. Drori and M. Teboulle, Math. Program., 145 (2014), pp. 451--482].
+Keywords
+first-order algorithms, proximal gradient methods, convex minimization, worst-case performance analysis, 90C25, 90C30, 90C60, 68Q25, 49M25, 90C22, 

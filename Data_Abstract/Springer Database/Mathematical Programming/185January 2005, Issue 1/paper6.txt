@@ -1,0 +1,6 @@
+A globally and superlinearly convergent primal-dual interior point trust region method for large scale constrained optimization
+Hiroshi Yamashita;Hiroshi Yabe;Takahito Tanabe;
+Abstract
+This paper proposes a primal-dual interior point method for solving large scale nonlinearly constrained optimization problems. To solve large scale problems, we use a trust region method that uses second derivatives of functions for minimizing the barrier-penalty function instead of line search strategies. Global convergence of the proposed method is proved under suitable assumptions. By carefully controlling parameters in the algorithm, superlinear convergence of the iteration is also proved. A nonmonotone strategy is adopted to avoid the Maratos effect as in the nonmonotone SQP method by Yamashita and Yabe. The method is implemented and tested with a variety of problems given by Hock and Schittkowski’s book and by CUTE. The results of our numerical experiment show that the given method is efficient for solving large scale nonlinearly constrained optimization problems.
+Keywords
+Line Search  Global Convergence  Scale Problem  Constrain Optimization Problem  Cute  

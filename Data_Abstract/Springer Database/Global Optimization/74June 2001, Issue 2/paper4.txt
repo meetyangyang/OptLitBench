@@ -1,0 +1,6 @@
+Capacity and flow assignment of data networks by generalized Benders decomposition
+Philippe Mahey;Abdelhamid Benchakroun;Florence Boyer;
+Abstract
+A mixed-integer non-linear model is proposed to optimize jointly the assignment of capacities and flows (the CFA problem) in a communication network. Discrete capacities are considered and the cost function combines the installation cost with a measure of the Quality of Service (QoS) of the resulting network for a given traffic. Generalized Benders decomposition induces convex subproblems which are multicommodity flow problems on different topologies with fixed capacities. These are solved by an efficient proximal decomposition method. Numerical tests on small to medium-size networks show the ability of the decomposition approach to obtain global optimal solutions of the CFA problem.
+Keywords
+Network design  multicommodity flow networks  Benders decomposition  

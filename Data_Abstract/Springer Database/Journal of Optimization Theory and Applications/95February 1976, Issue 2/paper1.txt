@@ -1,0 +1,6 @@
+New least-square algorithms
+W. C. Davidon;
+Abstract
+New algorithms are presented for approximating the minimum of the sum of squares ofM real and differentiable functions over anN-dimensional space. These algorithms update estimates for the location of a minimum after each one of the functions and its first derivatives are evaluated, in contrast with other least-square algorithms which evaluate allM functions and their derivatives at one point before using any of this information to make an update. These new algorithms give estimates which fluctuate about a minimum rather than converging to it. For many least-square problems, they give an adequate approximation for the solution more quickly than do other algorithms.
+Keywords
+Least-square methods  variable-metric methods  gradient methods  nonlinear programming  

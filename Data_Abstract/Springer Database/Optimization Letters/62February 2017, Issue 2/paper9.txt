@@ -1,0 +1,6 @@
+A parallel maximum clique algorithm for large and massive sparse graphs
+Pablo San Segundo;Alvaro Lopez;Jorge Artieda;Panos M. Pardalos;
+Abstract
+This paper describes BBMCPara, a new parallel exact maximum clique algorithm tailored for large and massive sparse graphs. The paper first presents a sequential algorithm BBMCSP, which builds on ideas from a leading bit-parallel published algorithm for middle-size graphs. It employs heavy pre-processing and a new sparse bitset encoding to outperform other state-of-the-art algorithms by up to several orders of magnitude over a set of real networks. BBMCPara parallelizes BBMCSP by splitting according to a preprocessing step of the latter. On a 20-core computer, it averages speedups close to an order of magnitude over real graphs of up to 3 million vertices. According to the reported results, BBMCPara appears to be the current fastest algorithm for large and massive real networks to the best of our knowledge.
+Keywords
+Massive  Bitstring  Branch-and-bound  Maximum clique  Parallel  Combinatorial optimization  

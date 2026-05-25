@@ -1,0 +1,6 @@
+Consensus with Ternary Messages
+Alex  Olshevsky;
+Abstract
+We provide a protocol for real-valued average consensus by networks of agents which exchange only a single message from the ternary alphabet $\{-1,0,1\}$ between neighbors at each step. Our protocol works on time-varying undirected graphs subject to a connectivity condition, has a worst-case convergence time which is polynomial in the number of agents and the initial values, and requires no global knowledge about the graph topologies on the part of each node to implement except for knowing an upper bound on the degrees of its neighbors.
+Keywords
+consensus protocols, multiagent systems, distributed control, 93A14, 93C55, 68Q85, 

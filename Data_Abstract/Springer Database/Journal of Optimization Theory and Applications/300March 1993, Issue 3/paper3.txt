@@ -1,0 +1,6 @@
+Equality and inequality constrained optimization algorithms with convergent stepsizes
+B. Rustem;
+Abstract
+In this paper, we consider two algorithms for nonlinear equality and inequality constrained optimization. Both algorithms utilize stepsize strategies based on differentiable penalty functions and quadratic programming subproblems. The essential difference between the algorithms is in the stepsize strategies used. The objective function in the quadratic subproblem includes a linear term that is dependent on the penalty functions. The quadratic objective function utilizes an approximate Hessian of the Lagrangian augmented by the penalty functions. In this approximation, it is possible to ignore the second-derivative terms arising from the constraints in the penalty functions.
+Keywords
+Nonlinear programming  sequential quadratic programming  nonlinear equality and inequality constraints  augmented Lagrangians  adaptive penalty parameter  convergence analysis  

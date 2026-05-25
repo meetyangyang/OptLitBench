@@ -1,0 +1,6 @@
+Efficient topology optimization in MATLAB using 88 lines of code
+Erik Andreassen;Anders Clausen;Mattias Schevenels;Boyan S. Lazarov;Ole Sigmund;
+Abstract
+The paper presents an efficient 88 line MATLAB code for topology optimization. It has been developed using the 99 line code presented by Sigmund (Struct Multidisc Optim 21(2):120–127, 2001) as a starting point. The original code has been extended by a density filter, and a considerable improvement in efficiency has been achieved, mainly by preallocating arrays and vectorizing loops. A speed improvement with a factor of 100 is obtained for a benchmark example with 7,500 elements. Moreover, the length of the code has been reduced to a mere 88 lines. These improvements have been accomplished without sacrificing the readability of the code. The 88 line code can therefore be considered as a valuable successor to the 99 line code, providing a practical instrument that may help to ease the learning curve for those entering the field of topology optimization. The paper also discusses simple extensions of the basic code to include recent PDE-based and black-and-white projection filtering methods. The complete 88 line code is included as an appendix and can be downloaded from the web site www.topopt.dtu.dk.
+Keywords
+Topology optimization  MATLAB  Education  Computational efficiency  

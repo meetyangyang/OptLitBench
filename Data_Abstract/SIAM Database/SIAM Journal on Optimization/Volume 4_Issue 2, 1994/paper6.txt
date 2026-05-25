@@ -1,0 +1,6 @@
+On the Resolution of Linearly Constrained Convex Minimization Problems
+Ana  Friedlander, José Mario  Martínez, and Sandra A.  Santos;
+Abstract
+The problem of minimizing a twice differentiable convex function f is considered, subject to $Ax = b, x \geq 0$, where $A \in \mathbb{R}^{M \times N} ,M,N$ are large and the feasible region is bounded. It is proven that this problem is equivalent to a “primal-dual” box-constrained problem with $2N + M$ variables. The equivalent problem involves neither penalization parameters nor ad hoc multiplier estimators. This problem is solved using an algorithm for bound constrained minimization that can deal with many variables. Numerical experiments are presented.
+Keywords
+large-scale linearly constrained optimization, box-constrained problems, optimality conditions, 90C06, 90C25, 90C30, 

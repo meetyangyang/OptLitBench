@@ -1,0 +1,6 @@
+Improved semidefinite bounding procedure for solving Max-Cut problems to optimality
+Nathan Krislock;Jérôme Malick;Frédéric Roupin;
+Abstract
+We present an improved algorithm for finding exact solutions to Max-Cut and the related binary quadratic programming problem, both classic problems of combinatorial optimization. The algorithm uses a branch-(and-cut-)and-bound paradigm, using standard valid inequalities and nonstandard semidefinite bounds. More specifically, we add a quadratic regularization term to the strengthened semidefinite relaxation in order to use a quasi-Newton method to compute the bounds. The ratio of the tightness of the bounds to the time required to compute them depends on two real parameters; we show how adjusting these parameters and the set of strengthening inequalities gives us a very efficient bounding procedure. Embedding our bounding procedure in a generic branch-and-bound platform, we get a competitive algorithm: extensive experiments show that our algorithm dominates the best existing method.
+Keywords
+Combinatorial optimization  Semidefinite programming    Quasi-Newton algorithm  Triangle inequalities  90C22  90C27  90C57  

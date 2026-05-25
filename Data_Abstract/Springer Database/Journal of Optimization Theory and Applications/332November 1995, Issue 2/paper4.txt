@@ -1,0 +1,6 @@
+A primal-dual interior-point method for linear programming based on a weighted barrier function
+Z. Y. Cheng;J. E. Mitchell;
+Abstract
+One motivation for the standard primal-dual direction used in interior-point methods is that it can be obtained by solving a least-squares problem. In this paper, we propose a primal-dual interior-point method derived through a modified least-squares problem. The direction used is equivalent to the Newton direction for a weighted barrier function method with the weights determined by the current primal-dual iterate. We demonstrate that the Newton direction for the usual, unweighted barrier function method can be derived through a weighted modified least-squares problem. The algorithm requires a polynomial number of iterations. It enjoys quadratic convergence if the optimal vertex is nondegenerate.
+Keywords
+Linear programming  interior-point methods  polynomial covnergence  quadratic convergence  superlinear convergence  least-squares problems  

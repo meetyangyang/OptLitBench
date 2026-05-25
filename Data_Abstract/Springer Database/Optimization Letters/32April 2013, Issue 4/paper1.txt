@@ -1,0 +1,6 @@
+Absolute value equation solution via dual complementarity
+Olvi L. Mangasarian;
+Abstract
+By utilizing a dual complementarity condition, we propose an iterative method for solving the NP-hard absolute value equation (AVE): Ax − |x| = b, where A is an n × n square matrix. The algorithm makes no assumptions on the AVE other than solvability and consists of solving a succession of linear programs. The algorithm was tested on 500 consecutively generated random solvable instances of the AVE with n = 10, 50, 100, 500 and 1,000. The algorithm solved 90.2 % of the test problems to an accuracy of 10−8.
+Keywords
+Absolute value equation  Complementarity  Linear programming  

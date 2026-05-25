@@ -1,0 +1,6 @@
+A hierarchy of bounds for stochastic mixed-integer programs
+Burhaneddin Sandıkçı;Nan Kong;Andrew J. Schaefer;
+Abstract
+We consider general two-stage SMIPs with recourse, in which integer variables are allowed in both stages of the problem and randomness is allowed in the objective function, the constraint matrices (i.e., the technology matrix and the recourse matrix), and the right-hand side. We develop a hierarchy of lower and upper bounds for the optimal objective value of an SMIP by generalizing the wait-and-see solution and the expected result of using the expected value solution. These bounds become progressively stronger but generally more difficult to compute. Our numerical study indicates the bounds we develop in this paper can be strong relative to those provided by linear relaxations. Hence this new bounding approach is a complementary tool to the current bounding techniques used in solving SMIPs, particularly for large-scale and poorly formulated problems.
+Keywords
+Stochastic programming  Mixed-integer programs  Bounding  90C11  90C15  90C59  

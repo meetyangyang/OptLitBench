@@ -1,0 +1,6 @@
+Primal-Dual Subgradient Method for Huge-Scale Linear Conic Problems
+Yu.  Nesterov and S.  Shpirko;
+Abstract
+In this paper, we develop a primal-dual subgradient method for solving huge-scale linear conic optimization problems. Our main assumption is that the primal cone is formed as a direct product of many small-dimensional convex cones and that the matrix $A$ of the corresponding linear operator is uniformly sparse. In this case, our method can approximate the primal-dual optimal solution with accuracy $\epsilon$ in $O\big({1 \over \epsilon^2}\big)$ iterations. At the same time, the complexity of each iteration of this scheme does not exceed $O(r q \log_2 n)$ operations, where $r$ and $q$ are the maximal numbers of nonzero elements in the rows and columns of matrix $A$, and $n$ is the number of variables.
+Keywords
+convex optimization, subgradient methods, huge-scale problems, sublinear iteration cost, 90C25, 90C47, 68Q25, 

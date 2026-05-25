@@ -1,0 +1,6 @@
+Optimization of unconstrained functions with sparse Hessian matrices—Quasi-Newton methods
+Mukund N. Thapa;
+Abstract
+Newton-type methods and quasi-Newton methods have proven to be very successful in solving dense unconstrained optimization problems. Recently there has been considerable interest in extending these methods to solving large problems when the Hessian matrix has a known a priori sparsity pattern. This paper treats sparse quasi-Newton methods in a uniform fashion and shows the effect of loss of positive-definiteness in generating updates. These sparse quasi-Newton methods coupled with a modified Cholesky factorization to take into account the loss of positive-definiteness when solving the linear systems associated with these methods were tested on a large set of problems. The overall conclusions are that these methods perform poorly in general—the Hessian matrix becomes indefinite even close to the solution and superlinear convergence is not observed in practice.
+Keywords
+Unconstrained  Quasi-Newton  Sparse  Numerical  Cholesky  Positive-definite  Superlinear  

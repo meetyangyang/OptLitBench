@@ -1,0 +1,6 @@
+E(FG)2: a new fixed-grid shape optimization method based on the element-free galerkin mesh-free analysis
+Florin Bobaru;Srinivas Rachakonda;
+Abstract
+We propose a shape optimization method over a fixed grid. Nodes at the intersection with the fixed grid lines track the domain’s boundary. These “floating” boundary nodes are the only ones that can move/appear/disappear in the optimization process. The element-free Galerkin (EFG) method, used for the analysis problem, provides a simple way to create these nodes. The fixed grid (FG) defines integration cells for EFG method. We project the physical domain onto the FG and numerical integration is performed over partially cut cells. The integration procedure converges quadratically. The performance of the method is shown with examples from shape optimization of thermal systems involving large shape changes between iterations. The method is applicable, without change, to shape optimization problems in elasticity, etc. and appears to eliminate non-differentiability of the objective noticed in finite element method (FEM)-based fictitious domain shape optimization methods. We give arguments to support this statement. A mathematical proof is needed.
+Keywords
+Fictitious domain  Element-free Galerkin  Mesh-free methods  Shape optimization  Thermal fins  Fixed grid  

@@ -1,0 +1,6 @@
+Conjugate Gradient Methods with Inexact Searches
+David F. Shanno;
+Abstract
+Conjugate gradient methods are iterative methods for finding the minimizer of a scalar function f(x) of a vector variable x which do not update an approximation to the inverse Hessian matrix. This paper examines the effects of inexact linear searches on the methods and shows how the traditional Fletcher-Reeves and Polak-Ribiere algorithm may be modified in a form discovered by Perry to a sequence which can be interpreted as a memorytess BFGS algorithm. This algorithm may then be scaled optimally in the sense of Oren and Spedicalo. This scaling can be combined with Beale restarts and Powell's restart criterion. Computational results will show that this new method substantially outperforms known conjugate gradient methods on a wide class of problems.
+Keywords
+nonlinear programming conjugale gradient method inexact linear search optimal scaling quasi-Newton method convergence rate 

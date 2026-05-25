@@ -1,0 +1,6 @@
+A Mixed-Strategy Minimax Theorem without Compactness
+Steve  Alpern and Shmuel  Gal;
+Abstract
+Minimax theorems for infinite games generally require that both players choose their pure strategies from compact sets and have semicontinuity requirements in both variables. This paper proves the following theorem. Let X be a compact Hausdorfl space and let $(Y,A)$ be a measurable space. Let $f:X \times Y$ be a measurable function which is bounded below and lower semicontinuous on X for all fixed y in Y. Let M be any convex set of probability measures (mixed strategies) on $(Y,A)$. Then \[\mathop {\min }\limits_{\mu  \in B(X)} \mathop {\sup }\limits_{\rho \in M} \iint {f(x,y)d\mu d\rho} = \mathop {\sup }\limits_{\rho \in M} \mathop {\min }\limits_{\mu  \in B(X)} \iint {f(x,y)d\mu d\rho},\] where $B(X)$ denotes the regular Borel probability measures on X.
+Keywords
+minimax theorem, zero-sum two-person game, mixed strategy, 90D05, 

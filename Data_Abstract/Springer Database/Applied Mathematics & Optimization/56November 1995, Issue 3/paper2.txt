@@ -1,0 +1,6 @@
+Finding normal solutions in piecewise linear programming
+K. C. Kiwiel;
+Abstract
+Letf: ℝn → (−∞, ∞] be a convex polyhedral function. We show that if any standard active set method for quadratic programming (QP) findsx(t)= arg min x ¦x¦2/2+tf(x) for somet> 0, then its final working set defines a simple equality QP subproblem, whose Lagrange multiplier can be used both for testing ift is large enough forx(t) to coincide with the normal minimizer off, and for increasingt otherwise. The QP subproblem may easily be solved via the matrix factorizations used for findingx(t). This opens up the way for efficient implementations. We also give finite methods for computing the whole trajectory {x(t)} t ≥0, minimizingf over an ellipsoid, and choosing penalty parameters inL1QP methods for strictly convex QP.
+Keywords
+Convex optimization  Quadratic programming  Active set methods  Sensitivity analysis  Nondifferentiable optimization methods  Primary 90C25  90C20  Secondary 49K40  65K05  

@@ -1,0 +1,6 @@
+Complexity of Predictor-Corrector Algorithms for LCP Based on a Large Neighborhood of the Central Path
+Clovis C.  Gonzaga;
+Abstract
+The predictor-corrector approach for following the central path of monotone linear complementarity and linear programming problems is simple, elegant, and efficient. Although it has excellent theoretical properties when working in narrow neighborhoods of the central path, its proved complexity assumes a frustratingly high value of O(n1.5L ) iterations when based on an $l_{\infty}$ neighborhood and several Newton corrector steps per iteration. This paper shows that by carefully specifying the line searches in each step, the complexity assumes the value O(nL), as should be expected for a method based on this neighborhood.
+Keywords
+linear complementarity problem, primal-dual interior point algorithm, predictor-corrector algorithms, 49M15, 65K05, 90C33, 

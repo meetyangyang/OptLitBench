@@ -1,0 +1,6 @@
+An Iterated Projection Approach to Variational Problems Under Generalized Convexity Constraints
+Guillaume Carlier;Xavier Dupuis;
+Abstract
+The principal-agent problem in economics leads to variational problems subject to global constraints of b-convexity on the admissible functions, capturing the so-called incentive-compatibility constraints. Typical examples are minimization problems subject to a convexity constraint. In a recent pathbreaking article, Figalli et al. (J Econ Theory 146(2):454–478, 2011) identified conditions which ensure convexity of the principal-agent problem and thus raised hope on the development of numerical methods. We consider special instances of projections problems over b-convex functions and show how they can be solved numerically using Dykstra’s iterated projection algorithm to handle the b-convexity constraint in the framework of (Figalli et al. in J Econ Theory 146(2):454–478, 2011). Our method also turns out to be simple for convex envelope computations.
+Keywords
+Principal-agent problem  b-convexity constraint  Convexity constraint  Convex envelopes  Iterated projections   Dykstra’s algorithm  49M25  65K15  90C25  

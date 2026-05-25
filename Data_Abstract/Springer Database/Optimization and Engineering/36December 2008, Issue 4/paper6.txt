@@ -1,0 +1,8 @@
+Neuro-space mapping technique for semiconductor device modeling
+Lei Zhang;Qi-Jun Zhang;
+Abstract
+
+This paper presents an application of the space mapping concept in the modeling of semiconductor devices. A recently proposed device modeling technique, called neuro-space mapping (Neuro-SM), is described to meet the constant need of new device models due to rapid progress in the semiconductor technology. Neuro-SM is a systematic method allowing us to exceed the present capabilities of the existing device models. It uses a neural network to map the voltage and current signals between an existing device model (coarse model) and the actual device behavior (fine model), such that the mapped model becomes an accurate representation of the new device. An efficient training method based on analytical sensitivity analysis for such mapping neural network is also addressed. The trained Neuro-SM model can retain the speed of the existing device model while improving the model accuracy. The benefit of the Neuro-SM method is demonstrated by examples of SiGe HBT and GaAs MESFET modeling and use of the models in harmonic balance simulation.
+
+Keywords
+Electronic circuit simulation  Neural networks  Semiconductor device modeling  Space mapping  

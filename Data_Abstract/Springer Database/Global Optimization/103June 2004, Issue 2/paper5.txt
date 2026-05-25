@@ -1,0 +1,6 @@
+A Combined Evolutionary Search and Multilevel Optimisation Approach to Graph-Partitioning
+A.J. Soper;C. Walshaw;M. Cross;
+Abstract
+The graph-partitioning problem is to divide a graph into several pieces so that the number of vertices in each piece is the same within some defined tolerance and the number of cut edges is minimised. Important applications of the problem arise, for example, in parallel processing where data sets need to be distributed across the memory of a parallel machine. Very effective heuristic algorithms have been developed for this problem which run in real-time, but it is not known how good the partitions are since the problem is, in general, NP-complete. This paper reports an evolutionary search algorithm for finding benchmark partitions. A distinctive feature is the use of a multilevel heuristic algorithm to provide an effective crossover. The technique is tested on several example graphs and it is demonstrated that our method can achieve extremely high quality partitions significantly better than those found by the state-of-the-art graph-partitioning packages.
+Keywords
+evolutionary search  genetic algorithms  graph-partitioning  multilevel optimisation  

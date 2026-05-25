@@ -1,0 +1,6 @@
+Stabilization of Networked Control Systems via Dynamic Output-Feedback Controllers
+Huijun  Gao, Xiangyu  Meng, Tongwen  Chen, and James  Lam;
+Abstract
+This paper investigates the problem of stabilization of networked control systems via dynamic output-feedback controllers. The physical plant and the dynamic controller are in continuous time, and a communication channel exists between the output of the physical plant and the input of the dynamic controller. Three important communication features are considered: measurement quantization, signal transmission delay, and data packet dropout, which appear typically in a networked environment. Attention is focused on the design of dynamic output-feedback controllers which ensure asymptotic stability of the closed-loop systems. Linear matrix inequality (LMI)-based conditions are formulated for the existence of admissible controllers. If these conditions are satisfied, a desired controller can be readily constructed. A satellite system is used to illustrate the applicability and effectiveness of the proposed controller design method.
+Keywords
+data packet dropout, dynamic output-feedback control, networked control systems, quantization, signal transmission delay, 93D15, 93D05, 93D20, 

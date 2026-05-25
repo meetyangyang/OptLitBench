@@ -1,0 +1,6 @@
+Computing the tolerances in multiobjective linear programming
+ M.   Hladík ;
+Abstract
+ We consider a multiobjective linear program and the coefficients of the multiobjective function are supposed to be uncertain. Let x* be an efficient point. We propose a procedure computing a tolerance for each objective function coefficient, such that all these coefficients may simultaneously and independently vary within their tolerances while preserving the efficiency of x*. If x* is a non-degenerate basic solution, then the procedure runs in a polynomial time. Our method is also applicable for the intervals of multiobjective linear programming for checking the necessary efficiency of x*, i.e. whether x* is efficient for all the realizations of interval values. 
+Keywords
+multiobjective linear programming, interval matrix, efficient point, sensitivity analysis, tolerance analysis AMS Subject Classification : 90C29, 90C31 

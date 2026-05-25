@@ -1,0 +1,6 @@
+Mcplib: a collection of nonlinear mixed complementarity problems
+ Steven P.   Dirkse ; Michael C.   Ferris ;
+Abstract
+ The origins and some motivational details of a collection of nonlinear mixed complementarity problems are given. This collection serves two purposes. Firstly, it gives a uniform basis for testing currently available and new algorithms for mixed complementarity problems. Function and Jacobian evaluations for the resulting problems are provided via a GAMS interface, making thorough testing of algorithms on practical complementarity problems possible. Secondly, it gives examples of how to formulate many popular problem formats as mixed complementarity problems and how to describe the resulting problems in GAMS format. We demonstrate the ease and power of formulating practical models in the MCP format. Given these examples, it is hoped that this collection will grow to include many problems that test complementarity algorithms more fully. The collection is available by anonymous ftp. Computational results using the PATH solver covering all of these problems are described  
+Keywords
+Complementarity Problems, Problem Format, Algorithm Testing 

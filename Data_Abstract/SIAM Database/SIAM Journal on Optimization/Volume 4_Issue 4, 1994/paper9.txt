@@ -1,0 +1,6 @@
+Parallel Factorization of Structured Matrices Arising in Stochastic Programming
+Elizabeth R.  Jessup, Dafeng  Yang, and Stavros A.  Zenios;
+Abstract
+Solving the deterministic equivalent formulation of two-stage stochastic programs using interior point algorithms requires the solution of linear systems of the form\[  \left( AD^2 A^\top \right) dy = b . \] The constraint matrix A has a dual, block-angular structure. We develop a parallel matrix factorization procedure using the Sherman–Morrison–Woodbury formula, based on the work of Birge and Qi [Management Sci., 34 (1988), pp. 1472–1479]. This procedure requires the solution of smaller, independent systems of equations. With the use of optimal communication algorithms and careful attention to data layout a parallel implementation is obtained that achieves near perfect speedup. Scalable performance is observed on an Intel iPSC/860 hypercube and a Connection Machine CM–5. Results are reported with the solution of the linear systems arising when solving stochastic programs with up to 98,304 scenarios, which correspond to deterministic equivalent linear programs with up to 1,966,090 constraints and 13,762,630 variables.
+Keywords
+stochastic programming, large-scale optimization, interior point algorithms, parallel algorithms, 65Y05, 68Q22, 90C15, 90C06, 

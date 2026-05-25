@@ -1,0 +1,6 @@
+Gradient-based multiobjective optimization using a distance constraint technique and point replacement
+Yuki Sato;Kazuhiro Izui;Takayuki Yamada;Shinji Nishiwaki;
+Abstract
+This paper proposes techniques to improve the diversity of the searching points during the optimization process in an Aggregative Gradient-based Multiobjective Optimization (AGMO) method, so that well-distributed Pareto solutions are obtained. First to be discussed is a distance constraint technique, applied among searching points in the objective space when updating design variables, that maintains a minimum distance between the points. Next, a scheme is introduced that deals with updated points that violate the distance constraint, by deleting the offending points and introducing new points in areas of the objective space where searching points are sparsely distributed. Finally, the proposed method is applied to example problems to illustrate its effectiveness.
+Keywords
+multiobjective optimization, gradient-based optimization, diversity, distance constraint, point replacement 

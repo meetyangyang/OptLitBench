@@ -1,0 +1,6 @@
+A method of linearizations for linearly constrained nonconvex nonsmooth minimization
+Krzysztof C. Kiwiel;
+Abstract
+A readily implementable algorithm is given for minimizing a (possibly nondifferentiable and nonconvex) locally Lipschitz continuous functionf subject to linear constraints. At each iteration a polyhedral approximation tof is constructed from a few previously computed subgradients and an aggregate subgradient, which accumulates the past subgradient information. This aproximation and the linear constraints generate constraints in the search direction finding subproblem that is a quadratic programming problem. Then a stepsize is found by an approximate line search. All the algorithm's accumulation points are stationary. Moreover, the algorithm converges whenf happens to be convex.
+Keywords
+Primary 65K05  Secondary 90C25  Nonsmooth Optimization  Nondifferentiable Programming  Linearly Constrained Minimization  Descent Methods  

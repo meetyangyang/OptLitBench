@@ -1,0 +1,6 @@
+Superlinear Convergence of an Algorithm for Monotone Linear Complementarity Problems, When No Strictly Complementary Solution Exists
+Jos F. Sturm;
+Abstract
+A new predictor-corrector interior point algorithm for solving monotone linear complementarity problems (LCP) is proposed, and it is shown to be superlinearly convergent with at least order 1.5, even if the LCP has no strictly complementary solution. Unlike the algorithm of Mizuno (1996), the fast local convergence is attained without any need for estimating the optimal partition. In the special case that a strictly complementary solution does exist, the order of convergence becomes quadratic. The proof relies on an investigation of the asymptotic behavior of first and second order derivatives that are associated with trajectories of weighted centers for monotone LCPs. The results of this investigation are also used to study convergence and error bounds of three Tapia-type indicators.
+Keywords
+Monotone linear complementary problem primal-dual interior point method superlinear convergence central path Tapia indicators 

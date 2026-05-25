@@ -1,0 +1,6 @@
+A matrix-free implementation of Riemannian Newton’s method on the Stiefel manifold
+Kensuke Aihara;Hiroyuki Sato;
+Abstract
+Newton’s method for unconstrained optimization problems on the Euclidean space can be generalized to that on Riemannian manifolds. The truncated singular value problem is one particular problem defined on the product of two Stiefel manifolds, and an algorithm of the Riemannian Newton’s method for this problem has been designed. However, this algorithm is not easy to implement in its original form because the Newton equation is expressed by a system of matrix equations which is difficult to solve directly. In the present paper, we propose an effective implementation of the Newton algorithm. A matrix-free Krylov subspace method is used to solve a symmetric linear system into which the Newton equation is rewritten. The presented approach can be used on other problems as well. Numerical experiments demonstrate that the proposed method is effective for the above optimization problem.
+Keywords
+Riemannian Newton’s method  Stiefel manifold  Singular value decomposition  Linear system  Matrix-free Krylov subspace method  

@@ -1,0 +1,6 @@
+Interval algorithm for global numerical optimization
+ Xiaowei   Zhang ; Sanyang   Liu ;
+Abstract
+ The interval optimization algorithm shows great advantages in bound constrained global optimization. An interval algorithm is presented in this article based on a new selection criterion. The selection criterion is proposed based on numerical experiments and the parameter pf* designed by Casado, Garcia and Csendes in 2000. The proposed criterion at each iteration selects some intervals of which the number is not greater than a constant so that the possible memory problem during the implementation of the algorithm is avoided and the running time of the algorithm is decreased, when the dimension of the problem is increasing. Based on the selection criterion, the proposed algorithm is implemented for a wide set of tested functions which includes easy and hard problems. Numerical experiments show that the proposed algorithm is efficient. 
+Keywords
+selection criterion, interval algorithm, global optimization 

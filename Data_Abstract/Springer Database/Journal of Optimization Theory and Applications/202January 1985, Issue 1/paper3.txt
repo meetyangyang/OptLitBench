@@ -1,0 +1,6 @@
+The simplex method and unrestricted variables
+M. J. Best;R. J. Caron;
+Abstract
+Suppose that the simplex method is applied to a linear programming problem havingm equality constraints andr unrestricted variables. We give a method of performing the steps of the simplex method which reduces the arithmetic operation count byrm at each iteration. This savings in operations is achieved, since the method does not update the rows of the basis inverse associated with the unrestricted variables. Similar computational savings are achieved when the method is applied to the updating of anLU-factorization of the basis matrix.
+Keywords
+Linear programming  simplex method  unrestricted variables  simplex multipliers  LU-factorization  

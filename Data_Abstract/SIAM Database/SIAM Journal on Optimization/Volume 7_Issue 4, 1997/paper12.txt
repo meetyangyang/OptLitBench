@@ -1,0 +1,6 @@
+Surrogate Projection Methods for Finding Fixed Points of Firmly Nonexpansive Mappings
+Krzysztof C.  Kiwiel and Bozena  Lopuch;
+Abstract
+We present methods for finding common fixed points of finitely many firmly nonexpansive mappings on a Hilbert space. At every iteration, an approximation to each mapping generates a halfspace containing its set of fixed points. The next iterate is found by projecting the current iterate on a surrogate halfspace formed by taking a convex combination of the halfspace inequalities. This acceleration technique extends one for convex feasibility problems (CFPs), since projection operators onto closed convex sets are firmly nonexpansive. The resulting methods are block iterative and, hence, lend themselves to parallel implementation. We extend to accelerated methods some recent results of Bauschke and Borwein [SIAM Rev., 38 (1996), pp. 367--426] on the convergence of projection methods.
+Keywords
+firmly nonexpansive mappings, successive projections, relaxation methods, convex feasibility problems, surrogate inequalities, 49M45, 90C25, 47H09, 

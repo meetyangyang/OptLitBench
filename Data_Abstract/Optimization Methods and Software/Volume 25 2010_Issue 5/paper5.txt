@@ -1,0 +1,6 @@
+A new hybrid descent method with application to the optimal design of finite precision FIR filters
+ K. F.C.   Yiu ; W.   Y.   Yan ; K.   L.   Teo ; S.   Y.   Low ;
+Abstract
+ In this paper, the problem of the optimal design of discrete coefficient FIR filters is considered. A novel hybrid descent method, consisting of a simulated annealing algorithm and a gradient-based method, is proposed. The simulated annealing algorithm operates on the space of orthogonal matrices and is used to locate descent points for previously converged local minima. The gradient-based method is derived from converting the discrete problem to a continuous problem via the Stiefel manifold, where convergence can be guaranteed. To demonstrate the effectiveness of the proposed hybrid descent method, several numerical examples show that better discrete filter designs can be sought via this hybrid descent method. 
+Keywords
+hybrid descent method, simulating annealing, FIR filter design, finite precision 

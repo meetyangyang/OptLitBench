@@ -1,0 +1,6 @@
+Simulation-based confidence bounds for two-stage stochastic programs
+Peter W. Glynn;Gerd Infanger;
+Abstract
+This paper provides a rigorous asymptotic analysis and justification of upper and lower confidence bounds proposed by Dantzig and Infanger (A probabilistic lower bound for two-stage stochastic programs, Stanford University, CA, 1995) for an iterative sampling-based decomposition algorithm, introduced by Dantzig and Glynn (Ann. Oper. Res. 22:1–21, 1990) and Infanger (Ann. Oper. Res. 39:41–67, 1992), for solving two-stage stochastic programs. The paper provides confidence bounds in the presence of both independent sampling across iterations, and when common samples are used across different iterations. Confidence bounds for sample-average approximation then follow as a special case. Extensions of the theory to cover use of variance reduction and the dropping of cuts are also presented. An extensive empirical investigation of the performance of these bounds establishes that the bounds perform reasonably on realistic problems.
+Keywords
+90C15 Stochastic programming  90C05 Linear programming  97K50 Probability theory  62G15 Tolerance and confidence regions  

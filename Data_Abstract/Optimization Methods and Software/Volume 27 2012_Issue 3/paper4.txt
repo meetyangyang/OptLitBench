@@ -1,0 +1,6 @@
+An inexact smoothing method for the monotone complementarity problem over symmetric cones
+ Jian   Zhang ; Kecun   Zhang ;
+Abstract
+ We present an inexact smoothing method for the monotone complementarity problem over symmetric cones (SCCP). Our algorithm needs only to solve one linear system of equation and perform one line search per iteration. Instead of solving the linear equation exactly, we only need an inexact solution with a certain degree of accuracy. It is shown that any accumulation point of generated sequence is a solution of SCCP. It is proved that the proposed algorithm is locally superlinearly/quadratically convergent under suitable conditions. The computational results show the feasibility and efficiency of our algorithm. 
+Keywords
+symmetric cone, complementarity problem, inexact smoothing method AMS Subject Classification : 49M15, 65K10 

@@ -1,0 +1,6 @@
+Some descent three-term conjugate gradient methods and their global convergence
+ Li   Zhang ; Weijun   Zhou ; Donghui   Li ;
+Abstract
+ In this paper, we propose a three-term conjugate gradient method which can produce sufficient descent condition, that is, . This property is independent of any line search used. When an exact line search is used, this method reduces to the standard Hestenes–Stiefel conjugate gradient method. We also introduce two variants of the proposed method which still preserve the sufficient descent property, and prove that these two methods converge globally with standard Wolfe line search even if the minimization function is nonconvex. We also report some numerical experiment to show the efficiency of the proposed methods. 
+Keywords
+Three-term conjugate gradient method, Global convergence 

@@ -1,0 +1,6 @@
+Evaluating a branch-and-bound RLT-based algorithm for minimum sum-of-squares clustering
+Daniel Aloise;Pierre Hansen;
+Abstract
+Minimum sum-of-squares clustering consists in partitioning a given set of n points into c clusters in order to minimize the sum of squared distances from the points to the centroid of their cluster. Recently, Sherali and Desai (JOGO, 2005) proposed a reformulation-linearization based branch-and-bound algorithm for this problem, claiming to solve instances with up to 1,000 points. In this paper, their algorithm is investigated in further detail, reproducing some of their computational experiments. However, our computational times turn out to be drastically larger. Indeed, for two data sets from the literature only instances with up to 20 points could be solved in less than 10 h of computer time. Possible reasons for this discrepancy are discussed. The effect of a symmetry breaking rule due to Plastria (EJOR, 2002) and of the introduction of valid inequalities of the convex hull of points in two dimensions which may belong to each cluster is also explored.
+Keywords
+Clustering  Sum-of-squares  k-means  RLT  Computational results  

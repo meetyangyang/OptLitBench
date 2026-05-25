@@ -1,0 +1,6 @@
+Global Continuation for Distance Geometry Problems
+Jorge J.  Moré and Zhijun  Wu;
+Abstract
+Distance geometry problems arise in the determination of protein structure. We consider the case where only a subset of the distances between atoms is given and formulate this distance geometry problem as a global minimization problem with special structure. We show that global smoothing techniques and a continuation approach for global optimization can be used to determine global solutions of this problem reliably and efficiently. The global continuation approach determines a global solution with less computational effort than is required by a standard multistart algorithm. Moreover, the continuation approach usually finds the global solution from any given starting point, while the multistart algorithm tends to fail.
+Keywords
+global optimization, continuation methods, smoothing transform, distance geometry problems, macromolecular modeling, 49M37, 65D32, 68Q22, 68Q25, 92C40, 92E10, 

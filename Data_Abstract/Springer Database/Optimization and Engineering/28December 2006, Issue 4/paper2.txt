@@ -1,0 +1,6 @@
+Non-linear game models for large-scale network bandwidth management
+Dalia Fayek;George Kesidis;Anthony Vannelli;
+Abstract
+The design of dynamic Label-Switched Paths (LSP’s) in MultiProtocol Label Switched (MPLS) networks is an NP-hard optimization problem. An LSP is a logical path between two nodes in the network. This path has a pre-reserved amount of bandwidth that defines its size. The LSP design problem consists of determining the number of these logical links and configuring the physical path and the size of each LSP. This paper presents an optimization model based on game theory. In this approach, connection requests are modeled as competitive players in a noncooperative game context. The transport network bandwidth constitutes the resource for which optimization is sought. The outcome of this optimization is a set of LSPs upon which the competing connections are routed.
+Keywords
+Noncooperative games  MPLS tunnel dimensioning  Mixed-integer nonlinear optimization  Nash equilibrium  Stackelberg equilibrium  

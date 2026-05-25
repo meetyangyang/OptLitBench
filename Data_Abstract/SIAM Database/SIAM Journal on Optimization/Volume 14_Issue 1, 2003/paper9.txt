@@ -1,0 +1,6 @@
+Large Scale Parameter Estimation Using Sparse Nonlinear Programming Methods
+John T.  Betts and William P.  Huffman;
+Abstract
+Traditional methods for solving ``inverse problems' usually combine a standard initial-value numerical integration technique with a Gauss--Newton method for optimization. This paper presents an approach that uses neither of the traditional processes. Initial-value integration is replaced by a discretization of the relevant differential-algebraic equations. We then exploit sparse finite difference approximations to the Hessian matrix which permits us to construct a quadratically convergent algorithm for solving parameter estimation problems. Computational results with the approach are presented in a series of examples.
+Keywords
+parameter estimation, sparse nonlinear programming, inverse problems, 49J15, 90C30, 90C90, 70M20, 70F15, 65L10, 65L80, 

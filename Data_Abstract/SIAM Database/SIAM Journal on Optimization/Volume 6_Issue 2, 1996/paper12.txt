@@ -1,0 +1,6 @@
+A Parallel Method for Unconstrained Discrete-Time Optimal Control Problems
+Daniel  Ralph;
+Abstract
+Discrete-time optimal control (DTOC) problems are potentially large, highly structured optimization problems. In such a problem there are $N + 1$ stages, or time steps; corresponding to time step i are a vector of control variables $u_i $ and a vector of state variables $x_i $. When N is large relative to the dimension of each $u_i $ and $x_i $, efficient methods for unconstrained DTOC problems have long been known. We propose a parallel method for unconstrained DTOC problems via stagewise decomposition; given $J > 1$ processors and $I_1  = 1 < I_2  <  \cdots  < I_{J + 1}  = N + 1$, J sub-problems are formed by grouping stages 1 to $I_2  - 1,I_2 $ to $I_3  - 1$, and so on. The subproblems are independent except for separator variables, $x_{I_2 } , \ldots ,x_{I_J } $, which are treated specially to retain the quadratic local convergence typical of serial DTOC algorithms. Computational examples using the Intel Paragon OSF/1 computer are given.
+Keywords
+discrete-time optimal control, stagewise decomposition, parallel algorithm, quadratic convergence, MIMD computer, 49M40, 68Q22, 90C30, 90C39, 

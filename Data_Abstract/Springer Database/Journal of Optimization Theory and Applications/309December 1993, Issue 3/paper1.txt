@@ -1,0 +1,6 @@
+Analysis and implementation of a dual algorithm for constrained optimization
+W. W. Hager;
+Abstract
+This paper analyzes a constrained optimization algorithm that combines an unconstrained minimization scheme like the conjugate gradient method, an augmented Lagrangian, and multiplier updates to obtain global quadratic convergence. Some of the issues that we focus on are the treatment of rigid constraints that must be satisfied during the iterations and techniques for balancing the error associated with constraint violation with the error associated with optimality. A preconditioner is constructed with the property that the rigid constraints are satisfied while ill-conditioning due to penalty terms is alleviated. Various numerical linear algebra techniques required for the efficient implementation of the algorithm are presented, and convergence behavior is illustrated in a series of numerical experiments.
+Keywords
+Constrained optimization  multiplier methods  preconditioning  global convergence  quadratic convergence  

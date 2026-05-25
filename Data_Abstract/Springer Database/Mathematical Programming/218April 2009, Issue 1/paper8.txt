@@ -1,0 +1,6 @@
+An inexact bundle variant suited to column generation
+K. C. Kiwiel;C. Lemaréchal;
+Abstract
+We give a bundle method for constrained convex optimization. Instead of using penalty functions, it shifts iterates towards feasibility, by way of a Slater point, assumed to be known. Besides, the method accepts an oracle delivering function and subgradient values with unknown accuracy. Our approach is motivated by a number of applications in column generation, in which constraints are positively homogeneous—so that zero is a natural Slater point—and an exact oracle may be time consuming. Finally, our convergence analysis employs arguments which have been little used so far in the bundle community. The method is illustrated on a number of cutting-stock problems.
+Keywords
+Nondifferentiable optimization  Convex programming  Proximal bundle methods  Approximate subgradients  Column generation  Cutting-stock problem  65K05  90C25  90C27  

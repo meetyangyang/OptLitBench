@@ -1,0 +1,4 @@
+Automated Configuration of Mixed Integer Programming Solvers
+Frank Hutter;Holger H. Hoos;Kevin Leyton-Brown;
+Abstract
+State-of-the-art solvers for mixed integer programming (MIP) problems are highly parameterized, and finding parameter settings that achieve high performance for specific types of MIP instances is challenging. We study the application of an automated algorithm configuration procedure to different MIP solvers, instance types and optimization objectives. We show that this fully-automated process yields substantial improvements to the performance of three MIP solvers: Cplex, Gurobi, and lpsolve. Although our method can be used “out of the box” without any domain knowledge specific to MIP, we show that it outperforms the Cplex special-purpose automated tuning tool.

@@ -1,0 +1,14 @@
+Sums of random symmetric matrices and quadratic optimization under orthogonality constraints
+Arkadi Nemirovski;
+Abstract
+Let B  i  be deterministic real symmetric m × m matrices, and ξ i  be independent random scalars with zero mean and “of order of one” (e.g.,
+\(\xi_{i}\sim \mathcal{N}(0,1)\)). We are interested to know under what conditions “typical norm” of the random matrix
+\(S_N = \sum_{i=1}^N\xi_{i}B_{i}\) is of order of 1. An evident necessary condition is
+\({\bf E}\{S_{N}^{2}\}\preceq O(1)I\), which, essentially, translates to
+\(\sum_{i=1}^{N}B_{i}^{2}\preceq I\); a natural conjecture is that the latter condition is sufficient as well. In the paper, we prove a relaxed version of this conjecture, specifically, that under the above condition the typical norm of S  N  is
+\(\leq O(1)m^{{1\over 6}}\):
+\({\rm Prob}\{||S_N||>\Omega m^{1/6}\}\leq O(1)\exp\{-O(1)\Omega^2\}\) for all Ω > 0 We outline some applications of this result, primarily in investigating the quality of semidefinite relaxations of a general quadratic optimization problem with orthogonality constraints
+\({\rm Opt} = \max\limits_{X_{j}\in{\bf R}^{m\times m}}\left\{F(X_1,\ldots ,X_k): X_jX_j^{\rm T}=I,\,j=1,\ldots ,k\right\}\), where F is quadratic in X =  (X 1,... ,X  k ). We show that when F is convex in every one of X  j , a natural semidefinite relaxation of the problem is tight within a factor slowly growing with the size m of the matrices
+\(X_j : {\rm Opt}\leq {\rm Opt}(SDP)\leq O(1) [m^{1/3}+\ln k]{\rm Opt}\).
+Keywords
+Large deviations  Random perturbations of linear matrix inequalities  Semidefinite relaxations  Orthogonality constraints  Procrustes problem  60F10  90C22  90C25  90C59  

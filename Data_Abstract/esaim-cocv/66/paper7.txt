@@ -1,0 +1,6 @@
+Reduced basis approximation of large scale parametric algebraic Riccati equations
+Andreas Schmidt and Bernard Haasdonk;
+Abstract
+The algebraic Riccati equation (ARE) is a matrix valued quadratic equation with many important applications in the field of control theory, such as feedback control, state estimation or ℋ∞-robust control. However, solving the ARE can get very expensive in applications that arise from semi-discretized partial differential equations. A further level of computational complexity is introduced by parameter dependent systems and the wish to obtain solutions rapidly for varying parameters. We thus propose the application of the reduced basis (RB) methodology to the parametric ARE by exploiting the well known low-rank structure of the solution matrices. We discuss a basis generation procedure and analyze the induced error by deriving a rigorous a posteriori error bound. We study the computational complexity of the whole procedure and give numerical examples that prove the efficiency of the approach in the context of linear quadratic (LQ) control.
+Keywords
+Reduced basis method, optimal feedback control, algebraic riccati equation, low rank approximatio

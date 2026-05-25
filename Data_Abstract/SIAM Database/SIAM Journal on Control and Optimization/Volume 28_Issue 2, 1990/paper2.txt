@@ -1,0 +1,6 @@
+Quadratic Optimization for Infinite-Dimensional Linear Differential Difference Type Systems: Syntheses via the Fredholm Equation
+E. Bruce  Lee and Yuncheng  You;
+Abstract
+A closed-loop solution for quadratic optimization is presented for control systems whose model is given by infinite-dimensional linear differential difference equations: \[\frac{{dx(t)}}{{dt}} = Ax(t) + \sum_{i = 1}^n {A_i x\left( {t - h_i } \right)}  + Bu(t) + \sum_{j = 1}^m {B_j u\left( {t - r_j } \right)} .\] A nonsemigroup evolution formula for the fundamental solution is given first. The system is then reduced to a Volterra integral system. By the semicausality approach, a new optimality principle is established, and the closed-loop optimal control is given by real-time state feedback plus retarded state integral feedback. The feedback operator is determined by solving a linear Fredholm integral equation. The two crucial methods, semicausal dynamical optimization for Volterra integral systems and nonsemigroup evolution property, are brought together to generalize the syntheses results to infinite-dimensional cases.
+Keywords
+optimal control, infinite-dimensional linear system, differential difference equation, semicausality, Fredholm equation, synthesis solution, 49B22, 34K35, 45B05, 93C25, 

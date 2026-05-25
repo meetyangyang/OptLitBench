@@ -1,0 +1,4 @@
+The Development of a Multi-threaded Multi-objective Tabu Search Algorithm
+Peter Dawson;Geoff Parks;Daniel Jaeggi;Arturo Molina-Cristobal;P. John Clarkson;
+Abstract
+The reliance of Tabu Search (TS) algorithms on a local search leads to a logical development of algorithms that use more than one search concurrently. In this paper we present a multi-threaded TS algorithm employing a number of threads that share information. We assess the performance of this algorithm compared to previous multi-objective TS algorithms, via the results obtained from applying the algorithms to a range of standard test functions. We also consider whether an optimal number of threads can be found, and what impact changing the number of threads used has on performance. We discover that, contrary to the popular belief that multi-threading is usually beneficial, performance only improves in a few special cases.

@@ -1,0 +1,6 @@
+Two-level primal-dual decomposition technique for large-scale nonconvex optimization problems with constraints
+P. Tatjewski;B. Engelmann;
+Abstract
+A two-level decomposition method for nonconvex separable optimization problems with additional local constraints of general inequality type is presented and thoroughly analyzed in the paper. The method is of primal-dual type, based on an augmentation of the Lagrange function. Previous methods of this type were in fact three-level, with adjustment of the Lagrange multipliers at one of the levels. This level is eliminated in the present approach by replacing the multipliers by a formula depending only on primal variables and Kuhn-Tucker multipliers for the local constraints. The primal variables and the Kuhn-Tucker multipliers are together the higher-level variables, which are updated simultaneously. Algorithms for this updating are proposed in the paper, together with their convergence analysis, which gives also indications on how to choose penalty coefficients of the augmented Lagrangian. Finally, numerical examples are presented.
+Keywords
+Decomposition methods  primal-dual methods  convexification procedures  augmented Lagrange functions  

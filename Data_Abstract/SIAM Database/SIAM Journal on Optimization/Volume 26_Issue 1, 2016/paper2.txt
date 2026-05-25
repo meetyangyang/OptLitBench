@@ -1,0 +1,6 @@
+An Accelerated HPE-Type Algorithm for a Class of Composite Convex-Concave Saddle-Point Problems
+Yunlong  He and Renato D. C.  Monteiro;
+Abstract
+This paper proposes a new algorithm for solving a class of composite convex-concave saddle-point problems. The new algorithm is a special instance of the hybrid proximal extragradient framework in which a Nesterov accelerated variant is used to approximately solve the prox subproblems. One of the advantages of the new method is that it works for any constant choice of proximal stepsize. Moreover, a suitable choice of the latter stepsize yields a method with the best known (accelerated inner) iteration complexity for the aforementioned class of saddle-point problems. In contrast to the smoothing technique  of [Y. Nesterov, Math. Program., 103 (2005), pp. 127--152], our accelerated method does not assume that a feasible set is bounded due to its proximal point nature. Experiment results on three problem sets show that the new method outperforms Nesterov's smoothing technique of [Y. Nesterov, Math. Program., 103 (2005), pp. 127--152].
+Keywords
+saddle-point problem, composite convex optimization, monotone inclusion problem, inexact proximal point method, hybrid proximal extragradient, accelerated method, complexity, smoothing, 90C60, 90C25, 90C30, 47H05, 47J20, 65K10, 65K05, 

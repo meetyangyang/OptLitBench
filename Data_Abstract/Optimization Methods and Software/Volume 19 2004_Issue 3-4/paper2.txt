@@ -1,0 +1,6 @@
+Conjugate gradient (CG)-type method for the solution of Newton's equation within optimization frameworks
+ Giovanni   Fasano ;
+Abstract
+ A conjugate gradient (CG)-type algorithm CG_Plan is introduced for calculating an approximate solution of Newton's equation within large-scale optimization frameworks. The approximate solution must satisfy suitable properties to ensure global convergence. In practice, the CG algorithm is widely used, but it is not suitable when the Hessian matrix is indefinite, as it can stop prematurely. CG_Plan is a symmetric variant of the composite step Bi-CG method of Bank and Chan, suitably adapted for optimization problems. It is an alternative to CG that copes with the indefinite case.   We show convergence for CG_Plan, then prove that the practical implementation always provides a gradient related direction within a truncated Newton method (algorithm TN_Plan). Some preliminary numerical results support the theory. 
+Keywords
+Large-scale unconstrained optimization, Newton's equation, Conjugate Gradient method, Krylov subspace methods 

@@ -1,0 +1,6 @@
+Detecting Jacobian sparsity patterns by Bayesian probing
+Andreas Griewank;Christo Mitev;
+Abstract
+In this paper we describe an automatic procedure for successively reducing the set of possible nonzeros in a Jacobian matrix until eventually the exact sparsity pattern is obtained. The dependence information needed in this probing process consist of “Boolean” Jacobian-vector products and possibly also vector-Jacobian products, which can be evaluated exactly by automatic differentiation or approximated by divided differences. The latter approach yields correct sparsity patterns, provided there is no exact cancellation at the current argument.¶Starting from a user specified, or by default initialized, probability distribution the procedure suggests a sequence of probing vectors. The resulting information is then used to update the probabilities that certain elements are nonzero according to Bayes’ law. The proposed probing procedure is found to require only O(logn) probing vectors on randomly generated matrices of dimension n, with a fixed number of nonzeros per row or column. This result has been proven for (block-) banded matrices, and for general sparsity pattern finite termination of the probing procedure can be guaranteed.
+Keywords
+Key words: sparsity – automatic differentiation – difference quotients – conditional probability  

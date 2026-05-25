@@ -1,0 +1,6 @@
+Steepest-edge simplex algorithms for linear programming
+John J. Forrest;Donald Goldfarb;
+Abstract
+We present several new steepest-edge simplex algorithms for solving linear programming problems, including variants of both the primal and the dual simplex method. These algorithms differ depending upon the space in which the problem is viewed as residing, and include variants in which this space varies dynamically. We present computational results comparing steepest-edge simplex algorithms and approximate versions of them against simplex algorithms that use standard pivoting rules on truly large-scale realworld linear programs with as many as tens of thousands of rows and columns. These results demonstrate unambiguously the superiority of steepest-edge pivot selection criteria to other pivot selection criteria in the simplex method.
+Keywords
+Steepest-edge simplex method  large-scale linear programming  Devex variants  

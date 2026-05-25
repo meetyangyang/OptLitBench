@@ -1,0 +1,6 @@
+A separable nonlinear model for the multicommodity flow problem
+ L.   E.   Torres Guardia ; A.   Parracho Sant'Anna ;
+Abstract
+ This article studies the convex nonlinear multicommodity network flow problem with separable increasing cost. A numerical implementation of the primal-dual interior-point method is designed to solve the problem. At each iteration of the interior-point method, the corresponding linear problem is solved, if it is expressed by the normal equations, by using the approximate inverse algorithm (AINV) alone or combined with the preconditioned conjugate gradient algorithm. If the linear system is expressed as an augmented indefinite system, it is solved by using the AINV algorithm combined with an indefinite preconditioned conjugate gradient algorithm. Numerical experiments are conducted for networks of different dimensions and numbers of commodities and for some nonlinear costs. The computational results show the effectiveness of the interior-point method for this class of network problems. 
+Keywords
+nonlinear programming, interior-point method, network flow AMS subject classification : 90C30, 90C51, 90B10 

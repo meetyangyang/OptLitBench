@@ -1,0 +1,6 @@
+An iterative bidirectional heuristic placement algorithm for solving the two-dimensional knapsack packing problem
+Kanokwatt Shiangjen;Jeerayut Chaijaruwanich;Wijak Srisujjalertwaja;Prakarn Unachak;Samerkae Somhom;
+Abstract
+This article presents an efficient heuristic placement algorithm, namely, a bidirectional heuristic placement, for solving the two-dimensional rectangular knapsack packing problem. The heuristic demonstrates ways to maximize space utilization by fitting the appropriate rectangle from both sides of the wall of the current residual space layer by layer. The iterative local search along with a shift strategy is developed and applied to the heuristic to balance the exploitation and exploration tasks in the solution space without the tuning of any parameters. The experimental results on many scales of packing problems show that this approach can produce high-quality solutions for most of the benchmark datasets, especially for large-scale problems, within a reasonable duration of computational time.
+Keywords
+Optimization, heuristic, iterated local search, two-dimensional knapsack packing 

@@ -1,0 +1,6 @@
+An efficient ensemble of radial basis functions method based on quadratic programming
+Renhe Shi;Li Liu;Teng Long;Jian Liu;
+Abstract
+Radial basis function (RBF) surrogate models have been widely applied in engineering design optimization problems to approximate computationally expensive simulations. Ensemble of radial basis functions (ERBF) using the weighted sum of stand-alone RBFs improves the approximation performance. To achieve a good trade-off between the accuracy and efficiency of the modelling process, this article presents a novel efficient ERBF method to determine the weights through solving a quadratic programming subproblem, denoted ERBF-QP. Several numerical benchmark functions are utilized to test the performance of the proposed ERBF-QP method. The results show that ERBF-QP can significantly improve the modelling efficiency compared with several existing ERBF methods. Moreover, ERBF-QP also provides satisfactory performance in terms of approximation accuracy. Finally, the ERBF-QP method is applied to a satellite multidisciplinary design optimization problem to illustrate its practicality and effectiveness for real-world engineering applications.
+Keywords
+radial basis function, ensemble of surrogates, quadratic programming, multidisciplinary design optimization 

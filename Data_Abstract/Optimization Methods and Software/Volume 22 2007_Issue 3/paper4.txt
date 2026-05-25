@@ -1,0 +1,6 @@
+Approximation of reachable sets by direct solution methods for optimal control problems
+ R.   Baier ; C.   Büskens ; I.   A.   Chahma ; M.   Gerdts ;
+Abstract
+ A numerical method for the approximation of reachable sets of linear control systems is discussed. The method is based on the formulation of suitable optimal control problems with varying objective function, whose discretization by Runge–Kutta methods leads to finite-dimensional convex optimization problems. It turns out that the order of approximation for the reachable set depends on the particular choice of the Runge–Kutta method in combination with the selection strategy used for control approximation. For an inappropriate combination, the expected order of convergence cannot be achieved in general. The method is illustrated by two test examples using different Runge–Kutta methods and selection strategies, in which the run times are analysed, the order of convergence is estimated numerically and compared with theoretical results in similar areas. 
+Keywords
+Approximation of reachable sets, Discretization of optimal control problems, Direct solution methods, Set-valued Runge–Kutta methods, Order of convergence 

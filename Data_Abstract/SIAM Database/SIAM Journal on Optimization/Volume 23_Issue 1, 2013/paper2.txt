@@ -1,0 +1,6 @@
+Derivative-Free Optimization of Expensive Functions with Computational Error Using Weighted Regression
+Stephen C.  Billups, Jeffrey  Larson, and Peter  Graf;
+Abstract
+We propose a derivative-free algorithm for optimizing computationally expensive functions with computational error.  The algorithm is based on the trust region regression method by Conn, Scheinberg, and Vicente [A. R. Conn, K. Scheinberg, and L. N. Vicente, IMA J. Numer. Anal., 28 (2008), pp. 721--748] but uses weighted regression to obtain more accurate model functions at each trust region iteration.  A heuristic weighting scheme is proposed that simultaneously handles (i) differing levels of uncertainty in function evaluations and (ii) errors induced by poor model fidelity.  We also extend the theory of $\Lambda$-poisedness and strong $\Lambda$-poisedness to weighted regression.  We report computational results comparing interpolation, regression, and weighted regression methods on a collection of benchmark problems. Weighted regression appears to outperform interpolation and regression models on nondifferentiable functions and functions with deterministic noise.
+Keywords
+derivative-free optimization, weighted regression models, noisy function evaluations, 90C56, 49J52, 65K05, 49M30, 

@@ -1,0 +1,6 @@
+A hybrid particle swarm approach based on Tribes and tabu search for multi-objective optimization
+Nadia Smairi;Patrick Siarry;Khaled Ghedira;
+Abstract
+Tuning the parameters of any evolutionary algorithm is considered as a very difficult task. In this paper, we present a new adaptive multi-objective technique which consists of a hybridization between a particular particle swarm optimization approach (Tribes) and tabu search (TS) technique. The main idea behind this hybridization is to combine the rapid convergence of Tribes with the high efficient exploitation of a local search technique based on TS. In addition, we propose three different places where the local search can be applied: TS applied on the particles of the archive, TS applied only on the best particle of each tribe and TS applied on each particle of the swarm. The aim of those propositions is to study the impact of the place where the local search is applied on the performance of our hybridized Tribes. The mechanisms proposed are validated using 10 different functions from specialized literature of multi-objective optimization. The obtained results show that using this kind of hybridization is justified as it is able to improve the quality of the solutions in the majority of cases.
+Keywords
+particle swarm optimization, Tribes, tabu search, multi-objective optimization 

@@ -1,0 +1,6 @@
+A Semidefinite Relaxation Scheme for Multivariate Quartic Polynomial Optimization with Quadratic Constraints
+Zhi-Quan  Luo and Shuzhong  Zhang;
+Abstract
+We present a general semidefinite relaxation scheme for general n-variate quartic polynomial optimization under homogeneous quadratic constraints. Unlike the existing sum-of-squares approach which relaxes the quartic optimization problems to a sequence of (typically large) linear semidefinite programs (SDP), our relaxation scheme leads to a (possibly nonconvex) quadratic optimization problem with linear constraints over the semidefinite matrix cone in $\mathbb{R}^{n\times n}$. It is shown that each $\alpha$-factor approximate solution of the relaxed quadratic SDP can be used to generate in randomized polynomial time an $O(\alpha)$-factor approximate solution for the original quartic optimization problem, where the constant in $O(\cdot)$ depends only on problem dimension. In the case where only one positive definite quadratic constraint is present in the quartic optimization problem, we present a randomized polynomial time approximation algorithm which can provide a guaranteed relative approximation ratio of $(1-O(n^{-2}))$.
+Keywords
+quartic optimization, semidefinite programs relaxation, approximation ratio, randomized solution, 90C20, 90C22, 68W20, 

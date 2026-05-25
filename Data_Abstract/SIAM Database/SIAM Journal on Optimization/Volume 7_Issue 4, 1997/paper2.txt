@@ -1,0 +1,6 @@
+A New Class of Incremental Gradient Methods for Least Squares Problems
+Dimitri P.  Bertsekas;
+Abstract
+The least mean squares (LMS) method for linear least squares problems differs from the steepest descent method in that it processes data blocks one-by-one, with intermediate adjustment of the parameter vector under optimization. This mode of operation often leads to faster convergence when far from the eventual limit and to slower (sublinear) convergence when close to the optimal solution. We embed both LMS and steepest descent, as well as other intermediate methods, within a one-parameter class of algorithms, and we propose a hybrid class of methods that combine the faster early convergence rate of LMS with the faster ultimate linear convergence rate of steepest descent. These methods are well suited for neural network training problems with large data sets. Furthermore, these methods allow the effective use of scaling based, for example, on diagonal or other approximations of the Hessian matrix.
+Keywords
+gradient methods, nonlinear programming, least squares, neural networks, 49N10, 65K05, 65K10, 65F20, 

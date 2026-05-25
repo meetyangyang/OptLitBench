@@ -1,0 +1,6 @@
+Parallel implementations of the Complex-RF algorithm
+R. Braun;P. Krus;
+Abstract
+Low-dimension derivative-free optimization problems are common in many engineering applications. Usefulness is often limited by long evaluation times due to large simulation models. For such problems, direct-search algorithms often outperform the naturally parallel population-based methods. While direct-search algorithms are more difficult to parallelize, there are many unexploited opportunities. Three methods for parallelizing the Complex-RF algorithm have been implemented and evaluated. Numerical analysis of the algorithm has been performed. This provides a basis for parametrization of the parallel methods. The methods are tested on two standard test functions with five variables and one real simulation model with eight variables. An entropy rate based performance index is used to compare the methods. Experiments show performance increases ranging from 3.9 to 6.4 depending on the model. The suggested methods outperform both a particle swarm and a differential evolution algorithm with up to 32 threads. When more threads are added, parallelization efficiency decreases.
+Keywords
+Parallel optimization, direct-search optimization, derivative-free optimization, performance index, Complex-RF 

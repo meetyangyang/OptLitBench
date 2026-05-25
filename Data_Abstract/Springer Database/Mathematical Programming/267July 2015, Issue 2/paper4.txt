@@ -1,0 +1,6 @@
+An alternative proof of a PTAS for fixed-degree polynomial optimization over the simplex
+Etienne de Klerk;Monique Laurent;Zhao Sun;
+Abstract
+The problem of minimizing a polynomial over the standard simplex is one of the basic NP-hard nonlinear optimization problems—it contains the maximum clique problem in graphs as a special case. It is known that the problem allows a polynomial-time approximation scheme (PTAS) for polynomials of fixed degree, which is based on polynomial evaluations at the points of a sequence of regular grids. In this paper, we provide an alternative proof of the PTAS property. The proof relies on the properties of Bernstein approximation on the simplex. We also refine a known error bound for the scheme for polynomials of degree three. The main contribution of the paper is to provide new insight into the PTAS by establishing precise links with Bernstein approximation and the multinomial distribution.
+Keywords
+Polynomial optimization over a simplex  PTAS   Bernstein approximation  90C30  90C60  

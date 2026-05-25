@@ -1,0 +1,6 @@
+Weighted Means in Stochastic Approximation of Minima
+J.  Dippon and J.  Renz;
+Abstract
+Weighted averages of Kiefer--Wolfowitz-type procedures, which are driven by larger step lengths than usual, can achieve the optimal rate of convergence. A priori knowledge of a lower bound on the smallest eigenvalue of the Hessian matrix is avoided. The asymptotic mean squared error of the weighted averaging algorithm is the same as would emerge using a Newton-type adaptive algorithm. Several different gradient estimates are considered; one of them leads to a vanishing asymptotic bias. This gradient estimate applied with the weighted averaging algorithm usually yields a better asymptotic mean squared error than applied with the standard algorithm.
+Keywords
+stochastic approximation, acceleration by weighted averaging, weak invariance principle, consistency, Kiefer--Wolfowitz procedure, gradient estimation, optimization, 60L20, 60F05, 60F17, 93E23, 

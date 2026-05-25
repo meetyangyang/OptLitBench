@@ -1,0 +1,6 @@
+On the worst case performance of the steepest descent algorithm for quadratic functions
+Clóvis C. Gonzaga;
+Abstract
+The existing choices for the step lengths used by the classical steepest descent algorithm for minimizing a convex quadratic function require in the worst case \( \mathcal{{O}}(C\log (1/\varepsilon )) \) iterations to achieve a precision \( \varepsilon \), where C is the Hessian condition number. We show how to construct a sequence of step lengths with which the algorithm stops in \( \mathcal{{O}}(\sqrt{C}\log (1/\varepsilon )) \) iterations, with a bound almost exactly equal to that of the Conjugate Gradient method.
+Keywords
+90C30 (main)  65K05  68Q25  

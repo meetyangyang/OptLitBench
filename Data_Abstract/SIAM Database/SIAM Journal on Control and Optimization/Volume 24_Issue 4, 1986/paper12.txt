@@ -1,0 +1,6 @@
+Legendre–Tau Approximations for Functional-Differential Equations
+Kazufumi  Ito and Russell  Teglas;
+Abstract
+In this paper we consider the numerical approximation of solutions to linear retarded functional differential equations using the so-called Legendre–tau method. The functional differential equation is first eformulated as a partial differential equation with a nonlocal boundary condition involving time-differentiation. The approximate solution is then represented as a truncated Legendre series with time varying coefficients which satisfy a certain system of ordinary differential equations. The method is very easy to code and yields very accurate approximations. Convergence is established, various numerical examples are presented, and comparison between the latter and cubic spline approximations is made.
+Keywords
+Legendre–tau approximation, retarded systems, numerical convergence, 65N20, 65R20, 34K99, 93C20, 

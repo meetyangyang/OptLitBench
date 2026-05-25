@@ -1,0 +1,6 @@
+Partially Asynchronous, Parallel Algorithms for Network Flow and Other Problems
+P.  Tseng, D. P.  Bertsekas, and J. N.  Tsitsiklis;
+Abstract
+The problem of computing a fixed point of a nonexpansive function f is considered. Sufficient conditions are provided under which a parallel, partially asynchronous implementation of the iteration $x: = f(x)$ converges. These results are then applied to (i) quadratic programming subject to box constraints, (ii) strictly convex cost network flow optimization, (iii) an agreement and a Markov chain problem, (iv) neural network optimization, and (v) finding the least element of a polyhedral set determined by a weakly diagonally dominant, Leontief system. Finally, simulation results illustrating the attainable speedup and the effects of asynchronism are presented.
+Keywords
+agreement, Markov chains, Leontief systems, 49, 90, 

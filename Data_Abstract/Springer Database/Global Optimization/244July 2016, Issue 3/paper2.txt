@@ -1,0 +1,6 @@
+Stochastic filter methods for generally constrained global optimization
+C. J. Price;M. Reale;B. L. Robertson;
+Abstract
+A filter based template for bound and otherwise constrained global optimization of non-smooth black-box functions is presented. The constraints must include finite upper and lower bounds, and can include nonlinear equality and inequality constraints. Almost sure convergence is shown for a wide class of algorithms conforming to this template. An existing method for bound constrained global optimization (oscars) is easily modified to conform to this template. Numerical results show the modified oscars is competitive with other methods on test problems including those listed by Koziel and Michalewicz.
+Keywords
+Filter  ars  oscars  Direct search   Bound and otherwise constrained global optimization  

@@ -1,0 +1,4 @@
+Objective Landscapes for Constraint Programming
+Philippe Laborie;
+Abstract
+This paper presents the concept of objective landscape in the context of Constraint Programming. An objective landscape is a light-weight structure providing some information on the relation between decision variables and objective values, that can be quickly computed once and for all at the beginning of the resolution and is used to guide the search. It is particularly useful on decision variables with large domains and with a continuous semantics, which is typically the case for time or resource quantity variables in scheduling problems. This concept was recently implemented in the automatic search of CP Optimizer and resulted in an average speed-up of about 50% on scheduling problems with up to almost 2 orders of magnitude for some applications.

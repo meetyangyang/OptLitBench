@@ -1,0 +1,6 @@
+New Preconditioners for KKT Systems of Network Flow Problems
+A.  Frangioni and C.  Gentile;
+Abstract
+We propose a new set of preconditioners for the iterative solution, via a preconditioned conjugate gradient (PCG) method, of the KKT systems that must be solved at each iteration of an interior point (IP) algorithm for the solution of linear min cost flow (MCF) problems. These preconditioners are based on the idea of extracting a proper triangulated subgraph of the original graph which strictly contains a spanning tree. We define a new class of triangulated graphs, called brother-connected trees (BCTs), and discuss some fast heuristics for finding BCTs of "large" weight. Computational experience shows that the new preconditioners can complement tree preconditioners, outperforming them both in iterations count and in running time on some classes of graphs.
+Keywords
+min cost flow problems, interior point algorithms, preconditioned conjugated gradient method, triangulated graphs, 90C51, 65F10, 

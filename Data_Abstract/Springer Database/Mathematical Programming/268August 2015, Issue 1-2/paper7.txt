@@ -1,0 +1,6 @@
+An adaptive augmented Lagrangian method for large-scale constrained optimization
+Frank E. Curtis;Hao Jiang;Daniel P. Robinson;
+Abstract
+We propose an augmented Lagrangian algorithm for solving large-scale constrained optimization problems. The novel feature of the algorithm is an adaptive update for the penalty parameter motivated by recently proposed techniques for exact penalty methods. This adaptive updating scheme greatly improves the overall performance of the algorithm without sacrificing the strengths of the core augmented Lagrangian framework, such as its ability to be implemented matrix-free. This is important as this feature of augmented Lagrangian methods is responsible for renewed interests in employing such methods for solving large-scale problems. We provide convergence results from remote starting points and illustrate by a set of numerical experiments that our method outperforms traditional augmented Lagrangian methods in terms of critical performance measures.
+Keywords
+Nonlinear optimization  Nonconvex optimization   Large-scale optimization  Augmented Lagrangians  Matrix-free methods   Steering methods  49M05  49M15  49M29  49M37  65K05  65K10  65K15  90C06  90C30  93B40  

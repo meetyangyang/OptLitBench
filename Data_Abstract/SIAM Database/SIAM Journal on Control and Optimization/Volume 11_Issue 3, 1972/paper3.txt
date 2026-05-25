@@ -1,0 +1,5 @@
+A Geometrically Convergent Algorithm for Solving Optimal Control Problems
+Earl R.  Barnes;
+Abstract
+Generalized versions of the Frank–Wolfe algorithm have been used by several authors to solve problems in optimal control (cf. [1], [8], [9], [10] and [11]). All of these algorithms involve a linearization of the given problem at each iteration. In the present paper, we offer a modification of these algorithms which does not require the problem to be completely linearized at each iteration. The result is that we obtain a geometrically convergent algorithm. It is known that the Frank–Wolfe algorithm cannot converge geometrically fast unless some restrictions are placed on the cost functional and the constraint set (cf. [3] and [4, p. 24]). We present some numerical results to show that the difference in performances of the two algorithms can be quite significant.
+Keywords

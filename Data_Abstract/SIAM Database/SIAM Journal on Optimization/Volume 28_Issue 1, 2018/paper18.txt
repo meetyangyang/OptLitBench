@@ -1,0 +1,6 @@
+Radial Subgradient Method
+Benjamin  Grimmer;
+Abstract
+We present a subgradient method for minimizing nonsmooth, non-Lipschitz convex optimization problems. The only structure assumed is that a strictly feasible point is known. We extend the work of Renegar [SIAM J. Optim., 26 (2016), pp. 2649--2676] by taking a different perspective, leading to an algorithm which is conceptually more natural, has notably improved convergence rates, and for which the analysis is surprisingly simple. At each iteration, the algorithm takes a subgradient step and then performs a line search to move radially towards (or away from) the known feasible point. Our convergence results have striking similarities to those of traditional methods that require Lipschitz continuity. Costly orthogonal projections typical of subgradient methods are entirely avoided.
+Keywords
+subgradient method, convex optimization, non-Lipschitz optimization, 90C25, 90C52, 65K15, 

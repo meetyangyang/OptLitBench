@@ -1,0 +1,6 @@
+An exact algorithm for a resource allocation problem in mobile wireless communications
+Adam N. Letchford;Qiang Ni;Zhaoyu Zhong;
+Abstract
+We consider a challenging resource allocation problem arising in mobile wireless communications. The goal is to allocate the available channels and power in a so-called OFDMA system, in order to maximise the transmission rate, subject to quality of service constraints. Standard MINLP software struggled to solve even small instances of this problem. Using outer approximation, perspective cuts and several implementation “tricks”, we are able to solve realistic instances in about one minute. A novel ingredient of our algorithm is what we call pre-emptive cut generation: the generation of cutting planes that are not violated in the current iteration, but are likely to be violated in subsequent iterations.
+Keywords
+Mixed-integer nonlinear programming  Mobile wireless communications  OFDMA systems  

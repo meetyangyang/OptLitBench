@@ -1,0 +1,4 @@
+A Time-Dependent No-Overlap Constraint: Application to Urban Delivery Problems
+Penélope Aguiar Melgarejo;Philippe Laborie;Christine Solnon;
+Abstract
+The Time-Dependent Traveling Salesman Problem (TDTSP) is the extended version of the TSP where arc costs depend on the time when the arc is traveled. When we consider urban deliveries, travel times vary considerably during the day and optimizing a delivery tour comes down to solving an instance of the TDTSP. In this paper we propose a set of benchmarks for the TDTSP based on real traffic data and show the interest of handling time dependency in the problem. We then present a new global constraint (an extension of no-overlap) that integrates time-dependent transition times and show that this new constraint outperforms the classical CP approach.

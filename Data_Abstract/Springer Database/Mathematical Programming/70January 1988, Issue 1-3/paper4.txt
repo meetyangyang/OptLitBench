@@ -1,0 +1,6 @@
+A variable dimension solution approach for the general spatial price equilibrium problem
+Roger L. Tobin;
+Abstract
+Algorithms are presented that are specifically designed for solving general nonlinear multicommodity spatial price equilibrium problems, i.e., problems with nonlinear transportation cost functions, nonlinear supply and demand functions, inter-commodity congestion effects, intercommodity substitution and complementarity effects and interactions among transportation links and among spatially separated markets. The algorithms are specializations of an iterative method for solving nonlinear complementarity problems that requires solving a system of nonlinear equations at each iteration. The algorithms exploit the network structure of the problems to reduce the size of the system of equations to be solved at each iteration. The decision rules for determining which equations are to be included in the system at each iteration are extremely simple, and the remainder of the computational work is carried out by the nonlinear equation solver. Because of this, the algorithms are very easy to implement with readily available software. In addition, since the decision rules only require sign information, only the final system needs to be solved with precision.
+Keywords
+Spatial equilibrium  multicommodity equilibrium  nonlinear complementarity  networks  

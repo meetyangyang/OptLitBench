@@ -1,0 +1,6 @@
+Probabilistic Analysis of Semidefinite Relaxation for Binary Quadratic Minimization
+Mikalai  Kisialiou and Zhi-Quan  Luo;
+Abstract
+We consider semidefinite programming relaxation (SDR) of a binary quadratic minimization problem. This NP-hard problem arises naturally in the maximum-likelihood detection of discrete signals for digital communications. We analyze the average performance of the SDR algorithm for a class of randomly generated binary quadratic minimization problems. Although the SDR worst-case approximation ratio is unbounded for this NP-hard problem, our analysis shows that SDR can provide in polynomial time a provably near-optimal solution, achieving a constant factor approximation of the optimal objective value in probability. Moreover, this constant factor remains bounded with increasing problem size. Our proof is based on an asymptotic analysis of Karush–Kuhn–Tucker optimality conditions using random matrix theory.
+Keywords
+semidefinite relaxation, binary quadratic minimization, probabilistic performance analysis, random matrix theory, 90C22, 90C46, 90C10, 15A52, 

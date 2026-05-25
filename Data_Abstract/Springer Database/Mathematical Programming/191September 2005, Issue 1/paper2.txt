@@ -1,0 +1,6 @@
+An asymptotically exact algorithm for the high-multiplicity bin packing problem
+Carlo Filippi;Alessandro Agnetis;
+Abstract
+The bin packing problem consists of finding the minimum number of bins, of given capacity D, required to pack a set of objects, each having a certain weight. We consider the high-multiplicity version of the problem, in which there are only C different weight values. We show that when C=2 the problem can be solved in time O( log D). For the general case, we give an algorithm which provides a solution requiring at most C−2 bins more than the optimal solution, i.e., an algorithm that is asymptotically exact. For fixed C, the complexity of the algorithm is O(poly( log D)), where poly(·) is a polynomial function not depending on C.
+Keywords
+20E28  20G40  20C20  

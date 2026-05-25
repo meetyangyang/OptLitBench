@@ -1,0 +1,6 @@
+Lifting inequalities: a framework for generating strong cuts for nonlinear programs
+Jean-Philippe P. Richard;Mohit Tawarmalani;
+Abstract
+In this paper, we introduce the first generic lifting techniques for deriving strong globally valid cuts for nonlinear programs. The theory is geometric and provides insights into lifting-based cut generation procedures, yielding short proofs of earlier results in mixed-integer programming. Using convex extensions, we obtain conditions that allow for sequence-independent lifting in nonlinear settings, paving a way for efficient cut-generation procedures for nonlinear programs. This sequence-independent lifting framework also subsumes the superadditive lifting theory that has been used to generate many general-purpose, strong cuts for integer programs. We specialize our lifting results to derive facet-defining inequalities for mixed-integer bilinear knapsack sets. Finally, we demonstrate the strength of nonlinear lifting by showing that these inequalities cannot be obtained using a single round of traditional integer programming cut-generation techniques applied on a tight reformulation of the problem.
+Keywords
+Nonlinear mixed-integer programming  Cutting planes  Bilinear knapsacks  Convex extensions  Sequence-independent lifting  Elementary closures  90C26  90C30  90C11  

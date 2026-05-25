@@ -1,0 +1,6 @@
+Optimality Conditions and a Smoothing Trust Region Newton Method for NonLipschitz Optimization
+Xiaojun  Chen, Lingfeng  Niu, and Yaxiang  Yuan;
+Abstract
+Regularized minimization problems with nonconvex, nonsmooth, perhaps non-Lipschitz penalty functions have attracted considerable attention in recent years, owing to their wide applications in image restoration, signal reconstruction, and variable selection. In this paper, we derive affine-scaled second order necessary and sufficient conditions for local minimizers of  such minimization problems. Moreover, we propose a global convergent smoothing trust region Newton method which can find a point satisfying the affine-scaled second order necessary optimality condition from any starting point. Numerical examples are given to demonstrate the effectiveness of the smoothing trust region Newton method.
+Keywords
+nonsmooth nonconvex optimization, smoothing methods, convergence, regularized optimization, penalty function, non-Lipschitz, trust region Newton method, 90C30, 90C26, 65K05, 49M37, 

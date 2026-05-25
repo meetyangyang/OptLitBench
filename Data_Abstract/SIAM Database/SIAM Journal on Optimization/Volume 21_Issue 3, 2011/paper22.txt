@@ -1,0 +1,6 @@
+Improved Algorithms for Convex Minimization in Relative Scale
+Peter  Richtárik;
+Abstract
+In this paper we propose two modifications to Nesterov’s algorithms for minimizing convex functions in relative scale. The first is based on a bisection technique and leads to improved theoretical iteration complexity, and the second is a heuristic for avoiding restarting behavior. The fastest of our algorithms produces a solution within relative error O(1/k) of the optimum, with k being the iteration counter.
+Keywords
+convex optimization, relative scale, sublinearity, Nesterov’s smoothing technique, Löwner–John ellipsoids, 62K05, 65K05, 68Q25, 90C06, 90C25, 90C47, 90C60, 

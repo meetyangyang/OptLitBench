@@ -1,0 +1,6 @@
+Linear multiplicative programming
+Hiroshi Konno;Takahito Kuno;
+Abstract
+An algorithm for solving a linear multiplicative programming problem (referred to as LMP) is proposed. LMP minimizes the product of two linear functions subject to general linear constraints. The product of two linear functions is a typical non-convex function, so that it can have multiple local minima. It is shown, however, that LMP can be solved efficiently by the combination of the parametric simplex method and any standard convex minimization procedure. The computational results indicate that the amount of computation is not much different from that of solving linear programs of the same size. In addition, the method proposed for LMP can be extended to a convex multiplicative programming problem (CMP), which minimizes the product of two convex functions under convex constraints.
+Keywords
+Non-convex quadratic programming problem  global optimization  parametric simplex algorithm  

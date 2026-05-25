@@ -1,0 +1,6 @@
+The steepest descent dynamical system with control. Applications to constrained minimization
+Alexandre Cabot;
+Abstract
+Let H be a real Hilbert space,  a convex function of class  that we wish to minimize under the convexconstraint S.A classical approach consists in following the trajectories of the generalizedsteepest descent system (cf.   Brézis [CITE]) appliedto the non-smooth function . Following Antipin [1], it is also possible to use a continuous gradient-projection system.We propose here an alternative method as follows:given a smooth convex function  whose critical points coincidewith Sand a control parameter  tending to zero,we consider the “Steepest Descent and Control” systemwhere the control ε satisfies . This last condition ensures that ε “slowly” tends to 0. When H is finite dimensional, we then prove that  and we give sufficient conditions under which .We end the paper by numerical experiments allowing to compare the (SDC) system with the other systems already mentioned.
+Keywords
+Dissipative dynamical system, steepest descent method, constrained optimization, convex minimization, asymptotic behaviour, non-linear oscillator

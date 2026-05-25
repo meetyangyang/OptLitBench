@@ -1,0 +1,6 @@
+Computing Kitahara–Mizuno’s bound on the number of basic feasible solutions generated with the simplex algorithm
+Takahito Kuno;Yoshio Sano;Takahiro Tsuruda;
+Abstract
+This paper addresses an upper bound derived by Kitahara and Mizuno (Math Program A 137:579–586, 2013) on the number of basic feasible solutions of a linear program generated with the simplex algorithm. Their bound includes two parameters \(\delta \) and \(\gamma \), which are respectively the minimum and the maximum values of positive components in all basic feasible solutions. We show that \(\delta \) is NP-hard to determine while \(\gamma \) can be computed in polynomial time. We also report some numerical results using alternative parameters for \(\delta \) and \(\gamma \).
+Keywords
+Linear programming  Simplex algorithm  Number of iterations  Basic feasible solutions  NP-hardness  

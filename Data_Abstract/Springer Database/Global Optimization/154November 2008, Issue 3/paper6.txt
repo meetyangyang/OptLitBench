@@ -1,0 +1,6 @@
+Efficient interval partitioning for constrained global optimization
+Chandra Sekhar Pedamallu;Linet Özdamar;Tibor Csendes;Tamás Vinkó;
+Abstract
+A new efficient interval partitioning approach to solve constrained global optimization problems is proposed. This involves a new parallel subdivision direction selection method as well as an adaptive tree search. The latter explores nodes (intervals in variable domains) using a restricted hybrid depth-first and best-first branching strategy. This hybrid approach is also used for activating local search to identify feasible stationary points. The new tree search management technique results in improved performance across standard solution and computational indicators when compared to previously proposed techniques. On the other hand, the new parallel subdivision direction selection rule detects infeasible and suboptimal boxes earlier than existing rules, and this contributes to performance by enabling earlier reliable deletion of such subintervals from the search space.
+Keywords
+Constrained global optimization  Interval partitioning  Adaptive search tree management  Subdivision direction selection rules  Parsing  

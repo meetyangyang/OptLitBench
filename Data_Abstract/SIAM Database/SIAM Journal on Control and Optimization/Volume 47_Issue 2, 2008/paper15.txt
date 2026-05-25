@@ -1,0 +1,6 @@
+Jump Diffusion over Feature Space for Object Recognition
+Sébastien  Gadat;
+Abstract
+We present a dynamical model for a population of tests in pattern recognition. Taking a preprocessed initialization of a feature set, we apply a stochastic algorithm based on an efficiency criterion and a Gaussian noise to recursively build and improve the feature space. This algorithm simulates a Markov chain which estimates a probability distribution ${\mathbb P}$ on the set of features. The features are structured as binary trees and we show that such random forests are a good way to represent the evolution of the feature set. We then obtain properties on the dynamic of the features space before applying this algorithm to practical examples such as face detection and microarray analysis. Lastly, we identify the weak limit of our process as a jump-diffusion process defined using the Skorokhod map over simplices.
+Keywords
+Markov processes, jump-diffusion algorithms, stochastic approximation, Skorokhod map, feature selection, pattern recognition, 60J75, 60H10, 62L20, 93E35, 62H30, 

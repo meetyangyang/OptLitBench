@@ -1,0 +1,6 @@
+A Smoothing Newton Method with Fischer-Burmeister Function for Second-Order Cone Complementarity Problems
+Yasushi Narushima;Nobuko Sagara;Hideho Ogasawara;
+Abstract
+The second-order cone complementarity problem (SOCCP) is an important class of problems containing a lot of optimization problems. The SOCCP can be transformed into a system of nonsmooth equations. To solve this nonsmooth system, smoothing techniques are often used. Fukushima, Luo and Tseng (SIAM J. Optim. 12:436–460, 2001) studied concrete theories and properties of smoothing functions for the SOCCP. Recently, a practical computational method using the smoothed natural residual function to solve the SOCCP was given by Chen, Sun and Sun (Comput. Optim. Appl. 25:39–56, 2003). In the present paper, we propose an algorithm to solve the SOCCP by using the smoothed Fischer-Burmeister function. Some preliminary numerical results are given.
+Keywords
+Second-order cone complementarity problem  Fischer-Burmeister function  Smoothing method  Global convergence  Superlinear convergence  

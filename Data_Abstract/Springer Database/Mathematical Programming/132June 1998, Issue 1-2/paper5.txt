@@ -1,0 +1,6 @@
+Packing algorithms for arborescences (and spanning trees) in capacitated graphs
+Harold N. Gabow;K. S. Manu;
+Abstract
+In a digraph with real-valued edge capacities, we pack the greatest number of arborescences in time O(n3m log(n2/m)); the packing uses at mostm distinct arborescences. Heren andm denote the number of vertices and edges in the given graph, respectively. Similar results hold for integral packing: we pack the greatest number of arborescences in time O(min{n, logN}n2m log(n2/)) using at mostm + n − 2 distinct arborescences; hereN denotes the largest (integral) capacity of an edge. These resuts improve the best previous bounds for capacitated digraphs. The algorithm extends to several related problems, including packing spanning trees in an undirected capacitated graph, and covering such graphs by forests. The algorithm provides a new proof of Edmonds' theorem for arborescence packing, for both integral and real capacities, based on a laminar family of sets derived from the packing. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Packing  Covering  Arborescences  Spanning trees  Laminar family  Newton's method  

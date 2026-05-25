@@ -1,0 +1,6 @@
+Nonsmooth Equation Based BFGS Method for Solving KKT Systems in Mathematical Programming
+D. H. Li;N. Yamashita;M. Fukushima;
+Abstract
+In this paper, we present a BFGS method for solving a KKT system in mathematical programming, based on a nonsmooth equation reformulation of the KKT system. We split successively the nonsmooth equation into equivalent equations with a particular structure. Based on the splitting, we develop a BFGS method in which the subproblems are systems of linear equations with symmetric and positive-definite coefficient matrices. A suitable line search is introduced under which the generated iterates exhibit an approximate norm descent property. The method is well defined and, under suitable conditions, converges to a KKT point globally and superlinearly without any convexity assumption on the problem.
+Keywords
+KKT systems  splitting functions  BFGS method  global convergence  superlinear convergence  

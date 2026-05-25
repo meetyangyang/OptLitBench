@@ -1,0 +1,6 @@
+Minimax Policies for Unobservable Inspections
+Harvey Diamond;
+Abstract
+On a finite closed lime interval an inspector wishes lo detect an event as soon as possible after its occurrence. A loss f(d) is incurred if the event remains undetected for a period d. Generally, f is assumed continuous and monotone increasing. Exactly N inspections are allowed. We seek a randomized inspection policy yielding the minimax expected loss. The problem is reformulated as a two-person zero-sum game between the inspector and an inspectee and a pair of equilibrium strategies is sought. An explicit solution for the linear case, f(d) = d is obtained and its asymptotic properties (N large) determined. A computational procedure for calculating the optimal policies in the nonlinear case is presented. Two additional related games are briefly treated. The optimal inspection policies each have the salient property of being a randomization over a one parameter family of pure strategies.
+Keywords
+inspection failure detection reliability 

@@ -1,0 +1,6 @@
+Boundary shape design by using PDE filtered design variables
+Tadayoshi Matsumori;Atsushi Kawamoto;Tsuguo Kondoh;Tsuyoshi Nomura;Hidetaka Saomoto;
+Abstract
+This paper deals with a design method for boundary shapes using filtering techniques based on a partial differential equation (PDE). In shape optimization, it is known that oscillatory boundaries appear when design variables are directly assigned to the design boundaries. In addition, during the optimization process, discretized elements in a computational domain are distorted due to extremely large shape changes along the design boundaries. The distorted elements may cause accuracy deterioration or numerical instability in a forward problem. In this paper, we propose a shape optimization method by using the PDE as a low pass filter which prevents the oscillatory boundaries of the optimized design. For restricting the shape distortion of the discretized elements, the shear deformation of the elements is constrained in the optimization problem. Mathematical programming is used to find the boundary shapes under the KKT conditions. The effectiveness of the proposed method is demonstrated through numerical examples in solid and fluid mechanics.
+Keywords
+Shape optimization  PDE  Filtering technique  

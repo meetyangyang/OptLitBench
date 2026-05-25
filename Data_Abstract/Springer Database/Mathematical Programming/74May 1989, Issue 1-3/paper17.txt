@@ -1,0 +1,6 @@
+An inexact algorithm for composite nondifferentiable optimization
+Stephen Wright;
+Abstract
+We describe an inexact version of Fletcher's QL algorithm with second-order corrections for minimizing composite nonsmooth functions. The method is shown to retain the global and local convergence properties of the original version, if the parameters are chosen appropriately. It is shown how the inexact method can be implemented, for the case in which the function to be minimized is an exact penalty function arising from the standard nonlinear programming problem. The method can also be applied to the problems of nonlinearl1 - andl∞-approximation.
+Keywords
+Composite nonsmooth functions  nonlinear programming  penalty functions  

@@ -1,0 +1,6 @@
+Variable projection for nonlinear least squares problems
+Dianne P. O’Leary;Bert W. Rust;
+Abstract
+The variable projection algorithm of Golub and Pereyra (SIAM J. Numer. Anal. 10:413–432, 1973) has proven to be quite valuable in the solution of nonlinear least squares problems in which a substantial number of the parameters are linear. Its advantages are efficiency and, more importantly, a better likelihood of finding a global minimizer rather than a local one. The purpose of our work is to provide a more robust implementation of this algorithm, include constraints on the parameters, more clearly identify key ingredients so that improvements can be made, compute the Jacobian matrix more accurately, and make future implementations in other languages easy.
+Keywords
+Data fitting  Model fitting  Variable projection method  Nonlinear least squares problems  Jacobian approximation  Least squares approximation  Statistical software  Mathematical software design and analysis  

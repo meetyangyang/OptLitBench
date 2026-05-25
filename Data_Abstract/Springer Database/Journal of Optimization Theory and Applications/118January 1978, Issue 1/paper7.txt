@@ -1,0 +1,6 @@
+On an initial-value method for quickly solving Volterra integral equations: A review
+J. M. Bownds;
+Abstract
+A method of converting nonlinear Volterra equations to systems of ordinary differential equations is compared with a standard technique, themethod of moments, for linear Fredholm equations. The method amounts to constructing a Galerkin approximation when the kernel is either finitely decomposable or approximated by a certain Fourier sum. Numerical experiments from recent work by Bownds and Wood serve to compare several standard approximation methods as they apply to smooth kernels. It is shown that, if the original kernel decomposes exactly, then the method produces a numerical solution which is as accurate as the method used to solve the corresponding differential system. If the kernel requires an approximation, the error is greater, but in examples seems to be around 0.5% for a reasonably small number of approximating terms. In any case, the problem of excessive kernel evaluations is circumvented by the conversion to the system of ordinary differential equations.
+Keywords
+Integral equations  numerical methods  equivalent differential systems  Volterra integral equations  initial-value methods  

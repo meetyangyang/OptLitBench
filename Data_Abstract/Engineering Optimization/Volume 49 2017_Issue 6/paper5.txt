@@ -1,0 +1,6 @@
+Common due date assignment and cumulative deterioration scheduling on a single machine
+Shi-Sheng Li;Ren-Xia Chen;
+Abstract
+This article addresses a single-machine scheduling and common due date assignment problem in which the actual processing time of a job is a linear increasing function of the total basic processing times of already processed jobs. The aim is to determine simultaneously the common due date and job schedule that will minimize a cost penalty function including the due date assignment cost, total earliness penalties and a weighted number of tardy jobs. The problem is shown to be -hard even if there is no earliness penalty. Moreover, a pseudo-polynomial time algorithm and a fully polynomial time approximation scheme are proposed to solve the problem. An  time algorithm is designed to solve the special case when all jobs have identical tardiness penalties.
+Keywords
+scheduling, cumulative deterioration, due date assignment, approximation algorithm 

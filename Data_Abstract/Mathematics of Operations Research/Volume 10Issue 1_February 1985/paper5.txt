@@ -1,0 +1,6 @@
+Segregating the Input to a Series of Buffers
+F. P. Kelly;
+Abstract
+Messages are to be transmitted through a series of n nodes linked by communication channels. The lengths of messages are independent identically distributed random variables, and the time taken to transmit a message through a channel is equal to the message's length. Each node has a finite buffer, and when the number of messages at a node reaches the buffer size transmission from the preceding node is interrupted. This paper is concerned with the extent to which the throughput of such a system can be improved by segregating long messages. It is shown, for example, that by using two series in parallel, one dealing with long messages and the other dealing with the rest, the decay of throughput with series length can be improved from (log n)−1 to (log log n)−1 in the case where message lengths are exponentially distributed.
+Keywords
+series of queues blocking throughput extreme values 

@@ -1,0 +1,6 @@
+On mutual impact of numerical linear algebra and large-scale optimization with focus on interior point methods
+Marco D’Apuzzo;Valentina De Simone;Daniela di Serafino;
+Abstract
+The solution of KKT systems is ubiquitous in optimization methods and often dominates the computation time, especially when large-scale problems are considered. Thus, the effective implementation of such methods is highly dependent on the availability of effective linear algebra algorithms and software, that are able, in turn, to take into account specific needs of optimization. In this paper we discuss the mutual impact of linear algebra and optimization, focusing on interior point methods and on the iterative solution of the KKT system. Three critical issues are addressed: preconditioning, termination control for the inner iterations, and inertia control.
+Keywords
+Large-scale optimization  Interior point methods  KKT system  Constraint preconditioners  Adaptive stopping criteria  Inertia control  

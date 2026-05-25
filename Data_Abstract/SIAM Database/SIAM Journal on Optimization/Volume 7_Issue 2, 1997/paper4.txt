@@ -1,0 +1,6 @@
+Efficiency of the Analytic Center Cutting Plane Method for Convex Minimization
+Krzysztof C.  Kiwiel;
+Abstract
+We consider the analytic center cutting plane method of Sonnevend and of Goffin et al. for minimizing a convex (possibly nondifferentiable) function subject to box constraints. At each iteration, accumulated subgradient cuts define a polytope that localizes the minimum. The objective and its subgradient are evaluated at the analytic center of this polytope to produce a cut that improves the localizing set. While complexity results have been recently established for several related methods, the question of whether the original method converges has remained open. We show that the method converges and establish its efficiency.
+Keywords
+nondifferentiable optimization, cutting plane methods, analytic center, potentialfunction, 65K05, 90C25, 

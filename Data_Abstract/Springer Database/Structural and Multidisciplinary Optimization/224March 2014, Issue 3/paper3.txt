@@ -1,0 +1,6 @@
+Topology optimization using an explicit interface representation
+Asger Nyman Christiansen;Morten Nobel-Jørgensen;Niels Aage;Ole Sigmund;Jakob Andreas Bærentzen;
+Abstract
+We introduce the Deformable Simplicial Complex method to topology optimization as a way to represent the interface explicitly yet being able to handle topology changes. Topology changes are handled by a series of mesh operations, which also ensures a well-formed mesh. The same mesh is therefore used for both finite element calculations and shape representation. In addition, the approach unifies shape and topology optimization in a complementary optimization strategy. The shape is optimized on the basis of the gradient-based optimization algorithm MMA whereas holes are introduced using topological derivatives. The presented method is tested on two standard minimum compliance problems which demonstrates that it is both simple to apply, robust and efficient.
+Keywords
+Topology optimization  Topological derivative  Non-parametric shape optimization  Explicit interface representation  Deformable simplicial complex method  

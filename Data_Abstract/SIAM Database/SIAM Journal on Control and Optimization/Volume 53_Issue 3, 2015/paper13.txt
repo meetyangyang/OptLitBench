@@ -1,0 +1,6 @@
+Optimal Supervisory Control of Discrete Event Systems: Cyclicity and Interleaving of Tasks
+Klaus Werner  Schmidt;
+Abstract
+A substantial number of tasks in production systems are executed in a repetitive, cyclic fashion. Specifically, production systems run different production cycles of different products as well as different instances of the same production cycle. In this paper, we consider the optimal control and interleaving of such production cycles in a supervisory control framework for discrete event systems (DESs). That is, different from other approaches, our work is based on a behavioral specification of each production cycle. First, we adapt an optimal control approach for DESs, in order to optimize the operation of individual production cycles. Second, we employ the interleaving composition to design a supervisor that enables the simultaneous execution of different production cycles. Combining both results, we can further determine the maximum number of production cycles that can be executed simultaneously on a given production system.
+Keywords
+discrete event systems, production systems, optimal control, cyclic systems, interleaving, 93C65, 93C956, 

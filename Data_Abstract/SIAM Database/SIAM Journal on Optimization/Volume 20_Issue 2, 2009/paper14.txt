@@ -1,0 +1,6 @@
+Minimizing Continuous Extensions of Discrete Convex Functions with Linear Inequality Constraints
+Satoru  Fujishige, Takumi  Hayashi, and Kiyohito  Nagano;
+Abstract
+A class of convex-extensible discrete convex functions that can efficiently be minimized has been considered by Murota. Among them are $\mathrm{L}^\natural$-convex functions and $\mathrm{M}^\natural$-convex functions; the former are natural extensions of submodular set functions and the latter are the convex conjugates of $\mathrm{L}^\natural$-convex functions. We consider the problem of minimizing a continuous extension of a convex-extensible discrete function with a linear inequality constraint and propose an algorithm to solve it, based on a binary search for an optimal Lagrange multiplier. We prove that both a continuous extension of an $\mathrm{L}^\natural$-convex function and that of an $\mathrm{M}^\natural$-convex function with a linear inequality constraint can be minimized in polynomial time via the proposed algorithm.
+Keywords
+discrete convex functions, algorithms, submodular functions, 52B40, 90C25, 90C27, 

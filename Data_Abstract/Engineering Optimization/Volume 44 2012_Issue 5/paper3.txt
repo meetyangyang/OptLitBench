@@ -1,0 +1,6 @@
+A novel algorithm of maximin Latin hypercube design using successive local enumeration
+ Huaguang   Zhu ; Li   Liu ; Teng   Long ; Lei   Peng ;
+Abstract
+ The design of computer experiments (DoCE) is a key technique in the field of metamodel-based design optimization. Space-filling and projective properties are desired features in DoCE. In this article, a novel algorithm of maximin Latin hypercube design (LHD) using successive local enumeration (SLE) is proposed for generating arbitrary m points in n-dimensional space. Testing results compared with lhsdesign function, binary encoded genetic algorithm (BinGA), permutation encoded genetic algorithm (PermGA) and translational propagation algorithm (TPLHD) indicate that SLE is effective to generate sampling points with good space-filling and projective properties. The accuracies of metamodels built with the sampling points produced by lhsdesign function and SLE are compared to illustrate the preferable performance of SLE. Through the comparative study on efficiency with BinGA, PermGA, and TPLHD, as a novel algorithm of LHD sampling techniques, SLE has good space-filling property and acceptable efficiency. 
+Keywords
+Latin hypercube design, design of computer experiments, successive local enumeration, metamodel-based design optimization 

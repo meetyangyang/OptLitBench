@@ -1,0 +1,6 @@
+A robust optimization approach for multicast network coding under uncertain link costs
+H. Ghasvari;M. A. Raayatpanah;P. M. Pardalos;
+Abstract
+Network coding is a technique that can be used to improve the performance of communication networks by performing mathematical operations at intermediate nodes. An important problem in coding theory is that of finding an optimal coding subgraph for delivering network data from a source node throughout intermediate nodes to a set of destination nodes with the minimum transmission cost. However, in many real applications, it can be difficult to determine exact values or specific probability distributions of link costs. Establishing minimum-cost multicast connections based on erroneous link costs might exhibit poor performance when implemented. This paper considers the problem of minimum-cost multicast using network coding under uncertain link costs. We propose a robust optimization approach to obtain solutions that protect the system against the worst-case value of the uncertainty in a prespecified set. The simulation results show that a robust solution provides significant improvement in worst-case performance while incurring a small loss in optimality for specific instances of the uncertainty.
+Keywords
+Network coding  Multicast  Robust optimization  

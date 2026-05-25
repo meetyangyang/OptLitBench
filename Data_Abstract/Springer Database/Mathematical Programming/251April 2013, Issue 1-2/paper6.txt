@@ -1,0 +1,6 @@
+Fine tuning Nesterov’s steepest descent algorithm for differentiable convex programming
+Clóvis C. Gonzaga;Elizabeth W. Karas;
+Abstract
+We modify the first order algorithm for convex programming described by Nesterov in his book (in Introductory lectures on convex optimization. A basic course. Kluwer, Boston, 2004). In his algorithms, Nesterov makes explicit use of a Lipschitz constant L for the function gradient, which is either assumed known (Nesterov in Introductory lectures on convex optimization. A basic course. Kluwer, Boston, 2004), or is estimated by an adaptive procedure (Nesterov 2007). We eliminate the use of L at the cost of an extra imprecise line search, and obtain an algorithm which keeps the optimal complexity properties and also inherit the global convergence properties of the steepest descent method for general continuously differentiable optimization. Besides this, we develop an adaptive procedure for estimating a strong convexity constant for the function. Numerical tests for a limited set of toy problems show an improvement in performance when compared with the original Nesterov’s algorithms.
+Keywords
+Unconstrained convex problems  Optimal method  62K05  65K05  68Q25  90C25  90C60  

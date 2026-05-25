@@ -1,0 +1,8 @@
+A restarting approach for the symmetric rank one update for unconstrained optimization
+Wah June Leong;Malik Abu Hassan;
+Abstract
+
+Two basic disadvantages of the symmetric rank one (SR1) update are that the SR1 update may not preserve positive definiteness when starting with a positive definite approximation and the SR1 update can be undefined. A simple remedy to these problems is to restart the update with the initial approximation, mostly the identity matrix, whenever these difficulties arise. However, numerical experience shows that restart with the identity matrix is not a good choice. Instead of using the identity matrix we used a positive multiple of the identity matrix. The used positive scaling factor is the optimal solution of the measure defined by the problem—maximize the determinant of the update subject to a bound of one on the largest eigenvalue. This measure is motivated by considering the volume of the symmetric difference of the two ellipsoids, which arise from the current and updated quadratic models in quasi-Newton methods. A replacement in the form of a positive multiple of the identity matrix is provided for the SR1 update when it is not positive definite or undefined. Our experiments indicate that with such simple initial scaling the possibility of an undefined update or the loss of positive definiteness for the SR1 method is avoided on all iterations.
+
+Keywords
+Symmetric rank one  Volume of ellipsoid  Unconstrained optimization  

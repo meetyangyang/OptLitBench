@@ -1,0 +1,6 @@
+A family of MMA approximations for structural optimization
+M. Bruyneel;P. Duysinx;C. Fleury;
+Abstract
+This paper proposes a new first-order approximation scheme used for solving structural optimization problems. It is based on approximations of the MMA family (MMA and GCMMA), but it utilizes the gradients and/or the function values at two successive design points to improve the quality of the approximation. In addition, this scheme can consider simultaneously monotonous and nonmonotonous structural behaviour. According to the characteristics of the treated problem, one of the approximations or a mix of them is automatically selected. Based on this approach, the accuracy of the approximated subproblems is improved and the solution process can be sped up. Numerical results compare the effectiveness of the method with previously derived approximations of the MMA family for shape optimization of trusses and for composite design problems. The benefit of using mixed approximations is also discussed.
+Keywords
+Key words: structural approximations, method of moving asymptotes  

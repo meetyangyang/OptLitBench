@@ -1,0 +1,6 @@
+Optimization of composite stiffened panels subject to compression and lateral pressure using a bi-level approach
+Wenli Liu;Richard Butler;H. Alicia Kim;
+Abstract
+Composite stiffened panel optimization is typically a mixed discrete-continuous design problem constrained by buckling and material strength. Previous work applied a bi-level optimization strategy to the problem by decomposing the mixed problem to continuous and discrete levels to reduce the optimization search space and satisfy manufacturing constraints. A fast-running optimization package, VICONOPT, was used at the continuous optimization level where the buckling analysis was accurately and effectively performed. However, the discrete level was manually adjusted to satisfy laminate design rules. This paper develops the strategy to application on continuously long aircraft wing panels subjected to compression and lateral pressure loading. The beam-column approach used to account for lateral loading for analysis during optimization is reported. A genetic algorithm is newly developed and applied to the discrete level for automated selection of laminated designs. The results that are presented show at least 13% weight saving compared with an existing datum design.
+Keywords
+Composite stiffened panels  Buckling optimization  Genetic algorithm  Lateral pressure  

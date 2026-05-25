@@ -1,0 +1,6 @@
+Newton-Type Methods for Optimization Problems without Constraint Qualifications
+A. F.  Izmailov and M. V.  Solodov;
+Abstract
+We consider equality-constrained optimization problems, where a given solution may not satisfy any constraint qualification but satisfies the standard second-order sufficient condition for optimality. Based on local identification of the rank of the constraints degeneracy via the singular-value decomposition, we derive a modified primal-dual optimality system whose solution is locally unique, nondegenerate, and thus can be found by standard Newton-type techniques. Using identification of active constraints, we further extend our approach to mixed equality- and inequality-constrained problems, and to mathematical programs with complementarity constraints (MPCC). In particular, for MPCC we obtain a local algorithm with quadratic convergence under the second-order sufficient condition only, without any constraint qualifications, not even the special MPCC constraint qualifications.
+Keywords
+constraints degeneracy, regularity, second-order sufficiency, singular-value decomposition, Newton method, mathematical programs with complementarity constraints (MPCC), 90C30, 90C33, 90C55, 65K05, 

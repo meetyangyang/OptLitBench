@@ -1,0 +1,6 @@
+Registrar: a complete-memory operator to enhance performance of genetic algorithms
+Aristotelis E. Charalampakis;
+Abstract
+We examine the concept of storing all evaluated chromosomes and directly reuse them in Genetic Algorithms (GAs). This is achieved by a fully encapsulated operator, called Registrar, which is effortlessly placed between the GA and the objective function. The Registrar does not approximate the objective function. Instead, it replaces the chromosomes requested by the GA with similar ones taken from the registry, bypassing the function evaluation. Unlike other methods that use external memory to increase genetic diversity, our simple implementation encourages revisits in order to avoid evaluations in an aggressive manner. Significant increase in performance is observed which is present even at the early stages of evolution, in accordance with the Birthday Problem of probability theory. Implementation with Standard GA shows great promise, while the encapsulation of the code facilitates implementation with other Evolutionary Algorithms.
+Keywords
+Genetic algorithms  Evolutionary algorithms  Memory  

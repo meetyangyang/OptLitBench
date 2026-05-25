@@ -1,0 +1,6 @@
+A derivative-free approximate gradient sampling algorithm for finite minimax problems
+W. Hare;J. Nutini;
+Abstract
+In this paper we present a derivative-free optimization algorithm for finite minimax problems. The algorithm calculates an approximate gradient for each of the active functions of the finite max function and uses these to generate an approximate subdifferential. The negative projection of 0 onto this set is used as a descent direction in an Armijo-like line search. We also present a robust version of the algorithm, which uses the ‘almost active’ functions of the finite max function in the calculation of the approximate subdifferential. Convergence results are presented for both algorithms, showing that either f(x  k )→−∞ or every cluster point is a Clarke stationary point. Theoretical and numerical results are presented for three specific approximate gradients: the simplex gradient, the centered simplex gradient and the Gupal estimate of the gradient of the Steklov averaged function. A performance comparison is made between the regular and robust algorithms, the three approximate gradients, and a regular and robust stopping condition.
+Keywords
+Derivative-free optimization  Minimax problems  Generalized gradient  Subgradient approximation  

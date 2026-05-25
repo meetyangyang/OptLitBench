@@ -1,0 +1,6 @@
+A Modified Projection Algorithm for Large Strictly-Convex Quadratic Programs
+V. Ruggiero;L. Zanni;
+Abstract
+In this paper, we propose a modified projection-type method for solving strictly-convex quadratic programs. This iterative scheme requires essentially the solution of an easy quadratic programming subproblem and a matrix-vector multiplication at each iteration. The main feature of the method consists in updating the Hessian matrix of the subproblems by a convenient scaling parameter. The convergence of the scheme is obtained by introducing a correction formula for the solution of the subproblems and very weak conditions on the scaling parameter. A practical nonexpensive updating rule for the scaling parameter is suggested. The results of numerical experimentation enable this approach to be compared with some classical projection-type methods and its effectiveness as a solver of large and very sparse quadratic programs to be evaluated.
+Keywords
+strictly-convex quadratic programs  large-scale optimization  projection-type method  splitting method  

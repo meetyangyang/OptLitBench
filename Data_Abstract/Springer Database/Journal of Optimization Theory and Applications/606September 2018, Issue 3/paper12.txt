@@ -1,0 +1,6 @@
+Optimization of Fishing Strategies in Space and Time as a Non-convex Optimal Control Problem
+Malte Braack;Martin F. Quaas;Benjamin Tews;Boris Vexler;
+Abstract
+The behavior of a fishing fleet and its impact onto the biomass of fish can be described by a nonlinear parabolic diffusion–reaction equation. Looking for an optimal fishing strategy leads to a non-convex optimal control problem with a bilinear control action. In this work, we present such an optimal control formulation, prove its well-posedness and derive first- and second-order optimality conditions. These results provide a basis for tailored finite element discretization as well as for Newton type optimization algorithms. First numerical test problems show typical features as so-called No-Take-Zones and maximal fishing quota (total allowable catches) as parts of an optimal fishing strategy.
+Keywords
+Fishing strategies  Optimal control  Non-convex optimization  35K20  35K45  35K57  49K20  49K40  65M60  

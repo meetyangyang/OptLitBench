@@ -1,0 +1,6 @@
+Numerical experiments with ABS algorithms for linear systems on a parallel machine
+M. Bertocchi;
+Abstract
+Numerical results are obtained on sequential and parallel versions of ABS algorithms for linear systems for both full matrices andq-band matrices. The results using the sequential algorithm on full matrices indicate the superiority of a particular implementation of the symmetric algorithm. The condensed form of the algorithm is well suited for implementation in a parallel environment, and results obtained on the IBM 4381 system favor a synchronous implementation over the asynchronous one. Results are obtained from sequential implementations of theLU, Cholesky, and symmetric algorithms of the ABS class forq-band matrices able to reduce memory storage. A simple parallelization of do-loops for calculating components gives interesting performances.
+Keywords
+Linear systems of equations  direct methods for dense matrices andq-band matrices  sequential algorithms  parallel algorithms  

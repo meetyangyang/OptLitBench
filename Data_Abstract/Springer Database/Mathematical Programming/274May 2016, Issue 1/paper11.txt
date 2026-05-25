@@ -1,0 +1,6 @@
+Robust optimization approach for a chance-constrained binary knapsack problem
+Jinil Han;Kyungsik Lee;Chungmok Lee;Ki-Seok Choi;Sungsoo Park;
+Abstract
+We consider a certain class of chance-constrained binary knapsack problem where each item has a normally distributed random weight that is independent of the other items. For this problem we propose an efficient pseudo-polynomial time algorithm based on the robust optimization approach for finding a solution with a theoretical bound on the probability of satisfying the knapsack constraint. Our algorithm is tested on a wide range of random instances, and the results demonstrate that it provides qualified solutions quickly. In contrast, a state-of-the-art MIP solver is only applicable for instances of the problem with a restricted number of items.
+Keywords
+Knapsack problem  Combinatorial optimization  Chance-constrained programming  Robust optimization  90C15  90C27  90C59  

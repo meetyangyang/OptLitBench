@@ -1,0 +1,6 @@
+Global optimization algorithms for a CAD workstation
+W. L. Price;
+Abstract
+This paper describes two new versions of the controlled random search procedure for global optimization (CRS). Designed primarily to suit the user of a CAD workstation, these algorithms can also be used effectively in other contexts. The first, known as CRS3, speeds the final convergence of the optimization by combining a local optimization algorithm with the global search procedure. The second, called CCRS, is a concurrent version of CRS3. This algorithm is intended to drive an optimizing accelerator, based on a concurrent processing architecture, which can be attached to a workstation to achieve a significant increase in speed. The results are given of comparative trials which involve both unconstrained and constrained optimization.
+Keywords
+Numerical optimization  global search  nonlinear programming  parallel processing  concurrent algorithms  computer-aided design  

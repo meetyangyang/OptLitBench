@@ -1,0 +1,6 @@
+A global optimization algorithm for polynomial programming problems using a Reformulation-Linearization Technique
+Hanif D. Sherali;Cihan H. Tuncbilek;
+Abstract
+This paper is concerned with the development of an algorithm to solve continuous polynomial programming problems for which the objective function and the constraints are specified polynomials. A linear programming relaxation is derived for the problem based on a Reformulation Linearization Technique (RLT), which generates nonlinear (polynomial) implied constraints to be included in the original problem, and subsequently linearizes the resulting problem by defining new variables, one for each distinct polynomial term. This construct is then used to obtain lower bounds in the context of a proposed branch and bound scheme, which is proven to converge to a global optimal solution. A numerical example is presented to illustrate the proposed algorithm.
+Keywords
+Reformulation  linearization  polynomial programs  multilinear programs  

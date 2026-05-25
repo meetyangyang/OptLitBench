@@ -1,0 +1,6 @@
+A primal-proximal heuristic applied to the French Unit-commitment problem
+L. Dubost;R. Gonzalez;C. Lemaréchal;
+Abstract
+This paper is devoted to the numerical resolution of unit-commitment problems, with emphasis on the French model optimizing the daily production of electricity. The solution process has two phases. First a Lagrangian relaxation solves the dual to find a lower bound; it also gives a primal relaxed solution. We then propose to use the latter in the second phase, for a heuristic resolution based on a primal proximal algorithm. This second step comes as an alternative to an earlier approach, based on augmented Lagrangian (i.e. a dual proximal algorithm). We illustrate the method with some real-life numerical results. A companion paper is devoted to a theoretical study of the heuristic in the second phase.
+Keywords
+Unit-commitment problem  Proximal algorithm  Lagrangian relaxation  Primal-dual heuristics  Combinatorial optimization  90B30  90C06  90C90  

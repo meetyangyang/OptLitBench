@@ -1,0 +1,5 @@
+Tight LP-Relaxations of Overlapping Global Cardinality Constraints
+Ioannis Mourtos;
+Abstract
+The global cardinality constraint (gcc) [7], written as 
+$$ cardinality(x,J;l,u),x_{j}\in D_{j},j\in J, $$ states that each value d is received by at least l  d  and by at most u  d  of the variables {x  j :j ∈ J}, where \(d\in D={\mathop{\textstyle \bigcup }}_{j\in J}D_{j}=\{0,\ldots ,|D|-1\};\) also, 0 ≤ l  d  ≤ u  d  and u  d  ≥ 1 for all d ∈ D. The gcc has several applications [2, 10], thus having been studied from the Constraint Programming community mainly for accomplishing various forms of consistency [4, 6–8] or for examining the tractability of a natural generalization [9].

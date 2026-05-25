@@ -1,0 +1,6 @@
+A surrogate assisted evolutionary optimization method with application to the transonic airfoil design
+ Ava   Shahrokhi ; Alireza   Jahangirian ;
+Abstract
+ A multi-layer perceptron neural network (NN) method is used for efficient estimation of the expensive objective functions in the evolutionary optimization with the genetic algorithm (GA). The estimation capability of the NN is improved by dynamic retraining using the data from successive generations. In addition, the normal distribution of the training data variables is used to determine well-trained parts of the design space for the NN approximation. The efficiency of the method is demonstrated by two transonic airfoil design problems considering inviscid and viscous flow solvers. Results are compared with those of the simple GA and an alternative surrogate method. The total number of flow solver calls is reduced by about 40% using this fitness approximation technique, which in turn reduces the total computational time without influencing the convergence rate of the optimization algorithm. The accuracy of the NN estimation is considerably improved using the normal distribution approach compared with the alternative method. 
+Keywords
+aerodynamic optimization, neural networks, genetic algorithm 

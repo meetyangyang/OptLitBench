@@ -1,0 +1,6 @@
+Adaptive heuristic search algorithm for discrete variables based multi-objective optimization
+Long Tang;Hu Wang;Guangyao Li;Fengxiang Xu;
+Abstract
+Although metamodel technique has been successfully used to enhance the efficiency of the multi-objective optimization (MOO) with black-box objective functions, the metamodel could become less accurate or even unavailable when the design variables are discrete. In order to overcome the bottleneck, this work proposes a novel random search algorithm for discrete variables based multi-objective optimization with black-box functions, named as k-mean cluster based heuristic sampling with Utopia-Pareto directing adaptive strategy (KCHS-UPDA). This method constructs a few adaptive sampling sets in the solution space and draws samples according to a heuristic probability model. Several benchmark problems are supplied to test the performance of KCHS-UPDA including closeness, diversity, efficiency and robustness. It is verified that KCHS-UPDA can generally converge to the Pareto frontier with a small quantity of number of function evaluations. Finally, a vehicle frontal member crashworthiness optimization is successfully solved by KCHS-UPDA.
+Keywords
+Discrete variables based multi-objective optimization  Random search  UPDA strategy  KCHS method  

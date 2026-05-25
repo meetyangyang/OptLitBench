@@ -1,0 +1,6 @@
+single Machine Preemptive Scheduling With Special Cost Functions 1  
+   E.   Azharonok ; V.   Gordon ; F.   Werner ;
+Abstract
+ In this paper we consider a single machine scheduling problem, where for each of n jobs a release date, a processing time and a cost function are given and the maximum cost is to be minimized. Preemption is allowed and precedence constraints among the jobs are given. For this problem an O(n 2) algorithm is known from the literature. We consider cost functions with a special order relation: for any two jobs i and j the cost of one job is not greater than the cost for the other job during the whole scheduling period. Many objective functions usually considered in scheduling theory have this property.For those problems we propose an algorithm that has the complexity  for the case of tree-like precedence constraints. Moreover, we give a parallel algorithm for this class of problems, which uses  processors and has a time complexity of   
+Keywords
+Single machine scheduling, Polynomial time algorithms, Parallel algorithms 

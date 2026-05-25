@@ -1,0 +1,8 @@
+Guidance Trajectories for Spacecraft Rendezvous
+A. Miele;M. Ciarcià;M. W. Weeks;
+Abstract
+
+In a previous paper of Miele et al. (J. Optim. Theory Appl. 132(1), 2007), we employed the single-subarc sequential gradient-restoration algorithm to optimize the three-dimensional rendezvous between a target spacecraft in a planar circular orbit and a chaser spacecraft with an initial separation distance and separation velocity. The achieved continuous solutions are characterized by two, three, or four subarcs depending on the performance index (time, fuel) and the constraints. In this paper, based on the solutions in Miele et al. (J. Optim. Theory Appl. 132(1), 2007), we employ the multiple-subarc sequential gradient-restoration algorithm to produce pieced guidance trajectories implementable in real time via constant control components. In other words, in this investigation, we force the controls to behave as parameters in each subarc. With the above understanding, we investigate four problems: (P1) minimum time, fuel free; (P2) minimum fuel, time free; (P3) minimum time, fuel given; (P4) minimum fuel, time given.
+
+Keywords
+Space trajectories  Rendezvous  Guidance  Optimal control  Calculus of variations  Mayer problems  Bolza problems  Transformation techniques  Multiple-subarc sequential gradient-restoration algorithm  

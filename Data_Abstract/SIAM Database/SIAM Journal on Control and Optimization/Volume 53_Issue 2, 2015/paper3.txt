@@ -1,0 +1,6 @@
+Analysis of an Adaptive Finite Element Method for Recovering the Robin Coefficient
+Yifeng  Xu and Jun  Zou;
+Abstract
+Based on a new a posteriori error estimator, an adaptive finite element method is proposed for recovering the Robin coefficient involved in a diffusion system from some boundary measurement. The a posteriori error estimator cannot be derived for this ill-posed nonlinear inverse problem as was done for the existing a posteriori error estimators for direct problems. Instead, we shall derive the a posteriori error estimator from our convergence analysis of the adaptive algorithm. We prove that the adaptive algorithm guarantees a convergent subsequence of discrete solutions in an energy norm to some exact triplet (the Robin coefficient, state and costate variables) determined by the optimality system of the least-squares formulation with Tikhonov regularization for the concerned inverse problem. Some numerical results are also reported to illustrate the performance of the algorithm.
+Keywords
+Robin inverse problem, a posteriori error estimates, adaptive finite element method, 65N12, 65N21, 65N30, 

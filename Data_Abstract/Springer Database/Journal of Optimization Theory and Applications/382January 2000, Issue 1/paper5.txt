@@ -1,0 +1,6 @@
+On the Newton Interior-Point Method for Nonlinear Programming Problems
+C. Durazzi;
+Abstract
+Interior-point methods have been developed largely for nonlinear programming problems. In this paper, we generalize the global Newton interior-point method introduced in Ref. 1 and we establish a global convergence theory for it, under the same assumptions as those stated in Ref. 1. The generalized algorithm gives the possibility of choosing different descent directions for a merit function so that difficulties due to small steplength for the perturbed Newton direction can be avoided. The particular choice of the perturbation enables us to interpret the generalized method as an inexact Newton method. Also, we suggest a more general criterion for backtracking, which is useful when the perturbed Newton system is not solved exactly. We include numerical experimentation on discrete optimal control problems.
+Keywords
+mathematical programming  interior-point methods  inexact Newton methods  global convergence  

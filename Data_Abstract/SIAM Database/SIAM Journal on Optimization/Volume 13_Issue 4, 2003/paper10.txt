@@ -1,0 +1,6 @@
+Augmented Lagrangians with Adaptive Precision Control for Quadratic Programming with Simple Bounds and Equality Constraints
+Z.  Dostál, A.  Friedlander, and S. A.  Santos;
+Abstract
+In this paper we discuss a specialization of the augmented Lagrangian-type algorithm of Conn, Gould, and Toint to the solution of strictly convex quadratic programming problems with simple bounds and equality constraints. The new feature of the presented algorithm is the adaptive precision control of the solution of auxiliary problems in the inner loop of the basic algorithm which yields a rate of convergence that does not have any term that accounts for inexact solution of auxiliary problems. Moreover, boundedness of the penalty parameter is achieved for the precision control used. Numerical experiments illustrate the efficiency of the presented algorithm and encourage its usage.
+Keywords
+quadratic programming, box and equality constraints, augmented Lagrangians, adaptive precision control, 65K05, 90C20, 

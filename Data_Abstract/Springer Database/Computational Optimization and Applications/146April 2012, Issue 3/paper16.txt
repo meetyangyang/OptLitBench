@@ -1,0 +1,6 @@
+A Barzilai-Borwein-based heuristic algorithm for locating multiple facilities with regional demand
+Jianlin Jiang;Xiaoming Yuan;
+Abstract
+We are interested in locations of multiple facilities in the plane with the aim of minimizing the sum of weighted distance between these facilities and regional customers, where the distance between a facility and a regional customer is evaluated by the farthest distance from this facility to the demand region. By applying the well-known location-allocation heuristic, the main task for solving such a problem turns out to solve a number of constrained Weber problems (CWPs). This paper focuses on the computational contribution in this topic by developing a variant of the classical Barzilai-Borwein (BB) gradient method to solve the reduced CWPs. Consequently, a hybrid Cooper type method is developed to solve the problem under consideration. Preliminary numerical results are reported to verify the evident effectiveness of the new method.
+Keywords
+Facility location  Barzilai-Borwein gradient method  Weiszfeld procedure  Regional demand  Farthest distance  

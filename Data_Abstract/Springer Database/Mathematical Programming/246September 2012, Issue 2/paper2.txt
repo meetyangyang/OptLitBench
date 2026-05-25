@@ -1,0 +1,6 @@
+Nonconvergence of the plain Newton-min algorithm for linear complementarity problems with a P-matrix
+Ibtihel Ben Gharbia;J. Charles Gilbert;
+Abstract
+The plain Newton-min algorithm to solve the linear complementarity problem (LCP for short) \({0\leq x\perp(Mx+q)\geq0}\) can be viewed as a semismooth Newton algorithm without globalization technique to solve the system of piecewise linear equations min(x, Mx + q) = 0, which is equivalent to the LCP. When M is an M-matrix of order n, the algorithm is known to converge in at most n iterations. We show in this paper that this result no longer holds when M is a P-matrix of order ≥ 3, since then the algorithm may cycle. P-matrices are interesting since they are those ensuring the existence and uniqueness of the solution to the LCP for an arbitrary q. Incidentally, convergence occurs for a P-matrix of order 1 or 2.
+Keywords
+Linear complementarity problem  Newton’s method  Nonconvergence  Nonsmooth function  M-matrix  P-matrix  49J52  49M15  90C33  

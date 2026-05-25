@@ -1,0 +1,6 @@
+Multi-start approach for an integer determinant maximization problem
+ R.   Sotirov ; T.   Terlaky ;
+Abstract
+ In this article, we present a multi-start approach to solve a determinant maximization problem of an integer matrix variable that has a constant trace. In order to enforce that elements of the matrix variable are integer, we add a nonlinear repeller term to the objective function. To solve this nonlinear optimization problem we implement our sequential conic trust-region-based algorithm within a multi-start framework. To demonstrate the potential of our approach, we use a determinant maximization model from crystallography. 
+Keywords
+determinant maximization, trust-region algorithm, conic optimization, multi-start frameworkAMS Subject Classifications:: 90C22, 90C90 

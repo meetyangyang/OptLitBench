@@ -1,0 +1,6 @@
+An integer programming approach for linear programs with probabilistic constraints
+James Luedtke;Shabbir Ahmed;George L. Nemhauser;
+Abstract
+Linear programs with joint probabilistic constraints (PCLP) are difficult to solve because the feasible region is not convex. We consider a special case of PCLP in which only the right-hand side is random and this random vector has a finite distribution. We give a mixed-integer programming formulation for this special case and study the relaxation corresponding to a single row of the probabilistic constraint. We obtain two strengthened formulations. As a byproduct of this analysis, we obtain new results for the previously studied mixing set, subject to an additional knapsack inequality. We present computational results which indicate that by using our strengthened formulations, instances that are considerably larger than have been considered before can be solved to optimality.
+Keywords
+Stochastic programming  Integer programming  Probabilistic constraints  Chance constraints  Mixing set  90C11  90C15  

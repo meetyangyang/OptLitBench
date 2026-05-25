@@ -1,0 +1,6 @@
+Hybrid Conjugate Gradient Algorithm for Unconstrained Optimization
+N. Andrei;
+Abstract
+In this paper a new hybrid conjugate gradient algorithm is proposed and analyzed. The parameter β  k  is computed as a convex combination of the Polak-Ribière-Polyak and the Dai-Yuan conjugate gradient algorithms, i.e. β   k   N  =(1−θ  k )β   k   PRP  +θ  k  β   k   DY  . The parameter θ  k  in the convex combination is computed in such a way that the conjugacy condition is satisfied, independently of the line search. The line search uses the standard Wolfe conditions. The algorithm generates descent directions and when the iterates jam the directions satisfy the sufficient descent condition. Numerical comparisons with conjugate gradient algorithms using a set of 750 unconstrained optimization problems, some of them from the CUTE library, show that this hybrid computational scheme outperforms the known hybrid conjugate gradient algorithms.
+Keywords
+Unconstrained optimization  Hybrid conjugate gradient method  Conjugacy condition  Numerical comparisons  

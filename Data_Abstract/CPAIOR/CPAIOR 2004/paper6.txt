@@ -1,0 +1,4 @@
+Cost Evaluation of Soft Global Constraints
+Nicolas Beldiceanu;Thierry Petit;
+Abstract
+This paper shows that existing definitions of costs associated with soft global constraints are not sufficient to deal with all the usual global constraints. We propose more expressive definitions: refined variable-based cost, object-based cost and graph properties based cost. For the first two ones we provide ad-hoc algorithms to compute the cost from a complete assignment of values to variables. A representative set of global constraints is investigated. Such algorithms are generally not straightforward and some of them are even NP-Hard. Then we present the major feature of the graph properties based cost: a systematic way for evaluating the cost with a polynomial complexity.

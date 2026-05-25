@@ -1,0 +1,6 @@
+An adaptive multi-modal optimization algorithm for simulation-based design of power-electronic circuits
+ Keyhan   Kobravi ; Shaahin   Filizadeh ;
+Abstract
+ This article introduces a non-gradient optimization algorithm for the simulation-based design of nonlinear power-electronic circuits where multiple local minima may exist. The algorithm steers a simultaneous search for multiple optima by generating a multi-resolution mesh in the search space. It adaptively increases its resolution only in regions where the presence of local optima is likely, thus offering significant savings in the number of (simulation-based) objective-function evaluations. The algorithm's relatively low computational intensity, its independence of local gradient information and its capability to discover multiple local minima simultaneously make it appealing for the optimization of expensive black-box functions. The article shows an implementation of the algorithm in MATLAB® and links it to the PSCAD®/EMTDC transient simulation program. Examples of the application of the proposed algorithm for both analytical and simulation-based objective functions are included. 
+Keywords
+simulation-based design, multimodality, power-electronic converters 

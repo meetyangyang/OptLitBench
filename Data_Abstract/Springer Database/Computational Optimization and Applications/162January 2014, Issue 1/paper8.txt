@@ -1,0 +1,6 @@
+Third order convergent time discretization for parabolic optimal control problems with control constraints
+Andreas Springer;Boris Vexler;
+Abstract
+We consider a priori error analysis for a discretization of a linear quadratic parabolic optimal control problem with box constraints on the time-dependent control variable. For such problems one can show that a time-discrete solution with second order convergence can be obtained by a first order discontinuous Galerkin time discretization for the state variable and either the variational discretization approach or a post-processing strategy for the control variable. Here, by combining the two approaches for the control variable, we demonstrate that almost third order convergence with respect to the size of the time steps can be achieved.
+Keywords
+Optimal control  Heat equation  Control constraints  Discontinuous Galerkin time stepping  Error estimates  Post-processing  Variational control discretization  

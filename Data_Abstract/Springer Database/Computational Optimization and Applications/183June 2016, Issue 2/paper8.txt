@@ -1,0 +1,6 @@
+Theoretical and computational results about optimality-based domain reductions
+Alberto Caprara;Marco Locatelli;Michele Monaci;
+Abstract
+In this paper we discuss optimality-based domain reductions for Global Optimization problems both from the theoretical and from the computational point of view. When applying an optimality-based domain reduction we can easily define a lower limit for the reduction which can be attained, but we can hardly guarantee that such limit is reached. Here, we theoretically prove that, for a nontrivial class of problems, appropriate strategies exist that are always able to reach this lower limit. On the other hand, we will also show that the same strategies lose this property as soon as we slightly enlarge the class of problems. Next, we perform computational experiments with a standard B&B approach applied to Linear Multiplicative Programming problems. We aim at establishing a good trade off between the quality of the domain reduction (the higher the quality, the lower the number of nodes in the B&B tree), and the computational cost of the domain reduction, and, thus, the effort per node of the B&B tree.
+Keywords
+Global optimization  Domain reduction  Branch-and-bound  

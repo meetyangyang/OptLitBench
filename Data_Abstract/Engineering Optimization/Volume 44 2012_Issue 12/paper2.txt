@@ -1,0 +1,6 @@
+Some heuristic approaches for solving extended geometric programming problems
+ R.   Toscano ; S.   B.   Amouri ;
+Abstract
+ This article introduces an extension of standard geometric programming (GP) problems, called quasi geometric programming (QGP) problems. The idea behind QGP is very simple, it means that a problem becomes a GP problem when some variables are kept constant. The consideration of this particular kind of nonlinear and possibly non-smooth optimization problem is motivated by the fact that many engineering problems can be formulated, or well approximated, as a QGP problem. However, solving a QGP problem remains a difficult task due to its intrinsic nonconvex nature. This is why this article introduces some simple approaches for easily solving this kind of nonconvex problem. The interesting thing is that the proposed methods do not require the development of a customized solver and work well with any existing solver able to solve conventional GP problems. Some considerations on the robustness issue are also presented. Various optimization problems are considered to illustrate the ability of the proposed methods for solving a QGP problem. Comparison with previously published work is also given. 
+Keywords
+nonconvex optimization, geometric programming, quasi geometric programming, GP-solver, robust optimization 

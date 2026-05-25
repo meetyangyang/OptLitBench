@@ -1,0 +1,6 @@
+Multi-objective optimization by learning automata
+H. L. Liao;Q. H. Wu;
+Abstract
+This paper presents a novel method of multi-objective optimization by learning automata (MOLA) to solve complex multi-objective optimization problems. MOLA consists of multiple automata which perform sequential search in the solution domain. Each automaton undertakes dimensional search in the selected dimension of the solution domain, and each dimension is divided into a certain number of cells. Each automaton performs a continuous search action, instead of discrete actions, within cells. The merits of MOLA have been demonstrated, in comparison with a multi-objective evolutionary algorithm based on decomposition (MOEA/D) and non-dominated sorting genetic algorithm II (NSGA-II), on eleven multi-objective benchmark functions and an optimal problem in the midwestern American electric power system which is integrated with wind power, respectively. The simulation results have shown that MOLA can obtain more accurate and evenly distributed Pareto fronts, in comparison with MOEA/D and NSGA-II.
+Keywords
+Multi-objective optimization  Learning automata  Dimensional search  Wind power integration  

@@ -1,0 +1,6 @@
+Two-edge connected subgraphs with bounded rings: Polyhedral results and Branch-and-Cut
+B. Fortz;A. R. Mahjoub;S. T. McCormick;P. Pesneau;
+Abstract
+We consider the network design problem which consists in determining at minimum cost a 2-edge connected network such that the shortest cycle (a “ring”) to which each edge belongs, does not exceed a given length K. We identify a class of inequalities, called cycle inequalities, valid for the problem and show that these inequalities together with the so-called cut inequalities yield an integer programming formulation of the problem in the space of the natural design variables. We then study the polytope associated with that problem and describe further classes of valid inequalities. We give necessary and sufficient conditions for these inequalities to be facet defining. We study the separation problem associated with these inequalities. In particular, we show that the cycle inequalities can be separated in polynomial time when K≤4. We develop a Branch-and-Cut algorithm based on these results and present extensive computational results.
+Keywords
+90B10  90C27  90C57  

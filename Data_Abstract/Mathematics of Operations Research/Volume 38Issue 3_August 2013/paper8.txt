@@ -1,0 +1,6 @@
+Learning Cycle Length Through Finite Automata
+Ron Peretz;
+Abstract
+We study the space-and-time automaton-complexity of two related problems concerning the cycle length of a periodic stream of input bits. One problem is to find the exact cycle length of a periodic stream of input bits provided that the cycle length is bounded by a known parameter n. The other problem is to find a large number k that divides the cycle length. By “large” we mean that there is an unbounded increasing function f(n), such that either k is greater than f(n) or k is the exact cycle length.Our main results include that finding a large divisor of the cycle length can be solved in deterministic linear TIME and sub-linear SPACE, whereas finding the exact cycle length cannot be solved in deterministic TIME × SPACE smaller than a constant times n squared. Results involving probabilistic automata and applications to rate-distortion theory and repeated games are also discussed.
+Keywords
+automaton-complexity games with bounded complexity rate-distortion theory sub-linear space algorithm 

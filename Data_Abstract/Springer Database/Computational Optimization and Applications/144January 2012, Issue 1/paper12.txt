@@ -1,0 +1,6 @@
+Machine learning for global optimization
+A. Cassioli;D. Di Lorenzo;M. Locatelli;F. Schoen;M. Sciandrone;
+Abstract
+In this paper we introduce the LeGO (Learning for Global Optimization) approach for global optimization in which machine learning is used to predict the outcome of a computationally expensive global optimization run, based upon a suitable training performed by standard runs of the same global optimization method. We propose to use a Support Vector Machine (although different machine learning tools might be employed) to learn the relationship between the starting point of an algorithm and the final outcome (which is usually related to the function value at the point returned by the procedure). Numerical experiments performed both on classical test functions and on difficult space trajectory planning problems show that the proposed approach can be very effective in identifying good starting points for global optimization.
+Keywords
+Global optimization  Machine learning  Support vector machines  Space trajectory design  

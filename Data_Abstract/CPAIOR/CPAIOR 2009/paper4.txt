@@ -1,0 +1,4 @@
+Throughput Constraint for Synchronous Data Flow Graphs
+Alessio Bonfietti;Michele Lombardi;Michela Milano;Luca Benini;
+Abstract
+Stream (data-flow) computing is considered an effective para-digm for parallel programming of high-end multi-core architectures for embedded applications (networking, multimedia, wireless communication). Our work addresses a key step in stream programming for embedded multicores, namely, the efficient mapping of a synchronous data-flow graph (SDFG) onto a multi-core platform subject to a minimum throughput requirement. This problem has been extensively studied in the past, and its complexity has lead researches to develop incomplete algorithms which cannot exclude false negatives. We developed a CP-based complete algorithm based on a new throughput-bounding constraint. The algorithm has been tested on a number of non-trivial SDFG mapping problems with promising results.

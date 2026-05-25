@@ -1,0 +1,6 @@
+Simultaneous optimization of piezoelectric actuator topology and polarization
+Juliano F. Gonçalves;Daniel M. De Leon;Eduardo A. Perondi;
+Abstract
+This article addresses the problem of piezoelectric actuator design for active structural vibration control. The topology optimization method using the Piezoelectric Material with Penalization and Polarization (PEMAP-P) model is employed in this work to find the optimum actuator layout and polarization profile simultaneously. A coupled finite element model of the structure is derived assuming a two-phase material, and this structural model is written into the state-space representation. The proposed optimization formulation aims to determine the distribution of piezoelectric material which maximizes the controllability for a given vibration mode. The optimization of the layout and poling direction of embedded in-plane piezoelectric actuators are carried out using a Sequential Linear Programming (SLP) algorithm. Numerical examples are presented considering the control of the bending vibration modes for a cantilever and a fixed beam. A Linear-Quadratic Regulator (LQR) is synthesized for each case of controlled structure in order to compare the influence of the polarization profile.
+Keywords
+Topology optimization  PEMAP-P  Piezoelectric actuator  Controllability Gramian  

@@ -1,0 +1,6 @@
+Existence and Regularity of Solutions to a Variational Problem of Mumford and Shah: A Constructive Approach
+Yang  Wang;
+Abstract
+We study a variational problem arising in the approach of Mumford and Shah to the image segmentation problem of computer vision. Given $f \in L^\infty  ( D )$ for a domain D in $\mathbf{R}^2 $, the simplified Mumford–Shah energy associated to a decomposition $D = \Omega_1  \cup  \cdots  \cup \Omega_N $ is \[ \mathbf{E_0} [ \Gamma ,\alpha ] = \sum_{i = 1}^N \int_{\Omega_i } \left( f ( x ) - c_{\Omega_i }  \right)^2 dx + \alpha | \Gamma  |   , \] where $\alpha  > 0$ is a constant, $c_{\Omega_i } $, is the average of $f( x )$ on $\Omega_i $, and where $| \Gamma |$ is the length of the boundary of the regions $\Omega_i $ not in $\partial D$. Mumford and Shah showed, using geometric measure theory, that for a continuous f a minimizing $\Gamma^* $ exists that is piecewise $C^2 $. We prove this result constructively, and also extend it to show for general bounded measurable f that a minimizes exists. Furthermore, we prove that every minimizes must be piecewise $C^{1,1} $. Our approach is to study $\mathbf{E}_0 [ \Gamma ,\alpha ]$ on the class of piecewise linear $\Gamma $.
+Keywords
+image segmentaion, Mumford-Shah energy, minimizes, Hausdorff metric, 49JXX, 

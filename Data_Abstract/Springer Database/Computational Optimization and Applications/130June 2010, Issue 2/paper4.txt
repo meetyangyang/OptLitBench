@@ -1,0 +1,6 @@
+Addressing the greediness phenomenon in Nonlinear Programming by means of Proximal Augmented Lagrangians
+Emerson V. Castelani;André L. M. Martinez;J. M. Martínez;B. F. Svaiter;
+Abstract
+When one solves Nonlinear Programming problems by means of algorithms that use merit criteria combining the objective function and penalty feasibility terms, a phenomenon called greediness may occur. Unconstrained minimizers attract the iterates at early stages of the calculations and, so, the penalty parameter needs to grow excessively, in such a way that ill-conditioning harms the overall convergence. In this paper a regularization approach is suggested to overcome this difficulty. An Augmented Lagrangian method is defined with the addition of a regularization term that inhibits the possibility that the iterates go far from a reference point. Convergence proofs and numerical examples are given.
+Keywords
+Nonlinear programming  Greediness  Augmented Lagrangian method  Regularization  

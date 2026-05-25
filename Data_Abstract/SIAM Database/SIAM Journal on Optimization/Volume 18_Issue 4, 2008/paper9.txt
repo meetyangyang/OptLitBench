@@ -1,0 +1,6 @@
+On Handling Free Variables in Interior-Point Methods for Conic Linear Optimization
+Miguel F.  Anjos and Samuel  Burer;
+Abstract
+We revisit a regularization technique of Mészáros for handling free variables within interior-point methods for conic linear optimization. We propose a simple computational strategy, supported by a global convergence analysis, for handling the regularization. Using test problems from benchmark suites and recent applications, we demonstrate that the modern code SDPT3 modified to incorporate the proposed regularization is able to achieve the same or significantly better accuracy over standard options of splitting variables, using a quadratic cone, and solving indefinite systems.
+Keywords
+infeasible primal-dual path-following algorithm, semidefinite programming, equality constraints, free variables, regularization, 90C51, 90C22, 90C05, 65K05, 

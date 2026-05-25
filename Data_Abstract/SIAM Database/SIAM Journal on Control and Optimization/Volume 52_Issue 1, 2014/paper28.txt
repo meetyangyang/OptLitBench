@@ -1,0 +1,6 @@
+A Globally Convergent, Locally Optimal Min-$H$ Algorithm for Hybrid Optimal Control
+Benjamin  Passenberg, Marion  Leibold, Olaf  Stursberg, and Martin  Buss;
+Abstract
+Existing algorithms for the indirect solution of hybrid optimal control problems suffer from several deficiencies: Min-$H$ algorithms are not applicable to hybrid systems and are not globally convergent. Indirect multiple shooting and indirect collocation are difficult to initialize and have a small domain of convergence. Contrary to these existing algorithms, a novel min-$H$ algorithm is introduced here, which is initialized intuitively and converges globally to a locally optimal solution. The algorithm solves hybrid optimal control problems with autonomous switching, a fixed sequence of discrete states, and unspecified switching times. Furthermore, the convergence of the proposed algorithm is at least quadratic near the optimum, and solutions are found with high accuracy. A numerical example shows the efficiency of the novel min-$H$ algorithm.
+Keywords
+optimal control, hybrid systems, indirect method, min-$H$ algorithm, 49M05, 49M15, 93C30, 65K10, 90C46, 

@@ -1,0 +1,6 @@
+Variable metric bundle methods: From conceptual to implementable forms
+Claude Lemaréchal;Claudia Sagastizábal;
+Abstract
+To minimize a convex function, we combine Moreau-Yosida regularizations, quasi-Newton matrices and bundling mechanisms. First we develop conceptual forms using “reversal” quasi-Newton formulae and we state their global and local convergence. Then, to produce implementable versions, we incorporate a bundle strategy together with a “curve-search”. No convergence results are given for the implementable versions; however some numerical illustrations show their good behaviour even for large-scale problems.
+Keywords
+Convex optimization  Proximal point  Bundle method  Quasi-Newton  Primary 63K05  Secondary 90C30  52A41  90C25  

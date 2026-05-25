@@ -1,0 +1,6 @@
+MSO: a framework for bound-constrained black-box global optimization algorithms
+Abdullah Al-Dujaili;S. Suresh;N. Sundararajan;
+Abstract
+This paper addresses a class of algorithms for solving bound-constrained black-box global optimization problems. These algorithms partition the objective function domain over multiple scales in search for the global optimum. For such algorithms, we provide a generic procedure and refer to as multi-scale optimization (MSO). Furthermore, we propose a theoretical methodology to study the convergence of MSO algorithms based on three basic assumptions: (a) local Hölder continuity of the objective function f, (b) partitions boundedness, and (c) partitions sphericity. Moreover, the worst-case finite-time performance and convergence rate of several leading MSO algorithms, namely, Lipschitzian optimization methods, multi-level coordinate search, dividing rectangles, and optimistic optimization methods have been presented.
+Keywords
+Global optimization  Black-box functions  Multi-scale  Space-partitioning  Sampling  Lipschitzian  Convergence analysis  

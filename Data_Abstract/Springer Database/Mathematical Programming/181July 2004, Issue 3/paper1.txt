@@ -1,0 +1,6 @@
+A quasi-Newton trust-region method
+E. Michael Gertz;
+Abstract
+The classical trust-region method for unconstrained minimization can be augmented with a line search that finds a point that satisfies the Wolfe conditions. One can use this new method to define an algorithm that simultaneously satisfies the quasi-Newton condition at each iteration and maintains a positive-definite approximation to the Hessian of the objective function. This new algorithm has strong global convergence properties and is robust and efficient in practice.
+Keywords
+Unconstrained optimization  Quasi-Newton methods  Trust-region methods  Line-search methods  

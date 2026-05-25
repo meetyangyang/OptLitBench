@@ -1,0 +1,6 @@
+Use of quadratic models with mesh-adaptive direct search for constrained black box optimization
+ Andrew   R.   Conn ; Sébastien   Le Digabel ;
+Abstract
+ We consider a derivative-free optimization, and in particular black box optimization, where the functions to be minimized and the functions representing the constraints are given by black boxes without derivatives. Two fundamental families of methods are available: model-based methods and directional direct search algorithms. This work exploits the flexibility of the second type of methods in order to integrate to a limited extent the models used in the first family. Intensive numerical tests on two sets of 48 and 104 test problems illustrate the efficiency of this hybridization and show that the use of the models improves the performance of the mesh- adaptive direct search algorithm significantly. 
+Keywords
+black box optimization, constrained optimization, quadratic models, mesh-adaptive direct search (MADS) algorithms 

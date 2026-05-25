@@ -1,0 +1,6 @@
+A numerical method for pricing European options with proportional transaction costs
+Wen Li;Song Wang;
+Abstract
+In the paper, we propose a numerical technique based on a finite difference scheme in space and an implicit time-stepping scheme for solving the Hamilton–Jacobi–Bellman (HJB) equation arising from the penalty formulation of the valuation of European options with proportional transaction costs. We show that the approximate solution from the numerical scheme converges to the viscosity solution of the HJB equation as the mesh sizes in space and time approach zero. We also propose an iterative scheme for solving the nonlinear algebraic system arising from the discretization and establish a convergence theory for the iterative scheme. Numerical experiments are presented to demonstrate the robustness and accuracy of the method.
+Keywords
+HJB equations  Optimal feedback control  Global optimizer   European option pricing  Complementarity problems   Finite difference method  Convergence  

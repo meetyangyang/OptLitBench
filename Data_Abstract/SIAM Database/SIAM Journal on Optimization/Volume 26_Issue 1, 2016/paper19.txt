@@ -1,0 +1,6 @@
+A Note on Polynomial Solvability of the CDT Problem
+Daniel  Bienstock;
+Abstract
+Recent research has focused on the complexity of extensions of the classical trust-region subproblem, which addresses the minimization of a quadratic function over a unit ball in ${\mathbb{R}}^n,$ a problem of importance in many applications.   Even though the trust-region subproblem can be considered well-solved (from the perspective of both theory and implementation), even minor extensions are NP-hard. The Celis--Dennis--Tapia (CDT) problem is an extension of the trust-region subproblem, involving the minimization of a quadratic function over the intersection of two ellipsoids in ${\mathbb{R}}^n$.  In this paper we show how to adapt a construction of Barvinok so as to obtain a polynomial-time algorithm for quadratic programming with a fixed number of quadratic constraints (one of which is ellipsoidal) under the bit model of computing.
+Keywords
+QCQP, trust-region subproblem, polynomial optimization, 90C26, 49M37, 

@@ -1,0 +1,6 @@
+A parallel bi-level multidisciplinary design optimization architecture with convergence proof for general problem
+Daiyu Zhang;Baowei Song;Peng Wang;
+Abstract
+Quite a number of distributed Multidisciplinary Design Optimization (MDO) architectures have been proposed for the optimal design of large-scale multidisciplinary systems. However, just a few of them have available numerical convergence proof. In this article, a parallel bi-level MDO architecture is presented to solve the general MDO problem with shared constraints and a shared objective. The presented architecture decomposes the original MDO problem into one implicit nonlinear equation and multiple concurrent sub-optimization problems, then solves them through a bi-level process. In particular, this architecture allows each sub-optimization problem to be solved in parallel and its solution is proven to converge to the Karush–Kuhn–Tucker (KKT) point of the original MDO problem. Finally, two MDO problems are introduced to perform a comprehensive evaluation and verification of the presented architecture and the results demonstrate that it has a good performance both in convergence and efficiency.
+Keywords
+Multidisciplinary design optimization, general MDO problem, convergence proof, parallel architecture, KKT conditions 

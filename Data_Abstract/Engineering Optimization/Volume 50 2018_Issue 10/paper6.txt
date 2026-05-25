@@ -1,0 +1,6 @@
+Virtual Stackelberg game coupled with the adjoint method for aerodynamic shape optimization
+Jing Wang;Fangfang Xie;Yao Zheng;Jifa Zhang;Bowei Yang;Tingwei Ji;
+Abstract
+In this article, a Virtual Stackelberg Game (VSG) is proposed for aerodynamic shape optimization, where the design variables are divided into two categories to optimize the same objective function, one acts as a leader, and the other ones as followers react independently and selfishly relative to the leader's strategy. During each Stackelberg strategy cycle, the Gradient-Based Method (GBM) with the adjoint method in Stanford University Unstructured (SU2) is applied in the optimization of each player. Firstly, parametric studies of VSG by two simple cases are conducted to assess the impact of critical parameters on aerodynamic shape optimization, including the design cycle, the split of design variables and role (leader and follower) assignment. Based on the criterion from parametric studies, two typical numerical cases under transonic flow are applied—the drag reduction design of a 2D airfoil and a 3D wing. It is found that, compared to the original GBM method, VSG can provide better optimization results with less computational cost.
+Keywords
+virtual Stackelberg Game (VSG), gradient-based method (GBM), adjoint method, single-point optimization, aerodynamic shape design 

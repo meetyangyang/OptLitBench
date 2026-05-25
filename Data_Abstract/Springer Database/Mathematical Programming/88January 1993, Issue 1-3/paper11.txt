@@ -1,0 +1,6 @@
+Parallel decomposition of multistage stochastic programming problems
+Andrzej Ruszczyński;
+Abstract
+A new decomposition method for multistage stochastic linear programming problems is proposed. A multistage stochastic problem is represented in a tree-like form and with each node of the decision tree a certain linear or quadratic subproblem is associated. The subproblems generate proposals for their successors and some backward information for their predecessors. The subproblems can be solved in parallel and exchange information in an asynchronous way through special buffers. After a finite time the method either finds an optimal solution to the problem or discovers its inconsistency. An analytical illustrative example shows that parallelization can speed up computation over every sequential method. Computational experiments indicate that for large problems we can obtain substantial gains in efficiency with moderate numbers of processors.
+Keywords
+Stochastic programming  dynamic programming  decomposition  parallel computing  

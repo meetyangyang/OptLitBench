@@ -1,0 +1,6 @@
+Decomposition methods for the two-stage stochastic Steiner tree problem
+Markus Leitner;Ivana Ljubić;Martin Luipersbeck;Markus Sinnl;
+Abstract
+A new algorithmic approach for solving the stochastic Steiner tree problem based on three procedures for computing lower bounds (dual ascent, Lagrangian relaxation, Benders decomposition) is introduced. Our method is derived from a new integer linear programming formulation, which is shown to be strongest among all known formulations. The resulting method, which relies on an interplay of the dual information retrieved from the respective dual procedures, computes upper and lower bounds and combines them with several rules for fixing variables in order to decrease the size of problem instances. The effectiveness of our method is compared in an extensive computational study with the state-of-the-art exact approach, which employs a Benders decomposition based on two-stage branch-and-cut, and a genetic algorithm introduced during the DIMACS implementation challenge on Steiner trees. Our results indicate that the presented method significantly outperforms existing ones, both on benchmark instances from literature, as well as on large-scale telecommunication networks.
+Keywords
+Lagrangian relaxation  Benders decomposition  Stochastic optimization  Steiner trees  

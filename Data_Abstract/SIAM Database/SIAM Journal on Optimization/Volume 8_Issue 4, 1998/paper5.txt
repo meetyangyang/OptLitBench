@@ -1,0 +1,6 @@
+Progress Made in Solving the Multicommodity Flow Problem
+Richard D.  McBride;
+Abstract
+During the past few years, steady progress has been made in solving the multicommodity flow problem using EMNET, a primal partitioning network simplex algorithm. This paper describes a recent improvement made to EMNET which permits it to dramatically reduce the solution time for multicommodity flow problems with large numbers of side constraints. It is now possible to efficiently solve extremely large multicommodity flow problems when this new idea is coupled with the resource-directive decomposition heuristic as found in EMNET. Commercial problems with the number of constraints ranging up to 600,000 are routinely solved by EMNET.
+Keywords
+partitioned inverse, multicommodity, transportation, 

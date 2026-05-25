@@ -1,0 +1,6 @@
+Computational schemes of the Davidon-Fletcher-Powell method in infinite-dimensional space
+K. Oi;H. Sayama;T. Takamatsu;
+Abstract
+The disadvantage of the extension of the Davidon-Fletcher-Powell method to infinite-dimensional space is that the information to be stored in the computer increases with the number of iterations. In this paper, a computational scheme is proposed to remove this disadvantage and make the extension method more practicable. The linear operator which determines the direction of one-dimensional search in the method is formulated by integral kernels to derive the scheme. Furthermore, polynomial interpolation methods are proposed to save computer storage. The computational scheme which is presented here and the polynomial interpolation method are successfully applied to an optimal control problem.
+Keywords
+Hilbert Space  Optimal Control Problem  Coarse Mesh  Computational Scheme  Gradient Vector  

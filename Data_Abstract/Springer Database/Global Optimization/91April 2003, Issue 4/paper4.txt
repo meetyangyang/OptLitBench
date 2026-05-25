@@ -1,0 +1,6 @@
+Solving an Inverse Problem for an Elliptic Equation by d.c. Programming
+Le Thi Hoai An;Pham Dinh Tao;Dinh Nho Hào;
+Abstract
+An inverse problem of determination of a coefficient in an elliptic equation is considered. This problem is ill-posed in the sense of Hadamard and Tikhonov's regularization method is used for solving it in a stable way. This method requires globally solving nonconvex optimization problems, the solution methods for which have been very little studied in the inverse problems community. It is proved that the objective function of the corresponding optimization problem for our inverse problem can be represented as the difference of two convex functions (d.c. functions), and the difference of convex functions algorithm (DCA) in combination with a branch-and-bound technique can be used to globally solve it. Numerical examples are presented which show the efficiency of the method.
+Keywords
+branch-and-bound technique  DCA  d.c. programming  ill-posed problem  inverse problem  Tikhonov regularization  

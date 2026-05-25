@@ -1,0 +1,6 @@
+Robustness of solutions to critical node detection problems with imperfect data: a computational study
+Colin P. Gillen;Alexander Veremyev;Oleg A. Prokopyev;Eduardo L. Pasiliao;
+Abstract
+A class of critical node detection problems based upon the metric of communication efficiency is considered. While both exact integer programming and heuristic centrality-based methods exist for the solution of these problems, previous work has been mostly focused on the case where perfect information about the network is available. In this paper we suppose that some level of misinformation about nodes or edges has been inflicted on the observer's perception of the network, that is, there are hidden elements or fake additional elements. An extensive computational study is conducted to ascertain whether the exact integer-programming-based solutions perform better under imperfect information than heuristic methods. For large networks, exact methods cannot produce a solution in a reasonable amount of time, hence an approximation of the exact method is also considered for such instances. The obtained approximate solutions are again compared to centrality-based heuristics under the presence of imperfect data.
+Keywords
+critical node detection, distance-based metrics, graph efficiency, network interdiction, mixed integer programming, robustness, sensitivity 

@@ -1,0 +1,6 @@
+Recovery from Numerical Instability during Basis Reinversion
+Jeffery L. Kennington;Riad A.K. Mohamed;
+Abstract
+Most of the preassigned pivot agenda algorithms that extend the Hellerman-Rarick P3 algorithm assume that the input matrix is nonsingular. Due to numerical instability, this assumption may be violated and these algorithms fail. We present a modification of theP3 algorithm which includes a procedure to recover from this type of numerical instability.The recovery procedure is integrated into P3 in such a way that all previous work can be maintained and it reduces the likelihoodthat additional recovery will be required.
+Keywords
+linear programming  reinversion  

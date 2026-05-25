@@ -1,0 +1,6 @@
+Global optimization for optimal power flow over transmission networks
+Y. Shi;H. D. Tuan;H. Tuy;S. Su;
+Abstract
+The optimal power flow (OPF) problem for power transmission networks is an NP-hard optimization problem with nonlinear constraints on complex bus voltages. The existing nonlinear solvers may fail in yielding a feasible point. Semi-definite relaxation (SDR) could provide the global solution only when the matrix solution of the relaxed semi-definite program (SDP) is of rank-one, which does not hold in general. Otherwise, the point found by SDR is infeasible. High-order SDR has recently been used to find the global solution, which leads to explosive growth of the matrix variable dimension and semi-definite constraints. Consequently, it is suitable only for OPF over very small networks with a few buses. In this paper, we follow our previously developed nonsmooth optimization approach to address this difficult OPF problem, which is an iterative process to generate a sequence of improved points that converge to a global solution in many cases. Each iteration calls an SDP of moderate dimension. Simulations are provided to demonstrate the efficiency of our approach.
+Keywords
+Optimal power flow (OPF)  Transmission networks  Rank-one matrix constraint  Nonsmooth optimization  Semi-definite programming (SDP)  Global optimization  

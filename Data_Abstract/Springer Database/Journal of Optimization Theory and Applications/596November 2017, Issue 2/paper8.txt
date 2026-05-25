@@ -1,0 +1,6 @@
+Stability and Accuracy of Inexact Interior Point Methods for Convex Quadratic Programming
+Benedetta Morini;Valeria Simoncini;
+Abstract
+We consider primal–dual interior point methods where the linear system arising at each iteration is formulated in the reduced (augmented) form and solved approximately. Focusing on the iterates close to a solution, we analyze the accuracy of the so-called inexact step, i.e., the step that solves the unreduced system, when combining the effects of both different levels of accuracy in the inexact computation and different processes for retrieving the step after block elimination. Our analysis is general and includes as special cases sources of inexactness due either to roundoff and computational errors or to the iterative solution of the augmented system using typical procedures. In the roundoff case, we recover and extend some known results.
+Keywords
+Convex quadratic programming  Primal–dual interior point methods  Inexact interior point steps  65K05  90C51  90C06  

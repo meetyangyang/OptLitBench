@@ -1,0 +1,6 @@
+An Efficient Method of Feasible Directions
+Gerard G. L.  Meyer;
+Abstract
+This paper presents a new method of feasible directions which uses an efficient antizig-zagging scheme. At every iteration, the gradient of the cost function and the gradients of the active constraints (usually one) are computed, and the previously computed gradients of the almost active constraints are used to prevent zig-zagging.
+Keywords
+nonlinear programming, feasible directions, antizig-zagging, active constraints, iterative, 

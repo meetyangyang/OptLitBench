@@ -1,0 +1,6 @@
+On the Probability of Correct Selection in Ordinal Comparison over Dynamic Networks
+Hyeong Soo Chang;Jiaqiao Hu;
+Abstract
+We consider distributed ordinal comparison of selecting the best option which maximizes the average of local reward function values among available options in a dynamic network. Each node in the network knows only his reward function, and edge-connectivity across the nodes changes over time by Calafiore’s model. To estimate each option’s global reward function value, local samples for each option are generated at each node and those are iteratively mixed over the network by a weighted average of local estimates of instantaneous neighbors. Each node selects an option that achieves the maximum of the current global estimates as an estimate of the best option. We establish a lower bound on the probability of correct local-selection at any node, which uniformly converges over the nodes to a lower bound on the probability of correct global-selection by a virtual centralized node with the total available samples.
+Keywords
+Ordinal comparison  Consensus  Simulation  Optimization  Distributed system  

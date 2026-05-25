@@ -1,0 +1,6 @@
+Eigenvalues and switching algorithms for Quasi-Newton updates
+ Paul Kang.   Hoh Phua ;
+Abstract
+ Two switching algorithms QNSWl and QNSW2 are proposed in this paper. These algorithms are developed based on the eigenvalues of matrices which are inertial to the symmetric rank-one (SR1) updates and the BFGS updates. First, theoretical results on the eigenvalues and condition numbers of these matrices are presented. Second, switch-ing mechanisms are then developed based on theoretical results obtained so that each proposed algorithm has the capability of applying appropriate updating formulae at each iterative point during the whole minimization process. Third, the performance of  each of the proposed algorithms is evaluated over a wide range of test problems with variable dimensions. These results are then compared to the results obtained by some well-known minimization packages. Comparative results show that among the tested methods, the QNSW2 algorithm has the best overall performance for the problems examined. In some cases, the number of iterations and the number function/gradient calls required by certain existing methods are more than a four-fold increase over that required by the proposed switching algorithms  
+Keywords
+Quasi-Newton Method, Symmetric Rank-One Update, BFGS Update 

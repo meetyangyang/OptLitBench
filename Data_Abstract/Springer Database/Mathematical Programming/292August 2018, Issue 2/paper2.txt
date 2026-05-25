@@ -1,0 +1,6 @@
+Relative-error approximate versions of Douglas–Rachford splitting and special cases of the ADMM
+Jonathan Eckstein;Wang Yao;
+Abstract
+We derive a new approximate version of the alternating direction method of multipliers (ADMM) which uses a relative error criterion. The new version is somewhat restrictive and allows only one of the two subproblems to be minimized approximately, but nevertheless covers commonly encountered special cases. The derivation exploits the long-established relationship between the ADMM and both the proximal point algorithm (PPA) and Douglas–Rachford (DR) splitting for maximal monotone operators, along with a relative-error of the PPA due to Solodov and Svaiter. In the course of analysis, we also derive a version of DR splitting in which one operator may be evaluated approximately using a relative error criterion. We computationally evaluate our method on several classes of test problems and find that it significantly outperforms several alternatives on one problem class.
+Keywords
+ADMM  Convex programming  Monotone operators  Decomposition methods  90C25  47H05  49M27  

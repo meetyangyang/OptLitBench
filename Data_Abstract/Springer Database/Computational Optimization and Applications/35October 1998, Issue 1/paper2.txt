@@ -1,0 +1,6 @@
+Incremental Gradient Algorithms with Stepsizes Bounded Away from Zero
+M.V. Solodov;
+Abstract
+We consider the class of incremental gradient methods for minimizing a sum of continuously differentiable functions. An important novel feature of our analysis is that the stepsizes are kept bounded away from zero. We derive the first convergence results of any kind for this computationally important case. In particular, we show that a certain ε-approximate solution can be obtained and establish the linear dependence of ε on the stepsize limit. Incremental gradient methods are particularly well-suited for large neural network training problems where obtaining an approximate solution is typically sufficient and is often preferable to computing an exact solution. Thus, in the context of neural networks, the approach presented here is related to the principle of tolerant training. Our results justify numerous stepsize rules that were derived on the basis of extensive numerical experimentation but for which no theoretical analysis was previously available. In addition, convergence to (exact) stationary points is established when the gradient satisfies a certain growth property.
+Keywords
+incremental gradient methods  perturbed gradient methods  approximate solutions  backpropagation  neural network training  

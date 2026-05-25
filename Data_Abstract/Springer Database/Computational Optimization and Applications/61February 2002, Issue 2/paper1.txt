@@ -1,0 +1,6 @@
+A Derivative-Free Algorithm for Bound Constrained Optimization
+Stefano Lucidi;Marco Sciandrone;
+Abstract
+In this work, we propose a new globally convergent derivative-free algorithm for the minimization of a continuously differentiable function in the case that some of (or all) the variables are bounded. This algorithm investigates the local behaviour of the objective function on the feasible set by sampling it along the coordinate directions. Whenever a “suitable” descent feasible coordinate direction is detected a new point is produced by performing a linesearch along this direction. The information progressively obtained during the iterates of the algorithm can be used to build an approximation model of the objective function. The minimum of such a model is accepted if it produces an improvement of the objective function value. We also derive a bound for the limit accuracy of the algorithm in the minimization of noisy functions. Finally, we report the results of a preliminary numerical experience.
+Keywords
+derivative-free algorithm  bound constraints  linesearch technique  

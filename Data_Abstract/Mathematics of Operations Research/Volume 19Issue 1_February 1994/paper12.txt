@@ -1,0 +1,6 @@
+Markov Decision Models with Weighted Discounted Criteria
+Eugene A. Feinberg;Adam Shwartz;
+Abstract
+We consider a discrete time Markov Decision Process with infinite horizon. The criterion to be maximized is the sum of a number of standard discounted rewards, each with a different discount factor. Situations in which such criteria arise include modeling investments, production, modeling projects of different durations and systems with multiple criteria, and some axiomatic formulations of multi-attribute preference theory. We show that for this criterion for some positive ε there need not exist an ε-optimal (randomized) stationary strategy, even when the state and action sets are finite. However, ε-optimal Markov (nonrandomized) strategies and optimal Markov strategies exist under weak conditions. We exhibit ε-optimal Markov strategies which are stationary from some time onward. When both state and action spaces are finite, there exists an optimal Markov strategy with this property. We provide an explicit algorithm for the computation of such strategies and give a description of the set of optimal strategies.
+Keywords
+dynamic programming Markov sum of discounted rewards with different discount factors 

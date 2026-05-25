@@ -1,0 +1,6 @@
+Proportioning with second-order information for model predictive control
+Ondřej Šantin;Marta Jarošová;Vladimír Havlena;Zdeněk Dostál;
+Abstract
+We propose an algorithm for the effective solution of quadratic programming (QP) problems arising from model predictive control (MPC). MPC is a modern multivariable control method which gives the solution for a QP problem at each sample instant. Our algorithm combines the active-set strategy with the proportioning test to decide when to leave the actual active set. For the minimization in the face, we use a direct solver implemented by the Cholesky factors updates. The performance of the algorithm is illustrated by numerical experiments, and the results are compared with the state-of-the-art solvers on benchmarks from MPC.
+Keywords
+quadratic programming, model predictive control, active-set strategyAMS Subject Classification: 90C20, 93C95, 49N90 

@@ -1,0 +1,6 @@
+A capacity scaling algorithm for convex cost submodular flows
+Satoru Iwata;
+Abstract
+This paper presents a scaling scheme for submodular functions. A small but strictly submodular function is added before scaling so that the resulting functions should be submodular. This scaling scheme leads to a weakly polynomial algorithm to solve minimum cost integral submodular flow problems with separable convex cost functions, provided that an oracle for exchange capacities is available.
+Keywords
+Submodular flow  Polynomial algorithm  Convex optimization  

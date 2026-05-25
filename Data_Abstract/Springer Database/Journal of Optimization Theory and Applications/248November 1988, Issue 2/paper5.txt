@@ -1,0 +1,6 @@
+Using convex envelopes to solve the interactive fixed-charge linear programming problem
+H. P. Benson;S. S. Erenguc;
+Abstract
+In the well-known fixed-charge linear programming problem, it is assumed, for each activity, that the value of the fixed charge incurred when the level of the activity is positive does not depend upon which other activities, if any, are also undertaken at a positive level. However, we have encountered several practical problems where this assumption does not hold. In an earlier paper, we developed a new problem, called the interactive fixed-charge linear programming problem (IFCLP), to model these problems. In this paper, we show how to construct the convex envelopes and other convex underestimating functions for the objective function for problem (IFCLP) over various rectangular subsets of its domain. Using these results, we develop a specialized branch-and-bound algorithm for problem (IFCLP) which finds an exact optimal solution for the problem in a finite number of steps. We also discuss the main properties of this algorithm.
+Keywords
+Fixed-charge problem  interactive fixed-charge problem  nonconvex programming  convex envelopes  branch-and-bound algorithms  

@@ -1,0 +1,6 @@
+Weighted matching with pair restrictions
+Dorit S. Hochbaum;Asaf Levin;
+Abstract
+The weighted matroid parity problems for the matching matroid and gammoids are among the very few cases for which the weighted matroid parity problem is polynomial time solvable. In this work we extend these problems to a general revenue function for each pair, and show that the resulting problem is still solvable in polynomial time via a standard weighted matching algorithm. We show that in many other directions, extending our results further is impossible (unless P = NP). One consequence of the new polynomial time algorithm is that it demonstrates, for the first time, that a prize-collecting assignment problem with “pair restriction” is solved in polynomial time. The prize collecting assignment problem is a relaxation of the prize-collecting traveling salesman problem which requires, for any prescribed pair of nodes, either both nodes of the pair are matched or none of them are. It is shown that the prize collecting assignment problem is equivalent to the prize collecting cycle cover problem which is hence solvable in polynomial time as well.
+Keywords
+Assignment  Traveling salesman problem  Prize collecting  Weighted graph matching  Matching matroid  Gammoid  Weighted matroid parity  

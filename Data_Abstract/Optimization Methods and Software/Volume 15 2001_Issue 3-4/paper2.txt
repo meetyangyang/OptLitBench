@@ -1,0 +1,6 @@
+Second order cone programming relaxation of nonconvex quadratic optimization problems
+ Sunyonga   Kim ; Masakazu   Kojima ;
+Abstract
+ A disadvantage of the SDP (semidefinite programming) relaxation method for quadratic and/or combinatorial optimization problems lies in its expensive computational cost. This paper proposes a SOCP (second-order-cone programming) relaxation method, which strengthens the lift-and-project LP (linear programming) relaxation method by adding convex quadratic valid inequalities for the positive semidefinite cone involved in the SDP relaxation. Numerical experiments show that our SOCP relaxation is a reasonable compromise between the effectiveness of the SDP relaxation and the low computational cost of the lift-and-project LP relaxation. 
+Keywords
+Second-order-cone program, Lift-and-project convex relaxation method, Nonconvex quadratic program, Global optimization, Primal-dual interior-point method 

@@ -1,0 +1,6 @@
+Statistics of Nadaraya-Watson estimator errors in surrogate-based optimization
+Zailong Wan;Takeru Igusa;
+Abstract
+For the optimization under uncertainty problem, there has been recent interest in coupling trust-region methods with surrogate surfaces or function approximations. There are many theoretical and statistical issues that must be carefully considered in following such an approach. Herein, the Nadaraya-Watson estimator is used for the smooth function approximation, and the effects of observation noise and random sampling on estimator error are examined. For the fundamental optimization problem where the exact function is quadratic, analytical results are derived for the mean-square error of the difference and gradient of the function. It is also shown how these statistics are related to the trust-region method, how the analytical results can be used to determine the bandwidth of the kernel of the estimator, and how third-order terms can affect the error statistics.
+Keywords
+Local averaging  Surrogate-based optimization  Mean-square error  Additive noise  Random sampling  

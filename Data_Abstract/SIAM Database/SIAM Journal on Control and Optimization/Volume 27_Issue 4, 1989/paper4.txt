@@ -1,0 +1,6 @@
+An Ellipsoid Trust Region Bundle Method for Nonsmooth Convex Minimization
+Krzysztof C.  Kiwiel;
+Abstract
+This paper presents a bundle method of descent for minimizing a convex (possibly nonsmooth) function f of several variables. At each iteration the algorithm finds a trial point by minimizing a polyhedral model of f subject to an ellipsoid trust region constraint. The quadratic matrix of the constraint, which is updated as in the ellipsoid method, is intended to serve as a generalized “Hessian” to account for “second-order” effects, thus enabling faster convergence. The interpretation of generalized Hessians is largely heuristic, since so far this notion has been made precise by J. L. Goffin only in the solution of linear inequalities. Global convergence of the method is established and numerical results are given.
+Keywords
+nonsmooth optimization, nondifferentiable programming, convex programming, descent methods, ellipsoid algorithm, 65K05, 90C25, 

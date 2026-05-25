@@ -1,0 +1,6 @@
+An implementation of a discretization method for semi-infinite programming
+R. Hettich;
+Abstract
+For linear semi-infinite programming problems a discretization method is presented. A first coarse grid is successively refined in such a way that the solution on the foregoing grids can be used on the one hand as starting points for the subsequent grids and on the other hand to considerably reduce the number of constraints which have to be considered in the subsequent problems. This enables an efficient treatment of large problems with moderate storage requirements. A numerically stable Simplex-algorithm is used to solve the LP-subproblems. Numerical examples from bivariate Chebyshev approximation are presented.
+Keywords
+49D39  65K05  Semi-Infinite Programming  Computational Methods  Discretization  Grid-Refinement  

@@ -1,0 +1,6 @@
+A nonlinear programming algorithm for solving semidefinite programs via low-rank factorization
+Samuel Burer;Renato D.C. Monteiro;
+Abstract
+ In this paper, we present a nonlinear programming algorithm for solving semidefinite programs (SDPs) in standard form. The algorithm's distinguishing feature is a change of variables that replaces the symmetric, positive semidefinite variable X of the SDP with a rectangular variable R according to the factorization X=RR T . The rank of the factorization, i.e., the number of columns of R, is chosen minimally so as to enhance computational speed while maintaining equivalence with the SDP. Fundamental results concerning the convergence of the algorithm are derived, and encouraging computational results on some large-scale test problems are also presented.
+Keywords
+Computational Result  Test Problem  Standard Form  Nonlinear Programming  Programming Algorithm  

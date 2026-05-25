@@ -1,0 +1,6 @@
+Approximation Algorithm for the Mixed Fractional Packing and Covering Problem
+Klaus  Jansen;
+Abstract
+We propose an approximation algorithm based on the Lagrangian or price-directive decomposition method to compute an $\epsilon$-approximate solution of the mixed fractional packing and covering problem: find $x \in B$ such that $f(x) \le (1+\epsilon) a$, $g(x) \ge (1-\epsilon) b,$ where $f(x),g(x)$ are vectors with M nonnegative convex and concave functions, a and b are M-dimensional nonnegative vectors, and B is a convex set that can be queried by an optimization oracle. We propose an algorithm that needs only $O(M \epsilon^{-2} \ln (M\epsilon^{-1}))$ iterations or calls to the oracle. The main contribution is that the algorithm solves the general mixed fractional packing and covering problem (in contrast to pure fractional packing and covering problems and to the special mixed packing and covering problem with $B = {\rz}^N_+$) and runs in time independent of the so-called width of the problem.
+Keywords
+linear and convex optimization, approximation algorithms, 90C05, 90C25, 68Q25, 

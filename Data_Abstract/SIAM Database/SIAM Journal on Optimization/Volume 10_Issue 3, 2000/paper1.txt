@@ -1,0 +1,6 @@
+Gradient Convergence in Gradient methods with Errors
+Dimitri P.  Bertsekas and John N.  Tsitsiklis;
+Abstract
+We consider the gradient method $x_{t+1}=x_t+\g_t(s_t+w_t)$, where $s_t$ is a descent direction of a function $f:\rn\to\re$ and $w_t$ is a deterministic or stochastic error. We assume that $\gr f$ is Lipschitz continuous, that the stepsize $\g_t$ diminishes to 0, and that $s_t$ and $w_t$ satisfy standard conditions. We show that either $f(x_t)\to-\infty$ or $f(x_t)$ converges to a finite value and $\gr f(x_t)\to0$ (with probability 1 in the stochastic case), and in doing so, we remove various boundedness conditions that are assumed in existing results, such as boundedness from below of f, boundedness of $\gr f(x_t)$, or boundedness of xt.
+Keywords
+gradient methods, incremental gradient methods, stochastic approximation, gradient convergence, 62L20, 903C0, 

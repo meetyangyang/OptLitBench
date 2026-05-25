@@ -1,0 +1,6 @@
+Corrector‐Predictor Methods for Sufficient Linear Complementarity Problems in a Wide Neighborhood of the Central Path
+Xing   Liu and Florian A.   Potra;
+Abstract
+A higher order corrector‐predictor interior‐point method is proposed for solving sufficient linear complementarity problems. The algorithm produces a sequence of iterates in the $\caln_{\infty}^{-}$ neighborhood of the central path. The algorithm does not depend on the handicap κ of the problem. It has $O((1+\kappa)\sqrt{n}L)$ iteration complexity and is superlinearly convergent even for degenerate problems.
+Keywords
+linear complementarity, interior‐point, path‐following, corrector‐predictor, wide neighborhood, 90C51, 90C33, 

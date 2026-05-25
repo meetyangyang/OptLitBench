@@ -1,0 +1,6 @@
+Prudent constraint-handling technique for multiobjective propeller optimisation
+Romanas Puisa;Heinrich Streckwall;
+Abstract
+The paper presents an alternative constraint-handling technique that converts a nonlinear constrained programming problem into an unconstrained multi-objective optimisation problem. The technique is derived from the behavioural memory constraint-handling method, which was originally implemented for single-objective optimisation with genetic algorithms. We compare our presented technique with two other popular constraint-handling concepts and demonstrate its superiority over them when applied to a propeller optimisation problem. We conclude that the multi-objective behavioural memory constraint-handling technique conjugated with the non-dominated sorting genetic algorithm (NSGA-II) is a prudent method to apply to problems with an infeasible initial design and where constraints have a natural order of satisfaction, which, if not conformed to, would lead to unrealistic designs that impair the search by GA.
+Keywords
+Multiobjective optimization  Genetic algorithm  NSGA-II  Marine propeller  CFD  Panel code  Potential code  Constraint handling  

@@ -1,0 +1,6 @@
+Synchronization of Beads on a Ring by Feedback Control
+Sara  Susca, Pushkarini  Agharkar, Sonia  Martínez, and Francesco  Bullo;
+Abstract
+This paper analyzes a discrete-time algorithm to synchronize a group of agents moving back and forth on a ring. Each agent or “bead” changes direction upon encountering another bead moving in the opposite direction. Communication is sporadic: two beads are able to exchange information only when they come sufficiently close.  This allows agents to update their state including their velocity and desired sweeping arc on the boundary. Our analysis makes use of consensus algorithms tools and guarantees that for a given set of initial conditions, synchrony is asymptotically reached.
+Keywords
+synchronization, consensus algorithms, distributed algorithms, stochastic matrices, 37N35, 68W15, 34H05, 93C85, 68T40, 

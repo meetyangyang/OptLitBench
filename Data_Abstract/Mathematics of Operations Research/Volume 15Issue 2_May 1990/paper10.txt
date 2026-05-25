@@ -1,0 +1,6 @@
+The Shapes of Polyhedra
+Ravi Kannan;Lászlo Lovász;Herbert E. Scarf;
+Abstract
+Let A be a real matrix of size (n + d + 1) × n. We assume that all n × n submatrices of A are nonsingular and define the condition number C = C(A) to be the ratio of the largest n × n subdeterminant of A to the smallest in absolute value. In addition we assume that there is a positive vector π such that πA = 0. This implies that for any b, the body Kb = {x∣Ax ≤ b} is bounded. Let f(A) be the number of subsets of the rows of A, of cardinality n + 1, for which a positive linear combination equals zero.The Banach-Mazur distance Ρ(Kb, Kc) for a pair of nonempty full dimensional bodies Kb and Kc is defined as follows: let λ1 be the smallest λ for which Kc ⊆ λ Kb + ξ1 for some ξ1 and λ2 the smallest λ for which Kb ⊆ λ Kc + ξ2 for some ξ2. Then Ρ(Kb, Kc) = log(λ1 ⋅ λ2).We show that for any ε > 0, there exists a subset of the bodies Kb, of cardinality not larger than f(A)⌈2 log2 (nC)/ε⌉d, such that every body is within distance ε from some member of the subset.
+Keywords
+polyhedra Banach-Mazur distance shapes Hilbert metric lattice free bodies Lenstra's algorithm integer programming neighborhood systems successive minima 

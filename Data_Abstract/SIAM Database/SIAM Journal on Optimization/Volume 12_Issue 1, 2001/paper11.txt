@@ -1,0 +1,6 @@
+Robust Reduction of a Class of Large-Scale 	 Linear Programs
+Ilya  Ioslovich;
+Abstract
+A set of new tests for linear programming presolving analysis is described. These tests are applicable for linear programs with box constraints and positive or zero coefficients. Partial applicability to general linear programming (LP) problems is discussed in a special section. The aim is to detect and remove redundant rows and columns. The tests are based on the solution of some auxiliary LP problems with one constraint and upper bounds on the variables. A comparison with the Klein--Holm numerical test is presented. The tests are applied iteratively to the primal and dual LP problems. The method is also applicable to LP problems with coefficients belonging to some range of uncertainty, providing a robust procedure for scale reduction. A detailed numerical example and results of numerical experiments are presented.
+Keywords
+large-scale linear programming, redundancy, presolving, robust reduction, 90C05, 90C06, 90C11, 90B70, 90C99, 

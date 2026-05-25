@@ -1,0 +1,6 @@
+A note on the regularity of reduced models obtained by nonlocal quasi-continuum-like approaches
+Mihai Anitescu;Dan Negrut;Peter Zapol;Anter El-Azab;
+Abstract
+The paper investigates model reduction techniques that are based on a nonlocal quasi-continuum-like approach. These techniques reduce a large optimization problem to either a system of nonlinear equations or another optimization problem that are expressed in a smaller number of degrees of freedom. The reduction is based on the observation that many of the components of the solution of the original optimization problem are well approximated by certain interpolation operators with respect to a restricted set of representative components. Under certain assumptions, the “optimize and interpolate” and the “interpolate and optimize” approaches result in a regular nonlinear equation and an optimization problem whose solutions are close to the solution of the original problem, respectively. The validity of these assumptions is investigated by using examples from potential-based and electronic structure-based calculations in Materials Science models. A methodology is presented for using quasi-continuum-like model reduction for real-space DFT computations in the absence of periodic boundary conditions. The methodology is illustrated using a basic Thomas–Fermi–Dirac case study.
+Keywords
+65K05  90C30  90C90  

@@ -1,0 +1,6 @@
+Maximal Solutions in Decentralized Supervisory Control
+Ard  Overkamp and Jan H.  van Schuppen;
+Abstract
+The decentralized supervisory control problem is to construct for a discrete-event systema set of supervisors each observing only part of the system and each controlling only part of the events such that the interconnection of the system and the supervisors meets control objectives of safety and liveness. Definitions are provided of the concepts of a maximal solution, of a Nash equilibrium, and of a strong Nash equilibrium for a set of supervisors with as order relation the inclusion relation on the set of closed-loop languages. The main result is that a set of supervisors is a maximal solution if and only if it is a strong Nash equilibrium. A procedure to determine a Nash equilibrium is described and illustrated by an example. There is no guarantee that the procedure halts in finite time. However, in the case that it halts in finite time, then it is proven that a Nash equilibrium is obtained.
+Keywords
+discrete-event system, decentralized supervisory control, maximal solution, Nash equilibrium, 93C30, 

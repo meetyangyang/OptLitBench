@@ -1,0 +1,6 @@
+Network Reliability and Inner-Four-Cycle-Free Graphs
+Themistocles Politof;A. Satyanarayana;
+Abstract
+A planar graph G = (V, E) is an Inner-Four-Cycle-Free graph (IFCF-graph) if, after all series and parallel replacements, it has a planar embedding G′ with a face f such that every cycle of G′ having four or more edges contains a vertex of f. It is shown that an IFCF-graph can be reduced to an edge by a recursive application of series, parallel and Δ − Y replacements. This property forms the basis of an O(|V|2) algorithm to compute the probability that a probabilistic IFCF-graph is connected. This result is extended to graphs whose triconnected components are IFCF (such graphs are not necessarily IFCF). The class of IFCF-graphs includes the series-parallel graphs, wheel-graphs, ladder networks and graphs in normal form, for which polynomial network reliability algorithms are already known.
+Keywords
+all-terminal network reliability probabilistic networks inner-four-cycle-free graphs reliability preserving reductions polynomial algorithms 

@@ -1,0 +1,6 @@
+An improved bit parallel exact maximum clique algorithm
+Pablo San Segundo;Fernando Matia;Diego Rodriguez-Losada;Miguel Hernando;
+Abstract
+This paper describes new improvements for BB-MaxClique (San Segundo et al. in Comput Oper Resour 38(2):571–581, 2011), a leading maximum clique algorithm which uses bit strings to efficiently compute basic operations during search by bit masking. Improvements include a recently described recoloring strategy in Tomita et al. (Proceedings of the 4th International Workshop on Algorithms and Computation. Lecture Notes in Computer Science, vol 5942. Springer, Berlin, pp 191–203, 2010), which is now integrated in the bit string framework, as well as different optimization strategies for fast bit scanning. Reported results over DIMACS and random graphs show that the new variants improve over previous BB-MaxClique for a vast majority of cases. It is also established that recoloring is mainly useful for graphs with high densities.
+Keywords
+Maximum clique  Branch and bound  Exact search  Graph  

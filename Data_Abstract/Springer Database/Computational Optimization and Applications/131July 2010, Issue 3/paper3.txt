@@ -1,0 +1,6 @@
+A multiobjective metaheuristic for a mean-risk static stochastic knapsack problem
+João Claro;Jorge Pinho de Sousa;
+Abstract
+In this paper we address two major challenges presented by stochastic discrete optimisation problems: the multiobjective nature of the problems, once risk aversion is incorporated, and the frequent difficulties in computing exactly, or even approximately, the objective function. The latter has often been handled with methods involving sample average approximation, where a random sample is generated so that population parameters may be estimated from sample statistics—usually the expected value is estimated from the sample average. We propose the use of multiobjective metaheuristics to deal with these difficulties, and apply a multiobjective local search metaheuristic to both exact and sample approximation versions of a mean-risk static stochastic knapsack problem. Variance and conditional value-at-risk are considered as risk measures. Results of a computational study are presented, that indicate the approach is capable of producing high-quality approximations to the efficient sets, with a modest computational effort.
+Keywords
+Stochastic knapsack problem  Stochastic combinatorial optimisation  Mean-risk objectives  Multiobjective combinatorial optimisation  Multiobjective metaheuristics  

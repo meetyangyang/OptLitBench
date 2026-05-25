@@ -1,0 +1,17 @@
+Sensitivity and Approximation of Coupled Fluid-Structure Equations by Virtual Control Method
+Cornel Marius Murea;Carlos Vázquez;
+Abstract
+
+The formulation of a particular fluid--structure interaction as an optimal
+control problem is the departure point of this work. 
+The control is the vertical component of the force acting on the 
+interface and the observation is the vertical component of the velocity of the fluid 
+on the interface. This approach permits us to solve the coupled fluid--structure problem
+by partitioned procedures. The analytic expression for the gradient of the cost function is obtained in order to devise accurate numerical methods for the minimization problem.
+Numerical results arising from blood flow in arteries are presented.
+To solve the optimal control problem numerically, we use a quasi-Newton method
+which employs the analytic gradient of the cost function and the approximation of the inverse 
+Hessian is updated by the Broyden, Fletcher, Goldforb, Shano (BFGS) scheme. 
+This algorithm is faster than fixed point with relaxation or block Newton methods.
+Keywords
+Fluid--structure interaction  Virtual control  Mixed formulations  Optimization algorithms  Sensitivity analysis  

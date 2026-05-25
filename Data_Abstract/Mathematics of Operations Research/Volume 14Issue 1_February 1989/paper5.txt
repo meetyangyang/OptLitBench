@@ -1,0 +1,6 @@
+Markov Chains with Rare Transitions and Simulated Annealing
+John N. Tsitsiklis;
+Abstract
+We consider “approximate stationary” Markov chains in which the entries of the one-step transition probability matrix are known to be of different orders of magnitude and whose structure (that is, the orders of magnitude of the transition probabilities) does not change with time. For such Markov chains we present a method for generating order of magnitude estimates for the t-step transition probabilities, for any t. We then notice that algorithms of the simulated annealing type may be represented by Markov chains which are approximately stationary over fairly long time intervals. Using our results we obtain a characterization of the convergent “cooling” schedules for the most general class of algorithms of the simulated annealing type.
+Keywords
+simulated annealing Markov chains n-step transition probabilities estimation 

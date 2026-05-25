@@ -1,0 +1,6 @@
+Optimal Adaptive Control and Consistent Parameter Estimates for ARMAX Model with Quadratic Cost
+Han-Fu  Chen and Lei  Guo;
+Abstract
+We consider the multidimensional ARMAX model \[A(z)y_n  = B(z)u_n  + C(z)w_n \] with loss function \[J(u) = \mathop {\overline {\lim } }\limits_{n \to \infty } \frac{1}{n}\sum\limits_{i = 1}^n {\left( {y_i^\tau  Q_1 y_i  + u_i^\tau  Q_2 u_i } \right)} \] where the coefficients in the matrix polynomials $A(z)$, $B(z)$ and $C(z)$ are unknown. Conditions used here are: 1) stability of $A(z)$ and full rank of $A_p $; 2) strictly positive realness of $C(z) - \frac{1}{2}I$, and 3) controllability and observability of a matrix triple consisting of coefficients in $A(z)$, $B(z)$ and $Q_1 $. On the basis of the estimates given by the stochastic gradient algorithm for unknown parameters an adaptive control law is recursively defined. It is proved that the parameter estimates are strongly consistent and the quadratic loss function reaches its minimum. This paper also includes some general theorems on parameter estimation, on which the results about adaptive control are essentially based.
+Keywords
+stochastic systems, ARMAX model, stochastic adaptive control, quadratic cost, parameter estimation, 93C40, 

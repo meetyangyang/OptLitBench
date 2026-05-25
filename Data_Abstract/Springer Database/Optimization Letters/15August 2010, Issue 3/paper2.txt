@@ -1,0 +1,6 @@
+A PTAS for minimum d-hop connected dominating set in growth-bounded graphs
+Xiaofeng Gao;Wei Wang;Zhao Zhang;Shiwei Zhu;Weili Wu;
+Abstract
+In this paper, we design the first polynomial time approximation scheme for d-hop connected dominating set (d-CDS) problem in growth-bounded graphs, which is a general type of graphs including unit disk graph, unit ball graph, etc. Such graphs can represent majority types of existing wireless networks. Our algorithm does not need geometric representation (e.g., specifying the positions of each node in the plane) beforehand. The main strategy is clustering partition. We select the d-CDS for each subset separately, union them together, and then connect the induced graph of this set. We also provide detailed performance and complexity analysis.
+Keywords
+PTAS  Connected dominating set  Growth-bounded graph  

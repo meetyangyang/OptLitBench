@@ -1,0 +1,6 @@
+The mixed general routing polyhedron
+A. Corberán;A. Romero;J.M. Sanchis;
+Abstract
+ In Arc Routing Problems, ARPs, the aim is to find on a graph a minimum cost traversal satisfying some conditions related to the links of the graph. Due to restrictions to traverse some streets in a specified way, most applications of ARPs must be modeled with a mixed graph. Although several exact algorithms have been proposed, no polyhedral investigations have been done for ARPs on a mixed graph. In this paper we deal with the Mixed General Routing Problem which consists of finding a minimum cost traversal of a given link subset and a given vertex subset of a mixed graph. A formulation is given that uses only one variable for each link (edge or arc) of the graph. Some properties of the associated polyhedron and some large families of facet-inducing inequalities are described. A preliminary cutting-plane algorithm has produced very good lower bounds over a set of 100 randomly generated instances of the Mixed Rural Postman Problem. Finally, applications of this study to other known routing problems are described.
+Keywords
+Lower Bound  Minimum Cost  Large Family  Exact Algorithm  Route Problem  

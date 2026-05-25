@@ -1,0 +1,6 @@
+Variable-metric technique for the solution of affinely parametrized nondifferentiable optimal design problems
+E. Polak;E. J. Wiest;
+Abstract
+The composite functions which appear in various optimal feedback system design problems, as well as in open-loop optimal control problems, can lead to severely ill-conditioned minimax problems. This ill-conditioning can cause first-order minimax algorithms to converge very slowly. We propose a variable-metric technique which substantially mitigates this ill-conditioning. The technique does not require the evaluation of second derivatives and can be used to speed the convergence of any first-order minimax algorithm which produces estimates of the optimal multipliers. Numerical experiments are presented which show that the variable-metric technique increases the speed of two algorithms.
+Keywords
+Minimax problems  nonsmooth optimization  rate of convergence  variable-metric techniques  scaling  conditioning  

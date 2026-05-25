@@ -1,0 +1,6 @@
+Stochastic Analysis of a Modified First Fit Decreasing Packing
+Wansoo T. Rhee;
+Abstract
+We make a stochastic analysis of a modified version mFFD of First Fit Decreasing, in which each bin is closed after it receives its first fallback item. Consider a probability measure μ on [0, 1], and independent random variables X1, …, Xn distributed according to μ. Let Rn = R(X1, …, Xn) be the number of unit size bins that mFFD needs to pack items of size X1, …, Xn. We prove that c(μ) = limn→∞E(Rn)/n exists and that the random variable (Rn − nc(μ))/√n converges in distribution. The main tools are deterministic inequalities concerning mFFD, that might be of independent interest.
+Keywords
+bin packing stochastic analysis 

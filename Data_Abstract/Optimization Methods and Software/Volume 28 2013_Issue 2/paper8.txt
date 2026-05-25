@@ -1,0 +1,6 @@
+The travelling salesman problem with neighbourhoods: MINLP solution
+ Iacopo   Gentilini ; François   Margot ; Kenji   Shimada ;
+Abstract
+ The travelling salesman problem (TSP) with neighbourhoods extends the TSP to the case where each vertex of the tour is allowed to move in a given region. This NP-hard optimization problem has recently received increasing attention in several technical fields such as robotics, unmanned aerial vehicles, or utility management. In this paper, the problem is formulated as a non-convex mixed-integer nonlinear programme (MINLP) having the property that fixing all the integer variables to any integer values yield a convex nonlinear programme. This property is used to modify the global MINLP optimizer Couenne, improving by orders of magnitude its performance and allowing the exact solution of instances large enough to be useful in applications. Computational results are presented where neighbourhoods are either polyhedra or ellipsoids in ℝ2 or ℝ3 and with the Euclidean norm as distance metric. 
+Keywords
+non-convex and nonlinear optimization, travelling salesman problem with neighbourhoods, spatial branch-and-bound AMS Subject Classifications : 90C26, 90C30, 90C57 

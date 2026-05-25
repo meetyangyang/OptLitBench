@@ -1,0 +1,6 @@
+Extending Mehrotra and Gondzio higher order methods to mixed semidefinite-quadratic-linear programming
+ Jean-Pierre   Haeberly ; Madhu V.   Nayakkankuppam ; Michael L.   Overton ;
+Abstract
+ We discuss extensions of Mehrotra's higher order corrections scheme and Gondzio's multiple centrality corrections scheme to mixed semidefinite-quadratic-linear programming (SQLP). These extensions have been included in a solver for SQLP written in C and based on LAPACK. The code implements a primal-dual path-following algorithm for solving SQLP problems based on the XZ + ZX search direction and Mehrotra's predictor-corrector method. We present benchmarks showing that the use of the higher order schemes yields substantial reductions in both the number of iterations and the running time of the algorithm, and also improves its robustness. 
+Keywords
+ 

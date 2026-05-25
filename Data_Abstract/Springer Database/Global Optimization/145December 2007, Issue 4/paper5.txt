@@ -1,0 +1,6 @@
+New bounds on the unconstrained quadratic integer programming problem
+G. D. Halikias;I. M. Jaimoukha;U. Malik;S. K. Gungah;
+Abstract
+We consider the maximization \(\gamma = \max\{x^{T}\!Ax : x\in \{-1, 1\}^n\}\) for a given symmetric \(A\in\mathcal{R}^{n\times n}\). It was shown recently, using properties of zonotopes and hyperplane arrangements, that in the special case that A has a small rank, so that A = VV  T  where \(V\in\mathcal{R}^{n\times m}\) with m < n, then there exists a polynomial time algorithm (polynomial in n for a given m) to solve the problem \(\max\{x^TV V^Tx : x\in \{-1, 1\}^n\}\). In this paper, we use this result, as well as a spectral decomposition of A to obtain a sequence of non-increasing upper bounds on γ with no constraints on the rank of A. We also give easily computable necessary and sufficient conditions for the absence of a gap between the solution and its upper bound. Finally, we incorporate the semidefinite relaxation upper bound into our scheme and give an illustrative example.
+Keywords
+Quadratic integer programming  Semidefinite relaxation  Zonotope  Hyperplane arrangements  

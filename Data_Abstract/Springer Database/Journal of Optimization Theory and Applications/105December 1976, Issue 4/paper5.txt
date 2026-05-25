@@ -1,0 +1,6 @@
+Function-space quasi-Newton algorithms for optimal control problems with bounded controls and singular arcs
+E. R. Edge;W. F. Powers;
+Abstract
+Two existing function-space quasi-Newton algorithms, the Davidon algorithm and the projected gradient algorithm, are modified so that they may handle directly control-variable inequality constraints. A third quasi-Newton-type algorithm, developed by Broyden, is extended to optimal control problems. The Broyden algorithm is further modified so that it may handle directly control-variable inequality constraints. From a computational viewpoint, dyadic operator implementation of quasi-Newton methods is shown to be superior to the integral kernel representation. The quasi-Newton methods, along with the steepest descent method and two conjugate gradient algorithms, are simulated on three relatively simple (yet representative) bounded control problems, two of which possess singular subarcs. Overall, the Broyden algorithm was found to be superior. The most notable result of the simulations was the clear superiority of the Broyden and Davidon algorithms in producing a sharp singular control subarc.
+Keywords
+Optimal control  numerical methods  computing methods  gradient methods  quasi-Newton algorithms  bounded control problems  singular arcs  

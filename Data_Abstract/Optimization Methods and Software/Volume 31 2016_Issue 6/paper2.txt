@@ -1,0 +1,6 @@
+Augmenting the one-shot framework by additional constraints
+Torsten Bosse;
+Abstract
+The (multistep) one-shot method for design optimization problems has been successfully implemented for various applications. To this end, a slowly convergent primal fixed-point iteration of the state equation is augmented by an adjoint iteration and a corresponding preconditioned design update. In this paper we present a modification of the method that allows for additional equality constraints besides the usual state equation. A retardation analysis and the local convergence of the method in terms of necessary and sufficient conditions are given, which depend on key characteristics of the underlying problem and the quality of the utilized preconditioner.
+Keywords
+nonlinear optimization, automatic differentiation, piggyback, one-shot method, constraints, eigenvalue analysisAMS Subject Classification: 49M05, 65F08, 65F15, 90M50, 90C30 

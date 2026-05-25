@@ -1,0 +1,6 @@
+Interior-Point Methods in l1 Optimal Sparse Representation Algorithms for Harmonic Retrieval
+Alejandro E. Brito;Cristina Villalobos;Sergio D. Cabrera;
+Abstract
+Atomic decomposition is an alternative method for frequency detection in harmonic signals. This type of method produces very concentrated solutions with few nonzero components. It can be used as an alternative to traditional approaches, such as, principal-components frequency estimation methods. In this paper, we consider the basis pursuit principle to find the representation (frequency) coefficients of a harmonic signal by minimizing the l1 norm. For the l1 minimization, we compare two interior-point methods. A primal-dual method, which consists of the perturbed optimality conditions of the linear program, results in solutions that are more accurate and sparse than using a primal (affine scaling) method to solve the same linear program. We contrast the solutions obtained by the interior-point methods using the size of the given data and a bound for perfect recovery of the harmonic signals to establish the better performance of the primal-dual method. In addition, experimental results are shown.
+Keywords
+basis pursuit principle  interior-point methods  frequency estimation  sparse representations  

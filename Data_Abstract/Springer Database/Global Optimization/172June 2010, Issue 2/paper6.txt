@@ -1,0 +1,6 @@
+A fast memoryless interval-based algorithm for global optimization
+M. Sun;
+Abstract
+We present a global optimization algorithm of the interval type that does not require a lot of memory and treats standard constraints. The algorithm is shown to be able to find one globally optimal solution under certain conditions. It has been tested with many examples with various degrees of complexity and a large variety of dimensions ranging from 1 to 2,000 merely in a basic personal computer. The extensive numerical experiments have indicated that the algorithm would have a good chance to successfully find a good approximation of a globally optimal solution. More importantly, it finds such a solution much more quickly and using much less memory space than a conventional interval method. The new algorithm is also compared with several noninterval global optimization methods in our numerical experiments, again showing its clear superiority in most cases.
+Keywords
+Global optimization  Interval-based algorithm  Memoryless  Constraints  

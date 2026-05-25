@@ -1,0 +1,6 @@
+A branch-and-cut algorithm for multiple sequence alignment
+Ernst Althaus;Alberto Caprara;Hans-Peter Lenhof;Knut Reinert;
+Abstract
+We consider a branch-and-cut approach for solving the multiple sequence alignment problem, which is a central problem in computational biology. We propose a general model for this problem in which arbitrary gap costs are allowed. An interesting aspect of our approach is that the three (exponentially large) classes of natural valid inequalities that we consider turn out to be both facet-defining for the convex hull of integer solutions and separable in polynomial time. Both the proofs that these classes of valid inequalities are facet-defining and the description of the separation algorithms are far from trivial. Experimental results on several benchmark instances show that our method outperforms the best tools developed so far, in that it produces alignments that are better from a biological point of view. A noteworthy outcome of the results is the effectiveness of using branch-and-cut with only a carefully-selected subset of the variables as a heuristic.
+Keywords
+Hull  Mathematical Method  Polynomial Time  Convex Hull  Multiple Sequence Alignment  

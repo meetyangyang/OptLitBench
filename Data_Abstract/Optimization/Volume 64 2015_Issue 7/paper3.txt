@@ -1,0 +1,6 @@
+A variant of forward-backward splitting method for the sum of two monotone operators with a new search strategy
+J.Y. Bello Cruz;R. Díaz Millán;
+Abstract
+In this paper, we propose variants of Forward-Backward splitting method for finding a zero of the sum of two operators. A classical modification of Forward-Backward method was proposed by Tseng, which is known to converge when the forward and the backward operators are monotone and with Lipschitz continuity of the forward operator. The conceptual algorithm proposed here improves Tseng’s method in some instances. The first and main part of our approach, contains an explicit Armijo-type search in the spirit of the extragradient-like methods for variational inequalities. During the iteration process, the search performs only one calculation of the forward-backward operator in each tentative of the step. This achieves a considerable computational saving when the forward-backward operator is computationally expensive. The second part of the scheme consists in special projection steps. The convergence analysis of the proposed scheme is given assuming monotonicity on both operators, without Lipschitz continuity assumption on the forward operator.
+Keywords
+Armijo-type search, maximal monotone operators, splitting methodsAMS Subject Classifications: 90C47, 49J35 

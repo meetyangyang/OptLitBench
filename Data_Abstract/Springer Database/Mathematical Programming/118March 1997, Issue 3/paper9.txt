@@ -1,0 +1,6 @@
+A nonsmooth inexact Newton method for the solution of large-scale nonlinear complementarity problems
+Francisco Facchinei;Christian Kanzow;
+Abstract
+A new algorithm for the solation of large-scale nonlinear complementarity problems is introduced. The algorithm is based on a nonsmooth equation reformulation of the complementarity problem and on an inexact Levenberg-Marquardt-type algorithm for its solution. Under mild assumptions, and requiring only the approximate solution of a linear system at each iteration, the algorithm is shown to be both globally and superlinearly convergent, even on degenerate problems. Numerical results for problems with up to 10 000 variables are presented.
+Keywords
+Nonlinear complementarity problems  Nonsmooth equations  Inexact Newton methods  Large-scale problems  

@@ -1,0 +1,6 @@
+Sparse Optimization with Least-Squares Constraints
+Ewout  van den Berg and Michael P.  Friedlander;
+Abstract
+The use of convex optimization for the recovery of sparse signals from incomplete or compressed data is now common practice. Motivated by the success of basis pursuit in recovering sparse vectors, new formulations have been proposed that take advantage of different types of sparsity. In this paper we propose an efficient algorithm for solving a general class of sparsifying formulations. For several common types of sparsity we provide applications, along with details on how to apply the algorithm, and experimental results.
+Keywords
+basis pursuit, compressed sensing, convex program, duality, group sparsity, matrix completion, Newton's method, root-finding, sparse solutions, 49M29, 65K05, 90C25, 90C06, 

@@ -1,0 +1,6 @@
+An active set quadratic programming algorithm for real-time model predictive control
+ Indraneel   Das ;
+Abstract
+ On-board model predictive control of a nonlinear dynamical system often involves linearizing the nonlinear dynamics and posing a quadratic program to stay close to a desired profile of outputs. As on-board control requires computing a reliable solution in a robust manner in real time, the quadratic programming algorithm needs to use linear algebra optimally. This article describes an active set algorithm which exploits a ‘hot start’ for the set of binding constraints at optimality along with efficient linear algebra to make rapid progress towards the solution. Furthermore, the linear algebra is designed to deal with degenerate constraints, because the required factorizations are performed and because degeneracy emerges, and not via a mostly unnecessary pre-process step. Computational results are presented for controlling the deceleration of a large commercial aircraft engine. 
+Keywords
+ 

@@ -1,0 +1,6 @@
+Numerical Approximations for Stochastic Differential Games: The Ergodic Case
+Harold J.  Kushner;
+Abstract
+The Markov chain approximation method is a widely used, relatively easy to use, and efficient family of methods for the bulk of stochastic control problems in continuous time for reflected-jump-diffusion-type models. It has been shown to converge under broad conditions, and there are good algorithms for solving the numerical problems if the dimension is not too high. We consider a class of stochastic differential games with a reflected diffusion system model and ergodic cost criterion and where the controls for the two players are separated in the dynamics and cost function. It is shown that the value of the game exists and that the numerical method converges to this value as the discretization parameter goes to zero. The actual numerical method solves a stochastic game for a finite state Markov chain and ergodic cost criterion. The essential conditions are nondegeneracy and that a weak local consistency condition hold "almost everywhere" for the numerical approximations, just as for the control problem.
+Keywords
+stochastic differential games, numerical methods, Markov chain approximations, 60F17, 65C30, 65C40, 91A15, 91A23, 93E25, 

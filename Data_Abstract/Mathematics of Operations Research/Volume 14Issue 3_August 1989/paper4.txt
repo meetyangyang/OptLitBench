@@ -1,0 +1,6 @@
+Approximating an Infinite Stage Search Problem with a Finite Horizon Model
+John G. Wilson;
+Abstract
+A target is moving randomly on a lattice. A searcher, starting at the origin, wants to follow a search plan that has minimum expected cost. Very general cost functions are allowed. The cost function depends on the time to capture and the search procedure followed. At each stage, the searcher can move only to adjacent positions or remain at his current position. The target's motion may depend on the search procedure, thus allowing for the possibility that the target may take evasive action. It is shown that only a finite number of plans need to be considered in order to approximate the optimal cost. It is also shown that the leading elements of optimal finite horizon plans eventually become the leading elements of optimal infinite horizon plans. The case of search on the real line, where the cost is O(τk), where k ≥ 1 and τ is the time to capture, is considered in detail. The results of this paper also generalise the important planning horizon theorems of Bean and Smith (Bean, J. C., Smith, R. L. 1984. Conditions for the existence of planning horizons. Math. Oper. Res.9 391–401.).
+Keywords
+search theory planning horizons sequential decisions 

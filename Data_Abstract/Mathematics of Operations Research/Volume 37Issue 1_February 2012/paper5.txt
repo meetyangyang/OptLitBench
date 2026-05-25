@@ -1,0 +1,6 @@
+A Distributional Interpretation of Robust Optimization
+Huan Xu;Constantine Caramanis;Shie Mannor;
+Abstract
+Motivated by data-driven decision making and sampling problems, we investigate probabilistic interpretations of robust optimization (RO). We establish a connection between RO and distributionally robust stochastic programming (DRSP), showing that the solution to any RO problem is also a solution to a DRSP problem. Specifically, we consider the case where multiple uncertain parameters belong to the same fixed dimensional space and find the set of distributions of the equivalent DRSP problem. The equivalence we derive enables us to construct RO formulations for sampled problems (as in stochastic programming and machine learning) that are statistically consistent, even when the original sampled problem is not. In the process, this provides a systematic approach for tuning the uncertainty set. The equivalence further provides a probabilistic explanation for the common shrinkage heuristic, where the uncertainty set used in an RO problem is a shrunken version of the original uncertainty set.
+Keywords
+robust optimization distributionally robust stochastic programming consistency machine learning kernel density estimator 

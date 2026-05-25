@@ -1,0 +1,6 @@
+On the convergence and worst-case complexity of trust-region and regularization methods for unconstrained optimization
+Geovani N. Grapiglia;Jinyun Yuan;Ya-xiang Yuan;
+Abstract
+A nonlinear stepsize control framework for unconstrained optimization was recently proposed by Toint (Optim Methods Softw 28:82–95, 2013), providing a unified setting in which the global convergence can be proved for trust-region algorithms and regularization schemes. The original analysis assumes that the Hessians of the models are uniformly bounded. In this paper, the global convergence of the nonlinear stepsize control algorithm is proved under the assumption that the norm of the Hessians can grow by a constant amount at each iteration. The worst-case complexity is also investigated. The results obtained for unconstrained smooth optimization are extended to some algorithms for composite nonsmooth optimization and unconstrained multiobjective optimization as well.
+Keywords
+Global convergence  Worst-case complexity  Trust-region methods  Regularization methods  Unconstrained Optimization  Composite nonsmooth optimization  Multiobjective optimization  90C30  65K05  49M37  49M15  90C29  90C60  68Q25  

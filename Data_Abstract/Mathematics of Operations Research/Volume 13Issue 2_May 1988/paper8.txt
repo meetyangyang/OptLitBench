@@ -1,0 +1,6 @@
+Cooling Schedules for Optimal Annealing
+Bruce Hajek;
+Abstract
+A Monte Carlo optimization technique called “simulated annealing” is a descent algorithm modified by random ascent moves in order to escape local minima which are not global minima. The level of randomization is determined by a control parameter T, called temperature, which tends to zero according to a deterministic “cooling schedule.” We give a simple necessary and sufficient condition on the cooling schedule for the algorithm state to converge in probability to the set of globally minimum cost states. In the special case that the cooling schedule has parametric form T(t) = c/log(1 + t), the condition for convergence is that c be greater than or equal to the depth, suitably defined, of the deepest local minimum which is not a global minimum state.
+Keywords
+simulated annealing randomized optimization Monte Carlo methods of optimization 

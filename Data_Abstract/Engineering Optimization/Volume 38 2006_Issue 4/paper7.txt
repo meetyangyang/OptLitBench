@@ -1,0 +1,6 @@
+Two-machine flow-shop scheduling to minimize total late work
+ B. M. T.   Lin ; F.   C.   Lin ; R. C. T.   Lee ;
+Abstract
+ This article considers a two-machine flow-shop scheduling problem of minimizing total late work. Unlike tardiness, which is based upon the difference between the job completion time and the due date, the late work of a job is defined as the amount of work not completed by its due date. This article first shows that the problem remains non-deterministic polynomial time (NP) hard even if all jobs share a common due date. A lower bound and a dominance property are developed to design branch-and-bound algorithms. Computational experiments are conducted to assess the performance of the proposed algorithms. Numerical results demonstrate that the lower bound and dominance rule can help to reduce the computational efforts required by exploring the enumeration tree. The average deviation between the solution found by tabu search and the proposed lower bound is less than 3%, suggesting that the proposed lower bound is close to the optimal solution. 
+Keywords
+Late work, Flow shop, Complexity, Branch-and-bound algorithm 

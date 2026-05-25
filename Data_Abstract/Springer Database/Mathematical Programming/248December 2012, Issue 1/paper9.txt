@@ -1,0 +1,6 @@
+The adaptive convexification algorithm for semi-infinite programming with arbitrary index sets
+Oliver Stein;Paul Steuermann;
+Abstract
+A numerical solution method for semi-infinite optimization problems with arbitrary, not necessarily box-shaped, index sets is presented. Following the ideas of Floudas and Stein (SIAM J Optim 18:1187–1208, 2007), convex relaxations of the lower level problem are adaptively constructed and then reformulated as mathematical programs with complementarity constraints and solved. Although the index set is arbitrary, this approximation produces feasible iterates for the original problem. The convex relaxations and needed parameters are constructed with ideas of the αBB method of global optimization and interval methods. It is shown that after finitely many steps an \({\epsilon}\)-stationary point of the original semi-infinite problem is reached. A numerical example illustrates the performance of the proposed method.
+Keywords
+Semi-infinite programming  αBB  Global optimization  Convex optimization  Mathematical programming with complementarity constraints  Bilevel optimization  90C34  90C33  90C26  65K05  

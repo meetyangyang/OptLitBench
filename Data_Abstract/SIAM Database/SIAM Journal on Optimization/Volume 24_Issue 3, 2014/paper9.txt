@@ -1,0 +1,6 @@
+A Stochastic Smoothing Algorithm for Semidefinite Programming
+Alexandre  d'Aspremont and Noureddine  El Karoui;
+Abstract
+We use rank one Gaussian perturbations to derive a smooth stochastic approximation of the maximum eigenvalue function. We then combine this smoothing result with an optimal smooth stochastic optimization algorithm to produce an efficient method for solving maximum eigenvalue minimization problems, and detail a variant of this stochastic algorithm with monotonic line search. Overall, compared to classical smooth algorithms, this method runs a larger number of significantly cheaper iterations and, in certain precision/dimension regimes, its total complexity is lower than that of deterministic smoothing algorithms.
+Keywords
+semidefinite programming, Gaussian smoothing, eigenvalue problems, 90C22, 90C15, 47A75, 

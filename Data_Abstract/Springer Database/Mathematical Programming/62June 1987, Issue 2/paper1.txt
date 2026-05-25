@@ -1,0 +1,6 @@
+Local properties of inexact methods for minimizing nonsmooth composite functions
+Stephen J. Wright;
+Abstract
+Methods for minimization of composite functions with a nondifferentiable polyhedral convex part are considered. This class includes problems involving minimax functions and norms. Local convergence results are given for “active set” methods, in which an equality-constrained quadratic programming subproblem is solved at each iteration. The active set consists of components of the polyhedral convex function which are active or near-active at the current iteration. The effects of solving the subproblem inexactly at each iteration are discussed; rate-of-convergence results which depend on the degree of inexactness are given.
+Keywords
+Composite functions  polyhedral convex functions  active set  quadratic programming  strong uniqueness  

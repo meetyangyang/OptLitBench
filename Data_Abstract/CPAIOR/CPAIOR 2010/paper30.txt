@@ -1,0 +1,4 @@
+Stochastic Constraint Programming by Neuroevolution with Filtering
+Steve D. Prestwich;S. Armagan Tarim;Roberto Rossi;Brahim Hnich;
+Abstract
+Stochastic Constraint Programming is an extension of Constraint Programming for modelling and solving combinatorial problems involving uncertainty. A solution to such a problem is a policy tree that specifies decision variable assignments in each scenario. Several complete solution methods have been proposed, but the authors recently showed that an incomplete approach based on neuroevolution is more scalable. In this paper we hybridise neuroevolution with constraint filtering on hard constraints, and show both theoretically and empirically that the hybrid can learn more complex policies more quickly.

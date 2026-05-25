@@ -1,0 +1,6 @@
+An RQP algorithm using a differentiable exact penalty function for inequality constrained problems
+Gianni Di Pillo;Francisco Facchinei;Luigi Grippo;
+Abstract
+In this paper we propose a recursive quadratic programming algorithm for nonlinear programming problems with inequality constraints that uses as merit function a differentiable exact penalty function. The algorithm incorporates an automatic adjustment rule for the selection of the penalty parameter and makes use of an Armijo-type line search procedure that avoids the need to evaluate second order derivatives of the problem functions. We prove that the algorithm possesses global and superlinear convergence properties. Numerical results are reported.
+Keywords
+Recursive quadratic programming  exact penalty functions  nonlinear programming  constrained optimization  

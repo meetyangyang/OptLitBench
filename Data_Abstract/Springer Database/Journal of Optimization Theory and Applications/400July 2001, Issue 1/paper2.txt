@@ -1,0 +1,6 @@
+Trajectory Modeling of Robot Manipulators in the Presence of Obstacles
+S. F. P. Saramago;V. SteffenJr.;
+Abstract
+This paper presents two different strategies for the problem of the optimal trajectory planning of robot manipulators in the presence of fixed obstacles. The first strategy is related to the situation where the trajectory must pass through a given number of points. The second strategy corresponds to the case where only the initial and final points are given. The optimal traveling time and the minimum mechanical energy of the actuators are considered together to build a multiobjective function. The trajectories are defined using spline functions and are obtained through offline computation for online operation. Sequential unconstrained minimization techniques (SUMT) have been used for the optimization. The obstacles are considered as three-dimensional objects sharing the same workspace performed by the robot. The obstacle avoidance is expressed in terms of the distances between potentially colliding parts. Simulation results are presented and show the efficiency of the general methodology used in this paper.
+Keywords
+robot manipulators  trajectory planning  obstacle avoidance  

@@ -1,0 +1,6 @@
+Sequencing with Series-Parallel Precedence Constraints
+Clyde L. Monma;Jeffrey B. Sidney;
+Abstract
+One of the most important ideas in the theory of sequencing and scheduling is the method of adjacent pairwise job interchange. This method compares the costs of two sequences which differ only by interchanging a pair of adjacent jobs. In 1956, W. E. Smith defined a class of problems for which a total preference ordering of the jobs exists with the property that in any sequence, whenever two adjacent jobs are not in preference order, they may be interchanged with no resultant cost increase. In such a case the unconstrained sequencing problem is easily solved by sequencing the jobs in preference order.In this paper, a natural subclass of these problems is considered for which such a total preference ordering exists for all subsequences of jobs. The main result is an efficient general algorithm for these sequencing problems with series-parallel precedence constraints. These problems include the least cost fault detection problem, the one-machine total weighted completion time problem, the two-machine maximum completion time flow-shop problem and the maximum cumulative cost problem.
+Keywords
+scheduling sequencing series-parallel precedence constraints unified algorithm one and two machine cases least-cost fault detection 

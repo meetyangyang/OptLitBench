@@ -1,0 +1,6 @@
+A Kantorovich Theorem for the Structured PSB Update in Hilbert Space
+M. Laumen;
+Abstract
+The convergence behavior of quasi-Newton methods has been well investigated for many update rules. One exception that has to be examined is the PSB update in Hilbert space. Analogous to the SR1 update, the PSB update takes advantage of the symmetry property of the operator, but it does not require the positive definiteness of the operator to work with. These properties are of great practical importance, for example, to solve minimization problems where the starting operator is not positive definite, which is necessary for other updates to ensure local convergence. In this paper, a Kantorovich theorem is presented for a structured PSB update in Hilbert space, where the structure is exploited in the sense of Dennis and Walker. Finally, numerical implications are illustrated by various results on an optimal shape design problem.
+Keywords
+PSB update  Kantorovich theorem  structured update  Hilbert space  optimal shape design  

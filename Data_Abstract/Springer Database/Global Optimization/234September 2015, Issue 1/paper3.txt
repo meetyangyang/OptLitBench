@@ -1,0 +1,6 @@
+A homotopy method based on penalty function for nonlinear semidefinite programming
+Li Yang;Bo Yu;YanXi Li;
+Abstract
+This paper proposes a homotopy method based on a penalty function for solving nonlinear semidefinite programming problems. The penalty function is the composite function of an exponential penalty function, the eigenvalue function and a nonlinear operator mapping. Representations of its first and second order derivatives are given. Using the penalty function, a new homotopy is constructed. Global convergence of a smooth curve determined by the homotopy is proven under mild conditions. In the process of numerically tracing the curve, the method requires just the solution of a linear system of dimension \(n+2\), whereas a homotopy method proposed by Yang and Yu (Comput Optim Appl 56(1):81–96, 2013) requires a system of dimension \(n+m(m+1)/2+1\) to be solved, where \(n\) is the number of variables while \(m\) is the order of constraint matrix. So, it is expected that the proposed method can improve the efficiency of the method proposed by Yang and Yu. Preliminary numerical experiments are presented and show that the considered algorithm is efficient for some nonlinear semidefinite programming problems.
+Keywords
+Homotopy method  Global convergence  Penalty function   Nonlinear semidefinite programming  

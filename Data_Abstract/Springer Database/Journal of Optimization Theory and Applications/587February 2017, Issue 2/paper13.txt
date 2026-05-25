@@ -1,0 +1,6 @@
+Distributed Price Adjustment Based on Convex Analysis
+Yurii Nesterov;Vladimir Shikhman;
+Abstract
+In this paper, we suggest a distributed process of price adjustment toward a partial market equilibrium. As the main contribution, our algorithm of price adjustment is computationally efficient and decentralized. Its convergence properties are crucially based on convex analysis. The proposed price adjustment corresponds to a subgradient scheme for minimizing a special nonsmooth convex function. This function is the total excessive revenue of the market’s participants and its minimizers are equilibrium prices. As the main result, the algorithm of price adjustment is shown to converge to equilibrium prices. Additionally, the market clears on average during the price adjustment process, i.e., by historical averages of supply and demand. Moreover, a global rate of convergence is obtained. We endow our algorithm with decentralized prices by introducing the trade design with price initiative of producers. The latter suggests that producers settle and update their individual prices, and consumers buy at the lowest purchase price.
+Keywords
+Computation of market equilibrium  Distributed price adjustment  Convex optimization  Subgradient methods  Decentralization of prices  90C25  49M29  90C33  

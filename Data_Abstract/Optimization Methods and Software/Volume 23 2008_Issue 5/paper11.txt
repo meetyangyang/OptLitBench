@@ -1,0 +1,6 @@
+A generalization of the Remez algorithm to a class of linear spline approximation problems with constraints on spline parameters
+ N.   Sukhorukova ;
+Abstract
+ The classical Remez algorithm was developed for constructing the best polynomial approximations for continuous and discrete functions in an interval [a, b]. In this paper, the classical Remez algorithm is generalized to the problem of linear spline approximation with certain conditions on the spline parameters. Namely, the spline parameters have to be nonnegative and the values of the splines at one of the borders (or both borders) of the approximation intervals may be fixed. This type of constraint occurs in some practical applications, e.g. the problem of taxation tables restoration. The results of the numerical experiments with a Remez-like algorithm developed for this class of conditional optimization problems, are presented. 
+Keywords
+Remez algorithm, nonsmooth optimization, linear spline approximation AMS Subject Classification : 65D07, 74P99, 41A50 

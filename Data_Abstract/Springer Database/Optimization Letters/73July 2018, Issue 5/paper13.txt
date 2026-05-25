@@ -1,0 +1,6 @@
+New method for determining search directions for interior-point algorithms in linear optimization
+Zsolt Darvay;Petra-Renáta Takács;
+Abstract
+We introduce an interior-point algorithm for linear optimization, which is based on a new technique for determining search directions. This method consists of a new type of transformation on the centering equations of the system which characterizes the central path. It can be shown that these new directions cannot be derived from usual kernel functions. Therefore, we extend the concept of the kernel functions, and we establish an equivalence between this approach and the proposed method for obtaining search directions. Moreover, we prove the polynomial complexity of the algorithm.
+Keywords
+Interior-point algorithm  Linear optimization  Algebraic equivalent transformation  Search direction  Newton’s method  Polynomial complexity  

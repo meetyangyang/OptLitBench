@@ -1,0 +1,7 @@
+Optimization of a hyper-elastic structure with multibody contact using continuum-based shape design sensitivity analysis
+
+N.H. Kim;Y.H. Park;K.K. Choi;
+Abstract
+In this paper, a continuum-based shape design sensitivity formulation is presented for a hyper-elastic structure with multibody frictional contact. A nearly incompressible constraint is treated using the pressure projection method that projects a hydrostatic pressure into a lower order space to avoid a volumetric locking. The variational formulation for multibody frictional contact is developed using a penalty method that regularizes the solution of the variational inequality. The material derivative of continuum mechanics is utilized to develop the continuum-based shape design sensitivity analysis for the hyper-elastic constitutive relation and penalized contact formulation. The sensitivity equation is solved at each converged load step using the same tangent stiffness of response analysis due to the path dependency of the sensitivity of the frictional contact problem. A very accurate and efficient sensitivity results are shown through shape optimization of a windshield wiper.
+Keywords
+Key words: design sensitivity analysis, multibody contact, hyper-elastic material  

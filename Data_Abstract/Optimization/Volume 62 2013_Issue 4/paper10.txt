@@ -1,0 +1,6 @@
+New SDP models for protein homology detection with semi-supervised SVM
+ Y.Q.   Bai ; B.L.   Niu ; Y.   Chen ;
+Abstract
+ Protein homology detection is a core problem in bioinformatics that helps annotate protein structural and functional features. It can be naturally formed as a mixed integer programming (MIP) problem with semi-supervised support vector machines (SVMs), which are accurate discriminative methods for classification. This article presents two new semidefinite programming (SDP) models for protein homology detection by using novel transformations of the MIP problem. Both models reduce the problem size significantly compared with the existing SDP models. Numerical experiments show that our first SDP model outperforms other methods in terms of misclassification errors for both synthetic data and the real data from the Protein Classification Benchmark Collection. 
+Keywords
+support vector machine, semi-supervised learning, mixed integer programming reformulation, semidefinite programmingAMS Subject Classification: 90C22 

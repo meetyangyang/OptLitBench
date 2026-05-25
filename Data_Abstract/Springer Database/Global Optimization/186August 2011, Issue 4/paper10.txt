@@ -1,0 +1,6 @@
+A continuation approach for the capacitated multi-facility weber problem based on nonlinear SOCP reformulation
+Jein-Shan Chen;Shaohua Pan;Chun-Hsu Ko;
+Abstract
+We propose a primal-dual continuation approach for the capacitated multi-facility Weber problem (CMFWP) based on its nonlinear second-order cone program (SOCP) reformulation. The main idea of the approach is to reformulate the CMFWP as a nonlinear SOCP with a nonconvex objective function, and then introduce a logarithmic barrier term and a quadratic proximal term into the objective to construct a sequence of convexified subproblems. By this, this class of nondifferentiable and nonconvex optimization problems is converted into the solution of a sequence of nonlinear convex SOCPs. In this paper, we employ the semismooth Newton method proposed in Kanzow et al. (SIAM Journal of Optimization 20:297–320, 2009) to solve the KKT system of the resulting convex SOCPs. Preliminary numerical results are reported for eighteen test instances, which indicate that the continuation approach is promising to find a satisfying suboptimal solution, even a global optimal solution for some test problems.
+Keywords
+Capacitated multi-facility Weber problem  Nondifferentiable  Nonconvex  Second-order cone program  Semismooth Newton method  

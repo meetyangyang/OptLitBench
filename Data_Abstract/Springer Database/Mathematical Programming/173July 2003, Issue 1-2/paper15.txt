@@ -1,0 +1,6 @@
+Smoothed analysis of termination of linear programming algorithms
+Daniel A. Spielman;Shang-Hua Teng;
+Abstract
+ We perform a smoothed analysis of a termination phase for linear programming algorithms. By combining this analysis with the smoothed analysis of Renegar's condition number by Dunagan, Spielman and Teng (http://arxiv.org/abs/cs.DS/0302011) we show that the smoothed complexity of interior-point algorithms for linear programming is O(m 3  log(m/Σ)). In contrast, the best known bound on the worst-case complexity of linear programming is O(m3 L), where L could be as large as m. We include an introduction to smoothed analysis and a tutorial on proof techniques that have been useful in smoothed analyses.
+Keywords
+Condition Number  Programming Algorithm  Proof Technique  Termination Phase  Linear Programming Algorithm  

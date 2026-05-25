@@ -1,0 +1,6 @@
+Approximate invariant subspaces and quasi-newton optimization methods
+ Serge   Gratton ; Philippe   L.   Toint ;
+Abstract
+ New approximate secant equations are shown to result from the knowledge of (problem dependent) invariant subspace information, which in turn suggests improvements in quasi-Newton methods for unconstrained minimization. A new limited-memory Broyden–Fletcher–Goldfarb–Shanno using approximate secant equations is then derived and its encouraging behaviour illustrated on a small collection of multilevel optimization examples. The smoothing properties of this algorithm are considered next, and automatic generation of approximate eigenvalue information demonstrated. The use of this information for improving algorithmic performance is finally investigated on the same multilevel examples. 
+Keywords
+large-scale optimization, quasi-Newton methods, limited memory algorithms, discretized problems, multilevel optimization 

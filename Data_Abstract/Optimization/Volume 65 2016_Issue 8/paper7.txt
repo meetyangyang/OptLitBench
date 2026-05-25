@@ -1,0 +1,6 @@
+Diagonal discrete gradient bundle method for derivative free nonsmooth optimization
+N. Karmitsa;
+Abstract
+Typically, practical nonsmooth optimization problems involve functions with hundreds of variables. Moreover, there are many practical problems where the computation of even one subgradient is either a difficult or an impossible task. In such cases, the usual subgradient-based optimization methods cannot be used. However, the derivative free methods are applicable since they do not use explicit computation of subgradients. In this paper, we propose an efficient diagonal discrete gradient bundle method for derivative-free, possibly nonconvex, nonsmooth minimization. The convergence of the proposed method is proved for semismooth functions, which are not necessarily differentiable or convex. The method is implemented using Fortran 95, and the numerical experiments confirm the usability and efficiency of the method especially in case of large-scale problems.
+Keywords
+Nondifferentiable optimization, derivative-free optimization, discrete gradient, diagonal variable metric updates, bundle methods 

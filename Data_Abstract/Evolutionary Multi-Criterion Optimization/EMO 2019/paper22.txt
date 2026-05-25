@@ -1,0 +1,4 @@
+Comparison of Reference- and Hypervolume-Based MOEA on Solving Many-Objective Optimization Problems
+Dani Irawan;Boris Naujoks;
+Abstract
+Hypervolume-based algorithms are not widely used for solving many-objective optimization problems due to the bottleneck of hypervolume computation. Approximation methods can alleviate the problem and are discussed and tested in this work. Several MOEAs are considered, but after pre-experimental tests, only two variants of SMS-EMOA are considered further. These algorithms are compared to NSGA-III, a reference-based algorithm. The results show that SMS-EMOA with hypervolume approximation is viable for many-objective optimization problems and is faster in convergence towards the Pareto-front.

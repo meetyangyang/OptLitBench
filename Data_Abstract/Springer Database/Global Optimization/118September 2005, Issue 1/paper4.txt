@@ -1,0 +1,6 @@
+Interval Branch and Bound with Local Sampling for Constrained Global Optimization
+M. Sun;A.W. Johnson;
+Abstract
+In this article, we introduce a global optimization algorithm that integrates the basic idea of interval branch and bound, and new local sampling strategies along with an efficient data structure. Also included in the algorithm are procedures that handle constraints. The algorithm is shown to be able to find all the global optimal solutions under mild conditions. It can be used to solve various optimization problems. The local sampling (even if done stochastically) is used only to speed up the convergence and does not affect the fact that a complete search is done. Results on several examples of various dimensions ranging from 1 to 100 are also presented to illustrate numerical performance of the algorithm along with comparison with another interval method without the new local sampling and several noninterval methods. The new algorithm is seen as the best performer among those tested for solving multi-dimensional problems.
+Keywords
+Constraints  Global optimization  Interval branch and bound  Sampling  

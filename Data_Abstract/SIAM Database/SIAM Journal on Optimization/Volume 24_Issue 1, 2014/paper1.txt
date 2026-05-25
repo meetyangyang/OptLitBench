@@ -1,0 +1,6 @@
+Interior Point Methods for Sufficient Horizontal LCP in a Wide Neighborhood of the Central Path with Best Known Iteration Complexity
+Florian A.  Potra;
+Abstract
+Three interior point methods are proposed for sufficient horizontal linear complementarity problems (HLCP): a large update path following algorithm, a first order corrector-predictor method, and a second order corrector-predictor method. All algorithms  produce  sequences of iterates in the wide neighborhood of the central path introduced by Ai and Zhang. The algorithms do not depend on the handicap $\kappa$ of the  problem, so that they can be used for any sufficient HLCP. They have $O((1+\kappa)\sqrt{n}L)$ iteration complexity, the best iteration complexity obtained so far by any interior point method for solving sufficient linear complementarity problems. The first order corrector-predictor method is Q-quadratically convergent for problems that have a strict complementarity solution. The second order corrector-predictor method is superlinearly convergent with Q order 1.5  for general problems and with Q order 3 for problems that have a strict complementarity solution.
+Keywords
+linear complementarity, interior point, path following, corrector-predictor, sufficient matrix, wide neighborhood, 90C51, 90C33, 

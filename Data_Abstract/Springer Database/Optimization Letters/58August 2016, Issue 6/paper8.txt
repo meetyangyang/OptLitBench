@@ -1,0 +1,6 @@
+On optimal probabilities in stochastic coordinate descent methods
+Peter Richtárik;Martin Takáč;
+Abstract
+We propose and analyze a new parallel coordinate descent method—NSync—in which at each iteration a random subset of coordinates is updated, in parallel, allowing for the subsets to be chosen using an arbitrary probability law. This is the first method of this type. We derive convergence rates under a strong convexity assumption, and comment on how to assign probabilities to the sets to optimize the bound. The complexity and practical performance of the method can outperform its uniform variant by an order of magnitude. Surprisingly, the strategy of updating a single randomly selected coordinate per iteration—with optimal probabilities—may require less iterations, both in theory and practice, than the strategy of updating all coordinates at every iteration.
+Keywords
+Coordinate descent  Arbitrary sampling  First order method  Complexity  

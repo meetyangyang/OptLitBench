@@ -1,0 +1,6 @@
+Nonlinear programming without a penalty function
+Roger Fletcher;Sven Leyffer;
+Abstract
+In this paper the solution of nonlinear programming problems by a Sequential Quadratic Programming (SQP) trust-region algorithm is considered. The aim of the present work is to promote global convergence without the need to use a penalty function. Instead, a new concept of a “filter” is introduced which allows a step to be accepted if it reduces either the objective function or the constraint violation function. Numerical tests on a wide range of test problems are very encouraging and the new algorithm compares favourably with LANCELOT and an implementation of Sl1QP.
+Keywords
+Key words: nonlinear programming – SQP – filter – penalty function  Mathematics Subject Classification (2000): 90C30, 90C55, 49M30  

@@ -1,0 +1,6 @@
+Topology optimization of continuum structures with different tensile and compressive properties in bridge layout design
+Shutian Liu;Heting Qiao;
+Abstract
+In order to solve elasticity problems with dual extension/compression modulus this paper presents a technique that employ Heaviside function to describe the nonlinear relationship of stress and material modulus smoothing the constitutive discontinuity. An initial stress technique is utilized in the FEM based numerical analysis, which may lead to a higher computing efficiency since the stiffness matrix needs to be triangularized only once in the whole computing, moreover, avoid the inconvenience induced by choosing shear modulus in the conventional iterative algorithm. Furthermore, a multimaterial model is proposed to formulate the topology optimization problem for bridge layout designs. Two types of materials which are concrete and steels are distributed within the design domain to accommodate design need. In addition, sensitivity of the new material model is derived using the adjoint method. The effectiveness of the present design methodology and optimization scheme is then demonstrated through numerical examples.
+Keywords
+Dual extension/compression modulus  Heaviside function  Topology optimization  Bridge layout design  

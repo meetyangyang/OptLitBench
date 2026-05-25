@@ -1,0 +1,6 @@
+Optimal accumulation of Jacobian matrices by elimination methods on the dual computational graph
+Uwe Naumann;
+Abstract
+The accumulation of the Jacobian matrix F’ of a vector function    can be regarded as a transformation of its linearized computational graph into a subgraph of the directed complete bipartite graph K  n,m . This transformation can be performed by applying different elimination techniques that may lead to varying costs for computing F’. This paper introduces face elimination as the basic technique for accumulating Jacobian matrices by using a minimal number of arithmetic operations. Its superiority over both edge and vertex elimination methods is shown. The intention is to establish the conceptual basis for the ongoing development of algorithms for optimizing the computation of Jacobian matrices.
+Keywords
+Jacobian matrices  Computational graphs  Elimination techniques  Automatic differentiation  

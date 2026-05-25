@@ -1,0 +1,6 @@
+An Effective Nonsmooth Optimization Algorithm for Locally Lipschitz Functions
+Nezam Mahdavi-Amiri;Rohollah Yousefpour;
+Abstract
+To construct an effective minimization algorithm for locally Lipschitz functions, we show how to compute a descent direction satisfying Armijo’s condition. We present a finitely terminating algorithm to construct an approximating set for the Goldstein subdifferential leading to the desired descent direction. Using this direction, we propose a minimization algorithm for locally Lipschitz functions and prove its convergence. Finally, we implement our algorithm with matrix laboratory (MATLAB) codes and report our testing results. The comparative numerical results attest to the efficiency of the proposed algorithm.
+Keywords
+Armijo’s condition  Goldstein subdifferential  Lipschitz function  Search direction  Minimization algorithm  

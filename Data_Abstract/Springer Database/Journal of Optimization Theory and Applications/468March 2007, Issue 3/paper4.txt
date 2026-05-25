@@ -1,0 +1,12 @@
+Iterative Method for Solving the Linear Feasibility Problem
+R. Dudek;
+Abstract
+
+Many optimization problems reduce to the solution of a system of linear inequalities (SLI). Some solution methods use relaxed, averaged projections. Others invoke surrogate constraints (typically stemming from aggregation). This paper proposes a blend of these two approaches. A novelty comes from introducing as surrogate constraint a halfspace defined by differences of algorithmic iterates. The first iteration is identical to surrogate constraints methods. In next iterations, for a given approximation 
+\(\bar{x}\)
+, besides the violated constraints in 
+\(\bar{x}\)
+, we also take into consideration the surrogate inequality, which we have obtained in the previous iteration.
+
+Keywords
+Linear feasibility problems  Iterative methods  Surrogate constraints  Metric projections  

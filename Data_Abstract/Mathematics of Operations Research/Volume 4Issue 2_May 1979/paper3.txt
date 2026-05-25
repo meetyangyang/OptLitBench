@@ -1,0 +1,6 @@
+Overtaking Optimality for Markov Decision Chains
+Eric V. Denardo;Uriel G. Rothblum;
+Abstract
+In a finite Markov decision chain, let V(n, Π)i denote the expectation of the income earned for starting at state i and following (stationary or nonstationary) policy Π for n epochs. Call policy Π overtaking optimal if lim infn→∞ {V(n, Π)i − V(n, Λ)i} ≥ 0 for every policy A and every state i. This paper provides conditions under which a certain stationary policy is overtaking optimal. Tests for these conditions are provided. These conditions hold, for instance, when Blackwell's (Blackwell, D. 1962. Discrete dynamic programming. Ann. Math. Statist.33 719–726.) policy iteration routine terminates unambiguously, without ties, with a single policy whose transition matrix is not cyclic.
+Keywords
+Markov decision chains overtaking optimality 

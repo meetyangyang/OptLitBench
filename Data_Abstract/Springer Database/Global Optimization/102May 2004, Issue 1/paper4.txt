@@ -1,0 +1,6 @@
+Explicit and Implicit Continuation Algorithms for Strongly Monotone Variational Inequalities with Box Constraints
+Jin-Bao Jian;Xing-De Mo;Jian-Ling Li;
+Abstract
+In this paper we discuss the variational inequality problems VIP(X, F), where F is assumed to be a strongly monotone mapping from ℜn to ℜn, and the feasible set X = [l, u] has the form of box constraints. Based on the Chen-Harker-Kanzow smoothing functions, first we present an explicit continuation algorithm (ECA) for solving VIP(X, F). The ECA possesses main features as follows: (a) at each iteration, it yields a new iterative point by solving a system of equations in ℜ(n + s) with a parameter and nonsingular Jacobian matrix, where s = |{j: -∞ < l j  < u j  < +∞}|, (b) it generates a sequence of iterative points in the interior of the feasible set X. Secondly we give an implicit continuation algorithm (ICA) for solving VIP(X,F), the prime character of the ICA is that it solves only one, rather than a series of, system of nonlinear equations to obtain a solution of VIP(X,F). The two proposed algorithms are shown to possess strongly global convergence. Finally, some preliminary numerical results of the two algorithms are reported.
+Keywords
+Box constraints  explicit continuation algorithms  implicit continuation algorithms  strongly global convergence  variational inequalities  

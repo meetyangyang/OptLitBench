@@ -1,0 +1,6 @@
+An interior-point based subgradient method for nondifferentiable convex optimization
+   J. B. G.   Frenk ;   J. F.   Sturm ;   S.   Zhang ;
+Abstract
+ We propose in this paper an algorithm for solving linearly constrained nondifferentiable convex programming problems. This algorithm combines the ideas of the affine scaling method with the subgradient method. It is a generalization of the dual and interior point method for min max problems proposed by J.F. Sturm and S. Zhang (1995), A dual and interior point approach to solve convex min–max problems, in D.-Z. Du and P.M. Pardalos (eds.)Minimax and Applications, pp. 69-78, Kluwer Academic Publishers. In the new method, the search direction is obtained by projecting in a scaled space a subgradient of the objective function with a logarithmic Barrier term. The stepsize choice is analogous to the stepsize choice in the usual subgradient method. Convergence of the method is established. 
+Keywords
+Nondifferentiable convex programming, Affine scaling search direction, Subgradient method, AMS Subject Classification: 49M45, 90C25 

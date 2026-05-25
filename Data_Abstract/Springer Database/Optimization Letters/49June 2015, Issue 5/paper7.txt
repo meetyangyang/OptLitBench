@@ -1,0 +1,6 @@
+Convergence analysis for the modified spectral projected subgradient method
+Milagros Loreto;Alejandro Crema;
+Abstract
+In a recent paper, the spectral projected subgradient (SPS) method was introduced by Loreto et al. for the minimization of a non-differentiable convex piece-wise function, and extensive numerical experimentation showed that this method was very efficient. However, no theoretical convergence was shown. In this paper, a modified version of the spectral projected subgradient (MSPS) is presented. The MSPS is the result of applying to SPS the direction approach used by spectral projected gradient version one (SPG1) proposed by Raydan et al. MSPS presents stronger convergence properties than SPS. We give a comprehensive theoretical analysis of the MSPS and its convergence is shown under some mild assumptions. The proof uses the traditional scheme of descent distance to the optimal value set, and a non-monotone globalization condition is used to get that distance instead of the subgradient definition. To illustrate the behavior of MSPS we present and discuss numerical results for set covering problems.
+Keywords
+Spectral projected gradient  Subgradient optimization   Global convergence  

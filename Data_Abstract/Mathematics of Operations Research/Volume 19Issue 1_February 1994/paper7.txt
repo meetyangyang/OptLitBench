@@ -1,0 +1,6 @@
+A Fully Polynomial Approximation Scheme for Scheduling a Single Machine to Minimize Total Weighted Late Work
+M. Y. Kovalyov;C. N. Potts;L. N. van Wassenhove;
+Abstract
+This paper studies approximation algorithms for the problem of nonpreemptively scheduling n jobs on a single machine to minimize total weighted late work, where the late work for a job is the amount of processing of this job that is performed after its due date. A family of approximation algorithms {DPε} is derived. For any ε > 0, DPε delivers a schedule having total weighted late work which does not exceed (1 + ε) times that of an optimal schedule. Since DPε requires O(n3 log n + n3/ε) time, the family {DPε} is a fully polynomial approximation scheme.
+Keywords
+scheduling single machine approximation scheme dynamic programming 

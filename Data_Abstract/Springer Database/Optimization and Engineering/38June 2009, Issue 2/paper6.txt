@@ -1,0 +1,6 @@
+A new spanning tree-based genetic algorithm for the design of multi-stage supply chain networks with nonlinear transportation costs
+Ming-Jong Yao;Hsin-Wei Hsu;
+Abstract
+The design of configuration and the transportation planning are crucial issues to the effectiveness of multi-stage supply chain networks. The decision makers are interested in the determination the optimal locations of the hubs and the optimal transportation routes to minimize the total costs incurred in the whole system. One may formulate this problem as a 0-1 mixed integer non-linear program though commercial packages are not able to efficiently solve this problem due to its complexity. This study proposes a new spanning tree-based Genetic Algorithm (GA) using determinant encoding for solving this problem. Also, we employ an efficient heuristic that fixes illegal spanning trees existing in the chromosomes obtained from the evolutionary process of the proposed GA. Our numerical experiments demonstrate that the proposed GA outperforms the other previously published GA in the solution quality and convergence rate.
+Keywords
+Genetic algorithm  Non-linear transportation costs  Multi-stage supply chain networks  Spanning tree  

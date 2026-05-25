@@ -1,0 +1,6 @@
+Approximate Linear Programming for Average Cost MDPs
+Michael H. Veatch;
+Abstract
+We consider the linear programming approach to approximate dynamic programming with an average cost objective and a finite state space. Using a Lagrangian form of the linear program (LP), the average cost error is shown to be a multiple of the best fit differential cost error. This result is analogous to previous error bounds for a discounted cost objective. Second, bounds are derived for average cost error and performance of the policy generated from the LP that involve the mixing time of the Markov decision process (MDP) under this policy or the optimal policy. These results improve on a previous performance bound involving mixing times.
+Keywords
+approximate dynamic programming average cost Markov decision processes approximate linear programming 

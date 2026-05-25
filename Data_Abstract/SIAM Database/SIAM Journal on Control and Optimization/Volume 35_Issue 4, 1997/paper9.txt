@@ -1,0 +1,6 @@
+Experimental Confirmation of a PDE-Based Approach to Design of Feedback Controls
+H. T.  Banks, Ralph C.  Smith, D. E.  Brown, R. J.  Silcox, and Vern L.  Metcalf;
+Abstract
+Issues regarding the experimental implementation of PDE-based controllers are discussed in this work. While the motivating application involves the reduction of vibration levels for a circular plate through excitation of surface-mounted piezoceramic patches, the general techniques described here will extend to a variety of applications. The initial step is the development of a PDE model which accurately captures the physics of the underlying process. This model is then discretized to yield a vector-valued initial value problem. Optimal control theory is used to determine continuous-time voltages to the patches, and the approximations needed to facilitate discrete-time implementation are addressed. Finally, experimental results demonstrating the control of both transient and steady-state vibrations through these techniques are presented.
+Keywords
+feedback control, piezoceramic actuators, PDE model, 93C20, 93B40, 

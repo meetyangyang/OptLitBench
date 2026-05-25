@@ -1,0 +1,6 @@
+Evolutionary topology optimization of elastoplastic structures
+Liang Xia;Felix Fritzen;Piotr Breitkopf;
+Abstract
+We have recently proposed in (Fritzen et al., Int J Numer Methods Eng 106(6):430–453, 2016) an evolutionary topology optimization model for the design of multiscale elastoplastic structures, which is in general independent of the applied material law. Facing the variability of the final design for minor parameter changes when dealing with plastic structural designs, we further improve the robustness and the effectiveness of the BESO optimization procedure in this work by introducing a damping scheme on sensitivity numbers and by progressively reducing the sensitivity filtering radius. The damping scheme constraining the variance of the sensitivity numbers stabilizes the topological evolution process in particular for dissipative structural designs. By setting initially a large filter radius value and reducing it gradually, the emergence of the redundant structural branches, which are to be eliminated afterwards and are the main reasons deteriorating the design process, could be avoided. The robustness and the effectiveness of the improved model has been validated by means of benchmark numerical examples of conventional homogeneous structures.
+Keywords
+Topology optimization  BESO  Sensitivity analysis  Adjoint method  Elastoplasticity  

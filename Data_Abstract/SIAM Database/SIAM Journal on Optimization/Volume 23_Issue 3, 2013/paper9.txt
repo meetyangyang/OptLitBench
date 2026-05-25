@@ -1,0 +1,6 @@
+A New Class of Functions for Measuring Solution Integrality in the Feasibility Pump Approach
+M.  De Santis, S.  Lucidi, and F.  Rinaldi;
+Abstract
+Mixed integer optimization is a powerful tool for modeling many optimization problems arising from real-world applications. Finding a first feasible solution represents the first step for several mixed integer programming (MIP) solvers. The feasibility pump is a heuristic for finding feasible solutions to mixed integer linear programming  (MILP) problems which is effective even when dealing with hard MIP instances. In this work, we start by interpreting the feasibility pump as a Frank--Wolfe method applied to a nonsmooth concave merit function. Then we define a general class of functions that can be included in the feasibility pump scheme for measuring solution integrality, and we identify some merit functions belonging to this class. We further extend our approach by dynamically combining two different merit functions. Finally, we define a new version of the feasibility pump algorithm, which includes the original version of the feasibility pump as a special case, and we present computational results on binary MILP problems showing the effectiveness of our approach.
+Keywords
+mixed integer programming, concave penalty functions, Frank--Wolfe algorithm, feasibility problem, 90C06, 90C10, 90C11, 90C30, 90C59, 

@@ -1,0 +1,6 @@
+Simulation‐based Uniform Value Function Estimates of Markov Decision Processes
+Rahul   Jain and Pravin P.   Varaiya;
+Abstract
+The value function of a Markov decision process (MDP) assigns to each policy its expected discounted reward. This expected reward can be estimated as the empirical average of the reward over many independent simulation runs. We derive bounds on the number of runs needed for the uniform convergence of the empirical average to the expected reward for a class of policies, in terms of the Vapnik‐Chervonenkis or P‐dimension of the policy class. Further, we show through a counterexample that whether we get uniform convergence or not for an MDP depends on the simulation method used. Uniform convergence results are also obtained for the average‐reward case, for partially observed Markov decision processes, and can be easily extended to Markov games. The results can be viewed as a contribution to empirical process theory and as an extension of the probably approximately correct (PAC) learning theory for partially observable MDPs and Markov games.
+Keywords
+Markov decision processes, Markov games, empirical process theory, PAC learning, value function estimation, uniform rate of convergence, 90C40, 62C12, 62M05, 

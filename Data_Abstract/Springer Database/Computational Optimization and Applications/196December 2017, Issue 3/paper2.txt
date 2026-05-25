@@ -1,0 +1,6 @@
+Using negative curvature in solving nonlinear programs
+Donald Goldfarb;Cun Mu;John Wright;Chaoxu Zhou;
+Abstract
+Minimization methods that search along a curvilinear path composed of a non-ascent negative curvature direction in addition to the direction of steepest descent, dating back to the late 1970s, have been an effective approach to finding a stationary point of a function at which its Hessian is positive semidefinite. For constrained nonlinear programs arising from recent applications, the primary goal is to find a stationary point that satisfies the second-order necessary optimality conditions. Motivated by this, we generalize the approach of using negative curvature directions from unconstrained optimization to equality constrained problems and prove that our proposed negative curvature method is guaranteed to converge to a stationary point satisfying second-order necessary conditions.
+Keywords
+Negative curvature direction  Avoiding saddle points  Curvilinear path line search  Equality constrained optimization  

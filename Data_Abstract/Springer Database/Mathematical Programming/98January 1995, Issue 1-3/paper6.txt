@@ -1,0 +1,6 @@
+A note on the strong polynomiality of convex quadratic programming
+Sung-Pil Hong;Sushil Verma;
+Abstract
+We prove that a general convex quadratic program (QP) can be reduced to the problem of finding the nearest point on a simplicial cone inO(n3 +n logL) steps, wheren andL are, respectively, the dimension and the encoding length of QP. The proof is quite simple and uses duality and repeated perturbation. The implication, however, is nontrivial since the problem of finding the nearest point on a simplicial cone has been considered a simpler problem to solve in the practical sense due to its special structure. Also we show that, theoretically, this reduction implies that (i) if an algorithm solves QP in a polynomial number of elementary arithmetic operations that is independent of the encoding length of data in the objective function then it can be used to solve QP in strongly polynomial time, and (ii) ifL is bounded by a ‘first order’ exponential function ofn then (i) can be stated even in stronger terms: to solve QP in strongly polynomial time, it suffices to find an algorithm running in polynomial time that is independent of the encoding length of the quadratic term matrix or constraint matrix. Finally, based on these results, we propose a conjecture.
+Keywords
+Convex quadratic programming  Strong polynomiality  Nearest point problem on simplicial cone  

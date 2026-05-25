@@ -1,0 +1,6 @@
+A multi-space sampling heuristic for the vehicle routing problem with stochastic demands
+Jorge E. Mendoza;Juan G. Villegas;
+Abstract
+The vehicle routing problem with stochastic demands consists in designing transportation routes of minimal expected cost to satisfy a set of customers with random demands of known probability distributions. This paper proposes a simple yet effective heuristic approach that uses randomized heuristics for the traveling salesman problem, a tour partitioning procedure, and a set partitioning formulation to sample the solution space and find high-quality solutions for the problem. Computational experiments on benchmark instances from the literature show that the proposed approach is competitive with the state-of-the-art algorithm for the problem in terms of both accuracy and efficiency. In experiments conducted on a set of 40 instances, the proposed approach unveiled four new best-known solutions (BKSs) and matched another 24. For the remaining 12 instances, the heuristic reported average gaps with respect to the BKS ranging from 0.69 to 0.15 % depending on its configuration.
+Keywords
+Vehicle routing  Stochastic demands  Heuristics   Sampling  Logistics  

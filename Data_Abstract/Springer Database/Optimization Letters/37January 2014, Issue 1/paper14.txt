@@ -1,0 +1,6 @@
+Converging upon basic feasible solutions through Dantzig–Wolfe decomposition
+Joseph L. Rios;Kevin Ross;
+Abstract
+We derive an important property for solving large-scale integer programs by examining the master problem in Dantzig–Wolfe decomposition. In particular, we prove that if a linear program can be divided into subproblems with affinely independent corner points, then there is a direct mapping between basic feasible solutions in the master and original problems. This has implications for integer programs where the feasible region has integer corner points, ensuring that integer solutions to the original problem will be found even through the decomposition approach. An application to air traffic flow scheduling, which motivated this result, is highlighted.
+Keywords
+Integer programming  Parallel algorithms  

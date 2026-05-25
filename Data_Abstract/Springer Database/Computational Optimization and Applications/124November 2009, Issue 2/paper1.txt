@@ -1,0 +1,8 @@
+Computing the metric dimension of graphs by genetic algorithms
+Jozef Kratica;Vera Kovačević-Vujčić;Mirjana Čangalović;
+Abstract
+
+In this paper we consider the NP-hard problem of determining the metric dimension of graphs. We propose a genetic algorithm (GA) that uses the binary encoding and the standard genetic operators adapted to the problem. The feasibility is enforced by repairing the individuals. The overall performance of the GA implementation is improved by a caching technique. Since the metric dimension problem up to now has been considered only theoretically, standard test instances for this problem do not exist. For that reason, we present the results of the computational experience on several sets of test instances for other NP-hard problems: pseudo boolean, crew scheduling and graph coloring. Testing on instances with up to 1534 nodes shows that GA relatively quickly obtains approximate solutions. For smaller instances, GA solutions are compared with CPLEX results. We have also modified our implementation to handle theoretically challenging large-scale classes of hypercubes and Hamming graphs. In this case the presented approach reaches optimal or best known solutions for hypercubes up to 131072 nodes and Hamming graphs up to 4913 nodes.
+
+Keywords
+Graph theory  Metric dimension  Evolutionary approach  

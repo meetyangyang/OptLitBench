@@ -1,0 +1,6 @@
+Logic-based Benders decomposition
+J.N. Hooker;G. Ottosson;
+Abstract
+ Benders decomposition uses a strategy of ``learning from one's mistakes.'' The aim of this paper is to extend this strategy to a much larger class of problems. The key is to generalize the linear programming dual used in the classical method to an ``inference dual.'' Solution of the inference dual takes the form of a logical deduction that yields Benders cuts. The dual is therefore very different from other generalized duals that have been proposed. The approach is illustrated by working out the details for propositional satisfiability and 0-1 programming problems. Computational tests are carried out for the latter, but the most promising contribution of logic-based Benders may be to provide a framework for combining optimization and constraint programming methods.
+Keywords
+Programming Problem  Large Class  Classical Method  Programming Method  Constraint Programming  

@@ -1,0 +1,6 @@
+A Sequential Convexification Method (SCM) for Continuous Global Optimization
+Wenxing Zhu;Qingxiang Fu;
+Abstract
+A new method for continuous global minimization problems, acronymed SCM, is introduced. This method gives a simple transformation to convert the objective function to an auxiliary function with gradually ‘fewer’ local minimizers. All Local minimizers except a prefixed one of the auxiliary function are in the region where the function value of the objective function is lower than its current minimal value. Based on this method, an algorithm is designed which uses a local optimization method to minimize the auxiliary function to find a local minimizer at which the value of the objective function is lower than its current minimal value. The algorithm converges asymptotically with probability one to a global minimizer of the objective function. Numerical experiments on a set of standard test problems with several problems' dimensions up to 50 show that the algorithm is very efficient compared with other global optimization methods.
+Keywords
+Global minimization  Sequential convexification method  Auxiliary function  Fewer local minimizers  

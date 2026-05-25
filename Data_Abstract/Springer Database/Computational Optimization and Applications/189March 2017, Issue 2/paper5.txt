@@ -1,0 +1,6 @@
+Fast algorithm for singly linearly constrained quadratic programs with box-like constraints
+Meijiao Liu;Yong-Jin Liu;
+Abstract
+This paper focuses on a singly linearly constrained class of convex quadratic programs with box-like constraints. We propose a new fast algorithm based on parametric approach and secant approximation method to solve this class of quadratic problems. We design efficient implementations for our proposed algorithm and compare its performance with two state-of-the-art standard solvers called Gurobi and Mosek. Numerical results on a variety of test problems demonstrate that our algorithm is able to efficiently solve the large-scale problems with the dimension up to fifty million and it substantially outperforms Gurobi and Mosek in terms of the running time.
+Keywords
+Singly linearly constrained quadratic programs  Secant method  Weighted Ky Fan k-norm  90C20  90C25  

@@ -1,0 +1,6 @@
+Handling inequality constraints in direct search optimization
+ Rein   Luus ; Kelly   Sabaliauskas ; Ihor   Harapyn ;
+Abstract
+ The use of homotopic continuation, where the constraints are relaxed initially by a constraint relaxation parameter δ, can overcome the difficulty of obtaining feasible solutions for highly constrained optimization problems. During optimization, δ is systematically reduced in size until finally δ is put equal to zero. This then corresponds to the original optimization problem and an approximate optimal solution is now available. For refinement of this approximate solution, the active inequalities are identified and the optimization problem is reformulated so that the active inequalities are used as equalities. This simplifies the optimization problem and enables the optimal solution to be obtained very accurately. The viability of this two-step procedure is tested with several problems. 
+Keywords
+Global optimization, Inequality constraints, Homotopic continuation, LJ optimization procedure 

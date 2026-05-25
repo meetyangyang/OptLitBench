@@ -1,0 +1,4 @@
+Improved Algorithm for the Soft Global Cardinality Constraint
+Alessandro Zanarini;Michela Milano;Gilles Pesant;
+Abstract
+We propose two algorithms achieving generalized arc consistency for the soft global cardinality constraint with variable-based violation and with value-based violation. They are based on graph theory and their complexity is \(O(\sqrt{n}m)\) where n is the number of variables and m is the sum of the cardinalities of the domains. They improve previous algorithms that ran respectively in O(n(m+nlog n)) and O((n+k)(m+nlog n)) where k is the cardinality of the union of the domains.

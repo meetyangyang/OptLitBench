@@ -1,0 +1,6 @@
+QN-like variable storage conjugate gradients
+A. Buckley;A. Lenir;
+Abstract
+Both conjugate gradient and quasi-Newton methods are quite successful at minimizing smooth nonlinear functions of several variables, and each has its advantages. In particular, conjugate gradient methods require much less storage to implement than a quasi-Newton code and therefore find application when storage limitations occur. They are, however, slower, so there have recently been attempts to combine CG and QN algorithms so as to obtain an algorithm with good convergence properties and low storage requirements. One such method is the code CONMIN due to Shanno and Phua; it has proven quite successful but it has one limitation. It has no middle ground, in that it either operates as a quasi-Newton code using O(n 2) storage locations, or as a conjugate gradient code using 7n locations, but it cannot take advantage of the not unusual situation where more than 7n locations are available, but a quasi-Newton code requires an excessive amount of storage.
+Keywords
+Minimization  Conjugate Gradient  Quasi-Newton  Variable Storage  Reduced Storage  

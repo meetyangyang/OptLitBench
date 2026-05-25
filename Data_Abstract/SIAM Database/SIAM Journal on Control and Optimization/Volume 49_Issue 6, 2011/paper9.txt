@@ -1,0 +1,6 @@
+Computational Tools for the Safety Control of a Class of Piecewise Continuous Systems with Imperfect Information on a Partial Order
+Michael R.  Hafner and Domitilla  Del Vecchio;
+Abstract
+This paper addresses the two-agent safety control problem for piecewise continuous systems with disturbances and imperfect state information. In particular, we focus on a class of systems that evolve on a partial order and whose dynamics preserve the ordering. While the safety control problem with imperfect state information is prohibitive for general classes of nonlinear and hybrid systems, the class of systems considered in this paper admits an explicit solution. We compute this solution with linear complexity discrete-time algorithms that are guaranteed to terminate. The proposed algorithms are illustrated on a two-vehicle collision avoidance problem and implemented on a hardware roundabout test-bed.
+Keywords
+hybrid systems, safety control, computational methods, monotone systems, 93, 

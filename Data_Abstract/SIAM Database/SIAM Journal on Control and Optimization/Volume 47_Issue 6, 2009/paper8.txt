@@ -1,0 +1,6 @@
+Policy Iteration and the Max-Plus Finite Element Method
+D.  McCaffrey;
+Abstract
+We set out a policy iteration algorithm for the solution of a nonconvex nonlinear-affine finite horizon differential game. This involves the use of a max-plus finite element method (FEM) to solve a convex optimal control problem in the value determination step of the algorithm, where this convex problem is the result of fixing the policy of the second, or outer, player. A quadratic program is then solved in the policy improvement step to improve the feedback policy employed by the outer player. We show that the algorithm converges in a finite number of steps and that the approximation error at convergence is of order $\sqrt{\Delta t}+\Delta x(\Delta t)^{-1}$.
+Keywords
+max-plus algebra, policy iteration, nonconvex differential game, finite element method, Hamilton–Jacobi–Isaacs equation, $H_{\infty }$ control, 49L20, 91A23, 65M60, 06A15, 12K10, 

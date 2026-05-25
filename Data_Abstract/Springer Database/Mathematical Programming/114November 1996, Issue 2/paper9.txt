@@ -1,0 +1,6 @@
+Implementing bounds-based approximations in convex-concave two-stage stochastic programming
+N. C. P. Edirisinghe;W. T. Ziemba;
+Abstract
+This paper is concerned with implementational issues and computational testing of bounds-based approximations for solving two-stage stochastic programs with fixed recourse. The implemented bounds are those derived by the authors previously, using first and cross moment information of the random parameters and a convex-concave saddle property of the recourse function. The paper first examines these bounds with regard to their tightness, monotonic behavior, convergence properties, and computationally exploitable decomposition structures. Subsequently, the bounds are implemented under various partitioning/refining strategies for the successive approximation. The detailed numerical experiments demonstrate the effectiveness in solving large scenario-based two-stage stochastic optimization problems throughsuccessive scenario clusters induced by refining the approximations.
+Keywords
+Stochastic programs with recourse  Bounds on expectation of saddle functions  Partitioning strategies for rectangles  L-shaped decomposition  

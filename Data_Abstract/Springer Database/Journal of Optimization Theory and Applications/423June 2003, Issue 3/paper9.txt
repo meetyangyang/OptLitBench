@@ -1,0 +1,6 @@
+Least Squares Isotonic Regression in Two Dimensions
+J. Spouge;H. Wan;W.J. Wilbur;
+Abstract
+Given a finite partially-ordered set with a positive weighting function defined on its points, it is well known that any real-valued function defined on the set has a unique best order-preserving approximation in the weighted least squares sense. Many algorithms have been given for the solution of this isotonic regression problem. Most such algorithms either are not polynomial or they are of unknown time complexity. Recently, it has become clear that the general isotonic regression problem can be solved as a network flow problem in time O(n4) with a space requirement of O(n2), where n is the number of points in the set. Building on the insights at the basis of this improvement, we show here that, in the case of a general two-dimensional partial ordering, the problem can be solved in O(n3) time and, when the two-dimensional set is restricted to a grid, the time can be further improved to O(n2).
+Keywords
+Quasiorders  partial orders  weighted least-square fits  network flows  grids  dynamic programming  

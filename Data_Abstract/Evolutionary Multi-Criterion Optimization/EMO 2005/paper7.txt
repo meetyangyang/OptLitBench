@@ -1,0 +1,4 @@
+Parallelization of Multi-objective Evolutionary Algorithms Using Clustering Algorithms
+Felix Streichert;Holger Ulmer;Andreas Zell;
+Abstract
+While single-objective Evolutionary Algorithms (EAs) parallelization schemes are both well established and easy to implement, this is not the case for Multi-Objective Evolutionary Algorithms (MOEAs). Nevertheless, the need for parallelizing MOEAs arises in many real-world applications, where fitness evaluations and the optimization process can be very time consuming. In this paper, we test the ‘divide and conquer’ approach to parallelize MOEAs, aimed at improving the speed of convergence beyond a parallel island MOEA with migration. We also suggest a clustering based parallelization scheme for MOEAs and compare it to several alternative MOEA parallelization schemes on multiple standard multi-objective test functions.

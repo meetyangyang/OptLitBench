@@ -1,0 +1,6 @@
+Homotopy Continuation Methods for Nonlinear Complementarity Problems
+Masakazu Kojima;Nimrod Megiddo;Toshihito Noma;
+Abstract
+A complementarity problem with a continuous mapping f from Rn into itself can be written as the system of equations F(x, y) = 0 and (x, y) ≥ 0. Here F is the mapping from R2n into itself defined by F(x, y) = (x1y1, x2y2, …, xnyn, y − f(x)). Under the assumption that the mapping f is a P0-function, we study various aspects of homotopy continuation methods that trace a trajectory consisting of solutions of the family of systems of equations F(x, y) = t(a, b) and (x, y) ≥ 0 until the parameter t ≥ 0 attains 0. Here (a, b) denotes a 2n-dimensional constant positive vector. We establish the existence of a trajectory which leads to a solution of the problem, and then present a numerical method for tracing the trajectory. We also discuss the global and local convergence of the method.
+Keywords
+complementarity problem continuation method path-following method P0-function 

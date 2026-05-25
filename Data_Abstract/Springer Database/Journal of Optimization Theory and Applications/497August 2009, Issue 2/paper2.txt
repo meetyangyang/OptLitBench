@@ -1,0 +1,6 @@
+Greatest Descent Algorithms in Unconstrained Optimization
+B. S. Goh;
+Abstract
+We show that, for an unconstrained optimization problem, the long-term optimal trajectory consists of a sequence of greatest descent directions and a Newton method in the final iteration. The greatest descent direction can be computed approximately by using a Levenberg-Marquardt like formula. This implies the view that the Newton method approximates a Levenberg-Marquardt like formula at a finite distance from the minimum point, instead of the standard view that the Levenberg-Marquadt formula is a way to approximate the Newton method. With the insight gained from this analysis, we develop a two-dimensional version of a Levenberg-Marquardt like formula. We make use of the two numerically largest components of the gradient vector to define here new search directions. In this way, we avoid the need of inverting a high-dimensional matrix. This reduces also the storage requirements for the full Hessian matrix in problems with a large number of variables.
+Keywords
+Unconstrained optimization  Greatest descent direction  Levenberg-Marquardt formula  Newton method  Two-dimensional search directions  

@@ -1,0 +1,6 @@
+An exact algorithm for the bi-objective timing problem
+Sophie Jacquin;Fanny Dufossé;Laetitia Jourdan;
+Abstract
+The timing problem in the bi-objective just-in-time single-machine job-shop scheduling problem (JiT-JSP) is the task to schedule N jobs whose order is fixed, with each job incurring a linear earliness penalty for finishing ahead of its due date and a linear tardiness penalty for finishing after its due date. The goal is to minimize the earliness and tardiness simultaneously. We propose an exact greedy algorithm that finds the entire Pareto front in \(O(N^2)\) time. This algorithm is asymptotically optimal.
+Keywords
+Just-in-time scheduling  Bi-objective  Timing problem  Exact algorithm  

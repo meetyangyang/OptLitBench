@@ -1,0 +1,6 @@
+Single Sample Path-Based Optimization of Markov Chains
+X. R. Cao;
+Abstract
+Motivated by the needs of on-line optimization of real-world engineering systems, we studied single sample path-based algorithms for Markov decision problems (MDP). The sample path used in the algorithms can be obtained by observing the operation of a real system. We give a simple example to explain the advantages of the sample path-based approach over the traditional computation-based approach: matrix inversion is not required; some transition probabilities do not have to be known; it may save storage space; and it gives the flexibility of iterating the actions for a subset of the state space in each iteration. The effect of the estimation errors and the convergence property of the sample path-based approach are studied. Finally, we propose a fast algorithm, which updates the policy whenever the system reaches a particular set of states and prove that the algorithm converges to the true optimal policy with probability one under some conditions. The sample path-based approach may have important applications to the design and management of engineering systems, such as high speed communication networks.
+Keywords
+Perturbation analysis  on-line optimization  Markov decision processes  performance potentials  

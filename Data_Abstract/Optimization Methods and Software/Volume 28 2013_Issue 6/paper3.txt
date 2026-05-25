@@ -1,0 +1,6 @@
+An interior-point algorithm for the minimization arising from 3D contact problems with friction
+ R.   Kučera ; J.   Machalová ; H.   Netuka ; P.   Ženčák ;
+Abstract
+ The paper deals with a variant of the interior-point method for the minimization of strictly quadratic objective function subject to simple bounds and separable quadratic inequality constraints. Such minimizations arise from the finite element approximation of contact problems of linear elasticity with friction in three space dimensions. The main goal of the paper is the convergence analysis of the algorithm and its implementation. The optimal preconditioners for solving ill-conditioned inner linear systems are proposed. Numerical experiments illustrate the computational efficiency for large-scale problems. 
+Keywords
+interior-point algorithm, convergence, preconditioners, contact problems, frictionAMS Subject Classification: 65K05, 90C51, 74M10 

@@ -1,0 +1,6 @@
+Hit-and-Run Algorithms for Generating Multivariate Distributions
+Claude J. P. Bélisle;H. Edwin Romeijn;Robert L. Smith;
+Abstract
+We introduce a general class of Hit-and-Run algorithms for generating essentially arbitrary absolutely continuous distributions on Rd. They include the Hypersphere Directions algorithm and the Coordinate Directions algorithm that have been proposed for identifying nonredundant linear constraints and for generating uniform distributions over subsets of Rd. Given a bounded open set S in Rd, an absolutely continuous probability distribution π on S (the target distribution) and an arbitrary probability distribution ν on the boundary of the d-dimensional unit sphere centered at the origin (the direction distribution), the (ν, π)-Hit-and-Run algorithm produces a sequence of iteration points as follows. Given the nth iteration point x, choose a direction θ according to the distribution ν and then choose the (n + 1)st iteration point according to the conditionalization of the distribution π along the line defined by x and x + θ. Under mild conditions, we show that this sequence of points is a Harris recurrent reversible Markov chain converging in total variation to the target distribution π.
+Keywords
+Hit-and-Run algorithms Monte-Carlo methods Markov chains reversibility Harris recurrence 

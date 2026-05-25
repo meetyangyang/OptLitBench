@@ -1,0 +1,6 @@
+Optimization models for the machine scheduling problem with a single flexible maintenance activity
+ Jen-Shiang   Chen ;
+Abstract
+ The majority of machine scheduling literature assumes that machines are available at all times. However, this assumption is inappropriate in certain real world situations. This study addresses the single machine and parallel machine scheduling problems, where machines are flexibly maintained and total tardiness is used as a performance measure. Machine M  k  should be scheduled for maintenance for a constant time, w  k . It is assumed that the maintenance period [u  k , v  k ] is set in advance and that the maintenance time, w  k , does not exceed the maintenance period (i.e., w  k ≤v  k −u  k ). The time u  k  (v  k ) is the earliest (or latest) time at which machine M  k  starts (or stops) its maintenance. Two cases, resumable and unresumable, are considered in the single machine and parallel machine problems. Eight mixed binary integer programming models are developed to derive the optimal schedule for the problem, and size complexity and computer solution times are provided to demonstrate the models' efficiency. 
+Keywords
+Scheduling, Integer programming, Single machine, Parallel machine 

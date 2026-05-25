@@ -1,0 +1,6 @@
+Algorithms for parametric nonconvex programming
+H. P. Benson;
+Abstract
+In this paper, we consider a general family of nonconvex programming problems. All of the objective functions of the problems in this family are identical, but their feasibility regions depend upon a parameter ϑ. This family of problems is called a parametric nonconvex program (PNP). Solving (PNP) means finding an optimal solution for every program in the family. A prototype branch-and-bound algorithm is presented for solving (PNP). By modifying a prototype algorithm for solving a single nonconvex program, this algorithm solves (PNP) in one branch-and-bound search. To implement the algorithm, certain compact partitions and underestimating functions must be formed in an appropriate manner. We present an algorithm for solving a particular (PNP) which implements the prototype algorithm by forming compact partitions and underestimating functions based upon rules given by Falk and Soland. The programs in this (PNP) have the same concave objective function, but their feasibility regions are described by linear constraints with differing right-hand sides. Computational experience with this algorithm is reported for various problems.
+Keywords
+Nonconvex programming  parametric programming  branch-and-bound methods  global minimization  

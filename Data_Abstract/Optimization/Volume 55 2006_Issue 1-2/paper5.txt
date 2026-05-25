@@ -1,0 +1,6 @@
+Parametrization in nonlinear optimal control problems
+ Rein   Luus ;
+Abstract
+ In solving optimal control problems numerically, the control policy is parametrized over a finite number of time intervals. The choice of the number of such time stages and the type of parametrization can be very important in establishing the nature of the optimal control policy. Several examples are used to show the importance of parametrization. For some systems, a highly oscillatory control policy improves the performance index. Such control policies can be readily established with iterative dynamic programming by the use of a large number of time stages of flexible length. In the optimization of a continuous stirred tank reactor, it is found that when the feed rates are periodically switched from lower to upper bounds, the profit function is improved beyond a smoother operation, which was previously believed to be the optimal operating policy.   
+Keywords
+Control vector parametrization, Global optimization, Iterative dynamic programming, Sensitivity, Oscillatory behaviorKeywords: 2000 Mathematics Subject Classifications: 49N99, 49L20, 90C31 

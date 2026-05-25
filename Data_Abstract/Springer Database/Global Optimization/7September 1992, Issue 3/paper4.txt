@@ -1,0 +1,6 @@
+An interval branch and bound algorithm for bound constrained optimization problems
+R. Baker Kearfott;
+Abstract
+In this paper, we propose modifications to a prototypical branch and bound algorithm for nonlinear optimization so that the algorithm efficiently handles constrained problems with constant bound constraints. The modifications involve treating subregions of the boundary identically to interior regions during the branch and bound process, but using reduced gradients for the interval Newton method. The modifications also involve preconditioners for the interval Gauss-Seidel method which are optimal in the sense that their application selectively gives a coordinate bound of minimum width, a coordinate bound whose left endpoint is as large as possible, or a coordinate bound whose right endpoint is as small as possible. We give experimental results on a selection of problems with different properties.
+Keywords
+Primary: 65K10  Secondary: 65G10  Nonlinear algebraic systems  Newton's method  interval arithmetic  Gauss-Seidel method  global optimization  singularities  

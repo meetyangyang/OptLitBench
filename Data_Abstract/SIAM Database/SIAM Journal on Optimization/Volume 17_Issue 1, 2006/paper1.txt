@@ -1,0 +1,6 @@
+Solving Matrix Inequalities whose Unknowns are Matrices
+Juan F.  Camino, J. William  Helton, and Robert E.  Skelton;
+Abstract
+This paper provides algorithms for numerical solution of convex matrix inequalities in which the variables naturally appear as matrices. This includes, for instance, many systems and control problems. To use these algorithms, no knowledge of linear matrix inequalities is required. However, as tools, they preserve many advantages of the linear matrix inequality framework. Our method has two components: (1) a numerical algorithm that solves a large class of matrix optimization problems and (2) a symbolic "convexity checker" that automatically provides a region which, if convex, guarantees that the solution from (1) is a global optimum on that region. The algorithms are partly numerical and partly symbolic and since they aim at exploiting the matrix structure of the unknowns, the symbolic part requires the development of new computer techniques for treating noncommutative algebra.
+Keywords
+matrix inequalities, convex optimization, semidefinite programming, noncommutative algebra, computer algebra, 90C25, 90C22, 15A42, 15A45, 93A99, 

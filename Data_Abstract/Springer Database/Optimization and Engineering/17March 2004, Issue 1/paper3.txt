@@ -1,0 +1,6 @@
+Evolutionary Algorithm Integrating Stress Heuristics for Truss Optimization
+Mariusz Pyrz;
+Abstract
+The optimal truss design using problem-oriented evolutionary algorithm is presented in the paper. The minimum weight structures subjected to stress and displacement constraints are searched. The discrete design variables are areas of members, selected from catalogues of available sections. The integration of the problem specific knowledge into the optimization procedure is proposed. The heuristic rules based on the concept of fully stressed design are introduced through special genetic operators, which use the information concerning the stress distribution of structural members. Moreover, approximated solutions obtained by deterministic, sequential discrete optimization methods are inserted into the initial population. The obtained hybrid evolutionary algorithm is specialized for truss design. Benchmark problems are calculated in numerical examples. The knowledge about the problem integrated into the evolutionary algorithm can enhance considerably the effectiveness of the approach and improve significantly the convergence rate and the quality of the results. The advantages and drawbacks of the proposed method are discussed.
+Keywords
+optimal truss design  discrete optimization  evolutionary algorithms  

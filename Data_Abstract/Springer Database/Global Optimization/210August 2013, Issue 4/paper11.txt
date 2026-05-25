@@ -1,0 +1,6 @@
+On the determinant and its derivatives of the rank-one corrected generator of a Markov chain on a graph
+J. A. Filar;M. Haythorpe;W. Murray;
+Abstract
+We present an algorithm to find the determinant and its first and second derivatives of a rank-one corrected generator matrix of a doubly stochastic Markov chain. The motivation arises from the fact that the global minimiser of this determinant solves the Hamiltonian cycle problem. It is essential for algorithms that find global minimisers to evaluate both first and second derivatives at every iteration. Potentially the computation of these derivatives could require an overwhelming amount of work since for the Hessian N 2 cofactors are required. We show how the doubly stochastic structure and the properties of the objective may be exploited to calculate all cofactors from a single LU decomposition.
+Keywords
+Markov chain  Generator matrix  Derivative  Determinant  Doubly stochastic  LU decomposition  Rank-one correction  Hamiltonian cycle problem  Cofactors  

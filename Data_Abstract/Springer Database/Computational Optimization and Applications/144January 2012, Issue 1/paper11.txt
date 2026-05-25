@@ -1,0 +1,6 @@
+Implementing the Nelder-Mead simplex algorithm with adaptive parameters
+Fuchang Gao;Lixing Han;
+Abstract
+In this paper, we first prove that the expansion and contraction steps of the Nelder-Mead simplex algorithm possess a descent property when the objective function is uniformly convex. This property provides some new insights on why the standard Nelder-Mead algorithm becomes inefficient in high dimensions. We then propose an implementation of the Nelder-Mead method in which the expansion, contraction, and shrink parameters depend on the dimension of the optimization problem. Our numerical experiments show that the new implementation outperforms the standard Nelder-Mead method for high dimensional problems.
+Keywords
+Nelder-Mead method  Simplex  Polytope  Adaptive parameter  Optimization  

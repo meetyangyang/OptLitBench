@@ -1,0 +1,6 @@
+Inductor shape optimization for electromagnetic casting
+Alfredo Canelas;Jean R. Roche;José Herskovits;
+Abstract
+The design of inductors in electromagnetic shaping of molten metals consists in looking for the position and the shape of a set of electric wires such that the induced electromagnetic field makes a given mass of liquid metal acquire a predefined shape. In this paper we formulate an inverse optimization problem where the position and shape of the inductors are defined by a set of design variables. In a first formulation of the inverse optimization problem we minimize the difference between the target and the equilibrium shapes while in a second approach we minimize the L 2 norm of a fictitious surface pressure that makes the target shape to be in mechanical equilibrium. Geometric constraints that prevent the inductors from penetrating the liquid metal are considered in both formulations. The optimization problems are solved using FAIPA, a line search interior-point algorithm for nonlinear optimization. Some examples are presented to show the effectiveness of the proposed approaches.
+Keywords
+Inverse problem  Free boundary  Electromagnetic shaping  Nonlinear optimization  

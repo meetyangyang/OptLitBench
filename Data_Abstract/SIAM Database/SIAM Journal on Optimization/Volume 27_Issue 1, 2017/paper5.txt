@@ -1,0 +1,6 @@
+Efficiency of the Accelerated Coordinate Descent Method on Structured Optimization Problems
+Yurii  Nesterov and Sebastian U.  Stich;
+Abstract
+In this paper we prove a new complexity bound for a variant of the accelerated coordinate descent method [Yu. Nesterov, SIAM J. Optim., 22 (2012), pp. 341--362]. We show that this method often outperforms the standard fast gradient methods (FGM [Yu. Nesterov, Dokl. Akad. Nauk SSSR, 269 (1983), pp. 542--547; Math. Program. (A), 103 (2005), pp. 127--152]) on optimization problems with dense data. In many important situations, the computational expenses of oracle and method itself at each iteration of our scheme are perfectly balanced (both depend linearly on dimensions of the problem). As application examples, we consider unconstrained convex quadratic minimization and the problems arising in the smoothing technique [Nesterov, Math. Program. (A), 103 (2005), pp. 127--152]. On some special problem instances, the provable acceleration factor with respect to FGM can reach the square root of the number of variables. Our theoretical conclusions are confirmed by numerical experiments.
+Keywords
+convex optimization, structural optimization, fast gradient methods, coordinate descent methods, complexity bounds, 90C06, 90C25, 90C47, 68Q25, 

@@ -1,0 +1,6 @@
+A hybrid iterated local search heuristic for the maximum weight independent set problem
+Bruno Nogueira;Rian G. S. Pinheiro;Anand Subramanian;
+Abstract
+This paper presents a hybrid iterated local search (ILS) algorithm for the maximum weight independent set (MWIS) problem, a generalization of the classical maximum independent set problem. Two efficient neighborhood structures are proposed and they are explored using the variable neighborhood descent procedure. Moreover, we devise a perturbation mechanism that dynamically adjusts the balance between intensification and diversification during the search. The proposed algorithm was tested on two well-known benchmarks (DIMACS-W and BHOSLIB-W) and the results obtained were compared with those found by state-of-the-art heuristics and exact methods. Our heuristic outperforms the best-known heuristic for the MWIS as well as the best heuristics for the maximum weight clique problem. The results also show that the hybrid ILS was capable of finding all known optimal solutions in milliseconds.
+Keywords
+Maximum weight independent set  Maximum weight clique  Minimum weight vertex cover  Iterated local search  Metaheuristics  

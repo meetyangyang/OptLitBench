@@ -1,0 +1,5 @@
+Control of Linear Systems through Specified Input Channels
+J. P.  Corfmat and A. S.  Morse;
+Abstract
+It is shown for the controllable linear system $\dot x = Ax + Bu + Dv$, $y = Cx$ that there exists a feedback map F for which $\dot x = (A + DFC)x + Bu$ is controllable if and only if the number of transmission polynomials of $(C,A,B)$ is no greater than the rank of the (nonzero) transfer matrix of $(C,A,B)$. If this condition fails to hold, then for all F, the spectrum of $A + DFC$ contains a uniquely determined subset of transmission zeros, and this subset coincides with the spectrum of $A + DFC$ modulo the controllable space of $(A + DFC,B)$ whenever F is selected so that the dimension of the controllable space is as large as possible. Under mild assumptions, the transmission polynomials are identified as the numerator polynomials of the rational functions which appear in the Smith–McMillan form of the transfer matrix of $(C,A,B)$.
+Keywords

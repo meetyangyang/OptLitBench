@@ -1,0 +1,6 @@
+Properties of an augmented Lagrangian for design optimization
+ Adel   Hamdi ; Andreas   Griewank ;
+Abstract
+ We consider the task of design optimization, where the constraint is a state equation that can only be solved by a typically rather slowly converging fixed point solver. This process can be augmented by a corresponding adjoint solver, and based on the resulting approximate reduced derivatives, also an optimization iteration that updates the design variables simultaneously. To coordinate the three iterative processes, we use an exact penalty function of a doubly augmented Lagrangian type that should be consistently reduced. Some numerical experiments on a variant of the Bratu problem are presented. 
+Keywords
+nonlinear optimization, simultaneous analysis and design, preconditioning, exact penalty function, bounded retardation AMS Subject Classification : 90C30 

@@ -1,0 +1,6 @@
+OMEGA one multi ethnic genetic approach
+Carmine Cerrone;Raffaele Cerulli;Manlio Gaudioso;
+Abstract
+The genetic algorithm (GA) is a quite efficient paradigm to solve several optimization problems. It is substantially a search technique that uses an ever-changing neighborhood structure related to a population which evolves according to a number of genetic operators. In the GA framework many techniques have been devised to escape from a local optimum when the algorithm fails in locating the global one. To this aim we present a variant of the GA which we call OMEGA (One Multi Ethnic Genetic Approach). The main difference is that, starting from an initial population, \(k\) different sub-populations are produced at each iteration and they independently evolve in \(k\) different environments. The resulting sub–populations are then recombined and the process is iterated. Our basic algorithmic scheme is tested on a recent and well-studied variant of the classic problem of the minimum spanning tree: the Minimum Labeling Spanning Tree problem. We compare our algorithm with several approaches drawn from the literature. The results are encouraging in view of future application of OMEGA to other classes of problems.
+Keywords
+Genetic algorithm  Evolutionary algorithm   Minimum labeling spanning tree  

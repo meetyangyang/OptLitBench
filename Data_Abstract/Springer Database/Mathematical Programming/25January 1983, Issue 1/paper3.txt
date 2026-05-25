@@ -1,0 +1,6 @@
+An algorithm for hierarchical optimization of large-scale problems with nested structure
+A. Kalliauer;
+Abstract
+This paper describes a general concept and a particular optimization algorithm for solving a class of large-scale nonlinear programming problems with a nested block-angular structured system of linear constraints with coupling variables. A primal optimization algorithm is developed, which is based on the recursive application of the partitioning concept to the nested structure in combination with a feasible directions method. The special column by column application of this partitioning concept finally leads to a very clear and efficient algorithm for nested problems, which is called ‘successive partitioning method’. It is shown that the reduced-gradient method can be represented as a special application of the concept.
+Keywords
+Nonlinear Programming  Large-scale Optimization  Decomposition Algorithm  

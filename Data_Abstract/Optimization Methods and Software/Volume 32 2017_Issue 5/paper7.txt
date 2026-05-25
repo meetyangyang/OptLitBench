@@ -1,0 +1,6 @@
+A feasible method for sensor network localization
+Xiaokai Chang;Sanyang Liu;
+Abstract
+A nonlinear programming (NLP) model with partial orthogonality constraints, relaxed from the polynomial optimization problem, is proposed and analysed for solving sensor network localization. The NLP model is difficult to solve as the orthogonality constraints are not only non-convex but numerically expensive to preserve during iterations. To deal with this difficulty, we apply the Cayley transform (a Crank–Nicolson-like update scheme) to preserve it. Combining with the gradient descent method, we develop a curvilinear search algorithm, and analyse its convergence. In practice, we accelerate our method by taking nonlinear conjugate gradient method and Barzilai–Borwein steps. Numerical experiments are given to demonstrate the efficiency of the proposed method, for the problems with the number of sensors up to 15,000 and the distance constraints up to 135,817.
+Keywords
+sensor network localization, nonlinear programming, feasible method, orthogonality constraint, Cayley transformation, curvilinear search 

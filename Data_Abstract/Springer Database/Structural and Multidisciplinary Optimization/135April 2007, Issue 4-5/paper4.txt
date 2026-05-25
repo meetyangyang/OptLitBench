@@ -1,0 +1,6 @@
+Free material optimization for stress constraints
+Michal Kočvara;Michael Stingl;
+Abstract
+Free material design deals with the question of finding the lightest structure subject to one or more given loads when both the distribution of material and the material itself can be freely varied. We additionally consider constraints on local stresses in the optimal structure. We discuss the choice of formulation of the problem and the stress constraints. The chosen formulation leads to a mathematical program with matrix inequality constraints, so-called nonlinear semidefinite program. We present an algorithm that can solve these problems. The algorithm is based on a generalized augmented Lagrangian method. A number of numerical examples demonstrate the effect of stress constraints in free material optimization.
+Keywords
+Topology optimization  Material optimization  Stress based design  Nonlinear semidefinite programming  

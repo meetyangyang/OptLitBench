@@ -1,0 +1,6 @@
+A dual algorithm for the minimum covering weighted ball problem in \({\mathbb{R}^n}\) 
+P. M. Dearing;Andrea M. Smith;
+Abstract
+The nonlinear convex programming problem of finding the minimum covering weighted ball of a given finite set of points in \({\mathbb{R}^n}\) is solved by generating a finite sequence of subsets of the points and by finding the minimum covering weighted ball of each subset in the sequence until all points are covered. Each subset has at most n + 1 points and is affinely independent. The radii of the covering weighted balls are strictly increasing. The minimum covering weighted ball of each subset is found by using a directional search along either a ray or a circular arc, starting at the solution to the previous subset. The step size is computed explicitly at each iteration.
+Keywords
+Minimum covering ball  Min-max location  One-center location  Nonlinear programming  

@@ -1,0 +1,6 @@
+The TV advertisements scheduling problem
+Fabián Díaz-Núñez;Nir Halman;Óscar C. Vásquez;
+Abstract
+A TV channel has a single advertisement break of duration h and a convex continuous function \(f{:}\;[0,h] \rightarrow \mathbb {R}^+\) representing the TV rating points within the advertisement break. Given n TV advertisements of different durations \(p_j\) that sum up to h, and willingness to pay coefficients \(w_j\), the objective is to schedule them on the TV break in order to maximize the total revenue of the TV channel \(\sum _j w_j \int _{c_j-p_j}^{c_j} f(t) dt,\) where \([c_j-p_j,c_j)\) is the broadcast time interval of TV advertisement j. We show that this problem is NP-hard and propose a fully polynomial time approximation scheme, using a special dominance property of an optimal schedule and the technique of K-approximation sets and functions introduced by Halman et al. (Math Oper Res 34:674–685, 2009).
+Keywords
+Scheduling  TV rating points  Dynamic programming  Fully polynomial time approximation scheme  K-approximation sets and functions  

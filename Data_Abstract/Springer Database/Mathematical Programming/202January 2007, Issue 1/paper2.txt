@@ -1,0 +1,6 @@
+Mixed-Integer Cuts from Cyclic Groups
+Matteo Fischetti;Cristiano Saturni;
+Abstract
+We analyze a separation procedure for Mixed-Integer Programs related to the work of Gomory and Johnson on interpolated subadditive functions. This approach has its roots in the Gomory-Johnson characterization on the master cyclic group polyhedron. To our knowledge, the practical benefit that can be obtained by embedding interpolated subadditive cuts in a cutting plane algorithm was not investigated computationally by previous authors. In this paper we compute, for the first time, the lower bound value obtained when adding (implicitly) all the interpolated subadditive cuts that can be derived from the individual rows of an optimal LP tableau, thus approximating the optimization over the intersection of the Gomory corner polyhedron with the LP relaxation of the original problem formulation. The computed bound is compared with that obtained when only Gomory mixed-integer cuts are used, on a very large test-bed of MIP instances.
+Keywords
+Mixed-Integer Programming  Subadditive cuts  Gomory cuts  Cyclic Group  Corner polyhedra  

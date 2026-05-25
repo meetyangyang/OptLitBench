@@ -1,0 +1,6 @@
+A Duality Approach for Solving Control-Constrained Linear-Quadratic Optimal Control Problems
+R. S.  Burachik, C. Y.  Kaya, and S. N.  Majeed;
+Abstract
+We use a Fenchel duality scheme for solving control-constrained linear-quadratic optimal control problems.  We derive the dual of the optimal control problem explicitly, where the control constraints are embedded in the dual objective functional, which turns out to be continuously differentiable.  We specifically prove that strong duality and saddle point properties hold.  We carry out numerical experiments with the discretized primal and dual formulations of the problem, for which we implement powerful existing finite-dimensional optimization techniques and associated software.  We illustrate that by solving the dual of the optimal control problem, instead of the primal one, significant computational savings can be achieved.  Other numerical advantages are also discussed.
+Keywords
+linear-quadratic control, Fenchel duality, zero duality gap, strong duality, saddle point property, Euler discretization, Primary, 49J53, 49K40; Secondary, 49M37, 65J15, 90C31, 

@@ -1,0 +1,6 @@
+Sparsity Constrained Nonlinear Optimization: Optimality Conditions and Algorithms
+Amir  Beck and Yonina C.  Eldar;
+Abstract
+This paper treats the problem of minimizing a general continuously differentiable function subject to sparsity constraints. We present and analyze several different optimality criteria which are based on the notions of stationarity and coordinatewise optimality. These conditions are then used to derive three numerical algorithms aimed at finding points satisfying the resulting optimality criteria: the iterative hard thresholding method and the greedy and partial sparse-simplex methods. The first algorithm is essentially a gradient projection method, while the remaining two algorithms are of a coordinate descent type. The theoretical convergence of these techniques and their relations to the derived optimality conditions are studied. The algorithms and results are illustrated by several numerical examples.
+Keywords
+optimality conditions, sparsity constrained problems, stationarity, numerical methods, compressed sensing, 90C26, 90C46, 90C90, 

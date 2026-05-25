@@ -1,0 +1,6 @@
+Damped Techniques for the Limited Memory BFGS Method for Large-Scale Optimization
+Mehiddin Al-Baali;Lucio Grandinetti;Ornella Pisacane;
+Abstract
+This paper is aimed to extend a certain damped technique, suitable for the Broyden–Fletcher–Goldfarb–Shanno (BFGS) method, to the limited memory BFGS method in the case of the large-scale unconstrained optimization. It is shown that the proposed technique maintains the global convergence property on uniformly convex functions for the limited memory BFGS method. Some numerical results are described to illustrate the important role of the damped technique. Since this technique enforces safely the positive definiteness property of the BFGS update for any value of the steplength, we also consider only the first Wolfe–Powell condition on the steplength. Then, as for the backtracking framework, only one gradient evaluation is performed on each iteration. It is reported that the proposed damped methods work much better than the limited memory BFGS method in several cases.
+Keywords
+Large-scale optimization  The limited memory BFGS method  Damped technique  Line search framework  

@@ -1,0 +1,6 @@
+Multi Agent Collaborative Search based on Tchebycheff decomposition
+Federico Zuiani;Massimiliano Vasile;
+Abstract
+This paper presents a novel formulation of Multi Agent Collaborative Search, for multi-objective optimization, based on Tchebycheff decomposition. A population of agents combines heuristics that aim at exploring the search space both globally (social moves) and in a neighborhood of each agent (individualistic moves). In this novel formulation the selection process is based on a combination of Tchebycheff scalarization and Pareto dominance. Furthermore, while in the previous implementation, social actions were applied to the whole population of agents and individualistic actions only to an elite subpopulation, in this novel formulation this mechanism is inverted. The novel agent-based algorithm is tested at first on a standard benchmark of difficult problems and then on two specific problems in space trajectory design. Its performance is compared against a number of state-of-the-art multi-objective optimization algorithms. The results demonstrate that this novel agent-based search has better performance with respect to its predecessor in a number of cases and converges better than the other state-of-the-art algorithms with a better spreading of the solutions.
+Keywords
+Agent-based optimization  Multi-objective optimization  Memetic strategies  

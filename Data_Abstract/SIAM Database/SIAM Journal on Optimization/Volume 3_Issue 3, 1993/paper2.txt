@@ -1,0 +1,6 @@
+A Newton Method for Convex Regression, Data Smoothing, and Quadratic Programming with Bounded Constraints
+Wu  Li and John  Swetits;
+Abstract
+This paper formulates systems of piecewise linear equations, derived from the Karush–Kuhn–Tucker conditions for constrained convex optimization problems, as unconstrained minimization problems in which the objective function is a multivariate quadratic spline. Such formulations provide new ways of developing efficient algorithms for many optimization problems, such as the convex regression problem, the least-distance problem, the symmetric monotone linear complementarily problem, and the convex quadratic programming problem with bounded constraints. Theoretical results, a description of an algorithm and its implementation, and numerical results are presented along with a stability analysis.
+Keywords
+data smoothing, Newton methods, convex regression, convex quadratic programs, unconstrained minimization of convex quadratic spline function, 90C20, 90C33, 49M15, 90C90, 90C31, 41A29I, 15A12, 62F30, 

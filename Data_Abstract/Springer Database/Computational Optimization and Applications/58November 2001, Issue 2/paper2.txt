@@ -1,0 +1,6 @@
+A “Logic-Constrained” Knapsack Formulation and a Tabu Algorithm for the Daily Photograph Scheduling of an Earth Observation Satellite
+Michel Vasquez;Jin-Kao Hao;
+Abstract
+The daily photograph scheduling problem of earth observation satellites such as Spot 5 consists of scheduling a subset of mono or stereo photographs from a given set of candidates to different cameras. The scheduling must maximize a profit function while satisfying a large number of constraints. In this paper, we first present a formulation of the problem as a generalized version of the well-known knapsack model, which includes large numbers of binary and ternary “logical” constraints. We then develop a tabu search algorithm which integrates some important features including an efficient neighborhood, a dynamic tabu tenure mechanism, techniques for constraint handling, intensification and diversification. Extensive experiments on a set of large and realistic benchmark instances show the effectiveness of this approach.
+Keywords
+tabu search  heuristics  satellite photograph scheduling  multidimensional knapsack  constrained combinatorial optimization  

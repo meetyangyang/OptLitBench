@@ -1,0 +1,6 @@
+Convergence of a stochastic approximation algorithm for the GI/G/1 queue using infinitesimal perturbation analysis
+M. C. Fu;
+Abstract
+Discrete-event systems to which the technique of infinitesimal perturbation analysis (IPA) is applicable are natural candidates for optimization via a Robbins-Monro type stochastic approximation algorithm. We establish a simple framework for single-run optimization of systems with regenerative structure. The main idea is to convert the original problem into one in which unbiased estimators can be derived from strongly consistent IPA gradient estimators. Standard stochastic approximation results can then be applied. In particular, we consider the GI/G/1 queue, for which IPA gives strongly consistent estimators for the derivative of the mean system time. Convergence (w.p.1) proofs for the problem of minimizing the mean system time with respect to a scalar service time parameter are presented.
+Keywords
+Stochastic optimization  stochastic approximation  perturbation analysis  single-server queues  

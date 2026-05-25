@@ -1,0 +1,6 @@
+Subgrid scale eddy viscosity finite element method on optimal control of system governed by unsteady Oseen equations
+Gang Chen;Minfu Feng;
+Abstract
+In this paper we focus on numerical analysis of finite element methods with stabilizations for the optimal control of system governed by unsteady Oseen equations. Using continuous equal-order finite elements for both velocities and pressure, two fully discrete schemes are proposed. Convective effects and pressure are stabilized by adding a subgrid scale eddy viscosity term and a pressure stabilized term. Convergence of the approximate solution is proved. A-Priori error estimates are obtained uniformly with Reynolds number, especially the \(L^2\)-error estimates of numerical solution are independent of Reynolds number. The numerical experiments are shown to be consistent with our theoretical analysis.
+Keywords
+Optimal control  Unsteady Oseen equations  Small viscosity  LBB stability condition  Subgrid scale eddy viscosity  49J20  49K20  65M12  65M60  

@@ -1,0 +1,6 @@
+Parametric Method for Global Optimization
+S. De Marchi;I. Raykov;
+Abstract
+This paper considers constrained and unconstrained parametric global optimization problems in a real Hilbert space. We assume that the gradient of the cost functional is Lipschitz continuous but not smooth. A suitable choice of parameters implies the linear or superlinear (supergeometric) convergence of the iterative method. From the numerical experiments, we conclude that our algorithm is faster than other existing algorithms for continuous but nonsmooth problems, when applied to unconstrained global optimization problems. However, because we solve 2n + 1 subproblems for a large number n of independent variables, our algorithm is somewhat slower than other algorithms, when applied to constrained global optimization.
+Keywords
+Global optimization  Lyapunov functions  Lyapunov function methods  Hilbert spaces  differential inclusions  monotone operators  subdifferentials  

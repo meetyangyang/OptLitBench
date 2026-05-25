@@ -1,0 +1,4 @@
+A New Exact Solution Algorithm for the Job Shop Problem with Sequence-Dependent Setup Times
+Christian Artigues;Sana Belmokhtar;Dominique Feillet;
+Abstract
+We propose a new solution approach for the Job Shop Problem with Sequence Dependent Setup Times (SDST-JSP). The problem consists in scheduling jobs, each job being a set of elementary operations to be processed on different machines. The objective pursued is to minimize the completion time of the set of operations. We investigate a relaxation of the problem related to the traveling salesman problem with time windows (TSPTW). Our approach is based on a Branch and Bound procedure, including constraint propagation and using this relaxation. It compares favorably over the best available approaches from the literature on a set of benchmark instances.

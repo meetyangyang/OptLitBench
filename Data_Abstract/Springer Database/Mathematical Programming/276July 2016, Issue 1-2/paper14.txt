@@ -1,0 +1,6 @@
+On Lipschitz optimization based on gray-box piecewise linearization
+Andreas Griewank;Andrea Walther;Sabrina Fiege;Torsten Bosse;
+Abstract
+We address the problem of minimizing objectives from the class of piecewise differentiable functions whose nonsmoothness can be encapsulated in the absolute value function. They possess local piecewise linear approximations with a discrepancy that can be bounded by a quadratic proximal term. This overestimating local model is continuous but generally nonconvex. It can be generated in its abs-normal form by a minor extension of standard algorithmic differentiation tools. Here we demonstrate how the local model can be minimized by a bundle-type method, which benefits from the availability of additional gray-box information via the abs-normal form. In the convex case our algorithm realizes the consistent steepest descent trajectory for which finite convergence was established earlier, specifically covering counterexamples where steepest descent with exact line-search famously fails. The analysis of the abs-normal representation and the design of the optimization algorithm are geared toward the general case, whereas the convergence proof so far covers only the convex case.
+Keywords
+Bundle methods  Piecewise linearity  Algorithmic differentiation  Abs-normal form  Nonsmooth Optimization  49J52  90C56  

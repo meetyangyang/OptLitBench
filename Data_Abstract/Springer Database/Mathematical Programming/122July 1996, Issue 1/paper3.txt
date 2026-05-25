@@ -1,0 +1,6 @@
+Fast deterministic approximation for the multicommodity flow problem
+Tomasz Radzik;
+Abstract
+In this paper we consider an optimization version of the multicommodity flow problem which is known as the maximum concurrent flow problem. We show that an approximate solution to this problem can be computed deterministically using O(k(ε −2 + logk) logn) 1-commodity minimum-cost flow computations, wherek is the number of commodities,n is the number of nodes, andε is the desired precision. We obtain this bound by proving that in the randomized algorithm developed by Leighton et al. (1995) the random selection of commodities can be replaced by the deterministic round-robin without increasing the total running time. Our bound significantly improves the previously known deterministic upper bounds and matches the best known randomized upper bound for the approximation concurrent flow problem.
+Keywords
+Network flow  Multicommodity flow  Concurrent flow  Approximate solution  Network optimization  

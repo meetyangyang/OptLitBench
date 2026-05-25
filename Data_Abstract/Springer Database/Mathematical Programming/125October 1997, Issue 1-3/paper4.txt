@@ -1,0 +1,6 @@
+A modified lift-and-project procedure
+Egon Balas;
+Abstract
+In recent years the lift-and-project approach has been used successfully within a branch-and-cut framework to solve large, difficult pure and mixed 0–1 programs that have resisted solution efforts by pure branch and bound codes. The approach uses a linear description in a higher dimensional space of the convex hull of the disjunctive set created by imposing one or several 0–1 conditions. By solving a linear program derived from this higher dimensional representation — the cut generating linear program (CGLP) — the standard lift-and-project procedure obtains a deepest cut in a well defined sense. We propose a modification of CGLP that allows us to generate not just one deepest cut, but a class of cuts with desirable properties, each at the cost of one extra pivot in the optimal tableau of the modified CGLP.
+Keywords
+Lifting  Projection  Convexification  Disjunctive programming  

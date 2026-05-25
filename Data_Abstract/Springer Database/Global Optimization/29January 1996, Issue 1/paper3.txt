@@ -1,0 +1,6 @@
+Tabu Search for the planar three-index assignment problem
+D. Magos;
+Abstract
+Tabu Search is a very effective method for approximately solving hard combinatorial problems. In the current work we implement Tabu Search for solving the Planar Three-Index Assignment Problem. The problem deals with finding the minimum cost assignment between elements of three distinct sets demanding that every pair of elements, each representing a different set, appears in the same solution exactly once. The solutions of the problems correspond to Latin squares. These structures form the basis of the move generation mechanism employed by the Tabu Search procedures. Standard Tabu Search ideas such as candidate move list, variable tabu list size, and frequency-based memory are tested. Computational results for a range of problems of varying dimensions are presented.
+Keywords
+Combinatorial optimization  three-index assignment  tabu search  Latin square  

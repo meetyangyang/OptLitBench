@@ -1,0 +1,6 @@
+Improved strategies for branching on general disjunctions
+G. Cornuéjols;L. Liberti;G. Nannicini;
+Abstract
+Within the context of solving Mixed-Integer Linear Programs by a Branch-and-Cut algorithm, we propose a new strategy for branching. Computational experiments show that, on the majority of our test instances, this approach enumerates fewer nodes than traditional branching. On average, on instances that contain both integer and continuous variables the number of nodes in the enumeration tree is reduced by more than a factor of two, and computing time is comparable. On a few instances, the improvements are of several orders of magnitude in both number of nodes and computing time.
+Keywords
+Integer programming  Branch and bound  Split disjunctions  90C11  90C57  

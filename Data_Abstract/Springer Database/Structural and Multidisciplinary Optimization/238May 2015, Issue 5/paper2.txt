@@ -1,0 +1,6 @@
+An active learning kriging model for hybrid reliability analysis with both random and interval variables
+Xufeng Yang;Yongshou Liu;Yi Gao;Yishang Zhang;Zongzhan Gao;
+Abstract
+Hybrid reliability analysis (HRA) with both random and interval variables is investigated in this paper. Firstly, it is figured out that a surrogate model just rightly predicting the sign of performance function can meet the requirement of HRA in accuracy. According to this idea, a methodology based on active learning Kriging (ALK) model named ALK-HRA is proposed. When constructing the Kriging model, the presented method only finely approximates the performance function in the region of interest: the region where the sign tends to be wrongly predicted. Based on the constructed Kriging model, Monte Carlo Simulation (MCS) is carried out to estimate both the lower and upper bounds of failure probability. ALK-HRA is accurate enough with calling the performance function as few times as possible. Four numerical examples and one engineering application are investigated to demonstrate the performance of the proposed method.
+Keywords
+Hybrid reliability  Random variable  Interval variable  Active learning  Kriging model  

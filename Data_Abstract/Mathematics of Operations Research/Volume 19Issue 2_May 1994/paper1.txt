@@ -1,0 +1,6 @@
+On the Complexity of Cooperative Solution Concepts
+Xiaotie Deng;Christos H. Papadimitriou;
+Abstract
+We study from a complexity theoretic standpoint the various solution concepts arising in cooperative game theory. We use as a vehicle for this study a game in which the players are nodes of a graph with weights on the edges, and the value of a coalition is determined by the total weight of the edges contained in it. The Shapley value is always easy to compute. The core is easy to characterize when the game is convex, and is intractable (NP-complete) otherwise. Similar results are shown for the kernel, the nucleolus, the ε-core, and the bargaining set. As for the von Neumann-Morgenstern solution, we point out that its existence may not even be decidable. Many of these results generalize to the case in which the game is presented by a hypergraph with edges of size k > 2.
+Keywords
+cooperative game theory computational complexity 

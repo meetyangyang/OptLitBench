@@ -1,0 +1,6 @@
+Numerical solution of Hamilton–Jacobi–Bellman equations by an exponentially fitted finite volume method
+ S.   Richardson ; S.   Wang ;
+Abstract
+ In this article, we present a numerical method for solving Hamilton–Jacobi–Bellman (HJB) equations governing a class of optimal feedback control problems. This method is based on a finite volume discretisation in state space coupled with an exponentially fitted difference technique. The time discretisation of the method is the backward Euler finite difference scheme, which is unconditionally stable. It is shown that the system matrix of the resulting discrete equations is an M-matrix. To demonstrate the effectiveness of this approach, numerical experiments on test problems with up to three states and three control variables were performed. The numerical results show that the method yields accurate approximate solutions to both the control and state variables.   
+Keywords
+Hamilton–Jacobi–Bellman equation, Optimal feedback control problem, Euler finite difference scheme, Finite volume method, Stochastic controlKeywords: Mathematics Subject Classifications 2000: 34K35, 93B52 

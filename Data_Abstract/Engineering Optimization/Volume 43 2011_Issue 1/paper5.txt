@@ -1,0 +1,6 @@
+Robust optimization of a flexible rotor-bearing system using the Campbell diagram
+ T.   G.   Ritto ; R.   H.   Lopez ; R.   Sampaio ; J.   E.   Souza de Cursi ;
+Abstract
+ The aim of this work is to propose a methodology to optimize the performance of a flexible rotor-bearing system taking into account parameter uncertainties. The idea of the optimization problem is to find the values of a set of parameters (e.g. stiffness of the bearing, diameter, etc.) for which the natural frequencies of the system are as far away as possible from the rotational speeds of the machine. For this purpose, the Campbell diagram is used and penalty functions are introduced to penalize natural frequencies close to the rotational speeds of the machine. Parameter uncertainties are taken into account (e.g. in the stiffness of the bearing, in the elasticity modulus of the material, etc.) and several probabilistic models are considered in the analysis (Gamma, Normal, Uniform, etc.). The global and bounded Nelder–Mead optimization algorithm is employed to minimize the proposed multi-objective function. The methodology proposed in this work is directly extended to complex rotor-bearing systems. 
+Keywords
+robust optimization, rotor dynamics, Campbell diagram, uncertainty 

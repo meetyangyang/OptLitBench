@@ -1,0 +1,6 @@
+Branch and bound with estimation based on pseudo-shadow-prices
+Bjørn Nygreen;
+Abstract
+During a branch and bound search of an integer programme, variables may be declared fixed, and rows may be declared redundant. The purpose of this paper is to report some results from forcing such fixed variables out of the basis in every node of a branch and bound search. At the same time non-basic slacks at zero activity on redundant rows are forced into the basis. Both changes consume computer time, but result in a less dense basis and in some cases in better branching.
+Keywords
+Integer programming  branch and bound  pseudo-shadow-prices  

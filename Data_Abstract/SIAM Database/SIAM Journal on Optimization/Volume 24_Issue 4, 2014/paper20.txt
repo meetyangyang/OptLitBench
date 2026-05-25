@@ -1,0 +1,6 @@
+Solving Coupled Composite Monotone Inclusions by Successive Fejér Approximations of their Kuhn--Tucker Set
+Abdullah  Alotaibi, Patrick L.  Combettes, and Naseer  Shahzad;
+Abstract
+We propose a new class of primal-dual Fejér monotone algorithms for solving systems of composite monotone inclusions. Our construction is inspired by a framework used by Eckstein and Svaiter for the basic problem of finding a zero of the sum of two monotone operators. At each iteration, points in the graph of the monotone operators present in the model are used to construct a half-space containing the Kuhn--Tucker set associated with the system. The primal-dual update is then obtained via a relaxed projection of the current iterate onto this half-space. An important feature that distinguishes the resulting splitting algorithms from existing ones is that they do not require prior knowledge of bounds on the linear operators involved or the inversion of linear operators.
+Keywords
+duality, Fejér monotonicity, monotone inclusion, monotone operator, primal-dual algorithm, splitting algorithm, Primary, 47H05; Secondary, 65K05, 90C25, 94A08, 

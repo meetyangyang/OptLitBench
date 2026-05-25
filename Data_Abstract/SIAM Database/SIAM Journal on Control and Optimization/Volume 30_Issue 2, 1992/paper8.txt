@@ -1,0 +1,6 @@
+On the Extension of Newton’s Method to Semi-Infinite Minimax Problems
+E.  Polak, D. Q.  Mayne, and J. E.  Higgins;
+Abstract
+This paper introduces two new techniques for the analysis and construction of semi-infinite optimization algorithms. The first is a very simple technique for establishing the superlinear rate of convergence of semi-infinite optimization algorithms. The second technique enables specification of discretization rules that preserve the superlinear convergence of conceptual superlinearly converging semi-infinite optimization algorithms.Natural extensions of Newton’s method to semi-infinite optimization are used as a vehicle for presenting the techniques. In particular, it is shown that both local and global versions of the conceptual extension of Newton’s method converge Q-superlinearly, with rate at least ${3 / 2}$, and that their implementations, based on the discretization rules, retain this rate of convergence.
+Keywords
+Newton’s method, minimax problems, nondifferentiable optimization, superlinear convergence, 49K35, 49M15, 49M39, 

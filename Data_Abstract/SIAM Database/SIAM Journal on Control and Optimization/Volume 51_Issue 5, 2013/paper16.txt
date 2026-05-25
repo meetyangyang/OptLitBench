@@ -1,0 +1,6 @@
+Controlling Nonlinear Infinite-Dimensional Systems via the Initial State
+Neil D.  Evans;
+Abstract
+A control problem is considered for nonlinear time-varying systems described by partial differential equations, in which the control acts only via part of the initial state.  The problem is to drive part, or all, of the process to some desired state in a specified time.  The motivation for such systems are control problems arising in medicine and biology that involve spatial or age characteristics, or time delays.  The approach taken is to formulate the problem as a fixed point problem for a suitable abstract differential equation and then apply a version of the contraction mapping theorem.  Conditions are imposed so that the problem is well defined and a weaker form of solution exists.  The solution obtained ensures that the target state is achieved on the range of a linear operator arising from a linearisation of the system about an initial estimate for the control.  Although the contraction mapping theorem yields a constructive method to determine the solution, an alternative, more direct, approach is presented, which relies on an iterative scheme for the control and the original dynamics.
+Keywords
+distributed parameter systems, initial state control, fixed point theorems, 93C10, 93C20, 93C25, 

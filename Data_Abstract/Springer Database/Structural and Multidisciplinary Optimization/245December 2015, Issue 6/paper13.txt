@@ -1,0 +1,6 @@
+Design of materials using topology optimization and energy-based homogenization approach in Matlab
+Liang Xia;Piotr Breitkopf;
+Abstract
+This paper presents a Matlab code for the optimal topology design of materials with extreme properties. For code compactness, an energy-based homogenization approach is adopted rather than the asymptotic approach. The effective constitutive parameters are obtained in terms of element mutual energies. A corresponding solution scheme with periodic boundary conditions is implemented. With a single constraint on material volume fraction, this code allows to maximize or minimize objective functions constituted by homogenized stiffness tensors such as bulk modulus, shear modulus and Poisson’s ratio. The complete Matlab code built on top of the 88-line code (Andreassen et al. Struct Multidiscip Optim 43(1):1–16, 2011) is given in the Appendix.
+Keywords
+Topology optimization  Microstructure  Homogenization  Periodic boundary conditions  Matlab  

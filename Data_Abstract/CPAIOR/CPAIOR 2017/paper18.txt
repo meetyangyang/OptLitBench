@@ -1,0 +1,4 @@
+A First Look at Picking Dual Variables for Maximizing Reduced Cost Fixing
+Omid Sanei Bajgiran;Andre A. Cire;Louis-Martin Rousseau;
+Abstract
+Reduced-cost-based filtering in constraint programming and variable fixing in integer programming are techniques which allow to cut out part of the solution space which cannot lead to an optimal solution. These techniques are, however, dependent on the dual values available at the moment of pruning. In this paper, we investigate the value of picking a set of dual values which maximizes the amount of filtering (or fixing) that is possible. We test this new variable-fixing methodology for arbitrary mixed-integer linear programming models. The resulting method can be naturally incorporated into existing solvers. Preliminary results on a large set of benchmark instances suggest that the method can effectively reduce solution times on hard instances with respect to a state-of-the-art commercial solver.

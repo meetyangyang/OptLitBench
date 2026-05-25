@@ -1,0 +1,6 @@
+The Scenario Generation Algorithm for Multistage Stochastic Linear Programming
+Michael S. Casey;Suvrajeet Sen;
+Abstract
+A multistage stochastic linear program (MSLP) is a model of sequential stochastic optimization where the objective and constraints are linear. When any of the random variables used in the MSLP are continuous, the problem is infinite dimensional. To numerically tackle such a problem, we usually replace it with a finite-dimensional approximation. Even when all the random variables have finite support, the problem is often computationally intractable and must be approximated by a problem of smaller dimension. One of the primary challenges in the field of stochastic programming deals with discovering effective ways to evaluate the importance of scenarios and to use that information to trim the scenario tree in such a way that the solution to the smaller optimization problem is not much different from the problem stated with the original tree. The scenario generation (SG) algorithm proposed in this paper is a finite-element method that addresses this problem for the class of MSLP with random right-hand sides.
+Keywords
+multistage stochastic linear program stochastic optimization scenario tree generation finite element methods 

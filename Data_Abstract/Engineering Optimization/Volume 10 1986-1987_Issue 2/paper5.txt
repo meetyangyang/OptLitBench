@@ -1,0 +1,6 @@
+A BRANCH AND BOUND ALGORITHM FOR TOPOLOGY OPTIMIZATION OF TRUSS STRUCTURES
+ ULF TORBJÖRN   RINGERTZ ;
+Abstract
+ An algorithm for the selection of a minimum weight truss, out of a set of possible candidate trusses, is presented. The trusses are subject to stress and deflection constraints. Multiple loading conditions are considered. Starling with a ground structure, a sequence of subtrusses called candidate trusses are generated and analyzed. Several criteria are used to rapidly discard non-optimal configurations. Sequential Quadratic Programming is used to solve a non-linearly constrained problem which is part of the algorithm. A technique, frequently used to keep second derivative approximations positive definite, is found to give numerical instabilities. Possible modifications to improve stability are discussed. Finally, three examples are given to demonstrate the algorithm. 
+Keywords
+trusses, topology, optimum design, branch and bound method, non-linear optimization 

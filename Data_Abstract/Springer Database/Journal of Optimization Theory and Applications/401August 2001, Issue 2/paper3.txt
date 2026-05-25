@@ -1,0 +1,6 @@
+Parallel Interior-Point Method for Linear and Quadratic Programs with Special Structure
+C. Durazzi;V. Ruggiero;G. Zanghirati;
+Abstract
+This paper concerns the use of iterative solvers in interior-point methods for linear and quadratic programming problems. We state an adaptive termination rule for the inner iterative scheme and we prove the global convergence of the obtained algorithm, exploiting the theory developed for inexact Newton methods. This approach is promising for problems with special structure on parallel computers. We present an application on Cray T3E/256 and SGI Origin 2000/64 arising in stochastic linear programming and robust optimization, where the constraint matrix is block-angular and extremely large.
+Keywords
+Interior-point methods  inexact Newton methods  preconditioned conjugate gradient method  planning under uncertainty  parallel computing  

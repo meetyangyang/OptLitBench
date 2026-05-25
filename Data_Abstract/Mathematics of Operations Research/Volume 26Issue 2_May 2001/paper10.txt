@@ -1,0 +1,6 @@
+Improved Approximation Schemes for Scheduling Unrelated Parallel Machines
+Klaus Jansen;Lorant Porkolab;
+Abstract
+We consider the problem of scheduling n independent jobs on m unrelated parallel machines where each job has to be processed by exactly one machine, processing job j on machine i requires pij time units, and the objective is to minimize the makespan, i.e., the maximum job completion time. Focusing on the case when m is fixed, we present for both preemptive and nonpreemptive variants of the problem fully polynomial approximation schemes whose running times depend only linearly on n. We also study an extension of the problem where processing job j on machine i incurs a cost of cij, and thus there are two optimization criteria: makespan and cost. We show that, for any fixed m, there is a fully polynomial approximation scheme that, given values T and C, computes for any fixed ε > 0 a schedule in 0(n) time with makespan at most (1 + ε)T and cost at most (1 + ε)C, if there exists a schedule of makespan T and cost C.
+Keywords
+Scheduling parallel machines makespan fully polynomial approximation scheme 

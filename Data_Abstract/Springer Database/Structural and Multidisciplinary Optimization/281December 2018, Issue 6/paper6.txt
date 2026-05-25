@@ -1,0 +1,6 @@
+A novel approach to discrete truss design problems using mixed integer neighborhood search
+Mohammad Shahabsafa;Ali Mohammad-Nezhad;Tamás Terlaky;Luis Zuluaga;Sicheng He;John T. Hwang;Joaquim R. R. A. Martins;
+Abstract
+Discrete truss sizing problems are very challenging to solve due to their combinatorial, nonlinear, non-convex nature. Consequently, truss sizing problems become unsolvable as the size of the truss grows. To address this issue, we consider various mathematical formulations for the truss design problem with the objective of minimizing weight, while the cross-sectional areas of the bars take only discrete values. Euler buckling constraints, Hooke’s law, and bounds for stress and displacements are also considered. We propose mixed integer linear optimization (MILO) reformulations of the non-convex mixed integer models. The resulting MILO models are not solvable with existing MILO solvers as the size of the problem grows. Our novel methodology provides high-quality solutions for large-scale real truss sizing problems, as demonstrated through extensive numerical experiments.
+Keywords
+Mixed integer linear optimization  Truss design problem  Euler buckling constraint  Neighborhood search mixed integer linear optimization  

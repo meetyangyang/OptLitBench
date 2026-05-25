@@ -1,0 +1,6 @@
+Provably Near-Optimal Balancing Policies for Multi-Echelon Stochastic Inventory Control Models
+Retsef Levi;Robin Roundy;Van Anh Truong;Xinshang Wang;
+Abstract
+We develop the first algorithmic approach to compute provably good ordering policies for a multi-echelon, stochastic inventory system facing correlated, nonstationary and evolving demands over a finite horizon. Specifically, we study the serial system. Our approach is computationally efficient and provides worst-case guarantees. That is, the expected cost of the algorithms is guaranteed to be within a constant factor of the optimal expected cost; depending on the assumption the constant varies between two and three. Our algorithmic approach is based on an innovative scheme to account for costs in a multi-echelon, multi-period environment, as well as repeatedly balancing between opposing cost. The cost-accounting scheme, called a cause-effect cost-accounting scheme, is significantly different from traditional cost-accounting schemes in that it reallocates costs with the goal of assigning every unit of cost to the decision that caused the cost to be incurred. We believe it will have additional applications in other multi-echelon inventory models.
+Keywords
+inventory/production approximations/heuristics policies stochastic models 

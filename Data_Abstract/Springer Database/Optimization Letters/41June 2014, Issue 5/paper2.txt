@@ -1,0 +1,6 @@
+Solving maximum clique in sparse graphs: an \(O(nm+n2^{d/4})\) algorithm for \(d\)-degenerate graphs
+Austin Buchanan;Jose L. Walteros;Sergiy Butenko;Panos M. Pardalos;
+Abstract
+We describe an algorithm for the maximum clique problem that is parameterized by the graph’s degeneracy \(d\). The algorithm runs in \(O\left( nm+n T_d \right) \) time, where \(T_d\) is the time to solve the maximum clique problem in an arbitrary graph on \(d\) vertices. The best bound as of now is \(T_d=O(2^{d/4})\) by Robson. This shows that the maximum clique problem is solvable in \(O(nm)\) time in graphs for which \(d \le 4 \log _2 m + O(1)\). The analysis of the algorithm’s runtime is simple; the algorithm is easy to implement when given a subroutine for solving maximum clique in small graphs; it is easy to parallelize. In the case of Bianconi-Marsili power-law random graphs, it runs in \(2^{O(\sqrt{n})}\) time with high probability. We extend the approach for a graph invariant based on common neighbors, generating a second algorithm that has a smaller exponent at the cost of a larger polynomial factor.
+Keywords
+Maximum clique  Degeneracy  Sparse graphs   Fixed-parameter tractability  \(d\)-Degenerate graphs  

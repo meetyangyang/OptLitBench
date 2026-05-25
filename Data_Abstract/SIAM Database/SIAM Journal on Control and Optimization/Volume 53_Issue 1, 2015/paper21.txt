@@ -1,0 +1,6 @@
+Poisson's Equation in Nonlinear Filtering
+Richard S.  Laugesen, Prashant G.  Mehta, Sean P.  Meyn, and Maxim  Raginsky;
+Abstract
+The aim of this paper is to provide a variational interpretation of the nonlinear filter in continuous time.  A time-stepping procedure is introduced, consisting of successive minimization problems in the space of probability densities.  The weak form of the nonlinear filter is derived via analysis of the first-order optimality conditions for these problems. The derivation shows the nonlinear filter dynamics may be regarded as a gradient flow, or a steepest descent, for a certain energy functional with respect to the Kullback--Leibler divergence. The second part of the paper is concerned with derivation of the feedback particle filter algorithm, based again on the analysis of the first variation.  The algorithm is shown to be exact.  That is, the posterior distribution of the particle matches exactly the true posterior, provided the filter is initialized with the true prior.
+Keywords
+nonlinear filters, particle filters, Poisson's equation, Kullback--Leibler divergence, steepest descemt, 35A15, 35J05, 60G35, 

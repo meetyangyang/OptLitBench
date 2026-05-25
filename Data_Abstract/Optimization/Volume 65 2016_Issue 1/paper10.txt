@@ -1,0 +1,6 @@
+Robust L1-norm non-parallel proximal support vector machine
+Chun-Na Li;Yuan-Hai Shao;Nai-Yang Deng;
+Abstract
+In this paper, we propose a robust L1-norm non-parallel proximal support vector machine (L1-NPSVM), which aims at giving a robust performance for binary classification in contrast to GEPSVM, especially for the problem with outliers. There are three mainly properties of the proposed L1-NPSVM. Firstly, different from the traditional GEPSVM which solves two generalized eigenvalue problems, our L1-NPSVM solves a pair of L1-norm optimal problems by using a simple justifiable iterative technique. Secondly, by introducing the L1-norm, our L1-NPSVM is more robust to outliers than GEPSVM to a great extent. Thirdly, compared with GEPSVM, no parameters need to be regularized in our L1-NPSVM. The effectiveness of the proposed method is demonstrated by tests on a simple artificial example as well as on some UCI datasets, which shows the improvements of GEPSVM.
+Keywords
+L1-norm optimization, non-parallel proximal support vector machine, robust approximation, generalized eigenvaluesAMS Subject Classifications: 90C31, 90C59 

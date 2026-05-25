@@ -1,0 +1,6 @@
+On the Solution of Large Quadratic Programming Problems with Bound Constraints
+Jorge J.  Moré and Gerardo  Toraldo;
+Abstract
+An algorithm is proposed that uses the conjugate gradient method to explore the face of the feasible region defined by the current iterate, and the gradient projection method to move to a different face. It is proved that for strictly convex problems the algorithm converges to the solution, and that if the solution is nondegenerate, then the algorithm terminates at the solution in a finite number of steps. Numerical results are presented for the obstacle problem, the elastic-plastic torsion problem, and the journal bearing problems. On a selection of these problems with dimensions ranging from 5000 to 15,000, the algorithm determines the solution in fewer than 15 iterations, and with a small number of function-gradient evaluations and Hessian-vector products per iteration.
+Keywords
+quadratic programming, large-scale, conjugate gradients, gradient projection, 65K10, 90C20, 

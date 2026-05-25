@@ -1,0 +1,6 @@
+A proximal point algorithm for the monotone second-order cone complementarity problem
+Jia Wu;Jein-Shan Chen;
+Abstract
+This paper is devoted to the study of the proximal point algorithm for solving monotone second-order cone complementarity problems. The proximal point algorithm is to generate a sequence by solving subproblems that are regularizations of the original problem. After given an appropriate criterion for approximate solutions of subproblems by adopting a merit function, the proximal point algorithm is verified to have global and superlinear convergence properties. For the purpose of solving the subproblems efficiently, we introduce a generalized Newton method and show that only one Newton step is eventually needed to obtain a desired approximate solution that approximately satisfies the appropriate criterion under mild conditions. Numerical comparisons are also made with the derivative-free descent method used by Pan and Chen (Optimization 59:1173–1197, 2010), which confirm the theoretical results and the effectiveness of the algorithm.
+Keywords
+Complementarity problem  Second-order cone  Proximal point algorithm  Approximation criterion  

@@ -1,0 +1,6 @@
+Optimization of practical trusses with constraints on eigenfrequencies, displacements, stresses, and buckling
+N.L. Pedersen;A.K. Nielsen;
+Abstract
+In this paper we consider the optimization of general 3D truss structures. The design variables are the cross-sections of the truss bars together with the joint coordinates, and are considered to be continuous variables. Using these design variables we simultaneously carry out size optimization (areas) and shape optimization (joint positions). Topology optimization (removal and introduction of bars) is only considered in the sense that bars of minimum cross-sectional area will have a negligible influence on the performance of the structure. The structures are subjected to multiple load cases and the objective of the optimizations is minimum mass with constraints on (possibly multiple) eigenfrequencies, displacements, and stresses. For the case of stress constraints, we deal differently with tensile and compressive stresses, for which we control buckling on the element level. The stress constraints are imposed in correlation with industrial standards, to make the optimized designs valuable from a practical point of view. The optimization problem is solved using SLP (Sequential Linear Programming). 
+Keywords
+truss optimization  eigenfrequencies  displacement  stress  buckling  multiple loads   

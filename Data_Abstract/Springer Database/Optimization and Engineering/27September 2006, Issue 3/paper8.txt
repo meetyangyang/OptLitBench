@@ -1,0 +1,6 @@
+Demonstration of probabilistic ordinal optimization concepts for continuous-variable optimization under uncertainty
+Vicente J. Romero;Doug V. Ayon;Chun-Hung Chen;
+Abstract
+A very general and robust approach to solving optimization problems involving probabilistic uncertainty is through the use of Probabilistic Ordinal Optimization. At each step in the optimization problem, improvement is based only on a relative ranking of the probabilistic merits of local design alternatives, rather than on precise quantification of the alternatives. Thus, we simply ask the question: “Is that alternative better or worse than this one?” to some level of statistical confidence we require, not: “HOW MUCH better or worse is that alternative to this one?”. In this paper we illustrate an elementary application of probabilistic ordinal concepts in a 2-D optimization problem. Two uncertain variables contribute to uncertainty in the response function. We use a simple Coordinate Pattern Search non-gradient-based optimizer to step toward the statistical optimum in the design space. We also discuss more sophisticated implementations, and some of the advantages and disadvantages versus other approaches to optimization under uncertainty.
+Keywords
+Optimization under uncertainty  Probabilistic ordinal optimization  

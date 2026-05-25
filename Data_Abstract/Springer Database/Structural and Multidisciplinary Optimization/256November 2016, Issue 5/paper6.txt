@@ -1,0 +1,6 @@
+A geometry projection method for the topology optimization of plate structures
+Shanglong Zhang;Julián A. Norato;Arun L. Gain;Naesung Lyu;
+Abstract
+We introduce a topology optimization method for the stiffness-based design of structures made of plates. Our method renders topologies made distinctly of plates, thereby producing designs that better conform to manufacturing processes tailored to plate structures, such as those that employ stock plates that are cut and joined by various means. To force the structural members to be plates, we employ the geometry projection method to project an analytical description of a set of fixed-thickness plates onto a continuous density field defined over a 3-dimensional, uniform finite element grid for analysis. A size variable is assigned to each plate and penalized so that the optimizer can entirely remove a plate from the design. The proposed method accommodates the case where the plates in the topology are rectangular and solid, and the case where the boundaries of the plates can change and holes can be introduced. The latter case is attained by composition with a free density field. We present examples that demonstrate the effectiveness of our method and discuss future work.
+Keywords
+Geometry projection  Topology optimization  Plate structures  Design for manufacturing  

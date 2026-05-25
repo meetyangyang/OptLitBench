@@ -1,0 +1,6 @@
+An Efficient Branch-and-bound Algorithm for Finding a Maximum Clique with Computational Experiments
+Etsuji Tomita;Toshikatsu Kameda;
+Abstract
+We present an exact and efficient branch-and-bound algorithm MCR for finding a maximum clique in an arbitrary graph. The algorithm is not specialized for any particular type of graph. It employs approximate coloring to obtain an upper bound on the size of a maximum clique along with an improved appropriate sorting of vertices. We demonstrate by computational experiments on random graphs with up to 15,000 vertices and on DIMACS benchmark graphs that in general, our algorithm decidedly outperforms other existing algorithms. The algorithm has been successfully applied to interesting problems in bioinformatics, image processing, design of quantum circuits, and design of DNA and RNA sequences for biomolecular computation.
+Keywords
+Maximum clique  Algorithm  Branch-and-bound  Approximate coloring  Computational experiments  

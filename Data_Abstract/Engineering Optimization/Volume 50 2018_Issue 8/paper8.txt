@@ -1,0 +1,6 @@
+A highly accurate differential evolution–particle swarm optimization algorithm for the construction of initial value problem solvers
+I. Th. Famelis;A. Alexandridis;Ch. Tsitouras;
+Abstract
+In this work a new evolutionary computation technique is introduced for the construction of initial value solvers based on Runge–Kutta (RK) pairs. The derivation of RK pairs corresponds to solving a nonlinear optimization problem with a multimodal objective function in a high dimensional search space; additional difficulty stems from the fact that only solutions with accuracy at least equal to machine epsilon are acceptable. The proposed approach involves hybridizing a Differential Evolution (DE) strategy with elements from Particle Swarm Optimization (PSO) in order to produce a method for solving optimization problems with high accuracy. The resulting methodology is applied to two different problems of RK pair derivation of orders 5 and 4 and compared with standard DE techniques. Numerical experiments show that the proposed hybrid DE-PSO satisfies the strict accuracy requirements imposed by the particular problem, while outperforming its rivals.
+Keywords
+Differential evolution, particle swarm optimization, initial value problems, Runge–Kutta pairs 

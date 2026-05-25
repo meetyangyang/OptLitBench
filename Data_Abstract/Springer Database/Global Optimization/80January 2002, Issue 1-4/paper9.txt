@@ -1,0 +1,6 @@
+Portfolio optimization under D.C. transaction costs and minimal transaction unit constraints
+Hiroshi Konno;Annista Wijayanayake;
+Abstract
+This paper addresses itself to a portfolio optimization problem under nonconvex transaction costs and minimal transaction unit constraints. Associated with portfolio construction is a fee for purchasing assets. Unit transaction fee is larger when the amount of transaction is smaller. Hence the transaction cost is usually a concave function up to certain point. When the amount of transaction increases, the unit price of assets increases due to illiquidity/market impact effects. Hence the transaction cost becomes convex beyond certain bound. Therefore, the net expected return becomes a general d.c. function (difference of two convex functions). We will propose a branch-and-bound algorithm for the resulting d.c. maximization problem subject to a constraint on the level of risk measured in terms of the absolute deviation of the rate of return of a portfolio. Also, we will show that the minimal transaction unit constraints can be incorporated without excessively increasing the amount of computation.
+Keywords
+Portfolio optimization  D.c. programming  Nonconvex transaction cost  Minimal transaction unit constraint  Mean-absolute deviation model  

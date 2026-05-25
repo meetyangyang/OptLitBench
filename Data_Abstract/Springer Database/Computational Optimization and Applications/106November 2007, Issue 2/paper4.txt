@@ -1,0 +1,8 @@
+Accurately learning from few examples with a polyhedral classifier
+Carlotta Orsenigo;Carlo Vercellis;
+Abstract
+
+In the context of learning theory many efforts have been devoted to developing classification algorithms able to scale up with massive data problems. In this paper the complementary issue is addressed, aimed at deriving powerful classification rules by accurately learning from few data. This task is accomplished by solving a new mixed integer programming model that extends the notion of discrete support vector machines, in order to derive an optimal set of separating hyperplanes for binary classification problems. According to the cardinality of the set of hyperplanes, the classification region may take the form of a convex polyhedron or a polytope in the original space where the examples are defined. Computational tests on benchmark datasets highlight the effectiveness of the proposed model, that yields the greatest accuracy when compared to other classification approaches.
+
+Keywords
+Classification  Pattern recognition  Learning theory  Support vector machines  Mixed integer programming  

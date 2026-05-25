@@ -1,0 +1,6 @@
+Algorithms for Linear Programming Problems with Interval Objective Function Coefficients
+Ralph E. Steuer;
+Abstract
+This paper presents three algorithms for solving linear programming problems in which some or all of the objective function coefficients are specified in terms of intervals. Which algorithm is applicable depends upon (a) the number of interval objective function coefficients, (b) the number of nonzero objective function coefficients, and (c) whether or not the feasible region is bounded. The algorithms output all extreme points and unbounded edge directions that are “multiparametrically optimal” with respect to the ranges placed on the objective function coefficients. The algorithms are most suitable to linear programs in which the objective function coefficients are deterministic but are likely to vary from time period to time period (as for example in blending problems).
+Keywords
+linear programming parametric programming multiobjective programming 

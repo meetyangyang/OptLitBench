@@ -1,0 +1,6 @@
+An efficient gradient method using the Yuan steplength
+Roberta De Asmundis;Daniela di Serafino;William W. Hager;Gerardo Toraldo;Hongchao Zhang;
+Abstract
+We propose a new gradient method for quadratic programming, named SDC, which alternates some steepest descent (SD) iterates with some gradient iterates that use a constant steplength computed through the Yuan formula. The SDC method exploits the asymptotic spectral behaviour of the Yuan steplength to foster a selective elimination of the components of the gradient along the eigenvectors of the Hessian matrix, i.e., to push the search in subspaces of smaller and smaller dimensions. The new method has global and \(R\)-linear convergence. Furthermore, numerical experiments show that it tends to outperform the Dai–Yuan method, which is one of the fastest methods among the gradient ones. In particular, SDC appears superior as the Hessian condition number and the accuracy requirement increase. Finally, if the number of consecutive SD iterates is not too small, the SDC method shows a monotonic behaviour.
+Keywords
+Gradient methods  Yuan steplength  Quadratic programming  

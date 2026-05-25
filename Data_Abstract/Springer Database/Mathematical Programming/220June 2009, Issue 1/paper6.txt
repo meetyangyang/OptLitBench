@@ -1,0 +1,6 @@
+LP-based online scheduling: from single to parallel machines
+José R. Correa;Michael R. Wagner;
+Abstract
+We study classic machine sequencing problems in an online setting. Specifically, we look at deterministic and randomized algorithms for the problem of scheduling jobs with release dates on identical parallel machines, to minimize the sum of weighted completion times: Both preemptive and non-preemptive versions of the problem are analyzed. Using linear programming techniques, borrowed from the single machine case, we are able to design a 2.62-competitive deterministic algorithm for the non-preemptive version of the problem, improving upon the 3.28-competitive algorithm of Megow and Schulz. Additionally, we show how to combine randomization techniques with the linear programming approach to obtain randomized algorithms for both versions of the problem with competitive ratio strictly smaller than 2 for any number of machines (but approaching two as the number of machines grows). Our algorithms naturally extend several approaches for single and parallel machine scheduling. We also present a brief computational study, for randomly generated problem instances, which suggests that our algorithms perform very well in practice.
+Keywords
+Online algorithms  Machine scheduling  

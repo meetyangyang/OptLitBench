@@ -1,0 +1,6 @@
+Reduced Storage, Quasi-Newton Trust Region Approaches to Function Optimization
+Linda  Kaufman;
+Abstract
+In this paper we consider several algorithms for reducing the storage when using a quasi-Newton method in a dogleg--trust region setting for minimizing functions of many variables. Secant methods require O(n2) locations to store an approximate Hessian and O(n2) operations per iteration when minimizing a function of n variables. This storage requirement becomes impractical when n becomes large. Our algorithms use a BFGS update and require kn storage and $4kn + O(k2) operations per iteration, but they may require more iterations than the standard trust region techniques. Typically k is between 10 and 100. Our dogleg--trust region strategies involve expressions with matrix products with both the inverse of this Hessian and with the Hessian itself. Our techniques for updating expressions for the Hessian and its inverse can be used to improve the performance of line search, limited memory algorithms.
+Keywords
+quasi-Newton, trust region, limited memory, 49M10, 65K10, 15A23, 

@@ -1,0 +1,6 @@
+Primal and dual alternating direction algorithms for ℓ 1-ℓ 1-norm minimization problems in compressive sensing
+Yunhai Xiao;Hong Zhu;Soon-Yi Wu;
+Abstract
+In this paper, we propose, analyze and test primal and dual versions of the alternating direction algorithm for the sparse signal reconstruction from its major noise contained observation data. The algorithm minimizes a convex non-smooth function consisting of the sum of ℓ 1-norm regularization term and ℓ 1-norm data fidelity term. We minimize the corresponding augmented Lagrangian function alternatively from either primal or dual forms. Both of the resulting subproblems admit explicit solutions either by using a one-dimensional shrinkage or by an efficient Euclidean projection. The algorithm is easily implementable and it requires only two matrix-vector multiplications per-iteration. The global convergence of the proposed algorithm is established under some technical conditions. The extensions to the non-negative signal recovery problem and the weighted regularization minimization problem are also discussed and tested. Numerical results illustrate that the proposed algorithm performs better than the state-of-the-art algorithm YALL1.
+Keywords
+Compressive sensing  Sparse optimization  Alternating direction method  Dual problem  Augmented Lagrangian function  

@@ -1,0 +1,6 @@
+A Low-Dimensional Semidefinite Relaxation for the Quadratic Assignment Problem
+Yichuan Ding;Henry Wolkowicz;
+Abstract
+The quadratic assignment problem (QAP) is arguably one of the hardest NP-hard discrete optimization problems. Problems of dimension greater than 25 are still considered to be large scale. Current successful solution techniques use branch-and-bound methods, which rely on obtaining strong and inexpensive bounds. In this paper, we introduce a new semidefinite programming (SDP) relaxation for generating bounds for the QAP in the trace formulation. We apply majorization to obtain a relaxation of the orthogonal similarity set of the quadratic part of the objective function. This exploits the matrix structure of QAP and results in a relaxation with much smaller dimension than other current SDP relaxations. We compare the resulting bounds with several other computationally inexpensive bounds such as the convex quadratic programming relaxation (QPB). We find that our method provides stronger bounds on average and is adaptable for branch-and-bound methods.
+Keywords
+quadratic assignment problem semidefinite programming relaxations interior point methods large-scale problems 

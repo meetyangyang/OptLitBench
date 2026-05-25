@@ -1,0 +1,6 @@
+Random Search Algorithms with Sufficient Descent for Minimization of Functions
+Yorai Wardi;
+Abstract
+A random search method for function minimization is presented. At each point it randomly searches for the next point, where the value of the objective function is reduced. While thus searching, it does not take as the next point the first point it finds which reduces the objective function, but rather it searches for a point where sufficient descent is obtained. The criterion for “sufficient” depends on the number of iterations of the search at a given point. The scheme is shown to converge a.e. to a set of desirable points, and a new proof of convergence is furnished. The method has the tendency to spend a larger amount of computing time when a desirable point is approached, and a smaller amount of computing time when far away from such a point. It is a general method, and algorithm based on it can easily be developed for specific optimization problems. Such algorithms are provided for three optimization problems: unconstrained local minimization of nondifferentiable functions, local minimization of continuously differentiable functions with functional inequalities, and global minimization of continuous functions.
+Keywords
+random search descent algorithms optimality functions nondifferentiable optimization 

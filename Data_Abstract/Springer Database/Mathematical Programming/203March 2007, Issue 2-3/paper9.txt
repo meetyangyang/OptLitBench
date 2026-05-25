@@ -1,0 +1,6 @@
+A modified nearly exact method for solving low-rank trust region subproblem
+Zhaosong Lu;Renato D. C. Monteiro;
+Abstract
+In this paper, we first discuss how the nearly exact (NE) method proposed by Moré and Sorensen [14] for solving trust region (TR) subproblems can be modified to solve large-scale “low-rank” TR subproblems efficiently. Our modified algorithm completely avoids computation of Cholesky factorizations by instead relying primarily on the Sherman–Morrison–Woodbury formula for computing inverses of “diagonal plus low-rank” type matrices. We also implement a specific version of the modified log-barrier (MLB) algorithm proposed by Polyak [17] where the generated log-barrier subproblems are solved by a trust region method. The corresponding direction finding TR subproblems are of the low-rank type and are then solved by our modified NE method. We finally discuss the computational results of our implementation of the MLB method and its comparison with a version of LANCELOT [5] based on a collection extracted from CUTEr [12] of nonlinear programming problems with simple bound constraints.
+Keywords
+Nearly exact method  Trust region method  Large-scale optimization  Limited-memory BFGS method  Sherman–Morrison–Woodbury formula  90C06  90C30  65K05  

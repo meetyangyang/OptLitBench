@@ -1,0 +1,6 @@
+An extension of the simplex method to constrained nonlinear optimization
+M. B. Subrahmanyam;
+Abstract
+The simplex algorithm of Nelder and Mead is extended to handle nonlinear optimization problems with constraints. To prevent the simplex from collapsing into a subspace near the constraints, a delayed reflection is introduced for those points moving into the infeasible region. Numerical experience indicates that the proposed algorithm yields good results in the presence of both inequality and equality constraints, even when the constraint region is narrow. We note that it may be possible to modify and improve the algorithm by trying out variants.
+Keywords
+Function minimization  constrained optimization  Nelder-Mead simplex algorithm  nonlinear programming algorithms  

@@ -1,0 +1,6 @@
+A Class of Active-Set Newton Methods for Mixed ComplementarityProblems
+A. N.  Daryina, A. F.  Izmailov, and M. V.  Solodov;
+Abstract
+Based on the identification of indices active at a solution of the mixed complementarity problem (MCP), we propose a class of Newton methods for which local superlinear convergence holds under extremely mild assumptions. In particular, the error bound condition needed for the identification procedure and the nondegeneracy condition needed for the convergence of the resulting Newton method are individually and collectively strictly weaker than the property of semistability of a solution. Thus the local superlinear convergence conditions of the presented method are weaker than conditions required for the semismooth (generalized) Newton methods applied to MCP reformulations. Moreover, they are also weaker than convergence conditions of the linearization (Josephy--Newton) method. For the special case of optimality systems with primal-dual structure, we further consider the question of superlinear convergence of primal variables. We illustrate our theoretical results with numerical experiments on some specially constructed MCPs whose solutions do not satisfy the usual regularity assumptions.
+Keywords
+mixed complementarity problem, semistability, 2-regularity, weak regularity, error bound, Newton method, 90C30, 65K05, 

@@ -1,0 +1,4 @@
+Adaptive Objective Space Partitioning Using Conflict Information for Many-Objective Optimization
+Antonio López Jaimes;Carlos A. Coello Coello;Hernán Aguirre;Kiyoshi Tanaka;
+Abstract
+In a previous work we proposed a scheme for partitioning the objective space using the conflict information of the current Pareto front approximation found by an underlying multi-objective evolutionary algorithm. Since that scheme introduced additional parameters that have to be set by the user, in this paper we propose important modifications in order to automatically set those parameters. Such parameters control the number of solutions devoted to explore each objective subspace, and the number of generations to create a new partition. Our experimental results show that the new adaptive scheme performs as good as the non-adaptive scheme, and in some cases it outperforms the original scheme.

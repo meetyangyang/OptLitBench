@@ -1,0 +1,6 @@
+Optimal Control with Budget Constraints and Resets
+R.  Takei, W.  Chen, Z.  Clawson, S.  Kirov, and A.  Vladimirsky;
+Abstract
+We consider both discrete and continuous control problems constrained by a fixed budget of some resource, which may be renewed upon entering a preferred subset of the state space. In the discrete case, we consider deterministic shortest path problems on graphs with a full budget reset in all preferred nodes. In the continuous case, we derive augmented PDEs of optimal control, which are then solved numerically on the extended state space with a full/instantaneous budget reset on the preferred subset. We introduce an iterative algorithm for solving these problems efficiently. The method's performance is demonstrated on a range of computational examples, including optimal path planning with constraints on prolonged visibility by a static enemy observer.
+Keywords
+hybrid systems, optimal control, reset-renewable resources, contiguous visibility, integral constraints, Hamilton--Jacobi, discontinuous viscosity solution, 90C29, 49L20, 49L25, 49N90, 65N22, 65K05, 34A38, 

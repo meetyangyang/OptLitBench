@@ -1,0 +1,6 @@
+Primal-Dual Interior-Point Methods for Semidefinite Programming: Convergence Rates, Stability and Numerical Results
+Farid  Alizadeh, Jean-Pierre A.  Haeberly, and Michael L.  Overton;
+Abstract
+Primal-dual interior-point path-following methods for semidefinite programming are considered. Several variants are discussed, based on Newton's method applied to three equations: primal feasibility, dual feasibility, and some form of centering condition. The focus is on three such algorithms, called the XZ, XZ+ZX, and Q methods. For the XZ+ZX and Q algorithms, the Newton system is well defined and its Jacobian is nonsingular at the solution, under nondegeneracy assumptions. The associated Schur complement matrix has an unbounded condition number on the central path under the nondegeneracy assumptions and an additional rank assumption. Practical aspects are discussed, including Mehrotra predictor-corrector variants and issues of numerical stability. Compared to the other methods considered, the XZ+ZX method is more robust with respect to its ability to step close to the boundary, converges more rapidly, and achieves higher accuracy.
+Keywords
+semidefinite programming, eigenvalue optimization, interior-point method, convex programming, 65K10, 90C25, 

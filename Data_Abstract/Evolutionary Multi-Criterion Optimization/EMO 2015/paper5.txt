@@ -1,0 +1,4 @@
+Model-Based Multi-objective Optimization: Taxonomy, Multi-Point Proposal, Toolbox and Benchmark
+Daniel Horn;Tobias Wagner;Dirk Biermann;Claus Weihs;Bernd Bischl;
+Abstract
+Within the last 10 years, many model-based multi-objective optimization algorithms have been proposed. In this paper, a taxonomy of these algorithms is derived. It is shown which contributions were made to which phase of the MBMO process. A special attention is given to the proposal of a set of points for parallel evaluation within a batch. Proposals for four different MBMO algorithms are presented and compared to their sequential variants within a comprehensive benchmark. In particular for the classic ParEGO algorithm, significant improvements are obtained. The implementations of all algorithm variants are organized according to the taxonomy and are shared in the open-source R package mlrMBO.

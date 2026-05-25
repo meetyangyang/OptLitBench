@@ -1,0 +1,6 @@
+OPTIMIZATION METHODS FOR SOLVING NON-LINEAR EQUATIONS IN VISCOELASTIC FLOW PROBLEMS
+ YVES   BEREAUX ; JEAN-ROBERT   CLERMONT ; ADNAN   YASSINE ;
+Abstract
+ Numerical simulation of complex flows of viscoelastic fluids requires the use of efficient algorithms for solving the non-linear governing equations. In this paper, optimization algorithms, associated to a non-linear least squares methods are considered. The governing equations are written in the context of stream-tube analysis. This method is particularly adapted to handle memory-integral constitutive equations and permits calculation of flows by considering elementary sub-domains in a mapped computational domain where the transformed streamlines are parallel and straight. The procedure used to solve the equations is the Trust Region optimization algorithm, which satisfies a global convergence property. Using an integral codeformational equation, various tests involving the influence of parameters of the algorithms are applied to different flow geometries and underline the robustness and efficiency of the Trust Region algorithm. 
+Keywords
+Viscoelasticity, stream-tube method, trust region algorithm, complex flows, memory-integral equations 

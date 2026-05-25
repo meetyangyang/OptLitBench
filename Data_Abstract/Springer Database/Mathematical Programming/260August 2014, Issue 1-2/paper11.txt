@@ -1,0 +1,6 @@
+On the stable solution of large scale problems over the doubly nonnegative cone
+Thomas Davi;Florian Jarre;
+Abstract
+The recent approach of solving large scale semidefinite programs with a first order method by minimizing an augmented primal-dual function is extended to doubly nonnegative programs. A key point governing the convergence of this approach are regularity properties of the underlying problem. Regularity of the augmented primal-dual function is established under the condition of uniqueness and strict complementarity. The application to the doubly nonnegative cone is motivated by the fact that the cost per iteration does not increase by adding nonnegativity constraints. Numerical experiments indicate that a two phase approach based on the augmented primal-dual function results in a stable method for solving large scale problems.
+Keywords
+Semidefinite program  Doubly nonnegative cone  Regularity  Augmented primal-dual function  90C25  90C46  

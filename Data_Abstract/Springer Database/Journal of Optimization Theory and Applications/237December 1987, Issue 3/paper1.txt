@@ -1,0 +1,6 @@
+ARMA identification
+G. Alengrin;R. S. Bucy;J. M. F. Moura;J. Pagés;M. I. Ribeiro;
+Abstract
+In view of recent results on the asymptotic behavior of the prediction error covariance for a state variable system (see Ref. 1), an identification scheme for autoregressive moving average (ARMA) processes is proposed. The coefficients of thed-step predictor determine asymptotically the system momentsU0,...,Ud−1. These moments are also nonlinear functions of the coefficients of the successive 1-step predictors. Here, we estimate the state variable parameters by the following scheme. First, we use the Burg technique (see Ref. 2) to find the estimates of the coefficients of the successive 1-step predictors. Second, we compute the moments by substitution of the estimates provided by the Burg technique for the coefficients in the nonlinear functions relating the moments with the 1-step predictor coefficients. Finally, the Hankel matrix of moment estimates is used to determine the coefficients of the characteristic polynomial of the state transition matrix (see Refs. 3 and 4).
+Keywords
+Autoregressive moving average  ARMA  identification  spectral estimation  poles  zeros  

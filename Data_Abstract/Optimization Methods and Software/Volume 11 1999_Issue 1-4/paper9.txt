@@ -1,0 +1,6 @@
+Homogeneous analytic center cutting plane methods with approximate centers
+ Yu.   Nesterov ; O.   Péton ; J.-Ph.   Vial ;
+Abstract
+ In this paper we consider a homogeneous analytic center cutting plane method in a projective space. We describe a general scheme that uses a homogeneous oracle and computes an approximate analytic center at each iteration. This technique is applied to a convex feasibility problem, to variational inequalities, and to convex constrained minimization. We prove that these problems can be solved with the same order of complexity as in the case of exact analytic centers. For the feasibility and the minimization problems rough approximations suffice, but very high precision is required for the variational inequalities. We give an example of variational inequality where even the first analytic center needs to be computed with a precision matching the precision required for the solution. 
+Keywords
+Cutting plane, approximate analytic centers, self-concordant functions, variational inequalities 

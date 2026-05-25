@@ -1,0 +1,6 @@
+Generalized dynamic programming methods in integer programming
+Laurence A. Wolsey;
+Abstract
+When regarded as a shortest route problem, an integer program can be seen to have a particularly simple structure. This allows the development of an algorithm for finding thekth best solution to an integer programming problem with max{O(kmn), O(k logk)} operations. Apart from its value in the parametric study of an optimal solution, the approach leads to a general integer programming algorithm consisting of (1) problem relaxation, (2) solution of the relaxed problem parametrically by dynamic programming, and (3) generation ofkth best solutions until a feasible solution is found. Elementary methods based on duality for reducingk for a given problem relaxation are then outlined, and some examples and computational aspects are discussed.
+Keywords
+Feasible Solution  Mathematical Method  Dynamic Programming  Programming Problem  Parametric Study  

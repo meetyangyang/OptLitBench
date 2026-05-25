@@ -1,0 +1,6 @@
+A Complexity Bound of a Predictor-Corrector Smoothing Method Using CHKS-Functions for Monotone LCP
+K. Hotta;A. Yoshise;
+Abstract
+We propose a new smoothing method using CHKS-functions for solving linear complementarity problems. While the algorithm in K. Hotta, M. Inaba, and A. Yoshise (Discussion Paper Series 807, University of Tsukuba, Ibaraki 305, Japan, 1998) uses a quite large neighborhood, our algorithm generates a sequence in a relatively narrow neighborhood and employs predictor and corrector steps at each iteration. A complexity bound for the method is also provided under the assumption that (i) the problem is monotone, (ii) a feasible interior point exists, and (iii) a suitable initial point can be obtained. As a result, the bound can be improved compared to the one in Hotta et al. (1998). We also mention that the assumptions (ii) and (iii) can be removed theoretically as in the case of interior point method.
+Keywords
+Operation Research  Mathematical Program  Initial Point  Interior Point  Complementarity Problem  

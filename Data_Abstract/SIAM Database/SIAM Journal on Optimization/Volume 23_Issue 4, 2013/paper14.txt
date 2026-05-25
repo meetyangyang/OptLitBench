@@ -1,0 +1,6 @@
+Convex Relaxations of the Weighted Maxmin Dispersion Problem
+Sheena  Haines, Jason  Loeppky, Paul  Tseng, and Xianfu  Wang;
+Abstract
+Consider the weighted maxmin dispersion problem of locating point(s) in a given region $ \mathcal{X} \subseteq \mathbb{R}^n$ that is/are furthest from a given set of $m$ points. The region is assumed to be convex under componentwise squaring. We show that this problem is NP-hard even when $\mathcal{X}$ is a box and the weights are equal. We then propose a convex relaxation of this problem for finding an approximate solution and derive an approximation bound of $\frac{1-O(\sqrt{\ln({m})\gamma^{*}})}{2}$, where $\gamma^{*}$ depends on $\mathcal{X}$. When $\mathcal{X}$ is a box or a product of low-dimensional spheres, $\gamma^{*}=O(\frac{1}{n})$ and the convex relaxation reduces to a semidefinite program and a second-order cone program.
+Keywords
+maxmin dispersion, semidefinite programming relaxation, second-order cone programming relaxation, approximation algorithm, Primary, 90C26, 90C22, 90C59; Secondary, 90C30, 90C25, 

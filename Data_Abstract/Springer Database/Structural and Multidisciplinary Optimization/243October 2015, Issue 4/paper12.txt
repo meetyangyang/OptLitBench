@@ -1,0 +1,6 @@
+Adjoint sensitivity related to geometric parameters for mid-high frequency range vibroacoustics
+Renata Troian;Frederic Gillot;Sebastien Besset;
+Abstract
+Shape optimization issues under vibroacoustic criteria are considered in present paper. The adjoint-based gradient method was developed to minimize the energy density inside a cavity by changing its geometry parameters. The adjoint equations give the sensitivity information, which is subsequently used in a gradient-based minimization of a prescribed cost functional that models the energy density via Simplified Energy Method. Objective function is obtained by mapping 3D cavity surface on a 2D domain with the help of transformation function. Thus, the remeshing of the geometry is avoided and smoothness of the solution is reached. The optimization process is based on adjoint calculation of the gradient that leads to analytical expressions of the directional derivatives without additional computational cost. The proposed method is validated for the case of rectangular cavity modeled with patches of Bezier surfaces.
+Keywords
+Energy method  Shape optimization  Vibroacoustic criteria  Gradient  

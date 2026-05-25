@@ -1,0 +1,6 @@
+High-accuracy solution of large-scale semidefinite programs
+ Thomas   Davi ; Florian   Jarre ;
+Abstract
+ We present a first-order approach for solving semidefinite programs. The goal of this approach is to compute a solution of the semidefinite program (SDP) up to a high accuracy in spite of using only partial second-order information. We propose a hybrid approach that uses an accelerated projection method to generate an approximate solution and then switches to the quasiminimal residual algorithm (QMR) algorithm applied to a symmetrized version of the Alizadeh-Haeberly-Overton (AHO) system to improve this approximation. Some numerical experiments based on a number of random test examples illustrate the potential of this approach. 
+Keywords
+Semidefinite program, AHO direction, QMR algorithm AMS Subject Classifications : 49M29, 90C22 

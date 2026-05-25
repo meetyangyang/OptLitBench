@@ -1,0 +1,6 @@
+A strategy for array management in local memory
+Christine Eisenbeis;William Jalby;Daniel Windheiser;François Bodin;
+Abstract
+One major point in loop restructuring for data locality optimization is the choice and the evaluation of data locality criteria. In this paper we show how to compute approximations of window sets defined by Gannon, Jalby, and Gallivan. The window associated with an iterationi describes the “active” portion of an array: elements that have already been referenced before iterationi and that will be referenced after iterationi. Such a notion is extremely useful for data localization because it identifies the portions of arrays that are worth keeping in local memory because they are going to be referenced later. The computation of these window approximations can be performed symbolically at compile time and generates a simple geometrical shape that simplifies the management of the data transfers. This strategy allows derivation of a global strategy of data management for local memories which may be combined efficiently with various parallelization and/or vectorization optimizations. Indeed, the effects of loop transformations fit naturally into the geometrical framework we use for the calculations.
+Keywords
+Mathematical Method  Data Management  Locality Optimization  Data Transfer  Data Locality  

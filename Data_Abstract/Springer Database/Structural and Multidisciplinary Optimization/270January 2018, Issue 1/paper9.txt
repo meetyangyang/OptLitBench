@@ -1,0 +1,6 @@
+Ensemble of metamodels: extensions of the least squares approach to efficient global optimization
+Wallace G. Ferreira;Alberto L. Serpa;
+Abstract
+In this work we present LSEGO, an approach to drive efficient global optimization (EGO), based on LS (least squares) ensemble of metamodels. By means of LS ensemble of metamodels it is possible to estimate the uncertainty of the prediction with any kind of model (not only kriging) and provide an estimate for the expected improvement function. For the problems studied, the proposed LSEGO algorithm has shown to be able to find the global optimum with less number of optimization cycles than required by the classical EGO approach. As more infill points are added per cycle, the faster is the convergence to the global optimum (exploitation) and also the quality improvement of the metamodel in the design space (exploration), specially as the number of variables increases, when the standard single point EGO can be quite slow to reach the optimum. LSEGO has shown to be a feasible option to drive EGO with ensemble of metamodels as well as for constrained problems, and it is not restricted to kriging and to a single infill point per optimization cycle.
+Keywords
+Ensemble of metamodels  Surrogate based optimization  Efficient global optimization  Least squares  

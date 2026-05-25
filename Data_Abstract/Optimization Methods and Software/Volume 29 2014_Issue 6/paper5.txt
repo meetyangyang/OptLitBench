@@ -1,0 +1,6 @@
+A smoothing stochastic gradient method for composite optimization
+Qihang Lin;Xi Chen;Javier Peña;
+Abstract
+We consider the unconstrained optimization problem whose objective function is composed of a smooth and a non-smooth components where the smooth component is the expectation of a random function. This type of problem arises in some interesting applications in machine learning. We propose a stochastic gradient descent algorithm for this class of optimization problems. When the non-smooth component has a particular structure, we propose a stochastic gradient descent algorithm by incorporating a smoothing method into our first algorithm. The proofs of the convergence rates of these two algorithms are given and we show the numerical performance of our algorithm by applying them to regularized linear regression and logistic regression problems with different sets of synthetic data.
+Keywords
+first-order method, stochastic gradient, smoothing 

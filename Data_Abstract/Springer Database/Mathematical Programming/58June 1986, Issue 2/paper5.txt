@@ -1,0 +1,6 @@
+A variation on Karmarkar’s algorithm for solving linear programming problems
+Earl R. Barnes;
+Abstract
+The algorithm described here is a variation on Karmarkar’s algorithm for linear programming. It has several advantages over Karmarkar’s original algorithm. In the first place, it applies to the standard form of a linear programming problem and produces a monotone decreasing sequence of values of the objective function. The minimum value of the objective function does not have to be known in advance. Secondly, in the absence of degeneracy, the algorithm converges to an optimal basic feasible solution with the nonbasic variables converging monotonically to zero. This makes it possible to identify an optimal basis before the algorithm converges.
+Keywords
+Linear programming  nondegeneracy  dual variables  

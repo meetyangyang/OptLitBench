@@ -1,0 +1,6 @@
+Minimization of marginal functions in mathematical programming based on continuous outer subdifferentials
+Martin Knossalla;
+Abstract
+Typically, exact information of the whole subdifferential is not available for intrinsically nonsmooth objective functions such as for marginal functions. Therefore, the semismoothness of the objective function cannot be proved or is even violated. In particular, in these cases standard nonsmooth methods cannot be used. In this paper, we propose a new approach to develop a converging descent method for this class of nonsmooth functions. This approach is based on continuous outer subdifferentials introduced by us. Further, we introduce on this basis a conceptual optimization algorithm and prove its global convergence. This leads to a constructive approach enabling us to create a converging descent method. Within the algorithmic framework, neither semismoothness nor calculation of exact subgradients are required. This is in contrast to other approaches which are usually based on the assumption of semismoothness of the objective function.
+Keywords
+Mathematical programming, nonsmooth optimization, parametric optimization, variational analysis and optimization 

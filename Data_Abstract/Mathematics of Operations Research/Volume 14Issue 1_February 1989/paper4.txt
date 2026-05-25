@@ -1,0 +1,6 @@
+A Strongly Polynomial Algorithm for Minimum Cost Submodular Flow Problems
+Satoru Fujishige;Hans Röck;Uwe Zimmermann;
+Abstract
+The only known strongly polynomial algorithm for solving minimum cost submodular flow problems is due to Frank and Tardos (Frank, A., É. Tardos. 1985. An application of the simultaneous approximation in combinatorial optimization. Report No. 85375, Institut für Ökonometrie und Operations Research, Bonn, May.) and is based on the simultaneous approximation algorithm of Lenstra, Lenstra, and Lovász (Lenstra, A. K., H. W. Lenstra, L. Lovász. 1982. Factoring polynomials with rational coefficients. Math. Ann.261 515–534.). We propose a purely combinatorial strongly polynomial algorithm. It consists in solving a sequence of at most m + n(n − 1) minimum cost submodular flow problems with cost coefficients bounded by n2, where n is the number of the vertices and m is the number of the arcs in the underlying graph. The current cost coefficients are calculated by means of tree projection and scaling.
+Keywords
+submodular flows polynomial algorithms minimum cost 

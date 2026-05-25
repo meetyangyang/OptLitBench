@@ -1,0 +1,6 @@
+A simple randomised algorithm for convex optimisation
+M. Dyer;R. Kannan;L. Stougie;
+Abstract
+We consider maximising a concave function over a convex set by a simple randomised algorithm. The strength of the algorithm is that it requires only approximate function evaluations for the concave function and a weak membership oracle for the convex set. Under smoothness conditions on the function and the feasible set, we show that our algorithm computes a near-optimal point in a number of operations which is bounded by a polynomial function of all relevant input parameters and the reciprocal of the desired precision, with high probability. As an application to which the features of our algorithm are particularly useful we study two-stage stochastic programming problems. These problems have the property that evaluation of the objective function is #P-hard under appropriate assumptions on the models. Therefore, as a tool within our randomised algorithm, we devise a fully polynomial randomised approximation scheme for these function evaluations, under appropriate assumptions on the models. Moreover, we deal with smoothing the feasible set, which in two-stage stochastic programming is a polyhedron.
+Keywords
+Convex optimisation  Stochastic programming  Randomised algorithms  Polynomial time randomised approximation scheme  90C25  90C15  68W20  68Q25  

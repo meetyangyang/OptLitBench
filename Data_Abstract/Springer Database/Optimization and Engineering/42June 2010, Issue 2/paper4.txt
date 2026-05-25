@@ -1,0 +1,6 @@
+The complexity of routing in hierarchical PNNI networks
+Eric Rosenberg;
+Abstract
+We study the complexity of computing a route in a hierarchical PNNI network, with H levels of hierarchy, in which N nodes are grouped into clusters at each level. We determine cluster sizes that minimize an upper bound on the total time for all the path computations required to compute a route. Our model casts the problem as a nonlinear convex optimization problem, and employs nonlinear duality theory. We derive explicit closed form upper bounds on the minimum total path computation time, as a function of N, for H=2 and H=3, and show how the upper bound, and the optimal cluster sizes, can be computed for any H. We provide a conjecture on the complexity of PNNI routing for any H, and use this conjecture to determine the limit of the complexity as H→∞. We also prove that the minimum total path computation time is a non-increasing function of H. Our results provide counterexamples to a claim by Van Mieghem that a related top-down hierarchical routing method has lower computational complexity.
+Keywords
+Hierarchical routing  Telecommunications  Nonlinear duality  Geometric programming  Shortest path  

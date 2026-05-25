@@ -1,0 +1,6 @@
+A Parallel Interior Point Method and Its Application to Facility Location Problems
+Amal de Silva;David Abramson;
+Abstract
+We present a parallel interior point algorithm to solve block structured linear programs. This algorithm can solve block diagonal linear programs with both side constraints (common rows) and side variables (common columns). The performance of the algorithm is investigated on uncapacitated, capacitated and stochastic facility location problems. The facility location problems are formulated as mixed integer linear programs. Each subproblem of the branch and bound phase of the MIP is solved using the parallel interior point method. We compare the total time taken by the parallel interior point method with the simplex method to solve the complete problems, as well as the various costs of reoptimisation of the non-root nodes of the branch and bound. Computational results on two parallel computers (Fujitsu AP1000 and IBM SP2) are also presented in this paper.
+Keywords
+LP  interior point method  parallel programming  

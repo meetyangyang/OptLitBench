@@ -1,0 +1,4 @@
+MDDs are Efficient Modeling Tools: An Application to Some Statistical Constraints
+Guillaume Perez;Jean-Charles Régin;
+Abstract
+We show that from well-known MDDs like the one modeling a sum, and operations between MDDs we can define efficient propagators of some complex constraints, like a weighted sum whose values satisfy a normal law. In this way, we avoid defining ad-hoc filtering algorithms. We apply this idea to different dispersion constraints and on a new statistical constraint we introduce: the Probability Mass Function constraint. We experiment out approach on a real world application. The conjunction of MDDs clearly outperforms all previous methods.

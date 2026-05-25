@@ -1,0 +1,6 @@
+A new approach to solving stochastic programming problems with recourse
+ A.   Barreiros ; J.   Barradas Cardoso ;
+Abstract
+ A new numerical approach to the solution of two-stage stochastic linear programming problems is described and evaluated. The approach avoids the solution of the first-stage problem and uses the underlying deterministic problem to generate a sequence of values of the first-stage variables which lead to successive improvements of the objective function towards the optimal policy. The model is evaluated using an example in which randomness is described by two correlated factors. The dynamics of these factors are described by stochastic processes simulated using lattice techniques. In this way, discrete distributions of the random parameters are assembled. The solutions obtained with the new iterative procedure are compared with solutions obtained with a deterministic equivalent linear programming problem. It is concluded that they are almost identical. However, the computational effort required for the new approach is negligible compared with that needed for the deterministic equivalent problem. 
+Keywords
+stochastic programming, linear programming, optimization 

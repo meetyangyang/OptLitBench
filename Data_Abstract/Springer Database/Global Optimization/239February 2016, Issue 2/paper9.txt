@@ -1,0 +1,6 @@
+Constrained trace-optimization of polynomials in freely noncommuting variables
+Igor Klep;Janez Povh;
+Abstract
+The study of matrix inequalities in a dimension-free setting is in the realm of free real algebraic geometry. In this paper we investigate constrained trace and eigenvalue optimization of noncommutative polynomials. We present Lasserre’s relaxation scheme for trace optimization based on semidefinite programming (SDP) and demonstrate its convergence properties. Finite convergence of this relaxation scheme is governed by flatness, i.e., a rank-preserving property for associated dual SDPs. If flatness is observed, then optimizers can be extracted using the Gelfand–Naimark–Segal construction and the Artin–Wedderburn theory verifying exactness of the relaxation. To enforce flatness we employ a noncommutative version of the randomization technique championed by Nie. The implementation of these procedures in our computer algebra system NCSOStoolsis presented and several examples are given to illustrate our results.
+Keywords
+Noncommutative polynomial  Optimization  Sum of squares  Semidefinite programming  Moment problem  Hankel matrix  Flat extension  Matlab toolbox   Real algebraic geometry  Free positivity  Primary 90C22  14P10  Secondary 13J30  47A57  

@@ -1,0 +1,6 @@
+Polynomial-Time Highest-Gain Augmenting Path Algorithms for the Generalized Circulation Problem
+Donald Goldfarb;Zhiying Jin;James B. Orlin;
+Abstract
+This paper presents two new combinatorial algorithms for the generalized circulation problem. After an initial step in which all flow-generating cycles are canceled and excesses are created, both algorithms bring these excesses to the sink via highest-gain augmenting paths. Scaling is applied to the fixed amount of flow that the algorithms attempt to send to the sink, and both node and arc excesses are used. The algorithms have worst-case complexities of O(m2(m + n log n) log B), where n is the number of nodes, m is the number of arcs, and B is the largest integer used to represent the gain factors and capacities in the network. This bound is better than the previous best bound for a combinatorial algorithm for the generalized circulation problem, and if m = O(n4/3−ϵ), it is better than the previous best bound for any algorithm for this problem.
+Keywords
+network flows generalized maximum flow generalized circulation highest-gain augmenting path arc excess excess scaling 

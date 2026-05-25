@@ -1,0 +1,6 @@
+Nonlinear optimisation using directional step lengths based on RPROP
+Apostolos Kotsialos;
+Abstract
+A search method based on the backpropagation rule commonly used for training neural networks is proposed here for the optimisation of smooth nonlinear functions. The use of the Resilient backPROPagation (RPROP) heuristic rule for local minimisation is described. The details of employing the directional step length determined by RPROP along with a simple restarting scheme are provided. In the approach proposed here direct use of the directional step determined by the heuristic without using any line search conditions takes place. The overall algorithm has been tested on a number of benchmark functions found in the literature with very positive results. The test problems’ dimension ranges from 100 to 50,000. The results obtained show that the suggested search direction method results to a highly efficient algorithm suitable for large scale optimisation.
+Keywords
+Nonlinear optimization  Search methods  Backpropagation methods  RPROP  

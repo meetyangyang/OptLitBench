@@ -1,0 +1,6 @@
+Parallel Genetic Algorithms Applied to the Traveling Salesman Problem
+Prasanna  Jog, Jung Y.  Suh, and Dirk  Van Gucht;
+Abstract
+Genetic algorithms are adaptive search algorithms that have been shown to be robust optimization algorithms for multimodal real-valued functions and a variety of combinatorial optimization problems. In contrast to more standard search algorithms, genetic algorithms base their progress on the performance of a population of candidate solutions, rather than on a single candidate solution.The authors will concentrate on the application of genetic algorithms to the traveling salesman problem. For this problem, there exist several such algorithms, ranging from pure genetic algorithms to genetic algorithms that incorporate heuristic information. These algorithms will be reviewed and their performance contrasted.A serious drawback of genetic algorithms is their inefficiency when implemented on a sequential machine. However, due to their inherent parallel properties, they can be successfully implemented on parallel machines, resulting in considerable speedup. Parallel genetic algorithms will be reviewed and their uses in the traveling salesman problem will be indicated.
+Keywords
+genetic algorithms, traveling salesman problem, parallel algorithms, 05AXX, 05A05, 68TXX, 68T05, 90BXX, 90B40, 

@@ -1,0 +1,4 @@
+The Steel Mill Slab Design Problem Revisited
+Pascal Van Hentenryck;Laurent Michel;
+Abstract
+Recently, Gargani and Refalo (G&R) presented an elegant model for the Steel Mill Slab Design Problem (Problem 38 in the CSP LIB). Contrary to earlier approaches, their model does not use 0/1 variables but exploits the traditional expressiveness of constraint programming. G&R indicated that static symmetry-breaking constraints proposed earlier are not effective on this model, as these interact with their heuristic. Instead they use large neighborhood search to obtain solutions quickly. This paper shows that a simple search procedure breaking symmetries dynamically leads to a constraint program solving the problem in a few seconds, while maintaining the completeness of the approach and removing the need for large neighborhood search.

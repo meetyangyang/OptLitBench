@@ -1,0 +1,6 @@
+An Optimization Approach for Radiosurgery Treatment Planning
+Michael C.  Ferris, Jinho  Lim, and David M.  Shepard;
+Abstract
+We outline a new approach for radiosurgery treatment planning, based on solving a series of optimization problems. We consider a specific treatment planning problem for a specialized device known as the  gamma knife, which provides an advanced stereotactic approach to the treatment of tumors, vascular malformations, and pain disorders within the head. The sequence of optimization problems involves nonlinear and mixed integer programs whose solution is required in a given planning time (typically less than 30 minutes). This paper outlines several modeling decisions that result in more efficient and robust solutions. Furthermore, it outlines a new approach for determining starting points for the nonlinear programs, based on a skeletonization of the target volume. Treatment plans generated for real patient data show the efficiency of the approach.
+Keywords
+radiation therapy, optimization, treatment planning, gamma knife, 90C50, 65K05, 90C30, 

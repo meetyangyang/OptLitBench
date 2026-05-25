@@ -1,0 +1,6 @@
+A cutting plane approach to combinatorial bandwidth packing problem with queuing delays
+Sachin Jayaswal;Navneet Vidyarthi;Sagnik Das;
+Abstract
+The combinatorial bandwidth packing problem (CBPP), arising in a telecommunication network with limited bandwidth, is defined as follows. Given a set of requests, each with its potential revenue, and each consisting of calls with their bandwidth requirements, decide: (1) a subset of the requests to accept/reject; and (2) a route for each call in accepted requests, so as to maximize the total revenue earned in a telecommunication network with limited bandwidth. However, telecommunication networks are generally characterized by variability in the call (bits) arrival rates and service times, resulting in queuing delays in the network. In this paper, we present a non-linear integer programming model to account for such delays in CBPP. Using simple transformation and piecewise outer-approximation, we reformulate the model as a linear mixed integer program (MIP), but with a large number of constraints. We present an efficient cutting plane approach to solve the resulting linear MIP to \(\epsilon \)-optimality.
+Keywords
+OR in telecommunications  Bandwidth packing  Integer programming  Queueing  Cutting plane algorithm  

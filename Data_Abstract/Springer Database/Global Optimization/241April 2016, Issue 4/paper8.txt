@@ -1,0 +1,6 @@
+A branch-and-bound multi-parametric programming approach for non-convex multilevel optimization with polyhedral constraints
+Abay Molla Kassa;Semu Mitiku Kassa;
+Abstract
+In this paper we develop a general but smooth global optimization strategy for nonlinear multilevel programming problems with polyhedral constraints. At each decision level successive convex relaxations are applied over the non-convex terms in combination with a multi-parametric programming approach. The proposed algorithm reaches the approximate global optimum in a finite number of steps through the successive subdivision of the optimization variables that contribute to the non-convexity of the problem and partitioning of the parameter space. The method is implemented and tested for a variety of bilevel, trilevel and fifth level problems which have non-convexity formulation at their inner levels.
+Keywords
+Multilevel optimization  Multi-parametric programming   Convex relaxation  90C26  90C31  91A10  90C99  65K05  

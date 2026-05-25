@@ -1,0 +1,6 @@
+On approximation of the best case optimal value in interval linear programming
+Milan Hladík;
+Abstract
+Interval linear programming addresses problems with uncertain coefficients and the only information that we have is that the true values lie somewhere in the prescribed intervals. For the inequality constraint problem, computing the worst case scenario and the corresponding optimal value is an easy task, but the best case optimal value calculation is known to be NP-hard. In this paper, we discuss lower and upper bound approximation for the best case optimal value, and propose suitable methods for both of them. We also propose a not apriori exponential algorithm for computing the best case optimal value. The presented techniques are tested by randomly generated data, and also applied in a simple data classification problem.
+Keywords
+Linear programming  Interval linear systems  Interval analysis  

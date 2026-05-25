@@ -1,0 +1,6 @@
+A convergent inexact solution method for equilibrium problems
+David Di Lorenzo;Mauro Passacantando;Marco Sciandrone;
+Abstract
+We consider equilibrium problems with differentiable bifunctions. We adopt the well-known approach based on the reformulation of the equilibrium problem as a global optimization problem through an appropriate gap function. We propose a solution method based on the inexact (and hence, less expensive) evaluation of the gap function and on the employment of a nonmonotone line search. We prove global convergence properties of the proposed inexact method under standard assumptions. Some preliminary numerical results show the potential computational advantages of the inexact method compared with a standard exact descent method.
+Keywords
+equilibrium problem, gap function, inexact method, nonmonotone line searchAMS Subject Classifications: 90C33, 90C30 

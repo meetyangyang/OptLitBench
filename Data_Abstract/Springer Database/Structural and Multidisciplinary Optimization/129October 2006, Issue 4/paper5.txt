@@ -1,0 +1,6 @@
+Evolutionary truss topology optimization using a graph-based parameterization concept
+M. Giger;P. Ermanni;
+Abstract
+A novel parameterization concept for the optimization of truss structures by means of evolutionary algorithms is presented. The main idea is to represent truss structures as mathematical graphs and directly apply genetic operators, i.e., mutation and crossover, on them. For this purpose, new genetic graph operators are introduced, which are combined with graph algorithms, e.g., Cuthill–McKee reordering, to raise their efficiency. This parameterization concept allows for the concurrent optimization of topology, geometry, and sizing of the truss structures. Furthermore, it is absolutely independent from any kind of ground structure normally reducing the number of possible topologies and sometimes preventing innovative design solutions. A further advantage of this parameterization concept compared to traditional encoding of evolutionary algorithms is the possibility of handling individuals of variable size. Finally, the effectiveness of the concept is demonstrated by examining three numerical examples.
+Keywords
+Truss topology optimization  Mathematical graph  Structural optimization  Parameterization  Evolutionary algorithms  

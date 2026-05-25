@@ -1,0 +1,4 @@
+Constraint Solving on Bounded String Variables
+Joseph D. Scott;Pierre Flener;Justin Pearson;
+Abstract
+Constraints on strings of unknown length occur in a wide variety of real-world problems, such as test case generation, program analysis, model checking, and web security. We describe a set of constraints sufficient to model many standard benchmark problems from these fields. For strings of an unknown length bounded by an integer, we describe propagators for these constraints. Finally, we provide an experimental comparison between a state-of-the-art dedicated string solver, CP approaches utilising fixed-length string solving, and our implementation extending an off-the-shelf CP solver.

@@ -1,0 +1,6 @@
+Inexact non-interior continuation method for monotone semidefinite complementarity problems
+Shaoping Rui;Chengxian Xu;
+Abstract
+Chen and Tseng (Math Program 95:431–474, 2003) extended non-interior continuation methods for solving linear and nonlinear complementarity problems to semidefinite complementarity problems (SDCP), in which a system of linear equations is exactly solved at each iteration. However, for problems of large size, solving the linear system of equations exactly can be very expensive. In this paper, we propose a version of one of the non-interior continuation methods for monotone SDCP presented by Chen and Tseng that incorporates inexactness into the linear system solves. Only one system of linear equations is inexactly solved at each iteration. The global convergence and local superlinear convergence properties of the method are given under mild conditions.
+Keywords
+Semidefinite complementarity problem  Inexact non-interior method  Local superlinear convergence  Large scale problems  

@@ -1,0 +1,6 @@
+Time-optimal velocity planning by a bound-tightening technique
+Federico Cabassi;Luca Consolini;Marco Locatelli;
+Abstract
+Range reduction techniques often considerably enhance the performance of algorithmic approaches for the solution of nonconvex problems. In this paper we propose a range reduction technique for a class of optimization problems with some special structured constraints. The procedure explores and updates the values associated to the nodes of a suitably defined graph. Convergence of the procedure and some efficiency issues, in particular related to the order into which the nodes of the graph are explored. The proposed technique is applied to solve problems arising from a relevant practical application, namely velocity planning along a given trajectory. The computational experiments show the efficiency of the procedure and its ability of returning solutions within times much lower than those of nonlinear solvers and compatible with real-time applications.
+Keywords
+Range reduction  Velocity planning  Minimum-time problems  Local search  

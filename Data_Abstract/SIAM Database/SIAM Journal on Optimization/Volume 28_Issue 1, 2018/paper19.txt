@@ -1,0 +1,6 @@
+A Riemannian BFGS Method Without Differentiated Retraction for Nonconvex Optimization Problems
+Wen  Huang, P.-A.  Absil, and K. A.  Gallivan;
+Abstract
+In this paper, a Riemannian BFGS method for minimizing a smooth function on a Riemannian manifold is defined, based on a Riemannian generalization of a cautious update and a weak line search condition. It is proven that the Riemannian BFGS method converges (i) globally to stationary points without assuming the objective function to be convex and (ii) superlinearly to a nondegenerate minimizer. Using the weak line search condition removes the need for information from differentiated retraction. The joint matrix diagonalization problem is chosen to demonstrate the performance of the algorithms with various parameters, line search conditions, and pairs of retraction and vector transport. A preliminary version can be found in [Numerical Mathematics and Advanced Applications: ENUMATH 2015, Lect. Notes Comput. Sci. Eng. 112, Springer, New York, 2016, pp. 627--634].
+Keywords
+Riemannian optimization, manifold optimization, quasi-Newton methods, BFGS method, 65K05, 90C48, 90C53, 

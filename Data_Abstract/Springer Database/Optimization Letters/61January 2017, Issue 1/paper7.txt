@@ -1,0 +1,6 @@
+Projected shrinkage algorithm for box-constrained \(\ell _1\)-minimization
+Hui Zhang;LiZhi Cheng;
+Abstract
+Box-constrained \(\ell _1\)-minimization in some cases performs remarkably better than the classical \(\ell _1\)-minimization when appropriate box constraints are available. And also many practical \(\ell _1\)-minimization models indeed involve box constraints. In this paper, we propose an efficient iteration scheme, dubbed the projected shrinkage (ProShrink) algorithm, to solve a class of box-constrained \(\ell _1\)-minimization problems. A key component in our technique is that the proximal point operator of \(\ell _1\)-norm with box constraints can be equivalently simplified into a projected shrinkage operator which can be calculated directly. Theoretically, we prove that ProShrink enjoys convergence of both the primal and dual point sequences. On the numerical level, we demonstrate the benefit of adding box constraints via sparse recovery experiments.
+Keywords
+Proximal point operator  Projected shrinkage  Box constraints  \(\ell _1\)-minimization  Sparse recovery  

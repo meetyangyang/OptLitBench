@@ -1,0 +1,6 @@
+Global Optimization Performance Measures for Generalized Hill Climbing Algorithms
+Sheldon H. Jacobson;Enver Y¨cesan;
+Abstract
+Generalized hill climbing algorithms provide a framework for modeling several local search algorithms for hard discrete optimization problems. This paper introduces and analyzes generalized hill climbing algorithm performance measures that reflect how effectively an algorithm has performed to date in visiting a global optimum and how effectively an algorithm may pes]rform in the future in visiting such a solution. These measures are also used to obtain a necessary asymptotic convergence (in probability) condition to a global optimum, which is then used to show that a common formulation of threshold accepting does not converge. These measures assume particularly simple forms when applied to specific search strategies such as Monte Carlo search and threshold accepting.
+Keywords
+Local search algorithms  Convergence  Finite-time performance  Hill climbing  

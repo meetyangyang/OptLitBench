@@ -1,0 +1,6 @@
+A New Approach to the Feasibility Pump in Mixed Integer Programming
+N. L.  Boland, A. C.  Eberhard, F.  Engineer, and A.  Tsoukalas;
+Abstract
+The feasibility pump is a recent, highly successful heuristic for general mixed integer linear programming problems. We show that the feasibility pump heuristic can be interpreted as a discrete version of the proximal point algorithm. In doing so, we extend and generalize some of the fundamental results in this area to provide new supporting theory. We show that feasibility pump algorithms implicitly minimize a weighted combination of the objective and a term which penalizes lack of integrality. This function has many local minima, some of which correspond to feasible integral solutions; the feasibility pump's use of random restarts can be viewed as seeking to escape these local minima when they are not feasible integral solutions. This interpretation suggests alternative ways of incorporating restarts, one of which is the application of cutting planes. Numerical experiments with cutting planes show encouraging results on standard test libraries.
+Keywords
+feasibility pump, proximal points, Moreau regularization, integer programming, cutting planes, 90C10, 90C06, 90C59, 

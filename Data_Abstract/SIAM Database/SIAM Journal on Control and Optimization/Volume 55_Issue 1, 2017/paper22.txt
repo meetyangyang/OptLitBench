@@ -1,0 +1,6 @@
+Nonlinear PDE Approach to Time-Inconsistent Optimal Stopping
+Christopher W.  Miller;
+Abstract
+We present a novel method for solving a class of time-inconsistent optimal stopping problems by reducing them to a family of standard stochastic optimal control problems. In particular, we convert an optimal stopping problem with a nonlinear function of the expected stopping time in the objective into optimization over an auxiliary value function for a standard stochastic control problem with an additional state variable. This approach differs from those in the previous literature which primarily employ Lagrange multiplier methods or rely on exact solutions. In contrast, we characterize the auxiliary value function as the unique viscosity solution of a nonlinear elliptic PDE which satisfies certain growth constraints, and investigate basic regularity properties. We demonstrate a connection between optimal stopping times for the original problem and optimal controls of the auxiliary control problem. Finally, we discuss extensions to more general dynamics and time-inconsistencies, as well as potential connections to degenerate Monge--Ampère equations.
+Keywords
+nonlinear optimal stopping, time-inconsistency, Hamilton--Jacobi--Bellman equation, sequential optimization, stochastic optimal control, 60G40, 93E20, 

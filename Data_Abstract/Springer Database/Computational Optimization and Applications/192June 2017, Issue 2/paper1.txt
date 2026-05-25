@@ -1,0 +1,6 @@
+Second-order orthant-based methods with enriched Hessian information for sparse \(\ell _1\)-optimization
+J. C. De Los Reyes;E. Loayza;P. Merino;
+Abstract
+We present a second order algorithm, based on orthantwise directions, for solving optimization problems involving the sparsity enhancing \(\ell _1\)-norm. The main idea of our method consists in modifying the descent orthantwise directions by using second order information both of the regular term and (in weak sense) of the \(\ell _1\)-norm. The weak second order information behind the \(\ell _1\)-term is incorporated via a partial Huber regularization. One of the main features of our algorithm consists in a faster identification of the active set. We also prove that a reduced version of our method is equivalent to a semismooth Newton algorithm applied to the optimality condition, under a specific choice of the algorithm parameters. We present several computational experiments to show the efficiency of our approach compared to other state-of-the-art algorithms.
+Keywords
+Sparse optimization  Orthantwise directions  Second-order algorithms  Semismooth Newton methods  49M15  65K05  90C53  49J20  49K20  

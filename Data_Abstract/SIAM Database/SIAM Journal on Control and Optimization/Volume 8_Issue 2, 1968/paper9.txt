@@ -1,0 +1,5 @@
+Finite State Continuous Time Markov Decision Processes with a Finite Planning Horizon
+Bruce L.  Miller;
+Abstract
+The system we consider may be in one of n states at any point in time and its probability law is a Markov process which depends on the policy (control) chosen. The return to the system over a given planning horizon is the integral (over that horizon) of a return rate which depends on both the policy and the sample path of the process. Our objective is to find a policy which maximizes the expected return over the given planning horizon. A necessary and sufficient condition for optimality is obtained, and a constructive proof is given that there is a piecewise constant policy which is optimal. A bound on the number of switches (points where the piecewise constant policy jumps) is obtained for the case where there are two states.
+Keywords

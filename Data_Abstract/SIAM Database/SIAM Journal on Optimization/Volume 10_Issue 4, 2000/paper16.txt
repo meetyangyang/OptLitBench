@@ -1,0 +1,6 @@
+Computational Experience with an Interior Point Cutting Plane Algorithm
+John E.  Mitchell;
+Abstract
+There has been a great deal of success in the last 20 years with the use of cutting plane algorithms to solve specialized integer programming problems. Generally, these algorithms work by solving a sequence of linear programming relaxations of the integer programming problem, and they use the simplex algorithm to solve the relaxations. In this paper, we describe experiments using a predictor-corrector interior point method to solve the relaxations. For some problems, the interior point code requires considerably less time than a simplex based cutting plane algorithm.
+Keywords
+interior point methods, integer programming, cutting planes, linear ordering, Ising spin glasses, max cut, 90C10, 90C05, 90C51, 90C57, 

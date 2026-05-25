@@ -1,0 +1,6 @@
+Approximate multi-objective optimization using conservative and feasible moving least squares method: application to automotive knuckle design
+Chang Yong Song;Ha-Young Choi;Jongsoo Lee;
+Abstract
+The original version of the moving least squares method (MLSM) does not always ensure solution feasibility for nonlinear and/or non-convex functions in the context of meta-model-based approximate optimization. The paper explores a new implementation of MLSM that ensures the conservative feasibility of Pareto optimal solutions in non-dominated sorting genetic algorithm (NSGA-II)-based approximate multi-objective optimization. We devised a ‘conservative and feasible MLSM’ (CF-MLSM) to realize the conservativeness and feasibility of multi-objective Pareto optimal solutions for both unconstrained and constrained problems. We verified the usefulness of our proposed approach by exploring strength-based sizing optimization of an automotive knuckle component under bump and brake loading constraints.
+Keywords
+Approximate multi-objective optimization  Pareto optimal solutions  Conservativeness and feasibility  Moving Least Squares Method (MLSM)  Conservative and Feasible MLSM (CF-MLSM)  

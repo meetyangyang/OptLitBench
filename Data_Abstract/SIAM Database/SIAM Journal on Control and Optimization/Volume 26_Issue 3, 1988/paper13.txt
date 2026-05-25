@@ -1,0 +1,6 @@
+A Separable Piecewise Linear Upper Bound for Stochastic Linear Programs
+John R.  Birge and Stein W.  Wallace;
+Abstract
+Stochastic linear programs require the evaluation of an integral in which the integrand is itself the value of a linear program. This integration is often approximated by discrete distributions that bound the integral from above or below. A difficulty with previous upper bounds is that they generally require a number of function evaluations that grows exponentially in the number of variables. We give a new upper bound that requires operations that only grow polynomially in the number of random variables. We show that this bound is sharp if the function is linear and give computational results to illustrate its performance.
+Keywords
+stochastic programming, upper bounds, convex functions, integration, 90C15, 

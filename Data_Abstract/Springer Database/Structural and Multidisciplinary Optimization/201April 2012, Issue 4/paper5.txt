@@ -1,0 +1,6 @@
+Mid-range metamodel assembly building based on linear regression for large scale optimization problems
+Andrey Polynkin;Vassili V. Toropov;
+Abstract
+In this work an approach to building a high accuracy approximation valid in a larger range of design variables is investigated. The approach is based on an assembly of multiple surrogates into a single surrogate using linear regression. The coefficients of the model assembly are not weights of the individual models but tuning parameters determined by the least squares method. The approach was utilized in the Multipoint Approximation Method (MAM) method within the mid-range approximation framework. The developed technique has been tested on several benchmark problems with up to 1000 design variables and constraints. The obtained results show a high degree of accuracy of the built approximations and the efficiency of the technique when applied to large-scale optimization problems.
+Keywords
+Multipoint Approximations Method  Metamodel  Linear regression  Assembly  

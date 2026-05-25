@@ -1,0 +1,6 @@
+An efficient augmented Lagrangian method with applications to total variation minimization
+Chengbo Li;Wotao Yin;Hong Jiang;Yin Zhang;
+Abstract
+Based on the classic augmented Lagrangian multiplier method, we propose, analyze and test an algorithm for solving a class of equality-constrained non-smooth optimization problems (chiefly but not necessarily convex programs) with a particular structure. The algorithm effectively combines an alternating direction technique with a nonmonotone line search to minimize the augmented Lagrangian function at each iteration. We establish convergence for this algorithm, and apply it to solving problems in image reconstruction with total variation regularization. We present numerical results showing that the resulting solver, called TVAL3, is competitive with, and often outperforms, other state-of-the-art solvers in the field.
+Keywords
+Compressive sensing  Non-smooth optimization  Augmented Lagrangian method  Nonmonotone line search  Barzilai-Borwein method  Single-pixel camera  

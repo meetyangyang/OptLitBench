@@ -1,0 +1,6 @@
+Separating a Superclass of Comb Inequalities in Planar Graphs
+Adam N. Letchford;
+Abstract
+Many classes of valid and facet-inducing inequalities are known for the family of polytopes associated with the Symmetric Travelling Salesman Problem (STSP), including subtour elimination, 2-matching and comb inequalities. For a given class of inequalities, an exact separation algorithm is a procedure which, given an LP relaxation vector x*, finds one or more inequalities in the class which are violated by x*, or proves that none exist. Such algorithms are at the core of the highly successful branch-and-cut algorithms for the STSP. However, whereas polynomial time exact separation algorithms are known for subtour elimination and 2-matching inequalities, the complexity of comb separation is unknown.A partial answer to the comb problem is provided in this paper. We define a generalization of comb inequalities and show that the associated separation problem can be solved efficiently when the subgraph induced by the edges with x*e > 0 is planar. The separation algorithm runs in 𝒪(n3) time, where n is the number of vertices in the graph.
+Keywords
+Symmetric Travelling Salesman Problem valid inequalities separation algorithm branch-and-cut 

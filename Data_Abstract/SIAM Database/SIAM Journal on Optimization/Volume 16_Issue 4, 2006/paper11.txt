@@ -1,0 +1,6 @@
+A Truncated Projected Newton-Type Algorithm for Large-Scale Semi-infinite Programming
+Qin  Ni, Chen  Ling, Liqun  Qi, and Kok Lay  Teo;
+Abstract
+In this paper, a truncated projected Newton-type algorithm is presented for solving large-scale semi-infinite programming problems. This is a hybrid method of a truncated projected Newton direction and a modified projected gradient direction. The truncated projected Newton method is used to solve the constrained nonlinear system. In order to guarantee global convergence, a robust loss function is chosen as the merit function, and the projected gradient method inserted is used to decrease the merit function. This algorithm is suitable for handling large-scale problems and possesses superlinear convergence rate. The global convergence of this algorithm is proved and the convergence rate is analyzed. The detailed implementation is discussed, and some numerical tests for solving large-scale semi-infinite programming problems, with examples up to 2000 decision variables, are reported.
+Keywords
+semi-infinite programming, Karush--Kuhn--Tucker system, large-scale problem, 90C34, 90C06, 90C90, 65K05, 49M05, 

@@ -1,0 +1,6 @@
+A descent method for submodular function minimization
+Satoru Fujishige;Satoru Iwata;
+Abstract
+We show a descent method for submodular function minimization based on an oracle for membership in base polyhedra. We assume that for any submodular function f: ?→R on a distributive lattice ?⊆2 V  with ?,V∈? and f(?)=0 and for any vector x∈R V  where V is a finite nonempty set, the membership oracle answers whether x belongs to the base polyhedron associated with f and that if the answer is NO, it also gives us a set Z∈? such that x(Z)>f(Z). Given a submodular function f, by invoking the membership oracle O(|V|2) times, the descent method finds a sequence of subsets Z1,Z2,···,Z k  of V such that f(Z1)>f(Z2)>···>f(Z k )=min{f(Y) | Y∈?}, where k is O(|V|2). The method furnishes an alternative framework for submodular function minimization if combined with possible efficient membership algorithms.
+Keywords
+Key words: submodular function – base polyhedron – descent method  Mathematics Subject Classification (1991): 90C27  

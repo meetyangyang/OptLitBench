@@ -1,0 +1,6 @@
+Inexact semismooth Newton methods for large-scale complementarity problems
+ Christian   Kanzow ;
+Abstract
+ The semismooth Newton method is a nonsmooth Newton-type method applied to a suitable reformulation of the complementarity problem as a nonlinear and nonsmooth system of equations. It is one of the standard methods for solving these kind of problems, and it can be implemented in an inexact way so that all linear systems of equations have to be solved only inexactly. However, from a practical point of view, this inexact Newton method seems to have a significantly worse behavior than its exact counterpart. The aim of this paper is therefore to show that the inexact Newton method can also be used in a reliable and efficient way at least for some classes of problems. We illustrate this statement by some numerical examples with up to one million variables. 
+Keywords
+Complementarity problems, Newton's method, Semismooth functions, Obstacle problems, Optimal control problems 

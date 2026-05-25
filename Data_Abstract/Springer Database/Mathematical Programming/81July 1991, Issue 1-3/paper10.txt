@@ -1,0 +1,6 @@
+Solution of large-scale symmetric travelling salesman problems
+Martin Grötschel;Olaf Holland;
+Abstract
+In this paper we report on a cutting plane procedure with which we solved symmetric travelling salesman problems of up to 1000 cities to optimality. Our implementation is based on a fast LP-solver (IBM's MPSX) and makes effective use of polyhedral results on the symmetric travelling salesman polytope. We describe the important ingredients of our code and give an extensive documentation of its computational performance.
+Keywords
+05C04  05C45  90C10  Travelling salesman problem  cutting plane algorithms  polyhedral combinatorics  

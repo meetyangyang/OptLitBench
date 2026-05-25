@@ -1,0 +1,6 @@
+Quay crane scheduling with dual cycling
+Dandan Wang;Xiaoping Li;
+Abstract
+In this article, the dual cycling quay crane scheduling problem (D-QCSP) with hatches is addressed to minimize the operation cycles of quay cranes. The problem is decomposed into two sub-problems: the intra-group stage (sequencing stacks within each hatch) and the inter-group stage (scheduling all hatches). A new stack sequencing method is constructed for stacks of each hatch, which is modelled as a two-machine non-permutation flow shop scheduling problem. By removing inner gaps using left-shifting, the adapted hatch scheduling sub-problem is modelled as a two-machine grouped flow shop scheduling problem, which contains more precise processing times. A composite heuristic is proposed for the D-QCSP. Based on the derived lower bound, the heuristic is compared with the best existing heuristics on a large number of instances. Experimental results illustrate that the proposal outperforms the existing methods on all instances and dual cycling needs many fewer quay crane operating cycles than single cycling.
+Keywords
+heuristic, dual cycling, quay crane scheduling, gap-shifting 

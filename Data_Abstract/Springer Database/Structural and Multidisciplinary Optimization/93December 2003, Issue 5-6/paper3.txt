@@ -1,0 +1,6 @@
+Implementation of a crack propagation constraint within a structural optimization software
+M. Papila;R.T. Haftka;
+Abstract
+A crack propagation constraint related to the stress intensity factor is examined for the minimum-weight design optimization of a composite blade-stiffened panel. A low-fidelity approach uses a closed-form solution for the stress intensity factor, while a high-fidelity approach uses the stress distribution around the crack. Structural optimizations are performed by low- and high-fidelity approaches for a number of panels configured with different values of the load, crack length, and blade height. Response surface (RS) approximations are then constructed for the optimal weight as a function of the three configuration variables. The computational cost, numerical noise, and accuracy for the two approaches are compared. An additional constraint in the low-fidelity solutions is found to be active for some of the configurations, increasing the difference between the low-fidelity and high-fidelity optima. It is shown that outlier analysis helps to identify the configurations with the largest difference.   
+Keywords
+crack propagation constraint  composite stiffened panel  optimal weight  response surfaces  outliers   

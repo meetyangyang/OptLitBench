@@ -1,0 +1,6 @@
+Superlinear Convergence of a Stabilized SQP Method to a Degenerate Solution
+Stephen J. Wright;
+Abstract
+We describe a slight modification of the well-known sequential quadratic programming method for nonlinear programming that attains superlinear convergence to a primal-dual solution even when the Jacobian of the active constraints is rank deficient at the solution. We show that rapid convergence occurs even in the presence of the roundoff errors that are introduced when the algorithm is implemented in floating-point arithmetic.
+Keywords
+nonlinear programming  sequential quadratic programming  degenerate solutions  

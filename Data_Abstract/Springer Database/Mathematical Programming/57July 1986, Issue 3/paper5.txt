@@ -1,0 +1,6 @@
+A regularized decomposition method for minimizing a sum of polyhedral functions
+Andrzej Ruszczyński;
+Abstract
+A problem of minimizing a sum of many convex piecewise-linear functions is considered. In view of applications to two-stage linear programming, where objectives are marginal values of lower level problems, it is assumed that domains of objectives may be proper polyhedral subsets of the space of decision variables and are defined by piecewise-linear induced feasibility constraints. We propose a new decomposition method that may start from an arbitrary point and simultaneously processes objective and feasibility cuts for each component. The master program is augmented with a quadratic regularizing term and comprises an a priori bounded number of cuts. The method goes through nonbasic points, in general, and is finitely convergent without any nondegeneracy assumptions. Next, we present a special technique for solving the regularized master problem that uses an active set strategy and QR factorization and exploits the structure of the master. Finally, some numerical evidence is given.
+Keywords
+Large scale linear programming  stochastic programming  subgradient methods  semidefinite quadratic programming  

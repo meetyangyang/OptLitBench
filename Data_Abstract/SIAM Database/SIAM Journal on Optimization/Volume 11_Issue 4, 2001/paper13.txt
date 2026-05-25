@@ -1,0 +1,6 @@
+Approximate Max-Min Resource Sharing for Structured Concave Optimization
+M. D.  Grigoriadis, L. G.  Khachiyan, L.  Porkolab, and J.  Villavicencio;
+Abstract
+We present a Lagrangian decomposition algorithm which uses logarithmic potential reduction to compute an $\varepsilon$-approximate solution of the general max-min resource sharing problem with M nonnegative concave constraints on a convex set B. We show that this algorithm runs in $O(M(\varepsilon^{-2}+{\rm ln} M))$ iterations, a data independent bound which is optimal up to polylogarithmic factors for any fixed relative accuracy $\varepsilon\in(0,1)$. In the block-angular case, B is the product of K convex sets (blocks) and each constraint function is block separable. For such models, an iteration of our method requires a $\Theta(\varepsilon)$-approximate solution of K independent block maximization problems which can be computed in parallel.
+Keywords
+approximation algorithm, covering problem, Lagrangian decomposition, logarithmic potential, packing problem, resource sharing, structured optimization, 68Q25, 90C05, 90C27, 90C30, 90C06, 

@@ -1,0 +1,6 @@
+The Watermelon Algorithm for The Bilevel Integer Linear Programming Problem
+Lizhi  Wang and Pan  Xu;
+Abstract
+This paper presents an exact algorithm for the bilevel integer linear programming (BILP) problem. The proposed algorithm, which we call the watermelon algorithm, uses a multiway disjunction cut to remove bilevel infeasible solutions from the search space, which was motivated by how watermelon seeds can be carved out by a scoop. Serving as the scoop, a polyhedron is designed to enclose as many bilevel infeasible solutions as possible, and then the complement of this polyhedron is applied to the search space as a multiway disjunction cut in a branch-and-bound framework. We have proved that the watermelon algorithm is able to solve all BILP instances finitely and correctly, providing either a global optimal solution or a certificate of infeasibility or unboundedness. Computational experiment results on two sets of small- to medium-sized instances suggest that the watermelon algorithm could be significantly more efficient than previous branch-and-bound based BILP algorithms.
+Keywords
+bilevel optimization, cutting plane, branch and bound, 90C05, 90C10, 90C99, 

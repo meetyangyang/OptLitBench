@@ -1,0 +1,6 @@
+Improvements to single-objective constrained predator–prey evolutionary optimization algorithm
+Souma Chowdhury;George S. Dulikravich;
+Abstract
+In predator–prey algorithm, a relatively small number of predators (“lions”) and a much larger number of prey (“antelopes”) are randomly placed on a two dimensional lattice with connected ends representing an unfolded surface of a torus. The predators are partially or completely biased towards one or more objectives, based on which each predator kills the weakest prey in its neighborhood. A stronger prey created through evolution replaces this prey. In case of constrained problems, the sum of constraint violations serves as an additional objective. Modifications of the basic predator–prey algorithm have been implemented in this paper regarding the selection procedure, apparent movement of the predators, and mutation strategy. Further modifications have been made making the algorithm capable of handling multiple equality and inequality constraints. The final modified algorithm was tested on standard linear/nonlinear and constrained/unconstrained single-objective optimization problems.
+Keywords
+Predator–prey algorithm  Constrained optimization  Evolutionary algorithms  Crossover  Mutation  

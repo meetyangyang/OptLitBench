@@ -1,0 +1,6 @@
+Switching Stepsize Strategies for Sequential Quadratic Programming
+George Tzallas-Regas;Berç Rustem;
+Abstract
+A Sequential Quadratic Programming (in short, SQP) algorithm is presented for solving constrained nonlinear programming problems. The algorithm uses three stepsize strategies, in order to achieve global and superlinear convergence. Switching rules are implemented that combine the merits and avoid the drawbacks of the three stepsize strategies. A penalty parameter is determined, using an adaptive strategy that aims to achieve sufficient decrease of the activated merit function. Global convergence is established and it is also shown that, locally, unity step sizes are accepted. Therefore, superlinear convergence is not impeded under standard assumptions. Global convergence and convergence of the stepsizes are displayed on test problems from the Hock and Schittkowski collection.
+Keywords
+Nonlinear programming  SQP  Global convergence  Stepsize convergence  Merit functions  Switching stepsize strategies  

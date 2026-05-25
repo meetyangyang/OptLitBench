@@ -1,0 +1,6 @@
+Proximity control in bundle methods for convex nondifferentiable minimization
+Krzysztof C. Kiwiel;
+Abstract
+Proximal bundle methods for minimizing a convex functionf generate a sequence {x k } by takingxk+1 to be the minimizer of\(\hat f^k (x) + u^k |x - x^k |^2 /2\), where\(\hat f^k \) is a sufficiently accurate polyhedral approximation tof andu k  > 0. The usual choice ofu k  = 1 may yield very slow convergence. A technique is given for choosing {u k } adaptively that eliminates sensitivity to objective scaling. Some encouraging numerical experience is reported.
+Keywords
+Nondifferentiable minimization  convex programming  numerical methods  descent methods  

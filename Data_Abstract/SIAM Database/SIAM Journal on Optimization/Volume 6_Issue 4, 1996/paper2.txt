@@ -1,0 +1,6 @@
+An Interior Point Method for Bordered Block-Diagonal Linear Programs
+Michael D.  Grigoriadis and Leonid G.  Khachiyan;
+Abstract
+This paper presents an interior point method for solving a bordered block-diagonal linear program which consists of a number of disjoint blocks coupled by a total of p variables and constraints. This structure includes the well known block angular and dual block angular structures, as well as their special cases, such as staircase problems, generalized bounds, and multicommodity flows. When p is small relative to the total dimension of the problem, the method achieves a substantial speedup relative to other general-purpose methods.
+Keywords
+structured linear programs, bordered block-diagonal problems, interior point methods, 68Q25, 90C05, 90C30, 

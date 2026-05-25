@@ -1,0 +1,6 @@
+An interior point method for nonlinear programming with infeasibility detection capabilities
+Jorge Nocedal;Figen Öztoprak;Richard A. Waltz;
+Abstract
+This paper describes an interior point method for nonlinear programming endowed with infeasibility detection capabilities. The method is composed of two phases, a main phase whose goal is to seek optimality, and a feasibility phase that aims exclusively at improving feasibility. An important feature of the algorithm is the use of a step-decomposition interior-point approach in which the step is the sum of a normal component and a tangential component. The normal component of the step provides detailed information that allows the algorithm to determine whether it should transition from the main phase to the feasibility phase. We give particular attention to the reliability of the switching mechanism between the two phases. The algorithm proposed in this paper has been implemented in the knitro package as extensions of the knitro/cg method. Numerical results illustrate the performance of our method on both feasible and infeasible problems.
+Keywords
+nonlinear optimization, infeasibility detection, interior point method 

@@ -1,0 +1,6 @@
+Integrating nonlinear branch-and-bound and outer approximation for convex Mixed Integer Nonlinear Programming
+Wendel Melo;Marcia Fampa;Fernanda Raupp;
+Abstract
+In this paper, we present a new hybrid algorithm for convex Mixed Integer Nonlinear Programming (MINLP). The proposed hybrid algorithm is an improved version of the classical nonlinear branch-and-bound (BB) procedure, where the enhancements are obtained with the application of the outer approximation algorithm on some nodes of the enumeration tree. The two methods are combined in such a way that each one collaborates to the convergence of the other. Computational experiments with benchmark instances of the MINLP problem show the good performance of the proposed algorithm, which is compared to the outer approximation algorithm, the nonlinear BB algorithm and the hybrid algorithm implemented in the solver Bonmin.
+Keywords
+Mixed Integer Nonlinear Programming  Branch-and-bound   Outer approximation  Hybrid algorithm  

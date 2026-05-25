@@ -1,0 +1,6 @@
+Parallel global optimization on GPU
+Konstantin Barkalov;Victor Gergel;
+Abstract
+This work considers a parallel algorithm for solving multidimensional multiextremal optimization problems. This algorithm uses Peano-type space filling curves for dimension reduction. Conditions of non-redundant parallelization of the algorithm are considered. Efficiency of the algorithm on modern computing systems with the use of graphics processing units (GPUs) is investigated. Speedup of the algorithm using GPU as compared with the same algorithm implemented on CPU only is demonstrated experimentally. Computational experiments are carried out on a series of several hundred multidimensional multiextremal problems.
+Keywords
+Global optimization  Parallel computing  Graphics processing unit  Peano-type space filling curves  Characteristical algorithms  

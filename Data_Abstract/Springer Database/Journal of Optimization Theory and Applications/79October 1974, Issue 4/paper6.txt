@@ -1,0 +1,6 @@
+Least-square acceleration of iterative methods for linear equations
+S. Kaniel;J. Stein;
+Abstract
+Ordinary iteration schemes for solving linear algebraic equations are one-step, i.e., only the last iterant is used in order to compute the following one. This note advocates the use of several iterants by means of least-square acceleration. The resulting scheme is easy to implement and is very effective in cases where the basic iteration matrix is close to symmetric. The note provides theoretical estimates for the rate of convergence as well as a numerical example. The example deals with the numerical solution of Poisson's equation in a rectangular annulus, by five-point formulae, using the alternating-direction method.
+Keywords
+Linear systems  iterative methods  least-square methods  acceleration methods  

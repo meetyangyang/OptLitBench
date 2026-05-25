@@ -1,0 +1,6 @@
+Using inexact gradients in a multilevel optimization algorithm
+Robert Michael Lewis;Stephen G. Nash;
+Abstract
+Many optimization algorithms require gradients of the model functions, but computing accurate gradients can be computationally expensive. We study the implications of using inexact gradients in the context of the multilevel optimization algorithm MG/Opt. MG/Opt recursively uses (typically cheaper) coarse models to obtain search directions for finer-level models. However, MG/Opt requires the gradient on the fine level to define the recursion. Our primary focus here is the impact of the gradient errors on the multilevel recursion. We analyze, partly through model problems, how MG/Opt is affected under various assumptions about the source of the error in the gradients, and demonstrate that in many cases the effect of the errors is benign. Computational experiments are included.
+Keywords
+Multilevel optimization  Inexact gradient evaluation  Optimization-based multigrid  Nonlinear optimization  

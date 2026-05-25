@@ -1,0 +1,6 @@
+Implicit representation of generalized variable upper bounds in linear programming
+Linus Schrage;
+Abstract
+In certain linear programs, especially those derived from integer programs, large numbers of constraints may have very simple form. Examples are:x ij  ≤ 1 (simple upper bounds [SUB]),Σ i x ij  = 1 (generalized upper bounds [GUB]) andx ij  ≤ y i  (variable upper bounds [VUB]). A class of constraints called generalized VUB [GVUB] is introduced which includes GUB and VUB as special cases. Also introduced is a method for representing GVUB constraints implicitly within the mechanics of the simplex method.
+Keywords
+Linear Programming  Generalized Upper Bounds  Compact Inverses  Factored Inverses  Implicit Constraints  

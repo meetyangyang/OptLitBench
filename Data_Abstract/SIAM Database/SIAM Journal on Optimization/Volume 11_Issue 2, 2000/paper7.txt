@@ -1,0 +1,6 @@
+A Smoothing Newton Method for Minimizing a Sum of Euclidean Norms
+Liqun  Qi and Guanglu  Zhou;
+Abstract
+We consider the problem of minimizing a sum of Euclidean norms, $f(x) = \sum_{i=1}^m\|b_i - A_i^Tx \|$. This problem is a nonsmooth problem because f is not differentiable at a point x when one of the norms is zero. In this paper we present a smoothing Newton method for this problem by applying the smoothing Newton method proposed by Qi, Sun, and Zhou [Math. Programming, 87 (2000), pp. 1--35] directly to a system of strongly semismooth equations derived from primal and dual feasibility and a complementarity condition. This method is globally and quadratically convergent. As applications to this problem, smoothing Newton methods are presented for the Euclidean facilities location problem and the Steiner minimal tree problem under a given topology. Preliminary numerical results indicate that this method is extremely promising.
+Keywords
+sum of norms, smoothing Newton method, semismoothness, Euclidean facilities location, shortest networks, Steiner minimum trees, 90C33, 90C30, 65H10, 

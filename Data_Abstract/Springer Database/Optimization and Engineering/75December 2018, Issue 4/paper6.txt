@@ -1,0 +1,6 @@
+Reoptimization framework and policy analysis for maritime inventory routing under uncertainty
+Yachao Dong;Christos T. Maravelias;Norman F. Jerome;
+Abstract
+We study a maritime inventory routing problem, in which shipments between production and consumption nodes are carried out by a fleet of vessels. The vessels have specific capacities and can be chartered under different agreements. The inventory levels of all consumption nodes and some production nodes should be maintained within specified bounds; for the remaining production nodes, orders should be picked up within pre-defined time windows. We propose a discrete-time mixed-integer programming model. In the face of new information and uncertainty, this optimization model has to be re-solved, as the horizon is rolled forward. We discuss how to account for different sources of uncertainty. We present a rolling-horizon reoptimization framework that allows us to study different policies that impact the quality of the implemented solution, so we can identify the optimal set of policies.
+Keywords
+Mixed-integer programming  Optimization under uncertainty  Inventory routing  Rolling horizon approach  

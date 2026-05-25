@@ -1,0 +1,6 @@
+An Inexact Dual Fast Gradient-Projection Method for Separable Convex Optimization with Linear Coupled Constraints
+Jueyou Li;Zhiyou Wu;Changzhi Wu;Qiang Long;Xiangyu Wang;
+Abstract
+In this paper, a class of separable convex optimization problems with linear coupled constraints is studied. According to the Lagrangian duality, the linear coupled constraints are appended to the objective function. Then, a fast gradient-projection method is introduced to update the Lagrangian multiplier, and an inexact solution method is proposed to solve the inner problems. The advantage of our proposed method is that the inner problems can be solved in an inexact and parallel manner. The established convergence results show that our proposed algorithm still achieves optimal convergence rate even though the inner problems are solved inexactly. Finally, several numerical experiments are presented to illustrate the efficiency and effectiveness of our proposed algorithm.
+Keywords
+Convex optimization  Dual decomposition  Inexact gradient method  Suboptimality and constraint violations  90C25  90C46  65Y05  

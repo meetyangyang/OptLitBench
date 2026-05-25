@@ -1,0 +1,6 @@
+Robust Control via Sequential Semidefinite Programming
+B.  Fares, D.  Noll, and P.  Apkarian;
+Abstract
+This paper discusses nonlinear optimization techniques in robust control synthesis, with special emphasis on design problems which may be cast as minimizing a linear objective function under linear matrix inequality (LMI) constraints in tandem with nonlinear matrix equality constraints. The latter type of constraints renders the design numerically and algorithmically difficult. We solve the optimization problem via sequential semidefinite programming (SSDP), a technique which expands on sequential quadratic programming (SQP) known in nonlinear optimization. Global and fast local convergence properties of SSDP are similar to those of SQP, and SSDP is conveniently implemented with available semidefinite programming (SDP) solvers. Using two test examples, we compare SSDP to the augmented Lagrangian method, another classical scheme in nonlinear optimization, and to an approach using concave optimization.
+Keywords
+nonlinear programming, sequential semidefinite programming, robust gain-\break scheduling control design, linear matrix inequalities, nonlinear matrix equalities, 93B51, 90C55, 

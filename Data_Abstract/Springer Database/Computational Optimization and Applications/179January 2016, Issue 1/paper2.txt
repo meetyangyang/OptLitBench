@@ -1,0 +1,6 @@
+An acceleration scheme for Dykstra’s algorithm
+Williams López;Marcos Raydan;
+Abstract
+Dykstra’s algorithm is an iterative alternating projection procedure for solving the best approximation problem: find the closest point, to a given one, in the intersection of a finite number of closed and convex sets. The main drawback of Dykstra’s algorithm is its frequent slow convergence. In this work we develop an acceleration scheme with a strong geometrical flavor, which guarantees termination at the solution in two cycles of projections in the case of two closed subspaces. The proposed scheme can also be applied to any other alternating projection algorithm that solves the best approximation problem.
+Keywords
+Dykstra’s algorithm  Alternating projection methods  Orthogonal projections  Acceleration schemes  

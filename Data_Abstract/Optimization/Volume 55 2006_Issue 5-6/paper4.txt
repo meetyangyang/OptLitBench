@@ -1,0 +1,6 @@
+Non-smooth optimization methods for computation of the Conditional Value-at-risk and portfolio optimization
+ Gleb   Beliakov ; Adil   Bagirov ;
+Abstract
+ We examine numerical performance of various methods of calculation of the Conditional Value-at-risk (CVaR), and portfolio optimization with respect to this risk measure. We concentrate on the method proposed by Rockafellar and Uryasev in (Rockafellar, R.T. and Uryasev, S., 2000, Optimization of conditional value-at-risk. Journal of Risk, 2, 21–41), which converts this problem to that of convex optimization. We compare the use of linear programming techniques against a non-smooth optimization method of the discrete gradient, and establish the supremacy of the latter. We show that non-smooth optimization can be used efficiently for large portfolio optimization, and also examine parallel execution of this method on computer clusters. 
+Keywords
+Non-smooth optimization, Conditional Value-at-risk, Expected shortfall, Portfolio optimization, Numerical optimizationKeywords: Mathematics Subject Classifications 2000: 90C05, 90C30, 90C56, 91B28 

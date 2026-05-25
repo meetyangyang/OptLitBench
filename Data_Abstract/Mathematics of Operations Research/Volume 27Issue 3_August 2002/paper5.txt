@@ -1,0 +1,6 @@
+Project Scheduling in AND–OR Graphs: A Generalization of Dijkstra's Algorithm
+George M. Adelson-Velsky;Eugene Levner;
+Abstract
+The paper considers a project scheduling problem in weighted directed graphs in which arcs represent operations while nodes are identified with starting and finishing endpoints of the operations; arc lengths represent operation durations. The graphs have two types of nodes—AND-nodes and OR-nodes. The problem is to find the earliest starting times for all operations. This problem generalizes the shortest path problem and the critical path problem. The complexity of the suggested algorithm is O(p′ p) where p′ is the number of arcs entering the AND-nodes and p is the total number of arcs.
+Keywords
+Project scheduling AND-OR graphs Dijkstra's algorithm polynomial algorithm 

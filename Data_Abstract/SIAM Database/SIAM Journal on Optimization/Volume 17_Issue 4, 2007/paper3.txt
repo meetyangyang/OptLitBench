@@ -1,0 +1,6 @@
+Determinant Maximization of a Nonsymmetric Matrix with Quadratic Constraints
+Serge   Dégerine and Abdelhamid   Zaïdi;
+Abstract
+This paper presents the problem of maximizing the determinant of a real $K\times K$‐matrix B, subject to the constraint that each row $b_k$ of B satisfies $b_k^t \Gamma_kb_k \leq 1$, where $\Gamma_1, \ldots,\Gamma_K$ are K given real symmetric positive definite matrices. This problem comes from a specific blind signal separation approach, but the criterion differs from approximate diagonalization criteria usually encountered in this area. Furthermore our criterion corresponds to the following nice geometrical problem: given K ellipsoids in ${\rm\bf R}^K, \varepsilon_k =\{x: x^t\Gamma_kx \leq1\}, k=1, \ldots,K$, find K vectors, $b_1\in \varepsilon_1, \ldots, b_K\in \varepsilon_K$, such that the volume of the parallelepiped defined by these vectors is maximum. Existence and uniqueness of the solution are discussed. An iterative algorithm, based on a relaxation technique, is proposed in order to solve this problem, and its convergence is proved under a simple sufficient condition. Some numerical experiments are performed showing the behavior of the algorithm and its comparison with Newton’s methods for nonlinear optimization.
+Keywords
+determinant maximization, relaxation technique, nonconvex optimization, 15A15, 49M20, 90C26, 

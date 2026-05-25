@@ -1,0 +1,4 @@
+Heuristic Variants of A\(^*\) Search for 3D Flight Planning
+Anders N. Knudsen;Marco Chiarandini;Kim S. Larsen;
+Abstract
+A crucial component of a flight plan to be submitted for approval to a control authority in the pre-flight phase is the prescription of a sequence of airways and airway points in the sky that an aircraft has to follow to cover a given route. The generation of such a path in the 3D network that models the airways must respect a number of constraints. They generally state that if a set of points or airways is visited then another set of points or airways must be avoided or visited. Paths are then selected on the basis of cost considerations. The cost of traversing an airway depends, directly, on fuel consumption and on traversing time, and, indirectly, on weight and on weather conditions.

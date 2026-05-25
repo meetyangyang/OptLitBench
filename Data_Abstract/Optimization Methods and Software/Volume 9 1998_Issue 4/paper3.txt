@@ -1,0 +1,6 @@
+Reverse aumulation and imploicit functions
+ Bruce   Christianson ;
+Abstract
+ We begin by introducing a simple technique for using reverse accumulation the first derivatives of target functions which include in their construction the solution of systems of linear or nonlinear equations. In the linear case solving Ay= bfor ycorresponds to the adjoint operations [bbar]:=[bbar]+vand [Abar] :=yvwhere vis the solution to the adjoint equations vA= [ybar]. A more sophisticated construction applies in the nonlinear case  We apply these technique to obtain automatic numerical error estimates for calculated function values. These error estimates include the effects of inaccurate equation solution as well as rounding error  Our basic techiques can br generalized to functions which contain several (linear or nonlinear) implicit functions in their constuction, either serially or nested. In the case of scalar-valued target functions that include equation solution as part of their construction. Our algorithms involve at most the same order of computational effort as the computattion of the target function value, regardless of the number of independent variables or the size of the systems of equations  
+Keywords
+Automatic Differentiation, Error Analysis, Inexact Equation Solutioip Fixed Point 

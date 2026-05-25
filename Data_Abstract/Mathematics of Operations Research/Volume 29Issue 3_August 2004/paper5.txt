@@ -1,0 +1,6 @@
+Continuous Time Discounted Jump Markov Decision Processes: A Discrete-Event Approach
+Eugene A. Feinberg;
+Abstract
+This paper introduces and develops a new approach to the theory of continuous time jump Markov decision processes (CTJMDP). This approach reduces discounted CTJMDPs to discounted semi-Markov decision processes (SMDPs) and eventually to discrete-time Markov decision processes (MDPs). The reduction is based on the equivalence of strategies that change actions between jumps and the randomized strategies that change actions only at jump epochs. This holds both for one-criterion problems and for multiple-objective problems with constraints. In particular, this paper introduces the theory for multiple-objective problems with expected total discounted rewards and constraints. If a problem is feasible, there exist three types of optimal policies: (i) nonrandomized switching stationary policies, (ii) randomized stationary policies for the CTJMDP, and (iii) randomized stationary policies for the corresponding SMDP with exponentially distributed sojourn times, and these policies can be implemented as randomized strategies in the CTJMDP.
+Keywords
+continuous time jump Markov decision process semi-Markov decision process 

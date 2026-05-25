@@ -1,0 +1,6 @@
+A C++application programming interface for biased random-key genetic algorithms
+R.F. Toso;M.G.C. Resende;
+Abstract
+In this paper, we describe brkgaAPI, an efficient and easy-to-use object-oriented application programming interface for the algorithmic framework of biased random-key genetic algorithms. Our cross-platform library automatically handles the large portion of problem-independent modules that are part of the framework, including population management and evolutionary dynamics, leaving to the user the task of implementing a problem-dependent procedure to convert a vector of random keys into a solution to the underlying optimization problem. Our implementation is written in the C++programming language and may benefit from shared-memory parallelism when available.
+Keywords
+biased random-key genetic algorithms, genetic algorithms, application programming interface, combinatorial optimization, parallel programmingAMS Subject Classification: 68N01, 68R01, 68T20, 68U01, 68W10, 68W20 

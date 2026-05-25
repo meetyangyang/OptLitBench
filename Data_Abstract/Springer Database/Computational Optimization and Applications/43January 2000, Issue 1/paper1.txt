@@ -1,0 +1,6 @@
+An Exterior Newton Method for Strictly Convex Quadratic Programming
+Thomas F. Coleman;Jianguo Liu;
+Abstract
+We propose an exterior Newton method for strictly convex quadratic programming (QP) problems. This method is based on a dual formulation: a sequence of points is generated which monotonically decreases the dual objective function. We show that the generated sequence converges globally and quadratically to the solution (if the QP is feasible and certain nondegeneracy assumptions are satisfied). Measures for detecting infeasibility are provided. The major computation in each iteration is to solve a KKT-like system. Therefore, given an effective symmetric sparse linear solver, the proposed method is suitable for large sparse problems. Preliminary numerical results are reported.
+Keywords
+convex quadratic programming  exterior methods  Newton methods  dual problems  

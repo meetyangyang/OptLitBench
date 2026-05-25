@@ -1,0 +1,6 @@
+Efficient reliability-based design with second order approximations
+Zhangli Hu;Xiaoping Du;
+Abstract
+Sequential optimization and reliability analysis (SORA) is an efficient approach to reliability-based design (RBD). It decouples the double-loop structure of RBD into a serial cycle of deterministic optimization and reliability analysis. The first order approximation is used in SORA for reliability analysis owing to its good balance between accuracy and efficiency. However, it may result in a large error when a constraint function is highly nonlinear. This study proposes a new numerical method so that second order approximations for the reliability analysis can be used for higher accuracy. To minimize the increased computational cost due to second order approximations, this study also develops an efficient algorithm for searching for an equivalent reliability index with the help of the saddlepoint approximation. The efficiency and accuracy of the proposed method are verified through numerical examples.
+Keywords
+Reliability, optimization, saddlepoint approximation, simulation, design 

@@ -1,0 +1,6 @@
+Fast evaluation of potential and force field in particle systems using a fair-split tree spatial structure
+ Guoliang   Xue ; Mark. R.   Lasher ;
+Abstract
+ We consider the following force field computation problem: given a duster of n particles in 3-dimensional space, compute the force exerted on each particle by the other particles. Depending on different applications, the pairwise interaction could be either gravitational or Lennard Jones. Since there are n(n−1)/2pairs, direct method requires θ(n 2) time. In this paper, we report our computational experiences with a new O(nlogn) time algorithm for fast evaluation of potential and force field in large Lennard – Jones clusters. This algorithm is based on a fair-split tree which guarantees O(nlogn)worst-case time complexity without any restriction on particle distributions. For randomly generated particle systems, our implementation outperforms the direct method when the number of panicles is 500 or larger This is the lowest cross over point ever reported in the literature.  
+Keywords
+Fair-split tree, Force field evaluation, Particle systems 

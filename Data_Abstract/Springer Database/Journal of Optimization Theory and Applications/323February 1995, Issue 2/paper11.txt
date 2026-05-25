@@ -1,0 +1,6 @@
+Geometric approach to Fletcher's ideal penalty function
+B. Christianson;
+Abstract
+In this note, we derive a geometric formulation of an ideal penalty function for equality constrained problems. This differentiable penalty function requires no parameter estimation or adjustment, has numerical conditioning similar to that of the target function from which it is constructed, and also has the desirable property that the strict second-order constrained minima of the target function are precisely those strict second-order unconstrained minima of the penalty function which satisfy the constraints. Such a penalty function can be used to establish termination properties for algorithms which avoid ill-conditioned steps. Numerical values for the penalty function and its derivatives can be calculated efficiently using automatic differentiation techniques.
+Keywords
+Automatic differentiation  constrained optimization  differentiable penalty function  reverse accumulation  termination proofs  validation  

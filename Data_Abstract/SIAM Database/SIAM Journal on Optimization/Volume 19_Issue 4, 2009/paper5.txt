@@ -1,0 +1,6 @@
+Shape Optimization Under Uncertainty—A Stochastic Programming Perspective
+Sergio  Conti, Harald  Held, Martin  Pach, Martin  Rumpf, and Rüdiger  Schultz;
+Abstract
+We present an algorithm for shape optimization under stochastic loading and representative numerical results. Our strategy builds upon a combination of techniques from two-stage stochastic programming and level-set-based shape optimization. In particular, usage of linear elasticity and quadratic objective functions permits us to obtain a computational cost which scales linearly in the number of linearly independent applied forces, which often is much smaller than the number of different realizations of the stochastic forces. Numerical computations are performed using a level set method with composite finite elements both in two and in three spatial dimensions.
+Keywords
+two-stage stochastic programming, shape optimization in elasticity, level set method, 49N30, 74P05, 

@@ -1,0 +1,6 @@
+Partial Stability for a Class of Nonlinear Systems
+Eduardo F.  Costa and Alessandro  Astolfi;
+Abstract
+This paper studies a nonlinear, discrete-time matrix system arising in the stability analysis of Kalman filters. These systems present an internal coupling between the state components that gives rise to complex dynamic behavior. The problem of partial stability, which requires that a specific component of the state of the system converge exponentially, is studied and solved. The convergent state component is strongly linked with the behavior of Kalman filters, since it can be used to provide bounds for the error covariance matrix under uncertainties in the noise measurements. We exploit the special features of the system—mainly the connections with linear systems—to obtain an algebraic test for partial stability. Finally, motivated by applications in which polynomial divergence of the estimates is acceptable, we study and solve a partial semistability problem.
+Keywords
+stability, nonlinear systems, matrix analysis, Kalman filter stability, 93D99, 70K20, 93B99, 15A99, 93E11, 

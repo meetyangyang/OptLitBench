@@ -1,0 +1,6 @@
+Computational Experience with a New Class of Convex Underestimators: Box-constrained NLP Problems
+Ioannis G. Akrotirianakis;Christodoulos A. Floudas;
+Abstract
+In Akrotirianakis and Floudas (2004) we presented the theoretical foundations of a new class of convex underestimators for C2 nonconvex functions. In this paper, we present computational experience with those underestimators incorporated within a Branch-and-Bound algorithm for box-conatrained problems. The algorithm can be used to solve global optimization problems that involve C2 functions. We discuss several ways of incorporating the convex underestimators within a Branch-and-Bound framework. The resulting Branch-and-Bound algorithm is then used to solve a number of difficult box-constrained global optimization problems. A hybrid algorithm is also introduced, which incorporates a stochastic algorithm, the Random-Linkage method, for the solution of the nonconvex underestimating subproblems, arising within a Branch-and-Bound framework. The resulting algorithm also solves efficiently the same set of test problems.
+Keywords
+Branch-and-bound  convex underestimators  global optimization  

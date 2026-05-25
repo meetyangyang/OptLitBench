@@ -1,0 +1,6 @@
+Derivative-Free Local Tuning and Local Improvement Techniques Embedded in the Univariate Global Optimization
+Yaroslav D. Sergeyev;Marat S. Mukhametzhanov;Dmitri E. Kvasov;Daniela Lera;
+Abstract
+Geometric and information frameworks for constructing global optimization algorithms are considered, and several new ideas to speed up the search are proposed. The accelerated global optimization methods automatically realize a local behavior in the promising subregions without the necessity to stop the global optimization procedure. Moreover, all the trials executed during the local phases are used also in the course of the global ones. The resulting geometric and information global optimization methods have a similar structure, and a smart mixture of new and traditional computational steps leads to 22 different global optimization algorithms. All of them are studied and numerically compared on three test sets including 120 benchmark functions and 4 applied problems.
+Keywords
+Deterministic global optimization  Lipschitz functions  Local tuning  Local improvement  Derivative-free algorithms  90C26  65B99  

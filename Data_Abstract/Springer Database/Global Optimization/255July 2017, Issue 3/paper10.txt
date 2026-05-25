@@ -1,0 +1,6 @@
+A review of computation of mathematically rigorous bounds on optima of linear programs
+Jared T. Guilbeau;Md. Istiaq Hossain;Sam D. Karhbet;Ralph Baker Kearfott;Temitope S. Sanusi;Lihong Zhao;
+Abstract
+Linear program solvers sometimes fail to find a good approximation to the optimum value, without indicating possible failure. However, it may be important to know how close the value such solvers return is to an actual optimum, or even to obtain mathematically rigorous bounds on the optimum. In a seminal 2004 paper, Neumaier and Shcherbina, propose a method by which such rigorous lower bounds can be computed; we now have significant experience with this method. Here, we review the technique. We point out typographical errors in two formulas in the original publication, and illustrate their impact. Separately, implementers and practitioners can also easily make errors. To help implementers avoid such problems, we cite a technical report where we explain things to mind and where we present rigorous bounds corresponding to alternative formulations of the linear program.
+Keywords
+Linear program  Interval computations  Mathematically rigorous lower bounds  Branch and bound  Relaxation  Global optimization  

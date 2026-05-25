@@ -1,0 +1,6 @@
+Resource-constrained scheduling with hard due windows and rejection penalties
+Christopher Garcia;
+Abstract
+This work studies a scheduling problem where each job must be either accepted and scheduled to complete within its specified due window, or rejected altogether. Each job has a certain processing time and contributes a certain profit if accepted or penalty cost if rejected. There is a set of renewable resources, and no resource limit can be exceeded at any time. Each job requires a certain amount of each resource when processed, and the objective is to maximize total profit. A mixed-integer programming formulation and three approximation algorithms are presented: a priority rule heuristic, an algorithm based on the metaheuristic for randomized priority search and an evolutionary algorithm. Computational experiments comparing these four solution methods were performed on a set of generated benchmark problems covering a wide range of problem characteristics. The evolutionary algorithm outperformed the other methods in most cases, often significantly, and never significantly underperformed any method.
+Keywords
+resource-constrained, order acceptance, evolutionary algorithm, mixed-integer programming, Meta-RaPS 

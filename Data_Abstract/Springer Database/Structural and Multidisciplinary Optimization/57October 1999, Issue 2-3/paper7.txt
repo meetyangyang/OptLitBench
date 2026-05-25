@@ -1,0 +1,6 @@
+On improving multiobjective genetic algorithms for design optimization
+S. Narayanan;S. Azarm;
+Abstract
+This paper presents some improvements to Multi-Objective Genetic Algorithms (MOGAs). MOGA modifies certain operators within the GA itself to produce a multiobjective optimization technique. The improvements are made to overcome some of the shortcomings in niche formation, stopping criteria and interaction with a design decision-maker. The technique involves filtering, mating restrictions, the idea of objective constraints, and detecting Pareto solutions in the non-convex region of the Pareto set. A step-by-step procedure for an improved MOGA has been developed and demonstrated via two multiobjective engineering design examples: (i) two-bar truss design, and (ii) vibrating platform design. The two-bar truss example has continuous variables while the vibrating platform example has mixed-discrete (combinatorial) variables. Both examples are solved by MOGA with and without the improvements. It is shown that MOGA with the improvements performs better for both examples in terms of the number of function evaluations.
+Keywords
+Genetic Algorithm  Continuous Variable  Civil Engineer  Function Evaluation  Design Optimization  

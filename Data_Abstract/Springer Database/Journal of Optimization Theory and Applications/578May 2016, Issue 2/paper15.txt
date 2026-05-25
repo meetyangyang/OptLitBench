@@ -1,0 +1,6 @@
+An Adaptive Approach to Adjust Constraint Bounds and its Application in Structural Topology Optimization
+G. L. Yi;Y. K. Sui;
+Abstract
+Two difficult situations often occur in the final results of engineering design optimization problems, i.e., final results yielding (1) violated constraints, or (2) no active constraints. In order to avoid these situations, this paper proposes an adaptive approach of dynamically adjusting constraint bounds to address constraint satisfaction issues. Based on the ratio of the true value of the constraint obtained by the analytical formula or finite element analysis, to the corresponding constraint bound used in the current iteration, a new constraint bound is computed and updated automatically for next iteration. By means of controlling the iterative process, this approach is able to make all constraints satisfied at the optimum point. It is implemented successfully and robustly into structural topology optimization problems with a displacement constraint.
+Keywords
+Structural optimization  Approximated explicit models  Constraint satisfaction issues  An adaptive approach of dynamically adjusting constraint bounds  Structural topology optimization  93B40  

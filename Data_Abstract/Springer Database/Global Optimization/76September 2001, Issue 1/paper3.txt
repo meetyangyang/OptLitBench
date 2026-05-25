@@ -1,0 +1,6 @@
+A Locally-Biased form of the DIRECT Algorithm
+J.M. Gablonsky;C.T. Kelley;
+Abstract
+In this paper we propose a form of the DIRECT algorithm that is strongly biased toward local search. This form should do well for small problems with a single global minimizer and only a few local minimizers. We motivate our formulation with some results on how the original formulation of the DIRECT algorithm clusters its search near a global minimizer. We report on the performance of our algorithm on a suite of test problems and observe that the algorithm performs particularly well when termination is based on a budget of function evaluations.
+Keywords
+DIRECT  Locally-biased formulation  Local clustering  

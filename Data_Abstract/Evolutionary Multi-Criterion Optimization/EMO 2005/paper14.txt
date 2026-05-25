@@ -1,0 +1,4 @@
+Initial Population Construction for Convergence Improvement of MOEAs
+Christian Haubelt;Jürgen Gamenik;Jürgen Teich;
+Abstract
+Nearly all Multi-Objective Evolutionary Algorithms (MOEA) rely on random generation of initial population. In large and complex search spaces, this random method often leads to an initial population composed of infeasible solutions only. Hence, the task of a MOEA is not only to converge towards the Pareto-optimal front but also to guide the search towards the feasible region. This paper proposes the incorporation of a novel method for constructing initial populations into existing MOEAs based on so-called Pareto-Front-Arithmetics (PFA). We will provide experimental results from the field of embedded system synthesis that show the effectiveness of our proposed methodology.

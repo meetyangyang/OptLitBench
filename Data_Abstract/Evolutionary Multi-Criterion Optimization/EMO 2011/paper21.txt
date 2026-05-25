@@ -1,0 +1,4 @@
+Multi-objective Optimization with Joint Probabilistic Modeling of Objectives and Variables
+Hossein Karshenas;Roberto Santana;Concha Bielza;Pedro Larrañaga;
+Abstract
+The objective values information can be incorporated into the evolutionary algorithms based on probabilistic modeling in order to capture the relationships between objectives and variables. This paper investigates the effects of joining the objective and variable information on the performance of an estimation of distribution algorithm for multi-objective optimization. A joint Gaussian Bayesian network of objectives and variables is learnt and then sampled using the information about currently best obtained objective values as evidence. The experimental results obtained on a set of multi-objective functions and in comparison to two other competitive algorithms are presented and discussed.

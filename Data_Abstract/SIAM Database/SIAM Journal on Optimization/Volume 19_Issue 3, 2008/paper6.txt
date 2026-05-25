@@ -1,0 +1,6 @@
+Fixed-Point Continuation for $\ell_1$-Minimization: Methodology and Convergence
+Elaine T.  Hale, Wotao  Yin, and Yin  Zhang;
+Abstract
+We present a framework for solving the large-scale $\ell_1$-regularized convex minimization problem:\[ \min\|x\|_1+\mu f(x). \] Our approach is based on two powerful algorithmic ideas: operator-splitting and continuation. Operator-splitting results in a fixed-point algorithm for any given scalar $\mu$; continuation refers to approximately following the path traced by the optimal value of x as $\mu$ increases. In this paper, we study the structure of optimal solution sets, prove finite convergence for important quantities, and establish q-linear convergence rates for the fixed-point algorithm applied to problems with $f(x)$ convex, but not necessarily strictly convex. The continuation framework, motivated by our convergence results, is demonstrated to facilitate the construction of practical algorithms.
+Keywords
+$\ell_1$ regularization, fixed-point algorithm, q-linear convergence, continuation, compressed sensing, 65K05, 90C06, 90C25, 90C90, 

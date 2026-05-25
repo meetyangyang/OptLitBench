@@ -1,0 +1,6 @@
+Topology optimization for minimum weight with compliance and stress constraints
+Matteo Bruggi;Pierre Duysinx;
+Abstract
+The paper deals with a formulation for the topology optimization of elastic structures that aims at minimizing the structural weight subject to compliance and local stress constraints. The global constraint provides the expected stiffness to the optimal design while a selected set of local enforcements require feasibility with respect to the assigned strength of material. The Drucker–Prager failure criterion is implemented to handle materials with either equal or unequal behavior in tension and compression. A suitable relaxation of the equivalent stress measure is implemented to overcome the difficulties related to the singularity problem. Numerical examples are presented to discuss the features of the achieved optimal designs along with performances of the adopted procedure. Comparisons with pure compliance–based or pure stress–based strategies are also provided to point out differences arising in the optimal design with respect to conventional approaches, depending on the assumed material behavior.
+Keywords
+Topology optimization  Stress constraints  Compliance constraint  Singularity problem  Drucker–Prager failure criterion  

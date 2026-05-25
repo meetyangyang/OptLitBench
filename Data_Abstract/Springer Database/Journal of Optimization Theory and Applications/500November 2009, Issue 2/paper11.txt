@@ -1,0 +1,8 @@
+On the Expected Probability of Constraint Violation in Sampled Convex Programs
+G. C. Calafiore;
+Abstract
+In this note, we derive an exact expression for the expected probability V of constraint violation in a sampled convex program (see Calafiore and Campi in Math. Program. 102(1):25–46, 2005; IEEE Trans. Autom. Control 51(5):742–753, 2006 for definitions and an introduction to this topic): 
+$$V=\frac{\mbox{expected number of support constraints}}{1+\mbox{number of constraints}}.$$ 
+This result (Theorem 2.1) is obtained using a simple technique based on cardinality count. In the note, we also use a Chernoff bounding technique on the upper tail violation probability expression derived in (Campi and Garatti in SIAM J. Optim. 19(3):1211–1230, 2008) to obtain one of the tightest available explicit bounds on the sample complexity of sampled convex programs (Proposition 2.1).
+Keywords
+Sampled convex programs  Scenario optimization  Randomized methods  Robust convex optimization  Probabilistic robustness  Semi-infinite programming  Constraint violation probability  

@@ -1,0 +1,6 @@
+Convergence Analysis of Inexact Infeasible-Interior-Point Algorithms for Solving Linear Programming Problems
+Janos  Korzak;
+Abstract
+In this paper we present a convergence analysis for some inexact (polynomial) variants of the infeasible-interior-point algorithm of Kojima, Megiddo, and Mizuno. For this analysis we assume that the iterates are bounded. The new variants allow the use of search directions that are calculated from the defining linear system with only moderate accuracy, e.g., via the use of Krylov subspace methods like CG or QMR. Furthermore, some numerical results for the proposed methods are given.
+Keywords
+linear programming, infeasible-interior-point method, inexact search direction, 90C05, 65K05, 90C06, 

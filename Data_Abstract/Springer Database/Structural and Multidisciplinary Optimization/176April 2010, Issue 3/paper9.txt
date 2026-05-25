@@ -1,0 +1,6 @@
+A discrete level-set topology optimization code written in Matlab
+Vivien J. Challis;
+Abstract
+This paper presents a compact Matlab implementation of the level-set method for topology optimization. The code can be used to minimize the compliance of a statically loaded structure. Simple code modifications to extend the code for different and multiple load cases are given. The code is inspired by a Matlab implementation of the solid isotropic material with penalization (SIMP) method for topology optimization (Sigmund, Struct Multidiscipl Optim 21:120–127, 2001). Including the finite element solver and comments, the code is 129 lines long. The code is intended for educational purposes, and in particular it could be used alongside the Matlab implementation of the SIMP method for topology optimization to demonstrate the similarities and differences between the two approaches.
+Keywords
+Topology optimization  Level-set method  Matlab code  Education  

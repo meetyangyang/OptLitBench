@@ -1,0 +1,6 @@
+A Multi-Stage Stochastic Integer Programming Approach for Capacity Expansion under Uncertainty
+Shabbir Ahmed;Alan J. King;Gyana Parija;
+Abstract
+This paper addresses a multi-period investment model for capacity expansion in an uncertain environment. Using a scenario tree approach to model the evolution of uncertain demand and cost parameters, and fixed-charge cost functions to model the economies of scale in expansion costs, we develop a multi-stage stochastic integer programming formulation for the problem. A reformulation of the problem is proposed using variable disaggregation to exploit the lot-sizing substructure of the problem. The reformulation significantly reduces the LP relaxation gap of this large scale integer program. A heuristic scheme is presented to perturb the LP relaxation solutions to produce good quality integer solutions. Finally, we outline a branch and bound algorithm that makes use of the reformulation strategy as a lower bounding scheme, and the heuristic as an upper bounding scheme, to solve the problem to global optimality. Our preliminary computational results indicate that the proposed strategy has significant advantages over straightforward use of commercial solvers.
+Keywords
+capacity expansion  stochastic integer programming  reformulation  heuristic  branch & bound  

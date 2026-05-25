@@ -1,0 +1,6 @@
+Maximum stable set formulations and heuristics based on continuous optimization
+Samuel Burer;Renato D.C. Monteiro;Yin Zhang;
+Abstract
+ The stability number α(G) for a given graph G is the size of a maximum stable set in G. The Lovász theta number provides an upper bound on α(G) and can be computed in polynomial time as the optimal value of the Lovász semidefinite program. In this paper, we show that restricting the matrix variable in the Lovász semidefinite program to be rank-one and rank-two, respectively, yields a pair of continuous, nonlinear optimization problems each having the global optimal value α(G). We propose heuristics for obtaining large stable sets in G based on these new formulations and present computational results indicating the effectiveness of the heuristics.
+Keywords
+Computational Result  Polynomial Time  Nonlinear Optimization  Matrix Variable  Continuous Optimization  

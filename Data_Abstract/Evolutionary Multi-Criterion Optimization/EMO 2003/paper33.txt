@@ -1,0 +1,4 @@
+Solving Multi-criteria Optimization Problems with Population-Based ACO
+Michael Guntsch;Martin Middendorf;
+Abstract
+In this paper a Population-based Ant Colony Optimization approach is proposed to solve multi-criteria optimization problems where the population of solutions is chosen from the set of all non-dominated solutions found so far. We investigate different maximum sizes for this population. The algorithm employs one pheromone matrix for each type of optimization criterion. The matrices are derived from the chosen population of solutions, and can cope with an arbitrary number of criteria. As a test problem, Single Machine Total Tardiness with changeover costs is used.

@@ -1,0 +1,6 @@
+A trust region method for solving semidefinite programs
+Aiqun Huang;Chengxian Xu;
+Abstract
+When using interior point methods for solving semidefinite programs (SDP), one needs to solve a system of linear equations at each iteration. For problems of large size, solving the system of linear equations can be very expensive. In this paper, we propose a trust region algorithm for solving SDP problems. At each iteration we perform a number of conjugate gradient iterations, but do not need to solve a system of linear equations. Under mild assumptions, the convergence of this algorithm is established. Numerical examples are given to illustrate the convergence results obtained.
+Keywords
+Semidefinite programming  Fréchet derivative  Global convergence  Trust region method  

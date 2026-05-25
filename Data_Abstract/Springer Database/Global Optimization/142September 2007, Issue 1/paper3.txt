@@ -1,0 +1,6 @@
+A new multiobjective simulated annealing algorithm
+Ozan Tekinalp;Gizem Karsli;
+Abstract
+A new multiobjective simulated annealing algorithm for continuous optimization problems is presented. The algorithm has an adaptive cooling schedule and uses a population of fitness functions to accurately generate the Pareto front. Whenever an improvement with a fitness function is encountered, the trial point is accepted, and the temperature parameters associated with the improving fitness functions are cooled. Beside well known linear fitness functions, special elliptic and ellipsoidal fitness functions, suitable for the generation on non-convex fronts, are presented. The effectiveness of the algorithm is shown through five test problems. The parametric study presented shows that more fitness functions as well as more iteration gives more non-dominated points closer to the actual front. The study also compares the linear and elliptic fitness functions. The success of the algorithm is also demonstrated by comparing the quality metrics obtained to those obtained for a well-known evolutionary multiobjective algorithm.
+Keywords
+Multiobjective optimization  Simulated annealing  Pareto front  

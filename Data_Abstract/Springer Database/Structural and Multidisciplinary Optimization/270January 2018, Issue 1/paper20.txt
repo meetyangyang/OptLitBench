@@ -1,0 +1,6 @@
+Multiobjective topology optimization with the sko-method
+André Inzenhofer;Joona Haikonen;Andreas Hupfer;
+Abstract
+The Soft-Kill-Option method (SKO) is an evolutionary approach for topology optimization. The objective of the optimization is to determine a uniformly stressed topology for a given loading. Thus, a structure with optimal material layout can be achieved. Ordinary applications of the SKO method consider only the stress objective. Within the present study, an extension of this method is investigated, which allows the optimization of two objectives at the same time. As the second objective, heat flux is chosen. Besides thermal and mechanical induced stresses, this parameter has a large impact on the lifetime of thermal highly loaded components. The present study first explains the single objective optimization approach. Thereby, the relevant SKO parameters are also investigated. Building up on these results, a method for combining two objectives by superposition is investigated. The implementation of the developed procedure is explained, and two examples are evaluated. For the implementation of the algorithm, the scripting language python is used. The algorithm is executed with the commercial software ABAQUS.
+Keywords
+SKO  Weighting factors  Heat flux  Stress  

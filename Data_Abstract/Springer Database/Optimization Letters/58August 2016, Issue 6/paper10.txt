@@ -1,0 +1,6 @@
+Capacity inverse minimum cost flow problems under the weighted Hamming distance
+Longcheng Liu;Enyu Yao;
+Abstract
+Given a network N(V, A, u, c) and a feasible flow \(x^0\), the inverse minimum cost flow problem is to modify the capacity vector or the cost vector as little as possible to make \(x^0\) form a minimum cost flow of the network. The modification can be measured by different norms. In this paper, we consider the capacity inverse minimum cost flow problems under the weighted Hamming distance, where we use the weighted Hamming distance to measure the modification of the arc capacities. Both the sum-type and the bottleneck-type cases are considered. For the former, it is shown to be APX-hard due to the weighted feedback arc set problem. For the latter, we present a strongly polynomial algorithm which can be done in \(O(n\cdot m^2)\) time.
+Keywords
+Minimum cost flow  Inverse problem  Hamming distance  APX-hard  Strongly polynomial algorithm  

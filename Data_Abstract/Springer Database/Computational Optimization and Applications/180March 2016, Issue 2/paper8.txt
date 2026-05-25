@@ -1,0 +1,6 @@
+On the steepest descent algorithm for quadratic functions
+Clóvis C. Gonzaga;Ruana M. Schneider;
+Abstract
+The steepest descent algorithm with exact line searches (Cauchy algorithm) is inefficient, generating oscillating step lengths and a sequence of points converging to the span of the eigenvectors associated with the extreme eigenvalues. The performance becomes very good if a short step is taken at every (say) ten iterations. We show a new method for estimating short steps, and propose a method alternating Cauchy and short steps. Finally, we use the roots of a certain Chebyshev polynomial to further accelerate the methods.
+Keywords
+Step Length  Steep Descent  Large Step  Steep Descent Method  Light Variable  

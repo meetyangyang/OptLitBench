@@ -1,0 +1,6 @@
+Approximations in proximal bundle methods and decomposition of convex programs
+K. C. Kiwiel;
+Abstract
+A proximal bundle method is presented for minimizing a nonsmooth convex functionf. At each iteration, it requires only one approximate evaluation off and its ε-subgradient, and it finds a search direction via quadratic programming. When applied to the Lagrangian decomposition of convex programs, it allows for inexact solutions of decomposed subproblems; yet, increasing their required accuracy automatically, it asymptotically finds both the primal and dual solutions. It is an implementable approximate version of the proximal point algorithm. Some encouraging numerical experience is reported.
+Keywords
+Nondifferentiable optimization  nonsmooth optimization  convex programming  decomposition  large-scale programming  proximal bundle methods  

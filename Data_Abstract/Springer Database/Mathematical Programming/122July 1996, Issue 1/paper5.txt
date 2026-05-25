@@ -1,0 +1,6 @@
+Complexity analysis of the analytic center cutting plane method that uses multiple cuts
+Yinyu Ye;
+Abstract
+We analyze the complexity of the analytic center cutting plane or column generation algorithm for solving general convex problems defined by a separation oracle. The oracle is called at the analytic center of a polytope, which contains a solution set and is given by the intersection of the linear inequalities previously generated from the oracle. If the center is not in the solution set, separating hyperplanes will be placed through the center to shrink the containing polytope. While the complexity result has been recently established for the algorithm when one cutting plane is placed in each iteration, the result remains open when multiple cuts are added. Moreover, adding multiple cuts actually is a key to practical effectiveness in solving many problems and it presents theoretical difficulties in analyzing cutting plane methods. In this paper, we show that the analytic center cutting plane algorithm, with multiple cuts added in each iteration, still is a fully polynomial approximation algorithm.
+Keywords
+Convex feasibility problem  Analytic center  Potential reduction  Column generation  Cutting planes  

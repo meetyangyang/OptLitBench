@@ -1,0 +1,6 @@
+BoxStep methods for crew pairing problems
+Van Hoai Tran;Gerhard Reinelt;Hans Georg Bock;
+Abstract
+Crew pairing problems are often solved using column generation in a branch-and-price framework. The oscillation of dual points is the main reason which leads to instability in the standard implementation of this method. One device to deal with the problem is to use the trust-region idea to stabilize the path of dual points. Therefore, a so-called stabilized column generation with respect to control parameters is suggested to overcome this problem. In this paper we report about possible realizations of this principle and show that the performance of algorithms can be improved significantly. Three stabilizing methods are used to investigate good control parameters which contribute to the improved computation time in solving a set of crew pairing problems involving about 400 flights per week.
+Keywords
+Column generation  Stabilization  Trust region  BoxStep  Airline crew scheduling  

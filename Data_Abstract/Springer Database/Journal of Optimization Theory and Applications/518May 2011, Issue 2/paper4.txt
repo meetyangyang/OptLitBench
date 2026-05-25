@@ -1,0 +1,7 @@
+Searching for a Best Least Absolute Deviations Solution of an Overdetermined System of Linear Equations Motivated by Searching for a Best Least Absolute Deviations Hyperplane on the Basis of Given Data
+Kristian Sabo;Rudolf Scitovski;Ivan Vazler;
+Abstract
+We consider the problem of searching for a best LAD-solution of an overdetermined system of linear equations Xa=z, X∈ℝm×n, m≥n, \(\mathbf{a}\in \mathbb{R}^{n}, \mathbf {z}\in\mathbb{R}^{m}\). This problem is equivalent to the problem of determining a best LAD-hyperplane x↦a  T  x, x∈ℝ n  on the basis of given data \((\mathbf{x}_{i},z_{i}), \mathbf{x}_{i}= (x_{1}^{(i)},\ldots,x_{n}^{(i)})^{T}\in \mathbb{R}^{n}, z_{i}\in\mathbb{R}, i=1,\ldots,m\), whereby the minimizing functional is of the form 
+$$F(\mathbf{a})=\|\mathbf{z}-\mathbf{Xa}\|_1=\sum_{i=1}^m|z_i-\mathbf {a}^T\mathbf{x}_i|.$$ An iterative procedure is constructed as a sequence of weighted median problems, which gives the solution in finitely many steps. A criterion of optimality follows from the fact that the minimizing functional F is convex, and therefore the point a ∗∈ℝ n  is the point of a global minimum of the functional F if and only if 0∈∂F(a ∗).
+Keywords
+LAD  Least absolute deviations  Overdetermined system of linear equations  l1-norm approximation  Weighted median problem  Outliers  LAD-hyperplane  

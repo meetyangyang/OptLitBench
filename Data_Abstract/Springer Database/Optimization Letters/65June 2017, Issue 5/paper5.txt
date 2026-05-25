@@ -1,0 +1,6 @@
+A nonmonotone inexact Newton method for unconstrained optimization
+Huan Gao;Hai-Bin Zhang;Zhi-Bao Li;Emmanuel Tadjouddine;
+Abstract
+It is well known that the Newton method has a second order rate of convergence and that it is widely used to solve optimization problems and nonlinear equations which arise from computational science, engineering analysis and other applications. However, two big disadvantages hinder its application: high computational cost for large scale problems and poor global performance in some complicated and difficult problems. Some inexact Newton methods have emerged over time. Among them, the Newton preconditioned conjugate gradient method is the most efficient and popular approach to overcome the first shortcoming while keeping rapid convergence. In this paper, we have improved the global performance of the inexact Newton method by developing a nonmonotone line search technique. We have also proved the global convergence of the proposed method under some conditions. Numerical experiments on a set of standard test problems are reported. They have shown that the proposed algorithm is promising.
+Keywords
+Inexact Newton method  Nonmonotone line search  Preconditioned conjugate gradient  Global convergence   

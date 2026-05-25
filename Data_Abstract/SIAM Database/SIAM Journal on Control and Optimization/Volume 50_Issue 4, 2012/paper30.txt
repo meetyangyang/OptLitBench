@@ -1,0 +1,6 @@
+Quadratic Risk Minimization in a Regime-Switching Model with Portfolio Constraints
+Catherine  Donnelly and Andrew J.  Heunis;
+Abstract
+We study a problem of stochastic control in mathematical finance, for which the asset prices are modeled by Itô processes. The market parameters exhibit “regime-switching” in the sense of being adapted to the joint filtration of the Brownian motion in the asset price models and a given finite-state Markov chain which models “regimes” of the market.  The goal is to minimize a general quadratic loss function of the wealth at close of trade subject to the constraint that the vector of dollar amounts in each stock remains within a given closed convex set.  We apply a conjugate duality approach, the essence of which is to establish existence of a solution to an associated dual problem and then use optimality relations to construct an optimal portfolio in terms of this solution. The optimality relations are also used to compute explicit optimal portfolios for various convex cone constraints when the market parameters are adapted specifically to the Markov chain.
+Keywords
+convex analysis, duality synthesis, variational analysis, convex constraints, finite-state Markov chain, regime-switching, 93E20, 91B28, 90A09, 49N15, 

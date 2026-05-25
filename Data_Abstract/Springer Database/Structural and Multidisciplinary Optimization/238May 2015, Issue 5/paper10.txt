@@ -1,0 +1,6 @@
+Coupled aerostructural topology optimization using a level set method for 3D aircraft wings
+Peter D. Dunning;Bret K. Stanford;H. Alicia Kim;
+Abstract
+The purpose of this work is to develop a level set topology optimization method for an unstructured three-dimensional mesh and apply it to wing box design for coupled aerostructural considerations. The paper develops fast marching and upwind schemes suitable for unstructured meshes, which make the level set method robust and efficient. The method is applied to optimize a representative wing box internal structure for the NASA Common Research Model. The objective is to minimize the total compliance of the wing box. The trim condition that aerodynamic lift must balance the total weight of the aircraft is enforced by allowing the root angle of attack to change. The adjoint method is used to obtain the coupled shape sensitivities required to perform aerostructural optimization of the wing box. Optimum solutions for several aerodynamic and body force load cases, as well as a ground load case, are presented.
+Keywords
+Level set method  3D unstructured mesh  Topology optimization  Multi-disciplinary optimization  

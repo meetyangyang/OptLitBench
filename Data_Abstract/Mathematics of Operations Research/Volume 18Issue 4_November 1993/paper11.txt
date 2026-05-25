@@ -1,0 +1,6 @@
+A General Framework of Continuation Methods for Complementarity Problems
+Masakazu Kojima;Nimrod Megiddo;Shinji Mizuno;
+Abstract
+A general class of continuation methods is presented which, in particular, solve linear complementarity problems with compositive-plus and L*-matrices. Let a, b ∈ Rn be nonnegative vectors. We embed the complementarity problem with a continuously differentiable mapping f: Rn → Rn in an artificial system of equations(*)   F(x, y) = (μa, ζb) and (x, y) ≥ 0,where F: R2n → R2n is defined byF(x, y) = (x1y1, …, xnyn, y − f(x))and μ ≥ 0 and ζ ≥ 0 are parameters. A pair (x, y) is a solution of the complementarity problem if and only if it solves (*) for μ = 0 and ζ = 0. A general idea of continuation methods founded on the system (*) is as follows:(1) Choose n-dimensional vectors a ≥ 0 and b > 0 such that the system (*) has a trivial solution (x1, y1) for some μ1, ζ1 ≥ 0.(2) Trace solutions of (*) from (x1, y1) with μ = μ1 and ζ = ζ1 as the parameters μ and ζ are decreased to zero.This idea provides a theoretical basis for various methods such as Lemke's method and a method of tracing the central trajectory of linear complementarity problems.
+Keywords
+continuation method complementarity problem interior point algorithm copositive-plus matrix L*-matrix 

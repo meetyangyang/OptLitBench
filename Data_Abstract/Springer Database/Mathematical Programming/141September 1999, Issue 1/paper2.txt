@@ -1,0 +1,6 @@
+A branch-and-cut algorithm for capacitated network design problems
+Oktay Günlük;
+Abstract
+We present a branch-and-cut algorithm to solve capacitated network design problems. Given a capacitated network and point-to-point traffic demands, the objective is to install more capacity on the edges of the network and route traffic simultaneously, so that the overall cost is minimized. We study a mixed-integer programming formulation of the problem and identify some new facet defining inequalities. These inequalities, together with other known combinatorial and mixed-integer rounding inequalities, are used as cutting planes. To choose the branching variable, we use a new rule called “knapsack branching”. We also report on our computational experience using real-life data.
+Keywords
+Key words: mixed-integer programming – branch-and-cut – computing  

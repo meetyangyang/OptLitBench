@@ -1,0 +1,6 @@
+Floating boundary particle swarm optimization algorithm
+Aleksey Y. Galan;Ronan Sauleau;Artem V. Boriskin;
+Abstract
+A new modification to the particle swarm optimization (PSO) algorithm is proposed aiming to make the algorithm less sensitive to selection of the initial search domain. To achieve this goal, we release the boundaries of the search domain and enable each boundary to drift independently, guided by the number of collisions with particles involved in the optimization process. The gradual modification of the active search domain range enables us to prevent particles from revisiting less promising regions of the search domain and also to explore the areas located outside the initial search domain. With time, the search domain shrinks around a region holding a global extremum. This helps improve the quality of the final solution obtained. It also makes the algorithm less sensitive to initial choice of the search domain ranges. The effectiveness of the proposed Floating Boundary PSO (FBPSO) is demonstrated using a set of standard test functions. To control the performance of the algorithm, new parameters are introduced. Their optimal values are determined through numerical examples.
+Keywords
+Global optimization  Adaptive algorithms  Particle swarm optimization  Adaptive range  Active search domain  Floating boundary  

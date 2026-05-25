@@ -1,0 +1,6 @@
+Minimum and Worst-Case Performance Ratios of Rollout Algorithms
+Luca Bertazzi;
+Abstract
+Rollout algorithms are heuristic algorithms that can be applied to solve deterministic and stochastic dynamic programming problems. The basic idea is to use the cost obtained by applying a well known heuristic, called the base policy, to approximate the value of the optimal cost-to-go. We develop a theoretical approach to prove, for the 0-1 knapsack problem, that the minimum performance ratio of the rollout algorithms tends to be significantly greater when the performance ratio of the corresponding base policy is poor and that the worst-case performance ratio is significantly better than the one of the corresponding base policies.
+Keywords
+Rollout algorithms  Minimum performance ratio  Worst-case performance ratio  

@@ -1,0 +1,6 @@
+Minimal Effort Problems and Their Treatment by Semismooth Newton Methods
+Kazufumi  Ito and Karl  Kunisch;
+Abstract
+The paper introduces minimum effort control problems. These provide an answer to the question of the smallest possible control bound which still allows us to drive the system to a target within a fixed time T. This is a counterpart to the time optimal control problem which minimizes the time required to drive the system to the target, given a control bound. The problem is formulated as an optimal control problem with pointwise constraint on the control. The necessary conditions of optimality are derived by Lagrange multiplier theory. The semismooth Newton method is applied to a properly regularized problem. Well-posedness and superlinear convergence of the semismooth Newton method are proved for linear control systems under a controllability condition. Numerical results are presented for demonstrating the applicability and feasibility of the proposed method.
+Keywords
+minimum effort control, Lagrange multiplier theory, semismooth Newton method, 49K15, 49M15, 65K10, 

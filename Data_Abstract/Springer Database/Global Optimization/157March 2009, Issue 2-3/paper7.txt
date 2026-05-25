@@ -1,0 +1,6 @@
+A mixed-integer optimization framework for the synthesis and analysis of regulatory networks
+Panagiota T. Foteinou;Eric Yang;Georges K. Saharidis;Marianthi G. Ierapetritou;Ioannis P. Androulakis;
+Abstract
+ Motivation: A novel mixed-integer optimization framework is proposed for the design and analysis of regulatory networks. The model combines gene expression data and prior biological knowledge regarding the potential for regulatory interactions between genes and their corresponding transcription factors. The formalism provides significant advantages over available modeling methodologies in that the complexity of the regulatory network can be explicitly taken into account, multiple alternative structures can be systematically generated and finally robust and biological significant regulators can be rigorously identified. The original non-convex mixed integer reformulation is appropriately linearized and the resulting MILP is effectively optimized using standard solvers. The versatility is demonstrated using gene expression and binding data from an E. coli case study during transition from glucose to acetate as the sole carbon source.
+Keywords
+Bioinformatics  Mixed integer linear optimization  Gene regulation  

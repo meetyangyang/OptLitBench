@@ -1,0 +1,6 @@
+The high performing backtracking algorithm and heuristic for the sequence-dependent setup times flowshop problem with total weighted tardiness
+Jun-Xi Zheng;Ping Zhang;Fang Li;Guang-Long Du;
+Abstract
+Although the sequence-dependent setup times flowshop problem with the total weighted tardiness minimization objective exists widely in industry, work on the problem has been scant in the existing literature. To the authors' best knowledge, the NEHEWDD heuristic and the Iterated Greedy (IG) algorithm with descent local search have been regarded as the high performing heuristic and the state-of-the-art algorithm for the problem, which are both based on insertion search. In this article firstly, an efficient backtracking algorithm and a novel heuristic (HPIS) are presented for insertion search. Accordingly, two heuristics are introduced, one is NEHEWDD with HPIS for insertion search, and the other is the combination of NEHEWDD and both the two methods. Furthermore, the authors improve the IG algorithm with the proposed methods. Finally, experimental results show that both the proposed heuristics and the improved IG (IG*) significantly outperform the original ones.
+Keywords
+flowshop scheduling, heuristic, backtracking algorithm, setup times, total weighted tardiness 

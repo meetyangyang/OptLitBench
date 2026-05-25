@@ -1,0 +1,6 @@
+An efficient approach to reliability-based topology optimization for continua under material uncertainty
+Mehdi Jalalpour;Mazdak Tootkaboni;
+Abstract
+This contribution presents a computationally efficient method for reliability-based topology optimization for continuum domains under material properties uncertainty. Material Young’s modulus is assumed to be lognormally distributed and correlated within the domain. The computational efficiency is achieved through estimating the response statistics with stochastic perturbation of second order, using these statistics to fit an appropriate distribution that follows the empirical distribution of the response, and employing an efficient gradient-based optimizer. Two widely-studied topology optimization problems are examined and the changes in the optimized topology is discussed for various levels of target reliability and correlation strength. Accuracy of the proposed algorithm is verified using Monte Carlo simulation.
+Keywords
+Continuum topology optimization  Material uncertainties  Stochastic perturbation  Structural reliability  

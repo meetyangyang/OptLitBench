@@ -1,0 +1,6 @@
+Primal–dual first-order methods for a class of cone programming
+ Zhaosong   Lu ;
+Abstract
+ In this paper, we study primal–dual first-order methods for a class of cone programming problems. In particular, we first present four natural primal–dual smooth convex minimization reformulations for them and then discuss a first-order method, that is, a variant of Nesterov's smooth (VNS) method [A. Auslender and M. Teboulle, Interior gradient and proximal methods for convex and conic optimization, SIAM J. Optim. 16(3) (2006), pp. 697–725], for solving these reformulations. The associated worst-case major arithmetic operation costs of the VNS method are estimated and compared. We conclude that the VNS method based on the last reformulation generally outperforms the others. Finally, we justify our theoretical prediction on the behaviour of the VNS method by conducting numerical experiments on Dantzig selector, basis pursuit de-noising, MAXCUT SDP relaxation and Lovász capacity problems. 
+Keywords
+cone programming, first-order methods, variant of Nesterov's smooth method AMS 2000 Subject Classifications : 65K05, 65K10, 90C05, 90C22, 90C25 

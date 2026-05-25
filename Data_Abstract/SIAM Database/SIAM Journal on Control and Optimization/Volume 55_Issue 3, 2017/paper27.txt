@@ -1,0 +1,6 @@
+Sliding Mode Control for a Nonlinear Phase-Field System
+Viorel  Barbu, Pierluigi  Colli, Gianni  Gilardi, Gabriela  Marinoschi, and Elisabetta  Rocca;
+Abstract
+In the present contribution the sliding mode control (SMC) problem for a phase-field model of Caginalp type is considered. First we prove the well-posedness and some regularity results for the phase-field type state systems modified by the state-feedback control laws. Then, we show that the chosen SMC laws force the system to reach within finite time the sliding manifold (that we chose in order that one of the physical variables or a combination of them remains constant in time). We study three different types of feedback control laws: the first one appears in the internal energy balance and forces a linear combination of the temperature and the phase to reach a given (space dependent) value, while the second and third ones are added in the phase relation and lead the phase onto a prescribed target $\phi^*$. While the control law is nonlocal in space for the first two problems, it is local in the third one, i.e., its value at any point and any time just depends on the value of the state.
+Keywords
+phase field system, nonlinear boundary value problems, phase transition, sliding mode control, state-feedback control law, 34B15, 82B26, 34H05, 93B52, 

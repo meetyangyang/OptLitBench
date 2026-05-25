@@ -1,0 +1,6 @@
+A Branch and Bound Algorithm for Solving Low Rank Linear Multiplicative and Fractional Programming Problems
+Hiroshi Konno;Kenji Fukaishi;
+Abstract
+This paper is concerned with a practical algorithm for solving low rank linear multiplicative programming problems and low rank linear fractional programming problems. The former is the minimization of the sum of the product of two linear functions while the latter is the minimization of the sum of linear fractional functions over a polytope. Both of these problems are nonconvex minimization problems with a lot of practical applications. We will show that these problems can be solved in an efficient manner by adapting a branch and bound algorithm proposed by Androulakis–Maranas–Floudas for nonconvex problems containing products of two variables. Computational experiments show that this algorithm performs much better than other reported algorithms for these class of problems.
+Keywords
+Linear multiplicative programming problem  Linear fractional programming problem  Global minimization  Branch and bound method  Linear underestimating function  

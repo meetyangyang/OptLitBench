@@ -1,0 +1,6 @@
+Nonlinear conjugate gradient methods for the optimal control of laser surface hardening 
+ Stefan   Volkwein ;
+Abstract
+ Laser surface hardening of steel is formulated in terms of an optimal control problem with bilateral control constraints, where the state equations are composed of a semi-linear heat equation and an ordinary differential equation, which describes the evolution of the high temperature phase. To avoid the melting of the steel we have to impose state constraints for the temperature. These constraints are realized numerically by adding a penalty term to the cost functional. Variants of the nonlinear conjugate gradient method are applied to solve the optimal control problem numerically. A practical line search, which guarantees the strong Wolfe–Powell conditions, is utilized. The behavior of the algorithm is compared to the steepest descent method. 
+Keywords
+Laser surface hardening, Phase transition, Nonlinear conjugate gradient method, Line-search, Wolfe-Powell conditions 

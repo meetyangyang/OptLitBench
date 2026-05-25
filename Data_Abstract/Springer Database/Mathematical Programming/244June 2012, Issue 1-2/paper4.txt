@@ -1,0 +1,6 @@
+Improved semidefinite programming bounds for quadratic assignment problems with suitable symmetry
+Etienne de Klerk;Renata Sotirov;
+Abstract
+Semidefinite programming (SDP) bounds for the quadratic assignment problem (QAP) were introduced in Zhao et al. (J Comb Optim 2:71–109, 1998). Empirically, these bounds are often quite good in practice, but computationally demanding, even for relatively small instances. For QAP instances where the data matrices have large automorphism groups, these bounds can be computed more efficiently, as was shown in Klerk and Sotirov (Math Program A, 122(2), 225–246, 2010). Continuing in the same vein, we show how one may obtain stronger bounds for QAP instances where one of the data matrices has a transitive automorphism group. To illustrate our approach, we compute improved lower bounds for several instances from the QAP library QAPLIB.
+Keywords
+Quadratic assignment problem  Semidefinite programming  Group symmetry  Branch and bound  90C22  20Cxx  70-08  

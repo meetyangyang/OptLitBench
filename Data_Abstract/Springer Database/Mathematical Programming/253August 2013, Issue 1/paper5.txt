@@ -1,0 +1,6 @@
+Semidefinite relaxations of ordering problems
+P. Hungerländer;F. Rendl;
+Abstract
+Ordering problems assign weights to each ordering and ask to find an ordering of maximum weight. We consider problems where the cost function is either linear or quadratic. In the first case, there is a given profit if the element \(u\) is before \(v\) in the ordering. In the second case, the profit depends on whether \(u\) is before \(v\) and \(r\) is before \(s\). The linear ordering problem is well studied, with exact solution methods based on polyhedral relaxations. The quadratic ordering problem does not seem to have attracted similar attention. We present a systematic investigation of semidefinite optimization based relaxations for the quadratic ordering problem, extending and improving existing approaches. We show the efficiency of our relaxations by providing computational experience on a variety of problem classes.
+Keywords
+90C22  

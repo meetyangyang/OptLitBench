@@ -1,0 +1,6 @@
+Improving ultimate convergence of an augmented Lagrangian method
+ E.G.   Birgin ; J.M.   Martínez ;
+Abstract
+ Optimization methods that employ the classical Powell-Hestenes-Rockafellar augmented Lagrangian are useful tools for solving nonlinear programming problems. Their reputation decreased in the last 10 years due to the comparative success of interior-point Newtonian algorithms, which are asymptotically faster. In this research, a combination of both approaches is evaluated. The idea is to produce a competitive method, being more robust and efficient than its ‘pure’ counterparts for critical problems. Moreover, an additional hybrid algorithm is defined, in which the interior-point method is replaced by the Newtonian resolution of a Karush-Kuhn-Tucker (KKT) system identified by the augmented Lagrangian algorithm. The software used in this work is freely available through the Tango Project web page:http://www.ime.usp.br/∼egbirgin/tango/  
+Keywords
+nonlinear programming, augmented Lagrangian methods, interior-point methods, Newton's method, experiments 

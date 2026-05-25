@@ -1,0 +1,6 @@
+Numerical stability of path-based algorithms for traffic assignment
+Olga Perederieieva;Matthias Ehrgott;Andrea Raith;Judith Y.T. Wang;
+Abstract
+In this paper we study numerical stability of path-based algorithms for the traffic assignment problem. These algorithms are based on decomposition of the original problem into smaller sub-problems which are optimized sequentially. Previously, path-based algorithms were numerically tested only in the setting of moderate requirements to the level of solution precision. In this study we analyse convergence of these methods when the convergence measure approaches machine epsilon of IEEE double precision format. In particular, we demonstrate that the straightforward implementation of one of the algorithms of this group (projected gradient) suffers from loss of precision and is not able to converge to highly precise solution. We propose a way to solve this problem and test the proposed adjusted version of the algorithm on various benchmark instances.
+Keywords
+traffic assignment, path-based algorithms, convergence, numerical stability, floating point arithmetic 

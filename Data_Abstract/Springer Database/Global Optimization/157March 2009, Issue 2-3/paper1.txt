@@ -1,0 +1,6 @@
+Improved scatter search for the global optimization of computationally expensive dynamic models
+Jose A. Egea;Emmanuel Vazquez;Julio R. Banga;Rafael Martí;
+Abstract
+A new algorithm for global optimization of costly nonlinear continuous problems is presented in this paper. The algorithm is based on the scatter search metaheuristic, which has recently proved to be efficient for solving combinatorial and nonlinear optimization problems. A kriging-based prediction method has been coupled to the main optimization routine in order to discard the evaluation of solutions that are not likely to provide high quality function values. This makes the algorithm suitable for the optimization of computationally costly problems, as is illustrated in its application to two benchmark problems and its comparison with other algorithms.
+Keywords
+Global optimization  Expensive functions  Scatter search  Kriging  

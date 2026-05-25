@@ -1,0 +1,6 @@
+Subdivision of simplices relative to a cutting plane and finite concave minimization
+Michael Nast;
+Abstract
+In this article, our primary concern is the classical problem of minimizing globally a concave function over a compact polyhedron (Problem (P)). We present a new simplicial branch and bound approach, which combines triangulations of intersections of simplices with halfspaces and ideas from outer approximation in such a way, that a class of finite algorithms for solving (P) results. For arbitrary compact convex feasible sets one obtains a not necessarily finite but convergent algorithm. Theoretical investigations include determination of the number of simplices in each applied triangulation step and bounds on the number of iterations in the resulting algorithms. Preliminary numerical results are given, and additional applications are sketched.
+Keywords
+Concave minimization  branch and bound  simplicial subdivisions  triangulation  global optimization  

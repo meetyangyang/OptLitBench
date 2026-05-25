@@ -1,0 +1,6 @@
+Perimeter control in the bidirectional evolutionary optimization method
+X.Y. Yang;Y.M. Xie;J.S. Liu;G.T. Parks;P.J. Clarkson;
+Abstract
+As an extension of the Evolutionary Structural Optimization [ESO] method, the bidirectional ESO [BESO] method has effectively addressed various topology optimization problems. It is observed in ESO/BESO applications that the optimal solution obtained strongly depends on the finite element mesh. This paper presents an improved BESO methodology incorporating a means of controlling the optimization process in order to satisfy a constraint on structural perimeter and thus to solve this size effect problem. Numerical tests are conducted on three examples at different levels of finite element discretization. Solutions convergent with respect to the grid refinement are obtained, especially when the perimeter bound is sufficiently low. Simpler topologies consisting of fewer and larger structural members and holes are generated when a more restricting constraint is imposed. Therefore, it is concluded that BESO combined with perimeter control is capable of suppressing mesh dependency and controlling the structural complexity for topology optimization problems.
+Keywords
+Key words: topology optimization, evolutionary method, mesh independency, perimeter control  

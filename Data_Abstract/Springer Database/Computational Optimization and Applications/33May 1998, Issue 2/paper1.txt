@@ -1,0 +1,6 @@
+On the Applicability of Lower Bounds for Solving Rectilinear Quadratic Assignment Problems in Parallel
+Jens Clausen;Stefan E. Karisch;Michael Perregaard;Franz Rendl;
+Abstract
+The quadratic assignment problem (QAP) belongs to the hard core of NP-hard optimization problems. After almost forty years of research only relatively small instances can be solved to optimality. The reason is that the quality of the lower bounds available for exact methods is not sufficient. Recently, lower bounds based on decomposition were proposed for the so called rectilinear QAP that proved to be the strongest for a large class of problem instances. We investigate the strength of these bounds when applied not only at the root node of a search tree but as the bound function used in a Branch-and-Bound code solving large scale QAPs.
+Keywords
+combinatorial optimization  quadratic assignment problem  parallel branch-and-bound  lower bounds  

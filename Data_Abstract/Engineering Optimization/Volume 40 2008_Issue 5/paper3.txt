@@ -1,0 +1,6 @@
+Reliability-based design optimization using a moment method and a kriging metamodel
+ Byeong   Hyeon Ju ; Byung   Chai Lee ;
+Abstract
+ Reliability-based design optimization (RBDO) has been used for optimizing engineering systems with uncertainties in design variables and system parameters. RBDO involves reliability analysis, which requires a large amount of computational effort, so it is important to select an efficient method for reliability analysis. Of the many methods for reliability analysis, a moment method, which is called the fourth moment method, is known to be less expensive for moderate size problems and requires neither iteration nor the computation of derivatives. Despite these advantages, previous research on RBDO has been mainly based on the first-order reliability method and relatively little attention has been paid to moment-based RBDO. This article considers difficulties in implementing the moment method into RBDO; they are solved using a kriging metamodel with an active constraint strategy. Three numerical examples are tested and the results show that the proposed method is efficient and accurate. 
+Keywords
+kriging metamodel, moment method, Pearson system, reliability-based design optimization 

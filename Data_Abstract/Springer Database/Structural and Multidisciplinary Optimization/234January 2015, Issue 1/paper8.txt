@@ -1,0 +1,6 @@
+Multiobjective topology optimization of energy absorbing materials
+Raymond A. Wildman;George A. Gazonas;
+Abstract
+A method for the multiobjective optimization of local-scale material topology is presented. The topology optimization scheme is based on a constructive solid geometry-like representation, in which convex polygons—defined as the convex hull of arbitrary-length lists of points—are combined using an overlapping function. This data structure is tree-shaped and so genetic programming is used as the optimizer. The forward problem is solved with a multiscale finite element method with automatic cohesive zone insertion to model damage. As a multiscale method, loads and boundary conditions are applied and objective functions measured at a global scale, while the local scale material structure is optimized. The global scale geometry is assumed fixed. Pareto optimal designs are generated, representing optimal tradeoffs between conflicting goals: quasi-static displacement and dynamic strain energy. Results demonstrate the efficacy of the proposed algorithm.
+Keywords
+Topology optimization  Pareto optimization  Genetic programming  Energy absorbing material  

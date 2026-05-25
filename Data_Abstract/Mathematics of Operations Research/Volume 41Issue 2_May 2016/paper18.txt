@@ -1,0 +1,6 @@
+Convexity and Solutions of Stochastic Multidimensional 0-1 Knapsack Problems with Probabilistic Constraints
+Kunikazu Yoda;András Prékopa;
+Abstract
+In the multidimensional 0-1 knapsack problem, we are given a set of items, each with a value and multiple attributes, and we want to select a subset in such a way that the total value is maximized while the total quantity of each attribute satisfies a capacity constraint. In this paper, we assume that quantities of the item attributes are independent random variables such that those of the same attribute across different items follow the same type of probability distribution, not necessarily with the same parameters. A joint probabilistic constraint is imposed on the capacity constraints, and the objective function is the same as that of the underlying deterministic problem. We prove that the problem is convex, under some condition on the parameters, for special continuous and discrete distributions: gamma, normal, Poisson, and binomial, in which the latter two discrete distribution functions are extended to log-concave continuous distribution functions. We present computational experiments to demonstrate the tractability of our approach.
+Keywords
+stochastic programming probabilistic constraints chance constraints multidimensional 0-1 knapsack problem convexity log-concavity 

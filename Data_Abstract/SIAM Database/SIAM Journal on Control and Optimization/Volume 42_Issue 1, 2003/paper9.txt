@@ -1,0 +1,6 @@
+Sequencing and Routing in Multiclass Queueing Networks Part II: Workload Relaxations
+Sean P.  Meyn;
+Abstract
+Part II continues the development of policy synthesis techniques for multiclass queueing networks based upon a linear fluid model. The following are shown: A relaxation of the fluid model based on workload leads to an optimization problem of lower dimension. An analogous workload-relaxation is introduced for the stochastic model. These relaxed control problems admit pointwise optimal solutions in many instances. A translation to the original fluid model is almost optimal, with vanishing relative error as the network load $\rho$ approaches one. It is pointwise optimal after a short transient period, provided a pointwise optimal solution exists for the relaxed control problem. A translation of the optimal policy for the fluid model provides a policy for the stochastic network model that is almost optimal in heavy traffic, over all solutions to the relaxed stochastic model, again with vanishing relative error. The regret is of order $|\log(1-\rho)|$. 
+Keywords
+queueing networks, routing, scheduling, optimal control, 90B35, 68M20, 90B15, 93E20, 60J20, 

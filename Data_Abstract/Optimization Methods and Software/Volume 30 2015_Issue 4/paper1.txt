@@ -1,0 +1,6 @@
+A hybridization of the Hestenes–Stiefel and Dai–Yuan conjugate gradient methods based on a least-squares approach
+Saman Babaie-Kafaki;Reza Ghanbari;
+Abstract
+Following Andrei's approach of combining the conjugate gradient parameters convexly, a hybridization of the Hestenes–Stiefel (HS) and Dai–Yuan conjugate gradient (CG) methods is proposed. The hybridization parameter is computed by solving the least-squares problem of minimizing the distance between search directions of the hybrid method and a three-term conjugate gradient method proposed by Zhang et al. which possesses the sufficient descent property. Also, Powell's non-negative restriction of the HS CG parameter is employed in the hybrid method. A brief global convergence analysis is made without convexity assumption on the objective function. Comparative testing results are reported; they demonstrate efficiency of the proposed hybrid CG method in the sense of the Dolan–Moré performance profile.
+Keywords
+unconstrained optimization, conjugate gradient method, least-squares, global convergenceMathematics Subject Classifications (2010): 65K05, 90C53 

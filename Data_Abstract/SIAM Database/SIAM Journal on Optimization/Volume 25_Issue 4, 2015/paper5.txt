@@ -1,0 +1,6 @@
+Scenario Min-Max Optimization and the Risk of Empirical Costs
+A.  Carè, S.  Garatti, and M. C.  Campi;
+Abstract
+We consider convex optimization problems in the presence of stochastic uncertainty. The min-max sample-based solution is the solution obtained by minimizing the max of the cost functions corresponding to a finite sample of the uncertainty parameter. The empirical costs are instead the cost values that the solution incurs for the various parameter realizations that have been sampled. Our goal is to evaluate the risks associated with the empirical costs, where the risk associated  with a cost is the probability that the cost is exceeded when a new realization of the uncertainty parameter is seen. This task is accomplished without resorting to uncertainty realizations other than those used in optimization. The theoretical result proved in this paper is that these risks form a random vector whose probability distribution is an ordered Dirichlet distribution, irrespective of the probability measure of the stochastic uncertainty parameter. This result provides a distribution-free characterization of the risks associated with the empirical costs that can be used in a variety of application problems.
+Keywords
+stochastic optimization, sample-based techniques, scenario approach, data-driven optimization, 90C25, 90C15, 68W20, 

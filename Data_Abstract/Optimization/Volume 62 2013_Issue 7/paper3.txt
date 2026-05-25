@@ -1,0 +1,6 @@
+Global optimization for generalized geometric programming problems with discrete variables
+ Pei-Ping   Shen ; Xiao-Di   Bai ;
+Abstract
+ Generalized geometric programming (GGP) problems occur frequently in engineering design and management, but most existing methods for solving GGP actually only consider continuous variables. This article presents a new branch-and-bound algorithm for globally solving GGP problems with discrete variables. For minimizing the problem, an equivalent monotonic optimization problem (P) with discrete variables is presented by exploiting the special structure of GGP. In the algorithm, the lower bounds are computed by solving ordinary linear programming problems that are derived via a linearization technique. In contrast to pure branch-and-bound methods, the algorithm can perform a domain reduction cut per iteration by using the monotonicity of problem (P), which can suppress the rapid growth of branching tree in the branch-and-bound search so that the performance of the algorithm is further improved. Computational results for several sample examples and small randomly generated problems are reported to vindicate our conclusions. 
+Keywords
+global optimization, generalized geometric programming, discrete variable, reduction cut, linearization technique 

@@ -1,0 +1,6 @@
+A new greedy algorithm for the quadratic assignment problem
+Theodoros P. Gevezes;Leonidas S. Pitsoulis;
+Abstract
+The classical greedy algorithm for discrete optimization problems where the optimal solution is a maximal independent subset of a finite ground set of weighted elements, can be defined in two ways which are dual to each other. The Greedy-In where a solution is constructed from the empty set by adding the next best element, one at a time, until we reach infeasibility, and the Greedy-Out where starting from the ground set we delete the next worst element, one at a time, until feasibility is reached. It is known that while the former provides an approximation ratio for maximization problems, its worst case performance is not bounded for minimization problems, and vice-versa for the later. However the Greedy-Out algorithm requires an oracle for checking the existence of a maximal independent subset which for most discrete optimization problems is a difficult task. In this work we present a Greedy-Out algorithm for the quadratic assignment problem by providing a combinatorial characterization of its solutions.
+Keywords
+Approximation algorithms  Quadratic assignment problem  Greedy algorithm  

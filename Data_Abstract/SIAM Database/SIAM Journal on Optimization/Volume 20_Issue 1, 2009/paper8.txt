@@ -1,0 +1,6 @@
+Benchmarking Derivative-Free Optimization Algorithms
+Jorge J.  Moré and Stefan M.  Wild;
+Abstract
+We propose data profiles as a tool for analyzing the performance of derivative-free optimization solvers when there are constraints on the computational budget. We use performance and data profiles, together with a convergence test that measures the decrease in function value, to analyze the performance of three solvers on sets of smooth, noisy, and piecewise-smooth problems. Our results provide estimates for the performance difference between these solvers, and show that on these problems, the model-based solver tested performs better than the two direct search solvers tested.
+Keywords
+derivative-free optimization, benchmarking, performance evaluation, deterministic simulations, computational budget, 90C56, 65Y20, 65K10, 

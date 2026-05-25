@@ -1,0 +1,6 @@
+The extrapolated interval global optimization algorithm
+P. S. V. Nataraj;Shanta Sondur;
+Abstract
+This paper presents a new approach based on extrapolation to accelerate the linear convergence process of Vectorized Moore–Skelboe (VMS) algorithm. The VMS is a modified version of basic Moore–Skelboe (MS) algorithm, where the vectorization is used as a means to speed up the basic MS algorithm. We propose to further accelerate the converging process of VMS from linear to quadratic by combining the Richardson extrapolation technique with VMS. The effectiveness of the proposed algorithm is tested on various multivariate examples and compared with the unaccelerated conventional method, i.e., MS and well-known optimization software GlobSol. The test results show that the proposed extrapolation-based VMS offer considerable speed improvements over both the existing algorithms.
+Keywords
+Asymptotic expansion  Extrapolation methods  REP  Interval analysis  Bernstein polynomial  Approximation technique  

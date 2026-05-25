@@ -1,0 +1,6 @@
+Application of sequential quadratic programming software program to an actual problem
+M. Tamura;Y. Kobayashi;
+Abstract
+We produced a nonlinear optimization software program which is based on a Sequential Quadratic Programming (SQP) method (Schittkowski, 1981a). Our program has several original characteristics: (1) automatic choice between two QP solvers, the Goldfarb—Idnani (GI) method (Goldfarb and Idnani, 1983) and the Least Squares (LS) method (Schittkowski, 1981b); (2) an augmented Lagrange function (Schittkowski, 1981a) as the objective function for line search; (3) adaptive Armijo method for line search; (4) direct definition of upper and lower bounds for variables and constraint functions; and (5) accurate numerical differentials. These characteristics ensure the reliability of our program for solving standard problems. In this paper, point (3) is described in detail. Then, the program is applied to an actual problem, the optimal placement of blocks. A model for this problem has been suggested by Sha and Dutton (1984), but it was unsuited to treatment by the SQP method. Thus we modify it to ensure program applicability.
+Keywords
+Nonlinear optimization  sequential quadratic programming  quadratic programming  line search  

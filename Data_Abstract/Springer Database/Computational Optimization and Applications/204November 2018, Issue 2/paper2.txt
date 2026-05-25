@@ -1,0 +1,6 @@
+Mesh-based Nelder–Mead algorithm for inequality constrained optimization
+Charles Audet;Christophe Tribes;
+Abstract
+Despite the lack of theoretical and practical convergence support, the Nelder–Mead (NM) algorithm is widely used to solve unconstrained optimization problems. It is a derivative-free algorithm, that attempts iteratively to replace the worst point of a simplex by a better one. The present paper proposes a way to extend the NM algorithm to inequality constrained optimization. This is done through a search step of the mesh adaptive direct search (Mads) algorithm, inspired by the NM algorithm. The proposed algorithm does not suffer from the NM lack of convergence, but instead inherits from the totality of the Mads convergence analysis. Numerical experiments show an important improvement in the quality of the solutions produced using this search step.
+Keywords
+Nelder–Mead  MADS  Derivative-free optimization  Blackbox optimization  Constrained optimization  

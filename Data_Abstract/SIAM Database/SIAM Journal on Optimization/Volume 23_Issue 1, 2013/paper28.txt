@@ -1,0 +1,6 @@
+Minimizing the Condition Number to Construct Design Points for Polynomial Regression Models
+Jane J.  Ye and Julie  Zhou;
+Abstract
+In this paper we  study a new optimality criterion, the $K$-optimality criterion,  for constructing optimal experimental designs for polynomial regression models. We focus on the $p$th order polynomial regression model  with symmetric design space $[-1,1]$. For this model, we show that there is always a symmetric $K$-optimal design with exactly $p+1$ support points  including the boundary points $-1$ and $1$. It is well known that the condition number for a positive definite matrix as the ratio of the maximum eigenvalue to the minimum eigenvalue is usually nonsmooth. We show that for our model, the condition number of the information matrix is continuously differentiable. Theoretical $K$-optimal designs are derived for $p=1$  and $2$. Numerical  results are presented for $3 \le p \le 10$.
+Keywords
+condition number, information matrix, $K$-optimal design, polynomial regression model, semidefinite programming, symmetric design, 62K05, 90C30, 65F35, 

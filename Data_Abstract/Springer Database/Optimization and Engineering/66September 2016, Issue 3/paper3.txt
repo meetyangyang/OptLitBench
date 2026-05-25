@@ -1,0 +1,6 @@
+Combining discrete and continuous optimization to solve kinodynamic motion planning problems
+Chantal Landry;Wolfgang Welz;Matthias Gerdts;
+Abstract
+A new approach to find the fastest trajectory of a robot avoiding obstacles, is presented. This optimal trajectory is the solution of an optimal control problem with kinematic and dynamic constraints. The approach involves a direct method based on the time discretization of the control variable. We mainly focus on the computation of a good initial trajectory. Our method combines discrete and continuous optimization concepts. First, a graph search algorithm is used to determine a list of intermediate points. Then, an optimal control problem of small size is defined to find the fastest trajectory that passes through the vicinity of the intermediate points. The resulting solution is the initial trajectory. Our approach is applied to a single body mobile robot. The numerical results show the quality of the initial trajectory and its low computational cost.
+Keywords
+Trajectory planning  Optimal control problem  Collision avoidance  Graph search algorithm  Initialization  Robotics  49J15  49M25  49N90  70E60  90C30  90C35  

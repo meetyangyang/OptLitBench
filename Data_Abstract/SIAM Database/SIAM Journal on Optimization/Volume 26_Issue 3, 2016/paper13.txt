@@ -1,0 +1,6 @@
+Scaling Techniques for $\epsilon$-Subgradient Methods
+S.  Bonettini, A.  Benfenati, and V.  Ruggiero;
+Abstract
+The recent literature on first order methods for smooth optimization shows that significant improvements on the practical convergence behavior can be achieved with variable step size and scaling for the gradient, making this class of algorithms attractive for a variety of relevant applications. In this paper we introduce a variable metric in the context of the $\epsilon$-subgradient methods for nonsmooth, convex problems, in combination with two different step size selection strategies. We develop the theoretical convergence analysis of the proposed approach in the general framework of forward-backward $\epsilon$-subgradient splitting methods and we also discuss practical implementation issues. In order to illustrate the effectiveness of the method, we consider a specific problem in the image restoration framework and we numerically evaluate the effects of a variable scaling and of the step length selection strategy on the convergence behavior.
+Keywords
+forward-backward $\epsilon$-subgradient method, variable metric, step size selection rules, scaled primal-dual hybrid gradient algorithm, TV restoration, 65K05, 90C25, 

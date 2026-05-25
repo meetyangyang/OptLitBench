@@ -1,0 +1,6 @@
+Semidefinite relaxations for non-convex quadratic mixed-integer programming
+Christoph Buchheim;Angelika Wiegele;
+Abstract
+We present semidefinite relaxations for unconstrained non-convex quadratic mixed-integer optimization problems. These relaxations yield tight bounds and are computationally easy to solve for medium-sized instances, even if some of the variables are integer and unbounded. In this case, the problem contains an infinite number of linear constraints; these constraints are separated dynamically. We use this approach as a bounding routine in an SDP-based branch-and-bound framework. In case of a convex objective function, the new SDP bound improves the bound given by the continuous relaxation of the problem. Numerical experiments show that our algorithm performs well on various types of non-convex instances.
+Keywords
+90C10  90C11  90C20  90C22  90C26  

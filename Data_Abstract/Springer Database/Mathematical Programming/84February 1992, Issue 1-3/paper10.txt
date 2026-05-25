@@ -1,0 +1,6 @@
+Local minima for indefinite quadratic knapsack problems
+Stephen A. Vavasis;
+Abstract
+We consider the complexity of finding a local minimum for the nonconvex Quadratic Knapsack Problem. Global minimization for this example of quadratic programming is NP-hard. Moré and Vavasis have investigated the complexity of local minimization for the strictly concave case of QKP; here we extend their algorithm to the general indefinite case. Our main result is an algorithm that computes a local minimum in O(n(logn)2) steps. Our approach involves eliminating all but one of the convex variables through parametrization, yielding a nondifferentiable problem. We use a technique from computational geometry to address the nondifferentiable problem.
+Keywords
+Local minimization  knapsack  indefinite  quadratic knapsack  complexity  

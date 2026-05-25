@@ -1,0 +1,6 @@
+A convergent and fast path equilibration algorithm for the traffic assignment problem
+Alessandro Galligari;Marco Sciandrone;
+Abstract
+In this work, we present an algorithm for the traffic assignment problem formulated as convex minimization problem whose variables are the path flows. The algorithm is a path equilibration algorithm, i.e. an algorithm where at each iteration only two variables are updated by means of an inexact line search along a feasible and descent direction having only two nonzero elements. The main features of the algorithm are the adoption of an initial tentative stepsize based on second-order information and of a suitable strategy (using an adaptive column generation technique) to select the variables to be updated. The algorithm is an inexact Gauss–Seidel decomposition method whose convergence follows from results recently stated by the authors requiring that the column generation procedure is applied within a prefixed number of iterations. The results of an extensive computational experience performed on small, medium and large networks show the effectiveness of the method compared with state-of-the-art algorithms.
+Keywords
+traffic assignment, user equilibrium, decomposition methods, column generation 

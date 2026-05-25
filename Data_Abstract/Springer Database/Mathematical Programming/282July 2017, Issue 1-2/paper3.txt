@@ -1,0 +1,6 @@
+Feasible methods for nonconvex nonsmooth problems with applications in green communications
+Francisco Facchinei;Lorenzo Lampariello;Gesualdo Scutari;
+Abstract
+We propose a general feasible method for nonsmooth, nonconvex constrained optimization problems. The algorithm is based on the (inexact) solution of a sequence of strongly convex optimization subproblems, followed by a step-size procedure. Key features of the scheme are: (i) it preserves feasibility of the iterates for nonconvex problems with nonconvex constraints, (ii) it can handle nonsmooth problems, and (iii) it naturally leads to parallel/distributed implementations. We illustrate the application of the method to an open problem in green communications whereby the energy consumption in MIMO multiuser interference networks is minimized, subject to nonconvex Quality-of-Service constraints.
+Keywords
+Feasible method  Nonconvex problem  Nonsmooth optimization  Parallel and distributed implementation  Green communications  90C30  90C26  65K10  90C90  

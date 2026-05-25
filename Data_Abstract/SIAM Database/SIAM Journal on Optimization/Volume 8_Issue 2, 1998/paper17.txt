@@ -1,0 +1,6 @@
+Bicriterion Single Machine Scheduling with Resource Dependent Processing Times
+T. C. Edwin  Cheng, Adam  Janiak, and Mikhail Y.  Kovalyov;
+Abstract
+A bicriterion problem of scheduling jobs on a single machine is studied. The processing time of each job is a linear decreasing function of the amount of a common discrete resource allocated to the job. A solution is specified by a sequence of the jobs and a resource allocation. The quality of a solution is measured by two criteria, F1 and F2. The first criterion is the maximal or total (weighted) resource consumption, and the second criterion is a regular scheduling criterion depending on the job completion times. Both criteria have to be minimized. General schemes for the construction of the Pareto set and the Pareto set $\epsilon$-approximation are presented. Computational complexities of problems to minimize F1 subject to F_2\le K$ and to minimize F2 subject to $F_1\le K$, where K is any number, are studied for various functions F1 and F2. Algorithms for solving these problems and for the construction of the Pareto set and the Pareto set $\epsilon$-approximation for the corresponding bicriterion problems are presented.
+Keywords
+single machine scheduling, resource allocation, bicriterion scheduling, approximation, 68Q25, 90C39, 

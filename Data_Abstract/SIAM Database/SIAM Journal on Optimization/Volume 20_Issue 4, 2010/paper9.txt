@@ -1,0 +1,6 @@
+Computing Points that Satisfy Second Order Necessary Optimality Conditions for Unconstrained Minimization
+Alfred  Auslender;
+Abstract
+In this paper we present a new class of algorithms for computing points that satisfy second order necessary optimality conditions for unconstrained minimization problems. We introduce a framework based on a curvilinear line search using a combination of a direction of negative curvature and a Newton-type descent direction which covers the scheme proposed by Moré and Sorensen [Math. Program., 16 (1979), pp. 1–20]. We then propose two kinds of descent direction from which two new algorithms emerge. One is a Levenberg–Marquardt direction, while the other is a cubic regularized Newton direction. Global convergence results and asymptotic quadratic rate are proven under mild assumptions.
+Keywords
+nonconvex unconstrained optimization, second order necessary optimality conditions, Newton-type methods, Levenberg–Marquardt direction, negative curvature directions, nonmonotone schemes, asymptotic quadratic rate of convergence, 90C30, 90C26, 90C53, 65K05, 

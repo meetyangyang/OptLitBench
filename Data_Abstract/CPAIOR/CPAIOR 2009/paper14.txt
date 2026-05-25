@@ -1,0 +1,4 @@
+Sequencing and Counting with the multicost-regular Constraint
+Julien Menana;Sophie Demassey;
+Abstract
+This paper introduces a global constraint encapsulating a regular constraint together with several cumulative costs. It is motivated in the context of personnel scheduling problems, where a schedule meets patterns and occurrence requirements which are intricately bound. The optimization problem underlying the multicost-regular constraint is NP-hard but it admits an efficient Lagrangian relaxation. Hence, we propose a filtering based on this relaxation. The expressiveness and the efficiency of this new constraint is experimented on personnel scheduling benchmark instances with standard work regulations. The comparative empirical results show how multicost-regular can significantly outperform a decomposed model with regular and global-cardinality constraints.

@@ -1,0 +1,6 @@
+A Second Derivative SQP Method: Global Convergence
+Nicholas I. M.  Gould and Daniel P.  Robinson;
+Abstract
+Sequential quadratic programming (SQP) methods form a class of highly efficient algorithms for solving nonlinearly constrained optimization problems. Although second derivative information may often be calculated, there is little practical theory that justifies exact-Hessian SQP methods. In particular, the resulting quadratic programming (QP) subproblems are often nonconvex, and thus finding their global solutions may be computationally nonviable. This paper presents a second derivative SQP method based on quadratic subproblems that are either convex, and thus may be solved efficiently, or need not be solved globally. Additionally, an explicit descent-constraint is imposed on certain QP subproblems, which “guides” the iterates through areas in which nonconvexity is a concern. Global convergence of the resulting algorithm is established.
+Keywords
+nonlinear programming, nonlinear inequality constraints, sequential quadratic programming, $\ell_1$-penalty function, nonsmooth optimization, 49J52, 49M37, 65F22, 65K05, 90C26, 90C30, 90C55, 

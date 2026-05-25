@@ -1,0 +1,6 @@
+Calculating approximation guarantees for partial set cover of pairs
+Peter Damaschke;
+Abstract
+As a part of a heuristic for the fast detection of new word combinations in text streams, we consider the NP-hard Partial Set Cover of Pairs problem. There we wish to cover a maximum number of pairs of elements by a prescribed number of sets from a given set family. While the approximation ratio of the greedy algorithm for the classic Partial Set Cover problem is completely understood, the same question for covering of pairs is intrinsically more complicated, since the pairs insert some graph-theoretic structure. The best approximation guarantee for the first greedy step can be rephrased as a problem in extremal combinatorics: Assume that we may place a fixed number of subsets of fixed and equal size in a set, how many different pairs of elements can we cover? In this paper we introduce a method to calculate optimal approximation guarantees, and we demonstrate its use on the smallest set families.
+Keywords
+Partial set cover  Greedy approximation  Extremal set family  Novelty detection  

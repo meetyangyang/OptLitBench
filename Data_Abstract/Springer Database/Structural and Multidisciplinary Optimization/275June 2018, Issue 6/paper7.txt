@@ -1,0 +1,6 @@
+Non-probabilistic reliability-based topology optimization with multidimensional parallelepiped convex model
+Jing Zheng;Zhen Luo;Chao Jiang;Bingyu Ni;Jinglai Wu;
+Abstract
+In this paper, a new non-probabilistic reliability-based topology optimization (NRBTO) method is proposed to account for interval uncertainties considering parametric correlations. Firstly, a reliability index is defined based on a newly developed multidimensional parallelepiped (MP) convex model, and the reliability-based topology optimization problem is formulated to optimize the topology of the structure, to minimize material volume under displacement constraints. Secondly, an efficient decoupling scheme is applied to transform the double-loop NRBTO into a sequential optimization process, using the sequential optimization & reliability assessment (SORA) method associated with the performance measurement approach (PMA). Thirdly, the adjoint variable method is used to obtain the sensitivity information for both uncertain and design variables, and a gradient-based algorithm is employed to solve the optimization problem. Finally, typical numerical examples are used to demonstrate the effectiveness of the proposed topology optimization method.
+Keywords
+Topology optimization  Reliability analysis  Non-probabilistic uncertainty  Multidimensional parallelepiped model  

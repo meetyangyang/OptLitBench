@@ -1,0 +1,6 @@
+A new proximal-based globalization strategy for the Josephy‐Newton method for variational inequalities
+ M.V.   Solodov ; B.F.   Svaiter ;
+Abstract
+ We propose a new approach to globalizing the Josephy-Newton algorithm for solving the monotone variational inequality problem. Known globalization strategies rely either on minimization of a suitable merit function, or on a projection-type approach. The technique proposed here is based on a linesearch in the regularized Josephy-Newton direction which finds a trial point and a proximal point subproblem (i.e., subproblem with suitable parameters), for which this trial point is an acceptable approximate solution. We emphasize that this requires only checking a certain approximation criterion, and in particular, does not entail actually solving any nonlinear proximal point subproblems. The method converges globally under very mild assumptions. Furthermore, an easy modification of the method secures the local superlinear rate of convergence under standard conditions. 
+Keywords
+Variational Inequality, Josephy-Newton Method, Proximal Point Method, Globalization 

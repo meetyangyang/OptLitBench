@@ -1,0 +1,6 @@
+Randomized Hessian estimation and directional search
+ D.   Leventhal ; A.S.   Lewis ;
+Abstract
+ We explore how randomization can help asymptotic convergence properties of simple directional search-based optimization methods. Specifically, we develop a cheap, iterative randomized Hessian estimation scheme. We then apply this technique and analyse how it enhances a random directional search method. Then, we proceed to develop a conjugate-directional search method that incorporates estimated Hessian information without requiring the direct use of gradients. 
+Keywords
+derivative-free optimization, directional search, quasi-Newton, random search, steepest descentAMS Subject Classifications:: 90C56, 90C53, 65K05 

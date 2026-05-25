@@ -1,0 +1,6 @@
+Block-Iterative Algorithms with Underrelaxed Bregman Projections
+Yair  Censor and Gabor T.  Herman;
+Abstract
+The notion of relaxation is well understood for orthogonal projections onto convex sets. For general Bregman projections it was considered only for hyperplanes, and the question of how to relax Bregman projections onto convex sets that are not linear (i.e., not hyperplanes or half-spaces) has remained open. A definition of the underrelaxation of Bregman projections onto general convex sets is given here, which includes as special cases the underrelaxed orthogonal projections and the underrelaxed Bregman projections onto linear sets as given by De Pierro and Iusem [J. Optim. Theory Appl., 51 (1986), pp. 421--440]. With this new definition, we construct a block-iterative projection algorithmic scheme and prove its convergence to a solution of the convex feasibility problem. The practical importance of relaxation parameters in the application of such projection algorithms to real-world problems is demonstrated on a problem of image reconstruction from projections.
+Keywords
+convex feasibility, projection algorithms, Bregman functions, block-iterative algorithms, underrelaxation, 90C25, 65K05, 

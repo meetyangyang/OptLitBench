@@ -1,0 +1,6 @@
+A Local Relaxation Approach for the Siting of Electrical Substations
+Walter Murray;Uday V. Shanbhag;
+Abstract
+The siting and sizing of electrical substations on a rectangular electrical grid can be formulated as an integer programming problem with a quadratic objective and linear constraints. We propose a novel approach that is based on solving a sequence of local relaxations of the problem for a given number of substations. Two methods are discussed for determining a new location from the solution of the relaxed problem. Each leads to a sequence of strictly improving feasible integer solutions. The number of substations is then modified to seek a further reduction in cost. Lower bounds for the solution are also provided by solving a sequence of mixed-integer linear programs. Results are provided for a variety of uniform and Gaussian load distributions as well as some real examples from an electric utility. The results of gams/dicopt, gams/sbb, gams/baron and cplex applied to these problems are also reported. Our algorithm shows slow growth in computational effort with the number of integer variables.
+Keywords
+Programming Problem  Operation Research  Mathematical Program  Integer Programming  Computational Effort  

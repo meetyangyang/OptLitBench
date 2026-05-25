@@ -1,0 +1,6 @@
+An SQP-type algorithm for nonlinear second-order cone programs
+Hirokazu Kato;Masao Fukushima;
+Abstract
+We propose an SQP-type algorithm for solving nonlinear second-order cone programming (NSOCP) problems. At every iteration, the algorithm solves a convex SOCP subproblem in which the constraints involve linear approximations of the constraint functions in the original problem and the objective function is a convex quadratic function. Those subproblems can be transformed into linear SOCP problems, for which efficient interior point solvers are available. We establish global convergence and local quadratic convergence of the algorithm under appropriate assumptions. We report numerical results to examine the effectiveness of the algorithm.
+Keywords
+Nonlinear second-order cone programming problem  SQP method  Global convergence  Quadratic convergence  

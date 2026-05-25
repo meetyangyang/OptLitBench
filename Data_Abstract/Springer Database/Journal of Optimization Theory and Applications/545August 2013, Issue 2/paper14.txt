@@ -1,0 +1,6 @@
+A Polynomial-Time Solution Scheme for Quadratic Stochastic Programs
+Paula Rocha;Daniel Kuhn;
+Abstract
+We consider quadratic stochastic programs with random recourse—a class of problems which is perceived to be computationally demanding. Instead of using mainstream scenario tree-based techniques, we reduce computational complexity by restricting the space of recourse decisions to those linear and quadratic in the observations, thereby obtaining an upper bound on the original problem. To estimate the loss of accuracy of this approach, we further derive a lower bound by dualizing the original problem and solving it in linear and quadratic recourse decisions. By employing robust optimization techniques, we show that both bounding problems may be approximated by tractable conic programs.
+Keywords
+Decision rule approximation  Robust optimization  Quadratic stochastic programming  Conic programming  

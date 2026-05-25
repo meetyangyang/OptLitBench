@@ -1,0 +1,4 @@
+Rail Capacity Modelling with Constraint Programming
+Daniel Harabor;Peter J. Stuckey;
+Abstract
+We describe a constraint programming approach to establish the coal carrying capacity of a large (2,670 km) rail network in north-eastern Australia. Computing the capacity of such a network is necessary to inform infrastructure planning and investment decisions but creating a useful model of rail operations is challenging. Analytic approaches exist but they are not very accurate. Simulation methods are common but also complex and brittle. We present an alternative where rail capacity is computed using a constraint-based optimisation model. Developed entirely in MiniZinc, our model not only captures all dynamics of interest but is also easily extended to explore a wide range of possible operational and infrastructural changes. We give results from a number of such case studies and compare against an industry-standard analytic approach.

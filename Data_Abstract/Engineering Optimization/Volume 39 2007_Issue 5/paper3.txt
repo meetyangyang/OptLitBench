@@ -1,0 +1,6 @@
+Feasible region approximation: a comparison of search cone and convex hull methods
+ R.   A.   Bates ; H.   P.   Wynn ; E.   S.   Fraga ;
+Abstract
+ The concept of the design space encapsulates the search for optimal design configurations of engineering systems. During this search, infeasible or unsafe regions may be encountered, representing particular combinations of parameter values which cause the system to fail. These regions need to be characterized so that they can be avoided during the search for improved designs. In addition, the proximity of a design to a feasible boundary may be related to the reliability and robustness of the design in the face of variation in manufacture and use. A chemical engineering example is used to show how feasible design regions can be modelled using integer lattices and kriging methods. An algorithm using Hilbert bases is developed and used to select points on the boundary of the feasible region with arbitrary closeness so that the properties of the kriging model are such that the model remains stable and the star-shaped necessary condition is met. 
+Keywords
+Design space, Feasible regions, Search cone, Convex hull, Hilbert bases 

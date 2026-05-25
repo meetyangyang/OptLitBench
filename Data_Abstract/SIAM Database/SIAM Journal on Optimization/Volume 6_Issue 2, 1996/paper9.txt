@@ -1,0 +1,6 @@
+An Interior Trust Region Approach for Nonlinear Minimization Subject to Bounds
+Thomas F.  Coleman and Yuying  Li;
+Abstract
+We propose a new trust region approach for minimizing a nonlinear function subject to simple bounds. Unlike most existing methods, our proposed method does not require that a quadratic programming subproblem, with inequality constraints, be solved in each iteration. Instead, a solution to a trust region subproblem is defined by minimizing a quadratic function subject only to an ellipsoidal constraint. The iterates generated are strictly feasible. Our proposed method reduces to a standard trust region approach for the unconstrained problem when there are no upper or lower bounds on the variables. Global and local quadratic convergence is established. Preliminary numerical experiments are reported indicating the practical viability of this approach.
+Keywords
+trust region method, interior Newton method, interior-point method, 15A15, 15A09, 15A23, 

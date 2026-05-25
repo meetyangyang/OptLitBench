@@ -1,0 +1,6 @@
+Solving Large Airline Crew Scheduling Problems: Random Pairing Generation and Strong Branching
+Diego Klabjan;Ellis L. Johnson;George L. Nemhauser;Eric Gelman;Srini Ramaswamy;
+Abstract
+The airline crew scheduling problem is the problem of assigning crew itineraries to flights. We develop a new approach for solving the problem that is based on enumerating hundreds of millions random pairings. The linear programming relaxation is solved first and then millions of columns with best reduced cost are selected for the integer program. The number of columns is further reduced by a linear programming based heuristic. Finally an integer solution is obtained with a commercial integer programming solver. The branching rule of the solver is enhanced with a combination of strong branching and a specialized branching rule. The algorithm produces solutions that are significantly better than ones found by current practice.
+Keywords
+transportation  branch-and-bound  airline crew scheduling  

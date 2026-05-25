@@ -1,0 +1,6 @@
+Multiple-optima search method based on a metamodel and mathematical morphology
+Yulin Li;Li Liu;Teng Long;Xin Chen;
+Abstract
+This article investigates a non-population-based optimization method using mathematical morphology and the radial basis function (RBF) for multimodal computationally intensive functions. To obtain several feasible solutions, mathematical morphology is employed to search promising regions. Sequential quadratic programming is used to exploit the possible areas to determine the exact positions of the potential optima. To relieve the computational burden, metamodelling techniques are employed. The RBF metamodel in different iterations varies considerably so that the positions of potential optima are moving during optimization. To find the pair of correlative potential optima between the latest two iterations, a tolerance is presented. Furthermore, to ensure that all the output minima are the global or local optima, an optimality judgement criterion is introduced.
+Keywords
+multimodal function optimization, multiple-optima search, metamodel-based optimization, mathematical morphology 

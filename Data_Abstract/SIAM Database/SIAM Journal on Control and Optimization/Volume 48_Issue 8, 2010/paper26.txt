@@ -1,0 +1,6 @@
+Goal-Oriented Adaptivity in Pointwise State Constrained Optimal Control of Partial Differential Equations
+Michael  Hintermüller and Ronald H. W.  Hoppe;
+Abstract
+We derive primal-dual weighted goal-oriented a posteriori error estimates for pointwise state constrained optimal control problems for second order elliptic partial differential equations. The constraints give rise to a primal-dual weighted error term representing the mismatch in the complementarity system due to discretization. In the case of sufficiently regular active (or coincidence) sets and problem data, a further decomposition of the multiplier into a regular $L^2$-part on the active set and a singular part concentrated on the boundary between the active and inactive set allows us to further characterize the mismatch error. The paper ends with a report on the behavior of the error estimates for test cases including the case of singular active sets consisting of only smooth curves or points.
+Keywords
+adaptive finite element method, a posteriori error estimate, pointwise state constraints, goal-oriented adaptivity, PDE-constrained optimization, 49K20, 65K10, 65N30, 65N50, 

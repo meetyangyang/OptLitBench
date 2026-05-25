@@ -1,0 +1,6 @@
+Interior dual proximal point algorithm using preconditioned conjugate gradient † 
+   R.   Setiono ;
+Abstract
+ Serial and parallel implementations of the interior dual proximal point algorithm for the solution of large linear programs are described. A preconditioned conjugate gradient method is used to solve the linear system of equations that arises at each interior point interation. Numerical results for a set of multicommodity network flow problems are given. For larger problem preconditioned conjugate gradient method outperforms direct methods of solution. In fact it is impossible to handle very large problems by direct methods  
+Keywords
+Linear Programming, Conjugate Gradient, Proximal Point, Interior Point Algorithm 

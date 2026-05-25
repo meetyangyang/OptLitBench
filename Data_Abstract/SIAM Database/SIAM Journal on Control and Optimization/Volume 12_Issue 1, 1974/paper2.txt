@@ -1,0 +1,5 @@
+Regulation and Internal Stabilization in Linear Multivariable Systems
+W. M.  Wonham and J. B.  Pearson;
+Abstract
+For the multivariable control system described by  \[\dot x = Ax + Bu,\quad y = Cx,\quad z = Dx,\]  constructive necessary and sufficient conditions are given for the existence of state feedback $ u = Fx$ such that (i) $\ker F \supset \ker C$ (observability constraint), (ii) $D\exp [t(A + BF)] \to 0$ as $t \to \infty $ (output regulation), and (iii) any unstable modes of $A + BF$ are either uncontrollable or unobservable at y (internal stability). It is assumed that $\ker C$ is A-invariant, or equivalently that an observer or dynamic compensator is utilized. A common application is treated, and sensitivity is considered for a simple example.
+Keywords

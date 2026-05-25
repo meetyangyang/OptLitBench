@@ -1,0 +1,6 @@
+The interior proximal extragradient method for solving equilibrium problems
+Thi Thu Van Nguyen;Jean-Jacques Strodiot;Van Hien Nguyen;
+Abstract
+In this article we present a new and efficient method for solving equilibrium problems on polyhedra. The method is based on an interior-quadratic proximal term which replaces the usual quadratic proximal term. This leads to an interior proximal type algorithm. Each iteration consists in a prediction step followed by a correction step as in the extragradient method. In a first algorithm each of these steps is obtained by solving an unconstrained minimization problem, while in a second algorithm the correction step is replaced by an Armijo-backtracking linesearch followed by an hyperplane projection step. We prove that our algorithms are convergent under mild assumptions: pseudomonotonicity for the two algorithms and a Lipschitz property for the first one. Finally we present some numerical experiments to illustrate the behavior of the proposed algorithms.
+Keywords
+Interior proximal method  Logarithmic-quadratic proximal method  Extragradient method  Armijo-backtracking linesearch  Equilibrium problems  

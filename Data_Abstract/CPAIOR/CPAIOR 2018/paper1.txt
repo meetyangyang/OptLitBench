@@ -1,0 +1,4 @@
+Time-Bounded Query Generator for Constraint Acquisition
+Hajar Ait Addi;Christian Bessiere;Redouane Ezzahir;Nadjib Lazaar;
+Abstract
+QuAcq is a constraint acquisition algorithm that assists a non-expert user to model her problem as a constraint network. QuAcq generates queries as examples to be classified as positive or negative. One of the drawbacks of QuAcq is that generating queries can be time-consuming. In this paper we present Tq-gen, a time-bounded query generator. Tq-gen is able to generate a query in a bounded amount of time. We rewrite QuAcq to incorporate the Tq-gen generator. This leads to a new algorithm called T-quacq. We propose several strategies to make T-quacq efficient. Our experimental analysis shows that thanks to the use of Tq-gen, T-quacq dramatically improves the basic QuAcq in terms of time consumption, and sometimes also in terms of number of queries.

@@ -1,0 +1,6 @@
+A Framework for Globally Optimizing Mixed-Integer Signomial Programs
+Ruth Misener;Christodoulos A. Floudas;
+Abstract
+Mixed-integer signomial optimization problems have broad applicability in engineering. Extending the Global Mixed-Integer Quadratic Optimizer, GloMIQO (Misener, Floudas in J. Glob. Optim., 2012. doi: 10.1007/s10898-012-9874-7), this manuscript documents a computational framework for deterministically addressing mixed-integer signomial optimization problems to ε-global optimality. This framework generalizes the GloMIQO strategies of (1) reformulating user input, (2) detecting special mathematical structure, and (3) globally optimizing the mixed-integer nonconvex program. Novel contributions of this paper include: flattening an expression tree towards term-based data structures; introducing additional nonconvex terms to interlink expressions; integrating a dynamic implementation of the reformulation-linearization technique into the branch-and-cut tree; designing term-based underestimators that specialize relaxation strategies according to variable bounds in the current tree node. Computational results are presented along with comparison of the computational framework to several state-of-the-art solvers.
+Keywords
+Mixed-integer signomial optimization  Global optimization  Numerical optimization software  

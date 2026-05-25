@@ -1,0 +1,6 @@
+Improved complexity results on solving real-number linear feasibility problems
+Yinyu Ye;
+Abstract
+We present complexity results on solving real-number standard linear programs LP(A,b,c), where the constraint matrix  Open image in new window  the right-hand-side vector  Open image in new window  and the objective coefficient vector  Open image in new window  are real. In particular, we present a two-layered interior-point method and show that LP(A,b,0), i.e., the linear feasibility problem A x = b and x ≥ 0, can be solved in in O(n 2.5 c(A)) interior-point method iterations. Here 0 is the vector of all zeros and c(A) is the condition measure of matrix A defined in [25]. This complexity iteration bound is reduced by a factor n from that for general LP(A, b, c) in [25]. We also prove that the iteration bound will be further reduced to O(n 1.5 c(A)) for LP(A, 0, 0), i.e., for the homogeneous linear feasibility problem. These results are surprising since the classical view has been that linear feasibility would be as hard as linear programming.
+Keywords
+Central Path  Constraint Matrix  Optimal Dual Solution  Optimal Primal Solution  Linear Feasibility  

@@ -1,0 +1,6 @@
+A long-step feasible predictor–corrector interior-point algorithm for symmetric cone optimization
+S. Asadi;H. Mansouri;Zs. Darvay;G. Lesaja;M. Zangiabadi;
+Abstract
+In this paper, we present a feasible predictor–corrector interior-point method for symmetric cone optimization problem in the large neighbourhood of the central path. The method is generalization of Ai-Zhang's predictor–corrector algorithm to the symmetric cone optimization problem. Starting with a feasible point (x0,y0,s0) in given large neighbourhood of the central path, the algorithm still terminates in at most Orlog⁡(Tr(x0∘s0)/ε) iterations. This matches the best known iteration bound that is usually achieved by short-step methods, thereby, closing the complexity gap between long- and short-step interior-point methods for symmetric cone optimization. The preliminary numerical results on a selected set of NETLIB problems show advantage of the method in comparison with the version of the algorithm that is not based on the predictor–corrector scheme.
+Keywords
+Symmetric cone optimization, Euclidean Jordan algebra, large neighbourhood of the central path, predictor–corrector interior-point algorithm, Nesterov–Todd directionsAMS SUBJECT CLASSIFICATIONS: 90C51, 90C33 

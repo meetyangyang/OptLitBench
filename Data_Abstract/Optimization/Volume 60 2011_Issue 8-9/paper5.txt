@@ -1,0 +1,6 @@
+On the convergence of the projected gradient method for vector optimization
+ Ellen   H.   Fukuda ; L.M.   Graña   Drummond ;
+Abstract
+ In 2004, Graña Drummond and Iusem proposed an extension of the projected gradient method for constrained vector optimization problems. Using this method, an Armijo-like rule, implemented with a backtracking procedure, was used in order to determine the step lengths. The authors just showed stationarity of all cluster points and, for another version of the algorithm (with exogenous step lengths), under some additional assumptions, they proved convergence to weakly efficient solutions. In this work, first we correct a slight mistake in the proof of a certain continuity result in that 2004 article, and then we extend its convergence analysis. Indeed, under some reasonable hypotheses, for convex objective functions with respect to the ordering cone, we establish full convergence to optimal points of any sequence produced by the projected gradient method with an Armijo-like rule, no matter how poor the initial guesses may be. 
+Keywords
+vector optimization, weak efficiency, projected gradient method, convexity with respect to cones, quasi-Féjer convergenceAMS Subject Classifications: 90C29, 90C30 

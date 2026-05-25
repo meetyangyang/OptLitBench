@@ -1,0 +1,6 @@
+Local Exact Boundary Controllability of the Boussinesq Equation
+A. V.  Fursikov and O. Yu.  Imanuvilov;
+Abstract
+We study the local exact boundary controllability problem for the Boussinesq equations that describe an incompressible fluid flow coupled to thermal dynamics. The result that we get in this paper is as follows: suppose that $\hat y(t,x)$ is a given solution of the Boussinesq equation where $t \in (0,T)$, $x \in \Omega$, $\Omega$ is a bounded domain with $C^\infty$-boundary $\partial \Omega$. Let $ y_0(x)$ be a given initial condition and $\Vert \hat y(0,\cdot) - y_0 \Vert < \epsilon$ where $\epsilon=\epsilon(\hat y)$ is small enough. Then there exists boundary control u such that the solution $y(t,x)$ of the Boussinesq equations satisfying $$ y \vert_{(0,T) \times \partial \Omega } = u,\qquad y \vert_{t=0} = y_0 $$ coincides with $\hat y(t,x)$ at the instant T : $y(T,x) \equiv \hat y(T,x)$.
+Keywords
+Boussinesq equation, local exact boundary controllability, 76D05, 49J20, 93B05, 93C20, 

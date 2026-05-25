@@ -1,0 +1,6 @@
+Finite-Level Quantized Synchronization of Discrete-Time Linear Multiagent Systems with Switching Topologies
+Yang  Meng, Tao  Li, and Ji-Feng  Zhang;
+Abstract
+In this paper, the synchronization of discrete-time linear multiagent systems is studied with finite communication data rate and switching topology flows.  A class of quantized-observer-based communication schemes and a class of certainty-equivalence-principle-based cooperative control laws are proposed with adaptive encoders and decoders. It is shown that if the pairs of agents' state matrices and  control matrices multiplied by Laplacian eigenvalues of the weakly connected components are simultaneously stabilizable, and the communication topology flow is frequently connected,  then there exist such protocols leading to synchronization exponentially fast. Furthermore, only finite bits of information exchange per step are required to guarantee the synchronization if the communication channels are frequently active. For first-order dynamics, the dwell time and the number of bits are both related to the unstable mode of agent dynamics, the number of agents, the frequency of connectivity, and the Laplacian eigenvalue ratio of the switching topology flow.
+Keywords
+synchronization, linear multiagent system, quantized observer, switching topology flow, 93E03, 93E15, 60H10, 94C15, 

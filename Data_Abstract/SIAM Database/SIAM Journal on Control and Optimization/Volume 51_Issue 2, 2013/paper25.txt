@@ -1,0 +1,6 @@
+Jump-Diffusion Risk-Sensitive Asset Management II: Jump-Diffusion Factor Model
+Mark  Davis and Sébastien  Lleo;
+Abstract
+In this article we extend our earlier work on the jump-diffusion risk-sensitive asset management problem in a factor model [SIAM J. Financial Math., 2 (2011), pp. 22--54] by allowing jumps in both the factor process and the asset prices, as well as stochastic volatility and investment constraints. In this case, the Hamilton--Jacobi--Bellman (HJB) equation is a partial integro-differential equation (PIDE). We are able to show that finding a viscosity solution to this PIDE is equivalent to finding a viscosity solution to a related PDE, for which classical results give uniqueness. With this in hand, a policy improvement argument and classical results on parabolic PDEs show that the HJB PIDE admits a unique smooth solution. The optimal investment strategy is given by the feedback control that minimizes the Hamiltonian function appearing in the HJB PIDE.
+Keywords
+asset management, risk-sensitive stochastic control, jump-diffusion processes, Poisson point processes, Lévy processes, HJB PIDE, policy improvement, parabolic PDE, classical solutions, viscosity solutions, 35D40, 35R09, 91G10, 91G80, 93E20, 

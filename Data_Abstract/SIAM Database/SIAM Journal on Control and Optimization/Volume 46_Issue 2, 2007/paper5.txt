@@ -1,0 +1,6 @@
+On the New Barrier Function and Specialized Algorithms for a Class of Semidefinite Programs
+Chung‐Yao   Kao and Alexandre   Megretski;
+Abstract
+Semidefinite programs (SDPs) arising from the Kalman–Yakubovich–Popov (KYP) lemma are frequently encountered in systems robustness analysis, filter design, and other control/signal processing related applications. These programs possess a special structure that can be exploited to construct specialized algorithms that substantially outperform general‐purpose SDP solvers. In this paper, a new interior path‐following algorithm that utilizes this structure is proposed. The main idea behind the algorithm is a new barrier function for these specially structured SDPs. Convergence of the new algorithm is shown and a measure of the accuracy of suboptimal solutions produced by the algorithm is provided. The algorithm is tested in numerical experiments and the results indicate that the new algorithm is indeed favorable against general‐purpose SDP solvers in many circumstances.
+Keywords
+interior point method, barrier function, semidefinite program, KYP lemma, robustness analysis, 93D09, 

@@ -1,0 +1,6 @@
+Low-fidelity scale factor improves Bayesian multi-fidelity prediction by reducing bumpiness of discrepancy function
+Chanyoung Park;Raphael T. Haftka;Nam H. Kim;
+Abstract
+This study explores why the use of the low-fidelity scale factor can substantially improve the accuracy of the Bayesian multi-fidelity surrogate (MFS). It is shown analytically that the Bayesian MFS framework utilizes the scale factor to reduce the waviness and variation of the discrepancy function by maximizing the Gaussian process-based likelihood function. Less wavy functions are more accurately fitted, and variation reduction mitigates the effect of fitting error. Bumpiness is another way used to combine waviness and variation. Two examples, Borehole3 and Hartmann6, illustrated that indeed the Bayesian MFS reduced bumpiness using the scale factor. The finding may be useful for MFS using surrogates lacking uncertainty structure, so that likelihood is not an option, but bumpiness may be.
+Keywords
+Bayesian  multi-fidelity  surrogate  scale factor  bumpiness  Gaussian process  

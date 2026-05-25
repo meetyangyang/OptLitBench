@@ -1,0 +1,6 @@
+Design of planar articulated mechanisms using branch and bound
+Mathias Stolpe;Atsushi Kawamoto;
+Abstract
+This paper considers an optimization model and a solution method for the design of two-dimensional mechanical mechanisms. The mechanism design problem is modeled as a nonconvex mixed integer program which allows the optimal topology and geometry of the mechanism to be determined simultaneously. The underlying mechanical analysis model is based on a truss representation allowing for large displacements. For mechanisms undergoing large displacements elastic stability is of major concern. We derive conditions, modeled by nonlinear matrix inequalities, which guarantee that a stable equilibrium is found and that buckling is prevented. The feasible set of the design problem is described by nonlinear differentiable and non-differentiable constraints as well as nonlinear matrix inequalities.
+Keywords
+Mechanism design  Branch and bound  74P10  90C90  70B15  

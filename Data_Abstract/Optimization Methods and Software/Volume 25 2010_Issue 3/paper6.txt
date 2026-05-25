@@ -1,0 +1,6 @@
+Geometric representation for semi on-line scheduling on uniform processors
+ Enrico   Angelelli ; Maria   Grazia   Speranza ; József   Szoldatics ; Zsolt   Tuza ;
+Abstract
+ The problem of semi on-line scheduling on two uniform processors is considered, in the case where the total sum of the tasks is known in advance. The speed of the slow processor is normalized to 1, and the fast one is supposed to have speed s≥1. A task of size p requires processing time p or p/s, depending on whether it is assigned to the slow or fast processor. Tasks arrive one at a time and have to be assigned to one of the two processors before the next one arrives. The assignment cannot be changed later. The objective is to minimize the makespan. We develop a geometric representation, parametrized with s, that can be applied to improve on the currently known best bounds on the competitive ratio of semi on-line scheduling algorithms. 
+Keywords
+semi on-line scheduling, uniform processors, competitive analysis 

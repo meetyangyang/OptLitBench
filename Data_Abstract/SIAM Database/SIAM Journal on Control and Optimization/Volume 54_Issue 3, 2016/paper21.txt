@@ -1,0 +1,6 @@
+Semidefinite Approximations of the Polynomial Abscissa
+Roxana  Heß, Didier  Henrion, Jean-Bernard  Lasserre, and Tien Son  Pham;
+Abstract
+Given a univariate polynomial, its abscissa is the maximum real part of its roots. The abscissa arises naturally when controlling linear differential equations. As a function of the polynomial coefficients, the abscissa is Hölder continuous, and not locally Lipschitz in general, which is a source of numerical difficulties for designing and optimizing control laws. In this paper we propose simple approximations of the abscissa given by polynomials of fixed degree, and hence controlled complexity. Our approximations are computed by a hierarchy of finite-dimensional convex semidefinite programming problems. When their degree tends to infinity, the polynomial approximations converge in $L^1$ norm to the abscissa, either from above or from below.
+Keywords
+linear systems control, nonconvex nonsmooth optimization, polynomial approximations, semialgebraic optimization, semidefinite programming, 26C10, 41A10, 90C22, 90C26, 

@@ -1,0 +1,6 @@
+POD a-posteriori error analysis for optimal control problems with mixed control-state constraints
+Martin Gubisch;Stefan Volkwein;
+Abstract
+In this work linear-quadratic optimal control problems for parabolic equations with mixed control-state constraints are considered. These problems arise when a Lavrentiev regularization is utilized for state constrained linear-quadratic optimal control problems. For the numerical solution a Galerkin discretization is applied utilizing proper orthogonal decomposition (POD). Based on a perturbation method it is determined how far the suboptimal control, computed on the basis of the POD method, is from the (unknown) exact one. Numerical examples illustrate the theoretical results. In particular, the POD Galerkin scheme is applied to a problem with state constraints.
+Keywords
+Optimal control  Model reduction  Proper orthogonal decomposition  A-posteriori error estimates  

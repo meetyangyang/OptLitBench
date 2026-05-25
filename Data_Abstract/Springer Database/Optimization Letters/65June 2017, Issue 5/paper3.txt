@@ -1,0 +1,6 @@
+Constraint relaxation, cost-sensitive learning and bagging for imbalanced classification problems with outliers
+Talayeh Razzaghi;Petros Xanthopoulos;Onur Şeref;
+Abstract
+Supervised learning consists in developing models able to distinguish data that belong to different categories (classes). When data are available in different proportions the problem becomes imbalanced and the performance of standard classification methods deteriorates significantly. Imbalanced classification becomes even more challenging in the presence of outliers. In this paper, we study several algorithmic modifications of support vector machines classifier for tackling imbalanced problems with outliers. We provide computational evidence that the combined use of cost sensitive learning with constraint relaxation performs better, on average, compared to algorithmic tweaks that involve bagging, a popular approach for dealing with imbalanced problems or outliers separately. The proposed technique is embedded and requires the solution of a single convex optimization problem with no outlier detection preprocessing.
+Keywords
+Classification  Cost-sensitive learning  Bagging   Relaxed support vector machines  Imbalanced data  Class noise  

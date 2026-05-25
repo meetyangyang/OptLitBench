@@ -1,0 +1,6 @@
+New decision rules for exact search in N-Queens
+Pablo San Segundo;
+Abstract
+This paper presents a set of new decision rules for exact search in N-Queens. Apart from new tiebreaking strategies for value and variable ordering, we introduce the notion of ‘free diagonal’ for decision taking at each step of the search. With the proposed new decision heuristic the number of subproblems needed to enumerate the first K solutions (typically K = 1, 10 and 100) is greatly reduced w.r.t. other algorithms and constitutes empirical evidence that the average solution density (or its inverse, the number of subproblems per solution) remains constant independent of N. Specifically finding a valid configuration was backtrack free in 994 cases out of 1,000, an almost perfect decision ratio. This research is part of a bigger project which aims at deriving new decision rules for CSP domains by evaluating, at each step, a constraint value graph G  c . N-Queens has adapted well to this strategy: domain independent rules are inferred directly from G  c  whereas domain dependent knowledge is represented by an induced hypergraph over G  c  and computed by similar domain independent techniques. Prior work on the Number Place problem also yielded similar encouraging results.
+Keywords
+Decision heuristics  N-Queens  Global search  Constraint satisfaction  Maximum clique  

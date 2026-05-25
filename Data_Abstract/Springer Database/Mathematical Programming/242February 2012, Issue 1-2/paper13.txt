@@ -1,0 +1,6 @@
+Semidefinite programming for min–max problems and games
+R. Laraki;J. B. Lasserre;
+Abstract
+ We consider two min–max problems (1) minimizing the supremum of finitely many rational functions over a compact basic semi-algebraic set and (2) solving a 2-player zero-sum polynomial game in randomized strategies with compact basic semi-algebraic sets of pure strategies. In both problems the optimal value can be approximated by solving a hierarchy of semidefinite relaxations, in the spirit of the moment approach developed in Lasserre (SIAM J Optim 11:796–817, 2001; Math Program B 112:65–92, 2008). This provides a unified approach and a class of algorithms to compute Nash equilibria and min–max strategies of several static and dynamic games. Each semidefinite relaxation can be solved in time which is polynomial in its input size and practice on a sample of experiments reveals that few relaxations are needed for a good approximation (and sometimes even for finite convergence), a behavior similar to what was observed in polynomial optimization.
+Keywords
+N-player games  Nash equlibria  Min–max optimization problems  Semidefinite programming  91A05 2-person games  91A06 n-person games, n > 2  91A15 Stochastic games  90C22 Semidefinite programming  90C47 Minimax problems  90C90 Applications of mathematical programming  

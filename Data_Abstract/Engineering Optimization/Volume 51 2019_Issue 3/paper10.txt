@@ -1,0 +1,6 @@
+Efficient projection onto a low-dimensional ball
+Paul D. Teal;Lakshmi Krishnan;Terence Betlehem;
+Abstract
+Projection onto convex sets is a technique well known in optimization for its versatility and wide range of applications. This article presents an efficient projection onto a low-dimensional ball. The technique is based on analytically solving a quartic equation, and is exceptionally computationally efficient. An example application of this projection technique relates to acoustic impulse response shaping. Acoustic impulse response shaping is a pre-filtering technique to reduce reverberation of sound reproduction inside a room. If the focus is solely on the time domain, peaks and troughs in the frequency domain can occur. The projection approach presented in this article has been combined with the shaping algorithm to flatten the frequency response, thus providing control of both time domain and frequency domain characteristics.
+Keywords
+Projection, convex sets, dual augmented Lagrangian method, acoustic impulse response shaping 

@@ -1,0 +1,6 @@
+Regularization tools for training large feed-forward neural networks using automatic differentiation  ∗  
+ Jerry   Erikssont ; Mårten   Gulliksson ; Per   Lindström ; Per-åke   Wedin ;
+Abstract
+ We describe regularization tools for training large-scale artificial feed-forward neural networks. We propose algorithms that explicitly use a sequence of Tikhonov regularized nonlinear least squares problems. For large-scale problems, methods using new special purpose automatic differentiation are used in a conjugate gradient method for computing a truncated Gauss—Newton search direction. The algorithms developed utilize the structure of the problem in different ways and perform much better than a Polak-Ribiere based method. All algorithms are tested using benchmark problems and guidelines by Lutz Prechelt in the Probenl package. All software is written in Matlab and gathered in a toolbox. 
+Keywords
+Neural network training;, Tikhonov regularization;, automatic differentiation;, large-scale problems 

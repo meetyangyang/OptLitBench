@@ -1,0 +1,6 @@
+Hybrid and adaptive meta-model-based global optimization
+ J.   Gu ; G.   Y.   Li ; Z.   Dong ;
+Abstract
+ As an efficient and robust technique for global optimization, meta-model-based search methods have been increasingly used in solving complex and computation intensive design optimization problems. In this work, a hybrid and adaptive meta-model-based global optimization method that can automatically select appropriate meta-modelling techniques during the search process to improve search efficiency is introduced. The search initially applies three representative meta-models concurrently. Progress towards a better performing model is then introduced by selecting sample data points adaptively according to the calculated values of the three meta-models to improve modelling accuracy and search efficiency. To demonstrate the superior performance of the new algorithm over existing search methods, the new method is tested using various benchmark global optimization problems and applied to a real industrial design optimization example involving vehicle crash simulation. The method is particularly suitable for design problems involving computation intensive, black-box analyses and simulations. 
+Keywords
+global optimization, meta-modelling, adaptive search, computation intensive, hybrid models 

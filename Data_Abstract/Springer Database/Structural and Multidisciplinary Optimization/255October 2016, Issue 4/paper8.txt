@@ -1,0 +1,6 @@
+Solving stress and compliance constrained volume minimization using anisotropic mesh adaptation, the method of moving asymptotes and a global p-norm
+Kristian Ejlebjerg Jensen;
+Abstract
+The p-norm often used in stress constrained topology optimisation supposedly mimics a delta function and it is thus characterised by a small length scale and ideally one would also prefer to have the solid-void transition occur over a small length scale, since the material in this transition does not have a clear physical interpretation. We propose to resolve these small length scales using anisotropic mesh adaptation. We use the method of moving asymptotes with interpolation of sensitivities, asymptotes and design variables between iterations. We demonstrate this combination for the portal and L-bracket problems with p=10, and we are able to investigate mesh dependence. Finally, we suggest relaxing the L-bracket problem statement by introducing a rounded corner.
+Keywords
+Anisotropic  Mesh  Adaptation  Topology  Optimisation  Stress  Constraints  FEniCS  PRAgMaTIc  

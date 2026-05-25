@@ -1,0 +1,6 @@
+A Resource-Directive Decomposition Algorithm for Weakly Coupled Dynamic Linear Programs
+ Tatsuo   Aonuma ;
+Abstract
+ This paper presents a decomposition algorithm for dual angular linear programs, which also may be extended to a wider class of structured linear programs. In the algorithm, firstly, the linking variables are fixed at given values to partition the problem into several subproblems. Secondly, an optimal setting of the linking variables is determined, given that the bases for the subproblems are fixed. Then, the bases for the subproblems are changed so as to improve the entire problem. The computational experience shows that the number of cycles to adjust the linking variables required for optimality is nearly equal to the number of the subproblems, that is, its convergence behaves very well as compared with the column-generation scheme.  
+Keywords
+ 

@@ -1,0 +1,6 @@
+Regularization methods for optimization problems with probabilistic constraints
+Darinka Dentcheva;Gabriela Martinez;
+Abstract
+We analyze nonlinear stochastic optimization problems with probabilistic constraints on nonlinear inequalities with random right hand sides. We develop two numerical methods with regularization for their numerical solution. The methods are based on first order optimality conditions and successive inner approximations of the feasible set by progressive generation of p-efficient points. The algorithms yield an optimal solution for problems involving α-concave probability distributions. For arbitrary distributions, the algorithms solve the convex hull problem and provide upper and lower bounds for the optimal value and nearly optimal solutions. The methods are compared numerically to two cutting plane methods.
+Keywords
+Stochastic programming  Chance constraints  Duality  Bundle methods  Augmented Lagrangian  90C15  49M29  

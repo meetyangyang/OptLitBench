@@ -1,0 +1,6 @@
+Newton's Mesh Independence Principle for a Class Of Optimal Shape Design Problems
+Manfred  Laumen;
+Abstract
+Many optimal shape design problems can be stated as infinite dimensional minimization problems. For deriving an implementable algorithm it has to be decided either to discretize the problem and to use a finite algorithm to solve the discrete problem or to state an algorithm in function space and to discretize this algorithm. This issue has yet to be addressed in the field of optimal shape design research. One big advantage for the latter procedure is a mesh independence behavior as it has been proven by Allgower et al. [ SIAM J. Numer. Anal., 23 (1986), pp. 160--169]. Since their assertions are not directly applicable to these specific kinds of problems, a modified version of their mesh independence principle is given here in order to derive more efficient algorithms for the resulting large scale problems.
+Keywords
+Newton's method, optimal shape design, mesh independence principle, 65K10, 49K20, 49M15, 49M05, 

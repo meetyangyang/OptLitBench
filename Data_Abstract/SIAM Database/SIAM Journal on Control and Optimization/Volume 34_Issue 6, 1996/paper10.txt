@@ -1,0 +1,6 @@
+Convergence of the BFGS Method for $LC^1 $ Convex Constrained Optimization
+Xiaojun  Chen;
+Abstract
+This paper proposes a BFGS-SQP method for linearly constrained optimization where the objective function f is required only to have a Lipschitz gradient. The Karush–Kuhn–Tucker system of the problem is equivalent to a system of nonsmooth equations $F(v) = 0$. At every step a quasi-Newton matrix is updated if $\| {F(v_k )} \|$ satisfies a rule. This method converges globally, and the rate of convergence is superlinear when f is twice strongly differentiable at a solution of the optimization problem. No assumptions on the constraints are required. This generalizes the classical convergence theory of the BFGS method, which requires a twice continuous differentiability assumption on the objective function. Applications to stochastic programs with recourse on a CM5 parallel computer are discussed.
+Keywords
+quasi-Newton methods, convex programming, nonsmooth equations, 90C30, 90C25, 

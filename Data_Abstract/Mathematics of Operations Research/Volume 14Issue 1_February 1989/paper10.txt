@@ -1,0 +1,6 @@
+Coercion Functions and Decentralized Linear Programming
+Brion Feinberg;
+Abstract
+This paper describes a decentralized linear programming solution procedure. Unlike the classic Dantzig-Wolfe decomposition algorithm, this procedure is a complete decentralization, where the subproblems act independently to generate the optimal solution. In Dantzig-Wolfe decomposition, the master problem must “dictate” the final optimal solution. Our procedure is an improvement over Dantzig-Wolfe decomposition in this sense. The procedure works by adding a “coercion” function to the subproblem objective. Under proper conditions, this function “coerces” the subproblem to behave as desired. Such total decentralization is important for loosely coupled systems where it is not possible for the master level to dictate optimal decision values for the subsystems.
+Keywords
+decentralization distributed computing linear programming decomposition 

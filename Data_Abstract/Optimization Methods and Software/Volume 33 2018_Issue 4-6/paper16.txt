@@ -1,0 +1,6 @@
+Estimating the expansion coefficients of a geomagnetic field model using first-order derivatives of associated Legendre functions
+H. Martin Bücker;Johannes Willkomm;
+Abstract
+The associated Legendre functions are defined on a closed interval. Thus, their derivatives do not exist at the endpoints of the interval. However, one-sided derivatives may exist at the endpoints if the ordinary limit is replaced by a one-sided limit. When computer models that evaluate associated Legendre functions at an endpoint are transformed by automatic differentiation, an approach is needed that is tailored to one-sided derivatives. Rather than employing a black-box approach of automatic differentiation, a hierarchical approach is introduced that is based on analytic first-order one-sided derivatives of the associated Legendre functions at the endpoints. This hierarchical approach is implemented in the automatic differentiation software ADiMat and its feasibility is demonstrated in a parameter estimation problem arising from geomagnetic field modelling.
+Keywords
+associated Legendre functions, spherical harmonics, magnetic field model, Magsat data, automatic differentiation, ADiMatAMS Subject Classification: 33C55, 86A25, 68N19, 65Y99, 65F20 

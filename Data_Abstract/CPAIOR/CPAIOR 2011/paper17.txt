@@ -1,0 +1,4 @@
+Using Hard Constraints for Representing Soft Constraints
+Jean-Charles Régin;
+Abstract
+Most of the current algorithms dedicated to the resolution of over-constrained problems, as PFC-MRDAC, are based on the search for a support for each value of each variable taken independently. The structure of soft constraints is only used to speed-up such a search, but not to globally deduce the existence or the absence of support. These algorithms do not use the filtering algorithms associated with the soft constraints.

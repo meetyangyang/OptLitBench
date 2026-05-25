@@ -1,0 +1,6 @@
+Convergence Properties of the Nelder--Mead Simplex Method in Low Dimensions
+Jeffrey C.  Lagarias, James A.  Reeds, Margaret H.  Wright, and Paul E.  Wright;
+Abstract
+The Nelder--Mead simplex algorithm, first published in 1965, is an enormously popular direct search method for multidimensional unconstrained minimization. Despite its widespread use, essentially no theoretical results have been proved explicitly for the Nelder--Mead algorithm. This paper presents convergence properties of the Nelder--Mead algorithm applied to strictly convex functions in dimensions 1 and 2. We prove convergence to a minimizer for dimension 1, and various limited convergence results for dimension 2. A counterexample of McKinnon gives a family of strictly convex functions in two dimensions and a set of initial conditions for which the Nelder--Mead algorithm converges to a nonminimizer. It is not yet known whether the Nelder--Mead method can be proved to converge to a minimizer for a more specialized class of convex functions in two dimensions.
+Keywords
+direct search methods, Nelder--Mead simplex methods, nonderivative optimization, 49D30, 65K05, 

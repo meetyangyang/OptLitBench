@@ -1,0 +1,6 @@
+A Kronecker approximation with a convex constrained optimization method for blind image restoration
+A. Bouhamidi;K. Jbilou;
+Abstract
+In many problems of linear image restoration, the point spread function is assumed to be known even if this information is usually not available. In practice, both the blur matrix and the restored image should be performed from the observed noisy and blurred image. In this case, one talks about the blind image restoration. In this paper, we propose a method for blind image restoration by using convex constrained optimization techniques for solving large-scale ill-conditioned generalized Sylvester equations. The blur matrix is approximated by a Kronecker product of two matrices having Toeplitz and Hankel forms. The Kronecker product approximation is obtained from an estimation of the point spread function. Numerical examples are given to show the efficiency of our proposed method.
+Keywords
+Blind image restoration  Convex optimization  Linear algebra  

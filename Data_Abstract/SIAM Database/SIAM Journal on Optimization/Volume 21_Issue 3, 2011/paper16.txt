@@ -1,0 +1,6 @@
+On the Use of Stochastic Hessian Information in Optimization Methods for Machine Learning
+Richard H.  Byrd, Gillian M.  Chin, Will  Neveitt, and Jorge  Nocedal;
+Abstract
+This paper describes how to incorporate sampled curvature information in a Newton-CG method and in a limited memory quasi-Newton method for statistical learning. The motivation for this work stems from supervised machine learning applications involving a very large number of training points. We follow a batch approach, also known in the stochastic optimization literature as a sample average approximation approach. Curvature information is incorporated in two subsampled Hessian algorithms, one based on a matrix-free inexact Newton iteration and one on a preconditioned limited memory BFGS iteration. A crucial feature of our technique is that Hessian-vector multiplications are carried out with a significantly smaller sample size than is used for the function and gradient. The efficiency of the proposed methods is illustrated using a machine learning application involving speech recognition.
+Keywords
+unconstrained optimization, stochastic optimization, machine learning, 65K05, 90C06, 90C30, 90C55, 

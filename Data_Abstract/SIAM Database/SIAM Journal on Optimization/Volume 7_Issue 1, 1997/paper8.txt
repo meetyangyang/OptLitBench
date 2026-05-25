@@ -1,0 +1,6 @@
+Minimization of a Large-Scale Quadratic FunctionSubject to a Spherical Constraint
+D. C.  Sorensen;
+Abstract
+An important problem in linear algebra and optimization is the trust-region subproblem: minimize a quadratic function subject to an ellipsoidal or spherical constraint. This basic problem has several important large-scale applications including seismic inversion and forcing convergence in optimization methods. Existing methods to solve the trust-region subproblem require matrix factorizations, which are not feasible in the large-scale setting. This paper presents an algorithm for solving the large-scale trust-region subproblem that requires a fixed-size limited storage proportional to the order of the quadratic and that relies only on matrix-vector products. The algorithm recasts the trust-region subproblem in terms of a parameterized eigenvalue problem and adjusts the parameter with a superlinearly convergent iteration to find the optimal solution from the eigenvector of the parameterized problem. Only the smallest eigenvalue and corresponding eigenvector of the parameterized problem needs to be computed. The implicitly restarted Lanczos method is well suited to this subproblem.
+Keywords
+Krylov methods, regularization, constrained quadratic optimization, trust-region, Lanczos method, 65F15, 65G05, 

@@ -1,0 +1,8 @@
+A conversion of an SDP having free variables into the standard form SDP
+Kazuhiro Kobayashi;Kazuhide Nakata;Masakazu Kojima;
+Abstract
+
+This paper deals with a semidefinite program (SDP) having free variables, which often appears in practice. To apply the primal–dual interior-point method, we usually need to convert our SDP into the standard form having no free variables. One simple way of conversion is to represent each free variable as a difference of two nonnegative variables. But this conversion not only expands the size of the SDP to be solved but also yields some numerical difficulties which are caused by the non-existence of a primal–dual pair of interior-feasible solutions in the resulting standard form SDP and its dual. This paper proposes a new conversion method that eliminates all free variables. The resulting standard form SDP is smaller in its size, and it can be more stably solved in general because the SDP and its dual have interior-feasible solutions whenever the original primal–dual pair of SDPs have interior-feasible solutions. Effectiveness of the new conversion method applied to SDPs having free variables is reported in comparison to some other existing methods.
+
+Keywords
+Semidefinite program  Primal–dual interior-point method  Equality constraint  Standard form  Conversion  

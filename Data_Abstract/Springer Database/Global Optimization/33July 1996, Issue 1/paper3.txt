@@ -1,0 +1,6 @@
+Tracking elementary particles near their primary vertex: A combinatorial approach
+Jean-François Pusztaszeri;Paul E. Rensing;Thomas M. Liebling;
+Abstract
+Colliding beams experiments in High Energy Physics rely on solid state detectors to track the flight paths of charged elementary particles near their primary point of interaction. Reconstructing tracks in this region requires, per collision, a partitioning of up to 103 highly correlated observations into an unknown number of tracks. We report on the successful implementation of a combinatorial track finding algorithm to solve this pattern recognition problem in the context of the ALEPH experiment at CERN. Central to the implementation is a 5-dimensional axial assignment model (AP5) encompassing noise and inefficiencies of the detector, whose weights of assignments are obtained by means of an extended Kalman filter. A preprocessing step, involving the clustering and geometric partitioning of the observations, ensures reasonable bounds on the size of the problems, which are solved using a branch & bound algorithm with LP relaxation. Convergence is reached within one second of CPU time on a RISC workstation in average.
+Keywords
+Integer Programming  Multiple-Target Tracking  Extended Kalman Filtering  Particle Physics  Pattern Recognition  

@@ -1,0 +1,8 @@
+Implementation of scatter search for multi-objective optimization: a comparative study
+R. Baños;C. Gil;J. Reca;J. Martínez;
+Abstract
+
+Interest in the design of efficient meta-heuristics for the application to combinatorial optimization problems is growing rapidly. The optimal design of water distribution networks is an important optimization problem which consists of finding the best way of conveying water from the sources to the users, thus satisfying their requirements. The efficient design of looped networks is a much more complex problem than the design of branched ones, but their greater reliability can compensate for the increase in cost when closing some loops. Mathematically, this is a non-linear optimization problem, constrained to a combinatorial space, since the diameters are discrete and it has a very large number of local solutions. Many works have dealt with the minimization of the cost of the network but few have considered their cost and reliability simultaneously. The aim of this paper is to evaluate the performance of an implementation of Scatter Search in a multi-objective formulation of this problem. Results obtained in three benchmark networks show that the method here proposed performs accurately well in comparison with other multi-objective approaches also implemented.
+
+Keywords
+Multi-objective optimization  Meta-heuristics  Scatter search  Simulated annealing  Water distribution network design  

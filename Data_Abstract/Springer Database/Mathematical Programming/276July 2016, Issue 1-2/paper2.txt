@@ -1,0 +1,6 @@
+Simple examples for the failure of Newton’s method with line search for strictly convex minimization
+Florian Jarre;Philippe L. Toint;
+Abstract
+In this paper two simple examples of a twice continuously differentiable strictly convex function \(f\) are presented for which Newton’s method with line search converges to a point where the gradient of \(f\) is not zero. The first example uses a line search based on the Wolfe conditions. For the second example, some strictly convex function \(f\) is defined as well as a sequence of descent directions for which exact line searches do not converge to the minimizer of \(f\). Then \(f\) is perturbed such that these search directions coincide with the Newton directions for the perturbed function while leaving the exact line search invariant.
+Keywords
+Newton’s method  Line search  Wolfe conditions   Convex minimization  Primary 90C25  Secondary 49M15  

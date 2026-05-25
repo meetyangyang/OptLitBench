@@ -1,0 +1,6 @@
+Improved asymptotic analysis of the average number of steps performed by the self-dual simplex algorithm
+Nimrod Megiddo;
+Abstract
+In this paper we analyze the average number of steps performed by the self-dual simplex algorithm for linear programming, under the probabilistic model of spherical symmetry. The model was proposed by Smale. Consider a problem ofn variables withm constraints. Smale established that for every number of constraintsm, there is a constantc(m) such that the number of pivot steps of the self-dual algorithm,ρ(m, n), is less thanc(m)(lnn) m(m+1) . We improve upon this estimate by showing thatρ(m, n) is bounded by a function ofm only. The symmetry of the function inm andn implies thatρ(m, n) is in fact bounded by a function of the smaller ofm andn.
+Keywords
+Probabilistic analysis  self-dual simplex  spherical symmetry  

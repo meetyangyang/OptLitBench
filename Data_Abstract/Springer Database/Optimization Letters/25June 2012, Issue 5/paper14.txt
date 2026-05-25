@@ -1,0 +1,6 @@
+A new supermemory gradient method for unconstrained optimization problems
+Yi-gui Ou;Guan-shu Wang;
+Abstract
+This paper presents a new supermemory gradient method for unconstrained optimization problems. It can be regarded as a combination of ODE-based methods, line search and subspace techniques. The main characteristic of this method is that, at each iteration, a lower dimensional system of linear equations is solved only once to obtain a trial step, thus avoiding solving a quadratic trust region subproblem. Another is that when a trial step is not accepted, this proposed method generates an iterative point whose step-length satisfies Armijo line search rule, thus avoiding resolving linear system of equations. Under some reasonable assumptions, the method is proven to be globally convergent. Numerical results show the efficiency of this proposed method in practical computation.
+Keywords
+Unconstrained optimization  Supermemory gradient method  Trust region technique  ODE-based methods  Global convergence  

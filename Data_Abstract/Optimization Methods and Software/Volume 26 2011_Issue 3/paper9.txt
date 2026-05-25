@@ -1,0 +1,6 @@
+A parallel decomposition algorithm for training multiclass kernel-based vector machines
+ Lingfeng   Niu ; Ya-Xiang   Yuan ;
+Abstract
+ We present a decomposition method for training Crammer and Singer's multiclass kernel-based vector machine model. A new working set selection rule is proposed. Global convergence of the algorithm based on this selection rule is established. Projected gradient method is chosen to solve the resulting quadratic subproblem at each iteration. An efficient projection algorithm is designed by exploiting the structure of the constraints. Parallel strategies are given to utilize the storage and computational resources available on the multiprocessor system. Numerical experiment on benchmark problems demonstrates that the good classification accuracy and remarkable time saving can be achieved. 
+Keywords
+Kernel-based vector machines, decomposition method, projected gradient, parallel algorithm 

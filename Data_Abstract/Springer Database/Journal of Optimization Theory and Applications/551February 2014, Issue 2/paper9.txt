@@ -1,0 +1,6 @@
+Numerical Solutions to the Bellman Equation of Optimal Control
+Cesar O. Aguilar;Arthur J. Krener;
+Abstract
+In this paper, we present a numerical algorithm to compute high-order approximate solutions to Bellman’s dynamic programming equation that arises in the optimal stabilization of discrete-time nonlinear control systems. The method uses a patchy technique to build local Taylor polynomial approximations defined on small domains, which are then patched together to create a piecewise smooth approximation. The numerical domain is dynamically computed as the level sets of the value function are propagated in reverse time under the closed-loop dynamics. The patch domains are constructed such that their radial boundaries are contained in the level sets of the value function and their lateral boundaries are constructed as invariant sets of the closed-loop dynamics. To minimize the computational effort, an adaptive subdivision algorithm is used to determine the number of patches on each level set depending on the relative error in the dynamic programming equation. Numerical tests in 2D and 3D are given to illustrate the accuracy of the method.
+Keywords
+Discrete-time control systems  Nonlinear optimal regulation  Dynamic programming  Hamilton–Jacobi–Bellman equation  Numerical methods  

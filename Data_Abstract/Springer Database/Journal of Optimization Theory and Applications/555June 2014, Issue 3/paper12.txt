@@ -1,0 +1,6 @@
+Absolute Value Equation Solution Via Linear Programming
+Olvi L. Mangasarian;
+Abstract
+By utilizing a dual complementarity property, we propose a new linear programming method for solving the NP-hard absolute value equation (AVE): Ax−|x|=b, where A is an n×n square matrix. The algorithm makes no assumptions on the AVE other than solvability and consists of solving a few linear programs, typically less than four. The algorithm was tested on 500 consecutively generated random solvable instances of the AVE with n=10, 50, 100, 500 and 1000. The algorithm solved 100 % of the test problems to an accuracy of 10−8 by solving an average of 3.3 linear programs per AVE problem.
+Keywords
+Absolute value equation  Complementarity  Linear programming  

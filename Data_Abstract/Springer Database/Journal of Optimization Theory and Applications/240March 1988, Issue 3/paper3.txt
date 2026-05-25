@@ -1,0 +1,6 @@
+Experiments with successive quadratic programming algorithms
+Y. Fan;S. Sarkar;L. Lasdon;
+Abstract
+There are many variants of successive quadratic programming (SQP) algorithms. Important issues include: the choice of either line search or trust region strategies; the QP formulation to be used; and how the QP is to be solved. Here, we consider the QP's proposed by Fletcher and Powell and discuss a specialized reduced-gradient procedure for solving them. A computer implementation is described, and the various options are compared on some well-known test problems. Factors influencing robustness and speed are identified.
+Keywords
+Nonlinear programming  SQP algorithms  computational comparisons  trust regions  line searches  

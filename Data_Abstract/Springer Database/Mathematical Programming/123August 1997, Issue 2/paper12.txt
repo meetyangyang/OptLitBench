@@ -1,0 +1,6 @@
+Minimum-perimeter domain assignment
+Jonathan Yackel;Robert R. Meyer;Ioannis Christou;
+Abstract
+For certain classes of problems defined over two-dimensional domains with grid structure, optimization problems involving the assignment of grid cells to processors present a nonlinear network model for the problem of partitioning tasks among processors so as to minimize interprocessor communication. Minimizing interprocessor communication in this context is shown to be equivalent to tiling the domain so as to minimize total tile perimeter, where each tile corresponds to the collection of tasks assigned to some processor. A tight lower bound on the perimeter of a tile as a function of its area is developed. We then show how to generate minimum-perimeter tiles. By using assignments corresponding to near-rectangular minimum-perimeter tiles, closed form solutions are developed for certain classes of domains. We conclude with computational results with parallel high-level genetic algorithms that have produced good (and sometimes provably optimal) solutions for very large perimeter minimization problems.
+Keywords
+Mathematical Programming  Optimal Configuration  Quadratic Assignment Problem  Interprocessor Communication  Minimum Perimeter  

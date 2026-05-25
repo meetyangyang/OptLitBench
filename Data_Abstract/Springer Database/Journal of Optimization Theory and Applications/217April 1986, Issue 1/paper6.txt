@@ -1,0 +1,6 @@
+Convergent stepsizes for constrained optimization algorithms
+B. Rustem;
+Abstract
+A fundamental problem in constrained nonlinear optimization algorithms is the design of a satisfactory stepsize strategy which converges to unity. In this paper, we discuss stepsize strategies for Newton or quasi-Newton algorithms which require the solution of quadratic optimization subproblems. Five stepsize strategies are considered for three different subproblems, and the conditions under which the stepsizes will converge to unity are established. It is shown that these conditions depend critically on the convergence of the Hessian approximations used in the algorithms. The stepsize strategies are constructed using basic principles from which the conditions to unit stepsizes follow. Numerical results are discussed in an Appendix.
+Keywords
+Nonlinear programming  stepsize strategies  convergence  

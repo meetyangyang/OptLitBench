@@ -1,0 +1,6 @@
+Convergence analysis of gradient descent stochastic algorithms
+A. Shapiro;Y. Wardi;
+Abstract
+This paper proves convergence of a sample-path based stochastic gradient-descent algorithm for optimizing expected-value performance measures in discrete event systems. The algorithm uses increasing precision at successive iterations, and it moves against the direction of a generalized gradient of the computed sample performance function. Two convergence results are established: one, for the case where the expected-value function is continuously differentiable; and the other, when that function is nondifferentiable but the sample performance functions are convex. The proofs are based on a version of the uniform law of large numbers which is provable for many discrete event systems where infinitesimal perturbation analysis is known to be strongly consistent.
+Keywords
+Gradient descent  subdifferentials  uniform laws of large numbers  infinitesimal perturbation analysis  discrete event dynamic systems  

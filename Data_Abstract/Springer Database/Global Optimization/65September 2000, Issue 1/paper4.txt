@@ -1,0 +1,6 @@
+A Lagrangian Based Branch-and-Bound Algorithm for Production-transportation Problems
+TAKAHITO KUNO;TAKAHIRO UTSUNOMIYA;
+Abstract
+We propose a branch-and-bound algorithm of Falk–Soland's type for solving the minimum cost production-transportation problem with concave production costs. To accelerate the convergence of the algorithm, we reinforce the bounding operation using a Lagrangian relaxation, which is a concave minimization but yields a tighter bound than the usual linear programming relaxation in O(mn log n) additional time. Computational results indicate that the algorithm can solve fairly large scale problems.
+Keywords
+Global optimization  Production-transportation problem  Minimum concave-cost flow problem  Branch-and-bound algorithm  Lagrangian relaxation  

@@ -1,0 +1,8 @@
+Mesh-independence and preconditioning for solving parabolic control problems with mixed control-state constraints
+Michael Hintermüller1, Ian Kopacka2 and Stefan Volkwein2;
+Abstract
+Optimal control problems for the heat equation with pointwisebilateral control-state constraints are considered. A locallysuperlinearly convergent numerical solution algorithm is proposedand its mesh independence is established. Further, for theefficient numerical solution reduced space and Schur complementbased preconditioners are proposed which take into account theactive and inactive set structure of the problem. The paper endsby numerical tests illustrating our theoretical findings andcomparing the efficiency of the proposed preconditioners.
+Keywords
+Bilateral control-state constraints, heat equation, mesh
+independence, optimal control, PDE-constrained optimization, 
+semismooth Newton metho

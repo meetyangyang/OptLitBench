@@ -1,0 +1,6 @@
+A primal-dual Newton-type algorithm for geometric programs with equality constraints
+A. Gonen;M. Avriel;
+Abstract
+An augmented Lagrangian algorithm is used to find local solutions of geometric programming problems with equality constraints (GPE). The algorithm is Newton's method for unconstrained minimization. The complexity of the algorithm is defined by the number of multiplications and divisions. By analyzing the algorithm we obtain results about the influence of each parameter in the GPE problem on the complexity of an iteration. An attempt is made to estimate the number of iterations needed for convergence. In practice, certain hypotheses are tested, such as the influence of the penalty coefficient update formula, the distance of the starting point from the optimum, and the stopping criterion. For these tests, a random problem generator was constructed, many problems were run, and the results were analyzed by statistical methods.
+Keywords
+Geometric programming  equality constraints  penalty functions  Newton's method  augmented Lagrangian method  

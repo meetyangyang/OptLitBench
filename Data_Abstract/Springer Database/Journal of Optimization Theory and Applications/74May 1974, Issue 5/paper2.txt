@@ -1,0 +1,6 @@
+Method of dual matrices for function minimization
+H. Y. Huang;
+Abstract
+In this paper, the method of dual matrices for the minimization of functions is introduced. The method, which is developed on the model of a quadratic function, is characterized by two matrices at each iteration. One matrix is such that a linearly independent set of directions can be generated, regardless of the stepsize employed. The other matrix is such that, at the point where the first matrix fails to yield a gradient linearly independent of all the previous gradients, it generates a displacement leading to the minimal point. Thus, the one-dimensional search is bypassed. For a quadratic function, it is proved that the minimal point is obtained in at mostn + 1 iterations, wheren is the number of variables in the function. Since the one-dimensional search is not needed, the total number of gradient evaluations for convergence is at mostn + 2.
+Keywords
+Mathematical programming  function minimization  method of dual matrices  computing methods  numerical methods  

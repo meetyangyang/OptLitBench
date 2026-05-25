@@ -1,0 +1,6 @@
+Analysis of Sparse Cutting Planes for Sparse MILPs with Applications to Stochastic MILPs
+Santanu S. Dey;Marco Molinaro;Qianyi Wang;
+Abstract
+In this paper, we present an analysis of the strength of sparse cutting planes for mixed integer linear programs (MILP) with sparse formulations. We examine three kinds of problems: packing problems, covering problems, and more general MILPs with the only assumption that the objective function is nonnegative. Given an MILP instance of one of these three types, assume that we decide on the support of cutting planes to be used and the strongest inequalities on these supports are added to the linear programming relaxation. We present bounds on the ratio of optimal value of the LP relaxation after adding cuts and the optimal value of the MILP that depends only on the sparsity structure of the constraint matrix and the support of sparse cuts selected, that is, these bounds are completely data independent. These results also shed light on the strength of single-scenario cuts for two-stage stochastic MILPs.
+Keywords
+cutting planes mixed-integer linear programming sparsity 

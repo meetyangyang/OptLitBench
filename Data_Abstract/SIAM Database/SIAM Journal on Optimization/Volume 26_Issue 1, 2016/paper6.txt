@@ -1,0 +1,6 @@
+Local Superlinear Convergence of Polynomial-Time Interior-Point Methods for Hyperbolicity Cone Optimization Problems
+Yu.  Nesterov and L.  Tunçel;
+Abstract
+In this paper, we establish the local superlinear convergence property of some polynomial-time interior-point methods for an important family of conic optimization problems. The main structural property used in our analysis is the logarithmic homogeneity of self-concordant barrier function, which must have negative curvature. We propose a new path-following predictor-corrector scheme, which works only in the dual space. It is based on an easily computable gradient proximity measure, which ensures an automatic transformation of the global linear rate of convergence to the local superlinear one under some mild assumptions. Our step-size procedure for the predictor step is related to the maximum step size maintaining feasibility. As the optimal solution set is approached, our algorithm automatically tightens the neighborhood of the central path proportionally to the current duality gap.
+Keywords
+conic optimization problem, worst-case complexity analysis, self-concordant barriers, polynomial-time methods, predictor-corrector methods, local superlinear convergence, 90C51, 49M45, 52A41, 90C22, 90C25, 

@@ -1,0 +1,6 @@
+Lower bound sets for biobjective shortest path problems
+Enrique Machuca;Lawrence Mandow;
+Abstract
+This article considers the problem of calculating the set of all Pareto-optimal solutions in one-to-one biobjective shortest path problems with positive cost vectors. The efficiency of multiobjective best-first search algorithms can be improved with the use of consistent informed lower bounds. More precisely, the use of the ideal point as a lower bound has recently been shown to effectively increase search performance. In theory, the use of lower bounds that better approximate the Pareto frontier using sets of vectors (bound sets), could further improve performance. This article describes a lower bound set calculation method for biobjective shortest path problems. Improvements in search efficiency with lower bound sets of increasing precision are analyzed and discussed.
+Keywords
+Biobjective shortest path problem  Bound sets  Multiobjective A*  Road maps  

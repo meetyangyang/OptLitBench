@@ -1,0 +1,6 @@
+Implementation of a block-decomposition algorithm for solving large-scale conic semidefinite programming problems
+Renato D. C. Monteiro;Camilo Ortiz;Benar F. Svaiter;
+Abstract
+In this paper, we consider block-decomposition first-order methods for solving large-scale conic semidefinite programming problems given in standard form. Several ingredients are introduced to speed-up the method in its pure form such as: an aggressive choice of stepsize for performing the extragradient step; use of scaled inner products; dynamic update of the scaled inner product for properly balancing the primal and dual relative residuals; and proper choices of the initial primal and dual iterates, as well as the initial parameter for the scaled inner product. Finally, we present computational results showing that our method outperforms the two most competitive codes for large-scale conic semidefinite programs, namely: the boundary-point method introduced by Povh et al. and the Newton-CG augmented Lagrangian method by Zhao et al.
+Keywords
+Complexity  Proximal  Extragradient  Block-decomposition  Convex optimization  Conic optimization  Semidefinite programing  

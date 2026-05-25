@@ -1,0 +1,6 @@
+An improved univariate global optimization algorithm with improved linear lower bounding functions
+Xiaojun Wang;Tsu-Shuan Chang;
+Abstract
+Recently linear lower bounding functions (LLBF's) were proposed and used to find ε-global minima. Basically an LLBF over an interval is a linear function which lies below a given function over the interval and matches the function value at one end point. By comparing it with the best function value found, it can be used to eliminate subregions which do not contain ε-global minima. To develop a more efficient LLBF algorithm, two important issues need to be addressed: how to construct a better LLBF and how to use it efficiently. In this paper, an improved LLBF for factorable functions overn-dimensional boxes is derived, in the sense that the new LLBF is always better than those in [3] for continuously differentiable functions. Exploration of the properties of the LLBF enables us to develop a new LLBF-based univariate global optimization algorithm, which is again better than those in [3]. Numerical results on some standard test functions indicate the high potential of our algorithm.
+Keywords
+univariate global optimization  linear lower bounding functions  LLBF methods  

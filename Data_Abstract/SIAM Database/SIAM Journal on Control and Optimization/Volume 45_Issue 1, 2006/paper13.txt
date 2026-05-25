@@ -1,0 +1,6 @@
+Two-time-scale Hybrid Filters: Near Optimality
+J. W.  Wang, Q.  Zhang, and G.  Yin;
+Abstract
+This work develops a filtering scheme for hybrid systems. The process dictating the configuration or regimes is a continuous-time Markov chain with a finite state space. Exploiting hierarchical structure of the underlying system, the states of the Markov chain are divided into a number of groups so that it jumps rapidly within each group and slowly among different groups. Focusing on reduction of computational complexity, the filtering scheme includes the following steps: (1) partition the state space of the Markov chain into subspaces, (2) derive a limit system in which the states are averaged out with respect to the invariant distributions of the Markov chain, (3) use the limit system to design quadratic variation test statistics, and (4) use the test statistics to identify which ergodic class the aggregated process belongs to and to construct near-optimal filter. For demonstration, a numerical example is presented.
+Keywords
+hybrid filter, near optimality, Kalman filter, Markov chain, weak convergence, quadratic variation test, 93E11, 93C70, 60J27, 

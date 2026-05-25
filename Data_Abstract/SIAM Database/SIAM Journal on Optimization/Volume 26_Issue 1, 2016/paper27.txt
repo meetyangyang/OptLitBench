@@ -1,0 +1,6 @@
+A Two-Variable Approach to the Two-Trust-Region Subproblem
+Boshi  Yang and Samuel  Burer;
+Abstract
+The trust-region subproblem minimizes a general quadratic function over an ellipsoid and can be solved in polynomial time using a semidefinite-programming (SDP) relaxation. Intersecting the feasible set with a second ellipsoid results in the two-trust-region subproblem (TTRS). Even though TTRS can also be solved in polynomial time, existing algorithms do not use SDP. In this paper, we investigate the use of SDP for TTRS. Starting from the basic SDP relaxation of TTRS, which admits a gap, recent research has tightened the basic relaxation using valid second-order-cone inequalities. Even still, closing the gap requires more. For the special case of TTRS in dimension $n=2$, we fully characterize the remaining valid inequalities, which can be viewed as strengthened versions of the second-order-cone inequalities just mentioned. We also demonstrate that these valid inequalities can be used computationally even when $n > 2$ to solve TTRS instances that were previously unsolved using SDP-based techniques.
+Keywords
+trust-region subproblem, semidefinite programming, nonconvex quadratic programming, 90C20, 90C22, 90C25, 90C26, 90C30, 

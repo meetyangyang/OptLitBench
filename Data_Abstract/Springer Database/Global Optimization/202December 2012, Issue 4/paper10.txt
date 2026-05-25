@@ -1,0 +1,6 @@
+Global optimization of polynomial-expressed nonlinear optimal control problems with semidefinite programming relaxation
+Takeshi Tsuchiya;
+Abstract
+In this paper, we propose a new deterministic global optimization method for solving nonlinear optimal control problems in which the constraint conditions of differential equations and the performance index are expressed as polynomials of the state and control functions. The nonlinear optimal control problem is transformed into a relaxed optimal control problem with linear constraint conditions of differential equations, a linear performance index, and a matrix inequality condition with semidefinite programming relaxation. In the process of introducing the relaxed optimal control problem, we discuss the duality theory of optimal control problems, polynomial expression of the approximated value function, and sum-of-squares representation of a non-negative polynomial. By solving the relaxed optimal control problem, we can obtain the approximated global optimal solutions of the control and state functions based on the degree of relaxation. Finally, the proposed global optimization method is explained, and its efficacy is proved using an example of its application.
+Keywords
+Optimal control  Nonlinear control  Global optimization  Semidefinite programming  

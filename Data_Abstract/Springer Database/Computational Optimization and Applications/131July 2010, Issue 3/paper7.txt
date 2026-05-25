@@ -1,0 +1,6 @@
+Adaptive finite element methods for mixed control-state constrained optimal control problems for elliptic boundary value problems
+R. H. W. Hoppe;M. Kieweg;
+Abstract
+Mixed control-state constraints are used as a relaxation of originally state constrained optimal control problems for partial differential equations to avoid the intrinsic difficulties arising from measure-valued multipliers in the case of pure state constraints. In particular, numerical solution techniques known from the pure control constrained case such as active set strategies and interior-point methods can be used in an appropriately modified way. However, the residual-type a posteriori error estimators developed for the pure control constrained case can not be applied directly. It is the essence of this paper to show that instead one has to resort to that type of estimators known from the pure state constrained case. Up to data oscillations and consistency error terms, they provide efficient and reliable estimates for the discretization errors in the state, a regularized adjoint state, and the control. A documentation of numerical results is given to illustrate the performance of the estimators.
+Keywords
+Distributed optimal control problems  Mixed control-state constraints  Adaptive finite elements  Posteriori error analysis  

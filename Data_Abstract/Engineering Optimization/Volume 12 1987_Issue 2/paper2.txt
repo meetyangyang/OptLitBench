@@ -1,0 +1,6 @@
+A KNOWLEDGE-BASED APPROACH TO MATHEMATICAL DESIGN MODELING AND OPTIMIZATION
+ M.   BALACHANDRAN ; J. S.   GERO ;
+Abstract
+ Optimization is a well understood process in design domains. Designers formulate their design problems as single criterion or multicriteria optimization problems and then select an appropriate optimization algorithm to search for the optimal values for the design variables. The formulation and algorithm selection procedures have been considered to be activities which relied on substantive human knowledge. This paper describes a computer system, OPTIMA, which formulates design optimization problems from a pseudo-English description into canonical algebraic expressions. It then recognizes the formulation and selects appropriate algorithm(s) for its solution. Finally, it runs the selected algorithm(s) and sends the results back to the original descriptions. Areas of expert knowledge involved in carrying out the above tasks are identified. Such knowledge is explicitly encoded in the system. The basic philosophy and key features of the system are described and are illustrated with examples. 
+Keywords
+Optimization, knowledge-based, Prolog, Lisp, artificial intelligence 

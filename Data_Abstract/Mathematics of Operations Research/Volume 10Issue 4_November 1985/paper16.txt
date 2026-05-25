@@ -1,0 +1,6 @@
+A Note on Finding Minimum-Cost Edge-Disjoint Spanning Trees
+James Roskind;Robert E. Tarjan;
+Abstract
+Let G be an undirected graph with n vertices and m edges, such that each edge has a real-valued cost. We consider the problem of finding a set of k edge-disjoint spanning trees in G of minimum total edge cost. This problem can be solved in polynomial time by the matroid greedy algorithm. We present an implementation of this algorithm that runs in O(m log m + k2n2) time. If all edge costs are the same, the algorithm runs in O(k2n2) time. The algorithm can also be extended to find the largest k such that k edge-disjoint spanning trees exist in O(m2) time. We mention several applications of the algorithm.
+Keywords
+spanning trees graphs networks 

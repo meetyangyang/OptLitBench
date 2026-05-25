@@ -1,0 +1,6 @@
+Repulsive Assignment Problem
+M. Gaudioso;L. Moccia;M. F. Monaco;
+Abstract
+Standard assignment is the problem of obtaining a matching between two sets of respectively persons and positions so that each person is assigned exactly one position and each position receives exactly one person, while a linear decision maker utility function is maximized. We introduce a variant of the problem where the persons individual utilities are taken into account in a way that a feasible solution must satisfy not only the standard assignment constraints, but also an equilibrium constraint of the complementarity type, which we call repulsive. The equilibrium constraint can be, in turn, transformed into a typically large set of linear constraints. Our problem is NP-hard and it is a special case of the assignment problem with side constraints. We study an exact penalty function approach which motivates a heuristic algorithm. We provide computational experiments that show the usefulness of a heuristic mechanism inspired by the exact approach. The heuristics outperforms a state-of-the-art integer linear programming solver.
+Keywords
+Generalized assignment problems  Quadratic assignment problems  Memetic algorithms  Equilibrium constraints  

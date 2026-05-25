@@ -1,0 +1,6 @@
+A derivative-free algorithm for linearly constrained optimization problems
+E. A. E. Gumma;M. H. A. Hashim;M. Montaz Ali;
+Abstract
+Based on the NEWUOA algorithm, a new derivative-free algorithm is developed, named LCOBYQA. The main aim of the algorithm is to find a minimizer \(x^{*} \in\mathbb{R}^{n}\) of a non-linear function, whose derivatives are unavailable, subject to linear inequality constraints. The algorithm is based on the model of the given function constructed from a set of interpolation points. LCOBYQA is iterative, at each iteration it constructs a quadratic approximation (model) of the objective function that satisfies interpolation conditions, and leaves some freedom in the model. The remaining freedom is resolved by minimizing the Frobenius norm of the change to the second derivative matrix of the model. The model is then minimized by a trust-region subproblem using the conjugate gradient method for a new iterate. At times the new iterate is found from a model iteration, designed to improve the geometry of the interpolation points. Numerical results are presented which show that LCOBYQA works well and is very competing against available model-based derivative-free algorithms.
+Keywords
+Derivative-free optimization  Linearly constrained problem  Least Frobenius norm method  Trust-region subproblem  Conjugate gradient method  

@@ -1,0 +1,6 @@
+Iteration complexity analysis of block coordinate descent methods
+Mingyi Hong;Xiangfeng Wang;Meisam Razaviyayn;Zhi-Quan Luo;
+Abstract
+In this paper, we provide a unified iteration complexity analysis for a family of general block coordinate descent methods, covering popular methods such as the block coordinate gradient descent and the block coordinate proximal gradient, under various different coordinate update rules. We unify these algorithms under the so-called block successive upper-bound minimization (BSUM) framework, and show that for a broad class of multi-block nonsmooth convex problems, all algorithms covered by the BSUM framework achieve a global sublinear iteration complexity of \(\mathcal{{O}}(1/r)\), where r is the iteration index. Moreover, for the case of block coordinate minimization where each block is minimized exactly, we establish the sublinear convergence rate of O(1/r) without per block strong convexity assumption.
+Keywords
+49-90  

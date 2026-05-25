@@ -1,0 +1,6 @@
+Parallel orthogonal factorization null-space method for dynamic quadratic programming
+M. L. Psiaki;K. Park;
+Abstract
+An algorithm has been developed to solve quadratic programs that have a dynamic programming structure. It has been developed for use as part of a parallel trajectory optimization algorithm and aims to achieve significant speed without sacrificing numerical stability. the algorithm makes use of the dynamic programming problem structure and the domain decomposition approach. It parallelizes the orthogonal factorization null-space method of quadratic programming by developing a parallel orthogonal factorization and a parallel Cholesky factorization. Tests of the algorithm on a 32-node INTEL iPSC/2 hypercube demonstrate speedup factors as large as 10 in comparison to the fastest known equivalent serial algorithm.
+Keywords
+Quadratic programming  dynamic programming  orthogonal factorization  parallel algorithms  domain decomposition  

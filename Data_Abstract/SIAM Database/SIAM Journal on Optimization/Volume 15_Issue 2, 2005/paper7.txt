@@ -1,0 +1,6 @@
+A Generic Algorithm for Solving Inclusions
+Adam B.  Levy;
+Abstract
+We present a generic algorithm that solves inclusions by generating iterates from successively updated approximating inclusions. Our convergence analysis involves families of generalized rate functions that depend on the parameters in the approximating inclusions, which results in a very flexible format for studying convergence. The algorithm is called generic because it covers many existing methods for solving inclusions, including methods in numerical optimization. In addition to this, our generic algorithm exposes new directions for the development of numerical methods of solving inclusions. As one example, we present a novel generalization to composite optimization of the sequential quadratic programming method for nonlinear programs.
+Keywords
+inclusions, numerical optimization, variational inequalities, variational analysis, sequential quadratic programming, composite optimization, 65K10, 49J53, 65K05, 

@@ -1,0 +1,6 @@
+Assessing the potential of interior point barrier filter line search methods: nonmonotone versus monotone approach
+ M.   Fernanda P.   Costa ; Edite   M.G.P.   Fernandes ;
+Abstract
+ In this article, we present a numerical study of three nonmonotone filter line search techniques, as well as a three-dimensional filter approach, when incorporated into the solver IPOPT, a primal-dual barrier method developed by Wächter and Biegler [On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming, Math. Program. 106 (2006), pp. 25–57] for nonlinear programming. Primary assessment of the proposals has been done with sets of small- and medium-scale problems and large-scale problems separately. Results show that the use of nonmonotone globalization strategies improves efficiency. 
+Keywords
+nonlinear optimization, interior point method, filter method, nonmonotone line searchAMS Subject Classifications:: 90C30, 90C51, 65K05 

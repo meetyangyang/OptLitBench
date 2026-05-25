@@ -1,0 +1,6 @@
+A primal‐dual interior-point method for linear optimization based on a new proximity function
+ Y.Q.   Bai ; C.   Roos ; M.   El Ghami ;
+Abstract
+ In this article we present a generic primal-dual interior-point algorithm for linear optimization in which the search direction depends on a univariate kernel function which is also used as proximity measure in the analysis of the algorithm. We present some powerful tools for the analysis of the algorithm under the assumption that the kernel function satisfies three easy to check and mild conditions (i.e., exponential convexity, superconvexity and monotonicity of the second derivative). The approach is demonstrated by introducing a new kernel function and showing that the corresponding large-update algorithm improves the iteration complexity with a factor n 1/4 when compared with the classical method, which is based on the use of the logarithmic barrier function. 
+Keywords
+Kernel Function, Proximity Function, Primal-dual Interior-point Algorithm, Large-update Method, Complexity 

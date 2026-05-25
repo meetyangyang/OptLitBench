@@ -1,0 +1,6 @@
+Local reduction based SQP-type method for semi-infinite programs with an infinite number of second-order cone constraints
+Takayuki Okuno;Masao Fukushima;
+Abstract
+The second-order cone program (SOCP) is an optimization problem with second-order cone (SOC) constraints and has achieved notable developments in the last decade. The classical semi-infinite program (SIP) is represented with infinitely many inequality constraints, and has been studied extensively so far. In this paper, we consider the SIP with infinitely many SOC constraints, called the SISOCP for short. Compared with the standard SIP and SOCP, the studies on the SISOCP are scarce, even though it has important applications such as Chebychev approximation for vector-valued functions. For solving the SISOCP, we develop an algorithm that combines a local reduction method with an SQP-type method. In this method, we reduce the SISOCP to an SOCP with finitely many SOC constraints by means of implicit functions and apply an SQP-type method to the latter problem. We study the global and local convergence properties of the proposed algorithm. Finally, we observe the effectiveness of the algorithm through some numerical experiments.
+Keywords
+Semi-infinite programming  Second-order cone constraints  SQP-type method  Local reduction method  

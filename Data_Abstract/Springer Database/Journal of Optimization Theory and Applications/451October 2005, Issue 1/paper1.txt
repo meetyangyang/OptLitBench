@@ -1,0 +1,6 @@
+Regularization Methods for Uniformly Rank-Deficient Nonlinear Least-Squares Problems
+J. Eriksson;P. A. Wedin;M. E. Gulliksson;I. Söderkvist;
+Abstract
+In solving the nonlinear least-squares problem of minimizing ||f(x)|| 2 2 , difficulties arise with standard approaches, such as the Levenberg-Marquardt approach, when the Jacobian of f is rank-deficient or very ill-conditioned at the solution. To handle this difficulty, we study a special class of least-squares problems that are uniformly rank-deficient, i.e., the Jacobian of f has the same deficient rank in the neighborhood of a solution. For such problems, the solution is not locally unique. We present two solution tecniques: (i) finding a minimum-norm solution to the basic problem, (ii) using a Tikhonov regularization. Optimality conditions and algorithms are given for both of these strategies. Asymptotical convergence properties of the algorithms are derived and confirmed by numerical experiments. Extensions of the presented ideas make it possible to solve more general nonlinear least-squares problems in which the Jacobian of f at the solution is rank-deficient or ill-conditioned.
+Keywords
+Nonlinear least squares  Gauss-Newton Method  rank-deficient matrices  minimum norm problems  truncation problems  stabilization methods  ill-posed problems  Tikhonov regularization  

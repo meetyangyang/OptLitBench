@@ -1,0 +1,6 @@
+A New Approximation of the Matrix Rank Function and Its Application to Matrix Rank Minimization
+Chengjin Li;
+Abstract
+The matrix rank minimization problem is widely applied in many fields such as control, signal processing and system identification. However, the problem is NP-hard in general and is computationally hard to directly solve in practice. In this paper, we provide a new approximation function of the matrix rank function, and the corresponding approximation problems can be used to approximate the matrix rank minimization problem within any level of accuracy. Furthermore, the successive projected gradient method, which is designed based on the monotonicity and the Fréchet derivative of these new approximation function, can be used to solve the matrix rank minimization this problem by using the projected gradient method to find the stationary points of a series of approximation problems. Finally, the convergence analysis and the preliminary numerical results are given.
+Keywords
+Matrix rank minimization  Approximation function  Projected gradient method  Successive projected gradient method  

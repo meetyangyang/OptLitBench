@@ -1,0 +1,6 @@
+A simplex algorithm for piecewise-linear programming III: Computational analysis and applications
+Robert Fourer;
+Abstract
+The first two parts of this paper have developed a simplex algorithm for minimizing convex separable piecewise-linear functions subject to linear constraints. This concluding part argues that a direct piecewiselinear simplex implementation has inherent advantages over an indirect approach that relies on transformation to a linear program. The advantages are shown to be implicit in relationships between the linear and piecewise-linear algorithms, and to be independent of many details of implementation. Two sets of computational results serve to illustarate these arguments; the piecewise-linear simplex algorithm is observed to run 2–6 times faster than a comparable linear algorithm, not including any additional expense that might be incurred in setting up the equivalent linear program. Further support for the practical value of a good piecewise-linear programming algorithm is provided by a survey of many varied applications.
+Keywords
+Linear programming  simplex methods  piecewise-linear programming  nondifferentiable optimization  

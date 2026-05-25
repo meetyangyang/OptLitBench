@@ -1,0 +1,6 @@
+MIP Models and BB Strategies in Brachytherapy Treatment Optimization
+Robert R. Meyer;Warren D. D'Souza;Michael C. Ferris;Bruce R. Thomadsen;
+Abstract
+Brachytherapy (brachy being derived from a Greek word meaning short) is the treatment by means of radioactive sources that are placed at short distances from the target cells. This form of therapy is becoming common in the treatment of early stage prostate cancer, the most common cancer and the second leading cause of cancer deaths among American males. We consider the use of mixed-integer programming (MIP) models and branch-and-bound (BB) methods to optimize the placement within the prostate of the radioactive “seeds” used in this procedure. Several different optimization models are considered along with a number of branchand- bound strategies. With appropriate combinations of modelling and solution strategies, nearoptimal seed placements can be generated for each two-dimensional ultrasound section of the prostate in less than five minutes on a 333-MHz workstation. The original three-dimensional problem can then be solved by considering an appropriately interrelated sequence of these two-dimensional problems.
+Keywords
+Brachytherapy  Branch-and-bound  Integer programming  Optimization  Prostate cancer  Treatment planning  

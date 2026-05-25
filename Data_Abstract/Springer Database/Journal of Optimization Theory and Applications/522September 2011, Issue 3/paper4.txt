@@ -1,0 +1,6 @@
+Kernel-Based Interior-Point Methods for Monotone Linear Complementarity Problems over Symmetric Cones
+G. Lesaja;C. Roos;
+Abstract
+We present an interior-point method for monotone linear complementarity problems over symmetric cones (SCLCP) that is based on barrier functions which are defined by a large class of univariate functions, called eligible kernel functions. This class is fairly general and includes the classical logarithmic function, the self-regular functions, as well as many non-self-regular functions as special cases. We provide a unified analysis of the method and give a general scheme on how to calculate the iteration bounds for the entire class. We also calculate the iteration bounds of both large-step and short-step versions of the method for ten frequently used eligible kernel functions. For some of them we match the best known iteration bound for large-step methods, while for short-step methods the best iteration bound is matched for all cases. The paper generalizes results of Lesaja and Roos (SIAM J. Optim. 20(6):3014–3039, 2010) from P ∗(κ)-LCP over the non-negative orthant to monotone LCPs over symmetric cones.
+Keywords
+Linear complementarity problem  Euclidean Jordan algebras and symmetric cones  Interior-point method  Kernel functions  Polynomial complexity  

@@ -1,0 +1,6 @@
+Topology optimization of plate structures subject to initial excitations for minimum dynamic performance index
+Kun Yan;Gengdong Cheng;Bo Ping Wang;
+Abstract
+This paper studies optimal topology design of damped vibrating plate structures subject to initial excitations. The design objective is to minimize an integrated square performance measure. The artificial density of the plate element is the topology design variable and the material volume is given. The Lyapunov’s second method is applied to reduce the calculation of performance measure to the solution of the Lyapunov equation. An adjoint sensitivity analysis method is used, which only needs to solve the Lyapunov equation twice. However, when the problem has a large number of degrees of freedom, the solution process of Lyapunov equation is computational costly. Thus, the full model is transformed to a reduced space by mode reduction method. To further reduce the scale of reduced model, we propose a mode screen method to decrease the number of eigenmodes. Numerical examples of optimum topology design of bending plates are presented for illustrating validity and efficiency of our new algorithm.
+Keywords
+Adjoint method  Topology optimization  Lyapunov’s second method  Mode screen method  

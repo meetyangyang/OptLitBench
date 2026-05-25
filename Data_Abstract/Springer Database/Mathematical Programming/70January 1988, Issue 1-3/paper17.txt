@@ -1,0 +1,6 @@
+Approximate solution of the trust region problem by minimization over two-dimensional subspaces
+Richard H. Byrd;Robert B. Schnabel;Gerald A. Shultz;
+Abstract
+The trust region problem, minimization of a quadratic function subject to a spherical trust region constraint, occurs in many optimization algorithms. In a previous paper, the authors introduced an inexpensive approximate solution technique for this problem that involves the solution of a two-dimensional trust region problem. They showed that using this approximation in an unconstrained optimization algorithm leads to the same theoretical global and local convergence properties as are obtained using the exact solution to the trust region problem. This paper reports computational results showing that the two-dimensional minimization approach gives nearly optimal reductions in then-dimension quadratic model over a wide range of test cases. We also show that there is very little difference, in efficiency and reliability, between using the approximate or exact trust region step in solving standard test problems for unconstrained optimization. These results may encourage the application of similar approximate trust region techniques in other contexts.
+Keywords
+Unconstrained optimization  trust region  

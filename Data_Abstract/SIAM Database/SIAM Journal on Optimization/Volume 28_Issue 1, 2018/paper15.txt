@@ -1,0 +1,6 @@
+Incremental Bundle Methods using Upper Models
+Wim  van Ackooij and Antonio  Frangioni;
+Abstract
+We propose a family of proximal bundle methods for minimizing sum-structured convex nondifferentiable functions which require two slightly uncommon assumptions that are satisfied in many relevant applications: Lipschitz continuity of the functions and oracles which also produce upper estimates on the function values. In exchange, the methods: (i) use upper models of the functions that allow one to estimate function values at points where the oracle has not been called; (ii) provide the oracles with more information about when the function computation can be interrupted, possibly diminishing their cost; (iii) allow one to skip oracle calls entirely for some of the component functions, not only at “null steps” but also at “serious steps''; (iv) provide explicit and reliable a posteriori estimates of the quality of the obtained solutions; (v) work with all possible combinations of different assumptions on how the oracles deal with not being able to compute the function with arbitrary accuracy. We also discuss the introduction of constraints (or, more generally, of easy components) and use of (partly) aggregated models.
+Keywords
+nonsmooth optimization, bundle methods, inexact function evaluation, incremental approach, 90C26, 65K05, 

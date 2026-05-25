@@ -1,0 +1,6 @@
+EXPERIENCE USING OPTIMIZATION METHODS ON A LARGE NON-LINEAR PROBLEM
+ RICHARD   ROBINSON ;
+Abstract
+ A penalty function approach has been used to find a feasible point for a non-linear optimization problem of up to 90 variables and over 400 constraints which arises during a computer method of road design. An assessment has been made of some unconstrained and constrained direct search methods and also of sum-of-squares methods for minimizing this penalty function. Of the unconstrained direct search methods, alternating-variable search was found to perform much better than either Powell's (1964) method or Nelder and Mead's ‘simplex’ method. Rosenbrock's method required too much storage. A constrained version of the alternating-variable search method did not perform as well as the unconstrained version and sum-of-squares minimization algorithms were too large to implement. In this case, of a large non-linear problem, techniques based on advanced mathematical concepts of well-behaved functions appear much less appropriate than the simple direct search method which makes no assumptions about the function. 
+Keywords
+ 

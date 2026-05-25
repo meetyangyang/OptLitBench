@@ -1,0 +1,6 @@
+A local search heuristic for the Multi-Commodity \(k\)-splittable Maximum Flow Problem
+M. Gamst;
+Abstract
+The Multi-Commodity \(k\)-splittable Maximum Flow Problem consists of maximizing the amount of flow routed through a network such that each commodity uses at most \(k\) paths and such that edge capacities are satisfied. The problem is \(\mathcal NP \)-hard and has application in a.o. telecommunications. In this paper, a local search heuristic for solving the problem is proposed. The heuristic is an iterative shortest path procedure on a reduced graph combined with a local search procedure to modify certain path flows and prioritize the different commodities. The heuristic is tested on benchmark instances from the literature and solves 83 % of the instances to optimality. For the remaining instances, the heuristic finds good solution values which on average are 1.04 % from the optimal. The heuristic solves all instances in less than a second. Compared to other heuristics, the proposed heuristic again shows superior performance with respect to solution quality.
+Keywords
+\(k\)-Splittable flow  Multi-commodity flow  Local search heuristic  Meta-heuristic  Shortest path  

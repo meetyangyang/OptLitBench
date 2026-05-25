@@ -1,0 +1,6 @@
+A Valley Following Method
+ Wolfgang   Quapp ;
+Abstract
+ We present a procedure to follow the "path along the valley floor" of a hypersurface. The aim is either to find minima, or to go from a minimum to a saddle point of index one, if the saddle is at the top of the valley floor. The motivation is that of taking into account local nonconvexity of the hypersurface and possibly to determine valleys. The method uses a projector technique where the projector is built by the tangent of the valley floor line. The projector is applied to the gradient and Hessian matrix of a given function, and it is used for predictor and corrector steps in path following. The resulting path is the "valley floor gradient extremal" which corresponds to the smallest (absolute) eigenvalue of the Hessian. Convergence properties are analysed. 
+Keywords
+Stationary Points, Path Following, Projected Gradient, Newton Flow, Gradient Extremal, Mathematics Subject Classifications 1991: Primary 90c26, 58k05, Secondary 58-04, 65h17, 53a07 

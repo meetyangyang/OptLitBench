@@ -1,0 +1,4 @@
+Progressive Solutions: A Simple but Efficient Dominance Rule for Practical RCPSP
+András Kovács;József Váncza;
+Abstract
+This paper addresses the solution of practical resource-constrained project scheduling problems (RCPSP). We point out that such problems often contain many, in a sense similar projects, and this characteristic can be exploited well to improve the performance of current constraint-based solvers on these problems. For that purpose, we define the straightforward but generic notion of progressive solution, in which the order of corresponding tasks of similar projects is deduced a priori. We prove that the search space can be reduced to progressive solutions. Computational experiments on two different sets of industrial problem instances are also presented.

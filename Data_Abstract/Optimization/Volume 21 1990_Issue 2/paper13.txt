@@ -1,0 +1,6 @@
+An algorithm for solving determined or undetermined, pull or deficient rank linear systems based upon the optimally conditioned ABS algorithm
+ Elena   Bodon ;
+Abstract
+ A special choice of the available parameters, which appear in the ABS class of algorithms for linear algebraic systems of equations, has been shown to reduce the rounding errors in the computation of the solution of a linear system. The choice minimizes a bound to the condition number of a matrix associated to the projection matrix of the ABS methods. The ABS algorithm implementing this particular parameter is described and a FORTRAN code is given. 
+Keywords
+Linear equations, ABS class, optimally conditioned algorithms, numerical experimentsAMS 1980 Subject Classification: Primary: 65 F 05, Secondary:65 F 10 

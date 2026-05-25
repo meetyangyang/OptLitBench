@@ -1,0 +1,6 @@
+An Augmented Lagrangian Method for Equality Constrained Optimization with Rapid Infeasibility Detection Capabilities
+Paul Armand;Ngoc Nguyen Tran;
+Abstract
+We present a primal-dual augmented Lagrangian method for solving an equality constrained minimization problem, which is able to rapidly detect infeasibility. The method is based on a modification of the algorithm proposed in Armand and Omheni (Optim Methods Softw 32(1):1–21, 2017). A new parameter is introduced to scale the objective function and, in case of infeasibility, to force the convergence of the iterates to an infeasible stationary point. It is shown, under mild assumptions, that whenever the algorithm converges to an infeasible stationary point, the rate of convergence is quadratic. This is a new convergence result for the class of augmented Lagrangian methods. The global convergence of the algorithm is also analyzed. It is also proved that, when the algorithm converges to a stationary point, the properties of the original algorithm are preserved. The numerical experiments show that our new approach is as good as the original one when the algorithm converges to a local minimum, but much more efficient in case of infeasibility.
+Keywords
+Nonlinear optimization  Augmented Lagrangian method  Infeasibility detection  

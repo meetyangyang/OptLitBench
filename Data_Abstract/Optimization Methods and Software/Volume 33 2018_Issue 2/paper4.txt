@@ -1,0 +1,6 @@
+Dynamic optimization of dual-mode hybrid systems with state-dependent switching conditions
+Eunice Blanchard;Ryan Loxton;Volker Rehbock;
+Abstract
+This paper presents a computational approach for optimizing a class of hybrid systems in which the state dynamics switch between two distinct modes. The times at which the mode transitions occur cannot be specified directly, but are instead governed by a state-dependent switching condition. The control variables, which should be chosen optimally by the system designer, consist of a set of continuous-time input signals. By introducing an auxiliary binary-valued control function to represent the system's current mode, we show that any dual-mode hybrid system with state-dependent switching conditions can be transformed into a standard dynamic system subject to path constraints. We then develop a computational algorithm, based on control parameterization, the time-scaling transformation, and an exact penalty method, for determining the optimal piecewise constant input signals for the original hybrid system. A numerical example on cancer chemotherapy is included to demonstrate the effectiveness of the proposed algorithm.
+Keywords
+dynamic optimization, hybrid systems, state-dependent switching, control parameterization, time-scaling transform, exact penalty methodAMS Subject Classification: 49M37, 65K10, 90C30 

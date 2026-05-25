@@ -1,0 +1,6 @@
+The Molecule Problem: Exploiting Structure in Global Optimization
+Bruce  Hendrickson;
+Abstract
+The molecule problem is that of determining the relative locations of a set of objects in Euclidean space relying only upon a sparse set of pairwise distance measurements. This NP-hard problem has applications in the determination of molecular conformation. The molecule problem can be naturally expressed as a continuous, global optimization problem, but it also has a rich combinatorial structure. This paper investigates how that structure can be exploited to simplify the optimization problem. In particular, we present a novel divide-and-conquer algorithm in which a large global optimization problem is replaced by a sequence of smaller ones. Since the cost of the optimization can grow exponentially with problem size, this approach holds the promise of a substantial improvement in performance. Our algorithmic development relies upon some recently published results in graph theory. We describe an implementation of this algorithm and report some results of its performance on a sample molecule.
+Keywords
+global optimization, graph rigidity, molecular conformation, 05C10, 49M27, 51K99, 

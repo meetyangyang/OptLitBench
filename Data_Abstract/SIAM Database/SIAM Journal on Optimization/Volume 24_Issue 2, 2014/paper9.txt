@@ -1,0 +1,6 @@
+Constrained Bundle Methods for Upper Inexact Oracles with Application to Joint Chance Constrained Energy Problems
+Wim  van Ackooij and Claudia  Sagastizábal;
+Abstract
+Joint chance constrained problems give rise to many algorithmic challenges. Even in the convex case, i.e., when an appropriate transformation of the probabilistic constraint is a convex function, its cutting-plane linearization is just an approximation, produced by an oracle providing subgradient and function values that can only be evaluated inexactly. As a result, the cutting-plane model may lie above the true constraint. For dealing with such upper inexact oracles, and still solving the problem up to certain precision, a special numerical algorithm must be put in place. We introduce a family of constrained bundle methods, based on the so-called improvement functions, that is shown to be convergent and encompasses many previous approaches as well as new algorithms. Depending on the oracle accuracy, we analyze to what extent the considered methods solve the joint chance constrained program. The approach is assessed on real-life energy problems, arising when dealing with stochastic hydroreservoir management.
+Keywords
+joint chance constraints, bundle methods, inexact oracles, hydroreservoir management, 49M37, 65K05, 90B36, 90C15, 90C25, 

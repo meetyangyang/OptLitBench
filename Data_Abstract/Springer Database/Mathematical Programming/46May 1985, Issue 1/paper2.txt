@@ -1,0 +1,6 @@
+Extracting embedded generalized networks from linear programming problems
+Gerald G. Brown;Richard D. McBride;R. Kevin Wood;
+Abstract
+If a linear program (LP) possesses a large generalized network (GN) submatrix, this structure can be exploited to decrease solution time. The problems of finding maximum sets of GN constraints and finding maximum embedded GN submatrices are shown to be NP-complete, indicating that reliable, efficient solution of these problems is difficult. Therefore, efficient heuristic algorithms are developed for identifying such structure and are tested on a selection of twenty-three real-world problems. The best of four algorithms for identifying GN constraint sets finds a set which is maximum in twelve cases and averages 99.1% of maximum. On average, the GN constraints identified comprise more than 62.3% of the total constraints in these problems. The algorithm for identifying embedded GN submatrices finds submatrices whose sizes, rows plus columns, average 96.8% of an LP upper bound. Over 91.3% of the total constraint matrix was identified as a GN submatrix in these problems, on average.
+Keywords
+Linear Programming  Generalized Networks  Basis Factorization  Computational Complexity  Heuristic Algorithms  

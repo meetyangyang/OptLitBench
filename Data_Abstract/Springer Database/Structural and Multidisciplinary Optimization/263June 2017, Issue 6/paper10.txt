@@ -1,0 +1,6 @@
+A repair operator for the preliminary design of a composite structure using genetic algorithms
+S. Zein;V. Madhavan;D. Dumas;
+Abstract
+This paper deals with the preliminary design of a composite structure where the design variables are the thicknesses and the percentages of fiber orientations in the zones of the structure. In this paper, we propose to include the design and manufacturing rules in the preliminary design. A stacking sequence generator is used to compute admissible stacking sequences with respect to these rules and which correspond to the design variables. Given that an admissible stacking sequence does not exist for every set of values of the design variables, a repair operator is proposed to cope with this problem. It aims at changing the values of the percentages of the fiber orientations in order to guarantee the existence of admissible stacking sequences with respect to the manufacturing rules. The repair operator is integrated into an optimization loop which uses a genetic algorithm to perform the preliminary design of a composite structure. Its efficiency is shown with a test case which involves a large number of fiber orientations and stacking sequences.
+Keywords
+Genetic algorithms  Repair operator  Constraint satisfaction programming  Manufacturable composite structures  

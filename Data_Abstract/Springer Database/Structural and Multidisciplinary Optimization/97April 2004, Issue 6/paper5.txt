@@ -1,0 +1,6 @@
+Large-scale reliability-based structural optimization
+Y. Tsompanakis ;M. Papadrakakis ;
+Abstract
+A robust and efficient methodology is presented for treating large-scale reliability-based structural optimization problems. The optimization is performed with evolution strategies, while the reliability analysis is carried out with the Monte Carlo simulation method incorporating the importance sampling technique to reduce the sample size. Efficient hybrid methods are implemented to solve the reanalysis-type problems that arise in the optimization phase with evolution strategies and in the reliability analysis with Monte Carlo simulations. These hybrid solution methods are based on the preconditioned conjugate gradient algorithm using efficient preconditioning schemes. The numerical tests presented demonstrate the computational advantages of the proposed methods, which become more pronounced for large-scale optimization problems.   
+Keywords
+structural optimization  reliability analysis  Monte Carlo simulation  evolution strategies  preconditioned conjugate gradient  parallel computations   

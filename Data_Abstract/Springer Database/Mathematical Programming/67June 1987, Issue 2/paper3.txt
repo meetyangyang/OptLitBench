@@ -1,0 +1,6 @@
+Revised dantzig-wolfe decomposition for staircase-structured linear programs
+Peter L. Jackson;David F. Lynch;
+Abstract
+Staircase structured linear programs arise naturally in the study of engineering economic systems. One general approach to solving such LP's is the technique of nested decomposition of the primal or dual problem. The research described in this paper proposes a revised decomposition algorithm that incorporates knowledge of the structure of the staircase basis in forming the decomposed linear programs. Column proposals from the revised subproblems are shown to achieve maximum penetration against the master problem basis. The proposed algorithm resorts to the regular Dantzig-Wolfe subproblem to test for optimality. The algorithm is shown to be finite and is compared to the Abrahamson-Wittrock algorithm. Computational results indicate substantial improvement over the Dantzig-Wolfe algorithm in most cases. A numerical example of the algorithm is provide in the appendix.
+Keywords
+Dantzig-Wolfe decomposition  large-scale optimization  linear programming  staircase linear programs  simplex method  

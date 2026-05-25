@@ -1,0 +1,6 @@
+Solving multistage stochastic network programs on massively parallel computers
+Soren S. Nielsen;Stavros A. Zenios;
+Abstract
+Multi-stage stochastic programs are typically extremely large, and can be prohibitively expensive to solve on the computer. In this paper we develop an algorithm for multistage programs that integrates the primal-dual row-action framework with proximal minimization. The algorithm exploits the structure of stochastic programs with network recourse, using a suitable problem formulation based on split variables, to decompose the solution into a large number of simple operations. It is therefore possible to use massively parallel computers to solve large instances of these problems.
+Keywords
+Stochastic Program  Scenario Tree  Multistage Program  Dual Price  Flow Conservation Constraint  

@@ -1,0 +1,6 @@
+On a space extension algorithm for nondifferentiable optimization
+M. Z. Yakin;
+Abstract
+This paper presents a version of an algorithm, due to Shor, for solving unconstrained nondifferentiable optimization problems. The algorithm uses a space extension operator in the direction of the difference between two successive subgradients. The search direction is determined by multiplying the negative of a subgradient by a positive-definite and symmetric matrix. This matrix is updated by a formula similar to the DFP updating formula for differentiable problems. An approximate line search due to Wolfe is presented. A linear rate of convergence of the successive function values is established.
+Keywords
+Nondifferentiable optimization  space extension algorithm  rate of convergence analysis  strongly convex functions  

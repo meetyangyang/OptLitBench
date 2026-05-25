@@ -1,0 +1,6 @@
+On solving optimal control problems with higher index differential-algebraic equations
+Radosław Pytlak;Tomasz Zawadzki;
+Abstract
+This paper deals with optimal control problems described by higher index differential-algebraic equations (DAEs). We introduce a numerical procedure for solving these problems. The procedure has the following features: it is based on the appropriately defined adjoint equations formulated for the discretized system equations; system equations are discretized by an implicit Runge–Kutta method; initialization for higher index DAEs is performed with the help of Pantelides’ algorithm. Our approach to optimal control problems does not require differentiation of some algebraic equations in order to transform the system to ordinary differential equations. This paper presents numerical examples related to index 3 DAEs showing the validity of the proposed approach.
+Keywords
+optimal control, implicit systems, higher index differential-algebraic equations, adjoint equationsAMS Subject Classifications: Primary: 49K99, 34A09, Secondary: 49M05 

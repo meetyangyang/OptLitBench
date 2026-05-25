@@ -1,0 +1,6 @@
+On the Convergence of Alternating Minimization for Convex Programming with Applications to Iteratively Reweighted Least Squares and Decomposition Schemes
+Amir  Beck;
+Abstract
+This paper is concerned with the alternating minimization (AM) method for solving convex minimization problems where the decision variables vector is split into two blocks. The objective function is a sum of a differentiable convex function and a separable (possibly) nonsmooth extended real-valued convex function, and consequently constraints can be incorporated. We analyze the convergence rate of the method  and establish a nonasymptotic sublinear rate of convergence where the multiplicative constant depends on the minimal block Lipschitz constant. We then analyze the iteratively reweighted least squares (IRLS) method for solving convex problems involving sums of norms. Based on the results derived for the AM method, we establish a nonasymptotic sublinear rate of convergence of the IRLS method. In addition, we show an asymptotic rate of convergence whose efficiency estimate does not depend on the data of the problem. Finally, we study the convergence properties of a decomposition-based approach designed to solve a composite convex model.
+Keywords
+alternating minimization, rate of convergence, convex optimization, iteratively reweighted least squares, 90C25, 65K05, 

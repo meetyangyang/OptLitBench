@@ -1,0 +1,6 @@
+An Infeasible Path-Following Method for Monotone Complementarity Problems
+Paul  Tseng;
+Abstract
+We propose an infeasible path-following method for solving the monotone complementarity problem. This method maintains positivity of the iterates and uses two Newton steps per iteration---one with a centering term for global convergence and one without the centering term for local superlinear convergence. We show that every cluster point of the iterates is a solution, and if the underlying function is affine or is sufficiently smooth and a uniform nondegenerate function on $\Re_{++}^n$, then the convergence is globally Q-linear. Moreover, if every solution is strongly nondegenerate, the method has local quadratic convergence. The iterates are guaranteed to be bounded when either a Slater-type feasible solution exists or when the underlying function is an R0-function.
+Keywords
+monotone complementarity problem, infeasible path-following method, global Q-linear convergence, local quadratic convergence, 49M45, 90C25, 90C33, 

@@ -1,0 +1,6 @@
+An iterative approach for cone complementarity problems for nonsmooth dynamics
+Mihai Anitescu;Alessandro Tasora;
+Abstract
+Aiming at a fast and robust simulation of large multibody systems with contacts and friction, this work presents a novel method for solving large cone complementarity problems by means of a fixed-point iteration. The method is an extension of the Gauss-Seidel and Gauss-Jacobi method with overrelaxation for symmetric convex linear complementarity problems. The method is proved to be convergent under fairly standard assumptions and is shown by our tests to scale well up to 500,000 contact points and more than two millions of unknowns.
+Keywords
+Iterative methods  Cone complementarity problems  LCP  Complementarity  Contacts  Multibody  

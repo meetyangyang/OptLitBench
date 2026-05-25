@@ -1,0 +1,4 @@
+Some New Tractable Classes of CSPs and Their Relations with Backtracking Algorithms
+Achref El Mouelhi;Philippe Jégou;Cyril Terrioux;Bruno Zanuttini;
+Abstract
+In this paper, we investigate the complexity of algorithms for solving CSPs which are classically implemented in real practical solvers, such as Forward Checking or Bactracking with Arc Consistency (RFL or MAC).. We introduce a new parameter for measuring their complexity and then we derive new complexity bounds. By relating the complexity of CSP algorithms to graph-theoretical parameters, our analysis allows us to define new tractable classes, which can be solved directly by the usual CSP algorithms in polynomial time, and without the need to recognize the classes in advance. So, our approach allows us to propose new tractable classes of CSPs that are naturally exploited by solvers, which indicates new ways to explain in some cases the practical efficiency of classical search algorithms.

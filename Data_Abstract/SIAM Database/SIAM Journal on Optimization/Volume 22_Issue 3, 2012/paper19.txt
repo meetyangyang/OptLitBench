@@ -1,0 +1,6 @@
+Two New Weak Constraint Qualifications and Applications
+Roberto  Andreani, Gabriel  Haeser, María Laura  Schuverdt, and Paulo J. S.  Silva;
+Abstract
+We present two new constraint qualifications (CQs) that are weaker than the recently introduced relaxed constant positive linear dependence (RCPLD) CQ. RCPLD is based on the assumption that many subsets of the gradients of the active constraints preserve positive linear dependence locally. A major open question was to identify the exact set of gradients whose properties had to be preserved locally and that would still work as a CQ. This is done in the first new CQ, which we call the constant rank of the subspace component (CRSC) CQ. This new CQ also preserves many of the good properties of RCPLD, such as local stability and the validity of an error bound. We also introduce an even weaker CQ, called the constant positive generator (CPG), which can replace RCPLD in the analysis of the global convergence of algorithms. We close this work by extending convergence results of algorithms belonging to all the main classes of nonlinear optimization methods: sequential quadratic programming, augmented Lagrangians, interior point algorithms, and inexact restoration.
+Keywords
+constraint qualifications, error bound, algorithmic convergence, 90C46, 90C30, 

@@ -1,0 +1,6 @@
+An iterative row-action method for interval convex programming
+Y. Censor;A. Lent;
+Abstract
+The iterative primal-dual method of Bregman for solving linearly constrained convex programming problems, which utilizes nonorthogonal projections onto hyperplanes, is represented in a compact form, and a complete proof of convergence is given for an almost cyclic control of the method. Based on this, a new algorithm for solving interval convex programming problems, i.e., problems of the form minf(x), subject to γ≤Ax≤δ, is proposed. For a certain family of functionsf(x), which includes the norm ∥x∥ and thex logx entropy function, convergence is proved. The present row-action method is particularly suitable for handling problems in which the matrixA is large (or huge) and sparse.
+Keywords
+Interval convex programming  entropy optimization  large and sparse matrices  nonorthogonal projections  image reconstruction from projections  

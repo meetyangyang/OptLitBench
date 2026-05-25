@@ -1,0 +1,6 @@
+Altitude and roll control of a hovering quad-rotor air vehicle using the multi-objective approximate optimization of proportional–integral–differential control
+Jaehyun Yoon;Jongsoo Lee;
+Abstract
+This study explores the optimal proportional–integral–differential (PID) gains of a hovering quad-copter to allow recovery from disturbed altitude and roll positions. Computational fluid dynamics was used to determine the rotor distance and the blade shape parameters for maximizing the hovering thrust. Using a six-degree-of-freedom quad-copter dynamics model, a control algorithm was then used to obtain PID gains. The PID control was approximated using back-propagation neural networks (BPNs). Position control of the quad-copter model was performed by determining the optimal PID gains required to minimize the control duration for altitude and roll. The non-dominated sorting genetic algorithm (NSGA-II) was used for multi-objective optimization and a BPN was used for meta-modelling the PID control. The PID gains generated from bi-objective optimal designs were compared with the initial design. The results confirmed that the recovery time from an unbalanced position was reduced and that the motion of the quad-copter was better stabilized.
+Keywords
+Quad-rotor air vehicle, altitude and roll control, back-propagation neural network, multi-objective genetic algorithm 

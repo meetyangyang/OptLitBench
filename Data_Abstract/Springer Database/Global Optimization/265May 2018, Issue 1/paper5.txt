@@ -1,0 +1,6 @@
+Performance of global random search algorithms for large dimensions
+Andrey Pepelyshev;Anatoly Zhigljavsky;Antanas Žilinskas;
+Abstract
+We investigate the rate of convergence of general global random search (GRS) algorithms. We show that if the dimension of the feasible domain is large then it is impossible to give any guarantee that the global minimizer is found by a general GRS algorithm with reasonable accuracy. We then study precision of statistical estimates of the global minimum in the case of large dimensions. We show that these estimates also suffer the curse of dimensionality. Finally, we demonstrate that the use of quasi-random points in place of the random ones does not give any visible advantage in large dimensions.
+Keywords
+Global optimization  Statistical models  Extreme value statistics  Random search  

@@ -1,0 +1,6 @@
+A Nonderivative Version of the Gradient Sampling Algorithm for Nonsmooth Nonconvex Optimization
+Krzysztof C.  Kiwiel;
+Abstract
+We give a nonderivative version of the gradient sampling algorithm of Burke, Lewis, and Overton for minimizing a locally Lipschitz function f on $\mathbb{R}^n$ that is continuously differentiable on an open dense subset. Instead of gradients of f, we use estimates of gradients of the Steklov averages of f (obtained by convolution with mollifiers) which require f-values only. We show that the nonderivative version retains the convergence properties of the gradient sampling algorithm. In particular, with probability 1, it either drives the f-values to $-\infty$ or each of its cluster points is Clarke stationary for f.
+Keywords
+generalized gradient, nonsmooth optimization, subgradient, averaged functions, gradient sampling, nonconvex, 65K10, 90C26, 

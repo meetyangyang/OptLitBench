@@ -1,0 +1,6 @@
+Optimization of autoregressive, exogenous inputs-based typhoon inundation forecasting models using a multi-objective genetic algorithm
+Huei-Tau Ouyang;
+Abstract
+Three types of model for forecasting inundation levels during typhoons were optimized: the linear autoregressive model with exogenous inputs (LARX), the nonlinear autoregressive model with exogenous inputs with wavelet function (NLARX-W) and the nonlinear autoregressive model with exogenous inputs with sigmoid function (NLARX-S). The forecast performance was evaluated by three indices: coefficient of efficiency, error in peak water level and relative time shift. Historical typhoon data were used to establish water-level forecasting models that satisfy all three objectives. A multi-objective genetic algorithm was employed to search for the Pareto-optimal model set that satisfies all three objectives and select the ideal models for the three indices. Findings showed that the optimized nonlinear models (NLARX-W and NLARX-S) outperformed the linear model (LARX). Among the nonlinear models, the optimized NLARX-W model achieved a more balanced performance on the three indices than the NLARX-S models and is recommended for inundation forecasting during typhoons.
+Keywords
+Inundation, typhoon, ARX, multi-objective genetic algorithm, Pareto-optimal set 

@@ -1,0 +1,6 @@
+A computational study of a gradient-based log-barrier algorithm for a class of large-scale SDPs
+Samuel Burer;Renato D.C. Monteiro;Yin Zhang;
+Abstract
+ The authors of this paper recently introduced a transformation [4] that converts a class of semidefinite programs (SDPs) into nonlinear optimization problems free of matrix-valued constraints and variables. This transformation enables the application of nonlinear optimization techniques to the solution of certain SDPs that are too large for conventional interior-point methods to handle efficiently. Based on the transformation, we proposed a globally convergent, first-order (i.e., gradient-based) log-barrier algorithm for solving a class of linear SDPs. In this paper, we discuss an efficient implementation of the proposed algorithm and report computational results on semidefinite relaxations of three types of combinatorial optimization problems. Our results demonstrate that the proposed algorithm is indeed capable of solving large-scale SDPs and is particularly effective for problems with a large number of constraints.
+Keywords
+Computational Result  Combinatorial Optimization  Optimization Technique  Nonlinear Optimization  Computational Study  

@@ -1,0 +1,4 @@
+Make Evolutionary Multiobjective Algorithms Scale Better with Advanced Data Structures: Van Emde Boas Tree for Non-dominated Sorting
+Maxim Buzdalov;
+Abstract
+We improve the worst-case time complexity of non-dominated sorting, an operation frequently used in evolutionary multiobjective algorithms, to \(O(n \cdot (\log n)^{k-2} \log \log n)\), where n is the number of solutions, k is the number of objectives, and the random-access memory computation model is assumed. This improvement was possible thanks to the van Emde Boas tree, an “advanced” data structure which stores a set of non-negative integers less than n and supports many queries in \(O(\log \log n)\). This is not only a theoretical improvement, as we also provide an efficient implementation of the van Emde Boas tree, which resulted in a competitive algorithm that scales better than other algorithms when n grows, at least for small numbers of objectives greater than two.

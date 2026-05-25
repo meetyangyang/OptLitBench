@@ -1,0 +1,6 @@
+Constraint decomposition algorithms in global optimization
+Reiner Horst;Nguyen van Thoai;
+Abstract
+Many global optimization problems can be formulated in the form min{c(x, y): x εX, y εY, (x, y) εZ, y εG} where X, Y are polytopes in ℝ p , ℝ n , respectively, Z is a closed convex set in ℝp+n, while G is the complement of an open convex set in ℝ n . The function c:ℝ p+n  → ℝ is assumed to be linear. Using the fact that the nonconvex constraints depend only upon they-variables, we modify and combine basic global optimization techniques such that some new decomposition methods result which involve global optimization procedures only in ℝ n . Computational experiments show that the resulting algorithms work well for problems with smalln.
+Keywords
+Global optimization  decomposition  canonical d.c. program  conical branch and bound algorithms  outer approximation  cutting plane algorithms  

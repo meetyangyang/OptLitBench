@@ -1,0 +1,6 @@
+Incremental projection approach of regularization for inverse problems
+Innocent Souopgui;Hans E. Ngodock;Arthur Vidard;François-Xavier Le Dimet;
+Abstract
+This paper presents an alternative approach to the regularized least squares solution of ill-posed inverse problems. Instead of solving a minimization problem with an objective function composed of a data term and a regularization term, the regularization information is used to define a projection onto a convex subspace of regularized candidate solutions. The objective function is modified to include the projection of each iterate in the place of the regularization. Numerical experiments based on the problem of motion estimation for geophysical fluid images, show the improvement of the proposed method compared with regularization methods. For the presented test case, the incremental projection method uses 7 times less computation time than the regularization method, to reach the same error target. Moreover, at convergence, the incremental projection is two order of magnitude more accurate than the regularization method.
+Keywords
+Regularization  Projection  Inverse problems  Motion estimation  49K40  49M05  68U10  

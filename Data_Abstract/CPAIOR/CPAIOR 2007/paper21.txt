@@ -1,0 +1,4 @@
+On Boolean Functions Encodable as a Single Linear Pseudo-Boolean Constraint
+Jan-Georg Smaus;
+Abstract
+A linear pseudo-Boolean constraint (LPB) is an expression of the form a 1·ℓ1 + ... + a  m ·ℓ m  ≥ d, where each ℓ i  is a literal (it assumes the value 1 or 0 depending on whether a propositional variable x  i  is true or false) and a 1,...,a  m ,d are natural numbers. An LPB is a generalisation of a propositional clause, on the other hand it is a restriction of integer linear programming. LPBs can be used to represent Boolean functions more compactly than the well-known conjunctive or disjunctive normal forms. In this paper, we address the question: how much more compactly? We compare the expressiveness of a single LPB to that of related formalisms, and give an algorithm for computing an LPB representation of a given formula if this is possible.

@@ -1,0 +1,4 @@
+New Filtering for the \(\mathit{cumulative}\) Constraint in the Context of Non-Overlapping Rectangles
+Nicolas Beldiceanu;Mats Carlsson;Emmanuel Poder;
+Abstract
+This paper describes new filtering methods for the \(\mathit{cumulative}\) constraint. The first method introduces bounds for the so called longest cumulative hole problem and shows how to use these bounds in the context of the non-overlapping constraint. The second method introduces balancing knapsack constraints which relate the total height of the tasks that end at a specific time-point with the total height of the tasks that start at the same time-point. Experiments on tight rectangle packing problems show that these methods drastically reduce both the time and the number of backtracks for finding all solutions as well as for finding the first solution. For example, we found without backtracking all solutions to 66 perfect square instances of order 23-25 and sizes ranging from 332 ×332 to 661 ×661.

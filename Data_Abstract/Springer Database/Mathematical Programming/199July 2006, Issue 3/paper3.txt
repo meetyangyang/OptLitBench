@@ -1,0 +1,6 @@
+An interior algorithm for nonlinear optimization that combines line search and trust region steps
+R.A. Waltz;J.L. Morales;J. Nocedal;D. Orban;
+Abstract
+An interior-point method for nonlinear programming is presented. It enjoys the flexibility of switching between a line search method that computes steps by factoring the primal-dual equations and a trust region method that uses a conjugate gradient iteration. Steps computed by direct factorization are always tried first, but if they are deemed ineffective, a trust region iteration that guarantees progress toward stationarity is invoked. To demonstrate its effectiveness, the algorithm is implemented in the Knitro [6,28] software package and is extensively tested on a wide selection of test problems.
+Keywords
+Test Problem  Search Method  Conjugate Gradient  Nonlinear Optimization  Region Iteration  

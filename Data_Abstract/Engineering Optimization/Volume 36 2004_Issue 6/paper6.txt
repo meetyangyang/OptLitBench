@@ -1,0 +1,6 @@
+Lagrangian relaxation method for price-based unit commitment problem
+ Takayuki   Shiina ; Isamu   Watanabe ;
+Abstract
+ The unit commitment problem consists of determining the schedules for power generating units and the generating level of each unit. The decisions concern which units to commit during each time period and at what level to generate power to meet the electricity demand. The problem is a typical scheduling problem in an electric power system. The electric power industry is undergoing restructuring and deregulation. This article developes a stochastic programming model which incorporates power trading. The uncertainty of electric power demand or electricity price are incorporated into the unit commitment problem. It is assumed that demand and price uncertainty can be represented by a scenario tree. A stochastic integer programming model is proposed in which the objective is to maximize expected profits. In this model, on/off decisions for each generator are made in the first stage. The approach to solving the problem is based on Lagrangian relaxation and dynamic programming. 
+Keywords
+Electric power, Unit commitment, Stochastic programming, Lagrangian relaxation 

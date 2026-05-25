@@ -1,0 +1,6 @@
+Wide interval for efficient self-scaling quasi-Newton algorithms
+ Mehiddin   Al-Baali ; Humaid   Khalfan ;
+Abstract
+ This article uses certain conditions for the global and superlinear convergence of the two-parameter self-scaling Broyden family of quasi-Newton algorithms for unconstrained optimization to derive a wide interval for self-scaling updates. Numerical testing shows that such algorithms not only accelerate the convergence of the (unscaled) methods from the so-called convex class, but also increase their chances of success. Self-scaling updates from the preconvex and postconvex classes are shown to be effective in practice, and new algorithms, which work well in practice with or without scaling, are also obtained from the new interval. Unlike the behavior of unscaled methods, numerical testing shows that varying the updating parameter in the proposed interval has little effect on the performance of the self-scaling algorithms. 
+Keywords
+Unconstrained optimization, Quasi-Newton methods, Broyden's family, Self-scaling, Global and superlinear convergence 

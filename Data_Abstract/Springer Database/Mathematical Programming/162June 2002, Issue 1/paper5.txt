@@ -1,0 +1,6 @@
+Primal and dual convergence of a proximal point exponential penalty method for linear programming
+F. Alvarez;R. Cominetti;
+Abstract
+We consider the diagonal inexact proximal point iteration \(\frac{u^k-u^{k-1}}{\lambda_k}\in-\partial_{\varepsilon_k} f( u^k,r_k) + \nu^k\) where f(x,r)=cTx+r∑exp[(A i x-b i )/r] is the exponential penalty approximation of the linear program min{cTx:Ax≤b}. We prove that under an appropriate choice of the sequences λ k , ε k  and with some control on the residual ν k , for every r k →0+ the sequence u k  converges towards an optimal point u∞ of the linear program. We also study the convergence of the associated dual sequence μ i  k =exp[(A i u k -b i )/r k ] towards a dual optimal solution.
+Keywords
+Key words: proximal point – exponential penalty – linear programming  Mathematics Subject Classification (2000): 90C25  

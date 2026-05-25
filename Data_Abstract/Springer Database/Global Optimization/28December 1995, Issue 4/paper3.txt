@@ -1,0 +1,6 @@
+Global optimization for the Biaffine Matrix Inequality problem
+Keat-Choon Goh;Michael G. Safonov;George P. Papavassilopoulos;
+Abstract
+It has recently been shown that an extremely wide array of robust controller design problems may be reduced to the problem of finding a feasible point under a Biaffine Matrix Inequality (BMI) constraint. The BMI feasibility problem is the bilinear version of the Linear (Affine) Matrix Inequality (LMI) feasibility problem, and may also be viewed as a bilinear extension to the Semidefinite Programming (SDP) problem. The BMI problem may be approached as a biconvex global optimization problem of minimizing the maximum eigenvalue of a biaffine combination of symmetric matrices. This paper presents a branch and bound global optimization algorithm for the BMI. A simple numerical example is included. The robust control problem, i.e., the synthesis of a controller for a dynamic physical system which guarantees stability and performance in the face of significant modelling error and worst-case disturbance inputs, is frequently encountered in a variety of complex engineering applications including the design of aircraft, satellites, chemical plants, and other precision positioning and tracking systems.
+Keywords
+Branch and bound  bilinear matrix inequalities  linear matrix inequalities  robust control  

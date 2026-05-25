@@ -1,0 +1,6 @@
+Optimal load sharing in soft real-time systems using likelihood ratios
+E. K. P. Chong;P. J. Ramadge;
+Abstract
+We consider a load-sharing problem for a multiprocessor system in which jobs have real-time constraints: if the waiting time of a job exceeds a given random amount (called the laxity of the job), then the job is considered lost. To minimize the steady-state probability of loss with respect to the load-sharing parameters, we propose to use the likelihood ratio derivative estimate approach, which has recently been studied for sensitivity analysis of stochastic systems. We formulate a recursive stochastic optimization algorithm using likelihood ratio estimates to solve the optimization problem and provide a proof for almost sure convergence of the algorithm. The algorithm can be used for on-line optimization of the real-time system and does not require a priori knowledge of the arrival rate of customers to the system or the service time and laxity distributions. To illustrate our results, we provide simulation examples.
+Keywords
+Load sharing  real-time systems  likelihood ratios  score function  stochastic approximation  

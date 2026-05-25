@@ -1,0 +1,6 @@
+Nonlinear semidefinite programming: sensitivity, convergence, and an application in passive reduced-order modeling
+Roland W. Freund;Florian Jarre;Christoph H. Vogelbusch;
+Abstract
+We consider the solution of nonlinear programs with nonlinear semidefiniteness constraints. The need for an efficient exploitation of the cone of positive semidefinite matrices makes the solution of such nonlinear semidefinite programs more complicated than the solution of standard nonlinear programs. This paper studies a sequential semidefinite programming (SSP) method, which is a generalization of the well-known sequential quadratic programming method for standard nonlinear programs. We present a sensitivity result for nonlinear semidefinite programs, and then based on this result, we give a self-contained proof of local quadratic convergence of the SSP method. We also describe a class of nonlinear semidefinite programs that arise in passive reduced-order modeling, and we report results of some numerical experiments with the SSP method applied to problems in that class.
+Keywords
+Nonlinear semidefinite programming  Sequential quadratic programming  Sensitivity  Reduced-order modeling  Positive realness  90C22  90C30  65K05  

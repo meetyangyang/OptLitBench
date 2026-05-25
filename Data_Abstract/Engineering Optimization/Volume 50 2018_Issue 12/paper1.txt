@@ -1,0 +1,6 @@
+Multi-objective feasibility enhanced particle swarm optimization
+Mehmet Sinan Hasanoglu;Melik Dolen;
+Abstract
+This article introduces a new method entitled multi-objective feasibility enhanced partical swarm optimization (MOFEPSO), to handle highly-constrained multi-objective optimization problems. MOFEPSO, which is based on the particle swarm optimization technique, employs repositories of non-dominated and feasible positions (or solutions) to guide feasible particle flight. Unlike its counterparts, MOFEPSO does not require any feasible solutions in the initialized swarm. Additionally, objective functions are not assessed for infeasible particles. Such particles can only fly along sensitive directions, and particles are not allowed to move to a position where any previously satisfied constraints become violated. These unique features help MOFEPSO gradually increase the overall feasibility of the swarm and to finally attain the optimal solution. In this study, multi-objective versions of a classical gear-train optimization problem are also described. For the given problems, the article comparatively evaluates the performance of MOFEPSO against several popular optimization algorithms found in the literature.
+Keywords
+Constraint handling, mechanical design, constrained problems, multi-objective optimization, particle swarm optimization 

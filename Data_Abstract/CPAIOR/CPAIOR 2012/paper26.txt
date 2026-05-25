@@ -1,0 +1,4 @@
+A Multilevel Algorithm for Large Unconstrained Binary Quadratic Optimization
+Yang Wang;Zhipeng Lü;Fred Glover;Jin-Kao Hao;
+Abstract
+The unconstrained binary quadratic programming (UBQP) problem is a general NP-hard problem with various applications. In this paper, we present a multilevel algorithm designed to approximate large UBQP instances. The proposed multilevel algorithm is composed of a backbone-based coarsening phase, an asymmetric uncoarsening phase and a memetic refinement phase, where the backbone-based procedure and the memetic refinement procedure make use of tabu search to obtain improved solutions. Evaluated on a set of 11 largest instances from the literature (with 5000 to 7000 variables), the proposed algorithm proves to be able to attain all the best known values with a computing effort less than any existing approach.

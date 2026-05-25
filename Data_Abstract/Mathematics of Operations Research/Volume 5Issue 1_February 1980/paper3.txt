@@ -1,0 +1,6 @@
+Probabilistic Analysis of the Planar k-Median Problem
+M. L. Fisher;D. S. Hochbaum;
+Abstract
+We consider a problem in which we are given n points distributed randomly in a planar region of area A. We are asked to select K of the points to serve as centers so as to minimise the sum over the n points of the distance between each point and its closest center. This paper shows that the optimal value of this problem grows as  almost everywhere.This result is used to study an aggregation heuristic that is a formalized version of aggregation methods frequently used for practical location problems. Given any prespecified ϵ > 0, the heuristic can be made to achieve ϵ-optimality almost everywhere. The running time is polynomial in n if K ≤ ln n and linear in n if K ≤ ln ln n. Since all previously proposed heuristics: require n2 time even if K = 1, the aggregation heuristic is dominant for problems with sufficiently small K.Although our main results are asymptotic for large n, the probability that they hold for finite n is known to exceed 1 − 2π−1/2(n − K)−2, which is nearly 1 even for moderate n − K.
+Keywords
+location planar k-median problem probabilistic analysis aggregation heuristic 

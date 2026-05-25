@@ -1,0 +1,6 @@
+A second-order pruning step for verified global optimization
+Marco Schnurr;
+Abstract
+We consider pruning steps used in a branch-and-bound algorithm for verified global optimization. A first-order pruning step was given by Ratz using automatic computation of a first-order slope tuple (Ratz, Automatic Slope Computation and its Application in Nonsmooth Global Optimization. Shaker Verlag, Aachen, 1998; J. Global Optim. 14: 365–393, 1999). In this paper, we introduce a second-order pruning step which is based on automatic computation of a second-order slope tuple. We add this second-order pruning step to the algorithm of Ratz. Furthermore, we compare the new algorithm with the algorithm of Ratz by considering some test problems for verified global optimization on a floating-point computer.
+Keywords
+Global optimization  Interval analysis  Pruning step  65G20  65K05  90C56  

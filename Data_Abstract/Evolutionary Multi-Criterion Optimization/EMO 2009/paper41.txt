@@ -1,0 +1,4 @@
+Multiobjective Distinct Candidates Optimization (MODCO): A Cluster-Forming Differential Evolution Algorithm
+Peter Dueholm Justesen;Rasmus K. Ursem;
+Abstract
+Traditionally, Multiobjective Evolutionary Algorithms (MOEAs) aim at approximating the entire true pareto-front of their input problems. However, the actual number of solutions with different trade-offs between objectives in a resulting pareto-front is often too large to be applicable in practice. The new field Multiobjective Distinct Candidates Optimization (MODCO) research is concerned with the optimization of a low and user-defined number of clearly distinct candidates. This dramatically decreases the amount of post-processing needed in the decision making process of which solution to actually implement, as described in our related technical repport “Multiobjective Distinct Candidates Optimization (MODCO): A new Branch of Multiobjective Optimization Research” [9].

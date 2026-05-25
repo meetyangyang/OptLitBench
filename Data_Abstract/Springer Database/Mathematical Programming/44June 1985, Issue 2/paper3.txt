@@ -1,0 +1,6 @@
+CONOPT: A GRG code for large sparse dynamic nonlinear optimization problems
+Arne Drud;
+Abstract
+The paper presents CONOPT, an optimization system for static and dynamic large-scale nonlinearly constrained optimization problems. The system is based on the GRG algorithm. All computations involving the Jacobian of the constraints use sparse-matrix algorithms from linear programming, modified to deal with the nonlinearity and to take maximum advantage of the periodic structure in dynamic models. The paper presents the main features of the system, espcially the inversion routines and their data structures, the dynamic setting of tolerances in Newton’s algorithm, and the user features in the overal packaging. The difficulties with implementing a practical GRG algorithm are described in detail. Computational experience with some medium to large models is presented, idicating the viability of CONOPT for certain real-life problems, particularly those involving almost as many constraints as variables.
+Keywords
+Large-scale Systems  Dynamic Models  Optimization  Nonlinear Programming  Generalized Reduced Gradient  Nonlinear Constraints  Sparse Matrix Techniques  Dynamic Tolerances  

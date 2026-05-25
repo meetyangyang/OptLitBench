@@ -1,0 +1,6 @@
+Expressing Complementarity Problems in an Algebraic Modeling Language and Communicating Them to Solvers
+Michael C.  Ferris, Robert  Fourer, and David M.  Gay;
+Abstract
+Diverse problems in optimization, engineering, and economics have natural formulations in terms of complementarity conditions, which state (in their simplest form) that either a certain nonnegative variable must be zero or a corresponding inequality must hold with equality, or both. A variety of algorithms has been devised for solving problems expressed in terms of complementarity conditions. It is thus attractive to consider extending algebraic modeling languages, which are widely used for sending ordinary equations and inequality constraints to solvers, so that they can express complementarity problems directly. We describe an extension to the AMPL modeling language that can express the most common complementarity conditions in a concise and flexible way, through the introduction of a single new "complements" operator. We present details of an efficient implementation that incorporates an augmented presolve phase to simplify complementarity problems, and that converts complementarity conditions to a canonical form convenient for solvers.
+Keywords
+complementarity, algebraic modeling languages, optimization, 49J40, 65K10, 90C33, 

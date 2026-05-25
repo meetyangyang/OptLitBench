@@ -1,0 +1,6 @@
+Fast Global Optimization on the Torus, the Sphere, and the Rotation Group
+Manuel  Gräf and Ralf  Hielscher;
+Abstract
+Detecting all local extrema or the global extremum of a polynomial on the torus, the sphere, or the rotation group is a tough yet often requested numerical problem. We present a heuristic approach that applies common descent methods like nonlinear conjugated gradients or Newtons methods simultaneously to a large number of starting points. The cornerstone of our approach is FFT-like algorithms, i.e., algorithms that scale almost linearly with respect to the sum of the dimension of the polynomial space and the number of evaluation points. These FFT-like algorithms allow us to compute one step of a descent method simultaneously for all starting points at almost the same cost as for one single starting point. The effectiveness of the proposed algorithms is demonstrated in various applications. In particular, we apply it to the Radon transform of a spherical function which allows us to detect lines in spherical patterns.
+Keywords
+global optimization on manifolds, iterative methods, harmonic analysis, fast Fourier methods, Kikuchy pattern, crystallographic texture analysis, 65T40, 65K10, 53B21, 49M15, 33C55, 

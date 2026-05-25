@@ -1,0 +1,6 @@
+Computational Methods for Solving Nonconvex Block-Separable Constrained Quadratic Problems
+Shimrit  Shtern and Aharon  Ben-Tal;
+Abstract
+Nonconvex quadratically constrained quadratic programs (QCQPs) with block-separable convex constraints are generally NP-hard. These kinds of problems appear in many applications such as estimation and control, complex unimodular programming, and MAX-CUT type problems. Semidefinite relaxation is the best known upper bound approximation for  QCQP with block-separable constraints. We suggest the block optimal descent (BOD) algorithm to obtain a lower approximation. We show that this algorithm utilizes block hidden convexity to apply block alternating minimization and has a sublinear rate of convergence. An improved approximation is obtained by using a novel approach, Lagrange guided descent (LGD), which finds a “good” initial point based on the semidefinite programming (SDP) relaxation solution. A quantitative study shows the LGD has superior performance over BOD.
+Keywords
+quadratic programming, nonconvex optimization, semidefinite programming, approximation methods and heuristics, 90C20, 90C26, 90C22, 90C59, 

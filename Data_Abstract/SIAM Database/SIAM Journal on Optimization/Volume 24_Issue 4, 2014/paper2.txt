@@ -1,0 +1,6 @@
+A Generalized Proximal Point Algorithm and Its Convergence Rate
+Etienne  Corman and Xiaoming  Yuan;
+Abstract
+We propose a generalized proximal point algorithm (PPA) in the generic setting of finding a root of a maximal monotone operator. In addition to the classical PPA, a number of benchmark operator splitting methods in the PDE and optimization literatures can be retrieved by this generalized PPA scheme. We establish the convergence rate of this generalized PPA scheme under different conditions, including estimating its worst-case convergence rate measured by the iteration complexity under mild assumptions and deriving its linear convergence rate under certain stronger conditions. Throughout our discussion, we pay particular attention to the special case where the operator is the sum of two maximal monotone operators and specify our theoretical results in the generic setting to this special case. Our result turns out to be a general and unified study on the convergence rate of a number of existing methods and subsumes some existing results in the literature.
+Keywords
+convex optimization, proximal point algorithm, operator splitting methods, convergence rate, 90C25, 90C30, 94A08, 

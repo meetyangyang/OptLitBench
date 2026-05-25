@@ -1,0 +1,6 @@
+Entropic Approximation for Mathematical Programs with Robust Equilibrium Constraints
+Yongchao  Liu and Huifu  Xu;
+Abstract
+In this paper, we consider a class of mathematical programs with robust equilibrium constraints represented by a system of semi-infinite complementarity constraints (SICC). We propose a numerical scheme for tackling SICC. Specifically, by relaxing the complementarity constraints and then randomizing the index set of SICC, we employ the well-known entropic risk measure to approximate the semi-infinite constraints with a finite number of stochastic inequality constraints. Under some moderate conditions, we quantify the approximation in terms of the feasible set and the optimal value. The approximation scheme is then applied to a class of two stage stochastic mathematical programs with complementarity constraints in combination with the polynomial decision rules. Finally, we extend the discussion to a mathematical program with distributionally robust equilibrium constraints, which is essentially a one stage stochastic program with semi-infinite stochastic constraints indexed by some probability measures from an ambiguity set defined through the KL-divergence.
+Keywords
+entropic risk measure, robust equilibrium constraints, polynomial decision rule, stability analysis, KL-divergence, 90C15, 90C30, 90C33, 

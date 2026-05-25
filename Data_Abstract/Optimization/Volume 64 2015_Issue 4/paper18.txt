@@ -1,0 +1,6 @@
+A BFGS trust-region method with a new nonmonotone technique for nonlinear equations
+Hua Wang;Chao Gu;Dingguo Pu;
+Abstract
+In this paper, we consider a trust-region method for solving nonlinear equations which employs a new nonmonotone technique. A strong nonmonotone strategy and a weaker nonmonotone strategy can be obtained by choosing the parameter adaptively. Thus, the disadvantages of the traditional nonmonotone strategy can be avoided. It does not need to compute the Jacobian matrix at every iteration, so that the workload and time are decreased. Theoretical analysis indicates that the new algorithm preserves the global convergence under classical assumptions. Moreover, superlinear and quadratic convergence are established under suitable conditions. Numerical experiments show the efficiency and effectiveness of the proposed method for solving nonlinear equations.
+Keywords
+trust region method, BFGS update, nonmonotone technique, global convergence, nonlinear equationsAMS Subject Classifications: 90C30, 65K10 

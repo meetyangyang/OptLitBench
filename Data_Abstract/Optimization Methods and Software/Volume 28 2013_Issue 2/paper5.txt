@@ -1,0 +1,6 @@
+Solving the canonical dual of box- and integer-constrained nonconvex quadratic programs via a deterministic direct search algorithm
+ David   Yang   Gao ; Layne   T.   Watson ; David   R.   Easterling ; William   I.   Thacker ; Stephen   C.   Billups ;
+Abstract
+ This paper presents a massively parallel global deterministic direct search method (VTDIRECT) for solving nonconvex quadratic minimization problems with either box or±1 integer constraints. Using the canonical dual transformation, these well-known NP-hard problems can be reformulated as perfect dual stationary problems (with zero duality gap). Under certain conditions, these dual problems are equivalent to smooth concave maximization over a convex feasible space. Based on a perturbation method proposed by Gao, the integer programming problem is shown to be equivalent to a continuous unconstrained Lipschitzian global optimization problem. The parallel algorithm VTDIRECT is then applied to solve these dual problems to obtain global minimizers. Parallel performance results for several nonconvex quadratic integer programming problems are reported. 
+Keywords
+canonical duality theory, algorithm VTDIRECT, global optimization, integer programming 

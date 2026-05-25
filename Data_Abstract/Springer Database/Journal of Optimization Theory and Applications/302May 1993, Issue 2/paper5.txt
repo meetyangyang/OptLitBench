@@ -1,0 +1,6 @@
+Primal-dual interior point approach for computingl1-solutions andl∞-solutions of overdetermined linear systems
+Y. Zhang;
+Abstract
+This paper concerns solving an overdetermined linear systemA T x=b in the leastl1-norm orl∞-norm sense, whereA∈ℝm×n,m<n. We show that the primal-dual interior point approach for linear programming can be applied, in an effective manner, to linear programming versions of thel1 andl∞-problems. The resulting algorithms are simple to implement and can attain quadratic or superlinear convergence rate. At each iteration, the algorithms must solve a linear system with anm×m positive-definite coefficient matrix of the formADA T , whereD is a positive diagonal matrix. The preliminary numerical results indicate that the proposed algorithms offer considerable promise.
+Keywords
+Overdetermined linear system  l1-solution  l∞-solution  primal-dual interior point method  quadratic convergence  superlinear convergence  

@@ -1,0 +1,6 @@
+SISP: Simplified interface for stochastic programming
+ Christian   Condevaux-Lanloy ; Emmanuel   Fragnière ; Alan   King> ;
+Abstract
+ The aim of this article is to propose a general approach to link a stochastic programming enabler to a mathematical programming modeling language. Modelers often choose to formulate their problems in well-tested, general purpose modeling languages such as GAMS and AMPL, but these modeling languages do not currently implement a natural syntax for stochastic programming. Specialized stochastic programming tools are available to efficiently generate and solve large-scale stochastic programs, but they lack many of the convenient features of the modeling languages. The lack of a well developed link between these tools and modeling languages prevents many modelers from accessing a powerful and convenient technique to take into account uncertainties. As an attempt to fill this gap, we will present SISP (Simplified Interface for Stochastic Programming), an interface between Algebraic Modeling Languages and specialized Stochastic Programming solvers, also known as SP solvers. 
+Keywords
+Algebraic Modeling Languages, Stochastic Programming, Structure Exploiting Solvers 

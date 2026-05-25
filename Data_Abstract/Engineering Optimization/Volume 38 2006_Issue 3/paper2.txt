@@ -1,0 +1,6 @@
+Optimal cost design of water distribution networks using harmony search
+ Zong   Woo   Geem ;
+Abstract
+ This study presents a cost minimization model for the design of water distribution networks. The model uses a recently developed harmony search optimization algorithm while satisfying all the design constraints. The harmony search algorithm mimics a jazz improvisation process in order to find better design solutions, in this case pipe diameters in a water distribution network. The model also interfaces with a popular hydraulic simulator, EPANET, to check the hydraulic constraints. If the design solution vector violates the hydraulic constraints, the amount of violation is considered in the cost function as a penalty. The model was applied to five water distribution networks, and obtained designs that were either the same or cost 0.28–10.26% less than those of competitive meta-heuristic algorithms, such as the genetic algorithm, simulated annealing and tabu search under similar or less favorable conditions. The results show that the harmony search-based model is suitable for water network design. 
+Keywords
+Water distribution network, Harmony search, Meta-heuristic algorithm 

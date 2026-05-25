@@ -1,0 +1,6 @@
+A set partitioning approach to the multiple depot vehicle scheduling problem
+   L.   Bianco ;   A.   Mingozzi ;   S.   Ricciardelli ;
+Abstract
+ We address the problem of scheduling a fleet of vehicles, stationed in different depots, in such a way to perform a set of time-tabled trips and to minimize a given objective function. We consider the consti that requires each vehicle to return to the starting depot. This problem, known as Multiple Depot V& Scheduling (MD-VSP), is NP-hard. In this paper we formulate the MD-VSP as a Set Partitioning Prot with side constraints (SP). We describe a procedure that, without using the SP matrix, computes a lower bound to the MD-VSP by finding a heuristic solution to the dual of the continuous relaxation of SP. dual solution obtained is used to reduce the number of variables in the SP in such a way that the resu SP problem can be solved by usual branch and bound techniques. The computational results show effectiveness of the proposed method. 
+Keywords
+Set Partitioning, Vehicle Scheduling, Combinatorial Optimization 

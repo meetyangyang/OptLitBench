@@ -1,0 +1,6 @@
+A multistart iterated local search for the multitrip cumulative capacitated vehicle routing problem
+Juan Carlos Rivera;H. Murat Afsar;Christian Prins;
+Abstract
+The multitrip cumulative capacitated vehicle routing problem (mt-CCVRP) is a non-trivial extension of the classical CVRP: the goal is to minimize the sum of arrival times at demand nodes and each vehicle may perform several trips. Applications of this NP-hard problem can be found in disaster logistics and maintenance operations. Contrary to the CVRP, the cost of a solution varies if a trip is reversed or if its rank in a multitrip is changed. Moreover, evaluating local search moves in constant time is not obvious. This article presents a mixed integer linear program (MILP), a dominance rule, and a hybrid metaheuristic: a multi-start iterated local search (MS-ILS) calling a variable neighborhood descent with \(O(1)\) move evaluations. On three sets of instances, MS-ILS obtains good solutions, not only on the mt-CCVRP, but also on the cumulative CVRP where it competes with four existing algorithms. Moreover, the metaheuristic retrieves the optimal solutions of the MILP, which can be computed for small instances using a commercial solver.
+Keywords
+Multitrip cumulative capacitated vehicle routing problem    Disaster logistics  Iterated local search  Variable neighborhood descent  

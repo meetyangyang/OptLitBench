@@ -1,0 +1,6 @@
+State-Constrained Stochastic Optimal Control Problems via Reachability Approach
+Olivier  Bokanowski, Athena  Picarelli, and Hasnaa  Zidani;
+Abstract
+This paper deals with a class of stochastic optimal control problems (SOCPs) in the presence of state constraints. It is well known that for such problems the value function is, in general, discontinuous, and its characterization by a Hamilton--Jacobi equation requires additional assumptions involving an interplay between the boundary of the set of constraints and the dynamics of the controlled system. Here, we give a characterization of the epigraph of the value function without assuming the usual controllability assumptions. To this end, the SOCP is first translated into a state-constrained stochastic target problem. Then a level-set approach is used to describe the backward reachable sets of the new target problem. It turns out that these backward reachable sets describe the value function. The main advantage of our approach is that it allows us to easily handle the state constraints by an exact penalization. However, the target problem involves a new state variable and a new control variable that is unbounded.
+Keywords
+Hamilton--Jacobi equations, state constraints, stochastic optimal control, viscosity notion, stochastic target problems, 49L20, 49L25, 93E20, 35K55, 

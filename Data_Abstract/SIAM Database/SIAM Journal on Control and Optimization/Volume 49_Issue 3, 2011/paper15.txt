@@ -1,0 +1,6 @@
+Controller Design for a Class of Uncertain Systems with Guaranteed Performance
+Jianming  Lian and Stanislaw H.  .Zak;
+Abstract
+The tracking control problem for a class of multi-input multi-output nonlinear systems with unknown system dynamics and disturbances is considered. An approximation-free output feedback controller based on feedback linearization is proposed. It incorporates a high-gain observer to simultaneously estimate the state tracking error and the system uncertainty. The state tracking error of the closed-loop system is guaranteed to be semiglobally uniformly ultimately bounded with respect to a closed ball of radius controlled by the design parameters. The key feature of the proposed tracking control strategy is the simple controller architecture without any components to approximate unknown system dynamics. The robustness of the proposed controller in the presence of measurement noise is also analyzed and illustrated with simulations.
+Keywords
+multi-input multi-output uncertain system, output feedback control, high-gain observer, semiglobally uniformly ultimately bounded, 34H05, 34D40, 93C10, 93C15, 93C35, 93D05, 93D15, 

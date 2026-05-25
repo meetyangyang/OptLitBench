@@ -1,0 +1,6 @@
+Offshore wind farm electrical cable layout optimization
+A.C. Pillai;J. Chick;L. Johanning;M. Khorasanchi;V. de Laleu;
+Abstract
+This article explores an automated approach for the efficient placement of substations and the design of an inter-array electrical collection network for an offshore wind farm through the minimization of the cost. To accomplish this, the problem is represented as a number of sub-problems that are solved in series using a combination of heuristic algorithms. The overall problem is first solved by clustering the turbines to generate valid substation positions. From this, a navigational mesh pathfinding algorithm based on Delaunay triangulation is applied to identify valid cable paths, which are then used in a mixed-integer linear programming problem to solve for a constrained capacitated minimum spanning tree considering all realistic constraints. The final tree that is produced represents the solution to the inter-array cable problem. This method is applied to a planned wind farm to illustrate the suitability of the approach and the resulting layout that is generated.
+Keywords
+offshore wind farm layout optimization, inter-array cabling, clustering, pathfinding, capacitated minimum spanning tree 

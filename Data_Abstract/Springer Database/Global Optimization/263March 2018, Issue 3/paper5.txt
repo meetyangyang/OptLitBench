@@ -1,0 +1,6 @@
+A trajectory-based method for mixed integer nonlinear programming problems
+Terry-Leigh  Oliphant;M. Montaz Ali;
+Abstract
+A local trajectory-based method for solving mixed integer nonlinear programming problems is proposed. The method is based on the trajectory-based method for continuous optimization problems. The method has three phases, each of which performs continuous minimizations via the solution of systems of differential equations. A number of novel contributions, such as an adaptive step size strategy for numerical integration and a strategy for updating the penalty parameter, are introduced. We have shown that the optimal value obtained by the proposed method is at least as good as the minimizer predicted by a recent definition of a mixed integer local minimizer. Computational results are presented, showing the effectiveness of the method.
+Keywords
+Trajectory-based method  Mixed integer nonlinear programming  System of ordinary differential equations  Neighborhood  Local minimizer  Subproblem  Pattern search  

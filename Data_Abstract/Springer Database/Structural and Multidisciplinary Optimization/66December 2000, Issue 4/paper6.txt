@@ -1,0 +1,6 @@
+Determining the real lay-up of a laminate corresponding to optimal lamination parameters by genetic search
+M. Autio;
+Abstract
+A genetic algorithm search (GA) is employed for tailoring the thermomechanical properties of a laminated plate. Maximization of the strain energy, minimization of certain displacements and maximization of the first buckling factor due to given boundary temperatures and maximization of the lowest natural frequency of a graphite-epoxy plate with respect to the lay-up of the laminate are considered. Instead of computing these values during the GA iteration, lamination parameters giving the optima referred to above are employed in genetic searches. The fitness (objective) function consists of differences between target lamination parameters and lamination parameters of the current design, and thus no time-consuming global solution is needed. Two ways of coding the layers are applied: either orientations and relative thicknesses are coded separately, or commercial uni/multiaxial plies are coded.
+Keywords
+Key words: composites, orthotropic materials, laminated structures, layered laminates, lamination parameters, optimization, tailoring, genetic algorithms, evolutionary optimization, thermomechanical properties  

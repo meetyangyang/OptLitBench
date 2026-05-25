@@ -1,0 +1,6 @@
+Convergence Properties of the Regularized Newton Method for the Unconstrained Nonconvex Optimization
+Kenji Ueda;Nobuo Yamashita;
+Abstract
+The regularized Newton method (RNM) is one of the efficient solution methods for the unconstrained convex optimization. It is well-known that the RNM has good convergence properties as compared to the steepest descent method and the pure Newton’s method. For example, Li, Fukushima, Qi and Yamashita showed that the RNM has a quadratic rate of convergence under the local error bound condition. Recently, Polyak showed that the global complexity bound of the RNM, which is the first iteration k such that ‖∇ f(x  k )‖≤ε, is O(ε −4), where f is the objective function and ε is a given positive constant. In this paper, we consider a RNM extended to the unconstrained “nonconvex” optimization. We show that the extended RNM (E-RNM) has the following properties. (a) The E-RNM has a global convergence property under appropriate conditions. (b) The global complexity bound of the E-RNM is O(ε −2) if ∇ 2 f is Lipschitz continuous on a certain compact set. (c) The E-RNM has a superlinear rate of convergence under the local error bound condition.
+Keywords
+Regularized Newton methods  Global convergence  Global complexity bound  Local error bound  Superlinear convergence  

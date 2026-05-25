@@ -1,0 +1,6 @@
+Uniform Boundedness of a Preconditioned Normal Matrix Used in Interior-Point Methods
+Renato D. C.  Monteiro, Jerome W.  O'Neal, and Takashi  Tsuchiya;
+Abstract
+Solving systems of linear equations with "normal" matrices of the form AD2AT  is a key ingredient in the computation of search directions for interior-point algorithms. In this article, we establish that a well-known basis preconditioner for such systems of linear equations produces scaled matrices with uniformly bounded condition numbers as D varies over the set of all positive diagonal matrices. In particular, we show that when A is the node--arc incidence matrix of a connected directed graph with one of its rows deleted, then the condition number of the corresponding preconditioned normal matrix is bounded above by m(n - m + 1), where m and n are the number of nodes and arcs of the network.
+Keywords
+linear programming, interior-point methods, polynomial bound, network flow problems, condition number, preconditioning, iterative methods for linear equations, normal matrix, 65F35, 90C05, 90C35, 90C51, 

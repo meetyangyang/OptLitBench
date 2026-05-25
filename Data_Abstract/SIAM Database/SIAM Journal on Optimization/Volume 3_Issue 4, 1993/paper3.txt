@@ -1,0 +1,6 @@
+Higher-Order Predictor-Corrector Interior Point Methods with Application to Quadratic Objectives
+Tamra J.  Carpenter, Irvin J.  Lusting, John M.  Mulvey, and David F.  Shanno;
+Abstract
+In this paper, the authors explore the full utility of Mehrotra’s predictor-corrector method in the context of linear and convex quadratic programs. They describe a procedure for doing multiple corrections at each iteration and implement it within the framework of OB1. Computational results are provided for the multiple correcting procedure using several strategies for determining the number of corrections in a given iteration. The results indicate that iteration counts can be significantly reduced by allowing higher-order corrections but at the the cost of extra work per iteration. The procedure is shown to be a level-m composite Newton interior point method, where m is the number of corrections performed in an iteration.
+Keywords
+interior point methods, linear programming, quadratic programming, higher-order methods, predictor-corrector method, composite Newton method, 90C05, 90C20, 

@@ -1,0 +1,6 @@
+Global Linear and Quadratic One-step Smoothing Newton Method for P0-LCP
+Liping Zhang;Xiangsun Zhang;
+Abstract
+We propose a new smoothing Newton method for solving the P0-matrix linear complementarity problem (P0-LCP) based on CHKS smoothing function. Our algorithm solves only one linear system of equations and performs only one line search per iteration. It is shown to converge to a P0-LCP solution globally linearly and locally quadratically without the strict complementarity assumption at the solution. To the best of author's knowledge, this is the first one-step smoothing Newton method to possess both global linear and local quadratic convergence. Preliminary numerical results indicate that the proposed algorithm is promising.
+Keywords
+P0-matrix linear complementarity problem  smoothing Newton method  global linear convergence  quadratic convergence  

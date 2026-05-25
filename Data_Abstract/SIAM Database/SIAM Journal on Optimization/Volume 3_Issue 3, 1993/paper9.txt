@@ -1,0 +1,6 @@
+Numerical Experience with Limited-Memory Quasi-Newton and Truncated Newton Methods
+X.  Zou, I. M.  Navon, M.  Berger, K. H.  Phua, T.  Schlick, and F. X.  Le Dimet;
+Abstract
+Computational experience with several limited-memory quasi-Newton and truncated Newton methods for unconstrained nonlinear optimization is described. Comparative tests were conducted on a well-known test library [J. J. Moré, B. S. Gaxbow, and K. E. Hillstrom, ACM Trans. Math. Software, 7 (1981), pp. 17–41], on several synthetic problems allowing control of the clustering of eigenvalues in the Hessian spectrum, and on some large-scale problems in oceanography and meteorology. The results indicate that among the tested limited-memory quasi-Newton methods, the L-BFGS method [D. C. Liu and J. Nocedal, Math. Programming, 45 (1989), pp. 503–528] has the best overall performance for the problems examined. The numerical performance of two truncated Newton methods, differing in the inner-loop solution for the search vector, is competitive with that of L-BFGS.
+Keywords
+limited-memory quasi-Newton methods, truncated Newton methods, synthetic cluster functions, large-scale unconstrained minimization, 90C30, 93C20, 93C75, 65K10, 76C20, 

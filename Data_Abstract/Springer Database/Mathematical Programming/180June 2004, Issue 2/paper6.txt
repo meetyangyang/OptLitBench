@@ -1,0 +1,6 @@
+An improved algorithm for selecting p items with uncertain returns according to the minmax-regret criterion
+Eduardo Conde;
+Abstract
+We consider the problem of selecting a subset of p investments of maximum total return out of a set of n available investments with uncertain returns, where uncertainty is represented by interval estimates for the returns, and the minmax regret objective is used. We develop an algorithm that solves this problem in O(min{p,n−p}n) time. This improves the previously known complexity O(min{p,n−p}2 n).
+Keywords
+polynomial algorithm  complexity  robust optimization  knapsack problem  

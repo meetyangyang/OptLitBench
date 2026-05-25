@@ -1,0 +1,6 @@
+Solving Posynomial Geometric Programming Problems via Generalized Linear Programming
+Jayant Rajgopal;Dennis L. Bricker;
+Abstract
+This paper revisits an efficient procedure for solving posynomial geometric programming (GP) problems, which was initially developed by Avriel et al. The procedure, which used the concept of condensation, was embedded within an algorithm for the more general (signomial) GP problem. It is shown here that a computationally equivalent dual-based algorithm may be independently derived based on some more recent work where the GP primal-dual pair was reformulated as a set of inexact linear programs. The constraint structure of the reformulation provides insight into why the algorithm is successful in avoiding all of the computational problems traditionally associated with dual-based algorithms. Test results indicate that the algorithm can be used to successfully solve large-scale geometric programming problems on a desktop computer.
+Keywords
+geometric programming  column generation  linearization  nonlinear optimization  computational algorithm  

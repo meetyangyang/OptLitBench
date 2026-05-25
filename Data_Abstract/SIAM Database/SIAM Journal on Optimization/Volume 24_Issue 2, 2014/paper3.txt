@@ -1,0 +1,6 @@
+A First-Order Smoothing Technique for a Class of Large-Scale Linear Programs
+Jieqiu  Chen and Samuel  Burer;
+Abstract
+We study a class of linear programming (LP) problems motivated by large-scale machine learning applications. After reformulating the LP as a convex nonsmooth problem, we apply Nesterov's primal-dual excessive-gap technique. The iteration complexity of the excessive-gap technique depends on a parameter $\theta$ that arises because we must bound the primal feasible set, which is originally unbounded. We also dynamically update $\theta$ to speed up the convergence. The application of our algorithm to two machine learning problems demonstrates several advantages of the excessive-gap technique over existing methods.
+Keywords
+excessive-gap technique, large-scale linear programming, nonsmooth optimization, machine learning, 65K05, 65K10, 

@@ -1,0 +1,6 @@
+A Primal-Dual Algorithm for Submodular Flows
+William H. Cunningham;András Frank;
+Abstract
+Previously the only polynomial-time solution algorithm to solve the optimal submodular flow problem introduced by Edmonds and Giles was based on the ellipsoid method. Here, modulo an efficient oracle for minimizing certain submodular functions, a polynomial time procedure is presented which uses only combinatorial steps (like building auxiliary digraphs, finding augmenting paths). The minimizing oracle is currently available only via the ellipsoid method, in general; however in important special cases, such as network flows, matroid intersections, orientations, and directed cut coverings, the necessary oracle can be provided combinatorially.
+Keywords
+submodular flows directed graphs oracle methods ellipsoid method 

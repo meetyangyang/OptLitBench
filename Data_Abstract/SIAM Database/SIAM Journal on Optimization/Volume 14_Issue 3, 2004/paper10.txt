@@ -1,0 +1,6 @@
+A Squared Smoothing Newton Method for Nonsmooth Matrix Equations and Its Applications in Semidefinite Optimization Problems
+Jie  Sun, Defeng  Sun, and Liqun  Qi;
+Abstract
+We study a smoothing Newton method for solving a nonsmooth matrix equation that includes semidefinite programming and the semidefinite complementarity problem as special cases. This method, if specialized for solving semidefinite programs, needs to solve only one linear system per iteration and achieves quadratic convergence under strict complementarity and nondegeneracy. We also establish quadratic convergence of this method applied to the semidefinite complementarity problem under the assumption that the Jacobian of the problem is positive definite on the affine hull of the critical cone at the solution. These results are based on the strong semismoothness and complete characterization of the B-subdifferential of a corresponding squared smoothing matrix function, which are of general theoretical interest.
+Keywords
+matrix equations, Newton's method, nonsmooth optimization, semidefinite complementarity problem, semidefinite programming, 65K05, 90C25, 90C33, 

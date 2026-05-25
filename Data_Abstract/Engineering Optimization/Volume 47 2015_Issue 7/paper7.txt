@@ -1,0 +1,6 @@
+Optimal allocation of testing resources for statistical simulations
+Carolina Quintana;Harry R. Millwater;Gulshan Singh;Patrick Golden;
+Abstract
+Statistical estimates from simulation involve uncertainty caused by the variability in the input random variables due to limited data. Allocating resources to obtain more experimental data of the input variables to better characterize their probability distributions can reduce the variance of statistical estimates. The methodology proposed determines the optimal number of additional experiments required to minimize the variance of the output moments given single or multiple constraints. The method uses multivariate t-distribution and Wishart distribution to generate realizations of the population mean and covariance of the input variables, respectively, given an amount of available data. This method handles independent and correlated random variables. A particle swarm method is used for the optimization. The optimal number of additional experiments per variable depends on the number and variance of the initial data, the influence of the variable in the output function and the cost of each additional experiment. The methodology is demonstrated using a fretting fatigue example.
+Keywords
+variance reduction, optimal experiments, particle swarm optimization, multivariate t-distribution, Wishart distribution 

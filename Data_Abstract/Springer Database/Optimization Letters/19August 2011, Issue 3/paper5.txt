@@ -1,0 +1,6 @@
+Experiments with LAGRASP heuristic for set k-covering
+Luciana S. Pessoa;Mauricio G. C. Resende;Celso C. Ribeiro;
+Abstract
+The set k-covering problem (SC k P) is a variant of the classical set covering problem, in which each object is required to be covered at least k times. We describe a hybrid Lagrangean heuristic, named LAGRASP, which combines subgradient optimization and GRASP with path-relinking to solve the SC k P. Computational experiments carried out on 135 test instances show experimentally that by properly tuning the parameters of LAGRASP, it is possible to obtain a good trade-off between solution quality and running times. Furthermore, LAGRASP makes better use of the dual information provided by subgradient optimization and is able to discover better solutions and to escape from locally optimal solutions even after the stabilization of the lower bounds, whereas other strategies fail to find new improving solutions.
+Keywords
+GRASP  Hybrid heuristics  Metaheuristics  Path-relinking  Lagrangean relaxation  Lagrangean heuristics  Local search  Set covering  Set multicovering  Set k-covering  

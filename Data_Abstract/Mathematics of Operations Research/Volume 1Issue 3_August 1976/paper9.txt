@@ -1,0 +1,6 @@
+Computational Efficiency of Approximate Branch-and-Bound Algorithms
+Toshihide Ibaraki;
+Abstract
+To improve the computational efficiency of a branch-and-bound algorithm at the sacrifice of obtaining an optimal solution, the lower bound test is sometimes strengthened beyond its limit, i.e., a partial problem Pi is terminated if g(Pi) ≥ z − ϵ(z) (instead of g(Pi) ≥ z), where g(Pi) is a lower bound of Pi, z is the current incumbent value and ϵ(z) (≥0) specifies the allowance within which the value of an obtained solution can deviate from the optimal.This paper first shows that the efficiency (as measured by the number of decomposed partial problems) does not generally improve by introducing ϵ or by increasing ϵ, and then isolates subclasses of branch-and-bound algorithms for which a monotone increase in efficiency with respect to ϵ is guaranteed.
+Keywords
+branch-and-bound heuristic search approximate algorithm computational efficiency 

@@ -1,0 +1,6 @@
+Approximation Algorithm for the Stochastic Multiperiod Inventory Problem via a Look-Ahead Optimization Approach
+Van-Anh Truong;
+Abstract
+We consider the single-item, multiperiod stochastic inventory problem with nonstationary and correlated demands. We provide the first proof that a well-known myopic policy, which we call look-ahead optimization (LA), is in fact an approximation algorithm for solving the large dynamic program that arises from this problem. We prove that LA provides the tightest known approximation bound for this problem. The expected cost of LA is at most twice the expected holding cost plus the expected backorder cost of an optimal policy. We introduce a new cost-accounting technique and a new class of invariances on the ongoing performance of LA relative to that of an optimal policy. We use these invariances to extend the myopic optimality of LA to a global bound on its performance. We allow convex and nonlinear holding and backorder cost functions, integral order quantities, and positive lead times under a technical condition on the growth of demand. We show in computational experiments that LA has excellent average-case performance.
+Keywords
+stochastic inventory control approximation algorithms heuristics 

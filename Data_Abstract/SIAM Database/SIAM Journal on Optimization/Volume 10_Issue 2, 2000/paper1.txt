@@ -1,0 +1,6 @@
+A Regularized Smoothing Newton Method for Box Constrained Variational Inequality Problems with P0-Functions
+Hou-Duo  Qi;
+Abstract
+Based on Qi, Sun, and Zhou's smoothing Newton method, we propose a regularized smoothing Newton method for the box constrained variational inequality problem with P0-function (P0 BVI). The proposed algorithm generates an infinite sequence such that the value of the merit function converges to zero. If P0 BVI has a nonempty bounded solution set, the iteration sequence must be bounded. This result implies that there exists at least one accumulation point. Under CD-regularity, we prove that the proposed algorithm has a superlinear (quadratic) convergence rate without requiring strict complementarity conditions. The main feature of our global convergence results is that we do not assume a priori the existence of an accumulation point. This assumption is used widely in the literature due to the possible unboundedness of level sets of various adopted merit functions. Preliminary numerical results are also reported.
+Keywords
+smoothing Newton's method, semismoothness, global convergence, superlinear convergence, 90C33, 65K10, 65H10, 

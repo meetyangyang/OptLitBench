@@ -1,0 +1,6 @@
+Cutting Plane Algorithms for Nonlinear Semi-Definite Programming Problems with Applications
+Hiroshi Konno;Naoya Kawadai;Hoang Tuy;
+Abstract
+We will propose an outer-approximation (cutting plane) method for minimizing a function fX subject to semi-definite constraints on the variables X∈Rn. A number of efficient algorithms have been proposed when the objective function is linear. However, there are very few practical algorithms when the objective function is nonlinear. An algorithm to be proposed here is a kind of outer-approximation(cutting plane) method, which has been successfully applied to several low rank global optimization problems including generalized convex multiplicative programming problems and generalized linear fractional programming problems, etc. We will show that this algorithm works well when f is convex and n is relatively small. Also, we will provide the proof of its convergence under various technical assumptions.
+Keywords
+Semi-definite programming  Low rank nonconvex problem  Cutting plane algorithm  Outer-approximation  Semi-infinite programming  Ellipsoidal separation  Quadratic regression  Semi-definite logit model  

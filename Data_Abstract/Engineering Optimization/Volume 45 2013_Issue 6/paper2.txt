@@ -1,0 +1,6 @@
+Task-based design optimization of serial robot manipulators
+ Hatem   Al-Dois ; A.   K.   Jha ; R.   B.   Mishra ;
+Abstract
+ In this article a direct search non-gradient design optimization method is proposed to determine the optimal task time and optimal parameters of serial robot manipulators. The design variables are treated as continuous variables associated with the motion trajectory profile and robot's link lengths and masses. The method adopted in this study can be applied to any serial redundant or non-redundant manipulator that has rigid links and known kinematic and dynamic models with free motions or motions along specified paths. Trajectory can be planned in Cartesian or joint space under kinodynamic constraints. The cost function to be minimized is weighted terms of task time and joint torques quadratic average. Examples on 3-R planar and spatial serial robot manipulators are given to illustrate the method where the kinematic and dynamic models and the optimization method are developed in MATLAB®. 
+Keywords
+3-R serial manipulator, robot design, optimal performance, trajectory planning, direct search optimization 

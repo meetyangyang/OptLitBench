@@ -1,0 +1,6 @@
+Application of optimization for solving a sawing stock problem with a cant sawing pattern
+Juan Leandro Andres Parra Galvez;Denis Borenstein;Everton da Silveira Farias;
+Abstract
+This paper introduces an optimization approach for solving the sawing stock problem in a sawmill in Brazil using the cant sawing pattern, in which lateral and central pieces are cut from the log surface. As this problem has been proved NP-hard and involves some nonlinearities due to the circular geometry of this pattern, we developed a solution method based on two stages. First, we developed an algorithm to generate all sawing patterns, considering the available log diameters and the demanded lumbers. Next, two integer linear programming models were formulated to optimize the number of sawing patterns to be cut, fulfilling the demand in the planning horizon and attending the amount of logs in inventory. One model minimizes the wood loss, while the other maximizes the sales revenue. The optimization approach was evaluated using real data from the sawmill, obtaining significant reductions in the volume cut, in comparison with the current manual planning process, while completely fulfilling the demand.
+Keywords
+Cutting stock  Cant sawing  Optimization  Sawmill  

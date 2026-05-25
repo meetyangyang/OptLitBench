@@ -1,0 +1,6 @@
+Inverse 1-Median Problem on Block Graphs with Variable Vertex Weights
+Kien Trung Nguyen;
+Abstract
+This paper addresses the problem of modifying the vertex weights of a block graph at minimum total cost so that a prespecified vertex becomes a 1-median of the perturbed graph. We call this problem the inverse 1-median problem on block graphs with variable vertex weights. For block graphs with equal edge lengths in each block, we can formulate the problem as a univariate optimization problem. By the convexity of the objective function, the local optimizer is also the global one. Therefore, we use the convexity to develop an \(O(M\log M)\) algorithm that solves the problem on block graphs with M vertices.
+Keywords
+Location problem  Inverse optimization  Continuous knapsack problem  Block graph  Convex  90B10  90B80  90C27  

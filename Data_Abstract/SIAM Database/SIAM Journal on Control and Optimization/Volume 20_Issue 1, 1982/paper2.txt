@@ -1,0 +1,5 @@
+Adaptive Control with a Compact Parameter Set
+P. R.  Kumar;
+Abstract
+We consider the problem of the adaptive control of a Markov chain with unknown transition probabilities. We suppose the transition probabilities $\{ p(i,j;u,\alpha )\} $ to be dependent on an unknown parameter $\alpha $. At each time instant t, a maximum likelihood estimate $\hat \alpha _t $ of the unknown parameter is made, and a control input $u_t  = \phi (x_t ,\hat \alpha _t )$ is applied, where, for each $\alpha ,\phi ( \cdot ,\alpha )$ is a good feedback control law. It is shown that if a ranges over a compact set S, then $\{ \hat \alpha _t \} $ may diverge with probability one. In the event, however, that the parameter estimates converge, or more generally just the control laws $\{ \phi ( \cdot ,\hat \alpha _t )\} $ converge to some $\psi $, then under $\psi $ the closed-loop transition probabilities for the true model are indistinguishable from those of any limit point of the parameter estimates.
+Keywords

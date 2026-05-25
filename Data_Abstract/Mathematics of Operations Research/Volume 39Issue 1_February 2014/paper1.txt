@@ -1,0 +1,6 @@
+Stabilization of Stochastic Iterative Methods for Singular and Nearly Singular Linear Systems
+Mengdi Wang;Dimitri P. Bertsekas;
+Abstract
+We consider linear systems of equations, Ax = b, with an emphasis on the case where A is singular. Under certain conditions, necessary as well as sufficient, linear deterministic iterative methods generate sequences {xk} that converge to a solution as long as there exists at least one solution. This convergence property can be impaired when these methods are implemented with stochastic simulation, as is often done in important classes of large-scale problems. We introduce additional conditions and novel algorithmic stabilization schemes under which {xk} converges to a solution when A is singular and may also be used with substantial benefit when A is nearly singular.
+Keywords
+stochastic algorithm singular system stabilization projected equation simulation regularization approximate dynamic programming 

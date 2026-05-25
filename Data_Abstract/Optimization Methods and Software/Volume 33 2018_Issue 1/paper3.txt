@@ -1,0 +1,6 @@
+Low rank updates in preconditioning the saddle point systems arising from data assimilation problems
+M. Fisher;S. Gratton;S. Gürol;Y. Trémolet;X. Vasseur;
+Abstract
+The numerical solution of saddle point systems has received a lot of attention over the past few years in a wide variety of applications such as constrained optimization, computational fluid dynamics and optimal control, to name a few. In this paper, we focus on the saddle point formulation of a large-scale variational data assimilation problem, where the computations involving the constraint blocks are supposed to be much more expensive than those related to the (1, 1) block of the saddle point matrix. New low-rank limited memory preconditioners exploiting the particular structure of the problem are proposed and analysed theoretically. Numerical experiments performed within the Object-Oriented Prediction System are presented to highlight the relevance of the proposed preconditioners.
+Keywords
+data assimilation, limited memory preconditioning, saddle point system, weak-constraint 

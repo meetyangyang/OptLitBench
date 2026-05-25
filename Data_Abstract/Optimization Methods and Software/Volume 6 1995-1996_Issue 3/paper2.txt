@@ -1,0 +1,6 @@
+Numerical tools for parameter estimation in ode-systems
+ Lennart   Edsberg ; Per-Åke   Wedin ;
+Abstract
+ The numerical problem of estimating unknown parameters in systems of ordinary differential equations from complete or incomplete data is treated. A new numerical method for the optimization part, based on the Gauss-Newton method with a trust region approach to subspace minimization for the weighted nonlinear least squares problem, is presented. The method is implemented in the framework of a toolbox (called diffpar) in Matlab and several test problems from applications, giving non-stiff and stiff ODE-systems, are treated  
+Keywords
+Parameter Estimation,  ODE-Systems, Weighted Nonlinear Least Squares 

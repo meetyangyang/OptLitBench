@@ -1,0 +1,6 @@
+Optimal Variance Reduction for Markov Chain Monte Carlo
+Lu-Jing  Huang, Yin-Ting  Liao, Ting-Li  Chen, and Chii-Ruey  Hwang;
+Abstract
+Markov chain Monte Carlo (MCMC) has been widely used to approximate the expectation of the statistic of a given probability measure $\pi$ on a finite set, and the asymptotic variance is a typical approach to evaluating the performance of MCMC methods. In this paper, we provide a lower bound of the worst-case analysis of the asymptotic variance over general Markov chains with invariant probability $\pi$, reversible as well as nonreversible ones, and construct an optimal transition matrix that achieves this lower bound. In fact, for any statistic $f$ to be evaluated, an MCMC with the constructed optimal transition matrix produces a smaller asymptotic variance than independent sampling.
+Keywords
+Markov chain Monte Carlo, asymptotic variance, rate of convergence, 60J10, 65C40, 15A42, 

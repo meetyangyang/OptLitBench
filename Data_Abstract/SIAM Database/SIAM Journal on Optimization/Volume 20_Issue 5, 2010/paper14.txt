@@ -1,0 +1,6 @@
+Global Convergence of a New Hybrid Gauss–Newton Structured BFGS Method for Nonlinear Least Squares Problems
+Weijun  Zhou and Xiaojun  Chen;
+Abstract
+In this paper, we propose a hybrid Gauss–Newton structured BFGS method with a new update formula and a new switch criterion for the iterative matrix to solve nonlinear least squares problems. We approximate the second term in the Hessian by a positive definite BFGS matrix. Under suitable conditions, global convergence of the proposed method with a backtracking line search is established. Moreover, the proposed method automatically reduces to the Gauss–Newton method for zero residual problems and the structured BFGS method for nonzero residual problems in a neighborhood of an accumulation point. A locally quadratic convergence rate for zero residual problems and a locally superlinear convergence rate for nonzero residual problems are obtained for the proposed method. Some numerical results are given to compare the proposed method with some existing methods.
+Keywords
+nonlinear least squares, Gauss–Newton method, BFGS method, structured quasi-Newton method, global convergence, quadratic convergence, 90C06, 65K05, 

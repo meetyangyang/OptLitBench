@@ -1,0 +1,6 @@
+Numerical Simulation of Bingham Fluid Flow Using Prox-Regularization
+H. Schmitt;
+Abstract
+A special case of fluid flow, the laminar flow of a Bingham fluid through a cylindrical pipe, can be described as a convex minimization problem where the objective function J0 is nondifferentiable. J0 can be approximated easily by smooth functions J∈, but for a small parameter ∈>0, the corresponding discretized problems are ill-conditioned. The use of proximal point methods to set well ill-posed problems or to stabilize ill-conditioned problems is well known. We present some numerical experiences of comparing standard prox-regularization methods with weak norm-based regularization methods.
+Keywords
+prox-regularization methods  convex variational problems  Bingham flow problems  viscoplastic fluid flows  

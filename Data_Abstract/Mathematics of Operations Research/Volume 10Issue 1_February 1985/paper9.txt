@@ -1,0 +1,6 @@
+Nested Optimal Policies for Set Functions with Applications to Scheduling
+Arjang A. Assad;
+Abstract
+Consider a set function v(·) defined on all subsets of a finite set N. This paper presents a class of set function maximization problems of the form Max{v(S)|S ⊆ N} that are solved optimally by the greedy algorithm. In particular, it is shown that there exists a nested sequence of subsets S*1 … S*m that increase to the optimal policy and S*k maximizes v(S) over all subsets of cardinality k. The class is characterized by conditions on the set function v(·) and related to the notion of submodularity. These results are then applied to two order-preserving machine scheduling problems. The greedy algorithm is shown to be optimal for these problems thereby providing a new algorithm different from previous approaches based on dynamic programming.
+Keywords
+set functions machine scheduling greedy algorithm 

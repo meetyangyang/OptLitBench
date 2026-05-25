@@ -1,0 +1,6 @@
+Sharing the Cost of a Capacity Network
+Anna Bogomolnaia;Ron Holzman;Hervé Moulin;
+Abstract
+We consider a communication network where each pair of users requests a connection guaranteeing a certain capacity. The cost of building capacity is identical across pairs. Efficiency is achieved by any maximal cost spanning tree. We construct cost sharing methods ensuring standalone core stability, monotonicity of one's cost share in one's capacity requests, and continuity in everyone's requests. We define a solution for simple problems where each pairwise request is zero or one, and extend it piecewise linearly to all problems. The uniform solution obtains if we require one's cost share to be weakly increasing in everyone's capacity request. In the solution, we propose, on the contrary, one's cost share is weakly decreasing in other agents' requests. The computational complexity of both solutions is polynomial in the number of users. The uniform solution admits a closed form expression, and is the analog of a popular solution for the minimal cost spanning tree problem.
+Keywords
+cost sharing capacity synthesis spanning tree network game cooperative game 

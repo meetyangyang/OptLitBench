@@ -1,0 +1,6 @@
+An Efficient Newton Barrier Method for Minimizing a Sum of Euclidean Norms
+Knud D.  Andersen;
+Abstract
+A new Newton barrier method is proposed for minimizing a sum of Euclidean norms (MSN), $F( x ) = \sum_{i = 1}^k \| A_i^T x - b_i  \|_2  $. MSN is a nonsmooth problem because F is not differentiable at any point x where any of the norms is zero. The method used is based on approximating F with a smooth function, which in the limit has the same optimal value as F. MSN is shown to have a dual problem with properties very similar to duality theory in linear programming. This is used in the development of the method and to give a proof of when an optimal solution for the smooth approximation is $\epsilon $-optimal (measured in the duality gap) for the original problem. An implementation of the algorithm is described for large sparse problems and numerical results are presented for problems with more than 270,000 nonlinear variables. These problems arise from plastic collapse analysis.
+Keywords
+sum of norms, nonsmooth optimization, duality, Newton barrier method, 90C06, 90C25, 90C30, 

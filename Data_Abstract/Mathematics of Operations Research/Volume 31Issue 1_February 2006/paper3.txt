@@ -1,0 +1,6 @@
+Bin Packing in Multiple Dimensions: Inapproximability Results and Approximation Schemes
+Nikhil Bansal;José R. Correa;Claire Kenyon;Maxim Sviridenko;
+Abstract
+We study the following packing problem: Given a collection of d-dimensional rectangles of specified sizes, pack them into the minimum number of unit cubes. We show that unlike the one-dimensional case, the two-dimensional packing problem cannot have an asymptotic polynomial time approximation scheme (APTAS), unless P = NP. On the positive side, we give an APTAS for the special case of packing d-dimensional cubes into the minimum number of unit cubes. Second, we give a polynomial time algorithm for packing arbitrary two-dimensional rectangles into at most OPT square bins with sides of length 1 + ε, where OPT denotes the minimum number of unit bins required to pack these rectangles. Interestingly, this result has no additive constant term, i.e., is not an asymptotic result. As a corollary, we obtain the first approximation scheme for the problem of placing a collection of rectangles in a minimum-area encasing rectangle.
+Keywords
+bin packing approximation algorithms polynomial time approximation schemes hardness of approximation 

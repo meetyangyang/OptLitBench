@@ -1,0 +1,6 @@
+Impact of vectorization on large-scale structural optimization
+R. Soegiarso;H. Adeli;
+Abstract
+Structural optimization methods have been developed over the past three decades for minimizing the weight or the cost of the structure subjected to design constraints. As the size of the structure increases, however, the computational time becomes prohibitively high. With the recent availability of supercomputers, optimization of very large and complex structures is achievable. This paper is about impact of vectorization on large scale structural optimization. A judiciously vectorized structural optimization algorithm is presented using the optimality criteria approach. The algorithm has been applied to minimum weight design of three highrise and super highrise buildings (mega strutures) ranging in height from 50 stories to 161 stories and in size from 848 to 6136 members. The performance of the vectorized algorithm is discussed in terms of MFLOPS and CPU time. It is concluded that significant speedup can be achieved through the adroit use of the vectorization techniques.
+Keywords
+Civil Engineer  Computational Time  Optimization Algorithm  Structural Optimization  Optimality Criterion  

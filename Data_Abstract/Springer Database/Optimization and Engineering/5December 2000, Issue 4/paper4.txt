@@ -1,0 +1,6 @@
+Analysis of Approximate Inverses in Tomography II. Iterative Inverses
+James G. Berryman;
+Abstract
+This paper continues the analysis of approximate inverses from Part I by concentrating on iterative inverses in linear tomographic applications. The importance of differentiating between the ideal resolution of the operator/matrix to be inverted and the actual or effective resolution obtained by the approximate inverse during an iterative procedure is stressed. Means of obtaining the effective resolution operator for standard iterative procedures such as conjugate gradients, Lanczos, and LSQR are provided, while circumventing the usual need to produce a singular-value decomposition of the operator being inverted. The methods discussed produce very simple results in calculations with infinite precision, but require reorthogonalization of the Krylov vectors/operators produced by the iterative procedures in finite precision. Although this need for reorthogonalization increases the expense of the procedure somewhat, it still produces the desired results much more efficiently than what could be obtained using a full singular-value decomposition of the operator.
+Keywords
+acoustic tomography  numerical methods  resolution matrices  singular value  conjugate gradients decomposition  

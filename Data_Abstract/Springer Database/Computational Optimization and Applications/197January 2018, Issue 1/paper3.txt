@@ -1,0 +1,6 @@
+Augmented Lagrangians with constrained subproblems and convergence to second-order stationary points
+E. G. Birgin;G. Haeser;A. Ramos;
+Abstract
+Augmented Lagrangian methods with convergence to second-order stationary points in which any constraint can be penalized or carried out to the subproblems are considered in this work. The resolution of each subproblem can be done by any numerical algorithm able to return approximate second-order stationary points. The developed global convergence theory is stronger than the ones known for current algorithms with convergence to second-order points in the sense that, besides the flexibility introduced by the general lower-level approach, it includes a loose requirement for the resolution of subproblems. The proposed approach relies on a weak constraint qualification, that allows Lagrange multipliers to be unbounded at the solution. It is also shown that second-order resolution of subproblems increases the chances of finding a feasible point, in the sense that limit points are second-order stationary for the problem of minimizing the squared infeasibility. The applicability of the proposed method is illustrated in numerical examples with ball-constrained subproblems.
+Keywords
+Augmented Lagrangian methods  Nonlinear programming  Second-order stationary points  Algorithms  

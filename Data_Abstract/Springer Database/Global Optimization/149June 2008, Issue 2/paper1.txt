@@ -1,0 +1,6 @@
+A Lagrangean based branch-and-cut algorithm for global optimization of nonconvex mixed-integer nonlinear programs with decomposable structures
+Ramkumar Karuppiah;Ignacio E. Grossmann;
+Abstract
+In this work we present a global optimization algorithm for solving a class of large-scale nonconvex optimization models that have a decomposable structure. Such models, which are very expensive to solve to global optimality, are frequently encountered in two-stage stochastic programming problems, engineering design, and also in planning and scheduling. A generic formulation and reformulation of the decomposable models is given. We propose a specialized deterministic branch-and-cut algorithm to solve these models to global optimality, wherein bounds on the global optimum are obtained by solving convex relaxations of these models with certain cuts added to them in order to tighten the relaxations. These cuts are based on the solutions of the sub-problems obtained by applying Lagrangean decomposition to the original nonconvex model. Numerical examples are presented to illustrate the effectiveness of the proposed method compared to available commercial global optimization solvers that are based on branch and bound methods.
+Keywords
+Global optimization  Lagrangean decomposition  Cuts  Two-stage stochastic programming  

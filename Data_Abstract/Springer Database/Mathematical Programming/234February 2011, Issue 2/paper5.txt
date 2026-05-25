@@ -1,0 +1,6 @@
+Smoothed analysis of condition numbers and complexity implications for linear programming
+John Dunagan;Daniel A. Spielman;Shang-Hua Teng;
+Abstract
+We perform a smoothed analysis of Renegar’s condition number for linear programming by analyzing the distribution of the distance to ill-posedness of a linear program subject to a slight Gaussian perturbation. In particular, we show that for every n-by-d matrix Ā, n-vector \({\bar{\varvec b}}\), and d-vector \({\bar{\varvec c}}\) satisfying \({{||\bar{\bf A}, \bar{\varvec b}, \bar{\varvec c}||_F \leq 1}}\) and every σ ≤ 1,$$\mathop{\bf E}\limits_{\bf A,\varvec b,\varvec c }{{[\log C (\bf A,\varvec b,\varvec c)} = O (\log (nd/\sigma)),}$$where A, b and c are Gaussian perturbations of Ā, \({\bar{\varvec b}}\) and \({\bar{\varvec c}}\) of variance σ 2 and C (A, b, c) is the condition number of the linear program defined by (A, b, c). From this bound, we obtain a smoothed analysis of interior point algorithms. By combining this with the smoothed analysis of finite termination of Spielman and Teng (Math. Prog. Ser. B, 2003), we show that the smoothed complexity of interior point algorithms for linear programming is O (n 3log(nd/σ)).
+Keywords
+90C05  90C51  

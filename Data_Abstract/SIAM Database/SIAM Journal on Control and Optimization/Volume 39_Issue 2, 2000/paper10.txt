@@ -1,0 +1,6 @@
+Law of the Iterated Logarithm for a Constant-Gain Linear Stochastic Gradient Algorithm
+J. A.  Joslin and A. J.  Heunis;
+Abstract
+We study almost-sure limiting properties, taken as $\varepsilon \searrow 0$, of the finite horizon sequence of random estimates $\{ \theta_{0}^{\varepsilon}, \theta_{1}^{\varepsilon}, \theta_{2}^{\varepsilon}, \ldots, \theta_{\left\lfloor{{T / \varepsilon}}\right\rfloor}^{\varepsilon} \}$ for the linear stochastic gradient algorithm \[ \theta^{\varepsilon}_{n+1} = \theta^{\varepsilon}_{n} + \varepsilon \left[ a_{n+1}-({\theta^{\varepsilon}_{n}})^{\prime} X_{n+1} \right] X_{n+1}, \;\;\;\;\;\;\;\;\;\;\;\;\;\; \theta_{0}^{\varepsilon} \mbox{$\, \stackrel{\triangle}{=} \,$} \theta_{*} \;\;\; \mbox{nonrandom}, \] \noindent where $T \in (0,\infty)$ is an arbitrary constant, $\varepsilon \in (0,1]$ is a (small) adaptation gain, and {an} and {Xn} are data sequences which drive the algorithm. These limiting properties are expressed in the form of a functional law of the iterated logarithm.
+Keywords
+stochastic gradient algorithm, L-mixing processes, functional law of the iterated logarithm, 60F15, 60F17, 93E10, 

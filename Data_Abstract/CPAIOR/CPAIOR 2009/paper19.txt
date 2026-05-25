@@ -1,0 +1,4 @@
+Scalable Load Balancing in Nurse to Patient Assignment Problems
+Pierre Schaus;Pascal Van Hentenryck;Jean-Charles Régin;
+Abstract
+This paper considers the daily assignment of newborn infant patients to nurses in a hospital. The objective is to balance the workload of the nurses, while satisfying a variety of side constraints. Prior work proposed a MIP model for this problem, which unfortunately did not scale to large instances and only approximated the objective function, since minimizing the variance cannot be expressed in a linear model. This paper presents constraint programming (CP) models of increasing complexity to solve large instances with hundreds of patients and nurses in a few seconds using the Comet optimization system. The CP models use the recent spread global constraint to minimize the variance, as well as an exact decomposition technique.

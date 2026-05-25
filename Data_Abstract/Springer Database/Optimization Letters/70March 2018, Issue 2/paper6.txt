@@ -1,0 +1,6 @@
+Online batch scheduling with kind release times and incompatible families to minimize makespan
+Wenjie Li;Shisheng Li;Qi Feng;
+Abstract
+This paper studies online scheduling of jobs with incompatible families on a single unbounded batch machine under the KRT environment, where jobs arrive over time and “KRT” means that in the online setting no jobs can be released when the machine is busy. The goal is to determine a feasible schedule to minimize the makespan. We provide a best online algorithm with a competitive ratio of \(1+\frac{\sqrt{f^{2}-f+1}-1}{f}\), where f is the number of job families.
+Keywords
+Scheduling  Online algorithm  Kind release time  Incompatible families  Makespan  

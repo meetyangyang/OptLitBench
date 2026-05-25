@@ -1,0 +1,6 @@
+Truss structure optimization using adaptive multi-population differential evolution
+Chun-Yin Wu;Ko-Ying Tseng;
+Abstract
+This paper applies multi-population differential evolution (MPDE) with a penalty-based, self-adaptive strategy—the adaptive multi-population differential evolution (AMPDE)—to solve truss optimization problems with design constraints. The self-adaptive strategy developed in this study is a new adaptive approach that adjusts the control parameters of MPDE by monitoring the number of infeasible solutions generated during the evolution process. Multiple different minimum weight optimization problems of the truss structure subjected to allowable stress, deflection, and kinematic stability constraints are used to demonstrate that the proposed algorithm is an efficient approach to finding the best solution for truss optimization problems. The optimum designs obtained by AMPDE are better than those found in the current literature for problems that do not violate the design constraints. We also show that self-adaptive strategy can improve the performance of MPDE in constrained truss optimization problems, especially in the case of simultaneous optimization of the size, topology, and shape of truss structures.
+Keywords
+Differential evolution  Adaptive multi-population  Penalty-based self-adaptive strategy  Truss optimization  

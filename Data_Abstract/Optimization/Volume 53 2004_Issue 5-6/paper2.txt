@@ -1,0 +1,6 @@
+Singular Riemannian barrier methods and gradient-projection dynamical systems for constrained optimization
+ H.   Attouch ; J.   Bolte ; P.   Redont ; M.   Teboulle ;
+Abstract
+ This work is devoted to the dynamical system (SRB): d (∂ h(x(t)))/dt+∇ Φ (x(t))∋ 0, with h a proper lower semicontinuous convex function. Existence and uniqueness of solutions are examined. Systems (SRB) include the class of gradient systems with respect to a Hessian Riemannian metric induced by a convex Legendre function h:   . Moreover, class (SRB) is closed in a variational sense: links are made with regularized Lotka–Volterra systems and the limit equations obtained by letting the barrier parameter go to 0. Of particular interest is the case h(x)= (1/2)|x|2+δ  C (x): this way, one obtains a new gradient-projection method. System (SRB) bears a direct relation with the minimization of Φ over the domain of ∂ h; the asymptotic behaviour of solutions, as time goes to infinity, is a real issue, which is addressed for a convex Φ and a h of the form h=k+δ  C , with k convex    and C a finite-dimensional polyhedron. 
+Keywords
+Dynamical systems, Continuous gradient method, Asymptotic analysis, Barrier methods in constrained optimization, Singular Hessian Riemannian metric, Convex Legendre functions, Bregman distances, AMS Subject Classification: 34A60, 37Bxx, 37Lxx, 37N40, 49K24 

@@ -1,0 +1,6 @@
+Locating Centers on a Tree with Discontinuous Supply and Demand Regions
+Arie Tamir;Eitan Zemel;
+Abstract
+Consider a tree T = (N, E) with “supply” and “demand” regions Σ and Δ, each composed of a finite number of disjoint, closed and connected subregions of T, some of which may possibly consist of just one point. Given an integer p, we seek a collection of p “centers” x1, …, xp ∈ Σ, which minimize the expression maxy∈δ mini=1,…,pd(y, xi). We present a polynomial algorithm for this problem. Its running time is bounded by O(n log2n) if either Δ or Σ is discrete, and by O(n min|p log2n,n log p|) if both sets contain at least one full edge.
+Keywords
+location p-center problem trees polynomial running time 

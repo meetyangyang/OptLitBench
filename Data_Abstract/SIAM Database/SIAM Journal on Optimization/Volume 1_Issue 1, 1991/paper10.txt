@@ -1,0 +1,6 @@
+On the Convergence of the Multidirectional Search Algorithm
+Virginia  Torczon;
+Abstract
+This paper presents the convergence analysis for the multidirectional search algorithm, a direct search method for unconstrained minimization. The analysis follows the classic lines of proofs of convergence for gradient-related methods. The novelty of the argument lies in the fact that explicit calculation of the gradient is unnecessary, although it is assumed that the function is continuously differentiable over some subset of the domain. The proof can be extended to treat most nonsmooth cases of interest; the argument breaks down only at points where the derivative exists but is not continuous. Finally, it is shown how a general convergence theory can be developed for an entire class of direct search methods—which includes such methods as the factorial design algorithm and the pattern search algorithm—that share a key feature of the multidirectional search algorithm.
+Keywords
+unconstrained optimization, convergence analysis, direct search methods, parallel optimization, multidirectional search, Nelder–Mead simplex algorithm, 49D30, 65K05, 

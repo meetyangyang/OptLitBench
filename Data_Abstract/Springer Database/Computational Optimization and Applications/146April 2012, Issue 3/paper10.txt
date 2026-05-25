@@ -1,0 +1,6 @@
+Parameter identification in financial market models with a feasible point SQP algorithm
+F. Gerlich;A. M. Giese;J. H. Maruhn;E. W. Sachs;
+Abstract
+The quickly moving market data in the finance industry requires a frequent parameter identification of the corresponding financial market models. In this paper we apply a special sequential quadratic programming algorithm to the calibration of typical equity market models. As it turns out, the projection of the iterates onto the feasible set can be efficiently computed by solving a semidefinite programming problem. Combining this approach with a Gauss-Newton framework leads to an efficient algorithm which allows to calibrate e.g. Heston’s stochastic volatility model in less than a half second on a usual 3 GHz desktop PC. Furthermore we present an appropriate regularization technique that stabilizes and significantly speeds up computations if the model parameters are chosen to be time-dependent.
+Keywords
+Parameter identification  Stochastic volatility models  Feasibility perturbed sequential quadratic programming  

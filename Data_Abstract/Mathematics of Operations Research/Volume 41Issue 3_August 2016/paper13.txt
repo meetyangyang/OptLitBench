@@ -1,0 +1,6 @@
+A Polyhedral Description of Kernels
+Qin Chen;Xujin Chen;Wenan Zang;
+Abstract
+Let G be a digraph and let π(G) be the linear system consisting of nonnegativity, stability, and domination inequalities. We call G kernel ideal if π(H) defines an integral polytope for each induced subgraph H of G, and we call G kernel Mengerian if π(H) is totally dual integral (TDI) for each induced subgraph H of G. In this paper we show that a digraph is kernel ideal iff it is kernel Mengerian iff it contains none of three forbidden structures; our characterization yields a polynomial-time algorithm for the minimum weighted kernel problem on kernel ideal digraphs. We also prove that it is NP-hard to find a kernel of minimum size even in a planar bipartite digraph with maximum degree at most three.
+Keywords
+digraph kernel polytope algorithm complexity 

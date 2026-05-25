@@ -1,0 +1,6 @@
+A Potential Reduction Algorithm Allowing Column Generation
+Yinyu  Ye;
+Abstract
+Using the Dantzig–Wolfe decomposition technique, a potential reduction algorithm allowing column generation for the linear feasibility (LF) problem is developed. The point of departure is a simple containing polytope and its analytic center. In each iteration, an inequality violated at the current center is selected, used to cut the polytope, and then used to find the new center for the shrunken polytope. The potential value associated with the containing polytope is reduced by a constant at each step, and the algorithm is terminated in a polynomial time that depends only on the number and data length of the inequalities generated in the iterative process.
+Keywords
+linear inequality, linear programming, analytic center, potential function, column generation, 90C05, 

@@ -1,0 +1,6 @@
+Applying a Newton Method to Strictly Convex Separable Network Quadratic Programs
+J.  Sun and H.  Kuo;
+Abstract
+By introducing quadratic penalty terms, a strictly convex separable network quadratic program can be reduced to an unconstrained optimization problem whose objective is a continuously differentiable piecewise quadratic function. A recently developed nonsmooth version of Newton's method is applied to the reduced problem. The generalized Newton direction is computed by an iterative procedure which exploits the special network data structures that originated from the network simplex method. New features of the algorithm include the use of min-max bases and a dynamic strategy in computation of the Newton directions. Some preliminary computational results are presented. The results suggest the use of "warm start" instead of "cold start."
+Keywords
+network quadratic programming, Newton's method, nonsmooth optimization, penalty method, piecewise quadratic programming, 65K05, 90B10, 90C20, 90C30, 90C35, 

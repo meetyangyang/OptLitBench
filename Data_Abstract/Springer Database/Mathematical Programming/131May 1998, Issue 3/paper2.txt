@@ -1,0 +1,6 @@
+A unified analysis for a class of long-step primal-dual path-following interior-point algorithms for semidefinite programming
+Renato DC Monteiro;Yin Zhang;
+Abstract
+We present a unified analysis for a class of long-step primal-dual path-following algorithms for semidefinite programming whose search directions are obtained through linearization of the symmetrized equation of the central pathH P (XS) ≡ [PXSP−1 + (PXSP−1) T ]/2 = μI, introduced by Zhang. At an iterate (X,S), we choose a scaling matrixP from the class of nonsingular matricesP such thatPXSP−1 is symmetric. This class of matrices includes the three well-known choices, namely:P = S1/2 andP = X−1/2 proposed by Monteiro, and the matrixP corresponding to the Nesterov—Todd direction. We show that within the class of algorithms studied in this paper, the one based on the Nesterov—Todd direction has the lowest possible iteration-complexity bound that can provably be derived from our analysis. More specifically, its iteration-complexity bound is of the same order as that of the corresponding long-step primal-dual path-following algorithm for linear programming introduced by Kojima, Mizuno and Yoshise. © 1998 The Mathematical Programming Society, Inc. Published by Elsevier Science B.V.
+Keywords
+Semidefinite programming  Primal-dual  Path-following  Interior-point methods  

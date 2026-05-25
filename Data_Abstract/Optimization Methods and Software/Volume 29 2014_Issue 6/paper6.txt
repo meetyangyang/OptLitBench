@@ -1,0 +1,6 @@
+New conjugate gradient-like methods for unconstrained optimization
+Bin Dan;Yang Zhang;
+Abstract
+The fact that classical conjugate gradient (CG) methods are usually analyzed individually with fixed formulas and line searches is a limit to research, since the descent or convergence property of a CG method depends heavily on the update formula and line search technique, which may cause the problem that once these conditions change, the descent or convergence property does not maintain any more. To overcome this drawback, we propose a new general form of CG-like methods, which is attractive in that its descent and global convergence properties are always guaranteed independently of any formula and line search used, provided that an easy condition on the line search rule is fulfilled. Numerical results are given to show the efficiency of the proposed methods. A new way to generate sufficient descent directions is also introduced.
+Keywords
+conjugate gradient method, line search, sufficient descent condition, global convergenceAMS Subject Classification: 65K05, 90C30 

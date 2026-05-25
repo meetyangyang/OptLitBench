@@ -1,0 +1,6 @@
+Interior point methods for optimal control of discrete time systems
+S. J. Wright;
+Abstract
+We show that recently developed interior point methods for quadratic programming and linear complementarity problems can be put to use in solving discrete-time optimal control problems, with general pointwise constraints on states and controls. We describe interior point algorithms for a discrete-time linear-quadratic regulator problem with mixed state/control constraints and show how they can be efficiently-incorporated into an inexact sequential quadratic programming algorithm for nonlinear problems. The key to the efficiency of the interior-point method is the narrow-banded structure of the coefficient matrix which is factorized at each iteration.
+Keywords
+Interior point algorithms  optimal control  banded linear systems  

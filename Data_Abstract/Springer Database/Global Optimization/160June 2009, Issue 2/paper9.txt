@@ -1,0 +1,6 @@
+Choosing the best set of variables in regression analysis using integer programming
+Hiroshi Konno;Rei Yamamoto;
+Abstract
+This paper is concerned with an algorithm for selecting the best set of s variables out of k(> s) candidate variables in a multiple linear regression model. We employ absolute deviation as the measure of deviation and solve the resulting optimization problem by using 0-1 integer programming methodologies. In addition, we will propose a heuristic algorithm to obtain a close to optimal set of variables in terms of squared deviation. Computational results show that this method is practical and reliable for determining the best set of variables.
+Keywords
+Linear regression  Least absolute deviation  Variable selection  Cardinality constraint  0-1 integer programming  

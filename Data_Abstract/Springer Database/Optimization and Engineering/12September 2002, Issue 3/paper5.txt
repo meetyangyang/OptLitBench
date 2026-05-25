@@ -1,0 +1,6 @@
+Construction of Convex Relaxations Using Automated Code Generation Techniques
+Edward P. Gatzke;John E. Tolsma;Paul I. Barton;
+Abstract
+This paper describes how the automated code generation tool DAEPACK can be used to construct convex relaxations of codes implementing nonconvex functions. Modern deterministic global optimization algorithms involving continuous and/or integer variables often require such convex relaxations. Within the described framework, the user supplies a code implementing the objective and constraints of a nonconvex optimization problem. DAEPACK then analyzes this code and automatically generates a collection of subroutines based upon various symbolic transformations used by automatic convexification algorithms. The methods considered include the convex relaxations of McCormick, αBB of Floudas and coworkers, and the linearization strategy of Tawarmalani and Sahinidis. It should be noted that the user supplied code can be quite complex, including arbitrary nonlinear expressions, subroutines, and iterative loops.
+Keywords
+global optimization  convex relaxation  automatic code generation  DAEPACK  

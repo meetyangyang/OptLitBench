@@ -1,0 +1,6 @@
+A Derivative Based Surrogate Model for Approximating and Optimizing the Output of an Expensive Computer Simulation
+Stephen J. Leary;Atul Bhaskar;Andy J. Keane;
+Abstract
+Approximation methods have found an increasing use in the optimization of complex engineering systems. The approximation method provides a 'surrogate' model which, once constructed, can be called instead of the original expensive model for the purposes of optimization. Sensitivity information on the response of interest may be cheaply available in many applications, for example, through a pertubation analysis in a finite element model or through the use of adjoint methods in CFD. This information is included here within the approximation and two strategies for optimization are described. The first involves simply resampling at the best predicted point, the second is based on an expected improvement approach. Further, the use of lower fidelity models together with approximation methods throughout the optimization process is finding increasing popularity. Some of these strategies are noted here and these are extended to include any information which may be available through sensitivities. Encouraging initial results are obtained.
+Keywords
+derivatives  kriging  multifidelity models  optimization  surrogate model  

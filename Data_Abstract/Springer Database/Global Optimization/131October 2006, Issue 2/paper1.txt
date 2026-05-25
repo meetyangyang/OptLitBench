@@ -1,0 +1,6 @@
+An Exact Reformulation Algorithm for Large Nonconvex NLPs Involving Bilinear Terms
+Leo Liberti;Constantinos C. Pantelides;
+Abstract
+Many nonconvex nonlinear programming (NLP) problems of practical interest involve bilinear terms and linear constraints, as well as, potentially, other convex and nonconvex terms and constraints. In such cases, it may be possible to augment the formulation with additional linear constraints (a subset of Reformulation-Linearization Technique constraints) which do not affect the feasible region of the original NLP but tighten that of its convex relaxation to the extent that some bilinear terms may be dropped from the problem formulation. We present an efficient graph-theoretical algorithm for effecting such exact reformulations of large, sparse NLPs. The global solution of the reformulated problem using spatial Branch-and Bound algorithms is usually significantly faster than that of the original NLP. We illustrate this point by applying our algorithm to a set of pooling and blending global optimization problems.
+Keywords
+Bilinear  Convex relaxation  Global optimization  NLP  Reformulation-linearization technique  RRLT constraints  

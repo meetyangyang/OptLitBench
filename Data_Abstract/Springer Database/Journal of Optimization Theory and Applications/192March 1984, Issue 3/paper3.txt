@@ -1,0 +1,6 @@
+Generalized Newton algorithm to minimize a function with many variables using computer-evaluated exact higher-order derivatives
+R. Kalaba;A. Tishler;
+Abstract
+This paper describes an optimization algorithm which uses up torth-order derivatives to find the optimum of anr-times continuously differentiable function of many variables. The algorithm, developed by Kalaba and Tishler (Ref. 1), obtains the exact values of the derivatives required for the optimization from the table algorithm presented in Kalabaet al. (Ref. 2) and Kalaba and Tishler (Ref. 3). The optimization algorithm described here reduces to the well-known Newton-Raphson algorithm when only first-order and second-order derivatives are used.
+Keywords
+Optimization algorithms  generalized Newton algorithm  table algorithm  higher-order derivatives  

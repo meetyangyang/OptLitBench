@@ -1,0 +1,4 @@
+Do Hypervolume Regressions Hinder EMOA Performance? Surprise and Relief
+Leonard Judt;Olaf Mersmann;Boris Naujoks;
+Abstract
+Decreases in dominated hypervolume w.r.t a fixed reference point for the (μ + 1)-SMS-EMOA are able to appear. We examine the impact of these decreases and different reference point handling techniques by providing four different algorithmic variants for selection. In addition, we show that yet further decreases can occur due to numerical instabilities that were previously not being expected. Fortunately, our findings do indicate that all detected decreases do not have a negative effect on the overall performance.

@@ -1,0 +1,6 @@
+On the Use of Outer Approximations as an External Active Set Strategy
+H. Chung;E. Polak;S. Sastry;
+Abstract
+Outer approximations are a well known technique for solving semiinfinite optimization problems. We show that a straightforward adaptation of this technique results in a new, external, active-set strategy that can easily be added to existing software packages for solving nonlinear programming problems with a large number of inequality constraints. Our external active-set strategy is very easy to implement, and, as our numerical results show, it is particularly effective when applied to discretized semiinfinite optimization or state-constrained optimal control problems. Its effects can be spectacular, with reductions in computing time that become progressively more pronounced as the number of inequalities is increased.
+Keywords
+Outer approximations  Inequality constrained optimization  Active set strategies  

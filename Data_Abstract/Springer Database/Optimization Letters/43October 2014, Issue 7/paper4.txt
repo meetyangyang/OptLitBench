@@ -1,0 +1,6 @@
+CVaR norm and applications in optimization
+Konstantin Pavlikov;Stan Uryasev;
+Abstract
+This paper introduces the family of CVaR norms in \({\mathbb {R}}^{n}\), based on the CVaR concept. The CVaR norm is defined in two variations: scaled and non-scaled. The well-known \(L_{1}\) and \(L_{\infty }\) norms are limiting cases of the new family of norms. The D-norm, used in robust optimization, is equivalent to the non-scaled CVaR norm. We present two relatively simple definitions of the CVaR norm: (i) as the average or the sum of some percentage of largest absolute values of components of vector; (ii) as an optimal solution of a CVaR minimization problem suggested by Rockafellar and Uryasev. CVaR norms are piece-wise linear functions on \({\mathbb {R}}^{n}\) and can be used in various applications where the Euclidean norm is typically used. To illustrate, in the computational experiments we consider the problem of projecting a point onto a polyhedral set. The CVaR norm allows formulating this problem as a convex or linear program for any level of conservativeness.
+Keywords
+CVaR norm  \(L_{p}\) norm  Projection  

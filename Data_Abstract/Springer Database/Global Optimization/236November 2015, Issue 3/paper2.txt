@@ -1,0 +1,6 @@
+An exact method for the discrete \((r|p)\)-centroid problem
+Ekaterina Alekseeva;Yury Kochetov;Alexandr Plyasunov;
+Abstract
+This paper provides a new exact iterative method for the following problem. Two decision makers, a leader and a follower, compete to attract customers from a given market. The leader opens \(p\) facilities, anticipating that the follower will react to the decision by opening \(r\) facilities. Each customer patronizes the closest opened facility. The goal is to find \(p\) facilities for the leader to maximize his market share. It is known that this problem is \(\Sigma ^P_2\)-hard and can be presented as an integer linear program with a large number of constraints. Based on this representation, we design the new iterative exact method. A local search algorithm is used at each iteration to find a feasible solution for a system of constraints. Computational results and comparison with other exact methods show that the new method can be considered as one of the alternative approaches among the most advanced exact methods for the problem.
+Keywords
+Leader–follower problem  Stackelberg game  Voronoi game   Competitive facility location  Voting location  

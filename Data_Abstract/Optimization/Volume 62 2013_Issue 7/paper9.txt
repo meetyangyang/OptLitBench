@@ -1,0 +1,6 @@
+An efficient deterministic optimization approach for rectangular packing problems
+ Jung-Fa   Tsai ; Pei-Chun   Wang ; Ming-Hua   Lin ;
+Abstract
+ The rectangular packing problem aims to seek the best way of placing a given set of rectangular pieces within a large rectangle of minimal area. Such a problem is often constructed as a quadratic mixed-integer program. To find the global optimum of a rectangular packing problem, this study transforms the original problem as a mixed-integer linear programming problem by logarithmic transformations and an efficient piecewise linearization approach that uses a number of binary variables and constraints logarithmic in the number of piecewise line segments. The reformulated problem can be solved to obtain an optimal solution within a tolerable error. Numerical examples demonstrate the computational efficiency of the proposed method in globally solving rectangular packing problems. 
+Keywords
+rectangular packing, global optimization, piecewise linearizationAMS Subject Classifications:: 49M37, 65K05, 90C26, 90C90 

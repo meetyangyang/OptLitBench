@@ -1,0 +1,6 @@
+A local convergence analysis of bilevel decomposition algorithms
+Victor DeMiguel;Walter Murray;
+Abstract
+Multidisciplinary design optimization (MDO) problems are engineering design problems that require the consideration of the interaction between several design disciplines. Due to the organizational aspects of MDO problems, decomposition algorithms are often the only feasible solution approach. Decomposition algorithms reformulate the MDO problem as a set of independent subproblems, one per discipline, and a coordinating master problem. A popular approach to MDO problems is bilevel decomposition algorithms. These algorithms use nonlinear optimization techniques to solve both the master problem and the subproblems. In this paper, we propose two new bilevel decomposition algorithms and analyze their properties. In particular, we show that the proposed problem formulations are mathematically equivalent to the original problem and that the proposed algorithms converge locally at a superlinear rate. Our computational experiments illustrate the numerical performance of the algorithms.
+Keywords
+Decomposition algorithms  Bilevel programming  Nonlinear programming  Multidisciplinary design optimization (MDO)  

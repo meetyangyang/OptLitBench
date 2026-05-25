@@ -1,0 +1,6 @@
+The Continuum-Armed Bandit Problem
+Rajeev  Agrawal;
+Abstract
+In this paper we consider the multiarmed bandit problem where the arms are chosen from a subset of the real line and the mean rewards are assumed to be a continuous function of the arms. The problem with an infinite number of arms is much more difficult than the usual one with a finite number of arms because the built-in learning task is now infinite dimensional. We devise a  kernel estimator-based learning scheme for the mean reward as a function of the arms. Using this learning scheme, we construct a class of certainty equivalence control with forcing schemes and derive asymptotic upper bounds on their learning loss. To the best of our knowledge, these bounds are the strongest rates yet available. Moreover, they are stronger than the $o(n)$ required for optimality with respect to the average-cost-per-unit-time criterion.
+Keywords
+bandit problems, controlled i.i.d. process, stochastic adaptive control, certainty  equivalence with forcing, learning loss, continuous arms, 93E35, 62G20, 62L05, 60F15, 60F25, 

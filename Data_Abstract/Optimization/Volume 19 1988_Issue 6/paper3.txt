@@ -1,0 +1,6 @@
+A cutting-plane method for quadratic semi infinite programming problems
+   R.   Tichatschke ;   V.   Nebeling ;
+Abstract
+ A cutting plane algorithm for solving convex quadratic semi-infinite programming problems is presented. Nonbinding constraints can be dropped. Its arithmetic convergence rate is proved by taking into consideration the error of the approximate solution of the auxiliary problem to calculate the most violate constraint. An implementable variant of this method is described which is due to the adaptive discretization of the index set and its stability is shown. Computational experiments show the behaviour of the method.  
+Keywords
+Numerical methods, cutting-plane methods, semi-infinite programs, rates of convergence, numerical stabilityAMS 1980 Subject Classifications: Primary: 49 D 39 

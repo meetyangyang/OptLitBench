@@ -1,0 +1,6 @@
+Peaceman–Rachford splitting for a class of nonconvex optimization problems
+Guoyin Li;Tianxiang Liu;Ting Kei Pong;
+Abstract
+We study the applicability of the Peaceman–Rachford (PR) splitting method for solving nonconvex optimization problems. When applied to minimizing the sum of a strongly convex Lipschitz differentiable function and a proper closed function, we show that if the strongly convex function has a large enough strong convexity modulus and the step-size parameter is chosen below a threshold that is computable, then any cluster point of the sequence generated, if exists, will give a stationary point of the optimization problem. We also give sufficient conditions guaranteeing boundedness of the sequence generated. We then discuss one way to split the objective so that the proposed method can be suitably applied to solving optimization problems with a coercive objective that is the sum of a (not necessarily strongly) convex Lipschitz differentiable function and a proper closed function; this setting covers a large class of nonconvex feasibility problems and constrained least squares problems. Finally, we illustrate the proposed algorithm numerically.
+Keywords
+Peaceman–Rachford splitting  Feasibility problems  Nonconvex optimization problems  Global convergence  

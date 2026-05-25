@@ -1,0 +1,6 @@
+A Mixed Logarithmic Barrier-Augmented Lagrangian Method for Nonlinear Optimization
+Paul Armand;Riadh Omheni;
+Abstract
+We present a primal–dual algorithm for solving a constrained optimization problem. This method is based on a Newtonian method applied to a sequence of perturbed KKT systems. These systems follow from a reformulation of the initial problem under the form of a sequence of penalized problems, by introducing an augmented Lagrangian for handling the equality constraints and a log-barrier penalty for the inequalities. We detail the updating rules for monitoring the different parameters (Lagrange multiplier estimate, quadratic penalty and log-barrier parameter), in order to get strong global convergence properties. We show that one advantage of this approach is that it introduces a natural regularization of the linear system to solve at each iteration, for the solution of a problem with a rank deficient Jacobian of constraints. The numerical experiments show the good practical performances of the proposed method especially for degenerate problems.
+Keywords
+Nonlinear optimization  Constrained optimization  Augmented Lagrangian  Primal–dual methods  Interior-point methods  49M15  65K05  90C06  90C30  90C51  

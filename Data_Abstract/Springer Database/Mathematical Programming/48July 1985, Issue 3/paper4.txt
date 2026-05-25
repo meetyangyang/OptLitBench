@@ -1,0 +1,6 @@
+On the cost of approximating all roots of a complex polynomial
+James Renegar;
+Abstract
+This work examines the computational complexity of a homotopy algorithm in approximating all roots of a complex polynomialf. It is shown that, probabilistically, monotonic convergence to each of the roots occurs after a determined number of steps. Moreover, in all subsequent steps, each rootz is approximated by a complex numberx, where ifx0 =x, x j  =xj−1 −f(xj−1)/f′(xj−1),j = 1, 2,⋯, then |x j  −z| < (1/|x0 −z|)|xj−1−z|2.
+Keywords
+Homotopy Algorithm  Computational Complexity  Complex Polynomials  Newton's Method  

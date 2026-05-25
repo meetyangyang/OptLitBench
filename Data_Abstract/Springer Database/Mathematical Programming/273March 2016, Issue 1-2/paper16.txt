@@ -1,0 +1,6 @@
+Spectral simplex method
+Vladimir Yu. Protasov;
+Abstract
+We develop an iterative optimization method for finding the maximal and minimal spectral radius of a matrix over a compact set of nonnegative matrices. We consider matrix sets with product structure, i.e., all rows are chosen independently from given compact sets (row uncertainty sets). If all the uncertainty sets are finite or polyhedral, the algorithm finds the matrix with maximal/minimal spectral radius within a few iterations. It is proved that the algorithm avoids cycling and terminates within finite time. The proofs are based on spectral properties of rank-one corrections of nonnegative matrices. The practical efficiency is demonstrated in numerical examples and statistics in dimensions up to 500. Some generalizations to non-polyhedral uncertainty sets, including Euclidean balls, are derived. Finally, we consider applications to spectral graph theory, mathematical economics, dynamical systems, and difference equations.
+Keywords
+Iterative optimization method  Nonnegative matrix  Spectral radius  Cycling  Spectrum of a graph  Leontief model  Positive linear switching system  15B48  90C26  15A42  

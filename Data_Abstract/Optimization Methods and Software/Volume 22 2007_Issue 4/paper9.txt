@@ -1,0 +1,6 @@
+Anstreicher–Terlaky type monotonic simplex algorithms for linear feasibility problems
+ Filiz   Bilen ; Zsolt   Csizmadia ; Tibor   Illés ;
+Abstract
+ Based on the pivot selection rule [Anstreicher, K.M. and Terlaky, T., 1994, A monotonic build-up simplex algorithm for linear programming. Operations Research, 42, 556–561.] we define a new monotonic build-up (MBU) simplex algorithm for linear feasibility problems. An mK upper bound for the iteration bound of our algorithm is given under a weak non-degeneracy assumption, where K is determined by the input data of the problem and m is the number of constraints. The constant K cannot be bounded in general by a polynomial of the bit length of the input data since it is related to the determinants (of the pivot tableau) with the highest absolute value. An interesting local property of degeneracy led us to construct a new recursive procedure to handle strongly degenerate problems as well. Analogous complexity bounds for the linear programming versions of MBU and the first phase of the simplex method can be proved under our weak non-degeneracy assumption. 
+Keywords
+Feasibility problem, Anstreicher–Terlaky type monotonic simplex algorithms; Degeneracy, Linear programming 

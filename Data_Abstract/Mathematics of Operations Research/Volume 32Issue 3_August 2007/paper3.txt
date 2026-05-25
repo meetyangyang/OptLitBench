@@ -1,0 +1,6 @@
+An Infinite-Dimensional Linear Programming Algorithm for Deterministic Semi-Markov Decision Processes on Borel Spaces
+Diego Klabjan;Daniel Adelman;
+Abstract
+We devise an algorithm for solving the infinite-dimensional linear programs that arise from general deterministic semi-Markov decision processes on Borel spaces. The algorithm constructs a sequence of approximate primal-dual solutions that converge to an optimal one. The innovative idea is to approximate the dual solution with continuous piecewise linear ridge functions that naturally represent functions defined on a high-dimensional domain as linear combinations of functions defined on only a single dimension. This approximation gives rise to a primal/dual pair of semi-infinite programs, for which we show strong duality. In addition, we prove various properties of the underlying ridge functions.
+Keywords
+infinite/semi-infinite linear programming algorithms deterministic semi-Markov decision processes approximate dynamic programming ridge function approximations 

@@ -1,0 +1,6 @@
+Novel update techniques for the revised simplex method
+Qi Huangfu;J. A. Julian Hall;
+Abstract
+This paper introduces three novel techniques for updating the invertible representation of the basis matrix when solving practical sparse linear programming problems using a high performance implementation of the dual revised simplex method, being of particular value when suboptimization is used. Two are variants of the product form update and the other permits multiple Forrest–Tomlin updates to be performed. Computational results show that one of the product form variants is significantly more efficient than the traditional approach, with its performance approaching that of the Forrest–Tomlin update for some problems. The other is less efficient, but valuable in the context of the dual revised simplex method with suboptimization. Results show that the multiple Forrest–Tomlin updates are performed with no loss of serial efficiency.
+Keywords
+Linear programming  Dual revised simplex method  Sparse matrices  Basis inverse update techniques  90C05  65F05  

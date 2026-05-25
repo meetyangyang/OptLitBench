@@ -1,0 +1,6 @@
+On saturation effects in the Neumann boundary control of elliptic optimal control problems
+Mariano Mateos;Arnd Rösch;
+Abstract
+A Neumann boundary control problem for a linear-quadratic elliptic optimal control problem in a polygonal domain is investigated. The main goal is to show an optimal approximation order for discretized problems after a postprocessing process. It turns out that two saturation processes occur: The regularity of the boundary data of the adjoint is limited if the largest angle of the polygon is at least 2π/3. Moreover, piecewise linear finite elements cannot guarantee the optimal order, if the largest angle of the polygon is greater than π/2. We will derive error estimates of order h  α  with α∈[1,2] depending on the largest angle and properties of the finite elements. Finally, numerical test illustrates the theoretical results.
+Keywords
+Boundary control  Linear-quadratic optimal control problem  Elliptic equation  Numerical approximation  Error estimates  Superconvergence  

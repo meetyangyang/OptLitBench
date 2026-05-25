@@ -1,0 +1,6 @@
+Welfare-maximizing correlated equilibria using Kantorovich polynomials with sparsity
+Fook Wai Kong;Berç Rustem;
+Abstract
+We provide motivations for the correlated equilibrium solution concept from the game-theoretic and optimization perspectives. We then propose an algorithm that computes \({\varepsilon}\) -correlated equilibria with global-optimal (i.e., maximum) expected social welfare for normal form polynomial games. We derive an infinite dimensional formulation of \({\varepsilon}\) -correlated equilibria using Kantorovich polynomials, and re-express it as a polynomial positivity constraint. We exploit polynomial sparsity to achieve a leaner problem formulation involving sum-of-squares constraints. By solving a sequence of semidefinite programming relaxations of the problem, our algorithm converges to a global-optimal \({\varepsilon}\) -correlated equilibrium. The paper ends with two numerical examples involving a two-player polynomial game, and a wireless game with two mutually-interfering communication links.
+Keywords
+Game theory  Non-cooperative game  Correlated equilibrium  Global polynomial optimization  Sum of squares  Semidefinite programming  Wireless communication  91A10  91A80  90C22  11E25  90B18  

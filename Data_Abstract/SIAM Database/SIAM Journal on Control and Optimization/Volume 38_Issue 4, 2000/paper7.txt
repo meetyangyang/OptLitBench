@@ -1,0 +1,6 @@
+Time-Varying and Adaptive Integral Control of Infinite-Dimensional Regular Linear Systems with Input Nonlinearities
+H.  Logemann and E. P.  Ryan;
+Abstract
+Closing the loop around an exponentially stable, single-input, single-output, regular linear system---subject to a globally Lipschitz, nondecreasing actuator nonlinearity and compensated by an integral controller with time-dependent gain k(t)---is shown to ensure asymptotic tracking of a constant reference signal r, provided that (a) the steady-state gain of the linear part of the system is positive, (b) the reference value r, is feasible in an entirely natural sense, and (c) the function $t\mapsto k(t)$ monotonically decreases to zero at a sufficiently slow rate. This result forms the basis of a simple adaptive control strategy that ensures asymptotic tracking under conditions (a) and (b).
+Keywords
+adaptive control, infinite-dimensional regular systems, input nonlinearities, integral control, saturation, robust tracking, 34D05, 93C25, 93D05, 93D09, 93D15, 93D21, 

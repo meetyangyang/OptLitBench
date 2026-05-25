@@ -1,0 +1,6 @@
+A novel algorithm using an orthotropic material model for topology optimization
+Liyong Tong;Quantian Luo;
+Abstract
+This article presents a novel algorithm for topology optimization using an orthotropic material model. Based on the virtual work principle, mathematical formulations for effective orthotropic material properties of an element containing two materials are derived. An algorithm is developed for structural topology optimization using four orthotropic material properties, instead of one density or area ratio, in each element as design variables. As an illustrative example, minimum compliance problems for linear and nonlinear structures are solved using the present algorithm in conjunction with the moving iso-surface threshold method. The present numerical results reveal that: (1) chequerboards and single-node connections are not present even without filtering; (2) final topologies do not contain large grey areas even using a unity penalty factor; and (3) the well-known numerical issues caused by low-density material when considering geometric nonlinearity are resolved by eliminating low-density elements in finite element analyses.
+Keywords
+Orthotropic material model, topology optimization, numerical stability 

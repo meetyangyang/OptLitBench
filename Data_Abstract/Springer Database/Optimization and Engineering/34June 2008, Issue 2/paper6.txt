@@ -1,0 +1,8 @@
+Gearing optimization
+Vadim V. Lozin;
+Abstract
+
+We consider an optimization problem that arises in machine-tool design. It deals with optimization of the structure of gearbox, which is normally represented by a graph. The edges of such a graph correspond to pairs of gear-wheels and the vertices stand for velocities. There is a designated input vertex and a set of output vertices. The problem is to create a graph with given number of output vertices while minimizing the total number of vertices. We present an integer programming formulation of this problem and propose an efficient solution in the special case of regular graphs.
+
+Keywords
+Gearbox optimization  Integer programming  Geometric graphs  

@@ -1,0 +1,6 @@
+A class of projection and contraction methods for monotone variational inequalities
+Bingsheng He;
+Abstract
+In this paper we introduce a new class of iterative methods for solving the monotone variational inequalities$$u* \in \Omega ,       (u - u*)^T F(u*) \geqslant 0,       \forall u \in \Omega .$$ Each iteration of the methods presented consists essentially only of the computation ofF(u), a projection to Ω,v:=P Ω[u-F(u)], and the mappingF(v). The distance of the iterates to the solution set monotonically converges to zero. Both the methods and the convergence proof are quite simple.
+Keywords
+Variational inequality  Monotone operator  Projection  Contraction  90C30  90C33  65K05  

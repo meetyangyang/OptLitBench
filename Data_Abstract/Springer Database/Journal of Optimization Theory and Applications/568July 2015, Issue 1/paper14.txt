@@ -1,0 +1,6 @@
+Split Bregman Method for Minimization of Fast Multiphase Image Segmentation Model for Inhomogeneous Images
+Yunyun Yang;Yi Zhao;Boying Wu;
+Abstract
+In this paper, we present a fast multiphase image segmentation model in a variational level set formulation. The proposed model is mainly used for images with inhomogeneity. The newly defined energy functional combines the local intensity information, the global intensity information, and the edge information to deal with the inhomogeneity. We use a weight function varying with locations to control the force of the local and global information dynamically. The special structure of the new energy functional ensures that the split Bregman method can be used for fast minimization. We apply the split Bregman method to minimize the new energy functional and summarize important results in several theorems. Theoretical evidences for these results are given. Several numerical results are also presented.
+Keywords
+Split Bregman method  Image segmentation model  Active contours  Level set method  65K10  35Q93  

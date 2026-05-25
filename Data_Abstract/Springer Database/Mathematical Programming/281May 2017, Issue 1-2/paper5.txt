@@ -1,0 +1,6 @@
+A robust and efficient method for solving point distance problems by homotopy
+Rémi Imbach;Pascal Mathis;Pascal Schreck;
+Abstract
+The goal of Point Distance Solving Problems is to find 2D or 3D placements of points knowing distances between some pairs of points. The common guideline is to solve them by a numerical iterative method (e.g. Newton–Raphson method). A sole solution is obtained whereas many exist. However the number of solutions can be exponential and methods should provide solutions close to a sketch drawn by the user. Geometric reasoning can help to simplify the underlying system of equations by changing a few equations and triangularizing it. This triangularization is a geometric construction of solutions, called construction plan. We aim at finding several solutions close to the sketch on a one-dimensional path defined by a global parameter-homotopy using a construction plan. Some numerical instabilities may be encountered due to specific geometric configurations. We address this problem by changing on-the-fly the construction plan. Numerical results show that this hybrid method is efficient and robust.
+Keywords
+Point Distance Solving Problems  Reparameterization  Curve tracking  Symbolic-numeric algorithm  68U07  65H20  51-04  

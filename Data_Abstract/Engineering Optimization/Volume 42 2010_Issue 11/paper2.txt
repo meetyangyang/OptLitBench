@@ -1,0 +1,6 @@
+Passenger train scheduling on a single-track or partially double-track railway with stochastic information
+ Lixing   Yang ; Ziyou   Gao ; Keping   Li ;
+Abstract
+ This article investigates a scheduling problem for passenger trains on a single or partially double-track railway in which the total passengers’ trip time with a penalty function is minimized. Owing to the uncertainty of the real traffic system, the number of passengers boarding (leaving) the train at each station is treated as a random variable. Three kinds of criteria are introduced to compute the total passengers’ trip time, including the expected value criterion, the pessimistic value criterion and the optimistic value criterion. A 0-1 mixed integer programming model is constructed for the problem, and a branch-and-bound algorithm is also designed to solve the model, in which two strategies are introduced to resolve the conflicts on tracks. Finally, some numerical experiments are performed to show the performance of the model and the algorithm. 
+Keywords
+train schedule, 0-1 mixed integer programming, branch-and-bound algorithm, random simulation 

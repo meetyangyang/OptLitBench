@@ -1,0 +1,6 @@
+State Constrained Feedback Stabilization
+F. H.  Clarke and R. J.  Stern;
+Abstract
+A standard finite dimensional nonlinear control system is considered, along with a state constraint set S and a target set $\Sigma$. It is proven that open loop S-constrained controllability to $\Sigma$ implies closed loop S-constrained controllability to the closed $\delta$-neighborhood of $\Sigma$, for any specified $\delta > 0$. When the S-constrained minimum time function to $\Sigma$ satisfies a local continuity condition, conclusions on closed loop S-constrained stabilizability ensue. The (necessarily discontinuous) feedback laws in question are implemented in the sample-and-hold sense and possess a robustness property with respect to state measurement errors. The feedback constructions involve the quadratic infimal convolution of a control Lyapunov function with respect to a certain modification of the original dynamics. The modified dynamics in effect provide for constraint removal, while the convolution operation provides a useful semiconcavity property.
+Keywords
+asymptotic controllability, state constraint, semiconcave control Lyapunov function, constraint removal, feedback, robustness, 93D15, 93D20, 

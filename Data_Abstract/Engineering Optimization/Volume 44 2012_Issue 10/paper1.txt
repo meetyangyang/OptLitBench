@@ -1,0 +1,6 @@
+Infill sampling criteria for surrogate-based optimization with constraint handling
+ J.   M.   Parr ; A.   J.   Keane ; A. I.J.   Forrester ; C. M.E.   Holden ;
+Abstract
+ This article discusses the benefits of different infill sampling criteria used in surrogate-based constrained global optimization. A new method which selects multiple updates based on Pareto optimal solutions is introduced showing improvements over a number of existing methods. The construction of surrogates (also known as meta-models or response surface models) involves the selection of a limited number of designs which are analysed using the original expensive functions. A typical approach involves two stages. First the surrogate is built using an initial sampling plan; the second stage updates the model using an infill sampling criterion to select further designs that offer improvement. Selecting multiple update points at each iteration, allowing distribution of the expensive function evaluations on several processors offers large potential for accelerating the overall optimization process. This article provides a comparison between different infill sampling criteria suitable for selecting multiple update points in the presence of constraints. 
+Keywords
+surrogate model, infill sampling, constrained optimization 

@@ -1,0 +1,4 @@
+A \(O(n \log ^2 n)\) Checker and \(O(n^2 \log n)\) Filtering Algorithm for the Energetic Reasoning
+Yanick Ouellet;Claude-Guy Quimper;
+Abstract
+Energetic reasoning is a strong filtering technique for the Cumulative constraint. However, the best algorithms process \(O(n^2)\) time intervals to perform the satisfiability check which makes it too costly to use in practice. We present how to apply the energetic reasoning by processing only \(O(n \log n)\) intervals. We show how to compute the energy in an interval in \(O(\log n)\) time. This allows us to propose a \(O(n \log ^2 n)\) checker and a filtering algorithm for the energetic reasoning with \(O(n^2 \log n)\) average time complexity. Experiments show that these two algorithms outperform their state of the art counterparts.

@@ -1,0 +1,6 @@
+Finite Linear Programming Approximations of Constrained Discounted Markov Decision Processes
+François  Dufour and Tomás  Prieto-Rumeau;
+Abstract
+We consider a Markov decision process (MDP) with constraints under the total expected discounted cost optimality criterion. We are interested in proposing approximation methods of the optimal value of this constrained MDP. To this end, starting from the linear programming (LP) formulation of the constrained MDP (on an infinite-dimensional space of measures), we propose a finite state approximation of this LP problem. This is achieved by suitably approximating a probability measure underlying the random transitions of the dynamics of the system. Explicit convergence orders of the approximations of the optimal constrained cost are obtained. By exploiting convexity properties of the class of relaxed controls, we reduce the LP formulation of the constrained MDP to a finite-dimensional static optimization problem that can be used to obtain explicit numerical approximations of the corresponding optimal constrained cost. A numerical application illustrates our theoretical results.
+Keywords
+constrained Markov decision processes, linear programming approach to control problems, quantization, approximation of Markov decision processes, 90C40, 90C05, 

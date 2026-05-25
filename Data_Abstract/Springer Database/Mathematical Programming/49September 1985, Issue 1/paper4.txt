@@ -1,0 +1,6 @@
+Globally convergent conjugate gradient algorithms
+David F. Shanno;
+Abstract
+The paper examines a method of implementing an angle test for determining when to restart conjugate gradient methods in a steepest descent direction. The test is based on guaranteeing that the cosine of the angle between the search direction and the negative gradient is within a constant multiple of the cosine of the angle between the Fletcher-Reeves search direction and the negative gradient. This guarantees convergence, for the Fletcher-Reeves method is known to converge. Numerical results indicate little, if anything, is lost in efficiency, and indicate gains may well be possible for large problems.
+Keywords
+Conjugate Gradient Methods  Global Convergence  

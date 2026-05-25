@@ -1,0 +1,6 @@
+Ellipsoids that contain all the solutions of a positive semi-definite linear complementarity problem
+Masakazu Kojima;Shinji Mizuno;Akiko Yoshise;
+Abstract
+This paper deals with the LCP (linear complementarity problem) with a positive semi-definite matrix. Assuming that a strictly positive feasible solution of the LCP is available, we propose ellipsoids each of which contains all the solutions of the LCP. We use such an ellipsoid for computing a lower bound and an upper bound for each coordinate of the solutions of the LCP. We can apply the lower bound to test whether a given variable is positive over the solution set of the LCP. That is, if the lower bound is positive, we know that the variable is positive over the solution set of the LCP; hence, by the complementarity condition, its complement is zero. In this case we can eliminate the variable and its complement from the LCP. We also show how we efficiently combine the ellipsoid method for computing bounds for the solution set with the path-following algorithm proposed by the authors for the LCP. If the LCP has a unique non-degenerate solution, the lower bound and the upper bound for the solution, computed at each iteration of the path-following algorithm, both converge to the solution of the LCP.
+Keywords
+Linear complementarity problem  ellipsoid  interior point algorithm  path following algorithm  

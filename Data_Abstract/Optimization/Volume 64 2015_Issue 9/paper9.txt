@@ -1,0 +1,6 @@
+Interior hybrid proximal extragradient methods for the linear monotone complementarity problem
+Mauricio R. Sicre;Benar F. Svaiter;
+Abstract
+We present new infeasible path-following methods for linear monotone complementarity problems based on Auslender, Teboulle and Ben-Tiba’s log-quadratic barrier functions. The central paths associated with these barriers are always well defined and, for those problems which have a solution, convergent to a pair of complementary solutions. Starting points in these paths are easy to compute. The theoretical iteration-complexity of these new path-following methods is derived and improved by a strategy which uses relaxed hybrid proximal-extragradient steps to control the quadratic term. Encouraging preliminary numerical experiments are presented.
+Keywords
+linear complementarity problem, interior-point methods, hybrid proximal extragradient methodsAMS Subject Classifications: 90C05, 90C25, 90C33, 90C51, 47H05 

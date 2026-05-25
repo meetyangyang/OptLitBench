@@ -1,0 +1,6 @@
+Multiple machine continuous setup lotsizing with sequence-dependent setups
+Bernardo Almada-Lobo;Diego Klabjan;Maria Antónia Carravilla;José F. Oliveira;
+Abstract
+We address the short-term production planning and scheduling problem coming from the glass container industry. A furnace melts the glass that is distributed to a set of parallel molding machines. Both furnace and machine idleness are not allowed. The resulting multi-machine multi-item continuous setup lotsizing problem with a common resource has sequence-dependent setup times and costs. Production losses are penalized in the objective function since we deal with a capital intensive industry. We present two mixed integer programming formulations for this problem, which are reduced to a network flow type problem. The two formulations are improved by adding valid inequalities that lead to good lower bounds. We rely on a Lagrangian decomposition based heuristic for generating good feasible solutions. We report computational experiments for randomly generated instances and for real-life data on the aforementioned problem, as well as on a discrete lotsizing and scheduling version.
+Keywords
+Continuous setup lotsizing  Sequence-dependent setup  Integer programming  Lagrangian decomposition  Heuristics  

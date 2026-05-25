@@ -1,0 +1,6 @@
+A partial updating algorithm for linear programs with many more variables than constraints
+ Robert A.   Bosch ; Kurt M.   Anstreicher ;
+Abstract
+ We present a modified version of Ye's potential reduction algorithm for linear programming. By using partial updating and incorporating scaling factors based on subsets of variables, we are able to solve linear programs having many more variables than constraints faster than comparable full updating algorithms. Our scheme for choosing scaling factors is motivated by certain asymptotic properties of interior point methods. 
+Keywords
+Linear programming, Interior point method, Potential reduction, partial updating, rank-one updates 

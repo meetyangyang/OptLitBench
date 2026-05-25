@@ -1,0 +1,6 @@
+Global Convergence Properties of Nonlinear Conjugate Gradient Methods with Modified Secant Condition
+Hiroshi Yabe;Masahiro Takano;
+Abstract
+Conjugate gradient methods are appealing for large scale nonlinear optimization problems. Recently, expecting the fast convergence of the methods, Dai and Liao (2001) used secant condition of quasi-Newton methods. In this paper, we make use of modified secant condition given by Zhang et al. (1999) and Zhang and Xu (2001) and propose a new conjugate gradient method following to Dai and Liao (2001). It is new features that this method takes both available gradient and function value information and achieves a high-order accuracy in approximating the second-order curvature of the objective function. The method is shown to be globally convergent under some assumptions. Numerical results are reported.
+Keywords
+unconstrained optimization  conjugate gradient method  line search  global convergence  modified secant condition  

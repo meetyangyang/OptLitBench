@@ -1,0 +1,6 @@
+Reverse accumulation and attractive fixed points
+ Bruce   Christianson ;
+Abstract
+ We apply reverse accumulation to obtain automatic gradients and error estimates of functions which include in their computation a convergent iteration of the form y= Φ(y,u), where y and u are vectors. We suggest an implementation approach which allows this to be done by a fairly routine extension of existing reverse accumulation code. We show how to re-use the computational graph for the fixed point constructor Φ so as to set explicit stopping criteria for the iterations, based on the gradient accuracy required. Our construction allows the gradient vector to be obtained to the same order of accuracy as the objective function values (which is in general the best we can hope to achieve), and the same order of computational cost (which does not explicitly depend upon the number of independent variables.) The technique can be applied to functions which contain several iterative constructions, either serially or nested 
+Keywords
+Attractive fixed points, automatic differentiation, automatic error estimates, iterative constructors, reverse accumulation, self-adapting code. 

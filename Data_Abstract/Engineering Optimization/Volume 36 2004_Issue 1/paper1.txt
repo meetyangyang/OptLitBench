@@ -1,0 +1,6 @@
+Optimum design of neural networks for a nonlinear flight control system 
+ Gyuho   Choi ; Dongwook   Choi ; Youdan   Kim ;
+Abstract
+ The architecture and weights of neural networks are optimized to design a nonlinear flight control system. To reduce the effects of uncertainties due to the modeling error and aerodynamic coefficients, a nonlinear adaptive control system based on neural networks is considered. Neural networks parameters are adjusted by using adaptive law, and the sliding mode control scheme is used to compensate for the effects of the approximation error of neural networks. Control parameters and neural network architecture are optimized to obtain better performance by using genetic algorithms. By introducing the concept of evolving subpopulations, individuals and groups are simultaneously evolved. To verify the effectiveness of the proposed method, numerical simulation is performed to optimize the neural network control system. 
+Keywords
+Optimum control, Neural networks, Genetic algorithms, Flight control system, Subpopulations evolution 

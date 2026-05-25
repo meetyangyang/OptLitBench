@@ -1,0 +1,6 @@
+Trajectory driven multidisciplinary design optimization of a sub-orbital spaceplane using non-stationary Gaussian process
+Robin Dufour;Julien de Muelenaere;Ali Elham;
+Abstract
+This paper presents the multidisciplinary optimization of an aircraft carried sub-orbital spaceplane. The optimization process focused on three disciplines: the aerodynamics, the structure and the trajectory. The optimization of the spaceplane geometry was coupled with the optimization of its trajectory. The structural weight was estimated using empirical formulas. The trajectory was optimized using a pseudo-spectral approach with an automated mesh refinement that allowed for increasing the sparsity of the Jacobian of the constraints. The aerodynamics of the spaceplane was computed using an Euler code and the results were used to create a surrogate model based on a non-stationary Gaussian process procedure that was specially developed for this study.
+Keywords
+Spaceplane multidisciplinary optimization  Optimal control  Surrogate modeling  Gaussian processes  

@@ -1,0 +1,6 @@
+An adaptive finite-element Moreau–Yosida-based solver for a non-smooth Cahn–Hilliard problem
+ M.   Hintermüller ; M.   Hinze ; M.   H.   Tber ;
+Abstract
+ An adaptive finite-element semi-smooth Newton solver for the Cahn–Hilliard model with double obstacle free energy is proposed. For this purpose, the governing system is discretized in time using a semi-implicit scheme, and the resulting time-discrete system is formulated as an optimal control problem with pointwise constraints on the control. For the numerical solution of the optimal control problem, we propose a function space-based algorithm which combines a Moreau–Yosida regularization technique for handling the control constraints with a semi-smooth Newton method for solving the optimality systems of the resulting sub-problems. Further, for the discretization in space and in connection with the proposed algorithm, an adaptive finite-element method is considered. The performance of the overall algorithm is illustrated by numerical experiments. 
+Keywords
+Cahn–Hilliard model, double obstacle free energy, Moreau–Yosida regularization technique, semi-smooth Newton method, adaptive finite elements AMS Subject Classification : 35R35, 49J15, 74S05 

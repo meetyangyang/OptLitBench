@@ -1,0 +1,6 @@
+Level bundle methods for constrained convex optimization with various oracles
+Wim van Ackooij;Welington de Oliveira;
+Abstract
+We propose restricted memory level bundle methods for minimizing constrained convex nonsmooth optimization problems whose objective and constraint functions are known through oracles (black-boxes) that might provide inexact information. Our approach is general and covers many instances of inexact oracles, such as upper, lower and on-demand accuracy oracles. We show that the proposed level bundle methods are convergent as long as the memory is restricted to at least four well chosen linearizations: two linearizations for the objective function, and two linearizations for the constraints. The proposed methods are particularly suitable for both joint chance-constrained problems and two-stage stochastic programs with risk measure constraints. The approach is assessed on realistic joint constrained energy problems, arising when dealing with robust cascaded-reservoir management.
+Keywords
+Nonsmooth optimization  Stochastic optimization  Level bundle method  Chance constrained programming  

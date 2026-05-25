@@ -1,0 +1,6 @@
+“Cone-free” primal-dual path-following and potential-reduction polynomial time interior-point methods
+Arkadi Nemirovski;Levent Tunçel;
+Abstract
+We present a framework for designing and analyzing primal-dual interior-point methods for convex optimization. We assume that a self-concordant barrier for the convex domain of interest and the Legendre transformation of the barrier are both available to us. We directly apply the theory and techniques of interior-point methods to the given good formulation of the problem (as is, without a conic reformulation) using the very usual primal central path concept and a less usual version of a dual path concept. We show that many of the advantages of the primal-dual interior-point techniques are available to us in this framework and therefore, they are not intrinsically tied to the conic reformulation and the logarithmic homogeneity of the underlying barrier function.
+Keywords
+Convex optimization  Interior-point methods  Primal-dual algorithms  Self-concordant barriers  

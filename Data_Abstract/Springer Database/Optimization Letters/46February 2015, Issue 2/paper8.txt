@@ -1,0 +1,6 @@
+Valid inequalities and lifting procedures for the shortest path problem in digraphs with negative cycles
+M. S. Ibrahim;N. Maculan;M. Minoux;
+Abstract
+In this paper, we discuss exact algorithm for the shortest elementary path problem in digraphs containing negative directed cycles. We investigate various classes of valid inequalities for the polytope of \(s-t\) elementary paths in digraphs. The problem of separation of these valid inequalities can be shown to be NP-hard, thus only solvable for small sized problems. To deal with larger problems, lifting techniques are proposed. We provide results of computational experiments to show the efficiency of lifted inequalities in reducing the integrality gap. Indeed, considering a series of difficult test examples, the integrality gap is shown to be \(100\,\%\) closed in about half of the cases within no more than ten rounds of cutting plane generation.
+Keywords
+Polytope  Digraphs  Shortest path  Valid inequality  Lifting  

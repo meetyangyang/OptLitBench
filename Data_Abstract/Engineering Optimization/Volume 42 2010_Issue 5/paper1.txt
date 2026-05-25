@@ -1,0 +1,6 @@
+Distribution replacement for improved genetic algorithm performance on a dynamic spacecraft autonomy problem
+ Howard   Tripp ; Phil   Palmer ;
+Abstract
+ This article looks at the continuous on-board optimization needed for an autonomous nanosatellite platform to perform collectively within a distributed cluster. The spacecraft needs to continuously maintain its own local behaviour (defined with orthogonal Chebyshev polynomials) using a genetic algorithm. The continual arrival of tasks and the external actions of other spacecraft mean that the problem is highly dynamic in nature. Standard genetic algorithms are based around convergence which dramatically reduces the population diversity hampering performance on both multi-modal and dynamic problems such as this. A new family of distribution replacement operators is presented which have the unique ability to explicitly (rather than probabilistically) control the population diversity in fitness (rather than genome) space. This turns out to be highly beneficial for this dynamic problem and outperforms all other existing replacement operators. This result is mirrored and explained analytically using a simplified problem and a Markov model. 
+Keywords
+genetic algorithm, dynamic problem, distribution replacement, Markov chain, spacecraft autonomy 

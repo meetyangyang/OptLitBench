@@ -1,0 +1,6 @@
+An outer-approximation algorithm for a class of mixed-integer nonlinear programs
+Marco A. Duran;Ignacio E. Grossmann;
+Abstract
+An outer-approximation algorithm is presented for solving mixed-integer nonlinear programming problems of a particular class. Linearity of the integer (or discrete) variables, and convexity of the nonlinear functions involving continuous variables are the main features in the underlying mathematical structure. Based on principles of decomposition, outer-approximation and relaxation, the proposed algorithm effectively exploits the structure of the problems, and consists of solving an alternating finite sequence of nonlinear programming subproblems and relaxed versions of a mixed-integer linear master program. Convergence and optimality properties of the algorithm are presented, as well as a general discussion on its implementation. Numerical results are reported for several example problems to illustrate the potential of the proposed algorithm for programs in the class addressed in this paper. Finally, a theoretical comparison with generalized Benders decomposition is presented on the lower bounds predicted by the relaxed master programs.
+Keywords
+Mixed-integer nonlinear programming  outer-approximation  decomposition  cutting planes  computer-aided design  

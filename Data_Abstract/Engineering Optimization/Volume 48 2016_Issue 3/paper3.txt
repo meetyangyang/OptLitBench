@@ -1,0 +1,6 @@
+Integrated scheduling of a container handling system with simultaneous loading and discharging operations
+Chen Li;Zhiqiang Lu;Xiaole Han;Yuejun Zhang;Li Wang;
+Abstract
+The integrated scheduling of container handling systems aims to optimize the coordination and overall utilization of all handling equipment, so as to minimize the makespan of a given set of container tasks. A modified disjunctive graph is proposed and a mixed 0–1 programming model is formulated. A heuristic algorithm is presented, in which the original problem is divided into two subproblems. In the first subproblem, contiguous bay crane operations are applied to obtain a good quay crane schedule. In the second subproblem, proper internal truck and yard crane schedules are generated to match the given quay crane schedule. Furthermore, a genetic algorithm based on the heuristic algorithm is developed to search for better solutions. The computational results show that the proposed algorithm can efficiently find high-quality solutions. They also indicate the effectiveness of simultaneous loading and discharging operations compared with separate ones.
+Keywords
+container terminal, scheduling, blocking, deadlock, genetic algorithm 

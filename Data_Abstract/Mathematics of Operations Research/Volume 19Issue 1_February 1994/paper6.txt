@@ -1,0 +1,6 @@
+A Polynomial Approximation Scheme for a Constrained Flow-Shop Scheduling Problem
+Leslie A. Hall;
+Abstract
+We present a polynomial approximation scheme for a two-machine flow shop scheduling problem with the additional constraint that each job has a release date, when it first becomes available for processing. This is one of the first such results for multiple-task scheduling problems; previously, the best approximation result for this problem was an algorithm guaranteed to deliver a schedule of length at most 5/3 times the optimal length. Our (1 + ε)-approximation algorithm is intuitively appealing because it is based on Johnson's algorithm, an optimization algorithm for the problem without release dates.
+Keywords
+shop scheduling approximation algorithms flow shops release dates polynomial approximation schemes 

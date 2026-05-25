@@ -1,0 +1,6 @@
+New Version of the Newton Method for Nonsmooth Equations
+H. Xu;B. M. Glover;
+Abstract
+In this paper, an inexact Newton scheme is presented which produces a sequence of iterates in which the problem functions are differentiable. It is shown that the use of the inexact Newton scheme does not reduce the convergence rate significantly. To improve the algorithm further, we use a classical finite-difference approximation technique in this context. Locally superlinear convergence results are obtained under reasonable assumptions. To globalize the algorithm, we incorporate features designed to improve convergence from an arbitrary starting point. Convergence results are presented under the condition that the generalized Jacobian of the problem function is nonsingular. Finally, implementations are discussed and numerical results are presented.
+Keywords
+Nonsmooth mappings  weak Jacobians  semismooth functions  finite-difference approximations  inexact Newton methods  global convergence  

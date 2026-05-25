@@ -1,0 +1,6 @@
+A weighted independent even factor algorithm
+Kenjiro Takazawa;
+Abstract
+An even factor in a digraph is a vertex-disjoint collection of directed cycles of even length and directed paths. An even factor is called independent if it satisfies a certain matroid constraint. The problem of finding an independent even factor of maximum size is a common generalization of the nonbipartite matching and matroid intersection problems. In this paper, we present a primal-dual algorithm for the weighted independent even factor problem in odd-cycle-symmetric weighted digraphs. Cunningham and Geelen have shown that this problem is solvable via valuated matroid intersection. Their method yields a combinatorial algorithm running in O(n 3 γ +  n 6 m) time, where n and m are the number of vertices and edges, respectively, and γ is the time for an independence test. In contrast, combining the weighted even factor and independent even factor algorithms, our algorithm works more directly and runs in O(n 4 γ + n 5) time. The algorithm is fully combinatorial, and thus provides a new dual integrality theorem which commonly extends the total dual integrality theorems for matching and matroid intersection.
+Keywords
+Independent even factor  Combinatorial algorithm  Dual integrality  Nonbipartite matching  Matroid intersection  90C27  05C70  52B40  

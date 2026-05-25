@@ -1,0 +1,6 @@
+Vertex-Disjoint Packing of Two Steiner Trees: polyhedra and branch-and-cut
+Eduardo Uchoa;Marcus Poggi de Aragão;
+Abstract
+Consider the problem of routing the electrical connections among two large terminal sets in circuit layout. A realistic model for this problem is given by the vertex-disjoint packing of two Steiner trees (2VPST), which is known to be NP-complete. This work presents an investigation on the 2VPST polyhedra. The main idea is to start from facet-defining inequalities for a vertex-weighted Steiner tree polyhedra. Some of these inequalities are proven to also define facets for the packing polyhedra, while others are lifted to derive new important families of inequalities, including proven facets. Separation algorithms are provided. Branch-and-cut implementation issues are also discussed, including some new practical techniques to improve the performance of the algorithm. The resulting code is capable of solving problems on grid graphs with up to 10000 vertices and 5000 terminals in a few minutes.
+Keywords
+Key words: Steiner tree – packing – routing – polyhedra – branch-and-cut  

@@ -1,0 +1,6 @@
+Rate-Preserving Discretization Strategies for Semi-Infinite Programming and Optimal Control
+Elijah  Polak and Limin  He;
+Abstract
+Neither semi-infinite programming nor optimal control problems can be solved without discretization, i.e., decomposition of the original problems into an infinite sequence of finite-dimensional, finitely described optimization problems. Three sets of discretization refinement rules are presented: (i) for unconstrained semi-infinite minimax problems, (ii) for constrained semi-infinite problems, and (iii) for unconstrained optimal control problems. These rules are built into a master algorithm that calls certain linearly converging algorithms for finite-dimensional, finitely described optimization problems. The discretization refinement rules ensure that the sequences constructed by the overall scheme converge to a solution of the original problem linearly, with the estimated rate constant equal to the estimated rate constant of the algorithms used to solve the finite-dimensional, finitely described approximations. Hence the resulting scheme has the potential to be more efficient than fixed discretization, a fact supported by numerical results.
+Keywords
+approximation theory, minimax, semi-infinite programming, optimal control, rate of convergence, 49K35, 49M39, 49J15, 

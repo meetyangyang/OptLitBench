@@ -1,0 +1,6 @@
+Reduced order model assisted evolutionary algorithms for multi-objective flow design optimization
+ Hongtao   Sun ; Michael   Schäfer ;
+Abstract
+ Evolutionary algorithms (EAs) have been widely used for flow design optimization problems for their well-known robustness and derivative-free property as well as their advantages in dealing with multi-objective optimization problems and providing global optimal solutions. However, EAs usually involve a large number of function evaluations that are sometimes quite time consuming. In this article a reduced order modelling technique that combines proper orthogonal decomposition and radial basis function interpolation is developed to reduce the computational cost. These models provide an efficient way to simulate the whole flow region with varied geometry parameters instead of solving partial differential equations. As a test case, the design optimization of a heat exchanger is considered. Shape variation is conducted through a free form deformation technique, which deforms the computational grid employed by the flow solver. A comparison between the optimization results when using reduced order models and the exact flow solver is presented. 
+Keywords
+reduced order model, proper orthogonal decomposition, radial basis function interpolation, genetic algorithm, flow shape optimization 

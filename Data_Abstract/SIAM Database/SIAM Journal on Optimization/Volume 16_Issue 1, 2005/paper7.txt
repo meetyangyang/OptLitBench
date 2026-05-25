@@ -1,0 +1,6 @@
+An Infeasible Bundle Method for Nonsmooth Convex Constrained Optimization without a Penalty Function or a Filter
+Claudia  Sagastizábal and Mikhail  Solodov;
+Abstract
+Global convergence in constrained optimization algorithms has traditionally been enforced by the use of parametrized penalty functions. Recently, the filter strategy has been introduced as an alternative. At least part of the motivation for using filter methods consists of avoiding the need for estimating a suitable penalty parameter, which is often a delicate task. In this paper, we demonstrate that the use of a parametrized penalty function in nonsmooth convex optimization can be avoided without using the relatively complex filter methods. We propose an approach which appears to be more direct and easier to implement, in the sense that it is closer in spirit and structure to the well-developed unconstrained bundle methods. Preliminary computational results are also reported.
+Keywords
+constrained optimization, nonsmooth convex optimization, bundle methods, 90C30, 65K05, 49D27, 

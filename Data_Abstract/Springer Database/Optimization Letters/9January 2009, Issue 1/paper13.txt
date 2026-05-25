@@ -1,0 +1,6 @@
+Note on implementing the new sphere method for LP using matrix inversions sparingly
+Katta G. Murty;Mohammad R. Oskoorouchi;
+Abstract
+A new IPM (interior point method) for LPs has been discussed in Murty (Algorithmic Oper Res 1:3–19, 2006; Tutorials in OR, INFORMS, pp 1–36, 2006) based on a centering step that attempts to maximize the radius of the inscribed sphere with center on the current objective plane, and using descent directions derived without using matrix inversions. The method is a descent method and may be called the sphere method for LP. In contrast to all the existing IPMs which involve heavy matrix inversions in each step, an advantage of the new method is that it can be implemented with no matrix inversions, or using them only sparingly. We discuss various techniques for implementing this method. These implementations offer the prospect of extending the superior performance of existing software systems for LP, to models that do not have the property of being very sparse.
+Keywords
+Linear programming (LP)  Interior point methods (IPMs)  Solving LPs without matrix inversions  Ball center of a polytope  Ball center on the objective plane  Descent directions  

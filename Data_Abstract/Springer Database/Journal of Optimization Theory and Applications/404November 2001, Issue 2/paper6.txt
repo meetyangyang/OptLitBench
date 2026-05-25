@@ -1,0 +1,6 @@
+Global Convergence Technique for the Newton Method with Periodic Hessian Evaluation
+F. Lampariello;M. Sciandrone;
+Abstract
+The problem of globalizing the Newton method when the actual Hessian matrix is not used at every iteration is considered. A stabilization technique is studied that employs a new line search strategy for ensuring the global convergence under mild assumptions. Moreover, an implementable algorithmic scheme is proposed, where the evaluation of the second derivatives is conditioned to the behavior of the algorithm during the minimization process and the local convexity properties of the objective function. This is done in order to obtain a significant computational saving, while keeping acceptable the unavoidable degradation in convergence speed. The numerical results reported indicate that the method described may be employed advantageously in all applications where the computation of the Hessian matrix is highly time consuming.
+Keywords
+Unconstrained optimization  Newton-type methods  periodic Hessian evaluation  global and superlinear convergence  computational savings  

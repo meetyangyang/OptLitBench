@@ -1,0 +1,8 @@
+A Smoothing-Type Algorithm for Solving Linear Complementarity Problems with Strong Convergence Properties
+Zheng-Hai Huang;Wei-Zhe Gu;
+Abstract
+
+In this paper, we construct an augmented system of the standard monotone linear complementarity problem (LCP), and establish the relations between the augmented system and the LCP. We present a smoothing-type algorithm for solving the augmented system. The algorithm is shown to be globally convergent without assuming any prior knowledge of feasibility/infeasibility of the problem. In particular, if the LCP has a solution, then the algorithm either generates a maximal complementary solution of the LCP or detects correctly solvability of the LCP, and in the latter case, an existing smoothing-type algorithm can be directly applied to solve the LCP without any additional assumption and it generates a maximal complementary solution of the LCP; and that if the LCP is infeasible, then the algorithm detect correctly infeasibility of the LCP. To the best of our knowledge, such properties have not appeared in the existing literature for smoothing-type algorithms.
+
+Keywords
+Linear complementarity problem  Smoothing-type algorithm  Maximal complementary solution  Global convergence  

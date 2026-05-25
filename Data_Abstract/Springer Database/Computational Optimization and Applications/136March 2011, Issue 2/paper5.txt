@@ -1,0 +1,6 @@
+Numerical experiments with an inexact Jacobian trust-region algorithm
+Andrea Walther;Lorenz T. Biegler;
+Abstract
+We present the adaptation and implementation of a composite-step trust region algorithm, developed in (Walther, SIAM J. Optim. 19(1):307–325, 2008), that incorporates the approximation of the Jacobian of the equality constraints with a specialized quasi-Newton method. The forming and/or factoring of the exact Jacobian in each optimization step is avoided. Hence, the presented approach is especially well suited for equality constrained optimization problems where the Jacobian of the constraints is dense.
+Keywords
+Equality constraint optimization  Trust region method  Inexact Jacobians  Dense Jacobians  

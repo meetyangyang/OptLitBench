@@ -1,0 +1,6 @@
+Branch and bound algorithms for the multidimensional assignment problem
+ Eduardo L.   Pasiliao ; Panos M.   Pardalos ; Leonidas S.   Pitsoulis ;
+Abstract
+ This work investigates two branch and bound algorithms based on different tree representations of the multidimensional assignment problem (MAP). The MAP may be depicted as either an index-based tree in which every level of the tree represents a different value of the first index or as a permutation-based tree that has vertices representing different permutation vectors of a feasible solution. We also look at the benefits of sorting the cost coefficients on each index tree level, performing a local search on either just the initial solution or every time we find a better solution, and attempting to use characteristics of previous good solutions through path relinking. The number of dimensions and the number of elements in each dimension will affect algorithm performance. We demonstrate the benefits and drawbacks of using different modifications to the branch and bound approach on different sizes of MAP instances. 
+Keywords
+Multidimensional assignment problem, Combinatorial optimization, Computational results 
