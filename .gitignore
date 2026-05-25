@@ -11,13 +11,10 @@ Thumbs.db
 .idea/
 .vscode/
 
-# LaTeX build artifacts
-paper/icdm2026/*.aux
-paper/icdm2026/*.bbl
-paper/icdm2026/*.blg
-paper/icdm2026/*.log
-paper/icdm2026/*.out
-paper/icdm2026/*.synctex.gz
+# Paper: local LaTeX/Overleaf sources; GitHub only hosts the release PDF
+paper/**/*
+!paper/**/
+!paper/icdm2026/OptLitBench_ICDM2026.pdf
 
 # Large optional artifacts (results can be regenerated)
 # Uncomment if you prefer a lighter clone:

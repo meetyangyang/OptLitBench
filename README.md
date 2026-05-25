@@ -23,7 +23,8 @@ OptLitBench/
 ├── config/                 # YAML experiment configs
 ├── src/                    # Python pipeline
 ├── results/                # Precomputed baseline & temporal results
-├── paper/icdm2026/         # ICDM 2026 IEEE LaTeX manuscript
+├── paper/icdm2026/         # ICDM 2026 paper PDF only (LaTeX stays local)
+├── scripts/                # Paper build + GitHub upload helpers
 ├── requirements.txt
 └── requirements-lock.txt
 ```
@@ -45,11 +46,40 @@ python -m src.run_temporal_analysis
 python -m src.match_manuscript --abstract "Your manuscript abstract here..."
 ```
 
-## Paper & Overleaf
+## Reproduce paper results
 
-- LaTeX source: `paper/icdm2026/main.tex`
-- Overleaf ZIP: `paper/icdm2026/OptLitBench_ICDM2026_overleaf.zip`
-- Import the ZIP directly into [Overleaf](https://www.overleaf.com/) (New Project → Upload Project)
+| Paper artifact | Command / location |
+|----------------|-------------------|
+| Table I, per-journal topics | `python -m src.run_baseline` → `results/baseline/` |
+| Figs 1–9, cross-journal tables | `python -m src.run_temporal_analysis` → `results/temporal/` |
+| Journal recommendation (Sec. VI) | `python -m src.match_manuscript --abstract "..."` |
+
+## Paper (local authoring vs GitHub)
+
+**On GitHub** the repository only includes the compiled PDF:
+
+- `paper/icdm2026/OptLitBench_ICDM2026.pdf`
+
+**LaTeX sources, figures, and Overleaf ZIP stay local** (ignored by `.gitignore`):
+
+- `paper/icdm2026/overleaf_package/` — edit `main.tex` here or import the generated ZIP into Overleaf
+- `paper/icdm2026/OptLitBench_ICDM2026_overleaf.zip` — created locally, not pushed
+
+Build/update the release PDF before pushing to GitHub:
+
+```powershell
+.\scripts\build_paper.ps1
+```
+
+This script syncs figures from `results/temporal/figures/`, compiles PDF when `pdflatex`/`latexmk` is available, writes `paper/icdm2026/OptLitBench_ICDM2026.pdf`, and refreshes the Overleaf ZIP. If LaTeX is not installed, compile on Overleaf and save the PDF to that path manually.
+
+Helper scripts:
+
+```powershell
+.\scripts\prepare_paper_figures.ps1   # sync figures only
+.\scripts\package_overleaf.ps1        # rebuild Overleaf ZIP only
+.\scripts\upload_to_github.ps1        # push repository (PDF + code/data)
+```
 
 ## Citation
 

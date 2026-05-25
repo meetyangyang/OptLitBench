@@ -221,6 +221,8 @@ def run_temporal_analysis(config_path: Path, project_root: Path) -> None:
         output_path=cross_dir / "journal_topic_profile_heatmap.png",
         title="Journal Topic Profiles (Global Topics)",
         config=config,
+        xlabel="Journal",
+        ylabel="Topic",
     )
 
     analysis_report = {

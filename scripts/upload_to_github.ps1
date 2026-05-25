@@ -107,7 +107,17 @@ Write-Host "[OK] Remote origin configured." -ForegroundColor Green
 
 Invoke-Git -GitArgs @("branch", "-M", "main") | Out-Null
 
-# --- Commit all changes ---
+# --- Ensure release PDF exists before upload ---
+$releasePdf = Join-Path $ProjectRoot "paper\icdm2026\OptLitBench_ICDM2026.pdf"
+if (-not (Test-Path $releasePdf)) {
+    Write-Host "[WARN] Missing paper/icdm2026/OptLitBench_ICDM2026.pdf" -ForegroundColor Yellow
+    Write-Host "       Run .\scripts\build_paper.ps1 or save your Overleaf PDF to that path." -ForegroundColor Yellow
+}
+else {
+    Write-Host "[OK] Release PDF found: paper/icdm2026/OptLitBench_ICDM2026.pdf" -ForegroundColor Green
+}
+
+# --- Commit all changes (LaTeX under paper/ is gitignored; PDF is tracked) ---
 Invoke-Git -GitArgs @("add", "-A") | Out-Null
 $statusLines = & $GitExe -C "$ProjectRoot" status --porcelain
 if ($statusLines) {

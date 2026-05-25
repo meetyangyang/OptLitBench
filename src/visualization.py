@@ -28,6 +28,8 @@ def save_topic_year_heatmap(
     output_path: Path,
     title: str,
     config: dict[str, Any],
+    xlabel: str = "Year",
+    ylabel: str = "Topic",
 ) -> None:
     _apply_style(config)
     matrix = prevalence_df.pivot(index="period", columns="topic", values="prevalence").fillna(0.0)
@@ -35,20 +37,24 @@ def save_topic_year_heatmap(
     renamed = {col: topic_labels.get(col, col) for col in matrix.columns}
     matrix = matrix.rename(columns=renamed)
 
-    height = max(4.5, 0.35 * len(matrix.index) + 2.5)
-    width = max(8.0, 0.55 * len(matrix.columns) + 3.0)
+    # matrix.T: rows=topics, cols=periods (years). Width scales with years;
+    # height follows a fixed aspect ratio so all journals render at similar size in LaTeX.
+    n_periods = len(matrix.index)
+    n_topics = len(matrix.columns)
+    width = max(5.5, 0.18 * n_periods + 2.0)
+    height = width * 0.48
     fig, ax = plt.subplots(figsize=(width, height))
     sns.heatmap(
         matrix.T,
         cmap=config["visualization"]["cmap_heatmap"],
         ax=ax,
-        cbar_kws={"label": "Normalized topic prevalence"},
+        cbar_kws={"label": "Normalized topic prevalence", "location": "bottom", "shrink": 0.55, "pad": 0.02},
         linewidths=0.2,
         linecolor="#f0f0f0",
     )
     ax.set_title(title)
-    ax.set_xlabel("Year")
-    ax.set_ylabel("Topic")
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
     fig.tight_layout()
     fig.savefig(output_path, format=config["visualization"]["fig_format"], bbox_inches="tight")
     plt.close(fig)
@@ -97,14 +103,17 @@ def save_topic_month_heatmap(
     renamed = {col: topic_labels.get(col, col) for col in matrix.columns}
     matrix = matrix.rename(columns=renamed)
 
-    height = max(5.0, 0.18 * len(matrix.index) + 3.0)
-    width = max(10.0, 0.55 * len(matrix.columns) + 3.0)
+    plot_matrix = matrix.T
+    n_periods = plot_matrix.shape[1]
+    n_topics = plot_matrix.shape[0]
+    width = max(5.5, 0.18 * n_periods + 2.0)
+    height = width * 0.48
     fig, ax = plt.subplots(figsize=(width, height))
     sns.heatmap(
-        matrix.T,
+        plot_matrix,
         cmap=config["visualization"]["cmap_heatmap"],
         ax=ax,
-        cbar_kws={"label": "Normalized topic prevalence"},
+        cbar_kws={"label": "Normalized topic prevalence", "location": "bottom", "shrink": 0.55, "pad": 0.02},
         linewidths=0.0,
     )
     ax.set_title(title)
@@ -123,17 +132,59 @@ def save_similarity_clustermap(
     metric_label: str,
 ) -> None:
     _apply_style(config)
-    size = max(8, 0.45 * len(similarity_df.index) + 2)
+    n = len(similarity_df.index)
+    size = max(9, 0.5 * n + 2.5)
+    font_size = config["visualization"]["font_size"]
+    title_fs = font_size + 2
     cg = sns.clustermap(
         similarity_df,
         cmap=config["visualization"]["cmap_similarity"],
-        figsize=(size, size),
+        figsize=(size * 1.18, size * 1.06),
         linewidths=0.4,
         annot=False,
-        cbar_kws={"label": metric_label},
+        cbar=False,
+        xticklabels=True,
+        yticklabels=True,
+        dendrogram_ratio=0.12,
     )
-    cg.fig.suptitle(title, y=1.02)
-    cg.savefig(output_path, format=config["visualization"]["fig_format"], bbox_inches="tight")
+    for ax in list(cg.fig.axes):
+        if ax in (cg.ax_heatmap, cg.ax_col_dendrogram, cg.ax_row_dendrogram):
+            continue
+        if not ax.collections and not ax.lines and not ax.images and not ax.patches:
+            ax.remove()
+    cg.ax_heatmap.set_xticklabels(
+        cg.ax_heatmap.get_xticklabels(),
+        rotation=90,
+        ha="right",
+        va="top",
+        fontsize=font_size,
+    )
+    cg.ax_heatmap.set_yticklabels(
+        cg.ax_heatmap.get_yticklabels(),
+        rotation=0,
+        ha="left",
+        va="center",
+        fontsize=font_size,
+    )
+    cg.ax_heatmap.tick_params(axis="both", labelsize=font_size, pad=2)
+    # Vertical colorbar at bottom-left, shifted right to clear the row dendrogram.
+    cbar_ax = cg.fig.add_axes([0.08, 0.045, 0.018, 0.20])
+    colorbar = cg.fig.colorbar(
+        cg.ax_heatmap.collections[0],
+        cax=cbar_ax,
+        orientation="vertical",
+    )
+    colorbar.set_label(metric_label, fontsize=font_size, labelpad=4)
+    colorbar.ax.tick_params(labelsize=font_size, length=3, pad=2)
+    cg.fig.subplots_adjust(left=0.10, right=0.80, top=0.90, bottom=0.24)
+    cg.fig.suptitle(title, y=0.98, fontsize=title_fs)
+    cg.savefig(
+        output_path,
+        format=config["visualization"]["fig_format"],
+        dpi=config["visualization"]["dpi"],
+        bbox_inches="tight",
+        pad_inches=0.14,
+    )
     plt.close(cg.fig)
 
 
@@ -181,6 +232,8 @@ def save_distinctive_heatmap(
         linewidths=0.2,
     )
     ax.set_title(title)
+    ax.set_xlabel("Journal")
+    ax.set_ylabel("Topic label")
     fig.tight_layout()
     fig.savefig(output_path, format=config["visualization"]["fig_format"], bbox_inches="tight")
     plt.close(fig)
