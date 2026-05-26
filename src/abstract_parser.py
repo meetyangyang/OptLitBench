@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from src.date_parser import parse_date_from_path
+from src.path_utils import to_repo_relative
 
 
 @dataclass(frozen=True)
@@ -38,7 +39,11 @@ def _extract_section(lines: list[str], start_label: str, end_labels: set[str]) -
     return " ".join(content_lines).strip()
 
 
-def parse_abstract_file(path: Path, journal: str) -> AbstractRecord | None:
+def parse_abstract_file(
+    path: Path,
+    journal: str,
+    repo_root: Path | None = None,
+) -> AbstractRecord | None:
     try:
         text = path.read_text(encoding="utf-8", errors="ignore")
     except OSError:
@@ -59,10 +64,11 @@ def parse_abstract_file(path: Path, journal: str) -> AbstractRecord | None:
         return None
 
     parsed_date = parse_date_from_path(str(path), journal_name=journal)
+    file_path = to_repo_relative(path, repo_root) if repo_root is not None else str(path)
 
     return AbstractRecord(
         journal=journal,
-        file_path=str(path),
+        file_path=file_path,
         title=title,
         abstract=abstract,
         year=parsed_date.year if parsed_date else None,
@@ -71,10 +77,14 @@ def parse_abstract_file(path: Path, journal: str) -> AbstractRecord | None:
     )
 
 
-def load_journal_abstracts(journal_dir: Path, journal_name: str) -> list[AbstractRecord]:
+def load_journal_abstracts(
+    journal_dir: Path,
+    journal_name: str,
+    repo_root: Path | None = None,
+) -> list[AbstractRecord]:
     records: list[AbstractRecord] = []
     for path in sorted(journal_dir.rglob("*.txt")):
-        record = parse_abstract_file(path, journal_name)
+        record = parse_abstract_file(path, journal_name, repo_root=repo_root)
         if record is not None:
             records.append(record)
     return records

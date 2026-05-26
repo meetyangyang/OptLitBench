@@ -12,7 +12,7 @@ param(
 $ErrorActionPreference = "Stop"
 $ProjectRoot = Split-Path -Parent $PSScriptRoot
 if (-not (Test-Path (Join-Path $ProjectRoot "README.md"))) {
-    $ProjectRoot = "e:\GITHUB\topic analysis with NMF"
+    throw "Cannot locate repository root from $PSScriptRoot"
 }
 
 $GitExe = "C:\Program Files\Git\bin\git.exe"

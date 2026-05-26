@@ -49,7 +49,7 @@ def refit_global_model(project_root: Path, config: dict) -> tuple[TfidfVectorize
     journals = discover_journals(data_dir, config["journals"]["database_journals"])
     records = []
     for journal in journals:
-        records.extend(load_journal_abstracts(journal.path, journal.name))
+        records.extend(load_journal_abstracts(journal.path, journal.name, repo_root=project_root))
 
     df = pd.DataFrame({"abstract": [r.abstract for r in records], "file_path": [r.file_path for r in records]})
     vectorizer = build_vectorizer(config)

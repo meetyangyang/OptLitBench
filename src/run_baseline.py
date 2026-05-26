@@ -11,6 +11,7 @@ import yaml
 from src.abstract_parser import load_journal_abstracts
 from src.journal_registry import discover_journals, safe_journal_slug
 from src.nmf_topic_model import fit_nmf_topics, format_topic_summary
+from src.path_utils import to_repo_relative
 
 
 def load_config(config_path: Path) -> dict[str, Any]:
@@ -32,8 +33,8 @@ def run_baseline(config_path: Path, project_root: Path) -> pd.DataFrame:
     summary_rows: list[dict[str, Any]] = []
     run_meta = {
         "run_at_utc": datetime.now(timezone.utc).isoformat(),
-        "config_path": str(config_path),
-        "project_root": str(project_root),
+        "config_path": to_repo_relative(config_path, project_root),
+        "project_root": ".",
         "journal_count": len(journals),
     }
     (results_root / "run_metadata.json").write_text(
@@ -43,7 +44,7 @@ def run_baseline(config_path: Path, project_root: Path) -> pd.DataFrame:
 
     for journal in journals:
         print(f"[INFO] Processing journal: {journal.name}")
-        records = load_journal_abstracts(journal.path, journal.name)
+        records = load_journal_abstracts(journal.path, journal.name, repo_root=project_root)
         n_docs = len(records)
 
         journal_slug = safe_journal_slug(journal.name)
@@ -60,7 +61,7 @@ def run_baseline(config_path: Path, project_root: Path) -> pd.DataFrame:
                     "n_topics": None,
                     "n_vocabulary": None,
                     "reconstruction_error": None,
-                    "result_dir": str(journal_result_dir),
+                    "result_dir": journal_result_dir.relative_to(project_root).as_posix(),
                 }
             )
             print(f"[WARN] Skipped {journal.name}: only {n_docs} documents")
@@ -79,7 +80,7 @@ def run_baseline(config_path: Path, project_root: Path) -> pd.DataFrame:
                     "n_topics": None,
                     "n_vocabulary": None,
                     "reconstruction_error": None,
-                    "result_dir": str(journal_result_dir),
+                    "result_dir": journal_result_dir.relative_to(project_root).as_posix(),
                     "error": str(exc),
                 }
             )
@@ -96,7 +97,7 @@ def run_baseline(config_path: Path, project_root: Path) -> pd.DataFrame:
                     "n_topics": fit_result["n_topics"],
                     "n_vocabulary": fit_result["n_vocabulary"],
                     "reconstruction_error": fit_result["reconstruction_error"],
-                    "result_dir": str(journal_result_dir),
+                    "result_dir": journal_result_dir.relative_to(project_root).as_posix(),
                 }
             )
             print(
@@ -148,7 +149,7 @@ def run_baseline(config_path: Path, project_root: Path) -> pd.DataFrame:
                 "n_topics": metrics["n_topics"],
                 "n_vocabulary": metrics["n_vocabulary"],
                 "reconstruction_error": metrics["reconstruction_error"],
-                "result_dir": str(journal_result_dir),
+                "result_dir": journal_result_dir.relative_to(project_root).as_posix(),
             }
         )
         print(

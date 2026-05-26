@@ -67,7 +67,7 @@ def run_temporal_analysis(config_path: Path, project_root: Path) -> None:
     journal_manifest: list[dict[str, Any]] = []
 
     for journal in journals:
-        records = load_journal_abstracts(journal.path, journal.name)
+        records = load_journal_abstracts(journal.path, journal.name, repo_root=project_root)
         all_records.extend(records)
         journal_slug = safe_journal_slug(journal.name)
         doc_topics = pd.read_csv(baseline_dir / journal_slug / "document_topic_weights.csv")

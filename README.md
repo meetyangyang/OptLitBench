@@ -19,7 +19,7 @@ OptLitBench provides:
 
 ```
 OptLitBench/
-├── Data_Abstract/          # OptLitBench corpus (37,664 abstracts)
+├── Data_Abstract/          # OptLitBench corpus (see DATA_README.md)
 ├── config/                 # YAML experiment configs
 ├── src/                    # Python pipeline
 ├── results/                # Precomputed baseline & temporal results
@@ -78,6 +78,7 @@ Helper scripts:
 ```powershell
 .\scripts\prepare_paper_figures.ps1   # sync figures only
 .\scripts\package_overleaf.ps1        # rebuild Overleaf ZIP only
+.\scripts\sanitize_result_paths.py    # rewrite absolute paths in results/*.csv
 .\scripts\upload_to_github.ps1        # push repository (PDF + code/data)
 ```
 
@@ -97,7 +98,12 @@ If you use OptLitBench, please cite:
 
 ## License
 
-Academic research use. Abstract texts remain subject to original publisher terms.
+- **Code** (Python pipeline, scripts, configs): [MIT License](LICENSE)
+- **Data** (`Data_Abstract/` abstracts): see [DATA_README.md](DATA_README.md) — research/benchmark use only; publisher terms still apply
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for vulnerability reporting and dependency audit guidance.
 
 ## Contact
 
